@@ -1,0 +1,59 @@
+name: Auto Commit
+
+# Permissions for the workflow
+permissions:
+  contents: write
+
+# Control when the workflow runs
+on:
+  # Trigger on push or pull request to the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Run automatically every hour
+  schedule:
+    - cron: '0 23 * * *' 
+
+  # Allow manual run from the Actions tab
+  workflow_dispatch:
+
+# The workflow contains one or more jobs
+jobs:
+  auto-commit:
+    # Runs on the latest Ubuntu runner
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+
+      # Set timezone to Asia/Jakarta
+      - name: Set timezone to Asia/Jakarta
+        run: |
+          sudo timedatectl set-timezone Asia/Jakarta
+
+      # Update README.md with current timestamp
+      - name: Update README with timestamp
+        run: |
+          echo "# Auto Commit Log" > README.md
+          echo "" >> README.md
+          echo "Last updated: $(date '+%A, %d-%m-%Y %H:%M') WIB" >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          echo "This repository is automatically updated using GitHub Actions." >> README.md
+
+      # Commit and push changes
+      - name: Commit and push changes
+        run: |
+          git config user.name 'zertcihuyy'
+          git config user.email 'zertt.idn@gmail.com'
+          git add README.md
+          git commit -m "Auto update: $(date '+%A, %d-%m-%Y %H:%M')" || echo "No changes to commit"
+          git push
