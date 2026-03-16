@@ -14,7 +14,7 @@ on:
 
   # Run automatically every hour
   schedule:
-    - cron: '0 5 * * *' 
+    - cron: '0 20 * * *' 
 
   # Allow manual run from the Actions tab
   workflow_dispatch:
