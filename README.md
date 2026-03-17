@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 17/3/2026, 20.50.19 WIB
+**Sync Terakhir:** 17/3/2026, 22.03.16 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ASW] Maou no Musume wa Yasashi Sugiru!! - 12 [1080p... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-maou-no-musume-wa-yasashi-sugiru-12.n2087175) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E2AK4V4FLKINX3RUOXOWF46WFF363MGK) |
-| [ChuySub] Majokko Megu-chan - Episode 39 | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-39.n2087172) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IN5A2JHJOZFPSLR4C7QFC62LZNQF6MGB) |
-| [ToonsHub] The Demon Kings Daughter is Too Kind S01E... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-demon-kings-daughter-too-kind-s01e12-1080p.n2087170) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HXZQSYHL2BYK45MMRBK2OV7JU5YJEZNU) |
-| [Yameii] Tune In to the Midnight Heart - S01E09 [Eng... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tune-midnight-heart-s01e09-english-dub-cr.n2087165) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DIQ3UJP4KRFRAR7KZ6LE2O37667PKAC2) |
-| [Yameii] Tune In to the Midnight Heart - S01E09 [Eng... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tune-midnight-heart-s01e09-english-dub-cr.n2087164) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7TJLEDJ3JWENV3UNJWK2C3JO3C2IPYGB) |
-| Tune In to the Midnight Heart S01E09 1080p CR WEB-DL... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/tune-midnight-heart-s01e09-1080p-cr-web-dl.n2087163) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4IEE4OCWYJZPWYPT3UR73A57LZLK4FN6) |
-| The Demon Kings Daughter is Too Kind S01E12 1080p CR... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/demon-kings-daughter-too-kind-s01e12-1080p-cr.n2087162) <br><br> [🐱 Nyaa](https://nyaa.si/?q=H4X6J53IC65TBJ3XZQOL3JDZV4RQVWKF) |
-| [SubsPlease] Maou no Musume wa Yasashi Sugiru!! - 12... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-maou-no-musume-wa-yasashi-sugiru-12.n2087158) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5P4FH4IIJ4WJQ244WCPFJSFB42DUIMRO) |
-| [ToonsHub] Tune In to the Midnight Heart S01E09 1080... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-tune-midnight-heart-s01e09-1080p-cr-web.n2087156) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4PMWVDONMO6OFKGDIZKCQVO6HKM7SF73) |
-| [SubsPlease] Maou no Musume wa Yasashi Sugiru!! - 12... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-maou-no-musume-wa-yasashi-sugiru-12.n2087155) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YJRUCSSHGRBQU62FBKMGB6ER7EIWJ72L) |
+| [Salchow] Medalist - S02E07 [WEB 1080p x264 AAC] | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/salchow-medalist-s02e07-web-1080p-x264-aac.n2087218) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SU2X6XQAHX6AOWO7C6HCGWA2ITFX6MA2) |
+| [Onalrie] Mayonaka Heart Tune - S01E11 [1080p WEBRip... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-mayonaka-heart-tune-s01e11-1080p-webrip-av1-mkv.2067622) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MWOCE7ATI7BZ3JTEWDBSMJMQA3ICBBWN) |
+| [PMR] Fate Grand Order the Movie Divine Realm of the... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/pmr-fate-grand-order-movie-divine-realm-round.n2087215) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WADLRES32U23J2TFVANAZBAKIYRDRJU3) |
+| [Ironclad] The Demon King's Daughter Is Too Kind!! -... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-demon-kings-daughter-too-kind-s01e12-web.k9745663934735) <br><br> [🐱 Nyaa](https://nyaa.si/?q=INAXCZ6WASVDW4QEL2BLZLO6BMNXBQVY) |
+| [ASW] Mayonaka Heart Tune - 11 [1080p HEVC x265 10Bi... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-mayonaka-heart-tune-11-1080p-hevc-x265-10bit-aac.n2087211) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W4TKAR7SH34OWE7AANBLZ4SU6CPNW6G6) |
+| [SubsPlease] Isekai no Sata wa Shachiku Shidai - 11 ... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-isekai-no-sata-wa-shachiku-shidai-11.n2087210) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VODIGHPAQITWQNKBY4UWZMOLCJUS4SXL) |
+| [ToonsHub] Isekai Office Worker The Other Worlds Boo... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-isekai-office-worker-other-worlds-books-depend.k9745489901326) <br><br> [🐱 Nyaa](https://nyaa.si/?q=435RP23SIHADE2GXFKNPDINNP4BZCUF5) |
+| Isekai Office Worker The Other Worlds Books Depend o... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/isekai-office-worker-other-worlds-books-depend-bean.n2087208) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JIOOWXFE6FVYUWWA72PUK62CYFQL46JX) |
+| [SubsPlease] Isekai no Sata wa Shachiku Shidai - 11 ... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-isekai-no-sata-wa-shachiku-shidai-11.n2087206) <br><br> [🐱 Nyaa](https://nyaa.si/?q=P7AYMODUXAJ3ACLCTORCQRRJNCABOJX2) |
+| [Erai-raws] Isekai no Sata wa Shachiku Shidai - 11 [... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-no-sata-wa-shachiku-shidai.n2087205) <br><br> [🐱 Nyaa](https://nyaa.si/?q=F4OEIADZDA4DYD2AFEJ24RJNOX536UXW) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
