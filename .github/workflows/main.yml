@@ -1,4 +1,4 @@
-name: Auto Update Anime Info
+name: Auto Update Anime & Torrent Info
 
 permissions:
   contents: write
@@ -7,7 +7,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    # */30 artinya berjalan setiap kelipatan 30 menit (menit ke-0 dan menit ke-30)
+    # Berjalan setiap 30 menit (48x sehari)
     - cron: '*/30 * * * *' 
   workflow_dispatch:
 
@@ -22,18 +22,54 @@ jobs:
       - name: Set timezone to Asia/Jakarta
         run: sudo timedatectl set-timezone Asia/Jakarta
 
-      - name: Fetch Anime Season Info
+      - name: Fetch Anime & Torrent Data
         run: |
-          # Mengambil data seasonal anime (limit 10)
-          curl -s -f "https://api.jikan.moe/v4/seasons/now?limit=10" -o anime_temp.json
-          if [ -s anime_temp.json ]; then
-            mv anime_temp.json anime_update.json
-          else
-            echo "API Jikan sedang sibuk, skip update 30 menit ini."
-          fi
+          # 1. Ambil Data Seasonal dari Jikan
+          curl -s -f "https://api.jikan.moe/v4/seasons/now?limit=5" -o seasonal.json
+          
+          # 2. Ambil Data Torrent Terbaru dari Animetosho (JSON API)
+          # Kita ambil 10 rilisan terbaru
+          curl -s -f "https://animetosho.org/api/feed?type=search&filter%5B0%5D%5Bt%5D=term&filter%5B0%5D%5Bv%5D=1080p" -o torrents.json
+          
+          # Menggabungkan data sederhana ke json utama
+          echo "{\"last_sync\": \"$(date)\", \"seasonal\": $(cat seasonal.json), \"torrents\": $(cat torrents.json)}" > anime_update.json
 
-      - name: Update README with Anime List
+      - name: Update README with Anime & Torrent Links
         run: |
+          echo "# 🎬 Ultimate Seasonal & Torrent Tracker" > README.md
+          echo "" >> README.md
+          echo "Sync Terakhir: $(date '+%A, %d-%m-%Y %H:%M') WIB" >> README.md
+          echo "" >> README.md
+          
+          echo "### 🌟 Sedang Tayang (Seasonal):" >> README.md
+          grep -oP '"title":"\K[^"]+' seasonal.json | head -n 5 | sed 's/^/- /' >> README.md
+          echo "" >> README.md
+          
+          echo "### 📥 Rilisan Terbaru (Animetosho 1080p):" >> README.md
+          echo "| Judul File | Link |" >> README.md
+          echo "| --- | --- |" >> README.md
+          
+          # Script ajaib untuk ambil judul dan link torrent dari json Animetosho
+          # Menggunakan filter sederhana untuk mengambil nama file dan magnet link
+          grep -oP '"title":"\K[^"]+' torrents.json | head -n 8 > titles.txt
+          grep -oP '"link":"\K[^"]+' torrents.json | head -n 8 > links.txt
+          
+          paste -d "|" titles.txt links.txt | while IFS="|" read -r title link; do
+            echo "| $title | [Download]($link) |" >> README.md
+          done
+          
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "✨ *Automated by Zert-kun's System (Every 30 Mins)*" >> README.md
+          echo "Sources: Jikan API & Animetosho" >> README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name 'zertcihuyy'
+          git config user.email 'zertt.idn@gmail.com'
+          git add anime_update.json README.md
+          git commit -m "Zert-Bot Update: Anime & Torrent List $(date '+%H:%M') WIB" || echo "No changes detected"
+          git push
           echo "# 🎬 Seasonal Anime Tracker" > README.md
           echo "" >> README.md
           echo "Last Sync: $(date '+%A, %d-%m-%Y %H:%M') WIB" >> README.md
