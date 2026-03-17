@@ -1,20 +1,33 @@
-# 🎬 Seasonal Anime Tracker
+# 🎬 Ultimate Anime & Torrent Tracker
 
-Last Sync: Tuesday, 17-03-2026 20:29 WIB
+**Sync Terakhir:** 17/3/2026, 20.34.28 WIB
 
-### 🌟 Top 10 Anime Ongoing:
+### 🌟 Sedang Tayang (Top Ongoing)
 
-- Sousou no Frieren 2nd Season
-- Frieren at the Funeral Season 2
-- \u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3 \u7b2c2\u671f
-- Frieren: Beyond Journey's End Season 2
-- Sousou no Frieren 2nd Season
-- Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen
-- Jujutsu Kaisen 3rd Season
-- \u546a\u8853\u5efb\u6226 \u300c\u6b7b\u6ec5\u56de\u6e38 \u524d\u7de8\u300d
-- Jujutsu Kaisen: The Culling Game Part 1
-- Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen
+| Poster | Info Anime |
+| :---: | --- |
+| <img src="https://myanimelist.net/images/anime/1921/154528.jpg" width="110" style="border-radius: 8px;"> | **[Sousou no Frieren 2nd Season](https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season)**<br>⭐ Score: 9.15<br>📺 Eps: 10 |
+| <img src="https://myanimelist.net/images/anime/1659/154920.jpg" width="110" style="border-radius: 8px;"> | **[Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen](https://myanimelist.net/anime/57658/Jujutsu_Kaisen__Shimetsu_Kaiyuu_-_Zenpen)**<br>⭐ Score: 8.59<br>📺 Eps: 12 |
+| <img src="https://myanimelist.net/images/anime/1772/154456.jpg" width="110" style="border-radius: 8px;"> | **[Jigokuraku 2nd Season](https://myanimelist.net/anime/55825/Jigokuraku_2nd_Season)**<br>⭐ Score: 8.24<br>📺 Eps: 12 |
+| <img src="https://myanimelist.net/images/anime/1062/151911.jpg" width="110" style="border-radius: 8px;"> | **[Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://myanimelist.net/anime/56009/Yuusha-kei_ni_Shosu__Choubatsu_Yuusha_9004-tai_Keimu_Kiroku)**<br>⭐ Score: 8.15<br>📺 Eps: 12 |
+| <img src="https://myanimelist.net/images/anime/1979/153329.jpg" width="110" style="border-radius: 8px;"> | **[[Oshi no Ko] 3rd Season](https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season)**<br>⭐ Score: 8.6<br>📺 Eps: 11 |
+| <img src="https://myanimelist.net/images/anime/1508/152472.jpg" width="110" style="border-radius: 8px;"> | **[Enen no Shouboutai: San no Shou Part 2](https://myanimelist.net/anime/59229/Enen_no_Shouboutai__San_no_Shou_Part_2)**<br>⭐ Score: 8.05<br>📺 Eps: 13 |
+
+### 📥 Rilisan Terbaru (Animetosho 1080p)
+
+| Judul File | Size | Tanggal | Download |
+| --- | :---: | :---: | :---: |
+| [Yameii] Tune In to the Midnight Heart - S01E09 [English ... | NaN MB | 17/3/2026, | [🧲 Magnet](magnet:?xt=urn:btih:DIQ3UJP4KRFRAR7KZ6LE2O37667PKAC2&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=%5BYameii%5D%20Tune%20In%20to%20the%20Midnight%20Heart%20-%20S01E09%20%5BEnglish%20Dub%5D%20%5BCR%20WEB-DL%201080p%20H264%20AAC%5D%20%5B8D721910%5D%20%28Mayonaka%20Heart%20Tune%29) |
+| [Yameii] Tune In to the Midnight Heart - S01E09 [English ... | NaN MB | 17/3/2026, | [🧲 Magnet](magnet:?xt=urn:btih:7TJLEDJ3JWENV3UNJWK2C3JO3C2IPYGB&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=%5BYameii%5D%20Tune%20In%20to%20the%20Midnight%20Heart%20-%20S01E09%20%5BEnglish%20Dub%5D%20%5BCR%20WEB-DL%20720p%20H264%20AAC%5D%20%5B1BE06E39%5D%20%28Mayonaka%20Heart%20Tune%29) |
+| Tune In to the Midnight Heart S01E09 1080p CR WEB-DL DUAL... | NaN MB | 17/3/2026, | [🧲 Magnet](magnet:?xt=urn:btih:4IEE4OCWYJZPWYPT3UR73A57LZLK4FN6&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=Tune%20In%20to%20the%20Midnight%20Heart%20S01E09%201080p%20CR%20WEB-DL%20DUAL%20AAC2.0%20H%20264-VARYG%20%28Mayonaka%20Heart%20Tune%2C%20Dual-Audio%2C%20Multi-Subs%29) |
+| The Demon Kings Daughter is Too Kind S01E12 1080p CR WEB-... | NaN MB | 17/3/2026, | [🧲 Magnet](magnet:?xt=urn:btih:H4X6J53IC65TBJ3XZQOL3JDZV4RQVWKF&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=The%20Demon%20Kings%20Daughter%20is%20Too%20Kind%20S01E12%201080p%20CR%20WEB-DL%20AAC2.0%20H%20264-VARYG%20%28Maou%20no%20Musume%20wa%20Yasashi%20Sugiru%21%21%2C%20Multi-Subs%29) |
+| [SubsPlease] Maou no Musume wa Yasashi Sugiru!! - 12 (108... | NaN MB | 17/3/2026, | [🧲 Magnet](magnet:?xt=urn:btih:5P4FH4IIJ4WJQ244WCPFJSFB42DUIMRO&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BSubsPlease%5D%20Maou%20no%20Musume%20wa%20Yasashi%20Sugiru%21%21%20-%2012%20%281080p%29%20%5B971EB257%5D.mkv) |
+| [ToonsHub] Tune In to the Midnight Heart S01E09 1080p CR ... | NaN MB | 17/3/2026, | [🧲 Magnet](magnet:?xt=urn:btih:4PMWVDONMO6OFKGDIZKCQVO6HKM7SF73&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BToonsHub%5D%20Tune%20In%20to%20the%20Midnight%20Heart%20S01E09%201080p%20CR%20WEB-DL%20DUAL%20AAC2.0%20H.264%20%28Mayonaka%20Heart%20Tune%2C%20Dual-Audio%2C%20Multi-Subs%29) |
+| [SubsPlease] Maou no Musume wa Yasashi Sugiru!! - 12 (720... | NaN MB | 17/3/2026, | [🧲 Magnet](magnet:?xt=urn:btih:YJRUCSSHGRBQU62FBKMGB6ER7EIWJ72L&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BSubsPlease%5D%20Maou%20no%20Musume%20wa%20Yasashi%20Sugiru%21%21%20-%2012%20%28720p%29%20%5BF0812114%5D.mkv) |
+| [Erai-raws] Maou no Musume wa Yasashisugiru - 12 [480p CR... | NaN MB | 17/3/2026, | [🧲 Magnet](magnet:?xt=urn:btih:PFIPH26XB3VVGXIWMJMR5O4NNO35T5YZ&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&dn=%5BErai-raws%5D%20Maou%20no%20Musume%20wa%20Yasashisugiru%20-%2012%20%5B480p%20CR%20WEB-DL%20AVC%20AAC%5D%5BMultiSub%5D%5B4C7E5DAC%5D) |
+| [SubsPlease] Maou no Musume wa Yasashi Sugiru!! - 12 (480... | NaN MB | 17/3/2026, | [🧲 Magnet](magnet:?xt=urn:btih:IZOFJPALXN77GAYLBBRM2FQP6L4JMH2E&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BSubsPlease%5D%20Maou%20no%20Musume%20wa%20Yasashi%20Sugiru%21%21%20-%2012%20%28480p%29%20%5BBE0CE8D9%5D.mkv) |
+| [Erai-raws] Maou no Musume wa Yasashisugiru - 12 [720p CR... | NaN MB | 17/3/2026, | [🧲 Magnet](magnet:?xt=urn:btih:JWC3OS5HXH2H5WQWMNJZ3JZPEN6Y6BU2&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&dn=%5BErai-raws%5D%20Maou%20no%20Musume%20wa%20Yasashisugiru%20-%2012%20%5B720p%20CR%20WEB-DL%20AVC%20AAC%5D%5BMultiSub%5D%5B2F6993FB%5D) |
 
 ---
-✨ *Updated automatically every 30 minutes (48 times/day) using GitHub Actions.*
-Data source: [Jikan API](https://jikan.moe/)
+✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
+Data Sources: [Jikan API](https://jikan.moe/) & [Animetosho](https://animetosho.org/)
