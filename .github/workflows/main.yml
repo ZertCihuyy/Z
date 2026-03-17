@@ -1,15 +1,17 @@
-name: AnimeTosho Issue Search Bot
+name: Auto Update Anime & Torrent Info
 
 permissions:
-  issues: write    # Izin untuk membalas issue
-  contents: write  # Izin untuk nge-push file JSON
+  contents: write
 
 on:
-  issues:
-    types: [opened] # Trigger HANYA 1 kali saat issue BARU dibuka
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 * * * *' 
+  workflow_dispatch:
 
 jobs:
-  search-and-reply:
+  update-anime:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,95 +21,93 @@ jobs:
       - name: Set timezone to Asia/Jakarta
         run: sudo timedatectl set-timezone Asia/Jakarta
 
-      - name: Fetch Data, Reply Issue, & Save JSON
-        uses: actions/github-script@v7
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
-          script: |
-            const fs = require('fs');
-            const issueTitle = context.payload.issue.title; // Menggunakan judul issue sebagai keyword
-            const issueNumber = context.payload.issue.number;
-            const issueUser = context.payload.issue.user.login;
-            
-            console.log(`Mencari anime untuk query: ${issueTitle}`);
-            
-            // 1. Fetch data dari Animetosho berdasarkan judul issue
-            const query = encodeURIComponent(issueTitle);
-            const toshoRes = await fetch(`https://feed.animetosho.org/json?q=${query}`);
-            const toshoData = await toshoRes.json();
-            
-            // 2. Format balasan komentar
-            let replyBody = `Yosh, halo @${issueUser}! 👋\nIni hasil pencarian dari AnimeTosho untuk keyword **"${issueTitle}"**:\n\n`;
-            let resultsList = [];
-            
-            if (toshoData && toshoData.length > 0) {
-              // Ambil maksimal 5 hasil teratas agar issue tidak terlalu panjang
-              toshoData.slice(0, 5).forEach(t => {
+          node-version: '20'
+
+      - name: Fetch, Parse & Generate Data (Node.js)
+        run: |
+          cat << 'EOF' > generate.js
+          const fs = require('fs');
+
+          async function main() {
+            try {
+              // 1. Ambil Data Anime Ongoing dari Jikan API
+              const jikanRes = await fetch("https://api.jikan.moe/v4/seasons/now?limit=6");
+              const jikanData = await jikanRes.json();
+              const animes = jikanData.data.map(a => ({
+                title: a.title,
+                image: a.images.jpg.image_url,
+                score: a.score,
+                episodes: a.episodes,
+                url: a.url
+              }));
+
+              // 2. Ambil Data Rilisan Terbaru dari Animetosho (JSON Feed 1080p)
+              const toshoRes = await fetch("https://feed.animetosho.org/json?filter[0][t]=term&filter[0][v]=1080p");
+              const toshoData = await toshoRes.json();
+              const torrents = toshoData.slice(0, 10).map(t => {
+                // Ekstrak Info Hash dari Magnet URI untuk bikin link Nyaa
                 const hashMatch = t.magnet_uri.match(/btih:([a-zA-Z0-9]+)/i);
                 const hash = hashMatch ? hashMatch[1] : '';
-                const nyaaUrl = hash ? `https://nyaa.si/?q=${hash}` : `https://nyaa.si/?q=${encodeURIComponent(t.title)}`;
-                const sizeMB = (t.size / 1024 / 1024).toFixed(2) + " MB";
                 
-                replyBody += `- **${t.title}**\n  📦 ${sizeMB} | [🌐 Tosho](${t.link}) | [🐱 Nyaa](${nyaaUrl})\n\n`;
-                
-                resultsList.push({
+                return {
                   title: t.title,
-                  size: sizeMB,
-                  link_tosho: t.link,
-                  magnet: t.magnet_uri
-                });
+                  link: t.link, // Link HTTP Animetosho
+                  magnet: t.magnet_uri,
+                  hash: hash, // Hash torrent mentah
+                  nyaaUrl: hash ? `https://nyaa.si/?q=${hash}` : `https://nyaa.si/?q=${encodeURIComponent(t.title)}`,
+                  size: (t.size / 1024 / 1024).toFixed(2) + " MB",
+                  date: new Date(t.timestamp * 1000).toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' })
+                };
               });
-            } else {
-              replyBody += "Gomenne, sepertinya data tidak ditemukan. 😢\n\n";
-            }
-            
-            replyBody += `---\n_⚡ Bot auto-reply by zerty_. Bot hanya membalas 1 kali saat issue ini dibuka. Jika ingin mencari judul lain, silakan buka issue baru ya!_`;
-            
-            // 3. Post komentar otomatis ke dalam issue
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: issueNumber,
-              body: replyBody
-            });
-            
-            // 4. Update file JSON untuk riwayat pencarian
-            const historyFile = 'anime_search_history.json';
-            let historyData = [];
-            
-            if (fs.existsSync(historyFile)) {
-              historyData = JSON.parse(fs.readFileSync(historyFile, 'utf8'));
-            }
-            
-            historyData.push({
-              issue_number: issueNumber,
-              query: issueTitle,
-              requested_by: issueUser,
-              timestamp: new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' }) + " WIB",
-              results: resultsList
-            });
-            
-            // Simpan format JSON dengan rapi
-            fs.writeFileSync(historyFile, JSON.stringify(historyData, null, 2));
 
-      - name: Commit and Push JSON
+              // 3. Simpan raw data ke JSON
+              const resultJson = {
+                last_update: new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' }) + " WIB",
+                ongoing_anime: animes,
+                latest_releases: torrents
+              };
+              fs.writeFileSync('anime_update.json', JSON.stringify(resultJson, null, 2));
+
+              // 4. Bangun README.md
+              let readme = `# 🎬 Ultimate Anime & Torrent Tracker\n\n`;
+              readme += `**Sync Terakhir:** ${resultJson.last_update}\n\n`;
+
+              readme += `### 🌟 Sedang Tayang (Top Ongoing)\n\n`;
+              readme += `| Poster | Info Anime |\n| :---: | --- |\n`;
+              animes.forEach(a => {
+                readme += `| <img src="${a.image}" width="110" style="border-radius: 8px;"> | **[${a.title}](${a.url})**<br>⭐ Score: ${a.score || 'N/A'}<br>📺 Eps: ${a.episodes || 'Ongoing'} |\n`;
+              });
+
+              readme += `\n### 📥 Rilisan Terbaru (1080p)\n\n`;
+              readme += `| Judul File | Size | Tanggal | Download Links |\n| --- | :---: | :---: | :---: |\n`;
+              torrents.forEach(t => {
+                const shortTitle = t.title.length > 55 ? t.title.substring(0, 52) + "..." : t.title;
+                // Buat 2 link HTTP yang aman di klik dari GitHub: Tosho & Nyaa
+                readme += `| ${shortTitle} | ${t.size} | ${t.date.split(' ')[0]} | [🌐 Tosho](${t.link}) <br><br> [🐱 Nyaa](${t.nyaaUrl}) |\n`;
+              });
+
+              readme += `\n---\n✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*\n`;
+              readme += `Data Sources: [Jikan API](https://jikan.moe/) & [Animetosho](https://animetosho.org/)\n`;
+
+              fs.writeFileSync('README.md', readme);
+              console.log("Berhasil meracik JSON dan README dengan link klik-able!");
+            } catch (err) {
+              console.error("Waduh, gagal fetch data:", err);
+              process.exit(1);
+            }
+          }
+          main();
+          EOF
+          
+          node generate.js
+
+      - name: Commit and push changes
         run: |
           git config user.name 'zertcihuyy'
           git config user.email 'zertt.idn@gmail.com'
-          git add anime_search_history.json
-          git commit -m "Auto Update: Simpan history pencarian issue #${{ github.event.issue.number }} ke JSON" || echo "No changes to commit"
-          git push
-              timestamp: new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' }) + " WIB",
-              results: resultsList
-            });
-            
-            // Simpan format JSON dengan rapi
-            fs.writeFileSync(historyFile, JSON.stringify(historyData, null, 2));
-
-      - name: Commit and Push JSON
-        run: |
-          git config user.name 'zertcihuyy'
-          git config user.email 'zertt.idn@gmail.com'
-          git add anime_search_history.json
-          git commit -m "Auto Update: Simpan history pencarian issue #${{ github.event.issue.number }} ke JSON" || echo "No changes to commit"
+          git add anime_update.json README.md generate.js
+          git commit -m "Auto Sync: Update Anime Tracker & Torrent Links $(date '+%H:%M') WIB" || echo "No changes detected"
           git push
