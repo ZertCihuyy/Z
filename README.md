@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 18/3/2026, 03.47.31 WIB
+**Sync Terakhir:** 18/3/2026, 03.59.03 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Joseki] Mobile Fighter G Gundam COMPLETE (1994)(BD ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/joseki-mobile-fighter-g-gundam-complete-1994-bd.n2087356) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5WOO4OLPQ4IWOUCUHA3OVMNO3GH55HO6) |
 | [DKB] Darwin Jihen - S01E11 [1080p][HEVC x265 10bit]... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-darwin-jihen-s01e11-1080p-hevc-x265-10bit.n2087353) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UCFHZ2R3GOQ2LQOHP27K7SRUZ77DTW6S) |
 | [Commie] The Darwin Incident - 11 [DF811C5D].mkv | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/commie-darwin-incident-11-df811c5d-mkv.n2087351) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5T2LK3UNBEHDE6C72EXFLLBU65TXNQNH) |
 | [Trix] The Moment You Fall in Love (2016) [BDRip 108... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-moment-fall-love-2016-bdrip-1080p-av1.n2087350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BAFNQRVTKUFESWGXGYAPBCKROGG6WNAU) |
@@ -26,7 +27,6 @@
 | [Onalrie] Arne no Jikenbo - S01E11 [1080p WEBRip AV1... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-arne-no-jikenbo-s01e11-1080p-webrip-av1-mkv.2067671) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KTEDCQ7LEVHXZQTSYVHSQEXTSHTDZPJQ) |
 | [ASW] Arne no Jikenbo - 11 [1080p HEVC x265 10Bit][AAC] | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-arne-no-jikenbo-11-1080p-hevc-x265-10bit-aac.n2087327) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DU7GZGAQJTVCCB23IU5UWHPHKIKTXRHE) |
 | [SubsPlease] The Daily Life of the Immortal King S5 ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-daily-life-immortal-king-s5-01-12-1080p-batch.n2087326) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VEJB2MEGVEL6VI37VFEA3ROBIYGZ2BKY) |
-| [SubsPlease] The Daily Life of the Immortal King S5 ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-daily-life-immortal-king-s5-01-12-720p-batch.n2087325) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AIQUZ6M3XNH42IDOM3XDCPG6KEFSFQGN) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
