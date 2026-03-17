@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 18/3/2026, 03.59.03 WIB
+**Sync Terakhir:** 18/3/2026, 03.59.32 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
