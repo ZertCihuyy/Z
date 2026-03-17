@@ -97,3 +97,17 @@ jobs:
           git add anime_search_history.json
           git commit -m "Auto Update: Simpan history pencarian issue #${{ github.event.issue.number }} ke JSON" || echo "No changes to commit"
           git push
+              timestamp: new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' }) + " WIB",
+              results: resultsList
+            });
+            
+            // Simpan format JSON dengan rapi
+            fs.writeFileSync(historyFile, JSON.stringify(historyData, null, 2));
+
+      - name: Commit and Push JSON
+        run: |
+          git config user.name 'zertcihuyy'
+          git config user.email 'zertt.idn@gmail.com'
+          git add anime_search_history.json
+          git commit -m "Auto Update: Simpan history pencarian issue #${{ github.event.issue.number }} ke JSON" || echo "No changes to commit"
+          git push
