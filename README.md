@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 17/3/2026, 22.03.16 WIB
+**Sync Terakhir:** 18/3/2026, 00.09.12 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Salchow] Medalist - S02E07 [WEB 1080p x264 AAC] | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/salchow-medalist-s02e07-web-1080p-x264-aac.n2087218) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SU2X6XQAHX6AOWO7C6HCGWA2ITFX6MA2) |
-| [Onalrie] Mayonaka Heart Tune - S01E11 [1080p WEBRip... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-mayonaka-heart-tune-s01e11-1080p-webrip-av1-mkv.2067622) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MWOCE7ATI7BZ3JTEWDBSMJMQA3ICBBWN) |
-| [PMR] Fate Grand Order the Movie Divine Realm of the... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/pmr-fate-grand-order-movie-divine-realm-round.n2087215) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WADLRES32U23J2TFVANAZBAKIYRDRJU3) |
-| [Ironclad] The Demon King's Daughter Is Too Kind!! -... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-demon-kings-daughter-too-kind-s01e12-web.k9745663934735) <br><br> [🐱 Nyaa](https://nyaa.si/?q=INAXCZ6WASVDW4QEL2BLZLO6BMNXBQVY) |
-| [ASW] Mayonaka Heart Tune - 11 [1080p HEVC x265 10Bi... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-mayonaka-heart-tune-11-1080p-hevc-x265-10bit-aac.n2087211) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W4TKAR7SH34OWE7AANBLZ4SU6CPNW6G6) |
-| [SubsPlease] Isekai no Sata wa Shachiku Shidai - 11 ... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-isekai-no-sata-wa-shachiku-shidai-11.n2087210) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VODIGHPAQITWQNKBY4UWZMOLCJUS4SXL) |
-| [ToonsHub] Isekai Office Worker The Other Worlds Boo... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-isekai-office-worker-other-worlds-books-depend.k9745489901326) <br><br> [🐱 Nyaa](https://nyaa.si/?q=435RP23SIHADE2GXFKNPDINNP4BZCUF5) |
-| Isekai Office Worker The Other Worlds Books Depend o... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/isekai-office-worker-other-worlds-books-depend-bean.n2087208) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JIOOWXFE6FVYUWWA72PUK62CYFQL46JX) |
-| [SubsPlease] Isekai no Sata wa Shachiku Shidai - 11 ... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-isekai-no-sata-wa-shachiku-shidai-11.n2087206) <br><br> [🐱 Nyaa](https://nyaa.si/?q=P7AYMODUXAJ3ACLCTORCQRRJNCABOJX2) |
-| [Erai-raws] Isekai no Sata wa Shachiku Shidai - 11 [... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-no-sata-wa-shachiku-shidai.n2087205) <br><br> [🐱 Nyaa](https://nyaa.si/?q=F4OEIADZDA4DYD2AFEJ24RJNOX536UXW) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 10 [1... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087288) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UGXQIGDOQVU2UG5Z6X335EB3B2DPZBHH) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 10 [7... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087287) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IT7IHLRT7PSZB2LUEHDPZIHYADZ4SPIW) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 10 [5... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087286) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3K3Q7JPURZSDMEA6FPW7Z4WDLT2UL6CK) |
+| [HGS-Renc]_God_Mars_[TV+Movie+OVA][BD480][HEVC] | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/hgs-renc-_god_mars_-tv-movie-ova-bd480-hevc.n2087285) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EECV6EOMF7P364FDND64MI2X7ZUVQMHG) |
+| [Erai-raws] Darwin Jihen - 11 [540p AMZN WEB-DL AVC ... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-11-540p-amzn-web.n2087284) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E5GLOKZXSXTE6OJLUBEK5FBM3EZQXH2L) |
+| [Erai-raws] Darwin Jihen - 11 [720p AMZN WEB-DL AVC ... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-11-720p-amzn-web.n2087283) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VJLMMHMYHQYP6GKB7GIRL4JVOKEBJ254) |
+| [Erai-raws] Darwin Jihen - 11 [1080p AMZN WEB-DL AVC... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-11-1080p-amzn-web.n2087282) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IESQH4G6TIUQDPCWSGW7ZPC547GLNEXN) |
+| [Erai-raws] Medalist 2nd Season - 08 [1080p DSNP WEB... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-medalist-2nd-season-08-1080p-dsnp.n2087281) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LBWM64USKYI3YQG2NWZNVUG2TXF6AVJ6) |
+| [Erai-raws] Medalist 2nd Season - 08 [480p DSNP WEB-... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-medalist-2nd-season-08-480p-dsnp.n2087279) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KHCOCI3NYTIMOKUL3XKEAMAO25LGPAJA) |
+| [Erai-raws] Medalist 2nd Season - 08 [720p DSNP WEB-... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-medalist-2nd-season-08-720p-dsnp.n2087280) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A6WKGSYV62Z5S6KPKLZE2UJ6JQGRSBCK) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
