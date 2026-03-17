@@ -7,8 +7,8 @@ on:
   push:
     branches: [ main ]
   schedule:
-    # Berjalan setiap 30 menit (48x sehari)
-    - cron: '*/30 * * * *' 
+    # Berjalan otomatis setiap jam (menit ke-0)
+    - cron: '0 * * * *' 
   workflow_dispatch:
 
 jobs:
@@ -22,72 +22,87 @@ jobs:
       - name: Set timezone to Asia/Jakarta
         run: sudo timedatectl set-timezone Asia/Jakarta
 
-      - name: Fetch Anime & Torrent Data
-        run: |
-          # 1. Ambil Data Seasonal dari Jikan
-          curl -s -f "https://api.jikan.moe/v4/seasons/now?limit=5" -o seasonal.json
-          
-          # 2. Ambil Data Torrent Terbaru dari Animetosho (JSON API)
-          # Kita ambil 10 rilisan terbaru
-          curl -s -f "https://animetosho.org/api/feed?type=search&filter%5B0%5D%5Bt%5D=term&filter%5B0%5D%5Bv%5D=1080p" -o torrents.json
-          
-          # Menggabungkan data sederhana ke json utama
-          echo "{\"last_sync\": \"$(date)\", \"seasonal\": $(cat seasonal.json), \"torrents\": $(cat torrents.json)}" > anime_update.json
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-      - name: Update README with Anime & Torrent Links
+      - name: Fetch, Parse & Generate Data (Node.js)
         run: |
-          echo "# 🎬 Ultimate Seasonal & Torrent Tracker" > README.md
-          echo "" >> README.md
-          echo "Sync Terakhir: $(date '+%A, %d-%m-%Y %H:%M') WIB" >> README.md
-          echo "" >> README.md
+          cat << 'EOF' > generate.js
+          const fs = require('fs');
+
+          async function main() {
+            try {
+              // 1. Ambil Data Anime Ongoing dari Jikan API (untuk Gambar & Info)
+              const jikanRes = await fetch("https://api.jikan.moe/v4/seasons/now?limit=6");
+              const jikanData = await jikanRes.json();
+              const animes = jikanData.data.map(a => ({
+                title: a.title,
+                image: a.images.jpg.image_url,
+                score: a.score,
+                episodes: a.episodes,
+                url: a.url
+              }));
+
+              // 2. Ambil Data Rilisan Terbaru dari Animetosho API (JSON Feed 1080p)
+              const toshoRes = await fetch("https://feed.animetosho.org/json?filter[0][t]=term&filter[0][v]=1080p");
+              const toshoData = await toshoRes.json();
+              const torrents = toshoData.slice(0, 10).map(t => ({
+                title: t.title,
+                link: t.link,
+                magnet: t.magnet_uri,
+                size: (t.size / 1024 / 1024).toFixed(2) + " MB",
+                date: new Date(t.timestamp * 1000).toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' })
+              }));
+
+              // 3. Format JSON Terpadu & Rapih
+              const resultJson = {
+                last_update: new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' }) + " WIB",
+                ongoing_anime: animes,
+                latest_releases: torrents
+              };
+
+              // Simpan ke anime_update.json
+              fs.writeFileSync('anime_update.json', JSON.stringify(resultJson, null, 2));
+
+              // 4. Bangun README.md dengan Markdown + HTML (Biar ada gambarnya)
+              let readme = `# 🎬 Ultimate Anime & Torrent Tracker\n\n`;
+              readme += `**Sync Terakhir:** ${resultJson.last_update}\n\n`;
+
+              readme += `### 🌟 Sedang Tayang (Top Ongoing)\n\n`;
+              readme += `| Poster | Info Anime |\n| :---: | --- |\n`;
+              animes.forEach(a => {
+                readme += `| <img src="${a.image}" width="110" style="border-radius: 8px;"> | **[${a.title}](${a.url})**<br>⭐ Score: ${a.score || 'N/A'}<br>📺 Eps: ${a.episodes || 'Ongoing'} |\n`;
+              });
+
+              readme += `\n### 📥 Rilisan Terbaru (Animetosho 1080p)\n\n`;
+              readme += `| Judul File | Size | Tanggal | Download |\n| --- | :---: | :---: | :---: |\n`;
+              torrents.forEach(t => {
+                // Bersihkan judul sedikit agar tabel tidak kepanjangan
+                const shortTitle = t.title.length > 60 ? t.title.substring(0, 57) + "..." : t.title;
+                readme += `| ${shortTitle} | ${t.size} | ${t.date.split(' ')[0]} | [🧲 Magnet](${t.magnet}) |\n`;
+              });
+
+              readme += `\n---\n✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*\n`;
+              readme += `Data Sources: [Jikan API](https://jikan.moe/) & [Animetosho](https://animetosho.org/)\n`;
+
+              fs.writeFileSync('README.md', readme);
+              console.log("Berhasil meracik JSON dan README!");
+            } catch (err) {
+              console.error("Waduh, gagal fetch data:", err);
+              process.exit(1);
+            }
+          }
+          main();
+          EOF
           
-          echo "### 🌟 Sedang Tayang (Seasonal):" >> README.md
-          grep -oP '"title":"\K[^"]+' seasonal.json | head -n 5 | sed 's/^/- /' >> README.md
-          echo "" >> README.md
-          
-          echo "### 📥 Rilisan Terbaru (Animetosho 1080p):" >> README.md
-          echo "| Judul File | Link |" >> README.md
-          echo "| --- | --- |" >> README.md
-          
-          # Script ajaib untuk ambil judul dan link torrent dari json Animetosho
-          # Menggunakan filter sederhana untuk mengambil nama file dan magnet link
-          grep -oP '"title":"\K[^"]+' torrents.json | head -n 8 > titles.txt
-          grep -oP '"link":"\K[^"]+' torrents.json | head -n 8 > links.txt
-          
-          paste -d "|" titles.txt links.txt | while IFS="|" read -r title link; do
-            echo "| $title | [Download]($link) |" >> README.md
-          done
-          
-          echo "" >> README.md
-          echo "---" >> README.md
-          echo "✨ *Automated by Zert-kun's System (Every 30 Mins)*" >> README.md
-          echo "Sources: Jikan API & Animetosho" >> README.md
+          node generate.js
 
       - name: Commit and push changes
         run: |
           git config user.name 'zertcihuyy'
           git config user.email 'zertt.idn@gmail.com'
           git add anime_update.json README.md
-          git commit -m "Zert-Bot Update: Anime & Torrent List $(date '+%H:%M') WIB" || echo "No changes detected"
-          git push
-          echo "# 🎬 Seasonal Anime Tracker" > README.md
-          echo "" >> README.md
-          echo "Last Sync: $(date '+%A, %d-%m-%Y %H:%M') WIB" >> README.md
-          echo "" >> README.md
-          echo "### 🌟 Top 10 Anime Ongoing:" >> README.md
-          echo "" >> README.md
-          # Parsing judul dari JSON ke bullet points
-          grep -oP '"title":"\K[^"]+' anime_update.json | head -n 10 | sed 's/^/- /' >> README.md
-          echo "" >> README.md
-          echo "---" >> README.md
-          echo "✨ *Updated automatically every 30 minutes (48 times/day) using GitHub Actions.*" >> README.md
-          echo "Data source: [Jikan API](https://jikan.moe/)" >> README.md
-
-      - name: Commit and push changes
-        run: |
-          git config user.name 'zertcihuyy'
-          git config user.email 'zertt.idn@gmail.com'
-          git add anime_update.json README.md
-          # Gunakan timestamp yang lebih detail karena update lebih sering
-          git commit -m "Auto Update: $(date '+%H:%M') WIB" || echo "No changes detected"
+          git commit -m "Auto Sync: Update Poster & Torrent $(date '+%H:%M') WIB" || echo "No changes detected"
           git push
