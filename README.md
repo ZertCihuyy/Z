@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 17/3/2026, 20.37.16 WIB
+**Sync Terakhir:** 17/3/2026, 20.50.19 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [ASW] Maou no Musume wa Yasashi Sugiru!! - 12 [1080p... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-maou-no-musume-wa-yasashi-sugiru-12.n2087175) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E2AK4V4FLKINX3RUOXOWF46WFF363MGK) |
+| [ChuySub] Majokko Megu-chan - Episode 39 | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-39.n2087172) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IN5A2JHJOZFPSLR4C7QFC62LZNQF6MGB) |
 | [ToonsHub] The Demon Kings Daughter is Too Kind S01E... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-demon-kings-daughter-too-kind-s01e12-1080p.n2087170) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HXZQSYHL2BYK45MMRBK2OV7JU5YJEZNU) |
 | [Yameii] Tune In to the Midnight Heart - S01E09 [Eng... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tune-midnight-heart-s01e09-english-dub-cr.n2087165) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DIQ3UJP4KRFRAR7KZ6LE2O37667PKAC2) |
 | [Yameii] Tune In to the Midnight Heart - S01E09 [Eng... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tune-midnight-heart-s01e09-english-dub-cr.n2087164) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7TJLEDJ3JWENV3UNJWK2C3JO3C2IPYGB) |
@@ -25,8 +27,6 @@
 | [SubsPlease] Maou no Musume wa Yasashi Sugiru!! - 12... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-maou-no-musume-wa-yasashi-sugiru-12.n2087158) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5P4FH4IIJ4WJQ244WCPFJSFB42DUIMRO) |
 | [ToonsHub] Tune In to the Midnight Heart S01E09 1080... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-tune-midnight-heart-s01e09-1080p-cr-web.n2087156) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4PMWVDONMO6OFKGDIZKCQVO6HKM7SF73) |
 | [SubsPlease] Maou no Musume wa Yasashi Sugiru!! - 12... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-maou-no-musume-wa-yasashi-sugiru-12.n2087155) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YJRUCSSHGRBQU62FBKMGB6ER7EIWJ72L) |
-| [Erai-raws] Maou no Musume wa Yasashisugiru - 12 [48... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-maou-no-musume-wa-yasashisugiru-12.n2087153) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PFIPH26XB3VVGXIWMJMR5O4NNO35T5YZ) |
-| [SubsPlease] Maou no Musume wa Yasashi Sugiru!! - 12... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-maou-no-musume-wa-yasashi-sugiru-12.n2087152) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IZOFJPALXN77GAYLBBRM2FQP6L4JMH2E) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
