@@ -1,59 +1,57 @@
-name: Auto Commit
+name: Auto Update Anime Info
 
-# Permissions for the workflow
 permissions:
   contents: write
 
-# Control when the workflow runs
 on:
-  # Trigger on push or pull request to the main branch
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
-  # Run automatically every hour
   schedule:
-    - cron: '0 20 * * *' 
-
-  # Allow manual run from the Actions tab
+    # */30 artinya berjalan setiap kelipatan 30 menit (menit ke-0 dan menit ke-30)
+    - cron: '*/30 * * * *' 
   workflow_dispatch:
 
-# The workflow contains one or more jobs
 jobs:
-  auto-commit:
-    # Runs on the latest Ubuntu runner
+  update-anime:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
 
-      # Set timezone to Asia/Jakarta
       - name: Set timezone to Asia/Jakarta
-        run: |
-          sudo timedatectl set-timezone Asia/Jakarta
+        run: sudo timedatectl set-timezone Asia/Jakarta
 
-      # Update README.md with current timestamp
-      - name: Update README with timestamp
+      - name: Fetch Anime Season Info
         run: |
-          echo "# Auto Commit Log" > README.md
+          # Mengambil data seasonal anime (limit 10)
+          curl -s -f "https://api.jikan.moe/v4/seasons/now?limit=10" -o anime_temp.json
+          if [ -s anime_temp.json ]; then
+            mv anime_temp.json anime_update.json
+          else
+            echo "API Jikan sedang sibuk, skip update 30 menit ini."
+          fi
+
+      - name: Update README with Anime List
+        run: |
+          echo "# 🎬 Seasonal Anime Tracker" > README.md
           echo "" >> README.md
-          echo "Last updated: $(date '+%A, %d-%m-%Y %H:%M') WIB" >> README.md
+          echo "Last Sync: $(date '+%A, %d-%m-%Y %H:%M') WIB" >> README.md
+          echo "" >> README.md
+          echo "### 🌟 Top 10 Anime Ongoing:" >> README.md
+          echo "" >> README.md
+          # Parsing judul dari JSON ke bullet points
+          grep -oP '"title":"\K[^"]+' anime_update.json | head -n 10 | sed 's/^/- /' >> README.md
           echo "" >> README.md
           echo "---" >> README.md
-          echo "" >> README.md
-          echo "This repository is automatically updated using GitHub Actions." >> README.md
+          echo "✨ *Updated automatically every 30 minutes (48 times/day) using GitHub Actions.*" >> README.md
+          echo "Data source: [Jikan API](https://jikan.moe/)" >> README.md
 
-      # Commit and push changes
       - name: Commit and push changes
         run: |
           git config user.name 'zertcihuyy'
           git config user.email 'zertt.idn@gmail.com'
-          git add README.md
-          git commit -m "Auto update: $(date '+%A, %d-%m-%Y %H:%M')" || echo "No changes to commit"
+          git add anime_update.json README.md
+          # Gunakan timestamp yang lebih detail karena update lebih sering
+          git commit -m "Auto Update: $(date '+%H:%M') WIB" || echo "No changes detected"
           git push
