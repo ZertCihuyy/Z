@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 18/3/2026, 00.09.12 WIB
+**Sync Terakhir:** 18/3/2026, 02.10.50 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 10 [1... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087288) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UGXQIGDOQVU2UG5Z6X335EB3B2DPZBHH) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 10 [7... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087287) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IT7IHLRT7PSZB2LUEHDPZIHYADZ4SPIW) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 10 [5... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087286) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3K3Q7JPURZSDMEA6FPW7Z4WDLT2UL6CK) |
-| [HGS-Renc]_God_Mars_[TV+Movie+OVA][BD480][HEVC] | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/hgs-renc-_god_mars_-tv-movie-ova-bd480-hevc.n2087285) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EECV6EOMF7P364FDND64MI2X7ZUVQMHG) |
-| [Erai-raws] Darwin Jihen - 11 [540p AMZN WEB-DL AVC ... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-11-540p-amzn-web.n2087284) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E5GLOKZXSXTE6OJLUBEK5FBM3EZQXH2L) |
-| [Erai-raws] Darwin Jihen - 11 [720p AMZN WEB-DL AVC ... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-11-720p-amzn-web.n2087283) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VJLMMHMYHQYP6GKB7GIRL4JVOKEBJ254) |
-| [Erai-raws] Darwin Jihen - 11 [1080p AMZN WEB-DL AVC... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-11-1080p-amzn-web.n2087282) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IESQH4G6TIUQDPCWSGW7ZPC547GLNEXN) |
-| [Erai-raws] Medalist 2nd Season - 08 [1080p DSNP WEB... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-medalist-2nd-season-08-1080p-dsnp.n2087281) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LBWM64USKYI3YQG2NWZNVUG2TXF6AVJ6) |
-| [Erai-raws] Medalist 2nd Season - 08 [480p DSNP WEB-... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-medalist-2nd-season-08-480p-dsnp.n2087279) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KHCOCI3NYTIMOKUL3XKEAMAO25LGPAJA) |
-| [Erai-raws] Medalist 2nd Season - 08 [720p DSNP WEB-... | NaN MB | 17/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-medalist-2nd-season-08-720p-dsnp.n2087280) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A6WKGSYV62Z5S6KPKLZE2UJ6JQGRSBCK) |
+| [ASW] Arne no Jikenbo - 11 [1080p HEVC x265 10Bit][AAC] | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-arne-no-jikenbo-11-1080p-hevc-x265-10bit-aac.n2087327) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DU7GZGAQJTVCCB23IU5UWHPHKIKTXRHE) |
+| [SubsPlease] The Daily Life of the Immortal King S5 ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-daily-life-immortal-king-s5-01-12-1080p-batch.n2087326) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VEJB2MEGVEL6VI37VFEA3ROBIYGZ2BKY) |
+| [SubsPlease] The Daily Life of the Immortal King S5 ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-daily-life-immortal-king-s5-01-12-720p-batch.n2087325) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AIQUZ6M3XNH42IDOM3XDCPG6KEFSFQGN) |
+| [SubsPlease] The Daily Life of the Immortal King S5 ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-daily-life-immortal-king-s5-01-12-480p-batch.n2087324) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CZ3G7SWSE2ASMXVHAQ2HZWMMLONQDEU3) |
+| ReZero S04E01 CAMRIP (English Subs) | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/rezero-s04e01-camrip-english-subs.n2087323) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I2E7KJYAPHCIIPPDF2I7CVLKO57TKTFR) |
+| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2087322) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VPKKYQM5ZV773SVKVWTSF3IOONCAVYCJ) |
+| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2087321) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CVTOIUUUI46I2XIOJQGJMGVFS54OMJTY) |
+| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2087320) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SKQMQ4UJIF5IYZQNZ5QFDRPEP7YTHOYL) |
+| [Erai-raws] Mato Seihei no Slave 2 - 10 [1080p ADN W... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-10.n2087319) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SXC62NZS2WN53JJXTFIRNRUX75W55UU5) |
+| [Erai-raws] Mato Seihei no Slave 2 - 10 [720p ADN WE... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-10.n2087318) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CJFGPFTGWTGUDUUMRTHG43RCRQAPOFMI) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
