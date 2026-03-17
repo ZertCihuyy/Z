@@ -1,5 +1,5 @@
 {
-  "last_update": "18/3/2026, 03.59.32 WIB",
+  "last_update": "18/3/2026, 04.44.07 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -45,6 +45,15 @@
     }
   ],
   "latest_releases": [
+    {
+      "title": "[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S03E10 (Fate/Grand Order 藤丸立香はわからない; Fate/Grand Order: You've Lost Ritsuka Fujimaru; Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3) [YTB.WEB-DL 1080P AVC, Opus, HARD SUB (EN)][605A7E6E]",
+      "link": "https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2087361",
+      "magnet": "magnet:?xt=urn:btih:YA74Q7QUFMTP2TVH46OXK7HOZIHXBKVB&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=%5BGecko%5D%20Fate%20Grand%20Order%20You%27ve%20Lost%20Ritsuka%20Fujimaru%20-%20S03E10%20%28Fate%2FGrand%20Order%20%E8%97%A4%E4%B8%B8%E7%AB%8B%E9%A6%99%E3%81%AF%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%3B%20Fate%2FGrand%20Order%3A%20You%27ve%20Lost%20Ritsuka%20Fujimaru%3B%20Fate%2FGrand%20Order%3A%20Fujimaru%20Ritsuka%20wa%20Wakaranai%20Season%203%29%20%5BYTB.WEB-DL%201080P%20AVC%2C%20Opus%2C%20HARD%20SUB%20%28EN%29%5D%5B605A7E6E%5D",
+      "hash": "YA74Q7QUFMTP2TVH46OXK7HOZIHXBKVB",
+      "nyaaUrl": "https://nyaa.si/?q=YA74Q7QUFMTP2TVH46OXK7HOZIHXBKVB",
+      "size": "NaN MB",
+      "date": "18/3/2026, 04.10.19"
+    },
     {
       "title": "[Joseki] Mobile Fighter G Gundam COMPLETE (1994)(BD AV1 1080p Opus)[Sub Eng]",
       "link": "https://animetosho.org/view/joseki-mobile-fighter-g-gundam-complete-1994-bd.n2087356",
@@ -125,15 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=DU7GZGAQJTVCCB23IU5UWHPHKIKTXRHE",
       "size": "NaN MB",
       "date": "18/3/2026, 01.39.51"
-    },
-    {
-      "title": "[SubsPlease] The Daily Life of the Immortal King S5 (01-12) (1080p) [Batch]",
-      "link": "https://animetosho.org/view/subsplease-daily-life-immortal-king-s5-01-12-1080p-batch.n2087326",
-      "magnet": "magnet:?xt=urn:btih:VEJB2MEGVEL6VI37VFEA3ROBIYGZ2BKY&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BSubsPlease%5D%20The%20Daily%20Life%20of%20the%20Immortal%20King%20S5%20%2801-12%29%20%281080p%29%20%5BBatch%5D",
-      "hash": "VEJB2MEGVEL6VI37VFEA3ROBIYGZ2BKY",
-      "nyaaUrl": "https://nyaa.si/?q=VEJB2MEGVEL6VI37VFEA3ROBIYGZ2BKY",
-      "size": "NaN MB",
-      "date": "18/3/2026, 01.23.30"
     }
   ]
 }
