@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 18/3/2026, 02.10.50 WIB
+**Sync Terakhir:** 18/3/2026, 03.47.31 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [DKB] Darwin Jihen - S01E11 [1080p][HEVC x265 10bit]... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-darwin-jihen-s01e11-1080p-hevc-x265-10bit.n2087353) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UCFHZ2R3GOQ2LQOHP27K7SRUZ77DTW6S) |
+| [Commie] The Darwin Incident - 11 [DF811C5D].mkv | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/commie-darwin-incident-11-df811c5d-mkv.n2087351) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5T2LK3UNBEHDE6C72EXFLLBU65TXNQNH) |
+| [Trix] The Moment You Fall in Love (2016) [BDRip 108... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-moment-fall-love-2016-bdrip-1080p-av1.n2087350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BAFNQRVTKUFESWGXGYAPBCKROGG6WNAU) |
+| [Trix] I've Always Liked You (2016) [BDRip 1080p AV1... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-ive-always-liked-2016-bdrip-1080p-av1.n2087349) <br><br> [🐱 Nyaa](https://nyaa.si/?q=N5WOZH6PZOAZ6OZOZTEQKNE5S5WBXXK4) |
+| [DKB] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhak... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-yuusha-party-ni-kawaii-ko-ga-ita.n2087348) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5A3BDU3IGL2QQ5EM5SETAR7HNJLIHAYR) |
+| [DKB] Mayonaka Heart Tune - S01E11 [1080p][HEVC x265... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-mayonaka-heart-tune-s01e11-1080p-hevc-x265.n2087347) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SFK262K4S6Q4G244BVWLV7OIQYIC5D5K) |
+| [Onalrie] Arne no Jikenbo - S01E11 [1080p WEBRip AV1... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-arne-no-jikenbo-s01e11-1080p-webrip-av1-mkv.2067671) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KTEDCQ7LEVHXZQTSYVHSQEXTSHTDZPJQ) |
 | [ASW] Arne no Jikenbo - 11 [1080p HEVC x265 10Bit][AAC] | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-arne-no-jikenbo-11-1080p-hevc-x265-10bit-aac.n2087327) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DU7GZGAQJTVCCB23IU5UWHPHKIKTXRHE) |
 | [SubsPlease] The Daily Life of the Immortal King S5 ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-daily-life-immortal-king-s5-01-12-1080p-batch.n2087326) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VEJB2MEGVEL6VI37VFEA3ROBIYGZ2BKY) |
 | [SubsPlease] The Daily Life of the Immortal King S5 ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-daily-life-immortal-king-s5-01-12-720p-batch.n2087325) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AIQUZ6M3XNH42IDOM3XDCPG6KEFSFQGN) |
-| [SubsPlease] The Daily Life of the Immortal King S5 ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-daily-life-immortal-king-s5-01-12-480p-batch.n2087324) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CZ3G7SWSE2ASMXVHAQ2HZWMMLONQDEU3) |
-| ReZero S04E01 CAMRIP (English Subs) | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/rezero-s04e01-camrip-english-subs.n2087323) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I2E7KJYAPHCIIPPDF2I7CVLKO57TKTFR) |
-| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2087322) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VPKKYQM5ZV773SVKVWTSF3IOONCAVYCJ) |
-| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2087321) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CVTOIUUUI46I2XIOJQGJMGVFS54OMJTY) |
-| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2087320) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SKQMQ4UJIF5IYZQNZ5QFDRPEP7YTHOYL) |
-| [Erai-raws] Mato Seihei no Slave 2 - 10 [1080p ADN W... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-10.n2087319) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SXC62NZS2WN53JJXTFIRNRUX75W55UU5) |
-| [Erai-raws] Mato Seihei no Slave 2 - 10 [720p ADN WE... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-10.n2087318) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CJFGPFTGWTGUDUUMRTHG43RCRQAPOFMI) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
