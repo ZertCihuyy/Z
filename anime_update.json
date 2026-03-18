@@ -1,5 +1,5 @@
 {
-  "last_update": "19/3/2026, 03.44.32 WIB",
+  "last_update": "19/3/2026, 04.40.00 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -45,6 +45,15 @@
     }
   ],
   "latest_releases": [
+    {
+      "title": "[Earendur] Oshi no Ko - S03E10 - Private Audition (2160p Upscaled) [Multi-Subs].mkv",
+      "link": "https://animetosho.org/view/earendur-oshi-no-ko-s03e10-private-audition-2160p.2067897",
+      "magnet": "magnet:?xt=urn:btih:2WOZGYGVYVCTJO6VUHQLADBOHHXXJH7H&tr=http%3A%2F%2Ftracker.anirena.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.anirena.com%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.anirena.com%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&dn=%5BEarendur%5D%20Oshi%20no%20Ko%20-%20S03E10%20-%20Private%20Audition%20%282160p%20Upscaled%29%20%5BMulti-Subs%5D.mkv",
+      "hash": "2WOZGYGVYVCTJO6VUHQLADBOHHXXJH7H",
+      "nyaaUrl": "https://nyaa.si/?q=2WOZGYGVYVCTJO6VUHQLADBOHHXXJH7H",
+      "size": "NaN MB",
+      "date": "19/3/2026, 04.05.00"
+    },
     {
       "title": "[SubsPlease] GNOSIA (01-21) (1080p) [Batch]",
       "link": "https://animetosho.org/view/subsplease-gnosia-01-21-1080p-batch.n2087720",
@@ -125,15 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=2MMHQDIVFQ4ANWT5ABYBWSXPRJRDNG3M",
       "size": "NaN MB",
       "date": "19/3/2026, 01.42.52"
-    },
-    {
-      "title": "[Onalrie] Dragon Raja - S02E23 (JP) [1080p WEBRip AV1].mkv",
-      "link": "https://animetosho.org/view/onalrie-dragon-raja-s02e23-jp-1080p-webrip-av1-mkv.2067872",
-      "magnet": "magnet:?xt=urn:btih:7U5PXEDKXY25ODBUCCIWG2S7B5AQCCVM&tr=http%3A%2F%2Ftracker.onalrie.app%3A7070%2Fannounce&tr=udp%3A%2F%2Ftracker.onalrie.app%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&dn=%5BOnalrie%5D%20Dragon%20Raja%20-%20S02E23%20%28JP%29%20%5B1080p%20WEBRip%20AV1%5D.mkv",
-      "hash": "7U5PXEDKXY25ODBUCCIWG2S7B5AQCCVM",
-      "nyaaUrl": "https://nyaa.si/?q=7U5PXEDKXY25ODBUCCIWG2S7B5AQCCVM",
-      "size": "NaN MB",
-      "date": "19/3/2026, 01.28.00"
     }
   ]
 }

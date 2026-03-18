@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 19/3/2026, 03.44.32 WIB
+**Sync Terakhir:** 19/3/2026, 04.40.00 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Earendur] Oshi no Ko - S03E10 - Private Audition (2... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/earendur-oshi-no-ko-s03e10-private-audition-2160p.2067897) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2WOZGYGVYVCTJO6VUHQLADBOHHXXJH7H) |
 | [SubsPlease] GNOSIA (01-21) (1080p) [Batch] | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-gnosia-01-21-1080p-batch.n2087720) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GSLVI3YDDBIMGKGW3D3LDWP5JT6IK3HJ) |
 | [SubsPlease] GNOSIA (01-21) (720p) [Batch] | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-gnosia-01-21-720p-batch.n2087711) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5Y474TDOE4QF6BPL3JPSSJLFZMWX2N4W) |
 | [SubsPlease] GNOSIA (01-21) (480p) [Batch] | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-gnosia-01-21-480p-batch.n2087709) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WBUUAIVYFJXMVK5NP5PNRESBUWBRUJCV) |
@@ -26,7 +27,6 @@
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [5... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087700) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KDNJHFI4UDC7WKCWEQFM7TUJCHMIENRY) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [7... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087699) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GF6MUMCYE3G3LZ7CUAVD4X4YREFEJ5QS) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087698) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2MMHQDIVFQ4ANWT5ABYBWSXPRJRDNG3M) |
-| [Onalrie] Dragon Raja - S02E23 (JP) [1080p WEBRip AV... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-dragon-raja-s02e23-jp-1080p-webrip-av1-mkv.2067872) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7U5PXEDKXY25ODBUCCIWG2S7B5AQCCVM) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
