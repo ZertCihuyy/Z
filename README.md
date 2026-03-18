@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 18/3/2026, 20.25.40 WIB
+**Sync Terakhir:** 18/3/2026, 22.09.42 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [New-raws] Okiraku Ryoushu no Tanoshii Ryouchi Bouei... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/new-raws-okiraku-ryoushu-no-tanoshii-ryouchi-bouei.n2087499) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WYYLV4BVQC424MJMUVGT4VMQWWHVO6MC) |
-| [ToonsHub] An Adventurers Daily Grind at Age 29 S01E... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-adventurers-daily-grind-age-29-s01e11-1080p.n2087498) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4ZTHNJSYXDXZFD354UNPHFVDRWTPNKNF) |
-| [ToonsHub] Easygoing Territory Defense by the Optimi... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-easygoing-territory-defense-optimistic-lord-s01e11.n2087497) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FOQVXFVOQUBT6FPBFS3PNWZB4GNQF6CA) |
-| [SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bou... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-11.n2087495) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3MEXA5TESV53G66LSB5OEPUURXQUIB7Z) |
-| [SubsPlease] 29-sai Dokushin Chuuken Boukensha no Ni... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-29-sai-dokushin-chuuken-boukensha-no-nichijou.n2087493) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VRU6HD3IMAUYIU3KSG4LSRFHELAFJYL3) |
-| [SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bou... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-11.n2087492) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JSA752P6LHZYXXRTLOPBTVVSBTR7PWWA) |
-| Easygoing Territory Defense by the Optimistic Lord S... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/easygoing-territory-defense-optimistic-lord-s01e11-ultimate.n2087491) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6EKGV3ETRKWKTB63Z6QOBGZLMJTXVLWS) |
-| An Adventurers Daily Grind at Age 29 S01E11 The Powe... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/adventurers-daily-grind-age-29-s01e11-power-charm.n2087490) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WQRSIOG5M4AK4NJMR2DGHCE7KZOUABLN) |
-| [Erai-raws] Okiraku Ryoushu no Tanoshii Ryouchi Boue... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-okiraku-ryoushu-no-tanoshii-ryouchi-boue.n2087488) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4FSPGQPPDHL4GZJUO5R26DDUPANNVSP) |
-| [SubsPlease] 29-sai Dokushin Chuuken Boukensha no Ni... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-29-sai-dokushin-chuuken-boukensha-no-nichijou.n2087487) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6NN4WY6MIFMYY3E66YZTTNO4QKITI6C6) |
+| [ToonsHub] A Gentle Nobles Vacation Recommendation S... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-gentle-nobles-vacation-recommendation-s01e11-1080p.k9768091554310) <br><br> [🐱 Nyaa](https://nyaa.si/?q=34YMKYBWMSPJDNHTCTRU4QW7CBLUX5LD) |
+| [ToonsHub] OSHI NO KO S03E10 1080p CR WEB-DL AAC2.0 ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-oshi-no-ko-s03e10-1080p-cr-web.k9768085339136) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6GJRQESWGCPETPCHSTEB6L2LS4KUWQT7) |
+| [ToonsHub] Jack-of-All-Trades Party of None S01E12 1... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jack-all-trades-party-none-s01e12-1080p.k9768074687759) <br><br> [🐱 Nyaa](https://nyaa.si/?q=D4TVZCKRIIA7I6AICYD7DIEZNCLZLVGA) |
+| [Erai-raws] Yuusha Party wo Oidasareta Kiyou binbou ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-party-wo-oidasareta-kiyou-binbou.n2087547) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T5EOKHIPJZTVOF4RKITKARZNFK6OD7UL) |
+| [Erai-raws] Yuusha Party wo Oidasareta Kiyou binbou ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-party-wo-oidasareta-kiyou-binbou.n2087546) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PR2L6ADQETCUZFH5ID4TE5EPGWNVGTYD) |
+| [ToonsHub] Jack-of-All-Trades Party of None S01E12 1... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jack-all-trades-party-none-s01e12-1080p.n2087545) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PGIQEQR7TXVKZAJLBJWJLAODALPT7IZH) |
+| [ToonsHub] Noble Reincarnation Born Blessed So Ill O... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-noble-reincarnation-born-blessed-ill-obtain.n2087544) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KRC3IN7JMAB37QFFJVZDLGUTP2QLZW3W) |
+| [ToonsHub] Oshi no Ko S03E10 1080p BILI WEB-DL AAC2.... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-oshi-no-ko-s03e10-1080p-bili-web.n2087543) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DRSCQBBSXQNXKV3D7A65KMQLBMVJUIXH) |
+| [Ironclad] Easygoing Territory Defense by the Optimi... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-easygoing-territory-defense-optimistic-lord-s01e11.k9767791533316) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QZPMHHIRZVZHXLSD4G2IOEYJ4GBLV6TC) |
+| SHIBOYUGI Playing Death Games to Put Food on the Tab... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/shiboyugi-playing-death-games-put-food-table-s01e11.n2087541) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NFR4S3DV5UJNDVXQJT3CDM2CXTK7IK6P) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
