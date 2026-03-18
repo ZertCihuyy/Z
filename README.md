@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 19/3/2026, 00.08.42 WIB
+**Sync Terakhir:** 19/3/2026, 02.09.44 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ToonsHub] Chained Soldier S02E02 1080p HIDIVE WEB-D... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chained-soldier-s02e02-1080p-hidive-web-dl.n2087681) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SDHHR3ZGYPA5R7PJ6LL7KWZYGFAXNALM) |
-| [SubsPlease] Dragon Raja S2 (JP) - 23 (1080p) [A880E... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-dragon-raja-s2-jp-23-1080p-a880e52b-mkv.n2087680) <br><br> [🐱 Nyaa](https://nyaa.si/?q=36GZTPCQQPJ5JF5RH6YIVMCFMX6R7X54) |
-| [ToonsHub] HELL MODE The Hardcore Gamer Dominates in... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hell-mode-hardcore-gamer-dominates-another-world.n2087679) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DOCZI6PLYBRRDVZIYLMA4NZGU7OJG6DD) |
-| HELL MODE The Hardcore Gamer Dominates in Another Wo... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/hell-mode-hardcore-gamer-dominates-another-world-garbage.n2087677) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UNCM5KDNICOVQQRBTWXROVZWCYYZZIU6) |
-| [ToonsHub] Reincarnated as a Dragon Hatchling S01E01... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reincarnated-dragon-hatchling-s01e01-1080p-hidive.n2087676) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QVTTAMRVNMQUVX4ZYU2RPCF4RZX62N54) |
-| [Erai-raws] Dragon Raja II - 23 (JA) [480p CR WEB-DL... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-dragon-raja-ii-23-ja-480p.n2087675) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SKRSQE7HD27R52F6KD4YEXPQIOTOLIVL) |
-| [SubsPlease] Dragon Raja S2 (JP) - 23 (720p) [4896FC... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-dragon-raja-s2-jp-23-720p-4896fcdd-mkv.n2087674) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7J2P5W5P2AOU7ZVER7Z2GM4JONVH5ER3) |
-| [SubsPlease] Dragon Raja S2 (JP) - 23 (480p) [E1DEDF... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-dragon-raja-s2-jp-23-480p-e1dedf13-mkv.n2087673) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OXBNO7MGHQEO3REAYNHZUJBOZMK3ZBCP) |
-| [Erai-raws] Dragon Raja II - 23 (JA) [720p CR WEB-DL... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-dragon-raja-ii-23-ja-720p.n2087670) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FJQS7UMVSQ7RB2T72GJUCOA2QDTQR2V7) |
-| [Erai-raws] Dragon Raja II - 23 (JA) [1080p CR WEB-D... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-dragon-raja-ii-23-ja-1080p.n2087669) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KLKI7XFKUK6SQYRKDSKEPGXYVS4B67MS) |
+| [Erai-raws] Shibou Yuugi de Meshi wo Kuu - 11 [1080p... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-shibou-yuugi-de-meshi-wo-kuu.n2087703) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RYZ6NUQRXM2VX5NEHTOJKSLUIKMLJ7MW) |
+| [Erai-raws] Shibou Yuugi de Meshi wo Kuu - 11 [720p ... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-shibou-yuugi-de-meshi-wo-kuu.n2087702) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZHWRUVILJULNZ5PHQPEVUOVSC3KB6WDZ) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [5... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087700) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KDNJHFI4UDC7WKCWEQFM7TUJCHMIENRY) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [7... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087699) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GF6MUMCYE3G3LZ7CUAVD4X4YREFEJ5QS) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087698) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2MMHQDIVFQ4ANWT5ABYBWSXPRJRDNG3M) |
+| [Onalrie] Dragon Raja - S02E23 (JP) [1080p WEBRip AV... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-dragon-raja-s02e23-jp-1080p-webrip-av1-mkv.2067872) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7U5PXEDKXY25ODBUCCIWG2S7B5AQCCVM) |
+| [Trix] Scarlet (2025) [WEBRip 1080p AV1 Opus] (Multi... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-scarlet-2025-webrip-1080p-av1-opus-multi.n2087692) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5HUKC2DQE2PSADH2SXXHNDELK5O7SOVJ) |
+| [ASW] Dragon Raja S2 (JP) - 23 [1080p HEVC x265 10Bi... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-dragon-raja-s2-jp-23-1080p-hevc.n2087690) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YUA7EJY6LQAS6VLR3GJMG2TN4OCN72SF) |
+| [Onalrie] Tamon-kun Ima Docchi - S01E12 [1080p WEBRi... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-tamon-kun-ima-docchi-s01e12-1080p-webrip-av1-mkv.2067870) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MWQDUQGQ4YDUKYVSJ5EYFZDBTOGT2RUV) |
+| [FSP DN] The Gate of Mystical Realm - 19 (4K) | 玄界之门 | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/fsp-dn-gate-mystical-realm-19-4k.n2087686) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IPOVHABLJ3W3BU6HS2JJOCV2ABAYXX6D) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
