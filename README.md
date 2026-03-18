@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 18/3/2026, 09.43.25 WIB
+**Sync Terakhir:** 18/3/2026, 12.01.27 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [fig] My Hero Academia S05 (BluRay Remux 1080p AVC F... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/fig-my-hero-academia-s05-bluray-remux-1080p.n2087410) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LCF364M7KWEC2REBGL4RNVOG222IGK2I) |
+| [Sokudo] Jigokuraku S02E10 [1080p AV1] | Hell's Para... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e10-1080p-av1-hells-paradise-weekly.n2087409) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DPJPBLBJFFVKVRSH74SPJWJICYBR2323) |
+| [Sokudo] Jigokuraku S02E09 [1080p AV1] | Hell's Para... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e09-1080p-av1-hells-paradise-weekly.n2087408) <br><br> [🐱 Nyaa](https://nyaa.si/?q=76SKAKTU5MXO6S42ZVHS6ZGIUTQH5T5K) |
+| [Breeze] Jigokuraku S02E10 [1080p AV1] | Hell's Para... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/breeze-jigokuraku-s02e10-1080p-av1-hells-paradise-weekly.n2087407) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X3BBBSINUV7JCJ3JVKXFM5N3SQULHL5A) |
+| [Breeze] Jigokuraku S02E09 [1080p AV1] | Hell's Para... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/breeze-jigokuraku-s02e09-1080p-av1-hells-paradise-weekly.n2087406) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OJXBS2DLAMPZYGYWW3NMR7UC6VD7BD3P) |
+| [Judas] Mato Seihei no Slave (Chained Soldier) [Unce... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-mato-seihei-no-slave-chained-soldier-uncensored.n2087392) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NOMMLNYLX36JRMXA6VDBKET3G5HSIUH5) |
 | [Stardust] Jewelpet - 33 [480p] [A1C0B592].mkv | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/stardust-jewelpet-33-480p-a1c0b592-mkv.n2087385) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JZTFPON5BQNHE3KOOQTMTMML7EBTOJWL) |
 | [ak-Submarines] Girls und Panzer - MLLSD - 05 [WEB 1... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/ak-submarines-girls-und-panzer-mllsd-05-web-1080p-df0a8917.n2087384) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZQ32GELI6VFKD6G6URHNSOZ37TNLTZYV) |
 | [DKB] Arne no Jikenbo - S01E11 [1080p][HEVEC x265 10... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-arne-no-jikenbo-s01e11-1080p-hevec-x265.n2087380) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QC74UR6UY7FTKBIW2RLDZ6OECVIBRW3C) |
 | [Gecko] Fate Grand Order You've Lost Ritsuka Fujimar... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2087361) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YA74Q7QUFMTP2TVH46OXK7HOZIHXBKVB) |
-| [Joseki] Mobile Fighter G Gundam COMPLETE (1994)(BD ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/joseki-mobile-fighter-g-gundam-complete-1994-bd.n2087356) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5WOO4OLPQ4IWOUCUHA3OVMNO3GH55HO6) |
-| [DKB] Darwin Jihen - S01E11 [1080p][HEVC x265 10bit]... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-darwin-jihen-s01e11-1080p-hevc-x265-10bit.n2087353) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UCFHZ2R3GOQ2LQOHP27K7SRUZ77DTW6S) |
-| [Commie] The Darwin Incident - 11 [DF811C5D].mkv | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/commie-darwin-incident-11-df811c5d-mkv.n2087351) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5T2LK3UNBEHDE6C72EXFLLBU65TXNQNH) |
-| [Trix] The Moment You Fall in Love (2016) [BDRip 108... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-moment-fall-love-2016-bdrip-1080p-av1.n2087350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BAFNQRVTKUFESWGXGYAPBCKROGG6WNAU) |
-| [Trix] I've Always Liked You (2016) [BDRip 1080p AV1... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-ive-always-liked-2016-bdrip-1080p-av1.n2087349) <br><br> [🐱 Nyaa](https://nyaa.si/?q=N5WOZH6PZOAZ6OZOZTEQKNE5S5WBXXK4) |
-| [DKB] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhak... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-yuusha-party-ni-kawaii-ko-ga-ita.n2087348) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5A3BDU3IGL2QQ5EM5SETAR7HNJLIHAYR) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
