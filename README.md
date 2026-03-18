@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 18/3/2026, 18.50.16 WIB
+**Sync Terakhir:** 18/3/2026, 20.25.40 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [KOTEX] Witch Watch Subs+Fonts for ReinForce [BD].zip | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/kotex-witch-watch-subs-fonts-reinforce-bd-zip.n2087447) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DD6SXW45ZCOGAYFGQKLJITPDXKBBIWHH) |
-| [Gecko] Cat Tales - S01E23 (うごく！ねこむかしばなし; Ugoku! Nek... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e23-ugoku-neko-mukashibanashi-ytb.n2087440) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JKQR72M4DBCJZXQJGKYXZWMU6D4W34FC) |
-| [ToonsHub] Cat Tales S01E23 1080p LNTV WEB-DL AAC2.0... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-cat-tales-s01e23-1080p-lntv-web-dl.n2087439) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NH2DCCEICEMPBCV2BYJ5MVEHIK5FHOKA) |
-| [MicroHatSubs] One Piece 975-977 (BD 1080p) | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/microhatsubs-one-piece-975-977-bd-1080p.n2087436) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z5IAK2UIWAEKHJANQIS4EZOSITAOUK57) |
-| [HatSubs] One Piece 975-977 (BD 1080p 10-bit) | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-975-977-bd-1080p-10-bit.n2087435) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FBKFWTBLBFNPFPTYNEUJWOEXC6KNH5ZD) |
-| Yamato yo Towa ni: Rebel 3199 (15-18) [1080p HEVC x2... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/yamato-yo-towa-ni-rebel-3199-15-18.n2087429) <br><br> [🐱 Nyaa](https://nyaa.si/?q=466EFMRELGNOV4FHDNSA3V5WETE63C2M) |
-| [LbE3L] Tougen Anki S01E01–E04 [1080p CUSTOM WEBRip ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-tougen-anki-s01e01e04-1080p-custom-webrip-av1.2067721) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R74YIUXZZU6TSLAF3346YHH4OEMVNEYX) |
-| [fig] My Hero Academia S05 (BluRay Remux 1080p AVC F... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/fig-my-hero-academia-s05-bluray-remux-1080p.n2087410) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LCF364M7KWEC2REBGL4RNVOG222IGK2I) |
-| [Sokudo] Jigokuraku S02E10 [1080p AV1] | Hell's Para... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e10-1080p-av1-hells-paradise-weekly.n2087409) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DPJPBLBJFFVKVRSH74SPJWJICYBR2323) |
-| [Sokudo] Jigokuraku S02E09 [1080p AV1] | Hell's Para... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e09-1080p-av1-hells-paradise-weekly.n2087408) <br><br> [🐱 Nyaa](https://nyaa.si/?q=76SKAKTU5MXO6S42ZVHS6ZGIUTQH5T5K) |
+| [New-raws] Okiraku Ryoushu no Tanoshii Ryouchi Bouei... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/new-raws-okiraku-ryoushu-no-tanoshii-ryouchi-bouei.n2087499) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WYYLV4BVQC424MJMUVGT4VMQWWHVO6MC) |
+| [ToonsHub] An Adventurers Daily Grind at Age 29 S01E... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-adventurers-daily-grind-age-29-s01e11-1080p.n2087498) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4ZTHNJSYXDXZFD354UNPHFVDRWTPNKNF) |
+| [ToonsHub] Easygoing Territory Defense by the Optimi... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-easygoing-territory-defense-optimistic-lord-s01e11.n2087497) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FOQVXFVOQUBT6FPBFS3PNWZB4GNQF6CA) |
+| [SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bou... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-11.n2087495) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3MEXA5TESV53G66LSB5OEPUURXQUIB7Z) |
+| [SubsPlease] 29-sai Dokushin Chuuken Boukensha no Ni... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-29-sai-dokushin-chuuken-boukensha-no-nichijou.n2087493) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VRU6HD3IMAUYIU3KSG4LSRFHELAFJYL3) |
+| [SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bou... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-11.n2087492) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JSA752P6LHZYXXRTLOPBTVVSBTR7PWWA) |
+| Easygoing Territory Defense by the Optimistic Lord S... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/easygoing-territory-defense-optimistic-lord-s01e11-ultimate.n2087491) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6EKGV3ETRKWKTB63Z6QOBGZLMJTXVLWS) |
+| An Adventurers Daily Grind at Age 29 S01E11 The Powe... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/adventurers-daily-grind-age-29-s01e11-power-charm.n2087490) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WQRSIOG5M4AK4NJMR2DGHCE7KZOUABLN) |
+| [Erai-raws] Okiraku Ryoushu no Tanoshii Ryouchi Boue... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-okiraku-ryoushu-no-tanoshii-ryouchi-boue.n2087488) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4FSPGQPPDHL4GZJUO5R26DDUPANNVSP) |
+| [SubsPlease] 29-sai Dokushin Chuuken Boukensha no Ni... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-29-sai-dokushin-chuuken-boukensha-no-nichijou.n2087487) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6NN4WY6MIFMYY3E66YZTTNO4QKITI6C6) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
