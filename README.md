@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 19/3/2026, 04.40.00 WIB
+**Sync Terakhir:** 19/3/2026, 05.37.40 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Anime Time] Hell's Paradise (Jigokuraku) (Season 1)... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-season-1-bd.n2087735) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RZO435CWHWLJGBEO6CKIW63PULR2YJY4) |
+| [yolerejiju] The Summer Hikaru Died Season 1 (S01) (... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/yolerejiju-summer-hikaru-died-season-1-s01-bd.n2087727) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U3VFTC36YNTDWGX4GBJWDLXG4XRO3GJW) |
+| A Gentle Nobles Vacation Recommendation S01E11 1080p... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/gentle-nobles-vacation-recommendation-s01e11-1080p-cr-web.n2087726) <br><br> [🐱 Nyaa](https://nyaa.si/?q=REZLSXDNINA63VNTMCL2ONOC2SLTDK76) |
 | [Earendur] Oshi no Ko - S03E10 - Private Audition (2... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/earendur-oshi-no-ko-s03e10-private-audition-2160p.2067897) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2WOZGYGVYVCTJO6VUHQLADBOHHXXJH7H) |
 | [SubsPlease] GNOSIA (01-21) (1080p) [Batch] | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-gnosia-01-21-1080p-batch.n2087720) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GSLVI3YDDBIMGKGW3D3LDWP5JT6IK3HJ) |
 | [SubsPlease] GNOSIA (01-21) (720p) [Batch] | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-gnosia-01-21-720p-batch.n2087711) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5Y474TDOE4QF6BPL3JPSSJLFZMWX2N4W) |
@@ -24,9 +27,6 @@
 | [HGS-Renc]_Burst_Angel_(Bakuretsu_Tenshi)_[TV+OVA][B... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/hgs-renc-_burst_angel_-bakuretsu_tenshi-_-tv-ova-bd1080-hevc.n2087705) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DGWA4Z6TXRYGWFRTMY6E7GAB4Y2RDYYW) |
 | [Erai-raws] Shibou Yuugi de Meshi wo Kuu - 11 [1080p... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-shibou-yuugi-de-meshi-wo-kuu.n2087703) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RYZ6NUQRXM2VX5NEHTOJKSLUIKMLJ7MW) |
 | [Erai-raws] Shibou Yuugi de Meshi wo Kuu - 11 [720p ... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-shibou-yuugi-de-meshi-wo-kuu.n2087702) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZHWRUVILJULNZ5PHQPEVUOVSC3KB6WDZ) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [5... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087700) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KDNJHFI4UDC7WKCWEQFM7TUJCHMIENRY) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [7... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087699) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GF6MUMCYE3G3LZ7CUAVD4X4YREFEJ5QS) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087698) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2MMHQDIVFQ4ANWT5ABYBWSXPRJRDNG3M) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
