@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 18/3/2026, 12.01.27 WIB
+**Sync Terakhir:** 18/3/2026, 14.09.27 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [LbE3L] Tougen Anki S01E01–E04 [1080p CUSTOM WEBRip ... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-tougen-anki-s01e01e04-1080p-custom-webrip-av1.2067721) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R74YIUXZZU6TSLAF3346YHH4OEMVNEYX) |
 | [fig] My Hero Academia S05 (BluRay Remux 1080p AVC F... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/fig-my-hero-academia-s05-bluray-remux-1080p.n2087410) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LCF364M7KWEC2REBGL4RNVOG222IGK2I) |
 | [Sokudo] Jigokuraku S02E10 [1080p AV1] | Hell's Para... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e10-1080p-av1-hells-paradise-weekly.n2087409) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DPJPBLBJFFVKVRSH74SPJWJICYBR2323) |
 | [Sokudo] Jigokuraku S02E09 [1080p AV1] | Hell's Para... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e09-1080p-av1-hells-paradise-weekly.n2087408) <br><br> [🐱 Nyaa](https://nyaa.si/?q=76SKAKTU5MXO6S42ZVHS6ZGIUTQH5T5K) |
@@ -26,7 +27,6 @@
 | [Stardust] Jewelpet - 33 [480p] [A1C0B592].mkv | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/stardust-jewelpet-33-480p-a1c0b592-mkv.n2087385) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JZTFPON5BQNHE3KOOQTMTMML7EBTOJWL) |
 | [ak-Submarines] Girls und Panzer - MLLSD - 05 [WEB 1... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/ak-submarines-girls-und-panzer-mllsd-05-web-1080p-df0a8917.n2087384) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZQ32GELI6VFKD6G6URHNSOZ37TNLTZYV) |
 | [DKB] Arne no Jikenbo - S01E11 [1080p][HEVEC x265 10... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-arne-no-jikenbo-s01e11-1080p-hevec-x265.n2087380) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QC74UR6UY7FTKBIW2RLDZ6OECVIBRW3C) |
-| [Gecko] Fate Grand Order You've Lost Ritsuka Fujimar... | NaN MB | 18/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2087361) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YA74Q7QUFMTP2TVH46OXK7HOZIHXBKVB) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
