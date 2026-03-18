@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 19/3/2026, 02.09.44 WIB
+**Sync Terakhir:** 19/3/2026, 03.44.32 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [SubsPlease] GNOSIA (01-21) (1080p) [Batch] | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-gnosia-01-21-1080p-batch.n2087720) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GSLVI3YDDBIMGKGW3D3LDWP5JT6IK3HJ) |
+| [SubsPlease] GNOSIA (01-21) (720p) [Batch] | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-gnosia-01-21-720p-batch.n2087711) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5Y474TDOE4QF6BPL3JPSSJLFZMWX2N4W) |
+| [SubsPlease] GNOSIA (01-21) (480p) [Batch] | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-gnosia-01-21-480p-batch.n2087709) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WBUUAIVYFJXMVK5NP5PNRESBUWBRUJCV) |
+| [HGS-Renc]_Burst_Angel_(Bakuretsu_Tenshi)_[TV+OVA][B... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/hgs-renc-_burst_angel_-bakuretsu_tenshi-_-tv-ova-bd1080-hevc.n2087705) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DGWA4Z6TXRYGWFRTMY6E7GAB4Y2RDYYW) |
 | [Erai-raws] Shibou Yuugi de Meshi wo Kuu - 11 [1080p... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-shibou-yuugi-de-meshi-wo-kuu.n2087703) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RYZ6NUQRXM2VX5NEHTOJKSLUIKMLJ7MW) |
 | [Erai-raws] Shibou Yuugi de Meshi wo Kuu - 11 [720p ... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-shibou-yuugi-de-meshi-wo-kuu.n2087702) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZHWRUVILJULNZ5PHQPEVUOVSC3KB6WDZ) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [5... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087700) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KDNJHFI4UDC7WKCWEQFM7TUJCHMIENRY) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [7... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087699) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GF6MUMCYE3G3LZ7CUAVD4X4YREFEJ5QS) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2087698) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2MMHQDIVFQ4ANWT5ABYBWSXPRJRDNG3M) |
 | [Onalrie] Dragon Raja - S02E23 (JP) [1080p WEBRip AV... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-dragon-raja-s02e23-jp-1080p-webrip-av1-mkv.2067872) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7U5PXEDKXY25ODBUCCIWG2S7B5AQCCVM) |
-| [Trix] Scarlet (2025) [WEBRip 1080p AV1 Opus] (Multi... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-scarlet-2025-webrip-1080p-av1-opus-multi.n2087692) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5HUKC2DQE2PSADH2SXXHNDELK5O7SOVJ) |
-| [ASW] Dragon Raja S2 (JP) - 23 [1080p HEVC x265 10Bi... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-dragon-raja-s2-jp-23-1080p-hevc.n2087690) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YUA7EJY6LQAS6VLR3GJMG2TN4OCN72SF) |
-| [Onalrie] Tamon-kun Ima Docchi - S01E12 [1080p WEBRi... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-tamon-kun-ima-docchi-s01e12-1080p-webrip-av1-mkv.2067870) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MWQDUQGQ4YDUKYVSJ5EYFZDBTOGT2RUV) |
-| [FSP DN] The Gate of Mystical Realm - 19 (4K) | 玄界之门 | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/fsp-dn-gate-mystical-realm-19-4k.n2087686) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IPOVHABLJ3W3BU6HS2JJOCV2ABAYXX6D) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
