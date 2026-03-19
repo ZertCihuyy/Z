@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 19/3/2026, 18.40.10 WIB
+**Sync Terakhir:** 19/3/2026, 20.18.38 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Bird] Ganzo! Bandori-chan - 24 (1080p) [7AAC59FF] | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/bird-ganzo-bandori-chan-24-1080p-7aac59ff.n2087828) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UBZ3OLK24S5HW4RZJMCOMYALKR24WHXV) |
+| [ToonsHub] GANSO BanG Dream Chan S01E24 1080p AMZN W... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-ganso-bang-dream-chan-s01e24-1080p-amzn.k9788372089359) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4GVEN6QOEKMH5UTM3SQTL53OBVDPM7LH) |
+| [GHOST] Please Teacher (BD 1080p HEVC 10bit Dual Aud... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/ghost-please-teacher-bd-1080p-hevc-10bit-dual-audio-ac3.n2087824) <br><br> [🐱 Nyaa](https://nyaa.si/?q=POYVD73AAVEXHTSLUT2VUNTKZFC7DD6K) |
 | [Gecko] Koala's Diary - S01E25 (コアラ絵日記; Koala Enikki... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e25-koala-enikki-ytb-web.n2087811) <br><br> [🐱 Nyaa](https://nyaa.si/?q=COROYJ54TRJD37VZ75S57WEJRNVSFMJL) |
 | [ToonsHub] Koalas Diary S01E25 1080p LNTV WEB-DL AAC... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e25-1080p-lntv-web-dl.n2087810) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J2FP7J2WY5Z2E5PT5ZU4WOOQE3GO4ANQ) |
 | [ToonsHub] Star Detective Precure S01E07 REPACK 1080... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e07-repack-1080p-cr.k9785392325632) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6325Z7RUPFSQGMID55IMGKLR4JUICJRP) |
@@ -24,9 +27,6 @@
 | JoJos Bizarre Adventure 2012 S06E01 STEEL BALL RUN 1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/jojos-bizarre-adventure-2012-s06e01-steel-ball-run.n2087796) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KKX7QCA6RL3UHHRBEBMESNVZJKKYUWPH) |
 | JoJos Bizarre Adventure 2012 S06E01 STEEL BALL RUN 1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/jojos-bizarre-adventure-2012-s06e01-steel-ball-run.n2087795) <br><br> [🐱 Nyaa](https://nyaa.si/?q=35DTHGXRJRRG74REMJF6AIHYENO62B4I) |
 | [LbE3L] The Darwin Incident S01E11 (Darwin Jihen) [1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-darwin-incident-s01e11-jihen-1080p-amzn-webrip.2067970) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WQMFJG2CMBDBQQB7PICCXIWFUI3MDHHV) |
-| [ToonsHub] JoJos Bizarre Adventure S06E01 1080p NF W... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jojos-bizarre-adventure-s06e01-1080p-nf-web.k9783295459594) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YBF7YGNJ7ATUFDPUHFRBFEBFKX5CK2H5) |
-| [ToonsHub] JoJos Bizarre Adventure S06E01 1080p NF W... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jojos-bizarre-adventure-s06e01-1080p-nf-web.n2087784) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S56RFNTZLTGZ4J7YBVCBCVEP2HPO5IX2) |
-| [EG] Gundam 0083 - BD 2026 Encode | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/eg-gundam-0083-bd-2026-encode.n2087777) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2FCZXE4CDMJMQJHHYUHJZWQQAHPK7OQI) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
