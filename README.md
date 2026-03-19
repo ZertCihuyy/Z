@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 19/3/2026, 17.49.37 WIB
+**Sync Terakhir:** 19/3/2026, 18.40.10 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Gecko] Koala's Diary - S01E25 (コアラ絵日記; Koala Enikki... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e25-koala-enikki-ytb-web.n2087811) <br><br> [🐱 Nyaa](https://nyaa.si/?q=COROYJ54TRJD37VZ75S57WEJRNVSFMJL) |
+| [ToonsHub] Koalas Diary S01E25 1080p LNTV WEB-DL AAC... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e25-1080p-lntv-web-dl.n2087810) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J2FP7J2WY5Z2E5PT5ZU4WOOQE3GO4ANQ) |
 | [ToonsHub] Star Detective Precure S01E07 REPACK 1080... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e07-repack-1080p-cr.k9785392325632) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6325Z7RUPFSQGMID55IMGKLR4JUICJRP) |
 | [MinaYuki] Princession Orchestra - 46 v1.5 | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/minayuki-princession-orchestra-46-v1-5.n2087799) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AUMW35S4CUJ73UGOYET7IWZLZFUNYOXY) |
 | JoJos Bizarre Adventure 2012 S06E01 STEEL BALL RUN 1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/jojos-bizarre-adventure-2012-s06e01-steel-ball-run.n2087796) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KKX7QCA6RL3UHHRBEBMESNVZJKKYUWPH) |
@@ -25,8 +27,6 @@
 | [ToonsHub] JoJos Bizarre Adventure S06E01 1080p NF W... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jojos-bizarre-adventure-s06e01-1080p-nf-web.k9783295459594) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YBF7YGNJ7ATUFDPUHFRBFEBFKX5CK2H5) |
 | [ToonsHub] JoJos Bizarre Adventure S06E01 1080p NF W... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jojos-bizarre-adventure-s06e01-1080p-nf-web.n2087784) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S56RFNTZLTGZ4J7YBVCBCVEP2HPO5IX2) |
 | [EG] Gundam 0083 - BD 2026 Encode | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/eg-gundam-0083-bd-2026-encode.n2087777) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2FCZXE4CDMJMQJHHYUHJZWQQAHPK7OQI) |
-| [Gecko] Reborn as a Cat - S01E21 (为喵人生; Wei Miao Ren... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e21-wei-miao-rensheng-bili.k9779149210369) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M3W7VIFXUK6P2GDK37YCO2LWA3UFFBCW) |
-| Reborn as a Cat S01E20 1080p BILI WEB-DL AAC2.0 H 26... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e20-1080p-bili-web-dl-aac2.n2087763) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NVCKUYTQSREJ666Z3SQZUNAT2BN5O3YF) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
