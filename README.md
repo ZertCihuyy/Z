@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 19/3/2026, 15.52.01 WIB
+**Sync Terakhir:** 19/3/2026, 16.53.18 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [ToonsHub] Star Detective Precure S01E07 REPACK 1080... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e07-repack-1080p-cr.k9785392325632) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6325Z7RUPFSQGMID55IMGKLR4JUICJRP) |
+| [MinaYuki] Princession Orchestra - 46 v1.5 | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/minayuki-princession-orchestra-46-v1-5.n2087799) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AUMW35S4CUJ73UGOYET7IWZLZFUNYOXY) |
 | JoJos Bizarre Adventure 2012 S06E01 STEEL BALL RUN 1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/jojos-bizarre-adventure-2012-s06e01-steel-ball-run.n2087796) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KKX7QCA6RL3UHHRBEBMESNVZJKKYUWPH) |
 | JoJos Bizarre Adventure 2012 S06E01 STEEL BALL RUN 1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/jojos-bizarre-adventure-2012-s06e01-steel-ball-run.n2087795) <br><br> [🐱 Nyaa](https://nyaa.si/?q=35DTHGXRJRRG74REMJF6AIHYENO62B4I) |
 | [LbE3L] The Darwin Incident S01E11 (Darwin Jihen) [1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-darwin-incident-s01e11-jihen-1080p-amzn-webrip.2067970) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WQMFJG2CMBDBQQB7PICCXIWFUI3MDHHV) |
@@ -25,8 +27,6 @@
 | [EG] Gundam 0083 - BD 2026 Encode | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/eg-gundam-0083-bd-2026-encode.n2087777) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2FCZXE4CDMJMQJHHYUHJZWQQAHPK7OQI) |
 | [Gecko] Reborn as a Cat - S01E21 (为喵人生; Wei Miao Ren... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e21-wei-miao-rensheng-bili.k9779149210369) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M3W7VIFXUK6P2GDK37YCO2LWA3UFFBCW) |
 | Reborn as a Cat S01E20 1080p BILI WEB-DL AAC2.0 H 26... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e20-1080p-bili-web-dl-aac2.n2087763) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NVCKUYTQSREJ666Z3SQZUNAT2BN5O3YF) |
-| [ToonsHub] Reborn as a Cat S01E21 1080p BILI WEB-DL ... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e21-1080p-bili-web-dl.k9779107352846) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YR2ZM33TIUG2OG7F77LNMAIG5Q47U4UD) |
-| [yolerejiju] The Summer Hikaru Died Season 1 (S01) (... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/yolerejiju-summer-hikaru-died-season-1-s01-bd.n2087751) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M7IOPXAJA62PVASNI6PPJ6ZQ4DIPKR7S) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
