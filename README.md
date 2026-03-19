@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 04.41.30 WIB
+**Sync Terakhir:** 20/3/2026, 05.34.54 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [QM] Hyouka (BD 1080p 10bit x265 FLAC) [Dual-Audio] | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/qm-hyouka-bd-1080p-10bit-x265-flac-dual-audio.n2088081) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NRWPMPBEPR23WRS2A3HVKBAVPK2RFD5D) |
+| (shiteater) Dr. Slump & Arale-chan 184 [75D0DB55] (s... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/shiteater-dr-slump-arale-chan-184-75d0db55-shiteatersubs.n2088079) <br><br> [🐱 Nyaa](https://nyaa.si/?q=O4GVSVPIFX6O4U3QSRZJDQBWCZFHOVBY) |
+| Reincarnated as a Dragon Hatchling S01E01 1080p AMZN... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/reincarnated-dragon-hatchling-s01e01-1080p-amzn-web-dl.n2088080) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6TXY3NKLADYMU3UCFGVCP5X76XYP4SXB) |
+| HELL MODE S01E03 1080p AMZN WEB-DL DUAL DDP2.0 H 264... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/hell-mode-s01e03-1080p-amzn-web-dl-dual.n2088078) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RMSKZVWDTFQJCOKGSBHISSJR4LDKV43X) |
+| Chained Soldier S02E02 1080p AMZN WEB-DL DUAL DDP2.0... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e02-1080p-amzn-web-dl-dual.n2088076) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PGFBPBFE5V6KID4C2AZL7XF4B3G4PJEB) |
 | [Trix] Gnosia S01 v2 (Batch) [WEBRip 1080p AV1 Opus]... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-gnosia-s01-v2-batch-webrip-1080p-av1.k9796164518149) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7IWIRW5FN4RO5X2PW4FPHFSY56UXV2MZ) |
 | [Anime Time] Jujutsu Kaisen - S03E09 [1080p][HEVC 10... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-jujutsu-kaisen-s03e09-1080p-hevc-10bit.n2088072) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ACKGRK4W6R2NZVZLYLF7G47IY7XGLQJE) |
 | [Ari-M] Monogatari Series Off & Monster Season [CR W... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/ari-m-monogatari-series-off-monster-season-cr.n2088071) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3WK7OSLIDUWN3KHX2L4D5YAWVSCBRWPV) |
 | [Orphan] Animated Classics of Japanese Literature S0... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/orphan-animated-classics-japanese-literature-s01-student.n2088069) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VQ4X2JOLU5KBL6S66DRNCTWKUBCH6GKB) |
 | [Anime Chap] JoJo's Bizarre Adventure Part 7: Steel ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-chap-jojos-bizarre-adventure-part-7-steel.n2088067) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EWFV5DDKGBEQB3MZQTWDIU3IOIP6TWQH) |
-| [Feibanyama] JUJUTSU KAISEN S03E11 [IQIYI WebRip 216... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/feibanyama-jujutsu-kaisen-s03e11-iqiyi-webrip-2160p-hevc.n2088065) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NVX4IYXIAZQTFAMN4BNTXG7Q3CJ3VOD4) |
-| [Onalrie] Champignon no Majo - S01E12 [1080p WEBRip ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-champignon-no-majo-s01e12-1080p-webrip-av1-mkv.2068093) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JUHEYU3XD6EQ3CQ7JJHRDDYDG46CDXUO) |
-| [Inka-Subs] Fight Da!! Pyuta - Episode 24 | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/inka-subs-fight-da-pyuta-episode-24.n2088048) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UFHMJCP3VFJF55AMRKJHUV2ICJOKASAJ) |
-| [ASW] Champignon no Majo - 12 [1080p HEVC x265 10Bit... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-champignon-no-majo-12-1080p-hevc-x265-10bit-aac.n2088047) <br><br> [🐱 Nyaa](https://nyaa.si/?q=34HK2ERSMLXBMC3L3NKSSVCGSWKGPFWC) |
-| [Onalrie] Douse, Koishite Shimaunda - S02E11 [1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-douse-koishite-shimaunda-s02e11-1080p-webrip-av1-mkv.2068091) <br><br> [🐱 Nyaa](https://nyaa.si/?q=24DDQVY745QAK3QT6CPBRV7FPSU6EWDJ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
