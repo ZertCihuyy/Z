@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 00.09.59 WIB
+**Sync Terakhir:** 20/3/2026, 02.06.29 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ToonsHub] Anyway Im Falling in Love with You S02E11... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e11-1080p-cr.k9792030617612) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6DVUKRBSRTYRASDDFCAXC2DP34X5KHKP) |
-| [ToonsHub] Anyway Im Falling in Love with You S02E11... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e11-1080p-bili.k9792014625803) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JPVYCOUPPJLEVRRAUBQVE2MOLEUDEYN4) |
-| JUJUTSU KAISEN S03E11 Tokyo Colony No 1-Part 5 1080p... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/jujutsu-kaisen-s03e11-tokyo-colony-no-1-part.n2087994) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RONTGZNMLSDPZCFTXEMNTKIEHSVXXUMI) |
-| [Raze] Yuusha-kei ni Shosu - 11 (Dual-Audio) x265 10... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/raze-yuusha-kei-ni-shosu-11-dual-audio.n2087992) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TR4GQWDDHRJXAUGUEY3Z3QOC7VTN5TVS) |
-| [SubsPlease] Jujutsu Kaisen - 58 (1080p) [3D64E486].mkv | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jujutsu-kaisen-58-1080p-3d64e486-mkv.n2087990) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2GZQP44IYZFFYC3JDYJN52OXCPW2MVGT) |
-| [SubsPlease] Jujutsu Kaisen - 58 (720p) [844324D5].mkv | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jujutsu-kaisen-58-720p-844324d5-mkv.n2087989) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RWWE6KUSUOZRA5PB6TE37RPB3UBZMHUN) |
-| [SubsPlease] Jujutsu Kaisen - 58 (480p) [B904F5B4].mkv | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jujutsu-kaisen-58-480p-b904f5b4-mkv.n2087988) <br><br> [🐱 Nyaa](https://nyaa.si/?q=O6JEGB6UGU3HFG55HO4LMPYOL62QL2WK) |
-| [ToonsHub] Jujutsu Kaisen S03E11 1080p AMZN WEB-DL D... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jujutsu-kaisen-s03e11-1080p-amzn-web-dl.k9791738349058) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2AYFML47A5V3Z7KONGZEVUTCGXNYG4GY) |
-| [Onalrie] Toumei Otoko to Ningen Onna - S01E11 [1080... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-toumei-otoko-ningen-onna-s01e11-1080p-webrip-av1-mkv.2068075) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WJQNNEXKLH7HVOK3IDRJB2FWLXO27B4N) |
-| [ToonsHub] JUJUTSU KAISEN S03E11 1080p CR WEB-DL AAC... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jujutsu-kaisen-s03e11-1080p-cr-web-dl.k9791568969729) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OR5N3FDUGPLYMTJ7REWAE7Q3OI5C5HPY) |
+| [Onalrie] Douse, Koishite Shimaunda - S02E11 [1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-douse-koishite-shimaunda-s02e11-1080p-webrip-av1-mkv.2068091) <br><br> [🐱 Nyaa](https://nyaa.si/?q=24DDQVY745QAK3QT6CPBRV7FPSU6EWDJ) |
+| [ASW] Douse, Koishite Shimaunda S2 - 11 [1080p HEVC ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-douse-koishite-shimaunda-s2-11-1080p-hevc.n2088046) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GZR3XUXKV2GYX3Y76LZSJYFIQQDJH7Z3) |
+| [Ironclad] The Demon King's Daughter Is Too Kind!! -... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-demon-kings-daughter-too-kind-s01-web.k9793722227459) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HNJR5EAIUQCFUBDY3HUKRGENSRQB44Z4) |
+| [Raze] Jujutsu Kaisen S3 - 11 x265 10bit 1080p 143.8... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/raze-jujutsu-kaisen-s3-11-x265-10bit-1080p.n2088042) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OXMGAIDZZJEOFSHP4M3M6QOU333UMOA2) |
+| [Onalrie] Jujutsu Kaisen - S03E11 [1080p WEBRip AV1]... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-jujutsu-kaisen-s03e11-1080p-webrip-av1-mkv.2068088) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GTGMKEP5ODTDX3WOTGP5IQUT66UQHJCT) |
+| [ASW] Jujutsu Kaisen - 58 [1080p HEVC x265 10Bit][AAC] | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-jujutsu-kaisen-58-1080p-hevc-x265-10bit-aac.n2088038) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3NQVSFIOL2PSPNZTSIWQV4XBGL65B5UO) |
+| [ASW] Eris no Seihai - 11 [1080p HEVC x265 10Bit][AAC] | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-eris-no-seihai-11-1080p-hevc-x265-10bit-aac.n2088037) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G7KV342H73CK4NYN6UNM6F2BONAL734Z) |
+| [SubsPlease] Champignon no Majo - 12 (1080p) [A41575... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-champignon-no-majo-12-1080p-a41575e1-mkv.n2088034) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZUAE5HXV42CN6HKBNSA25ROINUHVBQ64) |
+| [Judas] JUJUTSU KAISEN - S03E11 [1080p][HEVC x265 10... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-jujutsu-kaisen-s03e11-1080p-hevc-x265-10bit.n2088032) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MM6X4PWTJYRQZN54MDBQVC5CUL2SBYBN) |
+| [SubsPlease] Champignon no Majo - 12 (720p) [9431CDF... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-champignon-no-majo-12-720p-9431cdf1-mkv.n2088030) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SUI5GQUHSTBIWARE35AEXIR7D57QQDLB) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
