@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 19/3/2026, 14.51.05 WIB
+**Sync Terakhir:** 19/3/2026, 15.52.01 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| JoJos Bizarre Adventure 2012 S06E01 STEEL BALL RUN 1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/jojos-bizarre-adventure-2012-s06e01-steel-ball-run.n2087796) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KKX7QCA6RL3UHHRBEBMESNVZJKKYUWPH) |
+| JoJos Bizarre Adventure 2012 S06E01 STEEL BALL RUN 1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/jojos-bizarre-adventure-2012-s06e01-steel-ball-run.n2087795) <br><br> [🐱 Nyaa](https://nyaa.si/?q=35DTHGXRJRRG74REMJF6AIHYENO62B4I) |
 | [LbE3L] The Darwin Incident S01E11 (Darwin Jihen) [1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-darwin-incident-s01e11-jihen-1080p-amzn-webrip.2067970) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WQMFJG2CMBDBQQB7PICCXIWFUI3MDHHV) |
 | [ToonsHub] JoJos Bizarre Adventure S06E01 1080p NF W... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jojos-bizarre-adventure-s06e01-1080p-nf-web.k9783295459594) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YBF7YGNJ7ATUFDPUHFRBFEBFKX5CK2H5) |
 | [ToonsHub] JoJos Bizarre Adventure S06E01 1080p NF W... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jojos-bizarre-adventure-s06e01-1080p-nf-web.n2087784) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S56RFNTZLTGZ4J7YBVCBCVEP2HPO5IX2) |
@@ -25,8 +27,6 @@
 | Reborn as a Cat S01E20 1080p BILI WEB-DL AAC2.0 H 26... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e20-1080p-bili-web-dl-aac2.n2087763) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NVCKUYTQSREJ666Z3SQZUNAT2BN5O3YF) |
 | [ToonsHub] Reborn as a Cat S01E21 1080p BILI WEB-DL ... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e21-1080p-bili-web-dl.k9779107352846) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YR2ZM33TIUG2OG7F77LNMAIG5Q47U4UD) |
 | [yolerejiju] The Summer Hikaru Died Season 1 (S01) (... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/yolerejiju-summer-hikaru-died-season-1-s01-bd.n2087751) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M7IOPXAJA62PVASNI6PPJ6ZQ4DIPKR7S) |
-| Bakugan Battle Brawlers Mechtanium Surge 03 SUB - Ri... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/bakugan-battle-brawlers-mechtanium-surge-03-sub-rivals.n2087742) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z3BMRJ4DKRZIFYM2CJGAQDZG5MILKEZL) |
-| [DKB] Jigoku Sensei Nube (2025) - S01E24 [1080p][HEV... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigoku-sensei-nube-2025-s01e24-1080p-hevc.n2087741) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ATAT6LMSB4PNH5O7CQSW4GQSST4UDYV7) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
