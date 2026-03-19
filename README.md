@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 19/3/2026, 13.05.53 WIB
+**Sync Terakhir:** 19/3/2026, 14.51.05 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [LbE3L] The Darwin Incident S01E11 (Darwin Jihen) [1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-darwin-incident-s01e11-jihen-1080p-amzn-webrip.2067970) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WQMFJG2CMBDBQQB7PICCXIWFUI3MDHHV) |
+| [ToonsHub] JoJos Bizarre Adventure S06E01 1080p NF W... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jojos-bizarre-adventure-s06e01-1080p-nf-web.k9783295459594) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YBF7YGNJ7ATUFDPUHFRBFEBFKX5CK2H5) |
+| [ToonsHub] JoJos Bizarre Adventure S06E01 1080p NF W... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jojos-bizarre-adventure-s06e01-1080p-nf-web.n2087784) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S56RFNTZLTGZ4J7YBVCBCVEP2HPO5IX2) |
+| [EG] Gundam 0083 - BD 2026 Encode | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/eg-gundam-0083-bd-2026-encode.n2087777) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2FCZXE4CDMJMQJHHYUHJZWQQAHPK7OQI) |
 | [Gecko] Reborn as a Cat - S01E21 (为喵人生; Wei Miao Ren... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e21-wei-miao-rensheng-bili.k9779149210369) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M3W7VIFXUK6P2GDK37YCO2LWA3UFFBCW) |
 | Reborn as a Cat S01E20 1080p BILI WEB-DL AAC2.0 H 26... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e20-1080p-bili-web-dl-aac2.n2087763) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NVCKUYTQSREJ666Z3SQZUNAT2BN5O3YF) |
 | [ToonsHub] Reborn as a Cat S01E21 1080p BILI WEB-DL ... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e21-1080p-bili-web-dl.k9779107352846) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YR2ZM33TIUG2OG7F77LNMAIG5Q47U4UD) |
 | [yolerejiju] The Summer Hikaru Died Season 1 (S01) (... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/yolerejiju-summer-hikaru-died-season-1-s01-bd.n2087751) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M7IOPXAJA62PVASNI6PPJ6ZQ4DIPKR7S) |
 | Bakugan Battle Brawlers Mechtanium Surge 03 SUB - Ri... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/bakugan-battle-brawlers-mechtanium-surge-03-sub-rivals.n2087742) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z3BMRJ4DKRZIFYM2CJGAQDZG5MILKEZL) |
 | [DKB] Jigoku Sensei Nube (2025) - S01E24 [1080p][HEV... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigoku-sensei-nube-2025-s01e24-1080p-hevc.n2087741) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ATAT6LMSB4PNH5O7CQSW4GQSST4UDYV7) |
-| Neon.Genesis.Evangelion.S01.1080p.BluRay.Remux.Dual-... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/neon-genesis-evangelion-s01-1080p-bluray-remux-dual.n2087737) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HRXUZJKTA6MNZYCOPIDTQGYSZ6UYAONG) |
-| [ChuySub] Majokko Megu-chan - Episode 40 | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-40.n2087736) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NPNEC4XEGC7C2ZLOSILVX7CMQKU3TF3W) |
-| [Anime Time] Hell's Paradise (Jigokuraku) (Season 1)... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-season-1-bd.n2087735) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RZO435CWHWLJGBEO6CKIW63PULR2YJY4) |
-| [yolerejiju] The Summer Hikaru Died Season 1 (S01) (... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/yolerejiju-summer-hikaru-died-season-1-s01-bd.n2087727) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U3VFTC36YNTDWGX4GBJWDLXG4XRO3GJW) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
