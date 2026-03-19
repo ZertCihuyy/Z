@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 19/3/2026, 21.54.18 WIB
+**Sync Terakhir:** 19/3/2026, 22.59.47 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| Sentenced to Be a Hero S01E11 1080p CR WEB-DL DUAL A... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/sentenced-hero-s01e11-1080p-cr-web-dl-dual.n2087883) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HHW4K7NMRKBGAYWJG72FKSKSGP2U7BUK) |
-| [ToonsHub] MF GHOST S03E12 1080p CR WEB-DL AAC2.0 H.... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-mf-ghost-s03e12-1080p-cr-web-dl.k9789823628035) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J7CDJICIF3D2LIZ34BJNUSC3DYAISMNW) |
-| [Erai-raws] MF Ghost 3rd Season - 12 [480p CR WEB-DL... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mf-ghost-3rd-season-12-480p.n2087880) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6OMRNPVYLVCATDSY5QQWT7STGEFLINBK) |
-| [Erai-raws] MF Ghost 3rd Season - 12 [720p CR WEB-DL... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mf-ghost-3rd-season-12-720p.n2087879) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MGBT7JA5RKUUJFX7EPFB7HM4AJ7L5BNF) |
-| [Erai-raws] MF Ghost 3rd Season - 12 [1080p CR WEB-D... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mf-ghost-3rd-season-12-1080p.n2087878) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3ZB3TS6VVWCO7LK7XFHDE5DFCIA2DOGA) |
-| [SubsPlease] MF Ghost - 36 (1080p) [1B929EAA].mkv | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-mf-ghost-36-1080p-1b929eaa-mkv.n2087876) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UNOPAOODN2M5ZYPANUQM6B5KJDULM2AO) |
-| [SubsPlease] MF Ghost - 36 (720p) [A1764971].mkv | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-mf-ghost-36-720p-a1764971-mkv.n2087875) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OE7XKAFKJPJQRZBQFUNJUSA4FNLRJ3YP) |
-| [SubsPlease] MF Ghost - 36 (480p) [245937D7].mkv | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-mf-ghost-36-480p-245937d7-mkv.n2087874) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ULBKOSXTWH5OACPUKQY4RF4NSULLH2UE) |
-| [Yameii] Sentenced to Be a Hero - S01E11 [English Du... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-sentenced-hero-s01e11-english-dub-cr-web.n2087867) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TU7RRJH3TQFF2RMP2QXJVYR25WDUFUAT) |
-| [Yameii] Sentenced to Be a Hero - S01E11 [English Du... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-sentenced-hero-s01e11-english-dub-cr-web.n2087865) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L2C72XS7DN7XCGMYAHJ4NDPNAN6FQSW5) |
+| [SubsPlus+] Chained Soldier - S02E11 (ADN WEB-DL 108... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplus-chained-soldier-s02e11-adn-web-dl-1080p.k9790841738758) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VEXLQXADUD2FFDE22667BCHUVFVHNE5G) |
+| [Onalrie] MF Ghost - S03E12 [1080p WEBRip AV1].mkv | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-mf-ghost-s03e12-1080p-webrip-av1-mkv.2068065) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KYZLCOHZQ4GZKUM7GIRXQSKSZ7DB6UB4) |
+| [ToonsHub] Chained Soldier S02E11 1080p UNCENSORED A... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chained-soldier-s02e11-1080p-uncensored-adn-web.n2087944) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DF4QYUP4XKTSASCI3MTW66EBUENQ5QSZ) |
+| [SubsPlease] Mato Seihei no Slave S2 - 11 (1080p) [1... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-mato-seihei-no-slave-s2-11-1080p-1402da36-mkv.n2087943) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KDBRTTNHZHBSKIHUZDNEWSPYH3MXA7OC) |
+| Chained Soldier S02E11 Slave Heaven 1080p HIDI WEB-D... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e11-slave-heaven-1080p-hidi-web.n2087942) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R347KY46CTCUPLNXAC5RXTT3FAIIFRRW) |
+| [SubsPlease] Mato Seihei no Slave S2 - 11 (720p) [C6... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-mato-seihei-no-slave-s2-11-720p-c6afa634-mkv.n2087940) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WI46NMFLWC4DTJ35GKHH4C34VVAXG7EB) |
+| [SubsPlease] Mato Seihei no Slave S2 - 11 (480p) [EB... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-mato-seihei-no-slave-s2-11-480p-ebd6f27c-mkv.n2087939) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GMFEQJYARUP2Q5QJ6OXNWWRVVPJUJWVH) |
+| [Erai-raws] Mato Seihei no Slave 2 - 11 [480p HIDIVE... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2087938) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HKEFTMHA6LE7ZCHH6LWLTUWVZ2IEPWTR) |
+| [Erai-raws] Mato Seihei no Slave 2 - 11 [720p HIDIVE... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2087937) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EB6HJEXH7VVID6PALK6WKOKPDV2P3IWC) |
+| [ToonsHub] JUJUTSU KAISEN S03E09 1080p CR WEB-DL DUA... | NaN MB | 19/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jujutsu-kaisen-s03e09-1080p-cr-web-dl.k9790652221185) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4JSYTZB3RI37GI6UNRFAQ6OMO5M2CKOG) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
