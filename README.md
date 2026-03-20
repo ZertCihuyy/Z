@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 05.34.53 WIB
+**Sync Terakhir:** 21/3/2026, 06.34.43 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Yameii] Frieren: Beyond Journey's End - S02E07 [Eng... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-frieren-beyond-journeys-end-s02e07-english-dub.n2088511) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IREHNXIYPGGHD2NWDJBC7XO7YGKGMAHB) |
+| [Yameii] Fire Force - S03E23 [English Dub] [CR WEB-D... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-fire-force-s03e23-english-dub-cr-web.n2088510) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5EF7PTPIYSVS7JFIHWSMLUORA7M7H6AH) |
+| [Yameii] DARK MOON: THE BLOOD ALTAR - S01E11 [Englis... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dark-moon-blood-altar-s01e11-english-dub.n2088509) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PUE454I4HICARPQKIPGSL3E5OGATA2QX) |
 | [Anime Time] Hell's Paradise (Jigokuraku) - S02E04 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e04-1080p-hevc.n2088504) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3UP2HE3PDUAMXGJYMXVLCO5LZOYYFKKD) |
 | [Anime Time] Hell's Paradise (Jigokuraku) - S02E03 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e03-1080p-hevc.n2088503) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OFJXMVLKC7RSWS3WB2X2CHI4UDWQ2OZP) |
 | [DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-hell-mode-yarikomizuki-no-gamer-wa-hai.n2088502) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZJVSGUHY37PWDPGISDLCDYUK3RU5DLHW) |
@@ -24,9 +27,6 @@
 | [SubsPlease] Kikaijikake no Marie (01-12) (1080p) [B... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kikaijikake-no-marie-01-12-1080p-batch.n2088500) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2ZRAO22JX7JLX47XCK565IGTR5GUFWED) |
 | [SubsPlease] Kikaijikake no Marie (01-12) (720p) [Ba... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kikaijikake-no-marie-01-12-720p-batch.n2088499) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DEFN3MZAPMUFLZMJJBH5RGRZVX6XEZDT) |
 | [SubsPlease] Kikaijikake no Marie (01-12) (480p) [Ba... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kikaijikake-no-marie-01-12-480p-batch.n2088498) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3JNKYCJDJIURBNHYELY3IWZPLIYZDPCJ) |
-| Frieren.Beyond.Journeys.End.S02E09.1080p.CR.WEBRip.1... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e09-1080p-cr-webrip.n2088496) <br><br> [🐱 Nyaa](https://nyaa.si/?q=O3MAE7IWVUMNRY4RKKHKXTUKB3JOJ2RB) |
-| [Anime Time] Hell's Paradise (Jigokuraku) - S02E02 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e02-1080p-hevc.n2088495) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4AD4JZG3FQTITIYCYFLASC3ODLFJ57TH) |
-| [Judas] Mato Seihei no Slave (Chained Soldier) [Unce... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-mato-seihei-no-slave-chained-soldier-uncensored.n2088492) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DBU6YCMEVM2A7SZVVJF6NX6BKJB7XEFG) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
