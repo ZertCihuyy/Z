@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 11.51.48 WIB
+**Sync Terakhir:** 20/3/2026, 12.56.32 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Techmod] Katsugeki Touken Ranbu (BD 1080P) | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/techmod-katsugeki-touken-ranbu-bd-1080p.n2088185) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U4YFEKTIOX7DUTFCPKEWY4UFXA6R6R7R) |
-| [hayden fansubs] Himitsu No Akko-Chan (1969) - Episo... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/hayden-fansubs-himitsu-no-akko-chan-1969-episode-62.n2088184) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EL5AYKOVK5PXSW4RAPX2YO5IBLL6GEQX) |
-| Hitori No Shita The Outcast S06E12 1080p CR WEB-DL A... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e12-1080p-cr-web.n2088181) <br><br> [🐱 Nyaa](https://nyaa.si/?q=75DFCQVWDIAKVDLBTATO74SOCAHILO33) |
-| [ASW] Hitori no Shita - The Outcast S6 - 12 [1080p H... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-12-1080p.n2088176) <br><br> [🐱 Nyaa](https://nyaa.si/?q=F6UAJ52WMXJQTYB65IUP23UPNIDGP6WX) |
-| [PinkBunny] CHRONOS RULER ( Jikan no Shihaisha ) [10... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/pinkbunny-chronos-ruler-jikan-no-shihaisha-1080p.n2088167) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XMPVM3PHGJHAWZFG2PQW67AUBKFDIKHX) |
-| [Yameii] Jujutsu Kaisen - S03E09 [English Dub] [CR W... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-jujutsu-kaisen-s03e09-english-dub-cr-web.n2088166) <br><br> [🐱 Nyaa](https://nyaa.si/?q=N424IF2S7NRPX4PDD7YYJY7GTSTWTEOM) |
-| [Yameii] Jujutsu Kaisen - S03E09 [English Dub] [CR W... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-jujutsu-kaisen-s03e09-english-dub-cr-web.n2088165) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MJFUTDLJ742D3L66OLAH5GK52CJRB2KQ) |
-| [Gecko] Hitori No Shita - The Outcast - S06E13 (一人之下... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e13-yi-ren.k9800344507913) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2LDF3U7CZWWXCZZMZYSTWGXJGAY3KXOB) |
-| [SubsPlease] Hitori no Shita - The Outcast S6 - 12 (... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-12-1080p-b6e1e7eb-mkv.n2088163) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WORK4KGIHEN3CYMLXV4UE4JZQVBMJFMG) |
-| [SubsPlease] Hitori no Shita - The Outcast S6 - 12 (... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-12-720p-bc662e46-mkv.n2088162) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JIRODVSGHWDS7TQD6RALW4432RHJ2R5K) |
+| [UnHoly] Gatchaman Crowds S00E02 (BD Remux 1080p x26... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/unholy-gatchaman-crowds-s00e02-bd-remux-1080p-x264.n2088225) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7D3IFMFUT3QAIBMKHRYKYQEO5PSH4SGV) |
+| [UnHoly] Gatchaman Crowds Season 2 (BD Remux 1080p x... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/unholy-gatchaman-crowds-season-2-bd-remux-1080p.n2088224) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QH4REDIWGLVK3DSQEZJYKAJFN7QKP7OA) |
+| [VALKYRiE] The Irregular at Magic High School Season... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/valkyrie-irregular-magic-high-school-season-3-bd.n2088223) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ERAKVQB4X3B274EQUQ3GVHEBEB3DHVQH) |
+| [Sylvar] I Got a Cheat Skill in Another World and Be... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/sylvar-got-cheat-skill-another-world-became-unrivaled.n2088222) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XMI2I3X7ZOH7TIFEQZGCE7ISHBE3DCFQ) |
+| [Shirσ] Muv-Luv Alternative: Total Eclipse Season 1 ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/shir-muv-luv-alternative-total-eclipse-season-1.n2088221) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VEU5JFCLXL4VBUNU7ZLRMKEY6MYK34AO) |
+| [RandomBytes] The Summer Hikaru Died Season 1 v2 (BD... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/randombytes-summer-hikaru-died-season-1-v2-bd.n2088220) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4WH7IAGRIC2CUDQUWX6PNOUOIAQJUIZ4) |
+| [RABBIT] Love Live! Nijigasaki High School Idol Club... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/rabbit-love-live-nijigasaki-high-school-idol-club.n2088219) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5TOD5MUMTNBH3RBLGTO5TRQJQAPZALJ6) |
+| [MuGi] Re:Monster Season 1 (BD 1080p HEVC 10-bit FLA... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/mugi-re-monster-season-1-bd-1080p-hevc.n2088218) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PPC3FXFB5BQEUMIVUR3ISQQHTHE7IFR4) |
+| [Moxie] The Eccentric Family Season 2 (BD Remux 1080... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/moxie-eccentric-family-season-2-bd-remux-1080p.n2088217) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MWF5RLIEQ5F4URXID3FOJRYCC4QNNOA3) |
+| [Moxie] The Eccentric Family Season 1 (BD Remux 1080... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/moxie-eccentric-family-season-1-bd-remux-1080p.n2088216) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OS3ENZOT4KS2RWGXF3EYACNVDGKDFEXU) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
