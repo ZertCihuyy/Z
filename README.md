@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 20.12.01 WIB
+**Sync Terakhir:** 20/3/2026, 21.50.05 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Yameii] Frieren: Beyond Journey's End - S02E07 [Eng... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-frieren-beyond-journeys-end-s02e07-english-dub.n2088333) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QMI5FKQIJ6E6EXROEV5E6VRZFJ7ZDPNM) |
+| Frieren Beyond Journeys End S02E07 The Divine Revolt... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e07-divine-revolte-1080p.n2088332) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EKPCENSMWUVBCXKBEZMBPHL3HYLXSLJB) |
+| [ToonsHub] Frieren Beyond Journeys End S02E07 1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-frieren-beyond-journeys-end-s02e07-1080p-cr.n2088331) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CQMLSVDZLZU26HHPTRQ737Y43MGLIXLJ) |
+| Pokemon Horizons The Series S01E102-E111 1080p NF WE... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/pokemon-horizons-series-s01e102-e111-1080p-nf-web.n2088324) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WRRU6HS3DWIGY2P7SE3K6E5LMBSW3EFF) |
+| [FumiSubs] Steel Ball Run JoJo's Bizarre Adventure S... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/fumisubs-steel-ball-run-jojos-bizarre-adventure-stage.n2088323) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J6WMG4TLM6OWEZXQSPE2QD5AO64PJ4NK) |
 | [Kekkan] Champignon no Majo S01 (WebRip 1080p AV1 Mu... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/kekkan-champignon-no-majo-s01-webrip-1080p-av1.k9810170605578) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6KC7RBLWZQDX5T7ZHBVEEH6BAE4RYZTY) |
 | [ToonsHub] Fabulous Beasts S05E06 1080p BILI WEB-DL ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-fabulous-beasts-s05e06-1080p-bili-web-dl.k9809111771657) <br><br> [🐱 Nyaa](https://nyaa.si/?q=V27YCSYZZJ3WNNZRSIISTM7HW2UO2LO3) |
 | [Gecko] Fabulous Beasts - S05E06 (有兽焉; You Shou Yan ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-fabulous-beasts-s05e06-shou-yan-5th-season.n2088301) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3VTT7PFH4AZPQCTJ727QYLHHGAAQVEO5) |
 | [ToonsHub] A Silent Voice (2016) 1080p CR WEB-DL MUL... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-silent-voice-2016-1080p-cr-web-dl.n2088299) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QHARSLK5FREMTDCKOE5FN5FCK7MFSX7U) |
 | [Erai-raws] JoJo no Kimyou na Bouken: Steel Ball Run... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jojo-no-kimyou-na-bouken-steel.n2088286) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QJXV7I324XI24ZRE75OP7USMVZO44ATN) |
-| [Erai-raws] JoJo no Kimyou na Bouken: Steel Ball Run... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jojo-no-kimyou-na-bouken-steel.n2088285) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2JMHDNGZUOHYRMPEQGF62HIA2U7JJUNN) |
-| [Erai-raws] Mato Seihei no Slave 2 - 11 [1080p ADN W... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088282) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S62KVT6AIYKW5F3X6LHGZCXVW5QMEQXJ) |
-| [Erai-raws] Mato Seihei no Slave 2 - 11 [480p ADN WE... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088280) <br><br> [🐱 Nyaa](https://nyaa.si/?q=43T4BIOUUXCJKMHSLDHHYCEIHPXDJ7MU) |
-| [Erai-raws] Mato Seihei no Slave 2 - 11 [720p ADN WE... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088281) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PQFKMXQPN7PGW3Q2AUZ3ESHCOSPOMJ6Y) |
-| [Erai-raws] Fate/Strange Fake - 11 [1080p CR WEBRip ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-11-1080p-cr.n2088279) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OVBP7RNAKJPAYZNYFE376HKHXFOIX664) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
