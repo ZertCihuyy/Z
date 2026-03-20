@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 17.45.11 WIB
+**Sync Terakhir:** 20/3/2026, 18.36.26 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [ToonsHub] Fabulous Beasts S05E06 1080p BILI WEB-DL ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-fabulous-beasts-s05e06-1080p-bili-web-dl.k9809111771657) <br><br> [🐱 Nyaa](https://nyaa.si/?q=V27YCSYZZJ3WNNZRSIISTM7HW2UO2LO3) |
+| [Gecko] Fabulous Beasts - S05E06 (有兽焉; You Shou Yan ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-fabulous-beasts-s05e06-shou-yan-5th-season.n2088301) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3VTT7PFH4AZPQCTJ727QYLHHGAAQVEO5) |
+| [ToonsHub] A Silent Voice (2016) 1080p CR WEB-DL MUL... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-silent-voice-2016-1080p-cr-web-dl.n2088299) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QHARSLK5FREMTDCKOE5FN5FCK7MFSX7U) |
 | [Erai-raws] JoJo no Kimyou na Bouken: Steel Ball Run... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jojo-no-kimyou-na-bouken-steel.n2088286) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QJXV7I324XI24ZRE75OP7USMVZO44ATN) |
 | [Erai-raws] JoJo no Kimyou na Bouken: Steel Ball Run... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jojo-no-kimyou-na-bouken-steel.n2088285) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2JMHDNGZUOHYRMPEQGF62HIA2U7JJUNN) |
 | [Erai-raws] Mato Seihei no Slave 2 - 11 [1080p ADN W... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088282) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S62KVT6AIYKW5F3X6LHGZCXVW5QMEQXJ) |
@@ -24,9 +27,6 @@
 | [Erai-raws] Mato Seihei no Slave 2 - 11 [720p ADN WE... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088281) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PQFKMXQPN7PGW3Q2AUZ3ESHCOSPOMJ6Y) |
 | [Erai-raws] Fate/Strange Fake - 11 [1080p CR WEBRip ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-11-1080p-cr.n2088279) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OVBP7RNAKJPAYZNYFE376HKHXFOIX664) |
 | [Erai-raws] Fumetsu no Anata e Season 3 - 19 [1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2088278) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KPZBP5PLBSBY4D4FT6HEPWS2NHUFLJDM) |
-| [Erai-raws] Fate/Strange Fake - 10 [1080p CR WEBRip ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-10-1080p-cr.n2088277) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3ZXVYIVAA5HOVNZKMF2QETC6KPS4QK4L) |
-| [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088276) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5LGXA6WNGWJ3Z7NBTHGLCIPDOMFPI32A) |
-| [Erai-raws] Fumetsu no Anata e Season 3 - 18 [1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2088275) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LNWM4FO7QT35YKZRKSLVZVIBNAUL77QY) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
