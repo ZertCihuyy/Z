@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 18.36.26 WIB
+**Sync Terakhir:** 20/3/2026, 20.12.01 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Kekkan] Champignon no Majo S01 (WebRip 1080p AV1 Mu... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/kekkan-champignon-no-majo-s01-webrip-1080p-av1.k9810170605578) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6KC7RBLWZQDX5T7ZHBVEEH6BAE4RYZTY) |
 | [ToonsHub] Fabulous Beasts S05E06 1080p BILI WEB-DL ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-fabulous-beasts-s05e06-1080p-bili-web-dl.k9809111771657) <br><br> [🐱 Nyaa](https://nyaa.si/?q=V27YCSYZZJ3WNNZRSIISTM7HW2UO2LO3) |
 | [Gecko] Fabulous Beasts - S05E06 (有兽焉; You Shou Yan ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-fabulous-beasts-s05e06-shou-yan-5th-season.n2088301) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3VTT7PFH4AZPQCTJ727QYLHHGAAQVEO5) |
 | [ToonsHub] A Silent Voice (2016) 1080p CR WEB-DL MUL... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-silent-voice-2016-1080p-cr-web-dl.n2088299) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QHARSLK5FREMTDCKOE5FN5FCK7MFSX7U) |
@@ -26,7 +27,6 @@
 | [Erai-raws] Mato Seihei no Slave 2 - 11 [480p ADN WE... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088280) <br><br> [🐱 Nyaa](https://nyaa.si/?q=43T4BIOUUXCJKMHSLDHHYCEIHPXDJ7MU) |
 | [Erai-raws] Mato Seihei no Slave 2 - 11 [720p ADN WE... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088281) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PQFKMXQPN7PGW3Q2AUZ3ESHCOSPOMJ6Y) |
 | [Erai-raws] Fate/Strange Fake - 11 [1080p CR WEBRip ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-11-1080p-cr.n2088279) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OVBP7RNAKJPAYZNYFE376HKHXFOIX664) |
-| [Erai-raws] Fumetsu no Anata e Season 3 - 19 [1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2088278) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KPZBP5PLBSBY4D4FT6HEPWS2NHUFLJDM) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*

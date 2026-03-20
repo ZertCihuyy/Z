@@ -1,5 +1,5 @@
 {
-  "last_update": "20/3/2026, 18.36.26 WIB",
+  "last_update": "20/3/2026, 20.12.01 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -45,6 +45,15 @@
     }
   ],
   "latest_releases": [
+    {
+      "title": "[Kekkan] Champignon no Majo S01 (WebRip 1080p AV1 Multi-Subs Alicia) | シャンピニオンの魔女 | Champignon Witch",
+      "link": "https://animetosho.org/view/kekkan-champignon-no-majo-s01-webrip-1080p-av1.k9810170605578",
+      "magnet": "magnet:?xt=urn:btih:6KC7RBLWZQDX5T7ZHBVEEH6BAE4RYZTY&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BKekkan%5D%20Champignon%20no%20Majo%20S01%20%28WebRip%201080p%20AV1%20Multi-Subs%20Alicia%29%20%7C%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%94%E3%83%8B%E3%82%AA%E3%83%B3%E3%81%AE%E9%AD%94%E5%A5%B3%20%7C%20Champignon%20Witch",
+      "hash": "6KC7RBLWZQDX5T7ZHBVEEH6BAE4RYZTY",
+      "nyaaUrl": "https://nyaa.si/?q=6KC7RBLWZQDX5T7ZHBVEEH6BAE4RYZTY",
+      "size": "NaN MB",
+      "date": "20/3/2026, 19.42.58"
+    },
     {
       "title": "[ToonsHub] Fabulous Beasts S05E06 1080p BILI WEB-DL AAC2.0 H.265 (English-Sub)",
       "link": "https://animetosho.org/view/toonshub-fabulous-beasts-s05e06-1080p-bili-web-dl.k9809111771657",
@@ -125,15 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=OVBP7RNAKJPAYZNYFE376HKHXFOIX664",
       "size": "NaN MB",
       "date": "20/3/2026, 16.19.49"
-    },
-    {
-      "title": "[Erai-raws] Fumetsu no Anata e Season 3 - 19 [1080p CR WEBRip HEVC AAC][MultiSub][42B3EF1E]",
-      "link": "https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2088278",
-      "magnet": "magnet:?xt=urn:btih:KPZBP5PLBSBY4D4FT6HEPWS2NHUFLJDM&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&dn=%5BErai-raws%5D%20Fumetsu%20no%20Anata%20e%20Season%203%20-%2019%20%5B1080p%20CR%20WEBRip%20HEVC%20AAC%5D%5BMultiSub%5D%5B42B3EF1E%5D",
-      "hash": "KPZBP5PLBSBY4D4FT6HEPWS2NHUFLJDM",
-      "nyaaUrl": "https://nyaa.si/?q=KPZBP5PLBSBY4D4FT6HEPWS2NHUFLJDM",
-      "size": "NaN MB",
-      "date": "20/3/2026, 16.18.36"
     }
   ]
 }
