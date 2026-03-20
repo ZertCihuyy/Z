@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 22.50.14 WIB
+**Sync Terakhir:** 20/3/2026, 23.52.28 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [VARYG] Frieren Beyond Journeys End S02E07 The Divin... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-frieren-beyond-journeys-end-s02e07-divine-revolte.k9812769113090) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BB3O77IULLGWCBLGC7MXQ3IPIGOTJIJ7) |
-| [Erai-raws] JoJo no Kimyou na Bouken: Steel Ball Run... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jojo-no-kimyou-na-bouken-steel.n2088353) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OZQYWHQVVZKKBPYKSRUMXH6VFQVYLQ6L) |
-| Frieren Beyond Journeys End S02E09 Himmels Memoirs 1... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e09-himmels-memoirs-1080p.n2088351) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VSNGGVU7GDEVLZAMJ4SO2H72OXLMLF2C) |
-| [SubsPlease] Sousou no Frieren S2 - 09 (1080p) [A3A9... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-sousou-no-frieren-s2-09-1080p-a3a99c65-mkv.n2088350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=P5EHGSD37NX4OSHU6SC4PIYRXOX7MKDN) |
-| [SubsPlease] Sousou no Frieren S2 - 09 (720p) [57A94... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-sousou-no-frieren-s2-09-720p-57a94459-mkv.n2088348) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G4IBCO4BD27WZKIUNQBJSLAPFS7CMNRJ) |
-| [ToonsHub] Frieren Beyond Journeys End S02E09 1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-frieren-beyond-journeys-end-s02e09-1080p-cr.k9812300539398) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WEMN6FJZQAWVSBXMJ377KT5RBIRB6JWW) |
-| [SubsPlease] Sousou no Frieren S2 - 09 (480p) [82D92... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-sousou-no-frieren-s2-09-480p-82d92320-mkv.n2088345) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NWARU6IM6O2C5UC7LAZMMX4AWOUPWMJU) |
-| Frieren Beyond Journeys End S02E09 Himmels Memoirs 1... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e09-himmels-memoirs-1080p.n2088344) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DODZPJNIU4R4ZYCVGKAKKBUIWC3NB5P6) |
-| [ToonsHub] Frieren Beyond Journeys End S02E09 1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-frieren-beyond-journeys-end-s02e09-1080p-nf.k9812294986509) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UERMOUM4LUPZJDVZQBSVG2IC7WT5S65S) |
-| [Erai-raws] Sousou no Frieren 2nd Season - 09 [480p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-sousou-no-frieren-2nd-season-09.n2088340) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OOONGNHE4XU6K7KZO4T46WT6HGSAIUSS) |
+| HELL MODE The Hardcore Gamer Dominates in Another Wo... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/hell-mode-hardcore-gamer-dominates-another-world-garbage.n2088411) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZLNWBYYOVMYB2B7GHBJAM6EOPD22JKKO) |
+| [Raze] Sousou no Frieren S2 - 09 x265 10bit 1080p 14... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/raze-sousou-no-frieren-s2-09-x265-10bit.n2088409) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZDFIKP5KDLRMQ5QMRGGSBN53CBB336HS) |
+| DARK MOON THE BLOOD ALTAR S01E11 Hazy Moon-Vargrs Bl... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/dark-moon-blood-altar-s01e11-hazy-moon-vargrs.n2088408) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LNW6N7WXBBY443TIHUBNQ7J33AIIIKWD) |
+| [Kosaka] Frieren Beyond Journeys End - S02E09 (1080p... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/kosaka-frieren-beyond-journeys-end-s02e09-1080p-web.k9813801581577) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TRKNNUFIKJF6C7JUURP2EZQ4XLBVOMID) |
+| [SubsPlease] Hell Mode - 11 (1080p) [83FE1320].mkv | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-11-1080p-83fe1320-mkv.n2088405) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NMTTUGVNE6VMMQPXGKL5Z66KKDERNH4Q) |
+| [SubsPlease] Hell Mode - 11 (720p) [EB74B9B2].mkv | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-11-720p-eb74b9b2-mkv.n2088404) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QCZBYPVEZ5AAPZ7EQ4VLYRICKU46CMIJ) |
+| [SubsPlease] Hell Mode - 11 (480p) [6642F3BD].mkv | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-11-480p-6642f3bd-mkv.n2088403) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GHAT45PPEIRFEJQ2ZFC5B3KMW75PR7QH) |
+| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2088402) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6HQCHOEH4K7IKCHOYIMEKUWOTIVKGE2P) |
+| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2088401) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YKF3MWNVOVNUEJJU5KMW3STYWFC62BME) |
+| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2088399) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NFFZYSFMYQXTUELSC6RV26DQEI23V62V) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
