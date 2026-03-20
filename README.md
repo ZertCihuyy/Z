@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 23.52.28 WIB
+**Sync Terakhir:** 21/3/2026, 00.39.03 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| HELL MODE The Hardcore Gamer Dominates in Another Wo... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/hell-mode-hardcore-gamer-dominates-another-world-garbage.n2088411) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZLNWBYYOVMYB2B7GHBJAM6EOPD22JKKO) |
-| [Raze] Sousou no Frieren S2 - 09 x265 10bit 1080p 14... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/raze-sousou-no-frieren-s2-09-x265-10bit.n2088409) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZDFIKP5KDLRMQ5QMRGGSBN53CBB336HS) |
-| DARK MOON THE BLOOD ALTAR S01E11 Hazy Moon-Vargrs Bl... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/dark-moon-blood-altar-s01e11-hazy-moon-vargrs.n2088408) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LNW6N7WXBBY443TIHUBNQ7J33AIIIKWD) |
-| [Kosaka] Frieren Beyond Journeys End - S02E09 (1080p... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/kosaka-frieren-beyond-journeys-end-s02e09-1080p-web.k9813801581577) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TRKNNUFIKJF6C7JUURP2EZQ4XLBVOMID) |
-| [SubsPlease] Hell Mode - 11 (1080p) [83FE1320].mkv | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-11-1080p-83fe1320-mkv.n2088405) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NMTTUGVNE6VMMQPXGKL5Z66KKDERNH4Q) |
-| [SubsPlease] Hell Mode - 11 (720p) [EB74B9B2].mkv | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-11-720p-eb74b9b2-mkv.n2088404) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QCZBYPVEZ5AAPZ7EQ4VLYRICKU46CMIJ) |
-| [SubsPlease] Hell Mode - 11 (480p) [6642F3BD].mkv | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-11-480p-6642f3bd-mkv.n2088403) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GHAT45PPEIRFEJQ2ZFC5B3KMW75PR7QH) |
-| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2088402) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6HQCHOEH4K7IKCHOYIMEKUWOTIVKGE2P) |
-| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2088401) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YKF3MWNVOVNUEJJU5KMW3STYWFC62BME) |
-| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2088399) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NFFZYSFMYQXTUELSC6RV26DQEI23V62V) |
+| Fire Force S03E23 Despair Saintess 1080p CR WEB-DL D... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/fire-force-s03e23-despair-saintess-1080p-cr-web.n2088434) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Q5RKFA6BXLTH7RIARJIAT2P2JRIWSAKW) |
+| [SubsPlease] Enen no Shouboutai S3 - 23 (1080p) [0F1... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-enen-no-shouboutai-s3-23-1080p-0f1acb0a-mkv.n2088433) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WBSE4LAD4HCJ4WEMDDSL7U3IQNGWZJVZ) |
+| [ToonsHub] Fire Force S03E23 1080p CR WEB-DL DUAL AA... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-fire-force-s03e23-1080p-cr-web-dl.k9814613409804) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G6QGHFTYJFAELEK4LRD5MYP7GAI57JB6) |
+| [SubsPlease] Enen no Shouboutai S3 - 23 (720p) [9729... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-enen-no-shouboutai-s3-23-720p-9729e02e-mkv.n2088430) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FWDT2LENLJAX2IEYXGZNQVEVFCQFKFFT) |
+| [SubsPlease] Enen no Shouboutai S3 - 23 (480p) [9187... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-enen-no-shouboutai-s3-23-480p-9187a816-mkv.n2088429) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LP3RPYB2LVPMXXE4B76QVRXKPMNUC7LE) |
+| [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088428) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PBVQ7TPRMTKC4MTGG34F3WNMRINQZNDW) |
+| [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088427) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ABU5F2SJI7IHWNJSK5SE3OONRCBCNTM4) |
+| [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088426) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3LKICZPVWNDQOQBFHOCMXQTGVUG56VRK) |
+| [Onalrie] Hell Mode - S01E11 [1080p WEBRip AV1].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hell-mode-s01e11-1080p-webrip-av1-mkv.2068304) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RMVIN4FNRZ5HCGKAEXBYHDHZ4455H2IG) |
+| [ToonsHub] Fire Force S03E23 1080p NF WEB-DL AAC2.0 ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-fire-force-s03e23-1080p-nf-web-dl.k9814488504331) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AQCLLPI6CTXIZQM5PBIYXO7KHUJXMMWT) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
