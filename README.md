@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 02.41.06 WIB
+**Sync Terakhir:** 21/3/2026, 03.39.21 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| High School Fleet OVAs BD Remux | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/high-school-fleet-ovas-bd-remux.n2088490) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FSBQ5G5I7VJDGYAPQ26HIMTNIJNTMCVR) |
+| [Gecko] Chibi Godzilla Raids Again - S01E92 (ちびゴジラの逆... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e92-no-gyakushuu.n2088487) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FQ2GWJNVKZK4PWOFGQVHEDNLGSSWKX3C) |
+| [DKB] Enen no Shouboutai - S03E23 [1080p][HEVC x265 ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-enen-no-shouboutai-s03e23-1080p-hevc-x265.n2088486) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HUX2ZMN37NTE3OMCNGKWKZHPZUY5YFBA) |
+| [Ironclad] Sousou no Frieren 2nd Season - S02E09 [WE... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-sousou-no-frieren-2nd-season-s02e09-web.n2088485) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7RH7QMTMRFV5QPHDGFCL6F4MEX6G6QMT) |
 | [Anime Time] Hell's Paradise (Jigokuraku) - S02E01 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e01-1080p-hevc.n2088469) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NL2GVHM455T5GUPAT6FYDQTP4WG45IXB) |
 | [Judas] Enen no Shouboutai (Fire Force) - S03E23 [10... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-s03e23-1080p.n2088468) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BO3UJT72B2U6A3B52Q6LWXB74Q5YSDFJ) |
 | [Onalrie] Enen no Shouboutai - S03E23 [1080p WEBRip ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-enen-no-shouboutai-s03e23-1080p-webrip-av1-mkv.2068318) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SGWEJY5VBT2KVHCMYCV7JDIXXYMFOZYR) |
 | [ASW] Enen no Shouboutai S3 - 23 [1080p HEVC x265 10... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-enen-no-shouboutai-s3-23-1080p-hevc.n2088467) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MEUFLCALJN7SPXZVYL524OT676JTB6YY) |
 | [Feibanyama] Frieren Beyond Journeys End S02E09 [IQI... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/feibanyama-frieren-beyond-journeys-end-s02e09-iqiyi-webrip.n2088464) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A2UHQQNA55XG6VNL5QQWTB3O6RYUEHCN) |
 | [Trix] JoJos Bizarre Adventure (2012) S06E01 1080p N... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-jojos-bizarre-adventure-2012-s06e01-1080p-nf.k9815169773058) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G3WWN7GLCOFZNJD43OYQG3F6VVQPEI43) |
-| [le même] Ganglion - 23 [AT-X 1080p][389D7E43].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/le-mme-ganglion-23-x-1080p-389d7e43-mkv.n2088463) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WPQREIVDJZDXADIE6WG6KFKGCKIGIB65) |
-| [Onalrie] Dark Moon - Tsuki no Saidan - S01E11 [1080... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-dark-moon-tsuki-no-saidan-s01e11-1080p.2068308) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WLASALEL227H7YPLALH24S55IQ4NS6ZH) |
-| [DKB] Sousou no Frieren - S02E09 [1080p][HEVC x265 1... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-sousou-no-frieren-s02e09-1080p-hevc-x265.n2088460) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NHBB6RMWQTYOS3PCKH2X3QZH4LSZZM6A) |
-| Fire Force S03E23 Despair Saintess 1080p CR WEB-DL D... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/fire-force-s03e23-despair-saintess-1080p-cr-web.n2088453) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZHIXGGBJYTKZ2LEXEVCQ4UHBLNRJY5MG) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
