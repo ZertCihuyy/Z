@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 15.50.46 WIB
+**Sync Terakhir:** 20/3/2026, 16.51.05 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| MF GHOST S03E12 The Midair Feints 1080p CR WEB-DL AA... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/mf-ghost-s03e12-midair-feints-1080p-cr-web.n2088237) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W22JPANE7SG5LJIDJVP7VMKYW3RHCLKL) |
-| Mobile.Suit.Gundam.Iron-Blooded.Orphans.S01.1080p.Bl... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/mobile-suit-gundam-iron-blooded-orphans-s01-1080p.k9804993295363) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6T27MY4KCN7NYJVILFDVENSJDKEZPT47) |
-| [UnHoly] Gatchaman Crowds S00E02 (BD Remux 1080p x26... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/unholy-gatchaman-crowds-s00e02-bd-remux-1080p-x264.n2088225) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7D3IFMFUT3QAIBMKHRYKYQEO5PSH4SGV) |
-| [UnHoly] Gatchaman Crowds Season 2 (BD Remux 1080p x... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/unholy-gatchaman-crowds-season-2-bd-remux-1080p.n2088224) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QH4REDIWGLVK3DSQEZJYKAJFN7QKP7OA) |
-| [VALKYRiE] The Irregular at Magic High School Season... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/valkyrie-irregular-magic-high-school-season-3-bd.n2088223) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ERAKVQB4X3B274EQUQ3GVHEBEB3DHVQH) |
-| [Sylvar] I Got a Cheat Skill in Another World and Be... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/sylvar-got-cheat-skill-another-world-became-unrivaled.n2088222) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XMI2I3X7ZOH7TIFEQZGCE7ISHBE3DCFQ) |
-| [Shirσ] Muv-Luv Alternative: Total Eclipse Season 1 ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/shir-muv-luv-alternative-total-eclipse-season-1.n2088221) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VEU5JFCLXL4VBUNU7ZLRMKEY6MYK34AO) |
-| [RandomBytes] The Summer Hikaru Died Season 1 v2 (BD... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/randombytes-summer-hikaru-died-season-1-v2-bd.n2088220) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4WH7IAGRIC2CUDQUWX6PNOUOIAQJUIZ4) |
-| [RABBIT] Love Live! Nijigasaki High School Idol Club... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/rabbit-love-live-nijigasaki-high-school-idol-club.n2088219) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5TOD5MUMTNBH3RBLGTO5TRQJQAPZALJ6) |
-| [MuGi] Re:Monster Season 1 (BD 1080p HEVC 10-bit FLA... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/mugi-re-monster-season-1-bd-1080p-hevc.n2088218) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PPC3FXFB5BQEUMIVUR3ISQQHTHE7IFR4) |
+| [Erai-raws] Mato Seihei no Slave 2 - 11 [1080p ADN W... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088282) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S62KVT6AIYKW5F3X6LHGZCXVW5QMEQXJ) |
+| [Erai-raws] Mato Seihei no Slave 2 - 11 [480p ADN WE... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088280) <br><br> [🐱 Nyaa](https://nyaa.si/?q=43T4BIOUUXCJKMHSLDHHYCEIHPXDJ7MU) |
+| [Erai-raws] Mato Seihei no Slave 2 - 11 [720p ADN WE... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088281) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PQFKMXQPN7PGW3Q2AUZ3ESHCOSPOMJ6Y) |
+| [Erai-raws] Fate/Strange Fake - 11 [1080p CR WEBRip ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-11-1080p-cr.n2088279) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OVBP7RNAKJPAYZNYFE376HKHXFOIX664) |
+| [Erai-raws] Fumetsu no Anata e Season 3 - 19 [1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2088278) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KPZBP5PLBSBY4D4FT6HEPWS2NHUFLJDM) |
+| [Erai-raws] Fate/Strange Fake - 10 [1080p CR WEBRip ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-10-1080p-cr.n2088277) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3ZXVYIVAA5HOVNZKMF2QETC6KPS4QK4L) |
+| [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088276) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5LGXA6WNGWJ3Z7NBTHGLCIPDOMFPI32A) |
+| [Erai-raws] Fumetsu no Anata e Season 3 - 18 [1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2088275) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LNWM4FO7QT35YKZRKSLVZVIBNAUL77QY) |
+| [Erai-raws] Fumetsu no Anata e Season 3 - 17 [1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2088274) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MZM72CU2QUPHGS4H3PPHZLTYVI742IAL) |
+| [Erai-raws] Xian Wang de Richang Shenghuo 5 - 12 (CA... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-xian-wang-de-richang-shenghuo-5.n2088273) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BZAEIK77QQSKBRS65VBOGAJIGF4GRBRB) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
