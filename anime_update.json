@@ -1,5 +1,5 @@
 {
-  "last_update": "21/3/2026, 01.57.58 WIB",
+  "last_update": "21/3/2026, 02.41.06 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -45,6 +45,15 @@
     }
   ],
   "latest_releases": [
+    {
+      "title": "[Anime Time] Hell's Paradise (Jigokuraku) - S02E01 [1080p][HEVC 10bit x265][AAC][Dual-Audio] [Multi Sub] [Weekly]",
+      "link": "https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e01-1080p-hevc.n2088469",
+      "magnet": "magnet:?xt=urn:btih:NL2GVHM455T5GUPAT6FYDQTP4WG45IXB&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=%5BAnime%20Time%5D%20Hell%27s%20Paradise%20%28Jigokuraku%29%20-%20S02E01%20%5B1080p%5D%5BHEVC%2010bit%20x265%5D%5BAAC%5D%5BDual-Audio%5D%20%5BMulti%20Sub%5D%20%5BWeekly%5D",
+      "hash": "NL2GVHM455T5GUPAT6FYDQTP4WG45IXB",
+      "nyaaUrl": "https://nyaa.si/?q=NL2GVHM455T5GUPAT6FYDQTP4WG45IXB",
+      "size": "NaN MB",
+      "date": "21/3/2026, 02.11.22"
+    },
     {
       "title": "[Judas] Enen no Shouboutai (Fire Force) - S03E23 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)",
       "link": "https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-s03e23-1080p.n2088468",
@@ -125,15 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=ZHIXGGBJYTKZ2LEXEVCQ4UHBLNRJY5MG",
       "size": "NaN MB",
       "date": "21/3/2026, 00.54.35"
-    },
-    {
-      "title": "DARK MOON THE BLOOD ALTAR S01E11 Hazy Moon-Vargrs Blood-1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (DARK MOON: Kuro no Tsuki - Tsuki no Saidan, Dual-Audio, Multi-Subs)",
-      "link": "https://animetosho.org/view/dark-moon-blood-altar-s01e11-hazy-moon-vargrs.n2088452",
-      "magnet": "magnet:?xt=urn:btih:BHYBUGJELPI3A3CR3SM2IVLJ4LNHR26W&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=DARK%20MOON%20THE%20BLOOD%20ALTAR%20S01E11%20Hazy%20Moon-Vargrs%20Blood-1080p%20CR%20WEB-DL%20DUAL%20AAC2.0%20H%20264-VARYG%20%28DARK%20MOON%3A%20Kuro%20no%20Tsuki%20-%20Tsuki%20no%20Saidan%2C%20Dual-Audio%2C%20Multi-Subs%29",
-      "hash": "BHYBUGJELPI3A3CR3SM2IVLJ4LNHR26W",
-      "nyaaUrl": "https://nyaa.si/?q=BHYBUGJELPI3A3CR3SM2IVLJ4LNHR26W",
-      "size": "NaN MB",
-      "date": "21/3/2026, 00.52.45"
     }
   ]
 }

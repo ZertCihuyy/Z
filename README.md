@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 01.57.58 WIB
+**Sync Terakhir:** 21/3/2026, 02.41.06 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Anime Time] Hell's Paradise (Jigokuraku) - S02E01 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e01-1080p-hevc.n2088469) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NL2GVHM455T5GUPAT6FYDQTP4WG45IXB) |
 | [Judas] Enen no Shouboutai (Fire Force) - S03E23 [10... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-s03e23-1080p.n2088468) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BO3UJT72B2U6A3B52Q6LWXB74Q5YSDFJ) |
 | [Onalrie] Enen no Shouboutai - S03E23 [1080p WEBRip ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-enen-no-shouboutai-s03e23-1080p-webrip-av1-mkv.2068318) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SGWEJY5VBT2KVHCMYCV7JDIXXYMFOZYR) |
 | [ASW] Enen no Shouboutai S3 - 23 [1080p HEVC x265 10... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-enen-no-shouboutai-s3-23-1080p-hevc.n2088467) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MEUFLCALJN7SPXZVYL524OT676JTB6YY) |
@@ -26,7 +27,6 @@
 | [Onalrie] Dark Moon - Tsuki no Saidan - S01E11 [1080... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-dark-moon-tsuki-no-saidan-s01e11-1080p.2068308) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WLASALEL227H7YPLALH24S55IQ4NS6ZH) |
 | [DKB] Sousou no Frieren - S02E09 [1080p][HEVC x265 1... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-sousou-no-frieren-s02e09-1080p-hevc-x265.n2088460) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NHBB6RMWQTYOS3PCKH2X3QZH4LSZZM6A) |
 | Fire Force S03E23 Despair Saintess 1080p CR WEB-DL D... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/fire-force-s03e23-despair-saintess-1080p-cr-web.n2088453) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZHIXGGBJYTKZ2LEXEVCQ4UHBLNRJY5MG) |
-| DARK MOON THE BLOOD ALTAR S01E11 Hazy Moon-Vargrs Bl... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dark-moon-blood-altar-s01e11-hazy-moon-vargrs.n2088452) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BHYBUGJELPI3A3CR3SM2IVLJ4LNHR26W) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
