@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 14.06.55 WIB
+**Sync Terakhir:** 20/3/2026, 15.50.46 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| MF GHOST S03E12 The Midair Feints 1080p CR WEB-DL AA... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/mf-ghost-s03e12-midair-feints-1080p-cr-web.n2088237) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W22JPANE7SG5LJIDJVP7VMKYW3RHCLKL) |
+| Mobile.Suit.Gundam.Iron-Blooded.Orphans.S01.1080p.Bl... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/mobile-suit-gundam-iron-blooded-orphans-s01-1080p.k9804993295363) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6T27MY4KCN7NYJVILFDVENSJDKEZPT47) |
 | [UnHoly] Gatchaman Crowds S00E02 (BD Remux 1080p x26... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/unholy-gatchaman-crowds-s00e02-bd-remux-1080p-x264.n2088225) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7D3IFMFUT3QAIBMKHRYKYQEO5PSH4SGV) |
 | [UnHoly] Gatchaman Crowds Season 2 (BD Remux 1080p x... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/unholy-gatchaman-crowds-season-2-bd-remux-1080p.n2088224) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QH4REDIWGLVK3DSQEZJYKAJFN7QKP7OA) |
 | [VALKYRiE] The Irregular at Magic High School Season... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/valkyrie-irregular-magic-high-school-season-3-bd.n2088223) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ERAKVQB4X3B274EQUQ3GVHEBEB3DHVQH) |
@@ -25,8 +27,6 @@
 | [RandomBytes] The Summer Hikaru Died Season 1 v2 (BD... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/randombytes-summer-hikaru-died-season-1-v2-bd.n2088220) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4WH7IAGRIC2CUDQUWX6PNOUOIAQJUIZ4) |
 | [RABBIT] Love Live! Nijigasaki High School Idol Club... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/rabbit-love-live-nijigasaki-high-school-idol-club.n2088219) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5TOD5MUMTNBH3RBLGTO5TRQJQAPZALJ6) |
 | [MuGi] Re:Monster Season 1 (BD 1080p HEVC 10-bit FLA... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/mugi-re-monster-season-1-bd-1080p-hevc.n2088218) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PPC3FXFB5BQEUMIVUR3ISQQHTHE7IFR4) |
-| [Moxie] The Eccentric Family Season 2 (BD Remux 1080... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/moxie-eccentric-family-season-2-bd-remux-1080p.n2088217) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MWF5RLIEQ5F4URXID3FOJRYCC4QNNOA3) |
-| [Moxie] The Eccentric Family Season 1 (BD Remux 1080... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/moxie-eccentric-family-season-1-bd-remux-1080p.n2088216) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OS3ENZOT4KS2RWGXF3EYACNVDGKDFEXU) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
