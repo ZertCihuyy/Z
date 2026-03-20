@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 09.35.11 WIB
+**Sync Terakhir:** 20/3/2026, 11.51.48 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Techmod] Katsugeki Touken Ranbu (BD 1080P) | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/techmod-katsugeki-touken-ranbu-bd-1080p.n2088185) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U4YFEKTIOX7DUTFCPKEWY4UFXA6R6R7R) |
+| [hayden fansubs] Himitsu No Akko-Chan (1969) - Episo... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/hayden-fansubs-himitsu-no-akko-chan-1969-episode-62.n2088184) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EL5AYKOVK5PXSW4RAPX2YO5IBLL6GEQX) |
+| Hitori No Shita The Outcast S06E12 1080p CR WEB-DL A... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e12-1080p-cr-web.n2088181) <br><br> [🐱 Nyaa](https://nyaa.si/?q=75DFCQVWDIAKVDLBTATO74SOCAHILO33) |
+| [ASW] Hitori no Shita - The Outcast S6 - 12 [1080p H... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-12-1080p.n2088176) <br><br> [🐱 Nyaa](https://nyaa.si/?q=F6UAJ52WMXJQTYB65IUP23UPNIDGP6WX) |
 | [PinkBunny] CHRONOS RULER ( Jikan no Shihaisha ) [10... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/pinkbunny-chronos-ruler-jikan-no-shihaisha-1080p.n2088167) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XMPVM3PHGJHAWZFG2PQW67AUBKFDIKHX) |
 | [Yameii] Jujutsu Kaisen - S03E09 [English Dub] [CR W... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-jujutsu-kaisen-s03e09-english-dub-cr-web.n2088166) <br><br> [🐱 Nyaa](https://nyaa.si/?q=N424IF2S7NRPX4PDD7YYJY7GTSTWTEOM) |
 | [Yameii] Jujutsu Kaisen - S03E09 [English Dub] [CR W... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-jujutsu-kaisen-s03e09-english-dub-cr-web.n2088165) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MJFUTDLJ742D3L66OLAH5GK52CJRB2KQ) |
 | [Gecko] Hitori No Shita - The Outcast - S06E13 (一人之下... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e13-yi-ren.k9800344507913) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2LDF3U7CZWWXCZZMZYSTWGXJGAY3KXOB) |
 | [SubsPlease] Hitori no Shita - The Outcast S6 - 12 (... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-12-1080p-b6e1e7eb-mkv.n2088163) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WORK4KGIHEN3CYMLXV4UE4JZQVBMJFMG) |
 | [SubsPlease] Hitori no Shita - The Outcast S6 - 12 (... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-12-720p-bc662e46-mkv.n2088162) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JIRODVSGHWDS7TQD6RALW4432RHJ2R5K) |
-| [SubsPlease] Hitori no Shita - The Outcast S6 - 12 (... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-12-480p-18761a0f-mkv.n2088161) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CMC47VK5KO63L3TC5MSCVID5COJ2D4W5) |
-| [ToonsHub] Hitori No Shita The Outcast S06E12 1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e12-1080p-cr.k9800330238978) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U33TU3VUAIEFM6U3HVFVFCUPNO3CBMLS) |
-| [ToonsHub] Hitori No Shita The Outcast S06E13 1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e13-1080p-wetv.n2088157) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KBSBE7XTJ7KFLSOGTX5TFKR3CDTUPSLA) |
-| [Erai-raws] Hitori no Shita: The Outcast 6th Season ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2088156) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HS2VP2QNB63C542JPPSEQI6GKUCYK4IT) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
