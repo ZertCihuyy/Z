@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 20/3/2026, 16.51.05 WIB
+**Sync Terakhir:** 20/3/2026, 17.45.11 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Erai-raws] JoJo no Kimyou na Bouken: Steel Ball Run... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jojo-no-kimyou-na-bouken-steel.n2088286) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QJXV7I324XI24ZRE75OP7USMVZO44ATN) |
+| [Erai-raws] JoJo no Kimyou na Bouken: Steel Ball Run... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jojo-no-kimyou-na-bouken-steel.n2088285) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2JMHDNGZUOHYRMPEQGF62HIA2U7JJUNN) |
 | [Erai-raws] Mato Seihei no Slave 2 - 11 [1080p ADN W... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088282) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S62KVT6AIYKW5F3X6LHGZCXVW5QMEQXJ) |
 | [Erai-raws] Mato Seihei no Slave 2 - 11 [480p ADN WE... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088280) <br><br> [🐱 Nyaa](https://nyaa.si/?q=43T4BIOUUXCJKMHSLDHHYCEIHPXDJ7MU) |
 | [Erai-raws] Mato Seihei no Slave 2 - 11 [720p ADN WE... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-11.n2088281) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PQFKMXQPN7PGW3Q2AUZ3ESHCOSPOMJ6Y) |
@@ -25,8 +27,6 @@
 | [Erai-raws] Fate/Strange Fake - 10 [1080p CR WEBRip ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-10-1080p-cr.n2088277) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3ZXVYIVAA5HOVNZKMF2QETC6KPS4QK4L) |
 | [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088276) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5LGXA6WNGWJ3Z7NBTHGLCIPDOMFPI32A) |
 | [Erai-raws] Fumetsu no Anata e Season 3 - 18 [1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2088275) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LNWM4FO7QT35YKZRKSLVZVIBNAUL77QY) |
-| [Erai-raws] Fumetsu no Anata e Season 3 - 17 [1080p ... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2088274) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MZM72CU2QUPHGS4H3PPHZLTYVI742IAL) |
-| [Erai-raws] Xian Wang de Richang Shenghuo 5 - 12 (CA... | NaN MB | 20/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-xian-wang-de-richang-shenghuo-5.n2088273) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BZAEIK77QQSKBRS65VBOGAJIGF4GRBRB) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
