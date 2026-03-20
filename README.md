@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 00.39.03 WIB
+**Sync Terakhir:** 21/3/2026, 01.57.58 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| Fire Force S03E23 Despair Saintess 1080p CR WEB-DL D... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/fire-force-s03e23-despair-saintess-1080p-cr-web.n2088434) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Q5RKFA6BXLTH7RIARJIAT2P2JRIWSAKW) |
-| [SubsPlease] Enen no Shouboutai S3 - 23 (1080p) [0F1... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-enen-no-shouboutai-s3-23-1080p-0f1acb0a-mkv.n2088433) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WBSE4LAD4HCJ4WEMDDSL7U3IQNGWZJVZ) |
-| [ToonsHub] Fire Force S03E23 1080p CR WEB-DL DUAL AA... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-fire-force-s03e23-1080p-cr-web-dl.k9814613409804) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G6QGHFTYJFAELEK4LRD5MYP7GAI57JB6) |
-| [SubsPlease] Enen no Shouboutai S3 - 23 (720p) [9729... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-enen-no-shouboutai-s3-23-720p-9729e02e-mkv.n2088430) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FWDT2LENLJAX2IEYXGZNQVEVFCQFKFFT) |
-| [SubsPlease] Enen no Shouboutai S3 - 23 (480p) [9187... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-enen-no-shouboutai-s3-23-480p-9187a816-mkv.n2088429) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LP3RPYB2LVPMXXE4B76QVRXKPMNUC7LE) |
-| [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088428) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PBVQ7TPRMTKC4MTGG34F3WNMRINQZNDW) |
-| [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088427) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ABU5F2SJI7IHWNJSK5SE3OONRCBCNTM4) |
-| [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088426) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3LKICZPVWNDQOQBFHOCMXQTGVUG56VRK) |
-| [Onalrie] Hell Mode - S01E11 [1080p WEBRip AV1].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hell-mode-s01e11-1080p-webrip-av1-mkv.2068304) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RMVIN4FNRZ5HCGKAEXBYHDHZ4455H2IG) |
-| [ToonsHub] Fire Force S03E23 1080p NF WEB-DL AAC2.0 ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-fire-force-s03e23-1080p-nf-web-dl.k9814488504331) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AQCLLPI6CTXIZQM5PBIYXO7KHUJXMMWT) |
+| [Judas] Enen no Shouboutai (Fire Force) - S03E23 [10... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-s03e23-1080p.n2088468) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BO3UJT72B2U6A3B52Q6LWXB74Q5YSDFJ) |
+| [Onalrie] Enen no Shouboutai - S03E23 [1080p WEBRip ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-enen-no-shouboutai-s03e23-1080p-webrip-av1-mkv.2068318) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SGWEJY5VBT2KVHCMYCV7JDIXXYMFOZYR) |
+| [ASW] Enen no Shouboutai S3 - 23 [1080p HEVC x265 10... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-enen-no-shouboutai-s3-23-1080p-hevc.n2088467) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MEUFLCALJN7SPXZVYL524OT676JTB6YY) |
+| [Feibanyama] Frieren Beyond Journeys End S02E09 [IQI... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/feibanyama-frieren-beyond-journeys-end-s02e09-iqiyi-webrip.n2088464) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A2UHQQNA55XG6VNL5QQWTB3O6RYUEHCN) |
+| [Trix] JoJos Bizarre Adventure (2012) S06E01 1080p N... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-jojos-bizarre-adventure-2012-s06e01-1080p-nf.k9815169773058) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G3WWN7GLCOFZNJD43OYQG3F6VVQPEI43) |
+| [le même] Ganglion - 23 [AT-X 1080p][389D7E43].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/le-mme-ganglion-23-x-1080p-389d7e43-mkv.n2088463) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WPQREIVDJZDXADIE6WG6KFKGCKIGIB65) |
+| [Onalrie] Dark Moon - Tsuki no Saidan - S01E11 [1080... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-dark-moon-tsuki-no-saidan-s01e11-1080p.2068308) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WLASALEL227H7YPLALH24S55IQ4NS6ZH) |
+| [DKB] Sousou no Frieren - S02E09 [1080p][HEVC x265 1... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-sousou-no-frieren-s02e09-1080p-hevc-x265.n2088460) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NHBB6RMWQTYOS3PCKH2X3QZH4LSZZM6A) |
+| Fire Force S03E23 Despair Saintess 1080p CR WEB-DL D... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/fire-force-s03e23-despair-saintess-1080p-cr-web.n2088453) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZHIXGGBJYTKZ2LEXEVCQ4UHBLNRJY5MG) |
+| DARK MOON THE BLOOD ALTAR S01E11 Hazy Moon-Vargrs Bl... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dark-moon-blood-altar-s01e11-hazy-moon-vargrs.n2088452) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BHYBUGJELPI3A3CR3SM2IVLJ4LNHR26W) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
