@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 03.39.21 WIB
+**Sync Terakhir:** 21/3/2026, 04.36.10 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Feibanyama] JoJos Bizarre Adventure S06E01 [NF WebR... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/feibanyama-jojos-bizarre-adventure-s06e01-nf-webrip-1080p.n2088501) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UPCPDJ4DXSYMNHNQH6C6NW33I23KHIRZ) |
+| [SubsPlease] Kikaijikake no Marie (01-12) (1080p) [B... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kikaijikake-no-marie-01-12-1080p-batch.n2088500) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2ZRAO22JX7JLX47XCK565IGTR5GUFWED) |
+| [SubsPlease] Kikaijikake no Marie (01-12) (720p) [Ba... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kikaijikake-no-marie-01-12-720p-batch.n2088499) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DEFN3MZAPMUFLZMJJBH5RGRZVX6XEZDT) |
+| [SubsPlease] Kikaijikake no Marie (01-12) (480p) [Ba... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kikaijikake-no-marie-01-12-480p-batch.n2088498) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3JNKYCJDJIURBNHYELY3IWZPLIYZDPCJ) |
+| Frieren.Beyond.Journeys.End.S02E09.1080p.CR.WEBRip.1... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e09-1080p-cr-webrip.n2088496) <br><br> [🐱 Nyaa](https://nyaa.si/?q=O3MAE7IWVUMNRY4RKKHKXTUKB3JOJ2RB) |
+| [Anime Time] Hell's Paradise (Jigokuraku) - S02E02 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e02-1080p-hevc.n2088495) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4AD4JZG3FQTITIYCYFLASC3ODLFJ57TH) |
+| [Judas] Mato Seihei no Slave (Chained Soldier) [Unce... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-mato-seihei-no-slave-chained-soldier-uncensored.n2088492) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DBU6YCMEVM2A7SZVVJF6NX6BKJB7XEFG) |
 | High School Fleet OVAs BD Remux | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/high-school-fleet-ovas-bd-remux.n2088490) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FSBQ5G5I7VJDGYAPQ26HIMTNIJNTMCVR) |
 | [Gecko] Chibi Godzilla Raids Again - S01E92 (ちびゴジラの逆... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e92-no-gyakushuu.n2088487) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FQ2GWJNVKZK4PWOFGQVHEDNLGSSWKX3C) |
 | [DKB] Enen no Shouboutai - S03E23 [1080p][HEVC x265 ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-enen-no-shouboutai-s03e23-1080p-hevc-x265.n2088486) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HUX2ZMN37NTE3OMCNGKWKZHPZUY5YFBA) |
-| [Ironclad] Sousou no Frieren 2nd Season - S02E09 [WE... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-sousou-no-frieren-2nd-season-s02e09-web.n2088485) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7RH7QMTMRFV5QPHDGFCL6F4MEX6G6QMT) |
-| [Anime Time] Hell's Paradise (Jigokuraku) - S02E01 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e01-1080p-hevc.n2088469) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NL2GVHM455T5GUPAT6FYDQTP4WG45IXB) |
-| [Judas] Enen no Shouboutai (Fire Force) - S03E23 [10... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-s03e23-1080p.n2088468) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BO3UJT72B2U6A3B52Q6LWXB74Q5YSDFJ) |
-| [Onalrie] Enen no Shouboutai - S03E23 [1080p WEBRip ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-enen-no-shouboutai-s03e23-1080p-webrip-av1-mkv.2068318) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SGWEJY5VBT2KVHCMYCV7JDIXXYMFOZYR) |
-| [ASW] Enen no Shouboutai S3 - 23 [1080p HEVC x265 10... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-enen-no-shouboutai-s3-23-1080p-hevc.n2088467) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MEUFLCALJN7SPXZVYL524OT676JTB6YY) |
-| [Feibanyama] Frieren Beyond Journeys End S02E09 [IQI... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/feibanyama-frieren-beyond-journeys-end-s02e09-iqiyi-webrip.n2088464) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A2UHQQNA55XG6VNL5QQWTB3O6RYUEHCN) |
-| [Trix] JoJos Bizarre Adventure (2012) S06E01 1080p N... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-jojos-bizarre-adventure-2012-s06e01-1080p-nf.k9815169773058) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G3WWN7GLCOFZNJD43OYQG3F6VVQPEI43) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
