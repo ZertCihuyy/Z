@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 17.33.40 WIB
+**Sync Terakhir:** 21/3/2026, 18.28.29 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,7 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Mo7tas] My Home Hero [1080p] [Multi language subs] | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/mo7tas-my-home-hero-1080p-multi-language-subs.n2088609) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QMHP5BZWXHB3F6CFNRWKCIK22GTGWJ4L) |
 | [Onalrie] Ao no Miburo - S02E13 [1080p WEBRip AV1].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-ao-no-miburo-s02e13-1080p-webrip-av1-mkv.2068468) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OQQKX2TYNOKXLG5L42LWX2TQIK23A36G) |
+| [ASW] Ao no Miburo S2 - 13 [1080p HEVC x265 10Bit][AAC] | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-ao-no-miburo-s2-13-1080p-hevc.n2088597) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PN2A4GZNUWZABLG2CKB6XJZJL3FEUZ2G) |
 | Blue Miburo S02E13 Blue Era 1080p CR WEB-DL AAC2.0 H... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/blue-miburo-s02e13-era-1080p-cr-web-dl.n2088595) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XBRHSI6NQUZ4AAHVYG7AWW7555A2ANNJ) |
 | Toradora Episode 6 Bonus Clip (Ami's Impressions) [B... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toradora-episode-6-bonus-clip-amis-impressions-bd-remux.n2088594) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GUNJP5MS3WI75ISI4QOQHSEKUI2CLTKE) |
 | [ToonsHub] Way of Choices 2026 S01E10 1080p iQ WEB-D... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-way-choices-2026-s01e10-1080p-iq-web.k9829816000013) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HW5DUWAYM6M2GOYXD63T5AX7BCKW4CYD) |
@@ -25,8 +27,6 @@
 | [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 13 ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2088583) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JFM7RFOMSP7SQKAGWSA2UG57MYSQIW2B) |
 | [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 13 ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2088582) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FYPQXFAHKLERYW4LE2FQHKGEYCDMDR4H) |
 | [SubsPlease] Ao no Miburo S2 - 13 (1080p) [AFA0C48D]... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-13-1080p-afa0c48d-mkv.n2088581) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UR3STGOT2VFTRRTWMWGLHHSSNOY5Q5JJ) |
-| [ToonsHub] Blue Miburo S02E13 1080p CR WEB-DL AAC2.0... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-blue-miburo-s02e13-1080p-cr-web-dl.k9829351284746) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PIQVTP7NQ2AMLSUGLDKR63TMDKT3STYE) |
-| [SubsPlease] Ao no Miburo S2 - 13 (720p) [2655AD87].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-13-720p-2655ad87-mkv.n2088579) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2Q3XPUFPUZAWSJDZPWIWOYKET3GKG4HB) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
