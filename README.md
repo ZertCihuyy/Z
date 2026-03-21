@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 02.29.59 WIB
+**Sync Terakhir:** 22/3/2026, 03.34.16 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Anime Time] Hell's Paradise (Jigokuraku) - S02E08 [... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e08-1080p-hevc.n2088887) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BOMEYLKQNBTCSLBTAD6NPPSI3ZACSB2P) |
+| [Ironclad] Toujima Tanzaburou wa Kamen Rider ni Nari... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-toujima-tanzaburou-wa-kamen-rider-ni-naritai.n2088886) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OJM2LKY6VWB76FYACDVWJQXUDVAFDQHJ) |
+| [Onalrie] Toujima Tanzaburou wa Kamen Rider ni Narit... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-toujima-tanzaburou-wa-kamen-rider-ni-naritai.2068614) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5KXV6H3JIY2MI7KIUTZPPZWEVHVHPMQU) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2088885) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R4K7JCIMTES3AZFEJLCZNWPSDMU2HDPQ) |
+| [Erai-raws] Darwin Jihen - 11 [1080p AMZN WEBRip HEV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-11-1080p-amzn-webrip.n2088884) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NKFN6HHRZ7O7DHX3FHZBV4V6J4MO2OXW) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 10 [1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2088883) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RN4BCXT5PQ5WPT5JPLP7UG7TYSWX72YE) |
+| [Erai-raws] Darwin Jihen - 10 [1080p AMZN WEBRip HEV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-10-1080p-amzn-webrip.n2088882) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A4S7KGNES5OQQBHVCGH2NHCWNAQEV553) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 09 [1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2088881) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XLSM5RTGEMZQNHXK4XKCIRPKAKKZQ6VW) |
 | [Erai-raws] Darwin Jihen - 09 [1080p AMZN WEBRip HEV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-09-1080p-amzn-webrip.n2088880) <br><br> [🐱 Nyaa](https://nyaa.si/?q=77GOBTOKEC3KWMH4CVAF6JIGBGCY4IU4) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 08 [1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2088879) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JAUYFWF34VP7IAPRVU3XVS6HKQWWWY6E) |
-| [Erai-raws] Darwin Jihen - 08 [1080p AMZN WEBRip HEV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-08-1080p-amzn-webrip.n2088878) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RRYZFEBA6YAIM3OJ5I3YG3V4XMQAA7XT) |
-| [Erai-raws] Yuusha Party ni Kawaii Ko ga Ita node, K... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-party-ni-kawaii-ko-ga.n2088877) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ANFJPXP2JLPF7IF7TGNIIEJZEAGQD2DB) |
-| [Erai-raws] Yuusha Party wo Oidasareta Kiyou binbou ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-party-wo-oidasareta-kiyou-binbou.n2088876) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UCSMZUSML3W4FSROXM4JIP4RUC2QXDVP) |
-| [Erai-raws] Yuusha-kei ni Shosu: Choubatsu Yuusha 90... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-kei-ni-shosu-choubatsu-9004.n2088875) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UJROL2S7AUDQWEGAYEVY7OWQWG5KYK5M) |
-| [Erai-raws] Yuusha Party ni Kawaii Ko ga Ita node, K... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-party-ni-kawaii-ko-ga.n2088874) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MQ53JBWFNJWBFW7KLKUCTXW35AS2NWHY) |
-| [Erai-raws] Yuusha Party wo Oidasareta Kiyou binbou ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-party-wo-oidasareta-kiyou-binbou.n2088873) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UM6RU6BA552IRZ7FV2KP76DDJ45MRUBY) |
-| [Erai-raws] Yuusha-kei ni Shosu: Choubatsu Yuusha 90... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-kei-ni-shosu-choubatsu-9004.n2088872) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DWASGWJ3QEUGYZ5OA5QHH4EOSPV6PR7B) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
