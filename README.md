@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 12.46.31 WIB
+**Sync Terakhir:** 21/3/2026, 13.53.38 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [ToonsHub] Chained Soldier S02E01 REPACK 1080p HIDIV... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chained-soldier-s02e01-repack-1080p-hidive-web.n2088571) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MFYS65RQNKUIUNSR52WYX7WQFIULAWBI) |
+| [ToonsHub] B King S01E06 1080p ADN WEB-DL AAC2.0 H.2... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e06-1080p-adn-web-dl.n2088570) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BTQFFCDOYFLVE4KSDMRYMDTSWUPBLHS5) |
+| [Some-Stuffs] Pocket Monsters (2023) Rising Again - ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-rising-again-rakua-final.n2088569) <br><br> [🐱 Nyaa](https://nyaa.si/?q=B47XZNX4CLVNZ7RYWVJLSWUAXBPI3NYX) |
 | [Some-Stuffs] Pocket Monsters (2023) 132 (1080p) [D3... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-132-1080p-d3fb25c8.n2088566) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FCLGTDTBI3E6XSSQVVZACTKNK7MFCCLM) |
 | [Some-Stuffs] Pocket Monsters (2023) 132 (1080p HEVC... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-132-1080p-hevc-10-bit-2c227ab1.n2088565) <br><br> [🐱 Nyaa](https://nyaa.si/?q=APEFL5CQ2EU3XUQ6NRZKDJK4UNKINOVT) |
 | Cardfight!! Vanguard: Divinez Parallactic Clash - 09... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-09-genma-seisen.n2088557) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AZEZKXZEX4ZWL7XEZ6R3SVQ7ACI3OGFH) |
@@ -24,9 +27,6 @@
 | [Anime Time] Hell's Paradise (Jigokuraku) - S02E05 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e05-1080p-hevc.n2088539) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SU7LSS3PFM77TKPWVUE6Z6U7XTBHHX72) |
 | [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088538) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TI2D7URV7SUJHKVRZJVDLSZWDJHIIDZ7) |
 | [Erai-raws] Sousou no Frieren 2nd Season - 09 [1080p... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-sousou-no-frieren-2nd-season-09.n2088537) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E6QWYF4SWDZHTZQIEGGSMRHUXFAFFCPN) |
-| [Gecko] B.King - S01E06 (驭灵师; Yu Ling Shi) [BILI.WEB... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e06-yu-ling-shi-bili.k9823398640648) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TVEAYCNPKQ365OUNPPHWJXJBWKRRXONK) |
-| High School KIMENGUMI S01E11 Chara-llel World 1080p ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/high-school-kimengumi-s01e11-chara-llel-world-1080p.n2088535) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7UCG2TVHWS3SSQHI5RXOCCTFWMDO5DC3) |
-| [ToonsHub] High School Kimengumi 2026 S01E11 1080p A... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-high-school-kimengumi-2026-s01e11-1080p-amzn.n2088534) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UNTQSPONPKMVPU4ANACWZI6VYUFRD6B3) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
