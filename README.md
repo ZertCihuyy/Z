@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 00.30.26 WIB
+**Sync Terakhir:** 22/3/2026, 01.44.13 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Erai-raws] Medalist 2nd Season - 09 [480p DSNP WEB-... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-medalist-2nd-season-09-480p-dsnp.n2088829) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X5GYQFFUKNRR6DRWW7Z6GJJ5BZDVYMHY) |
-| [Yameii] Tojima Wants to Be a Kamen Rider - S01E22 [... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tojima-wants-kamen-rider-s01e22-english-dub.n2088828) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QQWZVCR2W2C5R5KC35AZCUT7NR5VH5BS) |
-| [WakuTomete] Princess Session Orchestra - 46 (WEB 10... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/wakutomete-princess-session-orchestra-46-web-1080p-avc.k9836387724042) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TNIAGU3ZF3HH3M5C6PTLIS7J3P7XKJO2) |
-| [Yameii] Tojima Wants to Be a Kamen Rider - S01E22 [... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tojima-wants-kamen-rider-s01e22-english-dub.n2088827) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Q3XHI562NJQPQXY4QCV3FV4EFUAHNSRU) |
-| [Onalrie] Jingai Kyoushitsu no Ningengirai Kyoushi -... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-jingai-kyoushitsu-no-ningengirai-kyoushi-s01e11.2068568) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FPKOQI2NEOV2M7YTAF3SMOOHFQNSOUXZ) |
-| Fate-strange Fake S01E12 At the End of the Rope 1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/fate-strange-fake-s01e12-end-rope-1080p-cr.n2088824) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UT2Z4QWQASEN5J76X2YHASFP4FPKIC7B) |
-| [SubsPlease] Yuusha no Kuzu - 11 (1080p) [000F0884].mkv | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-kuzu-11-1080p-000f0884-mkv.n2088821) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YGM5F2EQQVHDGQI26DOQQKE2O7RHERYZ) |
-| Tojima Wants to Be a Kamen Rider S01E22 Shocker is o... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/tojima-wants-kamen-rider-s01e22-shocker-move-1080p.n2088819) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RSKLBYBXS3I23UBU6HUSQV2SNHVLZURF) |
-| Tojima Wants to Be a Kamen Rider S01E24 I Wouldnt Mi... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/tojima-wants-kamen-rider-s01e24-wouldnt-mind-dying.n2088818) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E6NYKR6QVP5QQT2HYMC26BZQYWU3WHHG) |
-| [SubsPlease] Toujima Tanzaburou wa Kamen Rider ni Na... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-toujima-tanzaburou-wa-kamen-rider-ni-naritai.n2088817) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SKLYELGEPMBXY3SXGVU76DNBI3AYVCFN) |
+| [ASW] Jingai Kyoushitsu no Ningengirai Kyoushi - 11 ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-jingai-kyoushitsu-no-ningengirai-kyoushi-11-1080p.n2088856) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TYVG5CPJBFCXN4LJCTZKTK4QCKFU3MBP) |
+| [ASW] Yuusha no Kuzu - 11 [1080p HEVC x265 10Bit][AAC] | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-kuzu-11-1080p-hevc-x265-10bit-aac.n2088854) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UN2Y3T3A3G227NTUCRE7NSWXAGAWSEAE) |
+| [Erai-raws] Fate/Strange Fake - 12 [1080p CR WEBRip ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-12-1080p-cr.n2088852) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZPM3IQ3CGJQUL4KZO4DPVVXYAAMYUSYB) |
+| [Judas] Fumetsu no Anata e (To Your Eternity) - S03E... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-fumetsu-no-anata-e-your-eternity-s03e20.n2088851) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PA2M6N7JWB475VHN63TEH3OD274FNET4) |
+| [Onalrie] Fate Strange Fake - S01E12 [1080p WEBRip A... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-fate-strange-fake-s01e12-1080p-webrip-av1-mkv.2068585) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5QFAKV3AQHV6JEYOJDO5NB2WBGZUJKJ7) |
+| [Anime Time] Hell's Paradise (Jigokuraku) - S02E07 [... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e07-1080p-hevc.n2088850) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JJMRZHQDLWTOKHHHLABD6QFT4W4GZU3A) |
+| [Ironclad] Fate/Strange Fake - S01E12 [WEB 1080p AV1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-fate-strange-fake-s01e12-web-1080p-av1.k9837147137281) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EBSY5ZKOPUQPRFWJNXIC7TIDXJBKAVMC) |
+| [ASW] Fate Strange Fake - 12 [1080p HEVC x265 10Bit]... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-fate-strange-fake-12-1080p-hevc-x265-10bit-aac.n2088845) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VU4YLQCGJCZFGB3ZEAL6KQESEJG3IUYW) |
+| [Trix] Medalist S02E09 [WEBRip 1080p AV1 AAC] (Multi... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-medalist-s02e09-webrip-1080p-av1-aac-multi.n2088842) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IHE7LE44LHBD2ORTUAFQZRBWKZNYBZYJ) |
+| [Onalrie] Fumetsu no Anata e - S03E20 [1080p WEBRip ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-fumetsu-no-anata-e-s03e20-1080p-webrip-av1-mkv.2068573) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Y3UW5LDWZ24E2ED2YO5NRW5E3NFRHONF) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
