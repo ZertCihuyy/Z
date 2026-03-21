@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 15.40.31 WIB
+**Sync Terakhir:** 21/3/2026, 16.38.06 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [ToonsHub] Blue Miburo S02E13 1080p CR WEB-DL AAC2.0... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-blue-miburo-s02e13-1080p-cr-web-dl.k9829351284746) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PIQVTP7NQ2AMLSUGLDKR63TMDKT3STYE) |
 | [LbE3L] DARK MOON: THE BLOOD ALTAR S01E11 [1080p CR ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-dark-moon-blood-altar-s01e11-1080p-cr.k9828222916608) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UOBJB6Z3B67EEOHGK6LN3LAGYLTAQSFS) |
 | [Mo7tas] Kiko-chan Smile [1080p] [MULTi Subs] | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/mo7tas-kiko-chan-smile-1080p-multi-subs.n2088574) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UIOSNA7RJJ2AXLQTOZ4E47NX6GBKQ5WS) |
 | The.Fragrant.Flower.Blooms.with.Dignity.S01.1080p.Bl... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/fragrant-flower-blooms-dignity-s01-1080p-bluray-dual.k9827052824581) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KYGUWGTRX5OWEF6TYODT6D3BXTP5DZGH) |
@@ -26,7 +27,6 @@
 | [Some-Stuffs] Pocket Monsters (2023) 132 (1080p) [D3... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-132-1080p-d3fb25c8.n2088566) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FCLGTDTBI3E6XSSQVVZACTKNK7MFCCLM) |
 | [Some-Stuffs] Pocket Monsters (2023) 132 (1080p HEVC... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-132-1080p-hevc-10-bit-2c227ab1.n2088565) <br><br> [🐱 Nyaa](https://nyaa.si/?q=APEFL5CQ2EU3XUQ6NRZKDJK4UNKINOVT) |
 | Cardfight!! Vanguard: Divinez Parallactic Clash - 09... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-09-genma-seisen.n2088557) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AZEZKXZEX4ZWL7XEZ6R3SVQ7ACI3OGFH) |
-| [Anime Time] Hell's Paradise (Jigokuraku) - S02E06 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e06-1080p-hevc.n2088540) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GLB3HH7WO5LUYBQ4FH2YIU45BKOGPAO6) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
