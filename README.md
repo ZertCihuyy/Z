@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 06.34.43 WIB
+**Sync Terakhir:** 21/3/2026, 09.29.29 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Raze] Enen no Shouboutai S3 - 23 (Dual-Audio) (Mult... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/raze-enen-no-shouboutai-s3-23-dual-audio.n2088520) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GRCWJDONHECVEBZNCW3RL7UOHYTK6476) |
+| [ChuySub] Majokko Megu-chan - Episode 41 | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-41.n2088518) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DTY6CLZJ7AR5UUDNCT2JV2I3BFTPKYII) |
+| [Tasokare] Guilty Crown S01 (BD 1080p Opus AV1) | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/tasokare-guilty-crown-s01-bd-1080p-opus-av1.k9820605113350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U2GPLHS7ANO3HQG4WHMNOVC4VQQAJBPS) |
+| [Kawatare] Guilty Crown S01 (BD 1080p FLAC x265) | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/kawatare-guilty-crown-s01-bd-1080p-flac-x265.k9820590082316) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FGJF7XSADX76VYWQG4WPWXNKXTY4ZFVI) |
+| [Piyoko] Himitsu no AiPri: Ring-hen - 49 [WEB 1080p ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/piyoko-himitsu-no-aipri-ring-hen-49-web.n2088514) <br><br> [🐱 Nyaa](https://nyaa.si/?q=V7PYOFPPPPKBDYZS5JDXCLN6FMDY55VE) |
 | [Yameii] Frieren: Beyond Journey's End - S02E07 [Eng... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-frieren-beyond-journeys-end-s02e07-english-dub.n2088511) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IREHNXIYPGGHD2NWDJBC7XO7YGKGMAHB) |
 | [Yameii] Fire Force - S03E23 [English Dub] [CR WEB-D... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-fire-force-s03e23-english-dub-cr-web.n2088510) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5EF7PTPIYSVS7JFIHWSMLUORA7M7H6AH) |
 | [Yameii] DARK MOON: THE BLOOD ALTAR - S01E11 [Englis... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dark-moon-blood-altar-s01e11-english-dub.n2088509) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PUE454I4HICARPQKIPGSL3E5OGATA2QX) |
 | [Anime Time] Hell's Paradise (Jigokuraku) - S02E04 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e04-1080p-hevc.n2088504) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3UP2HE3PDUAMXGJYMXVLCO5LZOYYFKKD) |
 | [Anime Time] Hell's Paradise (Jigokuraku) - S02E03 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e03-1080p-hevc.n2088503) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OFJXMVLKC7RSWS3WB2X2CHI4UDWQ2OZP) |
-| [DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-hell-mode-yarikomizuki-no-gamer-wa-hai.n2088502) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZJVSGUHY37PWDPGISDLCDYUK3RU5DLHW) |
-| [Feibanyama] JoJos Bizarre Adventure S06E01 [NF WebR... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/feibanyama-jojos-bizarre-adventure-s06e01-nf-webrip-1080p.n2088501) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UPCPDJ4DXSYMNHNQH6C6NW33I23KHIRZ) |
-| [SubsPlease] Kikaijikake no Marie (01-12) (1080p) [B... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kikaijikake-no-marie-01-12-1080p-batch.n2088500) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2ZRAO22JX7JLX47XCK565IGTR5GUFWED) |
-| [SubsPlease] Kikaijikake no Marie (01-12) (720p) [Ba... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kikaijikake-no-marie-01-12-720p-batch.n2088499) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DEFN3MZAPMUFLZMJJBH5RGRZVX6XEZDT) |
-| [SubsPlease] Kikaijikake no Marie (01-12) (480p) [Ba... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kikaijikake-no-marie-01-12-480p-batch.n2088498) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3JNKYCJDJIURBNHYELY3IWZPLIYZDPCJ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
