@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 03.34.16 WIB
+**Sync Terakhir:** 22/3/2026, 04.30.46 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| Chained Soldier S02E02 Rens Shadow 1080p ADN WEB-DL ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e02-rens-shadow-1080p-adn-web.n2088906) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QPEUU7V3B3KAHNRE5KRWDWVPT3POX6Q2) |
+| Chained Soldier S02E01 Commanders Meeting REPACK 108... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e01-commanders-meeting-repack-1080p-adn.n2088905) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DZPUGR2RY764OYCX3LRCE4NC6MXKFMNA) |
+| [Feibanyama] Fate-strange Fake S01E12 [IQIYI WebRip ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/feibanyama-fate-strange-fake-s01e12-iqiyi-webrip-2160p.n2088903) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CEYCD2FHQX5GVP4OBTKUQ7NQKVKHXPUE) |
+| [ToonsHub] HELL MODE The Hardcore Gamer Dominates in... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hell-mode-hardcore-gamer-dominates-another-world.k9839885792005) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DUWT6OFID2VPMO4NOO5BJ75OUU4H2XPZ) |
+| [Freehold] Chained Soldier S02E02 [ADN WEB-DL 1080p ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e02-adn-web-dl-1080p.k9839854336524) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L566H3CDESMBE6RCWVDPC7V3R3ZXKWDM) |
+| [Freehold] Chained Soldier S02E01 REPACK [ADN WEB-DL... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e01-repack-adn-web-dl.k9839814342917) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KZSL3Q55MVZ7BLP7TWPEZHR34SXTSJSG) |
+| [CrappySubs] Oshi no Ko - S03E09 - (WEB 1080p H.265 ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/crappysubs-oshi-no-ko-s03e09-web-1080p-h.k9839772532997) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6V2P7C4DLP44ABHII3KHEZ7C5V3E3H3A) |
+| [Erai-raws] Medalist 2nd Season - 09 [1080p DSNP WEB... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-medalist-2nd-season-09-1080p-dsnp.n2088892) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZOO6L5KMIJI5PKHQJAWXIV4UCPYSQSSF) |
+| HELL MODE S01E11 SNEAK ATTACK 1080p ADN WEB-DL AAC2.... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/hell-mode-s01e11-sneak-attack-1080p-adn-web.n2088891) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GRVGWHRPC6NY56Q2PXDAECB25FQZQLJH) |
 | [Anime Time] Hell's Paradise (Jigokuraku) - S02E08 [... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e08-1080p-hevc.n2088887) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BOMEYLKQNBTCSLBTAD6NPPSI3ZACSB2P) |
-| [Ironclad] Toujima Tanzaburou wa Kamen Rider ni Nari... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-toujima-tanzaburou-wa-kamen-rider-ni-naritai.n2088886) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OJM2LKY6VWB76FYACDVWJQXUDVAFDQHJ) |
-| [Onalrie] Toujima Tanzaburou wa Kamen Rider ni Narit... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-toujima-tanzaburou-wa-kamen-rider-ni-naritai.2068614) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5KXV6H3JIY2MI7KIUTZPPZWEVHVHPMQU) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 11 [1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2088885) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R4K7JCIMTES3AZFEJLCZNWPSDMU2HDPQ) |
-| [Erai-raws] Darwin Jihen - 11 [1080p AMZN WEBRip HEV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-11-1080p-amzn-webrip.n2088884) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NKFN6HHRZ7O7DHX3FHZBV4V6J4MO2OXW) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 10 [1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2088883) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RN4BCXT5PQ5WPT5JPLP7UG7TYSWX72YE) |
-| [Erai-raws] Darwin Jihen - 10 [1080p AMZN WEBRip HEV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-10-1080p-amzn-webrip.n2088882) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A4S7KGNES5OQQBHVCGH2NHCWNAQEV553) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 09 [1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2088881) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XLSM5RTGEMZQNHXK4XKCIRPKAKKZQ6VW) |
-| [Erai-raws] Darwin Jihen - 09 [1080p AMZN WEBRip HEV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-09-1080p-amzn-webrip.n2088880) <br><br> [🐱 Nyaa](https://nyaa.si/?q=77GOBTOKEC3KWMH4CVAF6JIGBGCY4IU4) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 08 [1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2088879) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JAUYFWF34VP7IAPRVU3XVS6HKQWWWY6E) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
