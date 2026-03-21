@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 22.31.47 WIB
+**Sync Terakhir:** 21/3/2026, 23.37.02 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ToonsHub] TRIGUN STARGAZE S02E11 1080p CR WEB-DL AA... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-trigun-stargaze-s02e11-1080p-cr-web-dl.k9834534386178) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PORS2CSSPWBRL5YJD56RHAWEFY4XJYPG) |
-| [Erai-raws] Trigun Stargaze - 11 [480p CR WEB-DL AVC... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-11-480p-cr-web.n2088708) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L52P4UQ72A5UEPAUFBKTF5X4YOHIIDQB) |
-| [Erai-raws] Trigun Stargaze - 11 [720p CR WEB-DL AVC... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-11-720p-cr-web.n2088707) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WLKYQ74D573EV4VNDUJATXNMWLGCBNMA) |
-| [Judas] Jingai Kyoushitsu no Ningengirai Kyoushi (A ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-jingai-kyoushitsu-no-ningengirai-kyoushi-misanthrope.n2088706) <br><br> [🐱 Nyaa](https://nyaa.si/?q=K6DAAZR32BKCSBJKQTOUCM2FP7IVVVEV) |
-| [SubsPlease] Trigun Stargaze - 23 (1080p) [04451004]... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stargaze-23-1080p-04451004-mkv.n2088705) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HIESFAPEBVVAKZHMOODGZOQ6EKTLZ7RU) |
-| [SubsPlease] Dead Account - 11 (1080p) [F662009C].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-dead-account-11-1080p-f662009c-mkv.n2088704) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QDX6ZWCWVM7FVEZL5VLHKDNNEEXWSHWO) |
-| [New-raws] Dead Account - 11 [1080p] [Bstation].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/new-raws-dead-account-11-1080p-bstation-mkv.n2088703) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6S6ZS5PPPRMO47RFNLCEJZ7PY7OSPDRD) |
-| [SubsPlease] Trigun Stargaze - 23 (720p) [7A14457A].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stargaze-23-720p-7a14457a-mkv.n2088702) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MSPD7UDLWMYO2IXTOE3WIKGHHPQUB7TT) |
-| Dead Account S01E11 The A-B Alliance 1080p CR WEB-DL... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dead-account-s01e11-b-alliance-1080p-cr-web.n2088701) <br><br> [🐱 Nyaa](https://nyaa.si/?q=525MMGABFBFI3X3KMFBTLDSFFRLO66M4) |
-| [Erai-raws] Trigun Stargaze - 11 [1080p CR WEB-DL AV... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-11-1080p-cr-web.n2088700) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GDUHJ4V7ZANVVA7MDOZDJVMHW7C4CW5I) |
+| [Cyan] Champignon no Majo - 09 [WEB 1080p x265][AAC]... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/cyan-champignon-no-majo-09-web-1080p-x265.k9835616749313) <br><br> [🐱 Nyaa](https://nyaa.si/?q=O26RL27ITPNF3U55OEBGGVEK54QP7YEZ) |
+| [Raze] Fate Strange Fake - 12 x265 10bit 1080p 143.8... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/raze-fate-strange-fake-12-x265-10bit-1080p.n2088773) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HBDM4CT4QZPHT2O4NWW42KPONM4WVXHO) |
+| [ToonsHub] Fate-strange Fake S01E12 1080p CR WEB-DL ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-fate-strange-fake-s01e12-1080p-cr-web.k9835518970895) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZFSSZIFUQXED32FOTYU66UGUFPJXSA6V) |
+| [Yameii] Fate/strange Fake - S01E12 [English Dub] [C... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-fate-strange-fake-s01e12-english-dub-cr.n2088771) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4ZKXGXKFIP7S3JISX6AZPEE7HHGHIJKK) |
+| [Erai-raws] Fate/Strange Fake - 12 [480p CR WEB-DL A... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-12-480p-cr.n2088769) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UE345VJBQNDRHQZRD3TQE3IDHNJ3AAT7) |
+| [Erai-raws] Fate/Strange Fake - 12 [720p CR WEB-DL A... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-12-720p-cr.n2088768) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3QLH42SVZ56P3LY74DD3HIRTAHORUO65) |
+| [Yameii] Fate/strange Fake - S01E12 [English Dub] [C... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-fate-strange-fake-s01e12-english-dub-cr.n2088767) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2W7ALYWCPJAUVKNZTZFP7GUWVTCYKUIL) |
+| [Erai-raws] Fate/Strange Fake - 12 [1080p CR WEB-DL ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-12-1080p-cr.n2088766) <br><br> [🐱 Nyaa](https://nyaa.si/?q=57MTGEVEGESSLMYTW3QW3STPGL36X3WU) |
+| Fate-strange Fake S01E12 At the End of the Rope 1080... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/fate-strange-fake-s01e12-end-rope-1080p-cr.n2088765) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ES5HDODL3325R64TUCGDR6EZ225JW6PJ) |
+| [SubsPlease] Fate Strange Fake - 12 (1080p) [9CA3F0B... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-fate-strange-fake-12-1080p-9ca3f0b0-mkv.n2088764) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HOODVHISJRUQSRQU4KVAIBBUAGQJXLT7) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
