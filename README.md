@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 09.29.29 WIB
+**Sync Terakhir:** 21/3/2026, 11.41.35 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| Cardfight!! Vanguard: Divinez Parallactic Clash - 09... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-09-genma-seisen.n2088557) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AZEZKXZEX4ZWL7XEZ6R3SVQ7ACI3OGFH) |
+| [Anime Time] Hell's Paradise (Jigokuraku) - S02E06 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e06-1080p-hevc.n2088540) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GLB3HH7WO5LUYBQ4FH2YIU45BKOGPAO6) |
+| [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088538) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TI2D7URV7SUJHKVRZJVDLSZWDJHIIDZ7) |
+| [Erai-raws] Sousou no Frieren 2nd Season - 09 [1080p... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-sousou-no-frieren-2nd-season-09.n2088537) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E6QWYF4SWDZHTZQIEGGSMRHUXFAFFCPN) |
+| [Gecko] B.King - S01E06 (驭灵师; Yu Ling Shi) [BILI.WEB... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e06-yu-ling-shi-bili.k9823398640648) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TVEAYCNPKQ365OUNPPHWJXJBWKRRXONK) |
+| High School KIMENGUMI S01E11 Chara-llel World 1080p ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/high-school-kimengumi-s01e11-chara-llel-world-1080p.n2088535) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7UCG2TVHWS3SSQHI5RXOCCTFWMDO5DC3) |
+| [ToonsHub] High School Kimengumi 2026 S01E11 1080p A... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-high-school-kimengumi-2026-s01e11-1080p-amzn.n2088534) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UNTQSPONPKMVPU4ANACWZI6VYUFRD6B3) |
+| [ToonsHub] B King S01E06 1080p BILI WEB-DL AAC2.0 H.... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e06-1080p-bili-web-dl.n2088533) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BP2I5H5O2XNMVPUXQRYLFZLEXII64LPO) |
+| [LbE3L] Disney Twisted-Wonderland: The Animation S01... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-disney-twisted-wonderland-animation-s01-dsnp-v2.k9823173190927) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I3CZSAHBQECSCSUNGDTH2BANJI2EQFAX) |
 | [Raze] Enen no Shouboutai S3 - 23 (Dual-Audio) (Mult... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/raze-enen-no-shouboutai-s3-23-dual-audio.n2088520) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GRCWJDONHECVEBZNCW3RL7UOHYTK6476) |
-| [ChuySub] Majokko Megu-chan - Episode 41 | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-41.n2088518) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DTY6CLZJ7AR5UUDNCT2JV2I3BFTPKYII) |
-| [Tasokare] Guilty Crown S01 (BD 1080p Opus AV1) | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/tasokare-guilty-crown-s01-bd-1080p-opus-av1.k9820605113350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U2GPLHS7ANO3HQG4WHMNOVC4VQQAJBPS) |
-| [Kawatare] Guilty Crown S01 (BD 1080p FLAC x265) | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/kawatare-guilty-crown-s01-bd-1080p-flac-x265.k9820590082316) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FGJF7XSADX76VYWQG4WPWXNKXTY4ZFVI) |
-| [Piyoko] Himitsu no AiPri: Ring-hen - 49 [WEB 1080p ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/piyoko-himitsu-no-aipri-ring-hen-49-web.n2088514) <br><br> [🐱 Nyaa](https://nyaa.si/?q=V7PYOFPPPPKBDYZS5JDXCLN6FMDY55VE) |
-| [Yameii] Frieren: Beyond Journey's End - S02E07 [Eng... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-frieren-beyond-journeys-end-s02e07-english-dub.n2088511) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IREHNXIYPGGHD2NWDJBC7XO7YGKGMAHB) |
-| [Yameii] Fire Force - S03E23 [English Dub] [CR WEB-D... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-fire-force-s03e23-english-dub-cr-web.n2088510) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5EF7PTPIYSVS7JFIHWSMLUORA7M7H6AH) |
-| [Yameii] DARK MOON: THE BLOOD ALTAR - S01E11 [Englis... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dark-moon-blood-altar-s01e11-english-dub.n2088509) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PUE454I4HICARPQKIPGSL3E5OGATA2QX) |
-| [Anime Time] Hell's Paradise (Jigokuraku) - S02E04 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e04-1080p-hevc.n2088504) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3UP2HE3PDUAMXGJYMXVLCO5LZOYYFKKD) |
-| [Anime Time] Hell's Paradise (Jigokuraku) - S02E03 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e03-1080p-hevc.n2088503) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OFJXMVLKC7RSWS3WB2X2CHI4UDWQ2OZP) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
