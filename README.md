@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 20.01.22 WIB
+**Sync Terakhir:** 21/3/2026, 21.32.34 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Erai-raws] Detective Conan - 1194 [480p CR WEB-DL A... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1194-480p-cr-web.n2088628) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OTMWGLXA4CVEWVKYP76NH52C5QEE4YRA) |
-| [Erai-raws] Detective Conan - 1194 [720p CR WEB-DL A... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1194-720p-cr-web.n2088627) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4IDAIZWIPCCREHAV7RLQAJEPP57IEFTU) |
-| [Erai-raws] Detective Conan - 1194 [1080p CR WEB-DL ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1194-1080p-cr-web.n2088626) <br><br> [🐱 Nyaa](https://nyaa.si/?q=K6YDX7ZOTJOP57VKPQBC37OY6CONKOD5) |
-| [tlh1138] Swallowed Star - Tunshi Xingkong - 183 (21... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/tlh1138-swallowed-star-tunshi-xingkong-183-2160p.n2088623) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LEMFXOXUUJ3FGMHSCAWDNZUQR2SLQ6C7) |
-| [tlh1138] Soul Land 2 - Douluo Dalu 2 - 112 (2160p) | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/tlh1138-soul-land-2-douluo-dalu-2-112-2160p.n2088622) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KBYUNQN32UTUTQR3LRWVXCOI345WAJFD) |
-| [ASW] Detective Conan - 1194 [1080p HEVC x265 10Bit]... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-detective-conan-1194-1080p-hevc-x265-10bit-aac.n2088621) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MJGJQHM34EUG4XZTM3QV2VJL5P2BY4V4) |
-| [ToonsHub] Detective Conan EP1194 1080p CR WEB-DL AA... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-detective-conan-ep1194-1080p-cr-web-dl.k9831193559048) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JBD5TJATJ7JYRWI225MXSJJLRSY4LFMM) |
-| [SubsPlease] Detective Conan - 1194 (1080p) [172108E... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1194-1080p-172108e7-mkv.n2088615) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZB2ELGYCUCF2VBONEHU4PIWAISX43RXN) |
-| [SubsPlease] Detective Conan - 1194 (720p) [7F7065C2... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1194-720p-7f7065c2-mkv.n2088614) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OSBN5DCKHZ5RREQXQPMLBMTDBB4METNM) |
-| [SubsPlease] Detective Conan - 1194 (480p) [4A4F5D76... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1194-480p-4a4f5d76-mkv.n2088613) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RMV67I6Y362UIA3HXLN7NAA523EITC6G) |
+| [ToonsHub] TRIGUN STARGAZE S02E09 1080p CR WEB-DL DU... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-trigun-stargaze-s02e09-1080p-cr-web-dl.n2088667) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ESEOBEOGYHNGIR6ZIJG247QCKCNPRM6X) |
+| [SubsPlus+] Reincarnated as a Dragon Hatchling - S01... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplus-reincarnated-dragon-hatchling-s01e11-amzn-web-dl.n2088666) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UN3NLTUHDN5THOSLJDEMWLPSBPMKLRAX) |
+| [Yameii] Dead Account - S01E09 [English Dub] [CR WEB... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dead-account-s01e09-english-dub-cr-web.n2088665) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RHOMBWH6RML7AH4XXMWVOSMSZPCZ2NVJ) |
+| Dead Account S01E09 The Battle at Sainokawara 1080p ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dead-account-s01e09-battle-sainokawara-1080p-cr-web.n2088664) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EMVUARJ6ST7GU2GJ3QFWN4H3N5DJSF2X) |
+| [ToonsHub] Dead Account S01E09 1080p CR WEB-DL DUAL ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dead-account-s01e09-1080p-cr-web-dl.n2088663) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YPPS2P4NZDEEU6U5W2MD7IKLWHKMGUUV) |
+| [Onalrie] Tensei shitara Dragon no Tamago datta - S0... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-tensei-shitara-dragon-no-tamago-datta-s01e11.2068512) <br><br> [🐱 Nyaa](https://nyaa.si/?q=44UXO7ILG4L55KUEHVQQ3EZ5HUQBJJA4) |
+| [ASW] Tensei shitara Dragon no Tamago datta - 11 [10... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-tensei-shitara-dragon-no-tamago-datta-11.n2088660) <br><br> [🐱 Nyaa](https://nyaa.si/?q=D7NFW23UL66CSJJ2IXJ3UN3UFN4UD67Y) |
+| [WOR] Fate/Prototype [BD HEVC 1080p FLAC] multi-sub | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/wor-fate-prototype-bd-hevc-1080p-flac-multi-sub.n2088658) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T55555DZUQCUM5VSUDC6Z6SC2DOTRPRG) |
+| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2088655) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4OFHCQUSHGKNMZIJON46GZUYXAMAVEVJ) |
+| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2088654) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TR2XTR64YNFJDOQR3E6LJLVJNYROOFIU) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
