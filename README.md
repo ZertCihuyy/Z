@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 21.32.34 WIB
+**Sync Terakhir:** 21/3/2026, 22.31.47 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ToonsHub] TRIGUN STARGAZE S02E09 1080p CR WEB-DL DU... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-trigun-stargaze-s02e09-1080p-cr-web-dl.n2088667) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ESEOBEOGYHNGIR6ZIJG247QCKCNPRM6X) |
-| [SubsPlus+] Reincarnated as a Dragon Hatchling - S01... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplus-reincarnated-dragon-hatchling-s01e11-amzn-web-dl.n2088666) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UN3NLTUHDN5THOSLJDEMWLPSBPMKLRAX) |
-| [Yameii] Dead Account - S01E09 [English Dub] [CR WEB... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dead-account-s01e09-english-dub-cr-web.n2088665) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RHOMBWH6RML7AH4XXMWVOSMSZPCZ2NVJ) |
-| Dead Account S01E09 The Battle at Sainokawara 1080p ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dead-account-s01e09-battle-sainokawara-1080p-cr-web.n2088664) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EMVUARJ6ST7GU2GJ3QFWN4H3N5DJSF2X) |
-| [ToonsHub] Dead Account S01E09 1080p CR WEB-DL DUAL ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dead-account-s01e09-1080p-cr-web-dl.n2088663) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YPPS2P4NZDEEU6U5W2MD7IKLWHKMGUUV) |
-| [Onalrie] Tensei shitara Dragon no Tamago datta - S0... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-tensei-shitara-dragon-no-tamago-datta-s01e11.2068512) <br><br> [🐱 Nyaa](https://nyaa.si/?q=44UXO7ILG4L55KUEHVQQ3EZ5HUQBJJA4) |
-| [ASW] Tensei shitara Dragon no Tamago datta - 11 [10... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-tensei-shitara-dragon-no-tamago-datta-11.n2088660) <br><br> [🐱 Nyaa](https://nyaa.si/?q=D7NFW23UL66CSJJ2IXJ3UN3UFN4UD67Y) |
-| [WOR] Fate/Prototype [BD HEVC 1080p FLAC] multi-sub | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/wor-fate-prototype-bd-hevc-1080p-flac-multi-sub.n2088658) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T55555DZUQCUM5VSUDC6Z6SC2DOTRPRG) |
-| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2088655) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4OFHCQUSHGKNMZIJON46GZUYXAMAVEVJ) |
-| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2088654) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TR2XTR64YNFJDOQR3E6LJLVJNYROOFIU) |
+| [ToonsHub] TRIGUN STARGAZE S02E11 1080p CR WEB-DL AA... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-trigun-stargaze-s02e11-1080p-cr-web-dl.k9834534386178) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PORS2CSSPWBRL5YJD56RHAWEFY4XJYPG) |
+| [Erai-raws] Trigun Stargaze - 11 [480p CR WEB-DL AVC... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-11-480p-cr-web.n2088708) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L52P4UQ72A5UEPAUFBKTF5X4YOHIIDQB) |
+| [Erai-raws] Trigun Stargaze - 11 [720p CR WEB-DL AVC... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-11-720p-cr-web.n2088707) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WLKYQ74D573EV4VNDUJATXNMWLGCBNMA) |
+| [Judas] Jingai Kyoushitsu no Ningengirai Kyoushi (A ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-jingai-kyoushitsu-no-ningengirai-kyoushi-misanthrope.n2088706) <br><br> [🐱 Nyaa](https://nyaa.si/?q=K6DAAZR32BKCSBJKQTOUCM2FP7IVVVEV) |
+| [SubsPlease] Trigun Stargaze - 23 (1080p) [04451004]... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stargaze-23-1080p-04451004-mkv.n2088705) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HIESFAPEBVVAKZHMOODGZOQ6EKTLZ7RU) |
+| [SubsPlease] Dead Account - 11 (1080p) [F662009C].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-dead-account-11-1080p-f662009c-mkv.n2088704) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QDX6ZWCWVM7FVEZL5VLHKDNNEEXWSHWO) |
+| [New-raws] Dead Account - 11 [1080p] [Bstation].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/new-raws-dead-account-11-1080p-bstation-mkv.n2088703) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6S6ZS5PPPRMO47RFNLCEJZ7PY7OSPDRD) |
+| [SubsPlease] Trigun Stargaze - 23 (720p) [7A14457A].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stargaze-23-720p-7a14457a-mkv.n2088702) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MSPD7UDLWMYO2IXTOE3WIKGHHPQUB7TT) |
+| Dead Account S01E11 The A-B Alliance 1080p CR WEB-DL... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/dead-account-s01e11-b-alliance-1080p-cr-web.n2088701) <br><br> [🐱 Nyaa](https://nyaa.si/?q=525MMGABFBFI3X3KMFBTLDSFFRLO66M4) |
+| [Erai-raws] Trigun Stargaze - 11 [1080p CR WEB-DL AV... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-11-1080p-cr-web.n2088700) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GDUHJ4V7ZANVVA7MDOZDJVMHW7C4CW5I) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
