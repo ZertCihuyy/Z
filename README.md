@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 13.53.38 WIB
+**Sync Terakhir:** 21/3/2026, 14.36.53 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Mo7tas] Kiko-chan Smile [1080p] [MULTi Subs] | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/mo7tas-kiko-chan-smile-1080p-multi-subs.n2088574) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UIOSNA7RJJ2AXLQTOZ4E47NX6GBKQ5WS) |
+| The.Fragrant.Flower.Blooms.with.Dignity.S01.1080p.Bl... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/fragrant-flower-blooms-dignity-s01-1080p-bluray-dual.k9827052824581) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KYGUWGTRX5OWEF6TYODT6D3BXTP5DZGH) |
 | [ToonsHub] Chained Soldier S02E01 REPACK 1080p HIDIV... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chained-soldier-s02e01-repack-1080p-hidive-web.n2088571) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MFYS65RQNKUIUNSR52WYX7WQFIULAWBI) |
 | [ToonsHub] B King S01E06 1080p ADN WEB-DL AAC2.0 H.2... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e06-1080p-adn-web-dl.n2088570) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BTQFFCDOYFLVE4KSDMRYMDTSWUPBLHS5) |
 | [Some-Stuffs] Pocket Monsters (2023) Rising Again - ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-rising-again-rakua-final.n2088569) <br><br> [🐱 Nyaa](https://nyaa.si/?q=B47XZNX4CLVNZ7RYWVJLSWUAXBPI3NYX) |
@@ -25,8 +27,6 @@
 | Cardfight!! Vanguard: Divinez Parallactic Clash - 09... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-09-genma-seisen.n2088557) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AZEZKXZEX4ZWL7XEZ6R3SVQ7ACI3OGFH) |
 | [Anime Time] Hell's Paradise (Jigokuraku) - S02E06 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e06-1080p-hevc.n2088540) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GLB3HH7WO5LUYBQ4FH2YIU45BKOGPAO6) |
 | [Anime Time] Hell's Paradise (Jigokuraku) - S02E05 [... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e05-1080p-hevc.n2088539) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SU7LSS3PFM77TKPWVUE6Z6U7XTBHHX72) |
-| [Erai-raws] Enen no Shouboutai: San no Shou Part 2 -... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2088538) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TI2D7URV7SUJHKVRZJVDLSZWDJHIIDZ7) |
-| [Erai-raws] Sousou no Frieren 2nd Season - 09 [1080p... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-sousou-no-frieren-2nd-season-09.n2088537) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E6QWYF4SWDZHTZQIEGGSMRHUXFAFFCPN) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
