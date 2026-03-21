@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 21/3/2026, 16.38.06 WIB
+**Sync Terakhir:** 21/3/2026, 17.33.40 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Onalrie] Ao no Miburo - S02E13 [1080p WEBRip AV1].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-ao-no-miburo-s02e13-1080p-webrip-av1-mkv.2068468) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OQQKX2TYNOKXLG5L42LWX2TQIK23A36G) |
+| Blue Miburo S02E13 Blue Era 1080p CR WEB-DL AAC2.0 H... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/blue-miburo-s02e13-era-1080p-cr-web-dl.n2088595) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XBRHSI6NQUZ4AAHVYG7AWW7555A2ANNJ) |
+| Toradora Episode 6 Bonus Clip (Ami's Impressions) [B... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toradora-episode-6-bonus-clip-amis-impressions-bd-remux.n2088594) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GUNJP5MS3WI75ISI4QOQHSEKUI2CLTKE) |
+| [ToonsHub] Way of Choices 2026 S01E10 1080p iQ WEB-D... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-way-choices-2026-s01e10-1080p-iq-web.k9829816000013) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HW5DUWAYM6M2GOYXD63T5AX7BCKW4CYD) |
+| [Bird] Cardfight!! Vanguard - Divinez Genma Seisen-h... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-09-1080p.n2088584) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VKZ3DLYV4AYXQFDSPC5PODYDD7IFK7EE) |
+| [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 13 ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2088583) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JFM7RFOMSP7SQKAGWSA2UG57MYSQIW2B) |
+| [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 13 ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2088582) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FYPQXFAHKLERYW4LE2FQHKGEYCDMDR4H) |
+| [SubsPlease] Ao no Miburo S2 - 13 (1080p) [AFA0C48D]... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-13-1080p-afa0c48d-mkv.n2088581) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UR3STGOT2VFTRRTWMWGLHHSSNOY5Q5JJ) |
 | [ToonsHub] Blue Miburo S02E13 1080p CR WEB-DL AAC2.0... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-blue-miburo-s02e13-1080p-cr-web-dl.k9829351284746) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PIQVTP7NQ2AMLSUGLDKR63TMDKT3STYE) |
-| [LbE3L] DARK MOON: THE BLOOD ALTAR S01E11 [1080p CR ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-dark-moon-blood-altar-s01e11-1080p-cr.k9828222916608) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UOBJB6Z3B67EEOHGK6LN3LAGYLTAQSFS) |
-| [Mo7tas] Kiko-chan Smile [1080p] [MULTi Subs] | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/mo7tas-kiko-chan-smile-1080p-multi-subs.n2088574) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UIOSNA7RJJ2AXLQTOZ4E47NX6GBKQ5WS) |
-| The.Fragrant.Flower.Blooms.with.Dignity.S01.1080p.Bl... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/fragrant-flower-blooms-dignity-s01-1080p-bluray-dual.k9827052824581) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KYGUWGTRX5OWEF6TYODT6D3BXTP5DZGH) |
-| [ToonsHub] Chained Soldier S02E01 REPACK 1080p HIDIV... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chained-soldier-s02e01-repack-1080p-hidive-web.n2088571) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MFYS65RQNKUIUNSR52WYX7WQFIULAWBI) |
-| [ToonsHub] B King S01E06 1080p ADN WEB-DL AAC2.0 H.2... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e06-1080p-adn-web-dl.n2088570) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BTQFFCDOYFLVE4KSDMRYMDTSWUPBLHS5) |
-| [Some-Stuffs] Pocket Monsters (2023) Rising Again - ... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-rising-again-rakua-final.n2088569) <br><br> [🐱 Nyaa](https://nyaa.si/?q=B47XZNX4CLVNZ7RYWVJLSWUAXBPI3NYX) |
-| [Some-Stuffs] Pocket Monsters (2023) 132 (1080p) [D3... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-132-1080p-d3fb25c8.n2088566) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FCLGTDTBI3E6XSSQVVZACTKNK7MFCCLM) |
-| [Some-Stuffs] Pocket Monsters (2023) 132 (1080p HEVC... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-132-1080p-hevc-10-bit-2c227ab1.n2088565) <br><br> [🐱 Nyaa](https://nyaa.si/?q=APEFL5CQ2EU3XUQ6NRZKDJK4UNKINOVT) |
-| Cardfight!! Vanguard: Divinez Parallactic Clash - 09... | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-09-genma-seisen.n2088557) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AZEZKXZEX4ZWL7XEZ6R3SVQ7ACI3OGFH) |
+| [SubsPlease] Ao no Miburo S2 - 13 (720p) [2655AD87].mkv | NaN MB | 21/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-13-720p-2655ad87-mkv.n2088579) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2Q3XPUFPUZAWSJDZPWIWOYKET3GKG4HB) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
