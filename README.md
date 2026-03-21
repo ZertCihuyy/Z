@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 01.44.13 WIB
+**Sync Terakhir:** 22/3/2026, 02.29.59 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ASW] Jingai Kyoushitsu no Ningengirai Kyoushi - 11 ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-jingai-kyoushitsu-no-ningengirai-kyoushi-11-1080p.n2088856) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TYVG5CPJBFCXN4LJCTZKTK4QCKFU3MBP) |
-| [ASW] Yuusha no Kuzu - 11 [1080p HEVC x265 10Bit][AAC] | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-kuzu-11-1080p-hevc-x265-10bit-aac.n2088854) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UN2Y3T3A3G227NTUCRE7NSWXAGAWSEAE) |
-| [Erai-raws] Fate/Strange Fake - 12 [1080p CR WEBRip ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fate-strange-fake-12-1080p-cr.n2088852) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZPM3IQ3CGJQUL4KZO4DPVVXYAAMYUSYB) |
-| [Judas] Fumetsu no Anata e (To Your Eternity) - S03E... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-fumetsu-no-anata-e-your-eternity-s03e20.n2088851) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PA2M6N7JWB475VHN63TEH3OD274FNET4) |
-| [Onalrie] Fate Strange Fake - S01E12 [1080p WEBRip A... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-fate-strange-fake-s01e12-1080p-webrip-av1-mkv.2068585) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5QFAKV3AQHV6JEYOJDO5NB2WBGZUJKJ7) |
-| [Anime Time] Hell's Paradise (Jigokuraku) - S02E07 [... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e07-1080p-hevc.n2088850) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JJMRZHQDLWTOKHHHLABD6QFT4W4GZU3A) |
-| [Ironclad] Fate/Strange Fake - S01E12 [WEB 1080p AV1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-fate-strange-fake-s01e12-web-1080p-av1.k9837147137281) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EBSY5ZKOPUQPRFWJNXIC7TIDXJBKAVMC) |
-| [ASW] Fate Strange Fake - 12 [1080p HEVC x265 10Bit]... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-fate-strange-fake-12-1080p-hevc-x265-10bit-aac.n2088845) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VU4YLQCGJCZFGB3ZEAL6KQESEJG3IUYW) |
-| [Trix] Medalist S02E09 [WEBRip 1080p AV1 AAC] (Multi... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-medalist-s02e09-webrip-1080p-av1-aac-multi.n2088842) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IHE7LE44LHBD2ORTUAFQZRBWKZNYBZYJ) |
-| [Onalrie] Fumetsu no Anata e - S03E20 [1080p WEBRip ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-fumetsu-no-anata-e-s03e20-1080p-webrip-av1-mkv.2068573) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Y3UW5LDWZ24E2ED2YO5NRW5E3NFRHONF) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 09 [1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2088881) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XLSM5RTGEMZQNHXK4XKCIRPKAKKZQ6VW) |
+| [Erai-raws] Darwin Jihen - 09 [1080p AMZN WEBRip HEV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-09-1080p-amzn-webrip.n2088880) <br><br> [🐱 Nyaa](https://nyaa.si/?q=77GOBTOKEC3KWMH4CVAF6JIGBGCY4IU4) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 08 [1... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2088879) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JAUYFWF34VP7IAPRVU3XVS6HKQWWWY6E) |
+| [Erai-raws] Darwin Jihen - 08 [1080p AMZN WEBRip HEV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-08-1080p-amzn-webrip.n2088878) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RRYZFEBA6YAIM3OJ5I3YG3V4XMQAA7XT) |
+| [Erai-raws] Yuusha Party ni Kawaii Ko ga Ita node, K... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-party-ni-kawaii-ko-ga.n2088877) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ANFJPXP2JLPF7IF7TGNIIEJZEAGQD2DB) |
+| [Erai-raws] Yuusha Party wo Oidasareta Kiyou binbou ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-party-wo-oidasareta-kiyou-binbou.n2088876) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UCSMZUSML3W4FSROXM4JIP4RUC2QXDVP) |
+| [Erai-raws] Yuusha-kei ni Shosu: Choubatsu Yuusha 90... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-kei-ni-shosu-choubatsu-9004.n2088875) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UJROL2S7AUDQWEGAYEVY7OWQWG5KYK5M) |
+| [Erai-raws] Yuusha Party ni Kawaii Ko ga Ita node, K... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-party-ni-kawaii-ko-ga.n2088874) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MQ53JBWFNJWBFW7KLKUCTXW35AS2NWHY) |
+| [Erai-raws] Yuusha Party wo Oidasareta Kiyou binbou ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-party-wo-oidasareta-kiyou-binbou.n2088873) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UM6RU6BA552IRZ7FV2KP76DDJ45MRUBY) |
+| [Erai-raws] Yuusha-kei ni Shosu: Choubatsu Yuusha 90... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-kei-ni-shosu-choubatsu-9004.n2088872) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DWASGWJ3QEUGYZ5OA5QHH4EOSPV6PR7B) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
