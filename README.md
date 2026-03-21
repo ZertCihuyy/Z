@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 05.31.16 WIB
+**Sync Terakhir:** 22/3/2026, 06.31.07 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -11,7 +11,7 @@
 | <img src="https://myanimelist.net/images/anime/1772/154456.jpg" width="110" style="border-radius: 8px;"> | **[Jigokuraku 2nd Season](https://myanimelist.net/anime/55825/Jigokuraku_2nd_Season)**<br>⭐ Score: 8.24<br>📺 Eps: 12 |
 | <img src="https://myanimelist.net/images/anime/1062/151911.jpg" width="110" style="border-radius: 8px;"> | **[Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://myanimelist.net/anime/56009/Yuusha-kei_ni_Shosu__Choubatsu_Yuusha_9004-tai_Keimu_Kiroku)**<br>⭐ Score: 8.14<br>📺 Eps: 12 |
 | <img src="https://myanimelist.net/images/anime/1979/153329.jpg" width="110" style="border-radius: 8px;"> | **[[Oshi no Ko] 3rd Season](https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season)**<br>⭐ Score: 8.6<br>📺 Eps: 11 |
-| <img src="https://myanimelist.net/images/anime/1508/152472.jpg" width="110" style="border-radius: 8px;"> | **[Enen no Shouboutai: San no Shou Part 2](https://myanimelist.net/anime/59229/Enen_no_Shouboutai__San_no_Shou_Part_2)**<br>⭐ Score: 8.06<br>📺 Eps: 13 |
+| <img src="https://myanimelist.net/images/anime/1653/153899.jpg" width="110" style="border-radius: 8px;"> | **[Youjo Senki II](https://myanimelist.net/anime/49233/Youjo_Senki_II)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
 
 ### 📥 Rilisan Terbaru (1080p)
 
