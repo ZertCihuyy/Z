@@ -1,5 +1,5 @@
 {
-  "last_update": "23/3/2026, 01.45.27 WIB",
+  "last_update": "23/3/2026, 02.31.51 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -45,6 +45,15 @@
     }
   ],
   "latest_releases": [
+    {
+      "title": "The Star Seekers (2025, YT WEB-DL 1080P AVC,m4a)",
+      "link": "https://animetosho.org/view/star-seekers-2025-yt-web-dl-1080p-avc-m4a.n2089336",
+      "magnet": "magnet:?xt=urn:btih:CG4YXPHVXDRNCA3ZC5X5QAOPXH2D7D6O&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=The%20Star%20Seekers%20%282025%2C%20YT%20WEB-DL%201080P%20AVC%2Cm4a%29",
+      "hash": "CG4YXPHVXDRNCA3ZC5X5QAOPXH2D7D6O",
+      "nyaaUrl": "https://nyaa.si/?q=CG4YXPHVXDRNCA3ZC5X5QAOPXH2D7D6O",
+      "size": "NaN MB",
+      "date": "23/3/2026, 01.45.01"
+    },
     {
       "title": "[Trix] Medalist S02 (Batch) [WEBRip 1080p AV1 AAC] (Multi Subs, VOSTFR) | メダリスト 第2期 2nd Season S2",
       "link": "https://animetosho.org/view/trix-medalist-s02-batch-webrip-1080p-av1-aac.n2089334",
@@ -125,15 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=BTFHWDMYQ75GUANLCNI74ERZEUTCTTWQ",
       "size": "NaN MB",
       "date": "23/3/2026, 00.34.13"
-    },
-    {
-      "title": "[Onalrie] Ikoku Nikki - S01E12 [1080p WEBRip AV1].mkv",
-      "link": "https://animetosho.org/view/onalrie-ikoku-nikki-s01e12-1080p-webrip-av1-mkv.2068886",
-      "magnet": "magnet:?xt=urn:btih:LQRWQSSJZICQMUJR55P62DIJXXFTPCHQ&tr=http%3A%2F%2Ftracker.onalrie.app%3A7070%2Fannounce&tr=udp%3A%2F%2Ftracker.onalrie.app%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&dn=%5BOnalrie%5D%20Ikoku%20Nikki%20-%20S01E12%20%5B1080p%20WEBRip%20AV1%5D.mkv",
-      "hash": "LQRWQSSJZICQMUJR55P62DIJXXFTPCHQ",
-      "nyaaUrl": "https://nyaa.si/?q=LQRWQSSJZICQMUJR55P62DIJXXFTPCHQ",
-      "size": "NaN MB",
-      "date": "23/3/2026, 00.29.00"
     }
   ]
 }

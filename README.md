@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 23/3/2026, 01.45.27 WIB
+**Sync Terakhir:** 23/3/2026, 02.31.51 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| The Star Seekers (2025, YT WEB-DL 1080P AVC,m4a) | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/star-seekers-2025-yt-web-dl-1080p-avc-m4a.n2089336) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CG4YXPHVXDRNCA3ZC5X5QAOPXH2D7D6O) |
 | [Trix] Medalist S02 (Batch) [WEBRip 1080p AV1 AAC] (... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-medalist-s02-batch-webrip-1080p-av1-aac.n2089334) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HII5JJQZL24M5WUXSN46ECTROP6ILV4R) |
 | [Trix] Medalist S01 (Batch) [BDRip 1080p AV1 Opus/AA... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-medalist-s01-batch-bdrip-1080p-av1-opus.n2089333) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GGGX2Y7HRLRQN7NNLAIWIS5A4A6YKFMY) |
 | [DKB] Jigokuraku - S02E11 [1080p][HEVC x265 10bit][M... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigokuraku-s02e11-1080p-hevc-x265-10bit-multi-subs.n2089332) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PZFZLINOSMKUYNXCUZGFTHAKGUNJNXIY) |
@@ -26,7 +27,6 @@
 | [Kaleido-mini] Fate strange Fake - 12 (S01E12) - (WE... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-fate-strange-fake-12-s01e12-web.k9858949748480) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7Q5HBCUH4JKNPYKGQMJ3RAYSGKHQWJWJ) |
 | [Kaleido-subs] Fate strange Fake - 12 (S01E12) - (WE... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-fate-strange-fake-12-s01e12-web.k9858949066757) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HVDQS3A7CHJ6EU6UWRERX7OT2IGWCQ6E) |
 | [Anime Time] Hell's Paradise (Jigokuraku) - S02E09 [... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e09-1080p-hevc.n2089322) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BTFHWDMYQ75GUANLCNI74ERZEUTCTTWQ) |
-| [Onalrie] Ikoku Nikki - S01E12 [1080p WEBRip AV1].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-ikoku-nikki-s01e12-1080p-webrip-av1-mkv.2068886) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LQRWQSSJZICQMUJR55P62DIJXXFTPCHQ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
