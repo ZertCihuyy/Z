@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 09.45.23 WIB
+**Sync Terakhir:** 22/3/2026, 11.57.14 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| SI VIS The Sound of Heroes S01E23 Triumphant Return ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/si-vis-sound-heroes-s01e23-triumphant-return-super.n2088959) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AA3JTABWD5CQRJMQ3RC456B36M3OIEJI) |
-| [SubsPlease] SI-VIS - The Sound of Heroes - 23 (1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-si-vis-sound-heroes-23-1080p-bfb04524-mkv.n2088958) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TEVXUK2IUHNYMMS77OHQYDYUQKQE7VMT) |
-| [SubsPlease] SI-VIS - The Sound of Heroes - 23 (720p... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-si-vis-sound-heroes-23-720p-51677239-mkv.n2088956) <br><br> [🐱 Nyaa](https://nyaa.si/?q=H3NITWIGHQMS3FFC5FZ2AQ2OJ4AYEUQC) |
-| [SubsPlease] SI-VIS - The Sound of Heroes - 23 (480p... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-si-vis-sound-heroes-23-480p-fae78eeb-mkv.n2088954) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3E7QWWQIP5P32VX32MSO4K6NACEYICF4) |
-| [ToonsHub] SI-VIS The Sound of Heroes S01E23 1080p C... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-si-vis-sound-heroes-s01e23-1080p-cr.k9844560807693) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JACKKWF3Y6XFGJD5YAJFK4TUND7WFGSJ) |
-| [Erai-raws] SI-VIS: The Sound of Heroes - 23 [480p C... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-si-vis-sound-heroes-23-480p.n2088951) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Q2KE6654EVDV6N4LKIQE6LO5QFRXTTE6) |
-| [Erai-raws] SI-VIS: The Sound of Heroes - 23 [720p C... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-si-vis-sound-heroes-23-720p.n2088950) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S5RT5GAKU73MJYMTFHWTFFUNW35NIGM4) |
-| [Erai-raws] SI-VIS: The Sound of Heroes - 23 [1080p ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-si-vis-sound-heroes-23-1080p.n2088949) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UC7UCOTMMEWAKMRDAHHUHHMOZVKX5DG7) |
-| [ToonsHub] SI-VIS The Sound of Heroes S01E23 1080p B... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-si-vis-sound-heroes-s01e23-1080p-bili.n2088948) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UICLLWZO7TPZDFVKE3I4LQGT7DWUC4OC) |
-| [SubsPlease] Meitantei Precure! - 08 (1080p) [EAED71... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-meitantei-precure-08-1080p-eaed71fd-mkv.n2088942) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J6ZB5THBUMPCEZRSVSSS5FVQNKLXVP4L) |
+| Compiler DVD.iso | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/compiler-dvd-iso.n2089000) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XPCKD4RUF7D5YPPRQYCK4X7EGQTVM64H) |
+| [Serenae] Meitantei Precure! - 08 Fanart Corner (108... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-08-fanart-corner-1080p-mkv.n2088999) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7Z3SGQHKJUTDMXIDPHUXCQQ5KNWPF6FQ) |
+| [Judas] Digimon Beatbreak - S01E23 [1080p][HEVC x265... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e23-1080p-hevc-x265-10bit.n2088998) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5JTZUIX32QCLGG6UGU665AFLE3VPIZ2F) |
+| [Serenae] Meitantei Precure! - 08 (1080p).mkv | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-08-1080p-mkv.n2088995) <br><br> [🐱 Nyaa](https://nyaa.si/?q=V2CJE5ZBWMA7EH3WMYYQURUX3EU3BJVY) |
+| [Serenae] Meitantei Precure! - 08 (720p).mkv | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-08-720p-mkv.n2088994) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XUNU2CIHTMD2RERA7CFRDMLARZOADKVY) |
+| [ASW] Digimon Beatbreak - 23 [1080p HEVC x265 10Bit]... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-digimon-beatbreak-23-1080p-hevc-x265-10bit-aac.n2088993) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BQ7ZJZGZYCMENVMNGMFZKWYW2GK6ZRAL) |
+| [ToonsHub] Rooster Fighter S01E02 1080p AS WEB-DL AA... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e02-1080p-web-dl-aac2.n2088989) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DXMXICNG3X4NPQ67XJUZSJG6XF7QZOAP) |
+| Digimon.Beatbreak.S01E23.1080p.CR.WEBRip.10bits.x265... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e23-1080p-cr-webrip-10bits-x265-rapta.n2088988) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FSFX4ZI7EMHDTVTVREBSTI7XICYZKKLA) |
+| [Freehold] Chained Soldier S02E11 [ADN WEB-DL 1080p ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e11-adn-web-dl-1080p.n2088987) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UIDP6CUKYR3Q5MHSSB3TYM6FSVOK2DRA) |
+| [ASW] SI-VIS - The Sound of Heroes - 23 [1080p HEVC ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-si-vis-sound-heroes-23-1080p-hevc.n2088980) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2SB5LICNWWDMUCRJSBCACQ6RFLYOZB5Y) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
