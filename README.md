@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 23/3/2026, 04.31.52 WIB
+**Sync Terakhir:** 23/3/2026, 05.31.45 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [SubsPlease] Yasei no Last Boss ga Arawareta! (01-12... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yasei-no-last-boss-ga-arawareta-01.n2089366) <br><br> [🐱 Nyaa](https://nyaa.si/?q=65Y3E2BEAXRVEYPWGCLGJ2JS7QMQ3MPO) |
+| [SubsPlease] Yasei no Last Boss ga Arawareta! (01-12... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yasei-no-last-boss-ga-arawareta-01.n2089365) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RQK52QZV3DU5VFW7EI6VPEAVPOOZHM4M) |
+| [SubsPlease] Yasei no Last Boss ga Arawareta! (01-12... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yasei-no-last-boss-ga-arawareta-01.n2089364) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VY6EFFNHZFVNNPVWHBDOQUURMPFA5PV5) |
 | Digimon Beatbreak S01E23 REPACK 1080p CR WEB-DL AAC2... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e23-repack-1080p-cr-web-dl.n2089359) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KHLH65TASBAYZX6SMV2XO74Q6BDJVRH4) |
 | [DKB] Seihantai na Kimi to Boku - S01E11 [1080p][HEV... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-seihantai-na-kimi-boku-s01e11-1080p-hevc.n2089358) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HWLH5EV7XNSE7IJIVMPZHEGJSB2XUXHF) |
 | [DKB] Ikoku Nikki - S01E12 [1080p][HEVC x265 10bit][... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-ikoku-nikki-s01e12-1080p-hevc-x265-10bit.n2089357) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5SH4NVT5ZOHRHOUTXVDT2CRSY5NYVL5J) |
@@ -24,9 +27,6 @@
 | [Onalrie] Yami Shibai 16 - S01E11 [1080p WEBRip AV1]... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-yami-shibai-16-s01e11-1080p-webrip-av1-mkv.2068913) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R5Y46PIFRXVF5DMCJBZNVF35AS234CGX) |
 | [ASW] Yami Shibai 16 - 11 [1080p HEVC x265 10Bit][AAC] | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-yami-shibai-16-11-1080p-hevc-x265-10bit-aac.n2089352) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FCLT2QLL6YX3CT5XHTFW2CIC6IOM52LX) |
 | [ToonsHub] Theatre of Darkness Yamishibai S16E11 108... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-theatre-darkness-yamishibai-s16e11-1080p-cr-web.n2089350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LE4UEEDDTSM6VXGH2DD7WE2U5R3JPIJX) |
-| [SubsPlease] Yami Shibai 16 - 11 (480p) [7369FAE8].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-11-480p-7369fae8-mkv.n2089349) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A5WKECPFFB6YNUR32CLXJEFSDAWKG2QZ) |
-| [SubsPlease] Yami Shibai 16 - 11 (1080p) [CECB2E43].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-11-1080p-cecb2e43-mkv.n2089347) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UR4IIYDL7NDUDSL2VTJ6WMDRFS4PG3WC) |
-| [SubsPlease] Yami Shibai 16 - 11 (720p) [6C765EEB].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-11-720p-6c765eeb-mkv.n2089348) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FIVZTFL44REV3JN22QK6YRAKZ5YSZVX2) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
