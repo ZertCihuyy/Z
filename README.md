@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 14.03.45 WIB
+**Sync Terakhir:** 22/3/2026, 15.41.17 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| Compiler DVD.iso | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/compiler-dvd-iso.n2089000) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XPCKD4RUF7D5YPPRQYCK4X7EGQTVM64H) |
-| [Serenae] Meitantei Precure! - 08 Fanart Corner (108... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-08-fanart-corner-1080p-mkv.n2088999) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7Z3SGQHKJUTDMXIDPHUXCQQ5KNWPF6FQ) |
-| [Judas] Digimon Beatbreak - S01E23 [1080p][HEVC x265... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e23-1080p-hevc-x265-10bit.n2088998) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5JTZUIX32QCLGG6UGU665AFLE3VPIZ2F) |
-| [Serenae] Meitantei Precure! - 08 (1080p).mkv | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-08-1080p-mkv.n2088995) <br><br> [🐱 Nyaa](https://nyaa.si/?q=V2CJE5ZBWMA7EH3WMYYQURUX3EU3BJVY) |
-| [Serenae] Meitantei Precure! - 08 (720p).mkv | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-08-720p-mkv.n2088994) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XUNU2CIHTMD2RERA7CFRDMLARZOADKVY) |
-| [ASW] Digimon Beatbreak - 23 [1080p HEVC x265 10Bit]... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-digimon-beatbreak-23-1080p-hevc-x265-10bit-aac.n2088993) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BQ7ZJZGZYCMENVMNGMFZKWYW2GK6ZRAL) |
-| [ToonsHub] Rooster Fighter S01E02 1080p AS WEB-DL AA... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e02-1080p-web-dl-aac2.n2088989) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DXMXICNG3X4NPQ67XJUZSJG6XF7QZOAP) |
-| Digimon.Beatbreak.S01E23.1080p.CR.WEBRip.10bits.x265... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e23-1080p-cr-webrip-10bits-x265-rapta.n2088988) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FSFX4ZI7EMHDTVTVREBSTI7XICYZKKLA) |
-| [Freehold] Chained Soldier S02E11 [ADN WEB-DL 1080p ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e11-adn-web-dl-1080p.n2088987) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UIDP6CUKYR3Q5MHSSB3TYM6FSVOK2DRA) |
-| [ASW] SI-VIS - The Sound of Heroes - 23 [1080p HEVC ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-si-vis-sound-heroes-23-1080p-hevc.n2088980) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2SB5LICNWWDMUCRJSBCACQ6RFLYOZB5Y) |
+| [ToonsHub] You and I Are Polar Opposites S01E10 1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e10-1080p-cr-web-dl.k9850552164111) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2YD3UQP3ESYPFJMFBD5LYHYM2T3IYS54) |
+| [ToonsHub] You and I Are Polar Opposites S01E11 1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e11-1080p-nf-web-dl.k9850545893645) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PBDGQHIWEZTG2T6NZMQBL52XEPKM6HQ4) |
+| [Erai-raws] Seihantai na Kimi to Boku - 11 [1080p CR... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-seihantai-na-kimi-boku-11-1080p.n2089055) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DN3SBKPFX5MMTAK6TSSHCKX5MHOOC63X) |
+| [ToonsHub] You and I Are Polar Opposites S01E11 1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e11-1080p-bili-web-dl.k9850534951939) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KQ6MUFLDDOKEP3Y6RN4MXZFVLROOUXMY) |
+| [ToonsHub] Kaya-chan Isnt Scary S01E11 1080p BILI WE... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-kaya-chan-isnt-scary-s01e11-1080p-bili.k9850532816130) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AUG75NPO62QBZCPEK32URE5YI2B7XUNY) |
+| Rooster Fighter S01E02 The Caged Bird 1080p CR WEB-D... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e02-caged-bird-1080p-cr-web.n2089051) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7AD57JSHDU2Q4VUEH3UMGJ2QZKJP7SBH) |
+| [ToonsHub] You and I Are Polar Opposites S01E09 1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e09-1080p-cr-web-dl.k9850186485249) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OJCLTCKL26J7Q77EB2QSZQOAEMSRP63C) |
+| Rooster Fighter S01E02 The Caged Bird 1080p BILI WEB... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e02-caged-bird-1080p-bili-web.n2089049) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GN2BEWCNPFXWNB5LFZHTYRWCTRCUTRZJ) |
+| Rooster Fighter S01E02 The Caged Bird 1080p DSNP WEB... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e02-caged-bird-1080p-dsnp-web.n2089048) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I6UFCH5TWC43GUST74EQY7OMHKHGZ5N7) |
+| [SubsPlease] Niwatori Fighter - 02 (1080p) [95F2B6FF... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-02-1080p-95f2b6ff-mkv.n2089046) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VUHK5BCBGFCXJ45KDWXOMTDZRU3GU7TS) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
