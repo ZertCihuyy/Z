@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 20.03.34 WIB
+**Sync Terakhir:** 22/3/2026, 21.33.39 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Onalrie] Kaya-chan wa Kowakunai - S01E11 [1080p WEB... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-kaya-chan-wa-kowakunai-s01e11-1080p-webrip-av1-mkv.2068796) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6ZKVJ62QY47HIJ3ADDMZRFQ6XJ7JWXHP) |
-| [Onalrie] Seihantai na Kimi to Boku - S01E11 [1080p ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-seihantai-na-kimi-boku-s01e11-1080p-webrip-av1-mkv.2068773) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FUAWZS2BZF5ABK233BHB6RRMXF7QLM75) |
-| [FSP DN] Mushen Ji (Tales of Herding Gods) - 75 [108... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/fsp-dn-mushen-ji-tales-herding-gods-75-1080p-gb_cn.n2089130) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C6XJGWIRVDGZWQ3KRMFY2X7Y4BFIMFCX) |
-| [FSP] Battle Through The Heavens NF - 191 [4K] | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/fsp-battle-through-heavens-nf-191-4k.n2089129) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QFFN2KL5J4UW67XHY2WJZPRKZAYUZLSD) |
-| [Unfucked] Seihantai na Kimi to Boku - 11 (1080p WEB... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/unfucked-seihantai-na-kimi-boku-11-1080p-web-polar-opposites.n2089127) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5JEU5UNRTACZAL5IGT3JIV73N2O3VE7D) |
-| [ToonsHub] Golden Kamuy S05E09 1080p AMZN WEB-DL DDP... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e09-1080p-amzn-web-dl.n2089126) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5VDWGIJILZRBZJUWJU7POCDMTHR6QFXP) |
-| [Onalrie] Niwatori Fighter - S01E02 [1080p WEBRip AV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-niwatori-fighter-s01e02-1080p-webrip-av1-mkv.2068770) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JSYGOVS2GXLCJ72GWQ6V5V4BMTNAEPEL) |
-| [Onalrie] Meitantei Precure! - S01E08 [1080p WEBRip ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-meitantei-precure-s01e08-1080p-webrip-av1-mkv.2068765) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2BFE2GWTANIASOXTOARPGNI6FVSLNZCS) |
-| You and I Are Polar Opposites S01E09 Surprise 1080p ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e09-surprise-1080p-cr-web-dl.n2089115) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JQHPZGPBTEL6ZRX65FL66B7PSPXZUQU6) |
-| [ToonsHub] How dare you S02E11 1080p iQ WEB-DL AAC2.... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dare-s02e11-1080p-iq-web-dl-aac2.k9851938182149) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IXYZPQBQ6ZC2NBJ2YFDBWA4IJ76HSY4X) |
+| [Feibanyama] Fate-strange Fake S01E12V2 [IQIYI WebRi... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/feibanyama-fate-strange-fake-s01e12v2-iqiyi-webrip-2160p.n2089178) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GBYZS2ZRWGBMPAPP7TEOEHPY2FESN4R7) |
+| Kunon the Sorcerer Can See S01E13 The Unprecedented ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/kunon-sorcerer-see-s01e13-unprecedented-troublemaker-1080p.n2089174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XCSBHI3TD36TP27XIN7QRVZAJIHO4MN3) |
+| [SubsPlease] Majutsushi Kunon wa Mieteiru - 13 (1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-majutsushi-kunon-wa-mieteiru-13-1080p-39a67722.n2089173) <br><br> [🐱 Nyaa](https://nyaa.si/?q=B74CAKN5LNCEOHACXRCD7POHBCSRICYS) |
+| [SubsPlease] Majutsushi Kunon wa Mieteiru - 13 (720p... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-majutsushi-kunon-wa-mieteiru-13-720p-5f0d6921-mkv.n2089172) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S6YCHE5PQHI6L3OYLLUUC5TGZ3GRKBIF) |
+| [ToonsHub] Kunon the Sorcerer Can See S01E13 1080p C... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-kunon-sorcerer-see-s01e13-1080p-cr-web.k9855620530690) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MNEPQ5VU2RKWOWKSZZBVTYS4ZFDWJ4AU) |
+| [SubsPlease] Majutsushi Kunon wa Mieteiru - 13 (480p... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-majutsushi-kunon-wa-mieteiru-13-480p-f63e3f76-mkv.n2089168) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MLVJB7SCEZG4WTD6KJLSO7K7DFY7HM3S) |
+| [Erai-raws] Majutsushi Kunon wa Mieteiru - 13 [480p ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-majutsushi-kunon-wa-mieteiru-13-480p.n2089167) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MWOLLVZ4774ISUGCIV4CCTYSPQUVSAQT) |
+| [Erai-raws] Majutsushi Kunon wa Mieteiru - 13 [720p ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-majutsushi-kunon-wa-mieteiru-13-720p.n2089166) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KPZJSYML4JW6U7T23BVQKYW6N6FJ7BK7) |
+| [Erai-raws] Majutsushi Kunon wa Mieteiru - 13 [1080p... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-majutsushi-kunon-wa-mieteiru-13-1080p.n2089164) <br><br> [🐱 Nyaa](https://nyaa.si/?q=35QQ7DHPNL2S7DJ4VC7UD63KO3NRTZNH) |
+| 7 Fates: Chakho (2025, YT WEB-DL 1080P AVC,m4a) | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/7-fates-chakho-2025-yt-web-dl-1080p-avc-m4a.n2089155) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HJ27424KQS6IGBICKAZTPUXGAXBXZYDP) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
