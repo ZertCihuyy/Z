@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 23/3/2026, 03.35.29 WIB
+**Sync Terakhir:** 23/3/2026, 04.31.52 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| Digimon Beatbreak S01E23 REPACK 1080p CR WEB-DL AAC2... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e23-repack-1080p-cr-web-dl.n2089359) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KHLH65TASBAYZX6SMV2XO74Q6BDJVRH4) |
+| [DKB] Seihantai na Kimi to Boku - S01E11 [1080p][HEV... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-seihantai-na-kimi-boku-s01e11-1080p-hevc.n2089358) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HWLH5EV7XNSE7IJIVMPZHEGJSB2XUXHF) |
+| [DKB] Ikoku Nikki - S01E12 [1080p][HEVC x265 10bit][... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-ikoku-nikki-s01e12-1080p-hevc-x265-10bit.n2089357) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5SH4NVT5ZOHRHOUTXVDT2CRSY5NYVL5J) |
 | [Kaizoku] Jujutsu Kaisen - 58 (WEB 1080p HEVC EAC-3)... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaizoku-jujutsu-kaisen-58-web-1080p-hevc-eac-3-e4c0e23a.k9861259630080) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GMQKZE3ZV3DNUDWGL7UVXU2P42MG4AFY) |
 | [Onalrie] Yami Shibai 16 - S01E11 [1080p WEBRip AV1]... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-yami-shibai-16-s01e11-1080p-webrip-av1-mkv.2068913) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R5Y46PIFRXVF5DMCJBZNVF35AS234CGX) |
 | [ASW] Yami Shibai 16 - 11 [1080p HEVC x265 10Bit][AAC] | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-yami-shibai-16-11-1080p-hevc-x265-10bit-aac.n2089352) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FCLT2QLL6YX3CT5XHTFW2CIC6IOM52LX) |
@@ -24,9 +27,6 @@
 | [SubsPlease] Yami Shibai 16 - 11 (480p) [7369FAE8].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-11-480p-7369fae8-mkv.n2089349) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A5WKECPFFB6YNUR32CLXJEFSDAWKG2QZ) |
 | [SubsPlease] Yami Shibai 16 - 11 (1080p) [CECB2E43].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-11-1080p-cecb2e43-mkv.n2089347) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UR4IIYDL7NDUDSL2VTJ6WMDRFS4PG3WC) |
 | [SubsPlease] Yami Shibai 16 - 11 (720p) [6C765EEB].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-11-720p-6c765eeb-mkv.n2089348) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FIVZTFL44REV3JN22QK6YRAKZ5YSZVX2) |
-| [Erai-raws] Yami Shibai 16 - 11 [480p CR WEB-DL AVC ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yami-shibai-16-11-480p-cr.n2089346) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HYEVYRKJLFYTVSZJANZCTIY6NDTBKTOT) |
-| [Erai-raws] Yami Shibai 16 - 11 [720p CR WEB-DL AVC ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yami-shibai-16-11-720p-cr.n2089345) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TJV4DZYWY7TSY2Y7NDX2FPZISNIM5Z7Q) |
-| [Erai-raws] Yami Shibai 16 - 11 [1080p CR WEB-DL AVC... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yami-shibai-16-11-1080p-cr.n2089344) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FIOEY7TPTEN5CIWYDAPGDSZ5NRMKJSR7) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
