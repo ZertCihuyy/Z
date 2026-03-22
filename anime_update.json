@@ -1,10 +1,10 @@
 {
-  "last_update": "23/3/2026, 05.31.45 WIB",
+  "last_update": "23/3/2026, 06.33.51 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
       "image": "https://myanimelist.net/images/anime/1921/154528.jpg",
-      "score": 9.08,
+      "score": 9.04,
       "episodes": 10,
       "url": "https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season"
     },
@@ -37,14 +37,23 @@
       "url": "https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season"
     },
     {
-      "title": "Enen no Shouboutai: San no Shou Part 2",
-      "image": "https://myanimelist.net/images/anime/1508/152472.jpg",
-      "score": 8.06,
-      "episodes": 13,
-      "url": "https://myanimelist.net/anime/59229/Enen_no_Shouboutai__San_no_Shou_Part_2"
+      "title": "Youjo Senki II",
+      "image": "https://myanimelist.net/images/anime/1653/153899.jpg",
+      "score": null,
+      "episodes": null,
+      "url": "https://myanimelist.net/anime/49233/Youjo_Senki_II"
     }
   ],
   "latest_releases": [
+    {
+      "title": "[Onalrie] Yami Shibai - S16E11 [1080p WEBRip AV1].mkv",
+      "link": "https://animetosho.org/view/onalrie-yami-shibai-s16e11-1080p-webrip-av1-mkv.2068949",
+      "magnet": "magnet:?xt=urn:btih:JADNGXHDOBPIXLI46LMFILCE5NJGXG4I&tr=http%3A%2F%2Ftracker.onalrie.app%3A7070%2Fannounce&tr=udp%3A%2F%2Ftracker.onalrie.app%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&dn=%5BOnalrie%5D%20Yami%20Shibai%20-%20S16E11%20%5B1080p%20WEBRip%20AV1%5D.mkv",
+      "hash": "JADNGXHDOBPIXLI46LMFILCE5NJGXG4I",
+      "nyaaUrl": "https://nyaa.si/?q=JADNGXHDOBPIXLI46LMFILCE5NJGXG4I",
+      "size": "NaN MB",
+      "date": "23/3/2026, 05.39.00"
+    },
     {
       "title": "[SubsPlease] Yasei no Last Boss ga Arawareta! (01-12) (1080p) [Batch]",
       "link": "https://animetosho.org/view/subsplease-yasei-no-last-boss-ga-arawareta-01.n2089366",
@@ -125,15 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=FCLT2QLL6YX3CT5XHTFW2CIC6IOM52LX",
       "size": "NaN MB",
       "date": "23/3/2026, 03.02.16"
-    },
-    {
-      "title": "[ToonsHub] Theatre of Darkness Yamishibai S16E11 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)",
-      "link": "https://animetosho.org/view/toonshub-theatre-darkness-yamishibai-s16e11-1080p-cr-web.n2089350",
-      "magnet": "magnet:?xt=urn:btih:LE4UEEDDTSM6VXGH2DD7WE2U5R3JPIJX&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BToonsHub%5D%20Theatre%20of%20Darkness%20Yamishibai%20S16E11%201080p%20CR%20WEB-DL%20AAC2.0%20H.264%20%28Multi-Subs%29",
-      "hash": "LE4UEEDDTSM6VXGH2DD7WE2U5R3JPIJX",
-      "nyaaUrl": "https://nyaa.si/?q=LE4UEEDDTSM6VXGH2DD7WE2U5R3JPIJX",
-      "size": "NaN MB",
-      "date": "23/3/2026, 02.56.28"
     }
   ]
 }
