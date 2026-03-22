@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 23/3/2026, 00.30.22 WIB
+**Sync Terakhir:** 23/3/2026, 01.45.27 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Kekkan] Majutsushi Kunon wa Mieteiru S01 (WebRip 10... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/kekkan-majutsushi-kunon-wa-mieteiru-s01-webrip-1080p.k9858691309069) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VQTF4XYMNRYRLRZJSW6HKYWYLUYLTDTC) |
-| [Judas] Jigokuraku (Hell's Paradise) - S02E11 [1080p... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-jigokuraku-hells-paradise-s02e11-1080p-hevc-x265.n2089302) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UI5HGTVFBQ74NROV7QBX4P26R7AMUF7U) |
-| [Onalrie] Hikuidori - Ushuu Boro Tobi-gumi - S01E10 ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hikuidori-ushuu-boro-tobi-gumi-s01e10-1080p.2068883) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5BOT4MXNCAXW2IJM4XNZCFWAQTIKADMN) |
-| [ASW] Hikuidori - Ushuu Boro Tobi-gumi - 10 [1080p H... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-hikuidori-ushuu-boro-tobi-gumi-10-1080p.n2089300) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DKVRU4X5RKSVRYC3LVWRA4K4FKTND6DI) |
-| [DKB] Majutsushi Kunon wa Mieteiru - S01E13 [1080p][... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-majutsushi-kunon-wa-mieteiru-s01e13-1080p-end.n2089299) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MYENS447PTWZZJWXFFADSZ3V5XRSOMY6) |
-| [DKB] Niwatori Fighter - S01E02 [1080p][HEVC x265 10... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-niwatori-fighter-s01e02-1080p-hevc-x265-10bit.n2089298) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EXPYYH4OQDVGCM5DRJEFGS4FMXBABOD6) |
-| [BonoboSubs]Renegade Immortal - Xian Ni Episode 133 | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/bonobosubs-renegade-immortal-xian-ni-episode-133.n2089297) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W6CGOGXEZKZJBEM5KC5M2BJDYJEVCUSO) |
-| [BonoboSubs][4k]Renegade Immortal - Xian Ni Episode 133 | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/bonobosubs-4k-renegade-immortal-xian-ni-episode-133.n2089296) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UQLNU343HVZSVDMVJHCANTYUI42RPZDR) |
-| [ASW] Jigokuraku - 24 [1080p HEVC x265 10Bit][AAC] | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-jigokuraku-24-1080p-hevc-x265-10bit-aac.n2089295) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ABXUPU43NT2FLROUWL2TK6WZPAE2VCTI) |
-| [Trix] Ikoku Nikki S01E12 [WEBRip 1080p AV1 Opus] (M... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-ikoku-nikki-s01e12-webrip-1080p-av1-opus.n2089294) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HNSNF3HBHWF4VQUMXKUYM3VO7JPPP4ON) |
+| [Trix] Medalist S02 (Batch) [WEBRip 1080p AV1 AAC] (... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-medalist-s02-batch-webrip-1080p-av1-aac.n2089334) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HII5JJQZL24M5WUXSN46ECTROP6ILV4R) |
+| [Trix] Medalist S01 (Batch) [BDRip 1080p AV1 Opus/AA... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-medalist-s01-batch-bdrip-1080p-av1-opus.n2089333) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GGGX2Y7HRLRQN7NNLAIWIS5A4A6YKFMY) |
+| [DKB] Jigokuraku - S02E11 [1080p][HEVC x265 10bit][M... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigokuraku-s02e11-1080p-hevc-x265-10bit-multi-subs.n2089332) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PZFZLINOSMKUYNXCUZGFTHAKGUNJNXIY) |
+| [DKB] Kizoku Tensei: Megumareta Umare kara Saikyou n... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-kizoku-tensei-megumareta-umare-kara-saikyou-no.n2089331) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VOA2JJLMB234BCDXKHOA4DSV4V3UZRN5) |
+| [Ironclad] Niwatori Fighter - S01E02 [WEB.1080p.AV1]... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-niwatori-fighter-s01e02-web-1080p-av1-rooster.n2089328) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YTJA7QD4FZJBJDT6N4ZB7WLBHIAKFCFG) |
+| [Onalrie] Goumon Baito-kun no Nichijou - S01E12 [108... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-goumon-baito-kun-no-nichijou-s01e12-1080p.2068888) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z2QGCLVEPEXUDYEZXZQSXMWIXLWEU4BW) |
+| [Kaleido-mini] Fate strange Fake - 12 (S01E12) - (WE... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-fate-strange-fake-12-s01e12-web.k9858949748480) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7Q5HBCUH4JKNPYKGQMJ3RAYSGKHQWJWJ) |
+| [Kaleido-subs] Fate strange Fake - 12 (S01E12) - (WE... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-fate-strange-fake-12-s01e12-web.k9858949066757) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HVDQS3A7CHJ6EU6UWRERX7OT2IGWCQ6E) |
+| [Anime Time] Hell's Paradise (Jigokuraku) - S02E09 [... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e09-1080p-hevc.n2089322) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BTFHWDMYQ75GUANLCNI74ERZEUTCTTWQ) |
+| [Onalrie] Ikoku Nikki - S01E12 [1080p WEBRip AV1].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-ikoku-nikki-s01e12-1080p-webrip-av1-mkv.2068886) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LQRWQSSJZICQMUJR55P62DIJXXFTPCHQ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
