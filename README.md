@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 22.32.17 WIB
+**Sync Terakhir:** 22/3/2026, 23.37.42 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Onalrie] Akuyaku Reijou wa Ringoku no Outaishi ni D... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-akuyaku-reijou-wa-ringoku-no-outaishi-ni.2068858) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VTPUKC5XJ224R3RFVD6VCUZX23VITVB5) |
-| [ASW] Akuyaku Reijou wa Ringoku no Outaishi ni Dekia... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-akuyaku-reijou-wa-ringoku-no-outaishi-ni.n2089242) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6VBFBCKTGBTCO2EJJL3GA2MKQF65VGWF) |
-| [Yameii] Hell's Paradise - S02E09 [English Dub] [CR ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-hells-paradise-s02e09-english-dub-cr-web.n2089241) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VD5DYKW7SGNNIRXQPL3FNLA3Z4E5ZGCI) |
-| [SubsPlease] Jigokuraku - 24 (1080p) [F96E1C6A].mkv | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jigokuraku-24-1080p-f96e1c6a-mkv.n2089236) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AFXDEX2MJ3XC5IAQXMLIYYB3QICTC33C) |
-| Hells Paradise S02E11 Ephemeralness and Fire 1080p C... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02e11-ephemeralness-fire-1080p-cr-web.n2089234) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SGQMHJGNBP5AINCOXAN33PUUVFFOKATY) |
-| [ToonsHub] Hells Paradise S02E09 1080p CR WEB-DL DUA... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hells-paradise-s02e09-1080p-cr-web-dl.k9856776084482) <br><br> [🐱 Nyaa](https://nyaa.si/?q=52EHB4GVBHROVFVNX2MAOLO5454OYYU6) |
-| [ToonsHub] Hells Paradise S02E11 1080p CR WEB-DL AAC... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hells-paradise-s02e11-1080p-cr-web-dl.k9856772640260) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ORPLDBQEW2C67OXMEL6V2JNUL4L5BEGE) |
-| [SubsPlease] Jigokuraku - 24 (720p) [324A211C].mkv | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jigokuraku-24-720p-324a211c-mkv.n2089229) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VSND7PBUWFTTWLJD2SXUESILEGW2T2WH) |
-| [SubsPlease] Jigokuraku - 24 (480p) [3CEB3ED6].mkv | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jigokuraku-24-480p-3ceb3ed6-mkv.n2089228) <br><br> [🐱 Nyaa](https://nyaa.si/?q=P56XJCR23GQ2IUXGWDYXHTQEDIYBAJRO) |
-| [ToonsHub] Hells Paradise S02E11 1080p NF WEB-DL AAC... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hells-paradise-s02e11-1080p-nf-web-dl.k9856763193097) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CRBKIKSXO6ZIUYHMT34XEWCLIFHPLGNG) |
+| [Onalrie] Jigokuraku - S02E11 [1080p WEBRip AV1].mkv | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-jigokuraku-s02e11-1080p-webrip-av1-mkv.2068878) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4RFNGUXFUURSCLJ7FDBD4KF3KUATIXX7) |
+| [Bird] Chobitto Jigokuraku - 11 (1080p) [72454B87] | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/bird-chobitto-jigokuraku-11-1080p-72454b87.n2089291) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JKUHX7HINZG3UV2JUVZZSQKITSLP5TTM) |
+| [shincaps] Ikoku Nikki - 12 (ANIPLUS 1920x1080 H264 ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/shincaps-ikoku-nikki-12-aniplus-1920x1080-h264-aac-ts.n2089286) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G3SJSL2D6R7CRK3T3GQYS5KU4YF4CIL5) |
+| [ASW] Kizoku Tensei - Megumareta Umare kara Saikyou ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-kizoku-tensei-megumareta-umare-kara-saikyou-no.n2089285) <br><br> [🐱 Nyaa](https://nyaa.si/?q=P5BUZRXANGODPPOLZJI6RMMD5ABDH3HJ) |
+| [Judas] Kizoku Tensei: Megumareta Umare kara Saikyou... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-kizoku-tensei-megumareta-umare-kara-saikyou-no.n2089284) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3MEXU2YYHJCWCBSUQB6BS2S5SBVF2L4P) |
+| [Onalrie] Kizoku Tensei - Megumareta Umare kara Saik... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-kizoku-tensei-megumareta-umare-kara-saikyou-no.2068872) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E2RTRRHJYCSTDCUV76IIVTSGXR6AOJHB) |
+| [SubsPlease] Goumon Baito-kun no Nichijou - 12 (1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-goumon-baito-kun-no-nichijou-12-1080p-5825fef0.n2089278) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Y5NXXT2XWWV2FVTUICSOMOUR77S4BLRG) |
+| [SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi - 10 (... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-10-1080p-b9b56a57.n2089277) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VWETNYWXOCLMLOXNUYHY2QOHK2XJRW46) |
+| [SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi - 10 (... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-10-480p-928c71e0.n2089276) <br><br> [🐱 Nyaa](https://nyaa.si/?q=653CEQ255A3DMAJ34ST6DSVYAIZLINRA) |
+| [SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi - 10 (... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-10-720p-a1397832.n2089274) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GIWUQBAWCUG4Q5PYD4D75WZCONN4SDOC) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
