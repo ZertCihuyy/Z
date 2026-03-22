@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 17.33.57 WIB
+**Sync Terakhir:** 22/3/2026, 18.29.07 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Onalrie] Niwatori Fighter - S01E02 [1080p WEBRip AV... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-niwatori-fighter-s01e02-1080p-webrip-av1-mkv.2068770) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JSYGOVS2GXLCJ72GWQ6V5V4BMTNAEPEL) |
 | [Onalrie] Meitantei Precure! - S01E08 [1080p WEBRip ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-meitantei-precure-s01e08-1080p-webrip-av1-mkv.2068765) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2BFE2GWTANIASOXTOARPGNI6FVSLNZCS) |
 | You and I Are Polar Opposites S01E09 Surprise 1080p ... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e09-surprise-1080p-cr-web-dl.n2089115) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JQHPZGPBTEL6ZRX65FL66B7PSPXZUQU6) |
 | [ToonsHub] How dare you S02E11 1080p iQ WEB-DL AAC2.... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dare-s02e11-1080p-iq-web-dl-aac2.k9851938182149) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IXYZPQBQ6ZC2NBJ2YFDBWA4IJ76HSY4X) |
@@ -26,7 +27,6 @@
 | [Onalrie] SI-VIS - The Sound of Heroes - S01E23 [108... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-si-vis-sound-heroes-s01e23-1080p-webrip-av1-mkv.2068759) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NPSJIW2FQDP3N7TULYD7N4MVYXQB7YA3) |
 | [ASW] Niwatori Fighter - 02 [1080p HEVC x265 10Bit][... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-niwatori-fighter-02-1080p-hevc-x265-10bit-aac.n2089103) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BEQO3AYQPLK2Y3MT5PXDU2ZOYHUEBCXB) |
 | Kaya chan Isnt Scary S01E11 1080p CR WEB-DL DUAL AAC... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaya-chan-isnt-scary-s01e11-1080p-cr-web.n2089102) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4GVB4SHEQTQW7GAYFHZGLVFMEKHXBRKR) |
-| [Yameii] Kaya-chan Isn't Scary - S01E11 [English Dub... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-kaya-chan-isnt-scary-s01e11-english-dub.n2089099) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HCI5V2IELOPHOAYHQJWQFBFXQ37LM465) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
