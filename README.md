@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 22/3/2026, 15.41.17 WIB
+**Sync Terakhir:** 22/3/2026, 16.38.49 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ToonsHub] You and I Are Polar Opposites S01E10 1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e10-1080p-cr-web-dl.k9850552164111) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2YD3UQP3ESYPFJMFBD5LYHYM2T3IYS54) |
-| [ToonsHub] You and I Are Polar Opposites S01E11 1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e11-1080p-nf-web-dl.k9850545893645) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PBDGQHIWEZTG2T6NZMQBL52XEPKM6HQ4) |
-| [Erai-raws] Seihantai na Kimi to Boku - 11 [1080p CR... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-seihantai-na-kimi-boku-11-1080p.n2089055) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DN3SBKPFX5MMTAK6TSSHCKX5MHOOC63X) |
-| [ToonsHub] You and I Are Polar Opposites S01E11 1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e11-1080p-bili-web-dl.k9850534951939) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KQ6MUFLDDOKEP3Y6RN4MXZFVLROOUXMY) |
-| [ToonsHub] Kaya-chan Isnt Scary S01E11 1080p BILI WE... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-kaya-chan-isnt-scary-s01e11-1080p-bili.k9850532816130) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AUG75NPO62QBZCPEK32URE5YI2B7XUNY) |
-| Rooster Fighter S01E02 The Caged Bird 1080p CR WEB-D... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e02-caged-bird-1080p-cr-web.n2089051) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7AD57JSHDU2Q4VUEH3UMGJ2QZKJP7SBH) |
-| [ToonsHub] You and I Are Polar Opposites S01E09 1080... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e09-1080p-cr-web-dl.k9850186485249) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OJCLTCKL26J7Q77EB2QSZQOAEMSRP63C) |
-| Rooster Fighter S01E02 The Caged Bird 1080p BILI WEB... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e02-caged-bird-1080p-bili-web.n2089049) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GN2BEWCNPFXWNB5LFZHTYRWCTRCUTRZJ) |
-| Rooster Fighter S01E02 The Caged Bird 1080p DSNP WEB... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e02-caged-bird-1080p-dsnp-web.n2089048) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I6UFCH5TWC43GUST74EQY7OMHKHGZ5N7) |
-| [SubsPlease] Niwatori Fighter - 02 (1080p) [95F2B6FF... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-02-1080p-95f2b6ff-mkv.n2089046) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VUHK5BCBGFCXJ45KDWXOMTDZRU3GU7TS) |
+| [Onalrie] SI-VIS - The Sound of Heroes - S01E23 [108... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-si-vis-sound-heroes-s01e23-1080p-webrip-av1-mkv.2068759) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NPSJIW2FQDP3N7TULYD7N4MVYXQB7YA3) |
+| [ASW] Niwatori Fighter - 02 [1080p HEVC x265 10Bit][... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-niwatori-fighter-02-1080p-hevc-x265-10bit-aac.n2089103) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BEQO3AYQPLK2Y3MT5PXDU2ZOYHUEBCXB) |
+| Kaya chan Isnt Scary S01E11 1080p CR WEB-DL DUAL AAC... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaya-chan-isnt-scary-s01e11-1080p-cr-web.n2089102) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4GVB4SHEQTQW7GAYFHZGLVFMEKHXBRKR) |
+| [Yameii] Kaya-chan Isn't Scary - S01E11 [English Dub... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-kaya-chan-isnt-scary-s01e11-english-dub.n2089099) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HCI5V2IELOPHOAYHQJWQFBFXQ37LM465) |
+| [Yameii] Kaya-chan Isn't Scary - S01E11 [English Dub... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-kaya-chan-isnt-scary-s01e11-english-dub.n2089091) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZYCCQIG4JB6UUYOO4R3WJPHMDM4T6TR4) |
+| You and I Are Polar Opposites S01E11 1080p NF WEB-DL... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e11-1080p-nf-web-dl-aac2.n2089089) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RYYTVCNUL7CPP53SY6LBBIKMB2LBDRCN) |
+| [SubsPlease] Kaya-chan wa Kowakunai - 11 (1080p) [56... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-11-1080p-5693114a-mkv.n2089086) <br><br> [🐱 Nyaa](https://nyaa.si/?q=URZESM4GJ2GC4FS5FFYYUYAXR6TLOBQP) |
+| [SubsPlease] Kaya-chan wa Kowakunai - 11 (720p) [39B... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-11-720p-39b31888-mkv.n2089085) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C3I3I2Y22DEUSMDL3DRWN74PT5YLWRNW) |
+| [SubsPlease] Kaya-chan wa Kowakunai - 11 (480p) [C3A... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-11-480p-c3acae5b-mkv.n2089084) <br><br> [🐱 Nyaa](https://nyaa.si/?q=K4X7RHPNWJ7UV7BQ3L2SIROUNR6HDWPQ) |
+| [ToonsHub] Kaya-chan Isnt Scary S01E11 1080p CR WEB-... | NaN MB | 22/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-kaya-chan-isnt-scary-s01e11-1080p-cr.k9851014679310) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LPSDVXAA5XV265423OEXPWSIITYILLJ7) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
