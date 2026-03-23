@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 24/3/2026, 04.42.11 WIB
+**Sync Terakhir:** 24/3/2026, 05.38.34 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [FakeFan] Fate/strange Fake: Whispers of Dawn (WEB 1... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/fakefan-fate-strange-fake-whispers-dawn-web-1080p.n2089615) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AJB3NSRZB2RL5ODI7UHV5E2W26EFGGFM) |
 | [Sokudo] Jigokuraku S02E11 [1080p AV1] | Hell's Para... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e11-1080p-av1-hells-paradise-weekly.n2089614) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NRHSUFCIGZ7NSIOLXB3YF3PX7O54B7GO) |
 | [Breeze] Jigokuraku S02E11 [1080p AV1] | Hell's Para... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/breeze-jigokuraku-s02e11-1080p-av1-hells-paradise-weekly.n2089613) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PM33GOVLKJRFWS3CZXEKHXJSPQGMST7Q) |
 | [DKB] Himesama "Goumon" no Jikan desu - S02E11 [1080... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-himesama-goumon-no-jikan-desu-s02e11-1080p.n2089609) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GAXAJAENOLB5JSJZ2LETZGTG2IZIMRKG) |
@@ -26,7 +27,6 @@
 | [SubsPlease] So You're Raising a Warrior (01-12) (10... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youre-raising-warrior-01-12-1080p-batch.n2089587) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SIXDY6XCHHVSTPIISC3L42X4WZFW75JN) |
 | [SubsPlease] So You're Raising a Warrior (01-12) (72... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youre-raising-warrior-01-12-720p-batch.n2089586) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EB4NSHW4A3RVOIT42FQSMWRYMD4XWL47) |
 | [SubsPlease] So You're Raising a Warrior (01-12) (48... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youre-raising-warrior-01-12-480p-batch.n2089585) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YXHMH2MEOGS2IV4SNXPLQ2YRVKVD6EKP) |
-| [Onalrie] Seihantai na Kimi to Boku - S01E11 (V2) [1... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-seihantai-na-kimi-boku-s01e11-v2-1080p.2069120) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QA5NP6LSW6GXY5NJZP6HCHQ3EW6NN755) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
