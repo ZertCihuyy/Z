@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 23/3/2026, 16.04.14 WIB
+**Sync Terakhir:** 23/3/2026, 17.57.43 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [BlackRabbit] KonoSuba – God’s blessing on this wond... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-konosuba-gods-blessing-wonderful-world-2016-s02.k9874274387979) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WMC5LNFY5FQUGLGDVPOYTW23MAPBM2YS) |
 | [Bikko@U2][BDMV] Scott Pilgrim Takes Off [S1 BD×1+SC... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/bikko-u2-bdmv-scott-pilgrim-takes-off-s1.n2089404) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L7PP3F4Q3ZBKH7DTRWR5T4BISUPZCQFK) |
 | [Mo7tas] Kimi wa Houkago Insomnia [BD 1080p] [Multi ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/mo7tas-kimi-wa-houkago-insomnia-bd-1080p-multi-language-subs.n2089403) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4LF2UHTE5PDQXMSPUAAN2O46RHY6NJ26) |
 | [iiPython] Riding Bean (1989) - [1080p BD Dual-Audio... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/iipython-riding-bean-1989-1080p-bd-dual-audio-opus-av1.k9869007575816) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4ATSPYGLYVCSXAF7KMGHIAAWT6KLCJUZ) |
@@ -26,7 +27,6 @@
 | [Anime Time] Sentenced To Be A Hero (Yuusha-kei ni S... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2089386) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GNZA7MNG7JE42KMB7NDSWHE2IYY7AKE3) |
 | [Salieri] My Dress-up Darling S2 - BD (1080p) (HDR) ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/salieri-my-dress-up-darling-s2-bd-1080p.n2089383) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3OG6KEFFLCLFIOLPXKKDNXQ4MDIZRXYG) |
 | [Onalrie] Yami Shibai - S16E11 [1080p WEBRip AV1].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-yami-shibai-s16e11-1080p-webrip-av1-mkv.2068949) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JADNGXHDOBPIXLI46LMFILCE5NJGXG4I) |
-| [One Pace][1007-1008] Wano 59 [1080p][2ED1FD82].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/one-pace-1007-1008-wano-59-1080p-2ed1fd82-mkv.n2089368) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QWISO3XISNSW6XGGRAC7BYGRK6HT6VEG) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
