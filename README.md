@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 23/3/2026, 22.01.48 WIB
+**Sync Terakhir:** 24/3/2026, 00.00.00 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Yameii] Golden Kamuy - S05E10 [English Dub] [CR WEB... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-golden-kamuy-s05e10-english-dub-cr-web.n2089503) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CPNDEKKX3OD4ZZ6GEBSTDVONKQ75D2H6) |
-| [Yameii] Golden Kamuy - S05E10 [English Dub] [CR WEB... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-golden-kamuy-s05e10-english-dub-cr-web.n2089502) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C6FWGPDYRR3WKQYFAKFWBLTQQM42YXDL) |
-| [Erai-raws] Golden Kamuy Final Season - 12 [480p CR ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-12-480p.n2089501) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4D3OX3VL3U3ZUEPVJGQ4KR4QMTZ4IYTK) |
-| [Erai-raws] Golden Kamuy Final Season - 12 [720p CR ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-12-720p.n2089500) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UA6HQ47WETPUMKBDEJL5P6F4K5G6FUKF) |
-| [Erai-raws] Golden Kamuy Final Season - 12 [1080p CR... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-12-1080p.n2089499) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WDJQMEAMLWRVDBHWFH7ZLUHRYQNL4LMY) |
-| Golden Kamuy S05E10 Our Kamuy 1080p CR WEB-DL DUAL A... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/golden-kamuy-s05e10-our-1080p-cr-web-dl.n2089497) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5O5HSUIXNV623NY6ES6MTALZ3TDF5JQ2) |
-| Golden Kamuy S05E12 Bushido 1080p CR WEB-DL AAC2.0 H... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/golden-kamuy-s05e12-bushido-1080p-cr-web-dl.n2089496) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BWRBVGSQ65MOSPGWMOTTZ2MESLIKCOGN) |
-| [SubsPlease] Golden Kamuy - 61 (1080p) [D4BDA779].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-golden-kamuy-61-1080p-d4bda779-mkv.n2089495) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TIXMZRHFCIB6PYLCNCE7HTDUJXZGVDUH) |
-| [ToonsHub] Golden Kamuy S05E10 1080p CR WEB-DL DUAL ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e10-1080p-cr-web-dl.k9878200925188) <br><br> [🐱 Nyaa](https://nyaa.si/?q=65PZ77YRWQCMGTICHZ5VVOT3Y6YZC2EL) |
-| [SubsPlease] Golden Kamuy - 61 (720p) [BA639D7A].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-golden-kamuy-61-720p-ba639d7a-mkv.n2089491) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GD3PUNPNVRZHG422LLDYLN3J4I5DF5VQ) |
+| [Onalrie] Osananajimi to wa Love Comedy ni Naranai -... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-osananajimi-wa-love-comedy-ni-naranai-s01e12.2069098) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G52OM47JGKBBWXFBMYHQIM7WVXYYART5) |
+| [ASW] Osananajimi to wa Love Comedy ni Naranai - 12 ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-osananajimi-wa-love-comedy-ni-naranai-12.n2089552) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AABBZMFA5PRZB6YZYNLVN6PUSDUW4UH4) |
+| [Ironclad] Golden Kamuy - S05E12 [WEB 1080p AV1] | G... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-golden-kamuy-s05e12-web-1080p-av1-saishuushou.k9879836234767) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X6Y4P6QQBPY6FVNWHBPNVJQVTN5QO4RH) |
+| [Onalrie] Golden Kamuy - S05E12 [1080p WEBRip AV1].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-golden-kamuy-s05e12-1080p-webrip-av1-mkv.2069091) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HGGSKDZ2IB2YO5CHBC4UV3YXHEEHJQFF) |
+| [SubsPlease] Hime-sama Goumon no Jikan desu - 23 (10... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hime-sama-goumon-no-jikan-desu-23.n2089546) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6LXDML4Y22QUSLSCRLEAFMNGCGZ3422O) |
+| Tis Time for Torture Princess S02E11 1080p CR WEB-DL... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/tis-time-torture-princess-s02e11-1080p-cr-web.n2089545) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X2HXYKTLY5AD5UHAEIM4T63WRMW3C23M) |
+| [SubsPlease] Hime-sama Goumon no Jikan desu - 23 (48... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hime-sama-goumon-no-jikan-desu-23.n2089543) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6WQQR56JD3HLZC2VMYQLCIVBBEGOKN5K) |
+| [SubsPlease] Hime-sama Goumon no Jikan desu - 23 (72... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hime-sama-goumon-no-jikan-desu-23.n2089544) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GRIH7BSX4QBBHHVHKMVOJ7BRP3SL4O3D) |
+| [ToonsHub] Tis Time for Torture Princess S02E11 1080... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-tis-time-torture-princess-s02e11-1080p-cr.k9879578900233) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DN5CUYMT5NG6XMVI44BKMDJF7MHG6YUF) |
+| [Erai-raws] Hime-sama Goumon no Jikan desu 2nd Seaso... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hime-sama-goumon-no-jikan-desu.n2089539) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3ZTW6YMS3GKUCZTXYXGLY5DF57EZLORC) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
