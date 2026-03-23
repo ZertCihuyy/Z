@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 24/3/2026, 03.43.02 WIB
+**Sync Terakhir:** 24/3/2026, 04.42.11 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Sokudo] Jigokuraku S02E11 [1080p AV1] | Hell's Para... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e11-1080p-av1-hells-paradise-weekly.n2089614) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NRHSUFCIGZ7NSIOLXB3YF3PX7O54B7GO) |
+| [Breeze] Jigokuraku S02E11 [1080p AV1] | Hell's Para... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/breeze-jigokuraku-s02e11-1080p-av1-hells-paradise-weekly.n2089613) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PM33GOVLKJRFWS3CZXEKHXJSPQGMST7Q) |
+| [DKB] Himesama "Goumon" no Jikan desu - S02E11 [1080... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-himesama-goumon-no-jikan-desu-s02e11-1080p.n2089609) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GAXAJAENOLB5JSJZ2LETZGTG2IZIMRKG) |
 | [GetItTwisted] Senran Kagura S02 [BD Remux 1080p AVC... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/getittwisted-senran-kagura-s02-bd-remux-1080p-avc.k9883562978817) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IS5SNWHKN4JBH6CGN63UY5XGVPMLXLH6) |
 | [9volt] Sousou no Frieren - 35 (S02E07) (WEB 1080p H... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/9volt-sousou-no-frieren-35-s02e07-web-1080p.n2089606) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YLKNYT6BQW4WBJN527HPPO3LBAIICSVI) |
 | [Trix] Wash It All Away S01 (Batch) [WEBRip 1080p AV... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-wash-all-away-s01-batch-webrip-1080p.n2089588) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NZTMW2QC4KUABNCR5UAWOWKCSVC4MQIY) |
@@ -24,9 +27,6 @@
 | [SubsPlease] So You're Raising a Warrior (01-12) (72... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youre-raising-warrior-01-12-720p-batch.n2089586) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EB4NSHW4A3RVOIT42FQSMWRYMD4XWL47) |
 | [SubsPlease] So You're Raising a Warrior (01-12) (48... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youre-raising-warrior-01-12-480p-batch.n2089585) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YXHMH2MEOGS2IV4SNXPLQ2YRVKVD6EKP) |
 | [Onalrie] Seihantai na Kimi to Boku - S01E11 (V2) [1... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-seihantai-na-kimi-boku-s01e11-v2-1080p.2069120) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QA5NP6LSW6GXY5NJZP6HCHQ3EW6NN755) |
-| [ASW] Seihantai na Kimi to Boku - 11v2 [1080p HEVC x... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-seihantai-na-kimi-boku-11v2-1080p-hevc.n2089579) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3GX66645UJC3W7FAQLSYTXWY474NBPI7) |
-| [Onalrie] Release that Witch - S01E04 [1080p WEBRip ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-release-witch-s01e04-1080p-webrip-av1-mkv.2069112) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RXJQ7PP6NIL7LTPLBGDRC5PM75VMFKND) |
-| [DKB] Osananajimi to wa Love Comedy ni Naranai - S01... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-osananajimi-wa-love-comedy-ni-naranai-s01e12.n2089578) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AOK7H62J7UOKVSCTIL4GNT5YPZFBP2M4) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
