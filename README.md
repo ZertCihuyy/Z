@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 24/3/2026, 00.00.00 WIB
+**Sync Terakhir:** 24/3/2026, 00.58.33 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Onalrie] Osananajimi to wa Love Comedy ni Naranai -... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-osananajimi-wa-love-comedy-ni-naranai-s01e12.2069098) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G52OM47JGKBBWXFBMYHQIM7WVXYYART5) |
-| [ASW] Osananajimi to wa Love Comedy ni Naranai - 12 ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-osananajimi-wa-love-comedy-ni-naranai-12.n2089552) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AABBZMFA5PRZB6YZYNLVN6PUSDUW4UH4) |
-| [Ironclad] Golden Kamuy - S05E12 [WEB 1080p AV1] | G... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-golden-kamuy-s05e12-web-1080p-av1-saishuushou.k9879836234767) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X6Y4P6QQBPY6FVNWHBPNVJQVTN5QO4RH) |
-| [Onalrie] Golden Kamuy - S05E12 [1080p WEBRip AV1].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-golden-kamuy-s05e12-1080p-webrip-av1-mkv.2069091) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HGGSKDZ2IB2YO5CHBC4UV3YXHEEHJQFF) |
-| [SubsPlease] Hime-sama Goumon no Jikan desu - 23 (10... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hime-sama-goumon-no-jikan-desu-23.n2089546) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6LXDML4Y22QUSLSCRLEAFMNGCGZ3422O) |
-| Tis Time for Torture Princess S02E11 1080p CR WEB-DL... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/tis-time-torture-princess-s02e11-1080p-cr-web.n2089545) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X2HXYKTLY5AD5UHAEIM4T63WRMW3C23M) |
-| [SubsPlease] Hime-sama Goumon no Jikan desu - 23 (48... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hime-sama-goumon-no-jikan-desu-23.n2089543) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6WQQR56JD3HLZC2VMYQLCIVBBEGOKN5K) |
-| [SubsPlease] Hime-sama Goumon no Jikan desu - 23 (72... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hime-sama-goumon-no-jikan-desu-23.n2089544) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GRIH7BSX4QBBHHVHKMVOJ7BRP3SL4O3D) |
-| [ToonsHub] Tis Time for Torture Princess S02E11 1080... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-tis-time-torture-princess-s02e11-1080p-cr.k9879578900233) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DN5CUYMT5NG6XMVI44BKMDJF7MHG6YUF) |
-| [Erai-raws] Hime-sama Goumon no Jikan desu 2nd Seaso... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hime-sama-goumon-no-jikan-desu.n2089539) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3ZTW6YMS3GKUCZTXYXGLY5DF57EZLORC) |
+| [ASW] Release that Witch - 04 [1080p HEVC x265 10Bit... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-release-witch-04-1080p-hevc-x265-10bit-aac.n2089574) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WDIEPEPSY562JC7J5MDUWSHBV3FYZJ4U) |
+| [SubsPlease] Seihantai na Kimi to Boku - 11v2 (720p)... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-11v2-720p-bd6138b9-mkv.n2089571) <br><br> [🐱 Nyaa](https://nyaa.si/?q=64VOACSQZBCN73QWSAF3DX6FFEHAEEOR) |
+| [SubsPlease] Seihantai na Kimi to Boku - 11v2 (1080p... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-11v2-1080p-03e9eac5-mkv.n2089572) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GIZN7PZ6FRJK6LUAN46BS2REVI35XT53) |
+| [SubsPlease] Seihantai na Kimi to Boku - 11v2 (480p)... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-11v2-480p-b4029f3a-mkv.n2089570) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DLKABBQV3EJSPHOBNPBBHJMGVES4L23X) |
+| [Onalrie] Hime-sama Goumon no Jikan desu - S02E11 [1... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hime-sama-goumon-no-jikan-desu-s02e11.2069107) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G4Q4AAESLEVQVU44Y6FYUAWMQSLMQM4N) |
+| [BlackRabbit] Shangri-La Frontier (2023) - S02 [Blur... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-shangri-la-frontier-2023-s02-bluray-1080p.k9880782959114) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UENJQQ7KAUUW3YMXR2MAJ4D4TZHGJDEX) |
+| You and I Are Polar Opposites S01E11 Class Trip Part... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e11-class-trip-part-2-repack.n2089568) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SH6AMBOOC2NBN4U5A6PR4G6D4327GZW2) |
+| [ToonsHub] You and I Are Polar Opposites S01E11 REPA... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e11-repack-1080p-cr-web.k9880656461319) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SCV6AORAHGWWGF2YMZDYACCCTTNPU45C) |
+| Kunon the Sorcerer Can See S01 1080p CR WEB-DL AAC2.... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/kunon-sorcerer-see-s01-1080p-cr-web-dl.n2089565) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X34NA2NKSJM2CLCY5NHPG5IDEZIZR3LY) |
+| SHIBOYUGI Playing Death Games to Put Food on the Tab... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/shiboyugi-playing-death-games-put-food-table-s01.n2089564) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XUWTDGNFLU7Q6PT2TPYJJA7O3D35JY3K) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
