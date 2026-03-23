@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 23/3/2026, 20.20.40 WIB
+**Sync Terakhir:** 23/3/2026, 22.01.48 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [LbE3L] To Your Eternity S03E20 (Fumetsu no Anata e)... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-your-eternity-s03e20-fumetsu-no-anata-e.2069039) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7XRRP2WVDPSKZD6B46KKFOFFIGCBPR5I) |
-| [Tasokare] Mobile Suit Gundam: Char's Counterattack ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/tasokare-mobile-suit-gundam-chars-counterattack-1988-bd.k9876097732097) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SULTC5POQUMPAVQ72FAJRA4MDHQSLDOV) |
-| [Kawatare] Mobile Suit Gundam: Char's Counterattack ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/kawatare-mobile-suit-gundam-chars-counterattack-1988-bd.k9876079100167) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PH7XETEDLRSMWC6Q4YGBZIQSQBGEH7TO) |
-| [ED3N] DAN DA DAN (Season 2) (BD 1080p AV1) [Dual Au... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/ed3n-dan-da-season-2-bd-1080p-av1.k9875631501574) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Y7IZNVH7VG4ST4BG7URO3P2OGKJSKA43) |
-| [ED3N] DAN DA DAN (Season 1) (BD 1080p AV1) [Dual Au... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/ed3n-dan-da-season-1-bd-1080p-av1.k9875472817409) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L4ZKJ3Y6RCKIFLFZCC2M5AFZHH6CSBE6) |
-| [ToonsHub] Elegy for the Henchmen Fist of the North ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-elegy-henchmen-fist-north-star-s01e11-1080p.n2089429) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3XYTJWL2NWTVRUPOWRLMHN3VIXR6TYPN) |
-| [Animorphs] Blue Box - S01E18 [BD 1080p x265 FLAC] [... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/animorphs-blue-box-s01e18-bd-1080p-x265-flac.n2089428) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PSPGBTAX5O5YW2Q2AKRXAQQH6VQNO7ZA) |
-| [BlackRabbit] KonoSuba – God’s blessing on this wond... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-konosuba-gods-blessing-wonderful-world-2016-s03.k9875344307724) <br><br> [🐱 Nyaa](https://nyaa.si/?q=O2EKEKT7QDTSJVROPQ3ZW3ALPFQY3E7Y) |
-| [BlackRabbit] KonoSuba – God’s blessing on this wond... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-konosuba-gods-blessing-wonderful-world-2016-s02.k9874274387979) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WMC5LNFY5FQUGLGDVPOYTW23MAPBM2YS) |
-| [Bikko@U2][BDMV] Scott Pilgrim Takes Off [S1 BD×1+SC... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/bikko-u2-bdmv-scott-pilgrim-takes-off-s1.n2089404) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L7PP3F4Q3ZBKH7DTRWR5T4BISUPZCQFK) |
+| [Yameii] Golden Kamuy - S05E10 [English Dub] [CR WEB... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-golden-kamuy-s05e10-english-dub-cr-web.n2089503) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CPNDEKKX3OD4ZZ6GEBSTDVONKQ75D2H6) |
+| [Yameii] Golden Kamuy - S05E10 [English Dub] [CR WEB... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-golden-kamuy-s05e10-english-dub-cr-web.n2089502) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C6FWGPDYRR3WKQYFAKFWBLTQQM42YXDL) |
+| [Erai-raws] Golden Kamuy Final Season - 12 [480p CR ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-12-480p.n2089501) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4D3OX3VL3U3ZUEPVJGQ4KR4QMTZ4IYTK) |
+| [Erai-raws] Golden Kamuy Final Season - 12 [720p CR ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-12-720p.n2089500) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UA6HQ47WETPUMKBDEJL5P6F4K5G6FUKF) |
+| [Erai-raws] Golden Kamuy Final Season - 12 [1080p CR... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-12-1080p.n2089499) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WDJQMEAMLWRVDBHWFH7ZLUHRYQNL4LMY) |
+| Golden Kamuy S05E10 Our Kamuy 1080p CR WEB-DL DUAL A... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/golden-kamuy-s05e10-our-1080p-cr-web-dl.n2089497) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5O5HSUIXNV623NY6ES6MTALZ3TDF5JQ2) |
+| Golden Kamuy S05E12 Bushido 1080p CR WEB-DL AAC2.0 H... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/golden-kamuy-s05e12-bushido-1080p-cr-web-dl.n2089496) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BWRBVGSQ65MOSPGWMOTTZ2MESLIKCOGN) |
+| [SubsPlease] Golden Kamuy - 61 (1080p) [D4BDA779].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-golden-kamuy-61-1080p-d4bda779-mkv.n2089495) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TIXMZRHFCIB6PYLCNCE7HTDUJXZGVDUH) |
+| [ToonsHub] Golden Kamuy S05E10 1080p CR WEB-DL DUAL ... | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e10-1080p-cr-web-dl.k9878200925188) <br><br> [🐱 Nyaa](https://nyaa.si/?q=65PZ77YRWQCMGTICHZ5VVOT3Y6YZC2EL) |
+| [SubsPlease] Golden Kamuy - 61 (720p) [BA639D7A].mkv | NaN MB | 23/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-golden-kamuy-61-720p-ba639d7a-mkv.n2089491) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GD3PUNPNVRZHG422LLDYLN3J4I5DF5VQ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
