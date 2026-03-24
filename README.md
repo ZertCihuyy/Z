@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 25/3/2026, 00.05.47 WIB
+**Sync Terakhir:** 25/3/2026, 02.12.20 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Polarwindz] The Sacred Blacksmith (Seiken no Blacks... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/polarwindz-sacred-blacksmith-seiken-no-2009-bd-1080p.n2089820) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NZKH3U52XJXTW23A5LO2BXPSXW4KHPVI) |
-| [Onalrie] Yoroi Shin Den Samurai Troopers - S01E12 [... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-yoroi-shin-den-samurai-troopers-s01e12-1080p.2069270) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4LQ55YMHQOVX5YE3SIA2CJQHBUQ3AWAS) |
-| [DB] Gatchaman Crowds Insight [Dual Audio 10bit BD10... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/db-gatchaman-crowds-insight-dual-audio-10bit-bd1080p-hevc.n2089818) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XQTNWBGTUS2GEHP76AUR4TH5GKS4LTFP) |
-| [ASW] Yoroi Shin Den Samurai Troopers - 12 [1080p HE... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-yoroi-shin-den-samurai-troopers-12-1080p.n2089815) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IA2BVLDJ7HX5BTJTWKIOEV5XRBAHZAOB) |
-| [DKB] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhak... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-yuusha-party-ni-kawaii-ko-ga-ita.n2089812) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IKRRYXCOO3AZJIHPR7MAWB4VCYW2LTPW) |
-| [ASW] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhak... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-party-ni-kawaii-ko-ga-ita.n2089810) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GKANK7RMOBYEWLDDOTP5GAIUF4QEQAYF) |
-| The Darwin Incident S01E12 Sexual Dimorphism 1080p A... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/darwin-incident-s01e12-sexual-dimorphism-1080p-amzn-web.n2089808) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LD6GINRZ67WSK5CFQTRIOM5UNKUMAN57) |
-| The Darwin Incident S01E12 Sexual Dimorphism 1080p A... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/darwin-incident-s01e12-sexual-dimorphism-1080p-amzn-web.n2089807) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MHU54PE52KSQXBV2KV6HJQODLY5EKIAK) |
-| [DKB] Mayonaka Heart Tune - S01E12 [1080p][END][HEVC... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-mayonaka-heart-tune-s01e12-1080p-end-hevc.n2089805) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FO336645IXD4N5WXV725OSLQWTWJG46I) |
-| [BlackRabbit] Welcome to Demon School! Iruma-kun (20... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-welcome-demon-school-iruma-kun-2019-s01.k9901668466955) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OE3EFRFKZLYUFX5NPF37LPTGCXCB5S37) |
+| [ASW] Arne no Jikenbo - 12 [1080p HEVC x265 10Bit][AAC] | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-arne-no-jikenbo-12-1080p-hevc-x265-10bit-aac.n2089838) <br><br> [🐱 Nyaa](https://nyaa.si/?q=N6BBQKYDLXY2FSNHKWNHWVFZI36OJGCI) |
+| [BlackRabbit] Romantic Killer (2022) - S01 [WEBDL-10... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-romantic-killer-2022-s01-webdl-1080p-opus.k9903987454479) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZWBHRGTVGRXJBW6COYXQUKTPDORETE5V) |
+| [Onalrie] Arne no Jikenbo - S01E12 [1080p WEBRip AV1... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-arne-no-jikenbo-s01e12-1080p-webrip-av1-mkv.2069295) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4CALEMKTKKBZKL7YTDOX6DE4T674DGGE) |
+| [SubsPlease] Arne no Jikenbo - 12 (1080p) [CF60989C]... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-arne-no-jikenbo-12-1080p-cf60989c-mkv.n2089836) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HMYSQSD2QIBG6OS3LGDB564U2RHKEONB) |
+| [SubsPlease] Arne no Jikenbo - 12 (720p) [74ADB507].mkv | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-arne-no-jikenbo-12-720p-74adb507-mkv.n2089835) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KIYM52A5LWB4EWX3WVHP3PJ2KNZMMMH7) |
+| [SubsPlease] Arne no Jikenbo - 12 (480p) [2D2CFDAF].mkv | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-arne-no-jikenbo-12-480p-2d2cfdaf-mkv.n2089834) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UFYP75HPTO36RYVCL3WOPTHBP5BXMQI2) |
+| The Casebook of Arne S01E12 Alls Well That Ends Well... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/casebook-arne-s01e12-alls-well-ends-1080p-cr.n2089833) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SDBKFJGYKD5PYX6STD5MPVY7ZXGIKYAO) |
+| [ToonsHub] The Casebook of Arne S01E12 1080p CR WEB-... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-casebook-arne-s01e12-1080p-cr-web-dl.n2089831) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QB73A23W2VETE7WXZO46UPLTCVNHCCPQ) |
+| [Erai-raws] Arne no Jikenbo - 12 [480p CR WEB-DL AVC... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-arne-no-jikenbo-12-480p-cr.n2089829) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OLUSHNB2XUFGZGRGDXJBZKZJDMFBH7TE) |
+| [Erai-raws] Arne no Jikenbo - 12 [720p CR WEB-DL AVC... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-arne-no-jikenbo-12-720p-cr.n2089828) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6NN3QE4VN3FL2AUAUIX2O7OPCACOEDT2) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
