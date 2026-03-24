@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 24/3/2026, 11.58.49 WIB
+**Sync Terakhir:** 24/3/2026, 13.07.48 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [BlackRose] Mob Psycho 100 S2 - S00E08 (BD 1080p HEV... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrose-mob-psycho-100-s2-s00e08-bd-1080p.k9892003460865) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QK2BRSXESON7423LKYERJAWPH33ZDAVG) |
+| [BlackRose] Mob Psycho 100 S2 (BD 1080p HEVC Opus) [... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrose-mob-psycho-100-s2-bd-1080p-hevc.k9892003091968) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JGKGBRW6KLUNB5I24GKNO6Z7MCS5EQ2L) |
 | [DantalianSubs] Sousou no Frieren - S02E09 [1080p HE... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dantaliansubs-sousou-no-frieren-s02e09-1080p-hevc-sub-espaol.n2089645) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BS52NLGCFRAVGQTK44R2JJYKGY372NXF) |
 | [MiniMTBB] Welcome to the N.H.K. S1 (DVD 576p) | NHK... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/minimtbb-welcome-n-h-k-s1-dvd-576p.n2089644) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OB75BXUFLK6EZXGIOVI6PZILEOKX3KEC) |
 | [Okay-Subs] Welcome to the N.H.K. S1 (DVD 480p) | NH... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/okay-subs-welcome-n-h-k-s1-dvd.n2089643) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OZZMCZ5KEE3G4J6FXG437JDOZO6ASM6F) |
@@ -25,8 +27,6 @@
 | [ChuySub] Majokko Megu-chan - Episode 42 | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-42.n2089621) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4RDHALPTBLJK5P776MVJQKYMNAOPP7F) |
 | [somedroplet] Pokémon Horizons / Pocket Monsters (20... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/somedroplet-pokmon-horizons-pocket-monsters-2023-132-english.n2089619) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PKRD6AIMZ7RRWUFCPOIRXW2NCI6BTFFZ) |
 | [FakeFan] Fate/strange Fake: Whispers of Dawn (WEB 1... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/fakefan-fate-strange-fake-whispers-dawn-web-1080p.n2089615) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AJB3NSRZB2RL5ODI7UHV5E2W26EFGGFM) |
-| [Sokudo] Jigokuraku S02E11 [1080p AV1] | Hell's Para... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e11-1080p-av1-hells-paradise-weekly.n2089614) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NRHSUFCIGZ7NSIOLXB3YF3PX7O54B7GO) |
-| [Breeze] Jigokuraku S02E11 [1080p AV1] | Hell's Para... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/breeze-jigokuraku-s02e11-1080p-av1-hells-paradise-weekly.n2089613) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PM33GOVLKJRFWS3CZXEKHXJSPQGMST7Q) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
