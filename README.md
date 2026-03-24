@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 24/3/2026, 20.24.36 WIB
+**Sync Terakhir:** 24/3/2026, 22.04.53 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| Takopi's Original Sin S01 [2025] COMPLETE 1080p BDRi... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/takopis-original-sin-s01-2025-complete-1080p-bdrip.n2089703) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OZKWL7ES2RBBG2WHQS33GDBJQUCBNOVI) |
-| [TearSmith] Frieren Beyond Journeys End 2023 S02E07 ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/tearsmith-frieren-beyond-journeys-end-2023-s02e07-1080p.k9897821202179) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5AREX7JQNDBYRWVEX6YXV7IVYSD4HAPL) |
-| [BlackRabbit] Campione! (2012) - S01 [Bluray-1080p][... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-campione-2012-s01-bluray-1080p-opus-2.k9893888034821) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6MENLBEJSJV7ZDXFY4SOUH2KSUR6XIN4) |
-| [BlackRabbit] Nisekoi - False Love (2014) - S02 [Blu... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nisekoi-false-love-2014-s02-bluray-1080p.k9893585086722) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NWYVUQZ2F7XI6ZDQ5DQME4AE4E2EAEIT) |
-| [BlackRabbit] Nisekoi - False Love (2014) - S01 [Blu... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nisekoi-false-love-2014-s01-bluray-1080p.k9893538784780) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E6EXAZFSDRYQ72QHHZBDN6GGSRLO6WFB) |
-| [BlackRabbit] Nisekoi - False Love (2014) - S00 [Blu... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nisekoi-false-love-2014-s00-bluray-1080p.k9893484955908) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UHK6RX57QS5C7BJDKYKAJDLSF5K6I3HW) |
-| [BlackRose] Mob Psycho 100 S2 (BD 1080p HEVC 10-bit ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrose-mob-psycho-100-s2-bd-1080p-hevc.k9893412870401) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AMMZ6WX32T7HTO6S26Z4GZ26NHAUGG7Y) |
-| [BlackRose] Mob Psycho 100 S2 - S00E08 (BD 1080p HEV... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrose-mob-psycho-100-s2-s00e08-bd-1080p.k9893412969987) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PKNZO22OQA6VIWUK7VWICLQ2TX5VFW62) |
-| [DantalianSubs] Sousou no Frieren - S02E09 [1080p HE... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dantaliansubs-sousou-no-frieren-s02e09-1080p-hevc-sub-espaol.n2089645) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BS52NLGCFRAVGQTK44R2JJYKGY372NXF) |
-| [MiniMTBB] Welcome to the N.H.K. S1 (DVD 576p) | NHK... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/minimtbb-welcome-n-h-k-s1-dvd-576p.n2089644) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OB75BXUFLK6EZXGIOVI6PZILEOKX3KEC) |
+| [Cryon] Dragon Ball Z - SP1&2 (TV Specials) - 1080p ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/cryon-dragon-ball-z-sp1-2-tv-specials.n2089751) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IYOOMT6HFWTAQOUCPJZESA3OGN6U4VHR) |
+| [ASW] Mayonaka Heart Tune - 12 [1080p HEVC x265 10Bi... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-mayonaka-heart-tune-12-1080p-hevc-x265-10bit-aac.n2089750) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XX3SQ3SQKASZSK7S4GYBIV3RENW6X7BS) |
+| Isekai Office Worker The Other Worlds Books Depend o... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/isekai-office-worker-other-worlds-books-depend-bean.n2089749) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S57MQ7GYWCXRKPRMYBQN6PXZYY5VZF23) |
+| [SubsPlease] Isekai no Sata wa Shachiku Shidai - 12 ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-isekai-no-sata-wa-shachiku-shidai-12.n2089748) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HRMTKETGONWQESZUX4EC4R77J5Y5HLBW) |
+| [SubsPlease] Isekai no Sata wa Shachiku Shidai - 12 ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-isekai-no-sata-wa-shachiku-shidai-12.n2089746) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HHKE4QSVZCGVPTYBOGE3O2IK5MGWPFJ5) |
+| [SubsPlease] Isekai no Sata wa Shachiku Shidai - 12 ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-isekai-no-sata-wa-shachiku-shidai-12.n2089744) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IH2CU4J5YREEJN3AUUHUNIMC7XKXV5QS) |
+| [ToonsHub] Isekai Office Worker The Other Worlds Boo... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-isekai-office-worker-other-worlds-books-depend.k9900313805836) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6VGMIREVCPBRUZCRYA3WHRGFSDD6A6S7) |
+| [Erai-raws] Isekai no Sata wa Shachiku Shidai - 12 [... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-no-sata-wa-shachiku-shidai.n2089742) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KFX3OVJFSTYD5TUXX65MNFS7DSBGRJOP) |
+| [Erai-raws] Isekai no Sata wa Shachiku Shidai - 12 [... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-no-sata-wa-shachiku-shidai.n2089741) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OAG3MAQHEC6322JEOB6IPPY3B6QRJT7N) |
+| [Erai-raws] Isekai no Sata wa Shachiku Shidai - 12 [... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-no-sata-wa-shachiku-shidai.n2089740) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VW7WVSZV5BD7BWXWIBUAFDYDZKUWXUN6) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
