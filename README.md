@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 24/3/2026, 18.50.30 WIB
+**Sync Terakhir:** 24/3/2026, 20.24.36 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| Takopi's Original Sin S01 [2025] COMPLETE 1080p BDRi... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/takopis-original-sin-s01-2025-complete-1080p-bdrip.n2089703) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OZKWL7ES2RBBG2WHQS33GDBJQUCBNOVI) |
+| [TearSmith] Frieren Beyond Journeys End 2023 S02E07 ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/tearsmith-frieren-beyond-journeys-end-2023-s02e07-1080p.k9897821202179) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5AREX7JQNDBYRWVEX6YXV7IVYSD4HAPL) |
 | [BlackRabbit] Campione! (2012) - S01 [Bluray-1080p][... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-campione-2012-s01-bluray-1080p-opus-2.k9893888034821) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6MENLBEJSJV7ZDXFY4SOUH2KSUR6XIN4) |
 | [BlackRabbit] Nisekoi - False Love (2014) - S02 [Blu... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nisekoi-false-love-2014-s02-bluray-1080p.k9893585086722) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NWYVUQZ2F7XI6ZDQ5DQME4AE4E2EAEIT) |
 | [BlackRabbit] Nisekoi - False Love (2014) - S01 [Blu... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nisekoi-false-love-2014-s01-bluray-1080p.k9893538784780) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E6EXAZFSDRYQ72QHHZBDN6GGSRLO6WFB) |
@@ -25,8 +27,6 @@
 | [BlackRose] Mob Psycho 100 S2 - S00E08 (BD 1080p HEV... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrose-mob-psycho-100-s2-s00e08-bd-1080p.k9893412969987) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PKNZO22OQA6VIWUK7VWICLQ2TX5VFW62) |
 | [DantalianSubs] Sousou no Frieren - S02E09 [1080p HE... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dantaliansubs-sousou-no-frieren-s02e09-1080p-hevc-sub-espaol.n2089645) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BS52NLGCFRAVGQTK44R2JJYKGY372NXF) |
 | [MiniMTBB] Welcome to the N.H.K. S1 (DVD 576p) | NHK... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/minimtbb-welcome-n-h-k-s1-dvd-576p.n2089644) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OB75BXUFLK6EZXGIOVI6PZILEOKX3KEC) |
-| [Okay-Subs] Welcome to the N.H.K. S1 (DVD 480p) | NH... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/okay-subs-welcome-n-h-k-s1-dvd.n2089643) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OZZMCZ5KEE3G4J6FXG437JDOZO6ASM6F) |
-| [Anime Time] Sentenced To Be A Hero (Yuusha-kei ni S... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2089634) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CW7B53D3YSXI4DTNE3V6QIVSEM57T4AR) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
