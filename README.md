@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 25/3/2026, 03.49.53 WIB
+**Sync Terakhir:** 25/3/2026, 04.42.39 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [PrinceOtaku] One Piece  Episodes 1144-1155 + SP 10 ... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/princeotaku-one-piece-episodes-1144-1155-sp-10.n2089871) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WR374VOEAIV4UUOBHOGPJDJPNGPEAVP4) |
+| [BlackRabbit] Welcome to Demon School! Iruma-kun (20... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-welcome-demon-school-iruma-kun-2019-s03.k9906770096649) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LAY736TDDGZ6Z2PNPYEMMT7SJFLPSNMB) |
+| [ToonsHub] One Piece S00E63 Dr. Choppers Adventure C... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-s00e63-dr-choppers-adventure-checkup.k9906182233603) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3SBZGSNYTIGHCBMICGASV5E5I4CNL6T5) |
+| [ToonsHub] One Piece S00E62 Dr. Choppers Adventure C... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-s00e62-dr-choppers-adventure-checkup.n2089876) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X42GPGFF2EH6H3BYIBR2WZ5BX7IM4ATQ) |
+| [SubsPlease] Hanazakari no Kimitachi e (01-12) (1080... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hanazakari-no-kimitachi-e-01-12-1080p-batch.n2089875) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IGK5YI7UPDWNACK6HS4QLWDXXJAY3DNH) |
+| [SubsPlease] Hanazakari no Kimitachi e (01-12) (720p... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hanazakari-no-kimitachi-e-01-12-720p-batch.n2089873) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ITSKXADDKY6GPXHBV6IAKUCY6NQQ4Y2X) |
+| [SubsPlease] Hanazakari no Kimitachi e (01-12) (480p... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hanazakari-no-kimitachi-e-01-12-480p-batch.n2089872) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GZIDHWWR6IWRX5DXRW2PWMCA2ORR73HK) |
 | Inuyashiki Last Hero Henshū - 1080p.MULTISUB.x264 [S... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/inuyashiki-last-hero-hensh-1080p-multisub-x264-subs-fr-en.n2089869) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G77PW3VUOZYT2372OLP2OAPCMH7IB6YR) |
 | [ToonsHub] One Piece EP1144-EP1155 1080p CR WEB-DL D... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1144-ep1155-1080p-cr-web.k9905804691980) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7PGNXQCGVZ56CZXXLBOU7QXYYZQBOFFM) |
 | Horimiya Kaï - 1080p.MULTI.x264 [Subs: FR|EN|SP|PT] | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/horimiya-ka-1080p-multi-x264-subs-fr-en-sp-pt.n2089867) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NWEMRZQADH2WMG4QL7DSHEPVRJPGB5YO) |
 | Call of the Night Henshū - 1080p.MULTI.x264 [Subs: F... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/call-night-hensh-1080p-multi-x264-subs-fr-en.n2089866) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HM4E7VNUAX3UGKOQ274Y4GVOATIWVF76) |
-| [DKB] Arne no Jikenbo - S01E12 [1080p][END][HEVEC x2... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-arne-no-jikenbo-s01e12-1080p-end-hevec.n2089865) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JMNFXCD7O3HE2EAGM3OZRMNMUOOMMZCH) |
-| [Commie] The Darwin Incident - 12 [A63CA253].mkv | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/commie-darwin-incident-12-a63ca253-mkv.n2089864) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z6EDKD4ACWT47NEG7ZR5YKDF6K5PPLHT) |
-| [Onalrie] Mayonaka Heart Tune - S01E12 [1080p WEBRip... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-mayonaka-heart-tune-s01e12-1080p-webrip-av1-mkv.2069301) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G6UF3YLNEBVEQVCCPVKQGDDRRIPXRPAL) |
-| [Mehul] Gurren Lagann S01 (BD 1080p HEVC 10-bit Opus... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/mehul-gurren-lagann-s01-bd-1080p-hevc-10.n2089856) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UAN2S3BBS5I4LGF5ORCNCQ53KDDCNDCC) |
-| [ASW] Arne no Jikenbo - 12 [1080p HEVC x265 10Bit][AAC] | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-arne-no-jikenbo-12-1080p-hevc-x265-10bit-aac.n2089838) <br><br> [🐱 Nyaa](https://nyaa.si/?q=N6BBQKYDLXY2FSNHKWNHWVFZI36OJGCI) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
