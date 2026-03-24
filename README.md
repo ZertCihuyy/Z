@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 25/3/2026, 02.12.20 WIB
+**Sync Terakhir:** 25/3/2026, 03.49.53 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [PrinceOtaku] One Piece  Episodes 1144-1155 + SP 10 ... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/princeotaku-one-piece-episodes-1144-1155-sp-10.n2089871) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WR374VOEAIV4UUOBHOGPJDJPNGPEAVP4) |
+| Inuyashiki Last Hero Henshū - 1080p.MULTISUB.x264 [S... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/inuyashiki-last-hero-hensh-1080p-multisub-x264-subs-fr-en.n2089869) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G77PW3VUOZYT2372OLP2OAPCMH7IB6YR) |
+| [ToonsHub] One Piece EP1144-EP1155 1080p CR WEB-DL D... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1144-ep1155-1080p-cr-web.k9905804691980) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7PGNXQCGVZ56CZXXLBOU7QXYYZQBOFFM) |
+| Horimiya Kaï - 1080p.MULTI.x264 [Subs: FR|EN|SP|PT] | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/horimiya-ka-1080p-multi-x264-subs-fr-en-sp-pt.n2089867) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NWEMRZQADH2WMG4QL7DSHEPVRJPGB5YO) |
+| Call of the Night Henshū - 1080p.MULTI.x264 [Subs: F... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/call-night-hensh-1080p-multi-x264-subs-fr-en.n2089866) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HM4E7VNUAX3UGKOQ274Y4GVOATIWVF76) |
+| [DKB] Arne no Jikenbo - S01E12 [1080p][END][HEVEC x2... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-arne-no-jikenbo-s01e12-1080p-end-hevec.n2089865) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JMNFXCD7O3HE2EAGM3OZRMNMUOOMMZCH) |
+| [Commie] The Darwin Incident - 12 [A63CA253].mkv | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/commie-darwin-incident-12-a63ca253-mkv.n2089864) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z6EDKD4ACWT47NEG7ZR5YKDF6K5PPLHT) |
+| [Onalrie] Mayonaka Heart Tune - S01E12 [1080p WEBRip... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-mayonaka-heart-tune-s01e12-1080p-webrip-av1-mkv.2069301) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G6UF3YLNEBVEQVCCPVKQGDDRRIPXRPAL) |
+| [Mehul] Gurren Lagann S01 (BD 1080p HEVC 10-bit Opus... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/mehul-gurren-lagann-s01-bd-1080p-hevc-10.n2089856) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UAN2S3BBS5I4LGF5ORCNCQ53KDDCNDCC) |
 | [ASW] Arne no Jikenbo - 12 [1080p HEVC x265 10Bit][AAC] | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-arne-no-jikenbo-12-1080p-hevc-x265-10bit-aac.n2089838) <br><br> [🐱 Nyaa](https://nyaa.si/?q=N6BBQKYDLXY2FSNHKWNHWVFZI36OJGCI) |
-| [BlackRabbit] Romantic Killer (2022) - S01 [WEBDL-10... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-romantic-killer-2022-s01-webdl-1080p-opus.k9903987454479) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZWBHRGTVGRXJBW6COYXQUKTPDORETE5V) |
-| [Onalrie] Arne no Jikenbo - S01E12 [1080p WEBRip AV1... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-arne-no-jikenbo-s01e12-1080p-webrip-av1-mkv.2069295) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4CALEMKTKKBZKL7YTDOX6DE4T674DGGE) |
-| [SubsPlease] Arne no Jikenbo - 12 (1080p) [CF60989C]... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-arne-no-jikenbo-12-1080p-cf60989c-mkv.n2089836) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HMYSQSD2QIBG6OS3LGDB564U2RHKEONB) |
-| [SubsPlease] Arne no Jikenbo - 12 (720p) [74ADB507].mkv | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-arne-no-jikenbo-12-720p-74adb507-mkv.n2089835) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KIYM52A5LWB4EWX3WVHP3PJ2KNZMMMH7) |
-| [SubsPlease] Arne no Jikenbo - 12 (480p) [2D2CFDAF].mkv | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-arne-no-jikenbo-12-480p-2d2cfdaf-mkv.n2089834) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UFYP75HPTO36RYVCL3WOPTHBP5BXMQI2) |
-| The Casebook of Arne S01E12 Alls Well That Ends Well... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/casebook-arne-s01e12-alls-well-ends-1080p-cr.n2089833) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SDBKFJGYKD5PYX6STD5MPVY7ZXGIKYAO) |
-| [ToonsHub] The Casebook of Arne S01E12 1080p CR WEB-... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-casebook-arne-s01e12-1080p-cr-web-dl.n2089831) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QB73A23W2VETE7WXZO46UPLTCVNHCCPQ) |
-| [Erai-raws] Arne no Jikenbo - 12 [480p CR WEB-DL AVC... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-arne-no-jikenbo-12-480p-cr.n2089829) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OLUSHNB2XUFGZGRGDXJBZKZJDMFBH7TE) |
-| [Erai-raws] Arne no Jikenbo - 12 [720p CR WEB-DL AVC... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-arne-no-jikenbo-12-720p-cr.n2089828) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6NN3QE4VN3FL2AUAUIX2O7OPCACOEDT2) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
