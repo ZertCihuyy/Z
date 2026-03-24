@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 24/3/2026, 13.07.48 WIB
+**Sync Terakhir:** 24/3/2026, 14.57.09 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [BlackRose] Mob Psycho 100 S2 - S00E08 (BD 1080p HEV... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrose-mob-psycho-100-s2-s00e08-bd-1080p.k9892003460865) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QK2BRSXESON7423LKYERJAWPH33ZDAVG) |
-| [BlackRose] Mob Psycho 100 S2 (BD 1080p HEVC Opus) [... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrose-mob-psycho-100-s2-bd-1080p-hevc.k9892003091968) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JGKGBRW6KLUNB5I24GKNO6Z7MCS5EQ2L) |
+| [BlackRabbit] Campione! (2012) - S01 [Bluray-1080p][... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-campione-2012-s01-bluray-1080p-opus-2.k9893888034821) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6MENLBEJSJV7ZDXFY4SOUH2KSUR6XIN4) |
+| [BlackRabbit] Nisekoi - False Love (2014) - S02 [Blu... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nisekoi-false-love-2014-s02-bluray-1080p.k9893585086722) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NWYVUQZ2F7XI6ZDQ5DQME4AE4E2EAEIT) |
+| [BlackRabbit] Nisekoi - False Love (2014) - S01 [Blu... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nisekoi-false-love-2014-s01-bluray-1080p.k9893538784780) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E6EXAZFSDRYQ72QHHZBDN6GGSRLO6WFB) |
+| [BlackRabbit] Nisekoi - False Love (2014) - S00 [Blu... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nisekoi-false-love-2014-s00-bluray-1080p.k9893484955908) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UHK6RX57QS5C7BJDKYKAJDLSF5K6I3HW) |
+| [BlackRose] Mob Psycho 100 S2 (BD 1080p HEVC 10-bit ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrose-mob-psycho-100-s2-bd-1080p-hevc.k9893412870401) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AMMZ6WX32T7HTO6S26Z4GZ26NHAUGG7Y) |
+| [BlackRose] Mob Psycho 100 S2 - S00E08 (BD 1080p HEV... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrose-mob-psycho-100-s2-s00e08-bd-1080p.k9893412969987) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PKNZO22OQA6VIWUK7VWICLQ2TX5VFW62) |
 | [DantalianSubs] Sousou no Frieren - S02E09 [1080p HE... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dantaliansubs-sousou-no-frieren-s02e09-1080p-hevc-sub-espaol.n2089645) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BS52NLGCFRAVGQTK44R2JJYKGY372NXF) |
 | [MiniMTBB] Welcome to the N.H.K. S1 (DVD 576p) | NHK... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/minimtbb-welcome-n-h-k-s1-dvd-576p.n2089644) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OB75BXUFLK6EZXGIOVI6PZILEOKX3KEC) |
 | [Okay-Subs] Welcome to the N.H.K. S1 (DVD 480p) | NH... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/okay-subs-welcome-n-h-k-s1-dvd.n2089643) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OZZMCZ5KEE3G4J6FXG437JDOZO6ASM6F) |
 | [Anime Time] Sentenced To Be A Hero (Yuusha-kei ni S... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2089634) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CW7B53D3YSXI4DTNE3V6QIVSEM57T4AR) |
-| [Anime Time] Sentenced To Be A Hero (Yuusha-kei ni S... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2089633) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CMJVA7TXEBXGONNG5W5RM2UOHPZMIQ6I) |
-| [ChuySub] Majokko Megu-chan - Episode 42 | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-42.n2089621) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4RDHALPTBLJK5P776MVJQKYMNAOPP7F) |
-| [somedroplet] Pokémon Horizons / Pocket Monsters (20... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/somedroplet-pokmon-horizons-pocket-monsters-2023-132-english.n2089619) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PKRD6AIMZ7RRWUFCPOIRXW2NCI6BTFFZ) |
-| [FakeFan] Fate/strange Fake: Whispers of Dawn (WEB 1... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/fakefan-fate-strange-fake-whispers-dawn-web-1080p.n2089615) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AJB3NSRZB2RL5ODI7UHV5E2W26EFGGFM) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
