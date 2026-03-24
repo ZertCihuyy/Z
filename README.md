@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 24/3/2026, 22.04.53 WIB
+**Sync Terakhir:** 25/3/2026, 00.05.47 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Cryon] Dragon Ball Z - SP1&2 (TV Specials) - 1080p ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/cryon-dragon-ball-z-sp1-2-tv-specials.n2089751) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IYOOMT6HFWTAQOUCPJZESA3OGN6U4VHR) |
-| [ASW] Mayonaka Heart Tune - 12 [1080p HEVC x265 10Bi... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-mayonaka-heart-tune-12-1080p-hevc-x265-10bit-aac.n2089750) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XX3SQ3SQKASZSK7S4GYBIV3RENW6X7BS) |
-| Isekai Office Worker The Other Worlds Books Depend o... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/isekai-office-worker-other-worlds-books-depend-bean.n2089749) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S57MQ7GYWCXRKPRMYBQN6PXZYY5VZF23) |
-| [SubsPlease] Isekai no Sata wa Shachiku Shidai - 12 ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-isekai-no-sata-wa-shachiku-shidai-12.n2089748) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HRMTKETGONWQESZUX4EC4R77J5Y5HLBW) |
-| [SubsPlease] Isekai no Sata wa Shachiku Shidai - 12 ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-isekai-no-sata-wa-shachiku-shidai-12.n2089746) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HHKE4QSVZCGVPTYBOGE3O2IK5MGWPFJ5) |
-| [SubsPlease] Isekai no Sata wa Shachiku Shidai - 12 ... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-isekai-no-sata-wa-shachiku-shidai-12.n2089744) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IH2CU4J5YREEJN3AUUHUNIMC7XKXV5QS) |
-| [ToonsHub] Isekai Office Worker The Other Worlds Boo... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-isekai-office-worker-other-worlds-books-depend.k9900313805836) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6VGMIREVCPBRUZCRYA3WHRGFSDD6A6S7) |
-| [Erai-raws] Isekai no Sata wa Shachiku Shidai - 12 [... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-no-sata-wa-shachiku-shidai.n2089742) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KFX3OVJFSTYD5TUXX65MNFS7DSBGRJOP) |
-| [Erai-raws] Isekai no Sata wa Shachiku Shidai - 12 [... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-no-sata-wa-shachiku-shidai.n2089741) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OAG3MAQHEC6322JEOB6IPPY3B6QRJT7N) |
-| [Erai-raws] Isekai no Sata wa Shachiku Shidai - 12 [... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-no-sata-wa-shachiku-shidai.n2089740) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VW7WVSZV5BD7BWXWIBUAFDYDZKUWXUN6) |
+| [Polarwindz] The Sacred Blacksmith (Seiken no Blacks... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/polarwindz-sacred-blacksmith-seiken-no-2009-bd-1080p.n2089820) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NZKH3U52XJXTW23A5LO2BXPSXW4KHPVI) |
+| [Onalrie] Yoroi Shin Den Samurai Troopers - S01E12 [... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-yoroi-shin-den-samurai-troopers-s01e12-1080p.2069270) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4LQ55YMHQOVX5YE3SIA2CJQHBUQ3AWAS) |
+| [DB] Gatchaman Crowds Insight [Dual Audio 10bit BD10... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/db-gatchaman-crowds-insight-dual-audio-10bit-bd1080p-hevc.n2089818) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XQTNWBGTUS2GEHP76AUR4TH5GKS4LTFP) |
+| [ASW] Yoroi Shin Den Samurai Troopers - 12 [1080p HE... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-yoroi-shin-den-samurai-troopers-12-1080p.n2089815) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IA2BVLDJ7HX5BTJTWKIOEV5XRBAHZAOB) |
+| [DKB] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhak... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-yuusha-party-ni-kawaii-ko-ga-ita.n2089812) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IKRRYXCOO3AZJIHPR7MAWB4VCYW2LTPW) |
+| [ASW] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhak... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-party-ni-kawaii-ko-ga-ita.n2089810) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GKANK7RMOBYEWLDDOTP5GAIUF4QEQAYF) |
+| The Darwin Incident S01E12 Sexual Dimorphism 1080p A... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/darwin-incident-s01e12-sexual-dimorphism-1080p-amzn-web.n2089808) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LD6GINRZ67WSK5CFQTRIOM5UNKUMAN57) |
+| The Darwin Incident S01E12 Sexual Dimorphism 1080p A... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/darwin-incident-s01e12-sexual-dimorphism-1080p-amzn-web.n2089807) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MHU54PE52KSQXBV2KV6HJQODLY5EKIAK) |
+| [DKB] Mayonaka Heart Tune - S01E12 [1080p][END][HEVC... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-mayonaka-heart-tune-s01e12-1080p-end-hevc.n2089805) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FO336645IXD4N5WXV725OSLQWTWJG46I) |
+| [BlackRabbit] Welcome to Demon School! Iruma-kun (20... | NaN MB | 24/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-welcome-demon-school-iruma-kun-2019-s01.k9901668466955) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OE3EFRFKZLYUFX5NPF37LPTGCXCB5S37) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
