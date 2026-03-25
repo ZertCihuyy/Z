@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 25/3/2026, 11.59.05 WIB
+**Sync Terakhir:** 25/3/2026, 13.09.22 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| Medalist S02E07 The Frozen Lake 1080p DSNP WEB-DL DU... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/medalist-s02e07-frozen-lake-1080p-dsnp-web-dl.n2089959) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XBEOY5F3ILBBZI6TMD5OUXOKTPDB3NQR) |
+| [BlackRabbit] Mob Psycho 100 (2016) - S01 [Bluray-10... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-mob-psycho-100-2016-s01-bluray-1080p.k9914373672207) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BTC33V7DFCBRDZARBHN3RGNSIVCERZJ6) |
+| [Anime Time] Sentenced To Be A Hero (Yuusha-kei ni S... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2089958) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5Z52VCXNL5LUNYPNPTFYPNM6QMX7R6VJ) |
+| [Anime Time] Sentenced To Be A Hero (Yuusha-kei ni S... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2089957) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4OIQCAYRFJWL6HASHIUGBS7JVARP5HTL) |
+| [BlackRabbit] Welcome to Demon School! Iruma-kun (20... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-welcome-demon-school-iruma-kun-2019-s02.k9914019996174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GFSXCCFF5YPRPC65FQ2XOTNN7U7HCPRQ) |
 | [Erai-raws] Niwatori Fighter - 02 [1080p DSNP WEBRip... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-02-1080p-dsnp-webrip.n2089950) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PEFIZYMG3VAPMOIEHKMIQD3CDACYZRZJ) |
 | [Ommex] Doraemon (2005) Episode 907 [ENG SUB][1080p ... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/ommex-doraemon-2005-episode-907-eng-sub-1080p-x265-aac.n2089943) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3KWZBT4UXV7F5BC7GUGTAVLIZZCRKQ4E) |
 | [Erai-raws] Niwatori Fighter - 02 [1080p CR WEBRip H... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-02-1080p-cr-webrip.n2089935) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MXEEJ757UBXI3DIO7HIOS2SKXFAHJQSD) |
 | [Gecko] Fate Grand Order You've Lost Ritsuka Fujimar... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.k9911104663042) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6SVQ4BYBHAEBI2PNYOOUDT445VY6CGU4) |
 | [Lazyleido-Mini] DIGIMON BEATBREAK - 23 (S01E23) - (... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/lazyleido-mini-digimon-beatbreak-23-s01e23-web-1080p.n2089931) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UARWTNRIBIPTRC5MO7NYCZK27GY3RSFL) |
-| [Lazyleido] DIGIMON BEATBREAK - 23 (S01E23) - (WEB 1... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/lazyleido-digimon-beatbreak-23-s01e23-web-1080p-hevc.n2089930) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2WTMDAQK63LHEAYSOG266E5NRIN2QAIH) |
-| [ak-Submarines] Girls und Panzer - MLLSD - 06 [WEB 1... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/ak-submarines-girls-und-panzer-mllsd-06-web-1080p-b908f8a1.n2089928) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OMGMWL2AAXZSN75LBBU2NRHAOS7TGDE3) |
-| [Erai-raws] Niwatori Fighter - 01 [1080p DSNP WEBRip... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-01-1080p-dsnp-webrip.n2089925) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6BAAPDMDXYCOPXDMVQGKSDZ7LYIHRNBK) |
-| [Erai-raws] Niwatori Fighter - 01 [1080p CR WEBRip H... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-01-1080p-cr-webrip.n2089924) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W7G25W2IEHDDBZLIFVAVIR7DQAWT6IFI) |
-| [WasteOfBlindness] Ganbare Genki 11 | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/wasteofblindness-ganbare-genki-11.n2089923) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OASKZM65ANDGH7LBQIQF6M7QGPI5CFUW) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
