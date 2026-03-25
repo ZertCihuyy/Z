@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 26/3/2026, 00.10.22 WIB
+**Sync Terakhir:** 26/3/2026, 02.03.13 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [SubsPlease] Dragon Raja S2 (JP) - 24 (480p) [DE1BC2... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-dragon-raja-s2-jp-24-480p-de1bc2ee-mkv.n2090144) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HNVV5SJTCRTGWT6TZT576XZGWEQEBSUV) |
-| [ToonsHub] Chained Soldier S02E03 1080p HIDIVE WEB-D... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chained-soldier-s02e03-1080p-hidive-web-dl.n2090143) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BQ3D6BJ43TBFDZGCXSRRKO24QSHCKMBC) |
-| [Erai-raws] Dragon Raja II - 24 (JA) [480p CR WEB-DL... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-dragon-raja-ii-24-ja-480p.n2090142) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VZX3BGT3RT3EINH4SPQU7772QVWFMAUG) |
-| [Erai-raws] Dragon Raja II - 24 (JA) [720p CR WEB-DL... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-dragon-raja-ii-24-ja-720p.n2090141) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CATG5RM6RLG7HPLRLC7IO6ZEW3GXIKPB) |
-| [Erai-raws] Dragon Raja II - 24 (JA) [1080p CR WEB-D... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-dragon-raja-ii-24-ja-1080p.n2090140) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6U2G3JG23QXGUOILWHSPOLV7S2EEYTYO) |
-| [SubsPlease] Dragon Raja S2 (JP) - 24 (720p) [F89942... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-dragon-raja-s2-jp-24-720p-f899428a-mkv.n2090138) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AGJUYF2N3LRFX7TYBOUUKNAJDRUCXLPB) |
-| [ToonsHub] Reincarnated as a Dragon Hatchling S01E02... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reincarnated-dragon-hatchling-s01e02-1080p-hidive.n2090137) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3U7WF2OMAB4VKLNK6QIBJRV6M2ZJK3E7) |
-| [ToonsHub] HELL MODE The Hardcore Gamer Dominates in... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hell-mode-hardcore-gamer-dominates-another-world.n2090136) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2SDHLQJSS6QU3AIOPHZ53FKKMUXDLF5F) |
-| [shincaps] Odayaka Kizoku no Kyuuka no Susume. - 12 ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/shincaps-odayaka-kizoku-no-kyuuka-susume-12-aniplus.n2090132) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WXOWH4CXMT23CNLE3PAF5XOBSHXJPLGR) |
-| [Onalrie] Oshi no Ko - S03E11 [1080p WEBRip AV1].mkv | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-oshi-no-ko-s03e11-1080p-webrip-av1-mkv.2069474) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A5NV3HFMTA6TYNCCMTNQBE7URELJIKIG) |
+| [AnoZu] Oshi no Ko S02 (1080p CR WEB-DL H264 Dual-Au... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/anozu-oshi-no-ko-s02-1080p-cr-web.k9926400252174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HWWBVTKA2QFELJ7F3E4DLFPHMUBHMTYZ) |
+| [GetItTwisted] Senran Kagura S02 [BD 1080p AVC Opus ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/getittwisted-senran-kagura-s02-bd-1080p-avc-opus.k9926310333957) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RROQW2QJJSVPSPM7WXDVJTCAMJCHWWWW) |
+| [ASW] Dragon Raja S2 (JP) - 24 [1080p HEVC x265 10Bi... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-dragon-raja-s2-jp-24-1080p-hevc.n2090167) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IBONERKM7RRC7AI6FYYWSKKKC6EGTYBO) |
+| OSHI NO KO S03E11 720p NF WEB-DL AAC2.0 H 264-VARYG ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/oshi-no-ko-s03e11-720p-nf-web-dl.n2090161) <br><br> [🐱 Nyaa](https://nyaa.si/?q=O5BDFQ24R22VQQW46K75ZLTIHMJHRAQ2) |
+| [Onalrie] Dragon Raja - S02E24 (JP) [1080p WEBRip AV... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-dragon-raja-s02e24-jp-1080p-webrip-av1-mkv.2069486) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7Q7LFEYBQ45NUHTDKIDVHJ452Q7UPHSJ) |
+| [BlackRabbit] Mob Psycho 100 (2016) - S03 [Bluray-10... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-mob-psycho-100-2016-s03-bluray-1080p.k9925628067590) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XBQO4POMGUU7EUKGGU4JCSYIKGTD56KX) |
+| [BlackRabbit] Mob Psycho 100 (2016) - S02 [Bluray-10... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-mob-psycho-100-2016-s02-bluray-1080p.k9925537201676) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TM2LMJ5MSJDZWQ5X7BIV7I4K3IVPKNKG) |
+| OSHI NO KO S03E11 REPACK 1080p CR WEB-DL AAC2.0 H 26... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/oshi-no-ko-s03e11-repack-1080p-cr-web.n2090160) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VGKLN7CAE32XMQ627WRYBNUXUGU6S3WZ) |
+| [ASW] 29-sai Dokushin Chuuken Boukensha no Nichijou ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-29-sai-dokushin-chuuken-boukensha-no-nichijou.n2090159) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UT4RK4FXXX5RPFHARSS7YIOEVWJZ7NDN) |
+| Hell Teacher Jigoku Sensei Nube S01E26 Secret of the... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/hell-teacher-jigoku-sensei-nube-s01e26-secret-demon.n2090158) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IBHQOF5YDYUBKHBIRWLEJOCU76ZUKM5S) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
