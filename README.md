@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 25/3/2026, 18.45.51 WIB
+**Sync Terakhir:** 25/3/2026, 20.23.33 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Gecko] Cat Tales - S01E24 (うごく！ねこむかしばなし; Ugoku! Nek... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e24-ugoku-neko-mukashibanashi-ytb.n2089976) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CVZGVCXCTR2VKOQM552ZRKIOZYP6LDAY) |
-| [Anime Time] Fire Force (Enen no Shouboutai) (Season... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-fire-force-enen-no-shouboutai-season.n2089965) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KMP2EM2KJU7P76U6R2LFGHQV4KODGMKJ) |
-| [LbE3L] [H.266] Hell’s Paradise S02E08 (Jigokuraku) ... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-hells-paradise-s02e08-jigokuraku-1080p.k9915135920897) <br><br> [🐱 Nyaa](https://nyaa.si/?q=64O5OWZHF76AIJ4ESXDZRFRVCDDK6XU7) |
-| [LbE3L] The Darwin Incident S01E12 (Darwin Jihen) [1... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-darwin-incident-s01e12-jihen-1080p-amzn-webrip.k9915043458816) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ITUWPP7IGAH46FIEMCIY5KDHEZAZTPXR) |
-| [BlackRabbit] Mob Psycho 100 (2016) - S01 [Bluray-10... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-mob-psycho-100-2016-s01-bluray-1080p.k9914373672207) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BTC33V7DFCBRDZARBHN3RGNSIVCERZJ6) |
-| [Anime Time] Sentenced To Be A Hero (Yuusha-kei ni S... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2089958) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5Z52VCXNL5LUNYPNPTFYPNM6QMX7R6VJ) |
-| [Anime Time] Sentenced To Be A Hero (Yuusha-kei ni S... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2089957) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4OIQCAYRFJWL6HASHIUGBS7JVARP5HTL) |
-| [BlackRabbit] Welcome to Demon School! Iruma-kun (20... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-welcome-demon-school-iruma-kun-2019-s02.k9914019996174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GFSXCCFF5YPRPC65FQ2XOTNN7U7HCPRQ) |
-| [Erai-raws] Niwatori Fighter - 02 [1080p DSNP WEBRip... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-02-1080p-dsnp-webrip.n2089950) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PEFIZYMG3VAPMOIEHKMIQD3CDACYZRZJ) |
-| [Ommex] Doraemon (2005) Episode 907 [ENG SUB][1080p ... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/ommex-doraemon-2005-episode-907-eng-sub-1080p-x265-aac.n2089943) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3KWZBT4UXV7F5BC7GUGTAVLIZZCRKQ4E) |
+| [New-raws] Okiraku Ryoushu no Tanoshii Ryouchi Bouei... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/new-raws-okiraku-ryoushu-no-tanoshii-ryouchi-bouei.n2090038) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NAKT7KJ5WERMXIOK3HJ4257NS7IQBZEY) |
+| [Yameii] An Adventurer's Daily Grind at Age 29 - S01... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-adventurers-daily-grind-age-29-s01e10-english.n2090035) <br><br> [🐱 Nyaa](https://nyaa.si/?q=633VOZBB7BXGVRL2J5FPGWEPLKFUTOWS) |
+| [Yameii] An Adventurer's Daily Grind at Age 29 - S01... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-adventurers-daily-grind-age-29-s01e10-english.n2090034) <br><br> [🐱 Nyaa](https://nyaa.si/?q=76AJLVEYQYRLA5C4O4PP7A3JFO3GS2LG) |
+| [SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bou... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-12.n2090031) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JE5MTCZKKIX4LITQVJ3WPBIG5RBQ2IG7) |
+| [SubsPlease] 29-sai Dokushin Chuuken Boukensha no Ni... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-29-sai-dokushin-chuuken-boukensha-no-nichijou.n2090030) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7WZ6JPYDSB5FWIG7VCJH2UAPF22IAUJE) |
+| An Adventurers Daily Grind at Age 29 S01E10 A Haircu... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/adventurers-daily-grind-age-29-s01e10-haircut-decision.n2090029) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4H754SUA6DV5ZC3JQQ3FBMKHVVF646W7) |
+| Easygoing Territory Defense by the Optimistic Lord S... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/easygoing-territory-defense-optimistic-lord-s01e12-1080p-cr.n2090028) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LYA6CJXMKX34TW7XIA2YBVGVUSUX3AOB) |
+| An Adventurers Daily Grind at Age 29 S01E12 Hometown... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/adventurers-daily-grind-age-29-s01e12-hometowns-friends.n2090027) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DGGBJMZISQ2XGUMRFD6NIRPDNRMIKBVQ) |
+| [SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bou... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-12.n2090026) <br><br> [🐱 Nyaa](https://nyaa.si/?q=646QM3U23SJBPHUERRLSN7ZLQEPQM3K4) |
+| [SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bou... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-12.n2090025) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AY5RIACW3HHLURBK4T33MMP72HC4GEUJ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
