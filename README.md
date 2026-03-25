@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 26/3/2026, 04.46.28 WIB
+**Sync Terakhir:** 26/3/2026, 05.42.41 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [BlackRabbit] Log Horizon (2013) - S03 [Bluray-1080p... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-log-horizon-2013-s03-bluray-1080p-opus.k9929074388489) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7L7K65YPQDONY4UCJS662EVQLIGCI7KZ) |
-| [BlackRabbit] Log Horizon (2013) - S02 [Bluray-1080p... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-log-horizon-2013-s02-bluray-1080p-opus.k9927856642829) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WJ2QLPREFM6MPXQP2BURLK7OV3Q42RGX) |
-| [BlackRabbit] Log Horizon (2013) - S01 [Bluray-1080p... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-log-horizon-2013-s01-bluray-1080p-opus.k9927776719627) <br><br> [🐱 Nyaa](https://nyaa.si/?q=H6KWZRMFJK63JZAVC3AZ7DATF7GIM2HR) |
-| [SubsPlease] Shibou Yuugi de Meshi wo Kuu. (01-11) (... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-shibou-yuugi-de-meshi-wo-kuu-01.n2090176) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XQLGUL3BLMPNE76STLZ6AMJDLDSPQ62I) |
-| [SubsPlease] Shibou Yuugi de Meshi wo Kuu. (01-11) (... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-shibou-yuugi-de-meshi-wo-kuu-01.n2090175) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LGALL7JV6YRE5WC2HX77TWZGJLM4VFTQ) |
-| [SubsPlease] Shibou Yuugi de Meshi wo Kuu. (01-11) (... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-shibou-yuugi-de-meshi-wo-kuu-01.n2090174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IOGASJBDBIY6KYQAOSPEQFKXZFINRUJR) |
-| [Kosaka] Oshi no Ko - S03E11 (WEBRip 1080p AV1 OPUS)... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/kosaka-oshi-no-ko-s03e11-webrip-1080p-av1-opus-multisubs.k9926659643663) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AXA6C7GQ47AAFW44LEQYQ7LFLUBKWOQO) |
-| [AnoZu] Oshi no Ko S02 (1080p CR WEB-DL H264 Dual-Au... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/anozu-oshi-no-ko-s02-1080p-cr-web.k9926400252174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HWWBVTKA2QFELJ7F3E4DLFPHMUBHMTYZ) |
-| [GetItTwisted] Senran Kagura S02 [BD 1080p AVC Opus ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/getittwisted-senran-kagura-s02-bd-1080p-avc-opus.k9926310333957) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RROQW2QJJSVPSPM7WXDVJTCAMJCHWWWW) |
-| [ASW] Dragon Raja S2 (JP) - 24 [1080p HEVC x265 10Bi... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-dragon-raja-s2-jp-24-1080p-hevc.n2090167) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IBONERKM7RRC7AI6FYYWSKKKC6EGTYBO) |
+| [Erai-raws] Fumetsu no Anata e Season 3 - 18 [1080p ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2090204) <br><br> [🐱 Nyaa](https://nyaa.si/?q=53GWWOIUF7SEHNZBYUS2XXKPGKV34RQC) |
+| [Erai-raws] Fumetsu no Anata e Season 3 - 18 [720p C... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2090203) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HIPSWSY76ID7Z2UHENVTHYYG33SWORQL) |
+| [Erai-raws] Seihantai na Kimi to Boku - 08 [1080p CR... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-seihantai-na-kimi-boku-08-1080p.n2090202) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KNSLGRQUT4KSP4EKVFM7AXXZYXQVCZEK) |
+| [Erai-raws] Oshi no Ko 3rd Season - 11 [1080p CR WEB... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-oshi-no-ko-3rd-season-11.n2090201) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DWBJOXU3IOLUGGR6VA7UWVFVGU4I57PX) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 13 [1... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090200) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MBXKFVLHWFEALIQ72VDAJ5J4UW6CPGNJ) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 13 [7... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090199) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YYYZQH5L2GAMVTSLHSFTLMC4VHASEQLA) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 13 [5... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090198) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DC2J4TDFYK7ZELL54FSMQX2PA4Y3OX5U) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 12 [1... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090197) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SSGSLX6KFCWF6SPSALNVCMWITC6AEMFS) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 12 [7... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090196) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5XVKZYO7PFE7Y75M42VHZZ33JN6SVWJM) |
+| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 12 [5... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090195) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YVFD6BKWXN5ZLP3OHBRX5WMDBWRL3EBL) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
