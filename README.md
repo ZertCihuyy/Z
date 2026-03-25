@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 25/3/2026, 13.09.22 WIB
+**Sync Terakhir:** 25/3/2026, 14.56.48 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,7 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| Medalist S02E07 The Frozen Lake 1080p DSNP WEB-DL DU... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/medalist-s02e07-frozen-lake-1080p-dsnp-web-dl.n2089959) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XBEOY5F3ILBBZI6TMD5OUXOKTPDB3NQR) |
+| [LbE3L] [H.266] Hell’s Paradise S02E08 (Jigokuraku) ... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-hells-paradise-s02e08-jigokuraku-1080p.k9915135920897) <br><br> [🐱 Nyaa](https://nyaa.si/?q=64O5OWZHF76AIJ4ESXDZRFRVCDDK6XU7) |
+| [LbE3L] The Darwin Incident S01E12 (Darwin Jihen) [1... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-darwin-incident-s01e12-jihen-1080p-amzn-webrip.k9915043458816) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ITUWPP7IGAH46FIEMCIY5KDHEZAZTPXR) |
 | [BlackRabbit] Mob Psycho 100 (2016) - S01 [Bluray-10... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-mob-psycho-100-2016-s01-bluray-1080p.k9914373672207) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BTC33V7DFCBRDZARBHN3RGNSIVCERZJ6) |
 | [Anime Time] Sentenced To Be A Hero (Yuusha-kei ni S... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2089958) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5Z52VCXNL5LUNYPNPTFYPNM6QMX7R6VJ) |
 | [Anime Time] Sentenced To Be A Hero (Yuusha-kei ni S... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2089957) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4OIQCAYRFJWL6HASHIUGBS7JVARP5HTL) |
@@ -26,7 +27,6 @@
 | [Ommex] Doraemon (2005) Episode 907 [ENG SUB][1080p ... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/ommex-doraemon-2005-episode-907-eng-sub-1080p-x265-aac.n2089943) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3KWZBT4UXV7F5BC7GUGTAVLIZZCRKQ4E) |
 | [Erai-raws] Niwatori Fighter - 02 [1080p CR WEBRip H... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-02-1080p-cr-webrip.n2089935) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MXEEJ757UBXI3DIO7HIOS2SKXFAHJQSD) |
 | [Gecko] Fate Grand Order You've Lost Ritsuka Fujimar... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.k9911104663042) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6SVQ4BYBHAEBI2PNYOOUDT445VY6CGU4) |
-| [Lazyleido-Mini] DIGIMON BEATBREAK - 23 (S01E23) - (... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/lazyleido-mini-digimon-beatbreak-23-s01e23-web-1080p.n2089931) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UARWTNRIBIPTRC5MO7NYCZK27GY3RSFL) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
