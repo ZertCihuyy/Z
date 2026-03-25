@@ -1,5 +1,5 @@
 {
-  "last_update": "25/3/2026, 17.54.22 WIB",
+  "last_update": "25/3/2026, 18.45.51 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -45,6 +45,15 @@
     }
   ],
   "latest_releases": [
+    {
+      "title": "[Gecko] Cat Tales - S01E24 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanashi) [YTB.WEB-DL 1080P AVC, Opus, M-SUB][20FC3063]",
+      "link": "https://animetosho.org/view/gecko-cat-tales-s01e24-ugoku-neko-mukashibanashi-ytb.n2089976",
+      "magnet": "magnet:?xt=urn:btih:CVZGVCXCTR2VKOQM552ZRKIOZYP6LDAY&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=%5BGecko%5D%20Cat%20Tales%20-%20S01E24%20%28%E3%81%86%E3%81%94%E3%81%8F%EF%BC%81%E3%81%AD%E3%81%93%E3%82%80%E3%81%8B%E3%81%97%E3%81%B0%E3%81%AA%E3%81%97%3B%20Ugoku%21%20Neko%20Mukashibanashi%29%20%5BYTB.WEB-DL%201080P%20AVC%2C%20Opus%2C%20M-SUB%5D%5B20FC3063%5D",
+      "hash": "CVZGVCXCTR2VKOQM552ZRKIOZYP6LDAY",
+      "nyaaUrl": "https://nyaa.si/?q=CVZGVCXCTR2VKOQM552ZRKIOZYP6LDAY",
+      "size": "NaN MB",
+      "date": "25/3/2026, 18.07.10"
+    },
     {
       "title": "[Anime Time] Fire Force (Enen no Shouboutai) (Season 1 & 2) + NC [BD] [Dual Audio][1080p][HEVC 10bit x265][OPUS][Eng Sub] [Batch]",
       "link": "https://animetosho.org/view/anime-time-fire-force-enen-no-shouboutai-season.n2089965",
@@ -125,15 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=3KWZBT4UXV7F5BC7GUGTAVLIZZCRKQ4E",
       "size": "NaN MB",
       "date": "25/3/2026, 09.46.17"
-    },
-    {
-      "title": "[Erai-raws] Niwatori Fighter - 02 [1080p CR WEBRip HEVC AAC][MultiSub][BE7A4D3B]",
-      "link": "https://animetosho.org/view/erai-raws-niwatori-fighter-02-1080p-cr-webrip.n2089935",
-      "magnet": "magnet:?xt=urn:btih:MXEEJ757UBXI3DIO7HIOS2SKXFAHJQSD&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&dn=%5BErai-raws%5D%20Niwatori%20Fighter%20-%2002%20%5B1080p%20CR%20WEBRip%20HEVC%20AAC%5D%5BMultiSub%5D%5BBE7A4D3B%5D",
-      "hash": "MXEEJ757UBXI3DIO7HIOS2SKXFAHJQSD",
-      "nyaaUrl": "https://nyaa.si/?q=MXEEJ757UBXI3DIO7HIOS2SKXFAHJQSD",
-      "size": "NaN MB",
-      "date": "25/3/2026, 09.32.47"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 25/3/2026, 17.54.22 WIB
+**Sync Terakhir:** 25/3/2026, 18.45.51 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Gecko] Cat Tales - S01E24 (うごく！ねこむかしばなし; Ugoku! Nek... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e24-ugoku-neko-mukashibanashi-ytb.n2089976) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CVZGVCXCTR2VKOQM552ZRKIOZYP6LDAY) |
 | [Anime Time] Fire Force (Enen no Shouboutai) (Season... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-fire-force-enen-no-shouboutai-season.n2089965) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KMP2EM2KJU7P76U6R2LFGHQV4KODGMKJ) |
 | [LbE3L] [H.266] Hell’s Paradise S02E08 (Jigokuraku) ... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-hells-paradise-s02e08-jigokuraku-1080p.k9915135920897) <br><br> [🐱 Nyaa](https://nyaa.si/?q=64O5OWZHF76AIJ4ESXDZRFRVCDDK6XU7) |
 | [LbE3L] The Darwin Incident S01E12 (Darwin Jihen) [1... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-darwin-incident-s01e12-jihen-1080p-amzn-webrip.k9915043458816) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ITUWPP7IGAH46FIEMCIY5KDHEZAZTPXR) |
@@ -26,7 +27,6 @@
 | [BlackRabbit] Welcome to Demon School! Iruma-kun (20... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-welcome-demon-school-iruma-kun-2019-s02.k9914019996174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GFSXCCFF5YPRPC65FQ2XOTNN7U7HCPRQ) |
 | [Erai-raws] Niwatori Fighter - 02 [1080p DSNP WEBRip... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-02-1080p-dsnp-webrip.n2089950) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PEFIZYMG3VAPMOIEHKMIQD3CDACYZRZJ) |
 | [Ommex] Doraemon (2005) Episode 907 [ENG SUB][1080p ... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/ommex-doraemon-2005-episode-907-eng-sub-1080p-x265-aac.n2089943) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3KWZBT4UXV7F5BC7GUGTAVLIZZCRKQ4E) |
-| [Erai-raws] Niwatori Fighter - 02 [1080p CR WEBRip H... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-02-1080p-cr-webrip.n2089935) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MXEEJ757UBXI3DIO7HIOS2SKXFAHJQSD) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
