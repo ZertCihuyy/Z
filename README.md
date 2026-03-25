@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 25/3/2026, 22.05.43 WIB
+**Sync Terakhir:** 26/3/2026, 00.10.22 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Polarwindz] The Summer Hikaru Died (Hikaru ga Shind... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/polarwindz-summer-hikaru-died-ga-shinda-natsu-bd.n2090068) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6X4XQGHKNAHCJHSKM44UA7T46MBVO55Z) |
-| [FSP] Douluo Dalu II - Soul Land 2 - 145 [1080p] | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/fsp-douluo-dalu-ii-soul-land-2-145-1080p.n2090066) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BRUPTAHGRJG2I4COPCTMIJICGHRANTS5) |
-| [FSP DN] The Gate of Mystical Realm - 20 (4K) | 玄界之门 | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/fsp-dn-gate-mystical-realm-20-4k.n2090065) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NKEGOP3OD2FPHK3NT4L3G6FNVNM3L7FL) |
-| [ASW] Okiraku Ryoushu no Tanoshii Ryouchi Bouei - 12... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-12.n2090062) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VGVACYXL2WH5NUTYZPKQOI7QKE7U7GT4) |
-| [New-raws] Okiraku Ryoushu no Tanoshii Ryouchi Bouei... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/new-raws-okiraku-ryoushu-no-tanoshii-ryouchi-bouei.n2090057) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LC3F7FVGYLVSJTSGRFLE64JKPBPMYKIX) |
-| [Judas] 29-sai Dokushin Chuuken Boukensha no Nichijo... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-29-sai-dokushin-chuuken-boukensha-no-nichijou.n2090056) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4X2O5QCZ76SYXZSGWVZLRTWAFQR477LR) |
-| [Onalrie] 29-sai Dokushin Chuuken Boukensha no Nichi... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-29-sai-dokushin-chuuken-boukensha-no-nichijou.2069429) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I3QXNW4TRWTGZB5B5NKIPAXXLQ2RNMRT) |
-| [jaaj] Vinland Saga S01 (2019) (BD 1080p AV1 AAC) | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/jaaj-vinland-saga-s01-2019-bd-1080p-av1-aac.k9922001122310) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S5A7KAFWIQ7THYAI4MODLIHGSC76HZ56) |
-| [shincaps] Arne no Jikenbo - 12 (ANIPLUS 1920x1080 H... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/shincaps-arne-no-jikenbo-12-aniplus-1920x1080-h264-aac-ts.n2090049) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YNUSZ7DOVRTKJCXT4OI6M54YKYV3URCE) |
-| [Onalrie] Okiraku Ryoushu no Tanoshii Ryouchi Bouei ... | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-s01e12.2069424) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CIJEEF4FS42NPKOJAJ5SFTT7J4BWB4SZ) |
+| [SubsPlease] Dragon Raja S2 (JP) - 24 (480p) [DE1BC2... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-dragon-raja-s2-jp-24-480p-de1bc2ee-mkv.n2090144) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HNVV5SJTCRTGWT6TZT576XZGWEQEBSUV) |
+| [ToonsHub] Chained Soldier S02E03 1080p HIDIVE WEB-D... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chained-soldier-s02e03-1080p-hidive-web-dl.n2090143) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BQ3D6BJ43TBFDZGCXSRRKO24QSHCKMBC) |
+| [Erai-raws] Dragon Raja II - 24 (JA) [480p CR WEB-DL... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-dragon-raja-ii-24-ja-480p.n2090142) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VZX3BGT3RT3EINH4SPQU7772QVWFMAUG) |
+| [Erai-raws] Dragon Raja II - 24 (JA) [720p CR WEB-DL... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-dragon-raja-ii-24-ja-720p.n2090141) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CATG5RM6RLG7HPLRLC7IO6ZEW3GXIKPB) |
+| [Erai-raws] Dragon Raja II - 24 (JA) [1080p CR WEB-D... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-dragon-raja-ii-24-ja-1080p.n2090140) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6U2G3JG23QXGUOILWHSPOLV7S2EEYTYO) |
+| [SubsPlease] Dragon Raja S2 (JP) - 24 (720p) [F89942... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-dragon-raja-s2-jp-24-720p-f899428a-mkv.n2090138) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AGJUYF2N3LRFX7TYBOUUKNAJDRUCXLPB) |
+| [ToonsHub] Reincarnated as a Dragon Hatchling S01E02... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reincarnated-dragon-hatchling-s01e02-1080p-hidive.n2090137) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3U7WF2OMAB4VKLNK6QIBJRV6M2ZJK3E7) |
+| [ToonsHub] HELL MODE The Hardcore Gamer Dominates in... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hell-mode-hardcore-gamer-dominates-another-world.n2090136) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2SDHLQJSS6QU3AIOPHZ53FKKMUXDLF5F) |
+| [shincaps] Odayaka Kizoku no Kyuuka no Susume. - 12 ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/shincaps-odayaka-kizoku-no-kyuuka-susume-12-aniplus.n2090132) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WXOWH4CXMT23CNLE3PAF5XOBSHXJPLGR) |
+| [Onalrie] Oshi no Ko - S03E11 [1080p WEBRip AV1].mkv | NaN MB | 25/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-oshi-no-ko-s03e11-1080p-webrip-av1-mkv.2069474) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A5NV3HFMTA6TYNCCMTNQBE7URELJIKIG) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
