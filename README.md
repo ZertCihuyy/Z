@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 26/3/2026, 03.46.16 WIB
+**Sync Terakhir:** 26/3/2026, 04.46.28 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [BlackRabbit] Log Horizon (2013) - S03 [Bluray-1080p... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-log-horizon-2013-s03-bluray-1080p-opus.k9929074388489) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7L7K65YPQDONY4UCJS662EVQLIGCI7KZ) |
 | [BlackRabbit] Log Horizon (2013) - S02 [Bluray-1080p... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-log-horizon-2013-s02-bluray-1080p-opus.k9927856642829) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WJ2QLPREFM6MPXQP2BURLK7OV3Q42RGX) |
 | [BlackRabbit] Log Horizon (2013) - S01 [Bluray-1080p... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-log-horizon-2013-s01-bluray-1080p-opus.k9927776719627) <br><br> [🐱 Nyaa](https://nyaa.si/?q=H6KWZRMFJK63JZAVC3AZ7DATF7GIM2HR) |
 | [SubsPlease] Shibou Yuugi de Meshi wo Kuu. (01-11) (... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-shibou-yuugi-de-meshi-wo-kuu-01.n2090176) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XQLGUL3BLMPNE76STLZ6AMJDLDSPQ62I) |
@@ -26,7 +27,6 @@
 | [AnoZu] Oshi no Ko S02 (1080p CR WEB-DL H264 Dual-Au... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/anozu-oshi-no-ko-s02-1080p-cr-web.k9926400252174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HWWBVTKA2QFELJ7F3E4DLFPHMUBHMTYZ) |
 | [GetItTwisted] Senran Kagura S02 [BD 1080p AVC Opus ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/getittwisted-senran-kagura-s02-bd-1080p-avc-opus.k9926310333957) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RROQW2QJJSVPSPM7WXDVJTCAMJCHWWWW) |
 | [ASW] Dragon Raja S2 (JP) - 24 [1080p HEVC x265 10Bi... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-dragon-raja-s2-jp-24-1080p-hevc.n2090167) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IBONERKM7RRC7AI6FYYWSKKKC6EGTYBO) |
-| OSHI NO KO S03E11 720p NF WEB-DL AAC2.0 H 264-VARYG ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/oshi-no-ko-s03e11-720p-nf-web-dl.n2090161) <br><br> [🐱 Nyaa](https://nyaa.si/?q=O5BDFQ24R22VQQW46K75ZLTIHMJHRAQ2) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*

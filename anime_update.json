@@ -1,5 +1,5 @@
 {
-  "last_update": "26/3/2026, 03.46.16 WIB",
+  "last_update": "26/3/2026, 04.46.28 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -45,6 +45,15 @@
     }
   ],
   "latest_releases": [
+    {
+      "title": "[BlackRabbit] Log Horizon (2013) - S03 [Bluray-1080p][Opus 5.1][Dual Audio][AV1]",
+      "link": "https://animetosho.org/view/blackrabbit-log-horizon-2013-s03-bluray-1080p-opus.k9929074388489",
+      "magnet": "magnet:?xt=urn:btih:7L7K65YPQDONY4UCJS662EVQLIGCI7KZ&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BBlackRabbit%5D%20Log%20Horizon%20%282013%29%20-%20S03%20%5BBluray-1080p%5D%5BOpus%205.1%5D%5BDual%20Audio%5D%5BAV1%5D",
+      "hash": "7L7K65YPQDONY4UCJS662EVQLIGCI7KZ",
+      "nyaaUrl": "https://nyaa.si/?q=7L7K65YPQDONY4UCJS662EVQLIGCI7KZ",
+      "size": "NaN MB",
+      "date": "26/3/2026, 04.44.06"
+    },
     {
       "title": "[BlackRabbit] Log Horizon (2013) - S02 [Bluray-1080p][Opus 2.0][Dual Audio][AV1]",
       "link": "https://animetosho.org/view/blackrabbit-log-horizon-2013-s02-bluray-1080p-opus.k9927856642829",
@@ -125,15 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=IBONERKM7RRC7AI6FYYWSKKKC6EGTYBO",
       "size": "NaN MB",
       "date": "26/3/2026, 01.18.03"
-    },
-    {
-      "title": "OSHI NO KO S03E11 720p NF WEB-DL AAC2.0 H 264-VARYG ([Oshi no Ko], Multi-Subs)",
-      "link": "https://animetosho.org/view/oshi-no-ko-s03e11-720p-nf-web-dl.n2090161",
-      "magnet": "magnet:?xt=urn:btih:O5BDFQ24R22VQQW46K75ZLTIHMJHRAQ2&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=OSHI%20NO%20KO%20S03E11%20720p%20NF%20WEB-DL%20AAC2.0%20H%20264-VARYG%20%28%5BOshi%20no%20Ko%5D%2C%20Multi-Subs%29",
-      "hash": "O5BDFQ24R22VQQW46K75ZLTIHMJHRAQ2",
-      "nyaaUrl": "https://nyaa.si/?q=O5BDFQ24R22VQQW46K75ZLTIHMJHRAQ2",
-      "size": "NaN MB",
-      "date": "26/3/2026, 01.00.56"
     }
   ]
 }
