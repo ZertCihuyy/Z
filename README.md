@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 26/3/2026, 12.11.31 WIB
+**Sync Terakhir:** 26/3/2026, 14.17.53 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [KOTEX] Slime Taoshite 300-nen, Shiranai Uchi ni Lev... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/kotex-slime-taoshite-300-nen-shiranai-uchi-ni.n2090245) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RKN7XUTZOPPM3EH6ZMXSQX5FDAEIRYDH) |
+| [wham] The Summer Hikaru Died (Hikaru ga Shinda Nats... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/wham-summer-hikaru-died-ga-shinda-natsu-s01.n2090241) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JIB5KKQFTW3S3BKY2IRF5HX6XQI4XB2V) |
 | [ToonsHub] Reborn as a Cat S01E22 1080p BILI WEB-DL ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e22-1080p-bili-web-dl.n2090237) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XNG5WM73NLPQ3S3MZQSB6562P7DXUFVF) |
 | [Gecko] Reborn as a Cat - S01E22 (为喵人生; Wei Miao Ren... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e22-wei-miao-rensheng-bili.k9933970332938) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UQBGJJRGXJISKVUP23JNP3USEDDN5CTD) |
 | Reborn as a Cat S01E21 1080p BILI WEB-DL AAC2.0 H 26... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e21-1080p-bili-web-dl-aac2.n2090229) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QVDYG35PLGHATMUTOQY3G3B5ZSWIXNZY) |
@@ -25,8 +27,6 @@
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 13 [1... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090212) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DVT3XJV6CN4CJASQVZYJQHQ7R6YPIEXF) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 12 [1... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090211) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7QGZO43EPALI77HYAWDSL74JSDYOCS54) |
 | [DKB] Jigoku Sensei Nube (2025) - S01E25 [1080p][HEV... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigoku-sensei-nube-2025-s01e25-1080p-hevc.n2090208) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PJTOLJWCURZRKFHERMSCTZGHB7S226AP) |
-| [DKB] OSHI NO KO - S03E11 [1080p][END][HEVC x265 10b... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-oshi-no-ko-s03e11-1080p-end-hevc.n2090207) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E3Z2OIK4G4XK3SDSE3ALJUMEC7TGMNI6) |
-| [Erai-raws] Fumetsu no Anata e Season 3 - 18 [1080p ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2090204) <br><br> [🐱 Nyaa](https://nyaa.si/?q=53GWWOIUF7SEHNZBYUS2XXKPGKV34RQC) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
