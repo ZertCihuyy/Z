@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 26/3/2026, 09.49.14 WIB
+**Sync Terakhir:** 26/3/2026, 12.11.31 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [ToonsHub] Reborn as a Cat S01E22 1080p BILI WEB-DL ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e22-1080p-bili-web-dl.n2090237) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XNG5WM73NLPQ3S3MZQSB6562P7DXUFVF) |
+| [Gecko] Reborn as a Cat - S01E22 (为喵人生; Wei Miao Ren... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e22-wei-miao-rensheng-bili.k9933970332938) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UQBGJJRGXJISKVUP23JNP3USEDDN5CTD) |
+| Reborn as a Cat S01E21 1080p BILI WEB-DL AAC2.0 H 26... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e21-1080p-bili-web-dl-aac2.n2090229) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QVDYG35PLGHATMUTOQY3G3B5ZSWIXNZY) |
 | [Techmod] Record of Lodoss War | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/techmod-record-lodoss-war.n2090218) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PXKCACBNR724LE4VYPL742IW3OLECIA7) |
 | [DKB] Jigoku Sensei Nube (2025) - S01E26 [1080p][END... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigoku-sensei-nube-2025-s01e26-1080p-end.n2090216) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UTE2W6SEG4TMSQZDDVMWN3WUJQDQ7YP5) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 13 [1... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090212) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DVT3XJV6CN4CJASQVZYJQHQ7R6YPIEXF) |
@@ -24,9 +27,6 @@
 | [DKB] Jigoku Sensei Nube (2025) - S01E25 [1080p][HEV... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigoku-sensei-nube-2025-s01e25-1080p-hevc.n2090208) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PJTOLJWCURZRKFHERMSCTZGHB7S226AP) |
 | [DKB] OSHI NO KO - S03E11 [1080p][END][HEVC x265 10b... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-oshi-no-ko-s03e11-1080p-end-hevc.n2090207) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E3Z2OIK4G4XK3SDSE3ALJUMEC7TGMNI6) |
 | [Erai-raws] Fumetsu no Anata e Season 3 - 18 [1080p ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2090204) <br><br> [🐱 Nyaa](https://nyaa.si/?q=53GWWOIUF7SEHNZBYUS2XXKPGKV34RQC) |
-| [Erai-raws] Fumetsu no Anata e Season 3 - 18 [720p C... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2090203) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HIPSWSY76ID7Z2UHENVTHYYG33SWORQL) |
-| [Erai-raws] Seihantai na Kimi to Boku - 08 [1080p CR... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-seihantai-na-kimi-boku-08-1080p.n2090202) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KNSLGRQUT4KSP4EKVFM7AXXZYXQVCZEK) |
-| [Erai-raws] Oshi no Ko 3rd Season - 11 [1080p CR WEB... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-oshi-no-ko-3rd-season-11.n2090201) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DWBJOXU3IOLUGGR6VA7UWVFVGU4I57PX) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
