@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 27/3/2026, 00.09.52 WIB
+**Sync Terakhir:** 27/3/2026, 02.16.14 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| Anyway Im Falling in Love with You S02E10 Something ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anyway-im-falling-love-s02e10-something-ive-been.n2090470) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UFTMOZSLYYMCSRYNG7ADMUDPWTHCIATZ) |
-| Anyway Im Falling in Love with You S02E12 Anyway Im ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anyway-im-falling-love-s02e12-1080p-cr-web.n2090469) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZYNZXVT3I6OC2KKEJLBKOIN42ZHADHRJ) |
-| [SubsPlease] Douse, Koishite Shimaunda S2 - 12 (1080... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-12-1080p-ab2f5c11-mkv.n2090468) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KZ5KQAKXJSWKM4UBXZ7D57FA54YR5NN6) |
-| [SubsPlease] Douse, Koishite Shimaunda S2 - 12 (720p... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-12-720p-e1b1eb1e-mkv.n2090467) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T2TX4BF6WNMBF6OIEE6AH2BGHT7A3TF7) |
-| [SubsPlease] Douse, Koishite Shimaunda S2 - 12 (480p... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-12-480p-25809ccf-mkv.n2090466) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VQK6OV25PN7PSIJMHLQLB4LCR45PYDUZ) |
-| [ToonsHub] Anyway Im Falling in Love with You S02E10... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e10-1080p-cr.k9946860329988) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3JN742YRXNW6WSYXDRSSFSNCCFUXESH5) |
-| [ToonsHub] Anyway Im Falling in Love with You S02E12... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e12-1080p-cr.k9946857777155) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JKLNULPQ2K2MMZ6DITY5CMU6YY4YTG4Y) |
-| [Erai-raws] Douse, Koishite Shimaunda 2nd Season - 1... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-douse-koishite-shimaunda-2nd-season-12.n2090461) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4K3REBGKWFS6MVKLAWLRNAXZQZ27JWI) |
-| [Erai-raws] Douse, Koishite Shimaunda 2nd Season - 1... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-douse-koishite-shimaunda-2nd-season-12.n2090460) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SYQI6TXT6ODTCIMYGSD7HZAORKEY2LNQ) |
-| [ToonsHub] Anyway Im Falling in Love with You S02E12... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e12-1080p-bili.n2090459) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BFK3AQV2BUJDQMAUXM4DLPN6DJJ3DSO4) |
+| [Onalrie] Omagoto - S01E12 [1080p WEBRip AV1].mkv | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-omagoto-s01e12-1080p-webrip-av1-mkv.2069719) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A5AO73DGW3NDO7L7US5JAJ63VN5W4TTL) |
+| [ASW] Jujutsu Kaisen - 59 [1080p HEVC x265 10Bit][AAC] | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-jujutsu-kaisen-59-1080p-hevc-x265-10bit-aac.n2090500) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JV5OL4WD7EVA24S2KDHKB3EQCFR3HTND) |
+| [DKB] Mato Seihei no Slave - S02E12 [1080p][END][HEV... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-mato-seihei-no-slave-s02e12-1080p-end.n2090499) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ML5NZ3JX4API3AL4GMREONM7SB24OWJM) |
+| [Asakura] Seihantai na Kimi to Boku - 08  [1080p WEB... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/asakura-seihantai-na-kimi-boku-08-1080p-web.n2090498) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BLPHNENKFBIDTK4ADNECTCLIR6FHJ7OP) |
+| [Anime Time] Jujutsu Kaisen - S03E10 [1080p][HEVC 10... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-jujutsu-kaisen-s03e10-1080p-hevc-10bit.n2090497) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IUM6VVRKTR2U2IET2EV2FZ24RSLXL4N4) |
+| [ASW] Douse, Koishite Shimaunda S2 - 12 [1080p HEVC ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-douse-koishite-shimaunda-s2-12-1080p-hevc.n2090494) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JLRW3VGH443VHI7YX5MAKLMRHS65OHL7) |
+| [ZG] Doraemon Movie 32 - Nobita and the Island of Mi... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/zg-doraemon-movie-32-nobita-island-miracles-animal.n2090493) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4NSKFAYY5VHZESVPANQWSUDXSKNSRDEF) |
+| [Judas] JUJUTSU KAISEN - S03E12 [1080p][HEVC x265 10... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-jujutsu-kaisen-s03e12-1080p-hevc-x265-10bit.n2090492) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OE5V5PFH55WXL53ZGYTGJUITTPBEQECB) |
+| [Onalrie] Toumei Otoko to Ningen Onna - S01E12 [1080... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-toumei-otoko-ningen-onna-s01e12-1080p-webrip-av1-mkv.2069716) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QC7CGHNTSU7CMCSMRGQZRKHH5BD2ZL6I) |
+| [DKB] "Omae Gotoki ga Maou ni Kateru to Omouna" to Y... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-omae-gotoki-ga-maou-ni-kateru-omouna.n2090488) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KQVROPV4UGHZZLTUUIIQ6RF3LIJ3ZDUI) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
