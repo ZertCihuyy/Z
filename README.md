@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 26/3/2026, 22.11.26 WIB
+**Sync Terakhir:** 27/3/2026, 00.09.52 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ToonsHub] The Invisible Man and His Soon-to-Be Wife... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-invisible-man-his-soon-wife-s01e12-1080p.k9945062161671) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IANDCBZTOD6HD2URTZX6PMGMODAU4TFH) |
-| [VARYG] The Invisible Man and His Soon to Be Wife S0... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-invisible-man-his-soon-wife-s01e12-1080p.k9945047112194) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DUHCZ7FASK4NEDYUX7E5ZMAE2ZAKX3FT) |
-| [VARYG] The Holy Grail of Eris S01E12 The Final Chap... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-holy-grail-eris-s01e12-final-chapter-grand.k9945041367818) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZPUU6XP3R2WOVOZWSIIXCFV6QIR5ANCT) |
-| [VARYG] The Holy Grail of Eris S01E12 Final Chapter ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-holy-grail-eris-s01e12-final-chapter-little.k9945024672771) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6XC5CLHZINFMZP2CVYEXCV3V5WJK5DRI) |
-| [ToonsHub] The Holy Grail of Eris S01E12 1080p CR WE... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-holy-grail-eris-s01e12-1080p-cr-web.k9945016506380) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X7AZK4LDPFF3GV44C7KVYGBJDIBHYU73) |
-| [ToonsHub] The Invisible Man and His Soon-to-Be Wife... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-invisible-man-his-soon-wife-s01e12-1080p.k9945014222337) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6GETMJ2FPNQD2RCD6YLYG6BFA3WYLJPV) |
-| [Erai-raws] Toumei Otoko to Ningen Onna: Sonouchi Fu... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-toumei-otoko-ningen-onna-sonouchi-fuufu.n2090347) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VPANABULP6JZLWKUB3F7WEDMNCM5ONJS) |
-| [Erai-raws] Eris no Seihai - 12 [480p CR WEB-DL AVC ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-eris-no-seihai-12-480p-cr.n2090345) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OBP54NC3HHBCPZPKGVIW2EYGGYFZYDMV) |
-| The Invisible Man and His Soon to Be Wife S01E12 Fin... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/invisible-man-his-soon-wife-s01e12-finally-1080p.n2090344) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7OBQ6CCRUPKLBTYFNV6AEXBVMB3YJZX2) |
-| [Erai-raws] Toumei Otoko to Ningen Onna: Sonouchi Fu... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-toumei-otoko-ningen-onna-sonouchi-fuufu.n2090343) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DGST3MQBMY45OTMJ2F5OJT2GI24QN5YJ) |
+| Anyway Im Falling in Love with You S02E10 Something ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anyway-im-falling-love-s02e10-something-ive-been.n2090470) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UFTMOZSLYYMCSRYNG7ADMUDPWTHCIATZ) |
+| Anyway Im Falling in Love with You S02E12 Anyway Im ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anyway-im-falling-love-s02e12-1080p-cr-web.n2090469) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZYNZXVT3I6OC2KKEJLBKOIN42ZHADHRJ) |
+| [SubsPlease] Douse, Koishite Shimaunda S2 - 12 (1080... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-12-1080p-ab2f5c11-mkv.n2090468) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KZ5KQAKXJSWKM4UBXZ7D57FA54YR5NN6) |
+| [SubsPlease] Douse, Koishite Shimaunda S2 - 12 (720p... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-12-720p-e1b1eb1e-mkv.n2090467) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T2TX4BF6WNMBF6OIEE6AH2BGHT7A3TF7) |
+| [SubsPlease] Douse, Koishite Shimaunda S2 - 12 (480p... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-12-480p-25809ccf-mkv.n2090466) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VQK6OV25PN7PSIJMHLQLB4LCR45PYDUZ) |
+| [ToonsHub] Anyway Im Falling in Love with You S02E10... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e10-1080p-cr.k9946860329988) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3JN742YRXNW6WSYXDRSSFSNCCFUXESH5) |
+| [ToonsHub] Anyway Im Falling in Love with You S02E12... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e12-1080p-cr.k9946857777155) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JKLNULPQ2K2MMZ6DITY5CMU6YY4YTG4Y) |
+| [Erai-raws] Douse, Koishite Shimaunda 2nd Season - 1... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-douse-koishite-shimaunda-2nd-season-12.n2090461) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4K3REBGKWFS6MVKLAWLRNAXZQZ27JWI) |
+| [Erai-raws] Douse, Koishite Shimaunda 2nd Season - 1... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-douse-koishite-shimaunda-2nd-season-12.n2090460) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SYQI6TXT6ODTCIMYGSD7HZAORKEY2LNQ) |
+| [ToonsHub] Anyway Im Falling in Love with You S02E12... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e12-1080p-bili.n2090459) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BFK3AQV2BUJDQMAUXM4DLPN6DJJ3DSO4) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
