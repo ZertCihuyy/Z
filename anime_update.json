@@ -1,5 +1,5 @@
 {
-  "last_update": "26/3/2026, 16.04.15 WIB",
+  "last_update": "26/3/2026, 17.58.20 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -45,6 +45,15 @@
     }
   ],
   "latest_releases": [
+    {
+      "title": "[PMR] Fate kaleid liner Prisma Illya Season 2 (S02) (BD Remux 1080p AVC FLAC) [Dual Audio] | Fate/kaleid liner Prisma☆Illya 2wei!",
+      "link": "https://animetosho.org/view/pmr-fate-kaleid-liner-prisma-illya-season-2.n2090254",
+      "magnet": "magnet:?xt=urn:btih:LDBSYUES6DA3SSWDHGKTDI7BKZSJUUYN&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BPMR%5D%20Fate%20kaleid%20liner%20Prisma%20Illya%20Season%202%20%28S02%29%20%28BD%20Remux%201080p%20AVC%20FLAC%29%20%5BDual%20Audio%5D%20%7C%20Fate%2Fkaleid%20liner%20Prisma%E2%98%86Illya%202wei%21",
+      "hash": "LDBSYUES6DA3SSWDHGKTDI7BKZSJUUYN",
+      "nyaaUrl": "https://nyaa.si/?q=LDBSYUES6DA3SSWDHGKTDI7BKZSJUUYN",
+      "size": "NaN MB",
+      "date": "26/3/2026, 16.15.09"
+    },
     {
       "title": "[KOTEX] Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita S1-S2 Subs+Fonts for ReinForce [rev][BD].zip",
       "link": "https://animetosho.org/view/kotex-slime-taoshite-300-nen-shiranai-uchi-ni.n2090245",
@@ -125,15 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=7QGZO43EPALI77HYAWDSL74JSDYOCS54",
       "size": "NaN MB",
       "date": "26/3/2026, 06.52.04"
-    },
-    {
-      "title": "[DKB] Jigoku Sensei Nube (2025) - S01E25 [1080p][HEVC x265 10bit][Multi-Subs][weekly]",
-      "link": "https://animetosho.org/view/dkb-jigoku-sensei-nube-2025-s01e25-1080p-hevc.n2090208",
-      "magnet": "magnet:?xt=urn:btih:PJTOLJWCURZRKFHERMSCTZGHB7S226AP&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&dn=%5BDKB%5D%20Jigoku%20Sensei%20Nube%20%282025%29%20-%20S01E25%20%5B1080p%5D%5BHEVC%20x265%2010bit%5D%5BMulti-Subs%5D%5Bweekly%5D",
-      "hash": "PJTOLJWCURZRKFHERMSCTZGHB7S226AP",
-      "nyaaUrl": "https://nyaa.si/?q=PJTOLJWCURZRKFHERMSCTZGHB7S226AP",
-      "size": "NaN MB",
-      "date": "26/3/2026, 05.57.25"
     }
   ]
 }

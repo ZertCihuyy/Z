@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 26/3/2026, 16.04.15 WIB
+**Sync Terakhir:** 26/3/2026, 17.58.20 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [PMR] Fate kaleid liner Prisma Illya Season 2 (S02) ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/pmr-fate-kaleid-liner-prisma-illya-season-2.n2090254) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LDBSYUES6DA3SSWDHGKTDI7BKZSJUUYN) |
 | [KOTEX] Slime Taoshite 300-nen, Shiranai Uchi ni Lev... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/kotex-slime-taoshite-300-nen-shiranai-uchi-ni.n2090245) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RKN7XUTZOPPM3EH6ZMXSQX5FDAEIRYDH) |
 | [wham] The Summer Hikaru Died (Hikaru ga Shinda Nats... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/wham-summer-hikaru-died-ga-shinda-natsu-s01.n2090241) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JIB5KKQFTW3S3BKY2IRF5HX6XQI4XB2V) |
 | [ToonsHub] Reborn as a Cat S01E22 1080p BILI WEB-DL ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e22-1080p-bili-web-dl.n2090237) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XNG5WM73NLPQ3S3MZQSB6562P7DXUFVF) |
@@ -26,7 +27,6 @@
 | [DKB] Jigoku Sensei Nube (2025) - S01E26 [1080p][END... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigoku-sensei-nube-2025-s01e26-1080p-end.n2090216) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UTE2W6SEG4TMSQZDDVMWN3WUJQDQ7YP5) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 13 [1... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090212) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DVT3XJV6CN4CJASQVZYJQHQ7R6YPIEXF) |
 | [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 12 [1... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090211) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7QGZO43EPALI77HYAWDSL74JSDYOCS54) |
-| [DKB] Jigoku Sensei Nube (2025) - S01E25 [1080p][HEV... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigoku-sensei-nube-2025-s01e25-1080p-hevc.n2090208) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PJTOLJWCURZRKFHERMSCTZGHB7S226AP) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
