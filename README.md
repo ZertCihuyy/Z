@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 27/3/2026, 03.40.52 WIB
+**Sync Terakhir:** 27/3/2026, 04.36.50 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [SubsPlease] Champignon no Majo (01-12) (720p) [Batch] | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-champignon-no-majo-01-12-720p-batch.n2090532) <br><br> [🐱 Nyaa](https://nyaa.si/?q=67YIIUGQDNX2BNC6J6KE3NK227GACQ32) |
+| [SubsPlease] Champignon no Majo (01-12) (480p) [Batch] | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-champignon-no-majo-01-12-480p-batch.n2090531) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LYBQ6AG4QEG5LE44MKISEEYP3KQLH3WW) |
+| [Yameii] Jujutsu Kaisen - S03E10 [English Dub] [CR W... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-jujutsu-kaisen-s03e10-english-dub-cr-web.n2090530) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LVLC2ZF7TQRZQAZX4R3AU4XOD3L2F5SB) |
+| [Yameii] Jujutsu Kaisen - S03E10 [English Dub] [CR W... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-jujutsu-kaisen-s03e10-english-dub-cr-web.n2090528) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KE32CNFQELLU5ED6NRHNGLBVLJQKEEDZ) |
+| [DKB] Jujutsu Kaisen - S03E12 [1080p][HEVC x265 10bi... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jujutsu-kaisen-s03e12-1080p-hevc-x265-10bit.n2090527) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6TQXTWCCUHGIYENFYDHOLDLDXB3AE7FW) |
+| [Onalrie] Douse, Koishite Shimaunda - S02E12 [1080p ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-douse-koishite-shimaunda-s02e12-1080p-webrip-av1-mkv.2069761) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DNKWJCZO36CQC3R2ESENJM7UGWY7NCCP) |
+| [Beltraz] Kaze no Stigma S01 (2007) (DVD 576p XviD A... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-kaze-no-stigma-s01-2007-dvd-576p.k9950179438597) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5F2XEZEBEPTHDLZTZ526R2LEYNBEEXA6) |
 | [Onalrie] Jujutsu Kaisen - S03E12 [1080p WEBRip AV1]... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-jujutsu-kaisen-s03e12-1080p-webrip-av1-mkv.2069756) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RHYESEXVHYAYO6QVEEM7G5I4BH6FDLJT) |
 | Link.Click.S03.Bridon.Arc.CUSTOM.MULTi.1080p.WEB-DL.... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/link-click-s03-bridon-arc-custom-multi-1080p.n2090520) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YRB7L6QOPDHFZTS42EPTVEQHQLWGBAMM) |
 | [SubsPlease] Yuusha Party wo Oidasareta Kiyoubinbou ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-party-wo-oidasareta-kiyoubinbou-01-12.n2090519) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7O4P5MGSTXYRGEGZS4WGPOPA743BYFFR) |
-| [SubsPlease] Yuusha Party wo Oidasareta Kiyoubinbou ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-party-wo-oidasareta-kiyoubinbou-01-12-720p.n2090518) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UOPY3DV34YVSWBZJ2LENQDMMVZRZJYFV) |
-| [SubsPlease] Yuusha Party wo Oidasareta Kiyoubinbou ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-party-wo-oidasareta-kiyoubinbou-01-12-480p.n2090517) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LX2SPELBTRIHBZVP45633P2MFCIQ5EGZ) |
-| [Beltraz] Soul Link S01 (2006) (Uncensored) (DVD 480... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-soul-link-s01-2006-uncensored-dvd-480p-xvid-mp3.k9949627690754) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6UGEIDDEPUG4PPGXBGT3A44QEXL6D6EJ) |
-| [Judas] Fumetsu no Anata e (To Your Eternity) - S03E... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-fumetsu-no-anata-e-your-eternity-s03e18.n2090515) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SEMJPWYLNLLVEM4ENBRYEWWO63G7RGIX) |
-| [BlackRabbit] FLCL (2000) - S00 [Bluray-1080p][Opus ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-flcl-2000-s00-bluray-1080p-opus-5-1-av1.k9949166617090) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E5HZC246SJG4D7KLMIPX7JPK2X5UDG6J) |
-| [Onalrie] Mato Seihei no Slave - S02E12 [1080p WEBRi... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-mato-seihei-no-slave-s02e12-1080p-webrip-av1-mkv.2069729) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YOU4XK7LWUOVUP2GF5OGBR2XV5DPK3X2) |
-| [Onalrie] Omagoto - S01E12 [1080p WEBRip AV1].mkv | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-omagoto-s01e12-1080p-webrip-av1-mkv.2069719) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A5AO73DGW3NDO7L7US5JAJ63VN5W4TTL) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
