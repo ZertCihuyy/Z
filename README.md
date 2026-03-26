@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 26/3/2026, 18.56.06 WIB
+**Sync Terakhir:** 26/3/2026, 20.48.01 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [BlackRabbit] Spice and Wolf (2008) - S01 [Bluray-10... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-spice-wolf-2008-s01-bluray-1080p-opus.k9941934264067) <br><br> [🐱 Nyaa](https://nyaa.si/?q=B35REW5ZNCVADD55THHZWLDUDJYMH7GF) |
-| [Gecko] Koala's Diary - S01E26 (コアラ絵日記; Koala Enikki... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e26-koala-enikki-ytb-web.n2090268) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JU7KQNBEFGOHJEP6QIV5X4ZZS6RGBTUS) |
-| [ToonsHub] Koalas Diary S01E26 1080p LNTV WEB-DL AAC... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e26-1080p-lntv-web-dl.n2090267) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CAR5KN2MNB5AYETYJW5GLLMAPGVUWBLT) |
-| [PMR] Fate kaleid liner Prisma Illya Season 2 (S02) ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/pmr-fate-kaleid-liner-prisma-illya-season-2.n2090254) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LDBSYUES6DA3SSWDHGKTDI7BKZSJUUYN) |
-| [KOTEX] Slime Taoshite 300-nen, Shiranai Uchi ni Lev... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/kotex-slime-taoshite-300-nen-shiranai-uchi-ni.n2090245) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RKN7XUTZOPPM3EH6ZMXSQX5FDAEIRYDH) |
-| [wham] The Summer Hikaru Died (Hikaru ga Shinda Nats... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/wham-summer-hikaru-died-ga-shinda-natsu-s01.n2090241) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JIB5KKQFTW3S3BKY2IRF5HX6XQI4XB2V) |
-| [ToonsHub] Reborn as a Cat S01E22 1080p BILI WEB-DL ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e22-1080p-bili-web-dl.n2090237) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XNG5WM73NLPQ3S3MZQSB6562P7DXUFVF) |
-| [Gecko] Reborn as a Cat - S01E22 (为喵人生; Wei Miao Ren... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e22-wei-miao-rensheng-bili.k9933970332938) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UQBGJJRGXJISKVUP23JNP3USEDDN5CTD) |
-| Reborn as a Cat S01E21 1080p BILI WEB-DL AAC2.0 H 26... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e21-1080p-bili-web-dl-aac2.n2090229) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QVDYG35PLGHATMUTOQY3G3B5ZSWIXNZY) |
-| [Techmod] Record of Lodoss War | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/techmod-record-lodoss-war.n2090218) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PXKCACBNR724LE4VYPL742IW3OLECIA7) |
+| [Yameii] MF GHOST - S03E10 [English Dub] [CR WEB-DL ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-mf-ghost-s03e10-english-dub-cr-web.n2090297) <br><br> [🐱 Nyaa](https://nyaa.si/?q=75Q6YF2BMWX5BQBBMLWGKVQIMIROZT2A) |
+| [Yameii] MF GHOST - S03E10 [English Dub] [CR WEB-DL ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-mf-ghost-s03e10-english-dub-cr-web.n2090296) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DFRBPAU2KSCACNKA6WK7DALYVGSVL6SA) |
+| MF GHOST S03E10 The Kings Impatience 1080p CR WEB-DL... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/mf-ghost-s03e10-kings-impatience-1080p-cr-web.n2090295) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EJZTSEBWYWSRQCEG2PTREUVM3LHMUVAB) |
+| [ToonsHub] MF GHOST S03E10 1080p CR WEB-DL DUAL AAC2... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-mf-ghost-s03e10-1080p-cr-web-dl.k9943676898826) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YZDX4DL2IB4TJR7JTYLK2S64CAJR7AJD) |
+| Sentenced to Be a Hero S01E12 1080p BILI WEB-DL AAC2... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/sentenced-hero-s01e12-1080p-bili-web-dl-aac2.n2090293) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YQFHXN5IMGBK7RIIEJHORQF4AVXF6OTM) |
+| Sentenced To Be a Hero S01E12 1080p NF WEB-DL AAC2.0... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/sentenced-hero-s01e12-1080p-nf-web-dl-aac2.n2090292) <br><br> [🐱 Nyaa](https://nyaa.si/?q=B5FXVB7BIBDMGQENZQEMUHAFNPZF67FD) |
+| [New-raws] Yuusha-kei ni Shosu - 12 END [1080p] [Bst... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/new-raws-yuusha-kei-ni-shosu-12-end.n2090291) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XWSU55JRJEZAF5K7LNETFQP67MDHN66K) |
+| [ToonsHub] Sentenced to Be a Hero S01E12 1080p BILI ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-sentenced-hero-s01e12-1080p-bili-web-dl.k9943629289992) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C3EYA7YCAPMMJKI35EU2MRKZ37447EC7) |
+| [Bird] Ganzo! Bandori-chan - 25 (1080p) [09531F6B] | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/bird-ganzo-bandori-chan-25-1080p-09531f6b.n2090284) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JMWM33SRWWRHGVH3N5G76XTUDUE3SA7H) |
+| [BlackRabbit] Spice and Wolf (2008) - S02 [Bluray-10... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-spice-wolf-2008-s02-bluray-1080p-opus.k9942975940098) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3GY6QIDGUSZYLPC2LBUIWMLBYCR33XNQ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
