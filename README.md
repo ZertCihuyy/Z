@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 26/3/2026, 20.48.01 WIB
+**Sync Terakhir:** 26/3/2026, 22.11.26 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Yameii] MF GHOST - S03E10 [English Dub] [CR WEB-DL ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-mf-ghost-s03e10-english-dub-cr-web.n2090297) <br><br> [🐱 Nyaa](https://nyaa.si/?q=75Q6YF2BMWX5BQBBMLWGKVQIMIROZT2A) |
-| [Yameii] MF GHOST - S03E10 [English Dub] [CR WEB-DL ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-mf-ghost-s03e10-english-dub-cr-web.n2090296) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DFRBPAU2KSCACNKA6WK7DALYVGSVL6SA) |
-| MF GHOST S03E10 The Kings Impatience 1080p CR WEB-DL... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/mf-ghost-s03e10-kings-impatience-1080p-cr-web.n2090295) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EJZTSEBWYWSRQCEG2PTREUVM3LHMUVAB) |
-| [ToonsHub] MF GHOST S03E10 1080p CR WEB-DL DUAL AAC2... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-mf-ghost-s03e10-1080p-cr-web-dl.k9943676898826) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YZDX4DL2IB4TJR7JTYLK2S64CAJR7AJD) |
-| Sentenced to Be a Hero S01E12 1080p BILI WEB-DL AAC2... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/sentenced-hero-s01e12-1080p-bili-web-dl-aac2.n2090293) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YQFHXN5IMGBK7RIIEJHORQF4AVXF6OTM) |
-| Sentenced To Be a Hero S01E12 1080p NF WEB-DL AAC2.0... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/sentenced-hero-s01e12-1080p-nf-web-dl-aac2.n2090292) <br><br> [🐱 Nyaa](https://nyaa.si/?q=B5FXVB7BIBDMGQENZQEMUHAFNPZF67FD) |
-| [New-raws] Yuusha-kei ni Shosu - 12 END [1080p] [Bst... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/new-raws-yuusha-kei-ni-shosu-12-end.n2090291) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XWSU55JRJEZAF5K7LNETFQP67MDHN66K) |
-| [ToonsHub] Sentenced to Be a Hero S01E12 1080p BILI ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-sentenced-hero-s01e12-1080p-bili-web-dl.k9943629289992) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C3EYA7YCAPMMJKI35EU2MRKZ37447EC7) |
-| [Bird] Ganzo! Bandori-chan - 25 (1080p) [09531F6B] | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/bird-ganzo-bandori-chan-25-1080p-09531f6b.n2090284) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JMWM33SRWWRHGVH3N5G76XTUDUE3SA7H) |
-| [BlackRabbit] Spice and Wolf (2008) - S02 [Bluray-10... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-spice-wolf-2008-s02-bluray-1080p-opus.k9942975940098) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3GY6QIDGUSZYLPC2LBUIWMLBYCR33XNQ) |
+| [ToonsHub] The Invisible Man and His Soon-to-Be Wife... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-invisible-man-his-soon-wife-s01e12-1080p.k9945062161671) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IANDCBZTOD6HD2URTZX6PMGMODAU4TFH) |
+| [VARYG] The Invisible Man and His Soon to Be Wife S0... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-invisible-man-his-soon-wife-s01e12-1080p.k9945047112194) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DUHCZ7FASK4NEDYUX7E5ZMAE2ZAKX3FT) |
+| [VARYG] The Holy Grail of Eris S01E12 The Final Chap... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-holy-grail-eris-s01e12-final-chapter-grand.k9945041367818) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZPUU6XP3R2WOVOZWSIIXCFV6QIR5ANCT) |
+| [VARYG] The Holy Grail of Eris S01E12 Final Chapter ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-holy-grail-eris-s01e12-final-chapter-little.k9945024672771) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6XC5CLHZINFMZP2CVYEXCV3V5WJK5DRI) |
+| [ToonsHub] The Holy Grail of Eris S01E12 1080p CR WE... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-holy-grail-eris-s01e12-1080p-cr-web.k9945016506380) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X7AZK4LDPFF3GV44C7KVYGBJDIBHYU73) |
+| [ToonsHub] The Invisible Man and His Soon-to-Be Wife... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-invisible-man-his-soon-wife-s01e12-1080p.k9945014222337) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6GETMJ2FPNQD2RCD6YLYG6BFA3WYLJPV) |
+| [Erai-raws] Toumei Otoko to Ningen Onna: Sonouchi Fu... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-toumei-otoko-ningen-onna-sonouchi-fuufu.n2090347) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VPANABULP6JZLWKUB3F7WEDMNCM5ONJS) |
+| [Erai-raws] Eris no Seihai - 12 [480p CR WEB-DL AVC ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-eris-no-seihai-12-480p-cr.n2090345) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OBP54NC3HHBCPZPKGVIW2EYGGYFZYDMV) |
+| The Invisible Man and His Soon to Be Wife S01E12 Fin... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/invisible-man-his-soon-wife-s01e12-finally-1080p.n2090344) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7OBQ6CCRUPKLBTYFNV6AEXBVMB3YJZX2) |
+| [Erai-raws] Toumei Otoko to Ningen Onna: Sonouchi Fu... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-toumei-otoko-ningen-onna-sonouchi-fuufu.n2090343) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DGST3MQBMY45OTMJ2F5OJT2GI24QN5YJ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
