@@ -1,5 +1,5 @@
 {
-  "last_update": "27/3/2026, 05.36.58 WIB",
+  "last_update": "27/3/2026, 06.37.36 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -37,14 +37,41 @@
       "url": "https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season"
     },
     {
-      "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
-      "image": "https://myanimelist.net/images/anime/1448/154111.jpg",
-      "score": 9.2,
+      "title": "Youjo Senki II",
+      "image": "https://myanimelist.net/images/anime/1653/153899.jpg",
+      "score": null,
       "episodes": null,
-      "url": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken"
+      "url": "https://myanimelist.net/anime/49233/Youjo_Senki_II"
     }
   ],
   "latest_releases": [
+    {
+      "title": "[ChuySub] Majokko Megu-chan - Episode 43",
+      "link": "https://animetosho.org/view/chuysub-majokko-megu-chan-episode-43.n2090541",
+      "magnet": "magnet:?xt=urn:btih:WL36VH5I3YXXKJRSVXCIU7C6O43U6DT7&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BChuySub%5D%20Majokko%20Megu-chan%20-%20Episode%2043",
+      "hash": "WL36VH5I3YXXKJRSVXCIU7C6O43U6DT7",
+      "nyaaUrl": "https://nyaa.si/?q=WL36VH5I3YXXKJRSVXCIU7C6O43U6DT7",
+      "size": "NaN MB",
+      "date": "27/3/2026, 06.08.31"
+    },
+    {
+      "title": "[Erai-raws] Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen - 12 [1080p CR WEBRip HEVC AAC][MultiSub][D3DE49B3]",
+      "link": "https://animetosho.org/view/erai-raws-jujutsu-kaisen-shimetsu-kaiyuu-zenpen-12.n2090539",
+      "magnet": "magnet:?xt=urn:btih:FVWLXEEL2A4LQUVZ5G7DWW7WUHV56CNX&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&dn=%5BErai-raws%5D%20Jujutsu%20Kaisen%3A%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%2012%20%5B1080p%20CR%20WEBRip%20HEVC%20AAC%5D%5BMultiSub%5D%5BD3DE49B3%5D",
+      "hash": "FVWLXEEL2A4LQUVZ5G7DWW7WUHV56CNX",
+      "nyaaUrl": "https://nyaa.si/?q=FVWLXEEL2A4LQUVZ5G7DWW7WUHV56CNX",
+      "size": "NaN MB",
+      "date": "27/3/2026, 05.43.05"
+    },
+    {
+      "title": "[Erai-raws] Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku - 12 [1080p CR WEBRip HEVC AAC][MultiSub][48AD2AA5]",
+      "link": "https://animetosho.org/view/erai-raws-yuusha-kei-ni-shosu-choubatsu-9004.n2090538",
+      "magnet": "magnet:?xt=urn:btih:2B2BYRBJOIXXBL6SUVG7NFHGDQCWKZFA&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&dn=%5BErai-raws%5D%20Yuusha-kei%20ni%20Shosu%3A%20Choubatsu%20Yuusha%209004-tai%20Keimu%20Kiroku%20-%2012%20%5B1080p%20CR%20WEBRip%20HEVC%20AAC%5D%5BMultiSub%5D%5B48AD2AA5%5D",
+      "hash": "2B2BYRBJOIXXBL6SUVG7NFHGDQCWKZFA",
+      "nyaaUrl": "https://nyaa.si/?q=2B2BYRBJOIXXBL6SUVG7NFHGDQCWKZFA",
+      "size": "NaN MB",
+      "date": "27/3/2026, 05.41.31"
+    },
     {
       "title": "[HnY] Beyblade X 121 - Where the Dragon Goes (1080p).mkv",
       "link": "https://animetosho.org/view/hny-beyblade-x-121-where-dragon-goes-1080p-mkv.n2090537",
@@ -107,33 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=LYBQ6AG4QEG5LE44MKISEEYP3KQLH3WW",
       "size": "NaN MB",
       "date": "27/3/2026, 04.30.31"
-    },
-    {
-      "title": "[Yameii] Jujutsu Kaisen - S03E10 [English Dub] [CR WEB-DL 1080p H264 AAC] [B4A46BC5] (Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen | The Culling Game Part 1 | Season 3 | S3)",
-      "link": "https://animetosho.org/view/yameii-jujutsu-kaisen-s03e10-english-dub-cr-web.n2090530",
-      "magnet": "magnet:?xt=urn:btih:LVLC2ZF7TQRZQAZX4R3AU4XOD3L2F5SB&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=%5BYameii%5D%20Jujutsu%20Kaisen%20-%20S03E10%20%5BEnglish%20Dub%5D%20%5BCR%20WEB-DL%201080p%20H264%20AAC%5D%20%5BB4A46BC5%5D%20%28Jujutsu%20Kaisen%3A%20Shimetsu%20Kaiyuu%20Zenpen%20%7C%20The%20Culling%20Game%20Part%201%20%7C%20Season%203%20%7C%20S3%29",
-      "hash": "LVLC2ZF7TQRZQAZX4R3AU4XOD3L2F5SB",
-      "nyaaUrl": "https://nyaa.si/?q=LVLC2ZF7TQRZQAZX4R3AU4XOD3L2F5SB",
-      "size": "NaN MB",
-      "date": "27/3/2026, 04.14.51"
-    },
-    {
-      "title": "[Yameii] Jujutsu Kaisen - S03E10 [English Dub] [CR WEB-DL 720p H264 AAC] [C129BF95] (Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen | The Culling Game Part 1 | Season 3 | S3)",
-      "link": "https://animetosho.org/view/yameii-jujutsu-kaisen-s03e10-english-dub-cr-web.n2090528",
-      "magnet": "magnet:?xt=urn:btih:KE32CNFQELLU5ED6NRHNGLBVLJQKEEDZ&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=%5BYameii%5D%20Jujutsu%20Kaisen%20-%20S03E10%20%5BEnglish%20Dub%5D%20%5BCR%20WEB-DL%20720p%20H264%20AAC%5D%20%5BC129BF95%5D%20%28Jujutsu%20Kaisen%3A%20Shimetsu%20Kaiyuu%20Zenpen%20%7C%20The%20Culling%20Game%20Part%201%20%7C%20Season%203%20%7C%20S3%29",
-      "hash": "KE32CNFQELLU5ED6NRHNGLBVLJQKEEDZ",
-      "nyaaUrl": "https://nyaa.si/?q=KE32CNFQELLU5ED6NRHNGLBVLJQKEEDZ",
-      "size": "NaN MB",
-      "date": "27/3/2026, 04.13.15"
-    },
-    {
-      "title": "[DKB] Jujutsu Kaisen - S03E12 [1080p][HEVC x265 10bit][Multi-Subs][weekly]",
-      "link": "https://animetosho.org/view/dkb-jujutsu-kaisen-s03e12-1080p-hevc-x265-10bit.n2090527",
-      "magnet": "magnet:?xt=urn:btih:6TQXTWCCUHGIYENFYDHOLDLDXB3AE7FW&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&dn=%5BDKB%5D%20Jujutsu%20Kaisen%20-%20S03E12%20%5B1080p%5D%5BHEVC%20x265%2010bit%5D%5BMulti-Subs%5D%5Bweekly%5D",
-      "hash": "6TQXTWCCUHGIYENFYDHOLDLDXB3AE7FW",
-      "nyaaUrl": "https://nyaa.si/?q=6TQXTWCCUHGIYENFYDHOLDLDXB3AE7FW",
-      "size": "NaN MB",
-      "date": "27/3/2026, 04.12.38"
     }
   ]
 }
