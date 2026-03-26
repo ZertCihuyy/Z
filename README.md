@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 26/3/2026, 17.58.20 WIB
+**Sync Terakhir:** 26/3/2026, 18.56.06 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [BlackRabbit] Spice and Wolf (2008) - S01 [Bluray-10... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-spice-wolf-2008-s01-bluray-1080p-opus.k9941934264067) <br><br> [🐱 Nyaa](https://nyaa.si/?q=B35REW5ZNCVADD55THHZWLDUDJYMH7GF) |
+| [Gecko] Koala's Diary - S01E26 (コアラ絵日記; Koala Enikki... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e26-koala-enikki-ytb-web.n2090268) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JU7KQNBEFGOHJEP6QIV5X4ZZS6RGBTUS) |
+| [ToonsHub] Koalas Diary S01E26 1080p LNTV WEB-DL AAC... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e26-1080p-lntv-web-dl.n2090267) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CAR5KN2MNB5AYETYJW5GLLMAPGVUWBLT) |
 | [PMR] Fate kaleid liner Prisma Illya Season 2 (S02) ... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/pmr-fate-kaleid-liner-prisma-illya-season-2.n2090254) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LDBSYUES6DA3SSWDHGKTDI7BKZSJUUYN) |
 | [KOTEX] Slime Taoshite 300-nen, Shiranai Uchi ni Lev... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/kotex-slime-taoshite-300-nen-shiranai-uchi-ni.n2090245) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RKN7XUTZOPPM3EH6ZMXSQX5FDAEIRYDH) |
 | [wham] The Summer Hikaru Died (Hikaru ga Shinda Nats... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/wham-summer-hikaru-died-ga-shinda-natsu-s01.n2090241) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JIB5KKQFTW3S3BKY2IRF5HX6XQI4XB2V) |
@@ -24,9 +27,6 @@
 | [Gecko] Reborn as a Cat - S01E22 (为喵人生; Wei Miao Ren... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e22-wei-miao-rensheng-bili.k9933970332938) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UQBGJJRGXJISKVUP23JNP3USEDDN5CTD) |
 | Reborn as a Cat S01E21 1080p BILI WEB-DL AAC2.0 H 26... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e21-1080p-bili-web-dl-aac2.n2090229) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QVDYG35PLGHATMUTOQY3G3B5ZSWIXNZY) |
 | [Techmod] Record of Lodoss War | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/techmod-record-lodoss-war.n2090218) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PXKCACBNR724LE4VYPL742IW3OLECIA7) |
-| [DKB] Jigoku Sensei Nube (2025) - S01E26 [1080p][END... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigoku-sensei-nube-2025-s01e26-1080p-end.n2090216) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UTE2W6SEG4TMSQZDDVMWN3WUJQDQ7YP5) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 13 [1... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090212) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DVT3XJV6CN4CJASQVZYJQHQ7R6YPIEXF) |
-| [Erai-raws] Jigoku Sensei Nube (2025) Part 2 - 12 [1... | NaN MB | 26/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigoku-sensei-nube-2025-part-2.n2090211) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7QGZO43EPALI77HYAWDSL74JSDYOCS54) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
