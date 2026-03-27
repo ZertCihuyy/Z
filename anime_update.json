@@ -1,5 +1,5 @@
 {
-  "last_update": "27/3/2026, 20.18.39 WIB",
+  "last_update": "27/3/2026, 21.56.24 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -11,7 +11,7 @@
     {
       "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
       "image": "https://myanimelist.net/images/anime/1659/154920.jpg",
-      "score": 8.58,
+      "score": 8.66,
       "episodes": 12,
       "url": "https://myanimelist.net/anime/57658/Jujutsu_Kaisen__Shimetsu_Kaiyuu_-_Zenpen"
     },
@@ -25,7 +25,7 @@
     {
       "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
       "image": "https://myanimelist.net/images/anime/1062/151911.jpg",
-      "score": 8.12,
+      "score": 8.16,
       "episodes": 12,
       "url": "https://myanimelist.net/anime/56009/Yuusha-kei_ni_Shosu__Choubatsu_Yuusha_9004-tai_Keimu_Kiroku"
     },
@@ -45,6 +45,24 @@
     }
   ],
   "latest_releases": [
+    {
+      "title": "Beelzebub [English Dub][720p][Amasian TV]",
+      "link": "https://animetosho.org/view/beelzebub-english-dub-720p-amasian-tv.n2090634",
+      "magnet": "magnet:?xt=urn:btih:JX4EGC7NA5ST5MMHUU6ECBV4JBYVF5D3&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=Beelzebub%20%5BEnglish%20Dub%5D%5B720p%5D%5BAmasian%20TV%5D",
+      "hash": "JX4EGC7NA5ST5MMHUU6ECBV4JBYVF5D3",
+      "nyaaUrl": "https://nyaa.si/?q=JX4EGC7NA5ST5MMHUU6ECBV4JBYVF5D3",
+      "size": "NaN MB",
+      "date": "27/3/2026, 21.40.49"
+    },
+    {
+      "title": "[WOR] Virgin Punk: Clockwork Girls [BD 1080p HEVC FLAC AC3] dual audio - multi subs",
+      "link": "https://animetosho.org/view/wor-virgin-punk-clockwork-girls-bd-1080p-hevc.n2090626",
+      "magnet": "magnet:?xt=urn:btih:RABNLO2RUPXMLQHN2RSVDRZ3YTDDCKWW&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=%5BWOR%5D%20Virgin%20Punk%3A%20Clockwork%20Girls%20%5BBD%201080p%20HEVC%20FLAC%20AC3%5D%20dual%20audio%20-%20multi%20subs",
+      "hash": "RABNLO2RUPXMLQHN2RSVDRZ3YTDDCKWW",
+      "nyaaUrl": "https://nyaa.si/?q=RABNLO2RUPXMLQHN2RSVDRZ3YTDDCKWW",
+      "size": "NaN MB",
+      "date": "27/3/2026, 20.45.56"
+    },
     {
       "title": "[LbE3L] Oshi no Ko S03E05 [1080p WEBRip AV1] [Castellano y Japonés DUAL Opus 2.0].mkv",
       "link": "https://animetosho.org/view/lbe3l-oshi-no-ko-s03e05-1080p-webrip-av1.k9965165563404",
@@ -116,24 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=MABHL5YMLS4UOYRIVCCGUDUQCG5AAXAO",
       "size": "NaN MB",
       "date": "27/3/2026, 13.17.15"
-    },
-    {
-      "title": "[BlackRabbit] Initial D (1998) - S03 [Bluray-1080p][Opus 5.1][Dual Audio][AV1]",
-      "link": "https://animetosho.org/view/blackrabbit-initial-d-1998-s03-bluray-1080p-opus.k9959012990729",
-      "magnet": "magnet:?xt=urn:btih:YXEODGLW5YVARA6R2DXU42EP3DLMDQZP&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BBlackRabbit%5D%20Initial%20D%20%281998%29%20-%20S03%20%5BBluray-1080p%5D%5BOpus%205.1%5D%5BDual%20Audio%5D%5BAV1%5D",
-      "hash": "YXEODGLW5YVARA6R2DXU42EP3DLMDQZP",
-      "nyaaUrl": "https://nyaa.si/?q=YXEODGLW5YVARA6R2DXU42EP3DLMDQZP",
-      "size": "NaN MB",
-      "date": "27/3/2026, 13.13.14"
-    },
-    {
-      "title": "[BlackRabbit] Initial D (1998) - S02 [Bluray-1080p][Opus 5.1][Dual Audio][AV1]",
-      "link": "https://animetosho.org/view/blackrabbit-initial-d-1998-s02-bluray-1080p-opus.k9958968780040",
-      "magnet": "magnet:?xt=urn:btih:P5J4CSN2KQEKYFSENBXFBXBHDTZLDZ3P&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BBlackRabbit%5D%20Initial%20D%20%281998%29%20-%20S02%20%5BBluray-1080p%5D%5BOpus%205.1%5D%5BDual%20Audio%5D%5BAV1%5D",
-      "hash": "P5J4CSN2KQEKYFSENBXFBXBHDTZLDZ3P",
-      "nyaaUrl": "https://nyaa.si/?q=P5J4CSN2KQEKYFSENBXFBXBHDTZLDZ3P",
-      "size": "NaN MB",
-      "date": "27/3/2026, 13.10.21"
     }
   ]
 }
