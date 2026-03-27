@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 00.04.32 WIB
+**Sync Terakhir:** 28/3/2026, 02.02.51 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| HELL MODE The Hardcore Gamer Dominates in Another Wo... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/hell-mode-hardcore-gamer-dominates-another-world-garbage.n2090713) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GGSYWA2H7AEPOJPK53KPT3V7TZPQZZ3Y) |
-| DARK MOON THE BLOOD ALTAR S01E12 Dark Moon-The Moon ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/dark-moon-blood-altar-s01e12-dark-moon-altar.n2090712) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FVPIZE2OES6IIWT2UKONMDTUG3HVYFCC) |
-| [ToonsHub] HELL MODE The Hardcore Gamer Dominates in... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hell-mode-hardcore-gamer-dominates-another-world.k9968680243459) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QU7L2VMSLVCUR4G4PFDT4D5MERTDKK75) |
-| [ToonsHub] HELL MODE The Hardcore Gamer Dominates in... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hell-mode-hardcore-gamer-dominates-another-world.k9968632448263) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TDUJGMFKIXZIQKB27ALS5XZ7FOHFJE2Q) |
-| [Yameii] DARK MOON: THE BLOOD ALTAR - S01E12 [Englis... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dark-moon-blood-altar-s01e12-english-dub.n2090709) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TRE5ZCJ5FVQ5MIYMVBYU564EL2D7HCCF) |
-| [SubsPlease] Hell Mode - 12 (1080p) [28C8AC8C].mkv | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-12-1080p-28c8ac8c-mkv.n2090708) <br><br> [🐱 Nyaa](https://nyaa.si/?q=46TYQ2VQW6PANBTKKUNIK53374GBOND7) |
-| [SubsPlease] Hell Mode - 12 (720p) [F554A399].mkv | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-12-720p-f554a399-mkv.n2090706) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HUXAUVGUPZJKPZLAANL7ULJD66LRBQEZ) |
-| [ToonsHub] DARK MOON THE BLOOD ALTAR S01E12 1080p CR... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dark-moon-blood-altar-s01e12-1080p-cr.k9968607997704) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ELIITRQYMRB7ATY6GEUXQUPR4SJVAZYX) |
-| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2090703) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3WAUBCZSP5K7WNGVGWNNNTJQV4RKNTJB) |
-| [SubsPlease] Hell Mode - 12 (480p) [903131CB].mkv | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-12-480p-903131cb-mkv.n2090704) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3MOR3CJPGCCAV2B5XV4QGJ3O75VGGLT6) |
+| [Raze] Enen no Shouboutai S3 - 24 (Dual-Audio) (Mult... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/raze-enen-no-shouboutai-s3-24-dual-audio.n2090758) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MEVGHYD4TUPTFOTVSRXBPGT2R7UEN52H) |
+| [TearSmith] Frieren Beyond Journeys End 2023 S02E08 ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/tearsmith-frieren-beyond-journeys-end-2023-s02e08-1080p.k9970605334019) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MZCE67UGZT76U275552R6LWMFJQ7BPLD) |
+| [Onalrie] Enen no Shouboutai - S03E24 [1080p WEBRip ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-enen-no-shouboutai-s03e24-1080p-webrip-av1-mkv.2069938) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7NJXB7V4ANCN2LAYPEZLGSUY5HN5H5QE) |
+| [ASW] Enen no Shouboutai S3 - 24 [1080p HEVC x265 10... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-enen-no-shouboutai-s3-24-1080p-hevc.n2090753) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DRBDMQ3LQZTV675YREPGXGETAUFUZMBH) |
+| [BajaBlast] Chitose-kun wa Ramune Bin no Naka - S01E... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/bajablast-chitose-kun-wa-ramune-bin-no-naka.n2090752) <br><br> [🐱 Nyaa](https://nyaa.si/?q=B2YEBEFV24H3Q2GMOM7NJX4356GEUVN7) |
+| [Trix] Oshi no Ko S03 v2 (Batch) [WEBRip 1080p AV1 O... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-oshi-no-ko-s03-v2-batch-webrip.k9970121831439) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3UWRN6RZVKFU3Q2RBXTJSXDUA4Q2O2CL) |
+| [/a/nonymous] Puella Magi Madoka Magica (2011) S01 (... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/nonymous-puella-magi-madoka-magica-2011-s01-1080p.k9970005349641) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I3CW4NOOV4QAIOD4FRIYHRGGPIVWU3AI) |
+| [BlackRabbit] Initial D (1998) - S06 [Bluray-1080p][... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-initial-d-1998-s06-bluray-1080p-opus.k9969957387266) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2MWY4W4BZ33PDNAC6JMK2GV6S3NJHXT7) |
+| [BlackRabbit] Initial D (1998) - S05 [Bluray-1080p][... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-initial-d-1998-s05-bluray-1080p-opus.k9969900223496) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4OEE6JKLAEMKZRPJ37GFO34WX3O5FIWX) |
+| [Onalrie] Hell Mode - S01E12 [1080p WEBRip AV1].mkv | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hell-mode-s01e12-1080p-webrip-av1-mkv.2069928) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3FPK3BZNRRCJW4ZDTNT47FWTHRLRPRSU) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
