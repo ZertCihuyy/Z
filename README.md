@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 27/3/2026, 06.37.36 WIB
+**Sync Terakhir:** 27/3/2026, 09.51.28 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -11,22 +11,22 @@
 | <img src="https://myanimelist.net/images/anime/1772/154456.jpg" width="110" style="border-radius: 8px;"> | **[Jigokuraku 2nd Season](https://myanimelist.net/anime/55825/Jigokuraku_2nd_Season)**<br>⭐ Score: 8.25<br>📺 Eps: 12 |
 | <img src="https://myanimelist.net/images/anime/1062/151911.jpg" width="110" style="border-radius: 8px;"> | **[Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://myanimelist.net/anime/56009/Yuusha-kei_ni_Shosu__Choubatsu_Yuusha_9004-tai_Keimu_Kiroku)**<br>⭐ Score: 8.12<br>📺 Eps: 12 |
 | <img src="https://myanimelist.net/images/anime/1979/153329.jpg" width="110" style="border-radius: 8px;"> | **[[Oshi no Ko] 3rd Season](https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season)**<br>⭐ Score: 8.74<br>📺 Eps: 11 |
-| <img src="https://myanimelist.net/images/anime/1653/153899.jpg" width="110" style="border-radius: 8px;"> | **[Youjo Senki II](https://myanimelist.net/anime/49233/Youjo_Senki_II)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
+| <img src="https://myanimelist.net/images/anime/1448/154111.jpg" width="110" style="border-radius: 8px;"> | **[Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)**<br>⭐ Score: 9.2<br>📺 Eps: Ongoing |
 
 ### 📥 Rilisan Terbaru (1080p)
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ChuySub] Majokko Megu-chan - Episode 43 | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-43.n2090541) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WL36VH5I3YXXKJRSVXCIU7C6O43U6DT7) |
-| [Erai-raws] Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jujutsu-kaisen-shimetsu-kaiyuu-zenpen-12.n2090539) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FVWLXEEL2A4LQUVZ5G7DWW7WUHV56CNX) |
-| [Erai-raws] Yuusha-kei ni Shosu: Choubatsu Yuusha 90... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-kei-ni-shosu-choubatsu-9004.n2090538) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2B2BYRBJOIXXBL6SUVG7NFHGDQCWKZFA) |
-| [HnY] Beyblade X 121 - Where the Dragon Goes (1080p)... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/hny-beyblade-x-121-where-dragon-goes-1080p-mkv.n2090537) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KG7WU53I4JO75CHIRBYIWZYV6A6X7XA2) |
-| ROLL OVER AND DIE S01E12 1080p CR WEB-DL AAC2.0 H 26... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/roll-over-die-s01e12-1080p-cr-web-dl.n2090536) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KVULFX32PAKWPWPFNESOZIOZKGVXEOOD) |
-| Lupin The Third - The Fuma Conspiracy CC [DVD] | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/lupin-third-fuma-conspiracy-cc-dvd.n2090535) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AWMTZQBBI6Y6AFCEVYVF7BYPHPBK3A2F) |
-| [Judas] Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-t... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-yuusha-kei-ni-shosu-choubatsu-9004-tai.n2090534) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TSZYAZFWHTYB6SZAZKJY2SJLEFOFPXWY) |
-| [SubsPlease] Champignon no Majo (01-12) (1080p) [Batch] | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-champignon-no-majo-01-12-1080p-batch.n2090533) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VUXYEAHGFLA2TSE62ZSIMEWFSRS3MXNI) |
-| [SubsPlease] Champignon no Majo (01-12) (720p) [Batch] | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-champignon-no-majo-01-12-720p-batch.n2090532) <br><br> [🐱 Nyaa](https://nyaa.si/?q=67YIIUGQDNX2BNC6J6KE3NK227GACQ32) |
-| [SubsPlease] Champignon no Majo (01-12) (480p) [Batch] | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-champignon-no-majo-01-12-480p-batch.n2090531) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LYBQ6AG4QEG5LE44MKISEEYP3KQLH3WW) |
+| [SubsPlease] Hitori no Shita - The Outcast S6 - 13 (... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-13-1080p-9fb25592-mkv.n2090560) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FY4VM7TNK62245XEDAJQVPQBEMJVC3MC) |
+| [SubsPlease] Hitori no Shita - The Outcast S6 - 13 (... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-13-720p-a75f1df0-mkv.n2090559) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TACP2B7J2ECBF5KQXGERK2JNX7KMQHXQ) |
+| [SubsPlease] Hitori no Shita - The Outcast S6 - 13 (... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-13-480p-d08c6a48-mkv.n2090558) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VNEBCYDHOY6UVJD7IKVLJLL7EYDZZJXJ) |
+| [Gecko] Hitori No Shita - The Outcast - S06E14 (一人之下... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e14-yi-ren.k9955166810373) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DAMSSWGD2M3R3Y32A5PL7D2DAPSJC7OB) |
+| [ToonsHub] Hitori No Shita The Outcast S06E13 1080p ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e13-1080p-cr.k9955159837191) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IOPIRVZIAVUWYBND7WAINKFQZLLQVR22) |
+| [Erai-raws] Hitori no Shita: The Outcast 6th Season ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2090553) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Q7JLFPEOD3DUTUQ4CHU6NRWYW5VB5NM6) |
+| [ToonsHub] Hitori No Shita The Outcast S06E14 1080p ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e14-1080p-wetv.n2090552) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WS5FQV7CTAY33FAG5E5OZJBEP37BKSYR) |
+| [Erai-raws] Hitori no Shita: The Outcast 6th Season ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2090551) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JL54CT3MRQMUP7PIXHU4VB2PJMN5BU7U) |
+| [Erai-raws] Hitori no Shita: The Outcast 6th Season ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2090550) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AW27B4L46FOFZGUIMCSVPCJRSMRXC7PE) |
+| [BlackRabbit] Initial D (1998) - S00 [Bluray-1080p][... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-initial-d-1998-s00-bluray-1080p-opus.k9954786197771) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YCNBMQJ6ZAWFOO7OCQ6SMLP7IUVZFJHH) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
