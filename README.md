@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 27/3/2026, 21.56.24 WIB
+**Sync Terakhir:** 27/3/2026, 22.59.13 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| Beelzebub [English Dub][720p][Amasian TV] | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/beelzebub-english-dub-720p-amasian-tv.n2090634) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JX4EGC7NA5ST5MMHUU6ECBV4JBYVF5D3) |
-| [WOR] Virgin Punk: Clockwork Girls [BD 1080p HEVC FL... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/wor-virgin-punk-clockwork-girls-bd-1080p-hevc.n2090626) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RABNLO2RUPXMLQHN2RSVDRZ3YTDDCKWW) |
-| [LbE3L] Oshi no Ko S03E05 [1080p WEBRip AV1] [Castel... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e05-1080p-webrip-av1.k9965165563404) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KV65XJJCGS5AAIGNDPKL6VEWHTSLYGPE) |
-| [LG] The Colors Within (2024) (DCP 1080p H264 FLAC) ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/lg-colors-within-2024-dcp-1080p-h264-flac.k9964789850885) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LFE6VOE33A2NK52WVU234VUUIPKOM3J4) |
-| [FSP DN] Jian Lai 2 (Sword of Coming 2) - 16 [4K] | 剑来 | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/fsp-dn-jian-lai-2-sword-coming-2-16-4k.n2090599) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UTMTAN7S3GKK4OW7DSV7BWQUCF44HJ6B) |
-| Sentenced to Be a Hero S01E11 1080p CR WEB-DL MULTi ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/sentenced-hero-s01e11-1080p-cr-web-dl-multi.n2090597) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PWGADVXBDWEBF77346CH6IZVKJP5FOSJ) |
-| [Anime Land] Peace Maker Kurogane Movie 02 - Yuumei ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-land-peace-maker-kurogane-movie-02-yuumei.n2090577) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ICZQYCFCHIRYJK2UQAPBOBJOHKMLBXR2) |
-| [Onalrie] Hitori no Shita - The Outcast - S06E13 [10... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e13-1080p-webrip-av1-mkv.2069815) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6ZW4UNMWUB6MHFE3A74OU3Z3NCO757LA) |
-| Number24 [Season 1] (BD 1080p Dual Audio] (AV1) | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/number24-season-1-bd-1080p-dual-audio-av1.k9959488487694) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6H4KAUNIBWMQXEA2M3N4XN4GRR7OU6FS) |
-| [fig] My Hero Academia S06 V2 (BluRay Remux 1080p AV... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/fig-my-hero-academia-s06-v2-bluray-remux.n2090575) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MABHL5YMLS4UOYRIVCCGUDUQCG5AAXAO) |
+| [Onalrie] Sousou no Frieren - S02E10 [1080p WEBRip A... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-sousou-no-frieren-s02e10-1080p-webrip-av1-mkv.2069904) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MSEILZG5VITQRFXP7SFVYVEYGLIIA53E) |
+| Frieren Beyond Journeys End S02E07 The Divine Revolt... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e07-divine-revolte-1080p.n2090671) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JLG752BXPBLPQGOBVXWLR6ITWF4CHIQC) |
+| [Yameii] Frieren: Beyond Journey's End - S02E08 [Eng... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-frieren-beyond-journeys-end-s02e08-english-dub.n2090661) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HMWUBIJDMWKTWIIGS2YHDWZ4RGZL7XMZ) |
+| [Yameii] Frieren: Beyond Journey's End - S02E08 [Eng... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-frieren-beyond-journeys-end-s02e08-english-dub.n2090658) <br><br> [🐱 Nyaa](https://nyaa.si/?q=O54ALNY2PYDVBEVGOBKD7YH3RWXP3GCP) |
+| Frieren Beyond Journeys End S02E08 A Magnificent End... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e08-magnificent-1080p-cr.n2090654) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6E7WSNIQLXT7FWIP5EYCH75EC7IQKBMF) |
+| Frieren Beyond Journeys End S02E10 A Beautiful Sight... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e10-beautiful-sight-1080p.n2090653) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QK4KYBPJTUCXHUXJNZNRATVBNEEHV5EJ) |
+| Frieren Beyond Journeys End S02E10 A Beautiful Sight... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e10-beautiful-sight-1080p.n2090652) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7ZA4TNWT7K5JQGCONFGDOT4BM6HCN6II) |
+| [SubsPlease] Sousou no Frieren S2 - 10 (1080p) [7D35... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-sousou-no-frieren-s2-10-1080p-7d35515e-mkv.n2090650) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M7TFKY5L64IYJGIKKTENHIIR4NE52ZZP) |
+| [SubsPlease] Sousou no Frieren S2 - 10 (720p) [F95E5... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-sousou-no-frieren-s2-10-720p-f95e58ba-mkv.n2090649) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XIMG2VNRTY4E7BOWCJXG6SGFCPOG5B5F) |
+| [izu & kuroyuki] Kirepapa (2008) [DVD] | Kire Papa /... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/izu-kuroyuki-kirepapa-2008-dvd-kire-papa.n2090647) <br><br> [🐱 Nyaa](https://nyaa.si/?q=74CP4B23VLOTRHZTIWGYRCWHU2J6ZREL) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
