@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 27/3/2026, 09.51.28 WIB
+**Sync Terakhir:** 27/3/2026, 12.12.34 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Anime Time] Kaiju No. 8 (Kaijuu 8-gou) - Hoshina's ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-kaiju-no-8-kaijuu-gou-hoshinas.n2090568) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AOXZC4X3LXFK6QJETSBQAHREDKTAJFM2) |
+| Hitori No Shita The Outcast S06E13 1080p CR WEB-DL A... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e13-1080p-cr-web.n2090564) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3P4HTWFFTUG7CQ73MNVLZIJCJHHKMLYI) |
+| [ASW] Hitori no Shita - The Outcast S6 - 13 [1080p H... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-13-1080p.n2090561) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QI4FTE6YSMXEC5I5NHQZTDMZYOOR5M5K) |
 | [SubsPlease] Hitori no Shita - The Outcast S6 - 13 (... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-13-1080p-9fb25592-mkv.n2090560) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FY4VM7TNK62245XEDAJQVPQBEMJVC3MC) |
 | [SubsPlease] Hitori no Shita - The Outcast S6 - 13 (... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-13-720p-a75f1df0-mkv.n2090559) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TACP2B7J2ECBF5KQXGERK2JNX7KMQHXQ) |
 | [SubsPlease] Hitori no Shita - The Outcast S6 - 13 (... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-13-480p-d08c6a48-mkv.n2090558) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VNEBCYDHOY6UVJD7IKVLJLL7EYDZZJXJ) |
@@ -24,9 +27,6 @@
 | [ToonsHub] Hitori No Shita The Outcast S06E13 1080p ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e13-1080p-cr.k9955159837191) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IOPIRVZIAVUWYBND7WAINKFQZLLQVR22) |
 | [Erai-raws] Hitori no Shita: The Outcast 6th Season ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2090553) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Q7JLFPEOD3DUTUQ4CHU6NRWYW5VB5NM6) |
 | [ToonsHub] Hitori No Shita The Outcast S06E14 1080p ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e14-1080p-wetv.n2090552) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WS5FQV7CTAY33FAG5E5OZJBEP37BKSYR) |
-| [Erai-raws] Hitori no Shita: The Outcast 6th Season ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2090551) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JL54CT3MRQMUP7PIXHU4VB2PJMN5BU7U) |
-| [Erai-raws] Hitori no Shita: The Outcast 6th Season ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2090550) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AW27B4L46FOFZGUIMCSVPCJRSMRXC7PE) |
-| [BlackRabbit] Initial D (1998) - S00 [Bluray-1080p][... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-initial-d-1998-s00-bluray-1080p-opus.k9954786197771) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YCNBMQJ6ZAWFOO7OCQ6SMLP7IUVZFJHH) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
