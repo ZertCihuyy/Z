@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 03.46.12 WIB
+**Sync Terakhir:** 28/3/2026, 04.41.18 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Beltraz] Dog Days (2011) - S01 (BD 1080p x264 FLAC) | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-dog-days-2011-s01-bd-1080p-x264-flac.k9973172605699) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W3LNZ4SCRODGSP35UZ2KWFVRMNI5UDVY) |
+| [BlackRabbit] Unlimited Psychic Squad (2013) - S01 [... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-unlimited-psychic-squad-2013-s01-bluray-1080p.k9973076641549) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JSAPU67DN5M5PBAUQ7F4O4AJUI4YA7D2) |
+| [Piyoko] Himitsu no AiPri: Ring-hen - 50 [WEB 1080p ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/piyoko-himitsu-no-aipri-ring-hen-50-web.n2090806) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BVZE3MUZHBH5Y7VZDEDFQV5WRQPQL2S2) |
+| [Anime Time] Frieren Beyond Journeys End (Sousou no ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2090805) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X4JYU5C2XLW3QS3UYHQ4K5KW2S23WSGQ) |
+| [Yameii] DARK MOON: THE BLOOD ALTAR - S01E12 v2 [Eng... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dark-moon-blood-altar-s01e12-v2-english.n2090802) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GGTJ3HVTY53MRKWKL2KVHCMEMMBF434I) |
+| [Yameii] DARK MOON: THE BLOOD ALTAR - S01E12 v2 [Eng... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dark-moon-blood-altar-s01e12-v2-english.n2090801) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XMZPH3ZFSERUXMWTBRGVDX55A3VDWIKK) |
 | [Beltraz] Blade Dance of the Elementalers (2014) - S... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-blade-dance-elementalers-2014-s01-bd-1080p.k9972269384964) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YZ4JV4U6OUZF7JAQBQXYIVF5KXL7H4VI) |
 | [Gecko] Chibi Godzilla Raids Again - S01E93 (ちびゴジラの逆... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e93-no-gyakushuu.n2090798) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IDQOXO2G25HQECLOVZI5I6XUK6NUP4BU) |
 | [ProRemux666] Cleopatra D.C. (1989) - OVA (JPN Blu-r... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/proremux666-cleopatra-d-c-1989-ova-jpn-blu.n2090796) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XUNMNU6XBRKIY556CGEACDW2OL6X63OR) |
 | [Beltraz] Beheneko: The Elf-Girl's Cat is Secretly a... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-beheneko-elf-girls-cat-secretly-s-ranked.k9971694991872) <br><br> [🐱 Nyaa](https://nyaa.si/?q=K2EIGX36VQ2EPI6XJ7FZTGK547JIBYZ6) |
-| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2090778) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XFF5LBHRFNYJ4IP4ZH2TJJE5KTXDJG3W) |
-| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2090777) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RMZUQXJ2AHSZW3K2WOFPL2G6JTRL2ZWN) |
-| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2090776) <br><br> [🐱 Nyaa](https://nyaa.si/?q=34CFJPY7ABVEBS24JW2LNYUWJ7D3BG47) |
-| [Erai-raws] Mato Seihei no Slave 2 - 12 [720p ADN WE... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-12.n2090774) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WT43ZSC2EG6E2SPSMF3NCP7SHFWD3O6T) |
-| [Erai-raws] Mato Seihei no Slave 2 - 12 [480p ADN WE... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-12.n2090773) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LN7KOM5S2UL4JGNWWOEIMAMHDA2K6GI5) |
-| [Erai-raws] Mato Seihei no Slave 2 - 12 [1080p ADN W... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-12.n2090772) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HDKGHMQXA2S5GYCWDB3TNXIJXLSLIACW) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
