@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 27/3/2026, 22.59.13 WIB
+**Sync Terakhir:** 28/3/2026, 00.04.32 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Onalrie] Sousou no Frieren - S02E10 [1080p WEBRip A... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-sousou-no-frieren-s02e10-1080p-webrip-av1-mkv.2069904) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MSEILZG5VITQRFXP7SFVYVEYGLIIA53E) |
-| Frieren Beyond Journeys End S02E07 The Divine Revolt... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e07-divine-revolte-1080p.n2090671) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JLG752BXPBLPQGOBVXWLR6ITWF4CHIQC) |
-| [Yameii] Frieren: Beyond Journey's End - S02E08 [Eng... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-frieren-beyond-journeys-end-s02e08-english-dub.n2090661) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HMWUBIJDMWKTWIIGS2YHDWZ4RGZL7XMZ) |
-| [Yameii] Frieren: Beyond Journey's End - S02E08 [Eng... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-frieren-beyond-journeys-end-s02e08-english-dub.n2090658) <br><br> [🐱 Nyaa](https://nyaa.si/?q=O54ALNY2PYDVBEVGOBKD7YH3RWXP3GCP) |
-| Frieren Beyond Journeys End S02E08 A Magnificent End... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e08-magnificent-1080p-cr.n2090654) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6E7WSNIQLXT7FWIP5EYCH75EC7IQKBMF) |
-| Frieren Beyond Journeys End S02E10 A Beautiful Sight... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e10-beautiful-sight-1080p.n2090653) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QK4KYBPJTUCXHUXJNZNRATVBNEEHV5EJ) |
-| Frieren Beyond Journeys End S02E10 A Beautiful Sight... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e10-beautiful-sight-1080p.n2090652) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7ZA4TNWT7K5JQGCONFGDOT4BM6HCN6II) |
-| [SubsPlease] Sousou no Frieren S2 - 10 (1080p) [7D35... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-sousou-no-frieren-s2-10-1080p-7d35515e-mkv.n2090650) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M7TFKY5L64IYJGIKKTENHIIR4NE52ZZP) |
-| [SubsPlease] Sousou no Frieren S2 - 10 (720p) [F95E5... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-sousou-no-frieren-s2-10-720p-f95e58ba-mkv.n2090649) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XIMG2VNRTY4E7BOWCJXG6SGFCPOG5B5F) |
-| [izu & kuroyuki] Kirepapa (2008) [DVD] | Kire Papa /... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/izu-kuroyuki-kirepapa-2008-dvd-kire-papa.n2090647) <br><br> [🐱 Nyaa](https://nyaa.si/?q=74CP4B23VLOTRHZTIWGYRCWHU2J6ZREL) |
+| HELL MODE The Hardcore Gamer Dominates in Another Wo... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/hell-mode-hardcore-gamer-dominates-another-world-garbage.n2090713) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GGSYWA2H7AEPOJPK53KPT3V7TZPQZZ3Y) |
+| DARK MOON THE BLOOD ALTAR S01E12 Dark Moon-The Moon ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/dark-moon-blood-altar-s01e12-dark-moon-altar.n2090712) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FVPIZE2OES6IIWT2UKONMDTUG3HVYFCC) |
+| [ToonsHub] HELL MODE The Hardcore Gamer Dominates in... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hell-mode-hardcore-gamer-dominates-another-world.k9968680243459) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QU7L2VMSLVCUR4G4PFDT4D5MERTDKK75) |
+| [ToonsHub] HELL MODE The Hardcore Gamer Dominates in... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hell-mode-hardcore-gamer-dominates-another-world.k9968632448263) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TDUJGMFKIXZIQKB27ALS5XZ7FOHFJE2Q) |
+| [Yameii] DARK MOON: THE BLOOD ALTAR - S01E12 [Englis... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dark-moon-blood-altar-s01e12-english-dub.n2090709) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TRE5ZCJ5FVQ5MIYMVBYU564EL2D7HCCF) |
+| [SubsPlease] Hell Mode - 12 (1080p) [28C8AC8C].mkv | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-12-1080p-28c8ac8c-mkv.n2090708) <br><br> [🐱 Nyaa](https://nyaa.si/?q=46TYQ2VQW6PANBTKKUNIK53374GBOND7) |
+| [SubsPlease] Hell Mode - 12 (720p) [F554A399].mkv | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-12-720p-f554a399-mkv.n2090706) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HUXAUVGUPZJKPZLAANL7ULJD66LRBQEZ) |
+| [ToonsHub] DARK MOON THE BLOOD ALTAR S01E12 1080p CR... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dark-moon-blood-altar-s01e12-1080p-cr.k9968607997704) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ELIITRQYMRB7ATY6GEUXQUPR4SJVAZYX) |
+| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2090703) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3WAUBCZSP5K7WNGVGWNNNTJQV4RKNTJB) |
+| [SubsPlease] Hell Mode - 12 (480p) [903131CB].mkv | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-12-480p-903131cb-mkv.n2090704) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3MOR3CJPGCCAV2B5XV4QGJ3O75VGGLT6) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
