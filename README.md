@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 27/3/2026, 18.45.28 WIB
+**Sync Terakhir:** 27/3/2026, 20.18.39 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [LbE3L] Oshi no Ko S03E05 [1080p WEBRip AV1] [Castel... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e05-1080p-webrip-av1.k9965165563404) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KV65XJJCGS5AAIGNDPKL6VEWHTSLYGPE) |
+| [LG] The Colors Within (2024) (DCP 1080p H264 FLAC) ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/lg-colors-within-2024-dcp-1080p-h264-flac.k9964789850885) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LFE6VOE33A2NK52WVU234VUUIPKOM3J4) |
+| [FSP DN] Jian Lai 2 (Sword of Coming 2) - 16 [4K] | 剑来 | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/fsp-dn-jian-lai-2-sword-coming-2-16-4k.n2090599) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UTMTAN7S3GKK4OW7DSV7BWQUCF44HJ6B) |
 | Sentenced to Be a Hero S01E11 1080p CR WEB-DL MULTi ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/sentenced-hero-s01e11-1080p-cr-web-dl-multi.n2090597) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PWGADVXBDWEBF77346CH6IZVKJP5FOSJ) |
 | [Anime Land] Peace Maker Kurogane Movie 02 - Yuumei ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-land-peace-maker-kurogane-movie-02-yuumei.n2090577) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ICZQYCFCHIRYJK2UQAPBOBJOHKMLBXR2) |
 | [Onalrie] Hitori no Shita - The Outcast - S06E13 [10... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e13-1080p-webrip-av1-mkv.2069815) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6ZW4UNMWUB6MHFE3A74OU3Z3NCO757LA) |
@@ -24,9 +27,6 @@
 | [fig] My Hero Academia S06 V2 (BluRay Remux 1080p AV... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/fig-my-hero-academia-s06-v2-bluray-remux.n2090575) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MABHL5YMLS4UOYRIVCCGUDUQCG5AAXAO) |
 | [BlackRabbit] Initial D (1998) - S03 [Bluray-1080p][... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-initial-d-1998-s03-bluray-1080p-opus.k9959012990729) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YXEODGLW5YVARA6R2DXU42EP3DLMDQZP) |
 | [BlackRabbit] Initial D (1998) - S02 [Bluray-1080p][... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-initial-d-1998-s02-bluray-1080p-opus.k9958968780040) <br><br> [🐱 Nyaa](https://nyaa.si/?q=P5J4CSN2KQEKYFSENBXFBXBHDTZLDZ3P) |
-| [BlackRabbit] Initial D (1998) - S01 [Bluray-1080p][... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-initial-d-1998-s01-bluray-1080p-opus.k9958934011143) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4OSXNSPUSTK3ARXXPKK4LUDGC3XSDVVP) |
-| [Anime Time] Kaiju No. 8 (Kaijuu 8-gou) - (Season 2)... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-kaiju-no-8-kaijuu-gou-season.n2090570) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IDKS6GWIDUFVYEB4FZW7WZG3RXAOTUXS) |
-| [Anime Time] Kaiju No. 8 (Kaijuu 8-gou) - Hoshina's ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-kaiju-no-8-kaijuu-gou-hoshinas.n2090568) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AOXZC4X3LXFK6QJETSBQAHREDKTAJFM2) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
