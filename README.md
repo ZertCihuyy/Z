@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 27/3/2026, 17.54.16 WIB
+**Sync Terakhir:** 27/3/2026, 18.45.28 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| Sentenced to Be a Hero S01E11 1080p CR WEB-DL MULTi ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/sentenced-hero-s01e11-1080p-cr-web-dl-multi.n2090597) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PWGADVXBDWEBF77346CH6IZVKJP5FOSJ) |
 | [Anime Land] Peace Maker Kurogane Movie 02 - Yuumei ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-land-peace-maker-kurogane-movie-02-yuumei.n2090577) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ICZQYCFCHIRYJK2UQAPBOBJOHKMLBXR2) |
 | [Onalrie] Hitori no Shita - The Outcast - S06E13 [10... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e13-1080p-webrip-av1-mkv.2069815) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6ZW4UNMWUB6MHFE3A74OU3Z3NCO757LA) |
+| Number24 [Season 1] (BD 1080p Dual Audio] (AV1) | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/number24-season-1-bd-1080p-dual-audio-av1.k9959488487694) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6H4KAUNIBWMQXEA2M3N4XN4GRR7OU6FS) |
 | [fig] My Hero Academia S06 V2 (BluRay Remux 1080p AV... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/fig-my-hero-academia-s06-v2-bluray-remux.n2090575) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MABHL5YMLS4UOYRIVCCGUDUQCG5AAXAO) |
 | [BlackRabbit] Initial D (1998) - S03 [Bluray-1080p][... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-initial-d-1998-s03-bluray-1080p-opus.k9959012990729) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YXEODGLW5YVARA6R2DXU42EP3DLMDQZP) |
 | [BlackRabbit] Initial D (1998) - S02 [Bluray-1080p][... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-initial-d-1998-s02-bluray-1080p-opus.k9958968780040) <br><br> [🐱 Nyaa](https://nyaa.si/?q=P5J4CSN2KQEKYFSENBXFBXBHDTZLDZ3P) |
 | [BlackRabbit] Initial D (1998) - S01 [Bluray-1080p][... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-initial-d-1998-s01-bluray-1080p-opus.k9958934011143) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4OSXNSPUSTK3ARXXPKK4LUDGC3XSDVVP) |
 | [Anime Time] Kaiju No. 8 (Kaijuu 8-gou) - (Season 2)... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-kaiju-no-8-kaijuu-gou-season.n2090570) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IDKS6GWIDUFVYEB4FZW7WZG3RXAOTUXS) |
 | [Anime Time] Kaiju No. 8 (Kaijuu 8-gou) - Hoshina's ... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-kaiju-no-8-kaijuu-gou-hoshinas.n2090568) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AOXZC4X3LXFK6QJETSBQAHREDKTAJFM2) |
-| Hitori No Shita The Outcast S06E13 1080p CR WEB-DL A... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e13-1080p-cr-web.n2090564) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3P4HTWFFTUG7CQ73MNVLZIJCJHHKMLYI) |
-| [ASW] Hitori no Shita - The Outcast S6 - 13 [1080p H... | NaN MB | 27/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-13-1080p.n2090561) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QI4FTE6YSMXEC5I5NHQZTDMZYOOR5M5K) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
