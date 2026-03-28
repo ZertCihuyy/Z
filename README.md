@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 11.58.09 WIB
+**Sync Terakhir:** 28/3/2026, 13.03.54 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Sokudo] JUJUTSU KAISEN S03E12 [1080p AV1] (weekly) | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jujutsu-kaisen-s03e12-1080p-av1-weekly.n2090898) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LKSNVW6QI4XJ7ZHW6H4ZYB5W2IWTJQQU) |
+| [Breeze] JUJUTSU KAISEN S03E12 [1080p AV1] (weekly) | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/breeze-jujutsu-kaisen-s03e12-1080p-av1-weekly.n2090897) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5SOPR53QZ53MYV7W6CUCALYIBD3U374Q) |
+| Plus-Sized.Elf.S01.1080p.BluRay.Dual-Audio.Opus.2.0.... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/plus-sized-elf-s01-1080p-bluray-dual-audio.k9980666051083) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C22N3IKCB2HQSEGMXUU7D4YRJIZVTUM7) |
 | [Anime Time] Frieren Beyond Journeys End (Sousou no ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2090890) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BSZPUPJISBN23MHWCPIR3QENUFLOXA4Y) |
 | [MeruMeruSubs] Astro Boy - Tetsuwan Atom (2003) v2 | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/merumerusubs-astro-boy-tetsuwan-atom-2003-v2.n2090889) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZKTLYH62TNMCSWHHBN45QXRCC344EN72) |
 | [Bird] Cardfight!! Vanguard - Divinez Genma Seisen-h... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-10-1080p.n2090888) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ISWWB4AW7I6CMKOE5EK7FVDKMQMRQ7LX) |
@@ -24,9 +27,6 @@
 | [Gecko] B.King - S01E07 (驭灵师; Yu Ling Shi) [BILI.WEB... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e07-yu-ling-shi-bili.k9978238567174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=STINS5KJBUXGOYC73M4GDFJHX3EQP3TP) |
 | High School KIMENGUMI S01E12 Kimengumi Back in the D... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/high-school-kimengumi-s01e12-kimengumi-back-day-1080p.n2090880) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IXGMINASC7EGWZWLGH6IUGCLMZ5TMY7G) |
 | [ToonsHub] High School Kimengumi 2026 S01E12 1080p A... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-high-school-kimengumi-2026-s01e12-1080p-amzn.k9978196157185) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CEQ7Y6IL4SAVEXO5YPRFU2UZTVXO6R5X) |
-| [ToonsHub] B King S01E07 1080p BILI WEB-DL AAC2.0 H.... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e07-1080p-bili-web-dl.n2090878) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FGFZCKFOUYVWKIUWTA5ZSA323UICULVO) |
-| [Ironclad] Eris no Seihai - S01 [WEB.1080p.AV1] | Th... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-eris-no-seihai-s01-web-1080p-av1.n2090861) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UYOFQSJGMTMI6NBZPYNLBGTFARXHE64S) |
-| [MuteCityDrifters] F-Zero Falcon Densetsu 26-30 | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/mutecitydrifters-f-zero-falcon-densetsu-26-30.n2090859) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WTUIIBWBASJER2A7Z3ANQ6HMHOHP4YSO) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
