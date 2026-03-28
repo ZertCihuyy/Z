@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 17.38.39 WIB
+**Sync Terakhir:** 28/3/2026, 18.33.20 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Bananice] Volicia of Pluto Chapters 1 + 2 [1080p] | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/bananice-volicia-pluto-chapters-1-2-1080p.n2090940) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AW4G7QZIKITMT3ZBCQWUAIZUZQXDGV3L) |
+| Blue Miburo S02E14 Song of Beginnings 1080p CR WEB-D... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blue-miburo-s02e14-song-beginnings-1080p-cr-web.n2090936) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZD2FXYCVEFNOISQ74IL34F25ROSMHTTD) |
 | [Onalrie] Ao no Miburo - S02E14 [1080p WEBRip AV1].mkv | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-ao-no-miburo-s02e14-1080p-webrip-av1-mkv.2070024) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CJMLQ7DCXWN7DBTLCJ6C3ZVVURMBEMXB) |
 | [ASW] Ao no Miburo S2 - 14 [1080p HEVC x265 10Bit][AAC] | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-ao-no-miburo-s2-14-1080p-hevc.n2090932) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HPPBTZ7PW2JHJ2PWZG56NCLYPQJIEMXN) |
 | [ToonsHub] Way of Choices 2026 S01E11 1080p iQ WEB-D... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-way-choices-2026-s01e11-1080p-iq-web.k9984644620291) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BDTL3UNVWM7POKX3GSAXBS3STL37FVTC) |
@@ -25,8 +27,6 @@
 | [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 14 ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2090923) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MANBIOHHXK2FCFR35WYHP67CK66DHEFD) |
 | [SubsPlease] Ao no Miburo S2 - 14 (1080p) [C9701FB9]... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-14-1080p-c9701fb9-mkv.n2090922) <br><br> [🐱 Nyaa](https://nyaa.si/?q=D4H2PM4CG4Y7MCJOKCJBW4NS6MSBMM5K) |
 | [SubsPlease] Ao no Miburo S2 - 14 (720p) [7CAD3837].mkv | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-14-720p-7cad3837-mkv.n2090921) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OUU2DTLBWTWSSBAXBIGX36ONPYXPETBR) |
-| [SubsPlease] Ao no Miburo S2 - 14 (480p) [7FC2A668].mkv | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-14-480p-7fc2a668-mkv.n2090920) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BAZ6AXECYRG2ZTZBURK6ZNVRJUHCSY35) |
-| [ToonsHub] Blue Miburo S02E14 1080p CR WEB-DL AAC2.0... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-blue-miburo-s02e14-1080p-cr-web-dl.k9984179918605) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5444NIHYCNJQXQUCAQR5FDDEP5AXSSGI) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
