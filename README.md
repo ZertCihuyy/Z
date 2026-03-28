@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 22.36.26 WIB
+**Sync Terakhir:** 29/3/2026, 00.35.30 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [VARYG] A Misanthrope Teaches a Class for Demi Human... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-misanthrope-teaches-class-demi-humans-s01e10-comets.k9989758601999) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A4YLWE6PU6DHBGEAE2KNTVCHJRFVBMPK) |
-| [VARYG] GNOSIA S01E20 World of Stars 1080p CR WEB-DL... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-gnosia-s01e20-world-stars-1080p-cr-web.k9989755298831) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GPQQ4NRMLSZ6JWESW5CGAILXICDINTXE) |
-| [VARYG] A Misanthrope Teaches a Class for Demi Human... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-misanthrope-teaches-class-demi-humans-s01e12-falsehood.k9989748986894) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WTHKATAHOOV6GCHXXXQLMLRZ75DHMDH5) |
-| [Vodes] Jigokuraku - S02E08 (WEB 1080p HEVC AAC) | H... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/vodes-jigokuraku-s02e08-web-1080p-hevc-aac-hells-paradise-s2.k9989746771469) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KMENJU7E4KYY7EVFGQJ64QHFED33MYCY) |
-| [Judas] Jingai Kyoushitsu no Ningengirai Kyoushi (A ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-jingai-kyoushitsu-no-ningengirai-kyoushi-misanthrope.n2091030) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BD3OXCP6XM4YROESSYN6D3TE74ZMKLFQ) |
-| [Yameii] Dead Account - S01E10 [English Dub] [CR WEB... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dead-account-s01e10-english-dub-cr-web.n2091029) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BAVO773IWAP24IXYUPCNGUD6OLQIRWKK) |
-| [Yameii] TRIGUN STAMPEDE - S02E10 [English Dub] [CR ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-trigun-stampede-s02e10-english-dub-cr-web.n2091028) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RRC2FGLKXHXKWDVIRHFX6K4HFOX3WQJU) |
-| [Yameii] Dead Account - S01E10 [English Dub] [CR WEB... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dead-account-s01e10-english-dub-cr-web.n2091027) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BZASTGYWKQXAIP66STMQGTPAEQRIJL7O) |
-| [Yameii] TRIGUN STAMPEDE - S02E10 [English Dub] [CR ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-trigun-stampede-s02e10-english-dub-cr-web.n2091026) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M33BPCTHR3BC3JUFMVUKRFDPZ56OOJN5) |
-| [SubsPlease] Trigun Stargaze - 24 (1080p) [DB0EA83B]... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stargaze-24-1080p-db0ea83b-mkv.n2091023) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3EVCWFGR4OUT4GHQOD7524T3RUMVEXQK) |
+| [Freehold] Chained Soldier S02E12 [ADN WEB-DL 1080p ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e12-adn-web-dl-1080p.n2091151) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5I7DTKIZX32O4T52OEDDOBBFE5UJDJYS) |
+| [ASW] Jingai Kyoushitsu no Ningengirai Kyoushi - 12 ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-jingai-kyoushitsu-no-ningengirai-kyoushi-12-1080p.n2091150) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L3BXQTEDJYMGNGKX6OK5AWO64OGB7UCV) |
+| [SubsPlease] AnimeJapan Awards 2026 (01-07) (1080p) ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-animejapan-awards-2026-01-07-1080p-batch.n2091148) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2M7VUANTD5K6PD4IMABCICAHGHYZ2AVL) |
+| [SubsPlease] AnimeJapan Awards 2026 (01-07) (720p) [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-animejapan-awards-2026-01-07-720p-batch.n2091147) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ESQ6AVAOINQUCLSN2SUXU6BZHSKHOUJG) |
+| [SubsPlease] AnimeJapan Awards 2026 (01-07) (480p) [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-animejapan-awards-2026-01-07-480p-batch.n2091146) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AXJ7NVQ5MG74G7WVBSQ5LNQAFASWGNUK) |
+| [Yameii] Tojima Wants to Be a Kamen Rider - S01E23 [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tojima-wants-kamen-rider-s01e23-english-dub.n2091144) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GXQQ62YWMXE76LWFO5ORTDDS3HUC7IB4) |
+| [Onalrie] Jingai Kyoushitsu no Ningengirai Kyoushi -... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-jingai-kyoushitsu-no-ningengirai-kyoushi-s01e12.2070145) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FXUILEPRCDTVUXGYXA6HOBCJTKGZX7TJ) |
+| [ToonsHub] Scum of the Brave S01E12 1080p CR WEB-DL ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-scum-brave-s01e12-1080p-cr-web-dl.k9991137278215) <br><br> [🐱 Nyaa](https://nyaa.si/?q=64EYW4WMOILLWDLFRAWLUMOIEWKW4PU5) |
+| [ToonsHub] Tojima Wants to Be a Kamen Rider S01E23 1... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-tojima-wants-kamen-rider-s01e23-1080p-cr.k9991134772742) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J5O6SIPNDEE6V7Z54QHULWNROAWJ3Q5T) |
+| [Yameii] Tojima Wants to Be a Kamen Rider - S01E23 [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tojima-wants-kamen-rider-s01e23-english-dub.n2091141) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QE7GN3K6MBB6I6NUTAJZMINDCE5EZEW5) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
