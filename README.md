@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 20.06.47 WIB
+**Sync Terakhir:** 28/3/2026, 21.37.28 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [VARYG] Reincarnated as a Dragon Hatchling S01E12 I ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-reincarnated-dragon-hatchling-s01e12-looked-sky-saw.k9987456221199) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HTKGFD2B377PY54IW7VVKOZKV3LEYF56) |
+| [LbE3L] Tougen Anki S01E05–E08 [1080p CUSTOM WEBRip ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-tougen-anki-s01e05e08-1080p-custom-webrip-av1.k9988607415817) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GZNT4A3N3NFV6XH3XQDUOGZOVLEIESIG) |
+| [ASW] Tensei shitara Dragon no Tamago datta - 12 [10... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-tensei-shitara-dragon-no-tamago-datta-12.n2090976) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FS2XYQMJPRYY7P5QSGUHF6V62IWLDGOH) |
+| [Onalrie] Tensei shitara Dragon no Tamago datta - S0... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-tensei-shitara-dragon-no-tamago-datta-s01e12.2070055) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HDATP4B6ZHT62O46EWEVQGMF6CQMMMYW) |
+| [ToonsHub] Reincarnated as a Dragon Hatchling S01E12... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reincarnated-dragon-hatchling-s01e12-1080p-hidive.n2090975) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PSOP4XMIR4MMOUZIAK2MFCRJRPMV3MEW) |
+| [SubsPlus+] Reincarnated as a Dragon Hatchling - S01... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplus-reincarnated-dragon-hatchling-s01e12-amzn-web-dl.n2090974) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JI3IWYCUIWDWLO5TLW5WC555IGXIWQFN) |
+| [kikuri] Chou Kaguya-hime! (2026) (WEB 1080p HEVC E-... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/kikuri-chou-kaguya-hime-2026-web-1080p-hevc.k9987668306691) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4DAMJPTABA7PS7XK2WEX5FDZAL2ZPAQJ) |
+| Reincarnated as a Dragon Hatchling S01E12 I Looked t... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/reincarnated-dragon-hatchling-s01e12-looked-sky-saw-hero.n2090971) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HTKGFD2B377PY54IW7VVKOZKV3LEYF56) |
+| [SubsPlease] Tensei shitara Dragon no Tamago datta -... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-dragon-no-tamago-datta-12.n2090970) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4T4J6CNXXX5NTXIOCUHDEH66J74VIY5I) |
+| [SubsPlease] Tensei shitara Dragon no Tamago datta -... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-dragon-no-tamago-datta-12.n2090969) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KGYE7HC7ZU6XEM33RTDWTBAR5RJ3U5H3) |
 | [ToonsHub] Reincarnated as a Dragon Hatchling S01E12... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reincarnated-dragon-hatchling-s01e12-1080p-amzn-web.k9987421324047) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7UKREHBZPX5VB23DIXG7ZPKH4DQYPPCG) |
-| I Couldn't Become a Hero, so I Reluctantly Decided t... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/couldnt-become-hero-reluctantly-decided-get-job-yu.n2090959) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IQ57FJ2CVGPR4IVRZJZIZXI2DLQZAFMN) |
-| [Erai-raws] Detective Conan - 1195 [480p CR WEB-DL A... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1195-480p-cr-web.n2090958) <br><br> [🐱 Nyaa](https://nyaa.si/?q=V37T4U4LKWCVRWE2LWVGNRRBAZLWTDWR) |
-| [Erai-raws] Detective Conan - 1195 [720p CR WEB-DL A... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1195-720p-cr-web.n2090957) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z4YDK7D75M6BVXHVWIDQBQZVFDDQNM72) |
-| [Erai-raws] Detective Conan - 1195 [1080p CR WEB-DL ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1195-1080p-cr-web.n2090956) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J3E66OTZQB4JCR646PFQ2EVMBZCPX6UG) |
-| [ASW] Detective Conan - 1195 [1080p HEVC x265 10Bit]... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-detective-conan-1195-1080p-hevc-x265-10bit-aac.n2090950) <br><br> [🐱 Nyaa](https://nyaa.si/?q=343OTDFGHJ5CDLF3DC3XSP3XFKTLTI5Y) |
-| [BlackRabbit] Angels of Death (2018) - S01 [Bluray-1... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-angels-death-2018-s01-bluray-1080p-opus.k9986343149574) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XQQYZUFP4E3KGXBHJEV6CHQBX7JQUMSV) |
-| [le même] Ganglion - 24 [AT-X 1080p][D5DED48B].mkv | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/le-mme-ganglion-24-x-1080p-d5ded48b-mkv.n2090949) <br><br> [🐱 Nyaa](https://nyaa.si/?q=65GGBEUH2SBAKURV5C2PCG5LSI6ON47P) |
-| Detective Conan S01E1195 The Spiral Mansion Mystery ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/detective-conan-s01e1195-spiral-mansion-mystery-part-one.n2090947) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5VKOB2HVMYBKAIUQMO2FFZW6VVO3TXO7) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
