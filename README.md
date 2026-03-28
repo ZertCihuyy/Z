@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 14.47.55 WIB
+**Sync Terakhir:** 28/3/2026, 15.49.33 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [BlackRabbit] Fullmetal Alchemist - Brotherhood (200... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fullmetal-alchemist-brotherhood-2009-s01-bluray.k9983049245698) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MRESRM4ZNSCEGGYEVAA433VLSYJE2KPJ) |
+| [BlackRabbit] Fullmetal Alchemist - Brotherhood (200... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fullmetal-alchemist-brotherhood-2009-s00-bluray.k9982920278538) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ICIL3URS6CLZOWH5NOR67X7AVC3OH722) |
 | Beelzebub (2011) S01 (WEBDL 1080p x264 AAC) (English... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/beelzebub-2011-s01-webdl-1080p-x264-aac-english-dub-s1ph3r.n2090908) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JOJMKC7SJJOVWCGADWGKHLD6SN6NLZNE) |
 | [ToonsHub] B King S01E07 1080p ADN WEB-DL AAC2.0 H.2... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e07-1080p-adn-web-dl.n2090901) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FUIWZNTT4GHNZUT5RFEE5E3BMO7KHTMT) |
 | [Sokudo] Mato Seihei no Slave S02 Uncensored [1080p ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-mato-seihei-no-slave-s02-uncensored-1080p.n2090899) <br><br> [🐱 Nyaa](https://nyaa.si/?q=F4JSE5PIDZHAK3GJGCJ4PKMLXWUBGXS6) |
@@ -25,8 +27,6 @@
 | Plus-Sized.Elf.S01.1080p.BluRay.Dual-Audio.Opus.2.0.... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/plus-sized-elf-s01-1080p-bluray-dual-audio.k9980666051083) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C22N3IKCB2HQSEGMXUU7D4YRJIZVTUM7) |
 | [Anime Time] Frieren Beyond Journeys End (Sousou no ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2090890) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BSZPUPJISBN23MHWCPIR3QENUFLOXA4Y) |
 | [MeruMeruSubs] Astro Boy - Tetsuwan Atom (2003) v2 | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/merumerusubs-astro-boy-tetsuwan-atom-2003-v2.n2090889) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZKTLYH62TNMCSWHHBN45QXRCC344EN72) |
-| [Bird] Cardfight!! Vanguard - Divinez Genma Seisen-h... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-10-1080p.n2090888) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ISWWB4AW7I6CMKOE5EK7FVDKMQMRQ7LX) |
-| Cardfight!! Vanguard: Divinez Parallactic Clash - 10... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-10-genma-seisen.n2090887) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NCJFOS4IYETZI3KAJ65WTSYJSVRSEDBJ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
