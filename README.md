@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 13.03.54 WIB
+**Sync Terakhir:** 28/3/2026, 14.47.55 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,9 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| Beelzebub (2011) S01 (WEBDL 1080p x264 AAC) (English... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/beelzebub-2011-s01-webdl-1080p-x264-aac-english-dub-s1ph3r.n2090908) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JOJMKC7SJJOVWCGADWGKHLD6SN6NLZNE) |
+| [ToonsHub] B King S01E07 1080p ADN WEB-DL AAC2.0 H.2... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e07-1080p-adn-web-dl.n2090901) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FUIWZNTT4GHNZUT5RFEE5E3BMO7KHTMT) |
+| [Sokudo] Mato Seihei no Slave S02 Uncensored [1080p ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-mato-seihei-no-slave-s02-uncensored-1080p.n2090899) <br><br> [🐱 Nyaa](https://nyaa.si/?q=F4JSE5PIDZHAK3GJGCJ4PKMLXWUBGXS6) |
 | [Sokudo] JUJUTSU KAISEN S03E12 [1080p AV1] (weekly) | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jujutsu-kaisen-s03e12-1080p-av1-weekly.n2090898) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LKSNVW6QI4XJ7ZHW6H4ZYB5W2IWTJQQU) |
 | [Breeze] JUJUTSU KAISEN S03E12 [1080p AV1] (weekly) | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/breeze-jujutsu-kaisen-s03e12-1080p-av1-weekly.n2090897) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5SOPR53QZ53MYV7W6CUCALYIBD3U374Q) |
 | Plus-Sized.Elf.S01.1080p.BluRay.Dual-Audio.Opus.2.0.... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/plus-sized-elf-s01-1080p-bluray-dual-audio.k9980666051083) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C22N3IKCB2HQSEGMXUU7D4YRJIZVTUM7) |
@@ -24,9 +27,6 @@
 | [MeruMeruSubs] Astro Boy - Tetsuwan Atom (2003) v2 | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/merumerusubs-astro-boy-tetsuwan-atom-2003-v2.n2090889) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZKTLYH62TNMCSWHHBN45QXRCC344EN72) |
 | [Bird] Cardfight!! Vanguard - Divinez Genma Seisen-h... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-10-1080p.n2090888) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ISWWB4AW7I6CMKOE5EK7FVDKMQMRQ7LX) |
 | Cardfight!! Vanguard: Divinez Parallactic Clash - 10... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-10-genma-seisen.n2090887) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NCJFOS4IYETZI3KAJ65WTSYJSVRSEDBJ) |
-| [Gecko] B.King - S01E07 (驭灵师; Yu Ling Shi) [BILI.WEB... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e07-yu-ling-shi-bili.k9978238567174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=STINS5KJBUXGOYC73M4GDFJHX3EQP3TP) |
-| High School KIMENGUMI S01E12 Kimengumi Back in the D... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/high-school-kimengumi-s01e12-kimengumi-back-day-1080p.n2090880) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IXGMINASC7EGWZWLGH6IUGCLMZ5TMY7G) |
-| [ToonsHub] High School Kimengumi 2026 S01E12 1080p A... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-high-school-kimengumi-2026-s01e12-1080p-amzn.k9978196157185) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CEQ7Y6IL4SAVEXO5YPRFU2UZTVXO6R5X) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
