@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 09.41.10 WIB
+**Sync Terakhir:** 28/3/2026, 11.58.09 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Anime Time] Frieren Beyond Journeys End (Sousou no ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2090890) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BSZPUPJISBN23MHWCPIR3QENUFLOXA4Y) |
+| [MeruMeruSubs] Astro Boy - Tetsuwan Atom (2003) v2 | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/merumerusubs-astro-boy-tetsuwan-atom-2003-v2.n2090889) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZKTLYH62TNMCSWHHBN45QXRCC344EN72) |
+| [Bird] Cardfight!! Vanguard - Divinez Genma Seisen-h... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-10-1080p.n2090888) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ISWWB4AW7I6CMKOE5EK7FVDKMQMRQ7LX) |
+| Cardfight!! Vanguard: Divinez Parallactic Clash - 10... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-10-genma-seisen.n2090887) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NCJFOS4IYETZI3KAJ65WTSYJSVRSEDBJ) |
+| [Gecko] B.King - S01E07 (驭灵师; Yu Ling Shi) [BILI.WEB... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e07-yu-ling-shi-bili.k9978238567174) <br><br> [🐱 Nyaa](https://nyaa.si/?q=STINS5KJBUXGOYC73M4GDFJHX3EQP3TP) |
+| High School KIMENGUMI S01E12 Kimengumi Back in the D... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/high-school-kimengumi-s01e12-kimengumi-back-day-1080p.n2090880) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IXGMINASC7EGWZWLGH6IUGCLMZ5TMY7G) |
+| [ToonsHub] High School Kimengumi 2026 S01E12 1080p A... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-high-school-kimengumi-2026-s01e12-1080p-amzn.k9978196157185) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CEQ7Y6IL4SAVEXO5YPRFU2UZTVXO6R5X) |
+| [ToonsHub] B King S01E07 1080p BILI WEB-DL AAC2.0 H.... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e07-1080p-bili-web-dl.n2090878) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FGFZCKFOUYVWKIUWTA5ZSA323UICULVO) |
 | [Ironclad] Eris no Seihai - S01 [WEB.1080p.AV1] | Th... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-eris-no-seihai-s01-web-1080p-av1.n2090861) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UYOFQSJGMTMI6NBZPYNLBGTFARXHE64S) |
 | [MuteCityDrifters] F-Zero Falcon Densetsu 26-30 | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/mutecitydrifters-f-zero-falcon-densetsu-26-30.n2090859) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WTUIIBWBASJER2A7Z3ANQ6HMHOHP4YSO) |
-| Frieren.Beyond.Journeys.End.S02E10.1080p.CR.WEBRip.1... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e10-1080p-cr-webrip.n2090827) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2B3Y2LE5TAPIC2BULMNQJL76FRT76V2Q) |
-| [Beltraz] Love, Chunibyo & Other Delusions!: Take On... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-love-chunibyo-other-delusions-take-me-2018.k9973566451725) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FKL2OB5QJTQ4XR4PJBZAC57IWCQVWQE6) |
-| [Beltraz] Dog Days (2011) - S01 (BD 1080p x264 FLAC) | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-dog-days-2011-s01-bd-1080p-x264-flac.k9973172605699) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W3LNZ4SCRODGSP35UZ2KWFVRMNI5UDVY) |
-| [BlackRabbit] Unlimited Psychic Squad (2013) - S01 [... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-unlimited-psychic-squad-2013-s01-bluray-1080p.k9973076641549) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JSAPU67DN5M5PBAUQ7F4O4AJUI4YA7D2) |
-| [Piyoko] Himitsu no AiPri: Ring-hen - 50 [WEB 1080p ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/piyoko-himitsu-no-aipri-ring-hen-50-web.n2090806) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BVZE3MUZHBH5Y7VZDEDFQV5WRQPQL2S2) |
-| [Anime Time] Frieren Beyond Journeys End (Sousou no ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2090805) <br><br> [🐱 Nyaa](https://nyaa.si/?q=X4JYU5C2XLW3QS3UYHQ4K5KW2S23WSGQ) |
-| [Yameii] DARK MOON: THE BLOOD ALTAR - S01E12 v2 [Eng... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dark-moon-blood-altar-s01e12-v2-english.n2090802) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GGTJ3HVTY53MRKWKL2KVHCMEMMBF434I) |
-| [Yameii] DARK MOON: THE BLOOD ALTAR - S01E12 v2 [Eng... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-dark-moon-blood-altar-s01e12-v2-english.n2090801) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XMZPH3ZFSERUXMWTBRGVDX55A3VDWIKK) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
