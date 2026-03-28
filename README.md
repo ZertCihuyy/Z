@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 15.49.33 WIB
+**Sync Terakhir:** 28/3/2026, 16.43.17 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 14 ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2090925) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SMWJFMV6KHQ5HWQCWUSWKKHAMALPCXFH) |
+| [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 14 ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2090924) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CDWDPCUKXL6B4CXBC2BX2UY7KYUR6YXX) |
+| [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 14 ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2090923) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MANBIOHHXK2FCFR35WYHP67CK66DHEFD) |
+| [SubsPlease] Ao no Miburo S2 - 14 (1080p) [C9701FB9]... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-14-1080p-c9701fb9-mkv.n2090922) <br><br> [🐱 Nyaa](https://nyaa.si/?q=D4H2PM4CG4Y7MCJOKCJBW4NS6MSBMM5K) |
+| [SubsPlease] Ao no Miburo S2 - 14 (720p) [7CAD3837].mkv | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-14-720p-7cad3837-mkv.n2090921) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OUU2DTLBWTWSSBAXBIGX36ONPYXPETBR) |
+| [SubsPlease] Ao no Miburo S2 - 14 (480p) [7FC2A668].mkv | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-14-480p-7fc2a668-mkv.n2090920) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BAZ6AXECYRG2ZTZBURK6ZNVRJUHCSY35) |
+| [ToonsHub] Blue Miburo S02E14 1080p CR WEB-DL AAC2.0... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-blue-miburo-s02e14-1080p-cr-web-dl.k9984179918605) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5444NIHYCNJQXQUCAQR5FDDEP5AXSSGI) |
+| [LbE3L] Dark Moon. The Blood Altar S01 CR [1080p WEB... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-dark-moon-blood-altar-s01-cr-1080p.k9983611773706) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U2WOU5MQ4WDY6UCTEBQ4YOEBBXXPZTJE) |
+| [LbE3L] [H.266] Sentenced to Be a Hero S01E11 [1080p... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-sentenced-hero-s01e11-1080p-cr.k9983508300807) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7P5BNLNKN7XGUP4U525YKYHPF3USCLMO) |
 | [BlackRabbit] Fullmetal Alchemist - Brotherhood (200... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fullmetal-alchemist-brotherhood-2009-s01-bluray.k9983049245698) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MRESRM4ZNSCEGGYEVAA433VLSYJE2KPJ) |
-| [BlackRabbit] Fullmetal Alchemist - Brotherhood (200... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fullmetal-alchemist-brotherhood-2009-s00-bluray.k9982920278538) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ICIL3URS6CLZOWH5NOR67X7AVC3OH722) |
-| Beelzebub (2011) S01 (WEBDL 1080p x264 AAC) (English... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/beelzebub-2011-s01-webdl-1080p-x264-aac-english-dub-s1ph3r.n2090908) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JOJMKC7SJJOVWCGADWGKHLD6SN6NLZNE) |
-| [ToonsHub] B King S01E07 1080p ADN WEB-DL AAC2.0 H.2... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e07-1080p-adn-web-dl.n2090901) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FUIWZNTT4GHNZUT5RFEE5E3BMO7KHTMT) |
-| [Sokudo] Mato Seihei no Slave S02 Uncensored [1080p ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-mato-seihei-no-slave-s02-uncensored-1080p.n2090899) <br><br> [🐱 Nyaa](https://nyaa.si/?q=F4JSE5PIDZHAK3GJGCJ4PKMLXWUBGXS6) |
-| [Sokudo] JUJUTSU KAISEN S03E12 [1080p AV1] (weekly) | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jujutsu-kaisen-s03e12-1080p-av1-weekly.n2090898) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LKSNVW6QI4XJ7ZHW6H4ZYB5W2IWTJQQU) |
-| [Breeze] JUJUTSU KAISEN S03E12 [1080p AV1] (weekly) | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/breeze-jujutsu-kaisen-s03e12-1080p-av1-weekly.n2090897) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5SOPR53QZ53MYV7W6CUCALYIBD3U374Q) |
-| Plus-Sized.Elf.S01.1080p.BluRay.Dual-Audio.Opus.2.0.... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/plus-sized-elf-s01-1080p-bluray-dual-audio.k9980666051083) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C22N3IKCB2HQSEGMXUU7D4YRJIZVTUM7) |
-| [Anime Time] Frieren Beyond Journeys End (Sousou no ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2090890) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BSZPUPJISBN23MHWCPIR3QENUFLOXA4Y) |
-| [MeruMeruSubs] Astro Boy - Tetsuwan Atom (2003) v2 | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/merumerusubs-astro-boy-tetsuwan-atom-2003-v2.n2090889) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZKTLYH62TNMCSWHHBN45QXRCC344EN72) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
