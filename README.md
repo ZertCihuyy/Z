@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 28/3/2026, 18.33.20 WIB
+**Sync Terakhir:** 28/3/2026, 20.06.47 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Bananice] Volicia of Pluto Chapters 1 + 2 [1080p] | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/bananice-volicia-pluto-chapters-1-2-1080p.n2090940) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AW4G7QZIKITMT3ZBCQWUAIZUZQXDGV3L) |
-| Blue Miburo S02E14 Song of Beginnings 1080p CR WEB-D... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blue-miburo-s02e14-song-beginnings-1080p-cr-web.n2090936) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZD2FXYCVEFNOISQ74IL34F25ROSMHTTD) |
-| [Onalrie] Ao no Miburo - S02E14 [1080p WEBRip AV1].mkv | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-ao-no-miburo-s02e14-1080p-webrip-av1-mkv.2070024) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CJMLQ7DCXWN7DBTLCJ6C3ZVVURMBEMXB) |
-| [ASW] Ao no Miburo S2 - 14 [1080p HEVC x265 10Bit][AAC] | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-ao-no-miburo-s2-14-1080p-hevc.n2090932) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HPPBTZ7PW2JHJ2PWZG56NCLYPQJIEMXN) |
-| [ToonsHub] Way of Choices 2026 S01E11 1080p iQ WEB-D... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-way-choices-2026-s01e11-1080p-iq-web.k9984644620291) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BDTL3UNVWM7POKX3GSAXBS3STL37FVTC) |
-| [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 14 ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2090925) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SMWJFMV6KHQ5HWQCWUSWKKHAMALPCXFH) |
-| [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 14 ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2090924) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CDWDPCUKXL6B4CXBC2BX2UY7KYUR6YXX) |
-| [Erai-raws] Ao no Miburo: Serizawa Ansatsu-hen - 14 ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-ao-no-miburo-serizawa-ansatsu-hen.n2090923) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MANBIOHHXK2FCFR35WYHP67CK66DHEFD) |
-| [SubsPlease] Ao no Miburo S2 - 14 (1080p) [C9701FB9]... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-14-1080p-c9701fb9-mkv.n2090922) <br><br> [🐱 Nyaa](https://nyaa.si/?q=D4H2PM4CG4Y7MCJOKCJBW4NS6MSBMM5K) |
-| [SubsPlease] Ao no Miburo S2 - 14 (720p) [7CAD3837].mkv | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-ao-no-miburo-s2-14-720p-7cad3837-mkv.n2090921) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OUU2DTLBWTWSSBAXBIGX36ONPYXPETBR) |
+| [VARYG] Reincarnated as a Dragon Hatchling S01E12 I ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-reincarnated-dragon-hatchling-s01e12-looked-sky-saw.k9987456221199) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HTKGFD2B377PY54IW7VVKOZKV3LEYF56) |
+| [ToonsHub] Reincarnated as a Dragon Hatchling S01E12... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-reincarnated-dragon-hatchling-s01e12-1080p-amzn-web.k9987421324047) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7UKREHBZPX5VB23DIXG7ZPKH4DQYPPCG) |
+| I Couldn't Become a Hero, so I Reluctantly Decided t... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/couldnt-become-hero-reluctantly-decided-get-job-yu.n2090959) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IQ57FJ2CVGPR4IVRZJZIZXI2DLQZAFMN) |
+| [Erai-raws] Detective Conan - 1195 [480p CR WEB-DL A... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1195-480p-cr-web.n2090958) <br><br> [🐱 Nyaa](https://nyaa.si/?q=V37T4U4LKWCVRWE2LWVGNRRBAZLWTDWR) |
+| [Erai-raws] Detective Conan - 1195 [720p CR WEB-DL A... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1195-720p-cr-web.n2090957) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z4YDK7D75M6BVXHVWIDQBQZVFDDQNM72) |
+| [Erai-raws] Detective Conan - 1195 [1080p CR WEB-DL ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1195-1080p-cr-web.n2090956) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J3E66OTZQB4JCR646PFQ2EVMBZCPX6UG) |
+| [ASW] Detective Conan - 1195 [1080p HEVC x265 10Bit]... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-detective-conan-1195-1080p-hevc-x265-10bit-aac.n2090950) <br><br> [🐱 Nyaa](https://nyaa.si/?q=343OTDFGHJ5CDLF3DC3XSP3XFKTLTI5Y) |
+| [BlackRabbit] Angels of Death (2018) - S01 [Bluray-1... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-angels-death-2018-s01-bluray-1080p-opus.k9986343149574) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XQQYZUFP4E3KGXBHJEV6CHQBX7JQUMSV) |
+| [le même] Ganglion - 24 [AT-X 1080p][D5DED48B].mkv | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/le-mme-ganglion-24-x-1080p-d5ded48b-mkv.n2090949) <br><br> [🐱 Nyaa](https://nyaa.si/?q=65GGBEUH2SBAKURV5C2PCG5LSI6ON47P) |
+| Detective Conan S01E1195 The Spiral Mansion Mystery ... | NaN MB | 28/3/2026, | [🌐 Tosho](https://animetosho.org/view/detective-conan-s01e1195-spiral-mansion-mystery-part-one.n2090947) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5VKOB2HVMYBKAIUQMO2FFZW6VVO3TXO7) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
