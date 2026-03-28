@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 29/3/2026, 00.35.30 WIB
+**Sync Terakhir:** 29/3/2026, 02.34.38 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Freehold] Chained Soldier S02E12 [ADN WEB-DL 1080p ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e12-adn-web-dl-1080p.n2091151) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5I7DTKIZX32O4T52OEDDOBBFE5UJDJYS) |
-| [ASW] Jingai Kyoushitsu no Ningengirai Kyoushi - 12 ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-jingai-kyoushitsu-no-ningengirai-kyoushi-12-1080p.n2091150) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L3BXQTEDJYMGNGKX6OK5AWO64OGB7UCV) |
-| [SubsPlease] AnimeJapan Awards 2026 (01-07) (1080p) ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-animejapan-awards-2026-01-07-1080p-batch.n2091148) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2M7VUANTD5K6PD4IMABCICAHGHYZ2AVL) |
-| [SubsPlease] AnimeJapan Awards 2026 (01-07) (720p) [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-animejapan-awards-2026-01-07-720p-batch.n2091147) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ESQ6AVAOINQUCLSN2SUXU6BZHSKHOUJG) |
-| [SubsPlease] AnimeJapan Awards 2026 (01-07) (480p) [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-animejapan-awards-2026-01-07-480p-batch.n2091146) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AXJ7NVQ5MG74G7WVBSQ5LNQAFASWGNUK) |
-| [Yameii] Tojima Wants to Be a Kamen Rider - S01E23 [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tojima-wants-kamen-rider-s01e23-english-dub.n2091144) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GXQQ62YWMXE76LWFO5ORTDDS3HUC7IB4) |
-| [Onalrie] Jingai Kyoushitsu no Ningengirai Kyoushi -... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-jingai-kyoushitsu-no-ningengirai-kyoushi-s01e12.2070145) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FXUILEPRCDTVUXGYXA6HOBCJTKGZX7TJ) |
-| [ToonsHub] Scum of the Brave S01E12 1080p CR WEB-DL ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-scum-brave-s01e12-1080p-cr-web-dl.k9991137278215) <br><br> [🐱 Nyaa](https://nyaa.si/?q=64EYW4WMOILLWDLFRAWLUMOIEWKW4PU5) |
-| [ToonsHub] Tojima Wants to Be a Kamen Rider S01E23 1... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-tojima-wants-kamen-rider-s01e23-1080p-cr.k9991134772742) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J5O6SIPNDEE6V7Z54QHULWNROAWJ3Q5T) |
-| [Yameii] Tojima Wants to Be a Kamen Rider - S01E23 [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tojima-wants-kamen-rider-s01e23-english-dub.n2091141) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QE7GN3K6MBB6I6NUTAJZMINDCE5EZEW5) |
+| [Onalrie] Shunkashuutou Daikousha - Haru no Mai - S0... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-shunkashuutou-daikousha-haru-no-mai-s01e01-1080p.2070171) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DFO33GCJKCO2CYYLE3OVVZGMZJ7BLTQC) |
+| [ASW] Fumetsu no Anata e S3 - 21 [1080p HEVC x265 10... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-fumetsu-no-anata-e-s3-21-1080p.n2091193) <br><br> [🐱 Nyaa](https://nyaa.si/?q=33EIZRCF7ZJ4GU2YOH7J6EOD6NSEESYW) |
+| [Inka-Subs] Tondemo Senshi Muteking (1980) 6-10 Batch | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/inka-subs-tondemo-senshi-muteking-1980-6-10-batch.n2091190) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IXZSH3HJUII5K6UKFVULLMMJK66EDMZW) |
+| [Onalrie] Fumetsu no Anata e - S03E22 [1080p WEBRip ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-fumetsu-no-anata-e-s03e22-1080p-webrip-av1-mkv.2070170) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5F4JMSFU6TJO4MO3SUJUIITJR5XRQCVB) |
+| [Erai-raws] Fumetsu no Anata e Season 3 - 22 [480p C... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2091188) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PLXB7KFLFGVQ6IQ66H3NRZXL72GO4BGP) |
+| [Erai-raws] Fumetsu no Anata e Season 3 - 22 [720p C... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2091187) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A3EYQRAF7LONLRRDNWMQH2S7KBXLPE4S) |
+| [Erai-raws] Fumetsu no Anata e Season 3 - 22 [1080p ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2091186) <br><br> [🐱 Nyaa](https://nyaa.si/?q=K47PPUOOE337KWMCO4LIGOBPEJT35WFE) |
+| [SubsPlease] Majutsushi Kunon wa Mieteiru (01-13) (1... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-majutsushi-kunon-wa-mieteiru-01-13-1080p-batch.n2091185) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2GVKTVA5KTHW6G47WQFHRXCTPQPJCMXQ) |
+| [SubsPlease] Majutsushi Kunon wa Mieteiru (01-13) (7... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-majutsushi-kunon-wa-mieteiru-01-13-720p-batch.n2091184) <br><br> [🐱 Nyaa](https://nyaa.si/?q=S3U23CNJ5T4PEVACJ6AXY4HVTZJAMFV4) |
+| [Judas] Fumetsu no Anata e (To Your Eternity) - S03E... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-fumetsu-no-anata-e-your-eternity-s03e21.n2091183) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZERF3S6FRXSEZ2MGWO3WGCURJS7XTCMH) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
