@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 29/3/2026, 03.38.08 WIB
+**Sync Terakhir:** 29/3/2026, 04.35.18 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [SubsPlease] Kizoku Tensei - Megumareta Umare kara S... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kizoku-tensei-megumareta-umare-kara-saikyou-no.n2091239) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AD5Y6D2JUTSSG2PKCFI6OVDYLVBIB3AI) |
+| [SubsPlease] Kizoku Tensei - Megumareta Umare kara S... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kizoku-tensei-megumareta-umare-kara-saikyou-no.n2091238) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M5O3EC2VDE4A5INSZAZIWGJ2JWXFMV7U) |
+| [Judas] Mato Seihei no Slave (Chained Soldier) [Unce... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-mato-seihei-no-slave-chained-soldier-uncensored.n2091237) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WYBHSLGAWO4MGQFG2J273WZNFJUKGQHE) |
+| [563] Cleopatra D.C. [BDRip 1440x1080 HEVC FLAC] | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/563-cleopatra-d-c-bdrip-1440x1080-hevc-flac.n2091236) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MQPC5P23W7G2YRZZ73MZZB25YN5FI2HX) |
+| [SubsPlease] Kizoku Tensei - Megumareta Umare kara S... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kizoku-tensei-megumareta-umare-kara-saikyou-no.n2091235) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RJ5RD4WNRF4ZTKLP5PVHPYSBIPCKI5NF) |
 | [BlackRabbit] A Certain Magical Index (2008) - S02 [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-certain-magical-index-2008-s02-bluray-1080p.k9994148776711) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZE6CLCF4JXWG6MTTUA5JOCLK6UT4CRRC) |
 | [Judas] Dead Account - S01E12 [1080p][HEVC x265 10bi... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-dead-account-s01e12-1080p-hevc-x265-10bit.n2091216) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JQWFHMZYAJN2IAUFK7LH3RD4BZAXPEIW) |
 | [ToonsHub] Fate-strange Fake S00E01 Whispers of Dawn... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-fate-strange-fake-s00e01-whispers-dawn-1080p.k9993866422538) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W2H2HR6ZGMJ5RPFURTBSIQL4AJQNAVW2) |
 | [Onalrie] Yuusha no Kuzu - S01E12 [1080p WEBRip AV1]... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-kuzu-s01e12-1080p-webrip-av1-mkv.2070188) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KU4J3WXTVRHGRZJPLBA6P7F3WZQILPOC) |
 | [Onalrie] Shunkashuutou Daikousha - Haru no Mai - S0... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-shunkashuutou-daikousha-haru-no-mai-s01e01-1080p.2070171) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DFO33GCJKCO2CYYLE3OVVZGMZJ7BLTQC) |
-| [ASW] Fumetsu no Anata e S3 - 21 [1080p HEVC x265 10... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-fumetsu-no-anata-e-s3-21-1080p.n2091193) <br><br> [🐱 Nyaa](https://nyaa.si/?q=33EIZRCF7ZJ4GU2YOH7J6EOD6NSEESYW) |
-| [Inka-Subs] Tondemo Senshi Muteking (1980) 6-10 Batch | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/inka-subs-tondemo-senshi-muteking-1980-6-10-batch.n2091190) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IXZSH3HJUII5K6UKFVULLMMJK66EDMZW) |
-| [Onalrie] Fumetsu no Anata e - S03E22 [1080p WEBRip ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-fumetsu-no-anata-e-s03e22-1080p-webrip-av1-mkv.2070170) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5F4JMSFU6TJO4MO3SUJUIITJR5XRQCVB) |
-| [Erai-raws] Fumetsu no Anata e Season 3 - 22 [480p C... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2091188) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PLXB7KFLFGVQ6IQ66H3NRZXL72GO4BGP) |
-| [Erai-raws] Fumetsu no Anata e Season 3 - 22 [720p C... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fumetsu-no-anata-e-season-3.n2091187) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A3EYQRAF7LONLRRDNWMQH2S7KBXLPE4S) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
