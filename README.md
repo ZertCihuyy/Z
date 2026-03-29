@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 29/3/2026, 12.18.09 WIB
+**Sync Terakhir:** 29/3/2026, 14.12.07 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [BlackRabbit] ODDTAXI (2021) - S00 [Bluray-1080p][Op... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-oddtaxi-2021-s00-bluray-1080p-opus-2-0-av1.k10003195634958) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SLOVSUMSEW6N6CE7L2NFHYTWEIYNPCX3) |
+| [BlackRabbit] To Your Eternity (2021) - S01 [Bluray-... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-your-eternity-2021-s01-bluray-1080p-opus.k10002907689228) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RZ2IG5DMIRZW6EVATAZBN65T3IPUKRAF) |
+| [Judas] Digimon Beatbreak - S01E24 [1080p][HEVC x265... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e24-1080p-hevc-x265-10bit.n2091350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FV3VVG63J3RWLTKT6QSG3UTJ26KQXSMU) |
+| [Serenae] Meitantei Precure! - 09 Fanart Corner (108... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-09-fanart-corner-1080p-mkv.n2091349) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6UESTNCCMSQWIGF6CR6DI2GHPROPQVBA) |
 | [BlackRabbit] A Certain Magical Index (2008) - S03 [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-certain-magical-index-2008-s03-bluray-1080p.k10002342854144) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CT5XGVY3DNGUSUJHX7WTYZW5FYB24ORP) |
 | [Serenae] Meitantei Precure! - 09 (1080p).mkv | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-09-1080p-mkv.n2091344) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KCRKJC5PB6H2N64ATRGLI5OEDRXSZ22I) |
 | [Serenae] Meitantei Precure! - 09 (720p).mkv | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-09-720p-mkv.n2091343) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TRUW77YS2SKRXGLRX3OSZ5DKVO45IX54) |
 | [Judas] SI-VIS: The Sound of Heroes - S01E24 [1080p]... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-si-vis-sound-heroes-s01e24-1080p-hevc.n2091334) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IWK2Y2XDWS5ANLAYNXVKGYO2THDWDWFW) |
 | Digimon.Beatbreak.S01E24.1080p.CR.WEBRip.10bits.x265... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e24-1080p-cr-webrip-10bits-x265-rapta.n2091331) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M3U64UEP6ICLTXIJ4HPMJTQGDJFILWTA) |
 | Digimon Beatbreak S01E24 1080p CR WEB-DL AAC2.0 H 26... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e24-1080p-cr-web-dl-aac2.n2091330) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AOI26WG25VOS2E2LPLZYL6SHNDFL2HRF) |
-| [SubsPlease] Digimon Beatbreak - 24 (1080p) [D24B222... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-24-1080p-d24b222b-mkv.n2091328) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GIV34EOTXKZRSAUEYFB6OHVJUHJDH7OV) |
-| [SubsPlease] Digimon Beatbreak - 24 (720p) [5357C9CF... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-24-720p-5357c9cf-mkv.n2091327) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RTDYS776KHZCWLBEXLBNPRBPUDWOGDVL) |
-| [SubsPlease] Digimon Beatbreak - 24 (480p) [B26A1B39... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-24-480p-b26a1b39-mkv.n2091326) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OZ3BPZU5QK4CLN3S5E5V4JDMQSKV36T7) |
-| [ToonsHub] Digimon Beatbreak S01E24 1080p CR WEB-DL ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-digimon-beatbreak-s01e24-1080p-cr-web-dl.k10000309309708) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WIVZEIIABGIDHZTD3M4IT26OOJFG7MUY) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
