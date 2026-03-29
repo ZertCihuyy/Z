@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 30/3/2026, 01.52.36 WIB
+**Sync Terakhir:** 30/3/2026, 02.36.32 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| Bishoujo.Senshi.Sailor.Moon.Crystal.S03E03.MULTI.Aud... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e03-multi-audio.n2091603) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YMKQXIU5PHQ42AKZKG5KWK57Y2EHRXSQ) |
-| Bishoujo.Senshi.Sailor.Moon.Crystal.S03E04.MULTI.Aud... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e04-multi-audio.n2091602) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QXXB4FIT74Y7LN54DU65BJYYBG4IDGKI) |
-| Bishoujo.Senshi.Sailor.Moon.Crystal.S03E02.MULTI.Aud... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e02-multi-audio.n2091601) <br><br> [🐱 Nyaa](https://nyaa.si/?q=32DXR2HQMD3Q72V4EZYXHOHL4OA4EFFD) |
-| [Judas] Mato Seihei no Slave (Chained Soldier) (Seas... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-mato-seihei-no-slave-chained-soldier-season.n2091600) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SIJHLE3Z3ZHBXXYGVULRCIJSLH4NWY6T) |
-| [Judas] Fate/Strange Fake (Season 01) [1080p][HEVC x... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-fate-strange-fake-season-01-1080p-hevc.n2091599) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3IJOICTVTW5WWS53RECU5E3QM63GRBY4) |
-| [Judas] Enen no Shouboutai (Fire Force) (Season 03 p... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-season-03.n2091598) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OZYGX5MW5WBFYPUDZD2PYETGRCXRRVPC) |
-| Bishoujo.Senshi.Sailor.Moon.Crystal.S03E01.MULTI.Aud... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e01-multi-audio.n2091597) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XLCWDLHXRLM7JSJ23XQOGQLAHWDIBG23) |
-| [Judas] Isekai no Sata wa Shachiku Shidai (Isekai Of... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-isekai-no-sata-wa-shachiku-shidai-office.n2091596) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5X2UCKUIRA6T3EV3S2MN56P25YSNOF3C) |
-| [Judas] Yarikomi Suki no Gamer wa Hai Settei no Isek... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-yarikomi-suki-no-gamer-wa-hai-settei.n2091595) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2XGST7SQCA3T42HXDYANWZU5JEPLC42E) |
-| [Judas] Hanazakari no Kimitachi e (For You in Full B... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-hanazakari-no-kimitachi-e-full-blossom-season.n2091594) <br><br> [🐱 Nyaa](https://nyaa.si/?q=N563FIDP6RDZIRTFKB26JVDFOXT4V5MA) |
+| [Cryon] Shiboyugi Playing Death Games to Put Food on... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/cryon-shiboyugi-playing-death-games-put-food-table.n2091629) <br><br> [🐱 Nyaa](https://nyaa.si/?q=326COFZ5IDYUUCFQKI4MBZ7BYP6HDUNA) |
+| [Anime Time] Hell's Paradise (Jigokuraku) - S02E10 [... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e10-1080p-hevc.n2091628) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KNTKPF7MFZGT263LP4FXNG32QWKCSGKA) |
+| [ASW] Yami Shibai 16 - 12 [1080p HEVC x265 10Bit][AAC] | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-yami-shibai-16-12-1080p-hevc-x265-10bit-aac.n2091627) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XSHAB4LWK36Z6RDMPXNMOVZPH6VFEE4Z) |
+| [Beltraz] Suzuka (2005) - S01 (DVD 1024x768 x264 AC-3) | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-suzuka-2005-s01-dvd-1024x768-x264-ac-3.k10015323056909) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R26K3E2R3U4P42LCOASU6FKZOHVBH5CA) |
+| [AniArchive] Cang Yuan Tu Qianzhuan - Dongning Fu de... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/aniarchive-cang-yuan-tu-qianzhuan-dongning-fu-de.2070431) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XW2K2IFV5LKN4RCVSISODVMVOCL53A3K) |
+| [AniArchive] Cang Yuan Tu Qianzhuan - Dongning Fu de... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/aniarchive-cang-yuan-tu-qianzhuan-dongning-fu-de.2070430) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BGEJHR7244JFXXAIEUZ3JOHVQWEIKWX6) |
+| [SubsPlease] Yami Shibai 16 - 12 (480p) [A25205B9].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-12-480p-a25205b9-mkv.n2091612) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7OEO4AV76ANV2OSLHZ5DRYTRUTGP75NT) |
+| [SubsPlease] Yami Shibai 16 - 12 (1080p) [93929862].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-12-1080p-93929862-mkv.n2091610) <br><br> [🐱 Nyaa](https://nyaa.si/?q=55SR4Y5XSQD6V3XEP5JZ4JTYT6A42MIM) |
+| [SubsPlease] Yami Shibai 16 - 12 (720p) [D7F4198E].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-12-720p-d7f4198e-mkv.n2091611) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RVG74DV4OPR6MQOUMZUNFXNGWCMCZSSK) |
+| [ToonsHub] Theatre of Darkness Yamishibai S16E12 108... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-theatre-darkness-yamishibai-s16e12-1080p-cr-web.k10014897168396) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LOQ26HQ4NPRXMOJUHVVUDNNDWUF3WHCD) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
