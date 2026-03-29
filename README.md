@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 29/3/2026, 21.38.36 WIB
+**Sync Terakhir:** 29/3/2026, 22.37.58 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ToonsHub] The Villainess Is Adored by the Prince of... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-villainess-adored-prince-neighbor-kingdom-s01e10.k10010912961291) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3YVGG7ZWN7562IJC3AANPXWFICPSU772) |
-| [VARYG] Hells Paradise S02E09 Love and Karma 1080p C... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-hells-paradise-s02e09-love-karma-1080p-cr.k10010910634254) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7FB2TFHGNDSJFHJQ7JV4YIL36VGBA644) |
-| [ToonsHub] The Villainess Is Adored by the Prince of... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-villainess-adored-prince-neighbor-kingdom-s01e12.k10010908368898) <br><br> [🐱 Nyaa](https://nyaa.si/?q=USSUOFMKFH442SO43VZPJFILP4L5SY24) |
-| [BlackRabbit] Tomodachi Game (2022) - S01 [Bluray-10... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tomodachi-game-2022-s01-bluray-1080p-opus.k10010879874826) <br><br> [🐱 Nyaa](https://nyaa.si/?q=K2I5L3XNTBDWPUABW5GQQZLXG7I4ZZBA) |
-| Hana Kimi S01E12 I Was the Same 1080p CR WEB-DL MULT... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/hana-kimi-s01e12-same-1080p-cr-web-dl.n2091462) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5RPCRJAC2NQAZJPZLU4K3ALFBKOA4ZCL) |
-| [ASW] Niwatori Fighter - 03 [1080p HEVC x265 10Bit][... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-niwatori-fighter-03-1080p-hevc-x265-10bit-aac.n2091460) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JP4XY52FQUSIXVLD2RAEAHCVPKEZ5A2F) |
-| [Erai-raws] Niwatori Fighter - 03 [480p CR WEB-DL AV... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-03-480p-cr-web.n2091459) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EZM55FOYG5KT7OC3X5EGKYIVATTBQ4DF) |
-| [Erai-raws] Niwatori Fighter - 03 [720p CR WEB-DL AV... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-03-720p-cr-web.n2091458) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RZKPAKLWJFG3TKMA4KCV5RPZ524RJSHL) |
-| [ASW] Kaya-chan wa Kowakunai - 12 [1080p HEVC x265 1... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-kaya-chan-wa-kowakunai-12-1080p-hevc.n2091455) <br><br> [🐱 Nyaa](https://nyaa.si/?q=D36J7LF6Z26GU5GPPQIATBZJJH6TH3T4) |
-| [Ironclad] Rooster Fighter - S01E03 [WEB 1080p AV1] ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-rooster-fighter-s01e03-web-1080p-av1-niwatori.k10010029471759) <br><br> [🐱 Nyaa](https://nyaa.si/?q=G4CIXE3NAE5DCTYLFMYGLUUDIJCDOO5P) |
+| [VARYG] Journal with Witch S01E13 Morning is Here 10... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-journal-witch-s01e13-morning-here-1080p-cr.k10011846528521) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PH2MKV4YEKGVZIIFA76AN25HJAX6XP3N) |
+| [ToonsHub] Journal with Witch S01E13 1080p CR WEB-DL... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-journal-witch-s01e13-1080p-cr-web-dl.k10011836243459) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CSU3FD3C5BFBRVDEXYGR4LWQ7DU3QJJY) |
+| [Yameii] Hell's Paradise - S02E10 [English Dub] [CR ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-hells-paradise-s02e10-english-dub-cr-web.n2091504) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FGYQVUB26ZGI5UNEL7TGSJYR3WS2GHSK) |
+| [Yameii] Hell's Paradise - S02E10 [English Dub] [CR ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-hells-paradise-s02e10-english-dub-cr-web.n2091503) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4DUAXQ744ZCOA67Q2OUFGLWRTAWWXZR) |
+| Hells Paradise S02E10 Master and Student 1080p CR WE... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02e10-master-student-1080p-cr-web.n2091502) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OI3CC3EKQXLFAWITQFVUFDD7PDS46X6C) |
+| [ToonsHub] Hells Paradise S02E10 1080p CR WEB-DL DUA... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hells-paradise-s02e10-1080p-cr-web-dl.k10011603710734) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IHAEKGUL7R46BGULEFQYZ3DFUE4HSISC) |
+| [ASW] Akuyaku Reijou wa Ringoku no Outaishi ni Dekia... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-akuyaku-reijou-wa-ringoku-no-outaishi-ni.n2091500) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2TB5LG5KKQMLREXK2GV455BNKIVTSPV4) |
+| [ToonsHub] Hells Paradise S02E12 1080p NF WEB-DL AAC... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hells-paradise-s02e12-1080p-nf-web-dl.k10011591604736) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3CQHD7BTIQJEOZUBBB6Y7W3EVP5C2QQ4) |
+| [Onalrie] Akuyaku Reijou wa Ringoku no Outaishi ni D... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-akuyaku-reijou-wa-ringoku-no-outaishi-ni.2070388) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W6XNHJAGARVWYTPVKRGWRU32HUGQBPYE) |
+| [ToonsHub] I Got a Cheat Skill in Another World and ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-got-cheat-skill-another-world-became-unrivaled.k10011395832077) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3VD2PTULTQJEB6H6TXLDAPX3KFAH2MEP) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
