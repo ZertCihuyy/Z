@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 29/3/2026, 15.49.33 WIB
+**Sync Terakhir:** 29/3/2026, 16.43.48 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| You and I Are Polar Opposites S01E12 1080p NF WEB-DL... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e12-1080p-nf-web-dl-aac2.n2091405) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZZHE3DJJIBSO4LVPBAB7XUY5SRJEWL4X) |
-| [ToonsHub] You and I Are Polar Opposites S01E12 1080... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e12-1080p-nf-web-dl.n2091404) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MCNFDQQJ4BQ2VMEESEZEJW57SXWCUUGF) |
-| To Your Eternity S03E21 Stay Here 1080p CR WEB-DL MU... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/your-eternity-s03e21-stay-here-1080p-cr-web.n2091403) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A4SDQCLHHIXMFO33J6E6VHET5TOIXC5Q) |
-| [BlackRabbit] ODDTAXI (2021) - S01 [Bluray-1080p][Op... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-oddtaxi-2021-s01-bluray-1080p-opus-2.k10005429422090) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LTQR76TLYJP3AAX5JDBYRAIRMLOSNHAG) |
-| [ToonsHub] You and I Are Polar Opposites S01E12 1080... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e12-1080p-bili-web-dl.n2091398) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2RQJCQEVPEWLQSXFY6C3Y57C6PAWTEY6) |
-| [ToonsHub] Kaya-chan Isnt Scary S01E12 1080p BILI WE... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-kaya-chan-isnt-scary-s01e12-1080p-bili.n2091397) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I5Y6ME77ELQEEWN5MIE54MZB5I7N4RBU) |
-| Rooster Fighter S01E03 The Parable of the Three Bird... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e03-parable-three-birds-1080p-cr.n2091396) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R6XPOG7OAILAWCRV25AJKHRKQCCLHGYS) |
-| [VARYG] Rooster Fighter S01E03 The Parable of the Th... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-rooster-fighter-s01e03-parable-three-birds-1080p.k10005260302343) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IEQX5EB22MXK3OMFYV2GG5CRHKATRIS3) |
-| [ToonsHub] Rooster Fighter S01E03 1080p AS WEB-DL AA... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e03-1080p-web-dl-aac2.k10005249104898) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FSUGRAXCF444UTEP4IZRBYTZGYQSUPGQ) |
-| [STE-MeruMeru] Rockman.EXE Axess - 32 [v2][HEVC][1EB... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/ste-merumeru-rockman-exe-axess-32-v2-hevc-1eb52521-mkv.n2091393) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U6ATYBHZXUI5LK77M6AP7T6K6YXJV4LP) |
+| [Onalrie] Meitantei Precure! - S01E09 [1080p WEBRip ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-meitantei-precure-s01e09-1080p-webrip-av1-mkv.2070275) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HWRI6IVKAFUO57GLHHIIMXJQLRW7ZMJR) |
+| [Yameii] Kaya-chan Isn't Scary - S01E12 [English Dub... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-kaya-chan-isnt-scary-s01e12-english-dub.n2091418) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZGEUNWPRACBDTTAQAJHN2RBAXPYC7AQ2) |
+| [Yameii] Kaya-chan Isn't Scary - S01E12 [English Dub... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-kaya-chan-isnt-scary-s01e12-english-dub.n2091417) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UIB6RQW3QC3DZH6HVRDRFU32VIY5P3GV) |
+| Kaya chan Isnt Scary S01E12 Kaya-chan Isnt Scary 108... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaya-chan-isnt-scary-s01e12-1080p-cr-web.n2091416) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6Y4PNAZMVTEENXZBSCQFDCTIFMMFLIOY) |
+| [SubsPlease] Kaya-chan wa Kowakunai - 12 (1080p) [39... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-12-1080p-39eee194-mkv.n2091415) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HY5PCN66NXS5U3VT56EJ4DB6ROHZNQEH) |
+| [SubsPlease] Kaya-chan wa Kowakunai - 12 (720p) [BDC... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-12-720p-bdc5c2f8-mkv.n2091414) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QBHBXC7QPBL7TSFTUEY46EHMGXYGLVAZ) |
+| [SubsPlease] Kaya-chan wa Kowakunai - 12 (480p) [C9A... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-12-480p-c9ac99b6-mkv.n2091413) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FIPMSXN43BDECAX2WLAHJ5PRYXMBVQFF) |
+| [ToonsHub] Kaya-chan Isnt Scary S01E12 1080p CR WEB-... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-kaya-chan-isnt-scary-s01e12-1080p-cr.k10005839560964) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CQXIF5GQ7JWS7OLRPSRSFP476V4CIS66) |
+| [Erai-raws] Kaya-chan wa Kowakunai - 12 [480p CR WEB... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-kaya-chan-wa-kowakunai-12-480p.n2091409) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LP4QOIIV4IWCSJ4W4UTQ3U2W3BWWO574) |
+| [Erai-raws] Kaya-chan wa Kowakunai - 12 [720p CR WEB... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-kaya-chan-wa-kowakunai-12-720p.n2091408) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LAYJOR6JEQGC6HCAL3B7CFCCX7MBR3DY) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
