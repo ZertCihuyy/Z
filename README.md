@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 29/3/2026, 23.41.40 WIB
+**Sync Terakhir:** 30/3/2026, 00.36.52 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| To Your Eternity S03E22 To Fushi 1080p CR WEB-DL MUL... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/your-eternity-s03e22-fushi-1080p-cr-web-dl.n2091566) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NO3IHPSOMEFS4YKPNR66546HOZ5TG2SE) |
+| [Erai-raws] Niwatori Fighter - 03 [1080p DSNP WEBRip... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-03-1080p-dsnp-webrip.n2091565) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z5DYU2IY4QSMQNT4H3GXO7OOPGUVIA4W) |
+| [Unfucked] Seihantai na Kimi to Boku - 12 (1080p WEB... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/unfucked-seihantai-na-kimi-boku-12-1080p-web.n2091563) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MX22T2CSH7UZKRZPY3FD7Q7RAJLFQ4QI) |
+| [BlackRabbit] To Your Eternity (2021) - S02 [Bluray-... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-your-eternity-2021-s02-bluray-1080p-opus.k10013087967246) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4MR7TWHQ6CYLVAP5DXZRX6KUC3OOXW7M) |
+| [Onalrie] Hikuidori - Ushuu Boro Tobi-gumi - S01E11 ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hikuidori-ushuu-boro-tobi-gumi-s01e11-1080p.2070409) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KOWAVZ3HUSMXLZSW2KJV76F5O33Y2KZG) |
 | [/a/nonymous] Puella Magi Madoka Magica the Movie Pa... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/nonymous-puella-magi-madoka-magica-movie-part-iii.k10012798877454) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LJIPOEBNNGUKKC3PRDBPK5MAUZNT74AW) |
+| [ASW] Hikuidori - Ushuu Boro Tobi-gumi - 11 [1080p H... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-hikuidori-ushuu-boro-tobi-gumi-11-1080p.n2091558) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4V3JLSHPTDVK7WJWWKOMB2QQLPVSHNZ5) |
 | Giant Robo (BD 1080p x265 HEVC FLAC 2.0)(Dual Audio)... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/giant-robo-bd-1080p-x265-hevc-flac-2.n2091557) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JERQZ6UK3WR43CVOI72MHGCHS2MMVZNY) |
 | Night Warriors Darkstalkers` Revenge (BD 1080p x265 ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/night-warriors-darkstalkers-revenge-bd-1080p-x265-hevc.n2091553) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7HEJ5CRIAIQ2HTWPDFZ3SD4YWBQDR3NA) |
 | Street Fighter II - The Animated Movie (1994) (BD 10... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/street-fighter-ii-animated-movie-1994-bd-1080p.n2091552) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZIHJLLY6C2AVV2EUV6WNBYIR7ANJGOVA) |
-| [Onalrie] Ikoku Nikki - S01E13 [1080p WEBRip AV1].mkv | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-ikoku-nikki-s01e13-1080p-webrip-av1-mkv.2070400) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QOSWO4PWLBUVFX4TWGH7EXR4PZCNQS23) |
-| [ASW] Ikoku Nikki - 13 [1080p HEVC x265 10Bit][AAC] | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-ikoku-nikki-13-1080p-hevc-x265-10bit-aac.n2091551) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VKFRDOXD5PT2MS77T46GKKZHPDXH6GCH) |
-| [Trix] Ikoku Nikki S01E13 [WEBRip 1080p AV1 Opus] (M... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-ikoku-nikki-s01e13-webrip-1080p-av1-opus.n2091550) <br><br> [🐱 Nyaa](https://nyaa.si/?q=H5C63NXVMUKPFEHPMUS25DV2HY4LMORC) |
-| You're Under Arrest (OVA) (BD 1080p x265 HEVC FLAC 2... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/youre-under-arrest-ova-bd-1080p-x265-hevc.n2091549) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YX5IT5KCDK5SNSUO2TXV3HMV2JBACJJD) |
-| Cleopatra D.C. (BD 1080p x265 HEVC FLAC 2.0)[sxales] | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/cleopatra-d-c-bd-1080p-x265-hevc-flac.n2091547) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7OQSNT5GE2ECYZIQ3CWN6RZ7IMOYTVLW) |
-| [SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi - 11 (... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-11-1080p-e5aa5e89.n2091546) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GYK2VWK4GFFRZOQPDTK4K5PTKMXBIMTJ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
