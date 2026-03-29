@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 30/3/2026, 00.36.52 WIB
+**Sync Terakhir:** 30/3/2026, 01.52.36 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| To Your Eternity S03E22 To Fushi 1080p CR WEB-DL MUL... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/your-eternity-s03e22-fushi-1080p-cr-web-dl.n2091566) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NO3IHPSOMEFS4YKPNR66546HOZ5TG2SE) |
-| [Erai-raws] Niwatori Fighter - 03 [1080p DSNP WEBRip... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-03-1080p-dsnp-webrip.n2091565) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z5DYU2IY4QSMQNT4H3GXO7OOPGUVIA4W) |
-| [Unfucked] Seihantai na Kimi to Boku - 12 (1080p WEB... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/unfucked-seihantai-na-kimi-boku-12-1080p-web.n2091563) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MX22T2CSH7UZKRZPY3FD7Q7RAJLFQ4QI) |
-| [BlackRabbit] To Your Eternity (2021) - S02 [Bluray-... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-your-eternity-2021-s02-bluray-1080p-opus.k10013087967246) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4MR7TWHQ6CYLVAP5DXZRX6KUC3OOXW7M) |
-| [Onalrie] Hikuidori - Ushuu Boro Tobi-gumi - S01E11 ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hikuidori-ushuu-boro-tobi-gumi-s01e11-1080p.2070409) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KOWAVZ3HUSMXLZSW2KJV76F5O33Y2KZG) |
-| [/a/nonymous] Puella Magi Madoka Magica the Movie Pa... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/nonymous-puella-magi-madoka-magica-movie-part-iii.k10012798877454) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LJIPOEBNNGUKKC3PRDBPK5MAUZNT74AW) |
-| [ASW] Hikuidori - Ushuu Boro Tobi-gumi - 11 [1080p H... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-hikuidori-ushuu-boro-tobi-gumi-11-1080p.n2091558) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4V3JLSHPTDVK7WJWWKOMB2QQLPVSHNZ5) |
-| Giant Robo (BD 1080p x265 HEVC FLAC 2.0)(Dual Audio)... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/giant-robo-bd-1080p-x265-hevc-flac-2.n2091557) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JERQZ6UK3WR43CVOI72MHGCHS2MMVZNY) |
-| Night Warriors Darkstalkers` Revenge (BD 1080p x265 ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/night-warriors-darkstalkers-revenge-bd-1080p-x265-hevc.n2091553) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7HEJ5CRIAIQ2HTWPDFZ3SD4YWBQDR3NA) |
-| Street Fighter II - The Animated Movie (1994) (BD 10... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/street-fighter-ii-animated-movie-1994-bd-1080p.n2091552) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZIHJLLY6C2AVV2EUV6WNBYIR7ANJGOVA) |
+| Bishoujo.Senshi.Sailor.Moon.Crystal.S03E03.MULTI.Aud... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e03-multi-audio.n2091603) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YMKQXIU5PHQ42AKZKG5KWK57Y2EHRXSQ) |
+| Bishoujo.Senshi.Sailor.Moon.Crystal.S03E04.MULTI.Aud... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e04-multi-audio.n2091602) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QXXB4FIT74Y7LN54DU65BJYYBG4IDGKI) |
+| Bishoujo.Senshi.Sailor.Moon.Crystal.S03E02.MULTI.Aud... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e02-multi-audio.n2091601) <br><br> [🐱 Nyaa](https://nyaa.si/?q=32DXR2HQMD3Q72V4EZYXHOHL4OA4EFFD) |
+| [Judas] Mato Seihei no Slave (Chained Soldier) (Seas... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-mato-seihei-no-slave-chained-soldier-season.n2091600) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SIJHLE3Z3ZHBXXYGVULRCIJSLH4NWY6T) |
+| [Judas] Fate/Strange Fake (Season 01) [1080p][HEVC x... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-fate-strange-fake-season-01-1080p-hevc.n2091599) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3IJOICTVTW5WWS53RECU5E3QM63GRBY4) |
+| [Judas] Enen no Shouboutai (Fire Force) (Season 03 p... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-season-03.n2091598) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OZYGX5MW5WBFYPUDZD2PYETGRCXRRVPC) |
+| Bishoujo.Senshi.Sailor.Moon.Crystal.S03E01.MULTI.Aud... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e01-multi-audio.n2091597) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XLCWDLHXRLM7JSJ23XQOGQLAHWDIBG23) |
+| [Judas] Isekai no Sata wa Shachiku Shidai (Isekai Of... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-isekai-no-sata-wa-shachiku-shidai-office.n2091596) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5X2UCKUIRA6T3EV3S2MN56P25YSNOF3C) |
+| [Judas] Yarikomi Suki no Gamer wa Hai Settei no Isek... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-yarikomi-suki-no-gamer-wa-hai-settei.n2091595) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2XGST7SQCA3T42HXDYANWZU5JEPLC42E) |
+| [Judas] Hanazakari no Kimitachi e (For You in Full B... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-hanazakari-no-kimitachi-e-full-blossom-season.n2091594) <br><br> [🐱 Nyaa](https://nyaa.si/?q=N563FIDP6RDZIRTFKB26JVDFOXT4V5MA) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
