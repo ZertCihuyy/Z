@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 29/3/2026, 22.37.58 WIB
+**Sync Terakhir:** 29/3/2026, 23.41.40 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [VARYG] Journal with Witch S01E13 Morning is Here 10... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-journal-witch-s01e13-morning-here-1080p-cr.k10011846528521) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PH2MKV4YEKGVZIIFA76AN25HJAX6XP3N) |
-| [ToonsHub] Journal with Witch S01E13 1080p CR WEB-DL... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-journal-witch-s01e13-1080p-cr-web-dl.k10011836243459) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CSU3FD3C5BFBRVDEXYGR4LWQ7DU3QJJY) |
-| [Yameii] Hell's Paradise - S02E10 [English Dub] [CR ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-hells-paradise-s02e10-english-dub-cr-web.n2091504) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FGYQVUB26ZGI5UNEL7TGSJYR3WS2GHSK) |
-| [Yameii] Hell's Paradise - S02E10 [English Dub] [CR ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-hells-paradise-s02e10-english-dub-cr-web.n2091503) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4DUAXQ744ZCOA67Q2OUFGLWRTAWWXZR) |
-| Hells Paradise S02E10 Master and Student 1080p CR WE... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02e10-master-student-1080p-cr-web.n2091502) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OI3CC3EKQXLFAWITQFVUFDD7PDS46X6C) |
-| [ToonsHub] Hells Paradise S02E10 1080p CR WEB-DL DUA... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hells-paradise-s02e10-1080p-cr-web-dl.k10011603710734) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IHAEKGUL7R46BGULEFQYZ3DFUE4HSISC) |
-| [ASW] Akuyaku Reijou wa Ringoku no Outaishi ni Dekia... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-akuyaku-reijou-wa-ringoku-no-outaishi-ni.n2091500) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2TB5LG5KKQMLREXK2GV455BNKIVTSPV4) |
-| [ToonsHub] Hells Paradise S02E12 1080p NF WEB-DL AAC... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hells-paradise-s02e12-1080p-nf-web-dl.k10011591604736) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3CQHD7BTIQJEOZUBBB6Y7W3EVP5C2QQ4) |
-| [Onalrie] Akuyaku Reijou wa Ringoku no Outaishi ni D... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-akuyaku-reijou-wa-ringoku-no-outaishi-ni.2070388) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W6XNHJAGARVWYTPVKRGWRU32HUGQBPYE) |
-| [ToonsHub] I Got a Cheat Skill in Another World and ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-got-cheat-skill-another-world-became-unrivaled.k10011395832077) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3VD2PTULTQJEB6H6TXLDAPX3KFAH2MEP) |
+| [/a/nonymous] Puella Magi Madoka Magica the Movie Pa... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/nonymous-puella-magi-madoka-magica-movie-part-iii.k10012798877454) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LJIPOEBNNGUKKC3PRDBPK5MAUZNT74AW) |
+| Giant Robo (BD 1080p x265 HEVC FLAC 2.0)(Dual Audio)... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/giant-robo-bd-1080p-x265-hevc-flac-2.n2091557) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JERQZ6UK3WR43CVOI72MHGCHS2MMVZNY) |
+| Night Warriors Darkstalkers` Revenge (BD 1080p x265 ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/night-warriors-darkstalkers-revenge-bd-1080p-x265-hevc.n2091553) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7HEJ5CRIAIQ2HTWPDFZ3SD4YWBQDR3NA) |
+| Street Fighter II - The Animated Movie (1994) (BD 10... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/street-fighter-ii-animated-movie-1994-bd-1080p.n2091552) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZIHJLLY6C2AVV2EUV6WNBYIR7ANJGOVA) |
+| [Onalrie] Ikoku Nikki - S01E13 [1080p WEBRip AV1].mkv | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-ikoku-nikki-s01e13-1080p-webrip-av1-mkv.2070400) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QOSWO4PWLBUVFX4TWGH7EXR4PZCNQS23) |
+| [ASW] Ikoku Nikki - 13 [1080p HEVC x265 10Bit][AAC] | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-ikoku-nikki-13-1080p-hevc-x265-10bit-aac.n2091551) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VKFRDOXD5PT2MS77T46GKKZHPDXH6GCH) |
+| [Trix] Ikoku Nikki S01E13 [WEBRip 1080p AV1 Opus] (M... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-ikoku-nikki-s01e13-webrip-1080p-av1-opus.n2091550) <br><br> [🐱 Nyaa](https://nyaa.si/?q=H5C63NXVMUKPFEHPMUS25DV2HY4LMORC) |
+| You're Under Arrest (OVA) (BD 1080p x265 HEVC FLAC 2... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/youre-under-arrest-ova-bd-1080p-x265-hevc.n2091549) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YX5IT5KCDK5SNSUO2TXV3HMV2JBACJJD) |
+| Cleopatra D.C. (BD 1080p x265 HEVC FLAC 2.0)[sxales] | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/cleopatra-d-c-bd-1080p-x265-hevc-flac.n2091547) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7OQSNT5GE2ECYZIQ3CWN6RZ7IMOYTVLW) |
+| [SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi - 11 (... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-11-1080p-e5aa5e89.n2091546) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GYK2VWK4GFFRZOQPDTK4K5PTKMXBIMTJ) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
