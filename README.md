@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 29/3/2026, 17.40.23 WIB
+**Sync Terakhir:** 29/3/2026, 18.34.54 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,8 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Onalrie] Kaya-chan wa Kowakunai - S01E12 [1080p WEB... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-kaya-chan-wa-kowakunai-s01e12-1080p-webrip-av1-mkv.2070298) <br><br> [🐱 Nyaa](https://nyaa.si/?q=64XVYKMIGWZXZYX56TL2XTYW5DI43EGB) |
+| [Onalrie] Niwatori Fighter - S01E03 [1080p WEBRip AV... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-niwatori-fighter-s01e03-1080p-webrip-av1-mkv.2070288) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HPSDBIEW35DOONPWQBDOW4FRMM67U7QS) |
 | [Onalrie] Uruwashi no Yoi no Tsuki - S01E12 [1080p W... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-uruwashi-no-yoi-tsuki-s01e12-1080p-webrip.2070278) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R65RYE5AWE6FJDYMRCZ6MXP3UT42VKZQ) |
 | [ToonsHub] How dare you S02E12 1080p iQ WEB-DL AAC2.... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dare-s02e12-1080p-iq-web-dl-aac2.k10006766245385) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MJPZ7PSDJ5SGX5E3SMMVFTTPQORURS45) |
 | [Onalrie] Meitantei Precure! - S01E09 [1080p WEBRip ... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-meitantei-precure-s01e09-1080p-webrip-av1-mkv.2070275) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HWRI6IVKAFUO57GLHHIIMXJQLRW7ZMJR) |
@@ -25,8 +27,6 @@
 | Kaya chan Isnt Scary S01E12 Kaya-chan Isnt Scary 108... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaya-chan-isnt-scary-s01e12-1080p-cr-web.n2091416) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6Y4PNAZMVTEENXZBSCQFDCTIFMMFLIOY) |
 | [SubsPlease] Kaya-chan wa Kowakunai - 12 (1080p) [39... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-12-1080p-39eee194-mkv.n2091415) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HY5PCN66NXS5U3VT56EJ4DB6ROHZNQEH) |
 | [SubsPlease] Kaya-chan wa Kowakunai - 12 (720p) [BDC... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-12-720p-bdc5c2f8-mkv.n2091414) <br><br> [🐱 Nyaa](https://nyaa.si/?q=QBHBXC7QPBL7TSFTUEY46EHMGXYGLVAZ) |
-| [SubsPlease] Kaya-chan wa Kowakunai - 12 (480p) [C9A... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-12-480p-c9ac99b6-mkv.n2091413) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FIPMSXN43BDECAX2WLAHJ5PRYXMBVQFF) |
-| [ToonsHub] Kaya-chan Isnt Scary S01E12 1080p CR WEB-... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-kaya-chan-isnt-scary-s01e12-1080p-cr.k10005839560964) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CQXIF5GQ7JWS7OLRPSRSFP476V4CIS66) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
