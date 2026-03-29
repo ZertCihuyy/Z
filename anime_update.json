@@ -1,10 +1,10 @@
 {
-  "last_update": "30/3/2026, 05.37.30 WIB",
+  "last_update": "30/3/2026, 06.38.38 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
       "image": "https://myanimelist.net/images/anime/1921/154528.jpg",
-      "score": 8.98,
+      "score": 8.96,
       "episodes": 10,
       "url": "https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season"
     },
@@ -37,14 +37,59 @@
       "url": "https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season"
     },
     {
-      "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
-      "image": "https://myanimelist.net/images/anime/1448/154111.jpg",
-      "score": 9.19,
-      "episodes": null,
-      "url": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken"
+      "title": "Enen no Shouboutai: San no Shou Part 2",
+      "image": "https://myanimelist.net/images/anime/1508/152472.jpg",
+      "score": 8.06,
+      "episodes": 13,
+      "url": "https://myanimelist.net/anime/59229/Enen_no_Shouboutai__San_no_Shou_Part_2"
     }
   ],
   "latest_releases": [
+    {
+      "title": "Hells Paradise S02E12 Endings and Beginnings 1080p CR WEB-DL AAC2.0 H 264-VARYG (Jigokuraku, Multi-Subs)",
+      "link": "https://animetosho.org/view/hells-paradise-s02e12-endings-beginnings-1080p-cr-web.n2091677",
+      "magnet": "magnet:?xt=urn:btih:4PXQVEB2JJL3IMTPVCTGUVQP4IGDJA43&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=Hells%20Paradise%20S02E12%20Endings%20and%20Beginnings%201080p%20CR%20WEB-DL%20AAC2.0%20H%20264-VARYG%20%28Jigokuraku%2C%20Multi-Subs%29",
+      "hash": "4PXQVEB2JJL3IMTPVCTGUVQP4IGDJA43",
+      "nyaaUrl": "https://nyaa.si/?q=4PXQVEB2JJL3IMTPVCTGUVQP4IGDJA43",
+      "size": "NaN MB",
+      "date": "30/3/2026, 06.25.17"
+    },
+    {
+      "title": "[DKB] Jigokuraku - S02E12 [1080p][END][HEVC x265 10bit][Multi-Subs][weekly]",
+      "link": "https://animetosho.org/view/dkb-jigokuraku-s02e12-1080p-end-hevc-x265-10bit.n2091676",
+      "magnet": "magnet:?xt=urn:btih:JFKPMFSWD7AWQC4VF2VOX4RVLE5DHH2S&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&dn=%5BDKB%5D%20Jigokuraku%20-%20S02E12%20%5B1080p%5D%5BEND%5D%5BHEVC%20x265%2010bit%5D%5BMulti-Subs%5D%5Bweekly%5D",
+      "hash": "JFKPMFSWD7AWQC4VF2VOX4RVLE5DHH2S",
+      "nyaaUrl": "https://nyaa.si/?q=JFKPMFSWD7AWQC4VF2VOX4RVLE5DHH2S",
+      "size": "NaN MB",
+      "date": "30/3/2026, 06.04.02"
+    },
+    {
+      "title": "[Piyoko] Himitsu no AiPri: Ring-hen - 51 [WEB 1080p AMZN h264 AC3 2.0]",
+      "link": "https://animetosho.org/view/piyoko-himitsu-no-aipri-ring-hen-51-web.n2091675",
+      "magnet": "magnet:?xt=urn:btih:5SRWHP5JXM5ZH4XTQV2GUWIF2YKYLTY2&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BPiyoko%5D%20Himitsu%20no%20AiPri%3A%20Ring-hen%20-%2051%20%5BWEB%201080p%20AMZN%20h264%20AC3%202.0%5D",
+      "hash": "5SRWHP5JXM5ZH4XTQV2GUWIF2YKYLTY2",
+      "nyaaUrl": "https://nyaa.si/?q=5SRWHP5JXM5ZH4XTQV2GUWIF2YKYLTY2",
+      "size": "NaN MB",
+      "date": "30/3/2026, 06.00.47"
+    },
+    {
+      "title": "[BlackRabbit] Harem in the Labyrinth of Another World (2022) - S01 [Bluray-1080p][Opus 2.0][UNCENSORED][AV1]",
+      "link": "https://animetosho.org/view/blackrabbit-harem-labyrinth-another-world-2022-s01-bluray.k10018447105287",
+      "magnet": "magnet:?xt=urn:btih:C4I2T75TVOV53QRMQDLVAX4YAWTBNPPT&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BBlackRabbit%5D%20Harem%20in%20the%20Labyrinth%20of%20Another%20World%20%282022%29%20-%20S01%20%5BBluray-1080p%5D%5BOpus%202.0%5D%5BUNCENSORED%5D%5BAV1%5D",
+      "hash": "C4I2T75TVOV53QRMQDLVAX4YAWTBNPPT",
+      "nyaaUrl": "https://nyaa.si/?q=C4I2T75TVOV53QRMQDLVAX4YAWTBNPPT",
+      "size": "NaN MB",
+      "date": "30/3/2026, 05.42.39"
+    },
+    {
+      "title": "[ASW] Iseleve - OVA [1080p HEVC x265 10Bit][AAC]",
+      "link": "https://animetosho.org/view/asw-iseleve-ova-1080p-hevc-x265-10bit-aac.n2091671",
+      "magnet": "magnet:?xt=urn:btih:EENZXTB7MTLRKBW3BCJHYACONMT3SVNS&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BASW%5D%20Iseleve%20-%20OVA%20%5B1080p%20HEVC%20x265%2010Bit%5D%5BAAC%5D",
+      "hash": "EENZXTB7MTLRKBW3BCJHYACONMT3SVNS",
+      "nyaaUrl": "https://nyaa.si/?q=EENZXTB7MTLRKBW3BCJHYACONMT3SVNS",
+      "size": "NaN MB",
+      "date": "30/3/2026, 05.37.13"
+    },
     {
       "title": "[Erai-raws] Jigokuraku 2nd Season - 12 [1080p CR WEBRip HEVC AAC][MultiSub][A937957F]",
       "link": "https://animetosho.org/view/erai-raws-jigokuraku-2nd-season-12-1080p-cr.n2091669",
@@ -89,51 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=OYM2B7P6QFVQWB2ROMU2WLNAO6NXSWKY",
       "size": "NaN MB",
       "date": "30/3/2026, 04.33.00"
-    },
-    {
-      "title": "[Beltraz] They Are My Noble Masters (2008) - S01 (Uncensored) (DVD 480p x264) | Kimi ga Aruji de Shitsuji ga Ore de",
-      "link": "https://animetosho.org/view/beltraz-they-my-noble-masters-2008-s01-uncensored.k10016942538752",
-      "magnet": "magnet:?xt=urn:btih:LIN6CH3R6S5AEN52TIET5U3KG54ZVE6D&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&dn=%5BBeltraz%5D%20They%20Are%20My%20Noble%20Masters%20%282008%29%20-%20S01%20%28Uncensored%29%20%28DVD%20480p%20x264%29%20%7C%20Kimi%20ga%20Aruji%20de%20Shitsuji%20ga%20Ore%20de",
-      "hash": "LIN6CH3R6S5AEN52TIET5U3KG54ZVE6D",
-      "nyaaUrl": "https://nyaa.si/?q=LIN6CH3R6S5AEN52TIET5U3KG54ZVE6D",
-      "size": "NaN MB",
-      "date": "30/3/2026, 04.04.41"
-    },
-    {
-      "title": "[Onalrie] Seihantai na Kimi to Boku - S01E12 [1080p WEBRip AV1].mkv",
-      "link": "https://animetosho.org/view/onalrie-seihantai-na-kimi-boku-s01e12-1080p-webrip-av1-mkv.2070478",
-      "magnet": "magnet:?xt=urn:btih:NVUBDXKS7HJAOH7XRK3HSBPIRM3K6TRZ&tr=http%3A%2F%2Ftracker.onalrie.app%3A7070%2Fannounce&tr=udp%3A%2F%2Ftracker.onalrie.app%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&dn=%5BOnalrie%5D%20Seihantai%20na%20Kimi%20to%20Boku%20-%20S01E12%20%5B1080p%20WEBRip%20AV1%5D.mkv",
-      "hash": "NVUBDXKS7HJAOH7XRK3HSBPIRM3K6TRZ",
-      "nyaaUrl": "https://nyaa.si/?q=NVUBDXKS7HJAOH7XRK3HSBPIRM3K6TRZ",
-      "size": "NaN MB",
-      "date": "30/3/2026, 04.00.00"
-    },
-    {
-      "title": "[DKB] Digimon Beatbreak - S01E24 [1080p][HEVC x265 10bit][Multi-Subs][weekly]",
-      "link": "https://animetosho.org/view/dkb-digimon-beatbreak-s01e24-1080p-hevc-x265-10bit.n2091661",
-      "magnet": "magnet:?xt=urn:btih:GNV6QMPZQZRMA76CFLTJ35HXFJIOMEZL&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&dn=%5BDKB%5D%20Digimon%20Beatbreak%20-%20S01E24%20%5B1080p%5D%5BHEVC%20x265%2010bit%5D%5BMulti-Subs%5D%5Bweekly%5D",
-      "hash": "GNV6QMPZQZRMA76CFLTJ35HXFJIOMEZL",
-      "nyaaUrl": "https://nyaa.si/?q=GNV6QMPZQZRMA76CFLTJ35HXFJIOMEZL",
-      "size": "NaN MB",
-      "date": "30/3/2026, 03.48.21"
-    },
-    {
-      "title": "[DKB] Digimon Beatbreak - S01E23 [1080p][HEVC x265 10bit][Multi-Subs][weekly]",
-      "link": "https://animetosho.org/view/dkb-digimon-beatbreak-s01e23-1080p-hevc-x265-10bit.n2091660",
-      "magnet": "magnet:?xt=urn:btih:4DRRVQ3JGWSMMKIBH3AVWJXUCNKUGZ73&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&dn=%5BDKB%5D%20Digimon%20Beatbreak%20-%20S01E23%20%5B1080p%5D%5BHEVC%20x265%2010bit%5D%5BMulti-Subs%5D%5Bweekly%5D",
-      "hash": "4DRRVQ3JGWSMMKIBH3AVWJXUCNKUGZ73",
-      "nyaaUrl": "https://nyaa.si/?q=4DRRVQ3JGWSMMKIBH3AVWJXUCNKUGZ73",
-      "size": "NaN MB",
-      "date": "30/3/2026, 03.47.59"
-    },
-    {
-      "title": "[SubsPlease] Jigokuraku - 25 (1080p) [9545C291].mkv",
-      "link": "https://animetosho.org/view/subsplease-jigokuraku-25-1080p-9545c291-mkv.n2091659",
-      "magnet": "magnet:?xt=urn:btih:5QFA6XUSPMVUQD7ESHSILLCVUHRBDEP4&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BSubsPlease%5D%20Jigokuraku%20-%2025%20%281080p%29%20%5B9545C291%5D.mkv",
-      "hash": "5QFA6XUSPMVUQD7ESHSILLCVUHRBDEP4",
-      "nyaaUrl": "https://nyaa.si/?q=5QFA6XUSPMVUQD7ESHSILLCVUHRBDEP4",
-      "size": "NaN MB",
-      "date": "30/3/2026, 03.41.59"
     }
   ]
 }
