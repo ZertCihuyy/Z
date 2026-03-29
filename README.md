@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 30/3/2026, 04.38.31 WIB
+**Sync Terakhir:** 30/3/2026, 05.37.30 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Erai-raws] Jigokuraku 2nd Season - 12 [1080p CR WEB... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigokuraku-2nd-season-12-1080p-cr.n2091669) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3KJP6MSUIHBPISY52NCZBPBBNEFAHAMY) |
+| [Beltraz] Girls Bravo - S01-S02 (DVD 480p MPEG AC-3) | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-girls-bravo-s01-s02-dvd-480p-mpeg-ac-3.k10017943390209) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CG7JUTY4M4CDZVG5HNGOO62CALMD22G4) |
+| [ToonsHub] Hells Paradise S02E12 1080p CR WEB-DL AAC... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-hells-paradise-s02e12-1080p-cr-web-dl.k10017922674181) <br><br> [🐱 Nyaa](https://nyaa.si/?q=W3AJZDQMF2LLZB5HJ45Q43W6Q6M62YI6) |
+| [ASW] Jigokuraku - 25 [1080p HEVC x265 10Bit][AAC] | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-jigokuraku-25-1080p-hevc-x265-10bit-aac.n2091665) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JBAJL2WJ5VXGMAS4ZRL233AMIBMXWC6N) |
 | [Onalrie] Jigokuraku - S02E12 [1080p WEBRip AV1].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-jigokuraku-s02e12-1080p-webrip-av1-mkv.2070480) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OYM2B7P6QFVQWB2ROMU2WLNAO6NXSWKY) |
 | [Beltraz] They Are My Noble Masters (2008) - S01 (Un... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-they-my-noble-masters-2008-s01-uncensored.k10016942538752) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LIN6CH3R6S5AEN52TIET5U3KG54ZVE6D) |
 | [Onalrie] Seihantai na Kimi to Boku - S01E12 [1080p ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-seihantai-na-kimi-boku-s01e12-1080p-webrip-av1-mkv.2070478) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NVUBDXKS7HJAOH7XRK3HSBPIRM3K6TRZ) |
 | [DKB] Digimon Beatbreak - S01E24 [1080p][HEVC x265 1... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-digimon-beatbreak-s01e24-1080p-hevc-x265-10bit.n2091661) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GNV6QMPZQZRMA76CFLTJ35HXFJIOMEZL) |
 | [DKB] Digimon Beatbreak - S01E23 [1080p][HEVC x265 1... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-digimon-beatbreak-s01e23-1080p-hevc-x265-10bit.n2091660) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4DRRVQ3JGWSMMKIBH3AVWJXUCNKUGZ73) |
 | [SubsPlease] Jigokuraku - 25 (1080p) [9545C291].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jigokuraku-25-1080p-9545c291-mkv.n2091659) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5QFA6XUSPMVUQD7ESHSILLCVUHRBDEP4) |
-| [ASW] Seihantai na Kimi to Boku - 12 [1080p HEVC x26... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-seihantai-na-kimi-boku-12-1080p-hevc.n2091658) <br><br> [🐱 Nyaa](https://nyaa.si/?q=H64M2POKAQF2IXQUDZF25MLA6XNJQA66) |
-| [SubsPlease] Jigokuraku - 25 (720p) [6B147528].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jigokuraku-25-720p-6b147528-mkv.n2091657) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ACJARENZJYJMGL26GPRDTHOLX32ZNFUJ) |
-| [SubsPlease] Jigokuraku - 25 (480p) [81FF5AA2].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jigokuraku-25-480p-81ff5aa2-mkv.n2091656) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UHNUKFVRGW4C3EVIQ6G7XZETEAX2QQ7Y) |
-| [Beltraz] Yamibo: Darkness, The Hat and the Traveler... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-yamibo-darkness-hat-travelers-books-2003-s01.k10016576506127) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YEHQ2JRVPSFOYSLSU7PUAIXWJ6TQ6EXA) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
