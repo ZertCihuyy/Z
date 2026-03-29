@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 29/3/2026, 14.12.07 WIB
+**Sync Terakhir:** 29/3/2026, 15.49.33 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [BlackRabbit] ODDTAXI (2021) - S00 [Bluray-1080p][Op... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-oddtaxi-2021-s00-bluray-1080p-opus-2-0-av1.k10003195634958) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SLOVSUMSEW6N6CE7L2NFHYTWEIYNPCX3) |
-| [BlackRabbit] To Your Eternity (2021) - S01 [Bluray-... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-your-eternity-2021-s01-bluray-1080p-opus.k10002907689228) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RZ2IG5DMIRZW6EVATAZBN65T3IPUKRAF) |
-| [Judas] Digimon Beatbreak - S01E24 [1080p][HEVC x265... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e24-1080p-hevc-x265-10bit.n2091350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FV3VVG63J3RWLTKT6QSG3UTJ26KQXSMU) |
-| [Serenae] Meitantei Precure! - 09 Fanart Corner (108... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-09-fanart-corner-1080p-mkv.n2091349) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6UESTNCCMSQWIGF6CR6DI2GHPROPQVBA) |
-| [BlackRabbit] A Certain Magical Index (2008) - S03 [... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-certain-magical-index-2008-s03-bluray-1080p.k10002342854144) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CT5XGVY3DNGUSUJHX7WTYZW5FYB24ORP) |
-| [Serenae] Meitantei Precure! - 09 (1080p).mkv | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-09-1080p-mkv.n2091344) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KCRKJC5PB6H2N64ATRGLI5OEDRXSZ22I) |
-| [Serenae] Meitantei Precure! - 09 (720p).mkv | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-09-720p-mkv.n2091343) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TRUW77YS2SKRXGLRX3OSZ5DKVO45IX54) |
-| [Judas] SI-VIS: The Sound of Heroes - S01E24 [1080p]... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-si-vis-sound-heroes-s01e24-1080p-hevc.n2091334) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IWK2Y2XDWS5ANLAYNXVKGYO2THDWDWFW) |
-| Digimon.Beatbreak.S01E24.1080p.CR.WEBRip.10bits.x265... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e24-1080p-cr-webrip-10bits-x265-rapta.n2091331) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M3U64UEP6ICLTXIJ4HPMJTQGDJFILWTA) |
-| Digimon Beatbreak S01E24 1080p CR WEB-DL AAC2.0 H 26... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e24-1080p-cr-web-dl-aac2.n2091330) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AOI26WG25VOS2E2LPLZYL6SHNDFL2HRF) |
+| You and I Are Polar Opposites S01E12 1080p NF WEB-DL... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e12-1080p-nf-web-dl-aac2.n2091405) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZZHE3DJJIBSO4LVPBAB7XUY5SRJEWL4X) |
+| [ToonsHub] You and I Are Polar Opposites S01E12 1080... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e12-1080p-nf-web-dl.n2091404) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MCNFDQQJ4BQ2VMEESEZEJW57SXWCUUGF) |
+| To Your Eternity S03E21 Stay Here 1080p CR WEB-DL MU... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/your-eternity-s03e21-stay-here-1080p-cr-web.n2091403) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A4SDQCLHHIXMFO33J6E6VHET5TOIXC5Q) |
+| [BlackRabbit] ODDTAXI (2021) - S01 [Bluray-1080p][Op... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-oddtaxi-2021-s01-bluray-1080p-opus-2.k10005429422090) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LTQR76TLYJP3AAX5JDBYRAIRMLOSNHAG) |
+| [ToonsHub] You and I Are Polar Opposites S01E12 1080... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e12-1080p-bili-web-dl.n2091398) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2RQJCQEVPEWLQSXFY6C3Y57C6PAWTEY6) |
+| [ToonsHub] Kaya-chan Isnt Scary S01E12 1080p BILI WE... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-kaya-chan-isnt-scary-s01e12-1080p-bili.n2091397) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I5Y6ME77ELQEEWN5MIE54MZB5I7N4RBU) |
+| Rooster Fighter S01E03 The Parable of the Three Bird... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e03-parable-three-birds-1080p-cr.n2091396) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R6XPOG7OAILAWCRV25AJKHRKQCCLHGYS) |
+| [VARYG] Rooster Fighter S01E03 The Parable of the Th... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-rooster-fighter-s01e03-parable-three-birds-1080p.k10005260302343) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IEQX5EB22MXK3OMFYV2GG5CRHKATRIS3) |
+| [ToonsHub] Rooster Fighter S01E03 1080p AS WEB-DL AA... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e03-1080p-web-dl-aac2.k10005249104898) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FSUGRAXCF444UTEP4IZRBYTZGYQSUPGQ) |
+| [STE-MeruMeru] Rockman.EXE Axess - 32 [v2][HEVC][1EB... | NaN MB | 29/3/2026, | [🌐 Tosho](https://animetosho.org/view/ste-merumeru-rockman-exe-axess-32-v2-hevc-1eb52521-mkv.n2091393) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U6ATYBHZXUI5LK77M6AP7T6K6YXJV4LP) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
