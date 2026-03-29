@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 30/3/2026, 03.39.44 WIB
+**Sync Terakhir:** 30/3/2026, 04.38.31 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Onalrie] Yami Shibai - S16E12 [1080p WEBRip AV1].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-yami-shibai-s16e12-1080p-webrip-av1-mkv.2070439) <br><br> [🐱 Nyaa](https://nyaa.si/?q=46LNIZCQ36PMVBEUU75OFZNHFWEBNR7R) |
-| [Beltraz] Hanaukyo Maid Team (2001) - S01 (Uncensore... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-hanaukyo-maid-team-2001-s01-uncensored-bd.k10016132530692) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YIUQJVGPRNP7X5WE4YIIOGJXCGPFDYNV) |
-| [SubsPlease] Seihantai na Kimi to Boku - 12 (1080p) ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-12-1080p-e48c7a8e-mkv.n2091642) <br><br> [🐱 Nyaa](https://nyaa.si/?q=A7LMQMFTXLAPVWVDFZWDNOXWFZZNVW7F) |
-| [SubsPlease] Seihantai na Kimi to Boku - 12 (480p) [... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-12-480p-809b22f9-mkv.n2091641) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XPRA7C275K4OFE6MIWMJSMF76A2U7Y33) |
-| [SubsPlease] Seihantai na Kimi to Boku - 12 (720p) [... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-12-720p-9a44a8b3-mkv.n2091640) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YNRE6ZYDKDUOKBYLZKFS6KCI2S57KTRI) |
-| Digimon Beatbreak S01E24 Overlapping Beats REPACK 10... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e24-overlapping-beats-repack-1080p-cr.n2091639) <br><br> [🐱 Nyaa](https://nyaa.si/?q=V72ISLTPBHWUI3PVYP36JDLQ64NVUZ6Y) |
-| [Raze] Hell's Paradise (Jigokuraku) S2 - 12 x265 10b... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/raze-hells-paradise-jigokuraku-s2-12-x265-10bit.n2091636) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XLLZWZYJRJLYT3WCY2TLCZ43RQYK4YBR) |
-| [BlackRabbit] Devilman Crybaby (2018) - S01 [Bluray-... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-devilman-crybaby-2018-s01-bluray-1080p-opus.k10015790354186) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EIVIWFKJCDU3YV4NYOM22HMX53BFVUUA) |
-| [Beltraz] Hanaukyo Maid Team: La Verite (2004) - S01... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-hanaukyo-maid-team-la-verite-2004-s01.k10015783800585) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PKAZXWHPKR2TIKQUYGNVROEMLYFNPU6G) |
-| [Cryon] Shiboyugi Playing Death Games to Put Food on... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/cryon-shiboyugi-playing-death-games-put-food-table.n2091629) <br><br> [🐱 Nyaa](https://nyaa.si/?q=326COFZ5IDYUUCFQKI4MBZ7BYP6HDUNA) |
+| [Onalrie] Jigokuraku - S02E12 [1080p WEBRip AV1].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-jigokuraku-s02e12-1080p-webrip-av1-mkv.2070480) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OYM2B7P6QFVQWB2ROMU2WLNAO6NXSWKY) |
+| [Beltraz] They Are My Noble Masters (2008) - S01 (Un... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-they-my-noble-masters-2008-s01-uncensored.k10016942538752) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LIN6CH3R6S5AEN52TIET5U3KG54ZVE6D) |
+| [Onalrie] Seihantai na Kimi to Boku - S01E12 [1080p ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-seihantai-na-kimi-boku-s01e12-1080p-webrip-av1-mkv.2070478) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NVUBDXKS7HJAOH7XRK3HSBPIRM3K6TRZ) |
+| [DKB] Digimon Beatbreak - S01E24 [1080p][HEVC x265 1... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-digimon-beatbreak-s01e24-1080p-hevc-x265-10bit.n2091661) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GNV6QMPZQZRMA76CFLTJ35HXFJIOMEZL) |
+| [DKB] Digimon Beatbreak - S01E23 [1080p][HEVC x265 1... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-digimon-beatbreak-s01e23-1080p-hevc-x265-10bit.n2091660) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4DRRVQ3JGWSMMKIBH3AVWJXUCNKUGZ73) |
+| [SubsPlease] Jigokuraku - 25 (1080p) [9545C291].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jigokuraku-25-1080p-9545c291-mkv.n2091659) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5QFA6XUSPMVUQD7ESHSILLCVUHRBDEP4) |
+| [ASW] Seihantai na Kimi to Boku - 12 [1080p HEVC x26... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-seihantai-na-kimi-boku-12-1080p-hevc.n2091658) <br><br> [🐱 Nyaa](https://nyaa.si/?q=H64M2POKAQF2IXQUDZF25MLA6XNJQA66) |
+| [SubsPlease] Jigokuraku - 25 (720p) [6B147528].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jigokuraku-25-720p-6b147528-mkv.n2091657) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ACJARENZJYJMGL26GPRDTHOLX32ZNFUJ) |
+| [SubsPlease] Jigokuraku - 25 (480p) [81FF5AA2].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-jigokuraku-25-480p-81ff5aa2-mkv.n2091656) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UHNUKFVRGW4C3EVIQ6G7XZETEAX2QQ7Y) |
+| [Beltraz] Yamibo: Darkness, The Hat and the Traveler... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-yamibo-darkness-hat-travelers-books-2003-s01.k10016576506127) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YEHQ2JRVPSFOYSLSU7PUAIXWJ6TQ6EXA) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
