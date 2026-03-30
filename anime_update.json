@@ -1,5 +1,5 @@
 {
-  "last_update": "30/3/2026, 13.01.09 WIB",
+  "last_update": "30/3/2026, 15.22.45 WIB",
   "ongoing_anime": [
     {
       "title": "Sousou no Frieren 2nd Season",
@@ -45,6 +45,15 @@
     }
   ],
   "latest_releases": [
+    {
+      "title": "[BlackRabbit] Charlotte (2015) - S00 [Bluray-1080p][Opus 2.0][Dual Audio][AV1]",
+      "link": "https://animetosho.org/view/blackrabbit-charlotte-2015-s00-bluray-1080p-opus-2.k10025271268107",
+      "magnet": "magnet:?xt=urn:btih:CSUDNCOSLLQRCY4EMHFQMNW7YRMZ2WL3&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&dn=%5BBlackRabbit%5D%20Charlotte%20%282015%29%20-%20S00%20%5BBluray-1080p%5D%5BOpus%202.0%5D%5BDual%20Audio%5D%5BAV1%5D",
+      "hash": "CSUDNCOSLLQRCY4EMHFQMNW7YRMZ2WL3",
+      "nyaaUrl": "https://nyaa.si/?q=CSUDNCOSLLQRCY4EMHFQMNW7YRMZ2WL3",
+      "size": "NaN MB",
+      "date": "30/3/2026, 13.06.55"
+    },
     {
       "title": "[BlackRabbit] Charlotte (2015) - S01 [Bluray-1080p][Opus 2.0][Dual Audio][AV1]",
       "link": "https://animetosho.org/view/blackrabbit-charlotte-2015-s01-bluray-1080p-opus-2.k10025141417738",
@@ -125,15 +134,6 @@
       "nyaaUrl": "https://nyaa.si/?q=4K65CLY5FTLEP2LG4TRMBB54475RVNB5",
       "size": "NaN MB",
       "date": "30/3/2026, 06.55.15"
-    },
-    {
-      "title": "Hells Paradise S02E12 Endings and Beginnings 1080p CR WEB-DL AAC2.0 H 264-VARYG (Jigokuraku, Multi-Subs)",
-      "link": "https://animetosho.org/view/hells-paradise-s02e12-endings-beginnings-1080p-cr-web.n2091677",
-      "magnet": "magnet:?xt=urn:btih:4PXQVEB2JJL3IMTPVCTGUVQP4IGDJA43&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&dn=Hells%20Paradise%20S02E12%20Endings%20and%20Beginnings%201080p%20CR%20WEB-DL%20AAC2.0%20H%20264-VARYG%20%28Jigokuraku%2C%20Multi-Subs%29",
-      "hash": "4PXQVEB2JJL3IMTPVCTGUVQP4IGDJA43",
-      "nyaaUrl": "https://nyaa.si/?q=4PXQVEB2JJL3IMTPVCTGUVQP4IGDJA43",
-      "size": "NaN MB",
-      "date": "30/3/2026, 06.25.17"
     }
   ]
 }

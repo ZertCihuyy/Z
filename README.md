@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 30/3/2026, 13.01.09 WIB
+**Sync Terakhir:** 30/3/2026, 15.22.45 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [BlackRabbit] Charlotte (2015) - S00 [Bluray-1080p][... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-charlotte-2015-s00-bluray-1080p-opus-2.k10025271268107) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CSUDNCOSLLQRCY4EMHFQMNW7YRMZ2WL3) |
 | [BlackRabbit] Charlotte (2015) - S01 [Bluray-1080p][... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-charlotte-2015-s01-bluray-1080p-opus-2.k10025141417738) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BLU2TMFG5423KOSQJEZGMTKLAD5K3UW2) |
 | [BlackRabbit] Death March to the Parallel World Rhap... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-death-march-parallel-world-rhapsody-2018-s01.k10024918963201) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OACUFH5NQYLFXS5JOLMAOL3J6MKZT6PK) |
 | [RaiN] Oshi no Ko - S03E11 (WEB 1080p HEVC AAC) | Os... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/rain-oshi-no-ko-s03e11-web-1080p-hevc.n2091710) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5EPM6E3NHDQAPNANNZHZXBIPWMDQNQ7U) |
@@ -26,7 +27,6 @@
 | [RAW] Macross Plus Movie Edition [HEVC 2160p 4K HDR ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/raw-macross-plus-movie-edition-hevc-2160p-4k.n2091688) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FJJRXOXFF6MMIRYCDWLQXT2WBVUZD6ND) |
 | [Judas] Isekai de Cheat Skill o Te ni Shita Ore wa, ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-isekai-de-cheat-skill-o-te-ni.n2091683) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EZYFHGSP6D6LPZTT7DMIM2GFKFSVHZYX) |
 | [BlackRabbit] 91 Days (2016) - S01 [Bluray-1080p][Op... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-91-days-2016-s01-bluray-1080p-opus.k10019562328072) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4K65CLY5FTLEP2LG4TRMBB54475RVNB5) |
-| Hells Paradise S02E12 Endings and Beginnings 1080p C... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02e12-endings-beginnings-1080p-cr-web.n2091677) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4PXQVEB2JJL3IMTPVCTGUVQP4IGDJA43) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
