@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 30/3/2026, 18.56.29 WIB
+**Sync Terakhir:** 30/3/2026, 20.54.37 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| My Hero Academia Vigilantes S02E11 Balloon Soul 1080... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/my-hero-academia-vigilantes-s02e11-balloon-soul-1080p.n2091777) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PRQ7PODLE6EWFKIDPHQZOZT25VSM2QS7) |
+| [Sokudo] Jigokuraku S02E12 [1080p AV1] | Hell's Para... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e12-1080p-av1-hells-paradise-weekly.n2091776) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RJXCWMOOEUTQRAXIG54FY5VK3PTG2326) |
+| [Breeze] Jigokuraku S02E12 [1080p AV1] | Hell's Para... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/breeze-jigokuraku-s02e12-1080p-av1-hells-paradise-weekly.n2091775) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3EO2ABLD6GAN2TEJ2L4OSJ4LHUNFY7GX) |
+| [Polarwindz] Cleopatra D.C. (1989) (BD 1080p HEVC FLAC) | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/polarwindz-cleopatra-d-c-1989-bd-1080p-hevc-flac.n2091773) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7WKFAZYBIAPWILHDTWOUMJXQCDKBRBEV) |
 | [BlackRabbit] How Not to Summon a Demon Lord (2018) ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-not-summon-demon-lord-2018-s01-bluray.k10030527179523) <br><br> [🐱 Nyaa](https://nyaa.si/?q=THH4ZLVYRWIN7OYJYNWTRHSF77MWCR6U) |
 | [ToonsHub] Elegy for the Henchmen Fist of the North ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-elegy-henchmen-fist-north-star-s01e12-1080p.k10030263354883) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z7FVT5V7DODTX6GELTFS42XPJ6C34CPU) |
 | [BlackRabbit] How Not to Summon a Demon Lord (2018) ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-not-summon-demon-lord-2018-s02-bluray.k10029810126852) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L5W4LWC3Y2ESYJFV3XIXC4Y5MR43B7OR) |
 | [ToonsHub] Golden Kamuy S05E10 1080p AMZN WEB-DL DDP... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e10-1080p-amzn-web-dl.n2091734) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SROPXEAX2J2R2U3BT5U66HB6SAEGRBXH) |
 | [BlackRabbit] Demon King Daimao (2010) - S00 [Bluray... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-king-daimao-2010-s00-bluray-1080p.k10029042129152) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OBIIR5NFNDXYTYZ35BR3A6UKXVAQLUZO) |
 | [BlackRabbit] Demon King Daimao (2010) - S01 [Bluray... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-king-daimao-2010-s01-bluray-1080p.k10028940490243) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ERUDRVBKQ7CWYUSZWZCDDMKEMJQZR3NI) |
-| [Kaleido-mini] Fate strange Fake - 13 (S01E13) - (WE... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-fate-strange-fake-13-s01e13-web.n2091729) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I4IHIYPXZ2O4SG4DRLOXI5SGG7GAG7BR) |
-| [Kaleido-subs] Fate strange Fake - 13 (S01E13) - (WE... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-fate-strange-fake-13-s01e13-web.n2091728) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AUEF3HRCHLXWJD7DR7XEVGBJELXEQ4Z6) |
-| [BlackRabbit] Charlotte (2015) - S00 [Bluray-1080p][... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-charlotte-2015-s00-bluray-1080p-opus-2.k10025271268107) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CSUDNCOSLLQRCY4EMHFQMNW7YRMZ2WL3) |
-| [BlackRabbit] Charlotte (2015) - S01 [Bluray-1080p][... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-charlotte-2015-s01-bluray-1080p-opus-2.k10025141417738) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BLU2TMFG5423KOSQJEZGMTKLAD5K3UW2) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
