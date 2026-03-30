@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 30/3/2026, 20.54.37 WIB
+**Sync Terakhir:** 30/3/2026, 22.09.49 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| My Hero Academia Vigilantes S02E11 Balloon Soul 1080... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/my-hero-academia-vigilantes-s02e11-balloon-soul-1080p.n2091777) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PRQ7PODLE6EWFKIDPHQZOZT25VSM2QS7) |
-| [Sokudo] Jigokuraku S02E12 [1080p AV1] | Hell's Para... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/sokudo-jigokuraku-s02e12-1080p-av1-hells-paradise-weekly.n2091776) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RJXCWMOOEUTQRAXIG54FY5VK3PTG2326) |
-| [Breeze] Jigokuraku S02E12 [1080p AV1] | Hell's Para... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/breeze-jigokuraku-s02e12-1080p-av1-hells-paradise-weekly.n2091775) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3EO2ABLD6GAN2TEJ2L4OSJ4LHUNFY7GX) |
-| [Polarwindz] Cleopatra D.C. (1989) (BD 1080p HEVC FLAC) | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/polarwindz-cleopatra-d-c-1989-bd-1080p-hevc-flac.n2091773) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7WKFAZYBIAPWILHDTWOUMJXQCDKBRBEV) |
-| [BlackRabbit] How Not to Summon a Demon Lord (2018) ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-not-summon-demon-lord-2018-s01-bluray.k10030527179523) <br><br> [🐱 Nyaa](https://nyaa.si/?q=THH4ZLVYRWIN7OYJYNWTRHSF77MWCR6U) |
-| [ToonsHub] Elegy for the Henchmen Fist of the North ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-elegy-henchmen-fist-north-star-s01e12-1080p.k10030263354883) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z7FVT5V7DODTX6GELTFS42XPJ6C34CPU) |
-| [BlackRabbit] How Not to Summon a Demon Lord (2018) ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-not-summon-demon-lord-2018-s02-bluray.k10029810126852) <br><br> [🐱 Nyaa](https://nyaa.si/?q=L5W4LWC3Y2ESYJFV3XIXC4Y5MR43B7OR) |
-| [ToonsHub] Golden Kamuy S05E10 1080p AMZN WEB-DL DDP... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e10-1080p-amzn-web-dl.n2091734) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SROPXEAX2J2R2U3BT5U66HB6SAEGRBXH) |
-| [BlackRabbit] Demon King Daimao (2010) - S00 [Bluray... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-king-daimao-2010-s00-bluray-1080p.k10029042129152) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OBIIR5NFNDXYTYZ35BR3A6UKXVAQLUZO) |
-| [BlackRabbit] Demon King Daimao (2010) - S01 [Bluray... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-king-daimao-2010-s01-bluray-1080p.k10028940490243) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ERUDRVBKQ7CWYUSZWZCDDMKEMJQZR3NI) |
+| [ASW] Vigilante - Boku no Hero Academia Illegals S2 ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-vigilante-boku-no-hero-academia-illegals-s2.n2091834) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GW2YNS7RMY6NU2AUBU7UJGF5ITWCDDS2) |
+| [BlackRabbit] Chivalry of a Failed Knight (2015) - S... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-chivalry-failed-knight-2015-s01-bluray-1080p.k10033312107017) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C2HSAGJFDAAA3XJLJKVPOA7YE2ADSZGY) |
+| [Onalrie] Vigilante - Boku no Hero Academia Illegals... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-vigilante-boku-no-hero-academia-illegals-s02e13.2070590) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5KND2HZFBXK3AR763LYFWTRWJGHDAT3U) |
+| [Yameii] Golden Kamuy - S05E11 [English Dub] [CR WEB... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-golden-kamuy-s05e11-english-dub-cr-web.n2091831) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7XZFH6JGIC2XXEKBKBV3AG327NXWYHG7) |
+| [Yameii] Golden Kamuy - S05E11 [English Dub] [CR WEB... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-golden-kamuy-s05e11-english-dub-cr-web.n2091830) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4PMBR5CBKD2JPPC3FJ6HE3HHC44NWXG7) |
+| [Erai-raws] Golden Kamuy Final Season - 13 [480p CR ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-13-480p.n2091829) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ORYB6KXJTJAYEHXL2ADUIQJAOGQRE4OK) |
+| [Erai-raws] Golden Kamuy Final Season - 13 [720p CR ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-13-720p.n2091827) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JY7APM622URKWRWU26IN6D62YPGSE6RJ) |
+| [Erai-raws] Golden Kamuy Final Season - 13 [1080p CR... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-13-1080p.n2091826) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VAGYIFTH3IIIIALSQ7XHTTFLPWEZ34QS) |
+| [SubsPlease] Golden Kamuy - 62 (1080p) [851C234E].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-golden-kamuy-62-1080p-851c234e-mkv.n2091825) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BVSR72RWZYZ2GMFZRIMLH52IUFFZI56G) |
+| Golden Kamuy S05E11 The Battle of Goryoukaku 1080p C... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/golden-kamuy-s05e11-battle-goryoukaku-1080p-cr-web.n2091824) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M5T7NVBIM3ZVT5TW3EE7UUFI4234BNYS) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
