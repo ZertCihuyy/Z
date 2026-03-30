@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 30/3/2026, 22.09.49 WIB
+**Sync Terakhir:** 31/3/2026, 00.03.19 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ASW] Vigilante - Boku no Hero Academia Illegals S2 ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-vigilante-boku-no-hero-academia-illegals-s2.n2091834) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GW2YNS7RMY6NU2AUBU7UJGF5ITWCDDS2) |
-| [BlackRabbit] Chivalry of a Failed Knight (2015) - S... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-chivalry-failed-knight-2015-s01-bluray-1080p.k10033312107017) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C2HSAGJFDAAA3XJLJKVPOA7YE2ADSZGY) |
-| [Onalrie] Vigilante - Boku no Hero Academia Illegals... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-vigilante-boku-no-hero-academia-illegals-s02e13.2070590) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5KND2HZFBXK3AR763LYFWTRWJGHDAT3U) |
-| [Yameii] Golden Kamuy - S05E11 [English Dub] [CR WEB... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-golden-kamuy-s05e11-english-dub-cr-web.n2091831) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7XZFH6JGIC2XXEKBKBV3AG327NXWYHG7) |
-| [Yameii] Golden Kamuy - S05E11 [English Dub] [CR WEB... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-golden-kamuy-s05e11-english-dub-cr-web.n2091830) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4PMBR5CBKD2JPPC3FJ6HE3HHC44NWXG7) |
-| [Erai-raws] Golden Kamuy Final Season - 13 [480p CR ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-13-480p.n2091829) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ORYB6KXJTJAYEHXL2ADUIQJAOGQRE4OK) |
-| [Erai-raws] Golden Kamuy Final Season - 13 [720p CR ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-13-720p.n2091827) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JY7APM622URKWRWU26IN6D62YPGSE6RJ) |
-| [Erai-raws] Golden Kamuy Final Season - 13 [1080p CR... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-13-1080p.n2091826) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VAGYIFTH3IIIIALSQ7XHTTFLPWEZ34QS) |
-| [SubsPlease] Golden Kamuy - 62 (1080p) [851C234E].mkv | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-golden-kamuy-62-1080p-851c234e-mkv.n2091825) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BVSR72RWZYZ2GMFZRIMLH52IUFFZI56G) |
-| Golden Kamuy S05E11 The Battle of Goryoukaku 1080p C... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/golden-kamuy-s05e11-battle-goryoukaku-1080p-cr-web.n2091824) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M5T7NVBIM3ZVT5TW3EE7UUFI4234BNYS) |
+| [Beltraz] Love Hina (2000) - S01 + Specials (DVD 576... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-love-hina-2000-s01-specials-dvd-576p-hevc-flac.k10035249469709) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2BGOAQOIU25LZCYBK46N3NMMPHR5XKAU) |
+| [ASW] Hime-sama Goumon no Jikan desu - 24 [1080p HEV... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-hime-sama-goumon-no-jikan-desu-24.n2091886) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2DFXFY4LJTKIK2S72Q4LBB7B72RDHGXB) |
+| [Onalrie] Hime-sama Goumon no Jikan desu - S02E12 [1... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-hime-sama-goumon-no-jikan-desu-s02e12.2070603) <br><br> [🐱 Nyaa](https://nyaa.si/?q=U22QOWRVEDPOKMFSXPN24I2JJFNIX5JZ) |
+| [Ironclad] Golden Kamuy - S05E13 [WEB 1080p AV1] | G... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/ironclad-golden-kamuy-s05e13-web-1080p-av1-saishuushou.k10034873910024) <br><br> [🐱 Nyaa](https://nyaa.si/?q=R4NL4MB3GZ3GNH2K6XFOQOKDLGZJN7HY) |
+| [Judas] Golden Kamuy - S05E13 [1080p][HEVC x265 10bi... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-golden-kamuy-s05e13-1080p-hevc-x265-10bit.n2091884) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JHMQKUSKVLJO227EOELTYBYXSPJQEB73) |
+| [DKB] Isekai de Cheat Skill wo Te ni Shita Ore wa, G... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-isekai-de-cheat-skill-wo-te-ni.n2091881) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SMPK4733LLM5JOGBRXNJTQZSBEBJ2ZSL) |
+| Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/isekai-de-cheat-skill-o-te-ni-shita.n2091880) <br><br> [🐱 Nyaa](https://nyaa.si/?q=F2BU5DME2RQKKLX53ECZPT3FLC7NYI6U) |
+| [CrappySubs] Oshi no Ko - S03E10 - (WEB 1080p H.265 ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/crappysubs-oshi-no-ko-s03e10-web-1080p-h.k10034619212043) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IZKYRUSQD74YDB2Z67SCEW7UQSK4U4DE) |
+| [GHOST][1080p] Inuyasha - Movie 4 Fire on the Mystic... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/ghost-1080p-inuyasha-movie-4-fire-mystic-island.n2091878) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2LGIDH3B54DBEHLAEEUTSMVGQBXZEFXD) |
+| [GHOST][1080p] Inuyasha - Movie 3 Swords of an Honor... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/ghost-1080p-inuyasha-movie-3-swords-honorable-ruler.n2091877) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SX4SWFXX5BVWJPIDM5OEFJOAQTZDYSWR) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
