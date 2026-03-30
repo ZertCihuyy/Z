@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 30/3/2026, 10.17.36 WIB
+**Sync Terakhir:** 30/3/2026, 13.01.09 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [BlackRabbit] Charlotte (2015) - S01 [Bluray-1080p][... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-charlotte-2015-s01-bluray-1080p-opus-2.k10025141417738) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BLU2TMFG5423KOSQJEZGMTKLAD5K3UW2) |
+| [BlackRabbit] Death March to the Parallel World Rhap... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-death-march-parallel-world-rhapsody-2018-s01.k10024918963201) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OACUFH5NQYLFXS5JOLMAOL3J6MKZT6PK) |
+| [RaiN] Oshi no Ko - S03E11 (WEB 1080p HEVC AAC) | Os... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/rain-oshi-no-ko-s03e11-web-1080p-hevc.n2091710) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5EPM6E3NHDQAPNANNZHZXBIPWMDQNQ7U) |
+| [RaiN] Oshi no Ko - S03E10 (WEB 1080p HEVC AAC) | Os... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/rain-oshi-no-ko-s03e10-web-1080p-hevc.n2091709) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4M7EGJH27BFGZ2NONO3CHWXF4A5QH6WX) |
+| [BlackRabbit] Redo of Healer (2021) - S01 [Bluray-10... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-redo-healer-2021-s01-bluray-1080p-opus.k10024651886351) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PQOZV2ESJIC6NE7FZ3Z3ULSTYODE5KEC) |
+| [Freehold] Chained Soldier S02 [ADN WEB-DL 1080p x26... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02-adn-web-dl-1080p.n2091697) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LK7WPW6FHYN4HW373MG7XUYM66AEAJ26) |
 | [RAW] Macross Plus Movie Edition [HEVC 2160p 4K HDR ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/raw-macross-plus-movie-edition-hevc-2160p-4k.n2091688) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FJJRXOXFF6MMIRYCDWLQXT2WBVUZD6ND) |
 | [Judas] Isekai de Cheat Skill o Te ni Shita Ore wa, ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-isekai-de-cheat-skill-o-te-ni.n2091683) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EZYFHGSP6D6LPZTT7DMIM2GFKFSVHZYX) |
 | [BlackRabbit] 91 Days (2016) - S01 [Bluray-1080p][Op... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-91-days-2016-s01-bluray-1080p-opus.k10019562328072) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4K65CLY5FTLEP2LG4TRMBB54475RVNB5) |
 | Hells Paradise S02E12 Endings and Beginnings 1080p C... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02e12-endings-beginnings-1080p-cr-web.n2091677) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4PXQVEB2JJL3IMTPVCTGUVQP4IGDJA43) |
-| [DKB] Jigokuraku - S02E12 [1080p][END][HEVC x265 10b... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/dkb-jigokuraku-s02e12-1080p-end-hevc-x265-10bit.n2091676) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JFKPMFSWD7AWQC4VF2VOX4RVLE5DHH2S) |
-| [Piyoko] Himitsu no AiPri: Ring-hen - 51 [WEB 1080p ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/piyoko-himitsu-no-aipri-ring-hen-51-web.n2091675) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5SRWHP5JXM5ZH4XTQV2GUWIF2YKYLTY2) |
-| [BlackRabbit] Harem in the Labyrinth of Another Worl... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-harem-labyrinth-another-world-2022-s01-bluray.k10018447105287) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C4I2T75TVOV53QRMQDLVAX4YAWTBNPPT) |
-| [ASW] Iseleve - OVA [1080p HEVC x265 10Bit][AAC] | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-iseleve-ova-1080p-hevc-x265-10bit-aac.n2091671) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EENZXTB7MTLRKBW3BCJHYACONMT3SVNS) |
-| [Erai-raws] Jigokuraku 2nd Season - 12 [1080p CR WEB... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-jigokuraku-2nd-season-12-1080p-cr.n2091669) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3KJP6MSUIHBPISY52NCZBPBBNEFAHAMY) |
-| [Beltraz] Girls Bravo - S01-S02 (DVD 480p MPEG AC-3) | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-girls-bravo-s01-s02-dvd-480p-mpeg-ac-3.k10017943390209) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CG7JUTY4M4CDZVG5HNGOO62CALMD22G4) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
