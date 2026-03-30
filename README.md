@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 30/3/2026, 15.22.45 WIB
+**Sync Terakhir:** 30/3/2026, 17.21.36 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [BlackRabbit] Demon King Daimao (2010) - S00 [Bluray... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-king-daimao-2010-s00-bluray-1080p.k10029042129152) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OBIIR5NFNDXYTYZ35BR3A6UKXVAQLUZO) |
+| [BlackRabbit] Demon King Daimao (2010) - S01 [Bluray... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-king-daimao-2010-s01-bluray-1080p.k10028940490243) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ERUDRVBKQ7CWYUSZWZCDDMKEMJQZR3NI) |
+| [Kaleido-mini] Fate strange Fake - 13 (S01E13) - (WE... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-fate-strange-fake-13-s01e13-web.n2091729) <br><br> [🐱 Nyaa](https://nyaa.si/?q=I4IHIYPXZ2O4SG4DRLOXI5SGG7GAG7BR) |
+| [Kaleido-subs] Fate strange Fake - 13 (S01E13) - (WE... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-fate-strange-fake-13-s01e13-web.n2091728) <br><br> [🐱 Nyaa](https://nyaa.si/?q=AUEF3HRCHLXWJD7DR7XEVGBJELXEQ4Z6) |
 | [BlackRabbit] Charlotte (2015) - S00 [Bluray-1080p][... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-charlotte-2015-s00-bluray-1080p-opus-2.k10025271268107) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CSUDNCOSLLQRCY4EMHFQMNW7YRMZ2WL3) |
 | [BlackRabbit] Charlotte (2015) - S01 [Bluray-1080p][... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-charlotte-2015-s01-bluray-1080p-opus-2.k10025141417738) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BLU2TMFG5423KOSQJEZGMTKLAD5K3UW2) |
 | [BlackRabbit] Death March to the Parallel World Rhap... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-death-march-parallel-world-rhapsody-2018-s01.k10024918963201) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OACUFH5NQYLFXS5JOLMAOL3J6MKZT6PK) |
 | [RaiN] Oshi no Ko - S03E11 (WEB 1080p HEVC AAC) | Os... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/rain-oshi-no-ko-s03e11-web-1080p-hevc.n2091710) <br><br> [🐱 Nyaa](https://nyaa.si/?q=5EPM6E3NHDQAPNANNZHZXBIPWMDQNQ7U) |
 | [RaiN] Oshi no Ko - S03E10 (WEB 1080p HEVC AAC) | Os... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/rain-oshi-no-ko-s03e10-web-1080p-hevc.n2091709) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4M7EGJH27BFGZ2NONO3CHWXF4A5QH6WX) |
 | [BlackRabbit] Redo of Healer (2021) - S01 [Bluray-10... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-redo-healer-2021-s01-bluray-1080p-opus.k10024651886351) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PQOZV2ESJIC6NE7FZ3Z3ULSTYODE5KEC) |
-| [Freehold] Chained Soldier S02 [ADN WEB-DL 1080p x26... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02-adn-web-dl-1080p.n2091697) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LK7WPW6FHYN4HW373MG7XUYM66AEAJ26) |
-| [RAW] Macross Plus Movie Edition [HEVC 2160p 4K HDR ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/raw-macross-plus-movie-edition-hevc-2160p-4k.n2091688) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FJJRXOXFF6MMIRYCDWLQXT2WBVUZD6ND) |
-| [Judas] Isekai de Cheat Skill o Te ni Shita Ore wa, ... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/judas-isekai-de-cheat-skill-o-te-ni.n2091683) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EZYFHGSP6D6LPZTT7DMIM2GFKFSVHZYX) |
-| [BlackRabbit] 91 Days (2016) - S01 [Bluray-1080p][Op... | NaN MB | 30/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-91-days-2016-s01-bluray-1080p-opus.k10019562328072) <br><br> [🐱 Nyaa](https://nyaa.si/?q=4K65CLY5FTLEP2LG4TRMBB54475RVNB5) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
