@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 31/3/2026, 12.15.13 WIB
+**Sync Terakhir:** 31/3/2026, 14.24.41 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| Teasing Master Takagi-san (Karakai Jouzu no Takagi-s... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/teasing-master-takagi-san-karakai-jouzu-no-s03.n2092002) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZIAB2HOKD3XDUTKH3ZHFPJDD6CTGOTUI) |
+| Teasing Master Takagi-san (Karakai Jouzu no Takagi-s... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/teasing-master-takagi-san-karakai-jouzu-no-s03.k10047714608653) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FVHGS72H57M7N5T5TKFGL3BTDGCT3OLE) |
+| [ChuySub] Majokko Megu-chan - Episode 44 | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-44.n2091999) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4YEAKTGMRJSHKO7YGKFBGG35WIMSPUS) |
+| [notKaleido-mini]and[Kaleido-mini] Fate strange Fake... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/notkaleido-mini-kaleido-fate-strange-fake-s01-whispers.n2091998) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VVA6HCQTZI2WQXVFIGDNOB4HQAFE3ND6) |
 | I.Was.Reincarnated.as.the.7th.Prince.so.I.Can.Take.M... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/reincarnated-7th-prince-take-my-time-perfecting-magical.k10045651685127) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UBPGYJXV4VXN6Q4J75IJBC74XIRF24SC) |
 | [Freehold] Chained Soldier S02E01-E03 REPACK2 [ADN W... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e01-e03-repack2-adn-web.n2091975) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IHMQK4DNNQCF4BGN6YQN6FYYO2C7GU6T) |
 | Tokyo.Mew.Mew.New.S01.1080p.BluRay.Remux.AVC.FLAC2.0... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/tokyo-mew-new-s01-1080p-bluray-remux-avc.k10044859363340) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2PWWYXEEBWNTLCIY7QXC74IJLI5CF6SQ) |
 | Tokyo.Mew.Mew.New.S01.1080p.BluRay.Opus2.0.10bit.x26... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/tokyo-mew-new-s01-1080p-bluray-opus2-0.k10044858678532) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SETKHEPGURK4SAFAOPKTQIE4LZF3FBHL) |
 | [SonicMaster] Jujutsu Kaisen: Hidden Inventory / Pre... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/sonicmaster-jujutsu-kaisen-hidden-inventory-premature-death.n2091967) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ISKMB26VJK6R7IVTPLJU65CB3TQRD6K6) |
 | [sgt] A Mangaka's Weirdly Wonderful Workplace S01 (B... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/sgt-mangakas-weirdly-wonderful-workplace-s01-bd-1080p.n2091964) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IDXWCXG34DTHIVK2V5V5MR3WDICC4R37) |
-| PoPoLoCrois Monogatari Pilot Animation (1993) [XviD]... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/popolocrois-monogatari-pilot-animation-1993-xvid-pakapuka.n2091958) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2DN6LX47HNPGJYIACDAWGXD72SGYEZE5) |
-| PoPoLoCrois Monogatari (1998) [XviD] [A-BT&Pakapuka] | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/popolocrois-monogatari-1998-xvid-bt-pakapuka.n2091949) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7XIQCPVRNP3Y3RO3YYT7S3LC5LBHRYH5) |
-| [Trix] Ikoku Nikki S01 v2 (Batch) [WEBRip 1080p AV1 ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/trix-ikoku-nikki-s01-v2-batch-webrip-1080p.k10040248940804) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CMWN3DGX27Q6KVMX745ZKMYU4GTNGUOH) |
-| [CicakRumah] Koupen-chan - S01E51 (コウペンちゃん; Koupen C... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/cicakrumah-koupen-chan-s01e51-chan-amzn-web-dl.n2091941) <br><br> [🐱 Nyaa](https://nyaa.si/?q=C543LGIBOMIS2DBPZL5J3FKL5D7MHK5E) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
