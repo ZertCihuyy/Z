@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 1/4/2026, 00.04.49 WIB
+**Sync Terakhir:** 1/4/2026, 03.50.27 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ASW] Kanteishi (Kari) - 01 [1080p HEVC x265 10Bit][... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-kanteishi-kari-01-1080p-hevc-x265-10bit-aac.n2092229) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KTRM42SF5CIFONN5RKSKJ2JE2HS3BN3I) |
-| [ASW] Maid-san wa Taberu Dake - 01 [1080p HEVC x265 ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-maid-san-wa-taberu-dake-01-1080p.n2092226) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PR5MUOG477ASGUNWFOYFIOAL3TFGCCXW) |
-| The Darwin Incident S01E13 Will 1080p AMZN WEB-DL MU... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/darwin-incident-s01e13-will-1080p-amzn-web-dl.n2092225) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7PNQQOZJEJ4TCYTQ6PRNLVXUATMO2UTT) |
-| The Darwin Incident S01E13 Will 1080p AMZN WEB-DL DU... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/darwin-incident-s01e13-will-1080p-amzn-web-dl.n2092224) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UXPSXTOQCXQHNGFVYTYWBJJQYQOBGCCZ) |
-| [Onalrie] Kanteishi (Kari) - S01E01 [1080p WEBRip AV... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-kanteishi-kari-s01e01-1080p-webrip-av1-mkv.2070884) <br><br> [🐱 Nyaa](https://nyaa.si/?q=652MDZWCH55P67SLWZ7CFKAJ6FD4S2IA) |
-| [Erai-raws] Darwin Jihen - 13 [1080p AMZN WEB-DL AVC... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-13-1080p-amzn-web.n2092223) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J3MC7SF55T6HYIEXZYC67VR7IKPJDWIR) |
-| [Erai-raws] Darwin Jihen - 13 [720p AMZN WEB-DL AVC ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-13-720p-amzn-web.n2092222) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NRB5UANXVFB6BVZCRDCMSMYC2AJ3P4B2) |
-| [Erai-raws] Darwin Jihen - 13 [540p AMZN WEB-DL AVC ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-13-540p-amzn-web.n2092221) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E34DEPBXI2NFPOTM7JGSMDLGKBTNBUPQ) |
-| [Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenj... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2092218) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OLEHLHSIWQICTWUHKS6UU6A4IP3PUAJK) |
-| [Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenj... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2092217) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PCAWBN67XYJBSIFZ2XSSDXFZPYI3MZGS) |
+| [BlackRabbit] Manyu Scroll (2011) - S01 [Bluray-1080... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-manyu-scroll-2011-s01-bluray-1080p-opus.k10060836344846) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SVW5GNMABKFZXIPBR4JAPK7X6VCVBJNY) |
+| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2092354) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6DHYTBIZQ3A5DYM7H64AQCBD5OXUGLVJ) |
+| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2092353) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7VISAWHPKCXVSBOCHS52X4QQSUKX5YQR) |
+| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2092352) <br><br> [🐱 Nyaa](https://nyaa.si/?q=355G6WFJA7MQVDRZXQVMGFRUDLGUHPJH) |
+| [Erai-raws] Mato Seihei no Slave 2 - 08 [1080p ADN W... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-08.n2092351) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CFYXS547ACJ4RWTGO4BI4KZ2G7VQFTYP) |
+| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2092350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EHXFH5MPNICBUYOONHZVBDH2W6NUU427) |
+| [Erai-raws] Tensui no Sakuna-hime: Kokorowa Inasaku ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensui-no-sakuna-hime-kokorowa-inasaku.n2092349) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CHHXIXP3DDT7CRDGEXXAY37KFDEHXEAW) |
+| [Erai-raws] Tensui no Sakuna-hime: Kokorowa Inasaku ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensui-no-sakuna-hime-kokorowa-inasaku.n2092348) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7MCIJ4GEUPBTF52ZFSHYPOIDGVCM4TAD) |
+| [Erai-raws] Golden Kamuy Final Season - 13 [1080p CR... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-13-1080p.n2092347) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3LIAWNAGEGNN6UMUKU5C7CQCVGEFMQW6) |
+| [Erai-raws] Goumon Baito-kun no Nichijou - 12 [1080p... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-goumon-baito-kun-no-nichijou-12.n2092346) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3CO7HIHBUEVEH4JAKJTKSNWJDG2HNDKK) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
