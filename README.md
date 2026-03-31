@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 31/3/2026, 16.08.16 WIB
+**Sync Terakhir:** 31/3/2026, 17.59.49 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [ToonsHub] Chitose Is in the Ramune Bottle S01E11 10... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chitose-ramune-bottle-s01e11-1080p-cr-web.n2092042) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3YT2QUPHYBIHM4FQ7AKN7A5BQZHS5ZHS) |
+| Chitose Is in the Ramune Bottle S01E11 Rainy with a ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/chitose-ramune-bottle-s01e11-rainy-chance-1080p-cr.n2092035) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WK2ZSCD4WPL535VS5ZYRPVSFKZSHHEU4) |
+| [SubsPlease] Chitose-kun wa Ramune Bin no Naka - 11 ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-chitose-kun-wa-ramune-bin-no-naka.n2092034) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WZ6GXHKIXFXT34EVAHP47DDKH4L7APE4) |
+| [SubsPlease] Chitose-kun wa Ramune Bin no Naka - 11 ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-chitose-kun-wa-ramune-bin-no-naka.n2092032) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VLOEVQR7YKDOAGEZRXIZVEIMUEA6NEYS) |
+| [SubsPlease] Chitose-kun wa Ramune Bin no Naka - 11 ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-chitose-kun-wa-ramune-bin-no-naka.n2092033) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J54A3HVSVXWTYFIV4NOKVGJ3KDVKPBQG) |
+| [ToonsHub] Chitose Is in the Ramune Bottle S01E11 10... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chitose-ramune-bottle-s01e11-1080p-bili-web.n2092029) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZH53ZAKQKVMEC3MK5CYF5WOQQ4KMKZH3) |
 | [BlackRabbit] Cross Ange - Rondo of Angel and Dragon... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-cross-ange-rondo-angel-dragon-2014-s01.k10049908475150) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WQKKRSYRMYSWE5Y4ZWY65DPH46B3XNK7) |
 | Teasing Master Takagi-san (Karakai Jouzu no Takagi-s... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/teasing-master-takagi-san-karakai-jouzu-no-s03.n2092002) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZIAB2HOKD3XDUTKH3ZHFPJDD6CTGOTUI) |
 | Teasing Master Takagi-san (Karakai Jouzu no Takagi-s... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/teasing-master-takagi-san-karakai-jouzu-no-s03.k10047714608653) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FVHGS72H57M7N5T5TKFGL3BTDGCT3OLE) |
 | [ChuySub] Majokko Megu-chan - Episode 44 | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-44.n2091999) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4YEAKTGMRJSHKO7YGKFBGG35WIMSPUS) |
-| [notKaleido-mini]and[Kaleido-mini] Fate strange Fake... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/notkaleido-mini-kaleido-fate-strange-fake-s01-whispers.n2091998) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VVA6HCQTZI2WQXVFIGDNOB4HQAFE3ND6) |
-| I.Was.Reincarnated.as.the.7th.Prince.so.I.Can.Take.M... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/reincarnated-7th-prince-take-my-time-perfecting-magical.k10045651685127) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UBPGYJXV4VXN6Q4J75IJBC74XIRF24SC) |
-| [Freehold] Chained Soldier S02E01-E03 REPACK2 [ADN W... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e01-e03-repack2-adn-web.n2091975) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IHMQK4DNNQCF4BGN6YQN6FYYO2C7GU6T) |
-| Tokyo.Mew.Mew.New.S01.1080p.BluRay.Remux.AVC.FLAC2.0... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/tokyo-mew-new-s01-1080p-bluray-remux-avc.k10044859363340) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2PWWYXEEBWNTLCIY7QXC74IJLI5CF6SQ) |
-| Tokyo.Mew.Mew.New.S01.1080p.BluRay.Opus2.0.10bit.x26... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/tokyo-mew-new-s01-1080p-bluray-opus2-0.k10044858678532) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SETKHEPGURK4SAFAOPKTQIE4LZF3FBHL) |
-| [SonicMaster] Jujutsu Kaisen: Hidden Inventory / Pre... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/sonicmaster-jujutsu-kaisen-hidden-inventory-premature-death.n2091967) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ISKMB26VJK6R7IVTPLJU65CB3TQRD6K6) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
