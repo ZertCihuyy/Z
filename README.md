@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 31/3/2026, 14.24.41 WIB
+**Sync Terakhir:** 31/3/2026, 16.08.16 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,6 +17,7 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [BlackRabbit] Cross Ange - Rondo of Angel and Dragon... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-cross-ange-rondo-angel-dragon-2014-s01.k10049908475150) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WQKKRSYRMYSWE5Y4ZWY65DPH46B3XNK7) |
 | Teasing Master Takagi-san (Karakai Jouzu no Takagi-s... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/teasing-master-takagi-san-karakai-jouzu-no-s03.n2092002) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZIAB2HOKD3XDUTKH3ZHFPJDD6CTGOTUI) |
 | Teasing Master Takagi-san (Karakai Jouzu no Takagi-s... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/teasing-master-takagi-san-karakai-jouzu-no-s03.k10047714608653) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FVHGS72H57M7N5T5TKFGL3BTDGCT3OLE) |
 | [ChuySub] Majokko Megu-chan - Episode 44 | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-44.n2091999) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4YEAKTGMRJSHKO7YGKFBGG35WIMSPUS) |
@@ -26,7 +27,6 @@
 | Tokyo.Mew.Mew.New.S01.1080p.BluRay.Remux.AVC.FLAC2.0... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/tokyo-mew-new-s01-1080p-bluray-remux-avc.k10044859363340) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2PWWYXEEBWNTLCIY7QXC74IJLI5CF6SQ) |
 | Tokyo.Mew.Mew.New.S01.1080p.BluRay.Opus2.0.10bit.x26... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/tokyo-mew-new-s01-1080p-bluray-opus2-0.k10044858678532) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SETKHEPGURK4SAFAOPKTQIE4LZF3FBHL) |
 | [SonicMaster] Jujutsu Kaisen: Hidden Inventory / Pre... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/sonicmaster-jujutsu-kaisen-hidden-inventory-premature-death.n2091967) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ISKMB26VJK6R7IVTPLJU65CB3TQRD6K6) |
-| [sgt] A Mangaka's Weirdly Wonderful Workplace S01 (B... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/sgt-mangakas-weirdly-wonderful-workplace-s01-bd-1080p.n2091964) <br><br> [🐱 Nyaa](https://nyaa.si/?q=IDXWCXG34DTHIVK2V5V5MR3WDICC4R37) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
