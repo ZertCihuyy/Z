@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 1/4/2026, 04.46.16 WIB
+**Sync Terakhir:** 1/4/2026, 05.39.43 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Feibanyama] Chitose Is in the Ramune Bottle S01E11 ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/feibanyama-chitose-ramune-bottle-s01e11-bilibili-webrip.n2092388) <br><br> [🐱 Nyaa](https://nyaa.si/?q=JYFMPPLX34WP3P5OYCADNKSWJEHZ3CAI) |
+| [MiniMTBB] Sono Bisque Doll wa Koi wo Suru S1 (BD 10... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/minimtbb-sono-bisque-doll-wa-koi-wo-suru.n2092386) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KHFJOT2PGJKQWBJ2ZD2KCAIBPG7JSXBP) |
+| [MTBB] Sono Bisque Doll wa Koi wo Suru S1 (BD 1080p)... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/mtbb-sono-bisque-doll-wa-koi-wo-suru.n2092385) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3QJRV52PBI22WXKYIUWE7P7FUXOWM47X) |
+| [BlackRabbit] Cat Planet Cuties (2010) - S00 [Bluray... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-cat-planet-cuties-2010-s00-bluray-1080p.k10061843928321) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LASIE3HWHEYGP5JHKJFKFOCBG3QB5TWH) |
 | [BlackRabbit] Cat Planet Cuties (2010) - S01 [Bluray... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-cat-planet-cuties-2010-s01-bluray-1080p.k10061755201289) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UPRH4DZRNMXD2H2L45RMHESPYUCU5C2X) |
 | [Yameii] Tune In to the Midnight Heart - S01E11 [Eng... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tune-midnight-heart-s01e11-english-dub-cr.n2092380) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CQSXJLVYRDO4GE5CYG52KSCNRBGNRGCO) |
 | [Yameii] Tune In to the Midnight Heart - S01E11 [Eng... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tune-midnight-heart-s01e11-english-dub-cr.n2092379) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z47YWMKXTXBOHEAJCNUPWOGT4ZYESV2U) |
 | Chained Soldier S02E12 Gods Assemble 1080p ADN WEB-D... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e12-gods-assemble-1080p-adn-web.n2092378) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RVW6GXLDBOGQIQKR6DQ7QR2ZOAWFY24K) |
 | HELL MODE S01E12 THE ESCAPE 1080p ADN WEB-DL AAC2.0 ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/hell-mode-s01e12-escape-1080p-adn-web-dl.n2092376) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DNAGLIJZBBGMV73ETMF6ROXC2HGQFNHI) |
 | Demon Slave S02E12 Gods Assemble 1080p ADN WEB-DL AA... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/demon-slave-s02e12-gods-assemble-1080p-adn-web.n2092375) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YQOCB2LBRZGFHA2HG5N4QMCR3FJMXEL2) |
-| [Gecko] Fate Grand Order You've Lost Ritsuka Fujimar... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.k10061247411207) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MRPEMIN4SHKMYCIJLC3I7K2M5PKUJTIO) |
-| [Commie] The Darwin Incident - 13 [CB7CC538].mkv | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/commie-darwin-incident-13-cb7cc538-mkv.n2092373) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7VWRBYI5V5ZAZP46XP4CBOH2RXEWAEMJ) |
-| [Erai-raws] Fangkai Nage Nuwu - 01 (CA) [1080p CR WE... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-01-ca-1080p.n2092372) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OAIEN7AOSOAFZ4LKMBKHBNT6MOHCVQRS) |
-| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2092371) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ROFKJLRWCRA7KSWUZUWL3JQBXDZBKHTW) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
