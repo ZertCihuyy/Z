@@ -1,32 +1,32 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 31/3/2026, 17.59.49 WIB
+**Sync Terakhir:** 1/4/2026, 00.04.49 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
 | Poster | Info Anime |
 | :---: | --- |
-| <img src="https://myanimelist.net/images/anime/1921/154528.jpg" width="110" style="border-radius: 8px;"> | **[Sousou no Frieren 2nd Season](https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season)**<br>⭐ Score: 8.95<br>📺 Eps: 10 |
-| <img src="https://myanimelist.net/images/anime/1659/154920.jpg" width="110" style="border-radius: 8px;"> | **[Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen](https://myanimelist.net/anime/57658/Jujutsu_Kaisen__Shimetsu_Kaiyuu_-_Zenpen)**<br>⭐ Score: 8.67<br>📺 Eps: 12 |
-| <img src="https://myanimelist.net/images/anime/1772/154456.jpg" width="110" style="border-radius: 8px;"> | **[Jigokuraku 2nd Season](https://myanimelist.net/anime/55825/Jigokuraku_2nd_Season)**<br>⭐ Score: 8.24<br>📺 Eps: 12 |
-| <img src="https://myanimelist.net/images/anime/1062/151911.jpg" width="110" style="border-radius: 8px;"> | **[Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://myanimelist.net/anime/56009/Yuusha-kei_ni_Shosu__Choubatsu_Yuusha_9004-tai_Keimu_Kiroku)**<br>⭐ Score: 8.19<br>📺 Eps: 12 |
-| <img src="https://myanimelist.net/images/anime/1979/153329.jpg" width="110" style="border-radius: 8px;"> | **[[Oshi no Ko] 3rd Season](https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season)**<br>⭐ Score: 8.74<br>📺 Eps: 11 |
-| <img src="https://myanimelist.net/images/anime/1448/154111.jpg" width="110" style="border-radius: 8px;"> | **[Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)**<br>⭐ Score: 9.18<br>📺 Eps: Ongoing |
+| <img src="https://myanimelist.net/images/anime/1540/155824.jpg" width="110" style="border-radius: 8px;"> | **[Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season)**<br>⭐ Score: N/A<br>📺 Eps: 19 |
+| <img src="https://myanimelist.net/images/anime/1695/156389.jpg" width="110" style="border-radius: 8px;"> | **[Tensei shitara Slime Datta Ken 4th Season](https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
+| <img src="https://myanimelist.net/images/anime/1176/153626.jpg" width="110" style="border-radius: 8px;"> | **[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki](https://myanimelist.net/anime/59708/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_4th_Season__2-nensei-hen_1_Gakki)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
+| <img src="https://myanimelist.net/images/anime/1726/155542.jpg" width="110" style="border-radius: 8px;"> | **[Tongari Boushi no Atelier](https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
+| <img src="https://myanimelist.net/images/anime/1989/154843.jpg" width="110" style="border-radius: 8px;"> | **[Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2](https://myanimelist.net/anime/56876/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken_2)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
+| <img src="https://myanimelist.net/images/anime/1773/155779.jpg" width="110" style="border-radius: 8px;"> | **[Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
 
 ### 📥 Rilisan Terbaru (1080p)
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [ToonsHub] Chitose Is in the Ramune Bottle S01E11 10... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chitose-ramune-bottle-s01e11-1080p-cr-web.n2092042) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3YT2QUPHYBIHM4FQ7AKN7A5BQZHS5ZHS) |
-| Chitose Is in the Ramune Bottle S01E11 Rainy with a ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/chitose-ramune-bottle-s01e11-rainy-chance-1080p-cr.n2092035) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WK2ZSCD4WPL535VS5ZYRPVSFKZSHHEU4) |
-| [SubsPlease] Chitose-kun wa Ramune Bin no Naka - 11 ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-chitose-kun-wa-ramune-bin-no-naka.n2092034) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WZ6GXHKIXFXT34EVAHP47DDKH4L7APE4) |
-| [SubsPlease] Chitose-kun wa Ramune Bin no Naka - 11 ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-chitose-kun-wa-ramune-bin-no-naka.n2092032) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VLOEVQR7YKDOAGEZRXIZVEIMUEA6NEYS) |
-| [SubsPlease] Chitose-kun wa Ramune Bin no Naka - 11 ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-chitose-kun-wa-ramune-bin-no-naka.n2092033) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J54A3HVSVXWTYFIV4NOKVGJ3KDVKPBQG) |
-| [ToonsHub] Chitose Is in the Ramune Bottle S01E11 10... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-chitose-ramune-bottle-s01e11-1080p-bili-web.n2092029) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZH53ZAKQKVMEC3MK5CYF5WOQQ4KMKZH3) |
-| [BlackRabbit] Cross Ange - Rondo of Angel and Dragon... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-cross-ange-rondo-angel-dragon-2014-s01.k10049908475150) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WQKKRSYRMYSWE5Y4ZWY65DPH46B3XNK7) |
-| Teasing Master Takagi-san (Karakai Jouzu no Takagi-s... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/teasing-master-takagi-san-karakai-jouzu-no-s03.n2092002) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ZIAB2HOKD3XDUTKH3ZHFPJDD6CTGOTUI) |
-| Teasing Master Takagi-san (Karakai Jouzu no Takagi-s... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/teasing-master-takagi-san-karakai-jouzu-no-s03.k10047714608653) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FVHGS72H57M7N5T5TKFGL3BTDGCT3OLE) |
-| [ChuySub] Majokko Megu-chan - Episode 44 | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-44.n2091999) <br><br> [🐱 Nyaa](https://nyaa.si/?q=T4YEAKTGMRJSHKO7YGKFBGG35WIMSPUS) |
+| [ASW] Kanteishi (Kari) - 01 [1080p HEVC x265 10Bit][... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-kanteishi-kari-01-1080p-hevc-x265-10bit-aac.n2092229) <br><br> [🐱 Nyaa](https://nyaa.si/?q=KTRM42SF5CIFONN5RKSKJ2JE2HS3BN3I) |
+| [ASW] Maid-san wa Taberu Dake - 01 [1080p HEVC x265 ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/asw-maid-san-wa-taberu-dake-01-1080p.n2092226) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PR5MUOG477ASGUNWFOYFIOAL3TFGCCXW) |
+| The Darwin Incident S01E13 Will 1080p AMZN WEB-DL MU... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/darwin-incident-s01e13-will-1080p-amzn-web-dl.n2092225) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7PNQQOZJEJ4TCYTQ6PRNLVXUATMO2UTT) |
+| The Darwin Incident S01E13 Will 1080p AMZN WEB-DL DU... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/darwin-incident-s01e13-will-1080p-amzn-web-dl.n2092224) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UXPSXTOQCXQHNGFVYTYWBJJQYQOBGCCZ) |
+| [Onalrie] Kanteishi (Kari) - S01E01 [1080p WEBRip AV... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-kanteishi-kari-s01e01-1080p-webrip-av1-mkv.2070884) <br><br> [🐱 Nyaa](https://nyaa.si/?q=652MDZWCH55P67SLWZ7CFKAJ6FD4S2IA) |
+| [Erai-raws] Darwin Jihen - 13 [1080p AMZN WEB-DL AVC... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-13-1080p-amzn-web.n2092223) <br><br> [🐱 Nyaa](https://nyaa.si/?q=J3MC7SF55T6HYIEXZYC67VR7IKPJDWIR) |
+| [Erai-raws] Darwin Jihen - 13 [720p AMZN WEB-DL AVC ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-13-720p-amzn-web.n2092222) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NRB5UANXVFB6BVZCRDCMSMYC2AJ3P4B2) |
+| [Erai-raws] Darwin Jihen - 13 [540p AMZN WEB-DL AVC ... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-darwin-jihen-13-540p-amzn-web.n2092221) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E34DEPBXI2NFPOTM7JGSMDLGKBTNBUPQ) |
+| [Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenj... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2092218) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OLEHLHSIWQICTWUHKS6UU6A4IP3PUAJK) |
+| [Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenj... | NaN MB | 31/3/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2092217) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PCAWBN67XYJBSIFZ2XSSDXFZPYI3MZGS) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
