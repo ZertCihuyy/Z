@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 1/4/2026, 03.50.27 WIB
+**Sync Terakhir:** 1/4/2026, 04.46.16 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [BlackRabbit] Manyu Scroll (2011) - S01 [Bluray-1080... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-manyu-scroll-2011-s01-bluray-1080p-opus.k10060836344846) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SVW5GNMABKFZXIPBR4JAPK7X6VCVBJNY) |
-| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2092354) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6DHYTBIZQ3A5DYM7H64AQCBD5OXUGLVJ) |
-| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2092353) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7VISAWHPKCXVSBOCHS52X4QQSUKX5YQR) |
-| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2092352) <br><br> [🐱 Nyaa](https://nyaa.si/?q=355G6WFJA7MQVDRZXQVMGFRUDLGUHPJH) |
-| [Erai-raws] Mato Seihei no Slave 2 - 08 [1080p ADN W... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-mato-seihei-no-slave-2-08.n2092351) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CFYXS547ACJ4RWTGO4BI4KZ2G7VQFTYP) |
-| [Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-hell-mode-yarikomizuki-no-gamer-wa.n2092350) <br><br> [🐱 Nyaa](https://nyaa.si/?q=EHXFH5MPNICBUYOONHZVBDH2W6NUU427) |
-| [Erai-raws] Tensui no Sakuna-hime: Kokorowa Inasaku ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensui-no-sakuna-hime-kokorowa-inasaku.n2092349) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CHHXIXP3DDT7CRDGEXXAY37KFDEHXEAW) |
-| [Erai-raws] Tensui no Sakuna-hime: Kokorowa Inasaku ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensui-no-sakuna-hime-kokorowa-inasaku.n2092348) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7MCIJ4GEUPBTF52ZFSHYPOIDGVCM4TAD) |
-| [Erai-raws] Golden Kamuy Final Season - 13 [1080p CR... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-golden-kamuy-final-season-13-1080p.n2092347) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3LIAWNAGEGNN6UMUKU5C7CQCVGEFMQW6) |
-| [Erai-raws] Goumon Baito-kun no Nichijou - 12 [1080p... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-goumon-baito-kun-no-nichijou-12.n2092346) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3CO7HIHBUEVEH4JAKJTKSNWJDG2HNDKK) |
+| [BlackRabbit] Cat Planet Cuties (2010) - S01 [Bluray... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/blackrabbit-cat-planet-cuties-2010-s01-bluray-1080p.k10061755201289) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UPRH4DZRNMXD2H2L45RMHESPYUCU5C2X) |
+| [Yameii] Tune In to the Midnight Heart - S01E11 [Eng... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tune-midnight-heart-s01e11-english-dub-cr.n2092380) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CQSXJLVYRDO4GE5CYG52KSCNRBGNRGCO) |
+| [Yameii] Tune In to the Midnight Heart - S01E11 [Eng... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/yameii-tune-midnight-heart-s01e11-english-dub-cr.n2092379) <br><br> [🐱 Nyaa](https://nyaa.si/?q=Z47YWMKXTXBOHEAJCNUPWOGT4ZYESV2U) |
+| Chained Soldier S02E12 Gods Assemble 1080p ADN WEB-D... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e12-gods-assemble-1080p-adn-web.n2092378) <br><br> [🐱 Nyaa](https://nyaa.si/?q=RVW6GXLDBOGQIQKR6DQ7QR2ZOAWFY24K) |
+| HELL MODE S01E12 THE ESCAPE 1080p ADN WEB-DL AAC2.0 ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/hell-mode-s01e12-escape-1080p-adn-web-dl.n2092376) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DNAGLIJZBBGMV73ETMF6ROXC2HGQFNHI) |
+| Demon Slave S02E12 Gods Assemble 1080p ADN WEB-DL AA... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/demon-slave-s02e12-gods-assemble-1080p-adn-web.n2092375) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YQOCB2LBRZGFHA2HG5N4QMCR3FJMXEL2) |
+| [Gecko] Fate Grand Order You've Lost Ritsuka Fujimar... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.k10061247411207) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MRPEMIN4SHKMYCIJLC3I7K2M5PKUJTIO) |
+| [Commie] The Darwin Incident - 13 [CB7CC538].mkv | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/commie-darwin-incident-13-cb7cc538-mkv.n2092373) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7VWRBYI5V5ZAZP46XP4CBOH2RXEWAEMJ) |
+| [Erai-raws] Fangkai Nage Nuwu - 01 (CA) [1080p CR WE... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-01-ca-1080p.n2092372) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OAIEN7AOSOAFZ4LKMBKHBNT6MOHCVQRS) |
+| [Erai-raws] Tensei shitara Dragon no Tamago datta - ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-dragon-no-tamago-datta.n2092371) <br><br> [🐱 Nyaa](https://nyaa.si/?q=ROFKJLRWCRA7KSWUZUWL3JQBXDZBKHTW) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
