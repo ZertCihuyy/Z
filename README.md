@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 1/4/2026, 18.03.38 WIB
+**Sync Terakhir:** 1/4/2026, 20.48.23 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Some-Stuffs] One Piece 3D - Straw Hat Chase (3D BD ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-one-piece-3d-straw-hat-chase-bd.n2092461) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FFOKVZKB5BXS3BFIMQEJQDTLC2XUVOP7) |
-| [Some-Stuffs] One Piece 3D - Straw Hat Chase (3D BD ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-one-piece-3d-straw-hat-chase-bd.n2092460) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6MRKAAEYADWNTFZ5SVD5JODGMCNRKC6S) |
-| [Some-Stuffs] One Piece 3D - Straw Hat Chase [1080p ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-one-piece-3d-straw-hat-chase-1080p.n2092459) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PMIUAGCOD73TVBX7TJWBHM5GY6J6MZJE) |
-| [Beltraz] Hundred (2016) - S01 (BD 1080p HEVC OPUS) ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-hundred-2016-s01-bd-1080p-hevc-opus-dual-audio.k10073443864591) <br><br> [🐱 Nyaa](https://nyaa.si/?q=66FASFJX75K3TRH3OBEZP6XWNAKNRGCR) |
-| [Beltraz] Why the Hell are You Here, Teacher!? (2019... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-why-hell-here-teacher-2019-s01-specials.k10072944129547) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2EZ5VYKUUVYKN6EMZ67F3HE3BG7I32GF) |
-| [MinaYuki] Princession Orchestra - 48 | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/minayuki-princession-orchestra-48.n2092454) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BIDFGRVRU32JNLWLAPAD4LUOX62V5XC7) |
-| [Beltraz] Zom 100: Bucket List of the Dead (2023) - ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-zom-100-bucket-list-dead-2023-s01.k10072561852427) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MPNKRHJLCHTLHZO5D5DVDUTFFXURYIJE) |
-| [Erai-raws] Fangkai Nage Nuwu - 04 (CA) [1080p CR WE... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-04-ca-1080p.n2092452) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XPVV4DRNL5ENVHMCELQCSPY3NRSPPXB6) |
-| [Beltraz] Rosario+Vampire - S01 + S02 (Uncensored) (... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-rosario-vampire-s01-s02-uncensored-bd-1080p.k10072214292234) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LX6L5UZE4CANX7L6JKXR325VU7WK4TAR) |
-| [Tasokare] Tsuki ga Kirei S01 (BD 1080p Opus AV1) | ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/tasokare-tsuki-ga-kirei-s01-bd-1080p-opus.k10071747428104) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7XRN7CZRVHJATYRV7PWZYY7T4XH2AYL6) |
+| [Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyous... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.n2092563) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DSGMPGCOV4YXDWMDRH6DVI4CTHQVFZQI) |
+| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092560) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3ICTHJRDPNZ7REKG6ZRP2IOVO3ARJDU5) |
+| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092559) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2LYLZA5ZURHAVG3AFQMJN2NTSNXEGQO2) |
+| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092558) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PG3CSYK56VBJ6KSWVGJDIMY25ESFYQB5) |
+| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092557) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HINEIDTTLFNUWDLXMYETYTDKBURCU5FB) |
+| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092556) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BG6K6QK6GCNIJS4T5EVMGJ4ZZH4KINRI) |
+| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092555) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LZ6TDOR6SWLAZ3LRX262NNSA6TPR5CAB) |
+| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092554) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PBPF25TLFA5BDTU2Y6BD2ZZ5NZNN3Q63) |
+| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092553) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WPAA2X2334KOUJK7XDYTZ5646O5GXYZ3) |
+| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092548) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CTP7TCYGJUBL2RFFMRETYR4JWAJGVCMX) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
