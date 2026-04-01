@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.38.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.39.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,34 +9,32 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Rabu**
+### 📅 Jadwal Rilis Hari Ini: **Kamis**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `07:05` | **[Chibi Godzilla no Gyakushuu 3rd Season](https://myanimelist.net/anime/61765/Chibi_Godzilla_no_Gyakushuu_3rd_Season)** | *Fantasy* |
-| `01:25` | **[Pochars](https://myanimelist.net/anime/59732/Pochars)** | *Comedy* |
-| `21:55` | **[Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou)** | *Action, Fantasy* |
-| `21:55` | **[Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou)** | *Action, Fantasy* |
+| `07:45` | **[Metal Cardbot W](https://myanimelist.net/anime/63142/Metal_Cardbot_W)** | *Action, Sci-Fi* |
+| `07:45` | **[Metal Cardbot W](https://myanimelist.net/anime/63142/Metal_Cardbot_W)** | *Action, Sci-Fi* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Always a Catch S01E01 1080p AMZN WEB-DL DDP2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-always-catch-s01e01-1080p-amzn-web-dl.k10079063636231) • [🐱 Nyaa](https://nyaa.si/?q=FGJBLDKZUPFLBMKWOK6YEKSUT5AYGKHU) |
-| `[SubsPlease] The Beginning After the End S2 - 01 (1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-beginning-after-end-s2-01-1080p-5e4eba00-mkv.n2092696) • [🐱 Nyaa](https://nyaa.si/?q=WS5OPG2FGJYDXTJOXD3AJXSU6NSKF3C4) |
-| `[SubsPlease] The Beginning After the End S2 - 01 (720p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-beginning-after-end-s2-01-720p-fca45824-mkv.n2092694) • [🐱 Nyaa](https://nyaa.si/?q=JMRHXGRMMTN35BXAHMFFPO4EBE3KCOJD) |
-| `[SubsPlease] The Beginning After the End S2 - 01 (480p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-beginning-after-end-s2-01-480p-299a9108-mkv.n2092693) • [🐱 Nyaa](https://nyaa.si/?q=7PKGV6R6MCE5ESBWXXMJUFYRU25BY32C) |
-| `[Onalrie] Dorohedoro - S02E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dorohedoro-s02e02-1080p-webrip-av1-mkv.2071190) • [🐱 Nyaa](https://nyaa.si/?q=MJQ4X5PDP5XQET7MIO6PL5R5MYYT32VW) |
-| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2092690) • [🐱 Nyaa](https://nyaa.si/?q=U23Z54QZZVCM7HXLEIGYW7U2YS6ZTBK7) |
-| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2092689) • [🐱 Nyaa](https://nyaa.si/?q=P4FIBM3VJVI56RVAPMRVPGEPEPRNKKDJ) |
-| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2092688) • [🐱 Nyaa](https://nyaa.si/?q=2NY6IJ5F5OGOAKQL6D6ONTBN6XINN3RV) |
-| `The Beginning After the End S02E01 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beginning-after-end-s02e01-1080p-cr-web-dl.n2092687) • [🐱 Nyaa](https://nyaa.si/?q=SXEX4ZM7LG5JH3P7JPNMSZ4TCJXBI3JC) |
-| `[ToonsHub] The Beginning After the End S02E01 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-beginning-after-end-s02e01-1080p-cr-web.k10078873940998) • [🐱 Nyaa](https://nyaa.si/?q=6C7OEXZLMYMRYSTJAUW2HITE7YMFGRTU) |
-| `[Erai-raws] Dorohedoro Season 2 - 03 [480p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-480p-cr.n2092684) • [🐱 Nyaa](https://nyaa.si/?q=POQIRP5UKOCJQIEWSDGDVZGKB4VIRP23) |
-| `[Erai-raws] Dorohedoro Season 2 - 03 [720p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-720p-cr.n2092683) • [🐱 Nyaa](https://nyaa.si/?q=EHZMC3YOHTKM52L5VGX2URGA5OIJT5A3) |
-| `[Erai-raws] Dorohedoro Season 2 - 03 [1080p CR WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-1080p-cr.n2092682) • [🐱 Nyaa](https://nyaa.si/?q=IGJAW4PW4IFX5ZDO6DV7DAAHL63OAWDE) |
-| `[Erai-raws] Dorohedoro Season 2 - 02 [480p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-02-480p-cr.n2092681) • [🐱 Nyaa](https://nyaa.si/?q=F4VZXXGN2D42SS7D63RCVRNL4HYILZ2F) |
-| `[Erai-raws] Dorohedoro Season 2 - 02 [720p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-02-720p-cr.n2092680) • [🐱 Nyaa](https://nyaa.si/?q=JHNVJN6ZQN4NFSSUYQ7KEPNYBGLXX6KC) |
+| `JUJUTSU KAISEN S03 1080p CR WEB-DL AAC2.0 H 264-VARYG (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jujutsu-kaisen-s03-1080p-cr-web-dl-aac2.n2092775) • [🐱 Nyaa](https://nyaa.si/?q=MRPNZEQGV3ZZEPDTEWEAZH3ATGIYRUVO) |
+| `[Ironclad] Dorohedoro 2 - S02E02 [WEB.1080p.AV1] | Dorohe...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-dorohedoro-2-s02e02-web-1080p-av1-multi.n2092773) • [🐱 Nyaa](https://nyaa.si/?q=J6BFZYFDGCALQBYXGFH6MLIADLZLB3LQ) |
+| `[Erai-raws] Dorohedoro Season 2 - 01 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-01-1080p-cr.n2092772) • [🐱 Nyaa](https://nyaa.si/?q=BDYESZT2ERVID2KTFFFVLRSQP6IOC5D7) |
+| `[DKB] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Sa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu.n2092770) • [🐱 Nyaa](https://nyaa.si/?q=EIGCCHZGYBSND7FSIFUMFDG3DDAQKNFQ) |
+| `[Onalrie] Dorohedoro - S02E03 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dorohedoro-s02e03-1080p-webrip-av1-mkv.2071212) • [🐱 Nyaa](https://nyaa.si/?q=GB6ZQAG7JESPPY64ZDGLKY7IAEEZAKXS) |
+| `[Erai-raws] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jidouhanbaiki-ni-umarekawatta-ore-wa-meikyuu.n2092768) • [🐱 Nyaa](https://nyaa.si/?q=HK4B5Y7VTJAGA6QXANZF7ZHDWDDWPCYW) |
+| `[ASW] Ganbare! Nakamura-kun!! - 01 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ganbare-nakamura-kun-01-1080p-hevc-x265-10bit-aac.n2092767) • [🐱 Nyaa](https://nyaa.si/?q=2JSQBDCHEQRDTAAB63DMM2NFDLUPDAXM) |
+| `[Erai-raws] Ganbare Nakamura-kun - 02 [480p CR WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-02-480p-cr.n2092765) • [🐱 Nyaa](https://nyaa.si/?q=2HJG2OHMTMA3RL54LHRA45V66BGBPFIG) |
+| `[Erai-raws] Ganbare Nakamura-kun - 02 [720p CR WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-02-720p-cr.n2092764) • [🐱 Nyaa](https://nyaa.si/?q=HLAI2JROVHEINEW4Y2JABC5S3PZ2NX26) |
+| `[Erai-raws] Ganbare Nakamura-kun - 02 [1080p CR WEB-DL AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-02-1080p-cr.n2092763) • [🐱 Nyaa](https://nyaa.si/?q=FHY6RPIJ434I6P32PEPVOQGAYJVW5DX5) |
+| `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nigashita-sakana-wa-ookikatta-ga-tsuriageta.n2092762) • [🐱 Nyaa](https://nyaa.si/?q=47SSEFMZZUO2REBCQNHID2KZMFHXDIIN) |
+| `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nigashita-sakana-wa-ookikatta-ga-tsuriageta.n2092761) • [🐱 Nyaa](https://nyaa.si/?q=2H4JB3GI7KISPBE2XTMCCQXKPHBDIK4B) |
+| `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nigashita-sakana-wa-ookikatta-ga-tsuriageta.n2092760) • [🐱 Nyaa](https://nyaa.si/?q=SVEZLI47XFVC7JLVVJPGGUJ2RN6MDMHQ) |
+| `[ASW] The Beginning After the End S2 - 01 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-beginning-after-end-s2-01-1080p-hevc.n2092759) • [🐱 Nyaa](https://nyaa.si/?q=PKVS56IMP4NX7WJQZGFKBJHBZHUUATTK) |
+| `[Erai-raws] Ganbare Nakamura-kun - 01 [480p CR WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-01-480p-cr.n2092758) • [🐱 Nyaa](https://nyaa.si/?q=PSYDC4I64JNJLJHQ3J4IKRDAHIKVPUV4) |
 
 ---
 <div align="center">

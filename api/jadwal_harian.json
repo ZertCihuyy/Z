@@ -1,138 +1,20 @@
 {
-  "last_update": "1/4/2026, 23.38.46",
-  "hari": "Rabu",
+  "last_update": "2/4/2026, 01.39.14",
+  "hari": "Kamis",
   "data": [
     {
-      "mal_id": 61765,
-      "url": "https://myanimelist.net/anime/61765/Chibi_Godzilla_no_Gyakushuu_3rd_Season",
+      "mal_id": 63142,
+      "url": "https://myanimelist.net/anime/63142/Metal_Cardbot_W",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1859/150334.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1859/150334t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1859/150334l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1332/154527.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1332/154527t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1332/154527l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1859/150334.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1859/150334t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1859/150334l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/8Q83sSev8fk?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Chibi Godzilla no Gyakushuu 3rd Season"
-        },
-        {
-          "type": "Japanese",
-          "title": "ちびゴジラの逆襲(第3期)"
-        }
-      ],
-      "title": "Chibi Godzilla no Gyakushuu 3rd Season",
-      "title_english": null,
-      "title_japanese": "ちびゴジラの逆襲(第3期)",
-      "title_synonyms": [],
-      "type": "TV",
-      "source": "Original",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2025-07-02T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 2,
-            "month": 7,
-            "year": 2025
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Jul 2, 2025 to ?"
-      },
-      "duration": "2 min",
-      "rating": "G - All Ages",
-      "score": null,
-      "scored_by": null,
-      "rank": 15717,
-      "popularity": 18733,
-      "members": 478,
-      "favorites": 1,
-      "synopsis": null,
-      "background": "",
-      "season": "summer",
-      "year": 2025,
-      "broadcast": {
-        "day": "Wednesdays",
-        "time": "07:05",
-        "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 07:05 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 245,
-          "type": "anime",
-          "name": "TOHO",
-          "url": "https://myanimelist.net/anime/producer/245/TOHO"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 1229,
-          "type": "anime",
-          "name": "Pie in the sky",
-          "url": "https://myanimelist.net/anime/producer/1229/Pie_in_the_sky"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 15,
-          "type": "anime",
-          "name": "Kids",
-          "url": "https://myanimelist.net/anime/genre/15/Kids"
-        }
-      ]
-    },
-    {
-      "mal_id": 59732,
-      "url": "https://myanimelist.net/anime/59732/Pochars",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1155/145243.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1155/145243t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1155/145243l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1155/145243.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1155/145243t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1155/145243l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1332/154527.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1332/154527t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1332/154527l.webp"
         }
       },
       "trailer": {
@@ -151,36 +33,40 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Pochars"
+          "title": "Metal Cardbot W"
         },
         {
           "type": "Synonym",
-          "title": "Pochaazu"
+          "title": "Metal Kadeubos Waildeu"
         },
         {
           "type": "Japanese",
-          "title": "ぽちゃーズ"
+          "title": "메탈카드봇W"
+        },
+        {
+          "type": "English",
+          "title": "Metal Cardbot W"
         }
       ],
-      "title": "Pochars",
-      "title_english": null,
-      "title_japanese": "ぽちゃーズ",
+      "title": "Metal Cardbot W",
+      "title_english": "Metal Cardbot W",
+      "title_japanese": "메탈카드봇W",
       "title_synonyms": [
-        "Pochaazu"
+        "Metal Kadeubos Waildeu"
       ],
       "type": "TV",
-      "source": "Original",
-      "episodes": null,
+      "source": "Other",
+      "episodes": 26,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2024-10-09T00:00:00+00:00",
+        "from": "2025-12-04T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 9,
-            "month": 10,
-            "year": 2024
+            "day": 4,
+            "month": 12,
+            "year": 2025
           },
           "to": {
             "day": null,
@@ -188,74 +74,73 @@
             "year": null
           }
         },
-        "string": "Oct 9, 2024 to ?"
+        "string": "Dec 4, 2025 to ?"
       },
-      "duration": "1 min",
-      "rating": "G - All Ages",
+      "duration": "12 min per ep",
+      "rating": "PG - Children",
       "score": null,
       "scored_by": null,
-      "rank": 19445,
-      "popularity": 18392,
-      "members": 505,
+      "rank": 18584,
+      "popularity": 24153,
+      "members": 170,
       "favorites": 0,
-      "synopsis": null,
+      "synopsis": "Shining friendship and strong claws! Metal Cardbot W!\n\nAfter the Speranza incident, humans and Metal Cardbots began to coexist on Earth.\nJun, a boy chosen by the Metal Breath, and his partner Blue Cop discovered a way for humans and Metal Cardbots to coexist.\nThen one day, a \"Wild Cardbot\" appears, holding a 60 million year secret.\n\nNow, a new encounter begins to shake the world.\n\n(Source: Metal Cardbot Wiki)",
       "background": "",
-      "season": "fall",
-      "year": 2024,
+      "season": "winter",
+      "year": 2026,
       "broadcast": {
-        "day": "Wednesdays",
-        "time": "01:25",
+        "day": "Thursdays",
+        "time": "07:45",
         "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 01:25 (JST)"
+        "string": "Thursdays at 07:45 (JST)"
       },
-      "producers": [
-        {
-          "mal_id": 169,
-          "type": "anime",
-          "name": "Fuji TV",
-          "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
-        }
-      ],
+      "producers": [],
       "licensors": [],
-      "studios": [
-        {
-          "mal_id": 276,
-          "type": "anime",
-          "name": "DLE",
-          "url": "https://myanimelist.net/anime/producer/276/DLE"
-        }
-      ],
+      "studios": [],
       "genres": [
         {
-          "mal_id": 4,
+          "mal_id": 1,
           "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
         }
       ],
       "explicit_genres": [],
       "themes": [],
-      "demographics": []
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
     },
     {
-      "mal_id": 63433,
-      "url": "https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou",
+      "mal_id": 63142,
+      "url": "https://myanimelist.net/anime/63142/Metal_Cardbot_W",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1764/155312.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1332/154527.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1332/154527t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1332/154527l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1764/155312.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1332/154527.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1332/154527t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1332/154527l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/CSqd-iXcFVg?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": null,
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -268,36 +153,40 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Daikenja Riddle no Jikan Gyakkou"
+          "title": "Metal Cardbot W"
         },
         {
           "type": "Synonym",
-          "title": "The Regression of Great Sage Riddle"
+          "title": "Metal Kadeubos Waildeu"
         },
         {
           "type": "Japanese",
-          "title": "大賢者リドルの時間逆行"
+          "title": "메탈카드봇W"
+        },
+        {
+          "type": "English",
+          "title": "Metal Cardbot W"
         }
       ],
-      "title": "Daikenja Riddle no Jikan Gyakkou",
-      "title_english": null,
-      "title_japanese": "大賢者リドルの時間逆行",
+      "title": "Metal Cardbot W",
+      "title_english": "Metal Cardbot W",
+      "title_japanese": "메탈카드봇W",
       "title_synonyms": [
-        "The Regression of Great Sage Riddle"
+        "Metal Kadeubos Waildeu"
       ],
       "type": "TV",
-      "source": "Web manga",
-      "episodes": null,
+      "source": "Other",
+      "episodes": 26,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2026-04-01T00:00:00+00:00",
+        "from": "2025-12-04T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 1,
-            "month": 4,
-            "year": 2026
+            "day": 4,
+            "month": 12,
+            "year": 2025
           },
           "to": {
             "day": null,
@@ -305,25 +194,25 @@
             "year": null
           }
         },
-        "string": "Apr 1, 2026 to ?"
+        "string": "Dec 4, 2025 to ?"
       },
-      "duration": "5 min",
-      "rating": null,
+      "duration": "12 min per ep",
+      "rating": "PG - Children",
       "score": null,
       "scored_by": null,
-      "rank": 15976,
-      "popularity": 8728,
-      "members": 6244,
-      "favorites": 15,
-      "synopsis": "A young man named Riddle had lost all of his friends—and the entire world—at the hands of a mysterious organization known as the \"Box of Malice.\" Having lost all hope to live, he dwelled in a pit of despair until he has one final revelation. What if... he could return to a time before everything ended? And so, after a thousand years, a deformed Riddle finally manages to reverse time. \"I'm going to stop them this time...!\" Equipped with a thousand years of knowledge and experience in his young body, the Great Sage Riddle's journey to the past now unfolds!\n\n(Source: Shogakukan, translated)",
+      "rank": 18584,
+      "popularity": 24153,
+      "members": 170,
+      "favorites": 0,
+      "synopsis": "Shining friendship and strong claws! Metal Cardbot W!\n\nAfter the Speranza incident, humans and Metal Cardbots began to coexist on Earth.\nJun, a boy chosen by the Metal Breath, and his partner Blue Cop discovered a way for humans and Metal Cardbots to coexist.\nThen one day, a \"Wild Cardbot\" appears, holding a 60 million year secret.\n\nNow, a new encounter begins to shake the world.\n\n(Source: Metal Cardbot Wiki)",
       "background": "",
-      "season": "spring",
+      "season": "winter",
       "year": 2026,
       "broadcast": {
-        "day": "Wednesdays",
-        "time": "21:55",
+        "day": "Thursdays",
+        "time": "07:45",
         "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 21:55 (JST)"
+        "string": "Thursdays at 07:45 (JST)"
       },
       "producers": [],
       "licensors": [],
@@ -336,138 +225,22 @@
           "url": "https://myanimelist.net/anime/genre/1/Action"
         },
         {
-          "mal_id": 10,
+          "mal_id": 24,
           "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
         }
       ],
       "explicit_genres": [],
-      "themes": [
+      "themes": [],
+      "demographics": [
         {
-          "mal_id": 78,
+          "mal_id": 15,
           "type": "anime",
-          "name": "Time Travel",
-          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
         }
-      ],
-      "demographics": []
-    },
-    {
-      "mal_id": 63433,
-      "url": "https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1764/155312.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1764/155312.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/CSqd-iXcFVg?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Daikenja Riddle no Jikan Gyakkou"
-        },
-        {
-          "type": "Synonym",
-          "title": "The Regression of Great Sage Riddle"
-        },
-        {
-          "type": "Japanese",
-          "title": "大賢者リドルの時間逆行"
-        }
-      ],
-      "title": "Daikenja Riddle no Jikan Gyakkou",
-      "title_english": null,
-      "title_japanese": "大賢者リドルの時間逆行",
-      "title_synonyms": [
-        "The Regression of Great Sage Riddle"
-      ],
-      "type": "TV",
-      "source": "Web manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-01T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 1,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 1, 2026 to ?"
-      },
-      "duration": "5 min",
-      "rating": null,
-      "score": null,
-      "scored_by": null,
-      "rank": 15976,
-      "popularity": 8728,
-      "members": 6244,
-      "favorites": 15,
-      "synopsis": "A young man named Riddle had lost all of his friends—and the entire world—at the hands of a mysterious organization known as the \"Box of Malice.\" Having lost all hope to live, he dwelled in a pit of despair until he has one final revelation. What if... he could return to a time before everything ended? And so, after a thousand years, a deformed Riddle finally manages to reverse time. \"I'm going to stop them this time...!\" Equipped with a thousand years of knowledge and experience in his young body, the Great Sage Riddle's journey to the past now unfolds!\n\n(Source: Shogakukan, translated)",
-      "background": "",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Wednesdays",
-        "time": "21:55",
-        "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 21:55 (JST)"
-      },
-      "producers": [],
-      "licensors": [],
-      "studios": [],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 78,
-          "type": "anime",
-          "name": "Time Travel",
-          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
-        }
-      ],
-      "demographics": []
+      ]
     }
   ]
 }
