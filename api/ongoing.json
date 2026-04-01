@@ -1,47 +1,1417 @@
 {
-  "last_update": "1/4/2026, 22.30.40",
+  "last_update": "1/4/2026, 22.34.14",
   "data": [
     {
+      "mal_id": 61316,
+      "url": "https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1540/155824.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1540/155824t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1540/155824l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1540/155824.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1540/155824t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1540/155824l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/jVl4bY81iIs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Re: Life in a different world from zero"
+        },
+        {
+          "type": "Synonym",
+          "title": "ReZero"
+        },
+        {
+          "type": "Japanese",
+          "title": "Re:ゼロから始める異世界生活 4th season"
+        },
+        {
+          "type": "English",
+          "title": "Re:ZERO -Starting Life in Another World- Season 4"
+        }
+      ],
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
-      "image": "https://myanimelist.net/images/anime/1540/155824.jpg",
-      "score": null,
+      "title_english": "Re:ZERO -Starting Life in Another World- Season 4",
+      "title_japanese": "Re:ゼロから始める異世界生活 4th season",
+      "title_synonyms": [
+        "Re: Life in a different world from zero",
+        "ReZero"
+      ],
+      "type": "TV",
+      "source": "Light novel",
       "episodes": 19,
-      "url": "https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season"
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2026-04-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 8, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 1800,
+      "members": 146254,
+      "favorites": 924,
+      "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa)",
+      "background": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season is comprised of two arcs. The first eleven episodes are subtitled Soushitsu-hen (Loss Arc). The latter eight, subtitled Dakkan-hen (Recapture Arc), began airing on August 12, 2026.",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 22:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 314,
+          "type": "anime",
+          "name": "White Fox",
+          "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 41,
+          "type": "anime",
+          "name": "Suspense",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 40,
+          "type": "anime",
+          "name": "Psychological",
+          "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+          "mal_id": 78,
+          "type": "anime",
+          "name": "Time Travel",
+          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+        }
+      ],
+      "demographics": []
     },
     {
+      "mal_id": 59970,
+      "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1695/156389.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1695/156389t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1695/156389l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1695/156389.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1695/156389t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1695/156389l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/HXB7PyEP_BA?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tensei shitara Slime Datta Ken 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tensura 4"
+        },
+        {
+          "type": "Japanese",
+          "title": "転生したらスライムだった件 第4期"
+        },
+        {
+          "type": "English",
+          "title": "That Time I Got Reincarnated as a Slime Season 4"
+        }
+      ],
       "title": "Tensei shitara Slime Datta Ken 4th Season",
-      "image": "https://myanimelist.net/images/anime/1695/156389.jpg",
-      "score": null,
+      "title_english": "That Time I Got Reincarnated as a Slime Season 4",
+      "title_japanese": "転生したらスライムだった件 第4期",
+      "title_synonyms": [
+        "Tensura 4"
+      ],
+      "type": "TV",
+      "source": "Manga",
       "episodes": null,
-      "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season"
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2026-04-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 3, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 1971,
+      "members": 130320,
+      "favorites": 720,
+      "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll)",
+      "background": "Tensei shitara Slime Datta Ken 4th Season aired on Nippon TV's Friday Anime Night block.",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 23:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 2424,
+          "type": "anime",
+          "name": "Bandai Namco Filmworks",
+          "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 441,
+          "type": "anime",
+          "name": "8bit",
+          "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 72,
+          "type": "anime",
+          "name": "Reincarnation",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
     },
     {
+      "mal_id": 59708,
+      "url": "https://myanimelist.net/anime/59708/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_4th_Season__2-nensei-hen_1_Gakki",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1176/153626.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1176/153626t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1176/153626l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1176/153626.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1176/153626t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1176/153626l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/QtIvKG8q5iM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki"
+        },
+        {
+          "type": "Synonym",
+          "title": "Welcome to the Classroom of the Elite"
+        },
+        {
+          "type": "Synonym",
+          "title": "You-jitsu 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Classroom of the Elite IV: Year 2"
+        },
+        {
+          "type": "Japanese",
+          "title": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期"
+        },
+        {
+          "type": "English",
+          "title": "Classroom of the Elite 4th Season: Second Year, First Semester"
+        }
+      ],
       "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
-      "image": "https://myanimelist.net/images/anime/1176/153626.jpg",
-      "score": null,
+      "title_english": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "title_japanese": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+      "title_synonyms": [
+        "Welcome to the Classroom of the Elite",
+        "You-jitsu 4th Season",
+        "Classroom of the Elite IV: Year 2"
+      ],
+      "type": "TV",
+      "source": "Light novel",
       "episodes": null,
-      "url": "https://myanimelist.net/anime/59708/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_4th_Season__2-nensei-hen_1_Gakki"
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2026-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 1, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 1994,
+      "members": 128225,
+      "favorites": 723,
+      "synopsis": "As Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they're greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They'll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?\n\n(Source: Crunchyroll)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "21:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 21:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 104,
+          "type": "anime",
+          "name": "Lantis",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 456,
+          "type": "anime",
+          "name": "Lerche",
+          "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 41,
+          "type": "anime",
+          "name": "Suspense",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 40,
+          "type": "anime",
+          "name": "Psychological",
+          "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
     },
     {
+      "mal_id": 51553,
+      "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1726/155542.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1726/155542.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tongari Boushi no Atelier"
+        },
+        {
+          "type": "Synonym",
+          "title": "Atelier of Witch Hat"
+        },
+        {
+          "type": "Japanese",
+          "title": "とんがり帽子のアトリエ"
+        },
+        {
+          "type": "English",
+          "title": "Witch Hat Atelier"
+        }
+      ],
       "title": "Tongari Boushi no Atelier",
-      "image": "https://myanimelist.net/images/anime/1726/155542.jpg",
-      "score": null,
+      "title_english": "Witch Hat Atelier",
+      "title_japanese": "とんがり帽子のアトリエ",
+      "title_synonyms": [
+        "Atelier of Witch Hat"
+      ],
+      "type": "TV",
+      "source": "Manga",
       "episodes": null,
-      "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier"
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2026-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 6, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": null,
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 2220,
+      "members": 110177,
+      "favorites": 672,
+      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
+      "background": "Episode 2 was streamed in advance on April 4, 2026 on Crunchyroll. Each episode was streamed seven days in advance of the TV broadcast starting on April 11, 2026.",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 23:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 1284,
+          "type": "anime",
+          "name": "Avex Pictures",
+          "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+          "mal_id": 1747,
+          "type": "anime",
+          "name": "Twin Engine",
+          "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+        },
+        {
+          "mal_id": 1856,
+          "type": "anime",
+          "name": "dugout",
+          "url": "https://myanimelist.net/anime/producer/1856/dugout"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2674,
+          "type": "anime",
+          "name": "BUG FILMS",
+          "url": "https://myanimelist.net/anime/producer/2674/BUG_FILMS"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ]
     },
     {
+      "mal_id": 56876,
+      "url": "https://myanimelist.net/anime/56876/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken_2",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1989/154843.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1989/154843t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1989/154843l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1989/154843.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1989/154843t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1989/154843l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/8Gtb1uhjPKs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2"
+        },
+        {
+          "type": "Japanese",
+          "title": "お隣の天使様にいつの間にか駄目人間にされていた件 2期制"
+        },
+        {
+          "type": "English",
+          "title": "The Angel Next Door Spoils Me Rotten 2"
+        }
+      ],
       "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
-      "image": "https://myanimelist.net/images/anime/1989/154843.jpg",
-      "score": null,
+      "title_english": "The Angel Next Door Spoils Me Rotten 2",
+      "title_japanese": "お隣の天使様にいつの間にか駄目人間にされていた件 2期制",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Light novel",
       "episodes": null,
-      "url": "https://myanimelist.net/anime/56876/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken_2"
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2026-04-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 3, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 2411,
+      "members": 97547,
+      "favorites": 1494,
+      "synopsis": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "22:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 22:30 (JST)"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 439,
+          "type": "anime",
+          "name": "Project No.9",
+          "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
     },
     {
+      "mal_id": 62568,
+      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Dr. Stone: Science Future Part 3"
+        },
+        {
+          "type": "Synonym",
+          "title": "Dr. Stone 4th Season Part 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
+        },
+        {
+          "type": "English",
+          "title": "Dr. Stone: Science Future Part 3"
+        }
+      ],
       "title": "Dr. Stone: Science Future Part 3",
-      "image": "https://myanimelist.net/images/anime/1773/155779.jpg",
-      "score": null,
+      "title_english": "Dr. Stone: Science Future Part 3",
+      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
+      "title_synonyms": [
+        "Dr. Stone 4th Season Part 3"
+      ],
+      "type": "TV",
+      "source": "Manga",
       "episodes": null,
-      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3"
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2026-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 2579,
+      "members": 87595,
+      "favorites": 192,
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:00 (JST)"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 73,
+          "type": "anime",
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 62568,
+      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Dr. Stone: Science Future Part 3"
+        },
+        {
+          "type": "Synonym",
+          "title": "Dr. Stone 4th Season Part 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
+        },
+        {
+          "type": "English",
+          "title": "Dr. Stone: Science Future Part 3"
+        }
+      ],
+      "title": "Dr. Stone: Science Future Part 3",
+      "title_english": "Dr. Stone: Science Future Part 3",
+      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
+      "title_synonyms": [
+        "Dr. Stone 4th Season Part 3"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2026-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 2579,
+      "members": 87595,
+      "favorites": 192,
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:00 (JST)"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 73,
+          "type": "anime",
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 59983,
+      "url": "https://myanimelist.net/anime/59983/Tsue_to_Tsurugi_no_Wistoria_Season_2",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1190/155788.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1190/155788t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1190/155788l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1190/155788.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1190/155788t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1190/155788l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/57OL0uTIBVg?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tsue to Tsurugi no Wistoria Season 2"
+        },
+        {
+          "type": "Synonym",
+          "title": "Wistoria's Wand and Sword Season 2"
+        },
+        {
+          "type": "Japanese",
+          "title": "杖と剣のウィストリア Season 2"
+        },
+        {
+          "type": "English",
+          "title": "Wistoria: Wand and Sword Season 2"
+        }
+      ],
+      "title": "Tsue to Tsurugi no Wistoria Season 2",
+      "title_english": "Wistoria: Wand and Sword Season 2",
+      "title_japanese": "杖と剣のウィストリア Season 2",
+      "title_synonyms": [
+        "Wistoria's Wand and Sword Season 2"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2026-04-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 12,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 12, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 2593,
+      "members": 87104,
+      "favorites": 322,
+      "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "16:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 16:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 104,
+          "type": "anime",
+          "name": "Lantis",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 60,
+          "type": "anime",
+          "name": "Actas",
+          "url": "https://myanimelist.net/anime/producer/60/Actas"
+        },
+        {
+          "mal_id": 1258,
+          "type": "anime",
+          "name": "Bandai Namco Pictures",
+          "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 62001,
+      "url": "https://myanimelist.net/anime/62001/Yomi_no_Tsugai",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1171/156397.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1171/156397t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1171/156397l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1171/156397.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1171/156397t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1171/156397l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/ufD2IvYem0k?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Yomi no Tsugai"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tsugai of the Underworld"
+        },
+        {
+          "type": "Japanese",
+          "title": "黄泉のツガイ"
+        },
+        {
+          "type": "English",
+          "title": "Daemons of the Shadow Realm"
+        }
+      ],
+      "title": "Yomi no Tsugai",
+      "title_english": "Daemons of the Shadow Realm",
+      "title_japanese": "黄泉のツガイ",
+      "title_synonyms": [
+        "Tsugai of the Underworld"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2026-04-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 4, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": null,
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 3378,
+      "members": 55079,
+      "favorites": 155,
+      "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.\n\nOn an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.\n\nBefore the woman can capture him, Yuru is rescued by a man named Dera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "23:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 23:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        },
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+          "mal_id": 58,
+          "type": "anime",
+          "name": "Square Enix",
+          "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3045,
+          "type": "anime",
+          "name": "Bones Film",
+          "url": "https://myanimelist.net/anime/producer/3045/Bones_Film"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 57466,
+      "url": "https://myanimelist.net/anime/57466/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen_-_Ryoushu_no_Youjo",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1371/155054.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1371/155054t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1371/155054l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1371/155054.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1371/155054t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1371/155054l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/rtPF6rjrdSU?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo"
+        },
+        {
+          "type": "Synonym",
+          "title": "Ascendance of a Bookworm 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Honzuki no Gekokujou 4th Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女"
+        },
+        {
+          "type": "English",
+          "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
+        }
+      ],
+      "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
+      "title_english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "title_japanese": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
+      "title_synonyms": [
+        "Ascendance of a Bookworm 4th Season",
+        "Honzuki no Gekokujou 4th Season"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2026-04-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 4, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 3488,
+      "members": 52263,
+      "favorites": 205,
+      "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 858,
+          "type": "anime",
+          "name": "Wit Studio",
+          "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 72,
+          "type": "anime",
+          "name": "Reincarnation",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "demographics": []
     }
   ]
 }

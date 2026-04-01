@@ -1,116 +1,112 @@
 const fs = require('fs');
 
-// Fungsi delay untuk menghindari Rate Limit Jikan API
+// Fungsi delay agar Jikan API tidak kena rate limit (Aman dari banned)
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 async function main() {
   try {
     const waktuUpdate = new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' });
     
-    // Buat direktori API untuk memisahkan JSON
-    if (!fs.existsSync('api')){
-        fs.mkdirSync('api');
-    }
+    // Buat folder API jika belum ada
+    if (!fs.existsSync('api')) fs.mkdirSync('api');
 
-    console.log("Mulai memanggil Jikan API dan Animetosho...");
+    console.log("Memulai penarikan data dari Jikan & Animetosho...");
 
-    // 1. Fetch Ongoing Anime
-    const jikanRes = await fetch("https://api.jikan.moe/v4/seasons/now?limit=6");
-    const jikanData = await jikanRes.json();
-    const animes = jikanData.data.map(a => ({
-      title: a.title,
-      image: a.images.jpg.image_url,
-      score: a.score,
-      episodes: a.episodes,
-      url: a.url
-    }));
-    fs.writeFileSync('api/ongoing.json', JSON.stringify({ last_update: waktuUpdate, data: animes }, null, 2));
-
-    await delay(1000); // Jeda 1 detik biar aman
-
-    // 2. Fetch Top Anime Airing Harian
-    const topRes = await fetch("https://api.jikan.moe/v4/top/anime?filter=airing&limit=5");
-    const topData = await topRes.json();
-    const topAnimes = topData.data.map(a => ({
-      rank: a.rank,
-      title: a.title,
-      image: a.images.jpg.image_url,
-      score: a.score,
-      url: a.url
-    }));
-    fs.writeFileSync('api/top_anime.json', JSON.stringify({ last_update: waktuUpdate, data: topAnimes }, null, 2));
-
-    await delay(1000);
-
-    // 3. Fetch Jadwal Harian (WIB)
+    // 1. Fetch Jadwal Harian (WIB)
     const daysEng = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
     const hariIndo = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
-    
     const now = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Jakarta' }));
     const indexHari = now.getDay();
-    const queryHari = daysEng[indexHari];
-    const namaHari = hariIndo[indexHari];
-
-    const scheduleRes = await fetch(`https://api.jikan.moe/v4/schedules?filter=${queryHari}&limit=6`);
+    
+    const scheduleRes = await fetch(`https://api.jikan.moe/v4/schedules?filter=${daysEng[indexHari]}&limit=10`);
     const scheduleData = await scheduleRes.json();
-    const schedules = scheduleData.data.map(a => ({
-      title: a.title,
-      time: a.broadcast.time ? a.broadcast.time + " JST" : "TBA",
-      url: a.url
-    }));
-    fs.writeFileSync('api/jadwal_harian.json', JSON.stringify({ last_update: waktuUpdate, hari: namaHari, data: schedules }, null, 2));
+    const schedules = scheduleData.data || [];
+    fs.writeFileSync('api/jadwal_harian.json', JSON.stringify({ last_update: waktuUpdate, hari: hariIndo[indexHari], data: schedules }, null, 2));
 
-    // 4. Fetch Rilisan Torrent (Bertindak sebagai API Nyaa)
+    await delay(1500);
+
+    // 2. Fetch Top Anime Airing (Top 10)
+    const topRes = await fetch("https://api.jikan.moe/v4/top/anime?filter=airing&limit=10");
+    const topData = await topRes.json();
+    const topAnimes = topData.data || [];
+    fs.writeFileSync('api/top_anime.json', JSON.stringify({ last_update: waktuUpdate, data: topAnimes }, null, 2));
+
+    await delay(1500);
+
+    // 3. Fetch Ongoing Anime (Top 10)
+    const ongoingRes = await fetch("https://api.jikan.moe/v4/seasons/now?limit=10");
+    const ongoingData = await ongoingRes.json();
+    const ongoingAnimes = ongoingData.data || [];
+    fs.writeFileSync('api/ongoing.json', JSON.stringify({ last_update: waktuUpdate, data: ongoingAnimes }, null, 2));
+
+    // 4. Fetch Torrents (1080p)
     const toshoRes = await fetch("https://feed.animetosho.org/json?filter[0][t]=term&filter[0][v]=1080p");
     const toshoData = await toshoRes.json();
-    const torrents = toshoData.slice(0, 10).map(t => {
+    const torrents = toshoData.slice(0, 15).map(t => {
       const hashMatch = t.magnet_uri.match(/btih:([a-zA-Z0-9]+)/i);
       const hash = hashMatch ? hashMatch[1] : '';
       return {
         title: t.title,
         link_tosho: t.link, 
-        magnet: t.magnet_uri,
-        hash: hash, 
-        link_nyaa: hash ? `https://nyaa.si/?q=${hash}` : `https://nyaa.si/?q=${encodeURIComponent(t.title)}`,
+        nyaa_url: hash ? `https://nyaa.si/?q=${hash}` : `https://nyaa.si/?q=${encodeURIComponent(t.title)}`,
         size: (t.size / 1024 / 1024).toFixed(2) + " MB",
         date: new Date(t.timestamp * 1000).toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' })
       };
     });
-    fs.writeFileSync('api/nyaa_torrents.json', JSON.stringify({ last_update: waktuUpdate, data: torrents }, null, 2));
+    fs.writeFileSync('api/torrents.json', JSON.stringify({ last_update: waktuUpdate, data: torrents }, null, 2));
 
-    // 5. Build README.md Epic
-    let readme = `# 🎬 Ultimate Anime & Torrent Tracker v2.0\n\n`;
-    readme += `> ⚡ **Sync Terakhir:** ${waktuUpdate} WIB | Di-update otomatis setiap 15 Menit!\n\n`;
-    readme += `File API Statis siap pakai: \n`;
-    readme += `[Ongoing](api/ongoing.json) | [Top Anime](api/top_anime.json) | [Jadwal Harian](api/jadwal_harian.json) | [API Nyaa Torrents](api/nyaa_torrents.json)\n\n`;
+    // ==========================================
+    // GENERATE MARKDOWN FILES
+    // ==========================================
 
-    // Section Jadwal Harian
-    readme += `### 📅 Jadwal Tayang Hari Ini (${namaHari})\n`;
+    // FILE 1: README.md (Minimalis & Utama)
+    let readme = `<div align="center">\n\n`;
+    readme += `# 🎬 Zert's Anime & Torrent Tracker\n`;
+    readme += `![Update](https://img.shields.io/badge/Last_Sync-${encodeURIComponent(waktuUpdate.split(' ')[1])}_WIB-00ffff?style=for-the-badge&logo=github)\n\n`;
+    readme += `**[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**\n\n`;
+    readme += `</div>\n\n---\n\n`;
+
+    readme += `### 📅 Jadwal Rilis Hari Ini: **${hariIndo[indexHari]}**\n`;
+    readme += `| Waktu (JST) | Judul Anime | Genre |\n| :---: | --- | --- |\n`;
     schedules.forEach(s => {
-      readme += `- **${s.title}** (Rilis: ${s.time}) - [MyAnimeList](${s.url})\n`;
+      const time = s.broadcast.time || 'TBA';
+      const genres = s.genres.map(g => g.name).join(', ') || '-';
+      readme += `| \`${time}\` | **[${s.title}](${s.url})** | *${genres}* |\n`;
     });
 
-    // Section Top Anime Airing
-    readme += `\n### 🏆 Top Anime Sedang Tayang\n`;
-    readme += `| Rank | Poster | Info Anime |\n| :---: | :---: | --- |\n`;
-    topAnimes.forEach(a => {
-      readme += `| **#${a.rank}** | <img src="${a.image}" width="80" style="border-radius: 8px;"> | **[${a.title}](${a.url})**<br>⭐ Score: ${a.score || 'N/A'} |\n`;
-    });
-
-    // Section Rilisan Terbaru (Torrent)
-    readme += `\n### 📥 Rilisan Bajakan Terbaru (1080p)\n\n`;
-    readme += `| Judul File | Size | Waktu Rilis | Download Links |\n| --- | :---: | :---: | :---: |\n`;
+    readme += `\n### 📥 Update Rilisan Terbaru (1080p)\n`;
+    readme += `> *Diambil langsung dari radar Animetosho & Nyaa.*\n\n`;
+    readme += `| Judul File | Ukuran | Link Download |\n| --- | :---: | :---: |\n`;
     torrents.forEach(t => {
-      const shortTitle = t.title.length > 55 ? t.title.substring(0, 52) + "..." : t.title;
-      readme += `| \`${shortTitle}\` | **${t.size}** | ${t.date.split(' ')[1]} | [🌐 Tosho](${t.link_tosho}) <br> [🐱 Nyaa](${t.link_nyaa}) |\n`;
+      const cleanTitle = t.title.length > 60 ? t.title.substring(0, 57) + "..." : t.title;
+      readme += `| \`${cleanTitle}\` | **${t.size}** | [🌐 Tosho](${t.link_tosho}) • [🐱 Nyaa](${t.nyaa_url}) |\n`;
     });
-
-    readme += `\n---\n✨ *Automated by zerty_ System* | Data Sources: [Jikan API](https://jikan.moe/) & [Animetosho](https://animetosho.org/)\n`;
-
+    
+    readme += `\n---\n`;
+    readme += `<div align="center">\n\n*System Automated by [zertcihuyy](https://github.com/ZertCihuyy) | Dukung proyek ini di [Sociabuzz](https://sociabuzz.com/zerty_/support)*\n\n</div>`;
     fs.writeFileSync('README.md', readme);
-    console.log("SUGOI! Semua data API & README berhasil diracik!");
+
+    // FILE 2: TOP_ANIME.md
+    let topMd = `<div align="center">\n\n# 🏆 Top 10 Anime Saat Ini\n\n**[ 🏠 Kembali ke Beranda ](README.md)**\n\n</div>\n\n---\n\n`;
+    topMd += `| Rank | Poster | Informasi Anime |\n| :---: | :---: | --- |\n`;
+    topAnimes.forEach(a => {
+      const genres = a.genres.map(g => g.name).join(', ');
+      topMd += `| **#${a.rank}** | <img src="${a.images.jpg.image_url}" width="100" style="border-radius: 8px;"> | **[${a.title}](${a.url})**<br>⭐ Score: ${a.score || 'N/A'}<br>🎭 Genre: ${genres} |\n`;
+    });
+    fs.writeFileSync('TOP_ANIME.md', topMd);
+
+    // FILE 3: ONGOING.md
+    let ongoingMd = `<div align="center">\n\n# 🌟 Top Ongoing Musim Ini\n\n**[ 🏠 Kembali ke Beranda ](README.md)**\n\n</div>\n\n---\n\n`;
+    ongoingMd += `| Poster | Informasi Anime |\n| :---: | --- |\n`;
+    ongoingAnimes.forEach(a => {
+      const studios = a.studios.map(s => s.name).join(', ') || 'Unknown';
+      ongoingMd += `| <img src="${a.images.jpg.image_url}" width="100" style="border-radius: 8px;"> | **[${a.title}](${a.url})**<br>📺 Episodes: ${a.episodes || 'Ongoing'}<br>🎨 Studio: ${studios} |\n`;
+    });
+    fs.writeFileSync('ONGOING.md', ongoingMd);
+
+    console.log("Sukses! Markdown rapi, bersih, dan API JSON siap tempur.");
   } catch (err) {
-    console.error("Yabai! Gagal fetch data:", err);
+    console.error("Gagal mengeksekusi script:", err);
     process.exit(1);
   }
 }
