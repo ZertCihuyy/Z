@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 1/4/2026, 16.13.52 WIB
+**Sync Terakhir:** 1/4/2026, 18.03.38 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
+| [Some-Stuffs] One Piece 3D - Straw Hat Chase (3D BD ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-one-piece-3d-straw-hat-chase-bd.n2092461) <br><br> [🐱 Nyaa](https://nyaa.si/?q=FFOKVZKB5BXS3BFIMQEJQDTLC2XUVOP7) |
+| [Some-Stuffs] One Piece 3D - Straw Hat Chase (3D BD ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-one-piece-3d-straw-hat-chase-bd.n2092460) <br><br> [🐱 Nyaa](https://nyaa.si/?q=6MRKAAEYADWNTFZ5SVD5JODGMCNRKC6S) |
+| [Some-Stuffs] One Piece 3D - Straw Hat Chase [1080p ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/stuffs-one-piece-3d-straw-hat-chase-1080p.n2092459) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PMIUAGCOD73TVBX7TJWBHM5GY6J6MZJE) |
+| [Beltraz] Hundred (2016) - S01 (BD 1080p HEVC OPUS) ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-hundred-2016-s01-bd-1080p-hevc-opus-dual-audio.k10073443864591) <br><br> [🐱 Nyaa](https://nyaa.si/?q=66FASFJX75K3TRH3OBEZP6XWNAKNRGCR) |
+| [Beltraz] Why the Hell are You Here, Teacher!? (2019... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-why-hell-here-teacher-2019-s01-specials.k10072944129547) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2EZ5VYKUUVYKN6EMZ67F3HE3BG7I32GF) |
+| [MinaYuki] Princession Orchestra - 48 | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/minayuki-princession-orchestra-48.n2092454) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BIDFGRVRU32JNLWLAPAD4LUOX62V5XC7) |
+| [Beltraz] Zom 100: Bucket List of the Dead (2023) - ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-zom-100-bucket-list-dead-2023-s01.k10072561852427) <br><br> [🐱 Nyaa](https://nyaa.si/?q=MPNKRHJLCHTLHZO5D5DVDUTFFXURYIJE) |
+| [Erai-raws] Fangkai Nage Nuwu - 04 (CA) [1080p CR WE... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-04-ca-1080p.n2092452) <br><br> [🐱 Nyaa](https://nyaa.si/?q=XPVV4DRNL5ENVHMCELQCSPY3NRSPPXB6) |
 | [Beltraz] Rosario+Vampire - S01 + S02 (Uncensored) (... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-rosario-vampire-s01-s02-uncensored-bd-1080p.k10072214292234) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LX6L5UZE4CANX7L6JKXR325VU7WK4TAR) |
 | [Tasokare] Tsuki ga Kirei S01 (BD 1080p Opus AV1) | ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/tasokare-tsuki-ga-kirei-s01-bd-1080p-opus.k10071747428104) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7XRN7CZRVHJATYRV7PWZYY7T4XH2AYL6) |
-| [Kawatare] Tsuki ga Kirei S01 (BD 1080p FLAC x265) |... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/kawatare-tsuki-ga-kirei-s01-bd-1080p-flac.k10071722173698) <br><br> [🐱 Nyaa](https://nyaa.si/?q=NGM76HEXWAYQ6EAUKIDTJR67LANGJS63) |
-| [Beltraz] SSSS.Gridman (2018) - S01 (BD 1080p x264 F... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-ssss-gridman-2018-s01-bd-1080p-x264.k10071472193799) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VHCMQITX2AAB5KB4PULHJXQU6O5Y7IAO) |
-| [Beltraz] Beast Tamer (2022) - S01 (BD 1080p HEVC FLAC) | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-beast-tamer-2022-s01-bd-1080p-hevc-flac.k10070780118018) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BYAQUO5IY3QQT3VDKXO7FAI45TMBMFMN) |
-| [Beltraz] Tsukimichi -Moonlit Fantasy- (2021) - S01 ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-tsukimichi-moonlit-fantasy-2021-s01-bd-1080p.k10070259725832) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3OVV2XOFPCETJ7QMZUDYB6W4K5LLN3VA) |
-| [Beltraz] Mushibugyou (2013) - S01 + Specials (BD 10... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/beltraz-mushibugyou-2013-s01-specials-bd-1080p-x264-flac.k10069521662977) <br><br> [🐱 Nyaa](https://nyaa.si/?q=UTN7X2TSVK74YJZF6RO6RFLJZGMMYZG6) |
-| Fate.Kaleid.Liner.Prisma.Illya.Movie.1080p-Hi10P.Blu... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/fate-kaleid-liner-prisma-illya-movie-1080p-hi10p.n2092430) <br><br> [🐱 Nyaa](https://nyaa.si/?q=7ZBJOT3VVGTMKMKNJP4K5756JBAOZAFI) |
-| [Feibanyama] Chitose Is in the Ramune Bottle S01E13 ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/feibanyama-chitose-ramune-bottle-s01e13-bilibili-webrip.n2092422) <br><br> [🐱 Nyaa](https://nyaa.si/?q=63EA7M6WEZBCSIY5B5YRJVAAUAXFNQKT) |
-| [Judas] Darwin Jihen (The Darwin Incident) - S01E13 ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/judas-darwin-jihen-incident-s01e13-1080p-hevc-x265.n2092417) <br><br> [🐱 Nyaa](https://nyaa.si/?q=VZHC3M7UBPYF4R7EROCMEQU4SORH2VMH) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
