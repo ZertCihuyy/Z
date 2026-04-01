@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.46.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.52.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -20,21 +20,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Dorohedoro Season 2 - 02 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-02-1080p-cr.n2092829) • [🐱 Nyaa](https://nyaa.si/?q=CLTVBGNY6L5ZIGMSZTUTRT7EBA4LHVXR) |
+| `[Pog42] Mushibugyou S00E01-E03 (BD 720p x264 HEVC 10-bit ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pog42-mushibugyou-s00e01-e03-bd-720p-x264-hevc.n2092828) • [🐱 Nyaa](https://nyaa.si/?q=RKJTYZ2ZJHDOXICBO4ELAHMSVURM53R7) |
+| `[Pog42] Mushibugyou Season 1 (BD 1080p x264 Hi10P FLAC) |...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pog42-mushibugyou-season-1-bd-1080p-x264-hi10p-flac.n2092827) • [🐱 Nyaa](https://nyaa.si/?q=CYPIE3SSJADU6HLWY63ZHH4OOIRQAXVY) |
+| `[TokekHutan] I'll Live a Long Life to Dote on My Favorite...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tokekhutan-ill-live-long-life-dote-my-favorite.n2092824) • [🐱 Nyaa](https://nyaa.si/?q=NZWFHDWKYKBELHA3WBR3BVA4HKWTRHW4) |
+| `[Onalrie] Nigetsuri - S01E01 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-nigetsuri-s01e01-1080p-webrip-av1-mkv.2071236) • [🐱 Nyaa](https://nyaa.si/?q=22Z6BPM7SI6ZBPE6D2FUPSRMAJSSHJPW) |
+| `[Ironclad] Dorohedoro 2 - S02E03 [WEB.1080p.AV1] | Dorohe...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-dorohedoro-2-s02e03-web-1080p-av1-multi.n2092823) • [🐱 Nyaa](https://nyaa.si/?q=FTXHLGIT6SHHIJRARQQPNNQZ3B2QTLMP) |
+| `[ToonsHub] The Boy and the Beast (2015) 1080p HMAX WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-boy-beast-2015-1080p-hmax-web-dl.k10082586561536) • [🐱 Nyaa](https://nyaa.si/?q=ODJ4DZVJJVZNSRLGLBPOTF3UZUKKXEZL) |
+| `[ToonsHub] Inu-Oh (2022) 1080p HMAX WEB-DL DUAL DDP5.1 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-inu-oh-2022-1080p-hmax-web-dl.n2092821) • [🐱 Nyaa](https://nyaa.si/?q=JLZXUPOGDTI4DGTTAAJOFL4WGFWEZGJX) |
+| `[Ironclad] Dorohedoro - S02E03 [WEB 1080p AV1] | Dorohedo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-dorohedoro-s02e03-web-1080p-av1-2-multi.k10082415528717) • [🐱 Nyaa](https://nyaa.si/?q=IWPKOQKDIULNGELJSXTBGRYCHIVUZMOZ) |
+| `[Onalrie] Ganbare! Nakamura-kun!! - S01E02 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ganbare-nakamura-kun-s01e02-1080p-webrip-av1-mkv.2071230) • [🐱 Nyaa](https://nyaa.si/?q=AD4MKAJE3HKQGCRQH744E4ZC3CR3KSXD) |
+| `[Sokudo] Knight's and Magic [1080p BD AV1][Dual Audio]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-knights-magic-1080p-bd-av1-dual-audio.n2092816) • [🐱 Nyaa](https://nyaa.si/?q=XD2B2HFOXMG6MXKM5EZBAHIYFZBIANHD) |
+| `[ASW] Release that Witch - 05v2 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-release-witch-05v2-1080p-hevc-x265-10bit-aac.n2092814) • [🐱 Nyaa](https://nyaa.si/?q=DSB6LOIB2NNUMNCJSANH56I7YHS5M4SQ) |
 | `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-saikyou-no-ousama-nidome-jinsei-wa-nani.n2092813) • [🐱 Nyaa](https://nyaa.si/?q=FR7Y2YO6WCONFDZ7KJUMTRE2QAVSAHGS) |
 | `[Raze] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsue S4 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsue-s4.n2092811) • [🐱 Nyaa](https://nyaa.si/?q=CPYYN2HVPDIAPPQRFXZ4A2XKKPRZVHVU) |
 | `[Onalrie] Ganbare! Nakamura-kun!! - S01E01 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ganbare-nakamura-kun-s01e01-1080p-webrip-av1-mkv.2071227) • [🐱 Nyaa](https://nyaa.si/?q=CT2UOFQKEXCX4ZMWE6APQC6QUMX7MW2K) |
-| `[ToonsHub] Release that Witch S01E05 REPACK 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-release-witch-s01e05-repack-1080p-cr-web.k10081650010886) • [🐱 Nyaa](https://nyaa.si/?q=J6I3NNXYRJFYENOCSOMTL5CJIG2LVF5I) |
-| `[ChuySub] Majokko Megu-chan - Episode 45` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chuysub-majokko-megu-chan-episode-45.n2092809) • [🐱 Nyaa](https://nyaa.si/?q=IQAV6ID57H3TDDDSQ7OXRPAQDR6N5ECT) |
-| `[SubsPlease] Release that Witch - 05v2 (1080p) [C9B5D5A9]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-05v2-1080p-c9b5d5a9-mkv.n2092808) • [🐱 Nyaa](https://nyaa.si/?q=V2VFAVDFA66I4YFM4BQDIJNGPBGA4BGG) |
-| `[SubsPlease] Release that Witch - 05v2 (720p) [817F0FC6].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-05v2-720p-817f0fc6-mkv.n2092807) • [🐱 Nyaa](https://nyaa.si/?q=VHD26RON6IWZQCLPVTTHYF762HTYLP3W) |
-| `[SubsPlease] Release that Witch - 05v2 (480p) [2B0DA4FF].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-05v2-480p-2b0da4ff-mkv.n2092806) • [🐱 Nyaa](https://nyaa.si/?q=3PMQBQ3FCFSEIOUPGIVE4GH4GHBIWJQW) |
-| `[Judas] Dorohedoro - S02E03 [1080p][HEVC x265 10bit][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-dorohedoro-s02e03-1080p-hevc-x265-10bit-multi-subs.n2092805) • [🐱 Nyaa](https://nyaa.si/?q=NEX2ZMBSDJMWUWOHQYTK76RR776A56QH) |
-| `[Judas] Dorohedoro - S02E02 [1080p][HEVC x265 10bit][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-dorohedoro-s02e02-1080p-hevc-x265-10bit-multi-subs.n2092803) • [🐱 Nyaa](https://nyaa.si/?q=TKXRB5MN63TAJYMFL4IQENTOFLT5WDMI) |
-| `[Judas] Dorohedoro - S02E01 [1080p][HEVC x265 10bit][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-dorohedoro-s02e01-1080p-hevc-x265-10bit-multi-subs.n2092802) • [🐱 Nyaa](https://nyaa.si/?q=RONVZHYR4NJTU7SAG4RCJ5DUK4XWV2MR) |
-| `[Onalrie] The Beginning After the End - S02E01 [1080p WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-beginning-after-end-s02e01-1080p-webrip-av1-mkv.2071221) • [🐱 Nyaa](https://nyaa.si/?q=WUUE6DJ76SQMCYVUS7RV7AJUH5OCOKSJ) |
-| `[ToonsHub] Classroom of the Elite S04E04 1080p AMZN WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-elite-s04e04-1080p-amzn-web-dl.k10081213186057) • [🐱 Nyaa](https://nyaa.si/?q=IQD2BVEPTSFLNQG7SUYQ54TFX7B6AXMJ) |
-| `[ToonsHub] Classroom of the Elite S04E03 1080p AMZN WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-elite-s04e03-1080p-amzn-web-dl.k10081199477263) • [🐱 Nyaa](https://nyaa.si/?q=7XYDR4HSEEV7HSKRNIOMZ2NO7J7AVKKS) |
-| `[ToonsHub] Classroom of the Elite S04E02 1080p AMZN WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-elite-s04e02-1080p-amzn-web-dl.k10081185610243) • [🐱 Nyaa](https://nyaa.si/?q=BZFKBGZODT4MGWQP34EUGAQR7HP5HR6C) |
 
 ---
 <div align="center">
