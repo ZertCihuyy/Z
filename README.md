@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.34.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.38.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -22,21 +22,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.2071176) • [🐱 Nyaa](https://nyaa.si/?q=LWCPEJOKCDMB4YNQHRCC2I7CKCNAQI2D) |
-| `[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.n2092651) • [🐱 Nyaa](https://nyaa.si/?q=ASGHZOR73NLO2EJFQ4XZBKQXNK4QUXNX) |
-| `[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.n2092650) • [🐱 Nyaa](https://nyaa.si/?q=PTAHGTNMEW3F4RTJQZX664YQPSTGFQB6) |
-| `[Yameii] Jack-of-All-Trades, Party of None - S01E12 [Engl...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-jack-all-trades-party-none-s01e12-english.n2092645) • [🐱 Nyaa](https://nyaa.si/?q=LOCHVJ6UWUP3HDTOM3N44SBDYYXY2UHH) |
-| `[Yameii] Jack-of-All-Trades, Party of None - S01E12 [Engl...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-jack-all-trades-party-none-s01e12-english.n2092643) • [🐱 Nyaa](https://nyaa.si/?q=TWAXC4DBAPP4HRQ3EEFWHOD75X7K6GIV) |
-| `[ToonsHub] Jack-of-All-Trades Party of None S01E12 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-jack-all-trades-party-none-s01e12-1080p.k10077806365699) • [🐱 Nyaa](https://nyaa.si/?q=TOLQKZ3IYJA3XIJ4DZNLF7GOWKO7A57J) |
-| `Jack of All Trades Party of None S01E12 The Jack-of-All-T...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jack-all-trades-party-none-s01e12-protects-his.n2092635) • [🐱 Nyaa](https://nyaa.si/?q=E3EKEI52KFYSS4LWLYX7IJ27EN3TFPGT) |
-| `Tamons B Side S01E13 Aku Sudah Memutuskan 1080p BILI WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tamons-b-side-s01e13-aku-sudah-memutuskan-1080p.n2092633) • [🐱 Nyaa](https://nyaa.si/?q=OIWFEAKUVPUKOCFP42BKP422ED3B2KIC) |
-| `[ASW] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092626) • [🐱 Nyaa](https://nyaa.si/?q=DYDNM5QQFLSVYQ225R6XLLFCDCMJP2CL) |
-| `[ToonsHub] Dorohedoro S02E03 1080p AMZN WEB-DL DUAL DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e03-1080p-amzn-web-dl-dual.k10077466185474) • [🐱 Nyaa](https://nyaa.si/?q=M7PN652TMCQVEKQUUTKXWOH6AH5JQEED) |
-| `[Onalrie] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.2071170) • [🐱 Nyaa](https://nyaa.si/?q=34TSQ3PD635COKA3ZRXJFAYX3Z5EU3TM) |
-| `[ASW] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092624) • [🐱 Nyaa](https://nyaa.si/?q=YTGO4FNVJWBX6JK7BRHY4OX6M7YCNF4V) |
-| `[ToonsHub] Dorohedoro S02E02 1080p AMZN WEB-DL DUAL DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e02-1080p-amzn-web-dl-dual.k10077444772098) • [🐱 Nyaa](https://nyaa.si/?q=GLPZJ3M6Q5ORWYZQJ6HEIGTCFP6LXHFY) |
-| `[ToonsHub] Dorohedoro S02E01 1080p AMZN WEB-DL DUAL DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e01-1080p-amzn-web-dl-dual.k10077420545028) • [🐱 Nyaa](https://nyaa.si/?q=SZMDPBJB4DPDBGPBH6WZUR3ESRQ7C4PN) |
-| `Dorohedoro S02E03 1080p NF WEB-DL MULTi DDP5.1 H 264-VARY...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dorohedoro-s02e03-1080p-nf-web-dl-multi-ddp5.n2092621) • [🐱 Nyaa](https://nyaa.si/?q=3RQOAWIZPKF7OTRFYMEABYC3NKBEERZI) |
+| `[ToonsHub] Always a Catch S01E01 1080p AMZN WEB-DL DDP2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-always-catch-s01e01-1080p-amzn-web-dl.k10079063636231) • [🐱 Nyaa](https://nyaa.si/?q=FGJBLDKZUPFLBMKWOK6YEKSUT5AYGKHU) |
+| `[SubsPlease] The Beginning After the End S2 - 01 (1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-beginning-after-end-s2-01-1080p-5e4eba00-mkv.n2092696) • [🐱 Nyaa](https://nyaa.si/?q=WS5OPG2FGJYDXTJOXD3AJXSU6NSKF3C4) |
+| `[SubsPlease] The Beginning After the End S2 - 01 (720p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-beginning-after-end-s2-01-720p-fca45824-mkv.n2092694) • [🐱 Nyaa](https://nyaa.si/?q=JMRHXGRMMTN35BXAHMFFPO4EBE3KCOJD) |
+| `[SubsPlease] The Beginning After the End S2 - 01 (480p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-beginning-after-end-s2-01-480p-299a9108-mkv.n2092693) • [🐱 Nyaa](https://nyaa.si/?q=7PKGV6R6MCE5ESBWXXMJUFYRU25BY32C) |
+| `[Onalrie] Dorohedoro - S02E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dorohedoro-s02e02-1080p-webrip-av1-mkv.2071190) • [🐱 Nyaa](https://nyaa.si/?q=MJQ4X5PDP5XQET7MIO6PL5R5MYYT32VW) |
+| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2092690) • [🐱 Nyaa](https://nyaa.si/?q=U23Z54QZZVCM7HXLEIGYW7U2YS6ZTBK7) |
+| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2092689) • [🐱 Nyaa](https://nyaa.si/?q=P4FIBM3VJVI56RVAPMRVPGEPEPRNKKDJ) |
+| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2092688) • [🐱 Nyaa](https://nyaa.si/?q=2NY6IJ5F5OGOAKQL6D6ONTBN6XINN3RV) |
+| `The Beginning After the End S02E01 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beginning-after-end-s02e01-1080p-cr-web-dl.n2092687) • [🐱 Nyaa](https://nyaa.si/?q=SXEX4ZM7LG5JH3P7JPNMSZ4TCJXBI3JC) |
+| `[ToonsHub] The Beginning After the End S02E01 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-beginning-after-end-s02e01-1080p-cr-web.k10078873940998) • [🐱 Nyaa](https://nyaa.si/?q=6C7OEXZLMYMRYSTJAUW2HITE7YMFGRTU) |
+| `[Erai-raws] Dorohedoro Season 2 - 03 [480p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-480p-cr.n2092684) • [🐱 Nyaa](https://nyaa.si/?q=POQIRP5UKOCJQIEWSDGDVZGKB4VIRP23) |
+| `[Erai-raws] Dorohedoro Season 2 - 03 [720p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-720p-cr.n2092683) • [🐱 Nyaa](https://nyaa.si/?q=EHZMC3YOHTKM52L5VGX2URGA5OIJT5A3) |
+| `[Erai-raws] Dorohedoro Season 2 - 03 [1080p CR WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-1080p-cr.n2092682) • [🐱 Nyaa](https://nyaa.si/?q=IGJAW4PW4IFX5ZDO6DV7DAAHL63OAWDE) |
+| `[Erai-raws] Dorohedoro Season 2 - 02 [480p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-02-480p-cr.n2092681) • [🐱 Nyaa](https://nyaa.si/?q=F4VZXXGN2D42SS7D63RCVRNL4HYILZ2F) |
+| `[Erai-raws] Dorohedoro Season 2 - 02 [720p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-02-720p-cr.n2092680) • [🐱 Nyaa](https://nyaa.si/?q=JHNVJN6ZQN4NFSSUYQ7KEPNYBGLXX6KC) |
 
 ---
 <div align="center">
