@@ -1,33 +1,39 @@
-# 🎬 Ultimate Anime & Torrent Tracker
+# 🎬 Ultimate Anime & Torrent Tracker v2.0
 
-**Sync Terakhir:** 1/4/2026, 22.11.14 WIB
+> ⚡ **Sync Terakhir:** 1/4/2026, 22.30.40 WIB | Di-update otomatis setiap 15 Menit!
 
-### 🌟 Sedang Tayang (Top Ongoing)
+File API Statis siap pakai: 
+[Ongoing](api/ongoing.json) | [Top Anime](api/top_anime.json) | [Jadwal Harian](api/jadwal_harian.json) | [API Nyaa Torrents](api/nyaa_torrents.json)
 
-| Poster | Info Anime |
-| :---: | --- |
-| <img src="https://myanimelist.net/images/anime/1540/155824.jpg" width="110" style="border-radius: 8px;"> | **[Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season)**<br>⭐ Score: N/A<br>📺 Eps: 19 |
-| <img src="https://myanimelist.net/images/anime/1695/156389.jpg" width="110" style="border-radius: 8px;"> | **[Tensei shitara Slime Datta Ken 4th Season](https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
-| <img src="https://myanimelist.net/images/anime/1176/153626.jpg" width="110" style="border-radius: 8px;"> | **[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki](https://myanimelist.net/anime/59708/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_4th_Season__2-nensei-hen_1_Gakki)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
-| <img src="https://myanimelist.net/images/anime/1726/155542.jpg" width="110" style="border-radius: 8px;"> | **[Tongari Boushi no Atelier](https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
-| <img src="https://myanimelist.net/images/anime/1989/154843.jpg" width="110" style="border-radius: 8px;"> | **[Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2](https://myanimelist.net/anime/56876/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken_2)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
-| <img src="https://myanimelist.net/images/anime/1773/155779.jpg" width="110" style="border-radius: 8px;"> | **[Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)**<br>⭐ Score: N/A<br>📺 Eps: Ongoing |
+### 📅 Jadwal Tayang Hari Ini (Rabu)
+- **Chibi Godzilla no Gyakushuu 3rd Season** (Rilis: 07:05 JST) - [MyAnimeList](https://myanimelist.net/anime/61765/Chibi_Godzilla_no_Gyakushuu_3rd_Season)
+- **Pochars** (Rilis: 01:25 JST) - [MyAnimeList](https://myanimelist.net/anime/59732/Pochars)
+- **Daikenja Riddle no Jikan Gyakkou** (Rilis: 21:55 JST) - [MyAnimeList](https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou)
+- **Daikenja Riddle no Jikan Gyakkou** (Rilis: 21:55 JST) - [MyAnimeList](https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou)
 
-### 📥 Rilisan Terbaru (1080p)
+### 🏆 Top Anime Sedang Tayang
+| Rank | Poster | Info Anime |
+| :---: | :---: | --- |
+| **#2** | <img src="https://myanimelist.net/images/anime/1448/154111.jpg" width="80" style="border-radius: 8px;"> | **[Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)**<br>⭐ Score: 9.19 |
+| **#55** | <img src="https://myanimelist.net/images/anime/1244/138851.jpg" width="80" style="border-radius: 8px;"> | **[One Piece](https://myanimelist.net/anime/21/One_Piece)**<br>⭐ Score: 8.73 |
+| **#113** | <img src="https://myanimelist.net/images/anime/1783/121944.jpg" width="80" style="border-radius: 8px;"> | **[Chiikawa](https://myanimelist.net/anime/50250/Chiikawa)**<br>⭐ Score: 8.59 |
+| **#172** | <img src="https://myanimelist.net/images/anime/1174/149943.jpg" width="80" style="border-radius: 8px;"> | **[Tian Guan Cifu Short Films](https://myanimelist.net/anime/60988/Tian_Guan_Cifu_Short_Films)**<br>⭐ Score: 8.48 |
+| **#178** | <img src="https://myanimelist.net/images/anime/1289/149708.jpg" width="80" style="border-radius: 8px;"> | **[Xian Ni](https://myanimelist.net/anime/55809/Xian_Ni)**<br>⭐ Score: 8.47 |
 
-| Judul File | Size | Tanggal | Download Links |
+### 📥 Rilisan Bajakan Terbaru (1080p)
+
+| Judul File | Size | Waktu Rilis | Download Links |
 | --- | :---: | :---: | :---: |
-| [ToonsHub] Jack-of-All-Trades Party of None S01E12 1... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jack-all-trades-party-none-s01e12-1080p.k10077806365699) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TOLQKZ3IYJA3XIJ4DZNLF7GOWKO7A57J) |
-| [VARYG] Jack of All Trades Party of None S01E12 The ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-jack-all-trades-party-none-s01e12-protects.k10077762034178) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E3EKEI52KFYSS4LWLYX7IJ27EN3TFPGT) |
-| [VARYG] Tamons B Side S01E13 Aku Sudah Memutuskan 10... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-tamons-b-side-s01e13-aku-sudah-memutuskan.k10077724605709) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OIWFEAKUVPUKOCFP42BKP422ED3B2KIC) |
-| [ASW] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/asw-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092626) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DYDNM5QQFLSVYQ225R6XLLFCDCMJP2CL) |
-| [ToonsHub] Dorohedoro S02E03 1080p AMZN WEB-DL DUAL ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e03-1080p-amzn-web-dl-dual.k10077466185474) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M7PN652TMCQVEKQUUTKXWOH6AH5JQEED) |
-| [Onalrie] Youkoso Jitsuryoku Shijou Shugi no Kyoushi... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.2071170) <br><br> [🐱 Nyaa](https://nyaa.si/?q=34TSQ3PD635COKA3ZRXJFAYX3Z5EU3TM) |
-| [ASW] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/asw-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092624) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YTGO4FNVJWBX6JK7BRHY4OX6M7YCNF4V) |
-| [ToonsHub] Dorohedoro S02E02 1080p AMZN WEB-DL DUAL ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e02-1080p-amzn-web-dl-dual.k10077444772098) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GLPZJ3M6Q5ORWYZQJ6HEIGTCFP6LXHFY) |
-| [ToonsHub] Dorohedoro S02E01 1080p AMZN WEB-DL DUAL ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e01-1080p-amzn-web-dl-dual.k10077420545028) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SZMDPBJB4DPDBGPBH6WZUR3ESRQ7C4PN) |
-| Dorohedoro S02E03 1080p NF WEB-DL MULTi DDP5.1 H 264... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/dorohedoro-s02e03-1080p-nf-web-dl-multi-ddp5.n2092621) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3RQOAWIZPKF7OTRFYMEABYC3NKBEERZI) |
+| `[Onalrie] Youkoso Jitsuryoku Shijou Shugi no Kyoushi...` | **NaN MB** | 22.17.00 | [🌐 Tosho](https://animetosho.org/view/onalrie-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.2071176) <br> [🐱 Nyaa](https://nyaa.si/?q=LWCPEJOKCDMB4YNQHRCC2I7CKCNAQI2D) |
+| `[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyous...` | **NaN MB** | 22.14.55 | [🌐 Tosho](https://animetosho.org/view/erai-raws-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.n2092651) <br> [🐱 Nyaa](https://nyaa.si/?q=ASGHZOR73NLO2EJFQ4XZBKQXNK4QUXNX) |
+| `[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyous...` | **NaN MB** | 22.14.00 | [🌐 Tosho](https://animetosho.org/view/erai-raws-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.n2092650) <br> [🐱 Nyaa](https://nyaa.si/?q=PTAHGTNMEW3F4RTJQZX664YQPSTGFQB6) |
+| `[Yameii] Jack-of-All-Trades, Party of None - S01E12 ...` | **NaN MB** | 22.10.21 | [🌐 Tosho](https://animetosho.org/view/yameii-jack-all-trades-party-none-s01e12-english.n2092645) <br> [🐱 Nyaa](https://nyaa.si/?q=LOCHVJ6UWUP3HDTOM3N44SBDYYXY2UHH) |
+| `[Yameii] Jack-of-All-Trades, Party of None - S01E12 ...` | **NaN MB** | 22.09.04 | [🌐 Tosho](https://animetosho.org/view/yameii-jack-all-trades-party-none-s01e12-english.n2092643) <br> [🐱 Nyaa](https://nyaa.si/?q=TWAXC4DBAPP4HRQ3EEFWHOD75X7K6GIV) |
+| `[ToonsHub] Jack-of-All-Trades Party of None S01E12 1...` | **NaN MB** | 22.07.11 | [🌐 Tosho](https://animetosho.org/view/toonshub-jack-all-trades-party-none-s01e12-1080p.k10077806365699) <br> [🐱 Nyaa](https://nyaa.si/?q=TOLQKZ3IYJA3XIJ4DZNLF7GOWKO7A57J) |
+| `Jack of All Trades Party of None S01E12 The Jack-of-...` | **NaN MB** | 22.04.01 | [🌐 Tosho](https://animetosho.org/view/jack-all-trades-party-none-s01e12-protects-his.n2092635) <br> [🐱 Nyaa](https://nyaa.si/?q=E3EKEI52KFYSS4LWLYX7IJ27EN3TFPGT) |
+| `Tamons B Side S01E13 Aku Sudah Memutuskan 1080p BILI...` | **NaN MB** | 22.01.37 | [🌐 Tosho](https://animetosho.org/view/tamons-b-side-s01e13-aku-sudah-memutuskan-1080p.n2092633) <br> [🐱 Nyaa](https://nyaa.si/?q=OIWFEAKUVPUKOCFP42BKP422ED3B2KIC) |
+| `[ASW] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu ...` | **NaN MB** | 21.51.56 | [🌐 Tosho](https://animetosho.org/view/asw-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092626) <br> [🐱 Nyaa](https://nyaa.si/?q=DYDNM5QQFLSVYQ225R6XLLFCDCMJP2CL) |
+| `[ToonsHub] Dorohedoro S02E03 1080p AMZN WEB-DL DUAL ...` | **NaN MB** | 21.45.02 | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e03-1080p-amzn-web-dl-dual.k10077466185474) <br> [🐱 Nyaa](https://nyaa.si/?q=M7PN652TMCQVEKQUUTKXWOH6AH5JQEED) |
 
 ---
-✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
-Data Sources: [Jikan API](https://jikan.moe/) & [Animetosho](https://animetosho.org/)
+✨ *Automated by zerty_ System* | Data Sources: [Jikan API](https://jikan.moe/) & [Animetosho](https://animetosho.org/)
