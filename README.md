@@ -1,6 +1,6 @@
 # 🎬 Ultimate Anime & Torrent Tracker
 
-**Sync Terakhir:** 1/4/2026, 20.48.23 WIB
+**Sync Terakhir:** 1/4/2026, 22.11.14 WIB
 
 ### 🌟 Sedang Tayang (Top Ongoing)
 
@@ -17,16 +17,16 @@
 
 | Judul File | Size | Tanggal | Download Links |
 | --- | :---: | :---: | :---: |
-| [Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyous... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/erai-raws-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.n2092563) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DSGMPGCOV4YXDWMDRH6DVI4CTHQVFZQI) |
-| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092560) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3ICTHJRDPNZ7REKG6ZRP2IOVO3ARJDU5) |
-| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092559) <br><br> [🐱 Nyaa](https://nyaa.si/?q=2LYLZA5ZURHAVG3AFQMJN2NTSNXEGQO2) |
-| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092558) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PG3CSYK56VBJ6KSWVGJDIMY25ESFYQB5) |
-| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092557) <br><br> [🐱 Nyaa](https://nyaa.si/?q=HINEIDTTLFNUWDLXMYETYTDKBURCU5FB) |
-| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092556) <br><br> [🐱 Nyaa](https://nyaa.si/?q=BG6K6QK6GCNIJS4T5EVMGJ4ZZH4KINRI) |
-| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092555) <br><br> [🐱 Nyaa](https://nyaa.si/?q=LZ6TDOR6SWLAZ3LRX262NNSA6TPR5CAB) |
-| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092554) <br><br> [🐱 Nyaa](https://nyaa.si/?q=PBPF25TLFA5BDTU2Y6BD2ZZ5NZNN3Q63) |
-| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092553) <br><br> [🐱 Nyaa](https://nyaa.si/?q=WPAA2X2334KOUJK7XDYTZ5646O5GXYZ3) |
-| [SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyou... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092548) <br><br> [🐱 Nyaa](https://nyaa.si/?q=CTP7TCYGJUBL2RFFMRETYR4JWAJGVCMX) |
+| [ToonsHub] Jack-of-All-Trades Party of None S01E12 1... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-jack-all-trades-party-none-s01e12-1080p.k10077806365699) <br><br> [🐱 Nyaa](https://nyaa.si/?q=TOLQKZ3IYJA3XIJ4DZNLF7GOWKO7A57J) |
+| [VARYG] Jack of All Trades Party of None S01E12 The ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-jack-all-trades-party-none-s01e12-protects.k10077762034178) <br><br> [🐱 Nyaa](https://nyaa.si/?q=E3EKEI52KFYSS4LWLYX7IJ27EN3TFPGT) |
+| [VARYG] Tamons B Side S01E13 Aku Sudah Memutuskan 10... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/varyg-tamons-b-side-s01e13-aku-sudah-memutuskan.k10077724605709) <br><br> [🐱 Nyaa](https://nyaa.si/?q=OIWFEAKUVPUKOCFP42BKP422ED3B2KIC) |
+| [ASW] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/asw-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092626) <br><br> [🐱 Nyaa](https://nyaa.si/?q=DYDNM5QQFLSVYQ225R6XLLFCDCMJP2CL) |
+| [ToonsHub] Dorohedoro S02E03 1080p AMZN WEB-DL DUAL ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e03-1080p-amzn-web-dl-dual.k10077466185474) <br><br> [🐱 Nyaa](https://nyaa.si/?q=M7PN652TMCQVEKQUUTKXWOH6AH5JQEED) |
+| [Onalrie] Youkoso Jitsuryoku Shijou Shugi no Kyoushi... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/onalrie-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.2071170) <br><br> [🐱 Nyaa](https://nyaa.si/?q=34TSQ3PD635COKA3ZRXJFAYX3Z5EU3TM) |
+| [ASW] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/asw-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2092624) <br><br> [🐱 Nyaa](https://nyaa.si/?q=YTGO4FNVJWBX6JK7BRHY4OX6M7YCNF4V) |
+| [ToonsHub] Dorohedoro S02E02 1080p AMZN WEB-DL DUAL ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e02-1080p-amzn-web-dl-dual.k10077444772098) <br><br> [🐱 Nyaa](https://nyaa.si/?q=GLPZJ3M6Q5ORWYZQJ6HEIGTCFP6LXHFY) |
+| [ToonsHub] Dorohedoro S02E01 1080p AMZN WEB-DL DUAL ... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e01-1080p-amzn-web-dl-dual.k10077420545028) <br><br> [🐱 Nyaa](https://nyaa.si/?q=SZMDPBJB4DPDBGPBH6WZUR3ESRQ7C4PN) |
+| Dorohedoro S02E03 1080p NF WEB-DL MULTi DDP5.1 H 264... | NaN MB | 1/4/2026, | [🌐 Tosho](https://animetosho.org/view/dorohedoro-s02e03-1080p-nf-web-dl-multi-ddp5.n2092621) <br><br> [🐱 Nyaa](https://nyaa.si/?q=3RQOAWIZPKF7OTRFYMEABYC3NKBEERZI) |
 
 ---
 ✨ *Automated by zerty_ System (Diperbarui Setiap Jam)*
