@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.03.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.53.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Koori no Jouheki - S01E01 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e01-1080p-hevc-x265.n2093124) • [🐱 Nyaa](https://nyaa.si/?q=PP6UBXFAWJRL6UC2YCPBLJ6IHNSY2TWK) |
+| `[ToonsHub] The Ramparts of Ice S01E01 REPACK 1080p NF WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ramparts-ice-s01e01-repack-1080p-nf-web.n2093120) • [🐱 Nyaa](https://nyaa.si/?q=O62VXIWOEMEH2OC7HBF6WEPSA2IA54WV) |
 | `[Anime Time] Jujutsu Kaisen - S03E11 [1080p][HEVC 10bit x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-jujutsu-kaisen-s03e11-1080p-hevc-10bit.n2093119) • [🐱 Nyaa](https://nyaa.si/?q=PBZVGK6A76MVZX2M76YWFKBT6PJ67IC5) |
 | `Kirio Fan Club S01E01 Dear Kirio-kun 1080p ABMA WEB-DL DD...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kirio-fan-club-s01e01-dear-kun-1080p-abma.n2093118) • [🐱 Nyaa](https://nyaa.si/?q=GPY4TOYXOONLCY5ZPSF52ZAHWG4YHDQW) |
 | `[Judas] Reincarnation no Kaben (Petals of Reincarnation) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-reincarnation-no-kaben-petals-s01e01-1080p-hevc.n2093117) • [🐱 Nyaa](https://nyaa.si/?q=IRWC6PKAOX2VIVSCNC4K6F7I3WGJY27U) |
@@ -38,8 +40,6 @@
 | `[YA0] Link Click - S01 E01-E11 (BD-Enc 1920x800 AV1 OPUS)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ya0-link-click-s01-e01-e11-bd-enc.k10103928030465) • [🐱 Nyaa](https://nyaa.si/?q=2U4SNTK4MKBWJBBCKZ4KIS2TFX3LFJQV) |
 | `[DKB] Reincarnation no Kaben - S01E01 [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-reincarnation-no-kaben-s01e01-1080p-hevc-x265.n2093095) • [🐱 Nyaa](https://nyaa.si/?q=UURTRBMC5XQYXXRWB44WDPVMOOLQKEUO) |
 | `[BlackRabbit] Real Girl (2018) - S02 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-real-girl-2018-s02-bluray-1080p-opus.k10103044038413) • [🐱 Nyaa](https://nyaa.si/?q=GIZD5LAYAYM73RDE6TAWCVW7X5DC6POD) |
-| `[BlackRabbit] Real Girl (2018) - S01 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-real-girl-2018-s01-bluray-1080p-opus.k10102880317710) • [🐱 Nyaa](https://nyaa.si/?q=JIUKSDBEX36PDRIVGPDLR7VCNROVBLKN) |
-| `[ASW] Mata Korosarete Shimatta no desu ne, Tantei-sama - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-mata-korosarete-shimatta-no-desu-ne-tantei.n2093085) • [🐱 Nyaa](https://nyaa.si/?q=RRHBEYWDW34RNNWO5LWZIDK2D3DE45OI) |
 
 ---
 <div align="center">
