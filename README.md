@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.34.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.38.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -22,6 +22,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Kuroko's Basketball (2012) - S02 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kurokos-basketball-2012-s02-bluray-1080p-opus.k10096628440577) • [🐱 Nyaa](https://nyaa.si/?q=MORW37KTDSBMUSK4HX3OFSMSTT2H4HYT) |
 | `[Gecko] Koala's Diary - S01E27 (コアラ絵日記; Koala Enikki) [YT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e27-koala-enikki-ytb-web.n2092951) • [🐱 Nyaa](https://nyaa.si/?q=N4C3QZUOHUKX4DDD5L3SFW7B4N2NOZWT) |
 | `[ToonsHub] Koalas Diary S01E27 1080p LNTV WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e27-1080p-lntv-web-dl.n2092950) • [🐱 Nyaa](https://nyaa.si/?q=U7WMAHUDCD7VRGGJYSDB2TXK3A7DEAEI) |
 | `[ToonsHub] Dragon Heart Adventures Beyond This World (202...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dragon-heart-adventures-beyond-world-2025-1080p.k10095971776518) • [🐱 Nyaa](https://nyaa.si/?q=XF7CN6T5MC3KIIA7G6ICG6GOEPRJKERP) |
@@ -36,7 +37,6 @@
 | `[crane0922] Food Wars - S00E06 - The Third Plate Erina at...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-food-wars-s00e06-third-plate-erina-polar.k10093453402634) • [🐱 Nyaa](https://nyaa.si/?q=NHQ7RUEUBBMFW75HOWOOPAUXXACKSI7R) |
 | `[Xx_H47351D3_xX] JoJo's Bizarre Adventure Phantom Blood (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/xx_h47351d3_xx-jojos-bizarre-adventure-phantom-blood-2007.n2092933) • [🐱 Nyaa](https://nyaa.si/?q=EZPJ4B3TTIQRYNPMUUBUOSGQGPHHR2OD) |
 | `Go For It Nakamura kun S01E02 Panic The Secret Bible 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/go-nakamura-kun-s01e02-panic-secret-bible-1080p.n2092932) • [🐱 Nyaa](https://nyaa.si/?q=KRZPQM3RNQBMMQXL7H7S4DC6OSLFNZLX) |
-| `Go For It Nakamura kun S01E01 Go For It Nakamura-kun-Supe...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/go-nakamura-kun-s01e01-super-exciting-cooking-class.n2092931) • [🐱 Nyaa](https://nyaa.si/?q=2GS4IY2ZW3LO2VRGSB2UFWM7DAT3BDX7) |
 
 ---
 <div align="center">
