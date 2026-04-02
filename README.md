@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.10.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.17.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -22,21 +22,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Dr. Stone - S04E25 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dr-stone-s04e25-1080p-webrip-av1-mkv.2071438) • [🐱 Nyaa](https://nyaa.si/?q=62AOWH7GR4NNBDOP7DWLU47PHSBDB4NE) |
+| `[ASW] Dr. Stone S4 - 25 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-dr-stone-s4-25-1080p-hevc-x265-10bit-aac.n2092995) • [🐱 Nyaa](https://nyaa.si/?q=KDAZIW5FSJ5LZ4FAIATPMDDO7VZ7T25P) |
+| `[Yameii] MF GHOST - S03E11 [English Dub] [CR WEB-DL 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-mf-ghost-s03e11-english-dub-cr-web.n2092993) • [🐱 Nyaa](https://nyaa.si/?q=GTDS7ZTG2STHIWDELOEN6Y2YIVK2WQS6) |
+| `[Yameii] MF GHOST - S03E11 [English Dub] [CR WEB-DL 720p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-mf-ghost-s03e11-english-dub-cr-web.n2092992) • [🐱 Nyaa](https://nyaa.si/?q=7OUWFYZHKGRJI2ROAXFPGKHJYP6U4IW5) |
+| `MF GHOST S03E11 The Strongest Train 1080p CR WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mf-ghost-s03e11-strongest-train-1080p-cr-web.n2092991) • [🐱 Nyaa](https://nyaa.si/?q=F7QKKCNJL3BCGVL4BSPXHFKLISZBSROK) |
+| `Dr STONE S04E25 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dr-stone-s04e25-1080p-cr-web-dl-dual.n2092990) • [🐱 Nyaa](https://nyaa.si/?q=RKVAH27U7NBBFAOGEYRQV7B7VXKQSNIS) |
+| `[ToonsHub] MF GHOST S03E11 1080p CR WEB-DL DUAL AAC2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mf-ghost-s03e11-1080p-cr-web-dl.n2092988) • [🐱 Nyaa](https://nyaa.si/?q=ADBIYILALQ3NJHVWQ555ZNQPK7RQHBRY) |
+| `Dr STONE S04E25 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dr-stone-s04e25-1080p-cr-web-dl-multi.n2092986) • [🐱 Nyaa](https://nyaa.si/?q=FWLUKVXU6N565MZ3Y3TOFLAZ7KIA2CXG) |
+| `[ToonsHub] Dr STONE S04E25 1080p CR WEB-DL MULTi AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e25-1080p-cr-web-dl.k10099153476869) • [🐱 Nyaa](https://nyaa.si/?q=4V46B4K5O33Q62GGS5P62NRYF5R5IUSS) |
+| `Dr STONE S04E25 Future Engine 1080p CR WEB-DL DUAL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dr-stone-s04e25-future-engine-1080p-cr-web.n2092983) • [🐱 Nyaa](https://nyaa.si/?q=O42MVYVGDEVTKRWEPDQVSBDCNWKB5VPR) |
 | `[ToonsHub] Dr STONE S04E25 1080p CR WEB-DL DUAL AAC2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e25-1080p-cr-web-dl.k10098935246850) • [🐱 Nyaa](https://nyaa.si/?q=5VH5KJNG6FJ3I4GQJUFJ6N3HIWSJYA7C) |
+| `[SubsPlease] Dr. Stone S4 - 25 (1080p) [E7AB972B].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-dr-stone-s4-25-1080p-e7ab972b-mkv.n2092976) • [🐱 Nyaa](https://nyaa.si/?q=NHN5SVSZHJ5B2SFDJJRSNLTTGV2JXWKS) |
+| `[SubsPlease] Dr. Stone S4 - 25 (720p) [2235A4D5].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-dr-stone-s4-25-720p-2235a4d5-mkv.n2092975) • [🐱 Nyaa](https://nyaa.si/?q=FW5FP2N4CEMKN546SBBS4VFLQ4OHX4AY) |
+| `[SubsPlease] Dr. Stone S4 - 25 (480p) [807B5979].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-dr-stone-s4-25-480p-807b5979-mkv.n2092974) • [🐱 Nyaa](https://nyaa.si/?q=2FVD5VTXSP6ZEMNDK6CV2OQVA3LZRXOS) |
 | `[ToonsHub] Dorohedoro S02E02 1080p BILI WEB-DL AAC2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e02-1080p-bili-web-dl-aac2.k10098905061385) • [🐱 Nyaa](https://nyaa.si/?q=LC6WEQGP4Y6X7TBULENVONLWIONJQHAM) |
-| `[ToonsHub] Dr STONE S04E25 1080p BILI WEB-DL AAC2.0 H.265...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e25-1080p-bili-web-dl.n2092971) • [🐱 Nyaa](https://nyaa.si/?q=F4J3FO4CQLBV7O2QR7EYYQBE5SOMXIPQ) |
-| `[Bird] Ganzo! Bandori-chan - 25 (1080p) [A088F6AE]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bird-ganzo-bandori-chan-25-1080p-a088f6ae.n2092970) • [🐱 Nyaa](https://nyaa.si/?q=VX3K6UI3EBWDVTLF7L6E3EJ5EBL63EK7) |
-| `Dr STONE S04E25 1080p NF WEB-DL AAC2.0 H 264-VARYG (Dr. S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dr-stone-s04e25-1080p-nf-web-dl-aac2.n2092969) • [🐱 Nyaa](https://nyaa.si/?q=YILQEK6Z2HSUVWLWLAIOUHS7BHNBQLYE) |
-| `[BlackRabbit] Mayo Chiki! (2011) - S01 [Bluray-1080p][Opu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-mayo-chiki-2011-s01-bluray-1080p-opus.k10098646817795) • [🐱 Nyaa](https://nyaa.si/?q=PV7IXG3KHHYAQIITCLZ4ZJHCWSZMPUJL) |
-| `[ToonsHub] Dr STONE S04E25 1080p NF WEB-DL AAC2.0 H.264 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e25-1080p-nf-web-dl.n2092968) • [🐱 Nyaa](https://nyaa.si/?q=P4XLEWUCXHTSVU2J4O4RRUIG6463XLGU) |
-| `[ToonsHub] GANSO BanG Dream Chan S01E26 1080p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ganso-bang-dream-chan-s01e26-1080p-amzn.k10098419908098) • [🐱 Nyaa](https://nyaa.si/?q=UYLNKQRL6AHF4D7FSQQOQ7IEYXFWKQNF) |
-| `[BlackRabbit] Kuroko's Basketball (2012) - S02 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kurokos-basketball-2012-s02-bluray-1080p-opus.k10096628440577) • [🐱 Nyaa](https://nyaa.si/?q=MORW37KTDSBMUSK4HX3OFSMSTT2H4HYT) |
-| `[Gecko] Koala's Diary - S01E27 (コアラ絵日記; Koala Enikki) [YT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e27-koala-enikki-ytb-web.n2092951) • [🐱 Nyaa](https://nyaa.si/?q=N4C3QZUOHUKX4DDD5L3SFW7B4N2NOZWT) |
-| `[ToonsHub] Koalas Diary S01E27 1080p LNTV WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e27-1080p-lntv-web-dl.n2092950) • [🐱 Nyaa](https://nyaa.si/?q=U7WMAHUDCD7VRGGJYSDB2TXK3A7DEAEI) |
-| `[ToonsHub] Dragon Heart Adventures Beyond This World (202...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dragon-heart-adventures-beyond-world-2025-1080p.k10095971776518) • [🐱 Nyaa](https://nyaa.si/?q=XF7CN6T5MC3KIIA7G6ICG6GOEPRJKERP) |
-| `[BlackRabbit] Kabaneri of the Iron Fortress (2016) - S00 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kabaneri-iron-fortress-2016-s00-bluray-1080p.k10095272144389) • [🐱 Nyaa](https://nyaa.si/?q=XC52XRNMKLN6JLJ4H2MTOPQCKGKRCUOE) |
-| `[BlackRabbit] Kabaneri of the Iron Fortress (2016) - S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kabaneri-iron-fortress-2016-s01-bluray-1080p.k10095224039425) • [🐱 Nyaa](https://nyaa.si/?q=RWWR7B45QS4SH25MTHOIAC7PRMZG3K5A) |
-| `[Gecko] Fabulous Beasts - S05E07 (有兽焉; You Shou Yan 5th S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fabulous-beasts-s05e07-shou-yan-5th-season.k10094948108290) • [🐱 Nyaa](https://nyaa.si/?q=SHB4HSMJB7OFRPSMSN4XIINQJKOMJTU3) |
 
 ---
 <div align="center">
