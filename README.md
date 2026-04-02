@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.37.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.18.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Kuroko's Basketball (2012) - S03 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kurokos-basketball-2012-s03-bluray-1080p-opus.k10106833306380) • [🐱 Nyaa](https://nyaa.si/?q=IXTPFFTBWMCITMJNGIM7H2OSLC42CYG5) |
 | `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-haibara-kun-no-tsuyokute-seishun-new-game.n2093129) • [🐱 Nyaa](https://nyaa.si/?q=MKWBN6M67N72CV7VUEEIQ7LK2TDTZUVM) |
 | `[SubsPlus+] Petals of Reincarnation - S01E01 (AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-petals-reincarnation-s01e01-amzn-web-dl-1080p.n2093127) • [🐱 Nyaa](https://nyaa.si/?q=NP36EBNZEJGFBERK7U2ZK2CVK4AGWF6K) |
 | `[SubsPlus+] Kirio Fan Club - S01E01 (ABEMA WEB-DL 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-kirio-fan-club-s01e01-abema-web-dl.n2093126) • [🐱 Nyaa](https://nyaa.si/?q=2L2POJ4MUZJERY5K6OD33B4AFNKPM7G7) |
@@ -39,7 +40,6 @@
 | `[Judas] Niwatori Fighter (Rooster Fighter) - S01E03 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e03-1080p-hevc-x265.n2093114) • [🐱 Nyaa](https://nyaa.si/?q=CGQOZ5HVV6MOFLOBTYET6Q33HKEBRLBM) |
 | `[Judas] Niwatori Fighter (Rooster Fighter) - S01E02 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e02-1080p-hevc-x265.n2093113) • [🐱 Nyaa](https://nyaa.si/?q=7RGKB6IU3H6K4KV25ZMFRFWYWHX2RRDE) |
 | `[Judas] Niwatori Fighter (Rooster Fighter) - S01E01 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e01-1080p-hevc-x265.n2093112) • [🐱 Nyaa](https://nyaa.si/?q=PMERX6HFHKEIJ3HUPAN5UZ5PFPZ3SMKT) |
-| `The Ramparts of Ice S01E01 SINIRLAR VE DUVARLAR REPACK 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e01-sinirlar-ve-duvarlar-repack-1080p.n2093110) • [🐱 Nyaa](https://nyaa.si/?q=5Z5KHZVZ332WFICFOBHU52LRJYRC67SX) |
 
 ---
 <div align="center">
