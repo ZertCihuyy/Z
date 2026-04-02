@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.37.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.19.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[YA0] Link Click - 05.5 - S00E01 - Marrying by Contesting...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ya0-link-click-05-5-s00e01-marrying-contesting.k10104200473346) • [🐱 Nyaa](https://nyaa.si/?q=4CCF6JQSFXOA6EFKD6AN523DXJCFYHYL) |
 | `[YA0] Link Click - S01 E01-E11 (BD-Enc 1920x800 AV1 OPUS)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ya0-link-click-s01-e01-e11-bd-enc.k10103928030465) • [🐱 Nyaa](https://nyaa.si/?q=2U4SNTK4MKBWJBBCKZ4KIS2TFX3LFJQV) |
 | `[DKB] Reincarnation no Kaben - S01E01 [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-reincarnation-no-kaben-s01e01-1080p-hevc-x265.n2093095) • [🐱 Nyaa](https://nyaa.si/?q=UURTRBMC5XQYXXRWB44WDPVMOOLQKEUO) |
 | `[BlackRabbit] Real Girl (2018) - S02 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-real-girl-2018-s02-bluray-1080p-opus.k10103044038413) • [🐱 Nyaa](https://nyaa.si/?q=GIZD5LAYAYM73RDE6TAWCVW7X5DC6POD) |
@@ -39,7 +40,6 @@
 | `[SubsPlease] Mata Korosarete Shimatta no desu ne, Tantei-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mata-korosarete-shimatta-no-desu-ne-tantei.n2093074) • [🐱 Nyaa](https://nyaa.si/?q=II6E2JZ5X3PLED3ONN2F6AL4ZUUYFP5P) |
 | `[SubsPlease] Mata Korosarete Shimatta no desu ne, Tantei-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mata-korosarete-shimatta-no-desu-ne-tantei.n2093073) • [🐱 Nyaa](https://nyaa.si/?q=WBM6PBOKSAHMMCEH5QBF4ILLSZE2NPVH) |
 | `[SubsPlease] Mata Korosarete Shimatta no desu ne, Tantei-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mata-korosarete-shimatta-no-desu-ne-tantei.n2093072) • [🐱 Nyaa](https://nyaa.si/?q=PZLQKZH5LIOTJ7GMCVVQFC3T7GT7TJ3R) |
-| `[ToonsHub] Monster Eater S01E01 1080p AMZN WEB-DL DDP2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-monster-eater-s01e01-1080p-amzn-web-dl.k10102113961227) • [🐱 Nyaa](https://nyaa.si/?q=2J75LACRYGKAAAJAHJRWIRRDKFDYCSCM) |
 
 ---
 <div align="center">
