@@ -1,7 +1,116 @@
 {
-  "last_update": "3/4/2026, 00.36.28",
+  "last_update": "3/4/2026, 01.36.38",
   "hari": "Jumat",
   "data": [
+    {
+      "mal_id": 63709,
+      "url": "https://myanimelist.net/anime/63709/Komekami_Girls",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1392/156024.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1392/156024t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1392/156024l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1392/156024.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1392/156024t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1392/156024l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/Xqc-0SgApHw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Komekami! Girls"
+        },
+        {
+          "type": "Synonym",
+          "title": "Komekami! Gaaruzu"
+        },
+        {
+          "type": "Japanese",
+          "title": "こめかみっ！ Girls"
+        }
+      ],
+      "title": "Komekami! Girls",
+      "title_english": null,
+      "title_japanese": "こめかみっ！ Girls",
+      "title_synonyms": [
+        "Komekami! Gaaruzu"
+      ],
+      "type": "TV",
+      "source": "Other",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 3, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": null,
+      "score": null,
+      "scored_by": null,
+      "rank": 17931,
+      "popularity": 16295,
+      "members": 758,
+      "favorites": 1,
+      "synopsis": "This is the story of the seven-sister unit \"Komekami! Girls,\" children of the rice deity, born from the tradition: \"In a single grain of rice, seven gods reside.\"\n\nWhen their mother(the deity of rice, or the rice-god queen) was called back in haste to the celestial realm and no longer able to return to the earthly realm they search for her traces using Usa City (Oita Prefecture) as their base, and teleport to Hachiman shrines throughout Kyushu island. As they solve local problems, they learn about food, take part in cooking battles, and grow.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "01:50",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 01:50 (JST)"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3303,
+          "type": "anime",
+          "name": "Daily Plan.net",
+          "url": "https://myanimelist.net/anime/producer/3303/Daily_Plannet"
+        },
+        {
+          "mal_id": 3304,
+          "type": "anime",
+          "name": "SO-DO Creative",
+          "url": "https://myanimelist.net/anime/producer/3304/SO-DO_Creative"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
     {
       "mal_id": 1960,
       "url": "https://myanimelist.net/anime/1960/Sore_Ike_Anpanman",
