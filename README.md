@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.31.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.36.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,34 +9,36 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Kamis**
+### 📅 Jadwal Rilis Hari Ini: **Jumat**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `07:45` | **[Metal Cardbot W](https://myanimelist.net/anime/63142/Metal_Cardbot_W)** | *Action, Sci-Fi* |
-| `07:45` | **[Metal Cardbot W](https://myanimelist.net/anime/63142/Metal_Cardbot_W)** | *Action, Sci-Fi* |
-| `00:00` | **[Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken](https://myanimelist.net/anime/62893/Nigashita_Sakana_wa_Ookikatta_ga_Tsuriageta_Sakana_ga_Ookisugita_Ken)** | *Comedy, Fantasy, Romance* |
-| `00:30` | **[Ganbare! Nakamura-kun!!](https://myanimelist.net/anime/59551/Ganbare_Nakamura-kun)** | *Boys Love, Comedy* |
+| `16:20` | **[Sore Ike! Anpanman](https://myanimelist.net/anime/1960/Sore_Ike_Anpanman)** | *Comedy, Fantasy* |
+| `18:25` | **[Beyblade X](https://myanimelist.net/anime/56566/Beyblade_X)** | *Adventure, Sports* |
+| `07:40` | **[Chiikawa](https://myanimelist.net/anime/50250/Chiikawa)** | *Slice of Life* |
+| `19:00` | **[Doraemon (2005)](https://myanimelist.net/anime/8687/Doraemon_2005)** | *Comedy, Sci-Fi* |
+| `18:55` | **[Pokemon (2023)](https://myanimelist.net/anime/53876/Pokemon_2023)** | *Action, Adventure, Comedy, Fantasy* |
+| `19:30` | **[Crayon Shin-chan](https://myanimelist.net/anime/966/Crayon_Shin-chan)** | *Comedy, Ecchi* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `JUJUTSU KAISEN S03E10 Tokyo Colony No 1-Part 4 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jujutsu-kaisen-s03e10-tokyo-colony-no-1-part.n2093022) • [🐱 Nyaa](https://nyaa.si/?q=ZRQM3BCLU3PH2BCWLRJVTKLMBNFVUDIV) |
-| `[Yameii] ROLL OVER AND DIE - S01E11 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-roll-over-die-s01e11-english-dub-cr.n2093021) • [🐱 Nyaa](https://nyaa.si/?q=RAZUCYZUVVPZLYDOULWL7SLBUYIU57N6) |
-| `[Yameii] ROLL OVER AND DIE - S01E11 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-roll-over-die-s01e11-english-dub-cr.n2093020) • [🐱 Nyaa](https://nyaa.si/?q=DZKP4QYAAHD74I677U3H3TGV4BTKHGYF) |
-| `[SubsPlease] Kirio Fanclub - 01 (1080p) [BF1E6679].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirio-fanclub-01-1080p-bf1e6679-mkv.n2093019) • [🐱 Nyaa](https://nyaa.si/?q=HTBP36665ADISRTP5PRP32Y5B6ZJI3IK) |
-| `[SubsPlease] Kirio Fanclub - 01 (720p) [61866E00].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirio-fanclub-01-720p-61866e00-mkv.n2093018) • [🐱 Nyaa](https://nyaa.si/?q=O3W7I26I2ONSR2SRRZQ3DQTFG5N3V3JE) |
-| `[SubsPlease] Kirio Fanclub - 01 (480p) [5BA1BB72].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirio-fanclub-01-480p-5ba1bb72-mkv.n2093017) • [🐱 Nyaa](https://nyaa.si/?q=RWOKYDPHJSKEBWI2KBFARW4G5B576SL7) |
-| `ROLL OVER AND DIE S01E11 Dein and Flum 1080p CR WEB-DL DU...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/roll-over-die-s01e11-dein-flum-1080p-cr.n2093016) • [🐱 Nyaa](https://nyaa.si/?q=T4VPS32ZNIYHVKSQTWFRKXT45MBTQVAP) |
-| `[ToonsHub] Kirio Fan Club S01E01 1080p HIDIVE WEB-DL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kirio-fan-club-s01e01-1080p-hidive-web.n2093015) • [🐱 Nyaa](https://nyaa.si/?q=UBQSHGYY25KZ2F34SO5UOYT2TGWP6OD7) |
-| `[ToonsHub] ROLL OVER AND DIE S01E11 1080p CR WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-roll-over-die-s01e11-1080p-cr-web.n2093014) • [🐱 Nyaa](https://nyaa.si/?q=GQ5ERGJWM7S4UBJUHKIKLXN7CUQTK7SQ) |
-| `The Ramparts of Ice S01E01 Lines and Walls 1080p NF WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e01-lines-walls-1080p-nf-web.n2093012) • [🐱 Nyaa](https://nyaa.si/?q=DM6BXWLYSB36UOYEAJRQBHCY227INJSK) |
-| `The Ramparts of Ice S01E01 Lines and Walls 1080p NF WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e01-lines-walls-1080p-nf-web.n2093011) • [🐱 Nyaa](https://nyaa.si/?q=R4EJW2F5JGZGLJAY5UCHCKNQ4GCQ7NS7) |
-| `[ToonsHub] The Ramparts of Ice S01E01 1080p NF WEB-DL DUA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ramparts-ice-s01e01-1080p-nf-web-dl.k10100406458630) • [🐱 Nyaa](https://nyaa.si/?q=DTGK6JO4U6MNM7VRXKV4Q2RKJ5UUH7XC) |
-| `[Judas] Dr Stone - Science Future - S04E25 [1080p][HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-dr-stone-science-future-s04e25-1080p-hevc.n2093006) • [🐱 Nyaa](https://nyaa.si/?q=GHOFHLW4CSOKDRPJUIBYF2FPIMY7XMCT) |
-| `[Onalrie] Dr. Stone - S04E25 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dr-stone-s04e25-1080p-webrip-av1-mkv.2071438) • [🐱 Nyaa](https://nyaa.si/?q=62AOWH7GR4NNBDOP7DWLU47PHSBDB4NE) |
-| `[ASW] Dr. Stone S4 - 25 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-dr-stone-s4-25-1080p-hevc-x265-10bit-aac.n2092995) • [🐱 Nyaa](https://nyaa.si/?q=KDAZIW5FSJ5LZ4FAIATPMDDO7VZ7T25P) |
+| `[VARYG] Killed again Mr Detective S01E01 The Queen Irie M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-killed-again-mr-detective-s01e01-queen-irie.k10102168350210) • [🐱 Nyaa](https://nyaa.si/?q=SGAS7MEKMNSTYSBQSVD6PA4XOLUUKJE7) |
+| `[ToonsHub] Killed again Mr Detective S01E01 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-killed-again-mr-detective-s01e01-1080p-cr.k10102167887619) • [🐱 Nyaa](https://nyaa.si/?q=72MHXN4MPCB5QSQERZ2P55AF5DVC5PGY) |
+| `[ToonsHub] Monster Eater S01E01 1080p AMZN WEB-DL DDP2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-monster-eater-s01e01-1080p-amzn-web-dl.k10102113961227) • [🐱 Nyaa](https://nyaa.si/?q=2J75LACRYGKAAAJAHJRWIRRDKFDYCSCM) |
+| `[Onalrie] Reincarnation no Kaben - S01E01 [1080p WEBRip A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-reincarnation-no-kaben-s01e01-1080p-webrip-av1-mkv.2071462) • [🐱 Nyaa](https://nyaa.si/?q=ZBVIJBNRJ7LBTX3T2MVB4Q3HHUGVXVDE) |
+| `[ASW] Reincarnation no Kaben - 01 [1080p HEVC x265 10Bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-reincarnation-no-kaben-01-1080p-hevc-x265-10bit-aac.n2093064) • [🐱 Nyaa](https://nyaa.si/?q=K5DB6XLNZ54ANHBFFPHXJP7KR5BQLQ72) |
+| `[Yameii] Anyway, I'm Falling in Love with You. - S02E11 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-anyway-im-falling-love-s02e11-english-dub.n2093056) • [🐱 Nyaa](https://nyaa.si/?q=QUUYSOGBR5AMJZ4VTHO2HBCSYZUUXCOG) |
+| `[Yameii] Anyway, I'm Falling in Love with You. - S02E11 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-anyway-im-falling-love-s02e11-english-dub.n2093055) • [🐱 Nyaa](https://nyaa.si/?q=QWGPIK4LA4C5IQL3S2LJMBBCPG6H6MAP) |
+| `Anyway Im Falling in Love with You S02E11 The Proposal 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anyway-im-falling-love-s02e11-proposal-1080p-cr.n2093053) • [🐱 Nyaa](https://nyaa.si/?q=57FKM6XAFO2OYMTFKAXE7J35RLSHMBBN) |
+| `Haibaras Teenage New Game S01E01 The Gray Boys Plan For a...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/haibaras-teenage-new-game-s01e01-gray-boys-plan.n2093052) • [🐱 Nyaa](https://nyaa.si/?q=ZPWULATF5N6PA5OFCD3RERWJOGVABCFX) |
+| `[SubsPlease] Haibara-kun no Tsuyokute Seishun New Game - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-haibara-kun-no-tsuyokute-seishun-new-game.n2093051) • [🐱 Nyaa](https://nyaa.si/?q=J26HV6BPUORZSFTN7PHQCB62YMFQFJTB) |
+| `[SubsPlease] Haibara-kun no Tsuyokute Seishun New Game - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-haibara-kun-no-tsuyokute-seishun-new-game.n2093050) • [🐱 Nyaa](https://nyaa.si/?q=RXUYKISR5N3MM3LY7OESQ7XTYIN2S75O) |
+| `[SubsPlease] Haibara-kun no Tsuyokute Seishun New Game - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-haibara-kun-no-tsuyokute-seishun-new-game.n2093049) • [🐱 Nyaa](https://nyaa.si/?q=DLD6MYHDI6HWXZPJ4472D3NP3I7RBGV2) |
+| `[ToonsHub] Anyway Im Falling in Love with You S02E11 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e11-1080p-cr.n2093048) • [🐱 Nyaa](https://nyaa.si/?q=ILIIGDEVC3RJAYFNSYZ4WUOE3GYADQHZ) |
+| `[ToonsHub] Haibaras Teenage New Game S01E01 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-haibaras-teenage-new-game-s01e01-1080p-cr.n2093047) • [🐱 Nyaa](https://nyaa.si/?q=K7XSRCDE73O24ALSBA7WX4JDV4Y5KF6V) |
+| `[ToonsHub] Petals of Reincarnation S01E01 1080p AMZN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-petals-reincarnation-s01e01-1080p-amzn-web-dl.n2093046) • [🐱 Nyaa](https://nyaa.si/?q=23ABDGHE5XOQK237OZ4544UJEABT35LW) |
 
 ---
 <div align="center">
