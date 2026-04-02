@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.10.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.16.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -22,6 +22,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] The Darwin Incident S01 AMZN [1080p WEBRip AV1 Op...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-darwin-incident-s01-amzn-1080p-webrip-av1.k10094389989899) • [🐱 Nyaa](https://nyaa.si/?q=XRRJVJICIWO535HJKRTI43ISYOJZCF6R) |
+| `[LbE3L] [H.266] Hell’s Paradise S02E09 (Jigokuraku) [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-hells-paradise-s02e09-jigokuraku-1080p.k10094322179845) • [🐱 Nyaa](https://nyaa.si/?q=TYJHH6PE5Y2WZE7TUZNBDN5ZVQ2JNMZS) |
+| `THE iDOLM@STER MILLION LIVE!-Itsuka, Mannaka De OVA` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/idolm-ster-million-live-itsuka-mannaka-de-ova.n2092938) • [🐱 Nyaa](https://nyaa.si/?q=LUEGPLWZMLPYZ7SRRJLDF6VBTJB4YWV2) |
+| `[ToonsHub] Fabulous Beasts S05E07 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fabulous-beasts-s05e07-1080p-bili-web-dl.n2092937) • [🐱 Nyaa](https://nyaa.si/?q=2RAWEWIOYG7KMDVJWPZG4QLGGIMJGDDO) |
+| `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E01 [1080p AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-jidouhanbaiki-ni-umarekawatta-s03e01-1080p-av1-reborn.n2092936) • [🐱 Nyaa](https://nyaa.si/?q=K73LKLSLNYECFI3GBFTQCXIBXPQY7A3V) |
+| `[crane0922] Food Wars - S00E06 - The Third Plate Erina at...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-food-wars-s00e06-third-plate-erina-polar.k10093453402634) • [🐱 Nyaa](https://nyaa.si/?q=NHQ7RUEUBBMFW75HOWOOPAUXXACKSI7R) |
 | `[Xx_H47351D3_xX] JoJo's Bizarre Adventure Phantom Blood (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/xx_h47351d3_xx-jojos-bizarre-adventure-phantom-blood-2007.n2092933) • [🐱 Nyaa](https://nyaa.si/?q=EZPJ4B3TTIQRYNPMUUBUOSGQGPHHR2OD) |
 | `Go For It Nakamura kun S01E02 Panic The Secret Bible 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/go-nakamura-kun-s01e02-panic-secret-bible-1080p.n2092932) • [🐱 Nyaa](https://nyaa.si/?q=KRZPQM3RNQBMMQXL7H7S4DC6OSLFNZLX) |
 | `Go For It Nakamura kun S01E01 Go For It Nakamura-kun-Supe...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/go-nakamura-kun-s01e01-super-exciting-cooking-class.n2092931) • [🐱 Nyaa](https://nyaa.si/?q=2GS4IY2ZW3LO2VRGSB2UFWM7DAT3BDX7) |
@@ -31,12 +37,6 @@
 | `[yaneura] The Great Sage Ryddel and the Hands of Time - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yaneura-great-sage-ryddel-hands-time-01-hdtv.n2092924) • [🐱 Nyaa](https://nyaa.si/?q=25YIJHRXXS7YA5CNK4GMUSAJKHVYP3F5) |
 | `[BlackRabbit] Kuroko's Basketball (2012) - S00 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kurokos-basketball-2012-s00-bluray-1080p-opus.k10092123339530) • [🐱 Nyaa](https://nyaa.si/?q=GRDPKQTJ546LK5IAGX4DWV7WZADKCBPU) |
 | `[BlackRabbit] Kuroko's Basketball (2012) - S01 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kurokos-basketball-2012-s01-bluray-1080p-opus.k10092080910601) • [🐱 Nyaa](https://nyaa.si/?q=CO4G7KOYSSDCDNMDZFDDHVMGR6ZSJCMN) |
-| `[BlackRabbit] Valkyrie Drive - Mermaid (2015) - S00 [Blur...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-valkyrie-drive-mermaid-2015-s00-bluray-1080p.k10091512003075) • [🐱 Nyaa](https://nyaa.si/?q=VEPKEQMUMJMWB4IWNX7N52KXSKBDNDKW) |
-| `You're Under Arrest - Diverting Traffic at the Beach (199...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/youre-under-arrest-diverting-traffic-beach-1997-dvd.n2092920) • [🐱 Nyaa](https://nyaa.si/?q=M65WAFWATBR37BA3HZWGLM5SBYIVQSVO) |
-| `[BlackRabbit] Valkyrie Drive - Mermaid (2015) - S01 [Blur...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-valkyrie-drive-mermaid-2015-s01-bluray-1080p.k10091032190479) • [🐱 Nyaa](https://nyaa.si/?q=HIBSUTJPFK2JCH4UK7OAIZMQWBQTDJXE) |
-| `[Techmod] The Seven Deadly Sins - Four Knights of the Apo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/techmod-seven-deadly-sins-four-knights-apocalypse-s01-s02.n2092918) • [🐱 Nyaa](https://nyaa.si/?q=EM2FGJ6K57PBDG4QD2AFGDKHL6RAZ32L) |
-| `[BlackRabbit] Ergo Proxy (2006) - S01 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-ergo-proxy-2006-s01-bluray-1080p-opus.k10090656228098) • [🐱 Nyaa](https://nyaa.si/?q=WSA7UK57PZJD7UU6QMKK5QSBB4FJJXLA) |
-| `[Feibanyama] Classroom of the Elite S04E01 [IQIYI WebRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-classroom-elite-s04e01-iqiyi-webrip-2160p-hevc.n2092916) • [🐱 Nyaa](https://nyaa.si/?q=HNX6PLIJVJ27UF3AZUXPKH4BXZHOWYDX) |
 
 ---
 <div align="center">
