@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.38.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.10.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -22,6 +22,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Dr STONE S04E25 1080p CR WEB-DL DUAL AAC2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e25-1080p-cr-web-dl.k10098935246850) • [🐱 Nyaa](https://nyaa.si/?q=5VH5KJNG6FJ3I4GQJUFJ6N3HIWSJYA7C) |
+| `[ToonsHub] Dorohedoro S02E02 1080p BILI WEB-DL AAC2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e02-1080p-bili-web-dl-aac2.k10098905061385) • [🐱 Nyaa](https://nyaa.si/?q=LC6WEQGP4Y6X7TBULENVONLWIONJQHAM) |
+| `[ToonsHub] Dr STONE S04E25 1080p BILI WEB-DL AAC2.0 H.265...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e25-1080p-bili-web-dl.n2092971) • [🐱 Nyaa](https://nyaa.si/?q=F4J3FO4CQLBV7O2QR7EYYQBE5SOMXIPQ) |
+| `[Bird] Ganzo! Bandori-chan - 25 (1080p) [A088F6AE]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bird-ganzo-bandori-chan-25-1080p-a088f6ae.n2092970) • [🐱 Nyaa](https://nyaa.si/?q=VX3K6UI3EBWDVTLF7L6E3EJ5EBL63EK7) |
+| `Dr STONE S04E25 1080p NF WEB-DL AAC2.0 H 264-VARYG (Dr. S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dr-stone-s04e25-1080p-nf-web-dl-aac2.n2092969) • [🐱 Nyaa](https://nyaa.si/?q=YILQEK6Z2HSUVWLWLAIOUHS7BHNBQLYE) |
+| `[BlackRabbit] Mayo Chiki! (2011) - S01 [Bluray-1080p][Opu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-mayo-chiki-2011-s01-bluray-1080p-opus.k10098646817795) • [🐱 Nyaa](https://nyaa.si/?q=PV7IXG3KHHYAQIITCLZ4ZJHCWSZMPUJL) |
+| `[ToonsHub] Dr STONE S04E25 1080p NF WEB-DL AAC2.0 H.264 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e25-1080p-nf-web-dl.n2092968) • [🐱 Nyaa](https://nyaa.si/?q=P4XLEWUCXHTSVU2J4O4RRUIG6463XLGU) |
+| `[ToonsHub] GANSO BanG Dream Chan S01E26 1080p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ganso-bang-dream-chan-s01e26-1080p-amzn.k10098419908098) • [🐱 Nyaa](https://nyaa.si/?q=UYLNKQRL6AHF4D7FSQQOQ7IEYXFWKQNF) |
 | `[BlackRabbit] Kuroko's Basketball (2012) - S02 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kurokos-basketball-2012-s02-bluray-1080p-opus.k10096628440577) • [🐱 Nyaa](https://nyaa.si/?q=MORW37KTDSBMUSK4HX3OFSMSTT2H4HYT) |
 | `[Gecko] Koala's Diary - S01E27 (コアラ絵日記; Koala Enikki) [YT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e27-koala-enikki-ytb-web.n2092951) • [🐱 Nyaa](https://nyaa.si/?q=N4C3QZUOHUKX4DDD5L3SFW7B4N2NOZWT) |
 | `[ToonsHub] Koalas Diary S01E27 1080p LNTV WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e27-1080p-lntv-web-dl.n2092950) • [🐱 Nyaa](https://nyaa.si/?q=U7WMAHUDCD7VRGGJYSDB2TXK3A7DEAEI) |
@@ -29,14 +37,6 @@
 | `[BlackRabbit] Kabaneri of the Iron Fortress (2016) - S00 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kabaneri-iron-fortress-2016-s00-bluray-1080p.k10095272144389) • [🐱 Nyaa](https://nyaa.si/?q=XC52XRNMKLN6JLJ4H2MTOPQCKGKRCUOE) |
 | `[BlackRabbit] Kabaneri of the Iron Fortress (2016) - S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kabaneri-iron-fortress-2016-s01-bluray-1080p.k10095224039425) • [🐱 Nyaa](https://nyaa.si/?q=RWWR7B45QS4SH25MTHOIAC7PRMZG3K5A) |
 | `[Gecko] Fabulous Beasts - S05E07 (有兽焉; You Shou Yan 5th S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fabulous-beasts-s05e07-shou-yan-5th-season.k10094948108290) • [🐱 Nyaa](https://nyaa.si/?q=SHB4HSMJB7OFRPSMSN4XIINQJKOMJTU3) |
-| `[LbE3L] The Darwin Incident S01 AMZN [1080p WEBRip AV1 Op...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-darwin-incident-s01-amzn-1080p-webrip-av1.k10094389989899) • [🐱 Nyaa](https://nyaa.si/?q=XRRJVJICIWO535HJKRTI43ISYOJZCF6R) |
-| `[LbE3L] [H.266] Hell’s Paradise S02E09 (Jigokuraku) [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-hells-paradise-s02e09-jigokuraku-1080p.k10094322179845) • [🐱 Nyaa](https://nyaa.si/?q=TYJHH6PE5Y2WZE7TUZNBDN5ZVQ2JNMZS) |
-| `THE iDOLM@STER MILLION LIVE!-Itsuka, Mannaka De OVA` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/idolm-ster-million-live-itsuka-mannaka-de-ova.n2092938) • [🐱 Nyaa](https://nyaa.si/?q=LUEGPLWZMLPYZ7SRRJLDF6VBTJB4YWV2) |
-| `[ToonsHub] Fabulous Beasts S05E07 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fabulous-beasts-s05e07-1080p-bili-web-dl.n2092937) • [🐱 Nyaa](https://nyaa.si/?q=2RAWEWIOYG7KMDVJWPZG4QLGGIMJGDDO) |
-| `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E01 [1080p AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-jidouhanbaiki-ni-umarekawatta-s03e01-1080p-av1-reborn.n2092936) • [🐱 Nyaa](https://nyaa.si/?q=K73LKLSLNYECFI3GBFTQCXIBXPQY7A3V) |
-| `[crane0922] Food Wars - S00E06 - The Third Plate Erina at...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-food-wars-s00e06-third-plate-erina-polar.k10093453402634) • [🐱 Nyaa](https://nyaa.si/?q=NHQ7RUEUBBMFW75HOWOOPAUXXACKSI7R) |
-| `[Xx_H47351D3_xX] JoJo's Bizarre Adventure Phantom Blood (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/xx_h47351d3_xx-jojos-bizarre-adventure-phantom-blood-2007.n2092933) • [🐱 Nyaa](https://nyaa.si/?q=EZPJ4B3TTIQRYNPMUUBUOSGQGPHHR2OD) |
-| `Go For It Nakamura kun S01E02 Panic The Secret Bible 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/go-nakamura-kun-s01e02-panic-secret-bible-1080p.n2092932) • [🐱 Nyaa](https://nyaa.si/?q=KRZPQM3RNQBMMQXL7H7S4DC6OSLFNZLX) |
 
 ---
 <div align="center">
