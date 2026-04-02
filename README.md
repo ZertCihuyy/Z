@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.53.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.37.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-haibara-kun-no-tsuyokute-seishun-new-game.n2093129) • [🐱 Nyaa](https://nyaa.si/?q=MKWBN6M67N72CV7VUEEIQ7LK2TDTZUVM) |
+| `[SubsPlus+] Petals of Reincarnation - S01E01 (AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-petals-reincarnation-s01e01-amzn-web-dl-1080p.n2093127) • [🐱 Nyaa](https://nyaa.si/?q=NP36EBNZEJGFBERK7U2ZK2CVK4AGWF6K) |
+| `[SubsPlus+] Kirio Fan Club - S01E01 (ABEMA WEB-DL 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-kirio-fan-club-s01e01-abema-web-dl.n2093126) • [🐱 Nyaa](https://nyaa.si/?q=2L2POJ4MUZJERY5K6OD33B4AFNKPM7G7) |
+| `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mata-korosarete-shimatta-no-desu-ne-tantei.n2093125) • [🐱 Nyaa](https://nyaa.si/?q=MUEEAXT6KAIRPTLMXDM6Z2TKLGYLF5CV) |
 | `[DKB] Koori no Jouheki - S01E01 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e01-1080p-hevc-x265.n2093124) • [🐱 Nyaa](https://nyaa.si/?q=PP6UBXFAWJRL6UC2YCPBLJ6IHNSY2TWK) |
 | `[ToonsHub] The Ramparts of Ice S01E01 REPACK 1080p NF WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ramparts-ice-s01e01-repack-1080p-nf-web.n2093120) • [🐱 Nyaa](https://nyaa.si/?q=O62VXIWOEMEH2OC7HBF6WEPSA2IA54WV) |
 | `[Anime Time] Jujutsu Kaisen - S03E11 [1080p][HEVC 10bit x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-jujutsu-kaisen-s03e11-1080p-hevc-10bit.n2093119) • [🐱 Nyaa](https://nyaa.si/?q=PBZVGK6A76MVZX2M76YWFKBT6PJ67IC5) |
@@ -36,10 +40,6 @@
 | `[Judas] Niwatori Fighter (Rooster Fighter) - S01E02 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e02-1080p-hevc-x265.n2093113) • [🐱 Nyaa](https://nyaa.si/?q=7RGKB6IU3H6K4KV25ZMFRFWYWHX2RRDE) |
 | `[Judas] Niwatori Fighter (Rooster Fighter) - S01E01 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e01-1080p-hevc-x265.n2093112) • [🐱 Nyaa](https://nyaa.si/?q=PMERX6HFHKEIJ3HUPAN5UZ5PFPZ3SMKT) |
 | `The Ramparts of Ice S01E01 SINIRLAR VE DUVARLAR REPACK 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e01-sinirlar-ve-duvarlar-repack-1080p.n2093110) • [🐱 Nyaa](https://nyaa.si/?q=5Z5KHZVZ332WFICFOBHU52LRJYRC67SX) |
-| `[YA0] Link Click - 05.5 - S00E01 - Marrying by Contesting...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ya0-link-click-05-5-s00e01-marrying-contesting.k10104200473346) • [🐱 Nyaa](https://nyaa.si/?q=4CCF6JQSFXOA6EFKD6AN523DXJCFYHYL) |
-| `[YA0] Link Click - S01 E01-E11 (BD-Enc 1920x800 AV1 OPUS)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ya0-link-click-s01-e01-e11-bd-enc.k10103928030465) • [🐱 Nyaa](https://nyaa.si/?q=2U4SNTK4MKBWJBBCKZ4KIS2TFX3LFJQV) |
-| `[DKB] Reincarnation no Kaben - S01E01 [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-reincarnation-no-kaben-s01e01-1080p-hevc-x265.n2093095) • [🐱 Nyaa](https://nyaa.si/?q=UURTRBMC5XQYXXRWB44WDPVMOOLQKEUO) |
-| `[BlackRabbit] Real Girl (2018) - S02 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-real-girl-2018-s02-bluray-1080p-opus.k10103044038413) • [🐱 Nyaa](https://nyaa.si/?q=GIZD5LAYAYM73RDE6TAWCVW7X5DC6POD) |
 
 ---
 <div align="center">
