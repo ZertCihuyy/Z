@@ -1,5 +1,5 @@
 {
-  "last_update": "2/4/2026, 06.58.21",
+  "last_update": "2/4/2026, 10.20.16",
   "hari": "Kamis",
   "data": [
     {
@@ -241,6 +241,301 @@
           "url": "https://myanimelist.net/anime/genre/15/Kids"
         }
       ]
+    },
+    {
+      "mal_id": 62893,
+      "url": "https://myanimelist.net/anime/62893/Nigashita_Sakana_wa_Ookikatta_ga_Tsuriageta_Sakana_ga_Ookisugita_Ken",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1871/155068.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1871/155068t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1871/155068l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1871/155068.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1871/155068t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1871/155068l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/d0LkNAqMrZw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Fish I Missed Was Big"
+        },
+        {
+          "type": "Synonym",
+          "title": "But I Caught Another Fish Was Too Big."
+        },
+        {
+          "type": "Synonym",
+          "title": "Nigetsuri"
+        },
+        {
+          "type": "Japanese",
+          "title": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件"
+        },
+        {
+          "type": "English",
+          "title": "Always a Catch!"
+        }
+      ],
+      "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "title_english": "Always a Catch!",
+      "title_japanese": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件",
+      "title_synonyms": [
+        "The Fish I Missed Was Big",
+        "But I Caught Another Fish Was Too Big.",
+        "Nigetsuri"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2, 2026 to ?"
+      },
+      "duration": "23 min",
+      "rating": null,
+      "score": 6.96,
+      "scored_by": 433,
+      "rank": 4987,
+      "popularity": 6379,
+      "members": 13471,
+      "favorites": 32,
+      "synopsis": "Maria, the daughter of a duke, grew up believing she would one day inherit her father's dukedom. Accordingly, she focused her attentions on honing her martial arts prowess, while thoughts of marriage fell by the wayside. But the arrival of a baby brother in her family means she's losing her role as heir! Now that she's decided it's time to marry after all, she's arrived a little late to the game! Are there even any eligible bachelors left?\n\nUpon going to study abroad in a neighboring country where she might still stand a chance at getting hitched, she's bewildered when the crown prince there declares before all that his engagement to her is null and void! Wait... what engagement?!\n\nApparently, he's mistaken her for the wrong girl! But once that's all cleared up and he catches sight of her knocking out a whole pack of bandits, it turns out that this prince may have a thing for ass-kicking young ladies after all.\n\n(Source: Square Enix)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 00:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 73,
+          "type": "anime",
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        },
+        {
+          "mal_id": 144,
+          "type": "anime",
+          "name": "Pony Canyon",
+          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1406,
+          "type": "anime",
+          "name": "Miracle Bus",
+          "url": "https://myanimelist.net/anime/producer/1406/Miracle_Bus"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1103,
+          "type": "anime",
+          "name": "TROYCA",
+          "url": "https://myanimelist.net/anime/producer/1103/TROYCA"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 59551,
+      "url": "https://myanimelist.net/anime/59551/Ganbare_Nakamura-kun",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1201/155682.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1201/155682t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1201/155682l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1201/155682.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1201/155682t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1201/155682l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/w8MEfrVtWgY?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Ganbare! Nakamura-kun!!"
+        },
+        {
+          "type": "Japanese",
+          "title": "ガンバレ！中村くん!!"
+        },
+        {
+          "type": "English",
+          "title": "Go For It, Nakamura!"
+        }
+      ],
+      "title": "Ganbare! Nakamura-kun!!",
+      "title_english": "Go For It, Nakamura!",
+      "title_japanese": "ガンバレ！中村くん!!",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2, 2026 to ?"
+      },
+      "duration": "23 min per ep",
+      "rating": null,
+      "score": 7.48,
+      "scored_by": 541,
+      "rank": 2266,
+      "popularity": 5079,
+      "members": 24243,
+      "favorites": 104,
+      "synopsis": "Okuto Nakamura is a timid and gloomy-looking student who cherishes only two things in this world: his pet octopus and his kind-hearted classmate, Aiki Hirose. Ever since the school entrance ceremony, Nakamura has admired his jovial classmate, albeit from a distance due to his poor social skills. After mustering up all the courage within him, he finally decides to talk to Hirose.\n\nDuring this first attempt to make contact, an instinctive mistake turns the idea of friendship into a distant dream, as he creates a hilarious impression on his crush. At school, students are expected to cooperate on numerous activities together, meaning Nakamura gets to spend extra time with Hirose. Given these opportunities, can he successfully redeem himself and accomplish his goal of becoming good friends with Hirose?\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "00:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 00:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+          "mal_id": 213,
+          "type": "anime",
+          "name": "Half H.P Studio",
+          "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1967,
+          "type": "anime",
+          "name": "Drive",
+          "url": "https://myanimelist.net/anime/producer/1967/Drive"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 28,
+          "type": "anime",
+          "name": "Boys Love",
+          "url": "https://myanimelist.net/anime/genre/28/Boys_Love"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
     }
   ]
 }
