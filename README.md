@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.30.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.34.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -22,6 +22,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Koala's Diary - S01E27 (コアラ絵日記; Koala Enikki) [YT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e27-koala-enikki-ytb-web.n2092951) • [🐱 Nyaa](https://nyaa.si/?q=N4C3QZUOHUKX4DDD5L3SFW7B4N2NOZWT) |
+| `[ToonsHub] Koalas Diary S01E27 1080p LNTV WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e27-1080p-lntv-web-dl.n2092950) • [🐱 Nyaa](https://nyaa.si/?q=U7WMAHUDCD7VRGGJYSDB2TXK3A7DEAEI) |
+| `[ToonsHub] Dragon Heart Adventures Beyond This World (202...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dragon-heart-adventures-beyond-world-2025-1080p.k10095971776518) • [🐱 Nyaa](https://nyaa.si/?q=XF7CN6T5MC3KIIA7G6ICG6GOEPRJKERP) |
 | `[BlackRabbit] Kabaneri of the Iron Fortress (2016) - S00 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kabaneri-iron-fortress-2016-s00-bluray-1080p.k10095272144389) • [🐱 Nyaa](https://nyaa.si/?q=XC52XRNMKLN6JLJ4H2MTOPQCKGKRCUOE) |
 | `[BlackRabbit] Kabaneri of the Iron Fortress (2016) - S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kabaneri-iron-fortress-2016-s01-bluray-1080p.k10095224039425) • [🐱 Nyaa](https://nyaa.si/?q=RWWR7B45QS4SH25MTHOIAC7PRMZG3K5A) |
 | `[Gecko] Fabulous Beasts - S05E07 (有兽焉; You Shou Yan 5th S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fabulous-beasts-s05e07-shou-yan-5th-season.k10094948108290) • [🐱 Nyaa](https://nyaa.si/?q=SHB4HSMJB7OFRPSMSN4XIINQJKOMJTU3) |
@@ -34,9 +37,6 @@
 | `[Xx_H47351D3_xX] JoJo's Bizarre Adventure Phantom Blood (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/xx_h47351d3_xx-jojos-bizarre-adventure-phantom-blood-2007.n2092933) • [🐱 Nyaa](https://nyaa.si/?q=EZPJ4B3TTIQRYNPMUUBUOSGQGPHHR2OD) |
 | `Go For It Nakamura kun S01E02 Panic The Secret Bible 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/go-nakamura-kun-s01e02-panic-secret-bible-1080p.n2092932) • [🐱 Nyaa](https://nyaa.si/?q=KRZPQM3RNQBMMQXL7H7S4DC6OSLFNZLX) |
 | `Go For It Nakamura kun S01E01 Go For It Nakamura-kun-Supe...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/go-nakamura-kun-s01e01-super-exciting-cooking-class.n2092931) • [🐱 Nyaa](https://nyaa.si/?q=2GS4IY2ZW3LO2VRGSB2UFWM7DAT3BDX7) |
-| `[ToonsHub] Dorohedoro S02E03 1080p NF WEB-DL DUAL DDP5.1 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e03-1080p-nf-web-dl-dual.k10092811654413) • [🐱 Nyaa](https://nyaa.si/?q=C2J5OWT553G5LXS4L6AHQQ4J7DZSXBTD) |
-| `[ToonsHub] Dorohedoro S02E02 1080p NF WEB-DL DUAL DDP5.1 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e02-1080p-nf-web-dl-dual.k10092777601035) • [🐱 Nyaa](https://nyaa.si/?q=4BUMQZM6BZXAPP332N7SQF32LLQQAVKB) |
-| `[ToonsHub] Dorohedoro S02E01 1080p NF WEB-DL DUAL DDP5.1 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e01-1080p-nf-web-dl-dual.k10092748562700) • [🐱 Nyaa](https://nyaa.si/?q=FJHQXPHSXRCOEWHJGOLHRXWZ62P6NRUT) |
 
 ---
 <div align="center">
