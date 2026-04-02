@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.16.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.30.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -22,6 +22,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Kabaneri of the Iron Fortress (2016) - S00 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kabaneri-iron-fortress-2016-s00-bluray-1080p.k10095272144389) • [🐱 Nyaa](https://nyaa.si/?q=XC52XRNMKLN6JLJ4H2MTOPQCKGKRCUOE) |
+| `[BlackRabbit] Kabaneri of the Iron Fortress (2016) - S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kabaneri-iron-fortress-2016-s01-bluray-1080p.k10095224039425) • [🐱 Nyaa](https://nyaa.si/?q=RWWR7B45QS4SH25MTHOIAC7PRMZG3K5A) |
+| `[Gecko] Fabulous Beasts - S05E07 (有兽焉; You Shou Yan 5th S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fabulous-beasts-s05e07-shou-yan-5th-season.k10094948108290) • [🐱 Nyaa](https://nyaa.si/?q=SHB4HSMJB7OFRPSMSN4XIINQJKOMJTU3) |
 | `[LbE3L] The Darwin Incident S01 AMZN [1080p WEBRip AV1 Op...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-darwin-incident-s01-amzn-1080p-webrip-av1.k10094389989899) • [🐱 Nyaa](https://nyaa.si/?q=XRRJVJICIWO535HJKRTI43ISYOJZCF6R) |
 | `[LbE3L] [H.266] Hell’s Paradise S02E09 (Jigokuraku) [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-hells-paradise-s02e09-jigokuraku-1080p.k10094322179845) • [🐱 Nyaa](https://nyaa.si/?q=TYJHH6PE5Y2WZE7TUZNBDN5ZVQ2JNMZS) |
 | `THE iDOLM@STER MILLION LIVE!-Itsuka, Mannaka De OVA` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/idolm-ster-million-live-itsuka-mannaka-de-ova.n2092938) • [🐱 Nyaa](https://nyaa.si/?q=LUEGPLWZMLPYZ7SRRJLDF6VBTJB4YWV2) |
@@ -34,9 +37,6 @@
 | `[ToonsHub] Dorohedoro S02E03 1080p NF WEB-DL DUAL DDP5.1 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e03-1080p-nf-web-dl-dual.k10092811654413) • [🐱 Nyaa](https://nyaa.si/?q=C2J5OWT553G5LXS4L6AHQQ4J7DZSXBTD) |
 | `[ToonsHub] Dorohedoro S02E02 1080p NF WEB-DL DUAL DDP5.1 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e02-1080p-nf-web-dl-dual.k10092777601035) • [🐱 Nyaa](https://nyaa.si/?q=4BUMQZM6BZXAPP332N7SQF32LLQQAVKB) |
 | `[ToonsHub] Dorohedoro S02E01 1080p NF WEB-DL DUAL DDP5.1 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e01-1080p-nf-web-dl-dual.k10092748562700) • [🐱 Nyaa](https://nyaa.si/?q=FJHQXPHSXRCOEWHJGOLHRXWZ62P6NRUT) |
-| `[yaneura] The Great Sage Ryddel and the Hands of Time - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yaneura-great-sage-ryddel-hands-time-01-hdtv.n2092924) • [🐱 Nyaa](https://nyaa.si/?q=25YIJHRXXS7YA5CNK4GMUSAJKHVYP3F5) |
-| `[BlackRabbit] Kuroko's Basketball (2012) - S00 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kurokos-basketball-2012-s00-bluray-1080p-opus.k10092123339530) • [🐱 Nyaa](https://nyaa.si/?q=GRDPKQTJ546LK5IAGX4DWV7WZADKCBPU) |
-| `[BlackRabbit] Kuroko's Basketball (2012) - S01 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kurokos-basketball-2012-s01-bluray-1080p-opus.k10092080910601) • [🐱 Nyaa](https://nyaa.si/?q=CO4G7KOYSSDCDNMDZFDDHVMGR6ZSJCMN) |
 
 ---
 <div align="center">
