@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.54.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.15.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.n2093251) • [🐱 Nyaa](https://nyaa.si/?q=DWYFJOYJBFCXWLLNOIB6CSZIVUSSFLAK) |
+| `An Observation Log of My Fiancee Who Calls Herself a Vill...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/observation-log-my-fiancee-who-calls-herself-villainess.n2093248) • [🐱 Nyaa](https://nyaa.si/?q=NXBIMG4KLBGSRLSP3K7M3ASWQOH27YOH) |
+| `[BlackRabbit] KissXSis (2010) - S01 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kissxsis-2010-s01-bluray-1080p-opus-2.k10119687520518) • [🐱 Nyaa](https://nyaa.si/?q=KJM2RKQM3LV627W3KJSKC2FFZCGNW5CT) |
 | `[BlackRabbit] Yamada's First Time - B Gata H Kei (2010) -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamadas-first-time-b-gata-h-kei.k10118368874501) • [🐱 Nyaa](https://nyaa.si/?q=IMJCG7YVKPURA5AC6V2DWBSUVPHZ7KFO) |
 | `The Ramparts of Ice S01E01 1080p NF WEB-DL AAC2.0 AV1 (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e01-1080p-nf-web-dl-aac2.n2093214) • [🐱 Nyaa](https://nyaa.si/?q=CAM42NXI6KGC6Z5NLHNFI46YKMZJ7FUR) |
 | `[LbE3L] Oshi no Ko S03E06 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e06-1080p-webrip-av1.k10116717833739) • [🐱 Nyaa](https://nyaa.si/?q=PLSZNOIFYH3RQXAI3YD52T5CUVQGPIEU) |
@@ -40,9 +43,6 @@
 | `[BlackRabbit] Domestic Girlfriend (2019) - S01 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-domestic-girlfriend-2019-s01-bluray-1080p-opus.k10115812029956) • [🐱 Nyaa](https://nyaa.si/?q=RBMKTUBWAD6ODRSD5E3MEXDOKHITNIIX) |
 | `[Onalrie] Hitori no Shita - The Outcast - S06E14 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e14-1080p-webrip-av1-mkv.2071532) • [🐱 Nyaa](https://nyaa.si/?q=7T2ODKO65LTTLAXC4E4HDUPYFYPEDMQZ) |
 | `[BlackRabbit] Blue Spring Ride (2014) - S01 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blue-spring-ride-2014-s01-bluray-1080p.k10115478507011) • [🐱 Nyaa](https://nyaa.si/?q=ID6TVWQZ5TBO2UQXBKEVZONZXUTWAVIU) |
-| `[Commie] The Darwin Incident` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-darwin-incident.n2093199) • [🐱 Nyaa](https://nyaa.si/?q=5MWQP3PMJ2FUXIG3LFCWTACTBD3EWRL7) |
-| `[Feibanyama] Dorohedoro S02E02 [BILIBILI WebRip 2160p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dorohedoro-s02e02-bilibili-webrip-2160p-hevc-opus.n2093198) • [🐱 Nyaa](https://nyaa.si/?q=AUWE2E4XOHK7KOU6Q3OAQMGBGNXLIKWG) |
-| `[ToonsHub] Dorohedoro S02E03 1080p BILI WEB-DL AAC2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e03-1080p-bili-web-dl-aac2.n2093195) • [🐱 Nyaa](https://nyaa.si/?q=YHALJY4YBATKUHPZWIRTF2YDHRNTUAZL) |
 
 ---
 <div align="center">
