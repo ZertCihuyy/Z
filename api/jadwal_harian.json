@@ -1,5 +1,5 @@
 {
-  "last_update": "3/4/2026, 13.47.38",
+  "last_update": "3/4/2026, 15.04.27",
   "hari": "Jumat",
   "data": [
     {
@@ -1051,6 +1051,166 @@
       ]
     },
     {
+      "mal_id": 59443,
+      "url": "https://myanimelist.net/anime/59443/Reincarnation_no_Kaben",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1064/155042.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1064/155042t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1064/155042l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1064/155042.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1064/155042t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1064/155042l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/PmcTPE2SrE8?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Reincarnation no Kaben"
+        },
+        {
+          "type": "Synonym",
+          "title": "Reincarnation no Hanabira"
+        },
+        {
+          "type": "Japanese",
+          "title": "リィンカーネーションの花弁"
+        },
+        {
+          "type": "English",
+          "title": "Petals of Reincarnation"
+        }
+      ],
+      "title": "Reincarnation no Kaben",
+      "title_english": "Petals of Reincarnation",
+      "title_japanese": "リィンカーネーションの花弁",
+      "title_synonyms": [
+        "Reincarnation no Hanabira"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 3, 2026 to ?"
+      },
+      "duration": "23 min",
+      "rating": null,
+      "score": 6.6,
+      "scored_by": 811,
+      "rank": 7214,
+      "popularity": 4669,
+      "members": 29725,
+      "favorites": 63,
+      "synopsis": "There exists an object known as the \"Branch of Reincarnation\" that can grant people the talents of the past lives, so long as they slit their own throat with it.\n\nTouya Senji is a teenage boy struggling with low self-esteem after growing up in the shadow of his gifted older brother. He comes to the decision that academic studies are his last resort in the search for talent, but fails to find satisfaction despite constantly placing in the top 100 for national mock exams.\n\nIn a twist of fate, Touya encounters one of his classmates, Haito Luo Buffett, a \"Returner\" who has resurrected the talents of her past life using the Branch of Reincarnation, as she fights against a serial killer.\n\n(Source: Press Release)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "00:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 00:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 144,
+          "type": "anime",
+          "name": "Pony Canyon",
+          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+          "mal_id": 2074,
+          "type": "anime",
+          "name": "Bit grooove promotion",
+          "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 376,
+          "type": "anime",
+          "name": "Sentai Filmworks",
+          "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 3173,
+          "type": "anime",
+          "name": "BENTEN Film",
+          "url": "https://myanimelist.net/anime/producer/3173/BENTEN_Film"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 7,
+          "type": "anime",
+          "name": "Mystery",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 72,
+          "type": "anime",
+          "name": "Reincarnation",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
       "mal_id": 53876,
       "url": "https://myanimelist.net/anime/53876/Pokemon_2023",
       "images": {
@@ -1229,156 +1389,6 @@
           "type": "anime",
           "name": "Kids",
           "url": "https://myanimelist.net/anime/genre/15/Kids"
-        }
-      ]
-    },
-    {
-      "mal_id": 966,
-      "url": "https://myanimelist.net/anime/966/Crayon_Shin-chan",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/10/59897.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/10/59897t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/10/59897l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/10/59897.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/10/59897t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/10/59897l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Crayon Shin-chan"
-        },
-        {
-          "type": "Japanese",
-          "title": "クレヨンしんちゃん"
-        },
-        {
-          "type": "English",
-          "title": "Shin Chan"
-        },
-        {
-          "type": "German",
-          "title": "Shin Chan"
-        },
-        {
-          "type": "Spanish",
-          "title": "Shin Chan"
-        }
-      ],
-      "title": "Crayon Shin-chan",
-      "title_english": "Shin Chan",
-      "title_japanese": "クレヨンしんちゃん",
-      "title_synonyms": [],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "1992-04-13T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 13,
-            "month": 4,
-            "year": 1992
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 13, 1992 to ?"
-      },
-      "duration": "21 min",
-      "rating": "G - All Ages",
-      "score": 7.82,
-      "scored_by": 43810,
-      "rank": 1080,
-      "popularity": 2475,
-      "members": 93965,
-      "favorites": 1411,
-      "synopsis": "There is no such thing as an uneventful day in the life of kindergartener Shinnosuke \"Shin-chan\" Nohara. The five-year-old is a cut above the most troublesome, perverted, and shameless kid one can imagine. Shin-chan is almost always engaged in questionable activities such as forgetting about a friend during hide and seek, sumo wrestling for love, performing various gags including the notorious \"elephant\" in public, and flirting with college girls. The exemplary troublemaker has done it all and has no plans to stop anytime soon.\n\nCrayon Shin-chan follows the daily shenanigans of Shin-chan with his group of friends, parading around as the self-proclaimed \"Kasukabe Defense Force.\" The adults witnessing these shenanigans unfold can't help but adore Shin-chan, as he keeps them entertained while unintentionally solving their daily troubles through his mindless antics—leaving himself as the only problem they do not know what to do with.\n\n[Written by MAL Rewrite]",
-      "background": "The first English dubbed version was produced with many famous voice actors through 2001–2002 by Vitello Productions. In 2004, Phuuz Entertainment produced a continuation of the Vitello dub with different Los Angeles-based voice actors. The Phuuz and Vitello dub aired in the United Kingdom, Australia, and Republic of Ireland, and translations of these dubs aired in Europe and Latin America. The dubs were close to the original but had seen some censorship. The English dubbed version by Funimation was produced in 2005, featuring a Texas-based cast of voice actors, and was altered in comparison to the original—sexual references, dark humor, and references to popular American culture were added later on. Additionally, many non-existent backstories and different personalities were created. Crayon Shin-chan has also been adapted into video games, mobile games and tons of anime movies.",
-      "season": "spring",
-      "year": 1992,
-      "broadcast": {
-        "day": "Fridays",
-        "time": "19:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Fridays at 19:30 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 55,
-          "type": "anime",
-          "name": "TV Asahi",
-          "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 102,
-          "type": "anime",
-          "name": "Funimation",
-          "url": "https://myanimelist.net/anime/producer/102/Funimation"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 247,
-          "type": "anime",
-          "name": "Shin-Ei Animation",
-          "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        },
-        {
-          "mal_id": 9,
-          "type": "anime",
-          "name": "Ecchi",
-          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 23,
-          "type": "anime",
-          "name": "School",
-          "url": "https://myanimelist.net/anime/genre/23/School"
-        }
-      ],
-      "demographics": [
-        {
-          "mal_id": 42,
-          "type": "anime",
-          "name": "Seinen",
-          "url": "https://myanimelist.net/anime/genre/42/Seinen"
         }
       ]
     }

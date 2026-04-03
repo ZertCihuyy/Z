@@ -1,5 +1,5 @@
 {
-  "last_update": "3/4/2026, 13.47.38",
+  "last_update": "3/4/2026, 15.04.27",
   "data": [
     {
       "mal_id": 61469,
@@ -1020,10 +1020,10 @@
       "duration": "21 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.36,
-      "scored_by": 2075,
+      "scored_by": 2077,
       "rank": 266,
-      "popularity": 8990,
-      "members": 5860,
+      "popularity": 8993,
+      "members": 5866,
       "favorites": 155,
       "synopsis": "Fourth season of Tunshi Xingkong.",
       "background": "",
@@ -1439,24 +1439,24 @@
       "demographics": []
     },
     {
-      "mal_id": 62568,
-      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
+      "mal_id": 57779,
+      "url": "https://myanimelist.net/anime/57779/Dorohedoro_Season_2",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1603/155354.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1603/155354t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1603/155354l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1603/155354.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1603/155354t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1603/155354l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/oQSz3MaA35E?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -1469,38 +1469,28 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Dr. Stone: Science Future Part 3"
-        },
-        {
-          "type": "Synonym",
-          "title": "Dr. Stone 4th Season Part 3"
+          "title": "Dorohedoro Season 2"
         },
         {
           "type": "Japanese",
-          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
-        },
-        {
-          "type": "English",
-          "title": "Dr. Stone: Science Future Part 3"
+          "title": "ドロヘドロ Season2"
         }
       ],
-      "title": "Dr. Stone: Science Future Part 3",
-      "title_english": "Dr. Stone: Science Future Part 3",
-      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
-      "title_synonyms": [
-        "Dr. Stone 4th Season Part 3"
-      ],
-      "type": "TV",
+      "title": "Dorohedoro Season 2",
+      "title_english": null,
+      "title_japanese": "ドロヘドロ Season2",
+      "title_synonyms": [],
+      "type": "ONA",
       "source": "Manga",
       "episodes": null,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2026-04-02T00:00:00+00:00",
+        "from": "2026-04-01T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 2,
+            "day": 1,
             "month": 4,
             "year": 2026
           },
@@ -1510,65 +1500,90 @@
             "year": null
           }
         },
-        "string": "Apr 2, 2026 to ?"
+        "string": "Apr 1, 2026 to ?"
       },
-      "duration": "24 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.23,
-      "scored_by": 1646,
-      "rank": 405,
-      "popularity": 2497,
-      "members": 92936,
-      "favorites": 213,
-      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "duration": "26 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.29,
+      "scored_by": 1512,
+      "rank": 313,
+      "popularity": 3561,
+      "members": 50145,
+      "favorites": 163,
+      "synopsis": "Second season of Dorohedoro.",
       "background": "",
-      "season": "spring",
-      "year": 2026,
+      "season": null,
+      "year": null,
       "broadcast": {
-        "day": "Thursdays",
-        "time": "22:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 22:00 (JST)"
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
       },
       "producers": [
         {
-          "mal_id": 306,
+          "mal_id": 1856,
           "type": "anime",
-          "name": "Magic Capsule",
-          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+          "name": "dugout",
+          "url": "https://myanimelist.net/anime/producer/1856/dugout"
+        },
+        {
+          "mal_id": 2229,
+          "type": "anime",
+          "name": "Toho Music",
+          "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
         }
       ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 73,
+          "mal_id": 569,
           "type": "anime",
-          "name": "TMS Entertainment",
-          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+          "name": "MAPPA",
+          "url": "https://myanimelist.net/anime/producer/569/MAPPA"
         }
       ],
       "genres": [
         {
-          "mal_id": 2,
+          "mal_id": 1,
           "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
         },
         {
           "mal_id": 4,
           "type": "anime",
           "name": "Comedy",
           "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Horror",
+          "url": "https://myanimelist.net/anime/genre/14/Horror"
         }
       ],
       "explicit_genres": [],
-      "themes": [],
+      "themes": [
+        {
+          "mal_id": 58,
+          "type": "anime",
+          "name": "Gore",
+          "url": "https://myanimelist.net/anime/genre/58/Gore"
+        }
+      ],
       "demographics": [
         {
-          "mal_id": 27,
+          "mal_id": 42,
           "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
         }
       ]
     }
