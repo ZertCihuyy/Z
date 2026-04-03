@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.21.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.00.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Gauche the Cellist (1982) セロ弾きのゴーシュ [12-bit 4:2:0 Decrypt...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gauche-cellist-1982-12-bit-4-2-0.n2093434) • [🐱 Nyaa](https://nyaa.si/?q=2NI4XFEUIEIVTIUE4AR3C5KDLEVKBMA6) |
+| `[DKB] Enen no Shouboutai - S03E25 [1080p][END][HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-enen-no-shouboutai-s03e25-1080p-end-hevc.n2093433) • [🐱 Nyaa](https://nyaa.si/?q=H6TZBV4KAHIVPGVIFMWUGU6KMEPIEHLG) |
 | `[ToonsHub] Golden Kamuy S05E11 1080p AMZN WEB-DL DDP2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e11-1080p-amzn-web-dl.k10125842017541) • [🐱 Nyaa](https://nyaa.si/?q=SEKTE5XU5PAI6OQK6R335OFQ2WAFWDCR) |
 | `Chiisana Viking Vickie TV 01,19,20 [ARR]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chiisana-viking-vickie-tv-01-19-20-arr.2071661) • [🐱 Nyaa](https://nyaa.si/?q=X4EEDS63N4LSUMSPFSM4S2V5EKUTE26P) |
 | `[Judas] Enen no Shouboutai (Fire Force) - S03E25 [1080p][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-s03e25-1080p.n2093428) • [🐱 Nyaa](https://nyaa.si/?q=2U5THQASH2TSR5KGFGMJA66H5YDF6JZT) |
@@ -38,8 +40,6 @@
 | `[Onalrie] Enen no Shouboutai - S03E25 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-enen-no-shouboutai-s03e25-1080p-webrip-av1-mkv.2071657) • [🐱 Nyaa](https://nyaa.si/?q=UK44NGYFTTW6WNZIDSTXZGDH3NUWZJYX) |
 | `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.n2093420) • [🐱 Nyaa](https://nyaa.si/?q=O5NKPKSPKSKHQGUNT2BPYTMP47U7L2C7) |
 | `[ASW] Enen no Shouboutai S3 - 25 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-enen-no-shouboutai-s3-25-1080p-hevc.n2093418) • [🐱 Nyaa](https://nyaa.si/?q=GOT2FSHK47MQ2KCC3OI326BTCKKGBFJG) |
-| `[Yameii] Fire Force - S03E25 [English Dub] [CR WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-fire-force-s03e25-english-dub-cr-web.n2093416) • [🐱 Nyaa](https://nyaa.si/?q=BM3P4IEYZAYP52PDLYZQH3OBPEW3VN7G) |
-| `[Yameii] Fire Force - S03E25 [English Dub] [CR WEB-DL 720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-fire-force-s03e25-english-dub-cr-web.n2093415) • [🐱 Nyaa](https://nyaa.si/?q=OYBZNUTLOZC6GVAURWGJ4LAUWYZO7DQR) |
 
 ---
 <div align="center">
