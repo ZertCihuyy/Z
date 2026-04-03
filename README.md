@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.04.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.53.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -24,6 +24,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Tasokare] Cleopatra D.C. S01 (BD 1080p Opus AV1)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-cleopatra-d-c-s01-bd-1080p-opus-av1.k10129123481862) • [🐱 Nyaa](https://nyaa.si/?q=K46BAFR27M2EO5KPQQIZWOAYJ2WWWZA6) |
+| `[Kawatare] Cleopatra D.C. S01 (BD 1080p FLAC x265)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-cleopatra-d-c-s01-bd-1080p-flac-x265.k10129095180545) • [🐱 Nyaa](https://nyaa.si/?q=QCH355U5FSJBHQST2FVBPWIJ53AL5L3J) |
 | `[Beltraz] Date A Live (2013) - S01 - Specials (Director's...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-date-live-2013-s01-specials-directors-cut.k10128176197642) • [🐱 Nyaa](https://nyaa.si/?q=A3P3SUCP4VGTGDNB3DGSVBJVG6Z7BTMZ) |
 | `Golgo 13 [DVD (R1), 480p, h264, AAC, Dual-Audio, VobSubs]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/golgo-13-dvd-r1-480p-h264-aac-dual-audio-vobsubs.n2093463) • [🐱 Nyaa](https://nyaa.si/?q=PIQVHI2CAL5CKEKDQAXOWWOEOHSPQK3W) |
 | `[Gecko] Chibi Godzilla Raids Again - S01E94 (ちびゴジラの逆襲; Ch...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e94-no-gyakushuu.k10126734474499) • [🐱 Nyaa](https://nyaa.si/?q=TXY7EP332LYXIPHDXX6UHYFNBMNGWVZ4) |
@@ -37,8 +39,6 @@
 | `[ToonsHub] Golden Kamuy S05E11 1080p AMZN WEB-DL DDP2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e11-1080p-amzn-web-dl.k10125842017541) • [🐱 Nyaa](https://nyaa.si/?q=SEKTE5XU5PAI6OQK6R335OFQ2WAFWDCR) |
 | `Chiisana Viking Vickie TV 01,19,20 [ARR]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chiisana-viking-vickie-tv-01-19-20-arr.2071661) • [🐱 Nyaa](https://nyaa.si/?q=X4EEDS63N4LSUMSPFSM4S2V5EKUTE26P) |
 | `[Judas] Enen no Shouboutai (Fire Force) - S03E25 [1080p][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-s03e25-1080p.n2093428) • [🐱 Nyaa](https://nyaa.si/?q=2U5THQASH2TSR5KGFGMJA66H5YDF6JZT) |
-| `[Ironclad] That Time I Got Reincarnated as a Slime - S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-time-got-reincarnated-slime-s04e01-web-1080p.k10125515275019) • [🐱 Nyaa](https://nyaa.si/?q=PJ3RGCYGL5W4THHB4M7FT27L24BPH7MV) |
-| `[Yameii] SNOWBALL EARTH - S01E01 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e01-english-dub-cr-web.n2093426) • [🐱 Nyaa](https://nyaa.si/?q=HNUD6U7GPE5HLTWFGLKHO4M2W3K4SFZY) |
 
 ---
 <div align="center">
