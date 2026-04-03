@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.55.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.51.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[TearSmith] Frieren Beyond Journeys End 2023 S02E09 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tearsmith-frieren-beyond-journeys-end-2023-s02e09-1080p.k10122615486725) • [🐱 Nyaa](https://nyaa.si/?q=JUUCCKWMEJ4STQ3CAMJCYVNUAQHVYNJL) |
-| `Snowball Earth S01E01 The Savior Who Could Not Bring Salv...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e01-savior-who-could-not-bring.n2093365) • [🐱 Nyaa](https://nyaa.si/?q=GJE3GXYNY636VEOPOBPYG77TDFI6QVAN) |
-| `[ToonsHub] SNOWBALL EARTH S01E01 1080p CR WEB-DL DUAL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-snowball-earth-s01e01-1080p-cr-web-dl.k10122485133313) • [🐱 Nyaa](https://nyaa.si/?q=QC3QPMIGTTHRPZZXH7GOQEMUYTIGJKSM) |
-| `SNOWBALL EARTH S01E01 THE SAVIOR WHO COULD NOT BRING SALV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e01-savior-who-could-not-bring.n2093362) • [🐱 Nyaa](https://nyaa.si/?q=5NZVFW35NWI36UNUIJVHWYKQ5FSLCBUA) |
-| `[Yameii] SNOWBALL EARTH - S01E01 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e01-english-dub-cr-web.n2093361) • [🐱 Nyaa](https://nyaa.si/?q=DX7F7ZEOM6BZ4VP47QL2JXV5VN7L3DAZ) |
-| `[SubsPlease] Snowball Earth - 01 (1080p) [9D9820B2].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-snowball-earth-01-1080p-9d9820b2-mkv.n2093359) • [🐱 Nyaa](https://nyaa.si/?q=5URHGHMS6PMVSY6DMXTWBDMGX4OUQQWP) |
-| `[SubsPlease] Snowball Earth - 01 (720p) [ABE84300].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-snowball-earth-01-720p-abe84300-mkv.n2093358) • [🐱 Nyaa](https://nyaa.si/?q=WSM5XZMEAUPWXP7NLB4A452MVVRZQ7YV) |
-| `[Yameii] SNOWBALL EARTH - S01E01 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e01-english-dub-cr-web.n2093357) • [🐱 Nyaa](https://nyaa.si/?q=7H35JOM4EPQC2V7JW3O7ZGBY53USLI5O) |
-| `[SubsPlease] Snowball Earth - 01 (480p) [34F8F9BE].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-snowball-earth-01-480p-34f8f9be-mkv.n2093356) • [🐱 Nyaa](https://nyaa.si/?q=UZBVDGTUAFSJQ54CNZRSBHDSFQKCRZJN) |
-| `[Erai-raws] Snowball Earth - 01 [480p CR WEB-DL AVC AAC][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-01-480p-cr-web.n2093355) • [🐱 Nyaa](https://nyaa.si/?q=C7CB4EX2ABHBYS4ONIL7FEWFTJ4ZO6I4) |
-| `[Erai-raws] Snowball Earth - 01 [720p CR WEB-DL AVC AAC][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-01-720p-cr-web.n2093354) • [🐱 Nyaa](https://nyaa.si/?q=C2AZAOIZPCSCWWH6QTLQHG4BJYG2KXHU) |
-| `[Erai-raws] Snowball Earth - 01 [1080p CR WEB-DL AVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-01-1080p-cr-web.n2093353) • [🐱 Nyaa](https://nyaa.si/?q=YRJREHTZ23EKGTP2MR4246QW34SU2D76) |
-| `[Onalrie] Otonari no Tenshi-sama ni Itsunomanika Dame Nin...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-otonari-no-tenshi-sama-ni-itsunomanika-dame.2071613) • [🐱 Nyaa](https://nyaa.si/?q=PFYSGYJO2HBGAIT2TNRLHGYOKHE2Z4WH) |
-| `[ASW] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2093350) • [🐱 Nyaa](https://nyaa.si/?q=HUMCQKM7NSCHCXEFIVX5ZPNXWU3B57QS) |
-| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 01 (1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-slime-datta-ken-s4-01.n2093349) • [🐱 Nyaa](https://nyaa.si/?q=FB2KB62FGC5LSEIU6AEX2TFJC2T6BH3H) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2093389) • [🐱 Nyaa](https://nyaa.si/?q=2Z4E2MJOFUGHT3KTJRG2MIIH2VBSYD5X) |
+| `[Erai-raws] Dr. Stone: Science Future Part 3 - 01 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dr-stone-science-future-part-3.n2093388) • [🐱 Nyaa](https://nyaa.si/?q=EBJ5UCKNGWWL62WED4EAKQUU55Y3PNEW) |
+| `[Onalrie] Snowball Earth - S01E01 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-snowball-earth-s01e01-1080p-webrip-av1-mkv.2071628) • [🐱 Nyaa](https://nyaa.si/?q=FY3JJXJAC3QKD2A3Y45BKWMA4QKBWBLZ) |
+| `[Erai-raws] Koori no Jouheki - 01 [1080p NF WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-koori-no-jouheki-01-1080p-nf.n2093387) • [🐱 Nyaa](https://nyaa.si/?q=RXC7AQGF24HGSNYSL5E6BCES7QIULOYH) |
+| `[ToonsHub] SNOWBALL EARTH S01E01 1080p CR WEB-DL MULTi AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-snowball-earth-s01e01-1080p-cr-web-dl.k10123423069955) • [🐱 Nyaa](https://nyaa.si/?q=46IY22V22OJAUVRXZVKWI6ZMPY3NFHDX) |
+| `[ASW] Snowball Earth - 01 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-snowball-earth-01-1080p-hevc-x265-10bit-aac.n2093385) • [🐱 Nyaa](https://nyaa.si/?q=7EHN2WDUYDELTEBIR4BTHTZ3A4V7AF54) |
+| `[Soldado-Subs] Soar High! Isami (Tobe! Isami) (S01E05) (A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/soldado-subs-soar-high-isami-tobe-s01e05-amzn.k10123235810569) • [🐱 Nyaa](https://nyaa.si/?q=53VF2G6O3YC4DLUL2NG3T63CYSERFATF) |
+| `[SavI0r-Pro] Make a Girl (2025) [BD][1080p][AV1][OPUS]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-pro-make-girl-2025-bd-1080p-av1-opus.n2093383) • [🐱 Nyaa](https://nyaa.si/?q=WQMUXWB3MPGE5BREKSMTPNMGW2OBTUPC) |
+| `[SavI0r] Make a Girl (2025) [BD][1080p][AV1][OPUS]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-make-girl-2025-bd-1080p-av1-opus.n2093381) • [🐱 Nyaa](https://nyaa.si/?q=P2BMWDKIHV4NNJSSPDZIGZRLUBBTLQCO) |
+| `[SavI0r] Harmony (2015) [BD][1080p][AV1][OPUS][Multi Dual...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-harmony-2015-bd-1080p-av1-opus-multi.n2093380) • [🐱 Nyaa](https://nyaa.si/?q=N5SJWC7BBQDWCKUOCWTY47JK63OXDQ5O) |
+| `[SavI0r] Isekai Nonbiri Nouka (Farming Life in Another Wo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-isekai-nonbiri-nouka-farming-life-another-world.n2093379) • [🐱 Nyaa](https://nyaa.si/?q=OY3SR3OLTZKTSZXVPG7GWBZH7EDJWRUS) |
+| `[SavI0r] Potion-danomi de Ikinobimasu! (I Shall Survive U...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-potion-danomi-de-ikinobimasu-shall-survive-using.n2093378) • [🐱 Nyaa](https://nyaa.si/?q=P3SRSWOW6NM3BRNNLHDACS3WINQPFGGA) |
+| `[SavI0r] Hentai Ouji to Warawanai Neko. (The Hentai Princ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-hentai-ouji-warawanai-neko-prince-stony-cat.n2093377) • [🐱 Nyaa](https://nyaa.si/?q=S6DD4UY62E6HRCYWLMYAPRAN2DDCMWV5) |
+| `[ASW] Tensei Shitara Slime Datta Ken S4 - 01 [1080p HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tensei-shitara-slime-datta-ken-s4-01.n2093376) • [🐱 Nyaa](https://nyaa.si/?q=YKUIWGC33GSOAOT5FZ3RU6H2BOG2C366) |
+| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E01 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tensei-shitara-slime-datta-ken-s04e01-1080p.2071623) • [🐱 Nyaa](https://nyaa.si/?q=A43JUAQURVYOJRZEWI6CHWBJC2QMN3LB) |
 
 ---
 <div align="center">
