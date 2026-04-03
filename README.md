@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.15.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.23.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2093271) • [🐱 Nyaa](https://nyaa.si/?q=YJ2A3NL62BULO5HOYUVNOM6UQE3ZMY6G) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2093270) • [🐱 Nyaa](https://nyaa.si/?q=DWWIQF2IZYLPHDULLM6BDSPYMM5S4NTD) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2093269) • [🐱 Nyaa](https://nyaa.si/?q=BS2HWBQ3J7UL5WXYMTOUERRKHG2Z5Y5Y) |
+| `[FSP DN] Jian Lai 2 (Sword of Coming 2) - 17 [4K] | 剑来` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-jian-lai-2-sword-coming-2-17-4k.n2093268) • [🐱 Nyaa](https://nyaa.si/?q=4IXZ4PONODZL2Y6PHDJNNAGT5PDU5PMW) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2093258) • [🐱 Nyaa](https://nyaa.si/?q=DONDHJYKGES6SRDKLECP24QPP4AT4QC2) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2093256) • [🐱 Nyaa](https://nyaa.si/?q=F7U6KZEIDWMYJEK66XJK5F22HXNNQBPY) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2093257) • [🐱 Nyaa](https://nyaa.si/?q=VQXXSKCD2TJAL6HR2WXB7QNFXAEHOGJS) |
 | `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.n2093251) • [🐱 Nyaa](https://nyaa.si/?q=DWYFJOYJBFCXWLLNOIB6CSZIVUSSFLAK) |
 | `An Observation Log of My Fiancee Who Calls Herself a Vill...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/observation-log-my-fiancee-who-calls-herself-villainess.n2093248) • [🐱 Nyaa](https://nyaa.si/?q=NXBIMG4KLBGSRLSP3K7M3ASWQOH27YOH) |
 | `[BlackRabbit] KissXSis (2010) - S01 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kissxsis-2010-s01-bluray-1080p-opus-2.k10119687520518) • [🐱 Nyaa](https://nyaa.si/?q=KJM2RKQM3LV627W3KJSKC2FFZCGNW5CT) |
@@ -36,13 +43,6 @@
 | `[LbE3L] Oshi no Ko S03E06 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e06-1080p-webrip-av1.k10116717833739) • [🐱 Nyaa](https://nyaa.si/?q=PLSZNOIFYH3RQXAI3YD52T5CUVQGPIEU) |
 | `[Feibanyama] Dorohedoro S02E03 [BILIBILI WebRip 2160p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dorohedoro-s02e03-bilibili-webrip-2160p-hevc-opus.n2093208) • [🐱 Nyaa](https://nyaa.si/?q=F6XZBKLDQ3U5ZVQUDTV2LWHF7QWX6NSO) |
 | `[Rododendron] Nanatsu no Umi no Tico (WEB 720p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rododendron-nanatsu-no-umi-no-tico-web-720p.n2093206) • [🐱 Nyaa](https://nyaa.si/?q=ESRTPDOYMHFIUGMBUFB5MHHIQEIK7DID) |
-| `[LbE3L] SHIBOYUGI: Playing Death Games to Put Food on the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-shiboyugi-playing-death-games-put-food-table.k10116384586502) • [🐱 Nyaa](https://nyaa.si/?q=V72XNUWEVPG5UC4Q447PY72CDPWTSTLO) |
-| `[BlackRabbit] The Demon Girl Next Door (2019) - S02 [Blur...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-girl-next-door-2019-s02-bluray.k10116246705161) • [🐱 Nyaa](https://nyaa.si/?q=X2XUB26W3WVFUAWQZ3BNRVCRS3MWIEO7) |
-| `[BlackRabbit] The Demon Girl Next Door (2019) - S01 [Blur...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-girl-next-door-2019-s01-bluray.k10116182026757) • [🐱 Nyaa](https://nyaa.si/?q=J2AXKFXY6MHAQ7N4ZAKYQXUE3YT2P3EY) |
-| `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mata-korosarete-shimatta-no-desu-ne-tantei.2071536) • [🐱 Nyaa](https://nyaa.si/?q=ZM2TBGJJURDEFPRLHHJEGDV5BTGWCWXY) |
-| `[BlackRabbit] Domestic Girlfriend (2019) - S01 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-domestic-girlfriend-2019-s01-bluray-1080p-opus.k10115812029956) • [🐱 Nyaa](https://nyaa.si/?q=RBMKTUBWAD6ODRSD5E3MEXDOKHITNIIX) |
-| `[Onalrie] Hitori no Shita - The Outcast - S06E14 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e14-1080p-webrip-av1-mkv.2071532) • [🐱 Nyaa](https://nyaa.si/?q=7T2ODKO65LTTLAXC4E4HDUPYFYPEDMQZ) |
-| `[BlackRabbit] Blue Spring Ride (2014) - S01 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blue-spring-ride-2014-s01-bluray-1080p.k10115478507011) • [🐱 Nyaa](https://nyaa.si/?q=ID6TVWQZ5TBO2UQXBKEVZONZXUTWAVIU) |
 
 ---
 <div align="center">
