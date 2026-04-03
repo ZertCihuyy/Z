@@ -1,5 +1,5 @@
 {
-  "last_update": "3/4/2026, 07.00.13",
+  "last_update": "3/4/2026, 10.28.28",
   "data": [
     {
       "mal_id": 61469,
@@ -88,11 +88,11 @@
       "duration": "47 min",
       "rating": "R - 17+ (violence & profanity)",
       "score": 9.18,
-      "scored_by": 79480,
+      "scored_by": 80075,
       "rank": 2,
-      "popularity": 1529,
-      "members": 178893,
-      "favorites": 5852,
+      "popularity": 1522,
+      "members": 179974,
+      "favorites": 5890,
       "synopsis": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\n\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\n\n[Written by MAL Rewrite]",
       "background": "",
       "season": null,
@@ -1439,24 +1439,24 @@
       "demographics": []
     },
     {
-      "mal_id": 47794,
-      "url": "https://myanimelist.net/anime/47794/MILGЯAM",
+      "mal_id": 62568,
+      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1497/112023.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1497/112023t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1497/112023l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1497/112023.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1497/112023t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1497/112023l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/RcqXCnAhQlI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -1469,40 +1469,40 @@
       "titles": [
         {
           "type": "Default",
-          "title": "MILGЯAM"
+          "title": "Dr. Stone: Science Future Part 3"
         },
         {
           "type": "Synonym",
-          "title": "MILGRAM"
+          "title": "Dr. Stone 4th Season Part 3"
         },
         {
           "type": "Japanese",
-          "title": "ミルグラム"
+          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
         },
         {
           "type": "English",
-          "title": "MILGRAM"
+          "title": "Dr. Stone: Science Future Part 3"
         }
       ],
-      "title": "MILGЯAM",
-      "title_english": "MILGRAM",
-      "title_japanese": "ミルグラム",
+      "title": "Dr. Stone: Science Future Part 3",
+      "title_english": "Dr. Stone: Science Future Part 3",
+      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
       "title_synonyms": [
-        "MILGRAM"
+        "Dr. Stone 4th Season Part 3"
       ],
-      "type": "Music",
-      "source": "Other",
+      "type": "TV",
+      "source": "Manga",
       "episodes": null,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2020-05-01T00:00:00+00:00",
+        "from": "2026-04-02T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 1,
-            "month": 5,
-            "year": 2020
+            "day": 2,
+            "month": 4,
+            "year": 2026
           },
           "to": {
             "day": null,
@@ -1510,60 +1510,67 @@
             "year": null
           }
         },
-        "string": "May 1, 2020 to ?"
+        "string": "Apr 2, 2026 to ?"
       },
-      "duration": "4 min",
+      "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.21,
-      "scored_by": 2117,
-      "rank": null,
-      "popularity": 6463,
-      "members": 13107,
-      "favorites": 262,
-      "synopsis": "Es awakens in the facility Milgram to find a strange talking animal named Jackalope staring them down. Soon, they learn their purpose: as the prison guard, Es must delve into the psyches of 10 inmates, each of them imprisoned for causing the loss of life in some form or another. Their fates rest in Es' hands. Do the means justify an end, and how much does intent matter if the result is death? No matter how the lines between good and evil, right and wrong, and just and cruel are blurred, there are only two options Es can choose between: innocent or guilty.\n\n[Written by MAL Rewrite]",
-      "background": "MILGЯAM is an interactive collaborative multimedia music project between DECO*27 and Takuya Yamanaka.",
-      "season": null,
-      "year": null,
+      "score": 8.23,
+      "scored_by": 1646,
+      "rank": 405,
+      "popularity": 2497,
+      "members": 92936,
+      "favorites": 213,
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
       "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
+        "day": "Thursdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:00 (JST)"
       },
-      "producers": [],
+      "producers": [
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        }
+      ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 2561,
+          "mal_id": 73,
           "type": "anime",
-          "name": "OTOIRO",
-          "url": "https://myanimelist.net/anime/producer/2561/OTOIRO"
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
         }
       ],
       "genres": [
         {
-          "mal_id": 41,
+          "mal_id": 2,
           "type": "anime",
-          "name": "Suspense",
-          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
         }
       ],
       "explicit_genres": [],
-      "themes": [
+      "themes": [],
+      "demographics": [
         {
-          "mal_id": 19,
+          "mal_id": 27,
           "type": "anime",
-          "name": "Music",
-          "url": "https://myanimelist.net/anime/genre/19/Music"
-        },
-        {
-          "mal_id": 40,
-          "type": "anime",
-          "name": "Psychological",
-          "url": "https://myanimelist.net/anime/genre/40/Psychological"
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
         }
-      ],
-      "demographics": []
+      ]
     }
   ]
 }

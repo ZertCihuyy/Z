@@ -1,5 +1,5 @@
 {
-  "last_update": "3/4/2026, 07.00.13",
+  "last_update": "3/4/2026, 10.28.28",
   "data": [
     {
       "mal_id": 61316,
@@ -594,9 +594,9 @@
       "score": null,
       "scored_by": null,
       "rank": null,
-      "popularity": 2198,
-      "members": 111960,
-      "favorites": 684,
+      "popularity": 2175,
+      "members": 113947,
+      "favorites": 690,
       "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
       "background": "Episode 2 was streamed in advance on April 4, 2026 on Crunchyroll. Each episode was streamed seven days in advance of the TV broadcast starting on April 11, 2026.",
       "season": "spring",
@@ -734,9 +734,9 @@
       "score": null,
       "scored_by": null,
       "rank": null,
-      "popularity": 2397,
-      "members": 98498,
-      "favorites": 1504,
+      "popularity": 2387,
+      "members": 99563,
+      "favorites": 1522,
       "synopsis": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
       "background": "",
       "season": "spring",
@@ -831,8 +831,8 @@
       "type": "TV",
       "source": "Manga",
       "episodes": null,
-      "status": "Not yet aired",
-      "airing": false,
+      "status": "Currently Airing",
+      "airing": true,
       "aired": {
         "from": "2026-04-02T00:00:00+00:00",
         "to": null,
@@ -850,14 +850,14 @@
         },
         "string": "Apr 2, 2026 to ?"
       },
-      "duration": "Unknown",
+      "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": null,
-      "scored_by": null,
-      "rank": null,
-      "popularity": 2561,
-      "members": 88900,
-      "favorites": 195,
+      "score": 8.23,
+      "scored_by": 1646,
+      "rank": 405,
+      "popularity": 2497,
+      "members": 92936,
+      "favorites": 213,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
@@ -868,7 +868,14 @@
         "timezone": "Asia/Tokyo",
         "string": "Thursdays at 22:00 (JST)"
       },
-      "producers": [],
+      "producers": [
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        }
+      ],
       "licensors": [],
       "studios": [
         {
@@ -958,8 +965,8 @@
       "type": "TV",
       "source": "Manga",
       "episodes": null,
-      "status": "Not yet aired",
-      "airing": false,
+      "status": "Currently Airing",
+      "airing": true,
       "aired": {
         "from": "2026-04-02T00:00:00+00:00",
         "to": null,
@@ -977,14 +984,14 @@
         },
         "string": "Apr 2, 2026 to ?"
       },
-      "duration": "Unknown",
+      "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": null,
-      "scored_by": null,
-      "rank": null,
-      "popularity": 2561,
-      "members": 88900,
-      "favorites": 195,
+      "score": 8.23,
+      "scored_by": 1646,
+      "rank": 405,
+      "popularity": 2497,
+      "members": 92936,
+      "favorites": 213,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
@@ -995,7 +1002,14 @@
         "timezone": "Asia/Tokyo",
         "string": "Thursdays at 22:00 (JST)"
       },
-      "producers": [],
+      "producers": [
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        }
+      ],
       "licensors": [],
       "studios": [
         {
@@ -1109,9 +1123,9 @@
       "score": null,
       "scored_by": null,
       "rank": null,
-      "popularity": 2571,
-      "members": 88198,
-      "favorites": 325,
+      "popularity": 2554,
+      "members": 89306,
+      "favorites": 334,
       "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
       "background": "",
       "season": "spring",
@@ -1256,9 +1270,9 @@
       "score": null,
       "scored_by": null,
       "rank": null,
-      "popularity": 3334,
-      "members": 56582,
-      "favorites": 158,
+      "popularity": 3287,
+      "members": 58066,
+      "favorites": 163,
       "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.\n\nOn an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.\n\nBefore the woman can capture him, Yuru is rescued by a man named Dera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.\n\n[Written by MAL Rewrite]",
       "background": "",
       "season": "spring",

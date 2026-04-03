@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.00.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.28.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[BlackRabbit] Kuroko's Basketball (2012) - S03 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kurokos-basketball-2012-s03-bluray-1080p-opus.k10106833306380) • [🐱 Nyaa](https://nyaa.si/?q=IXTPFFTBWMCITMJNGIM7H2OSLC42CYG5) |
-| `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-haibara-kun-no-tsuyokute-seishun-new-game.n2093129) • [🐱 Nyaa](https://nyaa.si/?q=MKWBN6M67N72CV7VUEEIQ7LK2TDTZUVM) |
-| `[SubsPlus+] Petals of Reincarnation - S01E01 (AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-petals-reincarnation-s01e01-amzn-web-dl-1080p.n2093127) • [🐱 Nyaa](https://nyaa.si/?q=NP36EBNZEJGFBERK7U2ZK2CVK4AGWF6K) |
-| `[SubsPlus+] Kirio Fan Club - S01E01 (ABEMA WEB-DL 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-kirio-fan-club-s01e01-abema-web-dl.n2093126) • [🐱 Nyaa](https://nyaa.si/?q=2L2POJ4MUZJERY5K6OD33B4AFNKPM7G7) |
-| `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mata-korosarete-shimatta-no-desu-ne-tantei.n2093125) • [🐱 Nyaa](https://nyaa.si/?q=MUEEAXT6KAIRPTLMXDM6Z2TKLGYLF5CV) |
-| `[DKB] Koori no Jouheki - S01E01 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e01-1080p-hevc-x265.n2093124) • [🐱 Nyaa](https://nyaa.si/?q=PP6UBXFAWJRL6UC2YCPBLJ6IHNSY2TWK) |
-| `[ToonsHub] The Ramparts of Ice S01E01 REPACK 1080p NF WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ramparts-ice-s01e01-repack-1080p-nf-web.n2093120) • [🐱 Nyaa](https://nyaa.si/?q=O62VXIWOEMEH2OC7HBF6WEPSA2IA54WV) |
-| `[Anime Time] Jujutsu Kaisen - S03E11 [1080p][HEVC 10bit x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-jujutsu-kaisen-s03e11-1080p-hevc-10bit.n2093119) • [🐱 Nyaa](https://nyaa.si/?q=PBZVGK6A76MVZX2M76YWFKBT6PJ67IC5) |
-| `Kirio Fan Club S01E01 Dear Kirio-kun 1080p ABMA WEB-DL DD...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kirio-fan-club-s01e01-dear-kun-1080p-abma.n2093118) • [🐱 Nyaa](https://nyaa.si/?q=GPY4TOYXOONLCY5ZPSF52ZAHWG4YHDQW) |
-| `[Judas] Reincarnation no Kaben (Petals of Reincarnation) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-reincarnation-no-kaben-petals-s01e01-1080p-hevc.n2093117) • [🐱 Nyaa](https://nyaa.si/?q=IRWC6PKAOX2VIVSCNC4K6F7I3WGJY27U) |
-| `Monster Eater S01E01 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e01-1080p-amzn-web-dl-ddp2.n2093116) • [🐱 Nyaa](https://nyaa.si/?q=W2RICQVLVSTG45UXNO4LUF4WJAHRUC57) |
-| `Petals of Reincarnation S01E01 Those Who Shed Petals 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/petals-reincarnation-s01e01-those-who-shed-1080p-amzn.n2093115) • [🐱 Nyaa](https://nyaa.si/?q=CRTIPVHWLWG7TMWQ4RSPEYGB7UTFXFFG) |
-| `[Judas] Niwatori Fighter (Rooster Fighter) - S01E03 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e03-1080p-hevc-x265.n2093114) • [🐱 Nyaa](https://nyaa.si/?q=CGQOZ5HVV6MOFLOBTYET6Q33HKEBRLBM) |
-| `[Judas] Niwatori Fighter (Rooster Fighter) - S01E02 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e02-1080p-hevc-x265.n2093113) • [🐱 Nyaa](https://nyaa.si/?q=7RGKB6IU3H6K4KV25ZMFRFWYWHX2RRDE) |
-| `[Judas] Niwatori Fighter (Rooster Fighter) - S01E01 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e01-1080p-hevc-x265.n2093112) • [🐱 Nyaa](https://nyaa.si/?q=PMERX6HFHKEIJ3HUPAN5UZ5PFPZ3SMKT) |
+| `[Ani-Kraze] Tsubasa Chronicle` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ani-kraze-tsubasa-chronicle.n2093176) • [🐱 Nyaa](https://nyaa.si/?q=CMNFYZARTPHARC4MTLT2OEKLAGQVUOGH) |
+| `[ASW] Hitori no Shita - The Outcast S6 - 14 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-14-1080p.n2093172) • [🐱 Nyaa](https://nyaa.si/?q=XLD2IEYK6SQQH4BIKSOHJEWQVGTJND6Q) |
+| `Arknights.S03.Bluray.1080p.AV1.Opus-Pi13` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/arknights-s03-bluray-1080p-av1-opus-pi13.n2093171) • [🐱 Nyaa](https://nyaa.si/?q=IOEQZEQSZJQEJDSDUWWPL55RO4KCUZOJ) |
+| `[Sokudo] Knight's and Magic v2 [1080p BD AV1][Dual Audio]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-knights-magic-v2-1080p-bd-av1-dual-audio.n2093168) • [🐱 Nyaa](https://nyaa.si/?q=ELO6TJ3NREB4BCSZYLSPI5KMB4RVSSEM) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 14 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-14-1080p-77b3356a-mkv.n2093167) • [🐱 Nyaa](https://nyaa.si/?q=52MPFNBL7X7E5VBRQOYDOCC5B4LWFTIY) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 14 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-14-720p-8d76bdd2-mkv.n2093166) • [🐱 Nyaa](https://nyaa.si/?q=5CUY4BDJZGJFLYWTVP6QLS22VKVCLL6T) |
+| `[Gecko] Hitori No Shita - The Outcast - S06E15 (一人之下; Yi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e15-yi-ren.k10110004238090) • [🐱 Nyaa](https://nyaa.si/?q=2PJAXCTK3DUDEJX4EJHJ4NJV6BEAI3HN) |
+| `[ToonsHub] Hitori No Shita The Outcast S06E14 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e14-1080p-cr.k10109989574658) • [🐱 Nyaa](https://nyaa.si/?q=K4HVQ6WDXQ2T3QIAWNNGJ3EIQBQ42DVL) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 14 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2093160) • [🐱 Nyaa](https://nyaa.si/?q=TOIX646WCOFTCTDHCO7K56KIXQ5464GB) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 14 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2093159) • [🐱 Nyaa](https://nyaa.si/?q=RNJETMVZWZ7DJ6YPOLXJ24OIHXP4EDTE) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 14 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2093158) • [🐱 Nyaa](https://nyaa.si/?q=JEVEVHJ4IAXK45WYETQQ2VGCW6LVJD7E) |
+| `[ToonsHub] Hitori No Shita The Outcast S06E15 1080p WeTV ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e15-1080p-wetv.n2093157) • [🐱 Nyaa](https://nyaa.si/?q=GCOA6ELKDQHY5TIFCPLCFD7FUIUMIRPG) |
+| `mono.S01.REPACK.1080p.BluRay.Remux.AVC.Dual-Audio.FLAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mono-s01-repack-1080p-bluray-remux-avc-dual.k10109831209729) • [🐱 Nyaa](https://nyaa.si/?q=UVRXWDQ6EIZC75W2RMI35FYONXIA6UV5) |
+| `[Gecko] Dog's Tea - S01 (犬之茗; Quan Zhi Ming; The Dog's Te...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-dogs-tea-s01-quan-zhi-ming-cats.n2093155) • [🐱 Nyaa](https://nyaa.si/?q=SLYAQAAEALTHKQJD6LTANKHZASVKBBXP) |
+| `[Gecko] Cat's Tea - S02 (猫之茗; Mao Zhi Ming 2nd Season) [Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cats-tea-s02-mao-zhi-ming-2nd.n2093150) • [🐱 Nyaa](https://nyaa.si/?q=UEL7SJMQZOCGRWXBZIKTHH425ZPNG6AL) |
 
 ---
 <div align="center">
