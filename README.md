@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.39.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.24.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,7 +25,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] Fire Force S03E25 Heros Tale 1080p CR WEB-DL DUAL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-fire-force-s03e25-heros-tale-1080p-cr.k10124310382596) • [🐱 Nyaa](https://nyaa.si/?q=UOB5HRCEFT4FPYVNCF3RZ6MPNVN74HDD) |
+| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.n2093420) • [🐱 Nyaa](https://nyaa.si/?q=O5NKPKSPKSKHQGUNT2BPYTMP47U7L2C7) |
+| `[ASW] Enen no Shouboutai S3 - 25 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-enen-no-shouboutai-s3-25-1080p-hevc.n2093418) • [🐱 Nyaa](https://nyaa.si/?q=GOT2FSHK47MQ2KCC3OI326BTCKKGBFJG) |
+| `[Yameii] Fire Force - S03E25 [English Dub] [CR WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-fire-force-s03e25-english-dub-cr-web.n2093416) • [🐱 Nyaa](https://nyaa.si/?q=BM3P4IEYZAYP52PDLYZQH3OBPEW3VN7G) |
+| `[Yameii] Fire Force - S03E25 [English Dub] [CR WEB-DL 720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-fire-force-s03e25-english-dub-cr-web.n2093415) • [🐱 Nyaa](https://nyaa.si/?q=OYBZNUTLOZC6GVAURWGJ4LAUWYZO7DQR) |
+| `Fire Force S03E25 Heros Tale 1080p CR WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fire-force-s03e25-heros-tale-1080p-cr-web.n2093413) • [🐱 Nyaa](https://nyaa.si/?q=UOB5HRCEFT4FPYVNCF3RZ6MPNVN74HDD) |
 | `[ToonsHub] Fire Force S03E25 1080p CR WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fire-force-s03e25-1080p-cr-web-dl.k10124281248519) • [🐱 Nyaa](https://nyaa.si/?q=Y67DYUBNH6MX66FNITWSIJVXCTMQWH6H) |
 | `[SubsPlease] Enen no Shouboutai S3 - 25 (1080p) [71938097...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-enen-no-shouboutai-s3-25-1080p-71938097-mkv.n2093410) • [🐱 Nyaa](https://nyaa.si/?q=ATDCI3VFLLBI2J67XPR7VKFGP7PSE3AV) |
 | `[SubsPlease] Enen no Shouboutai S3 - 25 (480p) [CFA13CA5]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-enen-no-shouboutai-s3-25-480p-cfa13ca5-mkv.n2093408) • [🐱 Nyaa](https://nyaa.si/?q=65N3RN5AKP7YMJMWFNIKPV3NDNB5UINI) |
@@ -36,10 +40,6 @@
 | `High School Kimengumi 2026 S01 1080p NF WEB-DL AAC2.0 H 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/high-school-kimengumi-2026-s01-1080p-nf-web.n2093402) • [🐱 Nyaa](https://nyaa.si/?q=THV36RCYMQSFN63UCGRQSUYWCUOIIXLA) |
 | `SNOWBALL EARTH S01E01 THE SAVIOR WHO COULD NOT BRING SALV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e01-savior-who-could-not-bring.n2093399) • [🐱 Nyaa](https://nyaa.si/?q=DW34P7IPETAUSJBNCD6XAYJQVA7SNYEZ) |
 | `[ToonsHub] Fire Force S03E25 1080p NF WEB-DL AAC2.0 H.264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fire-force-s03e25-1080p-nf-web-dl.n2093398) • [🐱 Nyaa](https://nyaa.si/?q=WEWX7K35JFYT6DFQ5DQBM6FZDTWJIHMW) |
-| `Snowball Earth S01E01 The Savior Who Could Not Bring Salv...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e01-savior-who-could-not-bring.n2093397) • [🐱 Nyaa](https://nyaa.si/?q=JDCUOCLKFFAFYYT27G2TYLI2O5EISVW3) |
-| `Snowball Earth S01E01 The Savior Who Could Not Bring Salv...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e01-savior-who-could-not-bring.n2093394) • [🐱 Nyaa](https://nyaa.si/?q=N65IMGZTML3GSVW636M3SMT7VFY67R7D) |
-| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.n2093392) • [🐱 Nyaa](https://nyaa.si/?q=GS2DKO75KGMAZU5EKDVW26R75AHMP2XN) |
-| `Snowball Earth S01E01 The Savior Who Could Not Bring Salv...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e01-savior-who-could-not-bring.n2093391) • [🐱 Nyaa](https://nyaa.si/?q=HEKFKA3CG74CSOVEUFINRUPEFTWJOHOF) |
 
 ---
 <div align="center">
