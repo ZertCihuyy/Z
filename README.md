@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.00.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.54.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -17,7 +17,6 @@
 | `07:00` | **[Ninjala (TV)](https://myanimelist.net/anime/50418/Ninjala_TV)** | *Action* |
 | `04:52` | **[Bonobono (TV 2016)](https://myanimelist.net/anime/32353/Bonobono_TV_2016)** | *Comedy* |
 | `22:00` | **[Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?](https://myanimelist.net/anime/62825/Saikyou_no_Shokugyou_wa_Yuusha_demo_Kenja_demo_Naku_Kanteishi_Kari_Rashii_desu_yo)** | *Adventure, Comedy, Fantasy* |
-| `01:53` | **[Enen no Shouboutai: San no Shou Part 2](https://myanimelist.net/anime/59229/Enen_no_Shouboutai__San_no_Shou_Part_2)** | *Action, Fantasy, Sci-Fi* |
 | `18:00` | **[Meitantei Conan](https://myanimelist.net/anime/235/Meitantei_Conan)** | *Adventure, Comedy, Mystery* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
@@ -25,6 +24,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Chibi Godzilla Raids Again - S01E94 (ちびゴジラの逆襲; Ch...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e94-no-gyakushuu.k10126734474499) • [🐱 Nyaa](https://nyaa.si/?q=TXY7EP332LYXIPHDXX6UHYFNBMNGWVZ4) |
+| `[DKB] Tensei shitara Slime Datta Ken - S04E01 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tensei-shitara-slime-datta-ken-s04e01-1080p.n2093452) • [🐱 Nyaa](https://nyaa.si/?q=Y74SQHLVDPGLW2DND6GPSZEWE4N7VBP5) |
+| `Hitori No Shita The Outcast S06E14 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e14-1080p-cr-web.n2093451) • [🐱 Nyaa](https://nyaa.si/?q=ZDVEQ5DFDJGASGD376GMVLBZLFVE6ZLQ) |
+| `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2093450) • [🐱 Nyaa](https://nyaa.si/?q=7EZC6WHKIUIW5RVDLF6C5IUJZRJ3H2XA) |
+| `Fire Force S03E25 Heros Tale 1080p CR WEB-DL MULTi AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fire-force-s03e25-heros-tale-1080p-cr-web.n2093449) • [🐱 Nyaa](https://nyaa.si/?q=SD4FSAIM4MEGJW23WTENDPRVPD226FOB) |
+| `[Raze] Enen no Shouboutai S3 - 25 (Dual-Audio) (Multi-Sub...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-enen-no-shouboutai-s3-25-dual-audio.n2093448) • [🐱 Nyaa](https://nyaa.si/?q=XT2SXXRGKNVKI2MWT7THJM37RBGDZX5O) |
 | `Gauche the Cellist (1982) セロ弾きのゴーシュ [12-bit 4:2:0 Decrypt...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gauche-cellist-1982-12-bit-4-2-0.n2093434) • [🐱 Nyaa](https://nyaa.si/?q=2NI4XFEUIEIVTIUE4AR3C5KDLEVKBMA6) |
 | `[DKB] Enen no Shouboutai - S03E25 [1080p][END][HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-enen-no-shouboutai-s03e25-1080p-end-hevc.n2093433) • [🐱 Nyaa](https://nyaa.si/?q=H6TZBV4KAHIVPGVIFMWUGU6KMEPIEHLG) |
 | `[ToonsHub] Golden Kamuy S05E11 1080p AMZN WEB-DL DDP2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e11-1080p-amzn-web-dl.k10125842017541) • [🐱 Nyaa](https://nyaa.si/?q=SEKTE5XU5PAI6OQK6R335OFQ2WAFWDCR) |
@@ -34,12 +39,6 @@
 | `[Yameii] SNOWBALL EARTH - S01E01 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e01-english-dub-cr-web.n2093426) • [🐱 Nyaa](https://nyaa.si/?q=HNUD6U7GPE5HLTWFGLKHO4M2W3K4SFZY) |
 | `[Yameii] SNOWBALL EARTH - S01E01 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e01-english-dub-cr-web.n2093425) • [🐱 Nyaa](https://nyaa.si/?q=6VJGABBXI57W5GAYEOBN72HRK24FLZ4G) |
 | `[Beltraz] Undefeated Bahamut Chronicle (2016) - S01 (BD 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-undefeated-bahamut-chronicle-2016-s01-bd-1080p-x264.k10125256832266) • [🐱 Nyaa](https://nyaa.si/?q=WZ5LZRYQOLLNPCD3HEJGJZG6GSQLFVN6) |
-| `[Judas] Otonari no Tenshi-sama ni Itsunomanika Dame Ninge...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2093423) • [🐱 Nyaa](https://nyaa.si/?q=C7WZPB5VSW2HNN56WOTN62SBRLEE3C5G) |
-| `Frieren Beyond Journeys End S02E08 A Magnificent End 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e08-magnificent-1080p-cr.n2093422) • [🐱 Nyaa](https://nyaa.si/?q=O424CIPYL3Z5FJQFTQYU2XTDUKPJYMSY) |
-| `[Judas] Tensei Shitara Slime Datta Ken (That Time I Got R...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tensei-shitara-slime-datta-ken-time-got.n2093421) • [🐱 Nyaa](https://nyaa.si/?q=34V766RLYXXQD5QJGAHX2UMURHYQBZQT) |
-| `[Onalrie] Enen no Shouboutai - S03E25 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-enen-no-shouboutai-s03e25-1080p-webrip-av1-mkv.2071657) • [🐱 Nyaa](https://nyaa.si/?q=UK44NGYFTTW6WNZIDSTXZGDH3NUWZJYX) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.n2093420) • [🐱 Nyaa](https://nyaa.si/?q=O5NKPKSPKSKHQGUNT2BPYTMP47U7L2C7) |
-| `[ASW] Enen no Shouboutai S3 - 25 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-enen-no-shouboutai-s3-25-1080p-hevc.n2093418) • [🐱 Nyaa](https://nyaa.si/?q=GOT2FSHK47MQ2KCC3OI326BTCKKGBFJG) |
 
 ---
 <div align="center">
