@@ -1,5 +1,5 @@
 {
-  "last_update": "3/4/2026, 22.10.12",
+  "last_update": "3/4/2026, 22.55.34",
   "hari": "Jumat",
   "data": [
     {
@@ -799,6 +799,291 @@
       "demographics": []
     },
     {
+      "mal_id": 62964,
+      "url": "https://myanimelist.net/anime/62964/Mata_Korosarete_Shimatta_no_desu_ne_Tantei-sama",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1595/156152.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1595/156152t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1595/156152l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1595/156152.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1595/156152t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1595/156152l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/McRzL3kzw3o?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama"
+        },
+        {
+          "type": "Synonym",
+          "title": "Matakoro"
+        },
+        {
+          "type": "Japanese",
+          "title": "また殺されてしまったのですね、探偵様"
+        },
+        {
+          "type": "English",
+          "title": "Killed Again, Mr. Detective."
+        }
+      ],
+      "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+      "title_english": "Killed Again, Mr. Detective.",
+      "title_japanese": "また殺されてしまったのですね、探偵様",
+      "title_synonyms": [
+        "Matakoro"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 3, 2026 to ?"
+      },
+      "duration": "24 min",
+      "rating": null,
+      "score": 6.73,
+      "scored_by": 641,
+      "rank": 6280,
+      "popularity": 6414,
+      "members": 13366,
+      "favorites": 23,
+      "synopsis": "Sakuya Otsuki is the son of a legendary detective, working to follow in his father's footsteps with his assistant, Lilithea. However, something's different about this high-school sleuth. Wherever he goes, he always manages to get himself entangled in his cases—as a murder victim! When Sakuya is tasked to infiltrate a luxury cruise ship, he finds himself killed once again. But every time he reopens his eyes, Lilithea is there by his side, ready to help him get to the bottom of the mystery...\n\n(Source: Yen Press)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "01:58",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 01:58 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 145,
+          "type": "anime",
+          "name": "TBS",
+          "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+          "mal_id": 1585,
+          "type": "anime",
+          "name": "Nichion",
+          "url": "https://myanimelist.net/anime/producer/1585/Nichion"
+        },
+        {
+          "mal_id": 2640,
+          "type": "anime",
+          "name": "INSPION Edge",
+          "url": "https://myanimelist.net/anime/producer/2640/INSPION_Edge"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 839,
+          "type": "anime",
+          "name": "LIDENFILMS",
+          "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 7,
+          "type": "anime",
+          "name": "Mystery",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 61943,
+      "url": "https://myanimelist.net/anime/61943/Haibara-kun_no_Tsuyokute_Seishun_New_Game",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1401/156048.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1401/156048t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1401/156048l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1401/156048.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1401/156048t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1401/156048l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/MPJrey_y_DU?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Haibara-kun no Tsuyokute Seishun New Game"
+        },
+        {
+          "type": "Japanese",
+          "title": "灰原くんの強くて青春ニューゲーム"
+        },
+        {
+          "type": "English",
+          "title": "Haibara's Teenage New Game+"
+        }
+      ],
+      "title": "Haibara-kun no Tsuyokute Seishun New Game",
+      "title_english": "Haibara's Teenage New Game+",
+      "title_japanese": "灰原くんの強くて青春ニューゲーム",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 3, 2026 to ?"
+      },
+      "duration": "24 min",
+      "rating": null,
+      "score": 6.83,
+      "scored_by": 909,
+      "rank": 5707,
+      "popularity": 6035,
+      "members": 15637,
+      "favorites": 30,
+      "synopsis": "We all have embarrassing memories or deep regrets from high school, right? Socially anxious college senior Natsuki Haibara sure does. When he thinks back on that time of his life, all he has are fleeting fantasies of a happy adolescence that could have been. Imagine his bewilderment and surprise, then, when he inexplicably finds himself seven years in the past—one month before his first year of high school! Can Haibara avoid his previous mistakes, make his way to the top of the school social pyramid, and end up with the girl of his dreams? Or will he be forced to relive three years of solitude as the most hated guy in school? He'll need all the help he can get in order to succeed, from a workout regimen to online how-to guides, a childhood friend, and plenty of sheer willpower. Watch as Haibara takes a second shot at his teenage years!\n\n(Source: J-Novel Club)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "01:28",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 01:28 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 145,
+          "type": "anime",
+          "name": "TBS",
+          "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+          "mal_id": 1517,
+          "type": "anime",
+          "name": "Jinnan Studio",
+          "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
+        },
+        {
+          "mal_id": 1585,
+          "type": "anime",
+          "name": "Nichion",
+          "url": "https://myanimelist.net/anime/producer/1585/Nichion"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 126,
+          "type": "anime",
+          "name": "Studio Comet",
+          "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 78,
+          "type": "anime",
+          "name": "Time Travel",
+          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+        }
+      ],
+      "demographics": []
+    },
+    {
       "mal_id": 50250,
       "url": "https://myanimelist.net/anime/50250/Chiikawa",
       "images": {
@@ -1047,348 +1332,6 @@
           "type": "anime",
           "name": "Shounen",
           "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ]
-    },
-    {
-      "mal_id": 59443,
-      "url": "https://myanimelist.net/anime/59443/Reincarnation_no_Kaben",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1064/155042.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1064/155042t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1064/155042l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1064/155042.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1064/155042t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1064/155042l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/PmcTPE2SrE8?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Reincarnation no Kaben"
-        },
-        {
-          "type": "Synonym",
-          "title": "Reincarnation no Hanabira"
-        },
-        {
-          "type": "Japanese",
-          "title": "リィンカーネーションの花弁"
-        },
-        {
-          "type": "English",
-          "title": "Petals of Reincarnation"
-        }
-      ],
-      "title": "Reincarnation no Kaben",
-      "title_english": "Petals of Reincarnation",
-      "title_japanese": "リィンカーネーションの花弁",
-      "title_synonyms": [
-        "Reincarnation no Hanabira"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-03T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 3,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 3, 2026 to ?"
-      },
-      "duration": "23 min",
-      "rating": null,
-      "score": 6.6,
-      "scored_by": 811,
-      "rank": 7214,
-      "popularity": 4669,
-      "members": 29725,
-      "favorites": 63,
-      "synopsis": "There exists an object known as the \"Branch of Reincarnation\" that can grant people the talents of the past lives, so long as they slit their own throat with it.\n\nTouya Senji is a teenage boy struggling with low self-esteem after growing up in the shadow of his gifted older brother. He comes to the decision that academic studies are his last resort in the search for talent, but fails to find satisfaction despite constantly placing in the top 100 for national mock exams.\n\nIn a twist of fate, Touya encounters one of his classmates, Haito Luo Buffett, a \"Returner\" who has resurrected the talents of her past life using the Branch of Reincarnation, as she fights against a serial killer.\n\n(Source: Press Release)",
-      "background": "",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Fridays",
-        "time": "00:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Fridays at 00:30 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 144,
-          "type": "anime",
-          "name": "Pony Canyon",
-          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
-        },
-        {
-          "mal_id": 2074,
-          "type": "anime",
-          "name": "Bit grooove promotion",
-          "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 376,
-          "type": "anime",
-          "name": "Sentai Filmworks",
-          "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 3173,
-          "type": "anime",
-          "name": "BENTEN Film",
-          "url": "https://myanimelist.net/anime/producer/3173/BENTEN_Film"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 7,
-          "type": "anime",
-          "name": "Mystery",
-          "url": "https://myanimelist.net/anime/genre/7/Mystery"
-        },
-        {
-          "mal_id": 37,
-          "type": "anime",
-          "name": "Supernatural",
-          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 72,
-          "type": "anime",
-          "name": "Reincarnation",
-          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
-        }
-      ],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ]
-    },
-    {
-      "mal_id": 53876,
-      "url": "https://myanimelist.net/anime/53876/Pokemon_2023",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1703/137216.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1703/137216t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1703/137216l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1703/137216.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1703/137216t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1703/137216l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/fs6IVwrmMZo?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Pokemon (2023)"
-        },
-        {
-          "type": "Synonym",
-          "title": "Pokémon: Liko to Roy no Tabidachi"
-        },
-        {
-          "type": "Synonym",
-          "title": "Pocket Monsters: Liko to Roy no Tabidachi"
-        },
-        {
-          "type": "Synonym",
-          "title": "Pokémon: Terapagos no Kagayaki"
-        },
-        {
-          "type": "Synonym",
-          "title": "Pocket Monsters: Terapagos no Kagayaki"
-        },
-        {
-          "type": "Synonym",
-          "title": "Pokemon Horizons: Liko and Roy's Departure"
-        },
-        {
-          "type": "Synonym",
-          "title": "Pokemon Horizons: Terapagos' Gleam"
-        },
-        {
-          "type": "Synonym",
-          "title": "Pokemon Mega Voltage"
-        },
-        {
-          "type": "Japanese",
-          "title": "ポケットモンスター(2023)"
-        },
-        {
-          "type": "English",
-          "title": "Pokémon Horizons: The Series"
-        }
-      ],
-      "title": "Pokemon (2023)",
-      "title_english": "Pokémon Horizons: The Series",
-      "title_japanese": "ポケットモンスター(2023)",
-      "title_synonyms": [
-        "Pokémon: Liko to Roy no Tabidachi",
-        "Pocket Monsters: Liko to Roy no Tabidachi",
-        "Pokémon: Terapagos no Kagayaki",
-        "Pocket Monsters: Terapagos no Kagayaki",
-        "Pokemon Horizons: Liko and Roy's Departure",
-        "Pokemon Horizons: Terapagos' Gleam",
-        "Pokemon Mega Voltage"
-      ],
-      "type": "TV",
-      "source": "Game",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2023-04-14T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 14,
-            "month": 4,
-            "year": 2023
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 14, 2023 to ?"
-      },
-      "duration": "24 min",
-      "rating": "PG - Children",
-      "score": 7.44,
-      "scored_by": 10403,
-      "rank": 2403,
-      "popularity": 3973,
-      "members": 41700,
-      "favorites": 403,
-      "synopsis": "In a world filled with strange yet majestic creatures known as Pokémon, a new adventure begins! Hailing from the pristine region of Paldea, the timid Liko travels to the Kanto region to attend the Indigo Academy and become a Pokémon trainer—a person who forms relationships with Pokémon and trains them to participate in battles. Soon, Liko acquires Nyahoja, a fickle Grass-type cat Pokémon, as her first partner.\n\nPrior to Liko's transfer to Kanto, her grandmother gives her a uniquely patterned and gleaming pendant as a protective charm. However, an enigmatic organization—The Explorers—seems to know a secret about the pendant and nearly succeeds in stealing it from Liko. Fortunately, she is rescued by the Rising Volt Tacklers, a group of adventurers led by a Lizardon-riding trainer named Friede.\n\nAfter a series of encounters with The Explorers, Liko decides to join Friede's team, accompanying him and his crew members on a grand journey across the regions. Along the way, they aim to unravel not only the mysteries of the world of Pokémon, but also the power that resides within her pendant.\n\n[Written by MAL Rewrite]",
-      "background": "Pokemon (2023) features elements and settings from the 2022 Nintendo Switch games Pokémon Scarlet and Violet by Game Freak.",
-      "season": "spring",
-      "year": 2023,
-      "broadcast": {
-        "day": "Fridays",
-        "time": "18:55",
-        "timezone": "Asia/Tokyo",
-        "string": "Fridays at 18:55 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 16,
-          "type": "anime",
-          "name": "TV Tokyo",
-          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
-        },
-        {
-          "mal_id": 3067,
-          "type": "anime",
-          "name": "Soranone",
-          "url": "https://myanimelist.net/anime/producer/3067/Soranone"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 28,
-          "type": "anime",
-          "name": "OLM",
-          "url": "https://myanimelist.net/anime/producer/28/OLM"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 15,
-          "type": "anime",
-          "name": "Kids",
-          "url": "https://myanimelist.net/anime/genre/15/Kids"
         }
       ]
     }
