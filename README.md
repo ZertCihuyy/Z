@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.40.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.04.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -24,6 +24,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Beltraz] Date A Live (2013) - S01 - Specials (Director's...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-date-live-2013-s01-specials-directors-cut.k10128176197642) • [🐱 Nyaa](https://nyaa.si/?q=A3P3SUCP4VGTGDNB3DGSVBJVG6Z7BTMZ) |
+| `Golgo 13 [DVD (R1), 480p, h264, AAC, Dual-Audio, VobSubs]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/golgo-13-dvd-r1-480p-h264-aac-dual-audio-vobsubs.n2093463) • [🐱 Nyaa](https://nyaa.si/?q=PIQVHI2CAL5CKEKDQAXOWWOEOHSPQK3W) |
 | `[Gecko] Chibi Godzilla Raids Again - S01E94 (ちびゴジラの逆襲; Ch...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e94-no-gyakushuu.k10126734474499) • [🐱 Nyaa](https://nyaa.si/?q=TXY7EP332LYXIPHDXX6UHYFNBMNGWVZ4) |
 | `[DKB] Tensei shitara Slime Datta Ken - S04E01 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tensei-shitara-slime-datta-ken-s04e01-1080p.n2093452) • [🐱 Nyaa](https://nyaa.si/?q=Y74SQHLVDPGLW2DND6GPSZEWE4N7VBP5) |
 | `Hitori No Shita The Outcast S06E14 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e14-1080p-cr-web.n2093451) • [🐱 Nyaa](https://nyaa.si/?q=ZDVEQ5DFDJGASGD376GMVLBZLFVE6ZLQ) |
@@ -37,8 +39,6 @@
 | `[Judas] Enen no Shouboutai (Fire Force) - S03E25 [1080p][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-s03e25-1080p.n2093428) • [🐱 Nyaa](https://nyaa.si/?q=2U5THQASH2TSR5KGFGMJA66H5YDF6JZT) |
 | `[Ironclad] That Time I Got Reincarnated as a Slime - S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-time-got-reincarnated-slime-s04e01-web-1080p.k10125515275019) • [🐱 Nyaa](https://nyaa.si/?q=PJ3RGCYGL5W4THHB4M7FT27L24BPH7MV) |
 | `[Yameii] SNOWBALL EARTH - S01E01 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e01-english-dub-cr-web.n2093426) • [🐱 Nyaa](https://nyaa.si/?q=HNUD6U7GPE5HLTWFGLKHO4M2W3K4SFZY) |
-| `[Yameii] SNOWBALL EARTH - S01E01 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e01-english-dub-cr-web.n2093425) • [🐱 Nyaa](https://nyaa.si/?q=6VJGABBXI57W5GAYEOBN72HRK24FLZ4G) |
-| `[Beltraz] Undefeated Bahamut Chronicle (2016) - S01 (BD 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-undefeated-bahamut-chronicle-2016-s01-bd-1080p-x264.k10125256832266) • [🐱 Nyaa](https://nyaa.si/?q=WZ5LZRYQOLLNPCD3HEJGJZG6GSQLFVN6) |
 
 ---
 <div align="center">
