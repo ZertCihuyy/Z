@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.23.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.47.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -15,6 +15,7 @@
 | `01:50` | **[Komekami! Girls](https://myanimelist.net/anime/63709/Komekami_Girls)** | *-* |
 | `16:20` | **[Sore Ike! Anpanman](https://myanimelist.net/anime/1960/Sore_Ike_Anpanman)** | *Comedy, Fantasy* |
 | `18:25` | **[Beyblade X](https://myanimelist.net/anime/56566/Beyblade_X)** | *Adventure, Sports* |
+| `00:26` | **[Kirio Fanclub](https://myanimelist.net/anime/59835/Kirio_Fanclub)** | *Comedy* |
 | `01:00` | **[Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/anime/63304/Mamonogurai_no_Boukensha__Ore_dake_Mamono_wo_Kuratte_Tsuyoku_Naru)** | *Action, Fantasy* |
 | `01:00` | **[Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/anime/63304/Mamonogurai_no_Boukensha__Ore_dake_Mamono_wo_Kuratte_Tsuyoku_Naru)** | *Action, Fantasy* |
 | `07:40` | **[Chiikawa](https://myanimelist.net/anime/50250/Chiikawa)** | *Slice of Life* |
@@ -27,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Dorohedoro S02E03 1080p BILI WEB-DL AAC2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e03-1080p-bili-web-dl-aac2.n2093195) • [🐱 Nyaa](https://nyaa.si/?q=YHALJY4YBATKUHPZWIRTF2YDHRNTUAZL) |
+| `[Feibanyama] Classroom of the Elite S04E02 [IQIYI WebRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-classroom-elite-s04e02-iqiyi-webrip-2160p-hevc.n2093194) • [🐱 Nyaa](https://nyaa.si/?q=7LPK7IR4XC2SJTNMQ7RDADLCED3WD7W7) |
+| `[ToonsHub] Dr Stone S04E25 1080p AMZN WEB-DL DDP2.0 H.264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e25-1080p-amzn-web-dl.n2093192) • [🐱 Nyaa](https://nyaa.si/?q=QW6TEYTTJWJMX5SBRGA73PMLPATH3XYU) |
 | `[LbE3L] [H.266] Dorohedoro S02E01–E03 [1080p NF WEBRip VV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-dorohedoro-s02e01e03-1080p-nf-webrip.k10111864909836) • [🐱 Nyaa](https://nyaa.si/?q=JAI4OO4MHGS2R62CRYPVXSTN6C27GDXO) |
 | `[LbE3L] Dorohedoro S02E01–E03 [1080p NF WEB-DL AV1 (Muxed...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-dorohedoro-s02e01e03-1080p-nf-web-dl-av1.k10111792413705) • [🐱 Nyaa](https://nyaa.si/?q=WGZX4OPI4VLCWZIVN43MSRSIMVHUPIZG) |
 | `[Feibanyama] Dorohedoro S02E01 [BILIBILI WebRip 2160p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dorohedoro-s02e01-bilibili-webrip-2160p-hevc-opus.n2093179) • [🐱 Nyaa](https://nyaa.si/?q=U54DFVUQ2PMO7OXAEUB44XT52H6KZIW3) |
@@ -39,9 +43,6 @@
 | `[SubsPlease] Hitori no Shita - The Outcast S6 - 14 (480p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-14-480p-432e12b2-mkv.n2093165) • [🐱 Nyaa](https://nyaa.si/?q=JSZILSME3XBYRFMYNKYVAKUNFW4DAMAL) |
 | `[Gecko] Hitori No Shita - The Outcast - S06E15 (一人之下; Yi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e15-yi-ren.k10110004238090) • [🐱 Nyaa](https://nyaa.si/?q=2PJAXCTK3DUDEJX4EJHJ4NJV6BEAI3HN) |
 | `[ToonsHub] Hitori No Shita The Outcast S06E14 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e14-1080p-cr.k10109989574658) • [🐱 Nyaa](https://nyaa.si/?q=K4HVQ6WDXQ2T3QIAWNNGJ3EIQBQ42DVL) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 14 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2093160) • [🐱 Nyaa](https://nyaa.si/?q=TOIX646WCOFTCTDHCO7K56KIXQ5464GB) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 14 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2093159) • [🐱 Nyaa](https://nyaa.si/?q=RNJETMVZWZ7DJ6YPOLXJ24OIHXP4EDTE) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 14 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2093158) • [🐱 Nyaa](https://nyaa.si/?q=JEVEVHJ4IAXK45WYETQQ2VGCW6LVJD7E) |
 
 ---
 <div align="center">
