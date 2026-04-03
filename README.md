@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.04.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.54.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Yamada's First Time - B Gata H Kei (2010) -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamadas-first-time-b-gata-h-kei.k10118368874501) • [🐱 Nyaa](https://nyaa.si/?q=IMJCG7YVKPURA5AC6V2DWBSUVPHZ7KFO) |
 | `The Ramparts of Ice S01E01 1080p NF WEB-DL AAC2.0 AV1 (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e01-1080p-nf-web-dl-aac2.n2093214) • [🐱 Nyaa](https://nyaa.si/?q=CAM42NXI6KGC6Z5NLHNFI46YKMZJ7FUR) |
 | `[LbE3L] Oshi no Ko S03E06 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e06-1080p-webrip-av1.k10116717833739) • [🐱 Nyaa](https://nyaa.si/?q=PLSZNOIFYH3RQXAI3YD52T5CUVQGPIEU) |
 | `[Feibanyama] Dorohedoro S02E03 [BILIBILI WebRip 2160p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dorohedoro-s02e03-bilibili-webrip-2160p-hevc-opus.n2093208) • [🐱 Nyaa](https://nyaa.si/?q=F6XZBKLDQ3U5ZVQUDTV2LWHF7QWX6NSO) |
@@ -42,7 +43,6 @@
 | `[Commie] The Darwin Incident` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-darwin-incident.n2093199) • [🐱 Nyaa](https://nyaa.si/?q=5MWQP3PMJ2FUXIG3LFCWTACTBD3EWRL7) |
 | `[Feibanyama] Dorohedoro S02E02 [BILIBILI WebRip 2160p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dorohedoro-s02e02-bilibili-webrip-2160p-hevc-opus.n2093198) • [🐱 Nyaa](https://nyaa.si/?q=AUWE2E4XOHK7KOU6Q3OAQMGBGNXLIKWG) |
 | `[ToonsHub] Dorohedoro S02E03 1080p BILI WEB-DL AAC2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e03-1080p-bili-web-dl-aac2.n2093195) • [🐱 Nyaa](https://nyaa.si/?q=YHALJY4YBATKUHPZWIRTF2YDHRNTUAZL) |
-| `[Feibanyama] Classroom of the Elite S04E02 [IQIYI WebRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-classroom-elite-s04e02-iqiyi-webrip-2160p-hevc.n2093194) • [🐱 Nyaa](https://nyaa.si/?q=7LPK7IR4XC2SJTNMQ7RDADLCED3WD7W7) |
 
 ---
 <div align="center">
