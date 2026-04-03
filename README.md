@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.54.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.40.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -24,6 +24,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2093494) • [🐱 Nyaa](https://nyaa.si/?q=TTU24ELTZ7WQKC5TDVQKQR524LKAX563) |
 | `[Tasokare] Cleopatra D.C. S01 (BD 1080p Opus AV1)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-cleopatra-d-c-s01-bd-1080p-opus-av1.k10129123481862) • [🐱 Nyaa](https://nyaa.si/?q=K46BAFR27M2EO5KPQQIZWOAYJ2WWWZA6) |
 | `[Kawatare] Cleopatra D.C. S01 (BD 1080p FLAC x265)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-cleopatra-d-c-s01-bd-1080p-flac-x265.k10129095180545) • [🐱 Nyaa](https://nyaa.si/?q=QCH355U5FSJBHQST2FVBPWIJ53AL5L3J) |
 | `[Beltraz] Date A Live (2013) - S01 - Specials (Director's...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-date-live-2013-s01-specials-directors-cut.k10128176197642) • [🐱 Nyaa](https://nyaa.si/?q=A3P3SUCP4VGTGDNB3DGSVBJVG6Z7BTMZ) |
@@ -38,7 +39,6 @@
 | `[DKB] Enen no Shouboutai - S03E25 [1080p][END][HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-enen-no-shouboutai-s03e25-1080p-end-hevc.n2093433) • [🐱 Nyaa](https://nyaa.si/?q=H6TZBV4KAHIVPGVIFMWUGU6KMEPIEHLG) |
 | `[ToonsHub] Golden Kamuy S05E11 1080p AMZN WEB-DL DDP2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e11-1080p-amzn-web-dl.k10125842017541) • [🐱 Nyaa](https://nyaa.si/?q=SEKTE5XU5PAI6OQK6R335OFQ2WAFWDCR) |
 | `Chiisana Viking Vickie TV 01,19,20 [ARR]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chiisana-viking-vickie-tv-01-19-20-arr.2071661) • [🐱 Nyaa](https://nyaa.si/?q=X4EEDS63N4LSUMSPFSM4S2V5EKUTE26P) |
-| `[Judas] Enen no Shouboutai (Fire Force) - S03E25 [1080p][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-enen-no-shouboutai-fire-force-s03e25-1080p.n2093428) • [🐱 Nyaa](https://nyaa.si/?q=2U5THQASH2TSR5KGFGMJA66H5YDF6JZT) |
 
 ---
 <div align="center">
