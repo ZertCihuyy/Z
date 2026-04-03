@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.23.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.10.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2093271) • [🐱 Nyaa](https://nyaa.si/?q=YJ2A3NL62BULO5HOYUVNOM6UQE3ZMY6G) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2093270) • [🐱 Nyaa](https://nyaa.si/?q=DWWIQF2IZYLPHDULLM6BDSPYMM5S4NTD) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2093269) • [🐱 Nyaa](https://nyaa.si/?q=BS2HWBQ3J7UL5WXYMTOUERRKHG2Z5Y5Y) |
-| `[FSP DN] Jian Lai 2 (Sword of Coming 2) - 17 [4K] | 剑来` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-jian-lai-2-sword-coming-2-17-4k.n2093268) • [🐱 Nyaa](https://nyaa.si/?q=4IXZ4PONODZL2Y6PHDJNNAGT5PDU5PMW) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2093258) • [🐱 Nyaa](https://nyaa.si/?q=DONDHJYKGES6SRDKLECP24QPP4AT4QC2) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2093256) • [🐱 Nyaa](https://nyaa.si/?q=F7U6KZEIDWMYJEK66XJK5F22HXNNQBPY) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2093257) • [🐱 Nyaa](https://nyaa.si/?q=VQXXSKCD2TJAL6HR2WXB7QNFXAEHOGJS) |
-| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.n2093251) • [🐱 Nyaa](https://nyaa.si/?q=DWYFJOYJBFCXWLLNOIB6CSZIVUSSFLAK) |
-| `An Observation Log of My Fiancee Who Calls Herself a Vill...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/observation-log-my-fiancee-who-calls-herself-villainess.n2093248) • [🐱 Nyaa](https://nyaa.si/?q=NXBIMG4KLBGSRLSP3K7M3ASWQOH27YOH) |
-| `[BlackRabbit] KissXSis (2010) - S01 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kissxsis-2010-s01-bluray-1080p-opus-2.k10119687520518) • [🐱 Nyaa](https://nyaa.si/?q=KJM2RKQM3LV627W3KJSKC2FFZCGNW5CT) |
-| `[BlackRabbit] Yamada's First Time - B Gata H Kei (2010) -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamadas-first-time-b-gata-h-kei.k10118368874501) • [🐱 Nyaa](https://nyaa.si/?q=IMJCG7YVKPURA5AC6V2DWBSUVPHZ7KFO) |
-| `The Ramparts of Ice S01E01 1080p NF WEB-DL AAC2.0 AV1 (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e01-1080p-nf-web-dl-aac2.n2093214) • [🐱 Nyaa](https://nyaa.si/?q=CAM42NXI6KGC6Z5NLHNFI46YKMZJ7FUR) |
-| `[LbE3L] Oshi no Ko S03E06 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e06-1080p-webrip-av1.k10116717833739) • [🐱 Nyaa](https://nyaa.si/?q=PLSZNOIFYH3RQXAI3YD52T5CUVQGPIEU) |
-| `[Feibanyama] Dorohedoro S02E03 [BILIBILI WebRip 2160p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dorohedoro-s02e03-bilibili-webrip-2160p-hevc-opus.n2093208) • [🐱 Nyaa](https://nyaa.si/?q=F6XZBKLDQ3U5ZVQUDTV2LWHF7QWX6NSO) |
-| `[Rododendron] Nanatsu no Umi no Tico (WEB 720p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rododendron-nanatsu-no-umi-no-tico-web-720p.n2093206) • [🐱 Nyaa](https://nyaa.si/?q=ESRTPDOYMHFIUGMBUFB5MHHIQEIK7DID) |
+| `[VARYG] That Time I Got Reincarnated as a Slime S04E01 Ne...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-time-got-reincarnated-slime-s04e01-new-days.k10121998935310) • [🐱 Nyaa](https://nyaa.si/?q=UL7AHEDCEEA4IYORIMBOCOEXSB4RRF3O) |
+| `[VARYG] Frieren Beyond Journeys End S02E09 Himmels Memoir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-frieren-beyond-journeys-end-s02e09-himmels-memoirs.k10121996622337) • [🐱 Nyaa](https://nyaa.si/?q=IIM6SJVZPCXV4S734BTHAS7ZZVAUZPII) |
+| `[ToonsHub] Frieren Beyond Journeys End S02E09 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-frieren-beyond-journeys-end-s02e09-1080p-cr.k10121966246400) • [🐱 Nyaa](https://nyaa.si/?q=CMWZBDYBLE23FYLIZWI2KMVW6W5XBTMF) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e01-1080p-cr.k10121964177158) • [🐱 Nyaa](https://nyaa.si/?q=AU5RMNEKMN3F3PWSKJHSYGGY7CEB7BYX) |
+| `[VARYG] That Time I Got Reincarnated as a Slime S04E01 Th...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-time-got-reincarnated-slime-s04e01-new-days.k10121962389007) • [🐱 Nyaa](https://nyaa.si/?q=NNFFXULTFV7S7D5C4JIQOJDRREX22GBG) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e01-1080p-bili.n2093326) • [🐱 Nyaa](https://nyaa.si/?q=NKHILBNEV7WAUJ4LJLBGDIZBMLOA3EPF) |
+| `[Erai-raws] Reincarnation no Kaben - 01 [480p HIDIVE WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-01-480p-hidive.n2093325) • [🐱 Nyaa](https://nyaa.si/?q=KFHNSZHX4NRTWUSLBQSZKBSD56KDIIVA) |
+| `[Erai-raws] Reincarnation no Kaben - 01 [720p HIDIVE WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-01-720p-hidive.n2093324) • [🐱 Nyaa](https://nyaa.si/?q=6MLGEMOKANATAIZBEI76SCIX5LFA4UPE) |
+| `[Erai-raws] Reincarnation no Kaben - 01 [1080p HIDIVE WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-01-1080p-hidive.n2093323) • [🐱 Nyaa](https://nyaa.si/?q=W434JXNE4ZTUPHS4MY7QVJNLS3DHTKIW) |
+| `[Erai-raws] Kirio Fan Club - 01 [480p HIDIVE WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirio-fan-club-01-480p-hidive.n2093322) • [🐱 Nyaa](https://nyaa.si/?q=T2XSU6IOVMZMJD4QLFLBSCMLGJHYHCNZ) |
+| `[Erai-raws] Kirio Fan Club - 01 [720p HIDIVE WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirio-fan-club-01-720p-hidive.n2093321) • [🐱 Nyaa](https://nyaa.si/?q=GB4RNUIINJBGMUBIXIVZOXJG3MEDYOBQ) |
+| `[Erai-raws] Kirio Fan Club - 01 [1080p HIDIVE WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirio-fan-club-01-1080p-hidive.n2093320) • [🐱 Nyaa](https://nyaa.si/?q=DRWHDL3O5QFLMYYP77YIC2HIUXTAZ3ON) |
+| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.n2093308) • [🐱 Nyaa](https://nyaa.si/?q=J6GU5GNMGDPUU6BHKQNDYOXNX5FS3JDF) |
+| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.n2093307) • [🐱 Nyaa](https://nyaa.si/?q=VKEWJA7BYXFOZC5TDQN3DTR7DI7UF2BX) |
+| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.n2093306) • [🐱 Nyaa](https://nyaa.si/?q=CITXNWADU7UEFZPGJ5C2TPJIJRLYSEIK) |
 
 ---
 <div align="center">
