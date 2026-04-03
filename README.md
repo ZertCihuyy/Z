@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.04.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.11.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Rododendron] Nanatsu no Umi no Tico (WEB 720p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rododendron-nanatsu-no-umi-no-tico-web-720p.n2093206) • [🐱 Nyaa](https://nyaa.si/?q=ESRTPDOYMHFIUGMBUFB5MHHIQEIK7DID) |
+| `[LbE3L] SHIBOYUGI: Playing Death Games to Put Food on the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-shiboyugi-playing-death-games-put-food-table.k10116384586502) • [🐱 Nyaa](https://nyaa.si/?q=V72XNUWEVPG5UC4Q447PY72CDPWTSTLO) |
+| `[BlackRabbit] The Demon Girl Next Door (2019) - S02 [Blur...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-girl-next-door-2019-s02-bluray.k10116246705161) • [🐱 Nyaa](https://nyaa.si/?q=X2XUB26W3WVFUAWQZ3BNRVCRS3MWIEO7) |
+| `[BlackRabbit] The Demon Girl Next Door (2019) - S01 [Blur...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-girl-next-door-2019-s01-bluray.k10116182026757) • [🐱 Nyaa](https://nyaa.si/?q=J2AXKFXY6MHAQ7N4ZAKYQXUE3YT2P3EY) |
+| `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mata-korosarete-shimatta-no-desu-ne-tantei.2071536) • [🐱 Nyaa](https://nyaa.si/?q=ZM2TBGJJURDEFPRLHHJEGDV5BTGWCWXY) |
+| `[BlackRabbit] Domestic Girlfriend (2019) - S01 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-domestic-girlfriend-2019-s01-bluray-1080p-opus.k10115812029956) • [🐱 Nyaa](https://nyaa.si/?q=RBMKTUBWAD6ODRSD5E3MEXDOKHITNIIX) |
+| `[Onalrie] Hitori no Shita - The Outcast - S06E14 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e14-1080p-webrip-av1-mkv.2071532) • [🐱 Nyaa](https://nyaa.si/?q=7T2ODKO65LTTLAXC4E4HDUPYFYPEDMQZ) |
 | `[BlackRabbit] Blue Spring Ride (2014) - S01 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blue-spring-ride-2014-s01-bluray-1080p.k10115478507011) • [🐱 Nyaa](https://nyaa.si/?q=ID6TVWQZ5TBO2UQXBKEVZONZXUTWAVIU) |
 | `[Commie] The Darwin Incident` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-darwin-incident.n2093199) • [🐱 Nyaa](https://nyaa.si/?q=5MWQP3PMJ2FUXIG3LFCWTACTBD3EWRL7) |
 | `[Feibanyama] Dorohedoro S02E02 [BILIBILI WebRip 2160p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dorohedoro-s02e02-bilibili-webrip-2160p-hevc-opus.n2093198) • [🐱 Nyaa](https://nyaa.si/?q=AUWE2E4XOHK7KOU6Q3OAQMGBGNXLIKWG) |
@@ -36,13 +43,6 @@
 | `[ToonsHub] Dr Stone S04E25 1080p AMZN WEB-DL DDP2.0 H.264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e25-1080p-amzn-web-dl.n2093192) • [🐱 Nyaa](https://nyaa.si/?q=QW6TEYTTJWJMX5SBRGA73PMLPATH3XYU) |
 | `[LbE3L] [H.266] Dorohedoro S02E01–E03 [1080p NF WEBRip VV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-dorohedoro-s02e01e03-1080p-nf-webrip.k10111864909836) • [🐱 Nyaa](https://nyaa.si/?q=JAI4OO4MHGS2R62CRYPVXSTN6C27GDXO) |
 | `[LbE3L] Dorohedoro S02E01–E03 [1080p NF WEB-DL AV1 (Muxed...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-dorohedoro-s02e01e03-1080p-nf-web-dl-av1.k10111792413705) • [🐱 Nyaa](https://nyaa.si/?q=WGZX4OPI4VLCWZIVN43MSRSIMVHUPIZG) |
-| `[Feibanyama] Dorohedoro S02E01 [BILIBILI WebRip 2160p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dorohedoro-s02e01-bilibili-webrip-2160p-hevc-opus.n2093179) • [🐱 Nyaa](https://nyaa.si/?q=U54DFVUQ2PMO7OXAEUB44XT52H6KZIW3) |
-| `[Ani-Kraze] Tsubasa Chronicle` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ani-kraze-tsubasa-chronicle.n2093176) • [🐱 Nyaa](https://nyaa.si/?q=CMNFYZARTPHARC4MTLT2OEKLAGQVUOGH) |
-| `[ASW] Hitori no Shita - The Outcast S6 - 14 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-14-1080p.n2093172) • [🐱 Nyaa](https://nyaa.si/?q=XLD2IEYK6SQQH4BIKSOHJEWQVGTJND6Q) |
-| `Arknights.S03.Bluray.1080p.AV1.Opus-Pi13` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/arknights-s03-bluray-1080p-av1-opus-pi13.n2093171) • [🐱 Nyaa](https://nyaa.si/?q=IOEQZEQSZJQEJDSDUWWPL55RO4KCUZOJ) |
-| `[Sokudo] Knight's and Magic v2 [1080p BD AV1][Dual Audio]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-knights-magic-v2-1080p-bd-av1-dual-audio.n2093168) • [🐱 Nyaa](https://nyaa.si/?q=ELO6TJ3NREB4BCSZYLSPI5KMB4RVSSEM) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 14 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-14-1080p-77b3356a-mkv.n2093167) • [🐱 Nyaa](https://nyaa.si/?q=52MPFNBL7X7E5VBRQOYDOCC5B4LWFTIY) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 14 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-14-720p-8d76bdd2-mkv.n2093166) • [🐱 Nyaa](https://nyaa.si/?q=5CUY4BDJZGJFLYWTVP6QLS22VKVCLL6T) |
 
 ---
 <div align="center">
