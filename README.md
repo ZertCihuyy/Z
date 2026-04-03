@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.11.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.05.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `The Ramparts of Ice S01E01 1080p NF WEB-DL AAC2.0 AV1 (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e01-1080p-nf-web-dl-aac2.n2093214) • [🐱 Nyaa](https://nyaa.si/?q=CAM42NXI6KGC6Z5NLHNFI46YKMZJ7FUR) |
+| `[LbE3L] Oshi no Ko S03E06 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e06-1080p-webrip-av1.k10116717833739) • [🐱 Nyaa](https://nyaa.si/?q=PLSZNOIFYH3RQXAI3YD52T5CUVQGPIEU) |
+| `[Feibanyama] Dorohedoro S02E03 [BILIBILI WebRip 2160p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dorohedoro-s02e03-bilibili-webrip-2160p-hevc-opus.n2093208) • [🐱 Nyaa](https://nyaa.si/?q=F6XZBKLDQ3U5ZVQUDTV2LWHF7QWX6NSO) |
 | `[Rododendron] Nanatsu no Umi no Tico (WEB 720p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rododendron-nanatsu-no-umi-no-tico-web-720p.n2093206) • [🐱 Nyaa](https://nyaa.si/?q=ESRTPDOYMHFIUGMBUFB5MHHIQEIK7DID) |
 | `[LbE3L] SHIBOYUGI: Playing Death Games to Put Food on the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-shiboyugi-playing-death-games-put-food-table.k10116384586502) • [🐱 Nyaa](https://nyaa.si/?q=V72XNUWEVPG5UC4Q447PY72CDPWTSTLO) |
 | `[BlackRabbit] The Demon Girl Next Door (2019) - S02 [Blur...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-demon-girl-next-door-2019-s02-bluray.k10116246705161) • [🐱 Nyaa](https://nyaa.si/?q=X2XUB26W3WVFUAWQZ3BNRVCRS3MWIEO7) |
@@ -40,9 +43,6 @@
 | `[Feibanyama] Dorohedoro S02E02 [BILIBILI WebRip 2160p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dorohedoro-s02e02-bilibili-webrip-2160p-hevc-opus.n2093198) • [🐱 Nyaa](https://nyaa.si/?q=AUWE2E4XOHK7KOU6Q3OAQMGBGNXLIKWG) |
 | `[ToonsHub] Dorohedoro S02E03 1080p BILI WEB-DL AAC2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e03-1080p-bili-web-dl-aac2.n2093195) • [🐱 Nyaa](https://nyaa.si/?q=YHALJY4YBATKUHPZWIRTF2YDHRNTUAZL) |
 | `[Feibanyama] Classroom of the Elite S04E02 [IQIYI WebRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-classroom-elite-s04e02-iqiyi-webrip-2160p-hevc.n2093194) • [🐱 Nyaa](https://nyaa.si/?q=7LPK7IR4XC2SJTNMQ7RDADLCED3WD7W7) |
-| `[ToonsHub] Dr Stone S04E25 1080p AMZN WEB-DL DDP2.0 H.264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e25-1080p-amzn-web-dl.n2093192) • [🐱 Nyaa](https://nyaa.si/?q=QW6TEYTTJWJMX5SBRGA73PMLPATH3XYU) |
-| `[LbE3L] [H.266] Dorohedoro S02E01–E03 [1080p NF WEBRip VV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-dorohedoro-s02e01e03-1080p-nf-webrip.k10111864909836) • [🐱 Nyaa](https://nyaa.si/?q=JAI4OO4MHGS2R62CRYPVXSTN6C27GDXO) |
-| `[LbE3L] Dorohedoro S02E01–E03 [1080p NF WEB-DL AV1 (Muxed...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-dorohedoro-s02e01e03-1080p-nf-web-dl-av1.k10111792413705) • [🐱 Nyaa](https://nyaa.si/?q=WGZX4OPI4VLCWZIVN43MSRSIMVHUPIZG) |
 
 ---
 <div align="center">
