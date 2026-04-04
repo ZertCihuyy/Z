@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.04.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.47.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Yomi no Tsugai - 01 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yomi-no-tsugai-01-1080p-cr.n2093933) • [🐱 Nyaa](https://nyaa.si/?q=EHW4D4ARHNOV5NHHBWEIVTNIJ23TK53J) |
+| `[Erai-raws] Tensei Akujo no Kuro Rekishi - Special [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-akujo-no-kuro-rekishi-special.n2093932) • [🐱 Nyaa](https://nyaa.si/?q=NVU4IIEFDZEAFO7ATJYWXDTRXZ2Q73IC) |
+| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 02 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-shunkashuutou-daikousha-haru-no-mai-02.n2093931) • [🐱 Nyaa](https://nyaa.si/?q=J4PJCHK5RGRLTZ7POBGUSLT4SWXWLPC3) |
 | `[DKB] Needy Girl Overdose - S01E01 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-needy-girl-overdose-s01e01-1080p-hevc-x265.n2093929) • [🐱 Nyaa](https://nyaa.si/?q=QTFFCHNRPAQXFQL27XKAZZIOHCUJHG4S) |
 | `MAO S01E01 Nanoka and Mao REPACK 1080p DSNP WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e01-nanoka-mao-repack-1080p-dsnp-web.n2093927) • [🐱 Nyaa](https://nyaa.si/?q=3VBLAGATD7CV3GQV5X4HJSMYAUQLEEN3) |
 | `MAO S01E01 Nanoka and Mao 1080p DSNP WEB-DL AAC2.0 H 264-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e01-nanoka-mao-1080p-dsnp-web-dl.n2093923) • [🐱 Nyaa](https://nyaa.si/?q=RCFM7NSN3LTTN3WQGD63EKI6JHQWOTBS) |
@@ -40,9 +43,6 @@
 | `[Ironclad] Toujima Tanzaburou wa Kamen Rider ni Naritai -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-toujima-tanzaburou-wa-kamen-rider-ni-naritai.n2093916) • [🐱 Nyaa](https://nyaa.si/?q=UJGFPRFLWHSAU2RAK7R4LGBG4K4WGSK3) |
 | `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-daemons-shadow-realm-yomi-no-tsugai.n2093897) • [🐱 Nyaa](https://nyaa.si/?q=E75WMBLEIQ6RXTKICRYN7EI3L3GO2RTX) |
 | `[BlackRabbit] Science Fell in Love, So I Tried to Prove I...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-science-fell-love-tried-prove-2020-s01.k10148563936011) • [🐱 Nyaa](https://nyaa.si/?q=RNS5ECL25R3SMWAJB2UDII64OKNFSQK7) |
-| `[Onalrie] NEEDY GIRL OVERDOSE - S01E01 [1080p WEBRip AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-needy-girl-overdose-s01e01-1080p-webrip-av1-mkv.2071933) • [🐱 Nyaa](https://nyaa.si/?q=ZMUFKFRJUKSR4VCFN6LRFSYMHZY3IC2R) |
-| `[DKB] Kanan-sama wa Akumade Choroi - S01E01 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanan-sama-wa-akumade-choroi-s01e01-1080p.n2093896) • [🐱 Nyaa](https://nyaa.si/?q=6C6VV527BBEIVZ7PRLZ3WMZYLDMMAEJU) |
-| `[MiniMTBB] Mind Game (2004) (BD 1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/minimtbb-mind-game-2004-bd-1080p.n2093895) • [🐱 Nyaa](https://nyaa.si/?q=QZ3OINM3D6NLHT65G4QO2CX4GJ2KWOMP) |
 
 ---
 <div align="center">
