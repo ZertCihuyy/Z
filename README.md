@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.07.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.00.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Kanteishi (Kari) - 02 (720p) [9B91CA9F].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanteishi-kari-02-720p-9b91ca9f-mkv.n2093669) • [🐱 Nyaa](https://nyaa.si/?q=CKXTJVLZWHIOKNFUPLXSUJAUVQKA3B2R) |
+| `[SubsPlease] Kanteishi (Kari) - 02 (1080p) [8BC70960].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanteishi-kari-02-1080p-8bc70960-mkv.n2093670) • [🐱 Nyaa](https://nyaa.si/?q=MVYHDPFNX6ECSGWENIL7P6SAVTVJ6C65) |
+| `[ToonsHub] The Great Sage Ryddel and the Hands of Time S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-great-sage-ryddel-hands-time-s01e01-1080p.n2093668) • [🐱 Nyaa](https://nyaa.si/?q=7CIO57ULXP4DIVDXN7DONPVTI22N3S2N) |
+| `[SubsPlease] Kanteishi (Kari) - 02 (480p) [DE2EE6E4].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanteishi-kari-02-480p-de2ee6e4-mkv.n2093667) • [🐱 Nyaa](https://nyaa.si/?q=P7ZCDAIHZDS2JXRZPVB3VWNS7G5MDZ26) |
+| `The strongest job is apparently not a hero or a sage but ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/strongest-job-apparently-not-hero-sage-appraiser-provisional.n2093666) • [🐱 Nyaa](https://nyaa.si/?q=QOW2JWFXYQZCDTMESQYZ5GW445LSRGPD) |
+| `[ToonsHub] The strongest job is apparently not a hero or ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-strongest-job-apparently-not-hero-sage-appraiser.n2093664) • [🐱 Nyaa](https://nyaa.si/?q=OVR7AFTFDN63OECK77EGGK3VOQABY43A) |
+| `[Onalrie] Honzuki no Gekokujou - S04E01 [1080p WEBRip AV1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-honzuki-no-gekokujou-s04e01-1080p-webrip-av1-mkv.2071836) • [🐱 Nyaa](https://nyaa.si/?q=6KBMDAWQOEKP6SCDV6DCN54XFTQ5FCCE) |
+| `[ASW] Honzuki no Gekokujou S4 - 01 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-honzuki-no-gekokujou-s4-01-1080p-hevc.n2093660) • [🐱 Nyaa](https://nyaa.si/?q=CYPVV4MNQXIUYM6NI5ZSKAKZ2QQ7OFFL) |
 | `[Ironclad] Ascendance of a Bookworm - S04E01 [WEB 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-ascendance-bookworm-s04e01-web-1080p-av1-honzuki.k10141931606283) • [🐱 Nyaa](https://nyaa.si/?q=Q75BHLM4NUKKWYAX6I5ETKZOKBXCHAUQ) |
 | `[SubsPlease] Honzuki no Gekokujou S4 - 01 (1080p) [C322A1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-honzuki-no-gekokujou-s4-01-1080p-c322a101-mkv.n2093655) • [🐱 Nyaa](https://nyaa.si/?q=CAF7DRZI53MU3L62P2IQLD6O7KEVVOMN) |
 | `[Erai-raws] Detective Conan - 1196 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1196-480p-cr-web.n2093654) • [🐱 Nyaa](https://nyaa.si/?q=HVRD7GKPEXXVYBPN3KFMUYGYCCLQFZIT) |
@@ -35,14 +43,6 @@
 | `[SubsPlease] Honzuki no Gekokujou S4 - 01 (720p) [AF02670...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-honzuki-no-gekokujou-s4-01-720p-af02670f-mkv.n2093652) • [🐱 Nyaa](https://nyaa.si/?q=RDJI2FQ6FIJVMKZW3CQWU7Z7NJBIRES3) |
 | `[Erai-raws] Detective Conan - 1196 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1196-1080p-cr-web.n2093651) • [🐱 Nyaa](https://nyaa.si/?q=3K2ILM4C5RMYLXYYUSKBSBUZL6BIADQT) |
 | `[SubsPlease] Honzuki no Gekokujou S4 - 01 (480p) [03447F0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-honzuki-no-gekokujou-s4-01-480p-03447f0b-mkv.n2093650) • [🐱 Nyaa](https://nyaa.si/?q=RAEDOD35XQWQL5LJTTXGVPSQKFMKS2RS) |
-| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asakura-tensei-shitara-slime-datta-ken-4th-season.n2093649) • [🐱 Nyaa](https://nyaa.si/?q=LSYXOZ3SSCULXUEFGV7EFYWB4NNLAB4I) |
-| `[ASW] Detective Conan - 1196 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-detective-conan-1196-1080p-hevc-x265-10bit-aac.n2093648) • [🐱 Nyaa](https://nyaa.si/?q=6VU2VJ6OIZHXNBDANMFEQX7Z6CT6VTSH) |
-| `Detective Conan S01E1196 The Spiral Mansion Mystery Part ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-s01e1196-spiral-mansion-mystery-part-two.n2093638) • [🐱 Nyaa](https://nyaa.si/?q=KEXFYQ2GXRBVNHEFFTM6FCTTUPKRGTMB) |
-| `[ToonsHub] Detective Conan EP1196 1080p CR WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-detective-conan-ep1196-1080p-cr-web-dl.k10140852561152) • [🐱 Nyaa](https://nyaa.si/?q=LKGJRLFZY5WB25FHPH3ICVJUVOTRPZVG) |
-| `[SubsPlease] Detective Conan - 1196 (1080p) [63550D54].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1196-1080p-63550d54-mkv.n2093632) • [🐱 Nyaa](https://nyaa.si/?q=SRDFYGDLEQXDYXZ2VJCLENEL7QWOU5WP) |
-| `[SubsPlease] Detective Conan - 1196 (720p) [872A00DB].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1196-720p-872a00db-mkv.n2093631) • [🐱 Nyaa](https://nyaa.si/?q=PAP3HGWBEAKJC5PSPWQQJNSTH6STIBCE) |
-| `[SubsPlease] Detective Conan - 1196 (480p) [ACDEC5C1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1196-480p-acdec5c1-mkv.n2093630) • [🐱 Nyaa](https://nyaa.si/?q=HAQVMDFTP7T7EWCYLXV5GDJFML73D3PE) |
-| `[Onalrie] Mairimashita! Iruma-kun - S04E01 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mairimashita-iruma-kun-s04e01-1080p-webrip-av1-mkv.2071807) • [🐱 Nyaa](https://nyaa.si/?q=55KFZXFHAAUXP75HM2XHUYZLLTYBQ2KT) |
 
 ---
 <div align="center">
