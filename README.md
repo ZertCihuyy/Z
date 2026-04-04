@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.05.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.59.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -12,6 +12,7 @@
 ### 📅 Jadwal Rilis Hari Ini: **Sabtu**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
+| `09:30` | **[Nezumi-kun no Chokki (TV)](https://myanimelist.net/anime/62495/Nezumi-kun_no_Chokki_TV)** | *Fantasy* |
 | `08:30` | **[Shimajirou no Wow!](https://myanimelist.net/anime/18941/Shimajirou_no_Wow)** | *Adventure, Comedy, Fantasy* |
 | `09:25` | **[Rilakkuma](https://myanimelist.net/anime/60153/Rilakkuma)** | *Slice of Life* |
 | `08:00` | **[Cardfight!! Vanguard: Divinez Genma Seisen-hen](https://myanimelist.net/anime/62649/Cardfight_Vanguard__Divinez_Genma_Seisen-hen)** | *Action* |
@@ -25,6 +26,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] Gachiakuta S01 CR [1080p WEBRip AV1 Opus 2.0] [Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-gachiakuta-s01-cr-1080p-webrip-av1-opus.k10138259036676) • [🐱 Nyaa](https://nyaa.si/?q=NXWH73W7OMS6OOYOQSAAX4PXVC3GZMX4) |
 | `[Onalrie] Rilakkuma - S01E01 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e01-1080p-webrip-av1-mkv.2071757) • [🐱 Nyaa](https://nyaa.si/?q=PVC4LT7ASPXHADWG4RZCM3TP7VLIV2MU) |
 | `Call.of.the.Night.S02.1080p.BluRay.Dual-Audio.Opus.2.0.x2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/call-night-s02-1080p-bluray-dual-audio-opus.n2093560) • [🐱 Nyaa](https://nyaa.si/?q=7EQRJAMDCFRPASYV4F7WJD6YYVDWCDX4) |
 | `[DKB] Kaya-chan wa Kowakunai - (Season 01) [1080p][HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kaya-chan-wa-kowakunai-season-01-1080p.n2093556) • [🐱 Nyaa](https://nyaa.si/?q=K5CL3FW2NAKECOMHV6FXBHAJNQVYALGT) |
@@ -39,7 +41,6 @@
 | `[Bird] Cardfight!! Vanguard - Divinez Genma Seisen-hen - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-11-1080p.n2093544) • [🐱 Nyaa](https://nyaa.si/?q=CKLDD2IHYCBXCRHJ3NPTIZAR6XLNDG7X) |
 | `[Tasokare] Cleopatra D.C. S01 v2 (BD 1080p Opus AV1)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-cleopatra-d-c-s01-v2-bd-1080p-opus-av1.k10135009040391) • [🐱 Nyaa](https://nyaa.si/?q=IBITLE2OGNGQSMYW7ZUTERWNTRDVVCVK) |
 | `[Kawatare] Cleopatra D.C. S01 v2 (BD 1080p FLAC x265)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-cleopatra-d-c-s01-v2-bd-1080p-flac-x265.k10134999907339) • [🐱 Nyaa](https://nyaa.si/?q=3KGI7P2GKGDN36D7HVVJJPMS6IEIOQLT) |
-| `Mary and the Witch's Flower (2017) メアリと魔女の花 [12-bit 4:2:0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mary-witchs-flower-2017-12-bit-4-2.n2093539) • [🐱 Nyaa](https://nyaa.si/?q=VR7KOEFO6LSRE6PLEJBJN27ICF5O2DSE) |
 
 ---
 <div align="center">
