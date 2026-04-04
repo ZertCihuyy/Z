@@ -1,5 +1,5 @@
 {
-  "last_update": "5/4/2026, 01.02.35",
+  "last_update": "5/4/2026, 02.02.29",
   "hari": "Minggu",
   "data": [
     {
@@ -807,6 +807,158 @@
       ]
     },
     {
+      "mal_id": 62050,
+      "url": "https://myanimelist.net/anime/62050/Kami_no_Niwatsuki_Kusunoki-tei",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1974/156105.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1974/156105t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1974/156105l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1974/156105.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1974/156105t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1974/156105l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/Osiu9MED07I?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kami no Niwatsuki Kusunoki-tei"
+        },
+        {
+          "type": "Japanese",
+          "title": "神の庭付き楠木邸"
+        },
+        {
+          "type": "English",
+          "title": "Kusunoki's Garden of Gods"
+        }
+      ],
+      "title": "Kami no Niwatsuki Kusunoki-tei",
+      "title_english": "Kusunoki's Garden of Gods",
+      "title_japanese": "神の庭付き楠木邸",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 5, 2026 to ?"
+      },
+      "duration": "23 min per ep",
+      "rating": null,
+      "score": null,
+      "scored_by": null,
+      "rank": 17712,
+      "popularity": 7338,
+      "members": 9703,
+      "favorites": 22,
+      "synopsis": "Deep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?\n\n(Source: Yen Press)",
+      "background": "Kami no Niwatsuki Kusunoki-tei aired on TV Asahi's NUMAnimation block.",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "01:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 01:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 213,
+          "type": "anime",
+          "name": "Half H.P Studio",
+          "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        },
+        {
+          "mal_id": 323,
+          "type": "anime",
+          "name": "Nippon Columbia",
+          "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3230,
+          "type": "anime",
+          "name": "Juvenage",
+          "url": "https://myanimelist.net/anime/producer/3230/Juvenage"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 36,
+          "type": "anime",
+          "name": "Slice of Life",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 50,
+          "type": "anime",
+          "name": "Adult Cast",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+          "mal_id": 63,
+          "type": "anime",
+          "name": "Iyashikei",
+          "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+        },
+        {
+          "mal_id": 6,
+          "type": "anime",
+          "name": "Mythology",
+          "url": "https://myanimelist.net/anime/genre/6/Mythology"
+        }
+      ],
+      "demographics": []
+    },
+    {
       "mal_id": 2406,
       "url": "https://myanimelist.net/anime/2406/Sazae-san",
       "images": {
@@ -1207,182 +1359,6 @@
       ],
       "explicit_genres": [],
       "themes": [],
-      "demographics": []
-    },
-    {
-      "mal_id": 62432,
-      "url": "https://myanimelist.net/anime/62432/Jingai_Kyoushitsu_no_Ningengirai_Kyoushi",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1387/154934.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1387/154934t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1387/154934l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1387/154934.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1387/154934t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1387/154934l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/bkNbjN6nwlg?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Jingai Kyoushitsu no Ningengirai Kyoushi"
-        },
-        {
-          "type": "Synonym",
-          "title": "Misanthropic Teacher in Demi-Human Classroom."
-        },
-        {
-          "type": "Japanese",
-          "title": "人外教室の人間嫌い教師"
-        },
-        {
-          "type": "English",
-          "title": "A Misanthrope Teaches a Class for Demi-Humans"
-        }
-      ],
-      "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-      "title_english": "A Misanthrope Teaches a Class for Demi-Humans",
-      "title_japanese": "人外教室の人間嫌い教師",
-      "title_synonyms": [
-        "Misanthropic Teacher in Demi-Human Classroom."
-      ],
-      "type": "TV",
-      "source": "Light novel",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-01-11T00:00:00+00:00",
-        "to": "2026-04-05T00:00:00+00:00",
-        "prop": {
-          "from": {
-            "day": 11,
-            "month": 1,
-            "year": 2026
-          },
-          "to": {
-            "day": 5,
-            "month": 4,
-            "year": 2026
-          }
-        },
-        "string": "Jan 11, 2026 to Apr 5, 2026"
-      },
-      "duration": "23 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 6.22,
-      "scored_by": 3790,
-      "rank": 9541,
-      "popularity": 5211,
-      "members": 22777,
-      "favorites": 28,
-      "synopsis": "Shaped by experiences that left him weary of human relationships, Rei Hitoma openly dislikes people. Seeking a quiet, uneventful life, he accepts a teaching position at a secluded school in the mountains, only to discover that his classroom is anything but ordinary. The students under his care are demi-humans who have gathered there with a singular goal: to learn what it means to become human.\n\nDespite his disillusionment, Rei finds himself responsible for explaining human behavior and social norms to mermaids, bunnies, werewolves, and the like. As his students earnestly struggle to understand humanity, their questions and aspirations gradually expose the contradictions in Rei's own beliefs.\n\n[Written by MAL Rewrite]",
-      "background": "Jingai Kyoushitsu no Ningengirai Kyoushi aired on ABC TV and TV Asahi's ANiMAZiNG!!! block.",
-      "season": "winter",
-      "year": 2026,
-      "broadcast": {
-        "day": "Sundays",
-        "time": "00:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Sundays at 00:00 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 144,
-          "type": "anime",
-          "name": "Pony Canyon",
-          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
-        },
-        {
-          "mal_id": 238,
-          "type": "anime",
-          "name": "AT-X",
-          "url": "https://myanimelist.net/anime/producer/238/AT-X"
-        },
-        {
-          "mal_id": 1392,
-          "type": "anime",
-          "name": "Zack Promotion",
-          "url": "https://myanimelist.net/anime/producer/1392/Zack_Promotion"
-        },
-        {
-          "mal_id": 1500,
-          "type": "anime",
-          "name": "ABC Animation",
-          "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
-        },
-        {
-          "mal_id": 1696,
-          "type": "anime",
-          "name": "Kadokawa",
-          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
-        },
-        {
-          "mal_id": 2973,
-          "type": "anime",
-          "name": "ANYCOLOR",
-          "url": "https://myanimelist.net/anime/producer/2973/ANYCOLOR"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 163,
-          "type": "anime",
-          "name": "asread.",
-          "url": "https://myanimelist.net/anime/producer/163/asread"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 8,
-          "type": "anime",
-          "name": "Drama",
-          "url": "https://myanimelist.net/anime/genre/8/Drama"
-        },
-        {
-          "mal_id": 37,
-          "type": "anime",
-          "name": "Supernatural",
-          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 51,
-          "type": "anime",
-          "name": "Anthropomorphic",
-          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
-        },
-        {
-          "mal_id": 23,
-          "type": "anime",
-          "name": "School",
-          "url": "https://myanimelist.net/anime/genre/23/School"
-        },
-        {
-          "mal_id": 48,
-          "type": "anime",
-          "name": "Workplace",
-          "url": "https://myanimelist.net/anime/genre/48/Workplace"
-        }
-      ],
       "demographics": []
     }
   ]
