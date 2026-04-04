@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.36.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.04.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Needy Girl Overdose - S01E01 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-needy-girl-overdose-s01e01-1080p-hevc-x265.n2093929) • [🐱 Nyaa](https://nyaa.si/?q=QTFFCHNRPAQXFQL27XKAZZIOHCUJHG4S) |
+| `MAO S01E01 Nanoka and Mao REPACK 1080p DSNP WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e01-nanoka-mao-repack-1080p-dsnp-web.n2093927) • [🐱 Nyaa](https://nyaa.si/?q=3VBLAGATD7CV3GQV5X4HJSMYAUQLEEN3) |
 | `MAO S01E01 Nanoka and Mao 1080p DSNP WEB-DL AAC2.0 H 264-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e01-nanoka-mao-1080p-dsnp-web-dl.n2093923) • [🐱 Nyaa](https://nyaa.si/?q=RCFM7NSN3LTTN3WQGD63EKI6JHQWOTBS) |
 | `[Yameii] The Daily Life of the Immortal King - S05E11 [En...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-daily-life-immortal-king-s05e11-english-dub.n2093922) • [🐱 Nyaa](https://nyaa.si/?q=DG2Q56PTKWJOYH64BNK75YAGFSCIX5SP) |
 | `[GHOST] A Certain Scientific Accelerator (BD 1080p HEVC 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-certain-scientific-accelerator-bd-1080p-hevc-10bit.n2093921) • [🐱 Nyaa](https://nyaa.si/?q=5HOHGCYXRA4UKQPXNUPBNQJUSXLXELYW) |
@@ -41,8 +43,6 @@
 | `[Onalrie] NEEDY GIRL OVERDOSE - S01E01 [1080p WEBRip AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-needy-girl-overdose-s01e01-1080p-webrip-av1-mkv.2071933) • [🐱 Nyaa](https://nyaa.si/?q=ZMUFKFRJUKSR4VCFN6LRFSYMHZY3IC2R) |
 | `[DKB] Kanan-sama wa Akumade Choroi - S01E01 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanan-sama-wa-akumade-choroi-s01e01-1080p.n2093896) • [🐱 Nyaa](https://nyaa.si/?q=6C6VV527BBEIVZ7PRLZ3WMZYLDMMAEJU) |
 | `[MiniMTBB] Mind Game (2004) (BD 1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/minimtbb-mind-game-2004-bd-1080p.n2093895) • [🐱 Nyaa](https://nyaa.si/?q=QZ3OINM3D6NLHT65G4QO2CX4GJ2KWOMP) |
-| `[MTBB] Mind Game (2004) (BD 1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mtbb-mind-game-2004-bd-1080p.n2093894) • [🐱 Nyaa](https://nyaa.si/?q=SFDAYNNQDBVJB4ZDUP5O37XFFGQWXAEQ) |
-| `[Erai-raws] Kanan-sama wa Akumade Choroi - 01 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanan-sama-wa-akumade-choroi-01.n2093893) • [🐱 Nyaa](https://nyaa.si/?q=7W2BSFYIS535N3SBMJ4HHA7GM64T3ZOR) |
 
 ---
 <div align="center">
