@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.47.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.39.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-daemons-shadow-realm-yomi-no-tsugai.n2093897) • [🐱 Nyaa](https://nyaa.si/?q=E75WMBLEIQ6RXTKICRYN7EI3L3GO2RTX) |
+| `[BlackRabbit] Science Fell in Love, So I Tried to Prove I...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-science-fell-love-tried-prove-2020-s01.k10148563936011) • [🐱 Nyaa](https://nyaa.si/?q=RNS5ECL25R3SMWAJB2UDII64OKNFSQK7) |
+| `[Onalrie] NEEDY GIRL OVERDOSE - S01E01 [1080p WEBRip AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-needy-girl-overdose-s01e01-1080p-webrip-av1-mkv.2071933) • [🐱 Nyaa](https://nyaa.si/?q=ZMUFKFRJUKSR4VCFN6LRFSYMHZY3IC2R) |
 | `[DKB] Kanan-sama wa Akumade Choroi - S01E01 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanan-sama-wa-akumade-choroi-s01e01-1080p.n2093896) • [🐱 Nyaa](https://nyaa.si/?q=6C6VV527BBEIVZ7PRLZ3WMZYLDMMAEJU) |
 | `[MiniMTBB] Mind Game (2004) (BD 1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/minimtbb-mind-game-2004-bd-1080p.n2093895) • [🐱 Nyaa](https://nyaa.si/?q=QZ3OINM3D6NLHT65G4QO2CX4GJ2KWOMP) |
 | `[MTBB] Mind Game (2004) (BD 1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mtbb-mind-game-2004-bd-1080p.n2093894) • [🐱 Nyaa](https://nyaa.si/?q=SFDAYNNQDBVJB4ZDUP5O37XFFGQWXAEQ) |
@@ -40,9 +43,6 @@
 | `[LoliHouse] 最强的职业不是勇者也不是贤者好像是鉴定士(暂定)的样子？ / Kanteishi (Kar...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lolihouse-kanteishi-kari-02-webrip-1080p-hevc-10bit-aac.n2093879) • [🐱 Nyaa](https://nyaa.si/?q=UAZ2HVHNEQ5243KUX7HS2ASBEUJIFAK4) |
 | `[ASW] Kami no Niwatsuki Kusunoki-tei - 01 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kami-no-niwatsuki-kusunoki-tei-01-1080p.n2093878) • [🐱 Nyaa](https://nyaa.si/?q=TV7CQOZGKLWADAXIK53T7AVGTPZGFSWZ) |
 | `[DKB] Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-saikyou-no-shokugyou-wa-yuusha-demo-kenja.n2093877) • [🐱 Nyaa](https://nyaa.si/?q=IY2ZR2ODVOANF5WSEJU5JI5EW76QDKLQ) |
-| `[HnY] Beyblade X 122 - The Future Beyond (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hny-beyblade-x-122-future-beyond-1080p-mkv.n2093876) • [🐱 Nyaa](https://nyaa.si/?q=YHNVEF4KN2B7I7E55KJWERUQWZ2LDGTK) |
-| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 01 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-01.n2093875) • [🐱 Nyaa](https://nyaa.si/?q=HTIZUOL5HVMY7CTO4FQ5ASMPUZNWHALN) |
-| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-shunkashuutou-daikousha-haru-no-mai-s01e02-1080p.2071927) • [🐱 Nyaa](https://nyaa.si/?q=IWPZ5JD4MKYR4TJHVZAWISAF54NUHHY7) |
 
 ---
 <div align="center">
