@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.53.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.37.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `RILAKKUMA S01E01 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e01-1080p-cr-web-dl-multi-aac2.n2093698) • [🐱 Nyaa](https://nyaa.si/?q=TVITFHWECWV4B5MKF2RZHM4ZCIHL4P4B) |
-| `Welcome to Demon School Iruma kun S04E01 The Other Demon ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/welcome-demon-school-iruma-kun-s04e01-other-misfit.n2093697) • [🐱 Nyaa](https://nyaa.si/?q=BMOOBKL4RDAOOJ2SJS3UUINHSYUUGZJX) |
-| `[Erai-raws] Rilakkuma - 01 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-01-1080p-cr-webrip-hevc.n2093696) • [🐱 Nyaa](https://nyaa.si/?q=25VG4YK265DIBXIRPISMLOBYMB3NP2FV) |
-| `[Polarwindz] Wistoria꞉ Wand and Sword (Tsue to Tsurugi no...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polarwindz-wistoria-wand-sword-tsue-tsurugi-no-bd.n2093695) • [🐱 Nyaa](https://nyaa.si/?q=2JZ72PXJ7REVJZ6ZXTZZNSW2HUTEUHWI) |
-| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2093694) • [🐱 Nyaa](https://nyaa.si/?q=CFH3LMHTSQ5RVI64CQFDLXS6V5DTZCTE) |
-| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2093693) • [🐱 Nyaa](https://nyaa.si/?q=LSX2DYWRGLORGMPJ62XWUJWAONDJP7C2) |
-| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2093692) • [🐱 Nyaa](https://nyaa.si/?q=PD2VQI5ZY4S6ONA3KFLNMQ56K7YYKPBC) |
-| `[Onalrie] Kanteishi (Kari) - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kanteishi-kari-s01e02-1080p-webrip-av1-mkv.2071853) • [🐱 Nyaa](https://nyaa.si/?q=3DC7EOYKWEL6L76JNJLCWN72V5XRWQXS) |
-| `[ASW] Kanteishi (Kari) - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kanteishi-kari-02-1080p-hevc-x265-10bit-aac.n2093689) • [🐱 Nyaa](https://nyaa.si/?q=ZI2DFMVE3IVTEYFIFEH7VZHRSS6K7HT3) |
-| `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-honzuki-no-gekokujou-shisho-ni-naru-tame.n2093687) • [🐱 Nyaa](https://nyaa.si/?q=OFPSGNJ33BUJJZK7MDGD3DZHJEE4QJ6N) |
-| `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E05.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e05-multi-audio.n2093682) • [🐱 Nyaa](https://nyaa.si/?q=S6FWWHAFFG74EMCY5WX2QM7AQ5BZ5CHL) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 01 [480p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-01.n2093681) • [🐱 Nyaa](https://nyaa.si/?q=CAJ3BUGOGVDOXR2M3UBM54GWRBYN5AYO) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 01 [720p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-01.n2093680) • [🐱 Nyaa](https://nyaa.si/?q=W56JKWRN3A3QNHM5FZK37S4LDHMBPVRX) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 01 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-01.n2093679) • [🐱 Nyaa](https://nyaa.si/?q=W6DEXUXO34EFCQABXYAL7EN3WUDY76NK) |
-| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-honzuki-no-gekokujou-shisho-ni-naru.n2093678) • [🐱 Nyaa](https://nyaa.si/?q=5IDC5HZCU3YT3MFTU4CVBI4DYGQZDECR) |
+| `[ToonsHub] A Misanthrope Teaches a Class for Demi-Humans ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-misanthrope-teaches-class-demi-humans-s01e13-1080p.k10144568296707) • [🐱 Nyaa](https://nyaa.si/?q=W2BFCEBBKE7YXZSAKZDVUKOHVO6IWWXY) |
+| `[VARYG] Daemons of the Shadow Realm S01E01 Asa and Yuru 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-daemons-shadow-realm-s01e01-asa-yuru-1080p.k10144563775759) • [🐱 Nyaa](https://nyaa.si/?q=COJ6H6KWHW7AHIABVSLK2GFBYIQYPPDP) |
+| `[VARYG] A Misanthrope Teaches a Class for Demi Humans S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-misanthrope-teaches-class-demi-humans-s01e11-nigh.k10144558950657) • [🐱 Nyaa](https://nyaa.si/?q=CMP5TSHHOAT4B64HCM6MXMBTOUFKJPFJ) |
+| `[VARYG] A Misanthrope Teaches a Class for Demi Humans S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-misanthrope-teaches-class-demi-humans-s01e13-nigh.k10144558365445) • [🐱 Nyaa](https://nyaa.si/?q=QUCKJJICUVBQS6LUXCUUYZTFWYXCL7R2) |
+| `[ToonsHub] A Misanthrope Teaches a Class for Demi-Humans ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-misanthrope-teaches-class-demi-humans-s01e11-1080p.k10144543301892) • [🐱 Nyaa](https://nyaa.si/?q=QOE4YEJLTAIG2ND6WKLH6UDVEPMKDM45) |
+| `[Erai-raws] Jingai Kyoushitsu no Ningengirai Kyoushi - 13...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jingai-kyoushitsu-no-ningengirai-kyoushi-13.n2093727) • [🐱 Nyaa](https://nyaa.si/?q=E5IFOM5SWXEBZQQ4Y7MIEPZ3N652DUTE) |
+| `Akane Banashi S01E01 That Day 1080p NF WEB-DL AAC2.0 H 26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/akane-banashi-s01e01-day-1080p-nf-web-dl.n2093719) • [🐱 Nyaa](https://nyaa.si/?q=3ZP3HYJ4P3QW4XWQYMI6M6F5DXOLWG4R) |
+| `[Yameii] Dead Account - S01E11 [English Dub] [CR WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dead-account-s01e11-english-dub-cr-web.n2093717) • [🐱 Nyaa](https://nyaa.si/?q=IAX3PHRVLOEZMK7RSBULRS342ZU5F6NQ) |
+| `[Yameii] TRIGUN STAMPEDE - S02E11 [English Dub] [CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-trigun-stampede-s02e11-english-dub-cr-web.n2093716) • [🐱 Nyaa](https://nyaa.si/?q=WY4EI47SGZN2GYGJXWLZE3CDSIYSKDUY) |
+| `[Yameii] Dead Account - S01E11 [English Dub] [CR WEB-DL 7...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dead-account-s01e11-english-dub-cr-web.n2093715) • [🐱 Nyaa](https://nyaa.si/?q=IPPQ5W2CEOJB47BG6UNFFCEFEY23EXVU) |
+| `[Yameii] TRIGUN STAMPEDE - S02E11 [English Dub] [CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-trigun-stampede-s02e11-english-dub-cr-web.n2093714) • [🐱 Nyaa](https://nyaa.si/?q=VSDTJ2V7XHE76HPTXT26J6UVDVILO2CT) |
+| `Dead Account S01E11 The A-B Alliance 1080p CR WEB-DL DUAL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dead-account-s01e11-b-alliance-1080p-cr-web.n2093712) • [🐱 Nyaa](https://nyaa.si/?q=S22B7G3KRFAF2ZGH4MQQ2NL3RDAKPVAF) |
+| `[Judas] Jingai Kyoushitsu no Ningengirai Kyoushi (A Misan...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jingai-kyoushitsu-no-ningengirai-kyoushi-misanthrope.n2093711) • [🐱 Nyaa](https://nyaa.si/?q=OZV7CAXEANJ74FAPDYHQ4YTE4IIB6RTM) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E01 1080p NF WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-daemons-shadow-realm-s01e01-1080p-nf-web.k10144128049412) • [🐱 Nyaa](https://nyaa.si/?q=R6FNCHQ2QINBAGFSXDT4CX3WLFJGGMYA) |
+| `TRIGUN STAMPEDE S02E11 I Miss You 1080p CR WEB-DL DUAL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trigun-stampede-s02e11-miss-1080p-cr-web-dl.n2093709) • [🐱 Nyaa](https://nyaa.si/?q=IOYPP43WTG7YWJQ6IKZ4AVACJSNGEUWK) |
 
 ---
 <div align="center">
