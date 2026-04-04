@@ -1,5 +1,5 @@
 {
-  "last_update": "4/4/2026, 07.03.32",
+  "last_update": "4/4/2026, 10.16.56",
   "data": [
     {
       "mal_id": 61469,
@@ -88,11 +88,11 @@
       "duration": "47 min",
       "rating": "R - 17+ (violence & profanity)",
       "score": 9.18,
-      "scored_by": 80075,
+      "scored_by": 80657,
       "rank": 2,
-      "popularity": 1522,
-      "members": 179974,
-      "favorites": 5890,
+      "popularity": 1516,
+      "members": 181038,
+      "favorites": 5921,
       "synopsis": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\n\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\n\n[Written by MAL Rewrite]",
       "background": "",
       "season": null,
@@ -1090,6 +1090,298 @@
       "demographics": []
     },
     {
+      "mal_id": 62568,
+      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Dr. Stone: Science Future Part 3"
+        },
+        {
+          "type": "Synonym",
+          "title": "Dr. Stone 4th Season Part 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
+        },
+        {
+          "type": "English",
+          "title": "Dr. Stone: Science Future Part 3"
+        }
+      ],
+      "title": "Dr. Stone: Science Future Part 3",
+      "title_english": "Dr. Stone: Science Future Part 3",
+      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
+      "title_synonyms": [
+        "Dr. Stone 4th Season Part 3"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2, 2026 to ?"
+      },
+      "duration": "24 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.31,
+      "scored_by": 3241,
+      "rank": 314,
+      "popularity": 2416,
+      "members": 97359,
+      "favorites": 230,
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 73,
+          "type": "anime",
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 62568,
+      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Dr. Stone: Science Future Part 3"
+        },
+        {
+          "type": "Synonym",
+          "title": "Dr. Stone 4th Season Part 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
+        },
+        {
+          "type": "English",
+          "title": "Dr. Stone: Science Future Part 3"
+        }
+      ],
+      "title": "Dr. Stone: Science Future Part 3",
+      "title_english": "Dr. Stone: Science Future Part 3",
+      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
+      "title_synonyms": [
+        "Dr. Stone 4th Season Part 3"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2, 2026 to ?"
+      },
+      "duration": "24 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.31,
+      "scored_by": 3241,
+      "rank": 314,
+      "popularity": 2416,
+      "members": 97359,
+      "favorites": 230,
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 73,
+          "type": "anime",
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
       "mal_id": 59708,
       "url": "https://myanimelist.net/anime/59708/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_4th_Season__2-nensei-hen_1_Gakki",
       "images": {
@@ -1286,306 +1578,6 @@
         }
       ],
       "demographics": []
-    },
-    {
-      "mal_id": 59953,
-      "url": "https://myanimelist.net/anime/59953/Mushen_Ji",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1324/150012.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1324/150012t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1324/150012l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1324/150012.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1324/150012t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1324/150012l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/gs0AKLQ71j0?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Mushen Ji"
-        },
-        {
-          "type": "Synonym",
-          "title": "Mu Shen Ji"
-        },
-        {
-          "type": "Synonym",
-          "title": "ToHG"
-        },
-        {
-          "type": "Japanese",
-          "title": "牧神记"
-        },
-        {
-          "type": "English",
-          "title": "Tales of Herding Gods"
-        }
-      ],
-      "title": "Mushen Ji",
-      "title_english": "Tales of Herding Gods",
-      "title_japanese": "牧神记",
-      "title_synonyms": [
-        "Mu Shen Ji",
-        "ToHG"
-      ],
-      "type": "ONA",
-      "source": "Web novel",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2024-10-27T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 27,
-            "month": 10,
-            "year": 2024
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Oct 27, 2024 to ?"
-      },
-      "duration": "20 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.29,
-      "scored_by": 12911,
-      "rank": 330,
-      "popularity": 6060,
-      "members": 15442,
-      "favorites": 63,
-      "synopsis": "In the Disabled Elderly Village, there live nine elderly people with unpredictable origins and the young man Qin Mu they raised. One day, the cows that Qin Mu was responsible for grazing began to speak human words. From then on, Qin Mu became more aware of the dangers and beauty of Daxu, a land abandoned by gods: demons descended with darkness, divine bones danced in the ruins, and dragon bones protected their young, a giant ship that drags the sun... No matter what kind of danger he faces, Qin Mu is fearless. He has integrated the skills passed down by the Nine Elders and vowed to carve out a world with his unparalleled hegemony. \n\n(Source: Bilibili, translated)",
-      "background": "Adaptation of Zhai Zhu's (宅猪) web novel of the same title.",
-      "season": null,
-      "year": null,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "producers": [
-        {
-          "mal_id": 1414,
-          "type": "anime",
-          "name": "bilibili",
-          "url": "https://myanimelist.net/anime/producer/1414/bilibili"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 1768,
-          "type": "anime",
-          "name": "Sparkly Key Animation Studio",
-          "url": "https://myanimelist.net/anime/producer/1768/Sparkly_Key_Animation_Studio"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 13,
-          "type": "anime",
-          "name": "Historical",
-          "url": "https://myanimelist.net/anime/genre/13/Historical"
-        },
-        {
-          "mal_id": 17,
-          "type": "anime",
-          "name": "Martial Arts",
-          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
-        }
-      ],
-      "demographics": []
-    },
-    {
-      "mal_id": 57779,
-      "url": "https://myanimelist.net/anime/57779/Dorohedoro_Season_2",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1603/155354.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1603/155354t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1603/155354l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1603/155354.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1603/155354t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1603/155354l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/oQSz3MaA35E?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Dorohedoro Season 2"
-        },
-        {
-          "type": "Japanese",
-          "title": "ドロヘドロ Season2"
-        }
-      ],
-      "title": "Dorohedoro Season 2",
-      "title_english": null,
-      "title_japanese": "ドロヘドロ Season2",
-      "title_synonyms": [],
-      "type": "ONA",
-      "source": "Manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-01T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 1,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 1, 2026 to ?"
-      },
-      "duration": "26 min",
-      "rating": "R - 17+ (violence & profanity)",
-      "score": 8.29,
-      "scored_by": 1512,
-      "rank": 313,
-      "popularity": 3561,
-      "members": 50145,
-      "favorites": 163,
-      "synopsis": "Second season of Dorohedoro.",
-      "background": "",
-      "season": null,
-      "year": null,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "producers": [
-        {
-          "mal_id": 1856,
-          "type": "anime",
-          "name": "dugout",
-          "url": "https://myanimelist.net/anime/producer/1856/dugout"
-        },
-        {
-          "mal_id": 2229,
-          "type": "anime",
-          "name": "Toho Music",
-          "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 569,
-          "type": "anime",
-          "name": "MAPPA",
-          "url": "https://myanimelist.net/anime/producer/569/MAPPA"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        },
-        {
-          "mal_id": 14,
-          "type": "anime",
-          "name": "Horror",
-          "url": "https://myanimelist.net/anime/genre/14/Horror"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 58,
-          "type": "anime",
-          "name": "Gore",
-          "url": "https://myanimelist.net/anime/genre/58/Gore"
-        }
-      ],
-      "demographics": [
-        {
-          "mal_id": 42,
-          "type": "anime",
-          "name": "Seinen",
-          "url": "https://myanimelist.net/anime/genre/42/Seinen"
-        }
-      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_update": "4/4/2026, 07.03.32",
+  "last_update": "4/4/2026, 10.16.56",
   "data": [
     {
       "mal_id": 61316,
@@ -85,9 +85,9 @@
       "score": null,
       "scored_by": null,
       "rank": null,
-      "popularity": 1766,
-      "members": 149778,
-      "favorites": 962,
+      "popularity": 1745,
+      "members": 151588,
+      "favorites": 983,
       "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa)",
       "background": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season is comprised of two arcs. The first eleven episodes are subtitled Soushitsu-hen (Loss Arc). The latter eight, subtitled Dakkan-hen (Recapture Arc), began airing on August 12, 2026.",
       "season": "spring",
@@ -417,8 +417,8 @@
       "type": "TV",
       "source": "Manga",
       "episodes": null,
-      "status": "Not yet aired",
-      "airing": false,
+      "status": "Currently Airing",
+      "airing": true,
       "aired": {
         "from": "2026-04-03T00:00:00+00:00",
         "to": null,
@@ -436,14 +436,14 @@
         },
         "string": "Apr 3, 2026 to ?"
       },
-      "duration": "Unknown",
+      "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": null,
-      "scored_by": null,
-      "rank": null,
-      "popularity": 1946,
-      "members": 133225,
-      "favorites": 746,
+      "score": 8.19,
+      "scored_by": 1943,
+      "rank": 481,
+      "popularity": 1894,
+      "members": 137952,
+      "favorites": 781,
       "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll)",
       "background": "Tensei shitara Slime Datta Ken 4th Season aired on Nippon TV's Friday Anime Night block.",
       "season": "spring",
@@ -594,9 +594,9 @@
       "score": null,
       "scored_by": null,
       "rank": null,
-      "popularity": 2175,
-      "members": 113947,
-      "favorites": 690,
+      "popularity": 2157,
+      "members": 115956,
+      "favorites": 700,
       "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
       "background": "Episode 2 was streamed in advance on April 4, 2026 on Crunchyroll. Each episode was streamed seven days in advance of the TV broadcast starting on April 11, 2026.",
       "season": "spring",
@@ -709,9 +709,9 @@
       "title_synonyms": [],
       "type": "TV",
       "source": "Light novel",
-      "episodes": null,
-      "status": "Not yet aired",
-      "airing": false,
+      "episodes": 12,
+      "status": "Currently Airing",
+      "airing": true,
       "aired": {
         "from": "2026-04-03T00:00:00+00:00",
         "to": null,
@@ -729,14 +729,14 @@
         },
         "string": "Apr 3, 2026 to ?"
       },
-      "duration": "Unknown",
+      "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": null,
-      "scored_by": null,
-      "rank": null,
-      "popularity": 2387,
-      "members": 99563,
-      "favorites": 1522,
+      "score": 8.27,
+      "scored_by": 2215,
+      "rank": 351,
+      "popularity": 2331,
+      "members": 103274,
+      "favorites": 1575,
       "synopsis": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
       "background": "",
       "season": "spring",
@@ -747,7 +747,26 @@
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 22:30 (JST)"
       },
-      "producers": [],
+      "producers": [
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1406,
+          "type": "anime",
+          "name": "Miracle Bus",
+          "url": "https://myanimelist.net/anime/producer/1406/Miracle_Bus"
+        },
+        {
+          "mal_id": 2229,
+          "type": "anime",
+          "name": "Toho Music",
+          "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+        }
+      ],
       "licensors": [],
       "studios": [
         {
@@ -852,12 +871,12 @@
       },
       "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.23,
-      "scored_by": 1646,
-      "rank": 405,
-      "popularity": 2497,
-      "members": 92936,
-      "favorites": 213,
+      "score": 8.31,
+      "scored_by": 3241,
+      "rank": 314,
+      "popularity": 2416,
+      "members": 97359,
+      "favorites": 230,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
@@ -874,6 +893,18 @@
           "type": "anime",
           "name": "Magic Capsule",
           "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
         }
       ],
       "licensors": [],
@@ -986,12 +1017,12 @@
       },
       "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.23,
-      "scored_by": 1646,
-      "rank": 405,
-      "popularity": 2497,
-      "members": 92936,
-      "favorites": 213,
+      "score": 8.31,
+      "scored_by": 3241,
+      "rank": 314,
+      "popularity": 2416,
+      "members": 97359,
+      "favorites": 230,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
@@ -1008,6 +1039,18 @@
           "type": "anime",
           "name": "Magic Capsule",
           "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
         }
       ],
       "licensors": [],
@@ -1123,9 +1166,9 @@
       "score": null,
       "scored_by": null,
       "rank": null,
-      "popularity": 2554,
-      "members": 89306,
-      "favorites": 334,
+      "popularity": 2534,
+      "members": 90396,
+      "favorites": 344,
       "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
       "background": "",
       "season": "spring",
