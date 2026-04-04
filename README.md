@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.09.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.13.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -24,21 +24,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] B King S01E08 1080p ADN WEB-DL AAC2.0 H.264 (Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e08-1080p-adn-web-dl.n2093552) • [🐱 Nyaa](https://nyaa.si/?q=KUEM4UIIPFEQI2HNH3G343PDWUBBGWMK) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.n2093551) • [🐱 Nyaa](https://nyaa.si/?q=D3QLAWMBPBQWLY7GCDB4JO3CQ4HST3HH) |
+| `[Erai-raws] Snowball Earth - 01 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-01-1080p-cr-webrip.n2093550) • [🐱 Nyaa](https://nyaa.si/?q=YYE4Q6WP4HA6U3YGTPOL7SGVVZIEGPSL) |
+| `[Erai-raws] Enen no Shouboutai: San no Shou Part 2 - 13 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-enen-no-shouboutai-san-shou-part.n2093549) • [🐱 Nyaa](https://nyaa.si/?q=7AGXII3DNTBTYIQQGQFTY4XV5QYEJ2NS) |
+| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.n2093548) • [🐱 Nyaa](https://nyaa.si/?q=2NFMLTY7NTPUEDNA5AR6G2RWEZ6MFEUG) |
+| `[ToonsHub] RILAKKUMA S01E01 1080p CR WEB-DL MULTi AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e01-1080p-cr-web-dl-multi.k10135730290688) • [🐱 Nyaa](https://nyaa.si/?q=PYIO7WAKD22YIFTNNSPATFBZHBMSXIQX) |
+| `[ToonsHub] RILAKKUMA S01E01 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e01-1080p-cr-web-dl-dual.n2093545) • [🐱 Nyaa](https://nyaa.si/?q=B7OJOFERFKMZKOQPSXQLQBMZOCCJCP5X) |
+| `[Bird] Cardfight!! Vanguard - Divinez Genma Seisen-hen - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-11-1080p.n2093544) • [🐱 Nyaa](https://nyaa.si/?q=CKLDD2IHYCBXCRHJ3NPTIZAR6XLNDG7X) |
+| `[Tasokare] Cleopatra D.C. S01 v2 (BD 1080p Opus AV1)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-cleopatra-d-c-s01-v2-bd-1080p-opus-av1.k10135009040391) • [🐱 Nyaa](https://nyaa.si/?q=IBITLE2OGNGQSMYW7ZUTERWNTRDVVCVK) |
+| `[Kawatare] Cleopatra D.C. S01 v2 (BD 1080p FLAC x265)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-cleopatra-d-c-s01-v2-bd-1080p-flac-x265.k10134999907339) • [🐱 Nyaa](https://nyaa.si/?q=3KGI7P2GKGDN36D7HVVJJPMS6IEIOQLT) |
 | `Mary and the Witch's Flower (2017) メアリと魔女の花 [12-bit 4:2:0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mary-witchs-flower-2017-12-bit-4-2.n2093539) • [🐱 Nyaa](https://nyaa.si/?q=VR7KOEFO6LSRE6PLEJBJN27ICF5O2DSE) |
 | `Cardfight!! Vanguard: Divinez Parallactic Clash - 11 | Ca...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-11-genma-seisen.n2093537) • [🐱 Nyaa](https://nyaa.si/?q=ROAH7R66EZIYBXVJRNFQ6KAJLL5D3PLI) |
 | `[Gecko] B.King - S01E08 (驭灵师; Yu Ling Shi) [BILI.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e08-yu-ling-shi-bili.k10133049800710) • [🐱 Nyaa](https://nyaa.si/?q=2SZZSPOCHYWGHNCNJWONIVLCF2N464CS) |
 | `[ToonsHub] B King S01E08 1080p BILI WEB-DL AAC2.0 H.265 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e08-1080p-bili-web-dl.n2093518) • [🐱 Nyaa](https://nyaa.si/?q=K5GVSB3ARNCTLXXJSLNHYKSEQ445NUTB) |
 | `[ASW] Rilakkuma - 01 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-rilakkuma-01-1080p-hevc-x265-10bit-aac.n2093512) • [🐱 Nyaa](https://nyaa.si/?q=K7M6EJBCSUKNEEDHMVMWKYG6SAHRV4I4) |
-| `RILAKKUMA S01E01 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e01-1080p-cr-web-dl-dual-aac2.n2093511) • [🐱 Nyaa](https://nyaa.si/?q=5JQDOZ7ECOLKQN6QPAJ562AJRWAQ63LZ) |
-| `[SubsPlease] Rilakkuma - 01 (720p) [A35BDD74].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-01-720p-a35bdd74-mkv.n2093510) • [🐱 Nyaa](https://nyaa.si/?q=P46S6G2LE5PR7YPDBB3YNTQRIAUIKABP) |
-| `[SubsPlease] Rilakkuma - 01 (480p) [C25A5F3D].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-01-480p-c25a5f3d-mkv.n2093508) • [🐱 Nyaa](https://nyaa.si/?q=QLFX5AYYCC7A6JWVFIVHWXPLXADKBVU3) |
-| `[SubsPlease] Rilakkuma - 01 (1080p) [F3DD1564].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-01-1080p-f3dd1564-mkv.n2093509) • [🐱 Nyaa](https://nyaa.si/?q=55PQLPPNQT7XW3VGGJSHRFK2XC5ZU6R4) |
-| `[Anime Time] Frieren Beyond Journeys End (Sousou no Frier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2093504) • [🐱 Nyaa](https://nyaa.si/?q=VZKRSED6Z3ALFGOKIDDHVDDTCMZQ754M) |
-| `[ShinzoLincoln] Shin Yaranaika (Kuso Miso Technique) [BD ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/shinzolincoln-shin-yaranaika-kuso-miso-technique-bd-1080p.n2093500) • [🐱 Nyaa](https://nyaa.si/?q=RHTFSXFBPIJTXNIADCKSJQ7ZPYZOMBDN) |
-| `[Tasokare] Cleopatra D.C. S01 (BD 1080p Opus AV1)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-cleopatra-d-c-s01-bd-1080p-opus-av1.n2093498) • [🐱 Nyaa](https://nyaa.si/?q=K46BAFR27M2EO5KPQQIZWOAYJ2WWWZA6) |
-| `[Kawatare] Cleopatra D.C. S01 (BD 1080p FLAC x265)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-cleopatra-d-c-s01-bd-1080p-flac-x265.n2093497) • [🐱 Nyaa](https://nyaa.si/?q=QCH355U5FSJBHQST2FVBPWIJ53AL5L3J) |
-| `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2093494) • [🐱 Nyaa](https://nyaa.si/?q=TTU24ELTZ7WQKC5TDVQKQR524LKAX563) |
-| `[Beltraz] Date A Live (2013) - S01 - Specials (Director's...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-date-live-2013-s01-specials-directors-cut.k10128176197642) • [🐱 Nyaa](https://nyaa.si/?q=A3P3SUCP4VGTGDNB3DGSVBJVG6Z7BTMZ) |
 
 ---
 <div align="center">
