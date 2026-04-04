@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.03.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.54.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-honzuki-no-gekokujou-shisho-ni-naru.n2093757) • [🐱 Nyaa](https://nyaa.si/?q=W3MGCQOQGRS7OXH342DMDTESHDBDJWXS) |
-| `[Erai-raws] Akane-banashi - 01 [1080p NF WEB-DL AVC AAC][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-akane-banashi-01-1080p-nf-web.n2093751) • [🐱 Nyaa](https://nyaa.si/?q=2H2GCZWKJEBXSUWS4QFVOGVMOKNZOVOR) |
-| `[SubsPlease] Mayonaka Heart Tune (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mayonaka-heart-tune-01-12-1080p-batch.n2093749) • [🐱 Nyaa](https://nyaa.si/?q=FO7BCVANP2IFEZNKFSYBQ45B5SW7WJDT) |
-| `[SubsPlease] Mayonaka Heart Tune (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mayonaka-heart-tune-01-12-720p-batch.n2093748) • [🐱 Nyaa](https://nyaa.si/?q=IOWISFIE672AABROZPT245NBRLTFEI4L) |
-| `MAO S01E01 Nanoka and Mao 1080p BILI WEB-DL AAC2.0 H 264-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e01-nanoka-mao-1080p-bili-web-dl.n2093747) • [🐱 Nyaa](https://nyaa.si/?q=UHTNS7OPV4Q6H3SWQSZCGIIB2CIUF5SL) |
-| `[ToonsHub] MAO S01E01 1080p BILI WEB-DL AAC2.0 H.265 (Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mao-s01e01-1080p-bili-web-dl-aac2.n2093746) • [🐱 Nyaa](https://nyaa.si/?q=Z54O6NWFSEMR7USL4JSSL3WAGFD4YZHX) |
-| `[SubsPlease] Mayonaka Heart Tune (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mayonaka-heart-tune-01-12-480p-batch.n2093745) • [🐱 Nyaa](https://nyaa.si/?q=2TRA74DJZL4B2LBW3OCNDQA7UT7RREHG) |
-| `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E06.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e06-multi-audio.n2093743) • [🐱 Nyaa](https://nyaa.si/?q=AWTFSYVMA3DXD4FOBFL5M6J74MQDTF7O) |
-| `[Yameii] A Misanthrope Teaches a Class for Demi-Humans - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-misanthrope-teaches-class-demi-humans-s01e11-english.n2093742) • [🐱 Nyaa](https://nyaa.si/?q=4BMPLBLAV3HJGBKXUQYRP6KSCAJTF6YM) |
-| `[Yameii] A Misanthrope Teaches a Class for Demi-Humans - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-misanthrope-teaches-class-demi-humans-s01e11-english.n2093741) • [🐱 Nyaa](https://nyaa.si/?q=SB2USXT25BZEKHIHCV5CB5J5ZBLU4SJX) |
-| `[ToonsHub] A Misanthrope Teaches a Class for Demi-Humans ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-misanthrope-teaches-class-demi-humans-s01e13-1080p.k10144568296707) • [🐱 Nyaa](https://nyaa.si/?q=W2BFCEBBKE7YXZSAKZDVUKOHVO6IWWXY) |
-| `Daemons of the Shadow Realm S01E01 Asa and Yuru 1080p NF ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/daemons-shadow-realm-s01e01-asa-yuru-1080p-nf.n2093739) • [🐱 Nyaa](https://nyaa.si/?q=COJ6H6KWHW7AHIABVSLK2GFBYIQYPPDP) |
-| `A Misanthrope Teaches a Class for Demi Humans S01E11 The ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/misanthrope-teaches-class-demi-humans-s01e11-nigh-past.n2093738) • [🐱 Nyaa](https://nyaa.si/?q=CMP5TSHHOAT4B64HCM6MXMBTOUFKJPFJ) |
-| `A Misanthrope Teaches a Class for Demi Humans S01E13 The ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/misanthrope-teaches-class-demi-humans-s01e13-nigh-future.n2093737) • [🐱 Nyaa](https://nyaa.si/?q=QUCKJJICUVBQS6LUXCUUYZTFWYXCL7R2) |
-| `[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi - 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jingai-kyoushitsu-no-ningengirai-kyoushi-13-1080p.n2093736) • [🐱 Nyaa](https://nyaa.si/?q=3WJFQMLRUXBSIOXHL5IKJEVJVMDBXYUF) |
+| `[Inka-Subs] Shin Shounan Bakusouzoku 02` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/inka-subs-shin-shounan-bakusouzoku-02.n2093838) • [🐱 Nyaa](https://nyaa.si/?q=WEQYQF2HH2AZGO6CO7Z36CAHXQWQRUA5) |
+| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-agents-four-seasons-dance-spring-s01e02-1080p.n2093837) • [🐱 Nyaa](https://nyaa.si/?q=CBGCD3YPOIOFVQ4DY6FPUOTSXUEFQGGC) |
+| `[Yameii] GNOSIA - S01E21 [English Dub] [CR WEB-DL 1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-gnosia-s01e21-english-dub-cr-web-dl.n2093834) • [🐱 Nyaa](https://nyaa.si/?q=TX4AZWNG5INOJ7ILJ4YKDQER6SNKU3JQ) |
+| `GNOSIA S01E21 End Point and Starting Point 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gnosia-s01e21-end-point-starting-1080p-cr-web.n2093833) • [🐱 Nyaa](https://nyaa.si/?q=I3XDLXQM42TGBRHJTGQV3BR4HTWMM2BY) |
+| `Agents of the Four Seasons Dance of Spring S01E02 Lingeri...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/agents-four-seasons-dance-spring-s01e02-lingering-snow.n2093832) • [🐱 Nyaa](https://nyaa.si/?q=63D3QRNEGEKWGONP73R6NRTGY3TXDA4L) |
+| `Kusunokis Garden of Gods S01E01 A Mountain God Visits the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kusunokis-garden-gods-s01e01-mountain-god-visits-1080p.n2093831) • [🐱 Nyaa](https://nyaa.si/?q=UIDECAMQLSXEGXNSA42QHLS6546LCZLU) |
+| `[SubsPlease] Kami no Niwatsuki Kusunoki-tei - 01 (1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kami-no-niwatsuki-kusunoki-tei-01-1080p-fc2970a4.n2093830) • [🐱 Nyaa](https://nyaa.si/?q=KCVFY436SHSMA4JU4DMIEM5JUO2OVBAO) |
+| `[Yameii] GNOSIA - S01E21 [English Dub] [CR WEB-DL 720p H2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-gnosia-s01e21-english-dub-cr-web-dl.n2093829) • [🐱 Nyaa](https://nyaa.si/?q=XEGOT3MLRGSVRGVMSOA65LPX4MYGNEFK) |
+| `[SubsPlease] Shunkashuutou Daikousha - Haru no Mai - 02 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-shunkashuutou-daikousha-haru-no-mai-02-1080p.n2093828) • [🐱 Nyaa](https://nyaa.si/?q=UBQGVMXBA2TBEE5UY6R5QNDKF4Q76Q2C) |
+| `Kusunokis Garden of Gods S01E01 The Mountain God Arrives ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kusunokis-garden-gods-s01e01-mountain-god-arrives-1080p.n2093826) • [🐱 Nyaa](https://nyaa.si/?q=YHOZ4KKID3G7CVDOJN76ZQIXCQYV2LJS) |
+| `[ToonsHub] GNOSIA S01E21 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-gnosia-s01e21-1080p-cr-web-dl-dual.k10145470739980) • [🐱 Nyaa](https://nyaa.si/?q=UGT4UJDO4JTUVDVQAGN26UYZWMROARD2) |
+| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 01 [480p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-01.n2093825) • [🐱 Nyaa](https://nyaa.si/?q=2U5AUY75TTA2KQ3X5YYLIFFS7NYF4CRD) |
+| `[SubsPlease] Shunkashuutou Daikousha - Haru no Mai - 02 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-shunkashuutou-daikousha-haru-no-mai-02-720p.n2093822) • [🐱 Nyaa](https://nyaa.si/?q=LNSRP6TM7WNDGTXNUI56FDDUN4KYHPKE) |
+| `[ToonsHub] Kusunokis Garden of Gods S01E01 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kusunokis-garden-gods-s01e01-1080p-cr-web.k10145465835015) • [🐱 Nyaa](https://nyaa.si/?q=CCHN4T2LGDOIG23TLJZHJGR4RAPWGOTJ) |
+| `[SubsPlease] Kami no Niwatsuki Kusunoki-tei - 01 (720p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kami-no-niwatsuki-kusunoki-tei-01-720p-f6575706.n2093820) • [🐱 Nyaa](https://nyaa.si/?q=GAKI2BB5R23WKV2P4NKLVSGBFWGQ7MVL) |
 
 ---
 <div align="center">
