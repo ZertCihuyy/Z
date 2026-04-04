@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.47.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.36.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `MAO S01E01 Nanoka and Mao 1080p DSNP WEB-DL AAC2.0 H 264-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e01-nanoka-mao-1080p-dsnp-web-dl.n2093923) • [🐱 Nyaa](https://nyaa.si/?q=RCFM7NSN3LTTN3WQGD63EKI6JHQWOTBS) |
 | `[Yameii] The Daily Life of the Immortal King - S05E11 [En...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-daily-life-immortal-king-s05e11-english-dub.n2093922) • [🐱 Nyaa](https://nyaa.si/?q=DG2Q56PTKWJOYH64BNK75YAGFSCIX5SP) |
 | `[GHOST] A Certain Scientific Accelerator (BD 1080p HEVC 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-certain-scientific-accelerator-bd-1080p-hevc-10bit.n2093921) • [🐱 Nyaa](https://nyaa.si/?q=5HOHGCYXRA4UKQPXNUPBNQJUSXLXELYW) |
 | `[Yameii] The Daily Life of the Immortal King - S05E11 [En...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-daily-life-immortal-king-s05e11-english-dub.n2093920) • [🐱 Nyaa](https://nyaa.si/?q=UVSSJUK4FMJVRLZ3MD34FDDD6VQTG5QJ) |
@@ -42,7 +43,6 @@
 | `[MiniMTBB] Mind Game (2004) (BD 1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/minimtbb-mind-game-2004-bd-1080p.n2093895) • [🐱 Nyaa](https://nyaa.si/?q=QZ3OINM3D6NLHT65G4QO2CX4GJ2KWOMP) |
 | `[MTBB] Mind Game (2004) (BD 1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mtbb-mind-game-2004-bd-1080p.n2093894) • [🐱 Nyaa](https://nyaa.si/?q=SFDAYNNQDBVJB4ZDUP5O37XFFGQWXAEQ) |
 | `[Erai-raws] Kanan-sama wa Akumade Choroi - 01 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanan-sama-wa-akumade-choroi-01.n2093893) • [🐱 Nyaa](https://nyaa.si/?q=7W2BSFYIS535N3SBMJ4HHA7GM64T3ZOR) |
-| `[Onalrie] Kami no Niwatsuki Kusunoki-tei - S01E01 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kami-no-niwatsuki-kusunoki-tei-s01e01-1080p.2071929) • [🐱 Nyaa](https://nyaa.si/?q=A5XLPOSSUK6YUNEUS7X65MUN3ZDZAK5O) |
 
 ---
 <div align="center">
