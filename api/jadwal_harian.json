@@ -1,5 +1,5 @@
 {
-  "last_update": "4/4/2026, 13.13.45",
+  "last_update": "4/4/2026, 14.29.58",
   "hari": "Sabtu",
   "data": [
     {
@@ -126,6 +126,134 @@
       ]
     },
     {
+      "mal_id": 60153,
+      "url": "https://myanimelist.net/anime/60153/Rilakkuma",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1956/155696.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1956/155696t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1956/155696l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1956/155696.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1956/155696t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1956/155696l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/rV-fcFL5vtU?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Rilakkuma"
+        },
+        {
+          "type": "Japanese",
+          "title": "リラックマ"
+        },
+        {
+          "type": "English",
+          "title": "Rilakkuma"
+        }
+      ],
+      "title": "Rilakkuma",
+      "title_english": "Rilakkuma",
+      "title_japanese": "リラックマ",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Other",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 4, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 19764,
+      "popularity": 13551,
+      "members": 1549,
+      "favorites": 7,
+      "synopsis": "Experience the stress-free world of Rilakkuma, the relaxed bear who makes being lazy look effortless!\n\n(Source: Crunchyroll)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "09:25",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 09:25 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 2796,
+          "type": "anime",
+          "name": "Legendoor",
+          "url": "https://myanimelist.net/anime/producer/2796/Legendoor"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Production I.G",
+          "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 36,
+          "type": "anime",
+          "name": "Slice of Life",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        },
+        {
+          "mal_id": 63,
+          "type": "anime",
+          "name": "Iyashikei",
+          "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+        }
+      ],
+      "demographics": []
+    },
+    {
       "mal_id": 62649,
       "url": "https://myanimelist.net/anime/62649/Cardfight_Vanguard__Divinez_Genma_Seisen-hen",
       "images": {
@@ -173,12 +301,12 @@
       "title_synonyms": [],
       "type": "TV",
       "source": "Original",
-      "episodes": null,
+      "episodes": 12,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
         "from": "2026-01-10T00:00:00+00:00",
-        "to": null,
+        "to": "2026-04-11T00:00:00+00:00",
         "prop": {
           "from": {
             "day": 10,
@@ -186,20 +314,20 @@
             "year": 2026
           },
           "to": {
-            "day": null,
-            "month": null,
-            "year": null
+            "day": 11,
+            "month": 4,
+            "year": 2026
           }
         },
-        "string": "Jan 10, 2026 to ?"
+        "string": "Jan 10, 2026 to Apr 11, 2026"
       },
-      "duration": "26 min",
+      "duration": "26 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 6.37,
+      "score": 6.35,
       "scored_by": 165,
-      "rank": 8614,
-      "popularity": 13482,
-      "members": 1563,
+      "rank": 8746,
+      "popularity": 13462,
+      "members": 1571,
       "favorites": 3,
       "synopsis": "An abnormal phenomenon has been observed in Kaga, where Akina and his friends live.\nA town shrouded in thick fog, a great tower standing sentinel…\nThis is the Fantasma.\n\n——On the night when the crimson moon rises, they shall become \"Fantôme.\"\n\n(Source: Official Site)",
       "background": "",
@@ -460,9 +588,9 @@
       "duration": "5 min",
       "rating": "G - All Ages",
       "score": 6.42,
-      "scored_by": 797,
-      "rank": 8317,
-      "popularity": 10162,
+      "scored_by": 798,
+      "rank": 8327,
+      "popularity": 10164,
       "members": 4119,
       "favorites": 19,
       "synopsis": "Based on the original comic BONO BONO by Mikio Igarashi that has seen over 9,000,000 total copies printed, this is the definitive animated version of the emotionally soothing character-driven series that will make you ask yourself the philosophical question, \"What are living things?\" while laughing at heartwarming gags and being entertained by the interactions of amusing forest friends Bonobono the young sea otter, Chipmunk, Fishing Cat, and more.\n\nEnjoy the easygoing days and minor misadventures of Bonobono and his friends!\n\n(Source: Fuji Creative)",
