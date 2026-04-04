@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.59.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.51.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -26,6 +26,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Ascendance of a Bookworm S04E01 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ascendance-bookworm-s04e01-1080p-cr-web-dl.k10139039613707) • [🐱 Nyaa](https://nyaa.si/?q=VAVDJ67KLTZOPBMSFOGNUKSZMUC4THM3) |
+| `Ascendance of a Bookworm S06E01 Ive Become a Noble 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s06e01-ive-become-noble-1080p-cr.n2093570) • [🐱 Nyaa](https://nyaa.si/?q=7FGZW4Y6YUN4XIMIX45HUYGZGT75UUPL) |
 | `[LbE3L] Gachiakuta S01 CR [1080p WEBRip AV1 Opus 2.0] [Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-gachiakuta-s01-cr-1080p-webrip-av1-opus.k10138259036676) • [🐱 Nyaa](https://nyaa.si/?q=NXWH73W7OMS6OOYOQSAAX4PXVC3GZMX4) |
 | `[Onalrie] Rilakkuma - S01E01 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e01-1080p-webrip-av1-mkv.2071757) • [🐱 Nyaa](https://nyaa.si/?q=PVC4LT7ASPXHADWG4RZCM3TP7VLIV2MU) |
 | `Call.of.the.Night.S02.1080p.BluRay.Dual-Audio.Opus.2.0.x2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/call-night-s02-1080p-bluray-dual-audio-opus.n2093560) • [🐱 Nyaa](https://nyaa.si/?q=7EQRJAMDCFRPASYV4F7WJD6YYVDWCDX4) |
@@ -39,8 +41,6 @@
 | `[ToonsHub] RILAKKUMA S01E01 1080p CR WEB-DL MULTi AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e01-1080p-cr-web-dl-multi.k10135730290688) • [🐱 Nyaa](https://nyaa.si/?q=PYIO7WAKD22YIFTNNSPATFBZHBMSXIQX) |
 | `[ToonsHub] RILAKKUMA S01E01 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e01-1080p-cr-web-dl-dual.n2093545) • [🐱 Nyaa](https://nyaa.si/?q=B7OJOFERFKMZKOQPSXQLQBMZOCCJCP5X) |
 | `[Bird] Cardfight!! Vanguard - Divinez Genma Seisen-hen - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-11-1080p.n2093544) • [🐱 Nyaa](https://nyaa.si/?q=CKLDD2IHYCBXCRHJ3NPTIZAR6XLNDG7X) |
-| `[Tasokare] Cleopatra D.C. S01 v2 (BD 1080p Opus AV1)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-cleopatra-d-c-s01-v2-bd-1080p-opus-av1.k10135009040391) • [🐱 Nyaa](https://nyaa.si/?q=IBITLE2OGNGQSMYW7ZUTERWNTRDVVCVK) |
-| `[Kawatare] Cleopatra D.C. S01 v2 (BD 1080p FLAC x265)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-cleopatra-d-c-s01-v2-bd-1080p-flac-x265.k10134999907339) • [🐱 Nyaa](https://nyaa.si/?q=3KGI7P2GKGDN36D7HVVJJPMS6IEIOQLT) |
 
 ---
 <div align="center">
