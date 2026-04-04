@@ -1,7 +1,143 @@
 {
-  "last_update": "4/4/2026, 16.51.35",
+  "last_update": "4/4/2026, 17.40.01",
   "hari": "Sabtu",
   "data": [
+    {
+      "mal_id": 63762,
+      "url": "https://myanimelist.net/anime/63762/Oshiri_Tantei_10th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1098/156208.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1098/156208t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1098/156208l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1098/156208.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1098/156208t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1098/156208l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Oshiri Tantei 10th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Butt Detective"
+        },
+        {
+          "type": "Japanese",
+          "title": "おしりたんてい"
+        }
+      ],
+      "title": "Oshiri Tantei 10th Season",
+      "title_english": null,
+      "title_japanese": "おしりたんてい",
+      "title_synonyms": [
+        "Butt Detective"
+      ],
+      "type": "TV",
+      "source": "Picture book",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 4, 2026 to ?"
+      },
+      "duration": "20 min",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 19270,
+      "popularity": 29548,
+      "members": 71,
+      "favorites": 0,
+      "synopsis": "Tenth season of Oshiri Tantei.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "09:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 09:00 (JST)"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Toei Animation",
+          "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 7,
+          "type": "anime",
+          "name": "Mystery",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 39,
+          "type": "anime",
+          "name": "Detective",
+          "url": "https://myanimelist.net/anime/genre/39/Detective"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
     {
       "mal_id": 62495,
       "url": "https://myanimelist.net/anime/62495/Nezumi-kun_no_Chokki_TV",
@@ -892,6 +1028,138 @@
           "type": "anime",
           "name": "Isekai",
           "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 57466,
+      "url": "https://myanimelist.net/anime/57466/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen_-_Ryoushu_no_Youjo",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1371/155054.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1371/155054t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1371/155054l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1371/155054.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1371/155054t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1371/155054l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/rtPF6rjrdSU?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo"
+        },
+        {
+          "type": "Synonym",
+          "title": "Ascendance of a Bookworm 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Honzuki no Gekokujou 4th Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女"
+        },
+        {
+          "type": "English",
+          "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
+        }
+      ],
+      "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
+      "title_english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "title_japanese": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
+      "title_synonyms": [
+        "Ascendance of a Bookworm 4th Season",
+        "Honzuki no Gekokujou 4th Season"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 4, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 17113,
+      "popularity": 3432,
+      "members": 53954,
+      "favorites": 215,
+      "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 858,
+          "type": "anime",
+          "name": "Wit Studio",
+          "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 72,
+          "type": "anime",
+          "name": "Reincarnation",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
         }
       ],
       "demographics": []
