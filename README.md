@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.40.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.15.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LoliHouse] 最强的职业不是勇者也不是贤者好像是鉴定士(暂定)的样子？ / Kanteishi (Kar...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lolihouse-kanteishi-kari-01-webrip-1080p-hevc-10bit-aac.n2093615) • [🐱 Nyaa](https://nyaa.si/?q=TR462MPPRMV7BISGVL2AM4AZXZVXMNQU) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E01 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-welcome-demon-school-iruma-kun-s04e01-1080p.n2093610) • [🐱 Nyaa](https://nyaa.si/?q=XDIRRG6QF5IK3HJJNTRLBOMJTBEC3X56) |
+| `[jaaj] Vinland Saga S02 (2019) (BD 1080p AV1 AAC)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jaaj-vinland-saga-s02-2019-bd-1080p-av1-aac.k10140186973958) • [🐱 Nyaa](https://nyaa.si/?q=TPKGS6CYGIW3YVZ3DMBNFPDBFT7KH432) |
 | `[SubsPlease] Mairimashita! Iruma-kun S4 - 01 (1080p) [11B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mairimashita-iruma-kun-s4-01-1080p-11b994a6-mkv.n2093603) • [🐱 Nyaa](https://nyaa.si/?q=OLHLEJGRL4PXITOGYI5LCXFDB4J77A6C) |
 | `[SubsPlease] Mairimashita! Iruma-kun S4 - 01 (720p) [0979...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mairimashita-iruma-kun-s4-01-720p-09794477-mkv.n2093602) • [🐱 Nyaa](https://nyaa.si/?q=64IJL5RYIZQCQWFL3HFLPMHSXRXSVD46) |
 | `[SubsPlease] Mairimashita! Iruma-kun S4 - 01 (480p) [2AF5...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mairimashita-iruma-kun-s4-01-480p-2af58958-mkv.n2093601) • [🐱 Nyaa](https://nyaa.si/?q=MYI2DPHTAX2SFIL4GR2SRL5KYXBLSXBG) |
@@ -40,9 +43,6 @@
 | `Ascendance of a Bookworm S04E01 Ive Become a Noble 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e01-ive-become-noble-1080p-cr.n2093570) • [🐱 Nyaa](https://nyaa.si/?q=7FGZW4Y6YUN4XIMIX45HUYGZGT75UUPL) |
 | `[LbE3L] Gachiakuta S01 CR [1080p WEBRip AV1 Opus 2.0] [Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-gachiakuta-s01-cr-1080p-webrip-av1-opus.k10138259036676) • [🐱 Nyaa](https://nyaa.si/?q=NXWH73W7OMS6OOYOQSAAX4PXVC3GZMX4) |
 | `[Onalrie] Rilakkuma - S01E01 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e01-1080p-webrip-av1-mkv.2071757) • [🐱 Nyaa](https://nyaa.si/?q=PVC4LT7ASPXHADWG4RZCM3TP7VLIV2MU) |
-| `Call.of.the.Night.S02.1080p.BluRay.Dual-Audio.Opus.2.0.x2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/call-night-s02-1080p-bluray-dual-audio-opus.n2093560) • [🐱 Nyaa](https://nyaa.si/?q=7EQRJAMDCFRPASYV4F7WJD6YYVDWCDX4) |
-| `[DKB] Kaya-chan wa Kowakunai - (Season 01) [1080p][HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kaya-chan-wa-kowakunai-season-01-1080p.n2093556) • [🐱 Nyaa](https://nyaa.si/?q=K5CL3FW2NAKECOMHV6FXBHAJNQVYALGT) |
-| `[ToonsHub] B King S01E08 1080p ADN WEB-DL AAC2.0 H.264 (Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e08-1080p-adn-web-dl.n2093552) • [🐱 Nyaa](https://nyaa.si/?q=KUEM4UIIPFEQI2HNH3G343PDWUBBGWMK) |
 
 ---
 <div align="center">

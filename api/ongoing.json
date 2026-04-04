@@ -1,5 +1,5 @@
 {
-  "last_update": "4/4/2026, 17.40.01",
+  "last_update": "4/4/2026, 18.15.03",
   "data": [
     {
       "mal_id": 61316,
@@ -1446,8 +1446,8 @@
       "type": "TV",
       "source": "Light novel",
       "episodes": null,
-      "status": "Not yet aired",
-      "airing": false,
+      "status": "Currently Airing",
+      "airing": true,
       "aired": {
         "from": "2026-04-04T00:00:00+00:00",
         "to": null,
@@ -1469,10 +1469,10 @@
       "rating": "PG-13 - Teens 13 or older",
       "score": null,
       "scored_by": null,
-      "rank": null,
-      "popularity": 3453,
-      "members": 53336,
-      "favorites": 212,
+      "rank": 17113,
+      "popularity": 3432,
+      "members": 53954,
+      "favorites": 215,
       "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
       "background": "",
       "season": "spring",
