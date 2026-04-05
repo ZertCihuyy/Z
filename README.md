@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.49.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.35.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Half-Baked] Akane-banashi - S01E01 [WEB 1080p HEVC AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/half-baked-akane-banashi-s01e01-web-1080p-hevc.n2094105) • [🐱 Nyaa](https://nyaa.si/?q=QJGRHCHOT6IJLDDUK2JX2Y47T3XCT6CS) |
 | `[BlackRabbit] Tawawa on Monday (2016) - S01 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tawawa-monday-2016-s01-bluray-1080p-opus.k10161634631179) • [🐱 Nyaa](https://nyaa.si/?q=LHUQVHJY637IEZHA6S5BIOT2TBIIIBU5) |
 | `[ToonsHub] How dare you S02E13 1080p iQ WEB-DL AAC2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dare-s02e13-1080p-iq-web-dl-aac2.k10161593094913) • [🐱 Nyaa](https://nyaa.si/?q=IG5C3CHLD3UPANGOP4MN6KVDU74IP7IV) |
 | `[Onalrie] Ace of Diamond Act II - S02E01 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ace-diamond-act-ii-s02e01-1080p-webrip-av1-mkv.2072079) • [🐱 Nyaa](https://nyaa.si/?q=DDBF6NEM2Y7T6JZORU3AI6RAJ3M5ABAG) |
@@ -42,7 +43,6 @@
 | `[SubsPlease] Ace of Diamond Act II S2 - 01 (1080p) [38DEE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-01-1080p-38dee8cd-mkv.n2094079) • [🐱 Nyaa](https://nyaa.si/?q=ZVWJPEUEMQUQCN3MNP5GM4OC7AMWJ6AH) |
 | `[ToonsHub] Ace of Diamond S04E01 1080p CR WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ace-diamond-s04e01-1080p-cr-web-dl.k10160685673743) • [🐱 Nyaa](https://nyaa.si/?q=W4PPYEZWRWVVWOW5U6HZGROYFVTVTYQA) |
 | `Ace of the Diamond S04E01 Up Ahead 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-diamond-s04e01-up-ahead-1080p-cr-web.n2094077) • [🐱 Nyaa](https://nyaa.si/?q=XNSHTBER32RKGFLK3JWKTQK455UNZ4G4) |
-| `[SubsPlease] Ace of Diamond Act II S2 - 01 (480p) [40E8ED...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-01-480p-40e8ed12-mkv.n2094076) • [🐱 Nyaa](https://nyaa.si/?q=X6DNEZZYQYET7WSQU7WROQBVYJ7FVGNX) |
 
 ---
 <div align="center">
