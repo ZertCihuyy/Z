@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.48.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.42.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[CicakRumah] Gekkan! Nanmono Anime - S01E01-E12 (げっかん！なんも...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cicakrumah-gekkan-nanmono-anime-s01e01-e12-abema-web.n2094228) • [🐱 Nyaa](https://nyaa.si/?q=FZNZENAJQ6YMHZ6NMKWPPKQVBAO2TF6Z) |
-| `[SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi - 12 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-12-1080p-0a896ee4.n2094226) • [🐱 Nyaa](https://nyaa.si/?q=PNMUF7JNFVU7Z7L3CK3BX4OKBJM2X2J5) |
-| `Oedo Fire Slayer The Legend of Phoenix S01E12 Oedo Fire S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oedo-fire-slayer-legend-phoenix-s01e12-1080p-cr.n2094223) • [🐱 Nyaa](https://nyaa.si/?q=OEI3XI24N6JJXQZ5NCLWAUDCY7MYOZQL) |
-| `GHOST CONCERT missing Songs S01E01 Heartbreaking Goodbye ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-concert-missing-songs-s01e01-heartbreaking-goodbye.n2094222) • [🐱 Nyaa](https://nyaa.si/?q=EBTQCWCIU45NXUX37MSOM4JFWBPKLCVB) |
-| `[SubsPlease] Ghost Concert - missing Songs - 01 (1080p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ghost-concert-missing-songs-01-1080p-b4d1c85b-mkv.n2094221) • [🐱 Nyaa](https://nyaa.si/?q=OPHGGUXL6VZH67IOEPRNVLTRM2Y5CQRM) |
-| `[SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi - 12 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-12-720p-fee15985.n2094220) • [🐱 Nyaa](https://nyaa.si/?q=WIM5CZBE4QEJHK4MH7NRYN3WKLXCT2XL) |
-| `[ToonsHub] GHOST CONCERT missing Songs S01E01 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ghost-concert-missing-songs-s01e01-1080p-cr.k10166664480782) • [🐱 Nyaa](https://nyaa.si/?q=5OW3O6HBF3NGAE7UJ4MW5EUXGWSROKFL) |
-| `[SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi - 12 (480p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-12-480p-a5928226.n2094216) • [🐱 Nyaa](https://nyaa.si/?q=M5TAQXEHVEXY5SOMLRAQIAJF7CSFKE26) |
-| `[ToonsHub] Oedo Fire Slayer -The Legend of Phoenix- S01E1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-oedo-fire-slayer-legend-phoenix-s01e12-1080p.k10166659340557) • [🐱 Nyaa](https://nyaa.si/?q=TJZM5XDSC24AP7CVLISTSDJHG5AB4CH2) |
-| `[SubsPlease] Ghost Concert - missing Songs - 01 (720p) [2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ghost-concert-missing-songs-01-720p-2c36472f-mkv.n2094213) • [🐱 Nyaa](https://nyaa.si/?q=IOXET7XAVRQMJB2P3DKAXHWBNOKHFJ45) |
-| `[SubsPlease] Ghost Concert - missing Songs - 01 (480p) [4...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ghost-concert-missing-songs-01-480p-4dd7fea9-mkv.n2094212) • [🐱 Nyaa](https://nyaa.si/?q=BOZHND542XMV7C6OWNBRMUQWVI2OLLWW) |
-| `[Erai-raws] Hikuidori: Ushuu Boro Tobi-gumi - 12 [480p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hikuidori-ushuu-boro-tobi-gumi-12.n2094210) • [🐱 Nyaa](https://nyaa.si/?q=MFJDEH4HU56EOHXLN7KL3FNF24GLHMYP) |
-| `[Erai-raws] Hikuidori: Ushuu Boro Tobi-gumi - 12 [720p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hikuidori-ushuu-boro-tobi-gumi-12.n2094209) • [🐱 Nyaa](https://nyaa.si/?q=VJZ52HLNZE63NVYCQTIPXF4JQ6AHWVIE) |
-| `[Erai-raws] Hikuidori: Ushuu Boro Tobi-gumi - 12 [1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hikuidori-ushuu-boro-tobi-gumi-12.n2094208) • [🐱 Nyaa](https://nyaa.si/?q=UWH6U7OO7DE6SJXVPQFYQLU3DO7FR7BC) |
-| `[Yameii] Hell's Paradise - S02E11 [English Dub] [CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-hells-paradise-s02e11-english-dub-cr-web.n2094206) • [🐱 Nyaa](https://nyaa.si/?q=CGCPHS6CIILFAP23NCMRZNZ3GAFO7ELH) |
+| `[nekotan] Isekai Quartet 2 E01-E12 (BDRip 1920x1080 x264 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-2-e01-e12-bdrip-1920x1080-x264-flac.k10167700498703) • [🐱 Nyaa](https://nyaa.si/?q=ZL56U2RQ2UPEBGY7IMT36FO6X2R5MNOY) |
+| `[nekotan] Isekai Quartet E01-E12 (BDRip 1920x1080 x264 FLAC)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-e01-e12-bdrip-1920x1080-x264-flac.k10167674588673) • [🐱 Nyaa](https://nyaa.si/?q=I7CW5IGC7L2767VKICH4C77XZUC5XJKP) |
+| `[Onalrie] Hikuidori - Ushuu Boro Tobi-gumi - S01E12 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hikuidori-ushuu-boro-tobi-gumi-s01e12-1080p.2072148) • [🐱 Nyaa](https://nyaa.si/?q=IAV3Q2IDJZS47BKJTBJPRNJRLOQUTAGX) |
+| `[DKB] Tsue to Tsurugi no Wistoria - S00E02 [1080p][HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tsue-tsurugi-no-wistoria-s00e02-1080p-hevc.n2094253) • [🐱 Nyaa](https://nyaa.si/?q=LWDUIOHAQVQAN2XQ4RARLXIND47GR5G6) |
+| `[SubsMix] Brynhildr in the Darkness S01 (BD 1080p AVC FLA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsmix-brynhildr-darkness-s01-bd-1080p-avc-flac.n2094250) • [🐱 Nyaa](https://nyaa.si/?q=43UVDA4LFERCCKPBSUJDYYR24S5TVOOP) |
+| `[Raze] Yomi no Tsugai - 01 x265 10bit 1080p 143.8561fps.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-yomi-no-tsugai-01-x265-10bit-1080p.n2094247) • [🐱 Nyaa](https://nyaa.si/?q=O3YOANUXJTKPRCNABRO2TKCMRTDF3CSN) |
+| `One Piece S01E1156 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1156-1080p-cr-web-dl-aac2.n2094244) • [🐱 Nyaa](https://nyaa.si/?q=LV6POIROYOVBXMEFHJPCCHJIWJQFEXVO) |
+| `[Erai-raws] One Piece - 1156 [480p CR WEB-DL AVC AAC][C26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1156-480p-cr-web.n2094243) • [🐱 Nyaa](https://nyaa.si/?q=O243PP6J3GG5WEOA7QTOF7P3YDD7776M) |
+| `[Erai-raws] One Piece - 1156 [720p CR WEB-DL AVC AAC][4D9...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1156-720p-cr-web.n2094242) • [🐱 Nyaa](https://nyaa.si/?q=NQAFOU5L75Q4Q37WHCUIA7NWMUVAZT77) |
+| `[Erai-raws] One Piece - 1156 [1080p CR WEB-DL AVC AAC][58...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1156-1080p-cr-web.n2094241) • [🐱 Nyaa](https://nyaa.si/?q=HG22YAIOQS3UDLASIDEHDCJRWDN2WPLZ) |
+| `[ToonsHub] One Piece EP1156 1080p CR WEB-DL AAC2.0 H.264 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1156-1080p-cr-web-dl.k10167158084612) • [🐱 Nyaa](https://nyaa.si/?q=37SNJA2FGG4FRPPEBDZBTHI6OGIC52NM) |
+| `[SubsPlease] One Piece - 1156 (1080p) [662D886D].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-one-piece-1156-1080p-662d886d-mkv.n2094238) • [🐱 Nyaa](https://nyaa.si/?q=3KYJMH4EL4CPLAM3MSFZHUE2EZGOA4B5) |
+| `[SubsPlease] One Piece - 1156 (720p) [51E209AA].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-one-piece-1156-720p-51e209aa-mkv.n2094237) • [🐱 Nyaa](https://nyaa.si/?q=TKYCPPMXECIMGCOTEC27KSGUBTO7S35U) |
+| `[SubsPlease] One Piece - 1156 (480p) [22662EF3].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-one-piece-1156-480p-22662ef3-mkv.n2094236) • [🐱 Nyaa](https://nyaa.si/?q=62M5EQ6O5PDMBBZFKVPSSAWSLE6W4WPL) |
+| `[DKB] MAO - S01E01 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-mao-s01e01-1080p-hevc-x265-10bit-multi-subs-weekly.n2094234) • [🐱 Nyaa](https://nyaa.si/?q=566AXRTS7AIE26UDMF4AFH2FIYOPMIXP) |
 
 ---
 <div align="center">
