@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.43.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.03.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -24,6 +24,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Yami Shibai 16 - 13 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yami-shibai-16-13-1080p-hevc-x265-10bit-aac.n2094340) • [🐱 Nyaa](https://nyaa.si/?q=FGLLSEOZVIGS75RGG7ERY5554KY7DKMU) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 01 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2094332) • [🐱 Nyaa](https://nyaa.si/?q=ZO2S3PWKGI65QHJIJDJYREFA63PAW6W3) |
+| `[Erai-raws] Dorohedoro Season 2 - 03 [1080p NF WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-1080p-nf.n2094331) • [🐱 Nyaa](https://nyaa.si/?q=E2BPNHRNTWGJTB6NSAY2B7KAC3G6DQEB) |
+| `[Erai-raws] Dorohedoro Season 2 - 02 [1080p NF WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-02-1080p-nf.n2094329) • [🐱 Nyaa](https://nyaa.si/?q=ORJ5ZVBLBGNC5VWFJW74T7CRW7GVHD66) |
 | `[Erai-raws] Dorohedoro Season 2 - 01 [1080p NF WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-01-1080p-nf.n2094325) • [🐱 Nyaa](https://nyaa.si/?q=UDXPZPCBS72NI6YSWLG7HRTDZMCYBPIQ) |
 | `[Onalrie] Yami Shibai 16 - S01E13 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yami-shibai-16-s01e13-1080p-webrip-av1-mkv.2072178) • [🐱 Nyaa](https://nyaa.si/?q=TVPQLAEDDF6ZJJZZ3ID6YRE2CK5ZKNSW) |
 | `[SubsPlease] Yami Shibai 16 - 13 (1080p) [AD5C97F5].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-13-1080p-ad5c97f5-mkv.n2094316) • [🐱 Nyaa](https://nyaa.si/?q=TQPTYI2KBWHBWBHLCNTSEH6EXMMFIIUX) |
@@ -35,10 +39,6 @@
 | `[BlackRabbit] Baka and Test - Summon the Beasts (2010) - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-baka-test-summon-beasts-2010-s01-bluray.k10169934803203) • [🐱 Nyaa](https://nyaa.si/?q=VICPPQJPK76CWBTQXX5YM2RVR6TRGBWP) |
 | `[Onalrie] Tsue to Tsurugi no Wistoria - S02E00 [1080p WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tsue-tsurugi-no-wistoria-s02e00-1080p-webrip-av1-mkv.2072171) • [🐱 Nyaa](https://nyaa.si/?q=HM4TE7WIOPSKUHBX4PJLQEB5BIDVQN3F) |
 | `[ASW] Tsue to Tsurugi no Wistoria S2 - 00 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tsue-tsurugi-no-wistoria-s2-00-1080p.n2094307) • [🐱 Nyaa](https://nyaa.si/?q=KQFUXNJCC3WVEL5QQFVNAR5RXIFPKORU) |
-| `[Erai-raws] Niwatori Fighter - 04 [1080p CR WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-04-1080p-cr-webrip.n2094306) • [🐱 Nyaa](https://nyaa.si/?q=QOD27KQ6OPV4BCCGZDQ2IO5LDZZPCELE) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 01 [48...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2094305) • [🐱 Nyaa](https://nyaa.si/?q=EYIHXFQGDLZBUONAIY2JEKQVBXVKR5DB) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 01 [72...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2094304) • [🐱 Nyaa](https://nyaa.si/?q=GZ7A5WPATL5OP3R5GO6U7P6V3N5HZEJI) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 01 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2094303) • [🐱 Nyaa](https://nyaa.si/?q=FVUP5UNHCJVCP74MN3OXF3MDS3FH5IWJ) |
 
 ---
 <div align="center">
