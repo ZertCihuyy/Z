@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.52.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.40.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Kirei ni Shitemoraemasu ka - 10 [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirei-ni-shitemoraemasu-ka-10-1080p.n2094444) • [🐱 Nyaa](https://nyaa.si/?q=LFP3ZIFV5DNKVLDJX46KVNYGYUE2L7KG) |
-| `[Erai-raws] Yoroi-Shinden Samurai Troopers - 09 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yoroi-shinden-samurai-troopers-09-1080p.n2094443) • [🐱 Nyaa](https://nyaa.si/?q=XWS7CRH26YFUTCSPUJBFUSP6H7L4JN6S) |
-| `[Erai-raws] Kizoku Tensei: Megumareta Umare kara Saikyou ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kizoku-tensei-megumareta-umare-kara-saikyou.n2094442) • [🐱 Nyaa](https://nyaa.si/?q=HMGCLQ5TEPLPRD2L32XKVYLZY4NBADQZ) |
-| `[Erai-raws] Kirei ni Shitemoraemasu ka - 09 [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirei-ni-shitemoraemasu-ka-09-1080p.n2094441) • [🐱 Nyaa](https://nyaa.si/?q=XPVMW5M73MYBI6QGD6RTMMGQUZRPQNHL) |
-| `[Erai-raws] Yoroi-Shinden Samurai Troopers - 08 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yoroi-shinden-samurai-troopers-08-1080p.n2094440) • [🐱 Nyaa](https://nyaa.si/?q=KXEW76J4YHM6Q2KUK7CGXQQIWJNJJ752) |
-| `[Erai-raws] Kizoku Tensei: Megumareta Umare kara Saikyou ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kizoku-tensei-megumareta-umare-kara-saikyou.n2094439) • [🐱 Nyaa](https://nyaa.si/?q=465XBIH6QAALHUQFBQXJPB6MNYXOVOXB) |
-| `[Erai-raws] Kirei ni Shitemoraemasu ka - 08 [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirei-ni-shitemoraemasu-ka-08-1080p.n2094438) • [🐱 Nyaa](https://nyaa.si/?q=HZZNRHCHLWTLWEXSY3T7TRFR37PNZ4JU) |
-| `[Erai-raws] Jingai Kyoushitsu no Ningengirai Kyoushi - 13...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jingai-kyoushitsu-no-ningengirai-kyoushi-13.n2094437) • [🐱 Nyaa](https://nyaa.si/?q=RJ4SC4OU76CAFMFWW3JX5QAQIDQFMQ3K) |
-| `[Erai-raws] Kaya-chan wa Kowakunai - 12 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kaya-chan-wa-kowakunai-12-1080p.n2094436) • [🐱 Nyaa](https://nyaa.si/?q=VWJ2XNNNYN24PZETUBPHV3OL6SWO62UO) |
-| `[Erai-raws] Jingai Kyoushitsu no Ningengirai Kyoushi - 12...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jingai-kyoushitsu-no-ningengirai-kyoushi-12.n2094435) • [🐱 Nyaa](https://nyaa.si/?q=UUYSYJWSD6UNVQMGGV4V3I7IQDYLSAK7) |
-| `[Erai-raws] Kaya-chan wa Kowakunai - 11 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kaya-chan-wa-kowakunai-11-1080p.n2094434) • [🐱 Nyaa](https://nyaa.si/?q=TCSCW5GS2RQE2PFSS6OCBYNSWRIQH3YU) |
-| `[Erai-raws] Jingai Kyoushitsu no Ningengirai Kyoushi - 11...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jingai-kyoushitsu-no-ningengirai-kyoushi-11.n2094433) • [🐱 Nyaa](https://nyaa.si/?q=OYZR234PZYC55Z6INP7KUFPQWKJIEQAY) |
-| `[Erai-raws] Isekai no Sata wa Shachiku Shidai - 12 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-no-sata-wa-shachiku-shidai.n2094432) • [🐱 Nyaa](https://nyaa.si/?q=XFXGW4YVBJ22YPQNASSWPAYRVCCMAGPI) |
-| `[Erai-raws] Kaya-chan wa Kowakunai - 10 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kaya-chan-wa-kowakunai-10-1080p.n2094431) • [🐱 Nyaa](https://nyaa.si/?q=Z622ASWJMDL2UI3M6MI5WQO25LYNREK2) |
-| `[Erai-raws] Jingai Kyoushitsu no Ningengirai Kyoushi - 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jingai-kyoushitsu-no-ningengirai-kyoushi-10.n2094430) • [🐱 Nyaa](https://nyaa.si/?q=4UXBIANUE7RO4Y4DNSUIWTC6OXWIXMBT) |
+| `[Erai-raws] Tamon-kun Ima Docchi!? - 12 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tamon-kun-ima-docchi-12-1080p.n2094513) • [🐱 Nyaa](https://nyaa.si/?q=LYC4UV6F3NGC74SFN2EJ4ZAYNBWG3LKO) |
+| `[Erai-raws] Toujima Tanzaburou wa Kamen Rider ni Naritai ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-toujima-tanzaburou-wa-kamen-rider-ni.n2094512) • [🐱 Nyaa](https://nyaa.si/?q=UIUUE6QHFL7J4WQEMDWFGSNJAAR4JC3W) |
+| `[Erai-raws] Yami Shibai 16 - 10 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yami-shibai-16-10-1080p-cr.n2094511) • [🐱 Nyaa](https://nyaa.si/?q=5OZ3TPS4KIUROWV2EOIKLNXNRO5PZMCG) |
+| `[Erai-raws] Tamon-kun Ima Docchi!? - 11 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tamon-kun-ima-docchi-11-1080p.n2094510) • [🐱 Nyaa](https://nyaa.si/?q=IOMELRGVFPMGQNSYJLBZGM5MZ5TBNS7K) |
+| `[Erai-raws] Toujima Tanzaburou wa Kamen Rider ni Naritai ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-toujima-tanzaburou-wa-kamen-rider-ni.n2094509) • [🐱 Nyaa](https://nyaa.si/?q=3JAOODIAUU6L3TVT663O7EFSNA4E47Z4) |
+| `[Erai-raws] Yami Shibai 16 - 09 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yami-shibai-16-09-1080p-cr.n2094508) • [🐱 Nyaa](https://nyaa.si/?q=PS3TFKZJOSKCOE5D36IYLZ6RNI53LE3J) |
+| `[Erai-raws] Tamon-kun Ima Docchi!? - 10 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tamon-kun-ima-docchi-10-1080p.n2094507) • [🐱 Nyaa](https://nyaa.si/?q=USY4XJNO66FSNKRN42KN2VXFGR3E56KV) |
+| `[Erai-raws] Toujima Tanzaburou wa Kamen Rider ni Naritai ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-toujima-tanzaburou-wa-kamen-rider-ni.n2094506) • [🐱 Nyaa](https://nyaa.si/?q=V4E4WXLEXZ6NEP7KQEOTJEWPGUQRMQPQ) |
+| `[Erai-raws] Yami Shibai 16 - 08 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yami-shibai-16-08-1080p-cr.n2094505) • [🐱 Nyaa](https://nyaa.si/?q=DWHXTC36PY3KCNFURHNRVB77NLC4LAEF) |
+| `[Erai-raws] Tamon-kun Ima Docchi!? - 09 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tamon-kun-ima-docchi-09-1080p.n2094504) • [🐱 Nyaa](https://nyaa.si/?q=NNGHI3VJWJVXOKZLI64IIB4S3ZDIBJNN) |
+| `[Erai-raws] Toujima Tanzaburou wa Kamen Rider ni Naritai ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-toujima-tanzaburou-wa-kamen-rider-ni.n2094503) • [🐱 Nyaa](https://nyaa.si/?q=2MOHCIOASHNIFKUXWJRNRDSU4GIXLDA2) |
+| `[Erai-raws] Yami Shibai 16 - 07 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yami-shibai-16-07-1080p-cr.n2094502) • [🐱 Nyaa](https://nyaa.si/?q=2WKFEO5X62IY2NX4J5XF6UOLW765I5CL) |
+| `[Erai-raws] Niwatori Fighter - 04 [1080p DSNP WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-04-1080p-dsnp-webrip.n2094501) • [🐱 Nyaa](https://nyaa.si/?q=7QXBOF45XJXTJSKH532SXNW3MQAKP5BA) |
+| `[Erai-raws] MF Ghost 3rd Season - 13 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mf-ghost-3rd-season-13-1080p.n2094500) • [🐱 Nyaa](https://nyaa.si/?q=6HZ3FPRK5KOEMW6BIWC5XUZFOA2XWRAL) |
+| `[Erai-raws] Okiraku Ryoushu no Tanoshii Ryouchi Boue - 12...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-okiraku-ryoushu-no-tanoshii-ryouchi-boue.n2094499) • [🐱 Nyaa](https://nyaa.si/?q=K3Z2CNN7K72E45XE3N4CDZG5DNJPPRTS) |
 
 ---
 <div align="center">
