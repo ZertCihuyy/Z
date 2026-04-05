@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.44.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.43.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Digimon Beatbreak - S01E25 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-digimon-beatbreak-s01e25-1080p-webrip-av1-mkv.2072061) • [🐱 Nyaa](https://nyaa.si/?q=RWW2HOSUPCTYE3DBBBZ7HYAR6LVEWPVX) |
+| `[Onalrie] Meitantei Precure! - S01E10 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-meitantei-precure-s01e10-1080p-webrip-av1-mkv.2072055) • [🐱 Nyaa](https://nyaa.si/?q=5AKVXRACYYC3DR6D6IMDEUKJQXUXZ5DH) |
 | `[ToonsHub] Star Detective Precure S01E09 REPACK 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e09-repack-1080p-cr.k10158469034248) • [🐱 Nyaa](https://nyaa.si/?q=AO3F42ZWDFJGIYHSMFMBSTMJVUDZDNQX) |
 | `Digimon.Beatbreak.S01E25.1080p.CR.WEBRip.10bits.x265-Rapta` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e25-1080p-cr-webrip-10bits-x265-rapta.n2094011) • [🐱 Nyaa](https://nyaa.si/?q=TPAFRYDYBBBCJASIET3VFUOV4DRZZDGG) |
 | `[Judas] Digimon Beatbreak - S01E25 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e25-1080p-hevc-x265-10bit.n2094007) • [🐱 Nyaa](https://nyaa.si/?q=AGZ6QXPJ2CB27A566OOY262MENQT5OKA) |
@@ -41,8 +43,6 @@
 | `[NOGRP] Summoned to Another World for a Second Time Seaso...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nogrp-summoned-another-world-second-time-season-1.n2093999) • [🐱 Nyaa](https://nyaa.si/?q=RWMAPILMALDMIHXCPU3MO4Z4SRXEATNK) |
 | `[MuGi] RE-MAIN Season 1 v2 (BD Remux 1080p x264 8-bit FLA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mugi-re-main-season-1-v2-bd-remux.n2093998) • [🐱 Nyaa](https://nyaa.si/?q=EDIIZ2KEAEP76ABQAKMIIHBKRRQHXRAF) |
 | `[Headpatter] Viral Hit Season 1 (BD 1080p x264 8-bit Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-viral-hit-season-1-bd-1080p-x264.n2093997) • [🐱 Nyaa](https://nyaa.si/?q=HZL6I42P5AJYAR7VC4DOXMVTTOX6MVV3) |
-| `[Headpatter] Star Driver Season 1 (BD 1080p x264 8-bit Op...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-star-driver-season-1-bd-1080p-x264.n2093996) • [🐱 Nyaa](https://nyaa.si/?q=XXGJ64MMSPKGLTWIWQXKVQSIMAAKIBDG) |
-| `[Headpatter] High Card Season 2 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-high-card-season-2-bd-remux-1080p.n2093995) • [🐱 Nyaa](https://nyaa.si/?q=ZJCELIOEY2EK3RS3D3X4Z6B3TA3BSG2C) |
 
 ---
 <div align="center">
