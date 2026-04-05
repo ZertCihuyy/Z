@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.15.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.25.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Digimon Beatbreak S01E25 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e25-1080p-cr-web-dl-aac2.n2093985) • [🐱 Nyaa](https://nyaa.si/?q=5DSXOVLPER34ZAPMTEVDWKZH22QYEMHO) |
-| `[SubsPlease] Digimon Beatbreak - 25 (1080p) [29A2ADAE].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-25-1080p-29a2adae-mkv.n2093984) • [🐱 Nyaa](https://nyaa.si/?q=BJIDU336DDFCIY5CBDTYF4ZVCY3U3QCJ) |
-| `[ToonsHub] Digimon Beatbreak S01E25 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-digimon-beatbreak-s01e25-1080p-cr-web-dl.k10155137000202) • [🐱 Nyaa](https://nyaa.si/?q=JN65J4HNB3UPQFS5LG7TACAFETX43CML) |
-| `[SubsPlease] Digimon Beatbreak - 25 (720p) [63DCB3A1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-25-720p-63dcb3a1-mkv.n2093982) • [🐱 Nyaa](https://nyaa.si/?q=P4LM7RII67NJTLUYHQCGGFVVHRPZ76HX) |
-| `[SubsPlease] Digimon Beatbreak - 25 (480p) [67A8FFF4].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-25-480p-67a8fff4-mkv.n2093981) • [🐱 Nyaa](https://nyaa.si/?q=MZP6LHMEDGLBTXZGLA7FI2YXOM5D5SWE) |
-| `[Erai-raws] Digimon Beatbreak - 25 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-25-480p-cr-web.n2093980) • [🐱 Nyaa](https://nyaa.si/?q=EP7YPCKAFAU3LMGDSCZ6A2VFPIGM4Y3Z) |
-| `[Erai-raws] Digimon Beatbreak - 25 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-25-720p-cr-web.n2093979) • [🐱 Nyaa](https://nyaa.si/?q=YBGUMLWHK7WDI74C7Q5XKEOQRICZKIWY) |
-| `[Erai-raws] Digimon Beatbreak - 25 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-25-1080p-cr-web.n2093978) • [🐱 Nyaa](https://nyaa.si/?q=PXRJFANDO3P7DIV3O5SXTESCJ5NWOR5G) |
-| `[ToonsHub] The Other Side of Deep Space S01E14 1080p BILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-other-side-deep-space-s01e14-1080p-bili.n2093977) • [🐱 Nyaa](https://nyaa.si/?q=R5GQR4FX755O7I4ENYP5OL4UQGAF36B2) |
-| `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-honzuki-no-gekokujou-shisho-ni-naru-tame.n2093976) • [🐱 Nyaa](https://nyaa.si/?q=OQAOCH5LBVVJHF3MLAFJYUI55UMARSMH) |
-| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kanan-sama-wa-akumade-choroi-mistress-devilishly.n2093975) • [🐱 Nyaa](https://nyaa.si/?q=BQRN7Z5Z4IGKLWPJEYYMCGH6NKCDV757) |
-| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School!...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mairimashita-iruma-kun-welcome-demon-school-s04e01.n2093974) • [🐱 Nyaa](https://nyaa.si/?q=JVZQ3ZMVV2ABE4M344FDHMVGGE7MSQ2E) |
-| `[ASW] Meitantei Precure! - 10 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-meitantei-precure-10-1080p-hevc-x265-10bit-aac.n2093972) • [🐱 Nyaa](https://nyaa.si/?q=3S2UZVQHZGCU5LP33GXJRLJDDRJ5VILZ) |
-| `[LonelyDildo] Batsu & Terry (LD) + Extras` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lonelydildo-batsu-terry-ld-extras.n2093965) • [🐱 Nyaa](https://nyaa.si/?q=MRWRN5XGUVR4WQHS3C5ZDBFDDNSONLZJ) |
-| `PoPoLoCrois Monogatari - Hajimari no Bouken (2003) [A-BT&...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/popolocrois-monogatari-hajimari-no-bouken-2003-bt-pakapuka.n2093964) • [🐱 Nyaa](https://nyaa.si/?q=DBZ7E52NKLFNXY5ZAQ7HBJO2W46R2OZF) |
+| `Digimon.Beatbreak.S01E25.1080p.CR.WEBRip.10bits.x265-Rapta` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e25-1080p-cr-webrip-10bits-x265-rapta.n2094011) • [🐱 Nyaa](https://nyaa.si/?q=TPAFRYDYBBBCJASIET3VFUOV4DRZZDGG) |
+| `[Judas] Digimon Beatbreak - S01E25 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e25-1080p-hevc-x265-10bit.n2094007) • [🐱 Nyaa](https://nyaa.si/?q=AGZ6QXPJ2CB27A566OOY262MENQT5OKA) |
+| `[Serenae] Meitantei Precure! - 10 Fanart Corner (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-10-fanart-corner-1080p-mkv.n2094006) • [🐱 Nyaa](https://nyaa.si/?q=2UOLYNALORUQJQ7K7ALNKCPFLPS36K2U) |
+| `[Serenae] Meitantei Precure! - 10 (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-10-1080p-mkv.n2094005) • [🐱 Nyaa](https://nyaa.si/?q=5X7QG75JPAEUJCAR5FMVKBWWKHSKHOP7) |
+| `[Serenae] Meitantei Precure! - 10 (720p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-10-720p-mkv.n2094004) • [🐱 Nyaa](https://nyaa.si/?q=UEOFTEFIVUP7JBFZXK5LH2GKUFRKBWNQ) |
+| `[ZoroSenpai] Jin-Roh: The Wolf Brigade (1999) v2 (BD Remu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/zorosenpai-jin-roh-wolf-brigade-1999-v2-bd.n2094003) • [🐱 Nyaa](https://nyaa.si/?q=TBGTV5DY6AYELL6FFSHK6AWRGWIQDMY5) |
+| `[Sylvar] WIND BREAKER Season 2 (BD Remux 1080p x264 8-bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sylvar-wind-breaker-season-2-bd-remux-1080p.n2094002) • [🐱 Nyaa](https://nyaa.si/?q=XLD26TA4ZWX2Y4TVOGBL7JIHAO34EE5C) |
+| `[Sylvar] High School of the Dead Season 1 (BD Remux 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sylvar-high-school-dead-season-1-bd-remux.n2094001) • [🐱 Nyaa](https://nyaa.si/?q=PFDSIKHZSZC7HJ5ZG4GKBUEMNBZKNFZX) |
+| `[RABBIT] Arknights Season 3 (BD Remux 1080p x264 8-bit DT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rabbit-arknights-season-3-bd-remux-1080p-x264.n2094000) • [🐱 Nyaa](https://nyaa.si/?q=AM6U4X67HJJWBTMDGRPDLI42MFBHSXHE) |
+| `[NOGRP] Summoned to Another World for a Second Time Seaso...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nogrp-summoned-another-world-second-time-season-1.n2093999) • [🐱 Nyaa](https://nyaa.si/?q=RWMAPILMALDMIHXCPU3MO4Z4SRXEATNK) |
+| `[MuGi] RE-MAIN Season 1 v2 (BD Remux 1080p x264 8-bit FLA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mugi-re-main-season-1-v2-bd-remux.n2093998) • [🐱 Nyaa](https://nyaa.si/?q=EDIIZ2KEAEP76ABQAKMIIHBKRRQHXRAF) |
+| `[Headpatter] Viral Hit Season 1 (BD 1080p x264 8-bit Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-viral-hit-season-1-bd-1080p-x264.n2093997) • [🐱 Nyaa](https://nyaa.si/?q=HZL6I42P5AJYAR7VC4DOXMVTTOX6MVV3) |
+| `[Headpatter] Star Driver Season 1 (BD 1080p x264 8-bit Op...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-star-driver-season-1-bd-1080p-x264.n2093996) • [🐱 Nyaa](https://nyaa.si/?q=XXGJ64MMSPKGLTWIWQXKVQSIMAAKIBDG) |
+| `[Headpatter] High Card Season 2 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-high-card-season-2-bd-remux-1080p.n2093995) • [🐱 Nyaa](https://nyaa.si/?q=ZJCELIOEY2EK3RS3D3X4Z6B3TA3BSG2C) |
+| `[Headpatter] Haikara-san: Here Comes Miss Modern Part 2 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-haikara-san-here-comes-miss-modern-part.n2093994) • [🐱 Nyaa](https://nyaa.si/?q=Q3FVD4I37W2LSCPOP7PA6YN5QC2EFWZW) |
 
 ---
 <div align="center">

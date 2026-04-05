@@ -1,5 +1,5 @@
 {
-  "last_update": "5/4/2026, 10.15.52",
+  "last_update": "5/4/2026, 12.25.25",
   "data": [
     {
       "mal_id": 61316,
@@ -1390,9 +1390,9 @@
       ],
       "type": "TV",
       "source": "Manga",
-      "episodes": null,
-      "status": "Not yet aired",
-      "airing": false,
+      "episodes": 24,
+      "status": "Currently Airing",
+      "airing": true,
       "aired": {
         "from": "2026-04-04T00:00:00+00:00",
         "to": null,
@@ -1410,14 +1410,14 @@
         },
         "string": "Apr 4, 2026 to ?"
       },
-      "duration": "Unknown",
-      "rating": null,
-      "score": null,
-      "scored_by": null,
-      "rank": null,
-      "popularity": 3232,
-      "members": 59878,
-      "favorites": 170,
+      "duration": "23 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.97,
+      "scored_by": 1928,
+      "rank": 792,
+      "popularity": 3020,
+      "members": 67604,
+      "favorites": 201,
       "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.\n\nOn an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.\n\nBefore the woman can capture him, Yuru is rescued by a man named Dera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.\n\n[Written by MAL Rewrite]",
       "background": "",
       "season": "spring",
@@ -1446,6 +1446,12 @@
           "type": "anime",
           "name": "Square Enix",
           "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+          "mal_id": 3309,
+          "type": "anime",
+          "name": "Peerless Gerbera",
+          "url": "https://myanimelist.net/anime/producer/3309/Peerless_Gerbera"
         }
       ],
       "licensors": [],
@@ -1489,24 +1495,24 @@
       ]
     },
     {
-      "mal_id": 57466,
-      "url": "https://myanimelist.net/anime/57466/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen_-_Ryoushu_no_Youjo",
+      "mal_id": 60310,
+      "url": "https://myanimelist.net/anime/60310/Mairimashita_Iruma-kun_4th_Season",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1371/155054.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1371/155054t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1371/155054l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1434/154048.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1434/154048t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1434/154048l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1371/155054.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1371/155054t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1371/155054l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1434/154048.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1434/154048t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1434/154048l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/rtPF6rjrdSU?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/6Lo1DUCY9nY?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -1519,35 +1525,24 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo"
-        },
-        {
-          "type": "Synonym",
-          "title": "Ascendance of a Bookworm 4th Season"
-        },
-        {
-          "type": "Synonym",
-          "title": "Honzuki no Gekokujou 4th Season"
+          "title": "Mairimashita! Iruma-kun 4th Season"
         },
         {
           "type": "Japanese",
-          "title": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女"
+          "title": "魔入りました！入間くん 第4シリーズ"
         },
         {
           "type": "English",
-          "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
+          "title": "Welcome to Demon School! Iruma-kun Season 4"
         }
       ],
-      "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
-      "title_english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "title_japanese": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
-      "title_synonyms": [
-        "Ascendance of a Bookworm 4th Season",
-        "Honzuki no Gekokujou 4th Season"
-      ],
+      "title": "Mairimashita! Iruma-kun 4th Season",
+      "title_english": "Welcome to Demon School! Iruma-kun Season 4",
+      "title_japanese": "魔入りました！入間くん 第4シリーズ",
+      "title_synonyms": [],
       "type": "TV",
-      "source": "Light novel",
-      "episodes": null,
+      "source": "Manga",
+      "episodes": 24,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
@@ -1567,35 +1562,41 @@
         },
         "string": "Apr 4, 2026 to ?"
       },
-      "duration": "Unknown",
+      "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": null,
-      "scored_by": null,
-      "rank": 17113,
-      "popularity": 3432,
-      "members": 53954,
-      "favorites": 215,
-      "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
+      "score": 7.98,
+      "scored_by": 1323,
+      "rank": 763,
+      "popularity": 3374,
+      "members": 55335,
+      "favorites": 212,
+      "synopsis": "Fourth season of Mairimashita! Iruma-kun.",
       "background": "",
       "season": "spring",
       "year": 2026,
       "broadcast": {
         "day": "Saturdays",
-        "time": "17:30",
+        "time": "18:15",
         "timezone": "Asia/Tokyo",
-        "string": "Saturdays at 17:30 (JST)"
+        "string": "Saturdays at 18:15 (JST)"
       },
       "producers": [],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 858,
+          "mal_id": 1258,
           "type": "anime",
-          "name": "Wit Studio",
-          "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+          "name": "Bandai Namco Pictures",
+          "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
         }
       ],
       "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
         {
           "mal_id": 10,
           "type": "anime",
@@ -1606,19 +1607,20 @@
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 62,
+          "mal_id": 23,
           "type": "anime",
-          "name": "Isekai",
-          "url": "https://myanimelist.net/anime/genre/62/Isekai"
-        },
-        {
-          "mal_id": 72,
-          "type": "anime",
-          "name": "Reincarnation",
-          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
         }
       ],
-      "demographics": []
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
     }
   ]
 }
