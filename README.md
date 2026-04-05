@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.43.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.26.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -13,6 +13,7 @@
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
 | `08:30` | **[Tomica to Tom (TV)](https://myanimelist.net/anime/62083/Tomica_to_Tom_TV)** | *Slice of Life* |
+| `09:30` | **[Onegai AiPri](https://myanimelist.net/anime/63352/Onegai_AiPri)** | *-* |
 | `TBA` | **[Manul no Yuube](https://myanimelist.net/anime/38776/Manul_no_Yuube)** | *Slice of Life* |
 | `08:30` | **[Meitantei Precure!](https://myanimelist.net/anime/63042/Meitantei_Precure)** | *Action, Mystery* |
 | `08:00` | **[Koupen-chan](https://myanimelist.net/anime/60534/Koupen-chan)** | *Slice of Life* |
@@ -21,28 +22,27 @@
 | `01:30` | **[Kami no Niwatsuki Kusunoki-tei](https://myanimelist.net/anime/62050/Kami_no_Niwatsuki_Kusunoki-tei)** | *Fantasy, Slice of Life* |
 | `18:30` | **[Sazae-san](https://myanimelist.net/anime/2406/Sazae-san)** | *Comedy* |
 | `22:00` | **[Maid-san wa Taberu dake](https://myanimelist.net/anime/62342/Maid-san_wa_Taberu_dake)** | *Gourmet, Slice of Life* |
-| `22:00` | **[Maid-san wa Taberu dake](https://myanimelist.net/anime/62342/Maid-san_wa_Taberu_dake)** | *Gourmet, Slice of Life* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Digimon Beatbreak - S01E25 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-digimon-beatbreak-s01e25-1080p-webrip-av1-mkv.2072061) • [🐱 Nyaa](https://nyaa.si/?q=RWW2HOSUPCTYE3DBBBZ7HYAR6LVEWPVX) |
-| `[Onalrie] Meitantei Precure! - S01E10 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-meitantei-precure-s01e10-1080p-webrip-av1-mkv.2072055) • [🐱 Nyaa](https://nyaa.si/?q=5AKVXRACYYC3DR6D6IMDEUKJQXUXZ5DH) |
-| `[ToonsHub] Star Detective Precure S01E09 REPACK 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e09-repack-1080p-cr.k10158469034248) • [🐱 Nyaa](https://nyaa.si/?q=AO3F42ZWDFJGIYHSMFMBSTMJVUDZDNQX) |
-| `Digimon.Beatbreak.S01E25.1080p.CR.WEBRip.10bits.x265-Rapta` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e25-1080p-cr-webrip-10bits-x265-rapta.n2094011) • [🐱 Nyaa](https://nyaa.si/?q=TPAFRYDYBBBCJASIET3VFUOV4DRZZDGG) |
-| `[Judas] Digimon Beatbreak - S01E25 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e25-1080p-hevc-x265-10bit.n2094007) • [🐱 Nyaa](https://nyaa.si/?q=AGZ6QXPJ2CB27A566OOY262MENQT5OKA) |
-| `[Serenae] Meitantei Precure! - 10 Fanart Corner (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-10-fanart-corner-1080p-mkv.n2094006) • [🐱 Nyaa](https://nyaa.si/?q=2UOLYNALORUQJQ7K7ALNKCPFLPS36K2U) |
-| `[Serenae] Meitantei Precure! - 10 (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-10-1080p-mkv.n2094005) • [🐱 Nyaa](https://nyaa.si/?q=5X7QG75JPAEUJCAR5FMVKBWWKHSKHOP7) |
-| `[Serenae] Meitantei Precure! - 10 (720p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-10-720p-mkv.n2094004) • [🐱 Nyaa](https://nyaa.si/?q=UEOFTEFIVUP7JBFZXK5LH2GKUFRKBWNQ) |
-| `[ZoroSenpai] Jin-Roh: The Wolf Brigade (1999) v2 (BD Remu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/zorosenpai-jin-roh-wolf-brigade-1999-v2-bd.n2094003) • [🐱 Nyaa](https://nyaa.si/?q=TBGTV5DY6AYELL6FFSHK6AWRGWIQDMY5) |
-| `[Sylvar] WIND BREAKER Season 2 (BD Remux 1080p x264 8-bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sylvar-wind-breaker-season-2-bd-remux-1080p.n2094002) • [🐱 Nyaa](https://nyaa.si/?q=XLD26TA4ZWX2Y4TVOGBL7JIHAO34EE5C) |
-| `[Sylvar] High School of the Dead Season 1 (BD Remux 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sylvar-high-school-dead-season-1-bd-remux.n2094001) • [🐱 Nyaa](https://nyaa.si/?q=PFDSIKHZSZC7HJ5ZG4GKBUEMNBZKNFZX) |
-| `[RABBIT] Arknights Season 3 (BD Remux 1080p x264 8-bit DT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rabbit-arknights-season-3-bd-remux-1080p-x264.n2094000) • [🐱 Nyaa](https://nyaa.si/?q=AM6U4X67HJJWBTMDGRPDLI42MFBHSXHE) |
-| `[NOGRP] Summoned to Another World for a Second Time Seaso...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nogrp-summoned-another-world-second-time-season-1.n2093999) • [🐱 Nyaa](https://nyaa.si/?q=RWMAPILMALDMIHXCPU3MO4Z4SRXEATNK) |
-| `[MuGi] RE-MAIN Season 1 v2 (BD Remux 1080p x264 8-bit FLA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mugi-re-main-season-1-v2-bd-remux.n2093998) • [🐱 Nyaa](https://nyaa.si/?q=EDIIZ2KEAEP76ABQAKMIIHBKRRQHXRAF) |
-| `[Headpatter] Viral Hit Season 1 (BD 1080p x264 8-bit Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-viral-hit-season-1-bd-1080p-x264.n2093997) • [🐱 Nyaa](https://nyaa.si/?q=HZL6I42P5AJYAR7VC4DOXMVTTOX6MVV3) |
+| `[Trix] Mistress Kanan is Devilishly Easy S01E01 [WEBRip 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-mistress-kanan-devilishly-easy-s01e01-webrip-1080p.n2094055) • [🐱 Nyaa](https://nyaa.si/?q=CABVUTKKFOYFFSUDE4E4DTV7M2FO6Z4N) |
+| `Rooster Fighter S01E04 Homing in on Desire 1080p BILI WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e04-homing-desire-1080p-bili-web.n2094052) • [🐱 Nyaa](https://nyaa.si/?q=NT7VVESZG2SN76F2MZVR5YZVUE3554AM) |
+| `Rooster Fighter S01E04 Homing in on Desire 1080p DSNP WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e04-homing-desire-1080p-dsnp-web.n2094051) • [🐱 Nyaa](https://nyaa.si/?q=HMNNASKWBA3YR4BVCQGSWRGXE5UMXZI3) |
+| `Rooster Fighter S01E04 Homing in on Desire 1080p DSNP WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e04-homing-desire-1080p-dsnp-web.n2094050) • [🐱 Nyaa](https://nyaa.si/?q=NGJSUEOYY2C4AJCTUVM5KSSNYXTAPEEV) |
+| `[ToonsHub] Rooster Fighter S01E04 1080p AS WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e04-1080p-web-dl-aac2.n2094049) • [🐱 Nyaa](https://nyaa.si/?q=2TUJMZUVDM3BVZU3ZIU7FSOU2QQLVHWL) |
+| `Rooster Fighter S01E04 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e04-1080p-cr-web-dl-aac2.n2094047) • [🐱 Nyaa](https://nyaa.si/?q=GKETIXRZ4VZCS3OG7FG4FAAHD4LG5BYK) |
+| `[Yameii] In the Clear Moonlit Dusk - S01E11 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-clear-moonlit-dusk-s01e11-english-dub-cr.n2094046) • [🐱 Nyaa](https://nyaa.si/?q=FDDZTN5OVT5D6LEANYRAZCD67DJQGHMY) |
+| `[ToonsHub] In the Clear Moonlit Dusk S01E11 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-clear-moonlit-dusk-s01e11-1080p-cr-web.k10159787345163) • [🐱 Nyaa](https://nyaa.si/?q=MFT26VMM5KFAYY75PCJ6CP4JIXW6XZ5O) |
+| `[Yameii] In the Clear Moonlit Dusk - S01E11 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-clear-moonlit-dusk-s01e11-english-dub-cr.n2094044) • [🐱 Nyaa](https://nyaa.si/?q=3C4AIRMV6UIQGIOZ7WPDYMLHGG54FUVA) |
+| `[SubsPlease] Niwatori Fighter - 04 (1080p) [EDB0BB07].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-04-1080p-edb0bb07-mkv.n2094042) • [🐱 Nyaa](https://nyaa.si/?q=GY2U4ZZSCEJEYLXWNFVO76MEXZCW7HW4) |
+| `In the Clear Moonlit Dusk S01E11 The Empty Room 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/clear-moonlit-dusk-s01e11-empty-room-1080p-cr.n2094041) • [🐱 Nyaa](https://nyaa.si/?q=52OKJJYHZHWRM7GCFVQ3RNTY5ERMRC73) |
+| `[ToonsHub] Rooster Fighter S01E04 1080p AMZN WEB-DL DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e04-1080p-amzn-web-dl.k10159766774284) • [🐱 Nyaa](https://nyaa.si/?q=S5YVS3CO7PM3RKMM7SBJ2GPWRXMDRWEE) |
+| `You and I Are Polar Opposites S01E11 Class Trip Part 2 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e11-class-trip-part-2-1080p.n2094039) • [🐱 Nyaa](https://nyaa.si/?q=2KCE3R5QIUWVFOGL2NPBK2GENDPP4AMP) |
+| `[LbE3L] To Your Eternity S03 CR [1080p WEBRip AV1 Opus 2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-your-eternity-s03-cr-1080p-webrip-av1.k10159759111695) • [🐱 Nyaa](https://nyaa.si/?q=RLUIELQMSBVAHRKKCVRQPYQKC66KLZTI) |
+| `[ToonsHub] Rooster Fighter S01E04 1080p CR WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e04-1080p-cr-web-dl.n2094037) • [🐱 Nyaa](https://nyaa.si/?q=DTMO2SJYPBIYNVSXDSOECW45PYDRVKO7) |
 
 ---
 <div align="center">
