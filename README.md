@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.58.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.59.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -24,21 +24,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E00 [1080p WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tsue-tsurugi-no-wistoria-s02e00-1080p-webrip-av1-mkv.2072171) • [🐱 Nyaa](https://nyaa.si/?q=HM4TE7WIOPSKUHBX4PJLQEB5BIDVQN3F) |
+| `[ASW] Tsue to Tsurugi no Wistoria S2 - 00 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tsue-tsurugi-no-wistoria-s2-00-1080p.n2094307) • [🐱 Nyaa](https://nyaa.si/?q=KQFUXNJCC3WVEL5QQFVNAR5RXIFPKORU) |
+| `[Erai-raws] Niwatori Fighter - 04 [1080p CR WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-04-1080p-cr-webrip.n2094306) • [🐱 Nyaa](https://nyaa.si/?q=QOD27KQ6OPV4BCCGZDQ2IO5LDZZPCELE) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 01 [48...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2094305) • [🐱 Nyaa](https://nyaa.si/?q=EYIHXFQGDLZBUONAIY2JEKQVBXVKR5DB) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 01 [72...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2094304) • [🐱 Nyaa](https://nyaa.si/?q=GZ7A5WPATL5OP3R5GO6U7P6V3N5HZEJI) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 01 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2094303) • [🐱 Nyaa](https://nyaa.si/?q=FVUP5UNHCJVCP74MN3OXF3MDS3FH5IWJ) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 01 [480p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-01-480p.n2094302) • [🐱 Nyaa](https://nyaa.si/?q=LXDR2WIRVSBR4NRAPYPMUKSIJO4CWPHU) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 01 [720p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-01-720p.n2094301) • [🐱 Nyaa](https://nyaa.si/?q=5XSVYAD4KFMN6RAYOOTC2H2VSLDZICRX) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 01 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-01-1080p.n2094300) • [🐱 Nyaa](https://nyaa.si/?q=5K3GJDEFN3GSGWH75X64I3QBF4J2HT7W) |
+| `Akane-banashi S01E01 That Day 1080p DSNP WEB-DL DDP2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/akane-banashi-s01e01-day-1080p-dsnp-web-dl.k10169332889097) • [🐱 Nyaa](https://nyaa.si/?q=5OQNCOQM6VDZFLQWZVHA2EOZWQRZTUEC) |
+| `[Erai-raws] Nippon Sangoku - 01 [720p AMZN WEB-DL AVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-01-720p-amzn-web.n2094293) • [🐱 Nyaa](https://nyaa.si/?q=CWPBRRGGIGEXJPOH56DCGLY7AHPYKUZZ) |
+| `[Erai-raws] Nippon Sangoku - 01 [540p AMZN WEB-DL AVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-01-540p-amzn-web.n2094292) • [🐱 Nyaa](https://nyaa.si/?q=5XQAFISYULV7VH6HM2H6DPQK6AP3N7ZU) |
+| `[Erai-raws] Nippon Sangoku - 01 [1080p AMZN WEB-DL AVC EA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-01-1080p-amzn-web.n2094291) • [🐱 Nyaa](https://nyaa.si/?q=LYSO6BJEQJGONGITKWAPAUPUQFO2NPOA) |
 | `[BlackRabbit] Terra Formars (2014) - S02 [Bluray-1080p][O...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-terra-formars-2014-s02-bluray-1080p-opus.k10168801112335) • [🐱 Nyaa](https://nyaa.si/?q=RR2OBOIR2LJRPJS4LIJ4YSGCOZM6HDJG) |
 | `[Erai-raws] Maid-san wa Taberu dake - 02 [1080p CR WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-maid-san-wa-taberu-dake-02.n2094290) • [🐱 Nyaa](https://nyaa.si/?q=TJITMKUY2B5YJGHL6SBGAEGSUK7ZZ6VW) |
-| `[SubsPlease] Tsue to Tsurugi no Wistoria S2 - 00 (1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tsue-tsurugi-no-wistoria-s2-00-1080p-a1f31848-mkv.n2094288) • [🐱 Nyaa](https://nyaa.si/?q=6Q6RZOWPA2UUVR73ZS5ZHPECRQCGBZPP) |
-| `[SubsPlease] Tsue to Tsurugi no Wistoria S2 - 00 (720p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tsue-tsurugi-no-wistoria-s2-00-720p-9273e82f-mkv.n2094287) • [🐱 Nyaa](https://nyaa.si/?q=PL6CWLJA7PFRPCJKXKCT5MCPXXBOXSCB) |
-| `[SubsPlease] Tsue to Tsurugi no Wistoria S2 - 00 (480p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tsue-tsurugi-no-wistoria-s2-00-480p-382ea7d9-mkv.n2094286) • [🐱 Nyaa](https://nyaa.si/?q=6RPG4WY3U3RLMV4O2SY5643WBSHYRT2F) |
-| `[Erai-raws] Niwatori Fighter - 04 [720p DSNP WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-04-720p-dsnp-web.n2094285) • [🐱 Nyaa](https://nyaa.si/?q=C32ILUK6A5SHPSPEHMAKEZB2JXGHACVU) |
-| `[Erai-raws] Niwatori Fighter - 04 [1080p DSNP WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-04-1080p-dsnp-web.n2094284) • [🐱 Nyaa](https://nyaa.si/?q=HU5NEL4NEMX74MSU5GJTAIOBHSS3EZEX) |
-| `[Erai-raws] Niwatori Fighter - 04 [480p DSNP WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-04-480p-dsnp-web.n2094283) • [🐱 Nyaa](https://nyaa.si/?q=2BJY4O4F2LHKMFTXKEYYZQ32I2IHJJMS) |
-| `Hells Paradise S02E10 Master and Student 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02e10-master-student-1080p-cr-web.n2094280) • [🐱 Nyaa](https://nyaa.si/?q=UNGJ2SHWC7RZQT7P35CYLVEE3VZVZTCO) |
-| `[Erai-raws] Niwatori Fighter - 04 [1080p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-04-1080p-cr-web.n2094278) • [🐱 Nyaa](https://nyaa.si/?q=I3IGI3NCXCQIAOAB5EHYQOE3CEVW2G7N) |
-| `[Erai-raws] Niwatori Fighter - 04 [720p CR WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-04-720p-cr-web.n2094277) • [🐱 Nyaa](https://nyaa.si/?q=TWTTJIALP7GOHUVW5F5FUBV2QKXCX76M) |
-| `[Erai-raws] Niwatori Fighter - 04 [480p CR WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-04-480p-cr-web.n2094276) • [🐱 Nyaa](https://nyaa.si/?q=IVQMXTZLEFMMNNKCQDH3QLYYR7NS2HYR) |
-| `[Judas] One Piece - 1156 [1080p][HEVC x265 10bit][Eng-Sub...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-one-piece-1156-1080p-hevc-x265-10bit.n2094275) • [🐱 Nyaa](https://nyaa.si/?q=3GBEXZDW35LOA2FGI5KMKMV4FDLBCJWB) |
-| `[Judas] Diamond no Ace (Ace of the Diamond) - S02E01 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-diamond-no-ace-s02e01-1080p-hevc-x265.n2094273) • [🐱 Nyaa](https://nyaa.si/?q=WY76ANCX4CUDZVAFEGC6XHLRSTMXXOPA) |
-| `[ASW] One Piece - 1156 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-one-piece-1156-1080p-hevc-x265-10bit-aac.n2094272) • [🐱 Nyaa](https://nyaa.si/?q=F3GPM2CWEREFMEKR4OLVTQNMRE4EWKVW) |
 
 ---
 <div align="center">
