@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.47.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.15.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Yomi no Tsugai - 01 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yomi-no-tsugai-01-1080p-cr.n2093933) • [🐱 Nyaa](https://nyaa.si/?q=EHW4D4ARHNOV5NHHBWEIVTNIJ23TK53J) |
-| `[Erai-raws] Tensei Akujo no Kuro Rekishi - Special [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-akujo-no-kuro-rekishi-special.n2093932) • [🐱 Nyaa](https://nyaa.si/?q=NVU4IIEFDZEAFO7ATJYWXDTRXZ2Q73IC) |
-| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 02 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-shunkashuutou-daikousha-haru-no-mai-02.n2093931) • [🐱 Nyaa](https://nyaa.si/?q=J4PJCHK5RGRLTZ7POBGUSLT4SWXWLPC3) |
-| `[DKB] Needy Girl Overdose - S01E01 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-needy-girl-overdose-s01e01-1080p-hevc-x265.n2093929) • [🐱 Nyaa](https://nyaa.si/?q=QTFFCHNRPAQXFQL27XKAZZIOHCUJHG4S) |
-| `MAO S01E01 Nanoka and Mao REPACK 1080p DSNP WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e01-nanoka-mao-repack-1080p-dsnp-web.n2093927) • [🐱 Nyaa](https://nyaa.si/?q=3VBLAGATD7CV3GQV5X4HJSMYAUQLEEN3) |
-| `MAO S01E01 Nanoka and Mao 1080p DSNP WEB-DL AAC2.0 H 264-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e01-nanoka-mao-1080p-dsnp-web-dl.n2093923) • [🐱 Nyaa](https://nyaa.si/?q=RCFM7NSN3LTTN3WQGD63EKI6JHQWOTBS) |
-| `[Yameii] The Daily Life of the Immortal King - S05E11 [En...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-daily-life-immortal-king-s05e11-english-dub.n2093922) • [🐱 Nyaa](https://nyaa.si/?q=DG2Q56PTKWJOYH64BNK75YAGFSCIX5SP) |
-| `[GHOST] A Certain Scientific Accelerator (BD 1080p HEVC 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-certain-scientific-accelerator-bd-1080p-hevc-10bit.n2093921) • [🐱 Nyaa](https://nyaa.si/?q=5HOHGCYXRA4UKQPXNUPBNQJUSXLXELYW) |
-| `[Yameii] The Daily Life of the Immortal King - S05E11 [En...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-daily-life-immortal-king-s05e11-english-dub.n2093920) • [🐱 Nyaa](https://nyaa.si/?q=UVSSJUK4FMJVRLZ3MD34FDDD6VQTG5QJ) |
-| `[ToonsHub] MAO S01E01 1080p DSNP WEB-DL AAC2.0 H.264 (Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mao-s01e01-1080p-dsnp-web-dl-aac2.n2093919) • [🐱 Nyaa](https://nyaa.si/?q=PNMSZPT5T255FFZAEIZXTHAVGXP6ELCU) |
-| `The Daily Life of the Immortal King S05E11 The Realm-Wide...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/daily-life-immortal-king-s05e11-realm-wide-wanted.n2093918) • [🐱 Nyaa](https://nyaa.si/?q=VJDHB26AYQAHKBEJSMR3T2YI3LHWOBYI) |
-| `[ToonsHub] The Daily Life of the Immortal King S05E11 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-daily-life-immortal-king-s05e11-1080p-cr.n2093917) • [🐱 Nyaa](https://nyaa.si/?q=QH4WPGVJJHGCNAMZZNZFBHLLJTBNXBNT) |
-| `[Ironclad] Toujima Tanzaburou wa Kamen Rider ni Naritai -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-toujima-tanzaburou-wa-kamen-rider-ni-naritai.n2093916) • [🐱 Nyaa](https://nyaa.si/?q=UJGFPRFLWHSAU2RAK7R4LGBG4K4WGSK3) |
-| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-daemons-shadow-realm-yomi-no-tsugai.n2093897) • [🐱 Nyaa](https://nyaa.si/?q=E75WMBLEIQ6RXTKICRYN7EI3L3GO2RTX) |
-| `[BlackRabbit] Science Fell in Love, So I Tried to Prove I...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-science-fell-love-tried-prove-2020-s01.k10148563936011) • [🐱 Nyaa](https://nyaa.si/?q=RNS5ECL25R3SMWAJB2UDII64OKNFSQK7) |
+| `Digimon Beatbreak S01E25 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e25-1080p-cr-web-dl-aac2.n2093985) • [🐱 Nyaa](https://nyaa.si/?q=5DSXOVLPER34ZAPMTEVDWKZH22QYEMHO) |
+| `[SubsPlease] Digimon Beatbreak - 25 (1080p) [29A2ADAE].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-25-1080p-29a2adae-mkv.n2093984) • [🐱 Nyaa](https://nyaa.si/?q=BJIDU336DDFCIY5CBDTYF4ZVCY3U3QCJ) |
+| `[ToonsHub] Digimon Beatbreak S01E25 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-digimon-beatbreak-s01e25-1080p-cr-web-dl.k10155137000202) • [🐱 Nyaa](https://nyaa.si/?q=JN65J4HNB3UPQFS5LG7TACAFETX43CML) |
+| `[SubsPlease] Digimon Beatbreak - 25 (720p) [63DCB3A1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-25-720p-63dcb3a1-mkv.n2093982) • [🐱 Nyaa](https://nyaa.si/?q=P4LM7RII67NJTLUYHQCGGFVVHRPZ76HX) |
+| `[SubsPlease] Digimon Beatbreak - 25 (480p) [67A8FFF4].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-25-480p-67a8fff4-mkv.n2093981) • [🐱 Nyaa](https://nyaa.si/?q=MZP6LHMEDGLBTXZGLA7FI2YXOM5D5SWE) |
+| `[Erai-raws] Digimon Beatbreak - 25 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-25-480p-cr-web.n2093980) • [🐱 Nyaa](https://nyaa.si/?q=EP7YPCKAFAU3LMGDSCZ6A2VFPIGM4Y3Z) |
+| `[Erai-raws] Digimon Beatbreak - 25 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-25-720p-cr-web.n2093979) • [🐱 Nyaa](https://nyaa.si/?q=YBGUMLWHK7WDI74C7Q5XKEOQRICZKIWY) |
+| `[Erai-raws] Digimon Beatbreak - 25 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-25-1080p-cr-web.n2093978) • [🐱 Nyaa](https://nyaa.si/?q=PXRJFANDO3P7DIV3O5SXTESCJ5NWOR5G) |
+| `[ToonsHub] The Other Side of Deep Space S01E14 1080p BILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-other-side-deep-space-s01e14-1080p-bili.n2093977) • [🐱 Nyaa](https://nyaa.si/?q=R5GQR4FX755O7I4ENYP5OL4UQGAF36B2) |
+| `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-honzuki-no-gekokujou-shisho-ni-naru-tame.n2093976) • [🐱 Nyaa](https://nyaa.si/?q=OQAOCH5LBVVJHF3MLAFJYUI55UMARSMH) |
+| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kanan-sama-wa-akumade-choroi-mistress-devilishly.n2093975) • [🐱 Nyaa](https://nyaa.si/?q=BQRN7Z5Z4IGKLWPJEYYMCGH6NKCDV757) |
+| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School!...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mairimashita-iruma-kun-welcome-demon-school-s04e01.n2093974) • [🐱 Nyaa](https://nyaa.si/?q=JVZQ3ZMVV2ABE4M344FDHMVGGE7MSQ2E) |
+| `[ASW] Meitantei Precure! - 10 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-meitantei-precure-10-1080p-hevc-x265-10bit-aac.n2093972) • [🐱 Nyaa](https://nyaa.si/?q=3S2UZVQHZGCU5LP33GXJRLJDDRJ5VILZ) |
+| `[LonelyDildo] Batsu & Terry (LD) + Extras` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lonelydildo-batsu-terry-ld-extras.n2093965) • [🐱 Nyaa](https://nyaa.si/?q=MRWRN5XGUVR4WQHS3C5ZDBFDDNSONLZJ) |
+| `PoPoLoCrois Monogatari - Hajimari no Bouken (2003) [A-BT&...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/popolocrois-monogatari-hajimari-no-bouken-2003-bt-pakapuka.n2093964) • [🐱 Nyaa](https://nyaa.si/?q=DBZ7E52NKLFNXY5ZAQ7HBJO2W46R2OZF) |
 
 ---
 <div align="center">
