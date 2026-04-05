@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.26.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.10.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] Ace of the Diamond S04E01 Up Ahead 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-ace-diamond-s04e01-up-ahead-1080p-cr.k10160688405248) • [🐱 Nyaa](https://nyaa.si/?q=XNSHTBER32RKGFLK3JWKTQK455UNZ4G4) |
+| `[ToonsHub] Ace of Diamond S04E01 1080p CR WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ace-diamond-s04e01-1080p-cr-web-dl.k10160685673743) • [🐱 Nyaa](https://nyaa.si/?q=W4PPYEZWRWVVWOW5U6HZGROYFVTVTYQA) |
+| `You and I Are Polar Opposites S01E10 Class Trip Part 1 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e10-class-trip-part-1-1080p.n2094071) • [🐱 Nyaa](https://nyaa.si/?q=HDCBYNPH6NVU3UPZTVSFBK46BIMKEOHY) |
+| `[ASW] Niwatori Fighter - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-niwatori-fighter-04-1080p-hevc-x265-10bit-aac.n2094067) • [🐱 Nyaa](https://nyaa.si/?q=Z3UNFUCKX5VXRKGVI67AUZ53GAIMSROX) |
+| `[ToonsHub] You and I Are Polar Opposites S01E10 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e10-1080p-cr-web-dl.n2094065) • [🐱 Nyaa](https://nyaa.si/?q=62LTJVP3WEK4BOK43CNQPWL355MNMKSG) |
+| `[Yameii] You and I Are Polar Opposites - S01E11 [English ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-polar-opposites-s01e11-english-dub-cr-web.n2094064) • [🐱 Nyaa](https://nyaa.si/?q=MD2OFYQYKR3Q7436AQZOVMLHMKYSWBVJ) |
+| `[Yameii] You and I Are Polar Opposites - S01E11 [English ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-polar-opposites-s01e11-english-dub-cr-web.n2094063) • [🐱 Nyaa](https://nyaa.si/?q=DJ7AVJHEJ45U6J52QG2BXGRAC3FJTER2) |
+| `[ToonsHub] You and I Are Polar Opposites S01E11 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e11-1080p-cr-web-dl.k10160296340485) • [🐱 Nyaa](https://nyaa.si/?q=BWOPOTAON57PDIHIG4KGH7LE3DVIBE3Z) |
+| `[ToonsHub] You and I Are Polar Opposites S01E11 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e11-1080p-cr-web-dl.k10160287219469) • [🐱 Nyaa](https://nyaa.si/?q=7OEWPWEULEAXNNZBIHDW73D7Y3V7LVSD) |
+| `You and I Are Polar Opposites S01E11 Class Trip Part 2 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e11-class-trip-part-2-1080p.n2094060) • [🐱 Nyaa](https://nyaa.si/?q=ELTBFL7ZJ5MLSBYYHZMRYTZCN6D5KIEE) |
+| `Wistoria Wand and Sword S02E00 Wistoria Wand and Sword Sp...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wistoria-wand-sword-s02e00-special-episode-1080p-cr.n2094059) • [🐱 Nyaa](https://nyaa.si/?q=J5JISX655J23WAKAP32GQIH6FPQPYATB) |
+| `[ToonsHub] Wistoria Wand and Sword S02E00 1080p CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-wistoria-wand-sword-s02e00-1080p-cr-web.n2094058) • [🐱 Nyaa](https://nyaa.si/?q=NJP47Q3NJ7K4RFB7ISIZJAHEDOF3H3IB) |
+| `[ToonsHub] Wistoria Wand and Sword S02ESP 1080p BILI WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-wistoria-wand-sword-s02esp-1080p-bili-web.n2094056) • [🐱 Nyaa](https://nyaa.si/?q=RXA4DGFA3WF7FF2ME3PAL4JHUFBDMSJ4) |
 | `[Trix] Mistress Kanan is Devilishly Easy S01E01 [WEBRip 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-mistress-kanan-devilishly-easy-s01e01-webrip-1080p.n2094055) • [🐱 Nyaa](https://nyaa.si/?q=CABVUTKKFOYFFSUDE4E4DTV7M2FO6Z4N) |
 | `Rooster Fighter S01E04 Homing in on Desire 1080p BILI WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e04-homing-desire-1080p-bili-web.n2094052) • [🐱 Nyaa](https://nyaa.si/?q=NT7VVESZG2SN76F2MZVR5YZVUE3554AM) |
-| `Rooster Fighter S01E04 Homing in on Desire 1080p DSNP WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e04-homing-desire-1080p-dsnp-web.n2094051) • [🐱 Nyaa](https://nyaa.si/?q=HMNNASKWBA3YR4BVCQGSWRGXE5UMXZI3) |
-| `Rooster Fighter S01E04 Homing in on Desire 1080p DSNP WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e04-homing-desire-1080p-dsnp-web.n2094050) • [🐱 Nyaa](https://nyaa.si/?q=NGJSUEOYY2C4AJCTUVM5KSSNYXTAPEEV) |
-| `[ToonsHub] Rooster Fighter S01E04 1080p AS WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e04-1080p-web-dl-aac2.n2094049) • [🐱 Nyaa](https://nyaa.si/?q=2TUJMZUVDM3BVZU3ZIU7FSOU2QQLVHWL) |
-| `Rooster Fighter S01E04 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e04-1080p-cr-web-dl-aac2.n2094047) • [🐱 Nyaa](https://nyaa.si/?q=GKETIXRZ4VZCS3OG7FG4FAAHD4LG5BYK) |
-| `[Yameii] In the Clear Moonlit Dusk - S01E11 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-clear-moonlit-dusk-s01e11-english-dub-cr.n2094046) • [🐱 Nyaa](https://nyaa.si/?q=FDDZTN5OVT5D6LEANYRAZCD67DJQGHMY) |
-| `[ToonsHub] In the Clear Moonlit Dusk S01E11 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-clear-moonlit-dusk-s01e11-1080p-cr-web.k10159787345163) • [🐱 Nyaa](https://nyaa.si/?q=MFT26VMM5KFAYY75PCJ6CP4JIXW6XZ5O) |
-| `[Yameii] In the Clear Moonlit Dusk - S01E11 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-clear-moonlit-dusk-s01e11-english-dub-cr.n2094044) • [🐱 Nyaa](https://nyaa.si/?q=3C4AIRMV6UIQGIOZ7WPDYMLHGG54FUVA) |
-| `[SubsPlease] Niwatori Fighter - 04 (1080p) [EDB0BB07].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-04-1080p-edb0bb07-mkv.n2094042) • [🐱 Nyaa](https://nyaa.si/?q=GY2U4ZZSCEJEYLXWNFVO76MEXZCW7HW4) |
-| `In the Clear Moonlit Dusk S01E11 The Empty Room 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/clear-moonlit-dusk-s01e11-empty-room-1080p-cr.n2094041) • [🐱 Nyaa](https://nyaa.si/?q=52OKJJYHZHWRM7GCFVQ3RNTY5ERMRC73) |
-| `[ToonsHub] Rooster Fighter S01E04 1080p AMZN WEB-DL DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e04-1080p-amzn-web-dl.k10159766774284) • [🐱 Nyaa](https://nyaa.si/?q=S5YVS3CO7PM3RKMM7SBJ2GPWRXMDRWEE) |
-| `You and I Are Polar Opposites S01E11 Class Trip Part 2 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e11-class-trip-part-2-1080p.n2094039) • [🐱 Nyaa](https://nyaa.si/?q=2KCE3R5QIUWVFOGL2NPBK2GENDPP4AMP) |
-| `[LbE3L] To Your Eternity S03 CR [1080p WEBRip AV1 Opus 2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-your-eternity-s03-cr-1080p-webrip-av1.k10159759111695) • [🐱 Nyaa](https://nyaa.si/?q=RLUIELQMSBVAHRKKCVRQPYQKC66KLZTI) |
-| `[ToonsHub] Rooster Fighter S01E04 1080p CR WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e04-1080p-cr-web-dl.n2094037) • [🐱 Nyaa](https://nyaa.si/?q=DTMO2SJYPBIYNVSXDSOECW45PYDRVKO7) |
 
 ---
 <div align="center">
