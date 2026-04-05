@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.02.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.52.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Trigun Stargaze - 12 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-12-1080p-cr-webrip.n2094412) • [🐱 Nyaa](https://nyaa.si/?q=QPAJBRDCLPSD6P3MWGJBTQEIAX6F6NOD) |
-| `[Erai-raws] Vigilante: Boku no Hero Academia Illegals 2nd...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-vigilante-boku-no-hero-academia-illegals.n2094411) • [🐱 Nyaa](https://nyaa.si/?q=FLIEJIYCO3NJS54FF7XSC3VG4W55XYK4) |
-| `[Erai-raws] Ikoku Nikki - 13 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ikoku-nikki-13-1080p-cr-webrip.n2094410) • [🐱 Nyaa](https://nyaa.si/?q=ZTB5JPKNERE6DWNQJFI6UJG67RQSA3SV) |
-| `[Aoi Kaze] Ikoku Irokoi Romantan (A Foreign Love Affair)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/aoi-kaze-ikoku-irokoi-romantan-foreign-love-affair.n2094409) • [🐱 Nyaa](https://nyaa.si/?q=3Z4GONICV4BVLHS4STWJD3G6EX2Y5HKL) |
-| `[Erai-raws] Trigun Stargaze - 11 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-11-1080p-cr-webrip.n2094408) • [🐱 Nyaa](https://nyaa.si/?q=Z7CHKY7K6V7DSPBMGOOD4T25R6BQTVZS) |
-| `[Erai-raws] Vigilante: Boku no Hero Academia Illegals 2nd...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-vigilante-boku-no-hero-academia-illegals.n2094407) • [🐱 Nyaa](https://nyaa.si/?q=YK74FT2YC44HG67ZZFGASZNO7SWJYHUZ) |
-| `[Erai-raws] Ikoku Nikki - 12 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ikoku-nikki-12-1080p-cr-webrip.n2094406) • [🐱 Nyaa](https://nyaa.si/?q=OQ3HQDNM4CHS3AG2LOFW4PNQUCH6R6VJ) |
-| `[Erai-raws] Trigun Stargaze - 10 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-10-1080p-cr-webrip.n2094405) • [🐱 Nyaa](https://nyaa.si/?q=FUSQTEMZMVDVNXYRSSFBTSXWDKQJAAIC) |
-| `[Erai-raws] Vigilante: Boku no Hero Academia Illegals 2nd...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-vigilante-boku-no-hero-academia-illegals.n2094404) • [🐱 Nyaa](https://nyaa.si/?q=M4TH7RANDH4AW6VTVCDVZJU4T7QHREBP) |
-| `[Erai-raws] Ikoku Nikki - 11 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ikoku-nikki-11-1080p-cr-webrip.n2094403) • [🐱 Nyaa](https://nyaa.si/?q=SMMK6JC4QSKDFVBMYYTKLVPTLIRYJXJZ) |
-| `[Erai-raws] Trigun Stargaze - 09 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-09-1080p-cr-webrip.n2094402) • [🐱 Nyaa](https://nyaa.si/?q=LSBLS5QC7STTRSVDDE65GPYJXOKYT77F) |
-| `[Erai-raws] Ikoku Nikki - 10 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ikoku-nikki-10-1080p-cr-webrip.n2094401) • [🐱 Nyaa](https://nyaa.si/?q=SHA5DO6S4PEZBVMOXQ5SNJR3ANSACAMZ) |
-| `[Erai-raws] Vigilante: Boku no Hero Academia Illegals 2nd...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-vigilante-boku-no-hero-academia-illegals.n2094400) • [🐱 Nyaa](https://nyaa.si/?q=2M67EUUQEV2W3TDLGHQ4ETUVC3I277VD) |
-| `[Erai-raws] Trigun Stargaze - 08 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-trigun-stargaze-08-1080p-cr-webrip.n2094399) • [🐱 Nyaa](https://nyaa.si/?q=FDJT42QH5BWSQFP4ZUJWCX5BXT3I4RDQ) |
-| `[Erai-raws] Ikoku Nikki - 09 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ikoku-nikki-09-1080p-cr-webrip.n2094398) • [🐱 Nyaa](https://nyaa.si/?q=3RZYO4I634J57ZTZVJ3BIHXJXJQP4D3T) |
+| `[Erai-raws] Kirei ni Shitemoraemasu ka - 10 [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirei-ni-shitemoraemasu-ka-10-1080p.n2094444) • [🐱 Nyaa](https://nyaa.si/?q=LFP3ZIFV5DNKVLDJX46KVNYGYUE2L7KG) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers - 09 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yoroi-shinden-samurai-troopers-09-1080p.n2094443) • [🐱 Nyaa](https://nyaa.si/?q=XWS7CRH26YFUTCSPUJBFUSP6H7L4JN6S) |
+| `[Erai-raws] Kizoku Tensei: Megumareta Umare kara Saikyou ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kizoku-tensei-megumareta-umare-kara-saikyou.n2094442) • [🐱 Nyaa](https://nyaa.si/?q=HMGCLQ5TEPLPRD2L32XKVYLZY4NBADQZ) |
+| `[Erai-raws] Kirei ni Shitemoraemasu ka - 09 [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirei-ni-shitemoraemasu-ka-09-1080p.n2094441) • [🐱 Nyaa](https://nyaa.si/?q=XPVMW5M73MYBI6QGD6RTMMGQUZRPQNHL) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers - 08 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yoroi-shinden-samurai-troopers-08-1080p.n2094440) • [🐱 Nyaa](https://nyaa.si/?q=KXEW76J4YHM6Q2KUK7CGXQQIWJNJJ752) |
+| `[Erai-raws] Kizoku Tensei: Megumareta Umare kara Saikyou ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kizoku-tensei-megumareta-umare-kara-saikyou.n2094439) • [🐱 Nyaa](https://nyaa.si/?q=465XBIH6QAALHUQFBQXJPB6MNYXOVOXB) |
+| `[Erai-raws] Kirei ni Shitemoraemasu ka - 08 [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirei-ni-shitemoraemasu-ka-08-1080p.n2094438) • [🐱 Nyaa](https://nyaa.si/?q=HZZNRHCHLWTLWEXSY3T7TRFR37PNZ4JU) |
+| `[Erai-raws] Jingai Kyoushitsu no Ningengirai Kyoushi - 13...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jingai-kyoushitsu-no-ningengirai-kyoushi-13.n2094437) • [🐱 Nyaa](https://nyaa.si/?q=RJ4SC4OU76CAFMFWW3JX5QAQIDQFMQ3K) |
+| `[Erai-raws] Kaya-chan wa Kowakunai - 12 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kaya-chan-wa-kowakunai-12-1080p.n2094436) • [🐱 Nyaa](https://nyaa.si/?q=VWJ2XNNNYN24PZETUBPHV3OL6SWO62UO) |
+| `[Erai-raws] Jingai Kyoushitsu no Ningengirai Kyoushi - 12...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jingai-kyoushitsu-no-ningengirai-kyoushi-12.n2094435) • [🐱 Nyaa](https://nyaa.si/?q=UUYSYJWSD6UNVQMGGV4V3I7IQDYLSAK7) |
+| `[Erai-raws] Kaya-chan wa Kowakunai - 11 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kaya-chan-wa-kowakunai-11-1080p.n2094434) • [🐱 Nyaa](https://nyaa.si/?q=TCSCW5GS2RQE2PFSS6OCBYNSWRIQH3YU) |
+| `[Erai-raws] Jingai Kyoushitsu no Ningengirai Kyoushi - 11...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jingai-kyoushitsu-no-ningengirai-kyoushi-11.n2094433) • [🐱 Nyaa](https://nyaa.si/?q=OYZR234PZYC55Z6INP7KUFPQWKJIEQAY) |
+| `[Erai-raws] Isekai no Sata wa Shachiku Shidai - 12 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-no-sata-wa-shachiku-shidai.n2094432) • [🐱 Nyaa](https://nyaa.si/?q=XFXGW4YVBJ22YPQNASSWPAYRVCCMAGPI) |
+| `[Erai-raws] Kaya-chan wa Kowakunai - 10 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kaya-chan-wa-kowakunai-10-1080p.n2094431) • [🐱 Nyaa](https://nyaa.si/?q=Z622ASWJMDL2UI3M6MI5WQO25LYNREK2) |
+| `[Erai-raws] Jingai Kyoushitsu no Ningengirai Kyoushi - 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jingai-kyoushitsu-no-ningengirai-kyoushi-10.n2094430) • [🐱 Nyaa](https://nyaa.si/?q=4UXBIANUE7RO4Y4DNSUIWTC6OXWIXMBT) |
 
 ---
 <div align="center">
