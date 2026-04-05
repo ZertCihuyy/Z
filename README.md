@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.03.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.51.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -24,21 +24,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ASW] Yami Shibai 16 - 13 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yami-shibai-16-13-1080p-hevc-x265-10bit-aac.n2094340) • [🐱 Nyaa](https://nyaa.si/?q=FGLLSEOZVIGS75RGG7ERY5554KY7DKMU) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 01 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2094332) • [🐱 Nyaa](https://nyaa.si/?q=ZO2S3PWKGI65QHJIJDJYREFA63PAW6W3) |
-| `[Erai-raws] Dorohedoro Season 2 - 03 [1080p NF WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-1080p-nf.n2094331) • [🐱 Nyaa](https://nyaa.si/?q=E2BPNHRNTWGJTB6NSAY2B7KAC3G6DQEB) |
-| `[Erai-raws] Dorohedoro Season 2 - 02 [1080p NF WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-02-1080p-nf.n2094329) • [🐱 Nyaa](https://nyaa.si/?q=ORJ5ZVBLBGNC5VWFJW74T7CRW7GVHD66) |
-| `[Erai-raws] Dorohedoro Season 2 - 01 [1080p NF WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-01-1080p-nf.n2094325) • [🐱 Nyaa](https://nyaa.si/?q=UDXPZPCBS72NI6YSWLG7HRTDZMCYBPIQ) |
-| `[Onalrie] Yami Shibai 16 - S01E13 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yami-shibai-16-s01e13-1080p-webrip-av1-mkv.2072178) • [🐱 Nyaa](https://nyaa.si/?q=TVPQLAEDDF6ZJJZZ3ID6YRE2CK5ZKNSW) |
-| `[SubsPlease] Yami Shibai 16 - 13 (1080p) [AD5C97F5].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-13-1080p-ad5c97f5-mkv.n2094316) • [🐱 Nyaa](https://nyaa.si/?q=TQPTYI2KBWHBWBHLCNTSEH6EXMMFIIUX) |
-| `[SubsPlease] Yami Shibai 16 - 13 (720p) [FF0F4277].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-13-720p-ff0f4277-mkv.n2094315) • [🐱 Nyaa](https://nyaa.si/?q=Y7PIMFJA2IGN3ETIFPUXSIMGQYKOA4LS) |
-| `[SubsPlease] Yami Shibai 16 - 13 (480p) [5174CA78].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yami-shibai-16-13-480p-5174ca78-mkv.n2094314) • [🐱 Nyaa](https://nyaa.si/?q=MR5OKKHZ4G3YQEPVWFE7NGR7B6H23ESL) |
-| `[Erai-raws] Yami Shibai 16 - 13 [480p CR WEB-DL AVC AAC][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yami-shibai-16-13-480p-cr.n2094313) • [🐱 Nyaa](https://nyaa.si/?q=3J64ZEJR6QXNATJS4RNN3MYMM7XFGZ35) |
-| `[Erai-raws] Yami Shibai 16 - 13 [720p CR WEB-DL AVC AAC][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yami-shibai-16-13-720p-cr.n2094312) • [🐱 Nyaa](https://nyaa.si/?q=NLSRKT2KIVNRYXEJDMQRIRX77UMHHW6Q) |
-| `[Erai-raws] Yami Shibai 16 - 13 [1080p CR WEB-DL AVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yami-shibai-16-13-1080p-cr.n2094311) • [🐱 Nyaa](https://nyaa.si/?q=NBGBQGXVWBGDCXUEANQXTEKY7J3IKJAH) |
-| `[BlackRabbit] Baka and Test - Summon the Beasts (2010) - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-baka-test-summon-beasts-2010-s01-bluray.k10169934803203) • [🐱 Nyaa](https://nyaa.si/?q=VICPPQJPK76CWBTQXX5YM2RVR6TRGBWP) |
-| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E00 [1080p WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tsue-tsurugi-no-wistoria-s02e00-1080p-webrip-av1-mkv.2072171) • [🐱 Nyaa](https://nyaa.si/?q=HM4TE7WIOPSKUHBX4PJLQEB5BIDVQN3F) |
-| `[ASW] Tsue to Tsurugi no Wistoria S2 - 00 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tsue-tsurugi-no-wistoria-s2-00-1080p.n2094307) • [🐱 Nyaa](https://nyaa.si/?q=KQFUXNJCC3WVEL5QQFVNAR5RXIFPKORU) |
+| `[Yuumajin] Giniro no Olynsis - Tokito (2006) (DVD remux 7...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yuumajin-giniro-no-olynsis-tokito-2006-dvd-remux-720x480.n2094365) • [🐱 Nyaa](https://nyaa.si/?q=INC4I6WMKO5C7YF2LGES23YLZSA5ZORX) |
+| `[Erai-raws] Hime-sama Goumon no Jikan desu 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hime-sama-goumon-no-jikan-desu.n2094364) • [🐱 Nyaa](https://nyaa.si/?q=4O5S5X3FW7LOFY7BPWFLGQRTASYF5RIH) |
+| `[Erai-raws] Hikuidori: Ushuu Boro Tobi-gumi - 08 [1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hikuidori-ushuu-boro-tobi-gumi-08.n2094363) • [🐱 Nyaa](https://nyaa.si/?q=VGORZ2WN7WSGFCMNKMSY4DYJHPUJ7TIQ) |
+| `[Erai-raws] Mofa Gongzhu de Xiao Fannao - 06 (CA) [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mofa-gongzhu-de-xiao-fannao-06.n2094362) • [🐱 Nyaa](https://nyaa.si/?q=CZXQGACRFVIWWHOEBOYYKVLR56QTJORE) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 10 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2094359) • [🐱 Nyaa](https://nyaa.si/?q=TOXUEL2MONTIQ2QUGCY5NER6ZDPDF4U5) |
+| `[Erai-raws] Hime-sama Goumon no Jikan desu 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hime-sama-goumon-no-jikan-desu.n2094357) • [🐱 Nyaa](https://nyaa.si/?q=7UJRYKYLP2YEJSMK7EJR6WYLVQYI2YUO) |
+| `[Erai-raws] Mofa Gongzhu de Xiao Fannao - 06v2 (CA) [480p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mofa-gongzhu-de-xiao-fannao-06v2.n2094356) • [🐱 Nyaa](https://nyaa.si/?q=LBKB7W466QLKILFJJWE57SGGC2Z7GBDB) |
+| `[Erai-raws] Mofa Gongzhu de Xiao Fannao - 06v2 (CA) [720p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mofa-gongzhu-de-xiao-fannao-06v2.n2094354) • [🐱 Nyaa](https://nyaa.si/?q=HFMYYPPDJI2JUFO452AIQQU6VVAVGUIV) |
+| `[Erai-raws] Mofa Gongzhu de Xiao Fannao - 06v2 (CA) [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mofa-gongzhu-de-xiao-fannao-06v2.n2094353) • [🐱 Nyaa](https://nyaa.si/?q=WIUGB445PSXK4YM5JK4COZ73WM3ANMRH) |
+| `[Erai-raws] Hikuidori: Ushuu Boro Tobi-gumi - 07 [1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hikuidori-ushuu-boro-tobi-gumi-07.n2094352) • [🐱 Nyaa](https://nyaa.si/?q=B5AHJINB7ANR53C2KNMSHUSLBUJCQR7H) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 09 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2094351) • [🐱 Nyaa](https://nyaa.si/?q=F7YYVZTKOUKBGX4QJUVYRTBLN6TJ3JBI) |
+| `[Erai-raws] Hime-sama Goumon no Jikan desu 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hime-sama-goumon-no-jikan-desu.n2094350) • [🐱 Nyaa](https://nyaa.si/?q=4Y24VWH6IJUXFTUWDWNG3FSXYXB3L5QT) |
+| `[Erai-raws] Hikuidori: Ushuu Boro Tobi-gumi - 06 [1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hikuidori-ushuu-boro-tobi-gumi-06.n2094349) • [🐱 Nyaa](https://nyaa.si/?q=U5EZNAJYCKCIO7DYQDTXJ4262KPNW4JA) |
+| `[Asakura] Seihantai na Kimi to Boku - 09  [1080p WEB AAC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asakura-seihantai-na-kimi-boku-09-1080p-web.k10171135550218) • [🐱 Nyaa](https://nyaa.si/?q=REMX6PZVLWF7UAEHH7PZQT5QPOFEEP6P) |
+| `[Beltraz] Night Wizard (2007) - S01 (DVD 480p x264 AC-3)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-night-wizard-2007-s01-dvd-480p-x264-ac-3.k10170973338629) • [🐱 Nyaa](https://nyaa.si/?q=4YYWLJG6B4WMAKZTJ2UUHG3P7V5VVVLG) |
 
 ---
 <div align="center">
