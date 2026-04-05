@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.25.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.44.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Star Detective Precure S01E09 REPACK 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e09-repack-1080p-cr.k10158469034248) • [🐱 Nyaa](https://nyaa.si/?q=AO3F42ZWDFJGIYHSMFMBSTMJVUDZDNQX) |
 | `Digimon.Beatbreak.S01E25.1080p.CR.WEBRip.10bits.x265-Rapta` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e25-1080p-cr-webrip-10bits-x265-rapta.n2094011) • [🐱 Nyaa](https://nyaa.si/?q=TPAFRYDYBBBCJASIET3VFUOV4DRZZDGG) |
 | `[Judas] Digimon Beatbreak - S01E25 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e25-1080p-hevc-x265-10bit.n2094007) • [🐱 Nyaa](https://nyaa.si/?q=AGZ6QXPJ2CB27A566OOY262MENQT5OKA) |
 | `[Serenae] Meitantei Precure! - 10 Fanart Corner (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-10-fanart-corner-1080p-mkv.n2094006) • [🐱 Nyaa](https://nyaa.si/?q=2UOLYNALORUQJQ7K7ALNKCPFLPS36K2U) |
@@ -42,7 +43,6 @@
 | `[Headpatter] Viral Hit Season 1 (BD 1080p x264 8-bit Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-viral-hit-season-1-bd-1080p-x264.n2093997) • [🐱 Nyaa](https://nyaa.si/?q=HZL6I42P5AJYAR7VC4DOXMVTTOX6MVV3) |
 | `[Headpatter] Star Driver Season 1 (BD 1080p x264 8-bit Op...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-star-driver-season-1-bd-1080p-x264.n2093996) • [🐱 Nyaa](https://nyaa.si/?q=XXGJ64MMSPKGLTWIWQXKVQSIMAAKIBDG) |
 | `[Headpatter] High Card Season 2 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-high-card-season-2-bd-remux-1080p.n2093995) • [🐱 Nyaa](https://nyaa.si/?q=ZJCELIOEY2EK3RS3D3X4Z6B3TA3BSG2C) |
-| `[Headpatter] Haikara-san: Here Comes Miss Modern Part 2 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/headpatter-haikara-san-here-comes-miss-modern-part.n2093994) • [🐱 Nyaa](https://nyaa.si/?q=Q3FVD4I37W2LSCPOP7PA6YN5QC2EFWZW) |
 
 ---
 <div align="center">
