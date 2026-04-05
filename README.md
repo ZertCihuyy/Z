@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.58.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.49.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Tawawa on Monday (2016) - S01 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tawawa-monday-2016-s01-bluray-1080p-opus.k10161634631179) • [🐱 Nyaa](https://nyaa.si/?q=LHUQVHJY637IEZHA6S5BIOT2TBIIIBU5) |
+| `[ToonsHub] How dare you S02E13 1080p iQ WEB-DL AAC2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dare-s02e13-1080p-iq-web-dl-aac2.k10161593094913) • [🐱 Nyaa](https://nyaa.si/?q=IG5C3CHLD3UPANGOP4MN6KVDU74IP7IV) |
 | `[Onalrie] Ace of Diamond Act II - S02E01 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ace-diamond-act-ii-s02e01-1080p-webrip-av1-mkv.2072079) • [🐱 Nyaa](https://nyaa.si/?q=DDBF6NEM2Y7T6JZORU3AI6RAJ3M5ABAG) |
 | `[Gecko] Fabulous Beasts - S05E08 (有兽焉; You Shou Yan 5th S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fabulous-beasts-s05e08-shou-yan-5th-season.k10161329080066) • [🐱 Nyaa](https://nyaa.si/?q=NGLWJHLXKCBCFRO756IJGPNX6STTTBT4) |
 | `[ASW] Ace of Diamond Act II S2 - 01 [1080p HEVC x265 10Bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ace-diamond-act-ii-s2-01-1080p.n2094092) • [🐱 Nyaa](https://nyaa.si/?q=IPT2EBBDVNWXMQQJIB6OGK6C6E2AZSUO) |
@@ -41,8 +43,6 @@
 | `[ToonsHub] Ace of Diamond S04E01 1080p CR WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ace-diamond-s04e01-1080p-cr-web-dl.k10160685673743) • [🐱 Nyaa](https://nyaa.si/?q=W4PPYEZWRWVVWOW5U6HZGROYFVTVTYQA) |
 | `Ace of the Diamond S04E01 Up Ahead 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-diamond-s04e01-up-ahead-1080p-cr-web.n2094077) • [🐱 Nyaa](https://nyaa.si/?q=XNSHTBER32RKGFLK3JWKTQK455UNZ4G4) |
 | `[SubsPlease] Ace of Diamond Act II S2 - 01 (480p) [40E8ED...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-01-480p-40e8ed12-mkv.n2094076) • [🐱 Nyaa](https://nyaa.si/?q=X6DNEZZYQYET7WSQU7WROQBVYJ7FVGNX) |
-| `You and I Are Polar Opposites S01E10 Class Trip Part 1 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e10-class-trip-part-1-1080p.n2094071) • [🐱 Nyaa](https://nyaa.si/?q=HDCBYNPH6NVU3UPZTVSFBK46BIMKEOHY) |
-| `[ASW] Niwatori Fighter - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-niwatori-fighter-04-1080p-hevc-x265-10bit-aac.n2094067) • [🐱 Nyaa](https://nyaa.si/?q=Z3UNFUCKX5VXRKGVI67AUZ53GAIMSROX) |
 
 ---
 <div align="center">
