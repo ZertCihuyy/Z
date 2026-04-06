@@ -1,5 +1,5 @@
 {
-  "last_update": "6/4/2026, 07.04.22",
+  "last_update": "6/4/2026, 10.42.32",
   "hari": "Senin",
   "data": [
     {
@@ -246,268 +246,6 @@
       ]
     },
     {
-      "mal_id": 63087,
-      "url": "https://myanimelist.net/anime/63087/Yami_Shibai_16",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1666/154215.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1666/154215t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1666/154215l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1666/154215.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1666/154215t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1666/154215l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Yami Shibai 16"
-        },
-        {
-          "type": "Synonym",
-          "title": "Yamishibai: Japanese Ghost Stories Sixteenth Season"
-        },
-        {
-          "type": "Synonym",
-          "title": "Yamishibai: Japanese Ghost Stories 16"
-        },
-        {
-          "type": "Japanese",
-          "title": "闇芝居 十六期"
-        },
-        {
-          "type": "English",
-          "title": "Theatre of Darkness: Yamishibai 16"
-        }
-      ],
-      "title": "Yami Shibai 16",
-      "title_english": "Theatre of Darkness: Yamishibai 16",
-      "title_japanese": "闇芝居 十六期",
-      "title_synonyms": [
-        "Yamishibai: Japanese Ghost Stories Sixteenth Season",
-        "Yamishibai: Japanese Ghost Stories 16"
-      ],
-      "type": "TV",
-      "source": "Original",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-01-12T00:00:00+00:00",
-        "to": "2026-04-06T00:00:00+00:00",
-        "prop": {
-          "from": {
-            "day": 12,
-            "month": 1,
-            "year": 2026
-          },
-          "to": {
-            "day": 6,
-            "month": 4,
-            "year": 2026
-          }
-        },
-        "string": "Jan 12, 2026 to Apr 6, 2026"
-      },
-      "duration": "4 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 5.77,
-      "scored_by": 330,
-      "rank": 11999,
-      "popularity": 11740,
-      "members": 2613,
-      "favorites": 5,
-      "synopsis": "Sixteenth season of Yami Shibai.",
-      "background": "",
-      "season": "winter",
-      "year": 2026,
-      "broadcast": {
-        "day": "Mondays",
-        "time": "02:20",
-        "timezone": "Asia/Tokyo",
-        "string": "Mondays at 02:20 (JST)"
-      },
-      "producers": [],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 1169,
-          "type": "anime",
-          "name": "ILCA",
-          "url": "https://myanimelist.net/anime/producer/1169/ILCA"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 5,
-          "type": "anime",
-          "name": "Avant Garde",
-          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
-        },
-        {
-          "mal_id": 14,
-          "type": "anime",
-          "name": "Horror",
-          "url": "https://myanimelist.net/anime/genre/14/Horror"
-        },
-        {
-          "mal_id": 37,
-          "type": "anime",
-          "name": "Supernatural",
-          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": []
-    },
-    {
-      "mal_id": 63087,
-      "url": "https://myanimelist.net/anime/63087/Yami_Shibai_16",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1666/154215.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1666/154215t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1666/154215l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1666/154215.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1666/154215t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1666/154215l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": null,
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Yami Shibai 16"
-        },
-        {
-          "type": "Synonym",
-          "title": "Yamishibai: Japanese Ghost Stories Sixteenth Season"
-        },
-        {
-          "type": "Synonym",
-          "title": "Yamishibai: Japanese Ghost Stories 16"
-        },
-        {
-          "type": "Japanese",
-          "title": "闇芝居 十六期"
-        },
-        {
-          "type": "English",
-          "title": "Theatre of Darkness: Yamishibai 16"
-        }
-      ],
-      "title": "Yami Shibai 16",
-      "title_english": "Theatre of Darkness: Yamishibai 16",
-      "title_japanese": "闇芝居 十六期",
-      "title_synonyms": [
-        "Yamishibai: Japanese Ghost Stories Sixteenth Season",
-        "Yamishibai: Japanese Ghost Stories 16"
-      ],
-      "type": "TV",
-      "source": "Original",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-01-12T00:00:00+00:00",
-        "to": "2026-04-06T00:00:00+00:00",
-        "prop": {
-          "from": {
-            "day": 12,
-            "month": 1,
-            "year": 2026
-          },
-          "to": {
-            "day": 6,
-            "month": 4,
-            "year": 2026
-          }
-        },
-        "string": "Jan 12, 2026 to Apr 6, 2026"
-      },
-      "duration": "4 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 5.77,
-      "scored_by": 330,
-      "rank": 11999,
-      "popularity": 11740,
-      "members": 2613,
-      "favorites": 5,
-      "synopsis": "Sixteenth season of Yami Shibai.",
-      "background": "",
-      "season": "winter",
-      "year": 2026,
-      "broadcast": {
-        "day": "Mondays",
-        "time": "02:20",
-        "timezone": "Asia/Tokyo",
-        "string": "Mondays at 02:20 (JST)"
-      },
-      "producers": [],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 1169,
-          "type": "anime",
-          "name": "ILCA",
-          "url": "https://myanimelist.net/anime/producer/1169/ILCA"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 5,
-          "type": "anime",
-          "name": "Avant Garde",
-          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
-        },
-        {
-          "mal_id": 14,
-          "type": "anime",
-          "name": "Horror",
-          "url": "https://myanimelist.net/anime/genre/14/Horror"
-        },
-        {
-          "mal_id": 37,
-          "type": "anime",
-          "name": "Supernatural",
-          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": []
-    },
-    {
       "mal_id": 62852,
       "url": "https://myanimelist.net/anime/62852/Ghost_Concert__Missing_Songs",
       "images": {
@@ -645,6 +383,405 @@
           "url": "https://myanimelist.net/anime/genre/19/Music"
         }
       ],
+      "demographics": []
+    },
+    {
+      "mal_id": 62983,
+      "url": "https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1818/155506.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1818/155506t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1818/155506l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1818/155506.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1818/155506t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1818/155506l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/Ohd23eSaOaw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Marika-chan no Koukando wa Bukkowareteiru"
+        },
+        {
+          "type": "Japanese",
+          "title": "茉莉花ちゃんの好感度はぶっ壊れている"
+        },
+        {
+          "type": "English",
+          "title": "Marika's Love Meter Malfunction"
+        }
+      ],
+      "title": "Marika-chan no Koukando wa Bukkowareteiru",
+      "title_english": "Marika's Love Meter Malfunction",
+      "title_japanese": "茉莉花ちゃんの好感度はぶっ壊れている",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 6, 2026 to ?"
+      },
+      "duration": "5 min",
+      "rating": "R+ - Mild Nudity",
+      "score": 5.67,
+      "scored_by": 357,
+      "rank": 12414,
+      "popularity": 6746,
+      "members": 11842,
+      "favorites": 28,
+      "synopsis": "Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!\n\n(Source: Coolmic)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "01:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 01:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 719,
+          "type": "anime",
+          "name": "Studio Mausu",
+          "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        },
+        {
+          "mal_id": 1760,
+          "type": "anime",
+          "name": "Suiseisha",
+          "url": "https://myanimelist.net/anime/producer/1760/Suiseisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3078,
+          "type": "anime",
+          "name": "Studio LEO",
+          "url": "https://myanimelist.net/anime/producer/3078/Studio_LEO"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 62983,
+      "url": "https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1818/155506.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1818/155506t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1818/155506l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1818/155506.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1818/155506t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1818/155506l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/Ohd23eSaOaw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Marika-chan no Koukando wa Bukkowareteiru"
+        },
+        {
+          "type": "Japanese",
+          "title": "茉莉花ちゃんの好感度はぶっ壊れている"
+        },
+        {
+          "type": "English",
+          "title": "Marika's Love Meter Malfunction"
+        }
+      ],
+      "title": "Marika-chan no Koukando wa Bukkowareteiru",
+      "title_english": "Marika's Love Meter Malfunction",
+      "title_japanese": "茉莉花ちゃんの好感度はぶっ壊れている",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 6, 2026 to ?"
+      },
+      "duration": "5 min",
+      "rating": "R+ - Mild Nudity",
+      "score": 5.67,
+      "scored_by": 357,
+      "rank": 12414,
+      "popularity": 6746,
+      "members": 11842,
+      "favorites": 28,
+      "synopsis": "Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!\n\n(Source: Coolmic)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "01:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 01:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 719,
+          "type": "anime",
+          "name": "Studio Mausu",
+          "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        },
+        {
+          "mal_id": 1760,
+          "type": "anime",
+          "name": "Suiseisha",
+          "url": "https://myanimelist.net/anime/producer/1760/Suiseisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3078,
+          "type": "anime",
+          "name": "Studio LEO",
+          "url": "https://myanimelist.net/anime/producer/3078/Studio_LEO"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 62983,
+      "url": "https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1818/155506.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1818/155506t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1818/155506l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1818/155506.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1818/155506t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1818/155506l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/Ohd23eSaOaw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Marika-chan no Koukando wa Bukkowareteiru"
+        },
+        {
+          "type": "Japanese",
+          "title": "茉莉花ちゃんの好感度はぶっ壊れている"
+        },
+        {
+          "type": "English",
+          "title": "Marika's Love Meter Malfunction"
+        }
+      ],
+      "title": "Marika-chan no Koukando wa Bukkowareteiru",
+      "title_english": "Marika's Love Meter Malfunction",
+      "title_japanese": "茉莉花ちゃんの好感度はぶっ壊れている",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 6, 2026 to ?"
+      },
+      "duration": "5 min",
+      "rating": "R+ - Mild Nudity",
+      "score": 5.67,
+      "scored_by": 357,
+      "rank": 12414,
+      "popularity": 6746,
+      "members": 11842,
+      "favorites": 28,
+      "synopsis": "Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!\n\n(Source: Coolmic)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "01:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 01:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 719,
+          "type": "anime",
+          "name": "Studio Mausu",
+          "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        },
+        {
+          "mal_id": 1760,
+          "type": "anime",
+          "name": "Suiseisha",
+          "url": "https://myanimelist.net/anime/producer/1760/Suiseisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3078,
+          "type": "anime",
+          "name": "Studio LEO",
+          "url": "https://myanimelist.net/anime/producer/3078/Studio_LEO"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
       "demographics": []
     },
     {
@@ -856,12 +993,12 @@
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2026-03-15T00:00:00+00:00",
+        "from": "2026-04-06T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 15,
-            "month": 3,
+            "day": 6,
+            "month": 4,
             "year": 2026
           },
           "to": {
@@ -870,16 +1007,16 @@
             "year": null
           }
         },
-        "string": "Mar 15, 2026 to ?"
+        "string": "Apr 6, 2026 to ?"
       },
       "duration": "23 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 7.01,
-      "scored_by": 2910,
-      "rank": 4766,
-      "popularity": 4856,
-      "members": 27137,
-      "favorites": 53,
+      "score": 6.99,
+      "scored_by": 3074,
+      "rank": 4869,
+      "popularity": 4808,
+      "members": 27838,
+      "favorites": 54,
       "synopsis": "The neighborhood cock of the walk is more than just an ordinary rooster—he's humanity's greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—cock-a-doodle-doo!\n\n(Source: VIZ Media)",
       "background": "Niwatori Fighter aired in advance on March 15, 2026, on Cartoon Network's Toonami block. Regular broadcasting began on April 6, 2026.",
       "season": "spring",
