@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.51.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.42.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -21,7 +21,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Farming Life in Another World S02E01 1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-farming-life-another-world-s02e01-1080p-amzn.k10194538984197) • [🐱 Nyaa](https://nyaa.si/?q=3TGHCVG2ZZAVPP2QUJBO4JXNF7WD23I6) |
+| `[HatSubs] One Piece 1156 (WEB 1080p) [CB46E567].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-1156-web-1080p-cb46e567-mkv.n2094968) • [🐱 Nyaa](https://nyaa.si/?q=GBJBELE764RELTTDZ6EH5AFE3ARDLQXZ) |
 | `[Onalrie] Release that Witch - S01E06 Rev. 2 [1080p WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-release-witch-s01e06-rev-2-1080p-webrip-av1-mkv.2072473) • [🐱 Nyaa](https://nyaa.si/?q=RCYH33M24VJICSN3LYI7EKGBBLMYQBEJ) |
 | `[ASW] Release that Witch - 06v2 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-release-witch-06v2-1080p-hevc-x265-10bit-aac.n2094966) • [🐱 Nyaa](https://nyaa.si/?q=SDP6WRNKVM33DWR77366GLJR3K6BQXVS) |
 | `Witch Hat Atelier S01E02 1080p NF WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/witch-hat-atelier-s01e02-1080p-nf-web-dl.n2094965) • [🐱 Nyaa](https://nyaa.si/?q=RYMGTS2EUF4REU46LIXWQRG7WFRH5UER) |
