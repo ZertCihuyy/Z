@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.02.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.08.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,39 +9,33 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Senin**
+### 📅 Jadwal Rilis Hari Ini: **Selasa**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `01:00` | **[Shin Nippon History](https://myanimelist.net/anime/54871/Shin_Nippon_History)** | *Comedy* |
-| `18:25` | **[Puzzle & Dragon](https://myanimelist.net/anime/37096/Puzzle___Dragon)** | *-* |
-| `00:30` | **[Ghost Concert: Missing Songs](https://myanimelist.net/anime/62852/Ghost_Concert__Missing_Songs)** | *Action, Sci-Fi, Supernatural* |
-| `01:10` | **[Ingoku Danchi](https://myanimelist.net/anime/63310/Ingoku_Danchi)** | *Comedy, Supernatural, Erotica* |
-| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
-| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
-| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
-| `22:00` | **[Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.](https://myanimelist.net/anime/61687/Jishou_Akuyaku_Reijou_na_Konyakusha_no_Kansatsu_Kiroku)** | *Comedy, Romance* |
-| `00:00` | **[Niwatori Fighter](https://myanimelist.net/anime/59393/Niwatori_Fighter)** | *Action, Comedy* |
+| `07:30` | **[Origami Ninja Koyankinte](https://myanimelist.net/anime/41458/Origami_Ninja_Koyankinte)** | *Comedy* |
+| `18:45` | **[Fushigi Dagashiya: Zenitendou](https://myanimelist.net/anime/42295/Fushigi_Dagashiya__Zenitendou)** | *Mystery* |
+| `00:00` | **[Nippon Sangoku](https://myanimelist.net/anime/63375/Nippon_Sangoku)** | *Drama* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Isekai Nonbiri Nouka (Farming Life in Another Wor...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-isekai-nonbiri-nouka-farming-life-another-world.n2094834) • [🐱 Nyaa](https://nyaa.si/?q=QQ2LIOPGOQMSGOPSBY534BDBIFNLPS5C) |
-| `[Trix] Witch Hat Atelier S01E02 [WEBRip 1080p AV1 Opus] (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-witch-hat-atelier-s01e02-webrip-1080p-av1.n2094831) • [🐱 Nyaa](https://nyaa.si/?q=X62T2TGXSA7KBK2GNM7BUTIHIUHAMJCT) |
-| `[Yameii] You Can't Be In a Rom-Com with Your Childhood Fr...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-cant-rom-com-your-childhood-friends-s01e12.n2094829) • [🐱 Nyaa](https://nyaa.si/?q=BTIS4DHG4QNTPX6QIDHAVLXR3YMPECL3) |
-| `You Cant Be In a Rom Com with Your Childhood Friends S01E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cant-rom-com-your-childhood-friends-s01e12-1080p.n2094828) • [🐱 Nyaa](https://nyaa.si/?q=P5G2V3QQOMLP3VQEN5ZGBMTVNQCLUCMF) |
-| `[Yameii] You Can't Be In a Rom-Com with Your Childhood Fr...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-cant-rom-com-your-childhood-friends-s01e12.n2094827) • [🐱 Nyaa](https://nyaa.si/?q=77W4NMXMBH7VW2SSCLR7RIRTU5NJE5ST) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2094823) • [🐱 Nyaa](https://nyaa.si/?q=BN3HDTYZMSZOH2GYXJAESZTUKJHMNU37) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2094822) • [🐱 Nyaa](https://nyaa.si/?q=HUXZKP4E3MGCPT6N6A6TCHEXT2MLUCJK) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2094820) • [🐱 Nyaa](https://nyaa.si/?q=5LAUYA6VWN5PTPQBGTMR46YY3V5WRX5J) |
-| `[ToonsHub] You Cant Be In a Rom-Com with Your Childhood F...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-cant-rom-com-your-childhood-friends-s01e12.n2094819) • [🐱 Nyaa](https://nyaa.si/?q=YCRYFPAGGX5ZJUEHACOCD63QWCKZNZEQ) |
-| `[Onalrie] Tongari Boushi no Atelier - S01E02 [1080p WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tongari-boushi-no-atelier-s01e02-1080p-webrip-av1.2072398) • [🐱 Nyaa](https://nyaa.si/?q=IJTD64T2IGIMS6GYF5LE6XHE7ULI2EJK) |
-| `[Trix] Witch Hat Atelier S01E01 [WEBRip 1080p AV1 Opus] (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-witch-hat-atelier-s01e01-webrip-1080p-av1.n2094814) • [🐱 Nyaa](https://nyaa.si/?q=TWWZW3HVAT3DWY4NF6BROU3FCVUPJBL4) |
-| `[ASW] Tongari Boushi no Atelier - 01 [1080p HEVC x265 10B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tongari-boushi-no-atelier-01-1080p-hevc.n2094810) • [🐱 Nyaa](https://nyaa.si/?q=WO4UYFSONJP3HJZXGK46MPFTF3GETGTO) |
-| `[SubsPlease] Ponkotsu Fuuki Iin to Skirt-take ga Futekise...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2094809) • [🐱 Nyaa](https://nyaa.si/?q=E3DAIFQOSOT5CEQCYFZWXIY3DOB5DD6F) |
-| `The Klutzy Class Monitor and the Girl with the Short Skir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/klutzy-class-monitor-girl-short-skirt-s01e01-1080p.n2094808) • [🐱 Nyaa](https://nyaa.si/?q=B2BVWZ3WY3HX32AZKL2PTLPVLSEJ4SEI) |
-| `[ToonsHub] The Klutzy Class Monitor and the Girl with the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-klutzy-class-monitor-girl-short-skirt-s01e01.k10188346306315) • [🐱 Nyaa](https://nyaa.si/?q=3GXVMTTQRESPAQZ5PHOCUL6EJKINYFXD) |
+| `[ToonsHub] Release that Witch S01E06 1080p CR WEB-DL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-release-witch-s01e06-1080p-cr-web-dl.k10190161213708) • [🐱 Nyaa](https://nyaa.si/?q=VFMWWTJTJA2URLUNOTLLWAWNXWU4LYFU) |
+| `[Judas] Witch Hat Atelier (Tongari Boushi no Atelier) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-witch-hat-atelier-tongari-boushi-no-s01e02.n2094864) • [🐱 Nyaa](https://nyaa.si/?q=QRQD35BMPGTTDTGVIF2HYBAL35UQYDL6) |
+| `[Judas] Witch Hat Atelier (Tongari Boushi no Atelier) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-witch-hat-atelier-tongari-boushi-no-s01e01.n2094863) • [🐱 Nyaa](https://nyaa.si/?q=NCY6TIN223W2ERGULE37KDH4QNZSQ3CY) |
+| `[Kekkan] Jishou Akuyaku Reijou na Konyakusha no Kansatsu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kekkan-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.k10189967236866) • [🐱 Nyaa](https://nyaa.si/?q=SDESRUMSXBRGPVFNAQXAYVMST7DTFISC) |
+| `[Feibanyama] Witch Hat Atelier S01E01 [CR WebRip 1080p HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-witch-hat-atelier-s01e01-cr-webrip-1080p.n2094861) • [🐱 Nyaa](https://nyaa.si/?q=IGGT2IL6UQXCNGGJLJLJ2QVBXYZA3KBV) |
+| `[ASW] LIAR GAME - 01 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-liar-game-01-1080p-hevc-x265-10bit-aac.n2094860) • [🐱 Nyaa](https://nyaa.si/?q=I6E5SZL36LX36GO6S2NHP2FQUBQK3AWU) |
+| `[Judas] Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu n...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2094859) • [🐱 Nyaa](https://nyaa.si/?q=DCC7TMBKR4KAHN4B4RDSSTA7S6PGKMK2) |
+| `[Onalrie] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.2072413) • [🐱 Nyaa](https://nyaa.si/?q=MRMWGAUHZ6IH5G2VWCUVRLXA5TX5YTJW) |
+| `[Erai-raws] Tongari Boushi no Atelier - 02 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tongari-boushi-no-atelier-02-1080p.n2094857) • [🐱 Nyaa](https://nyaa.si/?q=YLDJYT4SGZVUOIGXT6L2AFZ4IWLBIUW3) |
+| `[Erai-raws] Tongari Boushi no Atelier - 01 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tongari-boushi-no-atelier-01-1080p.n2094855) • [🐱 Nyaa](https://nyaa.si/?q=33ITAFIISQATKT4GX6X5QXSQNECC4SJZ) |
+| `[Erai-raws] Liar Game - 01 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-01-480p-cr-web.n2094854) • [🐱 Nyaa](https://nyaa.si/?q=3UADIUWUB2GXAFNQ5RMZ2SHZ2IUJ335W) |
+| `[Erai-raws] Liar Game - 01 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-01-720p-cr-web.n2094852) • [🐱 Nyaa](https://nyaa.si/?q=F5Y3FVKUSS5K4NLHJM5Z676JMZKVWU3P) |
+| `[Erai-raws] Liar Game - 01 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-01-1080p-cr-web.n2094851) • [🐱 Nyaa](https://nyaa.si/?q=5AJ6CIZNZQMONYBSPM43DUIVN57K2E24) |
+| `[Cyan] Champignon no Majo (Champignon Witch) - 10 [WEB 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cyan-champignon-no-majo-witch-10-web-1080p.k10189574903050) • [🐱 Nyaa](https://nyaa.si/?q=EFNXHEKWH6X4DQSSNMW4PRJ5V2E6HAGH) |
+| `LIAR GAME S01E01 The Legendary Con Artist 1080p CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/liar-game-s01e01-legendary-con-artist-1080p-cr.n2094848) • [🐱 Nyaa](https://nyaa.si/?q=PKHUACEHUKP5GJ6557AVD72WOJPGTA3H) |
 
 ---
 <div align="center">
