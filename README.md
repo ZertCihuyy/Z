@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.00.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.07.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -27,21 +27,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[HTS] Mahou no Shimai LuluttoLilly - 01` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hts-mahou-no-shimai-luluttolilly-01.n2094728) • [🐱 Nyaa](https://nyaa.si/?q=DXEBFKZOWQYMWOD255P5J73SI3QV3MUW) |
-| `My Hero Academia Vigilantes S02E11 Balloon Soul 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/my-hero-academia-vigilantes-s02e11-balloon-soul-1080p.n2094726) • [🐱 Nyaa](https://nyaa.si/?q=6NQTFSMS3VRFL6UDB6WBYBMKDXTOFHUP) |
-| `[BlackRabbit] Your Name. (2016) [Bluray-2160p][Opus 5.1][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-your-name-2016-bluray-2160p-opus-5.k10186800333061) • [🐱 Nyaa](https://nyaa.si/?q=TKIYJLIY2YT5KNLY33JZBHP2MCBJI7KX) |
-| `My Hero Academia Vigilantes S02E12 This Is a Hero 1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/my-hero-academia-vigilantes-s02e12-1080p-cr-web.n2094724) • [🐱 Nyaa](https://nyaa.si/?q=QFNML36U4DYU3MIA67NZFQNCOSMXE2IB) |
-| `[LG] .hack//SIGN S01 [DVDISO][Vol.1-Vol.9][R2J]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lg-hack-sign-s01-dvdiso-vol-1-vol-9-r2j.n2094723) • [🐱 Nyaa](https://nyaa.si/?q=Q3F5AG5QK6MT3TEWEE7XETQNU4X7AGHN) |
-| `[Feibanyama] One Piece EP1156 [IQIYI WebRip 2160p HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-one-piece-ep1156-iqiyi-webrip-2160p-hevc.n2094701) • [🐱 Nyaa](https://nyaa.si/?q=LC2HOCSW2LCB2XXRZT6MZRW76ID53IZN) |
-| `[nekotan] Isekai Quartet The Movie Another World 2022 REP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-movie-another-world-2022-repack.k10184738204430) • [🐱 Nyaa](https://nyaa.si/?q=L2OR772BEPK4BVDYULDJ7RB2UCLH3JPB) |
-| `[nekotan] Isekai Quartet 2 E01-E12 REPACK (BD 1080p BluRa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-2-e01-e12-repack-bd.k10184552563717) • [🐱 Nyaa](https://nyaa.si/?q=B7I3BH5IN6UITN7RDL7LBFI2CQX6N6JU) |
-| `[nekotan] Isekai Quartet E01-E12 REPACK (BD 1080p BluRay ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-e01-e12-repack-bd-1080p.k10184526697741) • [🐱 Nyaa](https://nyaa.si/?q=4KT5IIEFODBD2C7ZXOCD7SGB2ROMGL34) |
-| `[BlackRabbit] Solo Leveling (2024) - S02 v2 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-solo-leveling-2024-s02-v2-bluray-1080p.k10183987420673) • [🐱 Nyaa](https://nyaa.si/?q=ZMLHOHL5TJMR2WOLAQB55FUVW35BZ3PF) |
-| `[BlackRabbit] KonoSuba – God’s blessing on this wonderful...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-konosuba-gods-blessing-wonderful-world-2016-s03.k10183603048964) • [🐱 Nyaa](https://nyaa.si/?q=HS5R3VYRACAKMLVS2PYKAMESZWMV6AA7) |
-| `[Beltraz] Harem in the Labyrinth of Another World (2022) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-harem-labyrinth-another-world-2022-s01-specials.k10183343351043) • [🐱 Nyaa](https://nyaa.si/?q=636ZH3PC4UBTG4ZJIUIL6JTS76ECRIII) |
-| `[BlackRabbit] KonoSuba – God’s blessing on this wonderful...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-konosuba-gods-blessing-wonderful-world-2016-s00.k10183322225676) • [🐱 Nyaa](https://nyaa.si/?q=3CJMY3OZFKFC3KNBLZMZCGTW6NTQJH27) |
-| `[LbE3L] [H.266] Daemons of the Shadow Realm S01E01 (Yomi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-daemons-shadow-realm-s01e01-yomi.k10182417938432) • [🐱 Nyaa](https://nyaa.si/?q=QFNDTPNXYDIRGB5V35Z6XKMWD2CUQPLQ) |
-| `One Piece S01E1156 The Long-sought Elbaph The Big Reunion...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1156-long-sought-elbaph-big-reunion.n2094678) • [🐱 Nyaa](https://nyaa.si/?q=RWKZ6SQXRNFEPDTUKTNW24QOYHKFSN3P) |
+| `[VARYG] The Klutzy Class Monitor and the Girl with the Sh...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-klutzy-class-monitor-girl-short-skirt-s01e01.k10188354853900) • [🐱 Nyaa](https://nyaa.si/?q=B2BVWZ3WY3HX32AZKL2PTLPVLSEJ4SEI) |
+| `[ToonsHub] The Klutzy Class Monitor and the Girl with the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-klutzy-class-monitor-girl-short-skirt-s01e01.k10188346306315) • [🐱 Nyaa](https://nyaa.si/?q=3GXVMTTQRESPAQZ5PHOCUL6EJKINYFXD) |
+| `[ToonsHub] The Klutzy Class Monitor and the Girl with the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-klutzy-class-monitor-girl-short-skirt-s01e01.k10188315247370) • [🐱 Nyaa](https://nyaa.si/?q=MPJRTHJ3PJ4ZT7AQUSQQBXVO7ORRKX6G) |
+| `Witch Hat Atelier S01E01 The Magic That Started Everythin...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/witch-hat-atelier-s01e01-magic-started-everything-1080p.n2094798) • [🐱 Nyaa](https://nyaa.si/?q=466ITB7YKGCHJ3A2VUH4GGV6MWBXGPM3) |
+| `My Hero Academia Vigilantes S02E12 This Is a Hero 1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/my-hero-academia-vigilantes-s02e12-1080p-cr-web.n2094797) • [🐱 Nyaa](https://nyaa.si/?q=UMFKWFHDX6ZEISEO3FWHUYHO3TDZRDBC) |
+| `Witch Hat Atelier S01E02 The School of the Grassland 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/witch-hat-atelier-s01e02-school-grassland-1080p-cr.n2094796) • [🐱 Nyaa](https://nyaa.si/?q=C4SJ45ELY2TWVCKTFGDVYBLCKDUQOD3A) |
+| `Golden Kamuy S05E12 Bushido 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/golden-kamuy-s05e12-bushido-1080p-cr-web-dl.n2094795) • [🐱 Nyaa](https://nyaa.si/?q=7VFJUOMVQOKIHC6DHQFYRBFXZTRYMM7B) |
+| `[Onalrie] Tongari Boushi no Atelier - S01E01 [1080p WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tongari-boushi-no-atelier-s01e01-1080p-webrip-av1.2072390) • [🐱 Nyaa](https://nyaa.si/?q=IV2ULTR3P7QUNESQZCGP7R6WEL6S753T) |
+| `Farming Life In Another World S02E01 The Story So Far 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/farming-life-another-world-s02e01-story-far-1080p.n2094790) • [🐱 Nyaa](https://nyaa.si/?q=HUBEJGSC4CX5YYBOC6W6QALGQX6MPUJT) |
+| `[Yameii] Golden Kamuy - S05E12 [English Dub] [CR WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-golden-kamuy-s05e12-english-dub-cr-web.n2094786) • [🐱 Nyaa](https://nyaa.si/?q=V56Y66H4YWS2QBUW5RT746DNT4MDA2HY) |
+| `[HTS] Mahou no Shimai LuluttoLilly - 01` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hts-mahou-no-shimai-luluttolilly-01.n2094785) • [🐱 Nyaa](https://nyaa.si/?q=RRZQ6PG5GZF4UETCTDVQWKQUIO5AIMFL) |
+| `[Yameii] Golden Kamuy - S05E12 [English Dub] [CR WEB-DL 7...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-golden-kamuy-s05e12-english-dub-cr-web.n2094784) • [🐱 Nyaa](https://nyaa.si/?q=WNSJNRJEKTUAQGSGZ5BBYFY7YZJDKVVH) |
+| `[SubsPlus+] Farming Life in Another World - S02E01 (ADN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-farming-life-another-world-s02e01-adn-web.k10187863617289) • [🐱 Nyaa](https://nyaa.si/?q=AJVN3S4ILHBAVRUQGU2ZGNMFLK5GS2V4) |
+| `[ToonsHub] Golden Kamuy S05E12 1080p CR WEB-DL DUAL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e12-1080p-cr-web-dl.k10187859119880) • [🐱 Nyaa](https://nyaa.si/?q=7AZGNYQU35SORERPSRONS63Q2JOFWHTY) |
+| `Farming Life in Another World S02E01 Welcome 1080p BILI W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/farming-life-another-world-s02e01-welcome-1080p-bili.n2094778) • [🐱 Nyaa](https://nyaa.si/?q=RVFQFVTMW5LEJGJVNWPHOXKXVBW6XN72) |
 
 ---
 <div align="center">
