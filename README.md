@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.37.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.36.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -27,6 +27,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nekotan] Isekai Quartet The Movie Another World 2022 REP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-movie-another-world-2022-repack.k10184738204430) • [🐱 Nyaa](https://nyaa.si/?q=L2OR772BEPK4BVDYULDJ7RB2UCLH3JPB) |
+| `[nekotan] Isekai Quartet 2 E01-E12 REPACK (BD 1080p BluRa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-2-e01-e12-repack-bd.k10184552563717) • [🐱 Nyaa](https://nyaa.si/?q=B7I3BH5IN6UITN7RDL7LBFI2CQX6N6JU) |
+| `[nekotan] Isekai Quartet E01-E12 REPACK (BD 1080p BluRay ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-e01-e12-repack-bd-1080p.k10184526697741) • [🐱 Nyaa](https://nyaa.si/?q=4KT5IIEFODBD2C7ZXOCD7SGB2ROMGL34) |
 | `[BlackRabbit] Solo Leveling (2024) - S02 v2 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-solo-leveling-2024-s02-v2-bluray-1080p.k10183987420673) • [🐱 Nyaa](https://nyaa.si/?q=ZMLHOHL5TJMR2WOLAQB55FUVW35BZ3PF) |
 | `[BlackRabbit] KonoSuba – God’s blessing on this wonderful...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-konosuba-gods-blessing-wonderful-world-2016-s03.k10183603048964) • [🐱 Nyaa](https://nyaa.si/?q=HS5R3VYRACAKMLVS2PYKAMESZWMV6AA7) |
 | `[Beltraz] Harem in the Labyrinth of Another World (2022) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-harem-labyrinth-another-world-2022-s01-specials.k10183343351043) • [🐱 Nyaa](https://nyaa.si/?q=636ZH3PC4UBTG4ZJIUIL6JTS76ECRIII) |
@@ -39,9 +42,6 @@
 | `[BlackRabbit] Midori (1992) [DVD-576p][Opus 2.0][UNCENSOR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-midori-1992-dvd-576p-opus-2-0-uncensored-av1.k10179758104577) • [🐱 Nyaa](https://nyaa.si/?q=ZGOK6DWLTBHY6JA2R4MXOW2BERULEODI) |
 | `[ToonsHub] Star Detective Precure S01E10 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e10-1080p-cr-web.n2094663) • [🐱 Nyaa](https://nyaa.si/?q=2UUOUEJRIVKEFAQNMYEFT7A2RGPW3N4U) |
 | `[Erai-raws] Dorohedoro Season 2 - 03 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-1080p-nf.n2094657) • [🐱 Nyaa](https://nyaa.si/?q=AVRXNSL6F6B34D6KMQIEVR7KSFE3RQG2) |
-| `[Erai-raws] Dorohedoro Season 2 - 02 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-02-1080p-nf.n2094656) • [🐱 Nyaa](https://nyaa.si/?q=IF5GB6FD7JULWJILOTYRONTBSOU2BMFX) |
-| `[B00BA] Legendary Idol Eriko Season 1 (BD Remux 1080p x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/b00ba-legendary-idol-eriko-season-1-bd-remux.n2094648) • [🐱 Nyaa](https://nyaa.si/?q=V7QCRXRW4ZXATZPDIQFFJIKX2LMO5WXD) |
-| `[ToonsHub] One Piece EP1156 2160p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1156-2160p-bili-web-dl.k10176339418126) • [🐱 Nyaa](https://nyaa.si/?q=BHVJBWTMYVPO7GAR7LK7NXTQRGBEFLH7) |
 
 ---
 <div align="center">

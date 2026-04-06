@@ -1,5 +1,5 @@
 {
-  "last_update": "6/4/2026, 17.37.57",
+  "last_update": "6/4/2026, 18.36.02",
   "data": [
     {
       "mal_id": 61316,
@@ -1495,24 +1495,24 @@
       ]
     },
     {
-      "mal_id": 60310,
-      "url": "https://myanimelist.net/anime/60310/Mairimashita_Iruma-kun_4th_Season",
+      "mal_id": 57466,
+      "url": "https://myanimelist.net/anime/57466/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen_-_Ryoushu_no_Youjo",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1434/154048.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1434/154048t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1434/154048l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1371/155054.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1371/155054t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1371/155054l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1434/154048.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1434/154048t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1434/154048l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1371/155054.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1371/155054t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1371/155054l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/6Lo1DUCY9nY?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/rtPF6rjrdSU?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -1525,24 +1525,35 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Mairimashita! Iruma-kun 4th Season"
+          "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo"
+        },
+        {
+          "type": "Synonym",
+          "title": "Ascendance of a Bookworm 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Honzuki no Gekokujou 4th Season"
         },
         {
           "type": "Japanese",
-          "title": "魔入りました！入間くん 第4シリーズ"
+          "title": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女"
         },
         {
           "type": "English",
-          "title": "Welcome to Demon School! Iruma-kun Season 4"
+          "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
         }
       ],
-      "title": "Mairimashita! Iruma-kun 4th Season",
-      "title_english": "Welcome to Demon School! Iruma-kun Season 4",
-      "title_japanese": "魔入りました！入間くん 第4シリーズ",
-      "title_synonyms": [],
+      "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
+      "title_english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "title_japanese": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
+      "title_synonyms": [
+        "Ascendance of a Bookworm 4th Season",
+        "Honzuki no Gekokujou 4th Season"
+      ],
       "type": "TV",
-      "source": "Manga",
-      "episodes": 24,
+      "source": "Light novel",
+      "episodes": null,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
@@ -1562,41 +1573,78 @@
         },
         "string": "Apr 4, 2026 to ?"
       },
-      "duration": "25 min per ep",
+      "duration": "23 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.01,
-      "scored_by": 2020,
-      "rank": 725,
-      "popularity": 3307,
-      "members": 57484,
-      "favorites": 218,
-      "synopsis": "Fourth season of Mairimashita! Iruma-kun.",
+      "score": 8.05,
+      "scored_by": 2146,
+      "rank": 658,
+      "popularity": 3268,
+      "members": 58670,
+      "favorites": 232,
+      "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
       "background": "",
       "season": "spring",
       "year": 2026,
       "broadcast": {
         "day": "Saturdays",
-        "time": "18:15",
+        "time": "17:30",
         "timezone": "Asia/Tokyo",
-        "string": "Saturdays at 18:15 (JST)"
+        "string": "Saturdays at 17:30 (JST)"
       },
-      "producers": [],
+      "producers": [
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 109,
+          "type": "anime",
+          "name": "Shochiku",
+          "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 460,
+          "type": "anime",
+          "name": "KlockWorx",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 464,
+          "type": "anime",
+          "name": "flying DOG",
+          "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+          "mal_id": 1492,
+          "type": "anime",
+          "name": "Yomiuri TV Enterprise",
+          "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+        },
+        {
+          "mal_id": 1988,
+          "type": "anime",
+          "name": "TO Books",
+          "url": "https://myanimelist.net/anime/producer/1988/TO_Books"
+        }
+      ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 1258,
+          "mal_id": 858,
           "type": "anime",
-          "name": "Bandai Namco Pictures",
-          "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+          "name": "Wit Studio",
+          "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
         }
       ],
       "genres": [
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        },
         {
           "mal_id": 10,
           "type": "anime",
@@ -1607,20 +1655,19 @@
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 23,
+          "mal_id": 62,
           "type": "anime",
-          "name": "School",
-          "url": "https://myanimelist.net/anime/genre/23/School"
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 72,
+          "type": "anime",
+          "name": "Reincarnation",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
         }
       ],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ]
+      "demographics": []
     }
   ]
 }
