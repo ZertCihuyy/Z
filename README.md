@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.30.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.24.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -21,21 +21,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] One Piece - 1156 [720p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1156-720p-cr-web.n2094915) • [🐱 Nyaa](https://nyaa.si/?q=ZN7TROZ5YHZ5HQGQVAGEV2JSRBSBZW72) |
-| `[Erai-raws] One Piece - 1156 [1080p CR WEB-DL AVC AAC][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1156-1080p-cr-web.n2094914) • [🐱 Nyaa](https://nyaa.si/?q=Q5NVUIEOY4Q5SQZUTHKLX2GPFWSI2YUI) |
-| `[Erai-raws] Fangkai Nage Nuwu - 06 (CA) [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-06-ca-1080p.n2094900) • [🐱 Nyaa](https://nyaa.si/?q=XKLUWRYXKOGCYJN77BINVMTBHJYEHUWN) |
-| `[BlackRabbit] KonoSuba – God’s blessing on this wonderful...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-konosuba-gods-blessing-wonderful-world-2016-s01.k10191884945408) • [🐱 Nyaa](https://nyaa.si/?q=YUNEGN5PW6KMFSVLF42ZVMAJ7SA66Q6M) |
-| `[SubsPlease] Arne no Jikenbo (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-arne-no-jikenbo-01-12-1080p-batch.n2094896) • [🐱 Nyaa](https://nyaa.si/?q=GQ2GNUQP5PDAXPVMOU7KR5H7WKG3C6NX) |
-| `[SubsPlease] Arne no Jikenbo (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-arne-no-jikenbo-01-12-720p-batch.n2094895) • [🐱 Nyaa](https://nyaa.si/?q=6PACTYHUDGT7YLJMVNU4BW5WF7Y6M2MM) |
-| `[SubsPlease] Arne no Jikenbo (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-arne-no-jikenbo-01-12-480p-batch.n2094894) • [🐱 Nyaa](https://nyaa.si/?q=UTL4WK5SFBKVWN3FM2B2DDVFG7VGOUIL) |
-| `[DKB] Witch Hat Atelier - S01E01 [1080p][HEVC x265 10bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-witch-hat-atelier-s01e01-1080p-hevc-x265.n2094893) • [🐱 Nyaa](https://nyaa.si/?q=XYQIFBGMSAPXJBRWMT4SW3ZH5RWYNZQJ) |
-| `[Judas] LIAR GAME - S01E01 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e01-1080p-hevc-x265-10bit.n2094892) • [🐱 Nyaa](https://nyaa.si/?q=RJ2ONRKZOL74UVPGGGIJYJVB4HWKPGMG) |
-| `[Erai-raws] Liar Game - 01 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-01-1080p-cr-webrip.n2094890) • [🐱 Nyaa](https://nyaa.si/?q=3RWLORLZLT2K6WGOA3KZ6KUJ2LPT7HWV) |
-| `[Orphan] Yukiguni no Oujisama (1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/orphan-yukiguni-no-oujisama-1080p.n2094889) • [🐱 Nyaa](https://nyaa.si/?q=4LAROLHE76AYWZ4DUSKIQEYER22Y5ROG) |
-| `[Onalrie] Release that Witch - S01E06 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-release-witch-s01e06-1080p-webrip-av1-mkv.2072438) • [🐱 Nyaa](https://nyaa.si/?q=ENYIYKSZEXB6D65GTIULVGLYWSV3GOXW) |
-| `[ASW] Release that Witch - 06 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-release-witch-06-1080p-hevc-x265-10bit-aac.n2094888) • [🐱 Nyaa](https://nyaa.si/?q=B5UAAF4LE7VAEBJOEOCY3BD2I4YUWA6K) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2094885) • [🐱 Nyaa](https://nyaa.si/?q=NZYNSDEOXV64DBXONUCQ4SWJYJVXGBOM) |
-| `[DKB] Isekai Nonbiri Nouka - S02E01 [1080p][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-isekai-nonbiri-nouka-s02e01-1080p-hevc-x265-10bit-weekly.n2094884) • [🐱 Nyaa](https://nyaa.si/?q=4JTZO7VQN2ECCO3KYFSRIFLGBERLFE7J) |
+| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2094940) • [🐱 Nyaa](https://nyaa.si/?q=WVPU2XITXPK2H56YEADSRMKTONJQV4M4) |
+| `[Erai-raws] Digimon Beatbreak - 17 ~ 24 [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-17-24-1080p-cr.n2094939) • [🐱 Nyaa](https://nyaa.si/?q=5HB4ELWXTDANWVEZMII3GS6LQMYPZIED) |
+| `[Erai-raws] Digimon Beatbreak - 17 ~ 24 [720p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-17-24-720p-cr.n2094937) • [🐱 Nyaa](https://nyaa.si/?q=PCRS2YNKYQ2RNOQJPDQCTDGKXDUBZ6F5) |
+| `[Erai-raws] Digimon Beatbreak - 17 ~ 24 [480p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-17-24-480p-cr.n2094938) • [🐱 Nyaa](https://nyaa.si/?q=VKRTRZYX47QFAZW5XDSCRXHT74BFRDYH) |
+| `[Erai-raws] Digimon Beatbreak - 17 ~ 24 [1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-17-24-1080p-cr.n2094936) • [🐱 Nyaa](https://nyaa.si/?q=CZWU4P2C24AUBBF74YMYEOJYKHCE4JIX) |
+| `[SubsPlease] Odayaka Kizoku no Kyuuka no Susume. (01-12) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-odayaka-kizoku-no-kyuuka-susume-01-12.n2094933) • [🐱 Nyaa](https://nyaa.si/?q=FEC2UKE4IZ3M3X6UNA5KWJXZUBBCHGMG) |
+| `[SubsPlease] Odayaka Kizoku no Kyuuka no Susume. (01-12) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-odayaka-kizoku-no-kyuuka-susume-01-12.n2094932) • [🐱 Nyaa](https://nyaa.si/?q=PDFWJESLVXVAWGGD34PPGJEFOC2ZXSMW) |
+| `[SubsPlease] Odayaka Kizoku no Kyuuka no Susume. (01-12) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-odayaka-kizoku-no-kyuuka-susume-01-12.n2094931) • [🐱 Nyaa](https://nyaa.si/?q=CFIBUZXOJU5UBSDTN2ALMA33TQEYU3B3) |
+| `[BlackRabbit] Summer Wars (2009) [Bluray-1080p][Opus 5.1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-summer-wars-2009-bluray-1080p-opus-5.k10192849065729) • [🐱 Nyaa](https://nyaa.si/?q=XZMXEIQCDXVGG7744GTGKEWOSCJ7W5WU) |
+| `Ulysse.31.S01E01.MULTI.Audio.Sub[FRE][JPN][ENG][ITA][SPA]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ulysse-31-s01e01-multi-audio-sub-fre-jpn.n2094930) • [🐱 Nyaa](https://nyaa.si/?q=7Q7P4CCQ65O37QU7WPJ347M6H3XW43YZ) |
+| `[BlackRabbit] Terra Formars (2014) - S01 [Bluray-1080p][O...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-terra-formars-2014-s01-bluray-1080p-opus.k10192610898697) • [🐱 Nyaa](https://nyaa.si/?q=U5GIKPHDRAY4HQ3UYLFLKI2PNQ5I346R) |
+| `[BlackRabbit] KonoSuba – God’s blessing on this wonderful...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-konosuba-gods-blessing-wonderful-world-2016-s02.k10192391439117) • [🐱 Nyaa](https://nyaa.si/?q=4FG4D2KTMDS4JA2XJ2NKUOKBKEA26PDR) |
+| `[EMBER] Frieren: Beyond Journey's End S02E09 [1080p] [Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ember-frieren-beyond-journeys-end-s02e09-1080p-dual.n2094924) • [🐱 Nyaa](https://nyaa.si/?q=PN3PG2XJMALC2B7XJ66SRXS4ISYE7WRC) |
+| `[EMBER] Frieren: Beyond Journey's End S02E08 [1080p] [Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ember-frieren-beyond-journeys-end-s02e08-1080p-dual.n2094923) • [🐱 Nyaa](https://nyaa.si/?q=4QKZFUK4ZKKXRRL7JWJ5R6DFQCTJTKOI) |
+| `[EMBER] Frieren: Beyond Journey's End S02E07 [1080p] [Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ember-frieren-beyond-journeys-end-s02e07-1080p-dual.n2094922) • [🐱 Nyaa](https://nyaa.si/?q=Z7X7NKSDSZIIWB7URPIISRGLXWKWYLSF) |
 
 ---
 <div align="center">
