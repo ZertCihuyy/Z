@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.42.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.52.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -15,6 +15,7 @@
 | `01:00` | **[Shin Nippon History](https://myanimelist.net/anime/54871/Shin_Nippon_History)** | *Comedy* |
 | `18:25` | **[Puzzle & Dragon](https://myanimelist.net/anime/37096/Puzzle___Dragon)** | *-* |
 | `00:30` | **[Ghost Concert: Missing Songs](https://myanimelist.net/anime/62852/Ghost_Concert__Missing_Songs)** | *Action, Sci-Fi, Supernatural* |
+| `01:10` | **[Ingoku Danchi](https://myanimelist.net/anime/63310/Ingoku_Danchi)** | *Comedy, Supernatural, Erotica* |
 | `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
 | `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
 | `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
@@ -26,6 +27,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Midori (1992) [DVD-576p][Opus 2.0][UNCENSOR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-midori-1992-dvd-576p-opus-2-0-uncensored-av1.k10179758104577) • [🐱 Nyaa](https://nyaa.si/?q=ZGOK6DWLTBHY6JA2R4MXOW2BERULEODI) |
+| `[ToonsHub] Star Detective Precure S01E10 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e10-1080p-cr-web.n2094663) • [🐱 Nyaa](https://nyaa.si/?q=2UUOUEJRIVKEFAQNMYEFT7A2RGPW3N4U) |
+| `[Erai-raws] Dorohedoro Season 2 - 03 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-1080p-nf.n2094657) • [🐱 Nyaa](https://nyaa.si/?q=AVRXNSL6F6B34D6KMQIEVR7KSFE3RQG2) |
+| `[Erai-raws] Dorohedoro Season 2 - 02 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-02-1080p-nf.n2094656) • [🐱 Nyaa](https://nyaa.si/?q=IF5GB6FD7JULWJILOTYRONTBSOU2BMFX) |
+| `[B00BA] Legendary Idol Eriko Season 1 (BD Remux 1080p x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/b00ba-legendary-idol-eriko-season-1-bd-remux.n2094648) • [🐱 Nyaa](https://nyaa.si/?q=V7QCRXRW4ZXATZPDIQFFJIKX2LMO5WXD) |
 | `[ToonsHub] One Piece EP1156 2160p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1156-2160p-bili-web-dl.k10176339418126) • [🐱 Nyaa](https://nyaa.si/?q=BHVJBWTMYVPO7GAR7LK7NXTQRGBEFLH7) |
 | `[ToonsHub] One Piece EP1156 1080p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1156-1080p-bili-web-dl.k10176321589519) • [🐱 Nyaa](https://nyaa.si/?q=KE3RZ3NOADQHAQTKY44GIQ3G23IXZN6T) |
 | `[Beltraz] Reborn to Master the Blade: From Hero-King to E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-reborn-master-blade-from-hero-king-extraordinary.k10176206086413) • [🐱 Nyaa](https://nyaa.si/?q=HRWPAMAN2ZLWAZEY6REW6CYURYYFZDGD) |
@@ -36,11 +42,6 @@
 | `[Erai-raws] Oshi no Ko 3rd Season - 11 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-oshi-no-ko-3rd-season-11.n2094561) • [🐱 Nyaa](https://nyaa.si/?q=DK6VZ5PMLC2TE6XOVEGL7CW6AK7WTLNO) |
 | `[Erai-raws] Osananajimi to wa LoveCom ni Naranai - 12 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-osananajimi-wa-lovecom-ni-naranai-12.n2094560) • [🐱 Nyaa](https://nyaa.si/?q=3ZFNWBNLBLA2OXMTO75J6XSFHYTBNWZA) |
 | `[Erai-raws] Omae Gotoki ga Maou ni Kateru to Omouna - 12 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-omae-gotoki-ga-maou-ni-kateru.n2094559) • [🐱 Nyaa](https://nyaa.si/?q=V45YXQHLTQJMMDDAPWMRZRIGRUU2GJUT) |
-| `[Erai-raws] Seihantai na Kimi to Boku - 10 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-seihantai-na-kimi-boku-10-1080p.n2094558) • [🐱 Nyaa](https://nyaa.si/?q=UHBOXWKUJ72LH3MXT4X5K74VC6BOEYIA) |
-| `[Erai-raws] Oshi no Ko 3rd Season - 10 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-oshi-no-ko-3rd-season-10.n2094557) • [🐱 Nyaa](https://nyaa.si/?q=SC4J7UD4GCD75X4SJGNDHT7YOAMQKKCN) |
-| `[Erai-raws] Osananajimi to wa LoveCom ni Naranai - 11 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-osananajimi-wa-lovecom-ni-naranai-11.n2094556) • [🐱 Nyaa](https://nyaa.si/?q=PYYZTXGHSMK2IAZZIOT23HJAAMH5OU4H) |
-| `[Erai-raws] Omae Gotoki ga Maou ni Kateru to Omouna - 11 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-omae-gotoki-ga-maou-ni-kateru.n2094555) • [🐱 Nyaa](https://nyaa.si/?q=6F2JEWOEOJV7EWN7OBINRIMCROALSX3O) |
-| `[Erai-raws] Seihantai na Kimi to Boku - 09 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-seihantai-na-kimi-boku-09-1080p.n2094554) • [🐱 Nyaa](https://nyaa.si/?q=ELQAG6INM4N7ZAXGOLTGDE2BSVQUBDT5) |
 
 ---
 <div align="center">

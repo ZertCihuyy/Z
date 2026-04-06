@@ -1,5 +1,5 @@
 {
-  "last_update": "6/4/2026, 10.42.32",
+  "last_update": "6/4/2026, 12.52.36",
   "hari": "Senin",
   "data": [
     {
@@ -383,6 +383,141 @@
           "url": "https://myanimelist.net/anime/genre/19/Music"
         }
       ],
+      "demographics": []
+    },
+    {
+      "mal_id": 63310,
+      "url": "https://myanimelist.net/anime/63310/Ingoku_Danchi",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1373/155741.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1373/155741t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1373/155741l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1373/155741.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1373/155741t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1373/155741l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/MkI3yiYeE2c?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Ingoku Danchi"
+        },
+        {
+          "type": "Synonym",
+          "title": "Perverts' Apartment Complex"
+        },
+        {
+          "type": "Japanese",
+          "title": "インゴクダンチ"
+        }
+      ],
+      "title": "Ingoku Danchi",
+      "title_english": null,
+      "title_japanese": "インゴクダンチ",
+      "title_synonyms": [
+        "Perverts' Apartment Complex"
+      ],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 6, 2026 to ?"
+      },
+      "duration": "3 min per ep",
+      "rating": null,
+      "score": 5.73,
+      "scored_by": 208,
+      "rank": null,
+      "popularity": 10431,
+      "members": 3791,
+      "favorites": 2,
+      "synopsis": "Yoshida is a tiny, frail high school graduate who became an unwilling manager of an apartment complex when his father, the former manager, injured himself. Unbeknownst to him, this apartment complex houses quite a few women with very... unusual sexual preferences. This becomes a problem when a mysterious entity begins giving \"Libido Cloth\" to these women—skimpy outfits that give them superpowers and cause them to go on lewd rampages! Will Yoshida be able to stop them?\n\n(Source: MU)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "01:10",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 01:10 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 2892,
+          "type": "anime",
+          "name": "WWWave",
+          "url": "https://myanimelist.net/anime/producer/2892/WWWave"
+        },
+        {
+          "mal_id": 3112,
+          "type": "anime",
+          "name": "Deregula",
+          "url": "https://myanimelist.net/anime/producer/3112/Deregula"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2928,
+          "type": "anime",
+          "name": "Elias",
+          "url": "https://myanimelist.net/anime/producer/2928/Elias"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+          "mal_id": 49,
+          "type": "anime",
+          "name": "Erotica",
+          "url": "https://myanimelist.net/anime/genre/49/Erotica"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
       "demographics": []
     },
     {
