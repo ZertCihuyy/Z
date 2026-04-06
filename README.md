@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.15.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.37.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -27,6 +27,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Solo Leveling (2024) - S02 v2 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-solo-leveling-2024-s02-v2-bluray-1080p.k10183987420673) • [🐱 Nyaa](https://nyaa.si/?q=ZMLHOHL5TJMR2WOLAQB55FUVW35BZ3PF) |
+| `[BlackRabbit] KonoSuba – God’s blessing on this wonderful...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-konosuba-gods-blessing-wonderful-world-2016-s03.k10183603048964) • [🐱 Nyaa](https://nyaa.si/?q=HS5R3VYRACAKMLVS2PYKAMESZWMV6AA7) |
+| `[Beltraz] Harem in the Labyrinth of Another World (2022) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-harem-labyrinth-another-world-2022-s01-specials.k10183343351043) • [🐱 Nyaa](https://nyaa.si/?q=636ZH3PC4UBTG4ZJIUIL6JTS76ECRIII) |
+| `[BlackRabbit] KonoSuba – God’s blessing on this wonderful...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-konosuba-gods-blessing-wonderful-world-2016-s00.k10183322225676) • [🐱 Nyaa](https://nyaa.si/?q=3CJMY3OZFKFC3KNBLZMZCGTW6NTQJH27) |
 | `[LbE3L] [H.266] Daemons of the Shadow Realm S01E01 (Yomi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-daemons-shadow-realm-s01e01-yomi.k10182417938432) • [🐱 Nyaa](https://nyaa.si/?q=QFNDTPNXYDIRGB5V35Z6XKMWD2CUQPLQ) |
 | `One Piece S01E1156 The Long-sought Elbaph The Big Reunion...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1156-long-sought-elbaph-big-reunion.n2094678) • [🐱 Nyaa](https://nyaa.si/?q=RWKZ6SQXRNFEPDTUKTNW24QOYHKFSN3P) |
 | `Uma Musume Cinderella Gray S01 1080p BDRip DDP5.1 x264 (V...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/uma-musume-cinderella-gray-s01-1080p-bdrip-ddp5.n2094677) • [🐱 Nyaa](https://nyaa.si/?q=OLZTBTISCAP7GSEATYHLZULPJ7E5BBGG) |
@@ -38,10 +42,6 @@
 | `[Erai-raws] Dorohedoro Season 2 - 02 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-02-1080p-nf.n2094656) • [🐱 Nyaa](https://nyaa.si/?q=IF5GB6FD7JULWJILOTYRONTBSOU2BMFX) |
 | `[B00BA] Legendary Idol Eriko Season 1 (BD Remux 1080p x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/b00ba-legendary-idol-eriko-season-1-bd-remux.n2094648) • [🐱 Nyaa](https://nyaa.si/?q=V7QCRXRW4ZXATZPDIQFFJIKX2LMO5WXD) |
 | `[ToonsHub] One Piece EP1156 2160p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1156-2160p-bili-web-dl.k10176339418126) • [🐱 Nyaa](https://nyaa.si/?q=BHVJBWTMYVPO7GAR7LK7NXTQRGBEFLH7) |
-| `[ToonsHub] One Piece EP1156 1080p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1156-1080p-bili-web-dl.k10176321589519) • [🐱 Nyaa](https://nyaa.si/?q=KE3RZ3NOADQHAQTKY44GIQ3G23IXZN6T) |
-| `[Beltraz] Reborn to Master the Blade: From Hero-King to E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-reborn-master-blade-from-hero-king-extraordinary.k10176206086413) • [🐱 Nyaa](https://nyaa.si/?q=HRWPAMAN2ZLWAZEY6REW6CYURYYFZDGD) |
-| `[Erai-raws] Dorohedoro Season 2 - 01 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-01-1080p-nf.n2094568) • [🐱 Nyaa](https://nyaa.si/?q=UJ67NPDHZER2MAEWNSGUZRWXXIW2QWHZ) |
-| `[CrappySubs] Oshi no Ko - S03E11 - (WEB 1080p H.265 AAC) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crappysubs-oshi-no-ko-s03e11-web-1080p-h.k10175146155277) • [🐱 Nyaa](https://nyaa.si/?q=RDTNL5RWSVQNLG3PDHSEVGHIHFM3PI7P) |
 
 ---
 <div align="center">
