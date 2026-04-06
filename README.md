@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.36.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.38.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -19,7 +19,7 @@
 | `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
 | `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
 | `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
-| `22:00` | **[Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.](https://myanimelist.net/anime/61687/Jishou_Akuyaku_Reijou_na_Konyakusha_no_Kansatsu_Kiroku)** | *Comedy, Fantasy, Romance* |
+| `22:00` | **[Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.](https://myanimelist.net/anime/61687/Jishou_Akuyaku_Reijou_na_Konyakusha_no_Kansatsu_Kiroku)** | *Comedy, Romance* |
 | `00:00` | **[Niwatori Fighter](https://myanimelist.net/anime/59393/Niwatori_Fighter)** | *Action, Comedy* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
@@ -27,6 +27,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Feibanyama] One Piece EP1156 [IQIYI WebRip 2160p HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-one-piece-ep1156-iqiyi-webrip-2160p-hevc.n2094701) • [🐱 Nyaa](https://nyaa.si/?q=LC2HOCSW2LCB2XXRZT6MZRW76ID53IZN) |
 | `[nekotan] Isekai Quartet The Movie Another World 2022 REP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-movie-another-world-2022-repack.k10184738204430) • [🐱 Nyaa](https://nyaa.si/?q=L2OR772BEPK4BVDYULDJ7RB2UCLH3JPB) |
 | `[nekotan] Isekai Quartet 2 E01-E12 REPACK (BD 1080p BluRa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-2-e01-e12-repack-bd.k10184552563717) • [🐱 Nyaa](https://nyaa.si/?q=B7I3BH5IN6UITN7RDL7LBFI2CQX6N6JU) |
 | `[nekotan] Isekai Quartet E01-E12 REPACK (BD 1080p BluRay ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-isekai-quartet-e01-e12-repack-bd-1080p.k10184526697741) • [🐱 Nyaa](https://nyaa.si/?q=4KT5IIEFODBD2C7ZXOCD7SGB2ROMGL34) |
@@ -41,7 +42,6 @@
 | `[BlackRabbit] Steamboy (2004) [Bluray-1080p][Opus 5.1][Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-steamboy-2004-bluray-1080p-opus-5-1.k10181162507531) • [🐱 Nyaa](https://nyaa.si/?q=V7536NVB37RJZGCLBI7VSD26BXOJ2IZC) |
 | `[BlackRabbit] Midori (1992) [DVD-576p][Opus 2.0][UNCENSOR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-midori-1992-dvd-576p-opus-2-0-uncensored-av1.k10179758104577) • [🐱 Nyaa](https://nyaa.si/?q=ZGOK6DWLTBHY6JA2R4MXOW2BERULEODI) |
 | `[ToonsHub] Star Detective Precure S01E10 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e10-1080p-cr-web.n2094663) • [🐱 Nyaa](https://nyaa.si/?q=2UUOUEJRIVKEFAQNMYEFT7A2RGPW3N4U) |
-| `[Erai-raws] Dorohedoro Season 2 - 03 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-03-1080p-nf.n2094657) • [🐱 Nyaa](https://nyaa.si/?q=AVRXNSL6F6B34D6KMQIEVR7KSFE3RQG2) |
 
 ---
 <div align="center">
