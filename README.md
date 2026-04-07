@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.02.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.03.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -22,6 +22,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlus+] Farming Life in Another World - S02E01v2 (AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-farming-life-another-world-s02e01v2-amzn-web.k10207067244302) • [🐱 Nyaa](https://nyaa.si/?q=LVTTU3VT2ZPHWIIRKCEKJ7OJSR5PKYQZ) |
 | `[Polarwindz] Black Lagoon + Roberta's Blood Trail (BD 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polarwindz-black-lagoon-robertas-blood-trail-bd-1080p-hevc.n2095041) • [🐱 Nyaa](https://nyaa.si/?q=NDQSEY5ZV4UX5LLGGOWMM6UMO74PHORL) |
 | `[MinaYuki] Princession Orchestra - 45–48 v2` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/minayuki-princession-orchestra-4548-v2.n2095035) • [🐱 Nyaa](https://nyaa.si/?q=VQS6EI5EBVZUCXVMORNN26D72PEHBJ5B) |
 | `[Trix] PonSuka S01E01 [WEBRip 1080p AV1 Opus] (Multi Subs...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-ponsuka-s01e01-webrip-1080p-av1-opus-multi.n2095034) • [🐱 Nyaa](https://nyaa.si/?q=XOHARFNWIBGMF5MDZOO2OV4OUSGYMYM2) |
@@ -36,7 +37,6 @@
 | `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2094979) • [🐱 Nyaa](https://nyaa.si/?q=VRJLMITXE5B6UFZILLW6UC7OMTDGJJDJ) |
 | `Oedo Fire Slayer The Legend of Phoenix S01 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oedo-fire-slayer-legend-phoenix-s01-1080p-cr.n2094978) • [🐱 Nyaa](https://nyaa.si/?q=VVPWQ4T763XGZZLPKXTHCNCBWV2HBWNG) |
 | `So Im a Spider So What S01 1080p CR WEB-DL MULTi AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/im-spider-s01-1080p-cr-web-dl-multi.n2094977) • [🐱 Nyaa](https://nyaa.si/?q=P6BAJ25HWRBBROH42GPTGXZTCWOJO2TH) |
-| `Tamons B side S01 1080p CR WEB-DL AAC2.0 H 264-VARYG (Tam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tamons-b-side-s01-1080p-cr-web-dl.n2094975) • [🐱 Nyaa](https://nyaa.si/?q=A6XVY2HIFC4EEXYLL2LI2WT5KM5P4MRQ) |
 
 ---
 <div align="center">
