@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.03.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.02.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -22,21 +22,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlus+] Farming Life in Another World - S02E01v2 (AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-farming-life-another-world-s02e01v2-amzn-web.k10207067244302) • [🐱 Nyaa](https://nyaa.si/?q=LVTTU3VT2ZPHWIIRKCEKJ7OJSR5PKYQZ) |
-| `[Polarwindz] Black Lagoon + Roberta's Blood Trail (BD 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polarwindz-black-lagoon-robertas-blood-trail-bd-1080p-hevc.n2095041) • [🐱 Nyaa](https://nyaa.si/?q=NDQSEY5ZV4UX5LLGGOWMM6UMO74PHORL) |
-| `[MinaYuki] Princession Orchestra - 45–48 v2` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/minayuki-princession-orchestra-4548-v2.n2095035) • [🐱 Nyaa](https://nyaa.si/?q=VQS6EI5EBVZUCXVMORNN26D72PEHBJ5B) |
-| `[Trix] PonSuka S01E01 [WEBRip 1080p AV1 Opus] (Multi Subs...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-ponsuka-s01e01-webrip-1080p-av1-opus-multi.n2095034) • [🐱 Nyaa](https://nyaa.si/?q=XOHARFNWIBGMF5MDZOO2OV4OUSGYMYM2) |
-| `[crane0922] Food Wars! Season 2 (BD 1080p HEVC Opus) [Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-food-wars-season-2-bd-1080p-hevc.k10204768726796) • [🐱 Nyaa](https://nyaa.si/?q=7FNKL6LKI36VQTJXHKDSDGNGAH35VJFV) |
-| `[AK4NE] Classroom of the Elite - S04 E01-E04 (E39-E42) (W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-s04-e01-e04-e39-e42.k10202734771979) • [🐱 Nyaa](https://nyaa.si/?q=YLDAEZGRCQ5ESODQY36QGUMZEC3GANEB) |
-| `Medalist S02E08 Hot Passion 1080p DSNP WEB-DL DUAL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/medalist-s02e08-hot-passion-1080p-dsnp-web-dl.n2095017) • [🐱 Nyaa](https://nyaa.si/?q=Z3T4LPYL6Q7RDLAA3N2HBX2OBE6KAWGX) |
-| `LUPIN THE IIIRD The Movie The Immortal Bloodline (2025) 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-movie-immortal-bloodline-2025-1080p-bd-en-ja.n2095009) • [🐱 Nyaa](https://nyaa.si/?q=ZF2K4A54T36GFVZE5TP2OFZNS56TN7LL) |
-| `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2094989) • [🐱 Nyaa](https://nyaa.si/?q=RFV4K462RB3OXHAPXALYGP2BQUBMP5FX) |
-| `[Chika] Witch Hat Atelier - S01E02 (1080p WEB-DL H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chika-witch-hat-atelier-s01e02-1080p-web-dl.k10196024325382) • [🐱 Nyaa](https://nyaa.si/?q=FUQYJU5WPL2MOSMWK3NNF3NVENQGLDFU) |
-| `[Chika] Witch Hat Atelier - S01E01 (1080p WEB-DL H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chika-witch-hat-atelier-s01e01-1080p-web-dl.k10195970013698) • [🐱 Nyaa](https://nyaa.si/?q=GPDA2YRFSUGP274RPUERHREE5FOJAGSP) |
-| `Kunon the Sorcerer Can See S01 1080p CR WEB-DL AAC2.0 H 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kunon-sorcerer-see-s01-1080p-cr-web-dl.n2094980) • [🐱 Nyaa](https://nyaa.si/?q=PP3UJXO4QYDUF5F3LOFKBYV6FD75XLW7) |
-| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2094979) • [🐱 Nyaa](https://nyaa.si/?q=VRJLMITXE5B6UFZILLW6UC7OMTDGJJDJ) |
-| `Oedo Fire Slayer The Legend of Phoenix S01 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oedo-fire-slayer-legend-phoenix-s01-1080p-cr.n2094978) • [🐱 Nyaa](https://nyaa.si/?q=VVPWQ4T763XGZZLPKXTHCNCBWV2HBWNG) |
-| `So Im a Spider So What S01 1080p CR WEB-DL MULTi AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/im-spider-s01-1080p-cr-web-dl-multi.n2094977) • [🐱 Nyaa](https://nyaa.si/?q=P6BAJ25HWRBBROH42GPTGXZTCWOJO2TH) |
+| `[Judas] One Piece - 1156v2 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-one-piece-1156v2-1080p-hevc-x265-10bit.n2095105) • [🐱 Nyaa](https://nyaa.si/?q=YRH7BZ2TXAL5WTH2SVQRZLLYUIMIPEA6) |
+| `[SubsPlease] LasTame S2 - 01 (1080p) [2E0A7694].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-01-1080p-2e0a7694-mkv.n2095104) • [🐱 Nyaa](https://nyaa.si/?q=3JMCG7G7HFDX4NH7E63TMBZF6C6SZUHU) |
+| `[ToonsHub] The Most Heretical Last Boss Queen From Villai...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-most-heretical-last-boss-queen-from-villainess.k10209067408129) • [🐱 Nyaa](https://nyaa.si/?q=M2ZIAP6OKG3IKJC5M245UUQIFPDKTXLE) |
+| `[SubsPlease] LasTame S2 - 01 (720p) [403EE70E].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-01-720p-403ee70e-mkv.n2095102) • [🐱 Nyaa](https://nyaa.si/?q=HFROVXOYRGBHHFXYCZYZ4FC7TNASGZD7) |
+| `[SubsPlease] LasTame S2 - 01 (480p) [D09C3254].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-01-480p-d09c3254-mkv.n2095101) • [🐱 Nyaa](https://nyaa.si/?q=W5NSFDUKSL6QYGLIXY4GPYZ6YLVXZL3J) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2095100) • [🐱 Nyaa](https://nyaa.si/?q=YS5UY42542TV6UY45DIXRMFUMIHT6EOS) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2095099) • [🐱 Nyaa](https://nyaa.si/?q=HFMZZH3GXOV62KT6WM66H2GQMKIXZLVP) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2095098) • [🐱 Nyaa](https://nyaa.si/?q=OPXBGINAZVJYFUYTB7SK3LSMW3PQG2R2) |
+| `[denisplay] ROLL OVER AND DIE - 12 [1080p] [AV1] ("Omae G...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-roll-over-die-12-1080p-av1-omae.n2095096) • [🐱 Nyaa](https://nyaa.si/?q=T2TV7FZHJGAIALKGMOMFQ257MVEAAKQA) |
+| `[denisplay] ROLL OVER AND DIE - 12 [720p] [AV1] ("Omae Go...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-roll-over-die-12-720p-av1-omae.n2095095) • [🐱 Nyaa](https://nyaa.si/?q=RDRRWNDZYZE6GWKS45JQHVUSGSTL3D2J) |
+| `[denisplay] ROLL OVER AND DIE - 12 [480p] [AV1] ("Omae Go...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-roll-over-die-12-480p-av1-omae.n2095094) • [🐱 Nyaa](https://nyaa.si/?q=LOYDWBSHFRJU3BWF5MO4VKHXM6JMLBTH) |
+| `[denisplay] ROLL OVER AND DIE - 11 [1080p] [AV1] ("Omae G...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-roll-over-die-11-1080p-av1-omae.n2095092) • [🐱 Nyaa](https://nyaa.si/?q=JCUXHW5LH6CWLHO7FRU7GO7Q4GIJZY7X) |
+| `[denisplay] ROLL OVER AND DIE - 11 [720p] [AV1] ("Omae Go...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-roll-over-die-11-720p-av1-omae.n2095091) • [🐱 Nyaa](https://nyaa.si/?q=FGW2NYPQOFICVHQVEMEBQJHHK2PBAYBO) |
+| `[denisplay] ROLL OVER AND DIE - 11 [480p] [AV1] ("Omae Go...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-roll-over-die-11-480p-av1-omae.n2095090) • [🐱 Nyaa](https://nyaa.si/?q=YUV3UVB3DZGNXWCGBLSV3MQSZ2V3XWBB) |
+| `[denisplay] ROLL OVER AND DIE - 10 [1080p] [AV1] ("Omae G...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-roll-over-die-10-1080p-av1-omae.n2095089) • [🐱 Nyaa](https://nyaa.si/?q=2JPGNHPLPS5C6FINSAUHDOYEK2NS4DR7) |
 
 ---
 <div align="center">
