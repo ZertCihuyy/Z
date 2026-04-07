@@ -1,20 +1,138 @@
 {
-  "last_update": "7/4/2026, 22.45.37",
-  "hari": "Selasa",
+  "last_update": "8/4/2026, 00.07.28",
+  "hari": "Rabu",
   "data": [
     {
-      "mal_id": 41458,
-      "url": "https://myanimelist.net/anime/41458/Origami_Ninja_Koyankinte",
+      "mal_id": 61765,
+      "url": "https://myanimelist.net/anime/61765/Chibi_Godzilla_no_Gyakushuu_3rd_Season",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1860/106477.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1860/106477t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1860/106477l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1859/150334.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1859/150334t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1859/150334l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1860/106477.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1860/106477t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1860/106477l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1859/150334.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1859/150334t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1859/150334l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/8Q83sSev8fk?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Chibi Godzilla no Gyakushuu 3rd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "ちびゴジラの逆襲(第3期)"
+        }
+      ],
+      "title": "Chibi Godzilla no Gyakushuu 3rd Season",
+      "title_english": null,
+      "title_japanese": "ちびゴジラの逆襲(第3期)",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2025-07-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 7,
+            "year": 2025
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 2, 2025 to ?"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 15764,
+      "popularity": 18682,
+      "members": 482,
+      "favorites": 1,
+      "synopsis": null,
+      "background": "",
+      "season": "summer",
+      "year": 2025,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "07:05",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 07:05 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 245,
+          "type": "anime",
+          "name": "TOHO",
+          "url": "https://myanimelist.net/anime/producer/245/TOHO"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1229,
+          "type": "anime",
+          "name": "Pie in the sky",
+          "url": "https://myanimelist.net/anime/producer/1229/Pie_in_the_sky"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 59732,
+      "url": "https://myanimelist.net/anime/59732/Pochars",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1155/145243.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1155/145243t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1155/145243l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1155/145243.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1155/145243t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1155/145243l.webp"
         }
       },
       "trailer": {
@@ -33,36 +151,36 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Origami Ninja Koyankinte"
+          "title": "Pochars"
         },
         {
           "type": "Synonym",
-          "title": "Happy Smile ♡ Dream"
+          "title": "Pochaazu"
         },
         {
           "type": "Japanese",
-          "title": "おりがみにんじゃ コーヤン＠きんてれ"
+          "title": "ぽちゃーズ"
         }
       ],
-      "title": "Origami Ninja Koyankinte",
+      "title": "Pochars",
       "title_english": null,
-      "title_japanese": "おりがみにんじゃ コーヤン＠きんてれ",
+      "title_japanese": "ぽちゃーズ",
       "title_synonyms": [
-        "Happy Smile ♡ Dream"
+        "Pochaazu"
       ],
       "type": "TV",
-      "source": "Unknown",
+      "source": "Original",
       "episodes": null,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2020-04-07T00:00:00+00:00",
+        "from": "2024-10-09T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 7,
-            "month": 4,
-            "year": 2020
+            "day": 9,
+            "month": 10,
+            "year": 2024
           },
           "to": {
             "day": null,
@@ -70,41 +188,41 @@
             "year": null
           }
         },
-        "string": "Apr 7, 2020 to ?"
+        "string": "Oct 9, 2024 to ?"
       },
-      "duration": "Unknown",
-      "rating": "PG - Children",
+      "duration": "1 min",
+      "rating": "G - All Ages",
       "score": null,
       "scored_by": null,
-      "rank": 19282,
-      "popularity": 19332,
-      "members": 432,
+      "rank": 19492,
+      "popularity": 18400,
+      "members": 506,
       "favorites": 0,
-      "synopsis": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
+      "synopsis": null,
       "background": "",
-      "season": "spring",
-      "year": 2020,
+      "season": "fall",
+      "year": 2024,
       "broadcast": {
-        "day": "Tuesdays",
-        "time": "07:30",
+        "day": "Wednesdays",
+        "time": "01:25",
         "timezone": "Asia/Tokyo",
-        "string": "Tuesdays at 07:30 (JST)"
+        "string": "Wednesdays at 01:25 (JST)"
       },
       "producers": [
         {
-          "mal_id": 16,
+          "mal_id": 169,
           "type": "anime",
-          "name": "TV Tokyo",
-          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+          "name": "Fuji TV",
+          "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
         }
       ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 324,
+          "mal_id": 276,
           "type": "anime",
-          "name": "Directions",
-          "url": "https://myanimelist.net/anime/producer/324/Directions"
+          "name": "DLE",
+          "url": "https://myanimelist.net/anime/producer/276/DLE"
         }
       ],
       "genres": [
@@ -117,34 +235,27 @@
       ],
       "explicit_genres": [],
       "themes": [],
-      "demographics": [
-        {
-          "mal_id": 15,
-          "type": "anime",
-          "name": "Kids",
-          "url": "https://myanimelist.net/anime/genre/15/Kids"
-        }
-      ]
+      "demographics": []
     },
     {
-      "mal_id": 42295,
-      "url": "https://myanimelist.net/anime/42295/Fushigi_Dagashiya__Zenitendou",
+      "mal_id": 63433,
+      "url": "https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1602/150098.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1602/150098t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1602/150098l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1764/155312.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1602/150098.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1602/150098t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1602/150098l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1764/155312.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/CSqd-iXcFVg?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -157,155 +268,34 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Fushigi Dagashiya: Zenitendou"
+          "title": "Daikenja Riddle no Jikan Gyakkou"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Regression of Great Sage Riddle"
         },
         {
           "type": "Japanese",
-          "title": "ふしぎ駄菓子屋 銭天堂"
+          "title": "大賢者リドルの時間逆行"
         }
       ],
-      "title": "Fushigi Dagashiya: Zenitendou",
+      "title": "Daikenja Riddle no Jikan Gyakkou",
       "title_english": null,
-      "title_japanese": "ふしぎ駄菓子屋 銭天堂",
-      "title_synonyms": [],
-      "type": "TV",
-      "source": "Novel",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2020-09-08T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 8,
-            "month": 9,
-            "year": 2020
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Sep 8, 2020 to ?"
-      },
-      "duration": "10 min",
-      "rating": "G - All Ages",
-      "score": 6.13,
-      "scored_by": 241,
-      "rank": 10075,
-      "popularity": 12094,
-      "members": 2373,
-      "favorites": 5,
-      "synopsis": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
-      "background": "",
-      "season": "fall",
-      "year": 2020,
-      "broadcast": {
-        "day": "Tuesdays",
-        "time": "18:45",
-        "timezone": "Asia/Tokyo",
-        "string": "Tuesdays at 18:45 (JST)"
-      },
-      "producers": [],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 18,
-          "type": "anime",
-          "name": "Toei Animation",
-          "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
-        },
-        {
-          "mal_id": 36,
-          "type": "anime",
-          "name": "Gallop",
-          "url": "https://myanimelist.net/anime/producer/36/Gallop"
-        },
-        {
-          "mal_id": 330,
-          "type": "anime",
-          "name": "Kanaban Graphics",
-          "url": "https://myanimelist.net/anime/producer/330/Kanaban_Graphics"
-        }
+      "title_japanese": "大賢者リドルの時間逆行",
+      "title_synonyms": [
+        "The Regression of Great Sage Riddle"
       ],
-      "genres": [
-        {
-          "mal_id": 7,
-          "type": "anime",
-          "name": "Mystery",
-          "url": "https://myanimelist.net/anime/genre/7/Mystery"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 15,
-          "type": "anime",
-          "name": "Kids",
-          "url": "https://myanimelist.net/anime/genre/15/Kids"
-        }
-      ]
-    },
-    {
-      "mal_id": 63375,
-      "url": "https://myanimelist.net/anime/63375/Nippon_Sangoku",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1623/156387.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1623/156387t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1623/156387l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1623/156387.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1623/156387t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1623/156387l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/PvjwzkcaT2Y?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Nippon Sangoku"
-        },
-        {
-          "type": "Japanese",
-          "title": "日本三國"
-        },
-        {
-          "type": "English",
-          "title": "Nippon Sangoku: The Three Nations of the Crimson Sun"
-        }
-      ],
-      "title": "Nippon Sangoku",
-      "title_english": "Nippon Sangoku: The Three Nations of the Crimson Sun",
-      "title_japanese": "日本三國",
-      "title_synonyms": [],
       "type": "TV",
       "source": "Web manga",
       "episodes": null,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2026-04-05T00:00:00+00:00",
+        "from": "2026-04-01T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 5,
+            "day": 1,
             "month": 4,
             "year": 2026
           },
@@ -315,53 +305,329 @@
             "year": null
           }
         },
-        "string": "Apr 5, 2026 to ?"
+        "string": "Apr 1, 2026 to ?"
       },
-      "duration": "24 min",
-      "rating": null,
-      "score": 8.14,
-      "scored_by": 1113,
-      "rank": 529,
-      "popularity": 6069,
-      "members": 15590,
-      "favorites": 28,
-      "synopsis": "In the near future, Japan has completely collapsed due to a mix of nuclear warfare, natural disasters, and widespread corruption that sparked a revolution.\n\nThe country is now split into three warring superpowers. This new era of the Three Kingdoms Period sees diplomacy vanish, replaced by a harsh, relentless fight for power. Each territory is using its military strength and resources against the others in a desperate attempt for total control over the remnants of Japanese land.\n\nAoteru Misumi is a low-ranking official who has stayed in the background for most of his life. He does not come from a prestigious military background or aristocracy, but Misumi has a strong ambition: to end the pointless bloodshed that afflicts the nation. He seeks to unify the fractured country, armed only with sharp insight and a persuasive voice that can rally the people.\n\nThe legend of the man who will become a brilliant military strategist starts now.\n\n(Source: MAL News)",
-      "background": "Each episode was streamed two days in advance of the TV broadcast starting on April 5, 2026, on Prime Video. Regular broadcasting began on April 7, 2026.",
+      "duration": "5 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 4.9,
+      "scored_by": 426,
+      "rank": 14368,
+      "popularity": 8130,
+      "members": 7512,
+      "favorites": 19,
+      "synopsis": "A young man named Riddle had lost all of his friends—and the entire world—at the hands of a mysterious organization known as the \"Box of Malice.\" Having lost all hope to live, he dwelled in a pit of despair until he has one final revelation. What if... he could return to a time before everything ended? And so, after a thousand years, a deformed Riddle finally manages to reverse time. \"I'm going to stop them this time...!\" Equipped with a thousand years of knowledge and experience in his young body, the Great Sage Riddle's journey to the past now unfolds!\n\n(Source: Shogakukan, translated)",
+      "background": "",
       "season": "spring",
       "year": 2026,
       "broadcast": {
-        "day": "Tuesdays",
-        "time": "00:00",
+        "day": "Wednesdays",
+        "time": "21:55",
         "timezone": "Asia/Tokyo",
-        "string": "Tuesdays at 00:00 (JST)"
+        "string": "Wednesdays at 21:55 (JST)"
       },
       "producers": [
         {
-          "mal_id": 1294,
+          "mal_id": 1430,
           "type": "anime",
-          "name": "Sound Team Don Juan",
-          "url": "https://myanimelist.net/anime/producer/1294/Sound_Team_Don_Juan"
+          "name": "Shogakukan",
+          "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
         },
         {
-          "mal_id": 1747,
+          "mal_id": 3307,
           "type": "anime",
-          "name": "Twin Engine",
-          "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
-        },
-        {
-          "mal_id": 3021,
-          "type": "anime",
-          "name": "Amazon MGM Studios",
-          "url": "https://myanimelist.net/anime/producer/3021/Amazon_MGM_Studios"
+          "name": "Tatooine Sound",
+          "url": "https://myanimelist.net/anime/producer/3307/Tatooine_Sound"
         }
       ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 2205,
+          "mal_id": 2844,
           "type": "anime",
-          "name": "Studio Kafka",
-          "url": "https://myanimelist.net/anime/producer/2205/Studio_Kafka"
+          "name": "Imagica Infos",
+          "url": "https://myanimelist.net/anime/producer/2844/Imagica_Infos"
+        },
+        {
+          "mal_id": 2983,
+          "type": "anime",
+          "name": "Imageworks Studio",
+          "url": "https://myanimelist.net/anime/producer/2983/Imageworks_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 78,
+          "type": "anime",
+          "name": "Time Travel",
+          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 63433,
+      "url": "https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1764/155312.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1764/155312.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/CSqd-iXcFVg?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Daikenja Riddle no Jikan Gyakkou"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Regression of Great Sage Riddle"
+        },
+        {
+          "type": "Japanese",
+          "title": "大賢者リドルの時間逆行"
+        }
+      ],
+      "title": "Daikenja Riddle no Jikan Gyakkou",
+      "title_english": null,
+      "title_japanese": "大賢者リドルの時間逆行",
+      "title_synonyms": [
+        "The Regression of Great Sage Riddle"
+      ],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 1, 2026 to ?"
+      },
+      "duration": "5 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 4.9,
+      "scored_by": 426,
+      "rank": 14368,
+      "popularity": 8130,
+      "members": 7512,
+      "favorites": 19,
+      "synopsis": "A young man named Riddle had lost all of his friends—and the entire world—at the hands of a mysterious organization known as the \"Box of Malice.\" Having lost all hope to live, he dwelled in a pit of despair until he has one final revelation. What if... he could return to a time before everything ended? And so, after a thousand years, a deformed Riddle finally manages to reverse time. \"I'm going to stop them this time...!\" Equipped with a thousand years of knowledge and experience in his young body, the Great Sage Riddle's journey to the past now unfolds!\n\n(Source: Shogakukan, translated)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "21:55",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 21:55 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 1430,
+          "type": "anime",
+          "name": "Shogakukan",
+          "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        },
+        {
+          "mal_id": 3307,
+          "type": "anime",
+          "name": "Tatooine Sound",
+          "url": "https://myanimelist.net/anime/producer/3307/Tatooine_Sound"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2844,
+          "type": "anime",
+          "name": "Imagica Infos",
+          "url": "https://myanimelist.net/anime/producer/2844/Imagica_Infos"
+        },
+        {
+          "mal_id": 2983,
+          "type": "anime",
+          "name": "Imageworks Studio",
+          "url": "https://myanimelist.net/anime/producer/2983/Imageworks_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 78,
+          "type": "anime",
+          "name": "Time Travel",
+          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 53732,
+      "url": "https://myanimelist.net/anime/53732/Hidarikiki_no_Eren",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1015/156388.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1015/156388t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1015/156388l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1015/156388.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1015/156388t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1015/156388l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/EsQudPqDOQQ?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Hidarikiki no Eren"
+        },
+        {
+          "type": "Japanese",
+          "title": "左ききのエレン"
+        },
+        {
+          "type": "English",
+          "title": "Eren the Southpaw"
+        }
+      ],
+      "title": "Hidarikiki no Eren",
+      "title_english": "Eren the Southpaw",
+      "title_japanese": "左ききのエレン",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 8, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": null,
+      "score": null,
+      "scored_by": null,
+      "rank": 17044,
+      "popularity": 7184,
+      "members": 10281,
+      "favorites": 10,
+      "synopsis": "The story follows Koichi Asakura, a designer for an ad agency who works hard but receives no recognition. After being dropped from a project, he visits a place from his past, where he met Eren Yamagishi. Eren, meanwhile, is recognized as a genius left-handed graffiti artist in New York, while enduring the struggles that come from her own path in life.\n\n(Source: Crunchyroll)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 00:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 470,
+          "type": "anime",
+          "name": "GAGA",
+          "url": "https://myanimelist.net/anime/producer/470/GAGA"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Production I.G",
+          "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+          "mal_id": 1278,
+          "type": "anime",
+          "name": "Signal.MD",
+          "url": "https://myanimelist.net/anime/producer/1278/SignalMD"
         }
       ],
       "genres": [
@@ -375,33 +641,46 @@
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 38,
+          "mal_id": 50,
           "type": "anime",
-          "name": "Military",
-          "url": "https://myanimelist.net/anime/genre/38/Military"
+          "name": "Adult Cast",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+          "mal_id": 80,
+          "type": "anime",
+          "name": "Visual Arts",
+          "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
         }
       ],
-      "demographics": []
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
     },
     {
-      "mal_id": 62331,
-      "url": "https://myanimelist.net/anime/62331/Liar_Game",
+      "mal_id": 62512,
+      "url": "https://myanimelist.net/anime/62512/Jidou_Hanbaiki_ni_Umarekawatta_Ore_wa_Meikyuu_wo_Samayou_3rd_Season",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1607/156078.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1607/156078t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1607/156078l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1153/156029.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1153/156029t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1153/156029l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1607/156078.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1607/156078t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1607/156078l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1153/156029.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1153/156029t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1153/156029l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/v7P3Asx1VNU?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/pxeYbPg5JIA?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -414,32 +693,48 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Liar Game"
+          "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "I Was Reborn as a Vending Machine"
+        },
+        {
+          "type": "Synonym",
+          "title": "Wandering in the Dungeon"
+        },
+        {
+          "type": "Synonym",
+          "title": "I Reincarnated Into a Vending Machine"
         },
         {
           "type": "Japanese",
-          "title": "LIAR GAME"
+          "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期"
         },
         {
           "type": "English",
-          "title": "Liar Game"
+          "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
         }
       ],
-      "title": "Liar Game",
-      "title_english": "Liar Game",
-      "title_japanese": "LIAR GAME",
-      "title_synonyms": [],
+      "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "title_english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
+      "title_japanese": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
+      "title_synonyms": [
+        "I Was Reborn as a Vending Machine",
+        "Wandering in the Dungeon",
+        "I Reincarnated Into a Vending Machine"
+      ],
       "type": "TV",
-      "source": "Manga",
+      "source": "Light novel",
       "episodes": null,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2026-04-07T00:00:00+00:00",
+        "from": "2026-04-01T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 7,
+            "day": 1,
             "month": 4,
             "year": 2026
           },
@@ -449,41 +744,481 @@
             "year": null
           }
         },
-        "string": "Apr 7, 2026 to ?"
+        "string": "Apr 1, 2026 to ?"
       },
       "duration": "23 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 7.06,
-      "scored_by": 1163,
-      "rank": 4524,
-      "popularity": 3932,
-      "members": 42389,
-      "favorites": 131,
-      "synopsis": "College student Nao Kanzaki has always adhered to her name's meaning: \"foolishly honest.\" However, after opening an unsolicited package containing one hundred million yen, she inadvertently accepts an invitation for the \"Liar Game.\" In this tournament, contestants are encouraged to betray and deceive their opponents to gain a massive amount of cash; conversely, losing will incur a lifetime debt. With all hopes lost, her only option left is to seek help from a con artist.\n\nOn that same day, the infamous swindler Shinichi Akiyama is finally released from jail. This former psychology student is known for single-handedly bankrupting an entire company, and Nao believes he is her only chance at escaping her dire situation. At first, Shinichi is hesitant to commit another crime, ignoring Nao and her request. But after seeing her desperation and persistence, he agrees to assist her.\n\nIn this fraudulent world, Nao and Shinichi have their own motives. Yet, soon they see the true nature of not only the game, but also everyone involved.\n\n[Written by MAL Rewrite]",
+      "score": 6.77,
+      "scored_by": 1137,
+      "rank": 6133,
+      "popularity": 5518,
+      "members": 19819,
+      "favorites": 13,
+      "synopsis": "The third season of Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.",
       "background": "",
       "season": "spring",
       "year": 2026,
       "broadcast": {
-        "day": "Tuesdays",
-        "time": "00:00",
+        "day": "Wednesdays",
+        "time": "22:00",
         "timezone": "Asia/Tokyo",
-        "string": "Tuesdays at 00:00 (JST)"
+        "string": "Wednesdays at 22:00 (JST)"
       },
       "producers": [
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "VAP",
+          "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+          "mal_id": 1003,
+          "type": "anime",
+          "name": "Nippon Television Network",
+          "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+          "mal_id": 1334,
+          "type": "anime",
+          "name": "Docomo Anime Store",
+          "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+          "mal_id": 1418,
+          "type": "anime",
+          "name": "Nippon Television Music",
+          "url": "https://myanimelist.net/anime/producer/1418/Nippon_Television_Music"
+        },
+        {
+          "mal_id": 1492,
+          "type": "anime",
+          "name": "Yomiuri TV Enterprise",
+          "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+        },
+        {
+          "mal_id": 1680,
+          "type": "anime",
+          "name": "BS NTV",
+          "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+        },
         {
           "mal_id": 2074,
           "type": "anime",
           "name": "Bit grooove promotion",
           "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+        },
+        {
+          "mal_id": 2789,
+          "type": "anime",
+          "name": "NTV Wands",
+          "url": "https://myanimelist.net/anime/producer/2789/NTV_Wands"
+        },
+        {
+          "mal_id": 3063,
+          "type": "anime",
+          "name": "Anici",
+          "url": "https://myanimelist.net/anime/producer/3063/Anici"
         }
       ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 11,
+          "mal_id": 418,
           "type": "anime",
-          "name": "Madhouse",
-          "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+          "name": "Studio Gokumi",
+          "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+        },
+        {
+          "mal_id": 1299,
+          "type": "anime",
+          "name": "AXsiZ",
+          "url": "https://myanimelist.net/anime/producer/1299/AXsiZ"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 72,
+          "type": "anime",
+          "name": "Reincarnation",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 61831,
+      "url": "https://myanimelist.net/anime/61831/Saikyou_no_Ousama_Nidome_no_Jinsei_wa_Nani_wo_Suru_Season_2",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1738/156028.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1738/156028t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1738/156028l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1738/156028.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1738/156028t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1738/156028l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/S8DeCkX0HeM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2"
+        },
+        {
+          "type": "Synonym",
+          "title": "TBATE"
+        },
+        {
+          "type": "Japanese",
+          "title": "最強の王様、二度目の人生は何をする? Season2"
+        },
+        {
+          "type": "English",
+          "title": "The Beginning After the End Season 2"
+        }
+      ],
+      "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "title_english": "The Beginning After the End Season 2",
+      "title_japanese": "最強の王様、二度目の人生は何をする? Season2",
+      "title_synonyms": [
+        "TBATE"
+      ],
+      "type": "TV",
+      "source": "Other",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 1, 2026 to ?"
+      },
+      "duration": "22 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.13,
+      "scored_by": 3146,
+      "rank": 10108,
+      "popularity": 3684,
+      "members": 47477,
+      "favorites": 114,
+      "synopsis": "Second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
+      "background": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 aired on Fuji TV's +Ultra block.",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "23:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 23:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 169,
+          "type": "anime",
+          "name": "Fuji TV",
+          "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 460,
+          "type": "anime",
+          "name": "KlockWorx",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 735,
+          "type": "anime",
+          "name": "Slow Curve",
+          "url": "https://myanimelist.net/anime/producer/735/Slow_Curve"
+        },
+        {
+          "mal_id": 769,
+          "type": "anime",
+          "name": "Fujipacific Music",
+          "url": "https://myanimelist.net/anime/producer/769/Fujipacific_Music"
+        },
+        {
+          "mal_id": 1412,
+          "type": "anime",
+          "name": "Kansai TV",
+          "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+        },
+        {
+          "mal_id": 1414,
+          "type": "anime",
+          "name": "bilibili",
+          "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+        },
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1563,
+          "type": "anime",
+          "name": "Hakuhodo",
+          "url": "https://myanimelist.net/anime/producer/1563/Hakuhodo"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1209,
+          "type": "anime",
+          "name": "Studio A-CAT",
+          "url": "https://myanimelist.net/anime/producer/1209/Studio_A-CAT"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 72,
+          "type": "anime",
+          "name": "Reincarnation",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 59708,
+      "url": "https://myanimelist.net/anime/59708/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_4th_Season__2-nensei-hen_1_Gakki",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1176/153626.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1176/153626t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1176/153626l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1176/153626.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1176/153626t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1176/153626l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/QtIvKG8q5iM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki"
+        },
+        {
+          "type": "Synonym",
+          "title": "Welcome to the Classroom of the Elite"
+        },
+        {
+          "type": "Synonym",
+          "title": "You-jitsu 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Classroom of the Elite IV: Year 2"
+        },
+        {
+          "type": "Japanese",
+          "title": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期"
+        },
+        {
+          "type": "English",
+          "title": "Classroom of the Elite 4th Season: Second Year, First Semester"
+        }
+      ],
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "title_english": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "title_japanese": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+      "title_synonyms": [
+        "Welcome to the Classroom of the Elite",
+        "You-jitsu 4th Season",
+        "Classroom of the Elite IV: Year 2"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 16,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 1, 2026 to ?"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.26,
+      "scored_by": 9477,
+      "rank": 355,
+      "popularity": 1740,
+      "members": 152360,
+      "favorites": 898,
+      "synopsis": "As Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they're greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They'll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?\n\n(Source: Crunchyroll)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "21:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 21:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 101,
+          "type": "anime",
+          "name": "Studio Hibari",
+          "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+        },
+        {
+          "mal_id": 104,
+          "type": "anime",
+          "name": "Lantis",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 213,
+          "type": "anime",
+          "name": "Half H.P Studio",
+          "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        },
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 1345,
+          "type": "anime",
+          "name": "Sammy",
+          "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        },
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1680,
+          "type": "anime",
+          "name": "BS NTV",
+          "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+        },
+        {
+          "mal_id": 2425,
+          "type": "anime",
+          "name": "Bandai Namco Music Live",
+          "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 456,
+          "type": "anime",
+          "name": "Lerche",
+          "url": "https://myanimelist.net/anime/producer/456/Lerche"
         }
       ],
       "genres": [
@@ -503,32 +1238,19 @@
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 59,
-          "type": "anime",
-          "name": "High Stakes Game",
-          "url": "https://myanimelist.net/anime/genre/59/High_Stakes_Game"
-        },
-        {
           "mal_id": 40,
           "type": "anime",
           "name": "Psychological",
           "url": "https://myanimelist.net/anime/genre/40/Psychological"
         },
         {
-          "mal_id": 11,
+          "mal_id": 23,
           "type": "anime",
-          "name": "Strategy Game",
-          "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
         }
       ],
-      "demographics": [
-        {
-          "mal_id": 42,
-          "type": "anime",
-          "name": "Seinen",
-          "url": "https://myanimelist.net/anime/genre/42/Seinen"
-        }
-      ]
+      "demographics": []
     }
   ]
 }
