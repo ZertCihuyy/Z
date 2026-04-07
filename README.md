@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.25.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.05.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E09.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e09-multi-audio.n2095333) • [🐱 Nyaa](https://nyaa.si/?q=PTJ6WZ2MQRNC7O6T4XBBJNM337LT64MT) |
+| `Ponyo (2008) 崖の上のポニョ [12-bit 4:2:0 Decrypted MGVC BD ISO]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ponyo-2008-12-bit-4-2-0-decrypted.n2095330) • [🐱 Nyaa](https://nyaa.si/?q=SA5KBF3CICAJOMGR3X67WBXI6HXT5PGI) |
+| `[BlackRabbit] High School D×D (2012) - S00 v2 [Bluray-108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-high-school-dd-2012-s00-v2-bluray.k10216436147456) • [🐱 Nyaa](https://nyaa.si/?q=D3KGLFWVUOH4UBLUZ44EGP32KG4VL67R) |
+| `[Erai-raws] Hidarikiki no Eren - 01 [1080p CR WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-01-1080p-cr.n2095329) • [🐱 Nyaa](https://nyaa.si/?q=RV2XK5Q6XFICSJNPFFWIL5LXPMVP7DS3) |
 | `[Freehold] Chained Soldier S02E04 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e04-repack2-adn-web-dl.n2095328) • [🐱 Nyaa](https://nyaa.si/?q=D2EM3EZCZODW3PH3F646JCLVRIWOULYL) |
 | `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2095327) • [🐱 Nyaa](https://nyaa.si/?q=XWID5XRPBCEHOJ43FO3ZY52FLR6GPPY6) |
 | `[Erai-raws] Tadaima Ojamasaremasu - 01 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-01-1080p-cr-webrip.n2095317) • [🐱 Nyaa](https://nyaa.si/?q=YTM3YU46URC356KGZFVRSHJTFMWIQCKH) |
@@ -39,10 +43,6 @@
 | `[Feibanyama] Wistoria Wand and Sword S02E00 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e00-bilibili-webrip-2160p.n2095300) • [🐱 Nyaa](https://nyaa.si/?q=VRQLQ5GUIY7QPS3MQGHEPZSDKXV7YAGH) |
 | `[Onalrie] Yuusha no Rokkotsu de - S01E01 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-rokkotsu-de-s01e01-1080p-webrip-av1-mkv.2072646) • [🐱 Nyaa](https://nyaa.si/?q=RCGKCGPK74QGWUZXUFGSONHW6ZANHTV2) |
 | `[ASW] Yuusha no Rokkotsu de - 01 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-rokkotsu-de-01-1080p-hevc.n2095290) • [🐱 Nyaa](https://nyaa.si/?q=CXNC6Q53J2LX42TVMBX3EFOX2QG733TC) |
-| `[Erai-raws] Replica datte Koi wo Suru - 01 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-replica-datte-koi-wo-suru-01.n2095287) • [🐱 Nyaa](https://nyaa.si/?q=F7B3YMVQCIO3ANRMF7QTBNLKBPHUGO2R) |
-| `[ASW] Tadaima, Ojamasaremasu! - 01 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tadaima-ojamasaremasu-01-1080p-hevc-x265-10bit-aac.n2095286) • [🐱 Nyaa](https://nyaa.si/?q=V53HVAYCYJBXWBCL72743PRMJQEEMOYI) |
-| `[Ironclad] The Most Heretical Last Boss Queen: From Villa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-most-heretical-last-boss-queen-from-villainess.k10213663945226) • [🐱 Nyaa](https://nyaa.si/?q=U4C3HH7LDJGZRBVDIPM346PA4ADOPG7T) |
-| `[BlackRabbit] Outbreak Company (2013) - S01 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-outbreak-company-2013-s01-bluray-1080p-opus.k10213645982473) • [🐱 Nyaa](https://nyaa.si/?q=QFCN35P2IMRAQ7MVJUWLXYOJZCIDI6D4) |
 
 ---
 <div align="center">
