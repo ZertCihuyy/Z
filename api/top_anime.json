@@ -1,5 +1,5 @@
 {
-  "last_update": "7/4/2026, 07.00.44",
+  "last_update": "7/4/2026, 10.31.54",
   "data": [
     {
       "mal_id": 61469,
@@ -88,11 +88,11 @@
       "duration": "47 min",
       "rating": "R - 17+ (violence & profanity)",
       "score": 9.17,
-      "scored_by": 81761,
+      "scored_by": 82288,
       "rank": 2,
-      "popularity": 1496,
-      "members": 183155,
-      "favorites": 5958,
+      "popularity": 1488,
+      "members": 184152,
+      "favorites": 5980,
       "synopsis": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\n\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\n\n[Written by MAL Rewrite]",
       "background": "",
       "season": null,
@@ -185,6 +185,152 @@
           "type": "anime",
           "name": "Shounen",
           "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 51553,
+      "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1726/155542.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1726/155542.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tongari Boushi no Atelier"
+        },
+        {
+          "type": "Synonym",
+          "title": "Atelier of Witch Hat"
+        },
+        {
+          "type": "Japanese",
+          "title": "とんがり帽子のアトリエ"
+        },
+        {
+          "type": "English",
+          "title": "Witch Hat Atelier"
+        }
+      ],
+      "title": "Tongari Boushi no Atelier",
+      "title_english": "Witch Hat Atelier",
+      "title_japanese": "とんがり帽子のアトリエ",
+      "title_synonyms": [
+        "Atelier of Witch Hat"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 6, 2026 to ?"
+      },
+      "duration": "23 min per ep",
+      "rating": null,
+      "score": 8.79,
+      "scored_by": 4265,
+      "rank": 40,
+      "popularity": 1977,
+      "members": 130043,
+      "favorites": 841,
+      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 23:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 1284,
+          "type": "anime",
+          "name": "Avex Pictures",
+          "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+          "mal_id": 1747,
+          "type": "anime",
+          "name": "Twin Engine",
+          "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+        },
+        {
+          "mal_id": 1856,
+          "type": "anime",
+          "name": "dugout",
+          "url": "https://myanimelist.net/anime/producer/1856/dugout"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2674,
+          "type": "anime",
+          "name": "BUG FILMS",
+          "url": "https://myanimelist.net/anime/producer/2674/BUG_FILMS"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
         }
       ]
     },
@@ -1315,157 +1461,11 @@
       "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.33,
-      "scored_by": 4904,
-      "rank": 288,
-      "popularity": 2332,
-      "members": 103208,
-      "favorites": 245,
-      "synopsis": "Third part of Dr. Stone: Science Future.",
-      "background": "",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Thursdays",
-        "time": "22:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 22:00 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 306,
-          "type": "anime",
-          "name": "Magic Capsule",
-          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
-        },
-        {
-          "mal_id": 1143,
-          "type": "anime",
-          "name": "TOHO animation",
-          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
-        },
-        {
-          "mal_id": 1365,
-          "type": "anime",
-          "name": "Shueisha",
-          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 73,
-          "type": "anime",
-          "name": "TMS Entertainment",
-          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ]
-    },
-    {
-      "mal_id": 62568,
-      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Dr. Stone: Science Future Part 3"
-        },
-        {
-          "type": "Synonym",
-          "title": "Dr. Stone 4th Season Part 3"
-        },
-        {
-          "type": "Japanese",
-          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
-        },
-        {
-          "type": "English",
-          "title": "Dr. Stone: Science Future Part 3"
-        }
-      ],
-      "title": "Dr. Stone: Science Future Part 3",
-      "title_english": "Dr. Stone: Science Future Part 3",
-      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
-      "title_synonyms": [
-        "Dr. Stone 4th Season Part 3"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-02T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 2,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 2, 2026 to ?"
-      },
-      "duration": "24 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.33,
-      "scored_by": 4904,
-      "rank": 288,
-      "popularity": 2332,
-      "members": 103208,
-      "favorites": 245,
+      "scored_by": 5397,
+      "rank": 289,
+      "popularity": 2295,
+      "members": 105490,
+      "favorites": 248,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
