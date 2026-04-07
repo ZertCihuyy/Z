@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.22.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.00.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -21,6 +21,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Chika] Witch Hat Atelier - S01E02 (1080p WEB-DL H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chika-witch-hat-atelier-s01e02-1080p-web-dl.k10196024325382) • [🐱 Nyaa](https://nyaa.si/?q=FUQYJU5WPL2MOSMWK3NNF3NVENQGLDFU) |
+| `[Chika] Witch Hat Atelier - S01E01 (1080p WEB-DL H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chika-witch-hat-atelier-s01e01-1080p-web-dl.k10195970013698) • [🐱 Nyaa](https://nyaa.si/?q=GPDA2YRFSUGP274RPUERHREE5FOJAGSP) |
 | `Kunon the Sorcerer Can See S01 1080p CR WEB-DL AAC2.0 H 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kunon-sorcerer-see-s01-1080p-cr-web-dl.n2094980) • [🐱 Nyaa](https://nyaa.si/?q=PP3UJXO4QYDUF5F3LOFKBYV6FD75XLW7) |
 | `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2094979) • [🐱 Nyaa](https://nyaa.si/?q=VRJLMITXE5B6UFZILLW6UC7OMTDGJJDJ) |
 | `Oedo Fire Slayer The Legend of Phoenix S01 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oedo-fire-slayer-legend-phoenix-s01-1080p-cr.n2094978) • [🐱 Nyaa](https://nyaa.si/?q=VVPWQ4T763XGZZLPKXTHCNCBWV2HBWNG) |
@@ -34,8 +36,6 @@
 | `[HatSubs] One Piece 1156 (WEB 1080p) [CB46E567].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-1156-web-1080p-cb46e567-mkv.n2094968) • [🐱 Nyaa](https://nyaa.si/?q=GBJBELE764RELTTDZ6EH5AFE3ARDLQXZ) |
 | `[Onalrie] Release that Witch - S01E06 Rev. 2 [1080p WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-release-witch-s01e06-rev-2-1080p-webrip-av1-mkv.2072473) • [🐱 Nyaa](https://nyaa.si/?q=RCYH33M24VJICSN3LYI7EKGBBLMYQBEJ) |
 | `[ASW] Release that Witch - 06v2 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-release-witch-06v2-1080p-hevc-x265-10bit-aac.n2094966) • [🐱 Nyaa](https://nyaa.si/?q=SDP6WRNKVM33DWR77366GLJR3K6BQXVS) |
-| `Witch Hat Atelier S01E02 1080p NF WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/witch-hat-atelier-s01e02-1080p-nf-web-dl.n2094965) • [🐱 Nyaa](https://nyaa.si/?q=RYMGTS2EUF4REU46LIXWQRG7WFRH5UER) |
-| `Witch Hat Atelier S01E01 1080p NF WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/witch-hat-atelier-s01e01-1080p-nf-web-dl.n2094964) • [🐱 Nyaa](https://nyaa.si/?q=5YV76EYASVER77QTHWSSJVAELBX4XUS6) |
 
 ---
 <div align="center">
