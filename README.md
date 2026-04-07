@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.05.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.59.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[RABBIT] Food for the Soul Season 1 (BD Remux 1080p x264 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rabbit-food-soul-season-1-bd-remux-1080p.n2095337) • [🐱 Nyaa](https://nyaa.si/?q=47ITEU5XFUNO2ETLN6C5FZPF67BY2PQK) |
 | `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E09.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e09-multi-audio.n2095333) • [🐱 Nyaa](https://nyaa.si/?q=PTJ6WZ2MQRNC7O6T4XBBJNM337LT64MT) |
 | `Ponyo (2008) 崖の上のポニョ [12-bit 4:2:0 Decrypted MGVC BD ISO]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ponyo-2008-12-bit-4-2-0-decrypted.n2095330) • [🐱 Nyaa](https://nyaa.si/?q=SA5KBF3CICAJOMGR3X67WBXI6HXT5PGI) |
 | `[BlackRabbit] High School D×D (2012) - S00 v2 [Bluray-108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-high-school-dd-2012-s00-v2-bluray.k10216436147456) • [🐱 Nyaa](https://nyaa.si/?q=D3KGLFWVUOH4UBLUZ44EGP32KG4VL67R) |
@@ -42,7 +43,6 @@
 | `[Judas] Higeki no Genkyou to Naru Saikyou Gedou Last Boss...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-higeki-no-genkyou-naru-saikyou-gedou-last.n2095303) • [🐱 Nyaa](https://nyaa.si/?q=7Y6Y5BXYWORBS2UKPV7MRB6KAXHICPY4) |
 | `[Feibanyama] Wistoria Wand and Sword S02E00 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e00-bilibili-webrip-2160p.n2095300) • [🐱 Nyaa](https://nyaa.si/?q=VRQLQ5GUIY7QPS3MQGHEPZSDKXV7YAGH) |
 | `[Onalrie] Yuusha no Rokkotsu de - S01E01 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-rokkotsu-de-s01e01-1080p-webrip-av1-mkv.2072646) • [🐱 Nyaa](https://nyaa.si/?q=RCGKCGPK74QGWUZXUFGSONHW6ZANHTV2) |
-| `[ASW] Yuusha no Rokkotsu de - 01 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-rokkotsu-de-01-1080p-hevc.n2095290) • [🐱 Nyaa](https://nyaa.si/?q=CXNC6Q53J2LX42TVMBX3EFOX2QG733TC) |
 
 ---
 <div align="center">
