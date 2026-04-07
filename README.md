@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.26.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.25.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Freehold] Chained Soldier S02E04 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e04-repack2-adn-web-dl.n2095328) • [🐱 Nyaa](https://nyaa.si/?q=D2EM3EZCZODW3PH3F646JCLVRIWOULYL) |
+| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2095327) • [🐱 Nyaa](https://nyaa.si/?q=XWID5XRPBCEHOJ43FO3ZY52FLR6GPPY6) |
+| `[Erai-raws] Tadaima Ojamasaremasu - 01 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-01-1080p-cr-webrip.n2095317) • [🐱 Nyaa](https://nyaa.si/?q=YTM3YU46URC356KGZFVRSHJTFMWIQCKH) |
 | `Chained Soldier S02E04 1080p AMZN WEB-DL DUAL DDP2.0 H 26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e04-1080p-amzn-web-dl-dual.n2095315) • [🐱 Nyaa](https://nyaa.si/?q=EDA33RKGJEMAMHURIETNGTMYSWTXO2HE) |
 | `TOUGEN ANKI S01 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tougen-anki-s01-1080p-cr-web-dl-dual.n2095314) • [🐱 Nyaa](https://nyaa.si/?q=DV7RSRWCBKCRUXVO3UIDXHSL2Y7ZPDUM) |
 | `[BlackRabbit] Le Portrait de Petit Cossette (2004) - S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-le-portrait-de-petit-cossette-2004-s01.k10214663353350) • [🐱 Nyaa](https://nyaa.si/?q=6W2HVC7QPBZFYPEY2XRAWPNRDJBU2J2K) |
@@ -40,9 +43,6 @@
 | `[ASW] Tadaima, Ojamasaremasu! - 01 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tadaima-ojamasaremasu-01-1080p-hevc-x265-10bit-aac.n2095286) • [🐱 Nyaa](https://nyaa.si/?q=V53HVAYCYJBXWBCL72743PRMJQEEMOYI) |
 | `[Ironclad] The Most Heretical Last Boss Queen: From Villa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-most-heretical-last-boss-queen-from-villainess.k10213663945226) • [🐱 Nyaa](https://nyaa.si/?q=U4C3HH7LDJGZRBVDIPM346PA4ADOPG7T) |
 | `[BlackRabbit] Outbreak Company (2013) - S01 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-outbreak-company-2013-s01-bluray-1080p-opus.k10213645982473) • [🐱 Nyaa](https://nyaa.si/?q=QFCN35P2IMRAQ7MVJUWLXYOJZCIDI6D4) |
-| `To.Love-Ru.S00.1080p.BluRay.FLAC.2.0.x264-Kitsune` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/love-ru-s00-1080p-bluray-flac-2-0-x264-kitsune.n2095283) • [🐱 Nyaa](https://nyaa.si/?q=HEMWVE5U3KMSKZHVLKDCUB7FMSETJ3ZM) |
-| `[Onalrie] Tadaima, Ojamasaremasu! - S01E01 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tadaima-ojamasaremasu-s01e01-1080p-webrip-av1-mkv.2072643) • [🐱 Nyaa](https://nyaa.si/?q=M3R73YPGYYR2QDDB56VNIMD6OMKAJIB4) |
-| `[ToonsHub] My Ribdiculous Reincarnation S01E01 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-my-ribdiculous-reincarnation-s01e01-1080p-cr-web.k10213313399553) • [🐱 Nyaa](https://nyaa.si/?q=LXMDYYBRYGRXTF2DWVHFGPHPRVULMO4B) |
 
 ---
 <div align="center">
