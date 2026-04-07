@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.16.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.45.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -22,6 +22,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Trix] PonSuka S01E01 [WEBRip 1080p AV1 Opus] (Multi Subs...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-ponsuka-s01e01-webrip-1080p-av1-opus-multi.n2095034) • [🐱 Nyaa](https://nyaa.si/?q=XOHARFNWIBGMF5MDZOO2OV4OUSGYMYM2) |
+| `[crane0922] Food Wars! Season 2 (BD 1080p HEVC Opus) [Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-food-wars-season-2-bd-1080p-hevc.k10204768726796) • [🐱 Nyaa](https://nyaa.si/?q=7FNKL6LKI36VQTJXHKDSDGNGAH35VJFV) |
 | `[AK4NE] Classroom of the Elite - S04 E01-E04 (E39-E42) (W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-s04-e01-e04-e39-e42.k10202734771979) • [🐱 Nyaa](https://nyaa.si/?q=YLDAEZGRCQ5ESODQY36QGUMZEC3GANEB) |
 | `Medalist S02E08 Hot Passion 1080p DSNP WEB-DL DUAL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/medalist-s02e08-hot-passion-1080p-dsnp-web-dl.n2095017) • [🐱 Nyaa](https://nyaa.si/?q=Z3T4LPYL6Q7RDLAA3N2HBX2OBE6KAWGX) |
 | `LUPIN THE IIIRD The Movie The Immortal Bloodline (2025) 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-movie-immortal-bloodline-2025-1080p-bd-en-ja.n2095009) • [🐱 Nyaa](https://nyaa.si/?q=ZF2K4A54T36GFVZE5TP2OFZNS56TN7LL) |
@@ -35,8 +37,6 @@
 | `Tamons B side S01 1080p CR WEB-DL AAC2.0 H 264-VARYG (Tam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tamons-b-side-s01-1080p-cr-web-dl.n2094975) • [🐱 Nyaa](https://nyaa.si/?q=A6XVY2HIFC4EEXYLL2LI2WT5KM5P4MRQ) |
 | `The Casebook of Arne S01 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/casebook-arne-s01-1080p-cr-web-dl-aac2.n2094974) • [🐱 Nyaa](https://nyaa.si/?q=EZ77B66ZTYDP4JFUZG37VJNFIBZ6SBNI) |
 | `The Daily Life of a Part Time Torturer S01 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/daily-life-part-time-torturer-s01-1080p-cr.n2094973) • [🐱 Nyaa](https://nyaa.si/?q=DEB4LZXTPNZSLWQMC4OE7CRCS774MT6G) |
-| `The Holy Grail of Eris S01 1080p CR WEB-DL AAC2.0 H 264-V...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/holy-grail-eris-s01-1080p-cr-web-dl.n2094972) • [🐱 Nyaa](https://nyaa.si/?q=DSPNM7QKRTNUAVSW75F3EFQJF6RNXFGW) |
-| `The Invisible Man and His Soon to Be Wife S01 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/invisible-man-his-soon-wife-s01-1080p-cr.n2094971) • [🐱 Nyaa](https://nyaa.si/?q=33FII6VSA4H77DCRZGZPFA4CUVP5675U) |
 
 ---
 <div align="center">
