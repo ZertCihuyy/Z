@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.09.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.33.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Yameii] Tune In to the Midnight Heart - S01E12 [English ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-tune-midnight-heart-s01e12-english-dub-cr.n2095270) • [🐱 Nyaa](https://nyaa.si/?q=WXUJ2BKI75APBO5FCN2PXZ53YKDSOKHF) |
-| `[WakuTomete] Princess Session Orchestra - 48 (WEB 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wakutomete-princess-session-orchestra-48-web-1080p-avc.k10213122441741) • [🐱 Nyaa](https://nyaa.si/?q=RZZLYO24Z66RBKC7J23KY6AA43D522AZ) |
-| `Noble Reincarnation Born Blessed So Ill Obtain Ultimate P...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/noble-reincarnation-born-blessed-ill-obtain-ultimate-power.n2095266) • [🐱 Nyaa](https://nyaa.si/?q=NLB54QRBJTKBE5ZJDBWQNBFQ5Y3L3OUE) |
-| `There was a Cute Girl in the Heros Party so I Tried Confe...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cute-girl-heros-party-tried-confessing-her-s01.n2095265) • [🐱 Nyaa](https://nyaa.si/?q=6UU4325AFABSFT5KMBK2MFLCUQZ7P5T7) |
-| `Pardon the Intrusion Im Home S01E01 Pardon the Intrusion ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pardon-intrusion-im-home-s01e01-youre-my-1080p.n2095264) • [🐱 Nyaa](https://nyaa.si/?q=HLMMDIZBE6EHJGOG6WE37FQM3ZNZEXQZ) |
-| `[ToonsHub] Pardon the Intrusion Im Home S01E01 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-pardon-intrusion-im-home-s01e01-1080p-cr.k10212863564299) • [🐱 Nyaa](https://nyaa.si/?q=SXMZC3QAT4UDE5GIB3GXGRGPXCC3NMZZ) |
-| `[SubsPlease] Tadaima, Ojamasaremasu! - 01 (1080p) [CF94A9...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tadaima-ojamasaremasu-01-1080p-cf94a998-mkv.n2095262) • [🐱 Nyaa](https://nyaa.si/?q=RFBLY2U6IBQB2RL425DEVFPZ5FWIOCZW) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 01 [480p CR WEB-DL AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-01-480p-cr-web.n2095261) • [🐱 Nyaa](https://nyaa.si/?q=X3MMTQQACNNF5U2V4DIT5KCYICSDSXB5) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 01 [720p CR WEB-DL AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-01-720p-cr-web.n2095260) • [🐱 Nyaa](https://nyaa.si/?q=XW324U5WIHK7FKQAFEQS3BHKWJQ4ZQV6) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 01 [1080p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-01-1080p-cr-web.n2095259) • [🐱 Nyaa](https://nyaa.si/?q=35KYHWKWHBJGZNBNTUAQCZOZWKS4C2QH) |
-| `[SubsPlease] Tadaima, Ojamasaremasu! - 01 (720p) [0D75D4D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tadaima-ojamasaremasu-01-720p-0d75d4d0-mkv.n2095257) • [🐱 Nyaa](https://nyaa.si/?q=LPAMLVR6RPT62GGY2MWCHTMO4FQVTGMG) |
-| `[SubsPlease] Tadaima, Ojamasaremasu! - 01 (480p) [6CC3256...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tadaima-ojamasaremasu-01-480p-6cc32561-mkv.n2095256) • [🐱 Nyaa](https://nyaa.si/?q=NQWLKZEWXOEFWBBJJJD5RYEV5PY2U5OA) |
-| `[Seigyoku] Mahou no Shimai LuluttoLilly - 01 (WEB 1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/seigyoku-mahou-no-shimai-luluttolilly-01-web-1080p.k10212775916299) • [🐱 Nyaa](https://nyaa.si/?q=WJRFQ7I3BONA434N47UANKPQIV43UYMR) |
-| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomoda...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-class-de-2-banme-ni-kawaii.n2095244) • [🐱 Nyaa](https://nyaa.si/?q=ZUENHFRHN7DZV3MFRHNKEBND53V6L42L) |
-| `[Judas] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-class-de-2-banme-ni-kawaii-onnanoko.n2095241) • [🐱 Nyaa](https://nyaa.si/?q=XHYJJ2EJQDFZJZZDF5TUUMHI7LIIAAHP) |
+| `[Feibanyama] Wistoria Wand and Sword S02E00 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e00-bilibili-webrip-2160p.n2095300) • [🐱 Nyaa](https://nyaa.si/?q=VRQLQ5GUIY7QPS3MQGHEPZSDKXV7YAGH) |
+| `[Onalrie] Yuusha no Rokkotsu de - S01E01 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-rokkotsu-de-s01e01-1080p-webrip-av1-mkv.2072646) • [🐱 Nyaa](https://nyaa.si/?q=RCGKCGPK74QGWUZXUFGSONHW6ZANHTV2) |
+| `[ASW] Yuusha no Rokkotsu de - 01 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-rokkotsu-de-01-1080p-hevc.n2095290) • [🐱 Nyaa](https://nyaa.si/?q=CXNC6Q53J2LX42TVMBX3EFOX2QG733TC) |
+| `[Erai-raws] Replica datte Koi wo Suru - 01 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-replica-datte-koi-wo-suru-01.n2095287) • [🐱 Nyaa](https://nyaa.si/?q=F7B3YMVQCIO3ANRMF7QTBNLKBPHUGO2R) |
+| `[ASW] Tadaima, Ojamasaremasu! - 01 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tadaima-ojamasaremasu-01-1080p-hevc-x265-10bit-aac.n2095286) • [🐱 Nyaa](https://nyaa.si/?q=V53HVAYCYJBXWBCL72743PRMJQEEMOYI) |
+| `[Ironclad] The Most Heretical Last Boss Queen: From Villa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-most-heretical-last-boss-queen-from-villainess.k10213663945226) • [🐱 Nyaa](https://nyaa.si/?q=U4C3HH7LDJGZRBVDIPM346PA4ADOPG7T) |
+| `[BlackRabbit] Outbreak Company (2013) - S01 [Bluray-1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-outbreak-company-2013-s01-bluray-1080p-opus.k10213645982473) • [🐱 Nyaa](https://nyaa.si/?q=QFCN35P2IMRAQ7MVJUWLXYOJZCIDI6D4) |
+| `To.Love-Ru.S00.1080p.BluRay.FLAC.2.0.x264-Kitsune` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/love-ru-s00-1080p-bluray-flac-2-0-x264-kitsune.n2095283) • [🐱 Nyaa](https://nyaa.si/?q=HEMWVE5U3KMSKZHVLKDCUB7FMSETJ3ZM) |
+| `[Onalrie] Tadaima, Ojamasaremasu! - S01E01 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tadaima-ojamasaremasu-s01e01-1080p-webrip-av1-mkv.2072643) • [🐱 Nyaa](https://nyaa.si/?q=M3R73YPGYYR2QDDB56VNIMD6OMKAJIB4) |
+| `[ToonsHub] My Ribdiculous Reincarnation S01E01 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-my-ribdiculous-reincarnation-s01e01-1080p-cr-web.k10213313399553) • [🐱 Nyaa](https://nyaa.si/?q=LXMDYYBRYGRXTF2DWVHFGPHPRVULMO4B) |
+| `[SubsPlease] Yuusha no Rokkotsu de - 01 (720p) [A4470058]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-rokkotsu-de-01-720p-a4470058-mkv.n2095280) • [🐱 Nyaa](https://nyaa.si/?q=CNPYL4GTZXWYTNNUZCGF4R4VAQZHNC2D) |
+| `[SubsPlease] Yuusha no Rokkotsu de - 01 (1080p) [542415CF...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-rokkotsu-de-01-1080p-542415cf-mkv.n2095279) • [🐱 Nyaa](https://nyaa.si/?q=L22DYJU5W463K5R6NBABWZYFOB3HZM57) |
+| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.n2095278) • [🐱 Nyaa](https://nyaa.si/?q=KW6GAKQNZTQAW6DNTKWDO2CEMIL2QS3N) |
+| `[SubsPlease] Yuusha no Rokkotsu de - 01 (480p) [A702F8BA]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-rokkotsu-de-01-480p-a702f8ba-mkv.n2095276) • [🐱 Nyaa](https://nyaa.si/?q=VLE2NS3QYAIKOOSWPUOQJA5XPMN53J7L) |
+| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.n2095277) • [🐱 Nyaa](https://nyaa.si/?q=SCXOGIRUZZR2XHQCBM5DJW35QLN44AOH) |
 
 ---
 <div align="center">
