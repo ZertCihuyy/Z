@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.03.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.02.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Anitsu] 86 Eighty Six S01 [BD 1080p x265 FLAC] [DUAL] [S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anitsu-86-eighty-six-s01-bd-1080p-x265.n2095423) • [🐱 Nyaa](https://nyaa.si/?q=VACXNASP6VOJV6FR2OUGSAFQT36ZOXYD) |
-| `Porco Rosso (1992) 紅の豚 [12-bit 4:2:0 Decrypted MGVC BD ISO]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/porco-rosso-1992-12-bit-4-2-0.n2095418) • [🐱 Nyaa](https://nyaa.si/?q=4XVKOXWZZAP77NHQO7AU5BCT2WKWDCM3) |
-| `[Gecko] Cat Tales - S01E26 (うごく！ねこむかしばなし; Ugoku! Neko Muk...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e26-ugoku-neko-mukashibanashi-ytb.n2095417) • [🐱 Nyaa](https://nyaa.si/?q=6XKC5FBYENJVBC4IJ24OVHTB5YDJQDGV) |
-| `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E10.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e10-multi-audio.n2095416) • [🐱 Nyaa](https://nyaa.si/?q=7TOJXWMOFUAZTXSAUFTG2OVGYUW7DEGB) |
-| `[ToonsHub] Cat Tales S01E26 1080p LNTV WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-cat-tales-s01e26-1080p-lntv-web-dl.n2095415) • [🐱 Nyaa](https://nyaa.si/?q=7NKA7MYWZ7N3YKNJND7VLUDBUWWVM4BU) |
-| `[BlackRabbit] Freezing (2011) - S02 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-freezing-2011-s02-bluray-1080p-opus-2.k10228063590156) • [🐱 Nyaa](https://nyaa.si/?q=JGKKRHOBYR7FX5A3WKB7YZBTA5XWGQ76) |
-| `[BlackRabbit] Freezing (2011) - S01 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-freezing-2011-s01-bluray-1080p-opus-2.k10228018846478) • [🐱 Nyaa](https://nyaa.si/?q=RA2Q3GSRWEZ4Y7M5JKDP2DKWDPO3C2IO) |
-| `[BlackRabbit] Vermeil in Gold (2022) - S01 [Bluray-1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-vermeil-gold-2022-s01-bluray-1080p-opus.k10227649549321) • [🐱 Nyaa](https://nyaa.si/?q=EHUUQOWYHPFFWPJTWQZR2MVZSRWVBRUQ) |
-| `[BlackRabbit] Sekirei (2008) - S00 [Bluray-720p][Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-sekirei-2008-s00-bluray-720p-opus-2.k10226655073799) • [🐱 Nyaa](https://nyaa.si/?q=TYITDDUZCKLLR4ATZMW3K7XI3CTGXDMJ) |
-| `[BlackRabbit] Sekirei (2008) - S02 [Bluray-1080p][Opus 2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-sekirei-2008-s02-bluray-1080p-opus-2.k10226609157893) • [🐱 Nyaa](https://nyaa.si/?q=RFWIHAYHRGPQW3FIWURGAVSGY7UIDRES) |
-| `[BlackRabbit] Sekirei (2008) - S01 [Bluray-720p][Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-sekirei-2008-s01-bluray-720p-opus-2.k10226557577736) • [🐱 Nyaa](https://nyaa.si/?q=SFQYVVTNOQZQRJW5TZ775QXNUCTR3KLP) |
-| `Macademi Wasshoi!.iso` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/macademi-wasshoi-iso.n2095395) • [🐱 Nyaa](https://nyaa.si/?q=WIVYOVNGVLA2R7LISJ5V4S5MDU6IXESN) |
-| `[BlackRabbit] Yamada-kun and the Seven Witches (2015) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamada-kun-seven-witches-2015-s00-dvd.k10226125283595) • [🐱 Nyaa](https://nyaa.si/?q=2FFGL5KV5IR2UBV7SFSRWQTTHL5EY2LW) |
-| `[BlackRabbit] Yamada-kun and the Seven Witches (2015) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamada-kun-seven-witches-2015-s01-bluray.k10226031073284) • [🐱 Nyaa](https://nyaa.si/?q=ODM7WTB4WGSIUXADWEWKYWCFEWGL44QI) |
-| `[BlackRabbit] Ladies Versus Butlers! (2010) - S00 [Bluray...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-ladies-versus-butlers-2010-s00-bluray-1080p.k10225646969098) • [🐱 Nyaa](https://nyaa.si/?q=55NOIHGCVPE25BSUWFSKBLDU5JWJOD27) |
+| `[ASW] Kanojo, Okarishimasu - 49 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kanojo-okarishimasu-49-1080p-hevc-x265-10bit-aac.n2095488) • [🐱 Nyaa](https://nyaa.si/?q=T6KFOYFVAV7RFEALMS56IUZFCSMBTG7S) |
+| `[denisplay] ROLL OVER AND DIE (Season 1) [1080p] [AV1] [b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-roll-over-die-season-1-1080p-av1.n2095484) • [🐱 Nyaa](https://nyaa.si/?q=LA57F6S7VAK4UIGF5F2W7QHHOGKIAVFP) |
+| `[denisplay] ROLL OVER AND DIE (Season 1) [720p] [AV1] [ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-roll-over-die-season-1-720p-av1.n2095483) • [🐱 Nyaa](https://nyaa.si/?q=DOLCLTQP6HC3NKWDR2Z5MFCK6FUGKPKF) |
+| `[denisplay] ROLL OVER AND DIE (Season 1) [480p] [AV1] [ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-roll-over-die-season-1-480p-av1.n2095482) • [🐱 Nyaa](https://nyaa.si/?q=YPI4WSY7VHFGHS5A7ZLHD2RKGFWYPS5S) |
+| `[denisplay] Yuusha Party wo Oidasareta Kiyou Binbou (Seas...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-yuusha-party-wo-oidasareta-kiyou-binbou-season.n2095481) • [🐱 Nyaa](https://nyaa.si/?q=NJD4TSVKTPSHYIAWFI6EX4SIBJCACPNZ) |
+| `[denisplay] Yuusha Party wo Oidasareta Kiyou Binbou (Seas...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-yuusha-party-wo-oidasareta-kiyou-binbou-season.n2095480) • [🐱 Nyaa](https://nyaa.si/?q=NG2SEVNK4KKDO5N4QGJK2BYV4I7CSYI5) |
+| `[denisplay] Yuusha Party wo Oidasareta Kiyou Binbou (Seas...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-yuusha-party-wo-oidasareta-kiyou-binbou-season.n2095479) • [🐱 Nyaa](https://nyaa.si/?q=NTPWLAG3FLZCUYM3NAC7UYBMVGM7A3ED) |
+| `[denisplay] Arne no Jikenbo (Season 1) [1080p] [AV1] [bat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-arne-no-jikenbo-season-1-1080p-av1.n2095478) • [🐱 Nyaa](https://nyaa.si/?q=JVGCD3J5RBWLVTFCY5MHK5KYZO73PX4Y) |
+| `[denisplay] Arne no Jikenbo (Season 1) [720p] [AV1] [batc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-arne-no-jikenbo-season-1-720p-av1.n2095477) • [🐱 Nyaa](https://nyaa.si/?q=RPYLXFVKUE3BFP4GP7VW7B7BDY4UBGNI) |
+| `[denisplay] Arne no Jikenbo (Season 1) [480p] [AV1] [batc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-arne-no-jikenbo-season-1-480p-av1.n2095475) • [🐱 Nyaa](https://nyaa.si/?q=NWMUQQEYKTA6PNGAF4VGPJKWUG5VPDID) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 01 [480p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-01-480p.n2095474) • [🐱 Nyaa](https://nyaa.si/?q=SVJT6SF4QBPAY5XKRVWCWFMHLABHLFWS) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 01 [720p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-01-720p.n2095473) • [🐱 Nyaa](https://nyaa.si/?q=43HHOCC2UU3BAHJ3NEGPILRRJCBILY5F) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 01 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-01-1080p.n2095472) • [🐱 Nyaa](https://nyaa.si/?q=NHKFBBSGZ74XDMXLZTED5QJ5DOPMVKKG) |
+| `[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.n2095470) • [🐱 Nyaa](https://nyaa.si/?q=SEPQ3QUEP2265BSX2WT2MTKNCFHAW7VP) |
+| `[SubsPlease] Kanojo, Okarishimasu - 49 (1080p) [D98C0B62]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanojo-okarishimasu-49-1080p-d98c0b62-mkv.n2095469) • [🐱 Nyaa](https://nyaa.si/?q=KHI6SGZELZRJW4HK74N7KDOKGJWLVR46) |
 
 ---
 <div align="center">
