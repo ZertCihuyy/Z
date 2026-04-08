@@ -1,5 +1,5 @@
 {
-  "last_update": "8/4/2026, 06.51.39",
+  "last_update": "8/4/2026, 09.53.52",
   "data": [
     {
       "mal_id": 61469,
@@ -263,15 +263,15 @@
         "string": "Apr 6, 2026 to ?"
       },
       "duration": "23 min per ep",
-      "rating": null,
-      "score": 8.79,
-      "scored_by": 4265,
-      "rank": 40,
-      "popularity": 1977,
-      "members": 130043,
-      "favorites": 841,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.8,
+      "scored_by": 8819,
+      "rank": 39,
+      "popularity": 1830,
+      "members": 143971,
+      "favorites": 1027,
       "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
-      "background": "",
+      "background": "Beginning with episode 2, each episode was streamed one week in advance of the TV broadcast starting on April 6, 2026, on Abema. Regular broadcasting began on April 6, 2026.",
       "season": "spring",
       "year": 2026,
       "broadcast": {
@@ -292,6 +292,12 @@
           "type": "anime",
           "name": "Avex Pictures",
           "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
         },
         {
           "mal_id": 1747,
@@ -1461,11 +1467,11 @@
       "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.33,
-      "scored_by": 5397,
+      "scored_by": 5811,
       "rank": 289,
-      "popularity": 2295,
-      "members": 105490,
-      "favorites": 248,
+      "popularity": 2267,
+      "members": 107308,
+      "favorites": 252,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",

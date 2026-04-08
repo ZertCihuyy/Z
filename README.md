@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.51.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.53.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsMix] Grand Blue S02 (BD 1080p AVC FLAC) (Grand Blue ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsmix-grand-blue-s02-bd-1080p-avc-flac.n2095363) • [🐱 Nyaa](https://nyaa.si/?q=LBTRHGCP2QWU2FKSJXB23CGRNE5DHWFH) |
+| `[Raze] MARRIAGETOXIN - 01 x265 10bit 1080p 143.8561fps.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-marriagetoxin-01-x265-10bit-1080p-143-8561fps-mkv.n2095352) • [🐱 Nyaa](https://nyaa.si/?q=Y57DB2WQL6YFFSAJT4MMN4HWX6YAX6T2) |
+| `[9volt] Sousou no Frieren - 37 (S02E09) (WEB 1080p HEVC E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/9volt-sousou-no-frieren-37-s02e09-web-1080p.k10218871161615) • [🐱 Nyaa](https://nyaa.si/?q=CTAK4EGTVJPKNUKAC4LURMFBXTDHARJV) |
+| `[Beltraz] We Without Wings (2011) - S01 + Specials (BD 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-without-wings-2011-s01-specials-bd-1080p.k10218625035013) • [🐱 Nyaa](https://nyaa.si/?q=L76IR3QE67GBNQWA5LJ3DLBNPBTAGEQN) |
+| `[Reza] Witch Hat Atelier - S01E01 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e01-webrip-aac-1080p.n2095348) • [🐱 Nyaa](https://nyaa.si/?q=QX5ZXVU4JMMCBR73D4YG5LDRW3BNDNEE) |
+| `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-class-de-2-banme-ni-kawaii-onnanoko.n2095339) • [🐱 Nyaa](https://nyaa.si/?q=BWR36XAYFMEOW44KNF5NREP4CUXEN4JZ) |
 | `[RABBIT] Food for the Soul Season 1 (BD Remux 1080p x264 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rabbit-food-soul-season-1-bd-remux-1080p.n2095337) • [🐱 Nyaa](https://nyaa.si/?q=47ITEU5XFUNO2ETLN6C5FZPF67BY2PQK) |
 | `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E09.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e09-multi-audio.n2095333) • [🐱 Nyaa](https://nyaa.si/?q=PTJ6WZ2MQRNC7O6T4XBBJNM337LT64MT) |
 | `Ponyo (2008) 崖の上のポニョ [12-bit 4:2:0 Decrypted MGVC BD ISO]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ponyo-2008-12-bit-4-2-0-decrypted.n2095330) • [🐱 Nyaa](https://nyaa.si/?q=SA5KBF3CICAJOMGR3X67WBXI6HXT5PGI) |
@@ -37,12 +43,6 @@
 | `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2095327) • [🐱 Nyaa](https://nyaa.si/?q=XWID5XRPBCEHOJ43FO3ZY52FLR6GPPY6) |
 | `[Erai-raws] Tadaima Ojamasaremasu - 01 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-01-1080p-cr-webrip.n2095317) • [🐱 Nyaa](https://nyaa.si/?q=YTM3YU46URC356KGZFVRSHJTFMWIQCKH) |
 | `Chained Soldier S02E04 1080p AMZN WEB-DL DUAL DDP2.0 H 26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e04-1080p-amzn-web-dl-dual.n2095315) • [🐱 Nyaa](https://nyaa.si/?q=EDA33RKGJEMAMHURIETNGTMYSWTXO2HE) |
-| `TOUGEN ANKI S01 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tougen-anki-s01-1080p-cr-web-dl-dual.n2095314) • [🐱 Nyaa](https://nyaa.si/?q=DV7RSRWCBKCRUXVO3UIDXHSL2Y7ZPDUM) |
-| `[BlackRabbit] Le Portrait de Petit Cossette (2004) - S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-le-portrait-de-petit-cossette-2004-s01.k10214663353350) • [🐱 Nyaa](https://nyaa.si/?q=6W2HVC7QPBZFYPEY2XRAWPNRDJBU2J2K) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.n2095305) • [🐱 Nyaa](https://nyaa.si/?q=5TKX2SYUEOMO5PL6ZMWQ3K7GR3DINHU6) |
-| `[Judas] Higeki no Genkyou to Naru Saikyou Gedou Last Boss...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-higeki-no-genkyou-naru-saikyou-gedou-last.n2095303) • [🐱 Nyaa](https://nyaa.si/?q=7Y6Y5BXYWORBS2UKPV7MRB6KAXHICPY4) |
-| `[Feibanyama] Wistoria Wand and Sword S02E00 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e00-bilibili-webrip-2160p.n2095300) • [🐱 Nyaa](https://nyaa.si/?q=VRQLQ5GUIY7QPS3MQGHEPZSDKXV7YAGH) |
-| `[Onalrie] Yuusha no Rokkotsu de - S01E01 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-rokkotsu-de-s01e01-1080p-webrip-av1-mkv.2072646) • [🐱 Nyaa](https://nyaa.si/?q=RCGKCGPK74QGWUZXUFGSONHW6ZANHTV2) |
 
 ---
 <div align="center">
