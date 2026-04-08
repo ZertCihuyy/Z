@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.47.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.52.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Akane-banashi - S01E01 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-akane-banashi-s01e01-1080p-hevc-x265-10bit.n2095702) • [🐱 Nyaa](https://nyaa.si/?q=HV77VPX37KD3ENK6W52KJJ6YEAFI6P33) |
+| `[sam] Dr. STONE - Science Future S04E13-E24 Part 2 (WEB 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-dr-stone-science-future-s04e13-e24-part.n2095701) • [🐱 Nyaa](https://nyaa.si/?q=UYTI3NUFVWHYY7Y52MDQJWQKGIGUOFS4) |
+| `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-saikyou-no-ousama-nidome-jinsei-wa-nani.n2095699) • [🐱 Nyaa](https://nyaa.si/?q=E42FPSCHWM6SSG6OEG6GWACWTG55ZRB7) |
+| `[jaaj] Nichijou S01+OVA (2011) (BD 1080p AV1 OPUS)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jaaj-nichijou-s01-ova-2011-bd-1080p-av1-opus.k10237154434824) • [🐱 Nyaa](https://nyaa.si/?q=6TS6FZVALEUPJOZHA56H2PWEAHINABOL) |
+| `[SubsPlease] Yuusha-kei ni Shosu (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-kei-ni-shosu-01-12-1080p-batch.n2095693) • [🐱 Nyaa](https://nyaa.si/?q=4ONVMYQ3ITKG5M37EHE4YALWI55WQ7LM) |
+| `[SubsPlease] Yuusha-kei ni Shosu (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-kei-ni-shosu-01-12-720p-batch.n2095692) • [🐱 Nyaa](https://nyaa.si/?q=WUOFABTZHHHBWEROLCWL6WL3A4WFULSD) |
+| `[SubsPlease] Yuusha-kei ni Shosu (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-kei-ni-shosu-01-12-480p-batch.n2095691) • [🐱 Nyaa](https://nyaa.si/?q=4KCJQTJGIF6SBWL3AMIRHQ3LEOEXAGS2) |
 | `[ToonsHub] Farming Life in Another World S02E01 1080p ADN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-farming-life-another-world-s02e01-1080p-adn.n2095690) • [🐱 Nyaa](https://nyaa.si/?q=AXXW7NEVPLXNTJKFK6Z52XZ4GKDD2XS5) |
 | `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nigashita-sakana-wa-ookikatta-ga-tsuriageta.k10236683664135) • [🐱 Nyaa](https://nyaa.si/?q=KQZRXGUOJFS6M4BXVZVCBSXRPUDKRHFP) |
 | `[ToonsHub] Farming Life in Another World S01 1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-farming-life-another-world-s01-1080p-amzn.k10236494814470) • [🐱 Nyaa](https://nyaa.si/?q=AMDX57ZYURPXZRBBXPAQMJBNXRYWPKOV) |
@@ -33,13 +40,6 @@
 | `[BlackRabbit] The Vexations of a Shut-In Vampire Princess...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-vexations-shut-vampire-princess-2023-s01-bluray.k10236301732361) • [🐱 Nyaa](https://nyaa.si/?q=R3FEYPKBSADEWXTKTK6XQRDBAKXT2HOS) |
 | `[SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bouei (0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-01.n2095683) • [🐱 Nyaa](https://nyaa.si/?q=EGSZD3CKBDMAK4SRRBCNBUF6Y4XK62R4) |
 | `[SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bouei (0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-01.n2095682) • [🐱 Nyaa](https://nyaa.si/?q=DUMB2LTIWO5LQOPQVK34S7ATBLBMNNPX) |
-| `[SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bouei (0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-01.n2095681) • [🐱 Nyaa](https://nyaa.si/?q=ZCRRHO254QEBW7WUCG5XBFVD5AMTDUQU) |
-| `[Judas] Kanojo Okarishimasu (Rent-A-Girlfriend) - S05E01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kanojo-okarishimasu-rent-girlfriend-s05e01-1080p-hevc.n2095678) • [🐱 Nyaa](https://nyaa.si/?q=QKDCX3WVIAYYQ5SKD7V42GMSHE6OP3BK) |
-| `[Onalrie] Ganbare! Nakamura-kun!! - S01E03 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ganbare-nakamura-kun-s01e03-1080p-webrip-av1-mkv.2072882) • [🐱 Nyaa](https://nyaa.si/?q=YMVBXUFUP44ZYFM23DHTJI4PHSK53EFM) |
-| `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E01 [1080p][HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otaku-ni-yasashii-gal-wa-inai-s01e01.n2095676) • [🐱 Nyaa](https://nyaa.si/?q=3N2UXJCBOIXLQ36EIOPUQDPNI2AS7D35) |
-| `[ASW] Ganbare! Nakamura-kun!! - 03 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ganbare-nakamura-kun-03-1080p-hevc-x265-10bit-aac.n2095675) • [🐱 Nyaa](https://nyaa.si/?q=ILWPOW6YY3J73QZ7CWQZQIYEJGTYDYMG) |
-| `[ASW] The Beginning After the End S2 - 02 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-beginning-after-end-s2-02-1080p-hevc.n2095674) • [🐱 Nyaa](https://nyaa.si/?q=LHZSSQPRZ6DSCPTYH7T5JOBLL4R4ORDU) |
-| `[Onalrie] The Beginning After the End - S02E02 [1080p WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-beginning-after-end-s02e02-1080p-webrip-av1-mkv.2072866) • [🐱 Nyaa](https://nyaa.si/?q=HYDYG5BSEY35WV227MQTLWNGU5NYLFZF) |
 
 ---
 <div align="center">
