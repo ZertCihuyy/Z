@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.45.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.03.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Freezing (2011) - S02 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-freezing-2011-s02-bluray-1080p-opus-2.k10228063590156) • [🐱 Nyaa](https://nyaa.si/?q=JGKKRHOBYR7FX5A3WKB7YZBTA5XWGQ76) |
+| `[BlackRabbit] Freezing (2011) - S01 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-freezing-2011-s01-bluray-1080p-opus-2.k10228018846478) • [🐱 Nyaa](https://nyaa.si/?q=RA2Q3GSRWEZ4Y7M5JKDP2DKWDPO3C2IO) |
+| `[BlackRabbit] Vermeil in Gold (2022) - S01 [Bluray-1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-vermeil-gold-2022-s01-bluray-1080p-opus.k10227649549321) • [🐱 Nyaa](https://nyaa.si/?q=EHUUQOWYHPFFWPJTWQZR2MVZSRWVBRUQ) |
 | `[BlackRabbit] Sekirei (2008) - S00 [Bluray-720p][Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-sekirei-2008-s00-bluray-720p-opus-2.k10226655073799) • [🐱 Nyaa](https://nyaa.si/?q=TYITDDUZCKLLR4ATZMW3K7XI3CTGXDMJ) |
 | `[BlackRabbit] Sekirei (2008) - S02 [Bluray-1080p][Opus 2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-sekirei-2008-s02-bluray-1080p-opus-2.k10226609157893) • [🐱 Nyaa](https://nyaa.si/?q=RFWIHAYHRGPQW3FIWURGAVSGY7UIDRES) |
 | `[BlackRabbit] Sekirei (2008) - S01 [Bluray-720p][Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-sekirei-2008-s01-bluray-720p-opus-2.k10226557577736) • [🐱 Nyaa](https://nyaa.si/?q=SFQYVVTNOQZQRJW5TZ775QXNUCTR3KLP) |
@@ -40,9 +43,6 @@
 | `[Unfucked] I Made Friends with the Second Prettiest Girl ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-made-friends-second-prettiest-girl-my-class.n2095381) • [🐱 Nyaa](https://nyaa.si/?q=FVTKVLOY53AH45ZKV2AAFQEY7DPVBZK3) |
 | `[Unfucked] NEEDY GIRL OVERDOSE - S01E01 (1080p WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-needy-girl-overdose-s01e01-1080p-web-dl.n2095380) • [🐱 Nyaa](https://nyaa.si/?q=TDSKYI7MZAOLFE7MTJUKWNJSBZNKFWQQ) |
 | `[nekotan] Food for the Soul S01 (BD 1920x1080 x264 Opus) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-food-soul-s01-bd-1920x1080-x264-opus.k10223551378953) • [🐱 Nyaa](https://nyaa.si/?q=HYSUI5CS4Y5IXEUX35I722DVBXCJUUHK) |
-| `[AK4NE] Dorohedoro - S00E08 - Bonus Curse or Extra Evil (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-dorohedoro-s00e08-bonus-curse-extra-evil-bd.k10223399101448) • [🐱 Nyaa](https://nyaa.si/?q=AUMTOGWD7JRZYWXJFC7YC257BBSSXODL) |
-| `[Judas] Niwatori Fighter (Rooster Fighter) - S01E04 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e04-1080p-hevc-x265.n2095378) • [🐱 Nyaa](https://nyaa.si/?q=G4RZR6UTBNNN5R3F7D2UMLCGNDSE47ZY) |
-| `[AK4NE] Dorohedoro - S01 E01-E12 (BD-Enc 1080p AV1 OPUS) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-dorohedoro-s01-e01-e12-bd-enc-1080p.k10222807127311) • [🐱 Nyaa](https://nyaa.si/?q=TPGGQLQEBQ3SXK46BWBPGM7BZE2PVESG) |
 
 ---
 <div align="center">
