@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.52.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.50.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Mangamannn] Labyrinth of Flames - 01-02 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-labyrinth-flames-01-02-480i-dvd.k10238743522560) • [🐱 Nyaa](https://nyaa.si/?q=ROUKJVSAX4RV4AGOKBTVNOQ6DJHXAZBH) |
+| `[Anime Time] Dorohedoro - S02E04 [1080p][HEVC 10bit x265]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-dorohedoro-s02e04-1080p-hevc-10bit-x265.n2095710) • [🐱 Nyaa](https://nyaa.si/?q=ZDIQHMHJP4Q665SIR3TPQJUHP6H7Q36P) |
 | `[Judas] Akane-banashi - S01E01 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-akane-banashi-s01e01-1080p-hevc-x265-10bit.n2095702) • [🐱 Nyaa](https://nyaa.si/?q=HV77VPX37KD3ENK6W52KJJ6YEAFI6P33) |
 | `[sam] Dr. STONE - Science Future S04E13-E24 Part 2 (WEB 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-dr-stone-science-future-s04e13-e24-part.n2095701) • [🐱 Nyaa](https://nyaa.si/?q=UYTI3NUFVWHYY7Y52MDQJWQKGIGUOFS4) |
 | `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-saikyou-no-ousama-nidome-jinsei-wa-nani.n2095699) • [🐱 Nyaa](https://nyaa.si/?q=E42FPSCHWM6SSG6OEG6GWACWTG55ZRB7) |
@@ -38,8 +40,6 @@
 | `[ToonsHub] Farming Life in Another World S01 1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-farming-life-another-world-s01-1080p-amzn.k10236430031628) • [🐱 Nyaa](https://nyaa.si/?q=ZEQ4DFYFN37KNQWZF53OODAOUOX2X65D) |
 | `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-yomi-no-tsugai-daemons-shadow-realm-s01e01.n2095684) • [🐱 Nyaa](https://nyaa.si/?q=J3PE3ANFOZY6Q6FP53LIYO44E3QMN5BW) |
 | `[BlackRabbit] The Vexations of a Shut-In Vampire Princess...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-vexations-shut-vampire-princess-2023-s01-bluray.k10236301732361) • [🐱 Nyaa](https://nyaa.si/?q=R3FEYPKBSADEWXTKTK6XQRDBAKXT2HOS) |
-| `[SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bouei (0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-01.n2095683) • [🐱 Nyaa](https://nyaa.si/?q=EGSZD3CKBDMAK4SRRBCNBUF6Y4XK62R4) |
-| `[SubsPlease] Okiraku Ryoushu no Tanoshii Ryouchi Bouei (0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-okiraku-ryoushu-no-tanoshii-ryouchi-bouei-01.n2095682) • [🐱 Nyaa](https://nyaa.si/?q=DUMB2LTIWO5LQOPQVK34S7ATBLBMNNPX) |
 
 ---
 <div align="center">
