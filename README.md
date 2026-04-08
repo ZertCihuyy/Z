@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.53.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.17.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AK4NE] Dorohedoro - S00E08 - Bonus Curse or Extra Evil (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-dorohedoro-s00e08-bonus-curse-extra-evil-bd.k10223399101448) • [🐱 Nyaa](https://nyaa.si/?q=AUMTOGWD7JRZYWXJFC7YC257BBSSXODL) |
+| `[Judas] Niwatori Fighter (Rooster Fighter) - S01E04 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e04-1080p-hevc-x265.n2095378) • [🐱 Nyaa](https://nyaa.si/?q=G4RZR6UTBNNN5R3F7D2UMLCGNDSE47ZY) |
+| `[AK4NE] Dorohedoro - S01 E01-E12 (BD-Enc 1080p AV1 OPUS) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-dorohedoro-s01-e01-e12-bd-enc-1080p.k10222807127311) • [🐱 Nyaa](https://nyaa.si/?q=TPGGQLQEBQ3SXK46BWBPGM7BZE2PVESG) |
+| `[Ommex] Doraemon (2005) Episode 909 [ENG SUB][1080p x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ommex-doraemon-2005-episode-909-eng-sub-1080p-x265-aac.n2095375) • [🐱 Nyaa](https://nyaa.si/?q=JGHN7GYHD72SACZWCIOVKKFN5MQJZFOX) |
+| `[DKB] Maid-san wa Taberu dake - S01E02 [1080p][HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-maid-san-wa-taberu-dake-s01e02-1080p.n2095374) • [🐱 Nyaa](https://nyaa.si/?q=JQACMFQP3JGRUGJV2AFFXD7QXNNJ22ON) |
+| `[Reza] Witch Hat Atelier - S01E02 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e02-webrip-aac-1080p.n2095368) • [🐱 Nyaa](https://nyaa.si/?q=SFUUG6I62UURPUDQ52WK7WHLI4KNFRHR) |
+| `[ToonsHub] Walking the Way all alone S01E02 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e02-1080p-bili.n2095367) • [🐱 Nyaa](https://nyaa.si/?q=N7ZRYXEAXXHHM2R3HYVR65NBHRU2PVWA) |
+| `[ToonsHub] Walking the Way all alone S01E01 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e01-1080p-bili.n2095366) • [🐱 Nyaa](https://nyaa.si/?q=IJBNFSRUL63TCJATEF7MMJRIGOTN7SAT) |
 | `[SubsMix] Grand Blue S02 (BD 1080p AVC FLAC) (Grand Blue ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsmix-grand-blue-s02-bd-1080p-avc-flac.n2095363) • [🐱 Nyaa](https://nyaa.si/?q=LBTRHGCP2QWU2FKSJXB23CGRNE5DHWFH) |
 | `[Raze] MARRIAGETOXIN - 01 x265 10bit 1080p 143.8561fps.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-marriagetoxin-01-x265-10bit-1080p-143-8561fps-mkv.n2095352) • [🐱 Nyaa](https://nyaa.si/?q=Y57DB2WQL6YFFSAJT4MMN4HWX6YAX6T2) |
 | `[9volt] Sousou no Frieren - 37 (S02E09) (WEB 1080p HEVC E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/9volt-sousou-no-frieren-37-s02e09-web-1080p.k10218871161615) • [🐱 Nyaa](https://nyaa.si/?q=CTAK4EGTVJPKNUKAC4LURMFBXTDHARJV) |
@@ -35,14 +43,6 @@
 | `[Reza] Witch Hat Atelier - S01E01 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e01-webrip-aac-1080p.n2095348) • [🐱 Nyaa](https://nyaa.si/?q=QX5ZXVU4JMMCBR73D4YG5LDRW3BNDNEE) |
 | `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-class-de-2-banme-ni-kawaii-onnanoko.n2095339) • [🐱 Nyaa](https://nyaa.si/?q=BWR36XAYFMEOW44KNF5NREP4CUXEN4JZ) |
 | `[RABBIT] Food for the Soul Season 1 (BD Remux 1080p x264 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rabbit-food-soul-season-1-bd-remux-1080p.n2095337) • [🐱 Nyaa](https://nyaa.si/?q=47ITEU5XFUNO2ETLN6C5FZPF67BY2PQK) |
-| `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E09.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e09-multi-audio.n2095333) • [🐱 Nyaa](https://nyaa.si/?q=PTJ6WZ2MQRNC7O6T4XBBJNM337LT64MT) |
-| `Ponyo (2008) 崖の上のポニョ [12-bit 4:2:0 Decrypted MGVC BD ISO]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ponyo-2008-12-bit-4-2-0-decrypted.n2095330) • [🐱 Nyaa](https://nyaa.si/?q=SA5KBF3CICAJOMGR3X67WBXI6HXT5PGI) |
-| `[BlackRabbit] High School D×D (2012) - S00 v2 [Bluray-108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-high-school-dd-2012-s00-v2-bluray.k10216436147456) • [🐱 Nyaa](https://nyaa.si/?q=D3KGLFWVUOH4UBLUZ44EGP32KG4VL67R) |
-| `[Erai-raws] Hidarikiki no Eren - 01 [1080p CR WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-01-1080p-cr.n2095329) • [🐱 Nyaa](https://nyaa.si/?q=RV2XK5Q6XFICSJNPFFWIL5LXPMVP7DS3) |
-| `[Freehold] Chained Soldier S02E04 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e04-repack2-adn-web-dl.n2095328) • [🐱 Nyaa](https://nyaa.si/?q=D2EM3EZCZODW3PH3F646JCLVRIWOULYL) |
-| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2095327) • [🐱 Nyaa](https://nyaa.si/?q=XWID5XRPBCEHOJ43FO3ZY52FLR6GPPY6) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 01 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-01-1080p-cr-webrip.n2095317) • [🐱 Nyaa](https://nyaa.si/?q=YTM3YU46URC356KGZFVRSHJTFMWIQCKH) |
-| `Chained Soldier S02E04 1080p AMZN WEB-DL DUAL DDP2.0 H 26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e04-1080p-amzn-web-dl-dual.n2095315) • [🐱 Nyaa](https://nyaa.si/?q=EDA33RKGJEMAMHURIETNGTMYSWTXO2HE) |
 
 ---
 <div align="center">
