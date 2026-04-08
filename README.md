@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.11.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.19.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] Go For It Nakamura kun S01E03 Wait Could This Be ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-go-nakamura-kun-s01e03-wait-could-love.k10234425747201) • [🐱 Nyaa](https://nyaa.si/?q=D2ZKAKQRL7BXS5ZLEA6ZEW4SIK4RH4UY) |
-| `[ToonsHub] Go For It Nakamura-kun S01E03 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-go-nakamura-kun-s01e03-1080p-cr-web.k10234401761024) • [🐱 Nyaa](https://nyaa.si/?q=OUIBK35573YG34BE5BXYYDHK2ON65I5F) |
-| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Anot...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hell-mode-hardcore-gamer-dominates-another-world.n2095640) • [🐱 Nyaa](https://nyaa.si/?q=2E6YZLHGQODTK4IQVVLEDXHNTCKOAGQK) |
-| `[ToonsHub] Reincarnated as a Dragon Hatchling S01E04 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reincarnated-dragon-hatchling-s01e04-1080p-hidive.n2095639) • [🐱 Nyaa](https://nyaa.si/?q=TF263WIFZEAWYHZC6AON45FIQ252ZD7B) |
-| `[Erai-raws] Ganbare Nakamura-kun - 03 [480p CR WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-03-480p-cr.n2095636) • [🐱 Nyaa](https://nyaa.si/?q=CDV7XFBUABCX37NHE23AVT7ETJHIDH4T) |
-| `[Erai-raws] Ganbare Nakamura-kun - 03 [720p CR WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-03-720p-cr.n2095635) • [🐱 Nyaa](https://nyaa.si/?q=3RRZLCY6SNH4B6EMWWGLBMFOBJWGU3AB) |
-| `[Erai-raws] Ganbare Nakamura-kun - 03 [1080p CR WEB-DL AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-03-1080p-cr.n2095634) • [🐱 Nyaa](https://nyaa.si/?q=YQ7RP47SOWDZHTFS5IW4CXTAZ2VSZ3Y6) |
-| `[ToonsHub] The Beginning After the End S02E02 1080p BILI ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-beginning-after-end-s02e02-1080p-bili-web.k10234164194317) • [🐱 Nyaa](https://nyaa.si/?q=NCPNUXHZBO3MJFTVMOIYS6TUWKPEWDOV) |
-| `[ToonsHub] The Beginning After the End S02E02 1080p NF WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-beginning-after-end-s02e02-1080p-nf-web.k10234163569675) • [🐱 Nyaa](https://nyaa.si/?q=OXM5YDIWNLNPYJMKYZGZS55NWGAA7VLX) |
-| `The Beginning After the End S02E02 The Princess Goes on a...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beginning-after-end-s02e02-princess-goes-adventure-1080p.n2095627) • [🐱 Nyaa](https://nyaa.si/?q=RANT2ZSRSOQK5IRXHUY457JDOTW5HYNU) |
-| `[Onalrie] Otaku ni Yasashii Gal wa Inai - S01E01 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-otaku-ni-yasashii-gal-wa-inai-s01e01.2072857) • [🐱 Nyaa](https://nyaa.si/?q=X7VZ4EMYV3BD7KZUFCYIBDYHVJTDXXPD) |
-| `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E11.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e11-multi-audio.n2095626) • [🐱 Nyaa](https://nyaa.si/?q=CCY3THR4WMDS66G6CQ74UXPNX43YLD7E) |
-| `[ASW] Otaku ni Yasashii Gal wa Inai - 01 [1080p HEVC x265...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-otaku-ni-yasashii-gal-wa-inai-01.n2095625) • [🐱 Nyaa](https://nyaa.si/?q=2MT5TY3CUXKTPMGB27R3PMBSIIYEKOTQ) |
-| `[Erai-raws] Dorohedoro Season 2 - 04 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-04-1080p-cr.n2095624) • [🐱 Nyaa](https://nyaa.si/?q=ICHFAN6HNYR2F2WQMM335YYEMRCRMUFQ) |
-| `[Bird] Ganzo! Bandori-chan - 26 (1080p) [A088F6AE]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bird-ganzo-bandori-chan-26-1080p-a088f6ae.n2095623) • [🐱 Nyaa](https://nyaa.si/?q=MBSKM5ME33QL7STEEGQU3A3YAPEPA4RH) |
+| `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E01 [1080p][HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otaku-ni-yasashii-gal-wa-inai-s01e01.n2095676) • [🐱 Nyaa](https://nyaa.si/?q=3N2UXJCBOIXLQ36EIOPUQDPNI2AS7D35) |
+| `[ASW] Ganbare! Nakamura-kun!! - 03 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ganbare-nakamura-kun-03-1080p-hevc-x265-10bit-aac.n2095675) • [🐱 Nyaa](https://nyaa.si/?q=ILWPOW6YY3J73QZ7CWQZQIYEJGTYDYMG) |
+| `[ASW] The Beginning After the End S2 - 02 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-beginning-after-end-s2-02-1080p-hevc.n2095674) • [🐱 Nyaa](https://nyaa.si/?q=LHZSSQPRZ6DSCPTYH7T5JOBLL4R4ORDU) |
+| `[Onalrie] The Beginning After the End - S02E02 [1080p WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-beginning-after-end-s02e02-1080p-webrip-av1-mkv.2072866) • [🐱 Nyaa](https://nyaa.si/?q=HYDYG5BSEY35WV227MQTLWNGU5NYLFZF) |
+| `[Erai-raws] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jidouhanbaiki-ni-umarekawatta-ore-wa-meikyuu.n2095673) • [🐱 Nyaa](https://nyaa.si/?q=UYVI6QTCTILS2XM4NC5HJ5KOLX5LJOCA) |
+| `Chained Soldier S02E05 The Azuma Banquet 1080p HIDI WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e05-azuma-banquet-1080p-hidi-web.n2095670) • [🐱 Nyaa](https://nyaa.si/?q=3K5JEPIPIEORSIKSNQOBCNULOACI53IB) |
+| `[DKB] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Sa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu.n2095669) • [🐱 Nyaa](https://nyaa.si/?q=TRM2YA3R4KBIJYOO456TU2BT6Z7IHWNQ) |
+| `[Ironclad] Dorohedoro - S02E04 [WEB 1080p AV1] | Dorohedo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-dorohedoro-s02e04-web-1080p-av1-2-multi.k10234897260548) • [🐱 Nyaa](https://nyaa.si/?q=ARQ5NZJDKB3B7KFN3DW4WTRXS234HUS5) |
+| `[Yameii] Oshi no Ko - S03E02 [English Dub] [CR WEB-DL 720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-oshi-no-ko-s03e02-english-dub-cr.n2095667) • [🐱 Nyaa](https://nyaa.si/?q=QOAASXLO34YEXAUHZZXP4MHPL44KQO24) |
+| `[Yameii] Go For It, Nakamura-kun!! - S01E03 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-go-nakamura-kun-s01e03-english-dub-cr.n2095665) • [🐱 Nyaa](https://nyaa.si/?q=VT7ZBT6WWVBFPYNADU7ZPNQ5M5PKUZVB) |
+| `[Judas] Saikyou no Ousama, Nidome no Jinsei wa Nani o Sur...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-saikyou-no-ousama-nidome-jinsei-wa-nani.n2095664) • [🐱 Nyaa](https://nyaa.si/?q=VZB5LZX4F53S4K2OV3DQXRDJLZ4337FU) |
+| `[ToonsHub] Go For It Nakamura-kun S01E03 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-go-nakamura-kun-s01e03-1080p-cr-web.k10234709695757) • [🐱 Nyaa](https://nyaa.si/?q=IIXNE3F33RGZO6DNW6NY2NYNT3RDIRN7) |
+| `[Yameii] Re:ZERO, Starting Life in Another World - S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-re-zero-starting-life-another-world-s04e01.n2095662) • [🐱 Nyaa](https://nyaa.si/?q=JIFNDBT2OOEYJ52YURHDOQBWPDQC6KK3) |
+| `[Yameii] An Adventurer's Daily Grind at Age 29 - S01E12 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-adventurers-daily-grind-age-29-s01e12-english.n2095661) • [🐱 Nyaa](https://nyaa.si/?q=3NN4PHHWLR4U7TCJZJNZTVJOJSG4CIWX) |
+| `[DKB] Kanojo, Okarishimasu - S05E01 [1080p][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanojo-okarishimasu-s05e01-1080p-hevc-x265-10bit.n2095660) • [🐱 Nyaa](https://nyaa.si/?q=7D5TU5YA5DYXJ6JRTOOELUUO7U6N6XSE) |
 
 ---
 <div align="center">
