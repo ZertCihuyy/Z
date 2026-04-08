@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.03.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.03.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anitsu] 86 Eighty Six S01 [BD 1080p x265 FLAC] [DUAL] [S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anitsu-86-eighty-six-s01-bd-1080p-x265.n2095423) • [🐱 Nyaa](https://nyaa.si/?q=VACXNASP6VOJV6FR2OUGSAFQT36ZOXYD) |
+| `Porco Rosso (1992) 紅の豚 [12-bit 4:2:0 Decrypted MGVC BD ISO]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/porco-rosso-1992-12-bit-4-2-0.n2095418) • [🐱 Nyaa](https://nyaa.si/?q=4XVKOXWZZAP77NHQO7AU5BCT2WKWDCM3) |
+| `[Gecko] Cat Tales - S01E26 (うごく！ねこむかしばなし; Ugoku! Neko Muk...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e26-ugoku-neko-mukashibanashi-ytb.n2095417) • [🐱 Nyaa](https://nyaa.si/?q=6XKC5FBYENJVBC4IJ24OVHTB5YDJQDGV) |
+| `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E10.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e10-multi-audio.n2095416) • [🐱 Nyaa](https://nyaa.si/?q=7TOJXWMOFUAZTXSAUFTG2OVGYUW7DEGB) |
+| `[ToonsHub] Cat Tales S01E26 1080p LNTV WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-cat-tales-s01e26-1080p-lntv-web-dl.n2095415) • [🐱 Nyaa](https://nyaa.si/?q=7NKA7MYWZ7N3YKNJND7VLUDBUWWVM4BU) |
 | `[BlackRabbit] Freezing (2011) - S02 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-freezing-2011-s02-bluray-1080p-opus-2.k10228063590156) • [🐱 Nyaa](https://nyaa.si/?q=JGKKRHOBYR7FX5A3WKB7YZBTA5XWGQ76) |
 | `[BlackRabbit] Freezing (2011) - S01 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-freezing-2011-s01-bluray-1080p-opus-2.k10228018846478) • [🐱 Nyaa](https://nyaa.si/?q=RA2Q3GSRWEZ4Y7M5JKDP2DKWDPO3C2IO) |
 | `[BlackRabbit] Vermeil in Gold (2022) - S01 [Bluray-1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-vermeil-gold-2022-s01-bluray-1080p-opus.k10227649549321) • [🐱 Nyaa](https://nyaa.si/?q=EHUUQOWYHPFFWPJTWQZR2MVZSRWVBRUQ) |
@@ -38,11 +43,6 @@
 | `[BlackRabbit] Yamada-kun and the Seven Witches (2015) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamada-kun-seven-witches-2015-s00-dvd.k10226125283595) • [🐱 Nyaa](https://nyaa.si/?q=2FFGL5KV5IR2UBV7SFSRWQTTHL5EY2LW) |
 | `[BlackRabbit] Yamada-kun and the Seven Witches (2015) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamada-kun-seven-witches-2015-s01-bluray.k10226031073284) • [🐱 Nyaa](https://nyaa.si/?q=ODM7WTB4WGSIUXADWEWKYWCFEWGL44QI) |
 | `[BlackRabbit] Ladies Versus Butlers! (2010) - S00 [Bluray...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-ladies-versus-butlers-2010-s00-bluray-1080p.k10225646969098) • [🐱 Nyaa](https://nyaa.si/?q=55NOIHGCVPE25BSUWFSKBLDU5JWJOD27) |
-| `[BlackRabbit] Ladies Versus Butlers! (2010) - S01 [Bluray...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-ladies-versus-butlers-2010-s01-bluray-1080p.k10225595190790) • [🐱 Nyaa](https://nyaa.si/?q=55TL4JKEGIYGLDSRZOTCBXC5U2CBDGB6) |
-| `Blue Archive: 1.5 Shuunenkinen Short Animation | Blue Arc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blue-archive-1-5-shuunenkinen-short-animation-5th.n2095389) • [🐱 Nyaa](https://nyaa.si/?q=XT6GUQGL5UPYAXIGUROIE4WRTFBVRL75) |
-| `[Unfucked] I Made Friends with the Second Prettiest Girl ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-made-friends-second-prettiest-girl-my-class.n2095381) • [🐱 Nyaa](https://nyaa.si/?q=FVTKVLOY53AH45ZKV2AAFQEY7DPVBZK3) |
-| `[Unfucked] NEEDY GIRL OVERDOSE - S01E01 (1080p WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-needy-girl-overdose-s01e01-1080p-web-dl.n2095380) • [🐱 Nyaa](https://nyaa.si/?q=TDSKYI7MZAOLFE7MTJUKWNJSBZNKFWQQ) |
-| `[nekotan] Food for the Soul S01 (BD 1920x1080 x264 Opus) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-food-soul-s01-bd-1920x1080-x264-opus.k10223551378953) • [🐱 Nyaa](https://nyaa.si/?q=HYSUI5CS4Y5IXEUX35I722DVBXCJUUHK) |
 
 ---
 <div align="center">
