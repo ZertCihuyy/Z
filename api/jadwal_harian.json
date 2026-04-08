@@ -1,5 +1,5 @@
 {
-  "last_update": "8/4/2026, 21.02.52",
+  "last_update": "8/4/2026, 22.47.16",
   "hari": "Rabu",
   "data": [
     {
@@ -70,9 +70,9 @@
       "rating": "G - All Ages",
       "score": null,
       "scored_by": null,
-      "rank": 15764,
-      "popularity": 18682,
-      "members": 482,
+      "rank": 15774,
+      "popularity": 18658,
+      "members": 484,
       "favorites": 1,
       "synopsis": null,
       "background": "",
@@ -194,8 +194,8 @@
       "rating": "G - All Ages",
       "score": null,
       "scored_by": null,
-      "rank": 19492,
-      "popularity": 18400,
+      "rank": 19502,
+      "popularity": 18402,
       "members": 506,
       "favorites": 0,
       "synopsis": null,
@@ -238,290 +238,6 @@
       "demographics": []
     },
     {
-      "mal_id": 63433,
-      "url": "https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1764/155312.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1764/155312.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/CSqd-iXcFVg?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Daikenja Riddle no Jikan Gyakkou"
-        },
-        {
-          "type": "Synonym",
-          "title": "The Regression of Great Sage Riddle"
-        },
-        {
-          "type": "Japanese",
-          "title": "大賢者リドルの時間逆行"
-        }
-      ],
-      "title": "Daikenja Riddle no Jikan Gyakkou",
-      "title_english": null,
-      "title_japanese": "大賢者リドルの時間逆行",
-      "title_synonyms": [
-        "The Regression of Great Sage Riddle"
-      ],
-      "type": "TV",
-      "source": "Web manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-01T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 1,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 1, 2026 to ?"
-      },
-      "duration": "5 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 4.9,
-      "scored_by": 426,
-      "rank": 14368,
-      "popularity": 8130,
-      "members": 7512,
-      "favorites": 19,
-      "synopsis": "A young man named Riddle had lost all of his friends—and the entire world—at the hands of a mysterious organization known as the \"Box of Malice.\" Having lost all hope to live, he dwelled in a pit of despair until he has one final revelation. What if... he could return to a time before everything ended? And so, after a thousand years, a deformed Riddle finally manages to reverse time. \"I'm going to stop them this time...!\" Equipped with a thousand years of knowledge and experience in his young body, the Great Sage Riddle's journey to the past now unfolds!\n\n(Source: Shogakukan, translated)",
-      "background": "",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Wednesdays",
-        "time": "21:55",
-        "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 21:55 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 1430,
-          "type": "anime",
-          "name": "Shogakukan",
-          "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
-        },
-        {
-          "mal_id": 3307,
-          "type": "anime",
-          "name": "Tatooine Sound",
-          "url": "https://myanimelist.net/anime/producer/3307/Tatooine_Sound"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 2844,
-          "type": "anime",
-          "name": "Imagica Infos",
-          "url": "https://myanimelist.net/anime/producer/2844/Imagica_Infos"
-        },
-        {
-          "mal_id": 2983,
-          "type": "anime",
-          "name": "Imageworks Studio",
-          "url": "https://myanimelist.net/anime/producer/2983/Imageworks_Studio"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 78,
-          "type": "anime",
-          "name": "Time Travel",
-          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
-        }
-      ],
-      "demographics": []
-    },
-    {
-      "mal_id": 63433,
-      "url": "https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1764/155312.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1764/155312.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/CSqd-iXcFVg?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Daikenja Riddle no Jikan Gyakkou"
-        },
-        {
-          "type": "Synonym",
-          "title": "The Regression of Great Sage Riddle"
-        },
-        {
-          "type": "Japanese",
-          "title": "大賢者リドルの時間逆行"
-        }
-      ],
-      "title": "Daikenja Riddle no Jikan Gyakkou",
-      "title_english": null,
-      "title_japanese": "大賢者リドルの時間逆行",
-      "title_synonyms": [
-        "The Regression of Great Sage Riddle"
-      ],
-      "type": "TV",
-      "source": "Web manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-01T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 1,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 1, 2026 to ?"
-      },
-      "duration": "5 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 4.9,
-      "scored_by": 426,
-      "rank": 14368,
-      "popularity": 8130,
-      "members": 7512,
-      "favorites": 19,
-      "synopsis": "A young man named Riddle had lost all of his friends—and the entire world—at the hands of a mysterious organization known as the \"Box of Malice.\" Having lost all hope to live, he dwelled in a pit of despair until he has one final revelation. What if... he could return to a time before everything ended? And so, after a thousand years, a deformed Riddle finally manages to reverse time. \"I'm going to stop them this time...!\" Equipped with a thousand years of knowledge and experience in his young body, the Great Sage Riddle's journey to the past now unfolds!\n\n(Source: Shogakukan, translated)",
-      "background": "",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Wednesdays",
-        "time": "21:55",
-        "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 21:55 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 1430,
-          "type": "anime",
-          "name": "Shogakukan",
-          "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
-        },
-        {
-          "mal_id": 3307,
-          "type": "anime",
-          "name": "Tatooine Sound",
-          "url": "https://myanimelist.net/anime/producer/3307/Tatooine_Sound"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 2844,
-          "type": "anime",
-          "name": "Imagica Infos",
-          "url": "https://myanimelist.net/anime/producer/2844/Imagica_Infos"
-        },
-        {
-          "mal_id": 2983,
-          "type": "anime",
-          "name": "Imageworks Studio",
-          "url": "https://myanimelist.net/anime/producer/2983/Imageworks_Studio"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 78,
-          "type": "anime",
-          "name": "Time Travel",
-          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
-        }
-      ],
-      "demographics": []
-    },
-    {
       "mal_id": 63376,
       "url": "https://myanimelist.net/anime/63376/Megami_Isekai_Tensei_Nani_ni_Naritai_desu_ka_Ore_Yuusha_no_Rokkotsu_de",
       "images": {
@@ -785,6 +501,290 @@
           "type": "anime",
           "name": "Reincarnation",
           "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 63433,
+      "url": "https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1764/155312.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1764/155312.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/CSqd-iXcFVg?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Daikenja Riddle no Jikan Gyakkou"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Regression of Great Sage Riddle"
+        },
+        {
+          "type": "Japanese",
+          "title": "大賢者リドルの時間逆行"
+        }
+      ],
+      "title": "Daikenja Riddle no Jikan Gyakkou",
+      "title_english": null,
+      "title_japanese": "大賢者リドルの時間逆行",
+      "title_synonyms": [
+        "The Regression of Great Sage Riddle"
+      ],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 1, 2026 to ?"
+      },
+      "duration": "5 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 4.85,
+      "scored_by": 452,
+      "rank": 14417,
+      "popularity": 8087,
+      "members": 7616,
+      "favorites": 20,
+      "synopsis": "A young man named Riddle had lost all of his friends—and the entire world—at the hands of a mysterious organization known as the \"Box of Malice.\" Having lost all hope to live, he dwelled in a pit of despair until he has one final revelation. What if... he could return to a time before everything ended? And so, after a thousand years, a deformed Riddle finally manages to reverse time. \"I'm going to stop them this time...!\" Equipped with a thousand years of knowledge and experience in his young body, the Great Sage Riddle's journey to the past now unfolds!\n\n(Source: Shogakukan, translated)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "21:55",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 21:55 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 1430,
+          "type": "anime",
+          "name": "Shogakukan",
+          "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        },
+        {
+          "mal_id": 3307,
+          "type": "anime",
+          "name": "Tatooine Sound",
+          "url": "https://myanimelist.net/anime/producer/3307/Tatooine_Sound"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2844,
+          "type": "anime",
+          "name": "Imagica Infos",
+          "url": "https://myanimelist.net/anime/producer/2844/Imagica_Infos"
+        },
+        {
+          "mal_id": 2983,
+          "type": "anime",
+          "name": "Imageworks Studio",
+          "url": "https://myanimelist.net/anime/producer/2983/Imageworks_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 78,
+          "type": "anime",
+          "name": "Time Travel",
+          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 63433,
+      "url": "https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1764/155312.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1764/155312.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1764/155312t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1764/155312l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/CSqd-iXcFVg?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Daikenja Riddle no Jikan Gyakkou"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Regression of Great Sage Riddle"
+        },
+        {
+          "type": "Japanese",
+          "title": "大賢者リドルの時間逆行"
+        }
+      ],
+      "title": "Daikenja Riddle no Jikan Gyakkou",
+      "title_english": null,
+      "title_japanese": "大賢者リドルの時間逆行",
+      "title_synonyms": [
+        "The Regression of Great Sage Riddle"
+      ],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 1, 2026 to ?"
+      },
+      "duration": "5 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 4.85,
+      "scored_by": 452,
+      "rank": 14417,
+      "popularity": 8087,
+      "members": 7616,
+      "favorites": 20,
+      "synopsis": "A young man named Riddle had lost all of his friends—and the entire world—at the hands of a mysterious organization known as the \"Box of Malice.\" Having lost all hope to live, he dwelled in a pit of despair until he has one final revelation. What if... he could return to a time before everything ended? And so, after a thousand years, a deformed Riddle finally manages to reverse time. \"I'm going to stop them this time...!\" Equipped with a thousand years of knowledge and experience in his young body, the Great Sage Riddle's journey to the past now unfolds!\n\n(Source: Shogakukan, translated)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "21:55",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 21:55 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 1430,
+          "type": "anime",
+          "name": "Shogakukan",
+          "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        },
+        {
+          "mal_id": 3307,
+          "type": "anime",
+          "name": "Tatooine Sound",
+          "url": "https://myanimelist.net/anime/producer/3307/Tatooine_Sound"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2844,
+          "type": "anime",
+          "name": "Imagica Infos",
+          "url": "https://myanimelist.net/anime/producer/2844/Imagica_Infos"
+        },
+        {
+          "mal_id": 2983,
+          "type": "anime",
+          "name": "Imageworks Studio",
+          "url": "https://myanimelist.net/anime/producer/2983/Imageworks_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 78,
+          "type": "anime",
+          "name": "Time Travel",
+          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
         }
       ],
       "demographics": []
@@ -1312,24 +1312,24 @@
       "demographics": []
     },
     {
-      "mal_id": 61831,
-      "url": "https://myanimelist.net/anime/61831/Saikyou_no_Ousama_Nidome_no_Jinsei_wa_Nani_wo_Suru_Season_2",
+      "mal_id": 62604,
+      "url": "https://myanimelist.net/anime/62604/Otaku_ni_Yasashii_Gal_wa_Inai",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1738/156028.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1738/156028t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1738/156028l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1956/155456.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1956/155456t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1956/155456l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1738/156028.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1738/156028t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1738/156028l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1956/155456.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1956/155456t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1956/155456l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/S8DeCkX0HeM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/FQwlxIgp0ME?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -1342,38 +1342,32 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2"
-        },
-        {
-          "type": "Synonym",
-          "title": "TBATE"
+          "title": "Otaku ni Yasashii Gal wa Inai!?"
         },
         {
           "type": "Japanese",
-          "title": "最強の王様、二度目の人生は何をする? Season2"
+          "title": "オタクに優しいギャルはいない!?"
         },
         {
           "type": "English",
-          "title": "The Beginning After the End Season 2"
+          "title": "Gals Can't Be Kind to Otaku!?"
         }
       ],
-      "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
-      "title_english": "The Beginning After the End Season 2",
-      "title_japanese": "最強の王様、二度目の人生は何をする? Season2",
-      "title_synonyms": [
-        "TBATE"
-      ],
+      "title": "Otaku ni Yasashii Gal wa Inai!?",
+      "title_english": "Gals Can't Be Kind to Otaku!?",
+      "title_japanese": "オタクに優しいギャルはいない!?",
+      "title_synonyms": [],
       "type": "TV",
-      "source": "Other",
+      "source": "Manga",
       "episodes": null,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2026-04-01T00:00:00+00:00",
+        "from": "2026-04-08T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 1,
+            "day": 8,
             "month": 4,
             "year": 2026
           },
@@ -1383,121 +1377,80 @@
             "year": null
           }
         },
-        "string": "Apr 1, 2026 to ?"
+        "string": "Apr 8, 2026 to ?"
       },
-      "duration": "22 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 6.13,
-      "scored_by": 3310,
-      "rank": 10125,
-      "popularity": 3656,
-      "members": 48126,
-      "favorites": 116,
-      "synopsis": "Second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
-      "background": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 aired on Fuji TV's +Ultra block.",
+      "duration": "Unknown",
+      "rating": null,
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 4664,
+      "members": 30003,
+      "favorites": 83,
+      "synopsis": "Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different \"castes,\" you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!\n\n(Source: Yen Press)",
+      "background": "Otaku ni Yasashii Gal wa Inai!? aired on TV Asahi's IMAnimation W block.",
       "season": "spring",
       "year": 2026,
       "broadcast": {
         "day": "Wednesdays",
-        "time": "23:30",
+        "time": "23:45",
         "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 23:30 (JST)"
+        "string": "Wednesdays at 23:45 (JST)"
       },
       "producers": [
         {
-          "mal_id": 166,
+          "mal_id": 2118,
           "type": "anime",
-          "name": "Movic",
-          "url": "https://myanimelist.net/anime/producer/166/Movic"
-        },
-        {
-          "mal_id": 169,
-          "type": "anime",
-          "name": "Fuji TV",
-          "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
-        },
-        {
-          "mal_id": 238,
-          "type": "anime",
-          "name": "AT-X",
-          "url": "https://myanimelist.net/anime/producer/238/AT-X"
-        },
-        {
-          "mal_id": 460,
-          "type": "anime",
-          "name": "KlockWorx",
-          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
-        },
-        {
-          "mal_id": 735,
-          "type": "anime",
-          "name": "Slow Curve",
-          "url": "https://myanimelist.net/anime/producer/735/Slow_Curve"
-        },
-        {
-          "mal_id": 769,
-          "type": "anime",
-          "name": "Fujipacific Music",
-          "url": "https://myanimelist.net/anime/producer/769/Fujipacific_Music"
-        },
-        {
-          "mal_id": 1412,
-          "type": "anime",
-          "name": "Kansai TV",
-          "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
-        },
-        {
-          "mal_id": 1414,
-          "type": "anime",
-          "name": "bilibili",
-          "url": "https://myanimelist.net/anime/producer/1414/bilibili"
-        },
-        {
-          "mal_id": 1468,
-          "type": "anime",
-          "name": "Crunchyroll",
-          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
-        },
-        {
-          "mal_id": 1563,
-          "type": "anime",
-          "name": "Hakuhodo",
-          "url": "https://myanimelist.net/anime/producer/1563/Hakuhodo"
+          "name": "ADK Emotions",
+          "url": "https://myanimelist.net/anime/producer/2118/ADK_Emotions"
         }
       ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 1209,
+          "mal_id": 73,
           "type": "anime",
-          "name": "Studio A-CAT",
-          "url": "https://myanimelist.net/anime/producer/1209/Studio_A-CAT"
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
         }
       ],
       "genres": [
         {
-          "mal_id": 10,
+          "mal_id": 4,
           "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
         }
       ],
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 62,
+          "mal_id": 69,
           "type": "anime",
-          "name": "Isekai",
-          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+          "name": "Otaku Culture",
+          "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
         },
         {
-          "mal_id": 72,
+          "mal_id": 23,
           "type": "anime",
-          "name": "Reincarnation",
-          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
         }
       ],
-      "demographics": []
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ]
     }
   ]
 }
