@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.55.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.15.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Yamada-kun and the Seven Witches (2015) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamada-kun-seven-witches-2015-s00-dvd.k10226125283595) • [🐱 Nyaa](https://nyaa.si/?q=2FFGL5KV5IR2UBV7SFSRWQTTHL5EY2LW) |
+| `[BlackRabbit] Yamada-kun and the Seven Witches (2015) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamada-kun-seven-witches-2015-s01-bluray.k10226031073284) • [🐱 Nyaa](https://nyaa.si/?q=ODM7WTB4WGSIUXADWEWKYWCFEWGL44QI) |
+| `[BlackRabbit] Ladies Versus Butlers! (2010) - S00 [Bluray...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-ladies-versus-butlers-2010-s00-bluray-1080p.k10225646969098) • [🐱 Nyaa](https://nyaa.si/?q=55NOIHGCVPE25BSUWFSKBLDU5JWJOD27) |
+| `[BlackRabbit] Ladies Versus Butlers! (2010) - S01 [Bluray...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-ladies-versus-butlers-2010-s01-bluray-1080p.k10225595190790) • [🐱 Nyaa](https://nyaa.si/?q=55TL4JKEGIYGLDSRZOTCBXC5U2CBDGB6) |
 | `Blue Archive: 1.5 Shuunenkinen Short Animation | Blue Arc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blue-archive-1-5-shuunenkinen-short-animation-5th.n2095389) • [🐱 Nyaa](https://nyaa.si/?q=XT6GUQGL5UPYAXIGUROIE4WRTFBVRL75) |
 | `[Unfucked] I Made Friends with the Second Prettiest Girl ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-made-friends-second-prettiest-girl-my-class.n2095381) • [🐱 Nyaa](https://nyaa.si/?q=FVTKVLOY53AH45ZKV2AAFQEY7DPVBZK3) |
 | `[Unfucked] NEEDY GIRL OVERDOSE - S01E01 (1080p WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-needy-girl-overdose-s01e01-1080p-web-dl.n2095380) • [🐱 Nyaa](https://nyaa.si/?q=TDSKYI7MZAOLFE7MTJUKWNJSBZNKFWQQ) |
@@ -39,10 +43,6 @@
 | `[DKB] Maid-san wa Taberu dake - S01E02 [1080p][HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-maid-san-wa-taberu-dake-s01e02-1080p.n2095374) • [🐱 Nyaa](https://nyaa.si/?q=JQACMFQP3JGRUGJV2AFFXD7QXNNJ22ON) |
 | `[Reza] Witch Hat Atelier - S01E02 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e02-webrip-aac-1080p.n2095368) • [🐱 Nyaa](https://nyaa.si/?q=SFUUG6I62UURPUDQ52WK7WHLI4KNFRHR) |
 | `[ToonsHub] Walking the Way all alone S01E02 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e02-1080p-bili.n2095367) • [🐱 Nyaa](https://nyaa.si/?q=N7ZRYXEAXXHHM2R3HYVR65NBHRU2PVWA) |
-| `[ToonsHub] Walking the Way all alone S01E01 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e01-1080p-bili.n2095366) • [🐱 Nyaa](https://nyaa.si/?q=IJBNFSRUL63TCJATEF7MMJRIGOTN7SAT) |
-| `[SubsMix] Grand Blue S02 (BD 1080p AVC FLAC) (Grand Blue ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsmix-grand-blue-s02-bd-1080p-avc-flac.n2095363) • [🐱 Nyaa](https://nyaa.si/?q=LBTRHGCP2QWU2FKSJXB23CGRNE5DHWFH) |
-| `[Raze] MARRIAGETOXIN - 01 x265 10bit 1080p 143.8561fps.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-marriagetoxin-01-x265-10bit-1080p-143-8561fps-mkv.n2095352) • [🐱 Nyaa](https://nyaa.si/?q=Y57DB2WQL6YFFSAJT4MMN4HWX6YAX6T2) |
-| `[9volt] Sousou no Frieren - 37 (S02E09) (WEB 1080p HEVC E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/9volt-sousou-no-frieren-37-s02e09-web-1080p.k10218871161615) • [🐱 Nyaa](https://nyaa.si/?q=CTAK4EGTVJPKNUKAC4LURMFBXTDHARJV) |
 
 ---
 <div align="center">
