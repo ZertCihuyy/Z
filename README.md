@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.15.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.45.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Sekirei (2008) - S00 [Bluray-720p][Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-sekirei-2008-s00-bluray-720p-opus-2.k10226655073799) • [🐱 Nyaa](https://nyaa.si/?q=TYITDDUZCKLLR4ATZMW3K7XI3CTGXDMJ) |
+| `[BlackRabbit] Sekirei (2008) - S02 [Bluray-1080p][Opus 2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-sekirei-2008-s02-bluray-1080p-opus-2.k10226609157893) • [🐱 Nyaa](https://nyaa.si/?q=RFWIHAYHRGPQW3FIWURGAVSGY7UIDRES) |
+| `[BlackRabbit] Sekirei (2008) - S01 [Bluray-720p][Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-sekirei-2008-s01-bluray-720p-opus-2.k10226557577736) • [🐱 Nyaa](https://nyaa.si/?q=SFQYVVTNOQZQRJW5TZ775QXNUCTR3KLP) |
+| `Macademi Wasshoi!.iso` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/macademi-wasshoi-iso.n2095395) • [🐱 Nyaa](https://nyaa.si/?q=WIVYOVNGVLA2R7LISJ5V4S5MDU6IXESN) |
 | `[BlackRabbit] Yamada-kun and the Seven Witches (2015) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamada-kun-seven-witches-2015-s00-dvd.k10226125283595) • [🐱 Nyaa](https://nyaa.si/?q=2FFGL5KV5IR2UBV7SFSRWQTTHL5EY2LW) |
 | `[BlackRabbit] Yamada-kun and the Seven Witches (2015) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-yamada-kun-seven-witches-2015-s01-bluray.k10226031073284) • [🐱 Nyaa](https://nyaa.si/?q=ODM7WTB4WGSIUXADWEWKYWCFEWGL44QI) |
 | `[BlackRabbit] Ladies Versus Butlers! (2010) - S00 [Bluray...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-ladies-versus-butlers-2010-s00-bluray-1080p.k10225646969098) • [🐱 Nyaa](https://nyaa.si/?q=55NOIHGCVPE25BSUWFSKBLDU5JWJOD27) |
@@ -39,10 +43,6 @@
 | `[AK4NE] Dorohedoro - S00E08 - Bonus Curse or Extra Evil (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-dorohedoro-s00e08-bonus-curse-extra-evil-bd.k10223399101448) • [🐱 Nyaa](https://nyaa.si/?q=AUMTOGWD7JRZYWXJFC7YC257BBSSXODL) |
 | `[Judas] Niwatori Fighter (Rooster Fighter) - S01E04 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e04-1080p-hevc-x265.n2095378) • [🐱 Nyaa](https://nyaa.si/?q=G4RZR6UTBNNN5R3F7D2UMLCGNDSE47ZY) |
 | `[AK4NE] Dorohedoro - S01 E01-E12 (BD-Enc 1080p AV1 OPUS) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-dorohedoro-s01-e01-e12-bd-enc-1080p.k10222807127311) • [🐱 Nyaa](https://nyaa.si/?q=TPGGQLQEBQ3SXK46BWBPGM7BZE2PVESG) |
-| `[Ommex] Doraemon (2005) Episode 909 [ENG SUB][1080p x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ommex-doraemon-2005-episode-909-eng-sub-1080p-x265-aac.n2095375) • [🐱 Nyaa](https://nyaa.si/?q=JGHN7GYHD72SACZWCIOVKKFN5MQJZFOX) |
-| `[DKB] Maid-san wa Taberu dake - S01E02 [1080p][HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-maid-san-wa-taberu-dake-s01e02-1080p.n2095374) • [🐱 Nyaa](https://nyaa.si/?q=JQACMFQP3JGRUGJV2AFFXD7QXNNJ22ON) |
-| `[Reza] Witch Hat Atelier - S01E02 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e02-webrip-aac-1080p.n2095368) • [🐱 Nyaa](https://nyaa.si/?q=SFUUG6I62UURPUDQ52WK7WHLI4KNFRHR) |
-| `[ToonsHub] Walking the Way all alone S01E02 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e02-1080p-bili.n2095367) • [🐱 Nyaa](https://nyaa.si/?q=N7ZRYXEAXXHHM2R3HYVR65NBHRU2PVWA) |
 
 ---
 <div align="center">
