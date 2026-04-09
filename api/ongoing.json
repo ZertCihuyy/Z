@@ -1,5 +1,5 @@
 {
-  "last_update": "9/4/2026, 06.43.32",
+  "last_update": "9/4/2026, 07.54.29",
   "data": [
     {
       "mal_id": 61316,
@@ -61,8 +61,8 @@
       "type": "TV",
       "source": "Light novel",
       "episodes": 19,
-      "status": "Not yet aired",
-      "airing": false,
+      "status": "Currently Airing",
+      "airing": true,
       "aired": {
         "from": "2026-04-08T00:00:00+00:00",
         "to": null,
@@ -80,14 +80,14 @@
         },
         "string": "Apr 8, 2026 to ?"
       },
-      "duration": "Unknown",
+      "duration": "23 min per ep",
       "rating": "R - 17+ (violence & profanity)",
-      "score": null,
-      "scored_by": null,
-      "rank": null,
-      "popularity": 1689,
-      "members": 158435,
-      "favorites": 1030,
+      "score": 8.83,
+      "scored_by": 6119,
+      "rank": 32,
+      "popularity": 1647,
+      "members": 164222,
+      "favorites": 1146,
       "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa)",
       "background": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season is comprised of two arcs. The first eleven episodes are subtitled Soushitsu-hen (Loss Arc). The latter eight, subtitled Dakkan-hen (Recapture Arc), began airing on August 12, 2026.",
       "season": "spring",
@@ -100,16 +100,40 @@
       },
       "producers": [
         {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
           "mal_id": 306,
           "type": "anime",
           "name": "Magic Capsule",
           "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
         },
         {
+          "mal_id": 647,
+          "type": "anime",
+          "name": "Memory-Tech",
+          "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+          "mal_id": 1333,
+          "type": "anime",
+          "name": "Hakuhodo DY Music & Pictures",
+          "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
           "mal_id": 1696,
           "type": "anime",
           "name": "Kadokawa",
           "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 2927,
+          "type": "anime",
+          "name": "DAXEL",
+          "url": "https://myanimelist.net/anime/producer/2927/DAXEL"
         }
       ],
       "licensors": [],
@@ -439,11 +463,11 @@
       "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.21,
-      "scored_by": 6680,
-      "rank": 417,
-      "popularity": 1736,
-      "members": 152941,
-      "favorites": 866,
+      "scored_by": 7156,
+      "rank": 431,
+      "popularity": 1722,
+      "members": 154809,
+      "favorites": 878,
       "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll)",
       "background": "Tensei shitara Slime Datta Ken 4th Season aired on Nippon TV's Friday Anime Night block.",
       "season": "spring",
@@ -651,12 +675,12 @@
       },
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.8,
-      "scored_by": 8819,
-      "rank": 39,
-      "popularity": 1830,
-      "members": 143971,
-      "favorites": 1027,
+      "score": 8.78,
+      "scored_by": 10970,
+      "rank": 44,
+      "popularity": 1738,
+      "members": 152923,
+      "favorites": 1152,
       "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
       "background": "Beginning with episode 2, each episode was streamed one week in advance of the TV broadcast starting on April 6, 2026, on Abema. Regular broadcasting began on April 6, 2026.",
       "season": "spring",
