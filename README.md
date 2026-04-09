@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.56.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.22.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -26,21 +26,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] MF GHOST S03E12 1080p CR WEB-DL DUAL AAC2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mf-ghost-s03e12-1080p-cr-web-dl.k10254354254342) • [🐱 Nyaa](https://nyaa.si/?q=62LYQNLBOMCA5LFYHGIKLI4DMLAT345N) |
-| `[ToonsHub] Dr STONE S04E26 1080p CR WEB-DL MULTi AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e26-1080p-cr-web-dl.k10254298972168) • [🐱 Nyaa](https://nyaa.si/?q=SIO7RHMS6YKBE63YABVAQRUOVSUORGP4) |
-| `Dr STONE S04E26 Fire 1080p CR WEB-DL MULTi AAC2.0 H 264-V...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dr-stone-s04e26-fire-1080p-cr-web-dl.n2095890) • [🐱 Nyaa](https://nyaa.si/?q=PDHWM76KVWFJEEIQWXTTICRR32D4HBVA) |
-| `[Tasokare] Cleopatra D.C. S01 v3 (BD 1080p Opus AV1)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-cleopatra-d-c-s01-v3-bd-1080p-opus-av1.k10254004903944) • [🐱 Nyaa](https://nyaa.si/?q=KPJ5UZWIMRWGTV3HUASSUTWFOQLQZTCG) |
-| `[Kawatare] Cleopatra D.C. S01 v3 (BD 1080p FLAC x265)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-cleopatra-d-c-s01-v3-bd-1080p-flac-x265.k10253984031749) • [🐱 Nyaa](https://nyaa.si/?q=AL3Q7OEYH6IH2V2IAQ6IIPEB2OY335MZ) |
-| `[Yameii] Sentenced to Be a Hero - S01E12 [English Dub] [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-sentenced-hero-s01e12-english-dub-cr-web.n2095889) • [🐱 Nyaa](https://nyaa.si/?q=5GGPF6FCURJ3MNPL4K3N34PSM243SJKH) |
-| `[Yameii] Sentenced to Be a Hero - S01E12 [English Dub] [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-sentenced-hero-s01e12-english-dub-cr-web.n2095887) • [🐱 Nyaa](https://nyaa.si/?q=CK6MJ2ZEZBBTWAJPHS5XUAM6B2ARNJXU) |
-| `[ToonsHub] Sentenced to Be a Hero S01E12 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-sentenced-hero-s01e12-1080p-cr-web-dl.k10253811478278) • [🐱 Nyaa](https://nyaa.si/?q=3UA65S347WGRSLEJTDPIO6KA3Q7TR6SY) |
-| `[Yameii] Dr. Stone - S04E26 [English Dub] [CR WEB-DL 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dr-stone-s04e26-english-dub-cr-web.n2095882) • [🐱 Nyaa](https://nyaa.si/?q=Q6SVWNBSCET6XUTBT2ZWXUSRA4OOMJ7Y) |
-| `[SubsPlease] Kujima Utaeba Ie Hororo - 01 (1080p) [01DDF1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kujima-utaeba-ie-hororo-01-1080p-01ddf1ae-mkv.n2095881) • [🐱 Nyaa](https://nyaa.si/?q=7ZG6OMRTQUYLFXMEMY4OEPSNMO5BBMNT) |
-| `[Yameii] Dr. Stone - S04E26 [English Dub] [CR WEB-DL 720p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dr-stone-s04e26-english-dub-cr-web.n2095880) • [🐱 Nyaa](https://nyaa.si/?q=ZUWMK56JYF6IDLE5G7IO56DKDZF4DDF3) |
-| `Sentenced to Be a Hero S01E12 Sentence Aid in Evacuation ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sentenced-hero-s01e12-sentence-aid-evacuation-ioff-cheg.n2095879) • [🐱 Nyaa](https://nyaa.si/?q=B2H5SWL52GI44RQU5UMJZZAFDAFHPWRJ) |
-| `[SubsPlease] Kujima Utaeba Ie Hororo - 01 (720p) [FA35353...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kujima-utaeba-ie-hororo-01-720p-fa35353c-mkv.n2095878) • [🐱 Nyaa](https://nyaa.si/?q=NXJ7UCEQFIA2QHESQJNMQEC6M2YZP6SJ) |
-| `Dr STONE S04E26 Fire 1080p CR WEB-DL DUAL AAC2.0 H 264-VA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dr-stone-s04e26-fire-1080p-cr-web-dl.n2095877) • [🐱 Nyaa](https://nyaa.si/?q=SSMAM5UBRSQFLYMXKPGXOCQSQHTJX5RB) |
-| `Kujima Why Sing When You Can Warble S01E01 The First Blin...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kujima-why-sing-when-warble-s01e01-first-blin.n2095876) • [🐱 Nyaa](https://nyaa.si/?q=AN3LANN4YMI2MWY4OPSJ4QC3KZ4DNES2) |
+| `The Ramparts of Ice S01E01 1080p DSNP WEB-DL DDP2.0 H.264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e01-1080p-dsnp-web-dl-ddp2.k10255862999818) • [🐱 Nyaa](https://nyaa.si/?q=ZK2ZZTPNEKASZM7UOQBAIEJFU2MT5LG7) |
+| `[ToonsHub] Kirio Fan Club S01E02 1080p HIDIVE WEB-DL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kirio-fan-club-s01e02-1080p-hidive-web.k10255724460810) • [🐱 Nyaa](https://nyaa.si/?q=4237B44JXGUJJ25GIJTY2MZV55LQXXR2) |
+| `[ToonsHub] The Ramparts of Ice S01E01 1080p DSNP WEB-DL D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ramparts-ice-s01e01-1080p-dsnp-web-dl.n2095950) • [🐱 Nyaa](https://nyaa.si/?q=4GBMUVB2WHPSM2Z5YWHYFSM43IZL5QSJ) |
+| `ROLL OVER AND DIE S01E12 The End and the Beginning 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/roll-over-die-s01e12-end-beginning-1080p-cr.n2095949) • [🐱 Nyaa](https://nyaa.si/?q=5G4GT75XY4ATDIM4S6I77ODQO2FFUKCE) |
+| `[SubsPlease] Kirio Fanclub - 02 (1080p) [46B85683].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirio-fanclub-02-1080p-46b85683-mkv.n2095948) • [🐱 Nyaa](https://nyaa.si/?q=I7DOMPM7H3FPPAIDMFZ2T3OJU3M7A52Q) |
+| `[DKB] Himekishi wa Barbaroi no Yome - S01E01 [1080p][HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-himekishi-wa-barbaroi-no-yome-s01e01-1080p.n2095946) • [🐱 Nyaa](https://nyaa.si/?q=IGNSX64ETZEKX2CDNWE2Z7ZBDNE4JN5H) |
+| `[SubsPlease] Kirio Fanclub - 02 (480p) [29840FEC].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirio-fanclub-02-480p-29840fec-mkv.n2095944) • [🐱 Nyaa](https://nyaa.si/?q=NUPTPLWABADREEHBVSVTK5ZZRJNJBLBI) |
+| `[SubsPlease] Kirio Fanclub - 02 (720p) [622970A0].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirio-fanclub-02-720p-622970a0-mkv.n2095945) • [🐱 Nyaa](https://nyaa.si/?q=NUE2L4DN2HWAXTZ3EM2P4BPEMKWSGKL7) |
+| `[Erai-raws] Kirio Fan Club - 02 [480p HIDIVE WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirio-fan-club-02-480p-hidive.k10255604324875) • [🐱 Nyaa](https://nyaa.si/?q=2AWOJULGNP4GCF6LMD5DFMTJ4PICORDK) |
+| `[Ironclad] The Warrior Princess and the Barbaric King - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-warrior-princess-barbaric-king-s01e01-web-1080p.k10255603028495) • [🐱 Nyaa](https://nyaa.si/?q=D3NQNE4WLGW7GFQV5AAOUAUFGXMSPSLS) |
+| `[Erai-raws] Kirio Fan Club - 02 [720p HIDIVE WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirio-fan-club-02-720p-hidive.k10255600985601) • [🐱 Nyaa](https://nyaa.si/?q=MHHBLFRJKKGAKJ7SB3SFQXBUWC26A6F3) |
+| `[Erai-raws] Kirio Fan Club - 02 [1080p HIDIVE WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirio-fan-club-02-1080p-hidive.k10255598273286) • [🐱 Nyaa](https://nyaa.si/?q=UTN32NUFN6AMOTFVYTO6JDOKOXRMCI5P) |
+| `[Onalrie] Dr. Stone - S04E26 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dr-stone-s04e26-1080p-webrip-av1-mkv.2073085) • [🐱 Nyaa](https://nyaa.si/?q=FAMOU24RXYLVL4BJMIAI7GMM2IXQZYP6) |
+| `[ToonsHub] ROLL OVER AND DIE S01E12 1080p CR WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-roll-over-die-s01e12-1080p-cr-web.k10255595566349) • [🐱 Nyaa](https://nyaa.si/?q=K4CAJCBPR5BBH4L3PWFM6LK6P7DBEAKV) |
+| `Kirio Fan Club S01E02 When I Saw Your Tears That Day 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kirio-fan-club-s01e02-when-saw-your-tears.n2095938) • [🐱 Nyaa](https://nyaa.si/?q=7X4DXPAQG5YQEDYKSK3C43AEL5NWEO6M) |
 
 ---
 <div align="center">
