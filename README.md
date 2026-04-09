@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.46.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.16.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] Oshi no Ko S03E07 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e07-1080p-webrip-av1.k10248183703300) • [🐱 Nyaa](https://nyaa.si/?q=SINELZKXDGVRF3OQKW6XRGME2MTXWKCD) |
 | `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E02 [1080p AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-jidouhanbaiki-ni-umarekawatta-s03e02-1080p-av1-reborn.n2095776) • [🐱 Nyaa](https://nyaa.si/?q=FI2U4VIHCDPCLLQWEE6OD36PDNMLWTME) |
 | `[LbE3L] The Ramparts of Ice S01E01 (Koori no Jouheki) [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-ramparts-ice-s01e01-koori-no-jouheki-1080p.k10246054330369) • [🐱 Nyaa](https://nyaa.si/?q=4PBYSA6BOYBJHNVKWJLFDZX4GYFBOMIV) |
 | `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E01 (1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-gals-cant-kind-otaku-s01e01-1080p-cr.n2095775) • [🐱 Nyaa](https://nyaa.si/?q=HREINTJUSZDROOXADSNGB4YHUL5DJI4E) |
@@ -39,7 +40,6 @@
 | `[Okay-Subs] Sono Bisque Doll wa Koi wo Suru S2 (BD 1080p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/okay-subs-sono-bisque-doll-wa-koi-wo.n2095762) • [🐱 Nyaa](https://nyaa.si/?q=DA5XECMU2UFFIINZ2XOKFCVQIVXPOKIP) |
 | `[Gecko] Reborn as a Cat - S01E24 (为喵人生; Wei Miao Rensheng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e24-wei-miao-rensheng-bili.k10243636538374) • [🐱 Nyaa](https://nyaa.si/?q=UEUVX7W3GJJ435LSDPBGHIOJ25PJZA3W) |
 | `[ToonsHub] Reborn as a Cat S01E24 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e24-1080p-bili-web-dl.n2095754) • [🐱 Nyaa](https://nyaa.si/?q=PKZ3U4ATNMZR556OP4RB7WXG3KPNWEDG) |
-| `[kneelack] LUPIN THE IIIRD Movies [Dual-Audio] [BD Remux]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kneelack-lupin-iiird-movies-dual-audio-bd-remux-avc-flac.n2095753) • [🐱 Nyaa](https://nyaa.si/?q=ZAMUN37Z6E2J7LER2VDOSF5GOX26BFM4) |
 
 ---
 <div align="center">
