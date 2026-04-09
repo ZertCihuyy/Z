@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.38.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.39.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] Haibaras Teenage New Game S01E02 Dreamlike Days 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-haibaras-teenage-new-game-s01e02-dreamlike-days.k10257923897093) • [🐱 Nyaa](https://nyaa.si/?q=WF6OE5HXC4ILUAGM55KLWEKYCKWNFNNF) |
+| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.k10257912096772) • [🐱 Nyaa](https://nyaa.si/?q=PQ37QB2GZYCFF37G6MHKYY2EGC4FHO3U) |
+| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.k10257909927944) • [🐱 Nyaa](https://nyaa.si/?q=PBJSG4ZTA46DEJSOZXM6Z4C2AVBHI6TR) |
+| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.k10257908056070) • [🐱 Nyaa](https://nyaa.si/?q=YESC5PEAH43PP5C4WGOCWICDB74H52MV) |
+| `[ToonsHub] Haibaras Teenage New Game S01E02 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-haibaras-teenage-new-game-s01e02-1080p-cr.k10257898924039) • [🐱 Nyaa](https://nyaa.si/?q=CNJ3PX34WLBMDJC2VUZTEBUDU3UYHRZ6) |
+| `[Judas] Reincarnation no Kaben (Petals of Reincarnation) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-reincarnation-no-kaben-petals-s01e02-1080p-hevc.n2096020) • [🐱 Nyaa](https://nyaa.si/?q=OSHU3N767JPFAE3KJRXR7J4ZHJ6B3AFG) |
+| `[Onalrie] Awajima Hyakkei - S01E01 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-awajima-hyakkei-s01e01-1080p-webrip-av1-mkv.2073110) • [🐱 Nyaa](https://nyaa.si/?q=YH4SVMZQAAWGWU2546NWNZBLPYAKE4S6) |
+| `[Erai-raws] Kujima Utaeba Ie Hororo - 01 [1080p CR WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kujima-utaeba-ie-hororo-01-1080p.k10257335349254) • [🐱 Nyaa](https://nyaa.si/?q=ZM5G3X7UZFTVO2YAGN4OZ6IVPUHZHQQ5) |
+| `[yaneura] Re:Zero Starting Life in Another World S00E71 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yaneura-re-zero-starting-life-another-world-s00e71.k10257212694273) • [🐱 Nyaa](https://nyaa.si/?q=PRUJBULS7P2STLO74OPGSLR6MBQIU3ML) |
+| `[ToonsHub] Marikas Love Meter Malfunction S01E01 1080p UN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-marikas-love-meter-malfunction-s01e01-1080p.k10257083763712) • [🐱 Nyaa](https://nyaa.si/?q=RBYBXXO67B42ZQAY72LKPY7XH5L4YJ37) |
+| `[ASW] Awajima Hyakkei - 01 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-awajima-hyakkei-01-1080p-hevc-x265-10bit-aac.n2096014) • [🐱 Nyaa](https://nyaa.si/?q=IUCFZHNFVEJOYQPHAVI52BF3VNW5LTEQ) |
 | `[Gecko] Monster Eater - S01E02 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e02-mamonogurai-no-boukensha-ore.n2096013) • [🐱 Nyaa](https://nyaa.si/?q=P57UIV2AJKKSGT33TTWWRPQQ55K3YGBS) |
 | `[ToonsHub] Monster Eater S01E02 1080p AMZN WEB-DL DDP2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-monster-eater-s01e02-1080p-amzn-web-dl.k10256945702148) • [🐱 Nyaa](https://nyaa.si/?q=SRHOQATVSIEZMFFPAARJQPXVCGUG2CVF) |
 | `[Onalrie] Reincarnation no Kaben - S01E02 [1080p WEBRip A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-reincarnation-no-kaben-s01e02-1080p-webrip-av1-mkv.2073104) • [🐱 Nyaa](https://nyaa.si/?q=XZLIN3UVRJLTXPZJ7Q7Q3QO6676FEMRB) |
 | `[Trix] Awajima Hyakkei S01E01 [WEBRip 1080p AV1 Opus] (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-awajima-hyakkei-s01e01-webrip-1080p-av1-opus.n2096008) • [🐱 Nyaa](https://nyaa.si/?q=RKKAHH45HSQANAA77RLAML44H5WSNHXC) |
-| `[ASW] Reincarnation no Kaben - 02 [1080p HEVC x265 10Bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-reincarnation-no-kaben-02-1080p-hevc-x265-10bit-aac.n2096006) • [🐱 Nyaa](https://nyaa.si/?q=CWQHQJXLMJYK352TUK5QUNWT5F3TOHON) |
-| `[Judas] Himekishi wa Barbaroi no Yome (The Warrior Prince...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-himekishi-wa-barbaroi-no-yome-warrior-princess.n2096005) • [🐱 Nyaa](https://nyaa.si/?q=CJ2E26MGZX4GGDV2ZCPHSVDO5LVIT56P) |
-| `[Yameii] Anyway, I'm Falling in Love with You. - S02E12 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-anyway-im-falling-love-s02e12-english-dub.n2096002) • [🐱 Nyaa](https://nyaa.si/?q=BMQCU33GFBHAPHXRJLEVUT57MJJQ2M3Q) |
-| `[Yameii] Anyway, I'm Falling in Love with You. - S02E12 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-anyway-im-falling-love-s02e12-english-dub.n2096001) • [🐱 Nyaa](https://nyaa.si/?q=DVJAGH6WGPJAYZBXUORHD4ZSALDBXSWF) |
-| `[Kosaka] One-Punch Man S03 (WEBRip 1080p AV1 OPUS) [Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kosaka-one-punch-man-s03-webrip-1080p-av1.k10256587243781) • [🐱 Nyaa](https://nyaa.si/?q=MQVTM445LO4IBSHF5WVZKU4MR4NSVAWK) |
-| `Anyway Im Falling in Love with You S02E12 Anyway Im Falli...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anyway-im-falling-love-s02e12-1080p-cr-web.n2095997) • [🐱 Nyaa](https://nyaa.si/?q=5YIGDAEKXLA6RZM6TZMM2U47EDRGWKGE) |
-| `[ToonsHub] Anyway Im Falling in Love with You S02E12 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e12-1080p-cr.n2095996) • [🐱 Nyaa](https://nyaa.si/?q=W25C5QXDVGVKY564XSVQEWHKS5AH4PN3) |
-| `[ToonsHub] Petals of Reincarnation S01E02 1080p AMZN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-petals-reincarnation-s01e02-1080p-amzn-web-dl.k10256453667343) • [🐱 Nyaa](https://nyaa.si/?q=SEAMRXK53WSQJT3MJ7QBKR24H7T2DMOQ) |
-| `[Erai-raws] Himekishi wa Barbaroi no Yome - 01 [1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-himekishi-wa-barbaroi-no-yome-01.k10256447246083) • [🐱 Nyaa](https://nyaa.si/?q=7WXBVUEAQIGWOZ46VNKCBXCJB2EHOL3C) |
-| `[Erai-raws] Awajima Hyakkei - 01 [480p CR WEB-DL AVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-01-480p-cr-web.n2095993) • [🐱 Nyaa](https://nyaa.si/?q=V7BJYK4MZNQ6WAPPNGGKWQ3OPBIVWVQ2) |
-| `[Erai-raws] Awajima Hyakkei - 01 [720p CR WEB-DL AVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-01-720p-cr-web.n2095992) • [🐱 Nyaa](https://nyaa.si/?q=6SAQFZPEGNJI3ZXK3VM2V5X7AHU5OJMP) |
 
 ---
 <div align="center">
