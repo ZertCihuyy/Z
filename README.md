@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.52.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.57.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Howl's Moving Castle (2004) ハウルの動く城 [12-bit 4:2:0 Decrypt...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/howls-moving-castle-2004-12-bit-4-2.n2096081) • [🐱 Nyaa](https://nyaa.si/?q=DRQF4DPUKYAH2OCLAJQ4QYGB7MPBI4ZB) |
+| `Nausicaä of the Valley of the Wind (1984) 風の谷のナウシカ [12-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nausica-valley-wind-1984-12-bit-4-2.n2096080) • [🐱 Nyaa](https://nyaa.si/?q=YDGUKY3MBJROPOTFIJTBJILARNFAVKHR) |
+| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.n2096079) • [🐱 Nyaa](https://nyaa.si/?q=WDMQDI3D23HC2JFDEJZX5TVKNA3NXWKW) |
+| `[DKB] Koori no Jouheki - S01E02 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e02-1080p-hevc-x265.n2096078) • [🐱 Nyaa](https://nyaa.si/?q=7RLNQYRRXMHPQXQVF3T3KFL6JCHQQL5S) |
+| `[DKB] Reincarnation no Kaben - S01E02 [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-reincarnation-no-kaben-s01e02-1080p-hevc-x265-10bit.n2096077) • [🐱 Nyaa](https://nyaa.si/?q=5PDB4SKDPXTGR4ZF7ERRTLYJUPIM73PX) |
+| `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mata-korosarete-shimatta-no-desu-ne-tantei.n2096075) • [🐱 Nyaa](https://nyaa.si/?q=LOESUO6BY2RN6KSDJT37KO6SHWAPACCL) |
+| `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E12.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e12-multi-audio.n2096073) • [🐱 Nyaa](https://nyaa.si/?q=LTNHC3CJO4BIQ3HYD5OADU5QHED5AVXG) |
+| `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mata-korosarete-shimatta-no-desu-ne-tantei.2073137) • [🐱 Nyaa](https://nyaa.si/?q=TTLMRBZYPTURNCPXDTH2DYQRI2RCPXDW) |
+| `[Anime Time] Jujutsu Kaisen - S03E12 [1080p][HEVC 10bit x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-jujutsu-kaisen-s03e12-1080p-hevc-10bit.n2096072) • [🐱 Nyaa](https://nyaa.si/?q=Q2WOC24V6VLQS4RGS2NYQ7PC5WF5R2LW) |
 | `[ASW] Mata Korosarete Shimatta no desu ne, Tantei-sama - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-mata-korosarete-shimatta-no-desu-ne-tantei.n2096070) • [🐱 Nyaa](https://nyaa.si/?q=MQS5UUIEZRX2LEBOP3PSDTPUS74EP4YY) |
 | `[Erai-raws] Koori no Jouheki - 02 [1080p NF WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-koori-no-jouheki-02-1080p-nf.n2096068) • [🐱 Nyaa](https://nyaa.si/?q=D6SI7SAJNF42XJCCE46D7JDU6NIJKH4Z) |
 | `[SubsPlus+] Kirio Fan Club - S01E02 (ABEMA WEB-DL 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-kirio-fan-club-s01e02-abema-web-dl.k10258691430150) • [🐱 Nyaa](https://nyaa.si/?q=PZRCDYFMJJIPGQO66HTZ2CL57G5GY5NU) |
 | `[Onalrie] Haibara-kun no Tsuyokute Seishun New Game - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-haibara-kun-no-tsuyokute-seishun-new-game.2073134) • [🐱 Nyaa](https://nyaa.si/?q=PBJBR3YV6NWM7YPS76HIGOKCV76K4U4O) |
 | `[SubsPlus+] Petals of Reincarnation - S01E02 (AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-petals-reincarnation-s01e02-amzn-web-dl-1080p.k10258516738060) • [🐱 Nyaa](https://nyaa.si/?q=NHEUI7LQH5MTU4PV2X4V4NYCB3KV74L3) |
 | `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 02 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-haibara-kun-no-tsuyokute-seishun-new-game.n2096063) • [🐱 Nyaa](https://nyaa.si/?q=2M4WBOM46HOV5KNFIRH5F5OFVDFY5LO7) |
-| `Killed again Mr Detective S01E02 The Queen Irie Murder Ca...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/killed-again-mr-detective-s01e02-queen-irie-murder.n2096059) • [🐱 Nyaa](https://nyaa.si/?q=BYI3HXE3HZBB4G2KM23RTXV3ZUWVVWHG) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.k10258368438025) • [🐱 Nyaa](https://nyaa.si/?q=2ZI36O6ZUJRRCL6JFBUVZG6MVMMZX57W) |
-| `[SubsPlease] Mata Korosarete Shimatta no desu ne, Tantei-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mata-korosarete-shimatta-no-desu-ne-tantei.n2096051) • [🐱 Nyaa](https://nyaa.si/?q=43O6TJUUSYDDNMY7Z72GKE3JTRJG4N6U) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.k10258366195208) • [🐱 Nyaa](https://nyaa.si/?q=YY7FU6ETUMDECO3PQES7DDIWIVOAA2GC) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.k10258364482051) • [🐱 Nyaa](https://nyaa.si/?q=LHZRQULR7YBTGSOHWMCCJTF5LUHA5FWT) |
-| `[ToonsHub] Killed again Mr Detective S01E02 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-killed-again-mr-detective-s01e02-1080p-cr.k10258360040201) • [🐱 Nyaa](https://nyaa.si/?q=MZNQVBZ4BN4AELI7AEL3PMNPU6Q5IRMA) |
-| `[SubsPlease] Mata Korosarete Shimatta no desu ne, Tantei-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mata-korosarete-shimatta-no-desu-ne-tantei.n2096043) • [🐱 Nyaa](https://nyaa.si/?q=LYDL3PN7CYIITTHDRUFL2NMFYMLILYS6) |
-| `[SubsPlease] Mata Korosarete Shimatta no desu ne, Tantei-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mata-korosarete-shimatta-no-desu-ne-tantei.n2096044) • [🐱 Nyaa](https://nyaa.si/?q=WAMC2BYWN2HV3ZCCM2RMZDLJ3NBSJQ7M) |
-| `[TokekHutan] Marika's Love Meter Malfunction - S01E01 (茉莉...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tokekhutan-marikas-love-meter-malfunction-s01e01-lovemeter.k10258275604233) • [🐱 Nyaa](https://nyaa.si/?q=C2JCWS6L5OFB4JFWEDW67WDRFCR34JSZ) |
 
 ---
 <div align="center">
