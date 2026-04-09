@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.16.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.41.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Re ZERO Starting Life in Another World S04E01 A Reason to...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/re-zero-starting-life-another-world-s04e01-reason.n2095796) • [🐱 Nyaa](https://nyaa.si/?q=B57N757XGF263DTBP7KFACTIR3FSQ5JD) |
+| `[TIU] Yosuga no Sora [BD 1920x1080 x264 FLAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tiu-yosuga-no-sora-bd-1920x1080-x264-flac.n2095795) • [🐱 Nyaa](https://nyaa.si/?q=RSSBQIZGCFATDFFEW4XWIP77ONFFORNR) |
+| `[DB] Summertime Render | Summer Time Rendering [Dual Audi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-summertime-render-summer-time-rendering-dual-audio.n2095794) • [🐱 Nyaa](https://nyaa.si/?q=CQJILBXGGRVVUCPMB72KN6P6IZOREVIH) |
 | `[LbE3L] Oshi no Ko S03E07 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e07-1080p-webrip-av1.k10248183703300) • [🐱 Nyaa](https://nyaa.si/?q=SINELZKXDGVRF3OQKW6XRGME2MTXWKCD) |
 | `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E02 [1080p AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-jidouhanbaiki-ni-umarekawatta-s03e02-1080p-av1-reborn.n2095776) • [🐱 Nyaa](https://nyaa.si/?q=FI2U4VIHCDPCLLQWEE6OD36PDNMLWTME) |
 | `[LbE3L] The Ramparts of Ice S01E01 (Koori no Jouheki) [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-ramparts-ice-s01e01-koori-no-jouheki-1080p.k10246054330369) • [🐱 Nyaa](https://nyaa.si/?q=4PBYSA6BOYBJHNVKWJLFDZX4GYFBOMIV) |
@@ -37,9 +40,6 @@
 | `[BlackRose] Your Name. (2016) (BD 1080p H.264 10-bit Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-your-name-2016-bd-1080p-h-264.k10244231719427) • [🐱 Nyaa](https://nyaa.si/?q=24OSXLUPXQPDOEJ7QFJQCBOOGNFHJH3K) |
 | `[BlackRose] Your Name. (2016) (BD 1080p HEVC 10-bit Opus)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-your-name-2016-bd-1080p-hevc-10.k10244222453004) • [🐱 Nyaa](https://nyaa.si/?q=BF5DJZOQZ4N3SY3ZIU4YWTJBRFLZ5J7T) |
 | `[MiniMTBB] Sono Bisque Doll wa Koi wo Suru S2 (BD 1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/minimtbb-sono-bisque-doll-wa-koi-wo-suru.n2095763) • [🐱 Nyaa](https://nyaa.si/?q=6RWEIM4KVZUYGTJNY2W5ATWJ74H4D4HB) |
-| `[Okay-Subs] Sono Bisque Doll wa Koi wo Suru S2 (BD 1080p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/okay-subs-sono-bisque-doll-wa-koi-wo.n2095762) • [🐱 Nyaa](https://nyaa.si/?q=DA5XECMU2UFFIINZ2XOKFCVQIVXPOKIP) |
-| `[Gecko] Reborn as a Cat - S01E24 (为喵人生; Wei Miao Rensheng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e24-wei-miao-rensheng-bili.k10243636538374) • [🐱 Nyaa](https://nyaa.si/?q=UEUVX7W3GJJ435LSDPBGHIOJ25PJZA3W) |
-| `[ToonsHub] Reborn as a Cat S01E24 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e24-1080p-bili-web-dl.n2095754) • [🐱 Nyaa](https://nyaa.si/?q=PKZ3U4ATNMZR556OP4RB7WXG3KPNWEDG) |
 
 ---
 <div align="center">
