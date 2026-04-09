@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.50.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.41.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Kiki's Delivery Service (1989) 魔女の宅急便 [12-bit 4:2:0 Decry...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kikis-delivery-service-1989-12-bit-4-2.n2096108) • [🐱 Nyaa](https://nyaa.si/?q=NMAABJR5DOEIQ54KJV62A6B3ESP6VJMV) |
+| `[TokekHutan] I'll Live a Long Life to Dote on My Favorite...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tokekhutan-ill-live-long-life-dote-my-favorite.n2096106) • [🐱 Nyaa](https://nyaa.si/?q=AQZAOKFZEU57MXVR5HGSBKGFLPLPXUT4) |
+| `JUJUTSU KAISEN S03E11 Tokyo No 1 Colony Part 5 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jujutsu-kaisen-s03e11-tokyo-no-1-colony-part.n2096104) • [🐱 Nyaa](https://nyaa.si/?q=2AT3CDFY424OHBM7HPHGQKYPFEREXSQ2) |
+| `Penguin Musume Heart 1-22.iso` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/penguin-musume-heart-1-22-iso.n2096101) • [🐱 Nyaa](https://nyaa.si/?q=XK6HGKDNHOXNFAZ66E2G5P6JQLTDDQJV) |
 | `[Anime Time] Sentenced To Be A Hero (Yuusha-kei ni Shosu:...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2096087) • [🐱 Nyaa](https://nyaa.si/?q=RE4VPLSRSFZN4PWSXGL3VVTODYM3YQEA) |
 | `[Raze] Tongari Boushi no Atelier - 02 x265 10bit 1080p 14...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-tongari-boushi-no-atelier-02-x265-10bit.n2096086) • [🐱 Nyaa](https://nyaa.si/?q=UQTBXD2QRVT3PLPIVRZIVWRAGFNP353I) |
 | `[Raze] Tongari Boushi no Atelier - 01 x265 10bit 1080p 14...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-tongari-boushi-no-atelier-01-x265-10bit.n2096085) • [🐱 Nyaa](https://nyaa.si/?q=B2QOUEH2QJ3PCJF5TWA2EHZD33PBV5EO) |
@@ -39,10 +43,6 @@
 | `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.n2096079) • [🐱 Nyaa](https://nyaa.si/?q=WDMQDI3D23HC2JFDEJZX5TVKNA3NXWKW) |
 | `[DKB] Koori no Jouheki - S01E02 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e02-1080p-hevc-x265.n2096078) • [🐱 Nyaa](https://nyaa.si/?q=7RLNQYRRXMHPQXQVF3T3KFL6JCHQQL5S) |
 | `[DKB] Reincarnation no Kaben - S01E02 [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-reincarnation-no-kaben-s01e02-1080p-hevc-x265-10bit.n2096077) • [🐱 Nyaa](https://nyaa.si/?q=5PDB4SKDPXTGR4ZF7ERRTLYJUPIM73PX) |
-| `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mata-korosarete-shimatta-no-desu-ne-tantei.n2096075) • [🐱 Nyaa](https://nyaa.si/?q=LOESUO6BY2RN6KSDJT37KO6SHWAPACCL) |
-| `Bishoujo.Senshi.Sailor.Moon.Crystal.S03E12.MULTI.Audio.Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bishoujo-senshi-sailor-moon-crystal-s03e12-multi-audio.n2096073) • [🐱 Nyaa](https://nyaa.si/?q=LTNHC3CJO4BIQ3HYD5OADU5QHED5AVXG) |
-| `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mata-korosarete-shimatta-no-desu-ne-tantei.2073137) • [🐱 Nyaa](https://nyaa.si/?q=TTLMRBZYPTURNCPXDTH2DYQRI2RCPXDW) |
-| `[Anime Time] Jujutsu Kaisen - S03E12 [1080p][HEVC 10bit x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-jujutsu-kaisen-s03e12-1080p-hevc-10bit.n2096072) • [🐱 Nyaa](https://nyaa.si/?q=Q2WOC24V6VLQS4RGS2NYQ7PC5WF5R2LW) |
 
 ---
 <div align="center">
