@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.41.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.39.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Koala's Diary - S01E28 (コアラ絵日記; Koala Enikki) [YT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e28-koala-enikki-ytb-web.n2095802) • [🐱 Nyaa](https://nyaa.si/?q=YX56C5RA64KGXRVP6JVX5G7MAZ4PRYNY) |
+| `[ToonsHub] Koalas Diary S01E28 1080p LNTV WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e28-1080p-lntv-web-dl.n2095801) • [🐱 Nyaa](https://nyaa.si/?q=IGFG3TDXAOGREQHHCWED4URB75TI4D55) |
 | `Re ZERO Starting Life in Another World S04E01 A Reason to...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/re-zero-starting-life-another-world-s04e01-reason.n2095796) • [🐱 Nyaa](https://nyaa.si/?q=B57N757XGF263DTBP7KFACTIR3FSQ5JD) |
 | `[TIU] Yosuga no Sora [BD 1920x1080 x264 FLAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tiu-yosuga-no-sora-bd-1920x1080-x264-flac.n2095795) • [🐱 Nyaa](https://nyaa.si/?q=RSSBQIZGCFATDFFEW4XWIP77ONFFORNR) |
 | `[DB] Summertime Render | Summer Time Rendering [Dual Audi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-summertime-render-summer-time-rendering-dual-audio.n2095794) • [🐱 Nyaa](https://nyaa.si/?q=CQJILBXGGRVVUCPMB72KN6P6IZOREVIH) |
@@ -38,8 +40,6 @@
 | `[Anime Time] Wistoria Wand And Sword (Season 1) (Tsue to ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-wistoria-wand-sword-season-1-tsue.n2095769) • [🐱 Nyaa](https://nyaa.si/?q=VB2S5DU2DTNYUP7OVI4OWNFXSG3QLLBI) |
 | `[AK4NE] One Piece - S23E01 (E1156)  (WEB-Enc 1080p AV1 OP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-one-piece-s23e01-e1156-web-enc-1080p.k10244491769089) • [🐱 Nyaa](https://nyaa.si/?q=SSDUXA7GJTH6IIMVOCK77ACRWE6DH66G) |
 | `[BlackRose] Your Name. (2016) (BD 1080p H.264 10-bit Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-your-name-2016-bd-1080p-h-264.k10244231719427) • [🐱 Nyaa](https://nyaa.si/?q=24OSXLUPXQPDOEJ7QFJQCBOOGNFHJH3K) |
-| `[BlackRose] Your Name. (2016) (BD 1080p HEVC 10-bit Opus)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-your-name-2016-bd-1080p-hevc-10.k10244222453004) • [🐱 Nyaa](https://nyaa.si/?q=BF5DJZOQZ4N3SY3ZIU4YWTJBRFLZ5J7T) |
-| `[MiniMTBB] Sono Bisque Doll wa Koi wo Suru S2 (BD 1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/minimtbb-sono-bisque-doll-wa-koi-wo-suru.n2095763) • [🐱 Nyaa](https://nyaa.si/?q=6RWEIM4KVZUYGTJNY2W5ATWJ74H4D4HB) |
 
 ---
 <div align="center">
