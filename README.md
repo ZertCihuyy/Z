@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.22.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.38.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,38 +9,40 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Kamis**
+### 📅 Jadwal Rilis Hari Ini: **Jumat**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `07:45` | **[Metal Cardbot W](https://myanimelist.net/anime/63142/Metal_Cardbot_W)** | *Action, Sci-Fi* |
-| `07:45` | **[Metal Cardbot W](https://myanimelist.net/anime/63142/Metal_Cardbot_W)** | *Action, Sci-Fi* |
-| `00:00` | **[Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken](https://myanimelist.net/anime/62893/Nigashita_Sakana_wa_Ookikatta_ga_Tsuriageta_Sakana_ga_Ookisugita_Ken)** | *Comedy, Romance* |
-| `00:30` | **[Ganbare! Nakamura-kun!!](https://myanimelist.net/anime/59551/Ganbare_Nakamura-kun)** | *Boys Love, Comedy* |
-| `21:30` | **[Himekishi wa Barbaroi no Yome](https://myanimelist.net/anime/60028/Himekishi_wa_Barbaroi_no_Yome)** | *Comedy, Fantasy, Romance* |
-| `23:56` | **[Koori no Jouheki](https://myanimelist.net/anime/60852/Koori_no_Jouheki)** | *Comedy, Romance* |
-| `22:00` | **[Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)** | *Adventure, Comedy* |
-| `22:00` | **[Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)** | *Adventure, Comedy* |
+| `01:50` | **[Komekami! Girls](https://myanimelist.net/anime/63709/Komekami_Girls)** | *-* |
+| `16:20` | **[Sore Ike! Anpanman](https://myanimelist.net/anime/1960/Sore_Ike_Anpanman)** | *Comedy, Fantasy* |
+| `18:25` | **[Beyblade X](https://myanimelist.net/anime/56566/Beyblade_X)** | *Adventure, Sports* |
+| `00:26` | **[Kirio Fanclub](https://myanimelist.net/anime/59835/Kirio_Fanclub)** | *Comedy* |
+| `01:00` | **[Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/anime/63304/Mamonogurai_no_Boukensha__Ore_dake_Mamono_wo_Kuratte_Tsuyoku_Naru)** | *Action, Fantasy* |
+| `01:00` | **[Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/anime/63304/Mamonogurai_no_Boukensha__Ore_dake_Mamono_wo_Kuratte_Tsuyoku_Naru)** | *Action, Fantasy* |
+| `23:30` | **[Snowball Earth](https://myanimelist.net/anime/62068/Snowball_Earth)** | *Adventure, Sci-Fi* |
+| `01:58` | **[Mata Korosarete Shimatta no desu ne, Tantei-sama](https://myanimelist.net/anime/62964/Mata_Korosarete_Shimatta_no_desu_ne_Tantei-sama)** | *Mystery, Romance* |
+| `07:40` | **[Chiikawa](https://myanimelist.net/anime/50250/Chiikawa)** | *Slice of Life* |
+| `01:28` | **[Haibara-kun no Tsuyokute Seishun New Game](https://myanimelist.net/anime/61943/Haibara-kun_no_Tsuyokute_Seishun_New_Game)** | *Comedy, Romance* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `The Ramparts of Ice S01E01 1080p DSNP WEB-DL DDP2.0 H.264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e01-1080p-dsnp-web-dl-ddp2.k10255862999818) • [🐱 Nyaa](https://nyaa.si/?q=ZK2ZZTPNEKASZM7UOQBAIEJFU2MT5LG7) |
-| `[ToonsHub] Kirio Fan Club S01E02 1080p HIDIVE WEB-DL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kirio-fan-club-s01e02-1080p-hidive-web.k10255724460810) • [🐱 Nyaa](https://nyaa.si/?q=4237B44JXGUJJ25GIJTY2MZV55LQXXR2) |
-| `[ToonsHub] The Ramparts of Ice S01E01 1080p DSNP WEB-DL D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ramparts-ice-s01e01-1080p-dsnp-web-dl.n2095950) • [🐱 Nyaa](https://nyaa.si/?q=4GBMUVB2WHPSM2Z5YWHYFSM43IZL5QSJ) |
-| `ROLL OVER AND DIE S01E12 The End and the Beginning 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/roll-over-die-s01e12-end-beginning-1080p-cr.n2095949) • [🐱 Nyaa](https://nyaa.si/?q=5G4GT75XY4ATDIM4S6I77ODQO2FFUKCE) |
-| `[SubsPlease] Kirio Fanclub - 02 (1080p) [46B85683].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirio-fanclub-02-1080p-46b85683-mkv.n2095948) • [🐱 Nyaa](https://nyaa.si/?q=I7DOMPM7H3FPPAIDMFZ2T3OJU3M7A52Q) |
-| `[DKB] Himekishi wa Barbaroi no Yome - S01E01 [1080p][HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-himekishi-wa-barbaroi-no-yome-s01e01-1080p.n2095946) • [🐱 Nyaa](https://nyaa.si/?q=IGNSX64ETZEKX2CDNWE2Z7ZBDNE4JN5H) |
-| `[SubsPlease] Kirio Fanclub - 02 (480p) [29840FEC].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirio-fanclub-02-480p-29840fec-mkv.n2095944) • [🐱 Nyaa](https://nyaa.si/?q=NUPTPLWABADREEHBVSVTK5ZZRJNJBLBI) |
-| `[SubsPlease] Kirio Fanclub - 02 (720p) [622970A0].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirio-fanclub-02-720p-622970a0-mkv.n2095945) • [🐱 Nyaa](https://nyaa.si/?q=NUE2L4DN2HWAXTZ3EM2P4BPEMKWSGKL7) |
-| `[Erai-raws] Kirio Fan Club - 02 [480p HIDIVE WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirio-fan-club-02-480p-hidive.k10255604324875) • [🐱 Nyaa](https://nyaa.si/?q=2AWOJULGNP4GCF6LMD5DFMTJ4PICORDK) |
-| `[Ironclad] The Warrior Princess and the Barbaric King - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-warrior-princess-barbaric-king-s01e01-web-1080p.k10255603028495) • [🐱 Nyaa](https://nyaa.si/?q=D3NQNE4WLGW7GFQV5AAOUAUFGXMSPSLS) |
-| `[Erai-raws] Kirio Fan Club - 02 [720p HIDIVE WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirio-fan-club-02-720p-hidive.k10255600985601) • [🐱 Nyaa](https://nyaa.si/?q=MHHBLFRJKKGAKJ7SB3SFQXBUWC26A6F3) |
-| `[Erai-raws] Kirio Fan Club - 02 [1080p HIDIVE WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kirio-fan-club-02-1080p-hidive.k10255598273286) • [🐱 Nyaa](https://nyaa.si/?q=UTN32NUFN6AMOTFVYTO6JDOKOXRMCI5P) |
-| `[Onalrie] Dr. Stone - S04E26 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dr-stone-s04e26-1080p-webrip-av1-mkv.2073085) • [🐱 Nyaa](https://nyaa.si/?q=FAMOU24RXYLVL4BJMIAI7GMM2IXQZYP6) |
-| `[ToonsHub] ROLL OVER AND DIE S01E12 1080p CR WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-roll-over-die-s01e12-1080p-cr-web.k10255595566349) • [🐱 Nyaa](https://nyaa.si/?q=K4CAJCBPR5BBH4L3PWFM6LK6P7DBEAKV) |
-| `Kirio Fan Club S01E02 When I Saw Your Tears That Day 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kirio-fan-club-s01e02-when-saw-your-tears.n2095938) • [🐱 Nyaa](https://nyaa.si/?q=7X4DXPAQG5YQEDYKSK3C43AEL5NWEO6M) |
+| `[Gecko] Monster Eater - S01E02 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e02-mamonogurai-no-boukensha-ore.n2096013) • [🐱 Nyaa](https://nyaa.si/?q=P57UIV2AJKKSGT33TTWWRPQQ55K3YGBS) |
+| `[ToonsHub] Monster Eater S01E02 1080p AMZN WEB-DL DDP2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-monster-eater-s01e02-1080p-amzn-web-dl.k10256945702148) • [🐱 Nyaa](https://nyaa.si/?q=SRHOQATVSIEZMFFPAARJQPXVCGUG2CVF) |
+| `[Onalrie] Reincarnation no Kaben - S01E02 [1080p WEBRip A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-reincarnation-no-kaben-s01e02-1080p-webrip-av1-mkv.2073104) • [🐱 Nyaa](https://nyaa.si/?q=XZLIN3UVRJLTXPZJ7Q7Q3QO6676FEMRB) |
+| `[Trix] Awajima Hyakkei S01E01 [WEBRip 1080p AV1 Opus] (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-awajima-hyakkei-s01e01-webrip-1080p-av1-opus.n2096008) • [🐱 Nyaa](https://nyaa.si/?q=RKKAHH45HSQANAA77RLAML44H5WSNHXC) |
+| `[ASW] Reincarnation no Kaben - 02 [1080p HEVC x265 10Bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-reincarnation-no-kaben-02-1080p-hevc-x265-10bit-aac.n2096006) • [🐱 Nyaa](https://nyaa.si/?q=CWQHQJXLMJYK352TUK5QUNWT5F3TOHON) |
+| `[Judas] Himekishi wa Barbaroi no Yome (The Warrior Prince...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-himekishi-wa-barbaroi-no-yome-warrior-princess.n2096005) • [🐱 Nyaa](https://nyaa.si/?q=CJ2E26MGZX4GGDV2ZCPHSVDO5LVIT56P) |
+| `[Yameii] Anyway, I'm Falling in Love with You. - S02E12 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-anyway-im-falling-love-s02e12-english-dub.n2096002) • [🐱 Nyaa](https://nyaa.si/?q=BMQCU33GFBHAPHXRJLEVUT57MJJQ2M3Q) |
+| `[Yameii] Anyway, I'm Falling in Love with You. - S02E12 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-anyway-im-falling-love-s02e12-english-dub.n2096001) • [🐱 Nyaa](https://nyaa.si/?q=DVJAGH6WGPJAYZBXUORHD4ZSALDBXSWF) |
+| `[Kosaka] One-Punch Man S03 (WEBRip 1080p AV1 OPUS) [Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kosaka-one-punch-man-s03-webrip-1080p-av1.k10256587243781) • [🐱 Nyaa](https://nyaa.si/?q=MQVTM445LO4IBSHF5WVZKU4MR4NSVAWK) |
+| `Anyway Im Falling in Love with You S02E12 Anyway Im Falli...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anyway-im-falling-love-s02e12-1080p-cr-web.n2095997) • [🐱 Nyaa](https://nyaa.si/?q=5YIGDAEKXLA6RZM6TZMM2U47EDRGWKGE) |
+| `[ToonsHub] Anyway Im Falling in Love with You S02E12 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-anyway-im-falling-love-s02e12-1080p-cr.n2095996) • [🐱 Nyaa](https://nyaa.si/?q=W25C5QXDVGVKY564XSVQEWHKS5AH4PN3) |
+| `[ToonsHub] Petals of Reincarnation S01E02 1080p AMZN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-petals-reincarnation-s01e02-1080p-amzn-web-dl.k10256453667343) • [🐱 Nyaa](https://nyaa.si/?q=SEAMRXK53WSQJT3MJ7QBKR24H7T2DMOQ) |
+| `[Erai-raws] Himekishi wa Barbaroi no Yome - 01 [1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-himekishi-wa-barbaroi-no-yome-01.k10256447246083) • [🐱 Nyaa](https://nyaa.si/?q=7WXBVUEAQIGWOZ46VNKCBXCJB2EHOL3C) |
+| `[Erai-raws] Awajima Hyakkei - 01 [480p CR WEB-DL AVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-01-480p-cr-web.n2095993) • [🐱 Nyaa](https://nyaa.si/?q=V7BJYK4MZNQ6WAPPNGGKWQ3OPBIVWVQ2) |
+| `[Erai-raws] Awajima Hyakkei - 01 [720p CR WEB-DL AVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-01-720p-cr-web.n2095992) • [🐱 Nyaa](https://nyaa.si/?q=6SAQFZPEGNJI3ZXK3VM2V5X7AHU5OJMP) |
 
 ---
 <div align="center">
