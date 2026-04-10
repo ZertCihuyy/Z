@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.21.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.05.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Only Yesterday (1991) おもひでぽろぽろ [12-bit 4:2:0 Decrypted MG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/only-yesterday-1991-12-bit-4-2-0.n2096468) • [🐱 Nyaa](https://nyaa.si/?q=2LKYWEASTTLZ3IG2ZEHKXGM4XYVF2MJH) |
+| `[Anime Time] Frieren Beyond Journeys End (Sousou no Frier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2096467) • [🐱 Nyaa](https://nyaa.si/?q=IYOOMMNT6KS7R6DH5GRKFBFOXSTODVVQ) |
+| `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [1080p ADN WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-1080p.n2096466) • [🐱 Nyaa](https://nyaa.si/?q=CHLYQB3CMZSTEOLG2LC65VKWS37I7YUY) |
 | `[Erai-raws] Snowball Earth - 02 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-02-1080p-cr-webrip.n2096462) • [🐱 Nyaa](https://nyaa.si/?q=QFDM7UVPPXCI6ICTC5XCSUKKQNVD6C22) |
 | `[Commie] Awajima Hyakkei - 01 [52B4E7CE].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-awajima-hyakkei-01-52b4e7ce-mkv.n2096460) • [🐱 Nyaa](https://nyaa.si/?q=E4DX7BS7J22AJXIUXE4M3T6HXY3TPM5T) |
 | `[Trix] Sentenced to Be a Hero S01 v2 (Batch) [WEBRip 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-sentenced-hero-s01-v2-batch-webrip-1080p.k10283135634688) • [🐱 Nyaa](https://nyaa.si/?q=VWT3TSKTYO4M4VKMSPBPBYXSI5YKHMVV) |
@@ -40,9 +43,6 @@
 | `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2096450) • [🐱 Nyaa](https://nyaa.si/?q=FGHU6TG7JYMY5LB3F6XYLGTGCQPJSVWJ) |
 | `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2096449) • [🐱 Nyaa](https://nyaa.si/?q=7DVWRQEWA3QSTMPD2AJEBQ25LYHV6NRJ) |
 | `[Feibanyama] Rent-a-Girlfriend S05E01 [CR WebRip 1080p HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-rent-girlfriend-s05e01-cr-webrip-1080p-hevc.n2096448) • [🐱 Nyaa](https://nyaa.si/?q=CCWSF7PW36T7IBQWW6U5QYYTMUEV4FHG) |
-| `[Anime Time] Frieren Beyond Journeys End (Sousou no Frier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2096447) • [🐱 Nyaa](https://nyaa.si/?q=73B6L7CW6MN7FRG42FOTEVOAZ5EQH66H) |
-| `Monster Eater S01E02 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e02-1080p-amzn-web-dl-ddp2.n2096445) • [🐱 Nyaa](https://nyaa.si/?q=BM5PJIPSRLFUSZMUAW5YY5XCC7PF3U2L) |
-| `Reincarnated as a Dragon Hatchling S01E04 1080p AMZN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reincarnated-dragon-hatchling-s01e04-1080p-amzn-web-dl.n2096443) • [🐱 Nyaa](https://nyaa.si/?q=THSD6YK2B4VI4PJ4DNFSCAY63IEITAOW) |
 
 ---
 <div align="center">
