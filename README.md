@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.08.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.02.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.n2096389) • [🐱 Nyaa](https://nyaa.si/?q=TRBRW5SQH6BA3HF47FCYFW24HPU37IPT) |
+| `[DKB] Tensei shitara Slime Datta Ken - S04E02 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tensei-shitara-slime-datta-ken-s04e02-1080p.n2096388) • [🐱 Nyaa](https://nyaa.si/?q=5PIVYLDSWLGZGEWKZZNXUJJN7CX6OUJK) |
+| `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2096387) • [🐱 Nyaa](https://nyaa.si/?q=DMFLWLV4XMX6YOJGDXFZX4CSFJ2K2NEU) |
+| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E02 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tensei-shitara-slime-datta-ken-s04e02-1080p.2073360) • [🐱 Nyaa](https://nyaa.si/?q=XJIPA3TZFV2XXRRLJ5DHCUWMMP6U2XEK) |
+| `Frieren Beyond Journeys End S02E09 Himmels Memoirs 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e09-himmels-memoirs-1080p.n2096385) • [🐱 Nyaa](https://nyaa.si/?q=4A7XY3Y4O537ZOLBVL2XBSPEYA3K6QUI) |
+| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 01 [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kamiina-botan-yoeru-sugata-wa-yuri-no.n2096384) • [🐱 Nyaa](https://nyaa.si/?q=U6IJ5RLVJAW2RTDS6JI7SHT36QJKYM54) |
+| `[Sokudo] Dr. STONE - Science Future - S04E25 [1080p AV1][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-dr-stone-science-future-s04e25-1080p-av1.n2096383) • [🐱 Nyaa](https://nyaa.si/?q=MSYPMUVHLUY5XHNX72DWYZMWLPJ2YJAH) |
+| `[Breeze] Dr. STONE - Science Future - S04E25 [1080p AV1][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-dr-stone-science-future-s04e25-1080p-av1.n2096382) • [🐱 Nyaa](https://nyaa.si/?q=6JGIEBNOM4INWBHZ2IJB5TH3NXMRMUMQ) |
+| `[Erai-raws] Kami no Shizuku - 01 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-shizuku-01-1080p-cr.k10278728724234) • [🐱 Nyaa](https://nyaa.si/?q=IU6LLUBIBC6BUOLCYWKHJAPQ4VO7LNC6) |
+| `[Onalrie] Snowball Earth - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-snowball-earth-s01e02-1080p-webrip-av1-mkv.2073355) • [🐱 Nyaa](https://nyaa.si/?q=DF67NJTOJ32EIFOAHYALLHBBSRFI5UZE) |
 | `[ASW] Kami no Shizuku - 01 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kami-no-shizuku-01-1080p-hevc-x265-10bit-aac.n2096374) • [🐱 Nyaa](https://nyaa.si/?q=BMOM5EHKJNJV6QBNAA42FDK4BLB4ZCOU) |
 | `[ASW] Snowball Earth - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-snowball-earth-02-1080p-hevc-x265-10bit-aac.n2096373) • [🐱 Nyaa](https://nyaa.si/?q=BPXQNX47DML7YCGGFUMLOKC3RKICAAGQ) |
 | `Fist of the North Star HOKUTO NO KEN S01E02 A Better Tomo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fist-north-star-hokuto-no-ken-s01e02-better.n2096370) • [🐱 Nyaa](https://nyaa.si/?q=7VDWOZSNNRXJUR5SRKLCHJJYXJPKNPHG) |
 | `Fist of the North Star HOKUTO NO KEN S01E02 A Better Tomo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fist-north-star-hokuto-no-ken-s01e02-better.n2096369) • [🐱 Nyaa](https://nyaa.si/?q=NIKJ2Q62YSBLFEETSJILTYGCJPQAQ2D7) |
 | `Botan Kamiina Fully Blossoms When Drunk S01E01 1080p BILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/botan-kamiina-fully-blossoms-when-drunk-s01e01-1080p.n2096367) • [🐱 Nyaa](https://nyaa.si/?q=YFMUIMQDJHM765SFKYNIQSRGOSGEIA7K) |
-| `[Erai-raws] Hokuto no Ken (2026) - 02 [1080p AMZN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-02-1080p.n2096365) • [🐱 Nyaa](https://nyaa.si/?q=OISMXHP75ZMOOLRRHCXOTQKGKYTSREVC) |
-| `[Erai-raws] Hokuto no Ken (2026) - 02 [540p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-02-540p.n2096363) • [🐱 Nyaa](https://nyaa.si/?q=SWJ6AOQDZC24YWCDC5BSC7AXZUWKMCIE) |
-| `[Erai-raws] Hokuto no Ken (2026) - 02 [720p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-02-720p.n2096364) • [🐱 Nyaa](https://nyaa.si/?q=UIUWEYNJCZHFZA53A3AQ7IJCV6ES74R6) |
-| `Fist of the North Star HOKUTO NO KEN S01E01 A Cry from th...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fist-north-star-hokuto-no-ken-s01e01-cry.n2096361) • [🐱 Nyaa](https://nyaa.si/?q=ANREVHM4VRZ5JD25CB32ZGUCQ2FUGXTQ) |
-| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.k10278258163207) • [🐱 Nyaa](https://nyaa.si/?q=ZGHPLUJQQSHK5FTKNKUAVKA5KPNTEVYL) |
-| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.k10278256252943) • [🐱 Nyaa](https://nyaa.si/?q=7MMSK3RLEBZXQJ4RKSUG23YIHIL5Y5MA) |
-| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.k10278254999812) • [🐱 Nyaa](https://nyaa.si/?q=V7ZE4KJGCLWBTPDFNYUBXDQ3XDHMHFBK) |
-| `Fist of the North Star HOKUTO NO KEN S01E01 A Cry from th...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fist-north-star-hokuto-no-ken-s01e01-cry.n2096356) • [🐱 Nyaa](https://nyaa.si/?q=DZRXEEF6GTSMUU2A6X2JTY7HYGCLEHRK) |
-| `[Ironclad] That Time I Got Reincarnated as a Slime - S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-time-got-reincarnated-slime-s04e02-web-1080p.k10278247707910) • [🐱 Nyaa](https://nyaa.si/?q=VM7B562HYAQH7DJXNERWCCHHYEFD2UWM) |
-| `[SubsPlease] Kamiina Botan, Yoeru Sugata wa Yuri no Hana ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kamiina-botan-yoeru-sugata-wa-yuri-no.n2096353) • [🐱 Nyaa](https://nyaa.si/?q=4X3GESVWD4PZXN42HKRI6DGFNTQE7MDL) |
 
 ---
 <div align="center">
