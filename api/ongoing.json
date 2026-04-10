@@ -1,5 +1,5 @@
 {
-  "last_update": "10/4/2026, 08.04.04",
+  "last_update": "10/4/2026, 11.19.02",
   "data": [
     {
       "mal_id": 61316,
@@ -187,6 +187,158 @@
         }
       ],
       "demographics": []
+    },
+    {
+      "mal_id": 51553,
+      "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1726/155542.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1726/155542.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tongari Boushi no Atelier"
+        },
+        {
+          "type": "Synonym",
+          "title": "Atelier of Witch Hat"
+        },
+        {
+          "type": "Japanese",
+          "title": "とんがり帽子のアトリエ"
+        },
+        {
+          "type": "English",
+          "title": "Witch Hat Atelier"
+        }
+      ],
+      "title": "Tongari Boushi no Atelier",
+      "title_english": "Witch Hat Atelier",
+      "title_japanese": "とんがり帽子のアトリエ",
+      "title_synonyms": [
+        "Atelier of Witch Hat"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 6, 2026 to ?"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.76,
+      "scored_by": 12503,
+      "rank": 50,
+      "popularity": 1684,
+      "members": 159471,
+      "favorites": 1211,
+      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
+      "background": "Beginning with episode 2, each episode was streamed one week in advance of the TV broadcast starting on April 6, 2026, on Abema. Regular broadcasting began on April 6, 2026.",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 23:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 1284,
+          "type": "anime",
+          "name": "Avex Pictures",
+          "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1747,
+          "type": "anime",
+          "name": "Twin Engine",
+          "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+        },
+        {
+          "mal_id": 1856,
+          "type": "anime",
+          "name": "dugout",
+          "url": "https://myanimelist.net/anime/producer/1856/dugout"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2674,
+          "type": "anime",
+          "name": "BUG FILMS",
+          "url": "https://myanimelist.net/anime/producer/2674/BUG_FILMS"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ]
     },
     {
       "mal_id": 59708,
@@ -600,158 +752,6 @@
       ]
     },
     {
-      "mal_id": 51553,
-      "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1726/155542.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1726/155542.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Tongari Boushi no Atelier"
-        },
-        {
-          "type": "Synonym",
-          "title": "Atelier of Witch Hat"
-        },
-        {
-          "type": "Japanese",
-          "title": "とんがり帽子のアトリエ"
-        },
-        {
-          "type": "English",
-          "title": "Witch Hat Atelier"
-        }
-      ],
-      "title": "Tongari Boushi no Atelier",
-      "title_english": "Witch Hat Atelier",
-      "title_japanese": "とんがり帽子のアトリエ",
-      "title_synonyms": [
-        "Atelier of Witch Hat"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-06T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 6,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 6, 2026 to ?"
-      },
-      "duration": "23 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.78,
-      "scored_by": 10970,
-      "rank": 44,
-      "popularity": 1738,
-      "members": 152923,
-      "favorites": 1152,
-      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
-      "background": "Beginning with episode 2, each episode was streamed one week in advance of the TV broadcast starting on April 6, 2026, on Abema. Regular broadcasting began on April 6, 2026.",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Mondays",
-        "time": "23:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Mondays at 23:00 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 159,
-          "type": "anime",
-          "name": "Kodansha",
-          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
-        },
-        {
-          "mal_id": 1284,
-          "type": "anime",
-          "name": "Avex Pictures",
-          "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
-        },
-        {
-          "mal_id": 1468,
-          "type": "anime",
-          "name": "Crunchyroll",
-          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
-        },
-        {
-          "mal_id": 1747,
-          "type": "anime",
-          "name": "Twin Engine",
-          "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
-        },
-        {
-          "mal_id": 1856,
-          "type": "anime",
-          "name": "dugout",
-          "url": "https://myanimelist.net/anime/producer/1856/dugout"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 2674,
-          "type": "anime",
-          "name": "BUG FILMS",
-          "url": "https://myanimelist.net/anime/producer/2674/BUG_FILMS"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 42,
-          "type": "anime",
-          "name": "Seinen",
-          "url": "https://myanimelist.net/anime/genre/42/Seinen"
-        }
-      ]
-    },
-    {
       "mal_id": 56876,
       "url": "https://myanimelist.net/anime/56876/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken_2",
       "images": {
@@ -821,12 +821,12 @@
       },
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.17,
-      "scored_by": 6582,
-      "rank": 494,
-      "popularity": 2177,
-      "members": 114132,
-      "favorites": 1641,
+      "score": 8.16,
+      "scored_by": 6907,
+      "rank": 506,
+      "popularity": 2166,
+      "members": 115262,
+      "favorites": 1646,
       "synopsis": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
       "background": "",
       "season": "spring",
@@ -981,7 +981,7 @@
       ],
       "type": "TV",
       "source": "Manga",
-      "episodes": null,
+      "episodes": 13,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
@@ -1001,14 +1001,14 @@
         },
         "string": "Apr 2, 2026 to ?"
       },
-      "duration": "24 min",
+      "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.33,
-      "scored_by": 6120,
-      "rank": 290,
-      "popularity": 2245,
-      "members": 108789,
-      "favorites": 255,
+      "score": 8.32,
+      "scored_by": 6571,
+      "rank": 297,
+      "popularity": 2223,
+      "members": 110331,
+      "favorites": 259,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
@@ -1127,7 +1127,7 @@
       ],
       "type": "TV",
       "source": "Manga",
-      "episodes": null,
+      "episodes": 13,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
@@ -1147,14 +1147,14 @@
         },
         "string": "Apr 2, 2026 to ?"
       },
-      "duration": "24 min",
+      "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.33,
-      "scored_by": 6120,
-      "rank": 290,
-      "popularity": 2245,
-      "members": 108789,
-      "favorites": 255,
+      "score": 8.32,
+      "scored_by": 6571,
+      "rank": 297,
+      "popularity": 2223,
+      "members": 110331,
+      "favorites": 259,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
@@ -1296,11 +1296,11 @@
       "duration": "23 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "score": 8.04,
-      "scored_by": 7048,
-      "rank": 687,
-      "popularity": 2428,
-      "members": 97070,
-      "favorites": 313,
+      "scored_by": 7524,
+      "rank": 689,
+      "popularity": 2380,
+      "members": 100485,
+      "favorites": 325,
       "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.\n\nOn an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.\n\nBefore the woman can capture him, Yuru is rescued by a man named Dera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.\n\n[Written by MAL Rewrite]",
       "background": "",
       "season": "spring",
@@ -1456,9 +1456,9 @@
       "score": null,
       "scored_by": null,
       "rank": null,
-      "popularity": 2433,
-      "members": 96505,
-      "favorites": 365,
+      "popularity": 2425,
+      "members": 97296,
+      "favorites": 368,
       "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
       "background": "",
       "season": "spring",

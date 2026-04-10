@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.04.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.19.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[DKB] Mata Korosarete Shimatta no desu ne, Tantei-sama - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-mata-korosarete-shimatta-no-desu-ne-tantei.n2096110) • [🐱 Nyaa](https://nyaa.si/?q=2H54NAHKVVFO4UBKSNNW4VOZ4RZNM4JI) |
-| `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-haibara-kun-no-tsuyokute-seishun-new-game.n2096109) • [🐱 Nyaa](https://nyaa.si/?q=XFGLMTVZQYDT67CLSAHLYZXZSBDGJAXG) |
-| `Kiki's Delivery Service (1989) 魔女の宅急便 [12-bit 4:2:0 Decry...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kikis-delivery-service-1989-12-bit-4-2.n2096108) • [🐱 Nyaa](https://nyaa.si/?q=NMAABJR5DOEIQ54KJV62A6B3ESP6VJMV) |
-| `[TokekHutan] I'll Live a Long Life to Dote on My Favorite...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tokekhutan-ill-live-long-life-dote-my-favorite.n2096106) • [🐱 Nyaa](https://nyaa.si/?q=AQZAOKFZEU57MXVR5HGSBKGFLPLPXUT4) |
-| `JUJUTSU KAISEN S03E11 Tokyo No 1 Colony Part 5 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jujutsu-kaisen-s03e11-tokyo-no-1-colony-part.n2096104) • [🐱 Nyaa](https://nyaa.si/?q=2AT3CDFY424OHBM7HPHGQKYPFEREXSQ2) |
-| `Penguin Musume Heart 1-22.iso` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/penguin-musume-heart-1-22-iso.n2096101) • [🐱 Nyaa](https://nyaa.si/?q=XK6HGKDNHOXNFAZ66E2G5P6JQLTDDQJV) |
-| `[Anime Time] Sentenced To Be A Hero (Yuusha-kei ni Shosu:...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-sentenced-hero-yuusha-kei-ni-shosu.n2096087) • [🐱 Nyaa](https://nyaa.si/?q=RE4VPLSRSFZN4PWSXGL3VVTODYM3YQEA) |
-| `[Raze] Tongari Boushi no Atelier - 02 x265 10bit 1080p 14...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-tongari-boushi-no-atelier-02-x265-10bit.n2096086) • [🐱 Nyaa](https://nyaa.si/?q=UQTBXD2QRVT3PLPIVRZIVWRAGFNP353I) |
-| `[Raze] Tongari Boushi no Atelier - 01 x265 10bit 1080p 14...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-tongari-boushi-no-atelier-01-x265-10bit.n2096085) • [🐱 Nyaa](https://nyaa.si/?q=B2QOUEH2QJ3PCJF5TWA2EHZD33PBV5EO) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.n2096084) • [🐱 Nyaa](https://nyaa.si/?q=TBVXEBACLRFQU6YWMX3U7RGN4NK6I3IH) |
-| `[Mangamannn] Ancient Books of Ys - 08-11 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-ancient-books-ys-08-11-480i-dvd.k10260528759301) • [🐱 Nyaa](https://nyaa.si/?q=B3BCHFX6QDU5KBJTRH2G4OK2HJBP7TXP) |
-| `[Mangamannn] Ancient Books of Ys - 01-07 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-ancient-books-ys-01-07-480i-dvd.k10260505330700) • [🐱 Nyaa](https://nyaa.si/?q=NZNYG6EUP6S3I4SPB72SNPFHTQXJUSDF) |
-| `Howl's Moving Castle (2004) ハウルの動く城 [12-bit 4:2:0 Decrypt...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/howls-moving-castle-2004-12-bit-4-2.n2096081) • [🐱 Nyaa](https://nyaa.si/?q=DRQF4DPUKYAH2OCLAJQ4QYGB7MPBI4ZB) |
-| `Nausicaä of the Valley of the Wind (1984) 風の谷のナウシカ [12-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nausica-valley-wind-1984-12-bit-4-2.n2096080) • [🐱 Nyaa](https://nyaa.si/?q=YDGUKY3MBJROPOTFIJTBJILARNFAVKHR) |
-| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.n2096079) • [🐱 Nyaa](https://nyaa.si/?q=WDMQDI3D23HC2JFDEJZX5TVKNA3NXWKW) |
+| `[Kawatare] Virgin Punk: Clockwork Girl 2025 (BD 1080p DD+...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-virgin-punk-clockwork-girl-2025-bd-1080p-dd-x265.n2096140) • [🐱 Nyaa](https://nyaa.si/?q=ERKC7R22SWKOJDMYIDPVGUXB74WKS2YG) |
+| `[Tasokare] Virgin Punk: Clockwork Girl 2025 (BD 1080p Opu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-virgin-punk-clockwork-girl-2025-bd-1080p-opus-av1.k10266787838722) • [🐱 Nyaa](https://nyaa.si/?q=DOVOKF22A7F24TNKHPYDTRNYWXNEUTTQ) |
+| `Spirited Away (2001) 千と千尋の神隠し [12-bit 4:2:0 Decrypted MGV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/spirited-away-2001-12-bit-4-2-0.n2096134) • [🐱 Nyaa](https://nyaa.si/?q=TBYDOSP4435HIRAC674V4Q2IKAP672ID) |
+| `[Hentai] Ingoku Danchi - 01 (WEB 1080p AAC2.0 H.264) (Unc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hentai-ingoku-danchi-01-web-1080p-aac2-0.n2096126) • [🐱 Nyaa](https://nyaa.si/?q=D7AUT6YGTWTTTFEPIA2NTJYG25FRJBQS) |
+| `Hitori No Shita The Outcast S06E15 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e15-1080p-cr-web.n2096125) • [🐱 Nyaa](https://nyaa.si/?q=6JFOXD6E7SSVODBOYZXY7BSOPQGDZO5N) |
+| `[Polarwindz] High School of the Dead + OVA (BD 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polarwindz-high-school-dead-ova-bd-1080p-hevc.n2096124) • [🐱 Nyaa](https://nyaa.si/?q=NOXIJISVL7TJ7FRVXM2H3WJECWJVXTGY) |
+| `[ASW] Hitori no Shita - The Outcast S6 - 15 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-15-1080p.n2096123) • [🐱 Nyaa](https://nyaa.si/?q=4PN4AUCOJTIYD4NFRNOHY5LBOF5F2BJB) |
+| `The Wind Rises (2013) 風立ちぬ [12-bit 4:2:0 Decrypted MGVC B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wind-rises-2013-12-bit-4-2-0.n2096122) • [🐱 Nyaa](https://nyaa.si/?q=5R3PS3WUFPWOCRHTRUVG6XCCFWFOA3NE) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 15 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-15-1080p-762a0ff3-mkv.n2096121) • [🐱 Nyaa](https://nyaa.si/?q=65OH3WFNYWE6ACRNTP54KUNI7VZFWKAB) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 15 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-15-720p-e73333d8-mkv.n2096120) • [🐱 Nyaa](https://nyaa.si/?q=KFY3B27UDW6VCAK2MWD56XEWFT73G7HF) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 15 (480p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-15-480p-44cbb5e0-mkv.n2096119) • [🐱 Nyaa](https://nyaa.si/?q=MFZGJIAJBO4OFD2YX3OH2TGXAEDFPR6H) |
+| `[ToonsHub] Hitori No Shita The Outcast S06E15 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e15-1080p-cr.n2096117) • [🐱 Nyaa](https://nyaa.si/?q=R32U4SCHGI5HPRCVPS5ZSRSXZTOTP566) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 15 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2096116) • [🐱 Nyaa](https://nyaa.si/?q=4OGXNPR65WFQVI3WFPTIXVMMRU72OKMI) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 15 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2096115) • [🐱 Nyaa](https://nyaa.si/?q=XOFPXPWN2SBSKORT3PNVX5I2U5GR4VHL) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 15 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2096114) • [🐱 Nyaa](https://nyaa.si/?q=U6AR4O2CD7TBQO5VOJP2PF4IMKJU4TV2) |
 
 ---
 <div align="center">
