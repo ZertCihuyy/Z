@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.05.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.52.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Tasokare] Lord El-Melloi II's Case Files: Rail Zeppelin ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-lord-el-melloi-iis-case-files-rail.k10284846966279) • [🐱 Nyaa](https://nyaa.si/?q=QWHULH6N3DASIIEJLDJYAEB6PT3ED4YE) |
+| `[Kawatare] Lord El-Melloi II's Case Files: Rail Zeppelin ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-lord-el-melloi-iis-case-files-rail.k10284834798082) • [🐱 Nyaa](https://nyaa.si/?q=5J3KREDKKO2QQZL2PUNXIVG2AXNIRZOI) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2096472) • [🐱 Nyaa](https://nyaa.si/?q=YTTI64WICN6UHYPC7UBQUGB3QHQV5J5I) |
+| `Grave of the Fireflies (1988) 火垂るの墓 [12-bit 4:2:0 Decrypt...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/grave-fireflies-1988-12-bit-4-2-0.n2096471) • [🐱 Nyaa](https://nyaa.si/?q=FE6MWRO6D2WJD27XZLZYMXMHKUVXXL2X) |
+| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-hokuto-no-ken-fist-north-star-s01e02.n2096469) • [🐱 Nyaa](https://nyaa.si/?q=NTQOUEAU74L2QNT7UY73SBWPIRNYZESI) |
 | `Only Yesterday (1991) おもひでぽろぽろ [12-bit 4:2:0 Decrypted MG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/only-yesterday-1991-12-bit-4-2-0.n2096468) • [🐱 Nyaa](https://nyaa.si/?q=2LKYWEASTTLZ3IG2ZEHKXGM4XYVF2MJH) |
 | `[Anime Time] Frieren Beyond Journeys End (Sousou no Frier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2096467) • [🐱 Nyaa](https://nyaa.si/?q=IYOOMMNT6KS7R6DH5GRKFBFOXSTODVVQ) |
 | `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [1080p ADN WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-1080p.n2096466) • [🐱 Nyaa](https://nyaa.si/?q=CHLYQB3CMZSTEOLG2LC65VKWS37I7YUY) |
@@ -38,11 +43,6 @@
 | `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [1080p ADN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-1080p.n2096455) • [🐱 Nyaa](https://nyaa.si/?q=2XEN2ENZT7L56HYI6KQH3CAJNAYJ6HGO) |
 | `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [720p ADN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-720p.n2096454) • [🐱 Nyaa](https://nyaa.si/?q=RM5WHY6ZTGMPTCNNACHUT2SWWLLVGFEQ) |
 | `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [480p ADN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-480p.n2096453) • [🐱 Nyaa](https://nyaa.si/?q=NI65BFOP7QQA5VGEPU2DZUAYAU2MZ2MW) |
-| `[Erai-raws] Hokuto no Ken (2026) - 02 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-02-1080p.n2096452) • [🐱 Nyaa](https://nyaa.si/?q=IQDXBH6M3BED5TDLOTLUEJ7IZE4C2XYZ) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2096451) • [🐱 Nyaa](https://nyaa.si/?q=AT44VHXT65CK6D4L6HO4RIGTP5OKINN5) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2096450) • [🐱 Nyaa](https://nyaa.si/?q=FGHU6TG7JYMY5LB3F6XYLGTGCQPJSVWJ) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2096449) • [🐱 Nyaa](https://nyaa.si/?q=7DVWRQEWA3QSTMPD2AJEBQ25LYHV6NRJ) |
-| `[Feibanyama] Rent-a-Girlfriend S05E01 [CR WebRip 1080p HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-rent-girlfriend-s05e01-cr-webrip-1080p-hevc.n2096448) • [🐱 Nyaa](https://nyaa.si/?q=CCWSF7PW36T7IBQWW6U5QYYTMUEV4FHG) |
 
 ---
 <div align="center">
