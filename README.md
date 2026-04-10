@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.08.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.39.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Feibanyama] That Time I Got Reincarnated as a Slime S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-time-got-reincarnated-slime-s04e01-iqiyi-webrip.n2096173) • [🐱 Nyaa](https://nyaa.si/?q=KAOUPC344MBRQSDIX3HZ6ZLZ2XK4EXQP) |
+| `[Team ONIBE] Love Live! Nijigasaki High School Idol Club ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/team-onibe-love-live-nijigasaki-high-school-idol.n2096172) • [🐱 Nyaa](https://nyaa.si/?q=HEF6GXDXZMW2DWIIFMLKBWOULSSJYUT5) |
 | `[Onalrie] Hitori no Shita - The Outcast - S06E15 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e15-1080p-webrip-av1-mkv.2073247) • [🐱 Nyaa](https://nyaa.si/?q=Y3WXV5QIZLBGJ6YDQBYPDRWJKPWFY7VU) |
 | `[Yameii] Re ZERO, Starting Life in Another World - S03 [E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-re-zero-starting-life-another-world-s03.n2096161) • [🐱 Nyaa](https://nyaa.si/?q=BAFHINXQ5GHH2PN2CH2B5OC7JD3DTNUR) |
 | `[ToonsHub] Hitori No Shita The Outcast S06E16 1080p WeTV ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e16-1080p-wetv.k10268360377091) • [🐱 Nyaa](https://nyaa.si/?q=OOXA7V4OYLL6KSAHS4OTH6I3BFCTTK4C) |
@@ -41,8 +43,6 @@
 | `[Polarwindz] High School of the Dead + OVA (BD 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polarwindz-high-school-dead-ova-bd-1080p-hevc.n2096124) • [🐱 Nyaa](https://nyaa.si/?q=NOXIJISVL7TJ7FRVXM2H3WJECWJVXTGY) |
 | `[ASW] Hitori no Shita - The Outcast S6 - 15 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-15-1080p.n2096123) • [🐱 Nyaa](https://nyaa.si/?q=4PN4AUCOJTIYD4NFRNOHY5LBOF5F2BJB) |
 | `The Wind Rises (2013) 風立ちぬ [12-bit 4:2:0 Decrypted MGVC B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wind-rises-2013-12-bit-4-2-0.n2096122) • [🐱 Nyaa](https://nyaa.si/?q=5R3PS3WUFPWOCRHTRUVG6XCCFWFOA3NE) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 15 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-15-1080p-762a0ff3-mkv.n2096121) • [🐱 Nyaa](https://nyaa.si/?q=65OH3WFNYWE6ACRNTP54KUNI7VZFWKAB) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 15 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-15-720p-e73333d8-mkv.n2096120) • [🐱 Nyaa](https://nyaa.si/?q=KFY3B27UDW6VCAK2MWD56XEWFT73G7HF) |
 
 ---
 <div align="center">
