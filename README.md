@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.19.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.16.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Hitori No Shita The Outcast S06E16 1080p WeTV ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e16-1080p-wetv.k10268360377091) • [🐱 Nyaa](https://nyaa.si/?q=OOXA7V4OYLL6KSAHS4OTH6I3BFCTTK4C) |
+| `[Gecko] Hitori No Shita - The Outcast - S06E16v2 (一人之下; Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e16v2-yi-ren.k10268121778946) • [🐱 Nyaa](https://nyaa.si/?q=4575O2S4DVT35GYZN5V3HQHOIV3CJBA3) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 15 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2096145) • [🐱 Nyaa](https://nyaa.si/?q=NFQD5BHLPUBOVUJG636ZW2USGPIC7FJG) |
 | `[Kawatare] Virgin Punk: Clockwork Girl 2025 (BD 1080p DD+...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-virgin-punk-clockwork-girl-2025-bd-1080p-dd-x265.n2096140) • [🐱 Nyaa](https://nyaa.si/?q=ERKC7R22SWKOJDMYIDPVGUXB74WKS2YG) |
 | `[Tasokare] Virgin Punk: Clockwork Girl 2025 (BD 1080p Opu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-virgin-punk-clockwork-girl-2025-bd-1080p-opus-av1.k10266787838722) • [🐱 Nyaa](https://nyaa.si/?q=DOVOKF22A7F24TNKHPYDTRNYWXNEUTTQ) |
 | `Spirited Away (2001) 千と千尋の神隠し [12-bit 4:2:0 Decrypted MGV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/spirited-away-2001-12-bit-4-2-0.n2096134) • [🐱 Nyaa](https://nyaa.si/?q=TBYDOSP4435HIRAC674V4Q2IKAP672ID) |
@@ -40,9 +43,6 @@
 | `[SubsPlease] Hitori no Shita - The Outcast S6 - 15 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-15-720p-e73333d8-mkv.n2096120) • [🐱 Nyaa](https://nyaa.si/?q=KFY3B27UDW6VCAK2MWD56XEWFT73G7HF) |
 | `[SubsPlease] Hitori no Shita - The Outcast S6 - 15 (480p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-15-480p-44cbb5e0-mkv.n2096119) • [🐱 Nyaa](https://nyaa.si/?q=MFZGJIAJBO4OFD2YX3OH2TGXAEDFPR6H) |
 | `[ToonsHub] Hitori No Shita The Outcast S06E15 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e15-1080p-cr.n2096117) • [🐱 Nyaa](https://nyaa.si/?q=R32U4SCHGI5HPRCVPS5ZSRSXZTOTP566) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 15 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2096116) • [🐱 Nyaa](https://nyaa.si/?q=4OGXNPR65WFQVI3WFPTIXVMMRU72OKMI) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 15 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2096115) • [🐱 Nyaa](https://nyaa.si/?q=XOFPXPWN2SBSKORT3PNVX5I2U5GR4VHL) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 15 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2096114) • [🐱 Nyaa](https://nyaa.si/?q=U6AR4O2CD7TBQO5VOJP2PF4IMKJU4TV2) |
 
 ---
 <div align="center">
