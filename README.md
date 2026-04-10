@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.44.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.21.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Snowball Earth - 02 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-02-1080p-cr-webrip.n2096462) • [🐱 Nyaa](https://nyaa.si/?q=QFDM7UVPPXCI6ICTC5XCSUKKQNVD6C22) |
+| `[Commie] Awajima Hyakkei - 01 [52B4E7CE].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-awajima-hyakkei-01-52b4e7ce-mkv.n2096460) • [🐱 Nyaa](https://nyaa.si/?q=E4DX7BS7J22AJXIUXE4M3T6HXY3TPM5T) |
+| `[Trix] Sentenced to Be a Hero S01 v2 (Batch) [WEBRip 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-sentenced-hero-s01-v2-batch-webrip-1080p.k10283135634688) • [🐱 Nyaa](https://nyaa.si/?q=VWT3TSKTYO4M4VKMSPBPBYXSI5YKHMVV) |
 | `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e01.k10282544325120) • [🐱 Nyaa](https://nyaa.si/?q=CWVQO7TB7OXW24Z2OAOCLDLMC6LN5ZEF) |
 | `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [1080p ADN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-1080p.n2096455) • [🐱 Nyaa](https://nyaa.si/?q=2XEN2ENZT7L56HYI6KQH3CAJNAYJ6HGO) |
 | `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [720p ADN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-720p.n2096454) • [🐱 Nyaa](https://nyaa.si/?q=RM5WHY6ZTGMPTCNNACHUT2SWWLLVGFEQ) |
@@ -40,9 +43,6 @@
 | `[Anime Time] Frieren Beyond Journeys End (Sousou no Frier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2096447) • [🐱 Nyaa](https://nyaa.si/?q=73B6L7CW6MN7FRG42FOTEVOAZ5EQH66H) |
 | `Monster Eater S01E02 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e02-1080p-amzn-web-dl-ddp2.n2096445) • [🐱 Nyaa](https://nyaa.si/?q=BM5PJIPSRLFUSZMUAW5YY5XCC7PF3U2L) |
 | `Reincarnated as a Dragon Hatchling S01E04 1080p AMZN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reincarnated-dragon-hatchling-s01e04-1080p-amzn-web-dl.n2096443) • [🐱 Nyaa](https://nyaa.si/?q=THSD6YK2B4VI4PJ4DNFSCAY63IEITAOW) |
-| `HELL MODE S01E06 1080p AMZN WEB-DL DUAL DDP2.0 H 264-VARY...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hell-mode-s01e06-1080p-amzn-web-dl-dual.n2096437) • [🐱 Nyaa](https://nyaa.si/?q=UPYUGZH23PNLI2SXQBGXAHCESDFVVQIB) |
-| `Chained Soldier S02E05 1080p AMZN WEB-DL DUAL DDP2.0 H 26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e05-1080p-amzn-web-dl-dual.n2096431) • [🐱 Nyaa](https://nyaa.si/?q=Q4VTEGUZN3Y6JJQ2HFOC3A63OX5UC34U) |
-| `[Mangamannn] VanDread - 14-26 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-vandread-14-26-480i-dvd.k10281593597190) • [🐱 Nyaa](https://nyaa.si/?q=QJ23SYCR3K7Y57NGICFMFKIKOWVZW5KX) |
 
 ---
 <div align="center">
