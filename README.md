@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.34.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.36.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Makai Ouji Devils and Realist [BD 1080p HEVC FLAC x265]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/makai-ouji-devils-realist-bd-1080p-hevc-flac-x265.n2096182) • [🐱 Nyaa](https://nyaa.si/?q=QIMSGFOLTAEDC4CELI5JGVYEIUTAC4AE) |
 | `[Feibanyama] Daemons of the Shadow Realm S01E01 [BILIBILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-daemons-shadow-realm-s01e01-bilibili-webrip-2160p.n2096178) • [🐱 Nyaa](https://nyaa.si/?q=OIDRHGH37NBJPWMMPDKTSQ2MR63FMB74) |
 | `Ne.Zha.A.K.A.Nezha.Mo.tong.jiang.shi.2019.DUAL-AUDIO.CHI-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ne-zha-k-nezha-mo-tong-jiang-shi.n2096177) • [🐱 Nyaa](https://nyaa.si/?q=JEQYXUHKJRNC63BTVOI3NLCIKTSSLA6W) |
 | `High.Card.S02.1080p.BluRay.Opus2.0.x264-Headpatter` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/high-card-s02-1080p-bluray-opus2-0-x264-headpatter.k10272376611852) • [🐱 Nyaa](https://nyaa.si/?q=EXOQPK7EQC66542C4ZXMVT42MNRENTQR) |
@@ -42,7 +43,6 @@
 | `[Tasokare] Virgin Punk: Clockwork Girl 2025 (BD 1080p Opu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-virgin-punk-clockwork-girl-2025-bd-1080p-opus-av1.k10266787838722) • [🐱 Nyaa](https://nyaa.si/?q=DOVOKF22A7F24TNKHPYDTRNYWXNEUTTQ) |
 | `Spirited Away (2001) 千と千尋の神隠し [12-bit 4:2:0 Decrypted MGV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/spirited-away-2001-12-bit-4-2-0.n2096134) • [🐱 Nyaa](https://nyaa.si/?q=TBYDOSP4435HIRAC674V4Q2IKAP672ID) |
 | `[Hentai] Ingoku Danchi - 01 (WEB 1080p AAC2.0 H.264) (Unc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hentai-ingoku-danchi-01-web-1080p-aac2-0.n2096126) • [🐱 Nyaa](https://nyaa.si/?q=D7AUT6YGTWTTTFEPIA2NTJYG25FRJBQS) |
-| `Hitori No Shita The Outcast S06E15 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e15-1080p-cr-web.n2096125) • [🐱 Nyaa](https://nyaa.si/?q=6JFOXD6E7SSVODBOYZXY7BSOPQGDZO5N) |
 
 ---
 <div align="center">
