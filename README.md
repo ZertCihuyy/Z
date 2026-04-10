@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.08.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.08.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] That Time I Got Reincarnated as a Slime S04E02 Th...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-time-got-reincarnated-slime-s04e02-evolving-labyrinth.k10276835637774) • [🐱 Nyaa](https://nyaa.si/?q=X245HYQ6FIV2KQWK7GE4KH7VG3TICUDP) |
-| `[VARYG] That Time I Got Reincarnated as a Slime S04E02 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-time-got-reincarnated-slime-s04e02-1080p-nf.k10276823018504) • [🐱 Nyaa](https://nyaa.si/?q=LPGBTGN6ZEKWS6MSWO6JXMVYHSFNYZNO) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E02...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e02-1080p-nf.k10276819209223) • [🐱 Nyaa](https://nyaa.si/?q=QSWATSTCNCOJD7SV4OJYIUQRFSCTRAB5) |
-| `[VARYG] That Time I Got Reincarnated as a Slime S04E02 Th...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-time-got-reincarnated-slime-s04e02-dungeon-evolves.k10276819326467) • [🐱 Nyaa](https://nyaa.si/?q=36WQE3CRN3LZRXOBFRKGYSFKUBNM3VVA) |
-| `[VARYG] Frieren Beyond Journeys End S02E10 A Beautiful Si...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-frieren-beyond-journeys-end-s02e10-beautiful-sight.k10276812153859) • [🐱 Nyaa](https://nyaa.si/?q=JPL6NLTORJ7Z4Y7N7O4ZLM4EW7OHUPTE) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E02...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e02-1080p-cr.k10276807188749) • [🐱 Nyaa](https://nyaa.si/?q=ZJXYOAVORJL2SUJES5OXIJLVAUHMQIF3) |
-| `[ToonsHub] Frieren Beyond Journeys End S02E10 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-frieren-beyond-journeys-end-s02e10-1080p-cr.k10276802292994) • [🐱 Nyaa](https://nyaa.si/?q=WWZ2L5DAFVP2E5PSOPRLAHZZM2CPALED) |
-| `[ToonsHub] Snowball Earth S01E02 1080p NF WEB-DL DUAL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-snowball-earth-s01e02-1080p-nf-web-dl.n2096251) • [🐱 Nyaa](https://nyaa.si/?q=HKXY6ZVW6VSB4XSQWRJ5A26OHBUB54AW) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.n2096249) • [🐱 Nyaa](https://nyaa.si/?q=HSO56XSV3UKR2EL63J5ZYIDEZU2DNM7E) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.n2096248) • [🐱 Nyaa](https://nyaa.si/?q=LVIVHSIYCTZGO2DCA5EQDBAO74QK45KW) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.n2096247) • [🐱 Nyaa](https://nyaa.si/?q=5KJW4NJ4HTGOGAIGKE3326NVNFFXALTG) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E02...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e02-1080p-bili.n2096244) • [🐱 Nyaa](https://nyaa.si/?q=NIMGXBPWUJYNJICID52ASFT3NTLZU6EI) |
-| `The Angel Next Door Spoils Me Rotten S02E02 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/angel-next-door-spoils-me-rotten-s02e02-1080p.n2096241) • [🐱 Nyaa](https://nyaa.si/?q=YPCX7MVDORSHLSQZFUM2VWYYPGQJPOCE) |
-| `[LbE3L] [H.266] Dorohedoro S02E04 [1080p NF WEBRip VVC HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-dorohedoro-s02e04-1080p-nf-webrip.k10276354956299) • [🐱 Nyaa](https://nyaa.si/?q=HUISJG22LDL2EHWIUCXGODS754UYASCJ) |
-| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2096239) • [🐱 Nyaa](https://nyaa.si/?q=N5JKHIWYYQOQP7N2Y5MQMLDELRG6ALBM) |
+| `[ToonsHub] The Drops of God S01E01 1080p AMZN WEB-DL DDP2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-drops-god-s01e01-1080p-amzn-web-dl.k10277745811213) • [🐱 Nyaa](https://nyaa.si/?q=QRZXYC3L2VDDK27GAYOIONCGL6ZPX2FR) |
+| `[Kosaka] That Time I Got Reincarnated as a Slime - S04E02...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kosaka-time-got-reincarnated-slime-s04e02-webrip-1080p.k10277716698378) • [🐱 Nyaa](https://nyaa.si/?q=LZSGVWURK4HZFDH5ZS7FWBGSBUOW65O3) |
+| `[Judas] Otonari no Tenshi-sama ni Itsunomanika Dame Ninge...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2096318) • [🐱 Nyaa](https://nyaa.si/?q=742JEUNZH4O3BQAGMNZSMCDLS2HRQ3YD) |
+| `[ToonsHub] SNOWBALL EARTH S01E02 1080p CR WEB-DL MULTi AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-snowball-earth-s01e02-1080p-cr-web-dl.k10277525571850) • [🐱 Nyaa](https://nyaa.si/?q=72VFJGAAVL5V642PYI366WSYSECG5H4Z) |
+| `[nekotan] Brave Bang Bravern! S01 (BD 1080p x265 Opus) | ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-brave-bang-bravern-s01-bd-1080p-x265.k10277503267331) • [🐱 Nyaa](https://nyaa.si/?q=5EUQ2RBFNFHFEXRGSSWGWLDA3JV4VKZB) |
+| `[TearSmith] Frieren Beyond Journeys End 2023 S02E10 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tearsmith-frieren-beyond-journeys-end-2023-s02e10-1080p.k10277445301255) • [🐱 Nyaa](https://nyaa.si/?q=QBKHAY6ORUFUAJMVN4DPTCA7NVW4LLVA) |
+| `Snowball Earth S01E02 Encounters 1080p NF WEB-DL DUAL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e02-encounters-1080p-nf-web-dl.n2096310) • [🐱 Nyaa](https://nyaa.si/?q=XOKBXRSX5OCG4MJUVTQJWNTJI4APJ25J) |
+| `The Drops of God S01E01 The Beginning of All Battles 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/drops-god-s01e01-beginning-all-battles-1080p-cr.n2096309) • [🐱 Nyaa](https://nyaa.si/?q=R3JJMYVVYXMFZS7SSW3PIQJYWGTPY3ZM) |
+| `[Yameii] SNOWBALL EARTH - S01E02 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e02-english-dub-cr-web.n2096308) • [🐱 Nyaa](https://nyaa.si/?q=HAIMSQIQ5Z777YZCGXCBDSQD4XNFWB4L) |
+| `SNOWBALL EARTH S01E02 ENCOUNTERS 1080p CR WEB-DL MULTi AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e02-encounters-1080p-cr-web-dl.n2096307) • [🐱 Nyaa](https://nyaa.si/?q=HQFLPRV26GBUALZHYEMW4CLAEG67XOG4) |
+| `SNOWBALL EARTH S01E02 ENCOUNTERS 1080p CR WEB-DL DUAL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e02-encounters-1080p-cr-web-dl.n2096306) • [🐱 Nyaa](https://nyaa.si/?q=U7OQY5FDB3M4SNDRPWGE3RT3FA6ZWEHQ) |
+| `[SubsPlease] Kami no Shizuku - 01 (1080p) [25484C56].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kami-no-shizuku-01-1080p-25484c56-mkv.n2096303) • [🐱 Nyaa](https://nyaa.si/?q=XYTNQRUNHOPJU3TGSK2GF4N3YZ4X6OLQ) |
+| `[knyf1e] Fire Force S03 1080p CR WEBRip DUAL Opus 2.0 AV1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/knyf1e-fire-force-s03-1080p-cr-webrip-dual.k10277280527360) • [🐱 Nyaa](https://nyaa.si/?q=L4MASD2AUGY25POISO32KLZRM7JPJAA6) |
+| `[Yameii] SNOWBALL EARTH - S01E02 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e02-english-dub-cr-web.n2096301) • [🐱 Nyaa](https://nyaa.si/?q=MXXJNGR4NBATMVW73J6YFUUE2UJ76QOJ) |
+| `[SubsPlease] Kami no Shizuku - 01 (480p) [8A1EF771].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kami-no-shizuku-01-480p-8a1ef771-mkv.n2096300) • [🐱 Nyaa](https://nyaa.si/?q=PSKSCDMJAHSFD3GISPOYVFOG227L6MLS) |
 
 ---
 <div align="center">
