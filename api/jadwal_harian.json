@@ -1,5 +1,5 @@
 {
-  "last_update": "11/4/2026, 01.02.02",
+  "last_update": "11/4/2026, 02.13.32",
   "hari": "Sabtu",
   "data": [
     {
@@ -893,6 +893,143 @@
       "demographics": []
     },
     {
+      "mal_id": 56646,
+      "url": "https://myanimelist.net/anime/56646/Hokuto_no_Ken__Fist_of_the_North_Star",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1581/156641.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1581/156641t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1581/156641l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1581/156641.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1581/156641t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1581/156641l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/Gux_dYHDMK4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Hokuto no Ken: Fist of the North Star"
+        },
+        {
+          "type": "Japanese",
+          "title": "北斗の拳 -FIST OF THE NORTH STAR-"
+        }
+      ],
+      "title": "Hokuto no Ken: Fist of the North Star",
+      "title_english": null,
+      "title_japanese": "北斗の拳 -FIST OF THE NORTH STAR-",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 11,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 11, 2026 to ?"
+      },
+      "duration": "Unknown",
+      "rating": null,
+      "score": null,
+      "scored_by": null,
+      "rank": 17104,
+      "popularity": 6957,
+      "members": 11059,
+      "favorites": 42,
+      "synopsis": "In 199x, the world was engulfed in the blaze of nuclear war.\n\nWith the Ocean drying up and Earth torn asunder, all life seems to be lost but humans survived stubbornly. However, what dominated the post-apocalyptic world was sheer violence. The remaining humanity was split into two groups: those who kill and take whatever they can and those who are exploited.\n\nWhen all hope seems lost for the weak, a man in ragged cloth appears. He is Kenshiro, the rightful successor of the Hokuto Shinken martial arts with seven studs-like scars in the shape of the Big Dipper. His journey to becoming a legendary savior begins! \n\n(Source: Warner Bros. Japan, edited)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "01:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 01:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 415,
+          "type": "anime",
+          "name": "Warner Bros. Japan",
+          "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 73,
+          "type": "anime",
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
       "mal_id": 62048,
       "url": "https://myanimelist.net/anime/62048/Mao",
       "images": {
@@ -1246,165 +1383,6 @@
         }
       ],
       "demographics": []
-    },
-    {
-      "mal_id": 62485,
-      "url": "https://myanimelist.net/anime/62485/Kanojo_Okarishimasu_5th_Season",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1393/156075.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1393/156075t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1393/156075l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1393/156075.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1393/156075t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1393/156075l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/G5F8bPo6T_E?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Kanojo, Okarishimasu 5th Season"
-        },
-        {
-          "type": "Synonym",
-          "title": "Kanokari"
-        },
-        {
-          "type": "Japanese",
-          "title": "彼女、お借りします 第5期"
-        },
-        {
-          "type": "English",
-          "title": "Rent-a-Girlfriend Season 5"
-        }
-      ],
-      "title": "Kanojo, Okarishimasu 5th Season",
-      "title_english": "Rent-a-Girlfriend Season 5",
-      "title_japanese": "彼女、お借りします 第5期",
-      "title_synonyms": [
-        "Kanokari"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-08T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 8,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 8, 2026 to ?"
-      },
-      "duration": "24 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 6.16,
-      "scored_by": 1322,
-      "rank": 9957,
-      "popularity": 4470,
-      "members": 32714,
-      "favorites": 78,
-      "synopsis": "Fifth season of Kanojo, Okarishimasu.",
-      "background": "Kanojo, Okarishimasu 5th Season aired on MBS' Animeism block. Each episode was streamed three days in advance of the TV broadcast starting on April 8, 2026, on Crunchyroll. Regular broadcasting began on April 11, 2026.",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Saturdays",
-        "time": "01:53",
-        "timezone": "Asia/Tokyo",
-        "string": "Saturdays at 01:53 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 143,
-          "type": "anime",
-          "name": "Mainichi Broadcasting System",
-          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
-        },
-        {
-          "mal_id": 159,
-          "type": "anime",
-          "name": "Kodansha",
-          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
-        },
-        {
-          "mal_id": 1542,
-          "type": "anime",
-          "name": "DMM.com",
-          "url": "https://myanimelist.net/anime/producer/1542/DMMcom"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 73,
-          "type": "anime",
-          "name": "TMS Entertainment",
-          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        },
-        {
-          "mal_id": 22,
-          "type": "anime",
-          "name": "Romance",
-          "url": "https://myanimelist.net/anime/genre/22/Romance"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 50,
-          "type": "anime",
-          "name": "Adult Cast",
-          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
-        },
-        {
-          "mal_id": 35,
-          "type": "anime",
-          "name": "Harem",
-          "url": "https://myanimelist.net/anime/genre/35/Harem"
-        }
-      ],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ]
     }
   ]
 }
