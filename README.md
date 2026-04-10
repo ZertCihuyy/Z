@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.13.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.57.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Bota...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kamiina-botan-yoeru-sugata-wa-yuri-no.n2096421) • [🐱 Nyaa](https://nyaa.si/?q=ZSMED2R7YVLLWKVYNOP3VG7F6U2KE7XX) |
+| `[ToonsHub] Ranma 1-2 2024 S02 1080p AMZN WEB-DL DDP2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ranma-1-2-2024-s02-1080p-amzn.k10280817138701) • [🐱 Nyaa](https://nyaa.si/?q=PCM2XSOJEU3YG4SBMLUVF37UHTCVKFCO) |
+| `[Erai-raws] Hokuto no Ken (2026) - 01 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-01-1080p.n2096414) • [🐱 Nyaa](https://nyaa.si/?q=FZZNSKZJ2UI3NFRJQV7OWZYCDHTGTCZZ) |
 | `[DKB] Tensei shitara Slime Datta Ken - S04E02 [1080p][V2]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tensei-shitara-slime-datta-ken-s04e02-1080p.n2096410) • [🐱 Nyaa](https://nyaa.si/?q=4RSKIVMHG44FGGU5RMPUYFHDSVXHELTP) |
 | `Anyway Im Falling in Love with You S02 1080p CR WEB-DL DU...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anyway-im-falling-love-s02-1080p-cr-web.n2096409) • [🐱 Nyaa](https://nyaa.si/?q=UPKDJPSGR4OW2GLRY4BYHM2Z4ZPD2OFY) |
 | `JUJUTSU KAISEN S03 1080p CR WEB-DL DUAL AAC2.0 H 264-VARY...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jujutsu-kaisen-s03-1080p-cr-web-dl-dual.n2096408) • [🐱 Nyaa](https://nyaa.si/?q=M4GMHZE3ETJPITQAFOQCSXZMSJTBMB6Y) |
@@ -40,9 +43,6 @@
 | `You Cant Be In a Rom Com with Your Childhood Friends S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cant-rom-com-your-childhood-friends-s01-1080p.n2096401) • [🐱 Nyaa](https://nyaa.si/?q=VOVCM5K6PQET6GNVAUJODYATZIX7J2RQ) |
 | `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2096400) • [🐱 Nyaa](https://nyaa.si/?q=RG565FFGYLLOJZ3FPSWFVM627ALP7CJA) |
 | `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kamiina-botan-yoeru-sugata-wa-yuri-no.n2096399) • [🐱 Nyaa](https://nyaa.si/?q=56L57CUKZIT2FMLOKDDRIWNKT4QUVNLH) |
-| `[Mangamannn] VanDread - 01-13 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-vandread-01-13-480i-dvd.k10279798666762) • [🐱 Nyaa](https://nyaa.si/?q=MIQAWS2H7QO6JLLBUUWMXKM6WD3RVDGY) |
-| `[Kekkan] Jishou Akuyaku Reijou na Konyakusha no Kansatsu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kekkan-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2096398) • [🐱 Nyaa](https://nyaa.si/?q=Z4WOCXBD34EI25YZDIR3BT5FPMIBMX2F) |
-| `[Trix] Koi Kaze S01 (Batch) [DVDRip 480p AV1 Opus] (Dual ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-koi-kaze-s01-batch-dvdrip-480p-av1.n2096396) • [🐱 Nyaa](https://nyaa.si/?q=3P6VDODJUJWLGZTCVE6FCEQBB7IYPIFG) |
 
 ---
 <div align="center">
