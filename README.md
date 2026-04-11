@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.02.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.58.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Ascendance of a Bookworm S04E02 Lower City Family Reunion...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e02-lower-city-family-reunion-1080p.n2096567) • [🐱 Nyaa](https://nyaa.si/?q=HV55MT7JULR2ZRZUQCXPPDQIEF6YBEMI) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 02 (1080p) [9708D7...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-honzuki-no-gekokujou-s4-02-1080p-9708d720-mkv.n2096564) • [🐱 Nyaa](https://nyaa.si/?q=5LOM77POK2DLYZ4D5YCYVBY3VHBQ5EMI) |
+| `[ToonsHub] Ascendance of a Bookworm S04E02 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ascendance-bookworm-s04e02-1080p-cr-web-dl.k10293839893772) • [🐱 Nyaa](https://nyaa.si/?q=4IBORJGIFV34LZDDKKRJZWAGGQ4QCZIZ) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 02 (720p) [DC8CB75...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-honzuki-no-gekokujou-s4-02-720p-dc8cb755-mkv.n2096561) • [🐱 Nyaa](https://nyaa.si/?q=AV6E72NX4I5THTPZWMPHLNNNUQSFYRPL) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-honzuki-no-gekokujou-shisho-ni-naru.n2096560) • [🐱 Nyaa](https://nyaa.si/?q=RE5KUDH56QEHQ5J544JF7SOUTCRMBWM3) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 02 (480p) [975B916...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-honzuki-no-gekokujou-s4-02-480p-975b9168-mkv.n2096559) • [🐱 Nyaa](https://nyaa.si/?q=KXAWPBKPLEF73IYZM2UQFSVLTL2U5GP4) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-honzuki-no-gekokujou-shisho-ni-naru.n2096558) • [🐱 Nyaa](https://nyaa.si/?q=7FUQSTATUITS6FPVULAJLETPTCYYV6RO) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-honzuki-no-gekokujou-shisho-ni-naru.n2096557) • [🐱 Nyaa](https://nyaa.si/?q=S32TQOUTG4R7ZYZM73LRVKOHFBCHMKSZ) |
+| `[BlackRabbit] BLUE LOCK (2022) - S02 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blue-lock-2022-s02-bluray-1080p-opus.k10293444078080) • [🐱 Nyaa](https://nyaa.si/?q=52Z6VQG6MHWWJIJFHQ6LGE76GBMXAGWU) |
 | `[nekotan] Brave Bang Bravern! S01 (BD Remux 1080p x264 8-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-brave-bang-bravern-s01-bd-remux-1080p.k10293343629583) • [🐱 Nyaa](https://nyaa.si/?q=SZX5DCCMCTCSS7P46QSWLU2YPHHQ4RDM) |
 | `[BlackRabbit] BLUE LOCK (2022) - S01 [WEBDL-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blue-lock-2022-s01-webdl-1080p-opus.k10293194715661) • [🐱 Nyaa](https://nyaa.si/?q=SVZYUNSY4GO7G2K2KTLPVW36VSU6CLPB) |
 | `[ToonsHub] B King S01E09 1080p ADN WEB-DL AAC2.0 H.264 (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e09-1080p-adn-web-dl.k10291813836043) • [🐱 Nyaa](https://nyaa.si/?q=KER2QF3UBKEXWZI3SQMQCXDU6L3KEDKD) |
 | `Food.for.the.Soul.S01.1080p.BluRay.Opus.2.0.x265-YURASUKA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/food-soul-s01-1080p-bluray-opus-2-0.n2096545) • [🐱 Nyaa](https://nyaa.si/?q=HNCNQTFNO42AVIEGICFOL3ZTIUKRJLT6) |
 | `[SubsPlease] Maou no Musume wa Yasashi Sugiru!! (01-12) (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-maou-no-musume-wa-yasashi-sugiru-01.n2096538) • [🐱 Nyaa](https://nyaa.si/?q=UXXNVKBNUNLS55ZGENGVGLORZVGSQD36) |
 | `[AK4NE] Classroom of the Elite - S04E05 (E43) (WEB-Enc 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-s04e05-e43-web-enc-1080p.k10290130151180) • [🐱 Nyaa](https://nyaa.si/?q=M6RJQRUBAATLX7TALJ5QOEAI73CYHOXL) |
-| `[Bird] Cardfight!! Vanguard - Divinez Genma Seisen-hen - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-12-1080p.n2096530) • [🐱 Nyaa](https://nyaa.si/?q=JSVJORAZ4KO5OGXMYQGIBZOGF4U6FOXI) |
-| `Cardfight!! Vanguard: Divinez Parallactic Clash - 12 | Ca...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-12-genma-seisen.n2096527) • [🐱 Nyaa](https://nyaa.si/?q=XZFK4OGSWDHX3S7HFZIYQYHHPXMKESER) |
-| `RILAKKUMA S01E02 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e02-1080p-cr-web-dl-multi-aac2.n2096523) • [🐱 Nyaa](https://nyaa.si/?q=CGBYBMVJM53KER2ZGVYJ3RJODGTLNC7U) |
-| `[Some-Stuffs] Pocket Monsters (2023) 133 (1080p HEVC 10-b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-133-1080p-hevc-10-bit-28e90250.n2096522) • [🐱 Nyaa](https://nyaa.si/?q=GXJGA26H36TEIDZCHIYULMRWXPCV4E2N) |
-| `[Some-Stuffs] Pocket Monsters (2023) 133 (1080p) [6CA5C6C1]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-133-1080p-6ca5c6c1.n2096521) • [🐱 Nyaa](https://nyaa.si/?q=R3JWRH542LQVWPWDPOOXDXA54KBXA5UW) |
-| `[Gecko] B.King - S01E09 (驭灵师; Yu Ling Shi) [BILI.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e09-yu-ling-shi-bili.k10287879683083) • [🐱 Nyaa](https://nyaa.si/?q=RANLL6FWJF4TBKCRSQX372JVHGX64CB5) |
-| `[ToonsHub] B King S01E09 1080p BILI WEB-DL AAC2.0 H.265 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e09-1080p-bili-web-dl.n2096519) • [🐱 Nyaa](https://nyaa.si/?q=XABT6MGQVVOUGHPHSEV3WTGK3HEVCTAW) |
-| `[Freehold] Chained Soldier S02E05 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e05-repack2-adn-web-dl.n2096512) • [🐱 Nyaa](https://nyaa.si/?q=WMWGYNZYUKJ2ZOORJ2EDNBZBIPCWNZ6U) |
-| `[Piyoko] Onegai AiPri - 01 [WEB AMZN 1080p h264 AC3 2.0][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-01-web-amzn-1080p-h264.n2096511) • [🐱 Nyaa](https://nyaa.si/?q=KW3RHPULRZQNRZWFTSOPMTTBQGT6DYRC) |
 
 ---
 <div align="center">
