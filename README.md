@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.46.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.03.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AK4NE] Classroom of the Elite - S04E04 (E42) (WEB-Enc 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-s04e04-e42-web-enc-1080p.k10290130151180) • [🐱 Nyaa](https://nyaa.si/?q=M6RJQRUBAATLX7TALJ5QOEAI73CYHOXL) |
+| `[Bird] Cardfight!! Vanguard - Divinez Genma Seisen-hen - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-12-1080p.n2096530) • [🐱 Nyaa](https://nyaa.si/?q=JSVJORAZ4KO5OGXMYQGIBZOGF4U6FOXI) |
 | `Cardfight!! Vanguard: Divinez Parallactic Clash - 12 | Ca...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-12-genma-seisen.n2096527) • [🐱 Nyaa](https://nyaa.si/?q=XZFK4OGSWDHX3S7HFZIYQYHHPXMKESER) |
 | `RILAKKUMA S01E02 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e02-1080p-cr-web-dl-multi-aac2.n2096523) • [🐱 Nyaa](https://nyaa.si/?q=CGBYBMVJM53KER2ZGVYJ3RJODGTLNC7U) |
 | `[Some-Stuffs] Pocket Monsters (2023) 133 (1080p HEVC 10-b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-133-1080p-hevc-10-bit-28e90250.n2096522) • [🐱 Nyaa](https://nyaa.si/?q=GXJGA26H36TEIDZCHIYULMRWXPCV4E2N) |
@@ -41,8 +43,6 @@
 | `[ASW] Rilakkuma - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-rilakkuma-02-1080p-hevc-x265-10bit-aac.n2096493) • [🐱 Nyaa](https://nyaa.si/?q=U6HZC73GWU42DDFJM3M5HGLTDXMFGWOL) |
 | `RILAKKUMA S01E02 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e02-1080p-cr-web-dl-dual-aac2.n2096490) • [🐱 Nyaa](https://nyaa.si/?q=SHT7LDJHHBRBW7ZKCX4XJAAEQNQQ255J) |
 | `[ToonsHub] RILAKKUMA S01E02 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e02-1080p-cr-web-dl-dual.k10286001366533) • [🐱 Nyaa](https://nyaa.si/?q=TJINN3GHHNVHJJFBUOK4VQOC7ASDIZT2) |
-| `[Erai-raws] Rilakkuma - 02 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-480p-cr-web-dl.n2096487) • [🐱 Nyaa](https://nyaa.si/?q=FNGD5TPVNNF3WEF2DGRJ7ADX3IJKRJSF) |
-| `[Erai-raws] Rilakkuma - 02 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-720p-cr-web-dl.n2096484) • [🐱 Nyaa](https://nyaa.si/?q=WU7NW56VGI36XEV46XELN6YNBZE6VW6S) |
 
 ---
 <div align="center">
