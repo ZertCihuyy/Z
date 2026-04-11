@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.22.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.04.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -20,29 +20,29 @@
 | `04:52` | **[Bonobono (TV 2016)](https://myanimelist.net/anime/32353/Bonobono_TV_2016)** | *Comedy* |
 | `01:00` | **[Hokuto no Ken: Fist of the North Star](https://myanimelist.net/anime/56646/Hokuto_no_Ken__Fist_of_the_North_Star)** | *Action, Drama, Sci-Fi* |
 | `00:00` | **[Kamiina Botan, Yoeru Sugata wa Yuri no Hana](https://myanimelist.net/anime/61186/Kamiina_Botan_Yoeru_Sugata_wa_Yuri_no_Hana)** | *Girls Love, Gourmet, Slice of Life* |
+| `21:30` | **[Yowayowa Sensei](https://myanimelist.net/anime/60444/Yowayowa_Sensei)** | *Comedy, Romance, Ecchi* |
 | `23:45` | **[Mao](https://myanimelist.net/anime/62048/Mao)** | *Mystery, Supernatural* |
-| `22:00` | **[Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?](https://myanimelist.net/anime/62825/Saikyou_no_Shokugyou_wa_Yuusha_demo_Kenja_demo_Naku_Kanteishi_Kari_Rashii_desu_yo)** | *Adventure, Comedy, Fantasy* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Yowayowa Sensei - S01E01 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yowayowa-sensei-s01e01-1080p-webrip-av1-mkv.2073534) • [🐱 Nyaa](https://nyaa.si/?q=CKEIW2ZEXR4O4WDDYSNYOJAQHE3YVATR) |
-| `Yowayowa Sensei S01E01 Spooky Scary Sensei 1080p ADN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yowayowa-sensei-s01e01-spooky-scary-1080p-adn-web.n2096667) • [🐱 Nyaa](https://nyaa.si/?q=VGMJWATYERFXJDD3VGB7RZIQJ4WIJE4F) |
-| `[BlackRabbit] Bleach (2004) - S02 [DVD-576p][Opus 2.0][Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-bleach-2004-s02-dvd-576p-opus-2.k10297865953283) • [🐱 Nyaa](https://nyaa.si/?q=A6HNBGZNBTD5YN6RNGOFQ4UWEYD2JDW3) |
-| `[BlackRabbit] Bleach (2004) - S01 [DVD-576p][Opus 2.0][Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-bleach-2004-s01-dvd-576p-opus-2.k10297708609794) • [🐱 Nyaa](https://nyaa.si/?q=JI5W7QK2WWH3B44NDCRPXISXSUVMSPXB) |
-| `[ASW] Yowayowa Sensei - 01 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yowayowa-sensei-01-1080p-hevc-x265-10bit-aac.n2096660) • [🐱 Nyaa](https://nyaa.si/?q=WQJW6XYZEFPIZF7TTJLNDIGDQFOHTJ5V) |
-| `Yowayowa Sensei S01E01 Spooky Scary Sensei 1080p HIDI WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yowayowa-sensei-s01e01-spooky-scary-1080p-hidi-web.n2096659) • [🐱 Nyaa](https://nyaa.si/?q=G6PWK4LUOCF2UERLKZLTIJ2Q2XJPU3AF) |
-| `[Ironclad] Ascendance of a Bookworm - S04E02 [WEB 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-ascendance-bookworm-s04e02-web-1080p-av1-honzuki.k10297621477127) • [🐱 Nyaa](https://nyaa.si/?q=WSUEY6EL56WYRKH23L2ERTFBBZLITZ2Y) |
-| `The strongest job is apparently not a hero or a sage but ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/strongest-job-apparently-not-hero-sage-appraiser-provisional.n2096656) • [🐱 Nyaa](https://nyaa.si/?q=Q5EHAOZPE5IRJ3F5X6PI6JY72KCSGANP) |
-| `[SubsPlease] Kanteishi (Kari) - 03 (1080p) [E2B434FA].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanteishi-kari-03-1080p-e2b434fa-mkv.n2096653) • [🐱 Nyaa](https://nyaa.si/?q=GWQLWPRPHCJXEVF7TM5OB5XLP54CDVUU) |
-| `[ToonsHub] The strongest job is apparently not a hero or ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-strongest-job-apparently-not-hero-sage-appraiser.k10297526709762) • [🐱 Nyaa](https://nyaa.si/?q=Z2MT3RB2SNBEXQBUQG53PON5324FEHFU) |
-| `[SubsPlease] Kanteishi (Kari) - 03 (720p) [ED7E0D79].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanteishi-kari-03-720p-ed7e0d79-mkv.n2096650) • [🐱 Nyaa](https://nyaa.si/?q=UKORB7DX7CMAMQ7UTZWFVLCMYWUCFARX) |
-| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2096649) • [🐱 Nyaa](https://nyaa.si/?q=SUONEBMBLNKZ3XMDJENA24MFSAL7WTWP) |
-| `[SubsPlease] Kanteishi (Kari) - 03 (480p) [B206D783].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanteishi-kari-03-480p-b206d783-mkv.n2096648) • [🐱 Nyaa](https://nyaa.si/?q=ACICU6MGM6AYTHOC6LZUJFKSBI55ODRO) |
-| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2096647) • [🐱 Nyaa](https://nyaa.si/?q=ZGAZNQUXSYIKCC2IQKNWH4ZW3HY47Q6V) |
-| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2096646) • [🐱 Nyaa](https://nyaa.si/?q=2PG6USL6BAI65VVG2KIY3V5FNN6UVEWD) |
+| `[Erai-raws] Yowayowa Sensei - 01 [480p ADN WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-01-480p-adn-web.n2096701) • [🐱 Nyaa](https://nyaa.si/?q=TWMZHRMBULD3DK7VRJTI72UMYXPI6M7P) |
+| `[Erai-raws] Yowayowa Sensei - 01 [720p ADN WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-01-720p-adn-web.n2096700) • [🐱 Nyaa](https://nyaa.si/?q=4RKNOFTBTSAOSAHSXMD2HUB7IYEFUC52) |
+| `[Erai-raws] Yowayowa Sensei - 01 [1080p ADN WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-01-1080p-adn-web.n2096699) • [🐱 Nyaa](https://nyaa.si/?q=OMBDYQNSX5M4KJ77XQJ544ZWQN3JV4AV) |
+| `[ToonsHub] KILL BLUE S01E01 1080p AMZN WEB-DL DUAL DDP2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e01-1080p-amzn-web-dl.k10298644231950) • [🐱 Nyaa](https://nyaa.si/?q=UPBSFC4MTWJ6ZYHPWLFONT2E77JA6KPU) |
+| `[Erai-raws] Detective Conan - 1197 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1197-1080p-cr-webrip.k10298567997452) • [🐱 Nyaa](https://nyaa.si/?q=V42R3GWNM4R2B6CYBLBVN5A37VMXRUBQ) |
+| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 02 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-02.k10298540371468) • [🐱 Nyaa](https://nyaa.si/?q=WJ3NB66AKCSFE4HETOEUNJXOPNZFTA66) |
+| `[Erai-raws] Ascendance of a Bookworm - 38 [1080p CR WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ascendance-bookworm-38-1080p-cr-webrip.k10298535166731) • [🐱 Nyaa](https://nyaa.si/?q=JBMHYDGTWYBD5XI5R3OYY2QYLFQMPHLR) |
+| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.k10298529562117) • [🐱 Nyaa](https://nyaa.si/?q=3CBNMRUTU74IVWGGP2GN2NAGSNOADYBZ) |
+| `[Erai-raws] Kill Ao - 01 [480p CR WEB-DL AVC AAC][MultiSu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kill-ao-01-480p-cr-web.k10298517036040) • [🐱 Nyaa](https://nyaa.si/?q=H3H5KYK3QGPZMLCKAFBD45EOGQH7JECM) |
+| `[Erai-raws] Kill Ao - 01 [720p CR WEB-DL AVC AAC][MultiSu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kill-ao-01-720p-cr-web.k10298515026690) • [🐱 Nyaa](https://nyaa.si/?q=RCLD4NWTPL5IC2HRAA6KF3KL3IJ772QN) |
+| `[Erai-raws] Kill Ao - 01 [1080p CR WEB-DL AVC AAC][MultiS...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kill-ao-01-1080p-cr-web.k10298513004813) • [🐱 Nyaa](https://nyaa.si/?q=TCA2YV3KOVP5MA6ZVZBWKB4PBTKFKYTG) |
+| `[BlackRabbit] Bleach (2004) - S08 [DVD-576p][Opus 2.0][Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-bleach-2004-s08-dvd-576p-opus-2.k10298490714888) • [🐱 Nyaa](https://nyaa.si/?q=YW3BE6475LH47EPNL5SILSKPYYE3W562) |
+| `[ToonsHub] KILL BLUE S01E01 1080p NF WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e01-1080p-nf-web-dl.k10298489314824) • [🐱 Nyaa](https://nyaa.si/?q=VXR73MA25O7S3EDE6FXYKF65IQAF23EG) |
+| `KILL BLUE S01E01 1080p CR WEB-DL AAC2.0 H 264-VARYG (Kill...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kill-blue-s01e01-1080p-cr-web-dl-aac2.n2096687) • [🐱 Nyaa](https://nyaa.si/?q=5UM2BNFV7U5ZVYAKUI5K5XVXH7MF3BFC) |
+| `[BlackRabbit] Bleach (2004) - S07 [DVD-576p][Opus 2.0][Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-bleach-2004-s07-dvd-576p-opus-2.k10298454713095) • [🐱 Nyaa](https://nyaa.si/?q=7JI4AFM6Y3HVPDPM7LRB4MHGZAGXRRWX) |
 
 ---
 <div align="center">
