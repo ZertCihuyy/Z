@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.01.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.50.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Yuusha no Kuzu - S01E13 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-kuzu-s01e13-1080p-webrip-av1-mkv.2073623) • [🐱 Nyaa](https://nyaa.si/?q=F2I3JHBIJQDAGBDTXES727MU476XRQSP) |
+| `[ASW] NEEDY GIRL OVERDOSE - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-needy-girl-overdose-02-1080p-hevc-x265-10bit-aac.n2096908) • [🐱 Nyaa](https://nyaa.si/?q=JX5XAKMZ7W4YHRWU6IUXC23QZ4SYGOCH) |
+| `[ASW] Kami no Niwatsuki Kusunoki-tei - 02 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kami-no-niwatsuki-kusunoki-tei-02-1080p.n2096907) • [🐱 Nyaa](https://nyaa.si/?q=GOZK4AT7IQ2PJG5JFFWFEPJLXQXWVGXU) |
+| `[Onalrie] NEEDY GIRL OVERDOSE - S01E02 [1080p WEBRip AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-needy-girl-overdose-s01e02-1080p-webrip-av1-mkv.2073616) • [🐱 Nyaa](https://nyaa.si/?q=CHZPU3IGZR4HAB6GBML7ROB6TK2XIJWF) |
+| `[Judas] NEEDY GIRL OVERDOSE - S01E02 [1080p][HEVC x265 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-needy-girl-overdose-s01e02-1080p-hevc-x265.n2096906) • [🐱 Nyaa](https://nyaa.si/?q=H2LNWO6DBTRK7SW5LF6VE7ZWESZQF5S6) |
 | `[DKB] Yomi no Tsugai - S01E02 [1080p][HEVC x265 10bit][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-yomi-no-tsugai-s01e02-1080p-hevc-x265.n2096904) • [🐱 Nyaa](https://nyaa.si/?q=SLUYDS7MTKOTD5F635M7I4HDL5VANMPH) |
 | `[DKB] Kanan-sama wa Akumade Choroi - S01E02 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanan-sama-wa-akumade-choroi-s01e02-1080p.n2096902) • [🐱 Nyaa](https://nyaa.si/?q=VZXA6SV7SM7LMJ5DFTB6MCOLESKZEFLP) |
 | `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-honzuki-no-gekokujou-shisho-ni-naru-tame.n2096901) • [🐱 Nyaa](https://nyaa.si/?q=7XY5D2QZ7IX5S27DUO3SV5OPB3BTK5YO) |
@@ -38,11 +43,6 @@
 | `[ASW] Shunkashuutou Daikousha - Haru no Mai - 03 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-shunkashuutou-daikousha-haru-no-mai-03-1080p.n2096895) • [🐱 Nyaa](https://nyaa.si/?q=FGEMKPX3CK5L5U5UE373QR6BNDXYJEP7) |
 | `[/a/nonymous] Strawberry Marshmallow (2005) S01+ 2 OVAs (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nonymous-strawberry-marshmallow-2005-s01-2-ovas-480p.k10301831812868) • [🐱 Nyaa](https://nyaa.si/?q=6D342ZSBHQVIDMSFZR54WFMKLJNHQJPK) |
 | `Ichijyoma Mankitsu Gurashi S01E01 1080p ADN WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ichijyoma-mankitsu-gurashi-s01e01-1080p-adn-web-dl.n2096894) • [🐱 Nyaa](https://nyaa.si/?q=UACA3UIHDVJCIB5WEEGCGYK37GRI76XK) |
-| `[Judas] Kami no Niwatsuki Kusunoki-tei (Kusunoki's Garden...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kami-no-niwatsuki-kusunoki-tei-kusunokis-garden.n2096892) • [🐱 Nyaa](https://nyaa.si/?q=ZGZV3HCQ6GWFMPWYSYFRJZ5HU7JD7JKN) |
-| `[Unfucked] NEEDY GIRL OVERDOSE - S01E02 (1080p WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-needy-girl-overdose-s01e02-1080p-web-dl.n2096891) • [🐱 Nyaa](https://nyaa.si/?q=UN4JFEAVCKRZZSNA2VSAGDWVNYVZGX7A) |
-| `[Onalrie] Kami no Niwatsuki Kusunoki-tei - S01E02 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kami-no-niwatsuki-kusunoki-tei-s01e02-1080p.2073593) • [🐱 Nyaa](https://nyaa.si/?q=WOAMRY4NCE65J6TK3FS2JQNYHNV3CJZK) |
-| `[Ironclad] Yomi no Tsugai - S01E02 [WEB.1080p.AV1] | Daem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-yomi-no-tsugai-s01e02-web-1080p-av1.n2096890) • [🐱 Nyaa](https://nyaa.si/?q=2G7S6RJBUQMZEQZ3GM3PWT5FPK4VO5LQ) |
-| `[FumeiRaws] NEEDY GIRL OVERDOSE - 02 (Aniplus 1920x1080 x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fumeiraws-needy-girl-overdose-02-aniplus-1920x1080-x264-aac.n2096889) • [🐱 Nyaa](https://nyaa.si/?q=RBXX7RARJWZHFO5YAPPBJLJAQINEA4WP) |
 
 ---
 <div align="center">
