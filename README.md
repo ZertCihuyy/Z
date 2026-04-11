@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.57.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.44.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Feibanyama] That Time I Got Reincarnated as a Slime S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-time-got-reincarnated-slime-s04e02-iqiyi-webrip.n2096951) • [🐱 Nyaa](https://nyaa.si/?q=O2V6F6ZFKYRNFEGT7KT7UTO2MQ2UKNQQ) |
+| `[DKB] Needy Girl Overdose - S01E02 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-needy-girl-overdose-s01e02-1080p-hevc-x265.n2096950) • [🐱 Nyaa](https://nyaa.si/?q=K3YU7BYXS7C6EHERDTQOJ2ANZPZLFES2) |
+| `[BlackRabbit] To LOVE-Ru (2008) - S03 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-love-ru-2008-s03-bluray-1080p-opus.k10305570574336) • [🐱 Nyaa](https://nyaa.si/?q=HYTWY7Q3MH6P3BBNNVIAENHBFZIT732S) |
+| `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-yomi-no-tsugai-daemons-shadow-realm-s01e02.n2096949) • [🐱 Nyaa](https://nyaa.si/?q=EMGXD3CRTZOPQE6SNAPPHMXZBMVMQL4E) |
 | `[Yameii] The Daily Life of the Immortal King - S05E12 [En...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-daily-life-immortal-king-s05e12-english-dub.n2096945) • [🐱 Nyaa](https://nyaa.si/?q=APJNUHCLNZ2R6JL3ZQERFOA5OWLETZIM) |
 | `[Yameii] The Daily Life of the Immortal King - S05E12 [En...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-daily-life-immortal-king-s05e12-english-dub.n2096944) • [🐱 Nyaa](https://nyaa.si/?q=YHWTPSK2DERLVDJFA33QDC3S43VEY2TM) |
 | `[ZeroCool] Ponyo ultimate theatrical like a trembling cli...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/zerocool-ponyo-ultimate-theatrical-like-trembling-clitorus.n2096943) • [🐱 Nyaa](https://nyaa.si/?q=4J2GXGRCFFPSRQEAO3B5SACNPCCIDFAN) |
@@ -39,10 +43,6 @@
 | `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 03 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-shunkashuutou-daikousha-haru-no-mai-03.k10304062617098) • [🐱 Nyaa](https://nyaa.si/?q=RDWV37WFM5TAISS7ZQNZSIDUYTISSGUH) |
 | `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asakura-tensei-shitara-slime-datta-ken-4th-season.n2096933) • [🐱 Nyaa](https://nyaa.si/?q=EPIWH42XSFTCNWEZG3NAWNBJJ73IRSYQ) |
 | `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-daemons-shadow-realm-yomi-no-tsugai.n2096932) • [🐱 Nyaa](https://nyaa.si/?q=3LK5NXK4XUDCHNGCUROPZ2YWJOXZMJGV) |
-| `[Erai-raws] Kanan-sama wa Akumade Choroi - 02 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanan-sama-wa-akumade-choroi-02.k10303373956876) • [🐱 Nyaa](https://nyaa.si/?q=3MP2TWJR5HDWJ5AY65MXW5DB3SJXQBIQ) |
-| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kanan-sama-wa-akumade-choroi-mistress-devilishly.n2096928) • [🐱 Nyaa](https://nyaa.si/?q=4D7FHWBKTGA5MT7PORBAAAVILVSLUMRE) |
-| `[Onalrie] Yuusha no Kuzu - S01E13 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-kuzu-s01e13-1080p-webrip-av1-mkv.2073623) • [🐱 Nyaa](https://nyaa.si/?q=F2I3JHBIJQDAGBDTXES727MU476XRQSP) |
-| `[ASW] NEEDY GIRL OVERDOSE - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-needy-girl-overdose-02-1080p-hevc-x265-10bit-aac.n2096908) • [🐱 Nyaa](https://nyaa.si/?q=JX5XAKMZ7W4YHRWU6IUXC23QZ4SYGOCH) |
 
 ---
 <div align="center">
