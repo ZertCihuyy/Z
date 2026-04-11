@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.44.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.46.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Cardfight!! Vanguard: Divinez Parallactic Clash - 12 | Ca...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-12-genma-seisen.n2096527) • [🐱 Nyaa](https://nyaa.si/?q=XZFK4OGSWDHX3S7HFZIYQYHHPXMKESER) |
+| `RILAKKUMA S01E02 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e02-1080p-cr-web-dl-multi-aac2.n2096523) • [🐱 Nyaa](https://nyaa.si/?q=CGBYBMVJM53KER2ZGVYJ3RJODGTLNC7U) |
+| `[Some-Stuffs] Pocket Monsters (2023) 133 (1080p HEVC 10-b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-133-1080p-hevc-10-bit-28e90250.n2096522) • [🐱 Nyaa](https://nyaa.si/?q=GXJGA26H36TEIDZCHIYULMRWXPCV4E2N) |
+| `[Some-Stuffs] Pocket Monsters (2023) 133 (1080p) [6CA5C6C1]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-133-1080p-6ca5c6c1.n2096521) • [🐱 Nyaa](https://nyaa.si/?q=R3JWRH542LQVWPWDPOOXDXA54KBXA5UW) |
+| `[Gecko] B.King - S01E09 (驭灵师; Yu Ling Shi) [BILI.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e09-yu-ling-shi-bili.k10287879683083) • [🐱 Nyaa](https://nyaa.si/?q=RANLL6FWJF4TBKCRSQX372JVHGX64CB5) |
+| `[ToonsHub] B King S01E09 1080p BILI WEB-DL AAC2.0 H.265 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e09-1080p-bili-web-dl.n2096519) • [🐱 Nyaa](https://nyaa.si/?q=XABT6MGQVVOUGHPHSEV3WTGK3HEVCTAW) |
 | `[Freehold] Chained Soldier S02E05 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e05-repack2-adn-web-dl.n2096512) • [🐱 Nyaa](https://nyaa.si/?q=WMWGYNZYUKJ2ZOORJ2EDNBZBIPCWNZ6U) |
 | `[Piyoko] Onegai AiPri - 01 [WEB AMZN 1080p h264 AC3 2.0][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-01-web-amzn-1080p-h264.n2096511) • [🐱 Nyaa](https://nyaa.si/?q=KW3RHPULRZQNRZWFTSOPMTTBQGT6DYRC) |
 | `[Erai-raws] Rilakkuma - 02 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-1080p-cr-webrip-hevc.n2096504) • [🐱 Nyaa](https://nyaa.si/?q=UIRQN7L6YE6OX6MPUIUFUKGO4HNIPUYF) |
 | `[Onalrie] Rilakkuma - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e02-1080p-webrip-av1-mkv.2073439) • [🐱 Nyaa](https://nyaa.si/?q=JWB7F4BRPA7PWCOPQWTOTS53C37E26CD) |
+| `[ASW] Rilakkuma - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-rilakkuma-02-1080p-hevc-x265-10bit-aac.n2096493) • [🐱 Nyaa](https://nyaa.si/?q=U6HZC73GWU42DDFJM3M5HGLTDXMFGWOL) |
 | `RILAKKUMA S01E02 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e02-1080p-cr-web-dl-dual-aac2.n2096490) • [🐱 Nyaa](https://nyaa.si/?q=SHT7LDJHHBRBW7ZKCX4XJAAEQNQQ255J) |
 | `[ToonsHub] RILAKKUMA S01E02 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e02-1080p-cr-web-dl-dual.k10286001366533) • [🐱 Nyaa](https://nyaa.si/?q=TJINN3GHHNVHJJFBUOK4VQOC7ASDIZT2) |
 | `[Erai-raws] Rilakkuma - 02 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-480p-cr-web-dl.n2096487) • [🐱 Nyaa](https://nyaa.si/?q=FNGD5TPVNNF3WEF2DGRJ7ADX3IJKRJSF) |
 | `[Erai-raws] Rilakkuma - 02 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-720p-cr-web-dl.n2096484) • [🐱 Nyaa](https://nyaa.si/?q=WU7NW56VGI36XEV46XELN6YNBZE6VW6S) |
-| `[Erai-raws] Rilakkuma - 02 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-1080p-cr-web-dl.n2096483) • [🐱 Nyaa](https://nyaa.si/?q=ZP3N5MY725FSNMFWREOSFVSCKOEUUX7R) |
-| `[SubsPlease] Rilakkuma - 02 (1080p) [6B6954E9].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-02-1080p-6b6954e9-mkv.n2096482) • [🐱 Nyaa](https://nyaa.si/?q=B473LVM4W2G26VACQPCIVNPNNLYRO6XS) |
-| `[SubsPlease] Rilakkuma - 02 (720p) [9D2EEC82].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-02-720p-9d2eec82-mkv.n2096481) • [🐱 Nyaa](https://nyaa.si/?q=MTFTIXIZQDZE74H6NSPJB5XTN4IE7USF) |
-| `[SubsPlease] Rilakkuma - 02 (480p) [786EF4C9].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-02-480p-786ef4c9-mkv.n2096480) • [🐱 Nyaa](https://nyaa.si/?q=FMPCTRKXP4RNE6LHBYKH3AMUKGKIJ7QY) |
-| `[Tasokare] Lord El-Melloi II's Case Files: Rail Zeppelin ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-lord-el-melloi-iis-case-files-rail.k10284846966279) • [🐱 Nyaa](https://nyaa.si/?q=QWHULH6N3DASIIEJLDJYAEB6PT3ED4YE) |
-| `[Kawatare] Lord El-Melloi II's Case Files: Rail Zeppelin ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-lord-el-melloi-iis-case-files-rail.k10284834798082) • [🐱 Nyaa](https://nyaa.si/?q=5J3KREDKKO2QQZL2PUNXIVG2AXNIRZOI) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2096472) • [🐱 Nyaa](https://nyaa.si/?q=YTTI64WICN6UHYPC7UBQUGB3QHQV5J5I) |
 
 ---
 <div align="center">
