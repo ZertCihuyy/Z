@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.44.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.18.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -12,6 +12,7 @@
 ### 📅 Jadwal Rilis Hari Ini: **Minggu**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
+| `07:00` | **[Kumarba Season 3](https://myanimelist.net/anime/63383/Kumarba_Season_3)** | *-* |
 | `08:30` | **[Tomica to Tom (TV)](https://myanimelist.net/anime/62083/Tomica_to_Tom_TV)** | *Slice of Life* |
 | `09:30` | **[Onegai AiPri](https://myanimelist.net/anime/63352/Onegai_AiPri)** | *-* |
 | `TBA` | **[Manul no Yuube](https://myanimelist.net/anime/38776/Manul_no_Yuube)** | *Slice of Life* |
@@ -21,13 +22,15 @@
 | `18:00` | **[Chibi Maruko-chan (1995)](https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995)** | *Comedy* |
 | `18:30` | **[Sazae-san](https://myanimelist.net/anime/2406/Sazae-san)** | *Comedy* |
 | `22:00` | **[Maid-san wa Taberu dake](https://myanimelist.net/anime/62342/Maid-san_wa_Taberu_dake)** | *Gourmet, Slice of Life* |
-| `22:00` | **[Maid-san wa Taberu dake](https://myanimelist.net/anime/62342/Maid-san_wa_Taberu_dake)** | *Gourmet, Slice of Life* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Yuusha no Kuzu - 13 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-no-kuzu-13-1080p-cr.k10306313530372) • [🐱 Nyaa](https://nyaa.si/?q=WA7T5H5CPLYBQD2ISJZRNV6FDMXYXLXD) |
+| `[Erai-raws] Yomi no Tsugai - 02 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yomi-no-tsugai-02-1080p-cr.k10306300291585) • [🐱 Nyaa](https://nyaa.si/?q=SXZBQGNQS54ZYTVUYFWKFPIKBP4RLRUY) |
+| `[DKB] Akane-banashi - S01E02 [1080p][HEVC x265 10bit][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-akane-banashi-s01e02-1080p-hevc-x265-10bit.n2096952) • [🐱 Nyaa](https://nyaa.si/?q=KP2VWUT56DXIXY7ZBLWDJZVSHL2IW3FL) |
 | `[Feibanyama] That Time I Got Reincarnated as a Slime S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-time-got-reincarnated-slime-s04e02-iqiyi-webrip.n2096951) • [🐱 Nyaa](https://nyaa.si/?q=O2V6F6ZFKYRNFEGT7KT7UTO2MQ2UKNQQ) |
 | `[DKB] Needy Girl Overdose - S01E02 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-needy-girl-overdose-s01e02-1080p-hevc-x265.n2096950) • [🐱 Nyaa](https://nyaa.si/?q=K3YU7BYXS7C6EHERDTQOJ2ANZPZLFES2) |
 | `[BlackRabbit] To LOVE-Ru (2008) - S03 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-love-ru-2008-s03-bluray-1080p-opus.k10305570574336) • [🐱 Nyaa](https://nyaa.si/?q=HYTWY7Q3MH6P3BBNNVIAENHBFZIT732S) |
@@ -40,9 +43,6 @@
 | `MAO S01E02 Spider Lady 1080p DSNP WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e02-spider-lady-1080p-dsnp-web-dl.n2096939) • [🐱 Nyaa](https://nyaa.si/?q=AKGWTBZBQGKJCMHVHO3D6DFPWDVQ25ZA) |
 | `[ToonsHub] MAO S01E02 1080p DSNP WEB-DL AAC2.0 H.264 (Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mao-s01e02-1080p-dsnp-web-dl-aac2.n2096938) • [🐱 Nyaa](https://nyaa.si/?q=DKWMVVS6JDYU7WPJB7C5KRNYVWVIUQKV) |
 | `[Judas] Akane-banashi - S01E02 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-akane-banashi-s01e02-1080p-hevc-x265-10bit.n2096936) • [🐱 Nyaa](https://nyaa.si/?q=BJJI4C67EWRUD3WBGZJMYZAJPLXZTGXV) |
-| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 03 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-shunkashuutou-daikousha-haru-no-mai-03.k10304062617098) • [🐱 Nyaa](https://nyaa.si/?q=RDWV37WFM5TAISS7ZQNZSIDUYTISSGUH) |
-| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asakura-tensei-shitara-slime-datta-ken-4th-season.n2096933) • [🐱 Nyaa](https://nyaa.si/?q=EPIWH42XSFTCNWEZG3NAWNBJJ73IRSYQ) |
-| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-daemons-shadow-realm-yomi-no-tsugai.n2096932) • [🐱 Nyaa](https://nyaa.si/?q=3LK5NXK4XUDCHNGCUROPZ2YWJOXZMJGV) |
 
 ---
 <div align="center">
