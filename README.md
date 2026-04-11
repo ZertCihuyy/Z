@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.50.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.40.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-daemons-shadow-realm-yomi-no-tsugai.n2096932) • [🐱 Nyaa](https://nyaa.si/?q=3LK5NXK4XUDCHNGCUROPZ2YWJOXZMJGV) |
+| `[Erai-raws] Kanan-sama wa Akumade Choroi - 02 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanan-sama-wa-akumade-choroi-02.k10303373956876) • [🐱 Nyaa](https://nyaa.si/?q=3MP2TWJR5HDWJ5AY65MXW5DB3SJXQBIQ) |
+| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kanan-sama-wa-akumade-choroi-mistress-devilishly.n2096928) • [🐱 Nyaa](https://nyaa.si/?q=4D7FHWBKTGA5MT7PORBAAAVILVSLUMRE) |
 | `[Onalrie] Yuusha no Kuzu - S01E13 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-kuzu-s01e13-1080p-webrip-av1-mkv.2073623) • [🐱 Nyaa](https://nyaa.si/?q=F2I3JHBIJQDAGBDTXES727MU476XRQSP) |
 | `[ASW] NEEDY GIRL OVERDOSE - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-needy-girl-overdose-02-1080p-hevc-x265-10bit-aac.n2096908) • [🐱 Nyaa](https://nyaa.si/?q=JX5XAKMZ7W4YHRWU6IUXC23QZ4SYGOCH) |
 | `[ASW] Kami no Niwatsuki Kusunoki-tei - 02 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kami-no-niwatsuki-kusunoki-tei-02-1080p.n2096907) • [🐱 Nyaa](https://nyaa.si/?q=GOZK4AT7IQ2PJG5JFFWFEPJLXQXWVGXU) |
@@ -40,9 +43,6 @@
 | `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-shunkashuutou-daikousha-haru-no-mai-s01e03-1080p.2073611) • [🐱 Nyaa](https://nyaa.si/?q=4W3SUJBQT7MV5DTXEDGLFKCCFQ7AQWE2) |
 | `[ASW] Yuusha no Kuzu - 13 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-kuzu-13-1080p-hevc-x265-10bit-aac.n2096897) • [🐱 Nyaa](https://nyaa.si/?q=XTVFDGIZI76N6WF3FLJKCKJQWP4H23CA) |
 | `[Kurai] MAO - S01E01 (AMZN WEB-DL 1080p H.264 E-AC-3) [FB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kurai-mao-s01e01-amzn-web-dl-1080p-h.n2096896) • [🐱 Nyaa](https://nyaa.si/?q=OGP5N7GQLTYSV5RNCAIFOWSURX2I5F35) |
-| `[ASW] Shunkashuutou Daikousha - Haru no Mai - 03 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-shunkashuutou-daikousha-haru-no-mai-03-1080p.n2096895) • [🐱 Nyaa](https://nyaa.si/?q=FGEMKPX3CK5L5U5UE373QR6BNDXYJEP7) |
-| `[/a/nonymous] Strawberry Marshmallow (2005) S01+ 2 OVAs (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nonymous-strawberry-marshmallow-2005-s01-2-ovas-480p.k10301831812868) • [🐱 Nyaa](https://nyaa.si/?q=6D342ZSBHQVIDMSFZR54WFMKLJNHQJPK) |
-| `Ichijyoma Mankitsu Gurashi S01E01 1080p ADN WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ichijyoma-mankitsu-gurashi-s01e01-1080p-adn-web-dl.n2096894) • [🐱 Nyaa](https://nyaa.si/?q=UACA3UIHDVJCIB5WEEGCGYK37GRI76XK) |
 
 ---
 <div align="center">
