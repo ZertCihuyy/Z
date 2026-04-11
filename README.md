@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.04.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.02.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -15,19 +15,21 @@
 | `09:00` | **[Oshiri Tantei 10th Season](https://myanimelist.net/anime/63762/Oshiri_Tantei_10th_Season)** | *Comedy, Fantasy, Mystery* |
 | `09:30` | **[Nezumi-kun no Chokki (TV)](https://myanimelist.net/anime/62495/Nezumi-kun_no_Chokki_TV)** | *Fantasy* |
 | `08:30` | **[Shimajirou no Wow!](https://myanimelist.net/anime/18941/Shimajirou_no_Wow)** | *Adventure, Comedy, Fantasy* |
-| `08:00` | **[Cardfight!! Vanguard: Divinez Genma Seisen-hen](https://myanimelist.net/anime/62649/Cardfight_Vanguard__Divinez_Genma_Seisen-hen)** | *Action* |
 | `09:25` | **[Rilakkuma](https://myanimelist.net/anime/60153/Rilakkuma)** | *Slice of Life* |
 | `07:00` | **[Ninjala (TV)](https://myanimelist.net/anime/50418/Ninjala_TV)** | *Action* |
 | `04:52` | **[Bonobono (TV 2016)](https://myanimelist.net/anime/32353/Bonobono_TV_2016)** | *Comedy* |
 | `01:00` | **[Hokuto no Ken: Fist of the North Star](https://myanimelist.net/anime/56646/Hokuto_no_Ken__Fist_of_the_North_Star)** | *Action, Drama, Sci-Fi* |
 | `23:45` | **[Mao](https://myanimelist.net/anime/62048/Mao)** | *Mystery, Supernatural* |
 | `22:00` | **[Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?](https://myanimelist.net/anime/62825/Saikyou_no_Shokugyou_wa_Yuusha_demo_Kenja_demo_Naku_Kanteishi_Kari_Rashii_desu_yo)** | *Adventure, Comedy, Fantasy* |
+| `01:53` | **[Kanojo, Okarishimasu 5th Season](https://myanimelist.net/anime/62485/Kanojo_Okarishimasu_5th_Season)** | *Comedy, Romance* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nekotan] Brave Bang Bravern! S01 (BD Remux 1080p x264 8-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-brave-bang-bravern-s01-bd-remux-1080p.k10293343629583) • [🐱 Nyaa](https://nyaa.si/?q=SZX5DCCMCTCSS7P46QSWLU2YPHHQ4RDM) |
+| `[BlackRabbit] BLUE LOCK (2022) - S01 [WEBDL-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blue-lock-2022-s01-webdl-1080p-opus.k10293194715661) • [🐱 Nyaa](https://nyaa.si/?q=SVZYUNSY4GO7G2K2KTLPVW36VSU6CLPB) |
 | `[ToonsHub] B King S01E09 1080p ADN WEB-DL AAC2.0 H.264 (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e09-1080p-adn-web-dl.k10291813836043) • [🐱 Nyaa](https://nyaa.si/?q=KER2QF3UBKEXWZI3SQMQCXDU6L3KEDKD) |
 | `Food.for.the.Soul.S01.1080p.BluRay.Opus.2.0.x265-YURASUKA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/food-soul-s01-1080p-bluray-opus-2-0.n2096545) • [🐱 Nyaa](https://nyaa.si/?q=HNCNQTFNO42AVIEGICFOL3ZTIUKRJLT6) |
 | `[SubsPlease] Maou no Musume wa Yasashi Sugiru!! (01-12) (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-maou-no-musume-wa-yasashi-sugiru-01.n2096538) • [🐱 Nyaa](https://nyaa.si/?q=UXXNVKBNUNLS55ZGENGVGLORZVGSQD36) |
@@ -41,8 +43,6 @@
 | `[ToonsHub] B King S01E09 1080p BILI WEB-DL AAC2.0 H.265 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e09-1080p-bili-web-dl.n2096519) • [🐱 Nyaa](https://nyaa.si/?q=XABT6MGQVVOUGHPHSEV3WTGK3HEVCTAW) |
 | `[Freehold] Chained Soldier S02E05 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e05-repack2-adn-web-dl.n2096512) • [🐱 Nyaa](https://nyaa.si/?q=WMWGYNZYUKJ2ZOORJ2EDNBZBIPCWNZ6U) |
 | `[Piyoko] Onegai AiPri - 01 [WEB AMZN 1080p h264 AC3 2.0][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-01-web-amzn-1080p-h264.n2096511) • [🐱 Nyaa](https://nyaa.si/?q=KW3RHPULRZQNRZWFTSOPMTTBQGT6DYRC) |
-| `[Erai-raws] Rilakkuma - 02 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-1080p-cr-webrip-hevc.n2096504) • [🐱 Nyaa](https://nyaa.si/?q=UIRQN7L6YE6OX6MPUIUFUKGO4HNIPUYF) |
-| `[Onalrie] Rilakkuma - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e02-1080p-webrip-av1-mkv.2073439) • [🐱 Nyaa](https://nyaa.si/?q=JWB7F4BRPA7PWCOPQWTOTS53C37E26CD) |
 
 ---
 <div align="center">

@@ -1,5 +1,5 @@
 {
-  "last_update": "11/4/2026, 15.04.27",
+  "last_update": "11/4/2026, 16.02.55",
   "hari": "Sabtu",
   "data": [
     {
@@ -373,140 +373,6 @@
       ]
     },
     {
-      "mal_id": 62649,
-      "url": "https://myanimelist.net/anime/62649/Cardfight_Vanguard__Divinez_Genma_Seisen-hen",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1801/154108.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1801/154108t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1801/154108l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1801/154108.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1801/154108t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1801/154108l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/Makg60wexbU?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Cardfight!! Vanguard: Divinez Genma Seisen-hen"
-        },
-        {
-          "type": "Japanese",
-          "title": "カードファイト!! ヴァンガード DivineZ 幻真星戦編"
-        },
-        {
-          "type": "English",
-          "title": "Cardfight!! Vanguard: Divinez Parallactic Clash"
-        }
-      ],
-      "title": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
-      "title_english": "Cardfight!! Vanguard: Divinez Parallactic Clash",
-      "title_japanese": "カードファイト!! ヴァンガード DivineZ 幻真星戦編",
-      "title_synonyms": [],
-      "type": "TV",
-      "source": "Original",
-      "episodes": 12,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-01-10T00:00:00+00:00",
-        "to": "2026-04-11T00:00:00+00:00",
-        "prop": {
-          "from": {
-            "day": 10,
-            "month": 1,
-            "year": 2026
-          },
-          "to": {
-            "day": 11,
-            "month": 4,
-            "year": 2026
-          }
-        },
-        "string": "Jan 10, 2026 to Apr 11, 2026"
-      },
-      "duration": "26 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 6.3,
-      "scored_by": 174,
-      "rank": 9151,
-      "popularity": 13425,
-      "members": 1599,
-      "favorites": 3,
-      "synopsis": "An abnormal phenomenon has been observed in Kaga, where Akina and his friends live.\nA town shrouded in thick fog, a great tower standing sentinel…\nThis is the Fantasma.\n\n——On the night when the crimson moon rises, they shall become \"Fantôme.\"\n\n(Source: Official Site)",
-      "background": "",
-      "season": "winter",
-      "year": 2026,
-      "broadcast": {
-        "day": "Saturdays",
-        "time": "08:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Saturdays at 08:00 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 775,
-          "type": "anime",
-          "name": "Bushiroad",
-          "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 290,
-          "type": "anime",
-          "name": "Kinema Citrus",
-          "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
-        },
-        {
-          "mal_id": 2299,
-          "type": "anime",
-          "name": "Gift-o’-Animation",
-          "url": "https://myanimelist.net/anime/producer/2299/Gift-o%E2%80%99-Animation"
-        },
-        {
-          "mal_id": 2300,
-          "type": "anime",
-          "name": "Studio Jemi",
-          "url": "https://myanimelist.net/anime/producer/2300/Studio_Jemi"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 11,
-          "type": "anime",
-          "name": "Strategy Game",
-          "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
-        }
-      ],
-      "demographics": []
-    },
-    {
       "mal_id": 60153,
       "url": "https://myanimelist.net/anime/60153/Rilakkuma",
       "images": {
@@ -576,12 +442,12 @@
       },
       "duration": "1 min",
       "rating": "PG - Children",
-      "score": 6.06,
-      "scored_by": 138,
-      "rank": 10534,
-      "popularity": 12557,
-      "members": 2092,
-      "favorites": 7,
+      "score": 6.07,
+      "scored_by": 150,
+      "rank": 10474,
+      "popularity": 12503,
+      "members": 2127,
+      "favorites": 6,
       "synopsis": "Experience the stress-free world of Rilakkuma, the relaxed bear who makes being lazy look effortless!\n\n(Source: Crunchyroll)",
       "background": "",
       "season": "spring",
@@ -836,9 +702,9 @@
       "rating": "G - All Ages",
       "score": 6.43,
       "scored_by": 797,
-      "rank": 8333,
+      "rank": 8338,
       "popularity": 10177,
-      "members": 4125,
+      "members": 4126,
       "favorites": 19,
       "synopsis": "Based on the original comic BONO BONO by Mikio Igarashi that has seen over 9,000,000 total copies printed, this is the definitive animated version of the emotionally soothing character-driven series that will make you ask yourself the philosophical question, \"What are living things?\" while laughing at heartwarming gags and being entertained by the interactions of amusing forest friends Bonobono the young sea otter, Chipmunk, Fishing Cat, and more.\n\nEnjoy the easygoing days and minor misadventures of Bonobono and his friends!\n\n(Source: Fuji Creative)",
       "background": "",
@@ -1383,6 +1249,165 @@
         }
       ],
       "demographics": []
+    },
+    {
+      "mal_id": 62485,
+      "url": "https://myanimelist.net/anime/62485/Kanojo_Okarishimasu_5th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1393/156075.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1393/156075t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1393/156075l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1393/156075.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1393/156075t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1393/156075l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/G5F8bPo6T_E?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kanojo, Okarishimasu 5th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Kanokari"
+        },
+        {
+          "type": "Japanese",
+          "title": "彼女、お借りします 第5期"
+        },
+        {
+          "type": "English",
+          "title": "Rent-a-Girlfriend Season 5"
+        }
+      ],
+      "title": "Kanojo, Okarishimasu 5th Season",
+      "title_english": "Rent-a-Girlfriend Season 5",
+      "title_japanese": "彼女、お借りします 第5期",
+      "title_synonyms": [
+        "Kanokari"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 8, 2026 to ?"
+      },
+      "duration": "24 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.16,
+      "scored_by": 1322,
+      "rank": 9957,
+      "popularity": 4470,
+      "members": 32714,
+      "favorites": 78,
+      "synopsis": "Fifth season of Kanojo, Okarishimasu.",
+      "background": "Kanojo, Okarishimasu 5th Season aired on MBS' Animeism block. Each episode was streamed three days in advance of the TV broadcast starting on April 8, 2026, on Crunchyroll. Regular broadcasting began on April 11, 2026.",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "01:53",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 01:53 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 143,
+          "type": "anime",
+          "name": "Mainichi Broadcasting System",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 1542,
+          "type": "anime",
+          "name": "DMM.com",
+          "url": "https://myanimelist.net/anime/producer/1542/DMMcom"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 73,
+          "type": "anime",
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 50,
+          "type": "anime",
+          "name": "Adult Cast",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Harem",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
     }
   ]
 }
