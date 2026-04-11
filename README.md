@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.52.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.44.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Freehold] Chained Soldier S02E05 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e05-repack2-adn-web-dl.n2096512) • [🐱 Nyaa](https://nyaa.si/?q=WMWGYNZYUKJ2ZOORJ2EDNBZBIPCWNZ6U) |
+| `[Piyoko] Onegai AiPri - 01 [WEB AMZN 1080p h264 AC3 2.0][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-01-web-amzn-1080p-h264.n2096511) • [🐱 Nyaa](https://nyaa.si/?q=KW3RHPULRZQNRZWFTSOPMTTBQGT6DYRC) |
+| `[Erai-raws] Rilakkuma - 02 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-1080p-cr-webrip-hevc.n2096504) • [🐱 Nyaa](https://nyaa.si/?q=UIRQN7L6YE6OX6MPUIUFUKGO4HNIPUYF) |
+| `[Onalrie] Rilakkuma - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e02-1080p-webrip-av1-mkv.2073439) • [🐱 Nyaa](https://nyaa.si/?q=JWB7F4BRPA7PWCOPQWTOTS53C37E26CD) |
+| `RILAKKUMA S01E02 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e02-1080p-cr-web-dl-dual-aac2.n2096490) • [🐱 Nyaa](https://nyaa.si/?q=SHT7LDJHHBRBW7ZKCX4XJAAEQNQQ255J) |
+| `[ToonsHub] RILAKKUMA S01E02 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e02-1080p-cr-web-dl-dual.k10286001366533) • [🐱 Nyaa](https://nyaa.si/?q=TJINN3GHHNVHJJFBUOK4VQOC7ASDIZT2) |
+| `[Erai-raws] Rilakkuma - 02 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-480p-cr-web-dl.n2096487) • [🐱 Nyaa](https://nyaa.si/?q=FNGD5TPVNNF3WEF2DGRJ7ADX3IJKRJSF) |
+| `[Erai-raws] Rilakkuma - 02 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-720p-cr-web-dl.n2096484) • [🐱 Nyaa](https://nyaa.si/?q=WU7NW56VGI36XEV46XELN6YNBZE6VW6S) |
+| `[Erai-raws] Rilakkuma - 02 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-1080p-cr-web-dl.n2096483) • [🐱 Nyaa](https://nyaa.si/?q=ZP3N5MY725FSNMFWREOSFVSCKOEUUX7R) |
+| `[SubsPlease] Rilakkuma - 02 (1080p) [6B6954E9].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-02-1080p-6b6954e9-mkv.n2096482) • [🐱 Nyaa](https://nyaa.si/?q=B473LVM4W2G26VACQPCIVNPNNLYRO6XS) |
+| `[SubsPlease] Rilakkuma - 02 (720p) [9D2EEC82].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-02-720p-9d2eec82-mkv.n2096481) • [🐱 Nyaa](https://nyaa.si/?q=MTFTIXIZQDZE74H6NSPJB5XTN4IE7USF) |
+| `[SubsPlease] Rilakkuma - 02 (480p) [786EF4C9].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-02-480p-786ef4c9-mkv.n2096480) • [🐱 Nyaa](https://nyaa.si/?q=FMPCTRKXP4RNE6LHBYKH3AMUKGKIJ7QY) |
 | `[Tasokare] Lord El-Melloi II's Case Files: Rail Zeppelin ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-lord-el-melloi-iis-case-files-rail.k10284846966279) • [🐱 Nyaa](https://nyaa.si/?q=QWHULH6N3DASIIEJLDJYAEB6PT3ED4YE) |
 | `[Kawatare] Lord El-Melloi II's Case Files: Rail Zeppelin ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-lord-el-melloi-iis-case-files-rail.k10284834798082) • [🐱 Nyaa](https://nyaa.si/?q=5J3KREDKKO2QQZL2PUNXIVG2AXNIRZOI) |
 | `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2096472) • [🐱 Nyaa](https://nyaa.si/?q=YTTI64WICN6UHYPC7UBQUGB3QHQV5J5I) |
-| `Grave of the Fireflies (1988) 火垂るの墓 [12-bit 4:2:0 Decrypt...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/grave-fireflies-1988-12-bit-4-2-0.n2096471) • [🐱 Nyaa](https://nyaa.si/?q=FE6MWRO6D2WJD27XZLZYMXMHKUVXXL2X) |
-| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-hokuto-no-ken-fist-north-star-s01e02.n2096469) • [🐱 Nyaa](https://nyaa.si/?q=NTQOUEAU74L2QNT7UY73SBWPIRNYZESI) |
-| `Only Yesterday (1991) おもひでぽろぽろ [12-bit 4:2:0 Decrypted MG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/only-yesterday-1991-12-bit-4-2-0.n2096468) • [🐱 Nyaa](https://nyaa.si/?q=2LKYWEASTTLZ3IG2ZEHKXGM4XYVF2MJH) |
-| `[Anime Time] Frieren Beyond Journeys End (Sousou no Frier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-frieren-beyond-journeys-end-sousou-no.n2096467) • [🐱 Nyaa](https://nyaa.si/?q=IYOOMMNT6KS7R6DH5GRKFBFOXSTODVVQ) |
-| `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [1080p ADN WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-1080p.n2096466) • [🐱 Nyaa](https://nyaa.si/?q=CHLYQB3CMZSTEOLG2LC65VKWS37I7YUY) |
-| `[Erai-raws] Snowball Earth - 02 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-02-1080p-cr-webrip.n2096462) • [🐱 Nyaa](https://nyaa.si/?q=QFDM7UVPPXCI6ICTC5XCSUKKQNVD6C22) |
-| `[Commie] Awajima Hyakkei - 01 [52B4E7CE].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-awajima-hyakkei-01-52b4e7ce-mkv.n2096460) • [🐱 Nyaa](https://nyaa.si/?q=E4DX7BS7J22AJXIUXE4M3T6HXY3TPM5T) |
-| `[Trix] Sentenced to Be a Hero S01 v2 (Batch) [WEBRip 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-sentenced-hero-s01-v2-batch-webrip-1080p.k10283135634688) • [🐱 Nyaa](https://nyaa.si/?q=VWT3TSKTYO4M4VKMSPBPBYXSI5YKHMVV) |
-| `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e01.k10282544325120) • [🐱 Nyaa](https://nyaa.si/?q=CWVQO7TB7OXW24Z2OAOCLDLMC6LN5ZEF) |
-| `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [1080p ADN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-1080p.n2096455) • [🐱 Nyaa](https://nyaa.si/?q=2XEN2ENZT7L56HYI6KQH3CAJNAYJ6HGO) |
-| `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [720p ADN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-720p.n2096454) • [🐱 Nyaa](https://nyaa.si/?q=RM5WHY6ZTGMPTCNNACHUT2SWWLLVGFEQ) |
-| `[Erai-raws] Isekai Nonbiri Nouka 2 - 01 [480p ADN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-01-480p.n2096453) • [🐱 Nyaa](https://nyaa.si/?q=NI65BFOP7QQA5VGEPU2DZUAYAU2MZ2MW) |
 
 ---
 <div align="center">

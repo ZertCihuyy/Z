@@ -1,5 +1,5 @@
 {
-  "last_update": "11/4/2026, 06.52.25",
+  "last_update": "11/4/2026, 09.44.57",
   "data": [
     {
       "mal_id": 61316,
@@ -82,12 +82,12 @@
       },
       "duration": "23 min per ep",
       "rating": "R - 17+ (violence & profanity)",
-      "score": 8.77,
-      "scored_by": 8875,
-      "rank": 45,
-      "popularity": 1611,
-      "members": 169748,
-      "favorites": 1184,
+      "score": 8.75,
+      "scored_by": 12967,
+      "rank": 50,
+      "popularity": 1565,
+      "members": 175646,
+      "favorites": 1201,
       "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa)",
       "background": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season is comprised of two arcs. The first eleven episodes are subtitled Soushitsu-hen (Loss Arc). The latter eight, subtitled Dakkan-hen (Recapture Arc), began airing on August 12, 2026.",
       "season": "spring",
@@ -187,6 +187,158 @@
         }
       ],
       "demographics": []
+    },
+    {
+      "mal_id": 51553,
+      "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1726/155542.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1726/155542.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tongari Boushi no Atelier"
+        },
+        {
+          "type": "Synonym",
+          "title": "Atelier of Witch Hat"
+        },
+        {
+          "type": "Japanese",
+          "title": "とんがり帽子のアトリエ"
+        },
+        {
+          "type": "English",
+          "title": "Witch Hat Atelier"
+        }
+      ],
+      "title": "Tongari Boushi no Atelier",
+      "title_english": "Witch Hat Atelier",
+      "title_japanese": "とんがり帽子のアトリエ",
+      "title_synonyms": [
+        "Atelier of Witch Hat"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 6, 2026 to ?"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.74,
+      "scored_by": 13754,
+      "rank": 51,
+      "popularity": 1643,
+      "members": 164920,
+      "favorites": 1265,
+      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
+      "background": "Beginning with episode 2, each episode was streamed one week in advance of the TV broadcast starting on April 6, 2026, on Abema. Regular broadcasting began on April 6, 2026.",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 23:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 1284,
+          "type": "anime",
+          "name": "Avex Pictures",
+          "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1747,
+          "type": "anime",
+          "name": "Twin Engine",
+          "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+        },
+        {
+          "mal_id": 1856,
+          "type": "anime",
+          "name": "dugout",
+          "url": "https://myanimelist.net/anime/producer/1856/dugout"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2674,
+          "type": "anime",
+          "name": "BUG FILMS",
+          "url": "https://myanimelist.net/anime/producer/2674/BUG_FILMS"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ]
     },
     {
       "mal_id": 59708,
@@ -387,158 +539,6 @@
       "demographics": []
     },
     {
-      "mal_id": 51553,
-      "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1726/155542.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1726/155542.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Tongari Boushi no Atelier"
-        },
-        {
-          "type": "Synonym",
-          "title": "Atelier of Witch Hat"
-        },
-        {
-          "type": "Japanese",
-          "title": "とんがり帽子のアトリエ"
-        },
-        {
-          "type": "English",
-          "title": "Witch Hat Atelier"
-        }
-      ],
-      "title": "Tongari Boushi no Atelier",
-      "title_english": "Witch Hat Atelier",
-      "title_japanese": "とんがり帽子のアトリエ",
-      "title_synonyms": [
-        "Atelier of Witch Hat"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-06T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 6,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 6, 2026 to ?"
-      },
-      "duration": "23 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.76,
-      "scored_by": 12503,
-      "rank": 50,
-      "popularity": 1684,
-      "members": 159471,
-      "favorites": 1211,
-      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
-      "background": "Beginning with episode 2, each episode was streamed one week in advance of the TV broadcast starting on April 6, 2026, on Abema. Regular broadcasting began on April 6, 2026.",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Mondays",
-        "time": "23:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Mondays at 23:00 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 159,
-          "type": "anime",
-          "name": "Kodansha",
-          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
-        },
-        {
-          "mal_id": 1284,
-          "type": "anime",
-          "name": "Avex Pictures",
-          "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
-        },
-        {
-          "mal_id": 1468,
-          "type": "anime",
-          "name": "Crunchyroll",
-          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
-        },
-        {
-          "mal_id": 1747,
-          "type": "anime",
-          "name": "Twin Engine",
-          "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
-        },
-        {
-          "mal_id": 1856,
-          "type": "anime",
-          "name": "dugout",
-          "url": "https://myanimelist.net/anime/producer/1856/dugout"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 2674,
-          "type": "anime",
-          "name": "BUG FILMS",
-          "url": "https://myanimelist.net/anime/producer/2674/BUG_FILMS"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 42,
-          "type": "anime",
-          "name": "Seinen",
-          "url": "https://myanimelist.net/anime/genre/42/Seinen"
-        }
-      ]
-    },
-    {
       "mal_id": 59970,
       "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season",
       "images": {
@@ -615,11 +615,11 @@
       "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.21,
-      "scored_by": 7546,
+      "scored_by": 8014,
       "rank": 431,
-      "popularity": 1710,
-      "members": 156374,
-      "favorites": 882,
+      "popularity": 1693,
+      "members": 157996,
+      "favorites": 890,
       "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll)",
       "background": "Tensei shitara Slime Datta Ken 4th Season aired on Nippon TV's Friday Anime Night block.",
       "season": "spring",
@@ -821,12 +821,12 @@
       },
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.16,
-      "scored_by": 6907,
-      "rank": 506,
-      "popularity": 2166,
-      "members": 115262,
-      "favorites": 1646,
+      "score": 8.13,
+      "scored_by": 7324,
+      "rank": 533,
+      "popularity": 2157,
+      "members": 116255,
+      "favorites": 1651,
       "synopsis": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
       "background": "",
       "season": "spring",
@@ -1003,12 +1003,12 @@
       },
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.32,
-      "scored_by": 6571,
-      "rank": 297,
-      "popularity": 2223,
-      "members": 110331,
-      "favorites": 259,
+      "score": 8.31,
+      "scored_by": 6981,
+      "rank": 312,
+      "popularity": 2208,
+      "members": 111744,
+      "favorites": 261,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
@@ -1149,12 +1149,12 @@
       },
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.32,
-      "scored_by": 6571,
-      "rank": 297,
-      "popularity": 2223,
-      "members": 110331,
-      "favorites": 259,
+      "score": 8.31,
+      "scored_by": 6981,
+      "rank": 312,
+      "popularity": 2208,
+      "members": 111744,
+      "favorites": 261,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
@@ -1456,9 +1456,9 @@
       "score": null,
       "scored_by": null,
       "rank": null,
-      "popularity": 2425,
-      "members": 97296,
-      "favorites": 368,
+      "popularity": 2416,
+      "members": 97963,
+      "favorites": 371,
       "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
       "background": "",
       "season": "spring",
