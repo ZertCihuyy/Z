@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.03.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.18.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,7 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[AK4NE] Classroom of the Elite - S04E04 (E42) (WEB-Enc 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-s04e04-e42-web-enc-1080p.k10290130151180) • [🐱 Nyaa](https://nyaa.si/?q=M6RJQRUBAATLX7TALJ5QOEAI73CYHOXL) |
+| `Food.for.the.Soul.S01.1080p.BluRay.Opus.2.0.x265-YURASUKA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/food-soul-s01-1080p-bluray-opus-2-0.n2096545) • [🐱 Nyaa](https://nyaa.si/?q=HNCNQTFNO42AVIEGICFOL3ZTIUKRJLT6) |
+| `[SubsPlease] Maou no Musume wa Yasashi Sugiru!! (01-12) (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-maou-no-musume-wa-yasashi-sugiru-01.n2096538) • [🐱 Nyaa](https://nyaa.si/?q=UXXNVKBNUNLS55ZGENGVGLORZVGSQD36) |
+| `[AK4NE] Classroom of the Elite - S04E05 (E43) (WEB-Enc 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-s04e05-e43-web-enc-1080p.k10290130151180) • [🐱 Nyaa](https://nyaa.si/?q=M6RJQRUBAATLX7TALJ5QOEAI73CYHOXL) |
 | `[Bird] Cardfight!! Vanguard - Divinez Genma Seisen-hen - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bird-cardfight-vanguard-divinez-genma-seisen-hen-12-1080p.n2096530) • [🐱 Nyaa](https://nyaa.si/?q=JSVJORAZ4KO5OGXMYQGIBZOGF4U6FOXI) |
 | `Cardfight!! Vanguard: Divinez Parallactic Clash - 12 | Ca...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-divinez-parallactic-clash-12-genma-seisen.n2096527) • [🐱 Nyaa](https://nyaa.si/?q=XZFK4OGSWDHX3S7HFZIYQYHHPXMKESER) |
 | `RILAKKUMA S01E02 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e02-1080p-cr-web-dl-multi-aac2.n2096523) • [🐱 Nyaa](https://nyaa.si/?q=CGBYBMVJM53KER2ZGVYJ3RJODGTLNC7U) |
@@ -41,8 +43,6 @@
 | `[Erai-raws] Rilakkuma - 02 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-1080p-cr-webrip-hevc.n2096504) • [🐱 Nyaa](https://nyaa.si/?q=UIRQN7L6YE6OX6MPUIUFUKGO4HNIPUYF) |
 | `[Onalrie] Rilakkuma - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e02-1080p-webrip-av1-mkv.2073439) • [🐱 Nyaa](https://nyaa.si/?q=JWB7F4BRPA7PWCOPQWTOTS53C37E26CD) |
 | `[ASW] Rilakkuma - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-rilakkuma-02-1080p-hevc-x265-10bit-aac.n2096493) • [🐱 Nyaa](https://nyaa.si/?q=U6HZC73GWU42DDFJM3M5HGLTDXMFGWOL) |
-| `RILAKKUMA S01E02 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e02-1080p-cr-web-dl-dual-aac2.n2096490) • [🐱 Nyaa](https://nyaa.si/?q=SHT7LDJHHBRBW7ZKCX4XJAAEQNQQ255J) |
-| `[ToonsHub] RILAKKUMA S01E02 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e02-1080p-cr-web-dl-dual.k10286001366533) • [🐱 Nyaa](https://nyaa.si/?q=TJINN3GHHNVHJJFBUOK4VQOC7ASDIZT2) |
 
 ---
 <div align="center">
