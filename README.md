@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.18.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.04.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] B King S01E09 1080p ADN WEB-DL AAC2.0 H.264 (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e09-1080p-adn-web-dl.k10291813836043) • [🐱 Nyaa](https://nyaa.si/?q=KER2QF3UBKEXWZI3SQMQCXDU6L3KEDKD) |
 | `Food.for.the.Soul.S01.1080p.BluRay.Opus.2.0.x265-YURASUKA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/food-soul-s01-1080p-bluray-opus-2-0.n2096545) • [🐱 Nyaa](https://nyaa.si/?q=HNCNQTFNO42AVIEGICFOL3ZTIUKRJLT6) |
 | `[SubsPlease] Maou no Musume wa Yasashi Sugiru!! (01-12) (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-maou-no-musume-wa-yasashi-sugiru-01.n2096538) • [🐱 Nyaa](https://nyaa.si/?q=UXXNVKBNUNLS55ZGENGVGLORZVGSQD36) |
 | `[AK4NE] Classroom of the Elite - S04E05 (E43) (WEB-Enc 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-s04e05-e43-web-enc-1080p.k10290130151180) • [🐱 Nyaa](https://nyaa.si/?q=M6RJQRUBAATLX7TALJ5QOEAI73CYHOXL) |
@@ -42,7 +43,6 @@
 | `[Piyoko] Onegai AiPri - 01 [WEB AMZN 1080p h264 AC3 2.0][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-01-web-amzn-1080p-h264.n2096511) • [🐱 Nyaa](https://nyaa.si/?q=KW3RHPULRZQNRZWFTSOPMTTBQGT6DYRC) |
 | `[Erai-raws] Rilakkuma - 02 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-02-1080p-cr-webrip-hevc.n2096504) • [🐱 Nyaa](https://nyaa.si/?q=UIRQN7L6YE6OX6MPUIUFUKGO4HNIPUYF) |
 | `[Onalrie] Rilakkuma - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e02-1080p-webrip-av1-mkv.2073439) • [🐱 Nyaa](https://nyaa.si/?q=JWB7F4BRPA7PWCOPQWTOTS53C37E26CD) |
-| `[ASW] Rilakkuma - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-rilakkuma-02-1080p-hevc-x265-10bit-aac.n2096493) • [🐱 Nyaa](https://nyaa.si/?q=U6HZC73GWU42DDFJM3M5HGLTDXMFGWOL) |
 
 ---
 <div align="center">
