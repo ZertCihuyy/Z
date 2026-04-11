@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.16.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.57.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] The Daily Life of the Immortal King - S05E12 [En...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-daily-life-immortal-king-s05e12-english-dub.n2096945) • [🐱 Nyaa](https://nyaa.si/?q=APJNUHCLNZ2R6JL3ZQERFOA5OWLETZIM) |
+| `[Yameii] The Daily Life of the Immortal King - S05E12 [En...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-daily-life-immortal-king-s05e12-english-dub.n2096944) • [🐱 Nyaa](https://nyaa.si/?q=YHWTPSK2DERLVDJFA33QDC3S43VEY2TM) |
+| `[ZeroCool] Ponyo ultimate theatrical like a trembling cli...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/zerocool-ponyo-ultimate-theatrical-like-trembling-clitorus.n2096943) • [🐱 Nyaa](https://nyaa.si/?q=4J2GXGRCFFPSRQEAO3B5SACNPCCIDFAN) |
+| `The Daily Life of the Immortal King S05E12 Siblings Allia...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/daily-life-immortal-king-s05e12-siblings-alliance-1080p.n2096942) • [🐱 Nyaa](https://nyaa.si/?q=4WVVEEXXREZLMPRLJNQ4CENJCXFKFKXJ) |
+| `[ToonsHub] The Daily Life of the Immortal King S05E12 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-daily-life-immortal-king-s05e12-1080p-cr.n2096941) • [🐱 Nyaa](https://nyaa.si/?q=IQBSET5ZZ736ASFKE5SEGCFK7EL7XH6G) |
+| `MAO S01E02 Spider Lady 1080p DSNP WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e02-spider-lady-1080p-dsnp-web-dl.n2096939) • [🐱 Nyaa](https://nyaa.si/?q=AKGWTBZBQGKJCMHVHO3D6DFPWDVQ25ZA) |
+| `[ToonsHub] MAO S01E02 1080p DSNP WEB-DL AAC2.0 H.264 (Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mao-s01e02-1080p-dsnp-web-dl-aac2.n2096938) • [🐱 Nyaa](https://nyaa.si/?q=DKWMVVS6JDYU7WPJB7C5KRNYVWVIUQKV) |
 | `[Judas] Akane-banashi - S01E02 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-akane-banashi-s01e02-1080p-hevc-x265-10bit.n2096936) • [🐱 Nyaa](https://nyaa.si/?q=BJJI4C67EWRUD3WBGZJMYZAJPLXZTGXV) |
 | `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 03 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-shunkashuutou-daikousha-haru-no-mai-03.k10304062617098) • [🐱 Nyaa](https://nyaa.si/?q=RDWV37WFM5TAISS7ZQNZSIDUYTISSGUH) |
 | `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asakura-tensei-shitara-slime-datta-ken-4th-season.n2096933) • [🐱 Nyaa](https://nyaa.si/?q=EPIWH42XSFTCNWEZG3NAWNBJJ73IRSYQ) |
@@ -36,13 +43,6 @@
 | `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kanan-sama-wa-akumade-choroi-mistress-devilishly.n2096928) • [🐱 Nyaa](https://nyaa.si/?q=4D7FHWBKTGA5MT7PORBAAAVILVSLUMRE) |
 | `[Onalrie] Yuusha no Kuzu - S01E13 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-kuzu-s01e13-1080p-webrip-av1-mkv.2073623) • [🐱 Nyaa](https://nyaa.si/?q=F2I3JHBIJQDAGBDTXES727MU476XRQSP) |
 | `[ASW] NEEDY GIRL OVERDOSE - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-needy-girl-overdose-02-1080p-hevc-x265-10bit-aac.n2096908) • [🐱 Nyaa](https://nyaa.si/?q=JX5XAKMZ7W4YHRWU6IUXC23QZ4SYGOCH) |
-| `[ASW] Kami no Niwatsuki Kusunoki-tei - 02 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kami-no-niwatsuki-kusunoki-tei-02-1080p.n2096907) • [🐱 Nyaa](https://nyaa.si/?q=GOZK4AT7IQ2PJG5JFFWFEPJLXQXWVGXU) |
-| `[Onalrie] NEEDY GIRL OVERDOSE - S01E02 [1080p WEBRip AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-needy-girl-overdose-s01e02-1080p-webrip-av1-mkv.2073616) • [🐱 Nyaa](https://nyaa.si/?q=CHZPU3IGZR4HAB6GBML7ROB6TK2XIJWF) |
-| `[Judas] NEEDY GIRL OVERDOSE - S01E02 [1080p][HEVC x265 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-needy-girl-overdose-s01e02-1080p-hevc-x265.n2096906) • [🐱 Nyaa](https://nyaa.si/?q=H2LNWO6DBTRK7SW5LF6VE7ZWESZQF5S6) |
-| `[DKB] Yomi no Tsugai - S01E02 [1080p][HEVC x265 10bit][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-yomi-no-tsugai-s01e02-1080p-hevc-x265.n2096904) • [🐱 Nyaa](https://nyaa.si/?q=SLUYDS7MTKOTD5F635M7I4HDL5VANMPH) |
-| `[DKB] Kanan-sama wa Akumade Choroi - S01E02 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanan-sama-wa-akumade-choroi-s01e02-1080p.n2096902) • [🐱 Nyaa](https://nyaa.si/?q=VZXA6SV7SM7LMJ5DFTB6MCOLESKZEFLP) |
-| `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-honzuki-no-gekokujou-shisho-ni-naru-tame.n2096901) • [🐱 Nyaa](https://nyaa.si/?q=7XY5D2QZ7IX5S27DUO3SV5OPB3BTK5YO) |
-| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 02 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-02.k10302190032899) • [🐱 Nyaa](https://nyaa.si/?q=PNT54EP3RDP6TONB2GLVYIBFX72K7QGE) |
 
 ---
 <div align="center">
