@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.12.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.05.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kaleido-mini] Liar Game (2026) - 01 (S01E01) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-01-s01e01-web.n2097293) • [🐱 Nyaa](https://nyaa.si/?q=SNIGTEFJ542DQNQ6YGLQLGRZB53ZLBYD) |
+| `[Kaleido-subs] Liar Game (2026) - 01 (S01E01) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-liar-game-2026-01-s01e01-web.n2097292) • [🐱 Nyaa](https://nyaa.si/?q=QC5TD4STQFCMNTKXRKPI2LAEWJXT3HRM) |
+| `Prism Rondo S01 1080p NF WEB-DL MULTi Opus5.1 AV1 HDR10+ ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/prism-rondo-s01-1080p-nf-web-dl-multi.n2097290) • [🐱 Nyaa](https://nyaa.si/?q=37DBNVM4EZ7FSZKSGY3CSBCFH33QLMCK) |
 | `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.n2097288) • [🐱 Nyaa](https://nyaa.si/?q=SMMVRVQSQSSDNXG2FDL3LYRKHDPPRIN7) |
 | `Initial D -project reiwa-` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/initial-d-project-reiwa.n2097287) • [🐱 Nyaa](https://nyaa.si/?q=E7P5KEZBYCWM4W5WV5VZO6Y7W73BBG2V) |
 | `[Erai-raws] Ichijyoma Mankitsu Gurashi - 01 [1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-01-1080p-amzn.n2097283) • [🐱 Nyaa](https://nyaa.si/?q=MK4J2SRTJGHOMVTJCD55S7OMXYFXCFD5) |
@@ -40,9 +43,6 @@
 | `[Erai-raws] Nippon Sangoku - 02 [720p AMZN WEB-DL AVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-02-720p-amzn-web.k10318514640393) • [🐱 Nyaa](https://nyaa.si/?q=VWEET3ANBJZR4JZF3UHFIOYZCDQYTL7V) |
 | `[Erai-raws] Nippon Sangoku - 02 [540p AMZN WEB-DL AVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-02-540p-amzn-web.k10318514386178) • [🐱 Nyaa](https://nyaa.si/?q=CXSQWEAKDQELGTP7SUMFSXWFQSTGSTPH) |
 | `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.n2097254) • [🐱 Nyaa](https://nyaa.si/?q=5RYEXU5BOOJBIVU5FFZ6ZTBZ5I2EMNN6) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.n2097253) • [🐱 Nyaa](https://nyaa.si/?q=AMZTAZLZRMQEUYGQPNSHMBTQTV7J2GYE) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.n2097252) • [🐱 Nyaa](https://nyaa.si/?q=5FX3VKF3IJ4VMS6NVMD4BAEVILFDXH45) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nippon-sangoku-three-nations-crimson-sun-s01e02-toryumon.n2097250) • [🐱 Nyaa](https://nyaa.si/?q=O2ZF3OOXBH7R2T5IISYKXPEPZUM7JADQ) |
 
 ---
 <div align="center">
