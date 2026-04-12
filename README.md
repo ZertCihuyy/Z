@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.00.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.53.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Ulysse.31.S01E02.MULTI.Audio.Sub[FRE][JPN][ENG][ITA][SPA]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ulysse-31-s01e02-multi-audio-sub-fre-jpn.n2097480) • [🐱 Nyaa](https://nyaa.si/?q=CDWJEQI6MEOG4ISLJ2HZXDP22QSM52RD) |
+| `[SubsPlease] Eris no Seihai (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-eris-no-seihai-01-12-1080p-batch.n2097476) • [🐱 Nyaa](https://nyaa.si/?q=2ANCF54O3IFR4FO5Y4LK3H2WH5PKFMGT) |
+| `[SubsPlease] Eris no Seihai (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-eris-no-seihai-01-12-720p-batch.n2097475) • [🐱 Nyaa](https://nyaa.si/?q=4LJKW4B4WBMTAUPYG6Y5BIMGQTPKD4FW) |
+| `[SubsPlease] Eris no Seihai (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-eris-no-seihai-01-12-480p-batch.n2097474) • [🐱 Nyaa](https://nyaa.si/?q=3WAPSA6NKYJZ4HCBH6CUSDG4P6VQFZQM) |
+| `Digimon Beatbreak S01E26 THE TASTE OF GUILT REPACK 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e26-taste-guilt-repack-1080p-cr.n2097473) • [🐱 Nyaa](https://nyaa.si/?q=3ZE55G2VPXZ3LHOIZRBX4DHWIZV2QXQB) |
+| `[denisplay] Ichijouma Mankitsu Gurashi! - 01 [1080p] [AV1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-ichijouma-mankitsu-gurashi-01-1080p-av1-weekly.n2097470) • [🐱 Nyaa](https://nyaa.si/?q=EWXUQCRKPYH25VWVMSY6B4JKD3KEEXSD) |
+| `[denisplay] Ichijouma Mankitsu Gurashi! - 01 [720p] [AV1]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-ichijouma-mankitsu-gurashi-01-720p-av1.n2097469) • [🐱 Nyaa](https://nyaa.si/?q=JB65MITI3GXNQJ5K2DOUERGYNZBBLIKJ) |
+| `[denisplay] Ichijouma Mankitsu Gurashi! - 01 [480p] [AV1]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-ichijouma-mankitsu-gurashi-01-480p-av1.n2097468) • [🐱 Nyaa](https://nyaa.si/?q=U4OJ3L77EGNFQ4L26FMS2URSNCIYRV5Y) |
 | `[SubsPlease] Tamon-kun Ima Docchi (01-13) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tamon-kun-ima-docchi-01-13-1080p-batch.n2097466) • [🐱 Nyaa](https://nyaa.si/?q=M2XIKTFGSZP65VXEH5L4GUAPZLYXISH3) |
 | `[SubsPlease] Tamon-kun Ima Docchi (01-13) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tamon-kun-ima-docchi-01-13-720p-batch.n2097465) • [🐱 Nyaa](https://nyaa.si/?q=DH6FBNWBUJABB7VHJLOIFYUVOPQIH3K6) |
 | `[SubsPlease] Tamon-kun Ima Docchi (01-13) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tamon-kun-ima-docchi-01-13-480p-batch.n2097464) • [🐱 Nyaa](https://nyaa.si/?q=FTYDA5M2LWONXFYAYPDYJKOCC74M6MUC) |
@@ -35,14 +43,6 @@
 | `[Erai-raws] Digimon Beatbreak - 26 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-26-1080p-cr-webrip.n2097451) • [🐱 Nyaa](https://nyaa.si/?q=POHNAZS2FTRP5IKZRRO3L2LT3OGVEFL2) |
 | `[Erai-raws] Digimon Beatbreak - 26 (REPACK) [480p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-26-repack-480p-cr.n2097450) • [🐱 Nyaa](https://nyaa.si/?q=67ZIJ5NA3UNWA5WNWXB4EGKLVUEOM6U4) |
 | `[Erai-raws] Digimon Beatbreak - 26 (REPACK) [720p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-26-repack-720p-cr.n2097449) • [🐱 Nyaa](https://nyaa.si/?q=ILYN6YHZCFKUHDCZUV4XG6OG6K64GFPL) |
-| `[Erai-raws] Digimon Beatbreak - 26 (REPACK) [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-26-repack-1080p-cr.n2097448) • [🐱 Nyaa](https://nyaa.si/?q=LKEPWVG3WQRKR3XFCRMWAU7BNK7RY4Q7) |
-| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E01 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kuroneko-majo-no-kyoushitsu-s01e01-1080p-hevc.n2097447) • [🐱 Nyaa](https://nyaa.si/?q=RGWETQ3JNUGYKW4EYDHTNIY77X4UFLLC) |
-| `[Feibanyama] Wistoria Wand and Sword S02E01 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e01-bilibili-webrip-2160p.n2097446) • [🐱 Nyaa](https://nyaa.si/?q=36VD2EJOOJAWVBUT5A2F2NO3RZZWY5AC) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 01 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-01-1080p.k10324071020555) • [🐱 Nyaa](https://nyaa.si/?q=SC2QK2FBPEH35D4UVC5LQSY5OAG7AG7R) |
-| `Visitor (1998) - TV Special (R2JP DVD-Remux | ENG - Ken T...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/visitor-1998-tv-special-r2jp-dvd-remux-eng-ken-translations.n2097444) • [🐱 Nyaa](https://nyaa.si/?q=TE7L7RQEACPXC6KRYTXR6QY6NT2LBOVT) |
-| `[DKB] Niwatori Fighter - S01E05 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-niwatori-fighter-s01e05-1080p-hevc-x265-10bit.n2097443) • [🐱 Nyaa](https://nyaa.si/?q=2LWYNOQUQ46TYXSVMYBWPK6T4RFICOGA) |
-| `[ASW] One Piece - 1157 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-one-piece-1157-1080p-hevc-x265-10bit-aac.n2097440) • [🐱 Nyaa](https://nyaa.si/?q=NOBLCHYFHOHFQDICFS7EQSU5R2WRAA7Z) |
-| `[Erai-raws] Ghost Concert: Missing Songs - 02 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-02-1080p.n2097438) • [🐱 Nyaa](https://nyaa.si/?q=G6AVVP2UJKAJJ3KKSG5U4GMYYB7BONS4) |
 
 ---
 <div align="center">
