@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.30.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.31.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Rooster Fighter S01E05 The Motley Flock Scatters 1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e05-motley-flock-scatters-1080p-cr.n2097151) • [🐱 Nyaa](https://nyaa.si/?q=WQ5PNC5DWGVQMHGO2IASPHPZA5LSAOQA) |
-| `[Erai-raws] Niwatori Fighter - 05 [480p DSNP WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-05-480p-dsnp-web.n2097147) • [🐱 Nyaa](https://nyaa.si/?q=WRNHUUX4PIEPHKGYPJZKW3LHOMV4E7DL) |
-| `[Erai-raws] Niwatori Fighter - 05 [720p DSNP WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-05-720p-dsnp-web.n2097146) • [🐱 Nyaa](https://nyaa.si/?q=MSDW6ZFJ4Q27MLT7Z476GX7VLZP4B2BQ) |
-| `[Erai-raws] Niwatori Fighter - 05 [1080p DSNP WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-05-1080p-dsnp-web.n2097145) • [🐱 Nyaa](https://nyaa.si/?q=XHJEGHT3ETALORMFROO56CP6UGJDUDD2) |
-| `[Yameii] In the Clear Moonlit Dusk - S01E12 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-clear-moonlit-dusk-s01e12-english-dub-cr.n2097144) • [🐱 Nyaa](https://nyaa.si/?q=RBLCUALZ4Q3I62QCKAH7JAIH65I6P4JO) |
-| `[Yameii] In the Clear Moonlit Dusk - S01E12 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-clear-moonlit-dusk-s01e12-english-dub-cr.n2097143) • [🐱 Nyaa](https://nyaa.si/?q=XDFSWDBDZ3MXKPPMYS27KUIEXLFHTKIW) |
-| `Rooster Fighter S01E05 The Motley Flock Scatters 1080p BI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e05-motley-flock-scatters-1080p-bili.n2097142) • [🐱 Nyaa](https://nyaa.si/?q=DNPNEBPMUKMGUAAICJDJ6HHX4N2NDILE) |
-| `Rooster Fighter S01E05 The Motley Flock Scatters 1080p DS...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e05-motley-flock-scatters-1080p-dsnp.n2097141) • [🐱 Nyaa](https://nyaa.si/?q=5YWCVP56W76Q2GZMXGOXPU4DNYXF46LG) |
-| `In the Clear Moonlit Dusk S01E12 In the Clear Moonlit Dus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/clear-moonlit-dusk-s01e12-1080p-cr-web-dl.n2097140) • [🐱 Nyaa](https://nyaa.si/?q=K4JR7IAKNVYRWFESVA6GJRUKWDQFAJSJ) |
-| `Rooster Fighter S01E05 The Motley Flock Scatters 1080p DS...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e05-motley-flock-scatters-1080p-dsnp.n2097139) • [🐱 Nyaa](https://nyaa.si/?q=GCZUXDCZL6IZNSPAI3LAFZEFNU5FIO4J) |
-| `[ToonsHub] Rooster Fighter S01E05 1080p AMZN WEB-DL DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e05-1080p-amzn-web-dl.k10314594528265) • [🐱 Nyaa](https://nyaa.si/?q=TRNLIER53UGDPG6RZWRACXATECEW6SSP) |
-| `[ToonsHub] Rooster Fighter S01E05 1080p CR WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e05-1080p-cr-web-dl.k10314584113672) • [🐱 Nyaa](https://nyaa.si/?q=422EFHJ4VJJ5MFSYALNFNM5IPHZQ7IIN) |
-| `[SubsPlease] Niwatori Fighter - 05 (1080p) [CFC8BA3B].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-05-1080p-cfc8ba3b-mkv.n2097135) • [🐱 Nyaa](https://nyaa.si/?q=3K5JQ7AVTG3VN5OKXB6J3RO2YRKUBR4A) |
-| `[ToonsHub] In the Clear Moonlit Dusk S01E12 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-clear-moonlit-dusk-s01e12-1080p-cr-web.n2097134) • [🐱 Nyaa](https://nyaa.si/?q=QAHF4UCIVF6QVZOE5G7L56B32BVV4OCI) |
-| `[SubsPlease] Niwatori Fighter - 05 (720p) [A416B595].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-05-720p-a416b595-mkv.n2097133) • [🐱 Nyaa](https://nyaa.si/?q=OAER3XLNRC2KLIHWAYCWSTQ7YDKWOGKU) |
+| `[ToonsHub] Ace of Diamond S04E02 1080p CR WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ace-diamond-s04e02-1080p-cr-web-dl.k10315583660814) • [🐱 Nyaa](https://nyaa.si/?q=BQFGPDU4IO2KMXRWBXX2AWXA35OPNYZF) |
+| `Ace of the Diamond S04E02 For the Team 1080p CR WEB-DL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-diamond-s04e02-team-1080p-cr-web-dl.n2097196) • [🐱 Nyaa](https://nyaa.si/?q=VPIDUYQK7J4SXA6UZCWQ4NEWDZL37QED) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 02 (1080p) [2A86B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-02-1080p-2a86b084-mkv.n2097195) • [🐱 Nyaa](https://nyaa.si/?q=AULDYA4QIMWAXW6JF4X5EAH24W6Q3DVM) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 02 (720p) [24258D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-02-720p-24258de8-mkv.n2097193) • [🐱 Nyaa](https://nyaa.si/?q=IKL3Y6UK23QI73JWFIQXL5USAJFAQTQX) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 02 (480p) [07B92D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-02-480p-07b92d99-mkv.n2097192) • [🐱 Nyaa](https://nyaa.si/?q=X3ZP7DNVNXCA77FTGFDWP5RRU2F3GV7D) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 02 [48...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.k10315489032205) • [🐱 Nyaa](https://nyaa.si/?q=OMTLYYR7DSHWWOADAORAEXDJMDMX7IBA) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 02 [72...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.k10315486649870) • [🐱 Nyaa](https://nyaa.si/?q=RWPFEBWL6GNKBQ56IJKIGD7XQ6XZ65FW) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 02 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.k10315484353293) • [🐱 Nyaa](https://nyaa.si/?q=7Q5W3GMJI2KINCF4A6LOAGD3W2W3SC3L) |
+| `[ToonsHub] Mission Yozakura Family S02E01 720p DSNP WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mission-yozakura-family-s02e01-720p-dsnp-web.k10315392832012) • [🐱 Nyaa](https://nyaa.si/?q=FUKBLFNXK75NPFHS3DNLBPO57FDH4556) |
+| `[Onalrie] Digimon Beatbreak - S01E26 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-digimon-beatbreak-s01e26-1080p-webrip-av1-mkv.2073715) • [🐱 Nyaa](https://nyaa.si/?q=3GYP23GKVIKCEKSLWAOORPC5MXZMGN6M) |
+| `You and I Are Polar Opposites S01E11 Class Trip Part 2 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e11-class-trip-part-2-1080p.n2097180) • [🐱 Nyaa](https://nyaa.si/?q=OBBH664N7V36UCXNOCHOUL5BEZTHYWON) |
+| `[Yameii] You and I Are Polar Opposites - S01E12 [English ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-polar-opposites-s01e12-english-dub-cr-web.n2097175) • [🐱 Nyaa](https://nyaa.si/?q=CUIHIZ5M4VOZZ3Z3QAFCTHZQQOA42SFO) |
+| `[Yameii] You and I Are Polar Opposites - S01E12 [English ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-polar-opposites-s01e12-english-dub-cr-web.n2097173) • [🐱 Nyaa](https://nyaa.si/?q=BLBZHFXSXUO7UPZ2ELSZWZ5V5IEPM7PI) |
+| `[ToonsHub] You and I Are Polar Opposites S01E11 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-polar-opposites-s01e11-1080p-cr-web-dl.n2097172) • [🐱 Nyaa](https://nyaa.si/?q=TZ32VFLPXWI2VATPK7I6TUSHEX7KVQD4) |
+| `You and I Are Polar Opposites S01E12 Step by Step 1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e12-step-1080p-cr-web-dl.n2097170) • [🐱 Nyaa](https://nyaa.si/?q=2RYTARDYQVVCYRFCUSOZ3RWATM77R5TB) |
 
 ---
 <div align="center">
