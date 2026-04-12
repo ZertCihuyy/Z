@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.57.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.37.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Ne.Zha.2.A.K.A.Nezha.Mo.tong.nao.hai.2025.DUAL-AUDIO.CHI-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ne-zha-2-k-nezha-mo-tong-nao.n2097124) • [🐱 Nyaa](https://nyaa.si/?q=FVI4GZKC6C7PYHXNAYF3N4RV2NVCFOSZ) |
+| `The Cat Returns + Ghiblies Episode 2 (2002) 猫の恩返し/ギブリーズep...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cat-returns-ghiblies-episode-2-2002-episode2-12.n2097116) • [🐱 Nyaa](https://nyaa.si/?q=LA5DSIWBYVJIJU2XXDYHFRJU7AM5JTP6) |
+| `Anne of Green Gables (2010) 赤毛のアン グリーンゲーブルズへの道 [12-bit 4:...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anne-green-gables-2010-12-bit-4-2.n2097105) • [🐱 Nyaa](https://nyaa.si/?q=UKQ7NDMWRYJPBJHCJBRRNOAOPUASKMDF) |
+| `[FSP] Battle Through The Heavens NF - 194 [4K]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-battle-through-heavens-nf-194-4k.n2097103) • [🐱 Nyaa](https://nyaa.si/?q=5MJI3IPPPEUTO2P7S2TDABESVCZPXVHV) |
+| `[FSP] Douluo Dalu II - Soul Land 2 - 148 [1080p]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-douluo-dalu-ii-soul-land-2-148-1080p.n2097102) • [🐱 Nyaa](https://nyaa.si/?q=XXOV5XBPWZUCBKDYDAW5LJ6MRWBUGCNH) |
 | `[BlackRabbit] Monster (2004) - S01 [Bluray-720p][Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-monster-2004-s01-bluray-720p-opus-2.k10312383538433) • [🐱 Nyaa](https://nyaa.si/?q=MDFEIAKDB2XYGTJSQJYCBU55AU4WIHV4) |
 | `Ghost in the Shell 2: Innocence (2004) イノセンス [12-bit 4:2:...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-shell-2-innocence-2004-12-bit-4.n2097096) • [🐱 Nyaa](https://nyaa.si/?q=F7I4NGII6VHWHL5UMDBIG27YPXPD3DNR) |
 | `Digimon.Beatbreak.S01E26.1080p.CR.WEBRip.10bits.x265-Rapta` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e26-1080p-cr-webrip-10bits-x265-rapta.n2097095) • [🐱 Nyaa](https://nyaa.si/?q=JIA2HKDHWGFTEW4KLYX3KGKDJP4DBNWO) |
@@ -38,11 +43,6 @@
 | `[ToonsHub] Rooster Fighter S01E05 1080p AS WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e05-1080p-web-dl-aac2.k10310887462415) • [🐱 Nyaa](https://nyaa.si/?q=UFPXCKWQH3CRSZHZKTFSVOB2G7O7YR3U) |
 | `[Serenae] Meitantei Precure! - 11 (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-11-1080p-mkv.n2097043) • [🐱 Nyaa](https://nyaa.si/?q=WHAPLQ3ASAPESFVTGSSWFNLY6SCL4UGG) |
 | `[Serenae] Meitantei Precure! - 11 (720p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-11-720p-mkv.n2097042) • [🐱 Nyaa](https://nyaa.si/?q=YMRMOR5SEHJ2NO7OYQRGYAJRQKYPTPFK) |
-| `[Anime Time] Jujutsu Kaisen - Season 3 [1080p][HEVC 10bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-jujutsu-kaisen-season-3-1080p-hevc.n2097041) • [🐱 Nyaa](https://nyaa.si/?q=GZFW5VAB5GGRANMODOWGWATCOW3YB43N) |
-| `[Yameii] Digimon Beatbreak - S01E20 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e20-english-dub-cr-web.n2097037) • [🐱 Nyaa](https://nyaa.si/?q=ANTGAHD4CKILR3SUGNF6DE42AXRVT5QM) |
-| `[Yameii] Digimon Beatbreak - S01E19 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e19-english-dub-cr-web.n2097036) • [🐱 Nyaa](https://nyaa.si/?q=MQSBZA6IUTJWZBFRRHVSYIAYKG7G4IAE) |
-| `[Yameii] Digimon Beatbreak - S01E18 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e18-english-dub-cr-web.n2097035) • [🐱 Nyaa](https://nyaa.si/?q=SDQLOVOB57N2KG2S6YTU63QOYCENDKSY) |
-| `[Yameii] Digimon Beatbreak - S01E17 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e17-english-dub-cr-web.n2097034) • [🐱 Nyaa](https://nyaa.si/?q=OZ5UMZZCINP32ZHFBEUMCOKHXILFW3P2) |
 
 ---
 <div align="center">
