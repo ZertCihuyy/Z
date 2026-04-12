@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.40.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.25.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 01 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-01-1080p.k10324071020555) • [🐱 Nyaa](https://nyaa.si/?q=SC2QK2FBPEH35D4UVC5LQSY5OAG7AG7R) |
+| `Visitor (1998) - TV Special (R2JP DVD | ENG - Ken Transla...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/visitor-1998-tv-special-r2jp-dvd-eng-ken-translations.n2097444) • [🐱 Nyaa](https://nyaa.si/?q=TE7L7RQEACPXC6KRYTXR6QY6NT2LBOVT) |
+| `[DKB] Niwatori Fighter - S01E05 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-niwatori-fighter-s01e05-1080p-hevc-x265-10bit.n2097443) • [🐱 Nyaa](https://nyaa.si/?q=2LWYNOQUQ46TYXSVMYBWPK6T4RFICOGA) |
+| `[ASW] One Piece - 1157 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-one-piece-1157-1080p-hevc-x265-10bit-aac.n2097440) • [🐱 Nyaa](https://nyaa.si/?q=NOBLCHYFHOHFQDICFS7EQSU5R2WRAA7Z) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 02 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-02-1080p.n2097438) • [🐱 Nyaa](https://nyaa.si/?q=G6AVVP2UJKAJJ3KKSG5U4GMYYB7BONS4) |
+| `Wistoria Wand and Sword S02E01 Barrier Day 1080p NF WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wistoria-wand-sword-s02e01-barrier-day-1080p-nf.n2097437) • [🐱 Nyaa](https://nyaa.si/?q=AF7AAEYN44SGABOIXDXX6TRGCUP3DJA4) |
+| `One Piece S01E1156 1080p NF WEB-DL AAC2.0 H 264-VARYG (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1156-1080p-nf-web-dl-aac2.n2097433) • [🐱 Nyaa](https://nyaa.si/?q=23USNYJMVJRAFLKKJIXGB3R2FG2RZHSX) |
+| `[Gecko] Fabulous Beasts - S05E09 (有兽焉; You Shou Yan 5th S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fabulous-beasts-s05e09-shou-yan-5th-season.k10323451581199) • [🐱 Nyaa](https://nyaa.si/?q=JKLD5TZ44XTMSM5AFHOGU3FN7CBII3DC) |
+| `[shincaps] Marika-chan no Koukando wa Bukkowareteiru - 02...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/shincaps-marika-chan-no-koukando-wa-bukkowareteiru-02.n2097427) • [🐱 Nyaa](https://nyaa.si/?q=BD7QNDLQTFHPC4YCBW746MVCWJQWACR3) |
 | `Hells Paradise S02E11 Ephemeralness and Fire 1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02e11-ephemeralness-fire-1080p-cr-web.n2097425) • [🐱 Nyaa](https://nyaa.si/?q=S6D5VIEYODZVD34YEMGOMCJDW2Q7FGF7) |
 | `[ToonsHub] Fabulous Beasts S05E09 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fabulous-beasts-s05e09-1080p-bili-web-dl.n2097423) • [🐱 Nyaa](https://nyaa.si/?q=26CCJZFXGXPJKJIQ55PP3XDQMREJ4ESB) |
 | `[BonoboSubs]Renegade Immortal - Xian Ni Episode 136` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bonobosubs-renegade-immortal-xian-ni-episode-136.n2097422) • [🐱 Nyaa](https://nyaa.si/?q=LLZ4X2KFZMUENW65GZ6O555SY4ILV6KP) |
 | `[BonoboSubs][4k]Renegade Immortal - Xian Ni Episode 136` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bonobosubs-4k-renegade-immortal-xian-ni-episode-136.n2097421) • [🐱 Nyaa](https://nyaa.si/?q=IDKFG4R7VN3653VYSZNVUCMAFMVJEINW) |
 | `[ASW] Ghost Concert - missing Songs - 02 [1080p HEVC x265...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ghost-concert-missing-songs-02-1080p-hevc.n2097419) • [🐱 Nyaa](https://nyaa.si/?q=DCZCLBK7Y6H5XSYSQUUEKOK37YPNF4GY) |
 | `[Trix] Ghost Concert: Missing Songs S01E02 [WEBRip 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-ghost-concert-missing-songs-s01e02-webrip-1080p.n2097418) • [🐱 Nyaa](https://nyaa.si/?q=YT6C6MHK4LAGLKXSR6BXFW5IG2RP3YU7) |
-| `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ingoku-danchi-deviants-apartment-complex-s01e02.k10322645628166) • [🐱 Nyaa](https://nyaa.si/?q=FTCLEMKQJ57V5TS6OZSLVDF2VOTEMTNA) |
-| `[Onalrie] Ghost Concert - missing Songs - S01E02 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ghost-concert-missing-songs-s01e02-1080p-webrip-av1.2073853) • [🐱 Nyaa](https://nyaa.si/?q=YT6HZBZFKXAKMNF5DZZLUX7VHH7XP6LA) |
-| `[ASW] Kuroneko to Majo no Kyoushitsu - 01 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kuroneko-majo-no-kyoushitsu-01-1080p-hevc.n2097410) • [🐱 Nyaa](https://nyaa.si/?q=PJEOIDFQDY3OT6GEPIQJY2P7AUSGZMQ7) |
-| `[Trix] You and I Are Polar Opposites S01 v2 (Batch) [WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-polar-opposites-s01-v2-batch-webrip-1080p.k10322444272388) • [🐱 Nyaa](https://nyaa.si/?q=4L75CMSGNOJVAH3XLD2KFW4V6NDJ3WFB) |
-| `[Erai-raws] Maid-san wa Taberu dake - 03 [1080p CR WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-maid-san-wa-taberu-dake-03.k10322413016841) • [🐱 Nyaa](https://nyaa.si/?q=UHEMCHY2MEQVIFLOJ7KCCCLN2MBKJMNY) |
-| `[MHEN] Vinland Saga (2019) S02 (1080p BluRay AV1 SDR AAC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mhen-vinland-saga-2019-s02-1080p-bluray-av1.k10322398410755) • [🐱 Nyaa](https://nyaa.si/?q=MY2FQ5V3TCCI2CHIOWVDOWAFYPW5GV7Q) |
-| `[Reza] Wistoria Wand and Sword - S02E01 [WEBRip 1080p AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-wistoria-wand-sword-s02e01-webrip-1080p-aac.n2097404) • [🐱 Nyaa](https://nyaa.si/?q=ULVIJ53MTNK5CNLPEIZESDZRI5URAKY3) |
-| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E01 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kuroneko-majo-no-kyoushitsu-s01e01-1080p-webrip-av1.2073840) • [🐱 Nyaa](https://nyaa.si/?q=3FUN3WPUBDKM7GKL7B67YS5PKAGQIMSF) |
-| `[geckyzz] Marika's Love Meter Malfunction - S01E02 (茉莉花ちゃ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/geckyzz-marikas-love-meter-malfunction-s01e02-marika-chan.k10322049927438) • [🐱 Nyaa](https://nyaa.si/?q=N2SC3S3V5XRTDBJ5FV2FNGM77BOBMF4U) |
 
 ---
 <div align="center">
