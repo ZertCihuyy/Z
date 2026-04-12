@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.40.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.04.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nnotaclue] Dr. STONE - S04E26 [1080p AV1 Opus 2.0 Multi-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e26-1080p-av1-opus-2.k10327448231172) • [🐱 Nyaa](https://nyaa.si/?q=WCNHNU3BR5CNK2MFO5NADHAU2E547KCU) |
 | `[Erai-raws] One Piece - 1157 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-1080p-cr-webrip.k10326829549062) • [🐱 Nyaa](https://nyaa.si/?q=CVXJPUTURZFSRYLMDLKZKS7RYS3DV3YS) |
 | `[Erai-raws] One Piece - 1157 [720p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-720p-cr-web.k10326794098700) • [🐱 Nyaa](https://nyaa.si/?q=3AB6NEFBEUFZWQVQ3M44FJOMRWG2H2IH) |
 | `[Erai-raws] One Piece - 1157 [480p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-480p-cr-web.k10326794216453) • [🐱 Nyaa](https://nyaa.si/?q=77V7KCSDV4PYJCI5T3M7THGCTJC67DFG) |
@@ -42,7 +43,6 @@
 | `[denisplay] Ichijouma Mankitsu Gurashi! - 01 [720p] [AV1]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-ichijouma-mankitsu-gurashi-01-720p-av1.n2097469) • [🐱 Nyaa](https://nyaa.si/?q=JB65MITI3GXNQJ5K2DOUERGYNZBBLIKJ) |
 | `[denisplay] Ichijouma Mankitsu Gurashi! - 01 [480p] [AV1]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-ichijouma-mankitsu-gurashi-01-480p-av1.n2097468) • [🐱 Nyaa](https://nyaa.si/?q=U4OJ3L77EGNFQ4L26FMS2URSNCIYRV5Y) |
 | `[SubsPlease] Tamon-kun Ima Docchi (01-13) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tamon-kun-ima-docchi-01-13-1080p-batch.n2097466) • [🐱 Nyaa](https://nyaa.si/?q=M2XIKTFGSZP65VXEH5L4GUAPZLYXISH3) |
-| `[SubsPlease] Tamon-kun Ima Docchi (01-13) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tamon-kun-ima-docchi-01-13-720p-batch.n2097465) • [🐱 Nyaa](https://nyaa.si/?q=DH6FBNWBUJABB7VHJLOIFYUVOPQIH3K6) |
 
 ---
 <div align="center">
