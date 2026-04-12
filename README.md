@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.05.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.58.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -21,28 +21,28 @@
 | `08:30` | **[Meitantei Precure!](https://myanimelist.net/anime/63042/Meitantei_Precure)** | *Action, Mystery* |
 | `08:00` | **[Koupen-chan](https://myanimelist.net/anime/60534/Koupen-chan)** | *Slice of Life* |
 | `18:00` | **[Chibi Maruko-chan (1995)](https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995)** | *Comedy* |
-| `18:30` | **[Sazae-san](https://myanimelist.net/anime/2406/Sazae-san)** | *Comedy* |
+| `02:00` | **[Ichijouma Mankitsugurashi!](https://myanimelist.net/anime/62018/Ichijouma_Mankitsugurashi)** | *Comedy, Ecchi* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Kaleido-mini] Liar Game (2026) - 01 (S01E01) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-01-s01e01-web.n2097293) • [🐱 Nyaa](https://nyaa.si/?q=SNIGTEFJ542DQNQ6YGLQLGRZB53ZLBYD) |
-| `[Kaleido-subs] Liar Game (2026) - 01 (S01E01) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-liar-game-2026-01-s01e01-web.n2097292) • [🐱 Nyaa](https://nyaa.si/?q=QC5TD4STQFCMNTKXRKPI2LAEWJXT3HRM) |
-| `Prism Rondo S01 1080p NF WEB-DL MULTi Opus5.1 AV1 HDR10+ ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/prism-rondo-s01-1080p-nf-web-dl-multi.n2097290) • [🐱 Nyaa](https://nyaa.si/?q=37DBNVM4EZ7FSZKSGY3CSBCFH33QLMCK) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.n2097288) • [🐱 Nyaa](https://nyaa.si/?q=SMMVRVQSQSSDNXG2FDL3LYRKHDPPRIN7) |
-| `Initial D -project reiwa-` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/initial-d-project-reiwa.n2097287) • [🐱 Nyaa](https://nyaa.si/?q=E7P5KEZBYCWM4W5WV5VZO6Y7W73BBG2V) |
-| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 01 [1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-01-1080p-amzn.n2097283) • [🐱 Nyaa](https://nyaa.si/?q=MK4J2SRTJGHOMVTJCD55S7OMXYFXCFD5) |
-| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 01 [720p AMZN WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-01-720p-amzn.n2097282) • [🐱 Nyaa](https://nyaa.si/?q=IKHZJR2ABE7GZ44P6AFEMYQE74NCUKRZ) |
-| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 01 [540p AMZN WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-01-540p-amzn.n2097281) • [🐱 Nyaa](https://nyaa.si/?q=FONC5PZJRATWXFVIOVGTXKU3746GLJAK) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimso...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-nippon-sangoku-three-nations-crimson-sun-s01e02.n2097270) • [🐱 Nyaa](https://nyaa.si/?q=2FDKX2WBYMLKM3KDZASIL4CPZ3ASMXWK) |
-| `[LbE3L] Tougen Anki S01E09–E12 [1080p CUSTOM WEBRip AV1 O...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-tougen-anki-s01e09e12-1080p-custom-webrip-av1.k10318646709769) • [🐱 Nyaa](https://nyaa.si/?q=BL43PE2ZLUZIXIUYOHZ7MZIN5BIBPGPW) |
-| `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 01 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tsue-tsurugi-no-wistoria-2nd-season.n2097266) • [🐱 Nyaa](https://nyaa.si/?q=DLJSS44UVRBJ6FEXX5G64FTXMYNK4VQV) |
-| `[Erai-raws] Nippon Sangoku - 02 [1080p AMZN WEB-DL AVC EA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-02-1080p-amzn-web.k10318514870541) • [🐱 Nyaa](https://nyaa.si/?q=NHENTDWZD7C7UFL6PFT62EHPWJIGNKWW) |
-| `[Erai-raws] Nippon Sangoku - 02 [720p AMZN WEB-DL AVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-02-720p-amzn-web.k10318514640393) • [🐱 Nyaa](https://nyaa.si/?q=VWEET3ANBJZR4JZF3UHFIOYZCDQYTL7V) |
-| `[Erai-raws] Nippon Sangoku - 02 [540p AMZN WEB-DL AVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-02-540p-amzn-web.k10318514386178) • [🐱 Nyaa](https://nyaa.si/?q=CXSQWEAKDQELGTP7SUMFSXWFQSTGSTPH) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.n2097254) • [🐱 Nyaa](https://nyaa.si/?q=5RYEXU5BOOJBIVU5FFZ6ZTBZ5I2EMNN6) |
+| `[ASW] Maid-san wa Taberu Dake - 03 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-maid-san-wa-taberu-dake-03-1080p.n2097335) • [🐱 Nyaa](https://nyaa.si/?q=4MLBHQNZZNVRKZJS6SRMYXY5H2BSLS3K) |
+| `[Onalrie] Maid-san wa Taberu Dake - S01E03 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-maid-san-wa-taberu-dake-s01e03-1080p.2073814) • [🐱 Nyaa](https://nyaa.si/?q=RBRBQMKFLIPRSO4UMMTTMAQGV4Y2TOHC) |
+| `[Yameii] The Villainess Is Adored by the Prince of the Ne...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-villainess-adored-prince-neighbor-kingdom-s01e12.n2097332) • [🐱 Nyaa](https://nyaa.si/?q=R37KUXJKWBJ3RLBM3WBLJDMEKFSK5OEP) |
+| `[Yameii] The Villainess Is Adored by the Prince of the Ne...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-villainess-adored-prince-neighbor-kingdom-s01e12.n2097331) • [🐱 Nyaa](https://nyaa.si/?q=GEZ4GHFBFLPXYEZQMY3EE6W4QX6WTE6N) |
+| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 01 [1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-01-1080p-amzn.k10320649217536) • [🐱 Nyaa](https://nyaa.si/?q=OBVSQPQDJPAW6TPM55TLRZVIJKOSSNFL) |
+| `The Villainess Is Adored by the Prince of the Neighbor Ki...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/villainess-adored-prince-neighbor-kingdom-s01e12-love-always.n2097328) • [🐱 Nyaa](https://nyaa.si/?q=DEKHBHMJ76GLYBUPF4XRV7V7ZXOM5NR7) |
+| `[ToonsHub] The Villainess Is Adored by the Prince of the ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-villainess-adored-prince-neighbor-kingdom-s01e12.k10320570228743) • [🐱 Nyaa](https://nyaa.si/?q=VNYSLWNSIO6T4R6I2ETWIBEK7GK3UO3M) |
+| `[Trix] Botan Kamiina Fully Blossoms When Drunk S01E01 [WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-botan-kamiina-fully-blossoms-when-drunk-s01e01.n2097324) • [🐱 Nyaa](https://nyaa.si/?q=GGFSUK25SJK46DTUS2NW26VK4QGI356D) |
+| `[Yameii] Hell's Paradise - S02E12 [English Dub] [CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-hells-paradise-s02e12-english-dub-cr-web.n2097323) • [🐱 Nyaa](https://nyaa.si/?q=X5GAGPPLKE5ISTUJMC7TWC6G3MNQ5QYQ) |
+| `[Yameii] Hell's Paradise - S02E12 [English Dub] [CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-hells-paradise-s02e12-english-dub-cr-web.n2097322) • [🐱 Nyaa](https://nyaa.si/?q=XRWD2LXARPGQEPEKH2JHZWEO2ORXL4WD) |
+| `[ToonsHub] Hells Paradise S02E12 1080p CR WEB-DL DUAL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hells-paradise-s02e12-1080p-cr-web-dl.k10320342286599) • [🐱 Nyaa](https://nyaa.si/?q=G3OGP4QD7Y7B3KBLDEBFZOXHQDWVEPUE) |
+| `Hells Paradise S02E12 Endings and Beginnings 1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02e12-endings-beginnings-1080p-cr-web.n2097320) • [🐱 Nyaa](https://nyaa.si/?q=KCNBVI2F77ZXGRYMQH5RZ5HN7KNIG4PU) |
+| `[LbE3L] The Ramparts of Ice S01E02 (Koori no Jouheki) [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-ramparts-ice-s01e02-koori-no-jouheki-1080p.k10320196806406) • [🐱 Nyaa](https://nyaa.si/?q=VN7BS4D6FD5ZPD5G63XUPV3U36R6T7K6) |
+| `[LbE3L] [H.266] The Ramparts of Ice S01E02 (Koori no Jouh...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-ramparts-ice-s01e02-koori-no.k10320165601025) • [🐱 Nyaa](https://nyaa.si/?q=RZPUZIJUTPWHCLIN5T6PERBLG2NTHB4I) |
+| `The Food Diary of Miss Maid S01E03 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/food-diary-miss-maid-s01e03-1080p-cr-web.n2097318) • [🐱 Nyaa](https://nyaa.si/?q=DPHAKFJAWQQ6E4RTEJLMRZI62BHU6SOG) |
 
 ---
 <div align="center">

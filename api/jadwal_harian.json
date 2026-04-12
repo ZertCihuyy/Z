@@ -1,5 +1,5 @@
 {
-  "last_update": "12/4/2026, 21.05.17",
+  "last_update": "12/4/2026, 21.58.38",
   "hari": "Minggu",
   "data": [
     {
@@ -1172,24 +1172,24 @@
       ]
     },
     {
-      "mal_id": 2406,
-      "url": "https://myanimelist.net/anime/2406/Sazae-san",
+      "mal_id": 62018,
+      "url": "https://myanimelist.net/anime/62018/Ichijouma_Mankitsugurashi",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1008/98996.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1008/98996t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1008/98996l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1178/155933.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1178/155933t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1178/155933l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1008/98996.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1008/98996t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1008/98996l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1178/155933.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1178/155933t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1178/155933l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/4P2dc6mphS4?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -1202,34 +1202,30 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Sazae-san"
+          "title": "Ichijouma Mankitsugurashi!"
         },
         {
           "type": "Japanese",
-          "title": "サザエさん"
-        },
-        {
-          "type": "English",
-          "title": "Mrs. Sazae"
+          "title": "一畳間まんきつ暮らし！"
         }
       ],
-      "title": "Sazae-san",
-      "title_english": "Mrs. Sazae",
-      "title_japanese": "サザエさん",
+      "title": "Ichijouma Mankitsugurashi!",
+      "title_english": null,
+      "title_japanese": "一畳間まんきつ暮らし！",
       "title_synonyms": [],
       "type": "TV",
-      "source": "4-koma manga",
+      "source": "Manga",
       "episodes": null,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "1969-10-05T00:00:00+00:00",
+        "from": "2026-04-12T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 5,
-            "month": 10,
-            "year": 1969
+            "day": 12,
+            "month": 4,
+            "year": 2026
           },
           "to": {
             "day": null,
@@ -1237,41 +1233,95 @@
             "year": null
           }
         },
-        "string": "Oct 5, 1969 to ?"
+        "string": "Apr 12, 2026 to ?"
       },
-      "duration": "24 min",
-      "rating": "G - All Ages",
-      "score": 6.16,
-      "scored_by": 2031,
-      "rank": 9981,
-      "popularity": 7165,
-      "members": 10353,
-      "favorites": 43,
-      "synopsis": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kids and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults. \n\n(Source: AniDB)",
-      "background": "Sazae-san currently holds the Guinness World Record for the longest running animated television series.",
-      "season": "fall",
-      "year": 1969,
+      "duration": "23 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.58,
+      "scored_by": 365,
+      "rank": 7527,
+      "popularity": 7448,
+      "members": 9367,
+      "favorites": 13,
+      "synopsis": "Meiko, a country girl, enrolls in a prestigious all-girls school under the condition that she joins a volunteer program. But instead of a typical school service, she finds herself living and working at a manga cafe!\n\nSurprisingly, life in a cramped booth isn't so bad—and with a staff full of cute high school girls, it might even be fun!\n\nCome enjoy the charm of a manga cafe filled with high school girls!\n\n(Source: MAL News)",
+      "background": "Ichijouma Mankitsugurashi! aired on ABC TV and TV Asahi's ANiMAZiNG!!! block.",
+      "season": "spring",
+      "year": 2026,
       "broadcast": {
         "day": "Sundays",
-        "time": "18:30",
+        "time": "02:00",
         "timezone": "Asia/Tokyo",
-        "string": "Sundays at 18:30 (JST)"
+        "string": "Sundays at 02:00 (JST)"
       },
       "producers": [
         {
-          "mal_id": 169,
+          "mal_id": 238,
           "type": "anime",
-          "name": "Fuji TV",
-          "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 460,
+          "type": "anime",
+          "name": "KlockWorx",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 775,
+          "type": "anime",
+          "name": "Bushiroad",
+          "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+          "mal_id": 797,
+          "type": "anime",
+          "name": "Houbunsha",
+          "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+          "mal_id": 1113,
+          "type": "anime",
+          "name": "NBCUniversal Entertainment Japan",
+          "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+          "mal_id": 1333,
+          "type": "anime",
+          "name": "Hakuhodo DY Music & Pictures",
+          "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+          "mal_id": 1500,
+          "type": "anime",
+          "name": "ABC Animation",
+          "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+        },
+        {
+          "mal_id": 1680,
+          "type": "anime",
+          "name": "BS NTV",
+          "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+        },
+        {
+          "mal_id": 2228,
+          "type": "anime",
+          "name": "Bushiroad Move",
+          "url": "https://myanimelist.net/anime/producer/2228/Bushiroad_Move"
+        },
+        {
+          "mal_id": 3103,
+          "type": "anime",
+          "name": "REMOW",
+          "url": "https://myanimelist.net/anime/producer/3103/REMOW"
         }
       ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 191,
+          "mal_id": 753,
           "type": "anime",
-          "name": "Eiken",
-          "url": "https://myanimelist.net/anime/producer/191/Eiken"
+          "name": "PRA",
+          "url": "https://myanimelist.net/anime/producer/753/PRA"
         }
       ],
       "genres": [
@@ -1280,6 +1330,12 @@
           "type": "anime",
           "name": "Comedy",
           "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
         }
       ],
       "explicit_genres": [],
