@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.08.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.49.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 02 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.k10317923465477) • [🐱 Nyaa](https://nyaa.si/?q=FR2KBKUFYJD3SODDOMWOUQ4OUEKUMCTB) |
+| `[Erai-raws] Niwatori Fighter - 05 [1080p DSNP WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-05-1080p-dsnp-webrip.k10317909000973) • [🐱 Nyaa](https://nyaa.si/?q=ER2E44K2QD3HZJUU4IZUBFL5K5D6OVLG) |
+| `[Erai-raws] Niwatori Fighter - 05 [1080p CR WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-05-1080p-cr-webrip.k10317906691585) • [🐱 Nyaa](https://nyaa.si/?q=DWM5QYE3LUBWDB4OYYC5RUKURY3DQPTM) |
+| `[FSP DN] Mushen Ji (Tales of Herding Gods) - 78 [1080p] (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-mushen-ji-tales-herding-gods-78-1080p-gb_cn.n2097232) • [🐱 Nyaa](https://nyaa.si/?q=3NZV6FZ3AFEQTNKKIBBWKBSSXMV4QYRI) |
+| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E01 [1080p WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tsue-tsurugi-no-wistoria-s02e01-1080p-webrip-av1-mkv.2073741) • [🐱 Nyaa](https://nyaa.si/?q=GELOMUAZMYPW5PMRRORQ23JHTSPZWDDV) |
 | `[ASW] Ace of Diamond Act II S2 - 02 [1080p HEVC x265 10Bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ace-diamond-act-ii-s2-02-1080p.n2097227) • [🐱 Nyaa](https://nyaa.si/?q=KAVPLCIO5WQP2RNH23GYEORUSF3BH2XD) |
 | `[Onalrie] Ace of Diamond Act II - S02E02 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ace-diamond-act-ii-s02e02-1080p-webrip-av1-mkv.2073727) • [🐱 Nyaa](https://nyaa.si/?q=5DSKEUOOO5KFLDCRKH4GGJCFZX37OUYP) |
 | `[Mangamannn] Eden's Bowy - 01-26 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-edens-bowy-01-26-480i-dvd.k10317035837184) • [🐱 Nyaa](https://nyaa.si/?q=LJZZ3SRJ5HCSGJJ5QED2TPVDBHPFSDOK) |
@@ -38,11 +43,6 @@
 | `[ToonsHub] Mission Yozakura Family S02E01 1080p DSNP WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mission-yozakura-family-s02e01-1080p-dsnp-web.n2097210) • [🐱 Nyaa](https://nyaa.si/?q=FDGSWPU3AY42LVDQVUKKZLFDDW4OH44M) |
 | `Mission Yozakura Family S02E01 AI Comes To The Yozakura F...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mission-yozakura-family-s02e01-ai-comes-mini-kyoichiro.n2097209) • [🐱 Nyaa](https://nyaa.si/?q=DLZ544S6AYCJ4ANXWAJYFWOAOURQMSPC) |
 | `[ToonsHub] How dare you S02E14 1080p iQ WEB-DL AAC2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dare-s02e14-1080p-iq-web-dl-aac2.k10316423532558) • [🐱 Nyaa](https://nyaa.si/?q=PBCJTNFLHVRGL7EFTPNIM6DTZS75JWZI) |
-| `[ASW] Niwatori Fighter - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-niwatori-fighter-05-1080p-hevc-x265-10bit-aac.n2097204) • [🐱 Nyaa](https://nyaa.si/?q=EZHBOQJAHAZFRXDRPWHHQAMUYHFWR4CN) |
-| `KamiKatsu.Working.for.God.in.a.Godless.World.S01.1080p.Bl...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kamikatsu-working-god-godless-world-s01-1080p-bluray.k10316025945615) • [🐱 Nyaa](https://nyaa.si/?q=WSQM5S4CKQL3ADJPQMCGTCIXRPAWENVS) |
-| `[Onalrie] Meitantei Precure! - S01E11 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-meitantei-precure-s01e11-1080p-webrip-av1-mkv.2073718) • [🐱 Nyaa](https://nyaa.si/?q=PBOXMGHMIDZWYQRDQWLAWF6VTLH7RPDS) |
-| `[ToonsHub] Ace of Diamond S04E02 1080p CR WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ace-diamond-s04e02-1080p-cr-web-dl.k10315583660814) • [🐱 Nyaa](https://nyaa.si/?q=BQFGPDU4IO2KMXRWBXX2AWXA35OPNYZF) |
-| `Ace of the Diamond S04E02 For the Team 1080p CR WEB-DL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-diamond-s04e02-team-1080p-cr-web-dl.n2097196) • [🐱 Nyaa](https://nyaa.si/?q=VPIDUYQK7J4SXA6UZCWQ4NEWDZL37QED) |
 
 ---
 <div align="center">
