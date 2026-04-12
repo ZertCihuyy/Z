@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.37.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.30.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Ne.Zha.2.A.K.A.Nezha.Mo.tong.nao.hai.2025.DUAL-AUDIO.CHI-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ne-zha-2-k-nezha-mo-tong-nao.n2097124) • [🐱 Nyaa](https://nyaa.si/?q=FVI4GZKC6C7PYHXNAYF3N4RV2NVCFOSZ) |
-| `The Cat Returns + Ghiblies Episode 2 (2002) 猫の恩返し/ギブリーズep...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cat-returns-ghiblies-episode-2-2002-episode2-12.n2097116) • [🐱 Nyaa](https://nyaa.si/?q=LA5DSIWBYVJIJU2XXDYHFRJU7AM5JTP6) |
-| `Anne of Green Gables (2010) 赤毛のアン グリーンゲーブルズへの道 [12-bit 4:...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anne-green-gables-2010-12-bit-4-2.n2097105) • [🐱 Nyaa](https://nyaa.si/?q=UKQ7NDMWRYJPBJHCJBRRNOAOPUASKMDF) |
-| `[FSP] Battle Through The Heavens NF - 194 [4K]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-battle-through-heavens-nf-194-4k.n2097103) • [🐱 Nyaa](https://nyaa.si/?q=5MJI3IPPPEUTO2P7S2TDABESVCZPXVHV) |
-| `[FSP] Douluo Dalu II - Soul Land 2 - 148 [1080p]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-douluo-dalu-ii-soul-land-2-148-1080p.n2097102) • [🐱 Nyaa](https://nyaa.si/?q=XXOV5XBPWZUCBKDYDAW5LJ6MRWBUGCNH) |
-| `[BlackRabbit] Monster (2004) - S01 [Bluray-720p][Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-monster-2004-s01-bluray-720p-opus-2.k10312383538433) • [🐱 Nyaa](https://nyaa.si/?q=MDFEIAKDB2XYGTJSQJYCBU55AU4WIHV4) |
-| `Ghost in the Shell 2: Innocence (2004) イノセンス [12-bit 4:2:...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-shell-2-innocence-2004-12-bit-4.n2097096) • [🐱 Nyaa](https://nyaa.si/?q=F7I4NGII6VHWHL5UMDBIG27YPXPD3DNR) |
-| `Digimon.Beatbreak.S01E26.1080p.CR.WEBRip.10bits.x265-Rapta` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e26-1080p-cr-webrip-10bits-x265-rapta.n2097095) • [🐱 Nyaa](https://nyaa.si/?q=JIA2HKDHWGFTEW4KLYX3KGKDJP4DBNWO) |
-| `The Boy and the Heron (2023) 君たちはどう生きるか [12-bit 4:2:0 Dec...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/boy-heron-2023-12-bit-4-2-0.n2097094) • [🐱 Nyaa](https://nyaa.si/?q=LVESU4SZX2DJ2LWXWDWE3CR4LWR2SXXV) |
-| `[Serenae] Meitantei Precure! - 11 Fanart Corner (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-11-fanart-corner-1080p-mkv.n2097064) • [🐱 Nyaa](https://nyaa.si/?q=JPXOD432TC25QWPLOOZN3GMELT4CJAQL) |
-| `[ASW] Digimon Beatbreak - 26 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-digimon-beatbreak-26-1080p-hevc-x265-10bit-aac.n2097056) • [🐱 Nyaa](https://nyaa.si/?q=YHXN5UZ2EVSQWBCOKRZHN4DNLY66CHA6) |
-| `[Judas] Digimon Beatbreak - S01E26 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e26-1080p-hevc-x265-10bit.n2097055) • [🐱 Nyaa](https://nyaa.si/?q=4KJSC4XIW4BIPWADADFOX4D6U3O5AZOC) |
-| `[ToonsHub] Rooster Fighter S01E05 1080p AS WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e05-1080p-web-dl-aac2.k10310887462415) • [🐱 Nyaa](https://nyaa.si/?q=UFPXCKWQH3CRSZHZKTFSVOB2G7O7YR3U) |
-| `[Serenae] Meitantei Precure! - 11 (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-11-1080p-mkv.n2097043) • [🐱 Nyaa](https://nyaa.si/?q=WHAPLQ3ASAPESFVTGSSWFNLY6SCL4UGG) |
-| `[Serenae] Meitantei Precure! - 11 (720p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-11-720p-mkv.n2097042) • [🐱 Nyaa](https://nyaa.si/?q=YMRMOR5SEHJ2NO7OYQRGYAJRQKYPTPFK) |
+| `Rooster Fighter S01E05 The Motley Flock Scatters 1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e05-motley-flock-scatters-1080p-cr.n2097151) • [🐱 Nyaa](https://nyaa.si/?q=WQ5PNC5DWGVQMHGO2IASPHPZA5LSAOQA) |
+| `[Erai-raws] Niwatori Fighter - 05 [480p DSNP WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-05-480p-dsnp-web.n2097147) • [🐱 Nyaa](https://nyaa.si/?q=WRNHUUX4PIEPHKGYPJZKW3LHOMV4E7DL) |
+| `[Erai-raws] Niwatori Fighter - 05 [720p DSNP WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-05-720p-dsnp-web.n2097146) • [🐱 Nyaa](https://nyaa.si/?q=MSDW6ZFJ4Q27MLT7Z476GX7VLZP4B2BQ) |
+| `[Erai-raws] Niwatori Fighter - 05 [1080p DSNP WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-05-1080p-dsnp-web.n2097145) • [🐱 Nyaa](https://nyaa.si/?q=XHJEGHT3ETALORMFROO56CP6UGJDUDD2) |
+| `[Yameii] In the Clear Moonlit Dusk - S01E12 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-clear-moonlit-dusk-s01e12-english-dub-cr.n2097144) • [🐱 Nyaa](https://nyaa.si/?q=RBLCUALZ4Q3I62QCKAH7JAIH65I6P4JO) |
+| `[Yameii] In the Clear Moonlit Dusk - S01E12 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-clear-moonlit-dusk-s01e12-english-dub-cr.n2097143) • [🐱 Nyaa](https://nyaa.si/?q=XDFSWDBDZ3MXKPPMYS27KUIEXLFHTKIW) |
+| `Rooster Fighter S01E05 The Motley Flock Scatters 1080p BI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e05-motley-flock-scatters-1080p-bili.n2097142) • [🐱 Nyaa](https://nyaa.si/?q=DNPNEBPMUKMGUAAICJDJ6HHX4N2NDILE) |
+| `Rooster Fighter S01E05 The Motley Flock Scatters 1080p DS...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e05-motley-flock-scatters-1080p-dsnp.n2097141) • [🐱 Nyaa](https://nyaa.si/?q=5YWCVP56W76Q2GZMXGOXPU4DNYXF46LG) |
+| `In the Clear Moonlit Dusk S01E12 In the Clear Moonlit Dus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/clear-moonlit-dusk-s01e12-1080p-cr-web-dl.n2097140) • [🐱 Nyaa](https://nyaa.si/?q=K4JR7IAKNVYRWFESVA6GJRUKWDQFAJSJ) |
+| `Rooster Fighter S01E05 The Motley Flock Scatters 1080p DS...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e05-motley-flock-scatters-1080p-dsnp.n2097139) • [🐱 Nyaa](https://nyaa.si/?q=GCZUXDCZL6IZNSPAI3LAFZEFNU5FIO4J) |
+| `[ToonsHub] Rooster Fighter S01E05 1080p AMZN WEB-DL DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e05-1080p-amzn-web-dl.k10314594528265) • [🐱 Nyaa](https://nyaa.si/?q=TRNLIER53UGDPG6RZWRACXATECEW6SSP) |
+| `[ToonsHub] Rooster Fighter S01E05 1080p CR WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e05-1080p-cr-web-dl.k10314584113672) • [🐱 Nyaa](https://nyaa.si/?q=422EFHJ4VJJ5MFSYALNFNM5IPHZQ7IIN) |
+| `[SubsPlease] Niwatori Fighter - 05 (1080p) [CFC8BA3B].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-05-1080p-cfc8ba3b-mkv.n2097135) • [🐱 Nyaa](https://nyaa.si/?q=3K5JQ7AVTG3VN5OKXB6J3RO2YRKUBR4A) |
+| `[ToonsHub] In the Clear Moonlit Dusk S01E12 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-clear-moonlit-dusk-s01e12-1080p-cr-web.n2097134) • [🐱 Nyaa](https://nyaa.si/?q=QAHF4UCIVF6QVZOE5G7L56B32BVV4OCI) |
+| `[SubsPlease] Niwatori Fighter - 05 (720p) [A416B595].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-05-720p-a416b595-mkv.n2097133) • [🐱 Nyaa](https://nyaa.si/?q=OAER3XLNRC2KLIHWAYCWSTQ7YDKWOGKU) |
 
 ---
 <div align="center">
