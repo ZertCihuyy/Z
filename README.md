@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.53.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.40.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] One Piece - 1157 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-1080p-cr-webrip.k10326829549062) • [🐱 Nyaa](https://nyaa.si/?q=CVXJPUTURZFSRYLMDLKZKS7RYS3DV3YS) |
+| `[Erai-raws] One Piece - 1157 [720p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-720p-cr-web.k10326794098700) • [🐱 Nyaa](https://nyaa.si/?q=3AB6NEFBEUFZWQVQ3M44FJOMRWG2H2IH) |
+| `[Erai-raws] One Piece - 1157 [480p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-480p-cr-web.k10326794216453) • [🐱 Nyaa](https://nyaa.si/?q=77V7KCSDV4PYJCI5T3M7THGCTJC67DFG) |
+| `[Erai-raws] One Piece - 1157 [1080p CR WEB-DL AVC AAC][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-1080p-cr-web.k10326793849860) • [🐱 Nyaa](https://nyaa.si/?q=OGTLBEZGNCEL7SPPONH6AEKRTU6KN2TI) |
+| `[Inka-Subs] Fight Da!! Pyuta - Episode 25` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/inka-subs-fight-da-pyuta-episode-25.n2097483) • [🐱 Nyaa](https://nyaa.si/?q=5JS2JAWEJ2M2IGZKVH2T2VVBTGJKTN5D) |
 | `Ulysse.31.S01E02.MULTI.Audio.Sub[FRE][JPN][ENG][ITA][SPA]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ulysse-31-s01e02-multi-audio-sub-fre-jpn.n2097480) • [🐱 Nyaa](https://nyaa.si/?q=CDWJEQI6MEOG4ISLJ2HZXDP22QSM52RD) |
 | `[SubsPlease] Eris no Seihai (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-eris-no-seihai-01-12-1080p-batch.n2097476) • [🐱 Nyaa](https://nyaa.si/?q=2ANCF54O3IFR4FO5Y4LK3H2WH5PKFMGT) |
 | `[SubsPlease] Eris no Seihai (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-eris-no-seihai-01-12-720p-batch.n2097475) • [🐱 Nyaa](https://nyaa.si/?q=4LJKW4B4WBMTAUPYG6Y5BIMGQTPKD4FW) |
@@ -38,11 +43,6 @@
 | `[denisplay] Ichijouma Mankitsu Gurashi! - 01 [480p] [AV1]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-ichijouma-mankitsu-gurashi-01-480p-av1.n2097468) • [🐱 Nyaa](https://nyaa.si/?q=U4OJ3L77EGNFQ4L26FMS2URSNCIYRV5Y) |
 | `[SubsPlease] Tamon-kun Ima Docchi (01-13) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tamon-kun-ima-docchi-01-13-1080p-batch.n2097466) • [🐱 Nyaa](https://nyaa.si/?q=M2XIKTFGSZP65VXEH5L4GUAPZLYXISH3) |
 | `[SubsPlease] Tamon-kun Ima Docchi (01-13) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tamon-kun-ima-docchi-01-13-720p-batch.n2097465) • [🐱 Nyaa](https://nyaa.si/?q=DH6FBNWBUJABB7VHJLOIFYUVOPQIH3K6) |
-| `[SubsPlease] Tamon-kun Ima Docchi (01-13) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tamon-kun-ima-docchi-01-13-480p-batch.n2097464) • [🐱 Nyaa](https://nyaa.si/?q=FTYDA5M2LWONXFYAYPDYJKOCC74M6MUC) |
-| `[Anime Time] Hell's Paradise (Jigokuraku) - S02E12 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-s02e12-1080p-hevc.n2097457) • [🐱 Nyaa](https://nyaa.si/?q=6B2RESOIVLMAAP33MKYYJ3C2JI4AILIA) |
-| `[Erai-raws] Digimon Beatbreak - 26 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-26-1080p-cr-webrip.n2097451) • [🐱 Nyaa](https://nyaa.si/?q=POHNAZS2FTRP5IKZRRO3L2LT3OGVEFL2) |
-| `[Erai-raws] Digimon Beatbreak - 26 (REPACK) [480p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-26-repack-480p-cr.n2097450) • [🐱 Nyaa](https://nyaa.si/?q=67ZIJ5NA3UNWA5WNWXB4EGKLVUEOM6U4) |
-| `[Erai-raws] Digimon Beatbreak - 26 (REPACK) [720p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-26-repack-720p-cr.n2097449) • [🐱 Nyaa](https://nyaa.si/?q=ILYN6YHZCFKUHDCZUV4XG6OG6K64GFPL) |
 
 ---
 <div align="center">
