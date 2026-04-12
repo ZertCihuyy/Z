@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.00.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.47.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Needy Girl Overdose - 02 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-needy-girl-overdose-02-1080p-cr.k10306922527749) • [🐱 Nyaa](https://nyaa.si/?q=FR46XP7EAIHYOIRAY2RVCRQ2CCUZYL2U) |
-| `[Erai-raws] Mao - 02 [480p DSNP WEB-DL AVC AAC][MultiSub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-02-480p-dsnp-web-dl.k10306913214724) • [🐱 Nyaa](https://nyaa.si/?q=MTI7YTDF4XICGCKOW5Z33K2UQYLNQEDK) |
-| `[Erai-raws] Mao - 02 [720p DSNP WEB-DL AVC AAC][MultiSub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-02-720p-dsnp-web-dl.k10306912584198) • [🐱 Nyaa](https://nyaa.si/?q=XG4XPFSRDJUDVUW2KOMQAJWVDXYQ3BBP) |
-| `[Erai-raws] Mao - 02 [1080p DSNP WEB-DL AVC AAC][MultiSub...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-02-1080p-dsnp-web-dl.k10306912453890) • [🐱 Nyaa](https://nyaa.si/?q=5LODALFWHYAKJ462J4YX4DVXURAQWGBW) |
-| `[denisplay] Yowayowa Sensei - 01 [1080p] [AV1] (Weekly) (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-yowayowa-sensei-01-1080p-av1-weekly.n2096965) • [🐱 Nyaa](https://nyaa.si/?q=HKCEKZY6FRWWRSABIKQISJ63JBBBIHUG) |
-| `[denisplay] Yowayowa Sensei - 01 [720p] [AV1] (Yowayowa S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-yowayowa-sensei-01-720p-av1-yowayowa-sensei.n2096964) • [🐱 Nyaa](https://nyaa.si/?q=YYZ5P6Q5BPSNZGUTMGB4XENQWSRUOFFQ) |
-| `[denisplay] Yowayowa Sensei - 01 [480p] [AV1] (Yowayowa S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-yowayowa-sensei-01-480p-av1-yowayowa-sensei.n2096963) • [🐱 Nyaa](https://nyaa.si/?q=TKI47GER2UCGGRRQ2USX77C6HBCVGWJR) |
-| `[denisplay] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-saikyou-no-shokugyou-wa-yuusha-demo-kenja.n2096960) • [🐱 Nyaa](https://nyaa.si/?q=PNXL34JN2UWBKF7QONNHJBOCTHO7KNWM) |
-| `[denisplay] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-saikyou-no-shokugyou-wa-yuusha-demo-kenja.n2096959) • [🐱 Nyaa](https://nyaa.si/?q=LMPYZKJ5FLYP4GPQEY7MWKWQPLY66H3U) |
-| `[denisplay] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-saikyou-no-shokugyou-wa-yuusha-demo-kenja.n2096958) • [🐱 Nyaa](https://nyaa.si/?q=VKNYKA52IYNU3YW57Z6W4QHV7U6LC3LF) |
-| `[Feibanyama] Daemons of the Shadow Realm S01E02 [BILIBILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-daemons-shadow-realm-s01e02-bilibili-webrip-2160p.n2096956) • [🐱 Nyaa](https://nyaa.si/?q=TPGDUFXXANYCCWMKCSC7QOATWS4YXUPJ) |
-| `[Erai-raws] Yuusha no Kuzu - 13 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-no-kuzu-13-1080p-cr.k10306313530372) • [🐱 Nyaa](https://nyaa.si/?q=WA7T5H5CPLYBQD2ISJZRNV6FDMXYXLXD) |
-| `[Erai-raws] Yomi no Tsugai - 02 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yomi-no-tsugai-02-1080p-cr.k10306300291585) • [🐱 Nyaa](https://nyaa.si/?q=SXZBQGNQS54ZYTVUYFWKFPIKBP4RLRUY) |
-| `[DKB] Akane-banashi - S01E02 [1080p][HEVC x265 10bit][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-akane-banashi-s01e02-1080p-hevc-x265-10bit.n2096952) • [🐱 Nyaa](https://nyaa.si/?q=KP2VWUT56DXIXY7ZBLWDJZVSHL2IW3FL) |
-| `[Feibanyama] That Time I Got Reincarnated as a Slime S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-time-got-reincarnated-slime-s04e02-iqiyi-webrip.n2096951) • [🐱 Nyaa](https://nyaa.si/?q=O2V6F6ZFKYRNFEGT7KT7UTO2MQ2UKNQQ) |
+| `[Anime Time] Jujutsu Kaisen - Season 3 [1080p][HEVC 10bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-jujutsu-kaisen-season-3-1080p-hevc.n2097041) • [🐱 Nyaa](https://nyaa.si/?q=GZFW5VAB5GGRANMODOWGWATCOW3YB43N) |
+| `[Yameii] Digimon Beatbreak - S01E20 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e20-english-dub-cr-web.n2097037) • [🐱 Nyaa](https://nyaa.si/?q=ANTGAHD4CKILR3SUGNF6DE42AXRVT5QM) |
+| `[Yameii] Digimon Beatbreak - S01E19 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e19-english-dub-cr-web.n2097036) • [🐱 Nyaa](https://nyaa.si/?q=MQSBZA6IUTJWZBFRRHVSYIAYKG7G4IAE) |
+| `[Yameii] Digimon Beatbreak - S01E18 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e18-english-dub-cr-web.n2097035) • [🐱 Nyaa](https://nyaa.si/?q=SDQLOVOB57N2KG2S6YTU63QOYCENDKSY) |
+| `[Yameii] Digimon Beatbreak - S01E17 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e17-english-dub-cr-web.n2097034) • [🐱 Nyaa](https://nyaa.si/?q=OZ5UMZZCINP32ZHFBEUMCOKHXILFW3P2) |
+| `[Yameii] Digimon Beatbreak - S01E16 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e16-english-dub-cr-web.n2097033) • [🐱 Nyaa](https://nyaa.si/?q=XYDTRPF6FZ2OATG7LH7EL45FL2TJXRIL) |
+| `Digimon Beatbreak S01E26 THE TASTE OF GUILT 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e26-taste-guilt-1080p-cr-web.n2097032) • [🐱 Nyaa](https://nyaa.si/?q=UHZ74WT7LWWG5Q4HBRGYZPQVPG623ER3) |
+| `[Yameii] Digimon Beatbreak - S01E20 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e20-english-dub-cr-web.n2097031) • [🐱 Nyaa](https://nyaa.si/?q=6Z5IPBIRPIZZO4HZAWIA37NKUFKXQDKM) |
+| `[Yameii] Digimon Beatbreak - S01E19 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e19-english-dub-cr-web.n2097030) • [🐱 Nyaa](https://nyaa.si/?q=TUTM6GKRW2PQL6B75AP4DVKFWWCJC4TP) |
+| `[Yameii] Digimon Beatbreak - S01E18 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e18-english-dub-cr-web.n2097029) • [🐱 Nyaa](https://nyaa.si/?q=6OZ2G7T6JZLI5ZIW2YW6SFBZMGKFCYPR) |
+| `[Yameii] Digimon Beatbreak - S01E17 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-digimon-beatbreak-s01e17-english-dub-cr-web.n2097028) • [🐱 Nyaa](https://nyaa.si/?q=U2L5SHNNPFXMOKGN3NCVMGEBB6LHUCUJ) |
+| `[SubsPlease] Digimon Beatbreak - 26 (1080p) [10E93FB6].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-26-1080p-10e93fb6-mkv.n2097026) • [🐱 Nyaa](https://nyaa.si/?q=IQJMX42SLAPKDNCKAL52DTO64RMJTIQ4) |
+| `[ToonsHub] Digimon Beatbreak S01E26 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-digimon-beatbreak-s01e26-1080p-cr-web-dl.k10309968008458) • [🐱 Nyaa](https://nyaa.si/?q=ZT2TRBIEPE3Q5XONRYPLXGVV6BWJRAFA) |
+| `[SubsPlease] Digimon Beatbreak - 26 (720p) [CC33C4B8].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-26-720p-cc33c4b8-mkv.n2097024) • [🐱 Nyaa](https://nyaa.si/?q=AM6LMQYVWJMJWNKS4FVF4UZNZCPFXLW7) |
+| `[Erai-raws] Digimon Beatbreak - 26 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-26-480p-cr-web.k10309957872648) • [🐱 Nyaa](https://nyaa.si/?q=ZVFSQJXFUJLQ62M3X2YD3G4MP7NE4HXL) |
 
 ---
 <div align="center">
