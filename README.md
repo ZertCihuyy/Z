@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.10.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.17.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -27,21 +27,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Ikoku Nikki  (Journey with Witch) (Season 01) [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-ikoku-nikki-journey-witch-season-01-1080p.n2097782) • [🐱 Nyaa](https://nyaa.si/?q=MWMNPE67LAGFGLINVAZ2UEDP4MU5CTO6) |
+| `[Judas] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-yuusha-party-ni-kawaii-ko-ga-ita.n2097781) • [🐱 Nyaa](https://nyaa.si/?q=INV6M5Z5ICW4XYCEEKWCEOBFABF4BGMQ) |
+| `[Judas] Osananajimi to wa Lovecome ni Naranai (You Can`t ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-osananajimi-wa-lovecome-ni-naranai-cant-rom.n2097780) • [🐱 Nyaa](https://nyaa.si/?q=PZYG3O6XSN7D3YISGZVMPEXAXL453UDE) |
+| `[Onalrie] Release that Witch - S01E07 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-release-witch-s01e07-1080p-webrip-av1-mkv.2074045) • [🐱 Nyaa](https://nyaa.si/?q=JO2M677RZ4OG2CLCAENRZTLB3RSSTPNE) |
+| `[FLE] The Fragrant Flower Blooms with Dignity - S01 (BD 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fle-fragrant-flower-blooms-dignity-s01-bd-1080p.k10345649629448) • [🐱 Nyaa](https://nyaa.si/?q=BVJETIK4F3CV7BMXSVJ3DFEUWOGC7O4G) |
+| `[ASW] Release that Witch - 07 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-release-witch-07-1080p-hevc-x265-10bit-aac.n2097778) • [🐱 Nyaa](https://nyaa.si/?q=XDMIM5NY24MYJKMCPK7ISVLCF2CMLOC7) |
+| `Batman Ninja Vs Yakuza League 2025 MULTi 1080p AMZN WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/batman-ninja-vs-yakuza-league-2025-multi-1080p.n2097776) • [🐱 Nyaa](https://nyaa.si/?q=64JYDXNHUFP5PKJ4DA3YBPWHCZQD57PB) |
+| `[Cyan] Champignon no Majo - 11 [WEB 1080p x265][AAC][B272...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cyan-champignon-no-majo-11-web-1080p-x265.n2097775) • [🐱 Nyaa](https://nyaa.si/?q=RKL6KDS2DIELTAUQLXQAEDMHN6XOMP2J) |
+| `Batman Ninja Vs Yakuza League 2025 MULTi 1080p AMZN WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/batman-ninja-vs-yakuza-league-2025-multi-1080p.n2097773) • [🐱 Nyaa](https://nyaa.si/?q=FSA5DHXZIDZELMY5ED4KSDVN42K7VIYU) |
+| `[Erai-raws] Liar Game - 02 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-02-1080p-cr-webrip.k10345160874756) • [🐱 Nyaa](https://nyaa.si/?q=257O2OOQLTOJINCTT3AJEMOLYT3PA56Z) |
+| `[Onalrie] LIAR GAME - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-liar-game-s01e02-1080p-webrip-av1-mkv.2074038) • [🐱 Nyaa](https://nyaa.si/?q=N6FMLVWN3WKUOBLMN5KSI3JG2DDJWXFB) |
 | `[ToonsHub] Release that Witch S01E07 1080p CR WEB-DL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-release-witch-s01e07-1080p-cr-web-dl.k10344992554247) • [🐱 Nyaa](https://nyaa.si/?q=HYLABUZOTICQTMT4KM5UFR2IEZFG3YK2) |
 | `[SubsPlease] Release that Witch - 07 (1080p) [F2449635].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-07-1080p-f2449635-mkv.n2097767) • [🐱 Nyaa](https://nyaa.si/?q=2V7QO3HJANJYLQ7DU2VY37YWLXSEQ3PN) |
 | `Release that Witch S01E07 1080p CR WEB-DL AAC2.0 H 264-VA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/release-witch-s01e07-1080p-cr-web-dl-aac2.n2097766) • [🐱 Nyaa](https://nyaa.si/?q=2H6LBZASGX4A45CBVAFEEGQOIEDIYGC3) |
 | `[Judas] Isekai Nonbiri Nouka (Farming Life in Another Wor...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-isekai-nonbiri-nouka-farming-life-another-world.n2097765) • [🐱 Nyaa](https://nyaa.si/?q=MM6ACWVNL7OEYQ74CWQBFESMHUSAUSHF) |
-| `[Erai-raws] Fangkai Nage Nuwu - 07 (CA) [480p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-07-ca-480p.n2097764) • [🐱 Nyaa](https://nyaa.si/?q=EVILNLASLPRSQ4DOFEQCMZ7F72NOX6VF) |
-| `[SubsPlease] Release that Witch - 07 (480p) [1274FEB3].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-07-480p-1274feb3-mkv.n2097762) • [🐱 Nyaa](https://nyaa.si/?q=5S75DY2MTO2ZE4KLYE3534CXA5U5XDJL) |
-| `[SubsPlease] Release that Witch - 07 (720p) [E1E0AFEB].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-07-720p-e1e0afeb-mkv.n2097763) • [🐱 Nyaa](https://nyaa.si/?q=AOMI4NG32MXRKWNMZQKPRMNHT6IHNJDI) |
-| `[Erai-raws] Fangkai Nage Nuwu - 07 (CA) [720p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-07-ca-720p.n2097761) • [🐱 Nyaa](https://nyaa.si/?q=4MPQMG5SKU6P7Q7F3YGH55DSN4VG4MLI) |
-| `[Erai-raws] Fangkai Nage Nuwu - 07 (CA) [1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-07-ca-1080p.n2097760) • [🐱 Nyaa](https://nyaa.si/?q=6WYY3SQW47PWSIQ2ICJLMHM5DPCUJ7ZH) |
-| `[Trix] PonSuka S01E02 [WEBRip 1080p AV1 Opus] (Multi Subs...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-ponsuka-s01e02-webrip-1080p-av1-opus-multi.n2097757) • [🐱 Nyaa](https://nyaa.si/?q=CXIFF7N3OYXTYZKP52VXTGDBEBGCGYM6) |
-| `[pcela] A Silent Voice (2016) (BD 1080p H265 10bit DTS-X ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pcela-silent-voice-2016-bd-1080p-h265-10bit.k10344874528258) • [🐱 Nyaa](https://nyaa.si/?q=E5HKXIQHDRZAS5GHNRYJFVM5UHPESVTY) |
-| `[ToonsHub] Scum of the Brave S01E13 1080p AMZN WEB-DL DDP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-scum-brave-s01e13-1080p-amzn-web-dl.k10344704130566) • [🐱 Nyaa](https://nyaa.si/?q=RX4BJ3J3LPFJPKZAUZN4QPF5ZOYY6SWE) |
-| `[ASW] LIAR GAME - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-liar-game-02-1080p-hevc-x265-10bit-aac.n2097753) • [🐱 Nyaa](https://nyaa.si/?q=FCCETBKLMHMS2Z6EJM7FSV557AK5CJJR) |
-| `[Erai-raws] Tongari Boushi no Atelier - 03 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tongari-boushi-no-atelier-03-1080p.k10344643674373) • [🐱 Nyaa](https://nyaa.si/?q=E5AMZFJZXPEBB6E2MZI5SY6CX3Q7KRFG) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.k10344641214471) • [🐱 Nyaa](https://nyaa.si/?q=S6ABDOJKRL7F2WSUWDICIWWRBXBCTAYE) |
 
 ---
 <div align="center">
