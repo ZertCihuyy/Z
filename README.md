@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.57.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.08.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Naruto - Box 05 Remaster [V2] (BDRip 1080p x265 FLAC Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/naruto-box-05-remaster-v2-bdrip-1080p-x265.n2097591) • [🐱 Nyaa](https://nyaa.si/?q=WXNVLJCLX3IJDX4NK5C2Q5O625K4FHPP) |
 | `[FLE] Re ZERO Starting Life in Another World - S04E01 (WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fle-re-zero-starting-life-another-world-s04e01.k10338037073154) • [🐱 Nyaa](https://nyaa.si/?q=FCTXZG6GCAYNZHZIJZDTWDEWWZBNVW43) |
 | `[ToonsHub] Rooster Fighter S01E05 1080p DSNP WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e05-1080p-dsnp-web-dl.k10336788243202) • [🐱 Nyaa](https://nyaa.si/?q=D4JEUQTFSWDCEBQRLNT6AQPV7HM42L5X) |
 | `You and I Are Polar Opposites S01 1080p CR WEB-DL DUAL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01-1080p-cr-web-dl-dual.n2097570) • [🐱 Nyaa](https://nyaa.si/?q=W6WT22RPIIOZU62T3SBMSP3HCHIXOGID) |
@@ -42,7 +43,6 @@
 | `[J3tto] WIND BREAKER S01 (BD 1080p AV1 Opus) [Dual-Audio,...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/j3tto-wind-breaker-s01-bd-1080p-av1-opus.k10333784095233) • [🐱 Nyaa](https://nyaa.si/?q=EMEU4L5QY344YN7YNRALMHPVJECOLBPF) |
 | `[Judas] Niwatori Fighter (Rooster Fighter) - S01E05 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e05-1080p-hevc-x265.n2097543) • [🐱 Nyaa](https://nyaa.si/?q=HIOKDQHGA3RALCDME26LKI5EISQAGJOX) |
 | `[AI-Raws] 天地無用！劇場版 Tenchi Muyou! Movies BDRip 1080p MKV` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ai-raws-tenchi-muyou-movies-bdrip-1080p-mkv.n2097538) • [🐱 Nyaa](https://nyaa.si/?q=5CHFHNTBGJB3SERLT6G3K6MAH7BIV3PQ) |
-| `Badass Girl 2025 sub [MovingLines][1080p].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/badass-girl-2025-sub-movinglines-1080p-mkv.n2097537) • [🐱 Nyaa](https://nyaa.si/?q=TAFIXMUPOMF4W7HMTIBSZYJ46LGKS24C) |
 
 ---
 <div align="center">
