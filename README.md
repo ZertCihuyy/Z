@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.13.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.57.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FLE] Re ZERO Starting Life in Another World - S04E01 (WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fle-re-zero-starting-life-another-world-s04e01.k10338037073154) • [🐱 Nyaa](https://nyaa.si/?q=FCTXZG6GCAYNZHZIJZDTWDEWWZBNVW43) |
 | `[ToonsHub] Rooster Fighter S01E05 1080p DSNP WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e05-1080p-dsnp-web-dl.k10336788243202) • [🐱 Nyaa](https://nyaa.si/?q=D4JEUQTFSWDCEBQRLNT6AQPV7HM42L5X) |
 | `You and I Are Polar Opposites S01 1080p CR WEB-DL DUAL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01-1080p-cr-web-dl-dual.n2097570) • [🐱 Nyaa](https://nyaa.si/?q=W6WT22RPIIOZU62T3SBMSP3HCHIXOGID) |
 | `The Villainess Is Adored by the Prince of the Neighbor Ki...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/villainess-adored-prince-neighbor-kingdom-s01-1080p-cr.n2097569) • [🐱 Nyaa](https://nyaa.si/?q=GI3CIKE33Q6E7FEPIIO5GOIPQA4N2JGQ) |
@@ -42,7 +43,6 @@
 | `[Judas] Niwatori Fighter (Rooster Fighter) - S01E05 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e05-1080p-hevc-x265.n2097543) • [🐱 Nyaa](https://nyaa.si/?q=HIOKDQHGA3RALCDME26LKI5EISQAGJOX) |
 | `[AI-Raws] 天地無用！劇場版 Tenchi Muyou! Movies BDRip 1080p MKV` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ai-raws-tenchi-muyou-movies-bdrip-1080p-mkv.n2097538) • [🐱 Nyaa](https://nyaa.si/?q=5CHFHNTBGJB3SERLT6G3K6MAH7BIV3PQ) |
 | `Badass Girl 2025 sub [MovingLines][1080p].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/badass-girl-2025-sub-movinglines-1080p-mkv.n2097537) • [🐱 Nyaa](https://nyaa.si/?q=TAFIXMUPOMF4W7HMTIBSZYJ46LGKS24C) |
-| `[Commie] Ace of the Diamond act II ~Second Season~ - 02 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-ace-diamond-act-ii-second-season-02-a2bb0531-mkv.n2097532) • [🐱 Nyaa](https://nyaa.si/?q=CVXNURFYLY2Q5G6Q7WY3WDOPLEOIVW4K) |
 
 ---
 <div align="center">
