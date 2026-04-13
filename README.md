@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.10.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.30.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Niwatori Fighter (Rooster Fighter) - S01E05 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e05-1080p-hevc-x265.n2097543) • [🐱 Nyaa](https://nyaa.si/?q=HIOKDQHGA3RALCDME26LKI5EISQAGJOX) |
+| `[AI-Raws] 天地無用！劇場版 Tenchi Muyou! Movies BDRip 1080p MKV` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ai-raws-tenchi-muyou-movies-bdrip-1080p-mkv.n2097538) • [🐱 Nyaa](https://nyaa.si/?q=5CHFHNTBGJB3SERLT6G3K6MAH7BIV3PQ) |
+| `Badass Girl 2025 sub [MovingLines][1080p].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/badass-girl-2025-sub-movinglines-1080p-mkv.n2097537) • [🐱 Nyaa](https://nyaa.si/?q=TAFIXMUPOMF4W7HMTIBSZYJ46LGKS24C) |
+| `[Commie] Ace of the Diamond act II ~Second Season~ - 02 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-ace-diamond-act-ii-second-season-02-a2bb0531-mkv.n2097532) • [🐱 Nyaa](https://nyaa.si/?q=CVXNURFYLY2Q5G6Q7WY3WDOPLEOIVW4K) |
+| `[Seigyoku] Mahou no Shimai LuluttoLilly - 02 (WEB 1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/seigyoku-mahou-no-shimai-luluttolilly-02-web-1080p-9e1ab1e6.n2097530) • [🐱 Nyaa](https://nyaa.si/?q=IJHR4WWG5EPWG33MOOX6KYJBAWXH2PSS) |
+| `[Erai-raws] Meitantei Precure - 11 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-11-1080p-cr-webrip.k10330734128133) • [🐱 Nyaa](https://nyaa.si/?q=PAVZRJPS6XGLIO247HH4HJCQKS42M6JF) |
+| `[ToonsHub] Star Detective Precure S01E11 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e11-1080p-cr-web.n2097519) • [🐱 Nyaa](https://nyaa.si/?q=JDQAKZTRXOYLOINSR2672AL7DMTIH4NT) |
+| `[Erai-raws] Meitantei Precure - 11 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-11-480p-cr-web.n2097518) • [🐱 Nyaa](https://nyaa.si/?q=AGVYOLL6DPC5B2D4XUTEI3HKWMQMNUZW) |
+| `[Erai-raws] Meitantei Precure - 11 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-11-1080p-cr-web.n2097517) • [🐱 Nyaa](https://nyaa.si/?q=IE3CZLWRCVU3BTA3IZK6IW2C3OGYHS7T) |
+| `[Erai-raws] Meitantei Precure - 11 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-11-720p-cr-web.n2097516) • [🐱 Nyaa](https://nyaa.si/?q=QUGJFJIP7IZFKNRSYD7JBYHIDFC7NEWB) |
+| `[DKB] Yozakura-san Chi no Daisakusen - S02E01 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-yozakura-san-chi-no-daisakusen-s02e01-1080p.n2097515) • [🐱 Nyaa](https://nyaa.si/?q=335ZLXVFOHUTC3DYI4XIGSA6FOZSICQD) |
+| `[DKB] Digimon Beatbreak - S01E26 [1080p][HEVC x265 10bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-digimon-beatbreak-s01e26-1080p-hevc-x265-10bit.n2097514) • [🐱 Nyaa](https://nyaa.si/?q=YCFJTLOKWSJOXLFH6K2SC6GTSYCJIHLH) |
+| `[DKB] Digimon Beatbreak - S01E25 [1080p][HEVC x265 10bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-digimon-beatbreak-s01e25-1080p-hevc-x265-10bit.n2097513) • [🐱 Nyaa](https://nyaa.si/?q=FJRZSSC6UFBGQ7DLCZBUAINIMZJ2OCRK) |
 | `شیشہ گر.The.Glassworker.2024.Movie.BDRip.4K.UHD.2160p.x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/glassworker-2024-movie-bdrip-4k-uhd-2160p-x265-dts.n2097509) • [🐱 Nyaa](https://nyaa.si/?q=WNT7OQ375CC4HFIF4LFRXNWVGIYKSBMH) |
 | `[Anime Time] Hell's Paradise (Jigokuraku) (Season 2) [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-hells-paradise-jigokuraku-season-2-1080p.n2097504) • [🐱 Nyaa](https://nyaa.si/?q=5XUGMBFCYHTI3K553B4YZ27DLNAPW4ES) |
-| `[nnotaclue] Dr. STONE - S04E26 [1080p AV1 Opus 2.0 Multi-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e26-1080p-av1-opus-2.k10327448231172) • [🐱 Nyaa](https://nyaa.si/?q=WCNHNU3BR5CNK2MFO5NADHAU2E547KCU) |
-| `[Erai-raws] One Piece - 1157 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-1080p-cr-webrip.k10326829549062) • [🐱 Nyaa](https://nyaa.si/?q=CVXJPUTURZFSRYLMDLKZKS7RYS3DV3YS) |
-| `[Erai-raws] One Piece - 1157 [720p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-720p-cr-web.k10326794098700) • [🐱 Nyaa](https://nyaa.si/?q=3AB6NEFBEUFZWQVQ3M44FJOMRWG2H2IH) |
-| `[Erai-raws] One Piece - 1157 [480p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-480p-cr-web.k10326794216453) • [🐱 Nyaa](https://nyaa.si/?q=77V7KCSDV4PYJCI5T3M7THGCTJC67DFG) |
-| `[Erai-raws] One Piece - 1157 [1080p CR WEB-DL AVC AAC][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1157-1080p-cr-web.k10326793849860) • [🐱 Nyaa](https://nyaa.si/?q=OGTLBEZGNCEL7SPPONH6AEKRTU6KN2TI) |
-| `[Inka-Subs] Fight Da!! Pyuta - Episode 25` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/inka-subs-fight-da-pyuta-episode-25.n2097483) • [🐱 Nyaa](https://nyaa.si/?q=5JS2JAWEJ2M2IGZKVH2T2VVBTGJKTN5D) |
-| `Ulysse.31.S01E02.MULTI.Audio.Sub[FRE][JPN][ENG][ITA][SPA]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ulysse-31-s01e02-multi-audio-sub-fre-jpn.n2097480) • [🐱 Nyaa](https://nyaa.si/?q=CDWJEQI6MEOG4ISLJ2HZXDP22QSM52RD) |
-| `[SubsPlease] Eris no Seihai (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-eris-no-seihai-01-12-1080p-batch.n2097476) • [🐱 Nyaa](https://nyaa.si/?q=2ANCF54O3IFR4FO5Y4LK3H2WH5PKFMGT) |
-| `[SubsPlease] Eris no Seihai (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-eris-no-seihai-01-12-720p-batch.n2097475) • [🐱 Nyaa](https://nyaa.si/?q=4LJKW4B4WBMTAUPYG6Y5BIMGQTPKD4FW) |
-| `[SubsPlease] Eris no Seihai (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-eris-no-seihai-01-12-480p-batch.n2097474) • [🐱 Nyaa](https://nyaa.si/?q=3WAPSA6NKYJZ4HCBH6CUSDG4P6VQFZQM) |
-| `Digimon Beatbreak S01E26 THE TASTE OF GUILT REPACK 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e26-taste-guilt-repack-1080p-cr.n2097473) • [🐱 Nyaa](https://nyaa.si/?q=3ZE55G2VPXZ3LHOIZRBX4DHWIZV2QXQB) |
-| `[denisplay] Ichijouma Mankitsu Gurashi! - 01 [1080p] [AV1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-ichijouma-mankitsu-gurashi-01-1080p-av1-weekly.n2097470) • [🐱 Nyaa](https://nyaa.si/?q=EWXUQCRKPYH25VWVMSY6B4JKD3KEEXSD) |
-| `[denisplay] Ichijouma Mankitsu Gurashi! - 01 [720p] [AV1]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-ichijouma-mankitsu-gurashi-01-720p-av1.n2097469) • [🐱 Nyaa](https://nyaa.si/?q=JB65MITI3GXNQJ5K2DOUERGYNZBBLIKJ) |
 
 ---
 <div align="center">
