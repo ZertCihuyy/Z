@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.03.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.13.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Rooster Fighter S01E05 1080p DSNP WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e05-1080p-dsnp-web-dl.k10336788243202) • [🐱 Nyaa](https://nyaa.si/?q=D4JEUQTFSWDCEBQRLNT6AQPV7HM42L5X) |
+| `You and I Are Polar Opposites S01 1080p CR WEB-DL DUAL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01-1080p-cr-web-dl-dual.n2097570) • [🐱 Nyaa](https://nyaa.si/?q=W6WT22RPIIOZU62T3SBMSP3HCHIXOGID) |
+| `The Villainess Is Adored by the Prince of the Neighbor Ki...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/villainess-adored-prince-neighbor-kingdom-s01-1080p-cr.n2097569) • [🐱 Nyaa](https://nyaa.si/?q=GI3CIKE33Q6E7FEPIIO5GOIPQA4N2JGQ) |
+| `Hells Paradise S02 1080p CR WEB-DL DUAL AAC2.0 H 264-VARY...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02-1080p-cr-web-dl-dual.n2097568) • [🐱 Nyaa](https://nyaa.si/?q=YDSWSUOHWH35BMF5T3MAWHKY6KDTWDDL) |
+| `[Sokudo] JUJUTSU KAISEN S03 [1080p AV1][Dual Audio]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-jujutsu-kaisen-s03-1080p-av1-dual-audio.n2097556) • [🐱 Nyaa](https://nyaa.si/?q=NUTWWNQYVP6NJEZNKJR3UY35EUNINQ6O) |
 | `[Breeze] JUJUTSU KAISEN S03 [1080p AV1][Dual Audio]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-jujutsu-kaisen-s03-1080p-av1-dual-audio.n2097555) • [🐱 Nyaa](https://nyaa.si/?q=L46KB654IF3GYWLMGZYGAIDGOT4TGD4M) |
 | `[denisplay] Kuroneko to Majo no Kyoushitsu - 01 [1080p] [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-kuroneko-majo-no-kyoushitsu-01-1080p-av1.n2097554) • [🐱 Nyaa](https://nyaa.si/?q=MTWQJ5DDRDXQH7RACB4NNFA6QWOZGRVZ) |
 | `[denisplay] Kuroneko to Majo no Kyoushitsu - 01 [720p] [A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-kuroneko-majo-no-kyoushitsu-01-720p-av1.n2097553) • [🐱 Nyaa](https://nyaa.si/?q=OSAK3MNJGPRMWG3F33NX37R67DDCIHDJ) |
@@ -38,11 +43,6 @@
 | `[AI-Raws] 天地無用！劇場版 Tenchi Muyou! Movies BDRip 1080p MKV` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ai-raws-tenchi-muyou-movies-bdrip-1080p-mkv.n2097538) • [🐱 Nyaa](https://nyaa.si/?q=5CHFHNTBGJB3SERLT6G3K6MAH7BIV3PQ) |
 | `Badass Girl 2025 sub [MovingLines][1080p].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/badass-girl-2025-sub-movinglines-1080p-mkv.n2097537) • [🐱 Nyaa](https://nyaa.si/?q=TAFIXMUPOMF4W7HMTIBSZYJ46LGKS24C) |
 | `[Commie] Ace of the Diamond act II ~Second Season~ - 02 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-ace-diamond-act-ii-second-season-02-a2bb0531-mkv.n2097532) • [🐱 Nyaa](https://nyaa.si/?q=CVXNURFYLY2Q5G6Q7WY3WDOPLEOIVW4K) |
-| `[Seigyoku] Mahou no Shimai LuluttoLilly - 02 (WEB 1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/seigyoku-mahou-no-shimai-luluttolilly-02-web-1080p-9e1ab1e6.n2097530) • [🐱 Nyaa](https://nyaa.si/?q=IJHR4WWG5EPWG33MOOX6KYJBAWXH2PSS) |
-| `[Erai-raws] Meitantei Precure - 11 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-11-1080p-cr-webrip.k10330734128133) • [🐱 Nyaa](https://nyaa.si/?q=PAVZRJPS6XGLIO247HH4HJCQKS42M6JF) |
-| `[ToonsHub] Star Detective Precure S01E11 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e11-1080p-cr-web.n2097519) • [🐱 Nyaa](https://nyaa.si/?q=JDQAKZTRXOYLOINSR2672AL7DMTIH4NT) |
-| `[Erai-raws] Meitantei Precure - 11 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-11-480p-cr-web.n2097518) • [🐱 Nyaa](https://nyaa.si/?q=AGVYOLL6DPC5B2D4XUTEI3HKWMQMNUZW) |
-| `[Erai-raws] Meitantei Precure - 11 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-11-1080p-cr-web.n2097517) • [🐱 Nyaa](https://nyaa.si/?q=IE3CZLWRCVU3BTA3IZK6IW2C3OGYHS7T) |
 
 ---
 <div align="center">
