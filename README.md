@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.42.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.36.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,8 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E01 (W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sgt-botan-kamiina-fully-blossoms-when-drunk-s01e01.n2098211) • [🐱 Nyaa](https://nyaa.si/?q=I5AYMF2AHZYZBM4ONB5I25G5HN6IBNKT) |
+| `[Erai-raws] Tadaima Ojamasaremasu - 02 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-02-1080p-cr-webrip.n2098206) • [🐱 Nyaa](https://nyaa.si/?q=FBIOR5K3OLQRZSZ6NPHETSVAB5TXI7KV) |
 | `[LG] Fate Kaleid Liner Prisma Illya (2013) S01 (BD 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lg-fate-kaleid-liner-prisma-illya-2013-s01.k10369282844933) • [🐱 Nyaa](https://nyaa.si/?q=RKLCVWSVIKSXDYMY3OFF4MJNYZE67DPU) |
-| `[Gecko] LINK CLICK - S00E22 ([Gecko] LINK CLICK - S00E22 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-link-click-s00e22-mini-link-click-episode.n2098202) • [🐱 Nyaa](https://nyaa.si/?q=X4CDVUO2MLQ3DWQIF4XMDEZK74RRV5X6) |
+| `[Gecko] LINK CLICK - S00E22 - Mini Link Click Episode 2 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-link-click-s00e22-mini-link-click-episode.n2098202) • [🐱 Nyaa](https://nyaa.si/?q=X4CDVUO2MLQ3DWQIF4XMDEZK74RRV5X6) |
 | `[Gecko] LINK CLICK - S00E21 - Mini Link Click Episode 1 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-link-click-s00e21-mini-link-click-episode.n2098201) • [🐱 Nyaa](https://nyaa.si/?q=WWRKD74FB7DGTSCUHAMGRMTTBPEIY2AM) |
 | `[Erai-raws] Hidarikiki no Eren - 02 [1080p CR WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-02-1080p-cr.k10369053569028) • [🐱 Nyaa](https://nyaa.si/?q=GF37GU4UFQDVXDBZUCS4YXEVPCIHHATC) |
 | `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Or...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-megami-isekai-tensei-nani-ni-naritai-desu.n2098198) • [🐱 Nyaa](https://nyaa.si/?q=AW25NV4RTW2PQLBE5HNN4TXNNQNWW7YN) |
@@ -41,8 +43,6 @@
 | `[Mangamannn] Queen Millennia 1982 - 000 (480i DVD).txt` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-queen-millennia-1982-000-480i-dvd-txt.k10368444228877) • [🐱 Nyaa](https://nyaa.si/?q=HEEVHP3BYIML6ACT4KUPUV6O4JER4MWM) |
 | `[Onalrie] Tadaima, Ojamasaremasu! - S01E02 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tadaima-ojamasaremasu-s01e02-1080p-webrip-av1-mkv.2074234) • [🐱 Nyaa](https://nyaa.si/?q=VI2224ENILAF7TUKFG2TG47PKXTPFUJ3) |
 | `[Erai-raws] Marriagetoxin - 02 [1080p CR WEBRip HEVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-marriagetoxin-02-1080p-cr-webrip-hevc.n2098184) • [🐱 Nyaa](https://nyaa.si/?q=FJQAE5IPKVXJNCG46V47LSPUJTXCKMW3) |
-| `My Ribdiculous Reincarnation S01E02 Hermit Crab-Right Doo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/my-ribdiculous-reincarnation-s01e02-hermit-crab-right-door.n2098183) • [🐱 Nyaa](https://nyaa.si/?q=57TVGBE6DTQLSVFODBYHQDOIIEO2FW22) |
-| `[ASW] Tadaima, Ojamasaremasu! - 02 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tadaima-ojamasaremasu-02-1080p-hevc-x265-10bit-aac.n2098181) • [🐱 Nyaa](https://nyaa.si/?q=4ILWXHLPENF4PHNRL7HLSHZHTRLW2BLV) |
 
 ---
 <div align="center">
