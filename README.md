@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.04.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.00.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -27,6 +27,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Medalist S02E08 1080p DSNP WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-medalist-s02e08-1080p-dsnp-web-dl-dual.n2097843) • [🐱 Nyaa](https://nyaa.si/?q=24LBQUBRBZUKGGEBHV5O3CUF7NEDJ4OY) |
 | `[BlackRabbit] Future Boy Conan (1978) - S01 v2 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-future-boy-conan-1978-s01-v2-bluray.k10350466149381) • [🐱 Nyaa](https://nyaa.si/?q=VJ3BWCPKV3MRMCURRABFZHLH252D5MUB) |
 | `[Judas] Liar Game - S01E02 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e02-1080p-hevc-x265-10bit.n2097839) • [🐱 Nyaa](https://nyaa.si/?q=OU4GKND2KYRXEXHHULKT6QHSU5ER5UZU) |
 | `[ZG] Doraemon Movie 44 - Nobita's Art World Tales (2025) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/zg-doraemon-movie-44-nobitas-art-world-tales.n2097836) • [🐱 Nyaa](https://nyaa.si/?q=3GHVR5DMXJEX3AJPYX6EAQ7NF432ZN4D) |
@@ -41,7 +42,6 @@
 | `[BlackRabbit] Blood+ (2005) - S01 [Bluray-720p][Opus 2.0]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blood-2005-s01-bluray-720p-opus-2-0-av1.k10348951898634) • [🐱 Nyaa](https://nyaa.si/?q=524IQV7BJRS5T7LSQCYXSRHDOFH7ECRM) |
 | `[Mangamannn] DNA Sights 999.9  1998 - 000 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-dna-sights-999-9-1998-000-480i-dvd.k10348914673927) • [🐱 Nyaa](https://nyaa.si/?q=GWGX4NCQON3ULU3MDEWOUXNXMS3XTT6W) |
 | `[R-Archive] My Son Goku ぼくの孫悟空 Boku no Son Goku 1080p WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/r-archive-my-son-goku-boku-no-1080p.n2097826) • [🐱 Nyaa](https://nyaa.si/?q=4SDBTTG3WTDPYTLYATG5GMA2DYWLVVS2) |
-| `[HatSubs] One Piece 1157 (WEB 1080p) [4FF3E4E0].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-1157-web-1080p-4ff3e4e0-mkv.n2097825) • [🐱 Nyaa](https://nyaa.si/?q=Y5IZRCNFRKVVSQIIWXMPLP2337H4QU66) |
 
 ---
 <div align="center">
