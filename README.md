@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.00.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.14.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -27,21 +27,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Medalist S02E08 Hot Passion 1080p DSNP WEB-DL DUAL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/medalist-s02e08-hot-passion-1080p-dsnp-web-dl.n2097940) • [🐱 Nyaa](https://nyaa.si/?q=L4KS3ST6QP6TMUBBQ5DDDH63WTCR2UB5) |
-| `KissXSis.S00.1080p.BluRay.Opus2.0.x265-Headpatter` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kissxsis-s00-1080p-bluray-opus2-0-x265-headpatter.k10361479128591) • [🐱 Nyaa](https://nyaa.si/?q=XJV45BHUFKZCRAXXJ2EEHA5ODS3RFIIV) |
-| `[ace] Haibane Renmei - 01v2 (DVD 480p HEVC FLAC).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-haibane-renmei-01v2-dvd-480p-hevc-flac-mkv.k10359825136641) • [🐱 Nyaa](https://nyaa.si/?q=OF4KT7P2NZ4NFPVWI4RPNNPWC6NKEPWL) |
-| `[LbE3L] Daemons of the Shadow Realm S01E02 (Yomi no Tsuga...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-daemons-shadow-realm-s01e02-yomi-no-tsugai.k10358164028167) • [🐱 Nyaa](https://nyaa.si/?q=4PZDQGUKWCCBLOUGC7R7IRSURMD37ZEK) |
-| `[LbE3L] [H.266] Daemons of the Shadow Realm S01E02 (Yomi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-daemons-shadow-realm-s01e02-yomi.k10358120281354) • [🐱 Nyaa](https://nyaa.si/?q=52BO6B3ITHYZ7H3XY5SGXJOQEQTQUQTM) |
-| `ALL YOU NEED IS KILL 2025 1080p AMZN WEB-DL DUAL DDP5.1 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/all-need-kill-2025-1080p-amzn-web-dl.n2097921) • [🐱 Nyaa](https://nyaa.si/?q=VAGP6AGXJB6A6AVEYSMVXXLUZCIO5222) |
-| `ALL YOU NEED IS KILL 2025 720p AMZN WEB-DL DUAL DDP5.1 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/all-need-kill-2025-720p-amzn-web-dl.n2097920) • [🐱 Nyaa](https://nyaa.si/?q=B3DYFKKJIPXAH6WPAQOO63QMCNDEZFOE) |
-| `Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches Rec...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-recap.n2097913) • [🐱 Nyaa](https://nyaa.si/?q=2R72XMKCMF5VWTXUJE6XKMNYSYF3G3PI) |
-| `[Reza] Witch Hat Atelier - S01E03 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e03-webrip-aac-1080p.n2097893) • [🐱 Nyaa](https://nyaa.si/?q=3GHEP6P2PJS2447BPT2MWNXEG4VBGS4W) |
-| `Medalist S02E08 Hot Passion 1080p DSNP WEB-DL MULTi AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/medalist-s02e08-hot-passion-1080p-dsnp-web-dl.n2097845) • [🐱 Nyaa](https://nyaa.si/?q=4CGK26QP3XNYVVKDFOHZZD2W6JGTVCUP) |
-| `El Hazard-The Magnificent World Ep.1 BD-Remux` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/el-hazard-magnificent-world-ep-1-bd-remux.n2097844) • [🐱 Nyaa](https://nyaa.si/?q=WMU5YBEAWP74XQNTH5U2XQURL2RERPCP) |
-| `[ToonsHub] Medalist S02E08 1080p DSNP WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-medalist-s02e08-1080p-dsnp-web-dl-dual.n2097843) • [🐱 Nyaa](https://nyaa.si/?q=24LBQUBRBZUKGGEBHV5O3CUF7NEDJ4OY) |
-| `[BlackRabbit] Future Boy Conan (1978) - S01 v2 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-future-boy-conan-1978-s01-v2-bluray.k10350466149381) • [🐱 Nyaa](https://nyaa.si/?q=VJ3BWCPKV3MRMCURRABFZHLH252D5MUB) |
-| `[Judas] Liar Game - S01E02 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e02-1080p-hevc-x265-10bit.n2097839) • [🐱 Nyaa](https://nyaa.si/?q=OU4GKND2KYRXEXHHULKT6QHSU5ER5UZU) |
-| `[ZG] Doraemon Movie 44 - Nobita's Art World Tales (2025) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/zg-doraemon-movie-44-nobitas-art-world-tales.n2097836) • [🐱 Nyaa](https://nyaa.si/?q=3GHVR5DMXJEX3AJPYX6EAQ7NF432ZN4D) |
+| `[Hentai] Ingoku Danchi - 02 (WEB 1080p AAC2.0 H.264) (Unc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hentai-ingoku-danchi-02-web-1080p-aac2-0.n2098004) • [🐱 Nyaa](https://nyaa.si/?q=2DSR4NON62MAPD4EKYN4QRVBEMDJN2FR) |
+| `[CicakRumah] Koupen-chan - S01E53 (コウペンちゃん; Koupen Chan) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cicakrumah-koupen-chan-s01e53-chan-amzn-web-dl.n2098003) • [🐱 Nyaa](https://nyaa.si/?q=MIU7OQS2LGKUFPXGV25HAUFSXV4Q3RER) |
+| `[SubsPlus+] Lastame - S02E02 (ADN WEB-DL 1080p AVC AAC) |...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-lastame-s02e02-adn-web-dl-1080p-avc.n2098002) • [🐱 Nyaa](https://nyaa.si/?q=A3SMBVLOCV56TRF4VUJ57UM55NELC6ZX) |
+| `The Most Heretical Last Boss Queen From Villainess to Sav...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/most-heretical-last-boss-queen-from-villainess-savior.n2098001) • [🐱 Nyaa](https://nyaa.si/?q=BZL6MEHFQPK7DSFI4X5GCRUITKAWM7KD) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2098000) • [🐱 Nyaa](https://nyaa.si/?q=Y3QOF7CAPNDQFHBNTCXVH32LKREYA5CK) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2097999) • [🐱 Nyaa](https://nyaa.si/?q=UMWMXJUOE3ZKQDN5CAONF627DGCCSLRP) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.n2097998) • [🐱 Nyaa](https://nyaa.si/?q=YVK6VVGQ66QKNFYLAJUQIXROTNNPUVXA) |
+| `[ToonsHub] The Most Heretical Last Boss Queen From Villai...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-most-heretical-last-boss-queen-from-villainess.n2097997) • [🐱 Nyaa](https://nyaa.si/?q=SXSFHCLDPBQIDBHHTKBWB5UIQ4HJ7UIR) |
+| `[SubsPlease] LasTame S2 - 02 (1080p) [D898CB39].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-02-1080p-d898cb39-mkv.n2097996) • [🐱 Nyaa](https://nyaa.si/?q=4AHRSUHP4KR5OKPKMSAFCF6F7JQUE65S) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10363900932107) • [🐱 Nyaa](https://nyaa.si/?q=2FKPLO7MMXOPCDB4OB6LBZB3TTGFBS3I) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10363898852105) • [🐱 Nyaa](https://nyaa.si/?q=I5RIWXK6JDQYAQQRCSKQZSMUREBSHM4P) |
+| `[ToonsHub] The Most Heretical Last Boss Queen From Villai...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-most-heretical-last-boss-queen-from-villainess.k10363898074632) • [🐱 Nyaa](https://nyaa.si/?q=ASDI2YY54PL5436ORHZFY4IKBIZZEG2C) |
+| `[SubsPlease] LasTame S2 - 02 (720p) [98F55092].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-02-720p-98f55092-mkv.n2097994) • [🐱 Nyaa](https://nyaa.si/?q=QWL3TIRYRS2HML6SL4JZ5YNUCZ6LSRGT) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10363896705543) • [🐱 Nyaa](https://nyaa.si/?q=ZABGNQVH4SECUQUAU6G624WKZDBJYT5A) |
+| `[SubsPlease] LasTame S2 - 02 (480p) [92BF951E].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-02-480p-92bf951e-mkv.n2097993) • [🐱 Nyaa](https://nyaa.si/?q=32JWAWFSQW6LCVKWSRZITUK3LLOMA6Q2) |
 
 ---
 <div align="center">
