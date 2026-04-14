@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.43.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.52.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -27,6 +27,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Reza] Witch Hat Atelier - S01E03 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e03-webrip-aac-1080p.n2097893) • [🐱 Nyaa](https://nyaa.si/?q=3GHEP6P2PJS2447BPT2MWNXEG4VBGS4W) |
+| `Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches Rec...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-recap.n2097891) • [🐱 Nyaa](https://nyaa.si/?q=FK7NN7DZQPTUPK6BYUPUGTOHVOZVY3WA) |
 | `Medalist S02E08 Hot Passion 1080p DSNP WEB-DL MULTi AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/medalist-s02e08-hot-passion-1080p-dsnp-web-dl.n2097845) • [🐱 Nyaa](https://nyaa.si/?q=4CGK26QP3XNYVVKDFOHZZD2W6JGTVCUP) |
 | `El Hazard-The Magnificent World Ep.1 BD-Remux` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/el-hazard-magnificent-world-ep-1-bd-remux.n2097844) • [🐱 Nyaa](https://nyaa.si/?q=WMU5YBEAWP74XQNTH5U2XQURL2RERPCP) |
 | `[ToonsHub] Medalist S02E08 1080p DSNP WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-medalist-s02e08-1080p-dsnp-web-dl-dual.n2097843) • [🐱 Nyaa](https://nyaa.si/?q=24LBQUBRBZUKGGEBHV5O3CUF7NEDJ4OY) |
@@ -40,8 +42,6 @@
 | `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2097830) • [🐱 Nyaa](https://nyaa.si/?q=55OK3Z53FI2HUV576THLKV23E3AHLGR7) |
 | `[BlackRabbit] Blood+ (2005) - S04 [Bluray-720p][Opus 2.0]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blood-2005-s04-bluray-720p-opus-2-0-av1.k10349097157391) • [🐱 Nyaa](https://nyaa.si/?q=QBMHC47S2YG7EEBBPZTYCOILQT3ZMDTB) |
 | `[BlackRabbit] Blood+ (2005) - S03 [Bluray-720p][Opus 2.0]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blood-2005-s03-bluray-720p-opus-2-0-av1.k10349019423245) • [🐱 Nyaa](https://nyaa.si/?q=5A2WXG6WN67CZILD7EJMBVWNVVBIG76N) |
-| `[BlackRabbit] Blood+ (2005) - S02 [Bluray-720p][Opus 2.0]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blood-2005-s02-bluray-720p-opus-2-0-av1.k10348986273027) • [🐱 Nyaa](https://nyaa.si/?q=QWVM67C2KRVB63QNSHOCRJNWZGD74MI3) |
-| `[BlackRabbit] Blood+ (2005) - S01 [Bluray-720p][Opus 2.0]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-blood-2005-s01-bluray-720p-opus-2-0-av1.k10348951898634) • [🐱 Nyaa](https://nyaa.si/?q=524IQV7BJRS5T7LSQCYXSRHDOFH7ECRM) |
 
 ---
 <div align="center">
