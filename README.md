@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.31.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.29.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Feibanyama] One Piece EP1157 [IQIYI WebRip 2160p HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-one-piece-ep1157-iqiyi-webrip-2160p-hevc.n2098239) • [🐱 Nyaa](https://nyaa.si/?q=LFJX6FQTYIAVQ7ELCT53ASKBMJITMUOG) |
+| `Actors: Songs Connection [Season 1] (BD 1080p Dual Audio)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/actors-songs-connection-season-1-bd-1080p-dual-audio-av1.k10372420141058) • [🐱 Nyaa](https://nyaa.si/?q=NAXLA6MPOM3RVKTW7BIYDVVSVSVNNCZK) |
 | `[SubsPlease] Hell Mode (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-01-12-1080p-batch.n2098235) • [🐱 Nyaa](https://nyaa.si/?q=CG4NPHBTLQNGL3ADWNNJYWZ2IPEQ5W25) |
 | `[SubsPlease] Hell Mode (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-01-12-720p-batch.n2098234) • [🐱 Nyaa](https://nyaa.si/?q=VYOPYS7LPJV4IUR6V7YMXJXVEMBVYNRB) |
 | `[SubsPlease] Hell Mode (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-01-12-480p-batch.n2098233) • [🐱 Nyaa](https://nyaa.si/?q=NZXMCJOYKDJVH53VECXJSQLTB6JLGAQ5) |
@@ -41,8 +43,6 @@
 | `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.n2098217) • [🐱 Nyaa](https://nyaa.si/?q=VMZF4QGUE3MZCSBJKCMGXQRTJ7I4DIHF) |
 | `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.k10370876195591) • [🐱 Nyaa](https://nyaa.si/?q=MIMC5U645KUS5MM2JIBPXCH5SFLRUQHL) |
 | `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E01 (W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sgt-botan-kamiina-fully-blossoms-when-drunk-s01e01.n2098211) • [🐱 Nyaa](https://nyaa.si/?q=I5AYMF2AHZYZBM4ONB5I25G5HN6IBNKT) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 02 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-02-1080p-cr-webrip.n2098206) • [🐱 Nyaa](https://nyaa.si/?q=FBIOR5K3OLQRZSZ6NPHETSVAB5TXI7KV) |
-| `[LG] Fate Kaleid Liner Prisma Illya (2013) S01 (BD 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lg-fate-kaleid-liner-prisma-illya-2013-s01.k10369282844933) • [🐱 Nyaa](https://nyaa.si/?q=RKLCVWSVIKSXDYMY3OFF4MJNYZE67DPU) |
 
 ---
 <div align="center">
