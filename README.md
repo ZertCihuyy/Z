@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.49.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.08.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,39 +9,40 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Selasa**
+### 📅 Jadwal Rilis Hari Ini: **Rabu**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `07:30` | **[Origami Ninja Koyankinte](https://myanimelist.net/anime/41458/Origami_Ninja_Koyankinte)** | *Comedy* |
-| `18:45` | **[Fushigi Dagashiya: Zenitendou](https://myanimelist.net/anime/42295/Fushigi_Dagashiya__Zenitendou)** | *Mystery* |
-| `21:55` | **[Hyakki Yakoushou](https://myanimelist.net/anime/63469/Hyakki_Yakoushou)** | *Horror, Mystery, Romance, Supernatural* |
-| `23:30` | **[Replica datte, Koi wo Suru.](https://myanimelist.net/anime/61013/Replica_datte_Koi_wo_Suru)** | *Drama, Romance, Supernatural* |
-| `22:00` | **[Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2](https://myanimelist.net/anime/61931/Higeki_no_Genkyou_to_Naru_Saikyou_Gedou_Last_Boss_Joou_wa_Tami_no_Tame_ni_Tsukushimasu_Season_2)** | *Fantasy* |
-| `00:00` | **[Nippon Sangoku](https://myanimelist.net/anime/63375/Nippon_Sangoku)** | *Drama* |
-| `00:00` | **[Liar Game](https://myanimelist.net/anime/62331/Liar_Game)** | *Drama, Suspense* |
-| `23:00` | **[Marriagetoxin](https://myanimelist.net/anime/62601/Marriagetoxin)** | *Action* |
-| `23:30` | **[Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://myanimelist.net/anime/56734/Class_de_2-banme_ni_Kawaii_Onnanoko_to_Tomodachi_ni_Natta)** | *Romance* |
+| `07:05` | **[Chibi Godzilla no Gyakushuu 3rd Season](https://myanimelist.net/anime/61765/Chibi_Godzilla_no_Gyakushuu_3rd_Season)** | *Fantasy* |
+| `21:55` | **[Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou)** | *Action, Fantasy* |
+| `21:55` | **[Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou)** | *Action, Fantasy* |
+| `01:29` | **[Tadaima, Ojamasaremasu!](https://myanimelist.net/anime/63014/Tadaima_Ojamasaremasu)** | *Comedy, Romance* |
+| `01:59` | **[Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://myanimelist.net/anime/63376/Megami_Isekai_Tensei_Nani_ni_Naritai_desu_ka_Ore_Yuusha_no_Rokkotsu_de)** | *Comedy, Fantasy* |
+| `01:59` | **[Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://myanimelist.net/anime/63376/Megami_Isekai_Tensei_Nani_ni_Naritai_desu_ka_Ore_Yuusha_no_Rokkotsu_de)** | *Comedy, Fantasy* |
+| `00:00` | **[Hidarikiki no Eren](https://myanimelist.net/anime/53732/Hidarikiki_no_Eren)** | *Drama* |
+| `22:00` | **[Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season](https://myanimelist.net/anime/62512/Jidou_Hanbaiki_ni_Umarekawatta_Ore_wa_Meikyuu_wo_Samayou_3rd_Season)** | *Comedy, Fantasy* |
+| `23:45` | **[Otaku ni Yasashii Gal wa Inai!?](https://myanimelist.net/anime/62604/Otaku_ni_Yasashii_Gal_wa_Inai)** | *Comedy, Romance* |
+| `23:30` | **[Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2](https://myanimelist.net/anime/61831/Saikyou_no_Ousama_Nidome_no_Jinsei_wa_Nani_wo_Suru_Season_2)** | *Fantasy* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] MARRIAGETOXIN - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-marriagetoxin-s01e02-1080p-webrip-av1-mkv.2074205) • [🐱 Nyaa](https://nyaa.si/?q=BVVLOVYMYD4DB3HBT3TGGHAR3BIXHE5G) |
-| `[Erai-raws] Replica datte Koi wo Suru - 02 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-replica-datte-koi-wo-suru-02.k10366671008004) • [🐱 Nyaa](https://nyaa.si/?q=GH5Y545QNQBR3P6D6AE6QNSDBZHYHBDF) |
-| `[ASW] MARRIAGETOXIN - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-marriagetoxin-02-1080p-hevc-x265-10bit-aac.n2098118) • [🐱 Nyaa](https://nyaa.si/?q=HR5VSLRBXPZOFGOXJ2DT5QCFZG3WKSM4) |
-| `[Judas] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-class-de-2-banme-ni-kawaii-onnanoko.n2098115) • [🐱 Nyaa](https://nyaa.si/?q=ELBFTKUFAKUWWGRSB6NB7GVD5HPMD5RK) |
-| `Eren the Southpaw S01E02 Episode 2 Theres Something Beyon...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/eren-southpaw-s01e02-episode-2-theres-something-beyond.n2098114) • [🐱 Nyaa](https://nyaa.si/?q=BFZE253BGUZUCOEB6EJAT3YUTWW4MNQ4) |
-| `[ASW] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-class-de-2-banme-ni-kawaii-onnanoko.n2098113) • [🐱 Nyaa](https://nyaa.si/?q=BQMQP5FYTYMTGD4BHTN5TEPHQLOBFZVW) |
-| `[ToonsHub] Eren the Southpaw S01E02 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-eren-southpaw-s01e02-1080p-cr-web-dl.k10366188167683) • [🐱 Nyaa](https://nyaa.si/?q=2RXFVZMUL6SBEFJQBO7SANWPWCNDD53D) |
-| `[SubsPlease] Hidarikiki no Eren - 02 (1080p) [74693B26].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hidarikiki-no-eren-02-1080p-74693b26-mkv.n2098108) • [🐱 Nyaa](https://nyaa.si/?q=WXWGZBYAYUHT54NUB3XT3DOV57AC5ZK4) |
-| `[Erai-raws] Hidarikiki no Eren - 02 [480p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-02-480p-cr.k10366178670849) • [🐱 Nyaa](https://nyaa.si/?q=RJIVYU5OK5EFMQAZ7KNL5YAXSK37AAZJ) |
-| `[SubsPlease] Hidarikiki no Eren - 02 (720p) [A52E9849].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hidarikiki-no-eren-02-720p-a52e9849-mkv.n2098102) • [🐱 Nyaa](https://nyaa.si/?q=JHF3MOEQGAYSECCWJ2PION7THLI5HYJ4) |
-| `[Erai-raws] Hidarikiki no Eren - 02 [720p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-02-720p-cr.k10366176478467) • [🐱 Nyaa](https://nyaa.si/?q=T5AIG3J76RDPXRVGCPUAKYARKWGEOFGL) |
-| `[Erai-raws] Hidarikiki no Eren - 02 [1080p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-02-1080p-cr.k10366173181184) • [🐱 Nyaa](https://nyaa.si/?q=J4427RXTYXVPQ4455ZV4IEWKPVCOJPO3) |
-| `[Onalrie] Aishiteru Game wo Owarasetai - S01E01 [1080p WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-aishiteru-game-wo-owarasetai-s01e01-1080p-webrip-av1.2074200) • [🐱 Nyaa](https://nyaa.si/?q=JYGYOOHDXAO36A4P5IRV24SYCC4JAYUW) |
-| `[SubsPlease] Hidarikiki no Eren - 02 (480p) [6DB6679F].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hidarikiki-no-eren-02-480p-6db6679f-mkv.n2098098) • [🐱 Nyaa](https://nyaa.si/?q=VHE7LWML57FBVJ5CPCB255AYRZAZ4UPU) |
-| `[Ironclad] Higeki no Genkyou to Naru - S02E02 [WEB.1080p....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-higeki-no-genkyou-naru-s02e02-web-1080p.n2098094) • [🐱 Nyaa](https://nyaa.si/?q=6WHDETVIU44RIJJIGGJYH2BVIXOPJM6N) |
+| `[Onalrie] Hidarikiki no Eren - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hidarikiki-no-eren-s01e02-1080p-webrip-av1-mkv.2074215) • [🐱 Nyaa](https://nyaa.si/?q=V4FMKZVA2DX2LLGTAZPJ27YYJHJCS5JJ) |
+| `[Erai-raws] Tadaima Ojamasaremasu - 02 [480p CR WEB-DL AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-02-480p-cr-web.k10367671243275) • [🐱 Nyaa](https://nyaa.si/?q=E6BGFFLZXK2P5ZMIFV4LE64RH2RJQWMA) |
+| `[Erai-raws] Tadaima Ojamasaremasu - 02 [720p CR WEB-DL AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-02-720p-cr-web.k10367669107717) • [🐱 Nyaa](https://nyaa.si/?q=WJQH7AJDKLKP7OBNSPMNSTYWWWDEPKQ6) |
+| `[Erai-raws] Tadaima Ojamasaremasu - 02 [1080p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-02-1080p-cr-web.k10367667219725) • [🐱 Nyaa](https://nyaa.si/?q=POYVJBCF5F4MOY3ZGSSDU3QLXRGWDO2H) |
+| `[SubsPlease] Tadaima, Ojamasaremasu! - 02 (1080p) [2185D1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tadaima-ojamasaremasu-02-1080p-2185d11d-mkv.n2098152) • [🐱 Nyaa](https://nyaa.si/?q=XY7YHPELIN73UF5JMG7UOGXBHZ5KR7U4) |
+| `[SubsPlease] Tadaima, Ojamasaremasu! - 02 (720p) [7D7BA28...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tadaima-ojamasaremasu-02-720p-7d7ba28a-mkv.n2098151) • [🐱 Nyaa](https://nyaa.si/?q=YJ4LJQKZ3XMA56NOVADNVYJU2LB46F4N) |
+| `[SubsPlease] Tadaima, Ojamasaremasu! - 02 (480p) [3978DC4...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tadaima-ojamasaremasu-02-480p-3978dc49-mkv.n2098150) • [🐱 Nyaa](https://nyaa.si/?q=OKIIKDTGBIGUZIWNP74TJBWCIQ35KUUC) |
+| `Pardon the Intrusion Im Home S01E02 Starting With a Prete...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pardon-intrusion-im-home-s01e02-starting-pretend-boyfriend.n2098149) • [🐱 Nyaa](https://nyaa.si/?q=NZGXBCAZMR7CQQLM74CUNM5PGULZCWUM) |
+| `[ToonsHub] Pardon the Intrusion Im Home S01E02 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-pardon-intrusion-im-home-s01e02-1080p-cr.n2098148) • [🐱 Nyaa](https://nyaa.si/?q=BYNIZXYZN7OXKPAR763AYB4GZZVJF2KJ) |
+| `[BlackRabbit] Angel Beats! (2010) - S00 v2 [Bluray-1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-angel-beats-2010-s00-v2-bluray-1080p.k10367509569804) • [🐱 Nyaa](https://nyaa.si/?q=DZAACHLW5DAMHPTJSODJFYR7MYAFWRXF) |
+| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomoda...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-class-de-2-banme-ni-kawaii.k10367296457736) • [🐱 Nyaa](https://nyaa.si/?q=WPNG5L5HVSIWDT66MKLGNEVUD6LFLZTE) |
+| `[Onalrie] Class de 2-banme ni Kawaii Onnanoko to Tomodach...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-class-de-2-banme-ni-kawaii-onnanoko.2074206) • [🐱 Nyaa](https://nyaa.si/?q=LBHJGVBLSLNMT7TGNLY6UUCGRWWAQF33) |
+| `[Yameii] Frieren - Beyond Journey's End - S02 [English Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-frieren-beyond-journeys-end-s02-english-dub.n2098142) • [🐱 Nyaa](https://nyaa.si/?q=BNTLAFXB4VRJVK27464V5CQ73QJLRGMD) |
+| `[DKB] Aishiteru Game wo Owarasetai - S01E01 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-aishiteru-game-wo-owarasetai-s01e01-1080p-hevc.n2098133) • [🐱 Nyaa](https://nyaa.si/?q=LJQOT4IMJNRAV5KN7OOQ6HQ26EH24KYA) |
+| `[crane0922] Food Wars! Season 1 (BD 1080p HEVC Opus) [Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-food-wars-season-1-bd-1080p-hevc.k10366987722501) • [🐱 Nyaa](https://nyaa.si/?q=S4AH774NMNAIAZAOVJPJSKYZ6BQ3K2RY) |
 
 ---
 <div align="center">
