@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.51.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.00.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -27,6 +27,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Medalist S02E08 Hot Passion 1080p DSNP WEB-DL DUAL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/medalist-s02e08-hot-passion-1080p-dsnp-web-dl.n2097940) • [🐱 Nyaa](https://nyaa.si/?q=L4KS3ST6QP6TMUBBQ5DDDH63WTCR2UB5) |
+| `KissXSis.S00.1080p.BluRay.Opus2.0.x265-Headpatter` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kissxsis-s00-1080p-bluray-opus2-0-x265-headpatter.k10361479128591) • [🐱 Nyaa](https://nyaa.si/?q=XJV45BHUFKZCRAXXJ2EEHA5ODS3RFIIV) |
 | `[ace] Haibane Renmei - 01v2 (DVD 480p HEVC FLAC).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-haibane-renmei-01v2-dvd-480p-hevc-flac-mkv.k10359825136641) • [🐱 Nyaa](https://nyaa.si/?q=OF4KT7P2NZ4NFPVWI4RPNNPWC6NKEPWL) |
 | `[LbE3L] Daemons of the Shadow Realm S01E02 (Yomi no Tsuga...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-daemons-shadow-realm-s01e02-yomi-no-tsugai.k10358164028167) • [🐱 Nyaa](https://nyaa.si/?q=4PZDQGUKWCCBLOUGC7R7IRSURMD37ZEK) |
 | `[LbE3L] [H.266] Daemons of the Shadow Realm S01E02 (Yomi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-daemons-shadow-realm-s01e02-yomi.k10358120281354) • [🐱 Nyaa](https://nyaa.si/?q=52BO6B3ITHYZ7H3XY5SGXJOQEQTQUQTM) |
@@ -40,8 +42,6 @@
 | `[BlackRabbit] Future Boy Conan (1978) - S01 v2 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-future-boy-conan-1978-s01-v2-bluray.k10350466149381) • [🐱 Nyaa](https://nyaa.si/?q=VJ3BWCPKV3MRMCURRABFZHLH252D5MUB) |
 | `[Judas] Liar Game - S01E02 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e02-1080p-hevc-x265-10bit.n2097839) • [🐱 Nyaa](https://nyaa.si/?q=OU4GKND2KYRXEXHHULKT6QHSU5ER5UZU) |
 | `[ZG] Doraemon Movie 44 - Nobita's Art World Tales (2025) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/zg-doraemon-movie-44-nobitas-art-world-tales.n2097836) • [🐱 Nyaa](https://nyaa.si/?q=3GHVR5DMXJEX3AJPYX6EAQ7NF432ZN4D) |
-| `[Chika] Witch Hat Atelier - S01E03 (1080p WEB-DL H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chika-witch-hat-atelier-s01e03-1080p-web-dl.n2097835) • [🐱 Nyaa](https://nyaa.si/?q=R6F2T7XS7N2KRPCHCHCVSYCF2G5F7SPF) |
-| `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu K...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2097834) • [🐱 Nyaa](https://nyaa.si/?q=24YT7TBOQ7CJEK7MU2NVVN7AXVM5L3PH) |
 
 ---
 <div align="center">
