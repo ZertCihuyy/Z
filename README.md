@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.56.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.42.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -27,8 +27,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[LbE3L] Daemons of the Shadow Realm S01E02 [1080p CUSTOM ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-daemons-shadow-realm-s01e02-1080p-custom-webrip.k10358164028167) • [🐱 Nyaa](https://nyaa.si/?q=4PZDQGUKWCCBLOUGC7R7IRSURMD37ZEK) |
-| `[LbE3L] [H.266] Daemons of the Shadow Realm S01E02 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-daemons-shadow-realm-s01e02-1080p.k10358120281354) • [🐱 Nyaa](https://nyaa.si/?q=52BO6B3ITHYZ7H3XY5SGXJOQEQTQUQTM) |
+| `[ace] Haibane Renmei - 01v2 (DVD 480p HEVC FLAC).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-haibane-renmei-01v2-dvd-480p-hevc-flac-mkv.k10359825136641) • [🐱 Nyaa](https://nyaa.si/?q=OF4KT7P2NZ4NFPVWI4RPNNPWC6NKEPWL) |
+| `[LbE3L] Daemons of the Shadow Realm S01E02 (Yomi no Tsuga...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-daemons-shadow-realm-s01e02-yomi-no-tsugai.k10358164028167) • [🐱 Nyaa](https://nyaa.si/?q=4PZDQGUKWCCBLOUGC7R7IRSURMD37ZEK) |
+| `[LbE3L] [H.266] Daemons of the Shadow Realm S01E02 (Yomi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-daemons-shadow-realm-s01e02-yomi.k10358120281354) • [🐱 Nyaa](https://nyaa.si/?q=52BO6B3ITHYZ7H3XY5SGXJOQEQTQUQTM) |
 | `ALL YOU NEED IS KILL 2025 1080p AMZN WEB-DL DUAL DDP5.1 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/all-need-kill-2025-1080p-amzn-web-dl.n2097921) • [🐱 Nyaa](https://nyaa.si/?q=VAGP6AGXJB6A6AVEYSMVXXLUZCIO5222) |
 | `ALL YOU NEED IS KILL 2025 720p AMZN WEB-DL DUAL DDP5.1 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/all-need-kill-2025-720p-amzn-web-dl.n2097920) • [🐱 Nyaa](https://nyaa.si/?q=B3DYFKKJIPXAH6WPAQOO63QMCNDEZFOE) |
 | `Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches Rec...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-recap.n2097913) • [🐱 Nyaa](https://nyaa.si/?q=2R72XMKCMF5VWTXUJE6XKMNYSYF3G3PI) |
@@ -41,7 +42,6 @@
 | `[ZG] Doraemon Movie 44 - Nobita's Art World Tales (2025) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/zg-doraemon-movie-44-nobitas-art-world-tales.n2097836) • [🐱 Nyaa](https://nyaa.si/?q=3GHVR5DMXJEX3AJPYX6EAQ7NF432ZN4D) |
 | `[Chika] Witch Hat Atelier - S01E03 (1080p WEB-DL H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chika-witch-hat-atelier-s01e03-1080p-web-dl.n2097835) • [🐱 Nyaa](https://nyaa.si/?q=R6F2T7XS7N2KRPCHCHCVSYCF2G5F7SPF) |
 | `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu K...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2097834) • [🐱 Nyaa](https://nyaa.si/?q=24YT7TBOQ7CJEK7MU2NVVN7AXVM5L3PH) |
-| `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu K...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2097833) • [🐱 Nyaa](https://nyaa.si/?q=IUPTZ35GBLWW2DYXVC23ZSVBSZYCZO54) |
 
 ---
 <div align="center">
