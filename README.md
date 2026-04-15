@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.42.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.52.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AK4NE] One Piece - S23E02 (E1157) (WEB-Enc 1080p AV1 OPU...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-one-piece-s23e02-e1157-web-enc-1080p.k10378261744900) • [🐱 Nyaa](https://nyaa.si/?q=EMNKVMPPB23ERNA3JBEAVMWCS263VF73) |
 | `[BlackRabbit] Twin Star Exorcists (2016) - S01 [Bluray-10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-twin-star-exorcists-2016-s01-bluray-1080p.k10376644042499) • [🐱 Nyaa](https://nyaa.si/?q=B5BQHVV56DHATK7KHPCGLCRRJ4EYJ7CE) |
 | `[ToonsHub] Walking the Way all alone S01E03 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e03-1080p-bili.n2098268) • [🐱 Nyaa](https://nyaa.si/?q=VPLXMOHMGC5752MUJXMWKG7FNL6F43YD) |
 | `Full Moon wo Sagashite (2002) - S01E19v2 - (WEBDL-1080p x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/full-moon-wo-sagashite-2002-s01e19v2-webdl-1080p.n2098250) • [🐱 Nyaa](https://nyaa.si/?q=ZWATDWKSUOWJGFIAPJ4EDQDGAQZBZU6S) |
@@ -37,7 +38,6 @@
 | `[SubsPlease] Hell Mode (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-01-12-720p-batch.n2098234) • [🐱 Nyaa](https://nyaa.si/?q=VYOPYS7LPJV4IUR6V7YMXJXVEMBVYNRB) |
 | `[SubsPlease] Hell Mode (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hell-mode-01-12-480p-batch.n2098233) • [🐱 Nyaa](https://nyaa.si/?q=NZXMCJOYKDJVH53VECXJSQLTB6JLGAQ5) |
 | `Golden Kamuy S05 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/golden-kamuy-s05-1080p-cr-web-dl-dual.n2098232) • [🐱 Nyaa](https://nyaa.si/?q=Y4KG2PTO6M5XOO2X32U7CLRBKZIPYSPR) |
-| `Legend of Aang` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/legend-aang.n2098228) • [🐱 Nyaa](https://nyaa.si/?q=BJWG4NWQUKNPP5PYNFQDT5KHFTLAQWSB) |
 | `Zoids: New Century Slash Zero (TAKARATOMY ASIA official s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/zoids-new-century-slash-zero-takaratomy-asia-official-subs.n2098225) • [🐱 Nyaa](https://nyaa.si/?q=NHL4GBIUPCMOPCWGKJKYKT5SERQKRLJL) |
 | `[Feibanyama] Witch Hat Atelier S01E03 [CR WebRip 1080p HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-witch-hat-atelier-s01e03-cr-webrip-1080p.n2098223) • [🐱 Nyaa](https://nyaa.si/?q=J7NMZIY6BYJTGKDDM3BMQSS7Y4II2JTQ) |
 | `[SubsPlease] Dark Moon - Tsuki no Saidan (01-12) (1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-dark-moon-tsuki-no-saidan-01-12-1080p-batch.n2098222) • [🐱 Nyaa](https://nyaa.si/?q=EGCA4HVZW74UTOJFUJYSXHCX7S2V5NFR) |

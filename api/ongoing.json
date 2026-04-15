@@ -1,6 +1,158 @@
 {
-  "last_update": "15/4/2026, 10.42.54",
+  "last_update": "15/4/2026, 12.52.23",
   "data": [
+    {
+      "mal_id": 51553,
+      "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1726/155542.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1726/155542.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tongari Boushi no Atelier"
+        },
+        {
+          "type": "Synonym",
+          "title": "Atelier of Witch Hat"
+        },
+        {
+          "type": "Japanese",
+          "title": "とんがり帽子のアトリエ"
+        },
+        {
+          "type": "English",
+          "title": "Witch Hat Atelier"
+        }
+      ],
+      "title": "Tongari Boushi no Atelier",
+      "title_english": "Witch Hat Atelier",
+      "title_japanese": "とんがり帽子のアトリエ",
+      "title_synonyms": [
+        "Atelier of Witch Hat"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 6, 2026 to ?"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.75,
+      "scored_by": 19662,
+      "rank": 50,
+      "popularity": 1468,
+      "members": 187824,
+      "favorites": 1494,
+      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
+      "background": "Beginning with episode 2, each episode was streamed one week in advance of the TV broadcast starting on April 6, 2026, on Abema. Regular broadcasting began on April 6, 2026.",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 23:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 1284,
+          "type": "anime",
+          "name": "Avex Pictures",
+          "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1747,
+          "type": "anime",
+          "name": "Twin Engine",
+          "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+        },
+        {
+          "mal_id": 1856,
+          "type": "anime",
+          "name": "dugout",
+          "url": "https://myanimelist.net/anime/producer/1856/dugout"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2674,
+          "type": "anime",
+          "name": "BUG FILMS",
+          "url": "https://myanimelist.net/anime/producer/2674/BUG_FILMS"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ]
+    },
     {
       "mal_id": 61316,
       "url": "https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season",
@@ -83,11 +235,11 @@
       "duration": "23 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "score": 8.69,
-      "scored_by": 15595,
+      "scored_by": 16181,
       "rank": 72,
-      "popularity": 1504,
-      "members": 182997,
-      "favorites": 1247,
+      "popularity": 1488,
+      "members": 184902,
+      "favorites": 1259,
       "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa)",
       "background": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season is comprised of two arcs. The first eleven episodes are subtitled Soushitsu-hen (Loss Arc). The latter eight, subtitled Dakkan-hen (Recapture Arc), began airing on August 12, 2026.",
       "season": "spring",
@@ -189,158 +341,6 @@
       "demographics": []
     },
     {
-      "mal_id": 51553,
-      "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1726/155542.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1726/155542.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Tongari Boushi no Atelier"
-        },
-        {
-          "type": "Synonym",
-          "title": "Atelier of Witch Hat"
-        },
-        {
-          "type": "Japanese",
-          "title": "とんがり帽子のアトリエ"
-        },
-        {
-          "type": "English",
-          "title": "Witch Hat Atelier"
-        }
-      ],
-      "title": "Tongari Boushi no Atelier",
-      "title_english": "Witch Hat Atelier",
-      "title_japanese": "とんがり帽子のアトリエ",
-      "title_synonyms": [
-        "Atelier of Witch Hat"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-06T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 6,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 6, 2026 to ?"
-      },
-      "duration": "23 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.73,
-      "scored_by": 17867,
-      "rank": 54,
-      "popularity": 1518,
-      "members": 181756,
-      "favorites": 1398,
-      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
-      "background": "Beginning with episode 2, each episode was streamed one week in advance of the TV broadcast starting on April 6, 2026, on Abema. Regular broadcasting began on April 6, 2026.",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Mondays",
-        "time": "23:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Mondays at 23:00 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 159,
-          "type": "anime",
-          "name": "Kodansha",
-          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
-        },
-        {
-          "mal_id": 1284,
-          "type": "anime",
-          "name": "Avex Pictures",
-          "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
-        },
-        {
-          "mal_id": 1468,
-          "type": "anime",
-          "name": "Crunchyroll",
-          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
-        },
-        {
-          "mal_id": 1747,
-          "type": "anime",
-          "name": "Twin Engine",
-          "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
-        },
-        {
-          "mal_id": 1856,
-          "type": "anime",
-          "name": "dugout",
-          "url": "https://myanimelist.net/anime/producer/1856/dugout"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 2674,
-          "type": "anime",
-          "name": "BUG FILMS",
-          "url": "https://myanimelist.net/anime/producer/2674/BUG_FILMS"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 42,
-          "type": "anime",
-          "name": "Seinen",
-          "url": "https://myanimelist.net/anime/genre/42/Seinen"
-        }
-      ]
-    },
-    {
       "mal_id": 59708,
       "url": "https://myanimelist.net/anime/59708/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_4th_Season__2-nensei-hen_1_Gakki",
       "images": {
@@ -427,11 +427,11 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.24,
-      "scored_by": 13487,
-      "rank": 395,
-      "popularity": 1641,
-      "members": 165752,
-      "favorites": 957,
+      "scored_by": 13981,
+      "rank": 396,
+      "popularity": 1628,
+      "members": 167446,
+      "favorites": 962,
       "synopsis": "As Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they're greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They'll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?\n\n(Source: Crunchyroll)",
       "background": "",
       "season": "spring",
@@ -614,12 +614,12 @@
       },
       "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.2,
-      "scored_by": 9330,
-      "rank": 446,
-      "popularity": 1662,
-      "members": 162862,
-      "favorites": 914,
+      "score": 8.19,
+      "scored_by": 9714,
+      "rank": 461,
+      "popularity": 1652,
+      "members": 164257,
+      "favorites": 920,
       "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll)",
       "background": "Tensei shitara Slime Datta Ken 4th Season aired on Nippon TV's Friday Anime Night block.",
       "season": "spring",
@@ -821,12 +821,12 @@
       },
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.08,
-      "scored_by": 8489,
-      "rank": 617,
-      "popularity": 2113,
-      "members": 119637,
-      "favorites": 1670,
+      "score": 8.07,
+      "scored_by": 8757,
+      "rank": 638,
+      "popularity": 2100,
+      "members": 120502,
+      "favorites": 1677,
       "synopsis": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
       "background": "",
       "season": "spring",
@@ -1003,12 +1003,12 @@
       },
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.31,
-      "scored_by": 7941,
-      "rank": 312,
-      "popularity": 2165,
-      "members": 115599,
-      "favorites": 265,
+      "score": 8.3,
+      "scored_by": 8219,
+      "rank": 317,
+      "popularity": 2153,
+      "members": 116715,
+      "favorites": 268,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
@@ -1149,12 +1149,12 @@
       },
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.31,
-      "scored_by": 7941,
-      "rank": 312,
-      "popularity": 2165,
-      "members": 115599,
-      "favorites": 265,
+      "score": 8.3,
+      "scored_by": 8219,
+      "rank": 317,
+      "popularity": 2153,
+      "members": 116715,
+      "favorites": 268,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
@@ -1453,12 +1453,12 @@
       },
       "duration": "23 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 7.99,
-      "scored_by": 3532,
-      "rank": 760,
-      "popularity": 2283,
-      "members": 106687,
-      "favorites": 395,
+      "score": 8,
+      "scored_by": 4313,
+      "rank": 751,
+      "popularity": 2249,
+      "members": 108930,
+      "favorites": 400,
       "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
       "background": "",
       "season": "spring",
