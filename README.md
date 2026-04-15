@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.27.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.30.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -18,6 +18,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anime Time] Dorohedoro - S02E05 [1080p][HEVC 10bit x265]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-dorohedoro-s02e05-1080p-hevc-10bit-x265.n2098655) • [🐱 Nyaa](https://nyaa.si/?q=EGEMJCZY77HOFEBT4BHHF5ZDCWXUCUPT) |
+| `[BlackRabbit] Professor Layton and the Eternal Diva (2009...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-professor-layton-eternal-diva-2009-bluray-1080p.k10392519120911) • [🐱 Nyaa](https://nyaa.si/?q=JY6PN2FTWOWF2L4GMFEO3GIXEKYQI64D) |
+| `[Erai-raws] Dorohedoro Season 2 - 05 [1080p NF WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-05-1080p-nf.n2098653) • [🐱 Nyaa](https://nyaa.si/?q=22VZZS7SRTTCRD4GWDVIGQ3LPFLG5TRQ) |
 | `[Gecko] The Bloody Mary (ブラッディ・メアリー) (2026) [YTB.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-bloody-mary-2026-ytb-web-dl-1080p.n2098652) • [🐱 Nyaa](https://nyaa.si/?q=KPWSMK3QYQM3A5L45QSTYSLI5DFAK5DX) |
 | `[Ironclad] The Most Heretical Last Boss Queen: From Villa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-most-heretical-last-boss-queen-from-villainess.k10392151953160) • [🐱 Nyaa](https://nyaa.si/?q=PRAYYU2B3FUTTDDMQ6AV6BX2B2DBOGEU) |
 | `[FBI] Re:Zero Starting Life in Another World - S04E02 (CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fbi-re-zero-starting-life-another-world-s04e02.n2098649) • [🐱 Nyaa](https://nyaa.si/?q=SBGYNVOU5FPO27JK2RF5PU4EE73HNBE6) |
@@ -30,9 +33,6 @@
 | `[SubsPlease] Tensei shitara Dragon no Tamago datta (01-12...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-dragon-no-tamago-datta-01.n2098624) • [🐱 Nyaa](https://nyaa.si/?q=6WSBBH5FM6Y5MN53JLBZUIGDHVUVPQDC) |
 | `[SubsPlease] Tensei shitara Dragon no Tamago datta (01-12...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-dragon-no-tamago-datta-01.n2098623) • [🐱 Nyaa](https://nyaa.si/?q=YAXYNE23LJ4FSZD7KOZNVYSP2BS4UGO7) |
 | `[SubsPlease] Tensei shitara Dragon no Tamago datta (01-12...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-dragon-no-tamago-datta-01.n2098622) • [🐱 Nyaa](https://nyaa.si/?q=GJBZ5JGYGU6VEJWB5AVE64JQVH4RAYIC) |
-| `[Gecko] Candy Caries - S01E01 (キャンディーカリエス) [YTB.WEB-DL 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-candy-caries-s01e01-ytb-web-dl-1080p.k10390313390348) • [🐱 Nyaa](https://nyaa.si/?q=6L2JP3Q5HYUXVU2WD6WOQGL5CUXA3KDF) |
-| `[Onalrie] Ganbare! Nakamura-kun!! - S01E04 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ganbare-nakamura-kun-s01e04-1080p-webrip-av1-mkv.2074487) • [🐱 Nyaa](https://nyaa.si/?q=MMJJX2OWHB62RDTOTQEMQQRGNPYYVDXV) |
-| `HELL MODE S01E07 1080p AMZN WEB-DL DUAL DDP2.0 H 264-VARY...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hell-mode-s01e07-1080p-amzn-web-dl-dual.n2098618) • [🐱 Nyaa](https://nyaa.si/?q=ZSXUBXQRUT5MTTTDV6VCBRYYUBUOIM5T) |
 
 ---
 <div align="center">
