@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.16.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.36.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Re Zero kara Hajimeru Isekai Seikatsu - S04E02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-re-zero-kara-hajimeru-isekai-seikatsu-s04e02.2074441) • [🐱 Nyaa](https://nyaa.si/?q=EZSKBINOZP66DECJFWCMIJLF2EIEWSJI) |
-| `[Judas] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Sa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jidouhanbaiki-ni-umarekawatta-ore-wa-meikyuu-o.n2098477) • [🐱 Nyaa](https://nyaa.si/?q=QSBJJHGJGXSPV3DPHTVT5Y6MENSOOPOA) |
-| `[Onalrie] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu w...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu.2074436) • [🐱 Nyaa](https://nyaa.si/?q=JSYDFKVURJKADYEQ6XQBWL4HKWO7TQDT) |
-| `Re ZERO Starting Life in Another World S04E02 Overcome Sa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/re-zero-starting-life-another-world-s04e02-overcome.n2098475) • [🐱 Nyaa](https://nyaa.si/?q=3OPO5JMRWVWK5KUNLIO2F7JAIKBIKGGT) |
-| `OSHI NO KO S03E03 Correctness 1080p CR WEB-DL MULTi AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oshi-no-ko-s03e03-correctness-1080p-cr-web.n2098474) • [🐱 Nyaa](https://nyaa.si/?q=QOQXZFHE4MYDJ635YYJJCWXGUPDDU3VS) |
-| `[Erai-raws] Kanojo Okarishimasu 5th Season - 02 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-02-1080p.k10386880693504) • [🐱 Nyaa](https://nyaa.si/?q=G2REDFASBGLGRBGXPIR54O7ZF7TAD6VB) |
-| `[BlackRabbit] Fairy Tail (2009) - S01 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s01-bluray-1080p-opus.k10386850963469) • [🐱 Nyaa](https://nyaa.si/?q=7HB7IMDYHQFNE2TKXCY22JM724EKGGKB) |
-| `[ToonsHub] Cat Tales S01E27 1080p LNTV WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-cat-tales-s01e27-1080p-lntv-web-dl.n2098469) • [🐱 Nyaa](https://nyaa.si/?q=3RYF65T7QHD2744CHAVR2R6VUOPDC52P) |
-| `[ToonsHub] Dorohedoro S02E05 1080p CR WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e05-1080p-cr-web-dl-dual.k10386704029966) • [🐱 Nyaa](https://nyaa.si/?q=IDV6ON3PHWKJZNHWM42SRRWJHYWDD3LE) |
-| `[Anime-FLAC] Virgin Punk Clockwork Girl Movie (BDRip 1920...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-flac-virgin-punk-clockwork-girl-movie-bdrip.n2098466) • [🐱 Nyaa](https://nyaa.si/?q=L326MKOAHHROOCTRMG6XODB3VHQJPBSB) |
-| `[ToonsHub] Reborn as a Vending Machine I Now Wander the D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-vending-machine-now-wander-dungeon-s03e01.k10386666568716) • [🐱 Nyaa](https://nyaa.si/?q=XJJWJICFXVMZSTLL4X3XG3TPRNESPHMI) |
-| `[ToonsHub] OSHI NO KO S03E03 1080p CR WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-oshi-no-ko-s03e03-1080p-cr-web.k10386657704463) • [🐱 Nyaa](https://nyaa.si/?q=LFRAW4CY6UOHNENUZJ6DUDML2ZTHSX6E) |
-| `[ToonsHub] Reborn as a Vending Machine I Now Wander the D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-vending-machine-now-wander-dungeon-s03e03.k10386646831884) • [🐱 Nyaa](https://nyaa.si/?q=SCQORIUJMT5JD5KPSB45M44C6T6FS2VS) |
-| `[Yameii] Reborn as a Vending Machine, I Now Wander the Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-reborn-vending-machine-now-wander-dungeon-s03e01.n2098462) • [🐱 Nyaa](https://nyaa.si/?q=YPJ2HCPZFIQ4EKHHVVTWYAXUCK4D7WEV) |
-| `[Yameii] Re:ZERO, Starting Life in Another World - S04E02...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-re-zero-starting-life-another-world-s04e02.n2098461) • [🐱 Nyaa](https://nyaa.si/?q=KQKZ6XTPMM4DP732GP4GM4SURZJK27AM) |
+| `[Erai-raws] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jidouhanbaiki-ni-umarekawatta-ore-wa-meikyuu.k10388631985159) • [🐱 Nyaa](https://nyaa.si/?q=WPBGCEDGA5MDOGDM3QA7UODP2FBMGJUD) |
+| `[DKB] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Sa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu.n2098555) • [🐱 Nyaa](https://nyaa.si/?q=2YKEIJK4AB7M6TFH5HHH5LCMGBVCP3IJ) |
+| `[Onalrie] Otaku ni Yasashii Gal wa Inai - S01E02 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-otaku-ni-yasashii-gal-wa-inai-s01e02.2074471) • [🐱 Nyaa](https://nyaa.si/?q=UJHKVQ7MSHKQMUWV2EEDWQXVRGMBEG7Q) |
+| `[DKB] Kanojo, Okarishimasu - S05E02 [1080p][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanojo-okarishimasu-s05e02-1080p-hevc-x265-10bit.n2098553) • [🐱 Nyaa](https://nyaa.si/?q=6ZGXAIESS66PAXSPMFBY4MIYDXNRCP2P) |
+| `[DKB] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2098552) • [🐱 Nyaa](https://nyaa.si/?q=YRCZJ4P6KVIBVYOTSG76C6S7FHCRTCAP) |
+| `[Yameii] The Beginning After the End - S02E01 [English Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-beginning-after-end-s02e01-english-dub-cr.n2098551) • [🐱 Nyaa](https://nyaa.si/?q=PQSMAQQA6SQMTWIRCHZT4KDLFMPWXO7P) |
+| `[Yameii] The Beginning After the End - S02E01 [English Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-beginning-after-end-s02e01-english-dub-cr.n2098550) • [🐱 Nyaa](https://nyaa.si/?q=TVHYPMESA3DX3SLEUJWHOCIRTGBZHHNJ) |
+| `[ToonsHub] The Beginning After the End S02E03 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-beginning-after-end-s02e03-1080p-cr-web.k10388544836354) • [🐱 Nyaa](https://nyaa.si/?q=TLGF6KEL2JU2V7CR2Y7HUZF2JKY5BIPK) |
+| `The Beginning After the End S02E01 The King Begins Advent...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beginning-after-end-s02e01-king-begins-adventuring-1080p.n2098548) • [🐱 Nyaa](https://nyaa.si/?q=QEGNHWQ2ZPEEEPDNBH222A5GDXGRHIUV) |
+| `The Beginning After the End S02E03 The King Is Stranded 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beginning-after-end-s02e03-king-stranded-1080p-cr.n2098547) • [🐱 Nyaa](https://nyaa.si/?q=NF75N6MVNSIYYD63J4DCEK4YHQYKH7ZL) |
+| `[SubsPlease] The Beginning After the End S2 - 03 (1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-beginning-after-end-s2-03-1080p-4ba82cf0-mkv.n2098545) • [🐱 Nyaa](https://nyaa.si/?q=OFOU5T7GJ3ARRS7J6UQDLQQ7J6VRAKRJ) |
+| `[ToonsHub] The Beginning After the End S02E01 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-beginning-after-end-s02e01-1080p-cr-web.k10388537485576) • [🐱 Nyaa](https://nyaa.si/?q=RSKU6YCX2YRZUVFF3ELOLKRGOHS2G4V5) |
+| `[SubsPlease] The Beginning After the End S2 - 03 (720p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-beginning-after-end-s2-03-720p-baf76a8d-mkv.n2098542) • [🐱 Nyaa](https://nyaa.si/?q=KHMWPXWDIJK7TSQUKOXH22ACKSR65SNH) |
+| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.k10388525391105) • [🐱 Nyaa](https://nyaa.si/?q=2H6IA6T6O642DYXDTFXJPHHWTDL26LQ2) |
+| `[SubsPlease] The Beginning After the End S2 - 03 (480p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-beginning-after-end-s2-03-480p-39819033-mkv.n2098540) • [🐱 Nyaa](https://nyaa.si/?q=REJ5EACIN2J3DSGQY2HGK5P3AGLTETAY) |
 
 ---
 <div align="center">
