@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.50.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.09.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Bohemia] Mushishi S02 REPACK (1080p BD HEVC Opus)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bohemia-mushishi-s02-repack-1080p-bd-hevc-opus.k10405835611401) • [🐱 Nyaa](https://nyaa.si/?q=KT5WSKH4S55QZMIJSTGVVJWBOIWITWHH) |
+| `Dandelion S01 1080p NF WEB-DL MULTi DDP5.1 H 264-VARYG (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dandelion-s01-1080p-nf-web-dl-multi-ddp5.n2098765) • [🐱 Nyaa](https://nyaa.si/?q=C2TZDNEKTTJWF5L3UYJLJO7BWUXZ5TVC) |
+| `Dandelion S01 1080p NF WEB-DL DUAL DDP5.1 H 264-VARYG (Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dandelion-s01-1080p-nf-web-dl-dual-ddp5.n2098752) • [🐱 Nyaa](https://nyaa.si/?q=7ODRELRZXUST6VUSMOPVSTINAKVNE4K7) |
+| `[ToonsHub] I Want to End this Love Game S01E01 REPACK 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-want-end-love-game-s01e01-repack-1080p.n2098751) • [🐱 Nyaa](https://nyaa.si/?q=WKXJJNADPGUWUPCJJNCXVJ2NZWE7TQTE) |
 | `[Half-Baked] Akane-banashi - S01E02 [WEB 1080p HEVC AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/half-baked-akane-banashi-s01e02-web-1080p-hevc.n2098750) • [🐱 Nyaa](https://nyaa.si/?q=PMYKNYGUV2DGBL6ZKFI73TC6J5XFP37J) |
 | `[Bohemia] Mushishi Zoku Shou - S01 (1080p BD HEVC Opus)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bohemia-mushishi-zoku-shou-s01-1080p-bd-hevc-opus.k10402667902212) • [🐱 Nyaa](https://nyaa.si/?q=55XQ7VAG2U35SBIRRG32DMDBZN4GPQZK) |
 | `[BlackRabbit] Fairy Tail (2009) - S03 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s03-bluray-1080p-opus.k10402550394381) • [🐱 Nyaa](https://nyaa.si/?q=PYD6EXZ5F46PDDNCUHPRPFYJXHUPMBQT) |
@@ -39,10 +43,6 @@
 | `Reborn as a Cat S01E24 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e24-1080p-bili-web-dl-aac2.n2098687) • [🐱 Nyaa](https://nyaa.si/?q=T4WWEDEYFCQSVTKCI7MGAYHKNGSOJE4O) |
 | `[Freehold] Chained Soldier S02E06 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e06-repack2-adn-web-dl.n2098686) • [🐱 Nyaa](https://nyaa.si/?q=OKTLVMISN3WELTEIP35ANWO55UWSEFTZ) |
 | `[Feibanyama] ReZERO -Starting Life in Another World- S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-rezero-starting-life-another-world-s04e02-iqiyi.n2098683) • [🐱 Nyaa](https://nyaa.si/?q=YFALOBDBHTKUX7JDBN56PAYJS3D7456M) |
-| `[Feibanyama] Classroom of the Elite S04E06 [IQIYI WebRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-classroom-elite-s04e06-iqiyi-webrip-2160p-hevc.n2098676) • [🐱 Nyaa](https://nyaa.si/?q=4WHRTZVZCEJI53PRZ2R27EETRP3XK22E) |
-| `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-saikyou-no-ousama-nidome-jinsei-wa-nani.n2098675) • [🐱 Nyaa](https://nyaa.si/?q=SXJPBEN4VIVXY4FAGQRL3YY5URNVY2T3) |
-| `[Erai-raws] Dorohedoro Season 2 - 05 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-05-1080p-nf.n2098673) • [🐱 Nyaa](https://nyaa.si/?q=PWYIMLIEPS5FBQJPLKCZEIKIO4QDBC7K) |
-| `[Bohemia] Mushishi - S00E01 (1080p BD HEVC Opus)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bohemia-mushishi-s00e01-1080p-bd-hevc-opus.k10394493262606) • [🐱 Nyaa](https://nyaa.si/?q=IYYAVL2YV2YW7EQCE7ZUYLWITW4EPDNI) |
 
 ---
 <div align="center">
