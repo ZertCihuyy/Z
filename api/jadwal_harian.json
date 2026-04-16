@@ -1,5 +1,5 @@
 {
-  "last_update": "16/4/2026, 10.48.05",
+  "last_update": "16/4/2026, 13.06.00",
   "hari": "Kamis",
   "data": [
     {
@@ -80,8 +80,8 @@
       "rating": "PG - Children",
       "score": null,
       "scored_by": null,
-      "rank": 18661,
-      "popularity": 23815,
+      "rank": 18665,
+      "popularity": 23819,
       "members": 183,
       "favorites": 0,
       "synopsis": "Shining friendship and strong claws! Metal Cardbot W!\n\nAfter the Speranza incident, humans and Metal Cardbots began to coexist on Earth.\nJun, a boy chosen by the Metal Breath, and his partner Blue Cop discovered a way for humans and Metal Cardbots to coexist.\nThen one day, a \"Wild Cardbot\" appears, holding a 60 million year secret.\n\nNow, a new encounter begins to shake the world.\n\n(Source: Metal Cardbot Wiki)",
@@ -200,8 +200,8 @@
       "rating": "PG - Children",
       "score": null,
       "scored_by": null,
-      "rank": 18661,
-      "popularity": 23815,
+      "rank": 18665,
+      "popularity": 23819,
       "members": 183,
       "favorites": 0,
       "synopsis": "Shining friendship and strong claws! Metal Cardbot W!\n\nAfter the Speranza incident, humans and Metal Cardbots began to coexist on Earth.\nJun, a boy chosen by the Metal Breath, and his partner Blue Cop discovered a way for humans and Metal Cardbots to coexist.\nThen one day, a \"Wild Cardbot\" appears, holding a 60 million year secret.\n\nNow, a new encounter begins to shake the world.\n\n(Source: Metal Cardbot Wiki)",
@@ -532,12 +532,12 @@
       },
       "duration": "23 min per ep",
       "rating": null,
-      "score": 6.28,
-      "scored_by": 546,
-      "rank": 9343,
-      "popularity": 7933,
-      "members": 7959,
-      "favorites": 3,
+      "score": 6.27,
+      "scored_by": 568,
+      "rank": 9415,
+      "popularity": 7916,
+      "members": 8017,
+      "favorites": 4,
       "synopsis": "In the autumn of his first year of middle school, Arata Kouda meets Kujima, a strange creature that sort-of looks like a bird. Since Kujima is hungry, Arata brings it home with him... But because of his older brother who failed his entrance exams, Kujima gets carried away by the situation and ends up freeloading at the Kouda residence. He says it's just until he makes it through winter, and the warmth of spring comes, but...\n\n(Source: Shogakukan, translated)",
       "background": "",
       "season": "spring",
@@ -975,152 +975,6 @@
       "demographics": []
     },
     {
-      "mal_id": 60852,
-      "url": "https://myanimelist.net/anime/60852/Koori_no_Jouheki",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1565/154933.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1565/154933t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1565/154933l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1565/154933.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1565/154933t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1565/154933l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/NXhYsJFZ8bE?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Koori no Jouheki"
-        },
-        {
-          "type": "Japanese",
-          "title": "氷の城壁"
-        },
-        {
-          "type": "English",
-          "title": "The Ramparts of Ice"
-        }
-      ],
-      "title": "Koori no Jouheki",
-      "title_english": "The Ramparts of Ice",
-      "title_japanese": "氷の城壁",
-      "title_synonyms": [],
-      "type": "TV",
-      "source": "Web manga",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-02T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 2,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 2, 2026 to ?"
-      },
-      "duration": "23 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 7.72,
-      "scored_by": 5760,
-      "rank": 1364,
-      "popularity": 3461,
-      "members": 53386,
-      "favorites": 73,
-      "synopsis": "Inept at dealing with people, Koyuki Hikawa maintains a wall between herself and others. She spends her time in high school away from others, all alone. At least until she encounters Minato Amamiya who keeps closing the distance between them for some reason. The aloof Koyuki, the popular Miki, the boundary-less Minato, and the easygoing and kind basketball team member Youta. This is the story of these somewhat complicated four and their tantalizing, bumbling youth.\n\n(Source: LINE Digital Frontier, translated)",
-      "background": "",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Thursdays",
-        "time": "23:56",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 23:56 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 145,
-          "type": "anime",
-          "name": "TBS",
-          "url": "https://myanimelist.net/anime/producer/145/TBS"
-        },
-        {
-          "mal_id": 211,
-          "type": "anime",
-          "name": "Rakuonsha",
-          "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
-        },
-        {
-          "mal_id": 1397,
-          "type": "anime",
-          "name": "Universal Music Japan",
-          "url": "https://myanimelist.net/anime/producer/1397/Universal_Music_Japan"
-        },
-        {
-          "mal_id": 1585,
-          "type": "anime",
-          "name": "Nichion",
-          "url": "https://myanimelist.net/anime/producer/1585/Nichion"
-        },
-        {
-          "mal_id": 2118,
-          "type": "anime",
-          "name": "ADK Emotions",
-          "url": "https://myanimelist.net/anime/producer/2118/ADK_Emotions"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 1997,
-          "type": "anime",
-          "name": "Studio KAI",
-          "url": "https://myanimelist.net/anime/producer/1997/Studio_KAI"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 22,
-          "type": "anime",
-          "name": "Romance",
-          "url": "https://myanimelist.net/anime/genre/22/Romance"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 23,
-          "type": "anime",
-          "name": "School",
-          "url": "https://myanimelist.net/anime/genre/23/School"
-        }
-      ],
-      "demographics": []
-    },
-    {
       "mal_id": 60028,
       "url": "https://myanimelist.net/anime/60028/Himekishi_wa_Barbaroi_no_Yome",
       "images": {
@@ -1303,6 +1157,152 @@
       ]
     },
     {
+      "mal_id": 60852,
+      "url": "https://myanimelist.net/anime/60852/Koori_no_Jouheki",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1565/154933.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1565/154933t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1565/154933l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1565/154933.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1565/154933t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1565/154933l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/NXhYsJFZ8bE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Koori no Jouheki"
+        },
+        {
+          "type": "Japanese",
+          "title": "氷の城壁"
+        },
+        {
+          "type": "English",
+          "title": "The Ramparts of Ice"
+        }
+      ],
+      "title": "Koori no Jouheki",
+      "title_english": "The Ramparts of Ice",
+      "title_japanese": "氷の城壁",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2, 2026 to ?"
+      },
+      "duration": "23 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.72,
+      "scored_by": 5901,
+      "rank": 1366,
+      "popularity": 3429,
+      "members": 54318,
+      "favorites": 75,
+      "synopsis": "Inept at dealing with people, Koyuki Hikawa maintains a wall between herself and others. She spends her time in high school away from others, all alone. At least until she encounters Minato Amamiya who keeps closing the distance between them for some reason. The aloof Koyuki, the popular Miki, the boundary-less Minato, and the easygoing and kind basketball team member Youta. This is the story of these somewhat complicated four and their tantalizing, bumbling youth.\n\n(Source: LINE Digital Frontier, translated)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "23:56",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 23:56 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 145,
+          "type": "anime",
+          "name": "TBS",
+          "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+          "mal_id": 211,
+          "type": "anime",
+          "name": "Rakuonsha",
+          "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+          "mal_id": 1397,
+          "type": "anime",
+          "name": "Universal Music Japan",
+          "url": "https://myanimelist.net/anime/producer/1397/Universal_Music_Japan"
+        },
+        {
+          "mal_id": 1585,
+          "type": "anime",
+          "name": "Nichion",
+          "url": "https://myanimelist.net/anime/producer/1585/Nichion"
+        },
+        {
+          "mal_id": 2118,
+          "type": "anime",
+          "name": "ADK Emotions",
+          "url": "https://myanimelist.net/anime/producer/2118/ADK_Emotions"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1997,
+          "type": "anime",
+          "name": "Studio KAI",
+          "url": "https://myanimelist.net/anime/producer/1997/Studio_KAI"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
+    },
+    {
       "mal_id": 62568,
       "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
       "images": {
@@ -1379,11 +1379,11 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.3,
-      "scored_by": 8219,
+      "scored_by": 8418,
       "rank": 317,
-      "popularity": 2153,
-      "members": 116715,
-      "favorites": 268,
+      "popularity": 2147,
+      "members": 117572,
+      "favorites": 270,
       "synopsis": "Third part of Dr. Stone: Science Future.",
       "background": "",
       "season": "spring",
