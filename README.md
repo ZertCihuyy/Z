@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.25.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.08.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-saikyou-no-ousama-nidome-jinsei-wa-nani.n2098675) • [🐱 Nyaa](https://nyaa.si/?q=SXJPBEN4VIVXY4FAGQRL3YY5URNVY2T3) |
+| `[Erai-raws] Dorohedoro Season 2 - 05 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-05-1080p-nf.n2098673) • [🐱 Nyaa](https://nyaa.si/?q=PWYIMLIEPS5FBQJPLKCZEIKIO4QDBC7K) |
 | `[Bohemia] Mushishi - S00E01 (1080p BD HEVC Opus)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bohemia-mushishi-s00e01-1080p-bd-hevc-opus.k10394493262606) • [🐱 Nyaa](https://nyaa.si/?q=IYYAVL2YV2YW7EQCE7ZUYLWITW4EPDNI) |
 | `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.k10394009681933) • [🐱 Nyaa](https://nyaa.si/?q=KL4JXWLDN5TIVC53GHJPHIIX7UHEKKBB) |
 | `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E02 (1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-gals-cant-kind-otaku-s01e02-1080p-cr.n2098670) • [🐱 Nyaa](https://nyaa.si/?q=GLFG5S3UH2GWN23WATUDOGYLIKWDYBHB) |
@@ -41,8 +43,6 @@
 | `[Yameii] Dorohedoro - S02E05 [English Dub] [CR WEB-DL 720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e05-english-dub-cr-web-dl.n2098662) • [🐱 Nyaa](https://nyaa.si/?q=6WKXPNT3HZPWF5OKOA7E64ARKVZX5GMP) |
 | `[Yameii] Dorohedoro - S02E04 [English Dub] [CR WEB-DL 720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e04-english-dub-cr-web-dl.n2098661) • [🐱 Nyaa](https://nyaa.si/?q=UDNGPYTIPA76LOMETHKCV66RFRDEUO5W) |
 | `[Yameii] Dorohedoro - S02E03 [English Dub] [CR WEB-DL 720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e03-english-dub-cr-web-dl.n2098660) • [🐱 Nyaa](https://nyaa.si/?q=7F5DLU5E74XNTDILGIEOJXBJ5CY5JSOQ) |
-| `[Yameii] Dorohedoro - S02E02 [English Dub] [CR WEB-DL 720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e02-english-dub-cr-web-dl.n2098659) • [🐱 Nyaa](https://nyaa.si/?q=FUWBFXCTVJHSAQOS4QFT6YOSLWEVGKXF) |
-| `[Yameii] Dorohedoro - S02E01 [English Dub] [CR WEB-DL 720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e01-english-dub-cr-web-dl.n2098658) • [🐱 Nyaa](https://nyaa.si/?q=D74BU3DL2A7G6NYAOGEYV6ZQAJ4OV6QD) |
 
 ---
 <div align="center">
