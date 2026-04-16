@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.06.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.04.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Bohemia] Mushishi Zoku Shou S01 (1080p BD HEVC Opus)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bohemia-mushishi-zoku-shou-s01-1080p-bd-hevc-opus.k10402667902212) • [🐱 Nyaa](https://nyaa.si/?q=55XQ7VAG2U35SBIRRG32DMDBZN4GPQZK) |
+| `[BlackRabbit] Fairy Tail (2009) - S03 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s03-bluray-1080p-opus.k10402550394381) • [🐱 Nyaa](https://nyaa.si/?q=PYD6EXZ5F46PDDNCUHPRPFYJXHUPMBQT) |
+| `[ToonsHub] Dandelion S01 1080p NF WEB-DL DUAL DDP5.1 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dandelion-s01-1080p-nf-web-dl-dual.n2098733) • [🐱 Nyaa](https://nyaa.si/?q=5PX7VYUOS6Z7GKWOKJUS2VRRHQW4GECJ) |
 | `[BlackRabbit] Lupin III (1971) - S01 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-lupin-iii-1971-s01-bluray-1080p-opus.k10400224739587) • [🐱 Nyaa](https://nyaa.si/?q=7T6CW77J3V2AGQQQ7C26YJUB6VHPEZPX) |
 | `[Gecko] Reborn as a Cat - S01E25 (为喵人生; Wei Miao Rensheng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e25-wei-miao-rensheng-bili.k10398458232331) • [🐱 Nyaa](https://nyaa.si/?q=3VFSB53KS4733IYXD3MAKKQXML4DCXEZ) |
 | `[ToonsHub] Reborn as a Cat S01E25 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e25-1080p-bili-web-dl.n2098693) • [🐱 Nyaa](https://nyaa.si/?q=4FIVQH6G3L54PHCCSCPOUC3EPHYO7BXH) |
@@ -40,9 +43,6 @@
 | `[Erai-raws] Dorohedoro Season 2 - 05 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-05-1080p-nf.n2098673) • [🐱 Nyaa](https://nyaa.si/?q=PWYIMLIEPS5FBQJPLKCZEIKIO4QDBC7K) |
 | `[Bohemia] Mushishi - S00E01 (1080p BD HEVC Opus)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bohemia-mushishi-s00e01-1080p-bd-hevc-opus.k10394493262606) • [🐱 Nyaa](https://nyaa.si/?q=IYYAVL2YV2YW7EQCE7ZUYLWITW4EPDNI) |
 | `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.k10394009681933) • [🐱 Nyaa](https://nyaa.si/?q=KL4JXWLDN5TIVC53GHJPHIIX7UHEKKBB) |
-| `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E02 (1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-gals-cant-kind-otaku-s01e02-1080p-cr.n2098670) • [🐱 Nyaa](https://nyaa.si/?q=GLFG5S3UH2GWN23WATUDOGYLIKWDYBHB) |
-| `[Yameii] Dorohedoro - S02E05 [English Dub] [CR WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e05-english-dub-cr-web-dl.n2098669) • [🐱 Nyaa](https://nyaa.si/?q=VNYPQQGLQETWQ7WK7M4OXOCOU5SDDOZE) |
-| `[Yameii] Dorohedoro - S02E04 [English Dub] [CR WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e04-english-dub-cr-web-dl.n2098668) • [🐱 Nyaa](https://nyaa.si/?q=HN4U6O52M5AHQQSZ6K4WTGI6QEII3NCD) |
 
 ---
 <div align="center">

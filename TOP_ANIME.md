@@ -10,7 +10,7 @@
 
 | Rank | Poster | Informasi Anime |
 | :---: | :---: | --- |
-| **#2** | <img src="https://myanimelist.net/images/anime/1448/154111.jpg" width="100" style="border-radius: 8px;"> | **[Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)**<br>⭐ Score: 9.16<br>🎭 Genre: Action, Adventure, Mystery, Supernatural |
+| **#2** | <img src="https://myanimelist.net/images/anime/1448/154111.jpg" width="100" style="border-radius: 8px;"> | **[Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)**<br>⭐ Score: 9.15<br>🎭 Genre: Action, Adventure, Mystery, Supernatural |
 | **#50** | <img src="https://myanimelist.net/images/anime/1540/155824.jpg" width="100" style="border-radius: 8px;"> | **[Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season)**<br>⭐ Score: 8.74<br>🎭 Genre: Drama, Fantasy, Suspense |
 | **#51** | <img src="https://myanimelist.net/images/anime/1726/155542.jpg" width="100" style="border-radius: 8px;"> | **[Tongari Boushi no Atelier](https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier)**<br>⭐ Score: 8.74<br>🎭 Genre: Fantasy |
 | **#54** | <img src="https://myanimelist.net/images/anime/1244/138851.jpg" width="100" style="border-radius: 8px;"> | **[One Piece](https://myanimelist.net/anime/21/One_Piece)**<br>⭐ Score: 8.73<br>🎭 Genre: Action, Adventure, Fantasy |
