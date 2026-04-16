@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.09.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.10.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] [H.266] Dorohedoro S02E05 [1080p NF WEBRip VVC HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-dorohedoro-s02e05-1080p-nf-webrip.k10406421908739) • [🐱 Nyaa](https://nyaa.si/?q=SOIYCD4PEYTQ3ZPW5ZAONRAE23HMTHRP) |
+| `[LbE3L] [H.266] NIPPON SANGOKU S01E02 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-nippon-sangoku-s01e02-1080p-amzn.k10406355155460) • [🐱 Nyaa](https://nyaa.si/?q=AH7UFORHVN5QZI7RVOHZA6BUCXDFNFU2) |
+| `[BlackRabbit] Fairy Tail (2009) - S02 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s02-bluray-1080p-opus.k10406256097034) • [🐱 Nyaa](https://nyaa.si/?q=YQ45PCNQR2SORTV7KPTA5EPA5HDINPZV) |
+| `[Gecko] Koala's Diary - S01E29 (コアラ絵日記; Koala Enikki) [YT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e29-koala-enikki-ytb-web.n2098768) • [🐱 Nyaa](https://nyaa.si/?q=GIXUNJQC7ZP5OA4H2FQQTYPGUSPU6OUC) |
+| `[ToonsHub] Koalas Diary S01E29 1080p LNTV WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e29-1080p-lntv-web-dl.n2098767) • [🐱 Nyaa](https://nyaa.si/?q=CP5ZXGQ2OQ5KGM2SEKNH4MYWQHEHPDVI) |
 | `[Bohemia] Mushishi S02 REPACK (1080p BD HEVC Opus)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bohemia-mushishi-s02-repack-1080p-bd-hevc-opus.k10405835611401) • [🐱 Nyaa](https://nyaa.si/?q=KT5WSKH4S55QZMIJSTGVVJWBOIWITWHH) |
 | `Dandelion S01 1080p NF WEB-DL MULTi DDP5.1 H 264-VARYG (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dandelion-s01-1080p-nf-web-dl-multi-ddp5.n2098765) • [🐱 Nyaa](https://nyaa.si/?q=C2TZDNEKTTJWF5L3UYJLJO7BWUXZ5TVC) |
 | `Dandelion S01 1080p NF WEB-DL DUAL DDP5.1 H 264-VARYG (Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dandelion-s01-1080p-nf-web-dl-dual-ddp5.n2098752) • [🐱 Nyaa](https://nyaa.si/?q=7ODRELRZXUST6VUSMOPVSTINAKVNE4K7) |
@@ -38,11 +43,6 @@
 | `[ToonsHub] Dandelion S01 1080p NF WEB-DL DUAL DDP5.1 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dandelion-s01-1080p-nf-web-dl-dual.n2098733) • [🐱 Nyaa](https://nyaa.si/?q=5PX7VYUOS6Z7GKWOKJUS2VRRHQW4GECJ) |
 | `[BlackRabbit] Lupin III (1971) - S01 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-lupin-iii-1971-s01-bluray-1080p-opus.k10400224739587) • [🐱 Nyaa](https://nyaa.si/?q=7T6CW77J3V2AGQQQ7C26YJUB6VHPEZPX) |
 | `[Gecko] Reborn as a Cat - S01E25 (为喵人生; Wei Miao Rensheng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e25-wei-miao-rensheng-bili.k10398458232331) • [🐱 Nyaa](https://nyaa.si/?q=3VFSB53KS4733IYXD3MAKKQXML4DCXEZ) |
-| `[ToonsHub] Reborn as a Cat S01E25 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e25-1080p-bili-web-dl.n2098693) • [🐱 Nyaa](https://nyaa.si/?q=4FIVQH6G3L54PHCCSCPOUC3EPHYO7BXH) |
-| `[Gecko] The Birth of Kitaro The Mystery of GeGeGe (鬼太郎誕生 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-birth-kitaro-mystery-gegege-kitarou-tanjou-gegege.n2098690) • [🐱 Nyaa](https://nyaa.si/?q=CRNAZ5I3FQRYCADGZK7BEA6PRZUVUQUS) |
-| `Reborn as a Cat S01E24 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e24-1080p-bili-web-dl-aac2.n2098687) • [🐱 Nyaa](https://nyaa.si/?q=T4WWEDEYFCQSVTKCI7MGAYHKNGSOJE4O) |
-| `[Freehold] Chained Soldier S02E06 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e06-repack2-adn-web-dl.n2098686) • [🐱 Nyaa](https://nyaa.si/?q=OKTLVMISN3WELTEIP35ANWO55UWSEFTZ) |
-| `[Feibanyama] ReZERO -Starting Life in Another World- S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-rezero-starting-life-another-world-s04e02-iqiyi.n2098683) • [🐱 Nyaa](https://nyaa.si/?q=YFALOBDBHTKUX7JDBN56PAYJS3D7456M) |
 
 ---
 <div align="center">
