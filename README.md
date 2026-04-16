@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.10.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.04.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nnotaclue] Dr. STONE - S04E27 [1080p AV1 Opus 2.0 Multi-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e27-1080p-av1-opus-2.k10414938169354) • [🐱 Nyaa](https://nyaa.si/?q=AQZ3IP2BVEU4AHJBYO2K6YQPQJ4CSE2F) |
+| `[nnotaclue] Dr. STONE - S04E27 [1080p AV1 Opus 2.0 Dual-A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e27-1080p-av1-opus-2.k10414819985672) • [🐱 Nyaa](https://nyaa.si/?q=ZYW6UTIJG4AYF6E22H5PQJG4VXB5XPYU) |
+| `Petals of Reincarnation S01E03 Declaration of War 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/petals-reincarnation-s01e03-declaration-war-1080p-amzn-web.n2099017) • [🐱 Nyaa](https://nyaa.si/?q=CIDEGXMPDSZOP5QE3EDQ3WJIXHYVQT3N) |
+| `Monster Eater S01E03 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e03-1080p-amzn-web-dl-ddp2.n2099016) • [🐱 Nyaa](https://nyaa.si/?q=MXURWCSF2EJ5UCXCTHL645U3LYGAT73M) |
+| `[VARYG] Kirio Fan Club S01E03 Dragon Kirio 1080p ABMA WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-kirio-fan-club-s01e03-dragon-1080p-abma.k10414695174409) • [🐱 Nyaa](https://nyaa.si/?q=QNC3GSZNO3ISJWMFL4RIAXU34V2HI2MC) |
 | `[Gecko] Candy Caries - S01E01 (キャンディーカリエス) [CTHP.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-candy-caries-s01e01-cthp-web-dl-1080p.n2099015) • [🐱 Nyaa](https://nyaa.si/?q=N2X72XCFXM74C2X7Y34OFD5S4A252WRK) |
 | `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.k10413726823684) • [🐱 Nyaa](https://nyaa.si/?q=UMLEVTOSSYMZAG4QQUZUPOHO3BUANSTP) |
 | `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 03 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-haibara-kun-no-tsuyokute-seishun-new-game.n2099013) • [🐱 Nyaa](https://nyaa.si/?q=O25O4TTN4WDJOLZJQWEBKFNAF6QCIFMU) |
@@ -38,11 +43,6 @@
 | `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mata-korosarete-shimatta-no-desu-ne-tantei.2074715) • [🐱 Nyaa](https://nyaa.si/?q=XJ2RQ7BP4Y2Z2BRMIHX6BRRFF4W7IHPE) |
 | `[ASW] Awajima Hyakkei - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-awajima-hyakkei-02-1080p-hevc-x265-10bit-aac.n2098998) • [🐱 Nyaa](https://nyaa.si/?q=432WPYZQMIQJWIJQUAPBWANDBCEXI4R6) |
 | `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mata-korosarete-shimatta-no-desu-ne-tantei.n2098997) • [🐱 Nyaa](https://nyaa.si/?q=6OIQPTKBQCNKLADGQSTL25MCFVXCQCV5) |
-| `[ASW] Reincarnation no Kaben - 03 [1080p HEVC x265 10Bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-reincarnation-no-kaben-03-1080p-hevc-x265-10bit-aac.n2098996) • [🐱 Nyaa](https://nyaa.si/?q=ADH3F3F65FTVXG7TPOZ45KIKT3EKB4BX) |
-| `[Erai-raws] Awajima Hyakkei - 02 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-02-1080p-cr-webrip.k10412438344192) • [🐱 Nyaa](https://nyaa.si/?q=FE32L3KJYESIXLXCJQJVSRWRDMR7X3IX) |
-| `[Erai-raws] Koori no Jouheki - 03 [1080p NF WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-koori-no-jouheki-03-1080p-nf.k10412433662735) • [🐱 Nyaa](https://nyaa.si/?q=NUW35YFSOARH45Y5FUVZ6GXKE77EAIRD) |
-| `[Onalrie] Haibara-kun no Tsuyokute Seishun New Game - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-haibara-kun-no-tsuyokute-seishun-new-game.2074700) • [🐱 Nyaa](https://nyaa.si/?q=HKBXY3AIEU7WUV3VZ53TERKYLU4GOW5Q) |
-| `[Onalrie] Awajima Hyakkei - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-awajima-hyakkei-s01e02-1080p-webrip-av1-mkv.2074698) • [🐱 Nyaa](https://nyaa.si/?q=NYN2LUZFVQR522AN3D4NSFSQJMUIVN7A) |
 
 ---
 <div align="center">
