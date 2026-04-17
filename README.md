@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.18.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.29.50_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e01-1080p-cr.k10431767816453) • [🐱 Nyaa](https://nyaa.si/?q=QCSR5MJGISON4KGA6HE3C5TLQAN6RKUX) |
-| `[Onalrie] Otonari no Tenshi-sama ni Itsunomanika Dame Nin...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-otonari-no-tenshi-sama-ni-itsunomanika-dame.2074899) • [🐱 Nyaa](https://nyaa.si/?q=2F32CNYVMSEZDVM25AGC6FXCSYBFGQ6X) |
-| `[VARYG] That Time I Got Reincarnated as a Slime S04E03 Fo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-time-got-reincarnated-slime-s04e03-forming-avatar.k10431692064000) • [🐱 Nyaa](https://nyaa.si/?q=VGG64IUJBAXUDEYWJ733T4UFCD74HGYV) |
-| `[VARYG] That Time I Got Reincarnated as a Slime S04E03 Th...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-time-got-reincarnated-slime-s04e03-avatar-team.k10431666859275) • [🐱 Nyaa](https://nyaa.si/?q=WMYS5RY2D4AUFJIEB2RDYC7QLPKOGFOY) |
-| `[Yameii] That Time I Got Reincarnated as a Slime - S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-time-got-reincarnated-slime-s04e01-english-dub.n2099232) • [🐱 Nyaa](https://nyaa.si/?q=C72NBC5F3ZTXNXMCVNN3LMJSAJMTVJYX) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e03-1080p-cr.k10431630009609) • [🐱 Nyaa](https://nyaa.si/?q=HOTVO23V5IO6V7TZL7ICJML2ZZMA7IKV) |
-| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 03 (1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-slime-datta-ken-s4-03.n2099229) • [🐱 Nyaa](https://nyaa.si/?q=C4PT7TZAECQKPOGF3XFS6A5K3B7TAH2M) |
-| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 03 (720p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-slime-datta-ken-s4-03.n2099227) • [🐱 Nyaa](https://nyaa.si/?q=JYSXWUXFYH45K3V5Q6CTCKDW6XJUPJDG) |
-| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 03 (480p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-slime-datta-ken-s4-03.n2099226) • [🐱 Nyaa](https://nyaa.si/?q=MR6HIRTMZUA4WBWNSBADZXIIONHH3PKB) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.k10431610392335) • [🐱 Nyaa](https://nyaa.si/?q=D7NV3QVOAQU2YGB6VZ4ZOHZXWSV6KJD3) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.n2099222) • [🐱 Nyaa](https://nyaa.si/?q=VD3U4L4ZHGWTINQW2VKCPGFW5AOLJJ2V) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.n2099220) • [🐱 Nyaa](https://nyaa.si/?q=G5MFXEGI7ZMNZ6T6FKANOX4S52HV5GBF) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e03-1080p-bili.n2099218) • [🐱 Nyaa](https://nyaa.si/?q=FS3RKPWAVJNOXYAEZDTWN4WWQCBR2UUC) |
-| `[BlackRabbit] Love Tyrant (2017) - S01 [Bluray-1080p][Opu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-love-tyrant-2017-s01-bluray-1080p-opus.k10431428692484) • [🐱 Nyaa](https://nyaa.si/?q=F7SI6ODDUCTPSPYMB3ZJLJAYM45HFVK6) |
-| `The Angel Next Door Spoils Me Rotten S02E03 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/angel-next-door-spoils-me-rotten-s02e03-1080p.n2099216) • [🐱 Nyaa](https://nyaa.si/?q=DD2YC5VXU5FL3YEA4O5AXQ4ETRELD6JK) |
+| `[VARYG] That Time I Got Reincarnated as a Slime S04E03 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-time-got-reincarnated-slime-s04e03-1080p-nf.k10432866217220) • [🐱 Nyaa](https://nyaa.si/?q=RQOIZRI2XMVB6WOOQKRBXDCL5QJF6DAP) |
+| `[VARYG] Fist of the North Star HOKUTO NO KEN S01E03 South...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-fist-north-star-hokuto-no-ken-s01e03.k10432833478148) • [🐱 Nyaa](https://nyaa.si/?q=UH4UWAEUDXCTOE2FSNEOUFABKZ4BJPX2) |
+| `Fist of the North Star HOKUTO NO KEN S01E03 Southern Cros...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fist-north-star-hokuto-no-ken-s01e03-southern.n2099301) • [🐱 Nyaa](https://nyaa.si/?q=DTNFGPZSLGS2ECOWMLWR5JONHTPRTSIM) |
+| `[Trix] The Drops of God S01E02 [WEBRip 1080p AV1 Opus] (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-drops-god-s01e02-webrip-1080p-av1-opus.n2099300) • [🐱 Nyaa](https://nyaa.si/?q=CMRLINKGXF3PCHTAULUQ3KBCMTLV4CRU) |
+| `[Erai-raws] Hokuto no Ken (2026) - 03 [720p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-03-720p.k10432681317632) • [🐱 Nyaa](https://nyaa.si/?q=KOYUPSGUJZXBFJPKHZAAZT2MODT7T7RZ) |
+| `[Erai-raws] Hokuto no Ken (2026) - 03 [540p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-03-540p.k10432680680451) • [🐱 Nyaa](https://nyaa.si/?q=TYS27BUBYTHDS2T7HW7ZMRMLCDTFYIBV) |
+| `[Erai-raws] Hokuto no Ken (2026) - 03 [1080p AMZN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-03-1080p.k10432680375817) • [🐱 Nyaa](https://nyaa.si/?q=SSW343ND7NZTPC4MNPDQY2I6XNM4OLW3) |
+| `[Judas] Tensei Shitara Slime Datta Ken (That Time I Got R...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tensei-shitara-slime-datta-ken-time-got.n2099295) • [🐱 Nyaa](https://nyaa.si/?q=3BWOH5GVDBTVBR3XEMTTQOGBEA2E6HK5) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e03-1080p-nf.k10432630969346) • [🐱 Nyaa](https://nyaa.si/?q=G4PZON5RP2QJ4QOPMAHOKLJ5S2BRI743) |
+| `[ToonsHub] Snowball Earth S01E03 1080p NF WEB-DL DUAL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-snowball-earth-s01e03-1080p-nf-web-dl.k10432621759490) • [🐱 Nyaa](https://nyaa.si/?q=UAFF7VYXEAIDBCIWUGVYFKOSBNGYJQ4L) |
+| `Snowball Earth S01E03 My First Friend 1080p NF WEB-DL DUA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e03-my-first-friend-1080p-nf.n2099292) • [🐱 Nyaa](https://nyaa.si/?q=KKNJJOMTJDNH6EB6MEMMRMKVCOLHROKN) |
+| `[Kosaka] That Time I Got Reincarnated as a Slime - S04E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kosaka-time-got-reincarnated-slime-s04e03-webrip-1080p.k10432602821378) • [🐱 Nyaa](https://nyaa.si/?q=WRQTA7CBRWEHNIOI7LURDB7A5VBCLT45) |
+| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E03 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fist-north-star-hokuto-no-ken-s01e03.k10432565500928) • [🐱 Nyaa](https://nyaa.si/?q=YGBSVB5BW6G2ZSZ7UFBDTFO5WG4AKHWB) |
+| `[ASW] Tensei Shitara Slime Datta Ken S4 - 03 [1080p HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tensei-shitara-slime-datta-ken-s4-03.n2099289) • [🐱 Nyaa](https://nyaa.si/?q=OM4IPB4S7WXXMQC6C62HYOULHTU5QG7C) |
+| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E03 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fist-north-star-hokuto-no-ken-s01e03.k10432547372303) • [🐱 Nyaa](https://nyaa.si/?q=D7GUABH6PJXJQG5J6O7LX4IIP4DY2A6T) |
 
 ---
 <div align="center">
