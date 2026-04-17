@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.53.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.51.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e03.k10437875914511) • [🐱 Nyaa](https://nyaa.si/?q=2GNOG4BCXZO4H7SP5EMVNFLKQ2FDONYN) |
+| `[GHOST][1080p] Battle Girl High School [BD HEVC 10bit Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-1080p-battle-girl-high-school-bd-hevc.n2099400) • [🐱 Nyaa](https://nyaa.si/?q=6AIRCF5CNJDJGD2SLZ6ZBHEEJIVVQ3BF) |
+| `[Feibanyama] That Time I Got Reincarnated as a Slime S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-time-got-reincarnated-slime-s04e03-iqiyi-webrip.n2099399) • [🐱 Nyaa](https://nyaa.si/?q=C2V267PG2ZLFOGISTJXSBCE5KSG7TBCC) |
+| `[FSP DN] Jian Lai 2 (Sword of Coming 2) - 19 [4K] | 剑来` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-jian-lai-2-sword-coming-2-19-4k.n2099396) • [🐱 Nyaa](https://nyaa.si/?q=ZWKA73QFPCW3Q2MCZ63XFTOX5KXAOIVG) |
+| `[FSP DN] The Gate of Mystical Realm - 23 (4K) | 玄界之门` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-gate-mystical-realm-23-4k.n2099395) • [🐱 Nyaa](https://nyaa.si/?q=IMQWZMTUAREKDNUWNK3A6ID75NEWAQ24) |
 | `Dandelion S01 1080p NF WEB-DL MULTi Opus5.1 AV1 HDR10+ (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dandelion-s01-1080p-nf-web-dl-multi-opus5.n2099393) • [🐱 Nyaa](https://nyaa.si/?q=LRL5DJ7HKGMH62Z4F7HKAOLQ5BKV3SZL) |
 | `Dandelion S01 1080p NF WEB-DL MULTi Opus2.0 AV1 (Multi-Au...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dandelion-s01-1080p-nf-web-dl-multi-opus2.n2099392) • [🐱 Nyaa](https://nyaa.si/?q=ZNUQW67W6SJRI7MIJDM2YJB3HU2MNAEQ) |
 | `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2099391) • [🐱 Nyaa](https://nyaa.si/?q=NBTSSUGZKFDIKNGKN7WHT5E4CSHGZBL5) |
@@ -38,11 +43,6 @@
 | `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E03 [WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-tensei-shitara-slime-datta-ken-4-s04e03.n2099383) • [🐱 Nyaa](https://nyaa.si/?q=WKCW4KP6RXG5ZRAUMCXQSHXXPEBGDP6Z) |
 | `[Erai-raws] Hokuto no Ken (2026) - 04 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-04-1080p.n2099381) • [🐱 Nyaa](https://nyaa.si/?q=DU7AYNVGHIXDNQFPS2KTGDXPRKVB37MO) |
 | `[BlackRabbit] Nyaruko - Crawling with Love! (2012) - S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nyaruko-crawling-love-2012-s01-bluray-1080p.k10435439992075) • [🐱 Nyaa](https://nyaa.si/?q=FYT3A7NUEF5GISPH4AVCA6BW26EEYMGE) |
-| `[WakuTomete] Princess Session Orchestra - 37–48 Batch (WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wakutomete-princess-session-orchestra-3748-batch-web-1080p.n2099376) • [🐱 Nyaa](https://nyaa.si/?q=QETGK4IOQCCCTLCOMJW2QL3U5JESIUC4) |
-| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Bota...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kamiina-botan-yoeru-sugata-wa-yuri-no.n2099375) • [🐱 Nyaa](https://nyaa.si/?q=4HQLJDSZ3L7WCGXCDHOQ4B7PHOPTTLYD) |
-| `[KOTEX] Tensei Shitara Dai Nana Ouji Datta no de, Kimama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kotex-tensei-shitara-dai-nana-ouji-datta-no.n2099361) • [🐱 Nyaa](https://nyaa.si/?q=H4FW2BFWWKKBEF5SLHO52G52OBRUSNQF) |
-| `[ToonsHub] KILL BLUE S01E01 1080p AMZN WEB-DL MULTi DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e01-1080p-amzn-web-dl.k10434388791815) • [🐱 Nyaa](https://nyaa.si/?q=SZJMRUHHEU5SOIZMEKCQCIBE77Q35FHK) |
-| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2099358) • [🐱 Nyaa](https://nyaa.si/?q=5D3DLZCRV5UZXVNCE4UYNN56GMOBT3AQ) |
 
 ---
 <div align="center">
