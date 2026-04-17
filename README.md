@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.44.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.11.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 16 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2099159) • [🐱 Nyaa](https://nyaa.si/?q=E3U3UP2RVEZRHCXLF7323WOBTO5IHG6U) |
-| `[WrathMonth] The Most Heretical Last Boss Queen: From Vil...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wrathmonth-most-heretical-last-boss-queen-from-villainess.n2099140) • [🐱 Nyaa](https://nyaa.si/?q=UELPH3SJ3UQ2UM6PN2TNUDX6EDFWLOPZ) |
-| `[Mo7tas] Darwin Jihen [1080p] [Multi language subs]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-darwin-jihen-1080p-multi-language-subs.n2099139) • [🐱 Nyaa](https://nyaa.si/?q=KK76REINLO5KOOQD3MFHSSNUTQSRE3GO) |
-| `[Onalrie] Hitori no Shita - The Outcast - S06E16 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e16-1080p-webrip-av1-mkv.2074827) • [🐱 Nyaa](https://nyaa.si/?q=K3ISDMUP6AOPBUHQ4Q3WI5EGAQ5DMVUJ) |
-| `[AK4NE] Classroom of the Elite (2017) - S04E06 (E44) - A ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-2017-s04e06-e44-tumultuous-scramble.k10423883826436) • [🐱 Nyaa](https://nyaa.si/?q=AIVDCE5KBDMXZ43VQNCYCH24WDIZBMH5) |
-| `[BlackRabbit] Kakuriyo -Bed & Breakfast for Spirits- (201...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kakuriyo-bed-breakfast-spirits-2018-s01-bluray.k10423516553472) • [🐱 Nyaa](https://nyaa.si/?q=JN2527KUW4SED4WGYE2Z6PKTVK7PNOXI) |
-| `[BlackRabbit] Lupin III (1971) - S05 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-lupin-iii-1971-s05-bluray-1080p-opus.k10423066615567) • [🐱 Nyaa](https://nyaa.si/?q=SSYZPEMIMBUWYW6EKR3WH56IKLZMXE32) |
-| `Hitori No Shita The Outcast S06E16 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e16-1080p-cr-web.n2099115) • [🐱 Nyaa](https://nyaa.si/?q=3FXHY7IOAK63BPC3AAWRBXLLWFT7DOLE) |
-| `JUJUTSU KAISEN S03E12 Sendai Colony 1080p CR WEB-DL MULTi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jujutsu-kaisen-s03e12-sendai-colony-1080p-cr-web.n2099114) • [🐱 Nyaa](https://nyaa.si/?q=6W2BOSJ2XC3VLMWJQJVP2RRJABFXIGRS) |
-| `[LbE3L] Noir S01 (2001, Spanish Dubs) [1080p BD AV1] [Cas...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-noir-s01-2001-spanish-dubs-1080p-bd.k10422777402382) • [🐱 Nyaa](https://nyaa.si/?q=7SW66E23LJRBLTCDB3POWAJEQJ3ZQCO7) |
-| `[BlackRabbit] Fairy Tail (2009) - S07 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s07-bluray-1080p-opus.k10422651009294) • [🐱 Nyaa](https://nyaa.si/?q=VWHTNGOGPZIZIO2GVOXJHXO2D45WCFAC) |
-| `[LbE3L] Oshi no Ko S03E08 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e08-1080p-webrip-av1.k10422368901890) • [🐱 Nyaa](https://nyaa.si/?q=4PGTOSMIWOG5SFYSXDAMAWTT6TNMQNNV) |
-| `[Gecko] Hitori No Shita - The Outcast - S06E17v2 (一人之下; Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e17v2-yi-ren.n2099098) • [🐱 Nyaa](https://nyaa.si/?q=3IWRKTMAG4OYU55KA7KE4RF2YJOF3NOM) |
-| `[hchcsen] The Wings of Rean Season 1 (BD Remux 1080p x264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hchcsen-wings-rean-season-1-bd-remux-1080p.n2099096) • [🐱 Nyaa](https://nyaa.si/?q=YDFNLXRAILEQBA3TJPEP3FBGJOE63476) |
-| `[hchcsen] The Wings of Rean S01 [BD Remux 1080p AVC 8-bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hchcsen-wings-rean-s01-bd-remux-1080p-avc.n2099095) • [🐱 Nyaa](https://nyaa.si/?q=HBNIRERS6TWVK2RMWOWB74UXUAXNU3FV) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.k10430671960839) • [🐱 Nyaa](https://nyaa.si/?q=M3LDJYTWV4OC5I6RHD3LSNY3473OKTYP) |
+| `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu K...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099194) • [🐱 Nyaa](https://nyaa.si/?q=I62L37SEMB43JKI7NDS45LQQTJZVWBOQ) |
+| `[ASW] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099190) • [🐱 Nyaa](https://nyaa.si/?q=6OTOOCFWVZFK25JLFRWQ5ZMKEEFFYNOY) |
+| `An Observation Log of My Fiancee Who Calls Herself a Vill...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/observation-log-my-fiancee-who-calls-herself-villainess.n2099189) • [🐱 Nyaa](https://nyaa.si/?q=NVYILWIVCG67D2L4UBOCD6EDKDI2GY7S) |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.n2099188) • [🐱 Nyaa](https://nyaa.si/?q=K7LLQJE4ANGZYIG5N4PC3KAYSEXEFFDY) |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.n2099187) • [🐱 Nyaa](https://nyaa.si/?q=2DOCQKYMQIBE4GMOKJ5YA4ORNFQO3VWH) |
+| `[Onalrie] Jishou Akuyaku Reijou na Konyakusha no Kansatsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.2074870) • [🐱 Nyaa](https://nyaa.si/?q=GI457P75TDSBAOF6VNBFWQ5PAAK45UTT) |
+| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.n2099180) • [🐱 Nyaa](https://nyaa.si/?q=LOD7CUNIDPZFYVRGHYM5RIULTG72NON4) |
+| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.n2099179) • [🐱 Nyaa](https://nyaa.si/?q=UVWI5OY6LEO4UDUDCOKB6K6NLZ76H6LH) |
+| `An Observation Log of My Fiancee Who Calls Herself a Vill...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/observation-log-my-fiancee-who-calls-herself-villainess.n2099178) • [🐱 Nyaa](https://nyaa.si/?q=W5JVM4K2IF3PFRGGWD3ZUOY36Q77ZZUH) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099175) • [🐱 Nyaa](https://nyaa.si/?q=LXII3VKKPJIWFG4UUGZF6ZVPBZ36IZZN) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099172) • [🐱 Nyaa](https://nyaa.si/?q=V6SUV6G7Y2XGPXUC6M54PN47FCZCJ3G6) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099170) • [🐱 Nyaa](https://nyaa.si/?q=6HC7ZEWKMAT4BYOKTYVQJTAHN73B6DAL) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.k10429767620353) • [🐱 Nyaa](https://nyaa.si/?q=YPHGYWG4K6QUAKRJ4MALP42EDDSLZL7G) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.k10429765442054) • [🐱 Nyaa](https://nyaa.si/?q=V5BBDZ67F5SVRX3JYW7VASNLXDNUPTFH) |
 
 ---
 <div align="center">
