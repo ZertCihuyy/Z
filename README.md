@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.38.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.44.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,7 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 16 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2099159) • [🐱 Nyaa](https://nyaa.si/?q=E3U3UP2RVEZRHCXLF7323WOBTO5IHG6U) |
 | `[WrathMonth] The Most Heretical Last Boss Queen: From Vil...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wrathmonth-most-heretical-last-boss-queen-from-villainess.n2099140) • [🐱 Nyaa](https://nyaa.si/?q=UELPH3SJ3UQ2UM6PN2TNUDX6EDFWLOPZ) |
+| `[Mo7tas] Darwin Jihen [1080p] [Multi language subs]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-darwin-jihen-1080p-multi-language-subs.n2099139) • [🐱 Nyaa](https://nyaa.si/?q=KK76REINLO5KOOQD3MFHSSNUTQSRE3GO) |
 | `[Onalrie] Hitori no Shita - The Outcast - S06E16 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e16-1080p-webrip-av1-mkv.2074827) • [🐱 Nyaa](https://nyaa.si/?q=K3ISDMUP6AOPBUHQ4Q3WI5EGAQ5DMVUJ) |
 | `[AK4NE] Classroom of the Elite (2017) - S04E06 (E44) - A ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-2017-s04e06-e44-tumultuous-scramble.k10423883826436) • [🐱 Nyaa](https://nyaa.si/?q=AIVDCE5KBDMXZ43VQNCYCH24WDIZBMH5) |
 | `[BlackRabbit] Kakuriyo -Bed & Breakfast for Spirits- (201...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kakuriyo-bed-breakfast-spirits-2018-s01-bluray.k10423516553472) • [🐱 Nyaa](https://nyaa.si/?q=JN2527KUW4SED4WGYE2Z6PKTVK7PNOXI) |
@@ -41,8 +43,6 @@
 | `[Gecko] Hitori No Shita - The Outcast - S06E17v2 (一人之下; Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e17v2-yi-ren.n2099098) • [🐱 Nyaa](https://nyaa.si/?q=3IWRKTMAG4OYU55KA7KE4RF2YJOF3NOM) |
 | `[hchcsen] The Wings of Rean Season 1 (BD Remux 1080p x264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hchcsen-wings-rean-season-1-bd-remux-1080p.n2099096) • [🐱 Nyaa](https://nyaa.si/?q=YDFNLXRAILEQBA3TJPEP3FBGJOE63476) |
 | `[hchcsen] The Wings of Rean S01 [BD Remux 1080p AVC 8-bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hchcsen-wings-rean-s01-bd-remux-1080p-avc.n2099095) • [🐱 Nyaa](https://nyaa.si/?q=HBNIRERS6TWVK2RMWOWB74UXUAXNU3FV) |
-| `[ASW] Hitori no Shita - The Outcast S6 - 16 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-16-1080p.n2099094) • [🐱 Nyaa](https://nyaa.si/?q=I42OJ43CAEQF5JERLGCGKXNAZ5L46PJQ) |
-| `[Erai-raws] Dandelion - 01 ~ 07 [1080p NF WEBRip HEVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dandelion-01-07-1080p-nf-webrip.n2099085) • [🐱 Nyaa](https://nyaa.si/?q=TJYVPUG4CS5QH2LLXFKZADSNVR5S3RN6) |
 
 ---
 <div align="center">
