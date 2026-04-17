@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.53.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.57.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,8 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AK4NE] Classroom of the Elite (2017) - S04E06 (E44) - A ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-2017-s04e06-e44-tumultuous-scramble.k10423883826436) • [🐱 Nyaa](https://nyaa.si/?q=AIVDCE5KBDMXZ43VQNCYCH24WDIZBMH5) |
+| `[BlackRabbit] Kakuriyo -Bed & Breakfast for Spirits- (201...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kakuriyo-bed-breakfast-spirits-2018-s01-bluray.k10423516553472) • [🐱 Nyaa](https://nyaa.si/?q=JN2527KUW4SED4WGYE2Z6PKTVK7PNOXI) |
 | `[BlackRabbit] Lupin III (1971) - S05 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-lupin-iii-1971-s05-bluray-1080p-opus.k10423066615567) • [🐱 Nyaa](https://nyaa.si/?q=SSYZPEMIMBUWYW6EKR3WH56IKLZMXE32) |
-| `[VARYG] Hitori No Shita The Outcast S06E16 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-hitori-no-shita-outcast-s06e16-1080p-cr.k10423052157967) • [🐱 Nyaa](https://nyaa.si/?q=3FXHY7IOAK63BPC3AAWRBXLLWFT7DOLE) |
+| `Hitori No Shita The Outcast S06E16 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e16-1080p-cr-web.n2099115) • [🐱 Nyaa](https://nyaa.si/?q=3FXHY7IOAK63BPC3AAWRBXLLWFT7DOLE) |
 | `JUJUTSU KAISEN S03E12 Sendai Colony 1080p CR WEB-DL MULTi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jujutsu-kaisen-s03e12-sendai-colony-1080p-cr-web.n2099114) • [🐱 Nyaa](https://nyaa.si/?q=6W2BOSJ2XC3VLMWJQJVP2RRJABFXIGRS) |
 | `[LbE3L] Noir S01 (2001, Spanish Dubs) [1080p BD AV1] [Cas...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-noir-s01-2001-spanish-dubs-1080p-bd.k10422777402382) • [🐱 Nyaa](https://nyaa.si/?q=7SW66E23LJRBLTCDB3POWAJEQJ3ZQCO7) |
 | `[BlackRabbit] Fairy Tail (2009) - S07 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s07-bluray-1080p-opus.k10422651009294) • [🐱 Nyaa](https://nyaa.si/?q=VWHTNGOGPZIZIO2GVOXJHXO2D45WCFAC) |
@@ -41,8 +43,6 @@
 | `[Erai-raws] Dandelion - 01 ~ 07 [1080p NF WEBRip HEVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dandelion-01-07-1080p-nf-webrip.n2099085) • [🐱 Nyaa](https://nyaa.si/?q=TJYVPUG4CS5QH2LLXFKZADSNVR5S3RN6) |
 | `[Beltraz] Invaders of the Rokujyoma!? - S01 (2014) (BD 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-invaders-rokujyoma-s01-2014-bd-1080p-x264.k10419873148935) • [🐱 Nyaa](https://nyaa.si/?q=Z77NGGSCEBNVZ45ZMHF5ZOZFOZLDZJIC) |
 | `[Gecko] Hitori No Shita - The Outcast - S06E17 (一人之下; Yi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e17-yi-ren.k10419649342721) • [🐱 Nyaa](https://nyaa.si/?q=FRPZ42E7IAXQDG6DNRC2INYEY7H64WNW) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 16 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-16-1080p-82109fa9-mkv.n2099076) • [🐱 Nyaa](https://nyaa.si/?q=EFNALVE5VWMO46IECN3GLLL3MJ2ZK7C3) |
-| `[ToonsHub] Hitori No Shita The Outcast S06E16 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e16-1080p-cr.k10419643155203) • [🐱 Nyaa](https://nyaa.si/?q=AK7YDUKSCUCIYBOJGFPLURFCAGNZHJI4) |
 
 ---
 <div align="center">
