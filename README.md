@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.59.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.37.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Beltraz] Omamori Himari (2010) - S01 (BD 1080p x264 Hi10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-omamori-himari-2010-s01-bd-1080p-x264-hi10p-flac.k10417329348365) • [🐱 Nyaa](https://nyaa.si/?q=EWDWL6PCTXQLHTTIQBTKO7MSQVADMIKH) |
-| `[SubsPlus+] Kirio Fan Club - S01E03 (ABEMA WEB-DL 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-kirio-fan-club-s01e03-abema-web-dl.k10416991939593) • [🐱 Nyaa](https://nyaa.si/?q=ARM3MXOLQD7KD4DWISVPU6RASLPDTTPE) |
-| `Kirio Fan Club S01E03 Dragon Kirio 1080p ABMA WEB-DL DDP2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kirio-fan-club-s01e03-dragon-1080p-abma-web.n2099041) • [🐱 Nyaa](https://nyaa.si/?q=QNC3GSZNO3ISJWMFL4RIAXU34V2HI2MC) |
-| `[Commie] Awajima Hyakkei - 02 [B4A36C83].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-awajima-hyakkei-02-b4a36c83-mkv.n2099040) • [🐱 Nyaa](https://nyaa.si/?q=BT6HHATWT2MTBE3PCGCSQDK67QDFLAWK) |
-| `[Feibanyama] Dr STONE S04E26 [IQIYI WebRip 2160p HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dr-stone-s04e26-iqiyi-webrip-2160p-hevc.n2099039) • [🐱 Nyaa](https://nyaa.si/?q=XMPMASTOOEXI24SY2ECR3B6Z33KFL23U) |
-| `[Sokudo] Dr. STONE - Science Future - S04E26 [1080p AV1][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-dr-stone-science-future-s04e26-1080p-av1.n2099021) • [🐱 Nyaa](https://nyaa.si/?q=FQXE3MKIMT5XVKVKEBQGTVP2X2YJF4CL) |
-| `[Breeze] Dr. STONE - Science Future - S04E26 [1080p AV1][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-dr-stone-science-future-s04e26-1080p-av1.n2099020) • [🐱 Nyaa](https://nyaa.si/?q=7A6LZMEZ6E5ZGDIHGRWOKUJNGNFPWTQ2) |
-| `[SubsPlus+] Petals of Reincarnation - S01E03 (AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-petals-reincarnation-s01e03-amzn-web-dl-1080p.k10415121067531) • [🐱 Nyaa](https://nyaa.si/?q=6M7FWRQESYWUTF4ZFY33I3NZTRB576RV) |
-| `[nnotaclue] Dr. STONE - S04E27 [1080p AV1 Opus 2.0 Multi-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e27-1080p-av1-opus-2.k10415115193349) • [🐱 Nyaa](https://nyaa.si/?q=AQZ3IP2BVEU4AHJBYO2K6YQPQJ4CSE2F) |
-| `[nnotaclue] Dr. STONE - S04E27 [1080p AV1 Opus 2.0 Dual-A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e27-1080p-av1-opus-2.k10414819985672) • [🐱 Nyaa](https://nyaa.si/?q=ZYW6UTIJG4AYF6E22H5PQJG4VXB5XPYU) |
-| `Petals of Reincarnation S01E03 Declaration of War 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/petals-reincarnation-s01e03-declaration-war-1080p-amzn-web.n2099017) • [🐱 Nyaa](https://nyaa.si/?q=CIDEGXMPDSZOP5QE3EDQ3WJIXHYVQT3N) |
-| `Monster Eater S01E03 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e03-1080p-amzn-web-dl-ddp2.n2099016) • [🐱 Nyaa](https://nyaa.si/?q=MXURWCSF2EJ5UCXCTHL645U3LYGAT73M) |
-| `[Gecko] Candy Caries - S01E01 (キャンディーカリエス) [CTHP.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-candy-caries-s01e01-cthp-web-dl-1080p.n2099015) • [🐱 Nyaa](https://nyaa.si/?q=N2X72XCFXM74C2X7Y34OFD5S4A252WRK) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.k10413726823684) • [🐱 Nyaa](https://nyaa.si/?q=UMLEVTOSSYMZAG4QQUZUPOHO3BUANSTP) |
-| `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 03 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-haibara-kun-no-tsuyokute-seishun-new-game.n2099013) • [🐱 Nyaa](https://nyaa.si/?q=O25O4TTN4WDJOLZJQWEBKFNAF6QCIFMU) |
+| `[hchcsen] The Wings of Rean Season 1 (BD Remux 1080p x264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hchcsen-wings-rean-season-1-bd-remux-1080p.n2099096) • [🐱 Nyaa](https://nyaa.si/?q=YDFNLXRAILEQBA3TJPEP3FBGJOE63476) |
+| `[hchcsen] The Wings of Rean S01 [BD Remux 1080p AVC 8-bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hchcsen-wings-rean-s01-bd-remux-1080p-avc.n2099095) • [🐱 Nyaa](https://nyaa.si/?q=HBNIRERS6TWVK2RMWOWB74UXUAXNU3FV) |
+| `[ASW] Hitori no Shita - The Outcast S6 - 16 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-16-1080p.n2099094) • [🐱 Nyaa](https://nyaa.si/?q=I42OJ43CAEQF5JERLGCGKXNAZ5L46PJQ) |
+| `[Erai-raws] Dandelion - 01 ~ 07 [1080p NF WEBRip HEVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dandelion-01-07-1080p-nf-webrip.n2099085) • [🐱 Nyaa](https://nyaa.si/?q=TJYVPUG4CS5QH2LLXFKZADSNVR5S3RN6) |
+| `[Beltraz] Invaders of the Rokujyoma!? - S01 (2014) (BD 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-invaders-rokujyoma-s01-2014-bd-1080p-x264.k10419873148935) • [🐱 Nyaa](https://nyaa.si/?q=Z77NGGSCEBNVZ45ZMHF5ZOZFOZLDZJIC) |
+| `[Gecko] Hitori No Shita - The Outcast - S06E17 (一人之下; Yi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e17-yi-ren.k10419649342721) • [🐱 Nyaa](https://nyaa.si/?q=FRPZ42E7IAXQDG6DNRC2INYEY7H64WNW) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 16 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-16-1080p-82109fa9-mkv.n2099076) • [🐱 Nyaa](https://nyaa.si/?q=EFNALVE5VWMO46IECN3GLLL3MJ2ZK7C3) |
+| `[ToonsHub] Hitori No Shita The Outcast S06E16 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e16-1080p-cr.k10419643155203) • [🐱 Nyaa](https://nyaa.si/?q=AK7YDUKSCUCIYBOJGFPLURFCAGNZHJI4) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 16 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-16-720p-c2a244e1-mkv.n2099073) • [🐱 Nyaa](https://nyaa.si/?q=WG427SH4A26EMVYCBIM5TR5K2JMSBJ4O) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 16 (480p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-16-480p-7747a787-mkv.n2099072) • [🐱 Nyaa](https://nyaa.si/?q=HVQRAEJ6O3WOGT24TGI63E3EMNU4PZAG) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 16 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.k10419632400654) • [🐱 Nyaa](https://nyaa.si/?q=TDVQ4LJU74HA3PV7KDQ2ICIPAZNZZ6DK) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 16 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2099070) • [🐱 Nyaa](https://nyaa.si/?q=EVRAKOD3FXNBSGF6YDBDELO4LD42FBVE) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 16 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2099069) • [🐱 Nyaa](https://nyaa.si/?q=SPPECN3NYMPF5Q23V6EWG6AZ2ENE2FQI) |
+| `[RAW] Perfect Blue [HEVC 2160p 4K + DTS-HD 5.1 JP, EN + S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raw-perfect-blue-hevc-2160p-4k-dts-hd.n2099068) • [🐱 Nyaa](https://nyaa.si/?q=R7KEJK7RX6M2YPJJT4QDYXUWGUZ3X4XA) |
+| `[Gecko] Your Letter (2025) [CTHP.WEB-DL 1080P AVC, AAC, D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-your-letter-2025-cthp-web-dl-1080p.k10418935987721) • [🐱 Nyaa](https://nyaa.si/?q=UGVXSJ2RNVMK6GQE7YJ73QMBOT6JV2ZP) |
 
 ---
 <div align="center">
