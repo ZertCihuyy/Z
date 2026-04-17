@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.11.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.18.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.k10430671960839) • [🐱 Nyaa](https://nyaa.si/?q=M3LDJYTWV4OC5I6RHD3LSNY3473OKTYP) |
-| `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu K...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099194) • [🐱 Nyaa](https://nyaa.si/?q=I62L37SEMB43JKI7NDS45LQQTJZVWBOQ) |
-| `[ASW] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099190) • [🐱 Nyaa](https://nyaa.si/?q=6OTOOCFWVZFK25JLFRWQ5ZMKEEFFYNOY) |
-| `An Observation Log of My Fiancee Who Calls Herself a Vill...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/observation-log-my-fiancee-who-calls-herself-villainess.n2099189) • [🐱 Nyaa](https://nyaa.si/?q=NVYILWIVCG67D2L4UBOCD6EDKDI2GY7S) |
-| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.n2099188) • [🐱 Nyaa](https://nyaa.si/?q=K7LLQJE4ANGZYIG5N4PC3KAYSEXEFFDY) |
-| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.n2099187) • [🐱 Nyaa](https://nyaa.si/?q=2DOCQKYMQIBE4GMOKJ5YA4ORNFQO3VWH) |
-| `[Onalrie] Jishou Akuyaku Reijou na Konyakusha no Kansatsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.2074870) • [🐱 Nyaa](https://nyaa.si/?q=GI457P75TDSBAOF6VNBFWQ5PAAK45UTT) |
-| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.n2099180) • [🐱 Nyaa](https://nyaa.si/?q=LOD7CUNIDPZFYVRGHYM5RIULTG72NON4) |
-| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.n2099179) • [🐱 Nyaa](https://nyaa.si/?q=UVWI5OY6LEO4UDUDCOKB6K6NLZ76H6LH) |
-| `An Observation Log of My Fiancee Who Calls Herself a Vill...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/observation-log-my-fiancee-who-calls-herself-villainess.n2099178) • [🐱 Nyaa](https://nyaa.si/?q=W5JVM4K2IF3PFRGGWD3ZUOY36Q77ZZUH) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099175) • [🐱 Nyaa](https://nyaa.si/?q=LXII3VKKPJIWFG4UUGZF6ZVPBZ36IZZN) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099172) • [🐱 Nyaa](https://nyaa.si/?q=V6SUV6G7Y2XGPXUC6M54PN47FCZCJ3G6) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099170) • [🐱 Nyaa](https://nyaa.si/?q=6HC7ZEWKMAT4BYOKTYVQJTAHN73B6DAL) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.k10429767620353) • [🐱 Nyaa](https://nyaa.si/?q=YPHGYWG4K6QUAKRJ4MALP42EDDSLZL7G) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.k10429765442054) • [🐱 Nyaa](https://nyaa.si/?q=V5BBDZ67F5SVRX3JYW7VASNLXDNUPTFH) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e01-1080p-cr.k10431767816453) • [🐱 Nyaa](https://nyaa.si/?q=QCSR5MJGISON4KGA6HE3C5TLQAN6RKUX) |
+| `[Onalrie] Otonari no Tenshi-sama ni Itsunomanika Dame Nin...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-otonari-no-tenshi-sama-ni-itsunomanika-dame.2074899) • [🐱 Nyaa](https://nyaa.si/?q=2F32CNYVMSEZDVM25AGC6FXCSYBFGQ6X) |
+| `[VARYG] That Time I Got Reincarnated as a Slime S04E03 Fo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-time-got-reincarnated-slime-s04e03-forming-avatar.k10431692064000) • [🐱 Nyaa](https://nyaa.si/?q=VGG64IUJBAXUDEYWJ733T4UFCD74HGYV) |
+| `[VARYG] That Time I Got Reincarnated as a Slime S04E03 Th...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-time-got-reincarnated-slime-s04e03-avatar-team.k10431666859275) • [🐱 Nyaa](https://nyaa.si/?q=WMYS5RY2D4AUFJIEB2RDYC7QLPKOGFOY) |
+| `[Yameii] That Time I Got Reincarnated as a Slime - S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-time-got-reincarnated-slime-s04e01-english-dub.n2099232) • [🐱 Nyaa](https://nyaa.si/?q=C72NBC5F3ZTXNXMCVNN3LMJSAJMTVJYX) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e03-1080p-cr.k10431630009609) • [🐱 Nyaa](https://nyaa.si/?q=HOTVO23V5IO6V7TZL7ICJML2ZZMA7IKV) |
+| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 03 (1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-slime-datta-ken-s4-03.n2099229) • [🐱 Nyaa](https://nyaa.si/?q=C4PT7TZAECQKPOGF3XFS6A5K3B7TAH2M) |
+| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 03 (720p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-slime-datta-ken-s4-03.n2099227) • [🐱 Nyaa](https://nyaa.si/?q=JYSXWUXFYH45K3V5Q6CTCKDW6XJUPJDG) |
+| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 03 (480p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tensei-shitara-slime-datta-ken-s4-03.n2099226) • [🐱 Nyaa](https://nyaa.si/?q=MR6HIRTMZUA4WBWNSBADZXIIONHH3PKB) |
+| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.k10431610392335) • [🐱 Nyaa](https://nyaa.si/?q=D7NV3QVOAQU2YGB6VZ4ZOHZXWSV6KJD3) |
+| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.n2099222) • [🐱 Nyaa](https://nyaa.si/?q=VD3U4L4ZHGWTINQW2VKCPGFW5AOLJJ2V) |
+| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.n2099220) • [🐱 Nyaa](https://nyaa.si/?q=G5MFXEGI7ZMNZ6T6FKANOX4S52HV5GBF) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e03-1080p-bili.n2099218) • [🐱 Nyaa](https://nyaa.si/?q=FS3RKPWAVJNOXYAEZDTWN4WWQCBR2UUC) |
+| `[BlackRabbit] Love Tyrant (2017) - S01 [Bluray-1080p][Opu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-love-tyrant-2017-s01-bluray-1080p-opus.k10431428692484) • [🐱 Nyaa](https://nyaa.si/?q=F7SI6ODDUCTPSPYMB3ZJLJAYM45HFVK6) |
+| `The Angel Next Door Spoils Me Rotten S02E03 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/angel-next-door-spoils-me-rotten-s02e03-1080p.n2099216) • [🐱 Nyaa](https://nyaa.si/?q=DD2YC5VXU5FL3YEA4O5AXQ4ETRELD6JK) |
 
 ---
 <div align="center">
