@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.37.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.53.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Lupin III (1971) - S05 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-lupin-iii-1971-s05-bluray-1080p-opus.k10423066615567) • [🐱 Nyaa](https://nyaa.si/?q=SSYZPEMIMBUWYW6EKR3WH56IKLZMXE32) |
+| `[VARYG] Hitori No Shita The Outcast S06E16 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-hitori-no-shita-outcast-s06e16-1080p-cr.k10423052157967) • [🐱 Nyaa](https://nyaa.si/?q=3FXHY7IOAK63BPC3AAWRBXLLWFT7DOLE) |
+| `JUJUTSU KAISEN S03E12 Sendai Colony 1080p CR WEB-DL MULTi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/jujutsu-kaisen-s03e12-sendai-colony-1080p-cr-web.n2099114) • [🐱 Nyaa](https://nyaa.si/?q=6W2BOSJ2XC3VLMWJQJVP2RRJABFXIGRS) |
+| `[LbE3L] Noir S01 (2001, Spanish Dubs) [1080p BD AV1] [Cas...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-noir-s01-2001-spanish-dubs-1080p-bd.k10422777402382) • [🐱 Nyaa](https://nyaa.si/?q=7SW66E23LJRBLTCDB3POWAJEQJ3ZQCO7) |
+| `[BlackRabbit] Fairy Tail (2009) - S07 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s07-bluray-1080p-opus.k10422651009294) • [🐱 Nyaa](https://nyaa.si/?q=VWHTNGOGPZIZIO2GVOXJHXO2D45WCFAC) |
+| `[LbE3L] Oshi no Ko S03E08 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e08-1080p-webrip-av1.k10422368901890) • [🐱 Nyaa](https://nyaa.si/?q=4PGTOSMIWOG5SFYSXDAMAWTT6TNMQNNV) |
+| `[Gecko] Hitori No Shita - The Outcast - S06E17v2 (一人之下; Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e17v2-yi-ren.n2099098) • [🐱 Nyaa](https://nyaa.si/?q=3IWRKTMAG4OYU55KA7KE4RF2YJOF3NOM) |
 | `[hchcsen] The Wings of Rean Season 1 (BD Remux 1080p x264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hchcsen-wings-rean-season-1-bd-remux-1080p.n2099096) • [🐱 Nyaa](https://nyaa.si/?q=YDFNLXRAILEQBA3TJPEP3FBGJOE63476) |
 | `[hchcsen] The Wings of Rean S01 [BD Remux 1080p AVC 8-bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hchcsen-wings-rean-s01-bd-remux-1080p-avc.n2099095) • [🐱 Nyaa](https://nyaa.si/?q=HBNIRERS6TWVK2RMWOWB74UXUAXNU3FV) |
 | `[ASW] Hitori no Shita - The Outcast S6 - 16 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-16-1080p.n2099094) • [🐱 Nyaa](https://nyaa.si/?q=I42OJ43CAEQF5JERLGCGKXNAZ5L46PJQ) |
@@ -36,13 +43,6 @@
 | `[Gecko] Hitori No Shita - The Outcast - S06E17 (一人之下; Yi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e17-yi-ren.k10419649342721) • [🐱 Nyaa](https://nyaa.si/?q=FRPZ42E7IAXQDG6DNRC2INYEY7H64WNW) |
 | `[SubsPlease] Hitori no Shita - The Outcast S6 - 16 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-16-1080p-82109fa9-mkv.n2099076) • [🐱 Nyaa](https://nyaa.si/?q=EFNALVE5VWMO46IECN3GLLL3MJ2ZK7C3) |
 | `[ToonsHub] Hitori No Shita The Outcast S06E16 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e16-1080p-cr.k10419643155203) • [🐱 Nyaa](https://nyaa.si/?q=AK7YDUKSCUCIYBOJGFPLURFCAGNZHJI4) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 16 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-16-720p-c2a244e1-mkv.n2099073) • [🐱 Nyaa](https://nyaa.si/?q=WG427SH4A26EMVYCBIM5TR5K2JMSBJ4O) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 16 (480p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-16-480p-7747a787-mkv.n2099072) • [🐱 Nyaa](https://nyaa.si/?q=HVQRAEJ6O3WOGT24TGI63E3EMNU4PZAG) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 16 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.k10419632400654) • [🐱 Nyaa](https://nyaa.si/?q=TDVQ4LJU74HA3PV7KDQ2ICIPAZNZZ6DK) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 16 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2099070) • [🐱 Nyaa](https://nyaa.si/?q=EVRAKOD3FXNBSGF6YDBDELO4LD42FBVE) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 16 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2099069) • [🐱 Nyaa](https://nyaa.si/?q=SPPECN3NYMPF5Q23V6EWG6AZ2ENE2FQI) |
-| `[RAW] Perfect Blue [HEVC 2160p 4K + DTS-HD 5.1 JP, EN + S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raw-perfect-blue-hevc-2160p-4k-dts-hd.n2099068) • [🐱 Nyaa](https://nyaa.si/?q=R7KEJK7RX6M2YPJJT4QDYXUWGUZ3X4XA) |
-| `[Gecko] Your Letter (2025) [CTHP.WEB-DL 1080P AVC, AAC, D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-your-letter-2025-cthp-web-dl-1080p.k10418935987721) • [🐱 Nyaa](https://nyaa.si/?q=UGVXSJ2RNVMK6GQE7YJ73QMBOT6JV2ZP) |
 
 ---
 <div align="center">
