@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.28.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.31.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[KOTEX] Tensei Shitara Dai Nana Ouji Datta no de, Kimama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kotex-tensei-shitara-dai-nana-ouji-datta-no.n2099361) • [🐱 Nyaa](https://nyaa.si/?q=H4FW2BFWWKKBEF5SLHO52G52OBRUSNQF) |
+| `[ToonsHub] KILL BLUE S01E01 1080p AMZN WEB-DL MULTi DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e01-1080p-amzn-web-dl.k10434388791815) • [🐱 Nyaa](https://nyaa.si/?q=SZJMRUHHEU5SOIZMEKCQCIBE77Q35FHK) |
+| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2099358) • [🐱 Nyaa](https://nyaa.si/?q=5D3DLZCRV5UZXVNCE4UYNN56GMOBT3AQ) |
+| `[Erai-raws] Hokuto no Ken (2026) - 03 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-03-1080p.k10434206595596) • [🐱 Nyaa](https://nyaa.si/?q=ZMW3Z6BLMCAHHJPUM2EI7VIHHPQRBKCC) |
+| `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099348) • [🐱 Nyaa](https://nyaa.si/?q=5CODT7CKA5JUJ5VYS3LGHFS4DIAHOJHJ) |
+| `[BlackRabbit] Fairy Tail (2009) - S05 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s05-bluray-1080p-opus.k10434000003849) • [🐱 Nyaa](https://nyaa.si/?q=O7GZNCGQ7HHKYDLWQZUHYJXN6KHCAXOZ) |
+| `Frieren Beyond Journeys End S02E10 A Beautiful Sight 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e10-beautiful-sight-1080p.n2099346) • [🐱 Nyaa](https://nyaa.si/?q=UFA56H5RS6JXAGF6XL3YOPWGTVXEANFZ) |
+| `[ToonsHub] KILL BLUE S01E01 1080p AMZN WEB-DL MULTi DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e01-1080p-amzn-web-dl.k10433957954571) • [🐱 Nyaa](https://nyaa.si/?q=57VV2EN4U4YOVRQW3BMM4ZOAVTSUONNI) |
 | `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kamiina-botan-yoeru-sugata-wa-yuri-no.2074937) • [🐱 Nyaa](https://nyaa.si/?q=Q6BX4AY4HT6P4FDCFSKT2J625AZS3C7K) |
 | `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 02 [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kamiina-botan-yoeru-sugata-wa-yuri-no.n2099344) • [🐱 Nyaa](https://nyaa.si/?q=KM6M7BEKUYJ5YN3QQVTLPOMRQNU6YD6R) |
 | `[kikuri] Chou Kaguya-hime! (2026) v2 (WEB 1080p HEVC E-AC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kikuri-chou-kaguya-hime-2026-v2-web-1080p.k10433547273482) • [🐱 Nyaa](https://nyaa.si/?q=UFBGJMJHAU4GOLBKBFCJNJTFZJPUCBM3) |
@@ -35,14 +43,6 @@
 | `[Onalrie] Kami no Shizuku - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kami-no-shizuku-s01e02-1080p-webrip-av1-mkv.2074930) • [🐱 Nyaa](https://nyaa.si/?q=QJSXVUFN53D6MURAVYPEYKKZRUPXR4BI) |
 | `[Trix] Botan Kamiina Fully Blossoms When Drunk S01E02 [WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-botan-kamiina-fully-blossoms-when-drunk-s01e02.n2099337) • [🐱 Nyaa](https://nyaa.si/?q=VWKIR7DP55Z2XPGWHPEVN4WM2PLM5PEA) |
 | `[yolerejiju] Spy x Family Season 1 (S01) (WEBRip 1080p x2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yolerejiju-spy-x-family-season-1-s01-webrip.n2099336) • [🐱 Nyaa](https://nyaa.si/?q=XDPEAKCHZY34RDYKXPOWWRDBZS27SBDN) |
-| `Fist of the North Star HOKUTO NO KEN S01E04 Flames of Obs...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fist-north-star-hokuto-no-ken-s01e04-flames.n2099333) • [🐱 Nyaa](https://nyaa.si/?q=RZLWCRNNEKP3K6Q5MCSOPVOGDQS2GJF2) |
-| `Fist of the North Star HOKUTO NO KEN S01E04 Flames of Obs...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fist-north-star-hokuto-no-ken-s01e04-flames.n2099330) • [🐱 Nyaa](https://nyaa.si/?q=BB6GYQ5LGDWTMQ4X4MRL25ZEJV4DALQK) |
-| `[Erai-raws] Hokuto no Ken (2026) - 04 [1080p AMZN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-04-1080p.k10433139031566) • [🐱 Nyaa](https://nyaa.si/?q=2MCR6VQOHTRTG4XCQ77WPERCUWCBKQDO) |
-| `[Erai-raws] Hokuto no Ken (2026) - 04 [720p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-04-720p.k10433138821379) • [🐱 Nyaa](https://nyaa.si/?q=V5FDGKMHRZRC4FFLX4XPRPZMLY2E3EE2) |
-| `[Erai-raws] Hokuto no Ken (2026) - 04 [540p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-04-540p.k10433138550789) • [🐱 Nyaa](https://nyaa.si/?q=MLYUC5WTXWUQLRSCZLMN6H6AD33PDSIC) |
-| `Botan Kamiina Fully Blossoms When Drunk S01E02 1080p BILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/botan-kamiina-fully-blossoms-when-drunk-s01e02-1080p.n2099325) • [🐱 Nyaa](https://nyaa.si/?q=GX3ZJEO3V5PKFF3XQRMY5SGUTQ5CMJB3) |
-| `Botan Kamiina Fully Blossoms When Drunk S01E02 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/botan-kamiina-fully-blossoms-when-drunk-s01e02-1080p.n2099323) • [🐱 Nyaa](https://nyaa.si/?q=N4FFOEQG2JHUTQUKTWHWMMARUMZSNMOI) |
-| `[ASW] Kami no Shizuku - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kami-no-shizuku-02-1080p-hevc-x265-10bit-aac.n2099322) • [🐱 Nyaa](https://nyaa.si/?q=G4UUIDQADJPNRUSJUMANI7UK6TQBH6MO) |
 
 ---
 <div align="center">
