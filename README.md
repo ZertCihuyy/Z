@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.46.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.53.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Dandelion S01 1080p NF WEB-DL MULTi Opus5.1 AV1 HDR10+ (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dandelion-s01-1080p-nf-web-dl-multi-opus5.n2099393) • [🐱 Nyaa](https://nyaa.si/?q=LRL5DJ7HKGMH62Z4F7HKAOLQ5BKV3SZL) |
+| `Dandelion S01 1080p NF WEB-DL MULTi Opus2.0 AV1 (Multi-Au...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dandelion-s01-1080p-nf-web-dl-multi-opus2.n2099392) • [🐱 Nyaa](https://nyaa.si/?q=ZNUQW67W6SJRI7MIJDM2YJB3HU2MNAEQ) |
+| `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2099391) • [🐱 Nyaa](https://nyaa.si/?q=NBTSSUGZKFDIKNGKN7WHT5E4CSHGZBL5) |
+| `[DKB] Tensei shitara Slime Datta Ken - S04E03 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tensei-shitara-slime-datta-ken-s04e03-1080p.n2099390) • [🐱 Nyaa](https://nyaa.si/?q=KL5U66TK24QPOKNF4TIUOIFULTOJAHOW) |
+| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.k10436580417292) • [🐱 Nyaa](https://nyaa.si/?q=3QO6M3SNNDVOJJOG2JVSJC5ERYSLU2T4) |
+| `[Feibanyama] Dr STONE S04E27 [IQIYI WebRip 2160p HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dr-stone-s04e27-iqiyi-webrip-2160p-hevc.n2099387) • [🐱 Nyaa](https://nyaa.si/?q=NBZUYVA6DTVH73FCTQ4V5UGHJWMI6P5Y) |
+| `[Judas] Re:Zero kara Hajimeru Isekai Seikatsu (Re:Zero - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-re-zero-kara-hajimeru-isekai-seikatsu-starting.n2099384) • [🐱 Nyaa](https://nyaa.si/?q=P2QT6HC7GE2AQYRBALPXJL6MKJYZCVYZ) |
+| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E03 [WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-tensei-shitara-slime-datta-ken-4-s04e03.n2099383) • [🐱 Nyaa](https://nyaa.si/?q=WKCW4KP6RXG5ZRAUMCXQSHXXPEBGDP6Z) |
 | `[Erai-raws] Hokuto no Ken (2026) - 04 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-04-1080p.n2099381) • [🐱 Nyaa](https://nyaa.si/?q=DU7AYNVGHIXDNQFPS2KTGDXPRKVB37MO) |
 | `[BlackRabbit] Nyaruko - Crawling with Love! (2012) - S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nyaruko-crawling-love-2012-s01-bluray-1080p.k10435439992075) • [🐱 Nyaa](https://nyaa.si/?q=FYT3A7NUEF5GISPH4AVCA6BW26EEYMGE) |
 | `[WakuTomete] Princess Session Orchestra - 37–48 Batch (WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wakutomete-princess-session-orchestra-3748-batch-web-1080p.n2099376) • [🐱 Nyaa](https://nyaa.si/?q=QETGK4IOQCCCTLCOMJW2QL3U5JESIUC4) |
@@ -35,14 +43,6 @@
 | `[KOTEX] Tensei Shitara Dai Nana Ouji Datta no de, Kimama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kotex-tensei-shitara-dai-nana-ouji-datta-no.n2099361) • [🐱 Nyaa](https://nyaa.si/?q=H4FW2BFWWKKBEF5SLHO52G52OBRUSNQF) |
 | `[ToonsHub] KILL BLUE S01E01 1080p AMZN WEB-DL MULTi DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e01-1080p-amzn-web-dl.k10434388791815) • [🐱 Nyaa](https://nyaa.si/?q=SZJMRUHHEU5SOIZMEKCQCIBE77Q35FHK) |
 | `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2099358) • [🐱 Nyaa](https://nyaa.si/?q=5D3DLZCRV5UZXVNCE4UYNN56GMOBT3AQ) |
-| `[Erai-raws] Hokuto no Ken (2026) - 03 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-03-1080p.k10434206595596) • [🐱 Nyaa](https://nyaa.si/?q=ZMW3Z6BLMCAHHJPUM2EI7VIHHPQRBKCC) |
-| `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099348) • [🐱 Nyaa](https://nyaa.si/?q=5CODT7CKA5JUJ5VYS3LGHFS4DIAHOJHJ) |
-| `[BlackRabbit] Fairy Tail (2009) - S05 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s05-bluray-1080p-opus.k10434000003849) • [🐱 Nyaa](https://nyaa.si/?q=O7GZNCGQ7HHKYDLWQZUHYJXN6KHCAXOZ) |
-| `Frieren Beyond Journeys End S02E10 A Beautiful Sight 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02e10-beautiful-sight-1080p.n2099346) • [🐱 Nyaa](https://nyaa.si/?q=UFA56H5RS6JXAGF6XL3YOPWGTVXEANFZ) |
-| `[ToonsHub] KILL BLUE S01E01 1080p AMZN WEB-DL MULTi DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e01-1080p-amzn-web-dl.k10433957954571) • [🐱 Nyaa](https://nyaa.si/?q=57VV2EN4U4YOVRQW3BMM4ZOAVTSUONNI) |
-| `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kamiina-botan-yoeru-sugata-wa-yuri-no.2074937) • [🐱 Nyaa](https://nyaa.si/?q=Q6BX4AY4HT6P4FDCFSKT2J625AZS3C7K) |
-| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 02 [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kamiina-botan-yoeru-sugata-wa-yuri-no.n2099344) • [🐱 Nyaa](https://nyaa.si/?q=KM6M7BEKUYJ5YN3QQVTLPOMRQNU6YD6R) |
-| `[kikuri] Chou Kaguya-hime! (2026) v2 (WEB 1080p HEVC E-AC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kikuri-chou-kaguya-hime-2026-v2-web-1080p.k10433547273482) • [🐱 Nyaa](https://nyaa.si/?q=UFBGJMJHAU4GOLBKBFCJNJTFZJPUCBM3) |
 
 ---
 <div align="center">
