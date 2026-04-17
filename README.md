@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.31.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.46.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Hokuto no Ken (2026) - 04 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-04-1080p.n2099381) • [🐱 Nyaa](https://nyaa.si/?q=DU7AYNVGHIXDNQFPS2KTGDXPRKVB37MO) |
+| `[BlackRabbit] Nyaruko - Crawling with Love! (2012) - S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nyaruko-crawling-love-2012-s01-bluray-1080p.k10435439992075) • [🐱 Nyaa](https://nyaa.si/?q=FYT3A7NUEF5GISPH4AVCA6BW26EEYMGE) |
+| `[WakuTomete] Princess Session Orchestra - 37–48 Batch (WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wakutomete-princess-session-orchestra-3748-batch-web-1080p.n2099376) • [🐱 Nyaa](https://nyaa.si/?q=QETGK4IOQCCCTLCOMJW2QL3U5JESIUC4) |
+| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Bota...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kamiina-botan-yoeru-sugata-wa-yuri-no.n2099375) • [🐱 Nyaa](https://nyaa.si/?q=4HQLJDSZ3L7WCGXCDHOQ4B7PHOPTTLYD) |
 | `[KOTEX] Tensei Shitara Dai Nana Ouji Datta no de, Kimama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kotex-tensei-shitara-dai-nana-ouji-datta-no.n2099361) • [🐱 Nyaa](https://nyaa.si/?q=H4FW2BFWWKKBEF5SLHO52G52OBRUSNQF) |
 | `[ToonsHub] KILL BLUE S01E01 1080p AMZN WEB-DL MULTi DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e01-1080p-amzn-web-dl.k10434388791815) • [🐱 Nyaa](https://nyaa.si/?q=SZJMRUHHEU5SOIZMEKCQCIBE77Q35FHK) |
 | `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2099358) • [🐱 Nyaa](https://nyaa.si/?q=5D3DLZCRV5UZXVNCE4UYNN56GMOBT3AQ) |
@@ -39,10 +43,6 @@
 | `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kamiina-botan-yoeru-sugata-wa-yuri-no.2074937) • [🐱 Nyaa](https://nyaa.si/?q=Q6BX4AY4HT6P4FDCFSKT2J625AZS3C7K) |
 | `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 02 [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kamiina-botan-yoeru-sugata-wa-yuri-no.n2099344) • [🐱 Nyaa](https://nyaa.si/?q=KM6M7BEKUYJ5YN3QQVTLPOMRQNU6YD6R) |
 | `[kikuri] Chou Kaguya-hime! (2026) v2 (WEB 1080p HEVC E-AC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kikuri-chou-kaguya-hime-2026-v2-web-1080p.k10433547273482) • [🐱 Nyaa](https://nyaa.si/?q=UFBGJMJHAU4GOLBKBFCJNJTFZJPUCBM3) |
-| `[ASW] Snowball Earth - 03 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-snowball-earth-03-1080p-hevc-x265-10bit-aac.n2099339) • [🐱 Nyaa](https://nyaa.si/?q=XGVWPGTZWU2Z72E4JWMRH27JKS6HWQGL) |
-| `[Onalrie] Kami no Shizuku - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kami-no-shizuku-s01e02-1080p-webrip-av1-mkv.2074930) • [🐱 Nyaa](https://nyaa.si/?q=QJSXVUFN53D6MURAVYPEYKKZRUPXR4BI) |
-| `[Trix] Botan Kamiina Fully Blossoms When Drunk S01E02 [WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-botan-kamiina-fully-blossoms-when-drunk-s01e02.n2099337) • [🐱 Nyaa](https://nyaa.si/?q=VWKIR7DP55Z2XPGWHPEVN4WM2PLM5PEA) |
-| `[yolerejiju] Spy x Family Season 1 (S01) (WEBRip 1080p x2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yolerejiju-spy-x-family-season-1-s01-webrip.n2099336) • [🐱 Nyaa](https://nyaa.si/?q=XDPEAKCHZY34RDYKXPOWWRDBZS27SBDN) |
 
 ---
 <div align="center">
