@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.49.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.45.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Snowball Earth - 03 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-03-1080p-cr-webrip.n2099423) • [🐱 Nyaa](https://nyaa.si/?q=STDPWLHMOXF6O63VBGN2YQANOZJRA3ZH) |
+| `[Erai-raws] Kami no Shizuku - 02 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-shizuku-02-1080p-cr.n2099422) • [🐱 Nyaa](https://nyaa.si/?q=WDMGOX6ST7MANOQEZQPAHRGT75FQD5KA) |
+| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kamiina-botan-yoeru-sugata-wa-yuri-no.n2099421) • [🐱 Nyaa](https://nyaa.si/?q=6BV5BNDS3VKBQGLCKSX46POG52GCICSJ) |
+| `[Piyoko] Onegai AiPri - 02 [WEB AMZN 1080p h264 AC3 2.0]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-02-web-amzn-1080p-h264.n2099418) • [🐱 Nyaa](https://nyaa.si/?q=DP6BHZ7KJO7C6ZUKUFH4I4X2M63UHVHP) |
 | `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e03.k10437875914511) • [🐱 Nyaa](https://nyaa.si/?q=2GNOG4BCXZO4H7SP5EMVNFLKQ2FDONYN) |
 | `[GHOST][1080p] Battle Girl High School [BD HEVC 10bit Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-1080p-battle-girl-high-school-bd-hevc.n2099400) • [🐱 Nyaa](https://nyaa.si/?q=6AIRCF5CNJDJGD2SLZ6ZBHEEJIVVQ3BF) |
 | `[Feibanyama] That Time I Got Reincarnated as a Slime S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-time-got-reincarnated-slime-s04e03-iqiyi-webrip.n2099399) • [🐱 Nyaa](https://nyaa.si/?q=C2V267PG2ZLFOGISTJXSBCE5KSG7TBCC) |
@@ -39,10 +43,6 @@
 | `[DKB] Tensei shitara Slime Datta Ken - S04E03 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tensei-shitara-slime-datta-ken-s04e03-1080p.n2099390) • [🐱 Nyaa](https://nyaa.si/?q=KL5U66TK24QPOKNF4TIUOIFULTOJAHOW) |
 | `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.k10436580417292) • [🐱 Nyaa](https://nyaa.si/?q=3QO6M3SNNDVOJJOG2JVSJC5ERYSLU2T4) |
 | `[Feibanyama] Dr STONE S04E27 [IQIYI WebRip 2160p HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dr-stone-s04e27-iqiyi-webrip-2160p-hevc.n2099387) • [🐱 Nyaa](https://nyaa.si/?q=NBZUYVA6DTVH73FCTQ4V5UGHJWMI6P5Y) |
-| `[Judas] Re:Zero kara Hajimeru Isekai Seikatsu (Re:Zero - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-re-zero-kara-hajimeru-isekai-seikatsu-starting.n2099384) • [🐱 Nyaa](https://nyaa.si/?q=P2QT6HC7GE2AQYRBALPXJL6MKJYZCVYZ) |
-| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E03 [WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-tensei-shitara-slime-datta-ken-4-s04e03.n2099383) • [🐱 Nyaa](https://nyaa.si/?q=WKCW4KP6RXG5ZRAUMCXQSHXXPEBGDP6Z) |
-| `[Erai-raws] Hokuto no Ken (2026) - 04 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-04-1080p.n2099381) • [🐱 Nyaa](https://nyaa.si/?q=DU7AYNVGHIXDNQFPS2KTGDXPRKVB37MO) |
-| `[BlackRabbit] Nyaruko - Crawling with Love! (2012) - S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nyaruko-crawling-love-2012-s01-bluray-1080p.k10435439992075) • [🐱 Nyaa](https://nyaa.si/?q=FYT3A7NUEF5GISPH4AVCA6BW26EEYMGE) |
 
 ---
 <div align="center">
