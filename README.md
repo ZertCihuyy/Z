@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.57.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.42.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Hitori no Shita - The Outcast - S06E16 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e16-1080p-webrip-av1-mkv.2074827) • [🐱 Nyaa](https://nyaa.si/?q=K3ISDMUP6AOPBUHQ4Q3WI5EGAQ5DMVUJ) |
 | `[AK4NE] Classroom of the Elite (2017) - S04E06 (E44) - A ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-classroom-elite-2017-s04e06-e44-tumultuous-scramble.k10423883826436) • [🐱 Nyaa](https://nyaa.si/?q=AIVDCE5KBDMXZ43VQNCYCH24WDIZBMH5) |
 | `[BlackRabbit] Kakuriyo -Bed & Breakfast for Spirits- (201...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kakuriyo-bed-breakfast-spirits-2018-s01-bluray.k10423516553472) • [🐱 Nyaa](https://nyaa.si/?q=JN2527KUW4SED4WGYE2Z6PKTVK7PNOXI) |
 | `[BlackRabbit] Lupin III (1971) - S05 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-lupin-iii-1971-s05-bluray-1080p-opus.k10423066615567) • [🐱 Nyaa](https://nyaa.si/?q=SSYZPEMIMBUWYW6EKR3WH56IKLZMXE32) |
@@ -42,7 +43,6 @@
 | `[ASW] Hitori no Shita - The Outcast S6 - 16 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-16-1080p.n2099094) • [🐱 Nyaa](https://nyaa.si/?q=I42OJ43CAEQF5JERLGCGKXNAZ5L46PJQ) |
 | `[Erai-raws] Dandelion - 01 ~ 07 [1080p NF WEBRip HEVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dandelion-01-07-1080p-nf-webrip.n2099085) • [🐱 Nyaa](https://nyaa.si/?q=TJYVPUG4CS5QH2LLXFKZADSNVR5S3RN6) |
 | `[Beltraz] Invaders of the Rokujyoma!? - S01 (2014) (BD 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-invaders-rokujyoma-s01-2014-bd-1080p-x264.k10419873148935) • [🐱 Nyaa](https://nyaa.si/?q=Z77NGGSCEBNVZ45ZMHF5ZOZFOZLDZJIC) |
-| `[Gecko] Hitori No Shita - The Outcast - S06E17 (一人之下; Yi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e17-yi-ren.k10419649342721) • [🐱 Nyaa](https://nyaa.si/?q=FRPZ42E7IAXQDG6DNRC2INYEY7H64WNW) |
 
 ---
 <div align="center">
