@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.09.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.55.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] MAO S01E03 The Accursed 1080p BILI WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-mao-s01e03-accursed-1080p-bili-web-dl.k10454469261322) • [🐱 Nyaa](https://nyaa.si/?q=W7FKRD63JNJOQK7O6POUUVP72M5JOTZU) |
+| `[VARYG] Daemons of the Shadow Realm S01E03 Dera and Hana ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-daemons-shadow-realm-s01e03-dera-hana-1080p.k10454447113486) • [🐱 Nyaa](https://nyaa.si/?q=5GH27RYQ3DC4LJYU5NGXOS3HE7FDIN5M) |
+| `[ToonsHub] MAO S01E03 1080p BILI WEB-DL AAC2.0 H.265 (Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mao-s01e03-1080p-bili-web-dl-aac2.k10454427369741) • [🐱 Nyaa](https://nyaa.si/?q=MUKBJXCYTOBX5DZDQZMKNZ2LXOAMQM6Z) |
+| `[VARYG] Akane Banashi S01E03 Senior Apprentices 1080p NF ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-akane-banashi-s01e03-senior-apprentices-1080p-nf.k10454403684359) • [🐱 Nyaa](https://nyaa.si/?q=PGOIETTW4JPRQZMEOMA774AYNONRHQ7K) |
+| `[ToonsHub] KILL BLUE S01E02 1080p NF WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e02-1080p-nf-web-dl.k10454375116300) • [🐱 Nyaa](https://nyaa.si/?q=OCVJKJ5XG75ZMEVZZ27Z5DPYK5NO27GI) |
+| `[ToonsHub] Akane-Banashi S01E03 1080p NF WEB-DL AAC2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-akane-banashi-s01e03-1080p-nf-web-dl.k10454371920395) • [🐱 Nyaa](https://nyaa.si/?q=3ORAFVLLQJWKBCRKKLJWAG5PS376G4HK) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E03 1080p NF WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-daemons-shadow-realm-s01e03-1080p-nf-web.k10454356429314) • [🐱 Nyaa](https://nyaa.si/?q=PBCEJE7CQKYQJK6EKGHO54RZ25QDWAFD) |
+| `[VARYG] KILL BLUE S01E02 Noren Mitsuoka 1080p NF WEB-DL D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-kill-blue-s01e02-noren-mitsuoka-1080p-nf.k10454349130496) • [🐱 Nyaa](https://nyaa.si/?q=AJKZETBZYPIURWVEKUNPZNLFOS6TS35L) |
+| `[Erai-raws] Kill Ao - 02 [1080p CR WEBRip HEVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kill-ao-02-1080p-cr-webrip.k10454296924170) • [🐱 Nyaa](https://nyaa.si/?q=CWMFOFG4XYDMLGO2LA56D5KM6EMGV3WW) |
+| `[ToonsHub] A Misanthrope Teaches a Class for Demi-Humans ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-misanthrope-teaches-class-demi-humans-s01e13-1080p.k10454201703439) • [🐱 Nyaa](https://nyaa.si/?q=6GWOLLJBWEKQJNEIYYPAYKXS52WWRHEB) |
+| `[ASW] Kill Ao - 02 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kill-ao-02-1080p-hevc-x265-10bit-aac.n2099680) • [🐱 Nyaa](https://nyaa.si/?q=3HS24RNDNKYUT7D4TSJDGFNA6AUNWFT7) |
+| `[SubsWhen] Mini Link Click (2026) - S02E03 (WEB-DL 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subswhen-mini-link-click-2026-s02e03-web-dl.n2099679) • [🐱 Nyaa](https://nyaa.si/?q=XVEHU5WAQAFXRQJ72DCQWRUAIYYBJC2E) |
 | `[Onalrie] Kill Ao - S01E02 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kill-ao-s01e02-1080p-webrip-av1-mkv.2075145) • [🐱 Nyaa](https://nyaa.si/?q=D3QYJXFB7O73V3NMIW5B7TH73VZCN5T2) |
 | `[ToonsHub] KILL BLUE S01E02 1080p AMZN WEB-DL MULTi DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e02-1080p-amzn-web-dl.n2099676) • [🐱 Nyaa](https://nyaa.si/?q=W2JHP3DEDGV2SVCXAOIO2XOAJZP3S2MO) |
 | `[Erai-raws] Detective Conan - 1198 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1198-1080p-cr-webrip.n2099672) • [🐱 Nyaa](https://nyaa.si/?q=6ZDL3ALUST6F7GOBJ7OYOWD4ESAJN3YA) |
-| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-honzuki-no-gekokujou-shisho-ni-naru.n2099670) • [🐱 Nyaa](https://nyaa.si/?q=UDX44ADPU2A4LE3HF6FE5TI2FNHE766H) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 03 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-03.n2099669) • [🐱 Nyaa](https://nyaa.si/?q=EEIR6OSAW4QQURWEDB67TCWUG3D6FC25) |
-| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2099668) • [🐱 Nyaa](https://nyaa.si/?q=UPID4TUTN52524GU3W64XM7BST7APADU) |
-| `[goon] Rent-a-Girlfriend - S05E02 [UNCENSORED 1080p] | Ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/goon-rent-girlfriend-s05e02-uncensored-1080p-kanojo.n2099666) • [🐱 Nyaa](https://nyaa.si/?q=HYFK453GS5V6AM7HULTP7O6SLAEL7UEB) |
-| `[Erai-raws] Yowayowa Sensei - 02 [1080p ADN WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-02-1080p-adn-web.n2099665) • [🐱 Nyaa](https://nyaa.si/?q=BJE3WHAD7P6DLOYZ2J5FHP2URHNZDSSC) |
-| `[Erai-raws] Yowayowa Sensei - 02 [720p ADN WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-02-720p-adn-web.n2099664) • [🐱 Nyaa](https://nyaa.si/?q=WSWVUGJMKBEHSJNZ5Q4AQKCPF76XXKRL) |
-| `[Erai-raws] Yowayowa Sensei - 02 [480p ADN WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-02-480p-adn-web.n2099663) • [🐱 Nyaa](https://nyaa.si/?q=22YWFKVJTTQAYSKBDLE4PA2B27ZVNRS3) |
-| `KILL BLUE S01E02 Noren Mitsuoka 1080p CR WEB-DL DUAL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kill-blue-s01e02-noren-mitsuoka-1080p-cr-web.n2099661) • [🐱 Nyaa](https://nyaa.si/?q=5MWCUJRRADLRCSI2RCWBTEK63HBJXY7G) |
-| `KILL BLUE S01E01 Lets Go to School 1080p CR WEB-DL DUAL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kill-blue-s01e01-lets-go-school-1080p-cr.n2099660) • [🐱 Nyaa](https://nyaa.si/?q=TP5IXDYYC2HY7Q3NV3ZAYKDRJZQS34JA) |
-| `[kikuri] Train to the End of the World S01 (BD 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kikuri-train-end-world-s01-bd-1080p-hevc.k10453309360397) • [🐱 Nyaa](https://nyaa.si/?q=YFEYLTUF5CA2SDOLND7U5OK5JMJHXAZZ) |
-| `[ToonsHub] KILL BLUE S01E02 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e02-1080p-cr-web-dl.k10453281406464) • [🐱 Nyaa](https://nyaa.si/?q=LNITV34FZQGDYIITTR3DR5VPKFD2YOYV) |
-| `[SubsPlease] Kill Ao - 02 (1080p) [D91055DA].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kill-ao-02-1080p-d91055da-mkv.n2099656) • [🐱 Nyaa](https://nyaa.si/?q=NJ6YH7VX2WUQD55ACPHLHGVTXK3UJ7BE) |
 
 ---
 <div align="center">
