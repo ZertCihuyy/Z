@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.39.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.04.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E03 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-welcome-demon-school-iruma-kun-s04e03-1080p.k10450673432589) • [🐱 Nyaa](https://nyaa.si/?q=YMQ77JOLMGYGJXOD3ZTXQACIE6J3MSTV) |
+| `[Zoku] One Piece - (807-1036) [720p] [English Dub] - Unof...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/zoku-one-piece-807-1036-720p-english-dub-unofficial-batch.n2099574) • [🐱 Nyaa](https://nyaa.si/?q=HFMDR6QZZFCZD5NYYJCYMUBRHSXNX2UA) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E02 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-welcome-demon-school-iruma-kun-s04e02-1080p.k10450666450699) • [🐱 Nyaa](https://nyaa.si/?q=4WUH7A73VLAPV23MAPNCHL3M2RL3PX53) |
+| `[ToonsHub] Detective Conan EP1198 1080p CR WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-detective-conan-ep1198-1080p-cr-web-dl.k10450642606602) • [🐱 Nyaa](https://nyaa.si/?q=DCPTJDWXAVFQZWNZUTD7AZVXLLEBDXD6) |
+| `Detective Conan S01E1198 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-s01e1198-1080p-cr-web-dl-aac2.n2099571) • [🐱 Nyaa](https://nyaa.si/?q=WOMPAFLVA6O2ANBINMLUMKZQSPERMG4V) |
+| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mairimashita-iruma-kun-welcome-demon-school-s04e03.n2099570) • [🐱 Nyaa](https://nyaa.si/?q=US6WOOMALQTFRBEWCJMRFE2R3JESBGCT) |
 | `Welcome to Demon School Iruma kun S04E03 The Essence of a...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/welcome-demon-school-iruma-kun-s04e03-essence-dem.n2099569) • [🐱 Nyaa](https://nyaa.si/?q=CLI6ENUEOBGL444ID64KWYPHABZ63GMT) |
 | `[Erai-raws] Detective Conan - 1198 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1198-480p-cr-web.n2099567) • [🐱 Nyaa](https://nyaa.si/?q=NWE26IK7Q4DUKVTUW47Z4E3SK5RGIW6N) |
 | `[SubsPlease] Detective Conan - 1198 (1080p) [0674BC40].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1198-1080p-0674bc40-mkv.n2099566) • [🐱 Nyaa](https://nyaa.si/?q=G4GMXX3WYZDGTHUOQ3RI2N4WGDDPC3EM) |
@@ -37,12 +43,6 @@
 | `[SubsPlease] Detective Conan - 1198 (480p) [DCBCAA2C].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1198-480p-dcbcaa2c-mkv.n2099562) • [🐱 Nyaa](https://nyaa.si/?q=PIWZN2JXF7FHABMNYWRFCYMBJHSC4TZL) |
 | `[ASW] Mairimashita! Iruma-kun S4 - 03 [1080p HEVC x265 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-mairimashita-iruma-kun-s4-03-1080p-hevc.n2099559) • [🐱 Nyaa](https://nyaa.si/?q=P3FSQLRG3SJ7DUM6FPLPQVR4PO5B6X3I) |
 | `[ToonsHub] Welcome to Demon School Iruma-kun S04E03 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-welcome-demon-school-iruma-kun-s04e03-1080p.n2099557) • [🐱 Nyaa](https://nyaa.si/?q=YVNROOKE3CK5RJR4UV4XSY4AUTIZ654X) |
-| `[Kekkan] Jishou Akuyaku Reijou na Konyakusha no Kansatsu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kekkan-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099556) • [🐱 Nyaa](https://nyaa.si/?q=VW3HLLTIA6AMSRAGV72SKVXK3XS6IWHO) |
-| `[Onalrie] Mairimashita! Iruma-kun - S04E03 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mairimashita-iruma-kun-s04e03-1080p-webrip-av1-mkv.2075075) • [🐱 Nyaa](https://nyaa.si/?q=M2UYGWN4ETSSWGXCSJ6P3VFDKJYKXPKZ) |
-| `Welcome to Demon School Iruma kun S04E03 A Dem-dols Essen...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/welcome-demon-school-iruma-kun-s04e03-dem-dols.n2099554) • [🐱 Nyaa](https://nyaa.si/?q=Y7HTKU7P3Y5JSMI5UUWT6625JQ3JXPX3) |
-| `[ToonsHub] Way of Choices 2026 S01E14 1080p iQ WEB-DL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-way-choices-2026-s01e14-1080p-iq-web.n2099549) • [🐱 Nyaa](https://nyaa.si/?q=YS2PFUPHKBPP5ANNHONBKM7QTTCL5WRH) |
-| `[Yameii] Welcome to Demon School! Iruma-kun - S04E03 [Eng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-welcome-demon-school-iruma-kun-s04e03-english.n2099547) • [🐱 Nyaa](https://nyaa.si/?q=OKTEPG6OYILISN5FYPPOXFEERYDEY3IG) |
-| `[Yameii] Welcome to Demon School! Iruma-kun - S04E03 [Eng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-welcome-demon-school-iruma-kun-s04e03-english.n2099546) • [🐱 Nyaa](https://nyaa.si/?q=R3RFVOC73PEMIMB4I2AGHBW777YOA2AN) |
 
 ---
 <div align="center">
