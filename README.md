@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.40.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.47.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Rilakkuma - S01E03 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e03-1080p-webrip-av1-mkv.2075054) • [🐱 Nyaa](https://nyaa.si/?q=5B7IWFBLCN4GW2YN55KNDLPLSKBWI3G3) |
+| `[ToonsHub] B King S01E10 1080p ADN WEB-DL AAC2.0 H.264 (Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e10-1080p-adn-web-dl.n2099491) • [🐱 Nyaa](https://nyaa.si/?q=4HSILOHB6XOMOCDHGMO3ZMCAROJVWZRC) |
+| `[ToonsHub] Magical Sisters LuluttoLilly S01E02 1080p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-magical-sisters-luluttolilly-s01e02-1080p-amzn-web.n2099490) • [🐱 Nyaa](https://nyaa.si/?q=FOQZARUN6GVD2YIYRKLYFJVUWEN5SRMZ) |
+| `[ToonsHub] Magical Sisters LuluttoLilly S01E01 1080p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-magical-sisters-luluttolilly-s01e01-1080p-amzn-web.n2099489) • [🐱 Nyaa](https://nyaa.si/?q=NOMWYSXIXH7BOGQ4KYFSOYFXOJFA6V46) |
+| `There's.No.Freaking.Way.I'll.Be.Your.Lover.Unless.S01.v2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/theres-no-freaking-way-ill-your-lover-unless.n2099488) • [🐱 Nyaa](https://nyaa.si/?q=NQ2AYE7OT75HD4Z3HU2FQ532QIWST3BA) |
 | `The.Legend.of.Hei.II.2025.1080p.IT.WEB-DL.DD5.1.H.264-ENK` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/legend-hei-ii-2025-1080p-web-dl-dd5.n2099487) • [🐱 Nyaa](https://nyaa.si/?q=H6N3XVCMWSKEWRCVLNPIZBDHMRBBINRM) |
 | `[BlackRabbit] The Kingdoms of Ruin (2023) - S01 [Bluray-1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kingdoms-ruin-2023-s01-bluray-1080p-opus.k10445054332168) • [🐱 Nyaa](https://nyaa.si/?q=USY5FCDZ5XWO3V72RW3AX7NCSSYEYQHK) |
 | `[Some-Stuffs] Pocket Monsters (2023) Rising Again Climax ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-rising-again-climax-pv.n2099481) • [🐱 Nyaa](https://nyaa.si/?q=ODKF263S6ILXBPRHCDKBVUR2CTEVF7NT) |
@@ -38,11 +43,6 @@
 | `RILAKKUMA S01E03 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e03-1080p-cr-web-dl-multi-aac2.n2099472) • [🐱 Nyaa](https://nyaa.si/?q=HAFYJHSF5VBLIDN4CQYBYZ42IYF5HTBR) |
 | `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E04...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e04.k10443643881478) • [🐱 Nyaa](https://nyaa.si/?q=O5F3KXQX5QOHREYZCFZFCCFRF4J7VS3H) |
 | `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 01 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniv-remastered-01-1080p-yt.n2099466) • [🐱 Nyaa](https://nyaa.si/?q=ARTLHHE3463SXSD7FGWDPZKQ7JDJCJAK) |
-| `[Gecko] B.King - S01E10 (驭灵师; Yu Ling Shi) [BILI.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e10-yu-ling-shi-bili.k10442716899342) • [🐱 Nyaa](https://nyaa.si/?q=J434OROAZLLATIKJTMHVERWUIX7CWUPK) |
-| `[CrappySubs] MARRIAGETOXIN - S01E01 - (WEB 1080p H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crappysubs-marriagetoxin-s01e01-web-1080p-h-264-aac-d4fd1cb0.k10442679166222) • [🐱 Nyaa](https://nyaa.si/?q=CEH22TSNWPHRDOXGTC6GLJX7KJREMUSD) |
-| `[ak-Submarines] Girls und Panzer - MLLSD - 07 [WEB 1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak-submarines-girls-und-panzer-mllsd-07-web-1080p-d5136544.n2099463) • [🐱 Nyaa](https://nyaa.si/?q=XTGLGKEAWIG2PA4KFH2UE2U5A5OSJHAS) |
-| `[ToonsHub] B King S01E10 1080p BILI WEB-DL AAC2.0 H.265 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e10-1080p-bili-web-dl.n2099462) • [🐱 Nyaa](https://nyaa.si/?q=NKXSN65AGVNXVRVTUHNUMIAER5MKIGB7) |
-| `[Erai-raws] Rilakkuma - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-03-1080p-cr-webrip-hevc.k10442021031172) • [🐱 Nyaa](https://nyaa.si/?q=7DA45BULHSKSTFIBIEI2GLGN6EVYBR5B) |
 
 ---
 <div align="center">
