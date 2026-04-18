@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.45.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.52.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Rilakkuma - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-03-1080p-cr-webrip-hevc.k10442021031172) • [🐱 Nyaa](https://nyaa.si/?q=7DA45BULHSKSTFIBIEI2GLGN6EVYBR5B) |
+| `[Mo7tas] Hikuidori: Ushuu Boro Tobi-gumi [1080p] [Multi l...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-hikuidori-ushuu-boro-tobi-gumi-1080p-multi-language.n2099449) • [🐱 Nyaa](https://nyaa.si/?q=DPU5GOIIYR2DQJJFBA4LUP4MWSAF2H4R) |
+| `[Dekinai] Fate EXTRA Last Encore - Irusterias Tendouron (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dekinai-fate-extra-last-encore-irusterias-tendouron-tv.n2099444) • [🐱 Nyaa](https://nyaa.si/?q=5YMWVJD7RIQXAWWLQWSJQ3RHIIL74544) |
+| `[Kaleido-subs] Summer Pockets - 26 (S01E26) - (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-summer-pockets-26-s01e26-web-1080p.n2099443) • [🐱 Nyaa](https://nyaa.si/?q=UIXZTYCMXSQBJ74WFNFQENWQMOVZC6OT) |
+| `RILAKKUMA S01E03 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e03-1080p-cr-web-dl-dual-aac2.n2099440) • [🐱 Nyaa](https://nyaa.si/?q=3Z7DDGP4WW2XLEO722AMIIK4IFEACXTE) |
+| `[ToonsHub] RILAKKUMA S01E03 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e03-1080p-cr-web-dl-dual.k10440831336716) • [🐱 Nyaa](https://nyaa.si/?q=RAYUIN32EMDMDGHU4XYX44C2TWK2GZ66) |
+| `[Erai-raws] Rilakkuma - 03 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-03-480p-cr-web-dl.k10440814550534) • [🐱 Nyaa](https://nyaa.si/?q=IN7NQBTU57B4S2MP2XCD3T5JIWZQXPKT) |
+| `[Erai-raws] Rilakkuma - 03 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-03-720p-cr-web-dl.k10440813349645) • [🐱 Nyaa](https://nyaa.si/?q=YSCCZF4T5M3O2QAQ4HYDDAZOYGH65HE2) |
+| `[Erai-raws] Rilakkuma - 03 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-03-1080p-cr-web-dl.n2099431) • [🐱 Nyaa](https://nyaa.si/?q=4VPAFEHFVJKXLGLIF4PU7IRMRAXGWUET) |
+| `[SubsPlease] Rilakkuma - 03 (1080p) [1A2F2A45].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-03-1080p-1a2f2a45-mkv.n2099430) • [🐱 Nyaa](https://nyaa.si/?q=DWZVDPNT3WNYSLUES6E65YM7EJA3DA2R) |
+| `[SubsPlease] Rilakkuma - 03 (480p) [3DEBD679].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-03-480p-3debd679-mkv.n2099428) • [🐱 Nyaa](https://nyaa.si/?q=AXONIT4MGQDRDFFHA2JC6JQN43ICHT7F) |
+| `[SubsPlease] Rilakkuma - 03 (720p) [1F3799B2].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-03-720p-1f3799b2-mkv.n2099429) • [🐱 Nyaa](https://nyaa.si/?q=XVTQJDFOV2FISL5FFDQRIGBB4K4PFAS2) |
 | `[Erai-raws] Snowball Earth - 03 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-03-1080p-cr-webrip.n2099423) • [🐱 Nyaa](https://nyaa.si/?q=STDPWLHMOXF6O63VBGN2YQANOZJRA3ZH) |
 | `[Erai-raws] Kami no Shizuku - 02 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-shizuku-02-1080p-cr.n2099422) • [🐱 Nyaa](https://nyaa.si/?q=WDMGOX6ST7MANOQEZQPAHRGT75FQD5KA) |
 | `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kamiina-botan-yoeru-sugata-wa-yuri-no.n2099421) • [🐱 Nyaa](https://nyaa.si/?q=6BV5BNDS3VKBQGLCKSX46POG52GCICSJ) |
-| `[Piyoko] Onegai AiPri - 02 [WEB AMZN 1080p h264 AC3 2.0]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-02-web-amzn-1080p-h264.n2099418) • [🐱 Nyaa](https://nyaa.si/?q=DP6BHZ7KJO7C6ZUKUFH4I4X2M63UHVHP) |
-| `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e03.k10437875914511) • [🐱 Nyaa](https://nyaa.si/?q=2GNOG4BCXZO4H7SP5EMVNFLKQ2FDONYN) |
-| `[GHOST][1080p] Battle Girl High School [BD HEVC 10bit Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-1080p-battle-girl-high-school-bd-hevc.n2099400) • [🐱 Nyaa](https://nyaa.si/?q=6AIRCF5CNJDJGD2SLZ6ZBHEEJIVVQ3BF) |
-| `[Feibanyama] That Time I Got Reincarnated as a Slime S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-time-got-reincarnated-slime-s04e03-iqiyi-webrip.n2099399) • [🐱 Nyaa](https://nyaa.si/?q=C2V267PG2ZLFOGISTJXSBCE5KSG7TBCC) |
-| `[FSP DN] Jian Lai 2 (Sword of Coming 2) - 19 [4K] | 剑来` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-jian-lai-2-sword-coming-2-19-4k.n2099396) • [🐱 Nyaa](https://nyaa.si/?q=ZWKA73QFPCW3Q2MCZ63XFTOX5KXAOIVG) |
-| `[FSP DN] The Gate of Mystical Realm - 23 (4K) | 玄界之门` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-gate-mystical-realm-23-4k.n2099395) • [🐱 Nyaa](https://nyaa.si/?q=IMQWZMTUAREKDNUWNK3A6ID75NEWAQ24) |
-| `Dandelion S01 1080p NF WEB-DL MULTi Opus5.1 AV1 HDR10+ (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dandelion-s01-1080p-nf-web-dl-multi-opus5.n2099393) • [🐱 Nyaa](https://nyaa.si/?q=LRL5DJ7HKGMH62Z4F7HKAOLQ5BKV3SZL) |
-| `Dandelion S01 1080p NF WEB-DL MULTi Opus2.0 AV1 (Multi-Au...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dandelion-s01-1080p-nf-web-dl-multi-opus2.n2099392) • [🐱 Nyaa](https://nyaa.si/?q=ZNUQW67W6SJRI7MIJDM2YJB3HU2MNAEQ) |
-| `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2099391) • [🐱 Nyaa](https://nyaa.si/?q=NBTSSUGZKFDIKNGKN7WHT5E4CSHGZBL5) |
-| `[DKB] Tensei shitara Slime Datta Ken - S04E03 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tensei-shitara-slime-datta-ken-s04e03-1080p.n2099390) • [🐱 Nyaa](https://nyaa.si/?q=KL5U66TK24QPOKNF4TIUOIFULTOJAHOW) |
-| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.k10436580417292) • [🐱 Nyaa](https://nyaa.si/?q=3QO6M3SNNDVOJJOG2JVSJC5ERYSLU2T4) |
-| `[Feibanyama] Dr STONE S04E27 [IQIYI WebRip 2160p HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-dr-stone-s04e27-iqiyi-webrip-2160p-hevc.n2099387) • [🐱 Nyaa](https://nyaa.si/?q=NBZUYVA6DTVH73FCTQ4V5UGHJWMI6P5Y) |
 
 ---
 <div align="center">
