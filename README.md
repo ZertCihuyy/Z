@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.41.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.16.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `MAO S01E03 The Accursed 1080p DSNP WEB-DL AAC2.0 H 264-VA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e03-accursed-1080p-dsnp-web-dl-aac2.n2099920) • [🐱 Nyaa](https://nyaa.si/?q=L654THAFSHIX7IP6L7XNUBF5IX5HS3JH) |
+| `[Erai-raws] Kanan-sama wa Akumade Choroi - 03 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanan-sama-wa-akumade-choroi-03.k10460207959567) • [🐱 Nyaa](https://nyaa.si/?q=4JYIP3PJJWI7QYOK2FVM63IHERB6C4FK) |
+| `[Erai-raws] Mao - 03 [720p DSNP WEB-DL AVC AAC][MultiSub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-03-720p-dsnp-web-dl.n2099918) • [🐱 Nyaa](https://nyaa.si/?q=LPU544CYHRRKMMRCTYR4264PP7ZPYL2P) |
+| `[Erai-raws] Mao - 03 [1080p DSNP WEB-DL AVC AAC][MultiSub...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-03-1080p-dsnp-web-dl.n2099917) • [🐱 Nyaa](https://nyaa.si/?q=QKDF2ZTOR5AQ4KUHISG5QTQQK7MP5YDI) |
+| `[Erai-raws] Mao - 03 [480p DSNP WEB-DL AVC AAC][MultiSub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-03-480p-dsnp-web-dl.n2099916) • [🐱 Nyaa](https://nyaa.si/?q=XFDEYDT2I4GCAIF7UAEDH2BHVJEZAXLA) |
 | `[Feibanyama] Daemons of the Shadow Realm S01E03 [BILIBILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-daemons-shadow-realm-s01e03-bilibili-webrip-2160p.n2099915) • [🐱 Nyaa](https://nyaa.si/?q=JLGXY2OGGHBIFR474IUSPZKKHXJE5XQL) |
 | `[BlackRabbit] I'm Getting Married to a Girl I Hate in My ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-im-getting-married-girl-hate-my-class.k10459614232841) • [🐱 Nyaa](https://nyaa.si/?q=2IVN36NVQ6RVMYVO64V2N7HGZXYWCQHA) |
 | `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 03 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-03.k10459373830151) • [🐱 Nyaa](https://nyaa.si/?q=CVXCGWJRQBRNLISNSVEOUBJZSJYEXDMY) |
@@ -38,11 +43,6 @@
 | `[Judas] Tougen Anki (Season 01) [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tougen-anki-season-01-1080p-hevc-x265.n2099909) • [🐱 Nyaa](https://nyaa.si/?q=62UGKATQ5Q4EOKVASU2X6M53GZARMPQ3) |
 | `[Judas] Chanto Suenai Kyuuketsuki-chan (Li`l Miss Vampire...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-chanto-suenai-kyuuketsuki-chan-lil-miss-vampire.n2099908) • [🐱 Nyaa](https://nyaa.si/?q=JK3SBMX3TQLRODLEWUKFXWSD3W64M5LN) |
 | `[Judas] Tamon-kun Ima Docchi! (Tamon`s B-Side) (Season 01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tamon-kun-ima-docchi-tamons-b-side.n2099907) • [🐱 Nyaa](https://nyaa.si/?q=LVQZSFSVZGAEDKEJKGODTZ2C7EWECQ22) |
-| `[BlackRabbit] Fairy Tail (2009) - S08 [WEBDL-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s08-webdl-1080p-opus.k10458738499846) • [🐱 Nyaa](https://nyaa.si/?q=MJSTI6R42BE5EIRCM7EUYDAZYPXKAAHX) |
-| `[BlackRabbit] Because I Don't Like My Brother At All-!! (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-because-dont-like-my-brother-all-2011.k10458501956365) • [🐱 Nyaa](https://nyaa.si/?q=VDEF7UOM34RLTADAHT2A3FXMS7DXIEXD) |
-| `[BlackRabbit] Because I Don't Like My Brother At All-!! (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-because-dont-like-my-brother-all-2011.k10458463449346) • [🐱 Nyaa](https://nyaa.si/?q=CGWPXJGDWEARROINYDTMI22E7YRN34FM) |
-| `[Erai-raws] Needy Girl Overdose - 03 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-needy-girl-overdose-03-1080p-cr.n2099905) • [🐱 Nyaa](https://nyaa.si/?q=JVZM5SNJFQRLNEB5FOB2V6SUNPTJ4W6W) |
-| `[Judas] Akane-banashi - S01E03 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-akane-banashi-s01e03-1080p-hevc-x265-10bit.n2099904) • [🐱 Nyaa](https://nyaa.si/?q=H5WXQCFAOEFV7FOYRETBP22UB5C7UZND) |
 
 ---
 <div align="center">
