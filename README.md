@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.25.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.01.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[somedroplet] Pokémon Horizons - 134 [46F4CC84].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/somedroplet-pokmon-horizons-134-46f4cc84-mkv.n2099900) • [🐱 Nyaa](https://nyaa.si/?q=ZO6Z4Y3FV24N2P5WRE2ILWIY2HEFHMQ3) |
+| `[Onalrie] NEEDY GIRL OVERDOSE - S01E03 [1080p WEBRip AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-needy-girl-overdose-s01e03-1080p-webrip-av1-mkv.2075210) • [🐱 Nyaa](https://nyaa.si/?q=QR7WX76UMGU7RC5J3XSSGMMHDOC6FHQK) |
+| `[Judas] Kami no Niwatsuki Kusunoki-tei (Kusunoki's Garden...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kami-no-niwatsuki-kusunoki-tei-kusunokis-garden.n2099896) • [🐱 Nyaa](https://nyaa.si/?q=Q6A2KCUUED45VLIMAWVWPXILEZQQB2Z5) |
 | `[ASW] Yuusha no Kuzu - 14 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-kuzu-14-1080p-hevc-x265-10bit-aac.n2099894) • [🐱 Nyaa](https://nyaa.si/?q=645T7TY4O7Z4LSQDEXJ4P4RFOD2DONFU) |
 | `[Onalrie] Yuusha no Kuzu - S01E14 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-kuzu-s01e14-1080p-webrip-av1-mkv.2075209) • [🐱 Nyaa](https://nyaa.si/?q=IQKI2J7RR6Z5J2O5KRQ44FUYZOCJRWSK) |
 | `[Erai-raws] Ichijyoma Mankitsu Gurashi - 02 [1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-02-1080p-amzn.k10457317662979) • [🐱 Nyaa](https://nyaa.si/?q=4QNRJDKMJ7IEVB7U3NTXUNTLFYBJR3TV) |
@@ -40,9 +43,6 @@
 | `[UQW] Hataraku Saibou [BDRip 1080p HEVC-YUV420P10 FLAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/uqw-hataraku-saibou-bdrip-1080p-hevc-yuv420p10-flac.n2099871) • [🐱 Nyaa](https://nyaa.si/?q=KNGLEPRCWPGVVHSYRLUSXXWZ525YTUXC) |
 | `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E04 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-shunkashuutou-daikousha-haru-no-mai-s01e04-1080p.2075197) • [🐱 Nyaa](https://nyaa.si/?q=4IMUCTGBHXRJVBBUY6UU4DNKXA2E5P7W) |
 | `[Erai-raws] Yomi no Tsugai - 03 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yomi-no-tsugai-03-1080p-cr.k10456631671813) • [🐱 Nyaa](https://nyaa.si/?q=2MO7AHNYDWN4XPS6AUUUHXX577SQ3OXS) |
-| `[Kaleido-mini] Liar Game (2026) - 02 (S01E02) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-02-s01e02-web.n2099864) • [🐱 Nyaa](https://nyaa.si/?q=FQPSIH5FEKMFFGSRMI23K5KSC4JV4BMC) |
-| `[Kaleido-subs] Liar Game (2026) - 02 (S01E02) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-liar-game-2026-02-s01e02-web.n2099863) • [🐱 Nyaa](https://nyaa.si/?q=WAFLITBPUBVYGTJHE6ZR3Q6KKGXJ5HUE) |
-| `[ASW] Shunkashuutou Daikousha - Haru no Mai - 04 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-shunkashuutou-daikousha-haru-no-mai-04-1080p.n2099862) • [🐱 Nyaa](https://nyaa.si/?q=73VV7LT2Q4ZWFHP4JSVCDOWWDULEKYR6) |
 
 ---
 <div align="center">
