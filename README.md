@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.40.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.26.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] Yowayowa Sensei S01E02 Weak and Wimpy After Schoo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-yowayowa-sensei-s01e02-weak-wimpy-after-school.k10455916945669) • [🐱 Nyaa](https://nyaa.si/?q=VH67UCI6OU5T6PEKESFVYEHCVVCBA3JK) |
-| `[Onalrie] Yomi no Tsugai - S01E03 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yomi-no-tsugai-s01e03-1080p-webrip-av1-mkv.2075194) • [🐱 Nyaa](https://nyaa.si/?q=RZVJNUMKA2ZKQJCH6OCZMCTHFF6UDJ5R) |
-| `[ASW] Yomi no Tsugai - 03 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yomi-no-tsugai-03-1080p-hevc-x265-10bit-aac.n2099829) • [🐱 Nyaa](https://nyaa.si/?q=5H6DA23LGWGN6VNIWVK4AHOC6GJZEDTU) |
-| `[ASW] Kanan-sama wa Akumade Choroi - 03 [1080p HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kanan-sama-wa-akumade-choroi-03-1080p.n2099828) • [🐱 Nyaa](https://nyaa.si/?q=DWO3VIPW3XE73PBXZNAVFYDG5WVJ2MGG) |
-| `[Erai-raws] Akane-banashi - 03 [1080p NF WEBRip HEVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-akane-banashi-03-1080p-nf-webrip.k10455684837902) • [🐱 Nyaa](https://nyaa.si/?q=NWZQQFXY3Y3HBQZBDQTUT4YRF474PKP5) |
-| `Kusunokis Garden of Gods S01E03 Training Wind Power in th...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kusunokis-garden-gods-s01e03-training-wind-power-sacred.n2099824) • [🐱 Nyaa](https://nyaa.si/?q=TBKTSHNZBR4OZJRTXZPGZB5K5CULOGYY) |
-| `NEEDY GIRL OVERDOSE S01E03 INTERNET OVERDOSE 1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/needy-girl-overdose-s01e03-internet-1080p-cr-web.n2099823) • [🐱 Nyaa](https://nyaa.si/?q=YRVNBGP5VOE3QRMOP5RGYJRRLWGIGM6M) |
-| `[SubsPlease] Yuusha no Kuzu - 14 (1080p) [6FA38BCE].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-kuzu-14-1080p-6fa38bce-mkv.n2099821) • [🐱 Nyaa](https://nyaa.si/?q=VYEVP46AAFHLUZ5NAB7DFYREWON6NSKA) |
-| `[SubsPlease] Kami no Niwatsuki Kusunoki-tei - 03 (1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kami-no-niwatsuki-kusunoki-tei-03-1080p-8f156bb1.n2099822) • [🐱 Nyaa](https://nyaa.si/?q=6L4G5BRHBVO4OFOLO4Q6XNBO42VJ5J6E) |
-| `Scum of the Brave S01E14 A Brave Priest 1080p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/scum-brave-s01e14-priest-1080p-cr-web-dl.n2099820) • [🐱 Nyaa](https://nyaa.si/?q=6RXK56GII7EDVCJ3L2PWVYDJLKJRJYCH) |
-| `[SubsPlease] Kami no Niwatsuki Kusunoki-tei - 03 (720p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kami-no-niwatsuki-kusunoki-tei-03-720p-857516b1.n2099818) • [🐱 Nyaa](https://nyaa.si/?q=USGQLY5YLJK3VB752ZYOC3BR67NQ55S2) |
-| `[SubsPlease] Kami no Niwatsuki Kusunoki-tei - 03 (480p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kami-no-niwatsuki-kusunoki-tei-03-480p-94cde68e.n2099816) • [🐱 Nyaa](https://nyaa.si/?q=OTWJHFI57G226A7KFB26C7GTVEVSWCWH) |
-| `[Trix] Agents of the Four Seasons S01E04 [WEBRip 1080p AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-agents-four-seasons-s01e04-webrip-1080p-av1.n2099815) • [🐱 Nyaa](https://nyaa.si/?q=RFT64QIKKP4PH4TWZM237FB3QHFQA5PJ) |
-| `[SubsPlease] NEEDY GIRL OVERDOSE - 03 (1080p) [AA712D60].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-needy-girl-overdose-03-1080p-aa712d60-mkv.n2099814) • [🐱 Nyaa](https://nyaa.si/?q=YYTTKHF4H26A2SOKKAVKCWNDFSIRV7GJ) |
-| `[SubsPlease] Yuusha no Kuzu - 14 (720p) [5923A0E0].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-kuzu-14-720p-5923a0e0-mkv.n2099813) • [🐱 Nyaa](https://nyaa.si/?q=JJYFF6POLYJ7D6ES3K5URDJPMUXAXUZZ) |
+| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E04 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-shunkashuutou-daikousha-haru-no-mai-s01e04-1080p.2075197) • [🐱 Nyaa](https://nyaa.si/?q=4IMUCTGBHXRJVBBUY6UU4DNKXA2E5P7W) |
+| `[Erai-raws] Yomi no Tsugai - 03 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yomi-no-tsugai-03-1080p-cr.k10456631671813) • [🐱 Nyaa](https://nyaa.si/?q=2MO7AHNYDWN4XPS6AUUUHXX577SQ3OXS) |
+| `[Kaleido-mini] Liar Game (2026) - 02 (S01E02) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-02-s01e02-web.n2099864) • [🐱 Nyaa](https://nyaa.si/?q=FQPSIH5FEKMFFGSRMI23K5KSC4JV4BMC) |
+| `[Kaleido-subs] Liar Game (2026) - 02 (S01E02) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-liar-game-2026-02-s01e02-web.n2099863) • [🐱 Nyaa](https://nyaa.si/?q=WAFLITBPUBVYGTJHE6ZR3Q6KKGXJ5HUE) |
+| `[ASW] Shunkashuutou Daikousha - Haru no Mai - 04 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-shunkashuutou-daikousha-haru-no-mai-04-1080p.n2099862) • [🐱 Nyaa](https://nyaa.si/?q=73VV7LT2Q4ZWFHP4JSVCDOWWDULEKYR6) |
+| `[shincaps] NEEDY GIRL OVERDOSE - 03 (ANIPLUS 1920x1080 H2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/shincaps-needy-girl-overdose-03-aniplus-1920x1080-h264-aac.n2099859) • [🐱 Nyaa](https://nyaa.si/?q=RPJSMTIOF2TY6POHFABPPJGHWPDZRLOE) |
+| `[FumeiRaws] NEEDY GIRL OVERDOSE - 03 (Aniplus 1920x1080 x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fumeiraws-needy-girl-overdose-03-aniplus-1920x1080-x264-aac.n2099857) • [🐱 Nyaa](https://nyaa.si/?q=AJLHWVMS22OVSWAJSGYSSSPGITCKZV53) |
+| `[Onalrie] Kanan-sama wa Akumade Choroi - S01E03 [1080p WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kanan-sama-wa-akumade-choroi-s01e03-1080p.2075196) • [🐱 Nyaa](https://nyaa.si/?q=4ZFKSQJXMMAGOY5TP42O425TYP3PPLRN) |
+| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 02 [720p AMZN WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-02-720p-amzn.k10456228528640) • [🐱 Nyaa](https://nyaa.si/?q=MQLHSPMSHBASBKLUFIXWR4LZCYP4YK2X) |
+| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 02 [1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-02-1080p-amzn.k10456228130819) • [🐱 Nyaa](https://nyaa.si/?q=CXC24Q3KHH6GTWWU6SFS7VSJUGS7XZ5J) |
+| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 02 [540p AMZN WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-02-540p-amzn.k10456228292111) • [🐱 Nyaa](https://nyaa.si/?q=N53YQHOYH4RUGQVHY3ERV6FSMMVKCTSF) |
+| `[LoliHouse] 最强的职业不是勇者也不是贤者好像是鉴定士(暂定)的样子？ / Kanteishi (Kar...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lolihouse-kanteishi-kari-04-webrip-1080p-hevc-10bit-aac.n2099844) • [🐱 Nyaa](https://nyaa.si/?q=2EEQTP64Z6IPXWFYVUAPOG2HGZ73342K) |
+| `Kusunokis Garden of Gods S01E03 Power of Wind Train in th...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kusunokis-garden-gods-s01e03-power-wind-train-divine.n2099842) • [🐱 Nyaa](https://nyaa.si/?q=IC5DF636UU45G3HT3D7KR3CYB3MEXXON) |
+| `[Raze] Yomi no Tsugai - 03 x265 10bit 1080p 143.8561fps.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-yomi-no-tsugai-03-x265-10bit-1080p.n2099841) • [🐱 Nyaa](https://nyaa.si/?q=6XIM7WGNJR5MVRDU6SL52RC45XJCKI4M) |
+| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kanan-sama-wa-akumade-choroi-mistress-devilishly.n2099840) • [🐱 Nyaa](https://nyaa.si/?q=YUOVGJI4JM3RHJ7O4KHGXQCFO75OM6C6) |
 
 ---
 <div align="center">
