@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.11.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.40.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `The.Legend.of.Hei.II.2025.1080p.IT.WEB-DL.DD5.1.H.264-ENK` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/legend-hei-ii-2025-1080p-web-dl-dd5.n2099487) • [🐱 Nyaa](https://nyaa.si/?q=H6N3XVCMWSKEWRCVLNPIZBDHMRBBINRM) |
+| `[BlackRabbit] The Kingdoms of Ruin (2023) - S01 [Bluray-1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kingdoms-ruin-2023-s01-bluray-1080p-opus.k10445054332168) • [🐱 Nyaa](https://nyaa.si/?q=USY5FCDZ5XWO3V72RW3AX7NCSSYEYQHK) |
+| `[Some-Stuffs] Pocket Monsters (2023) Rising Again Climax ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-rising-again-climax-pv.n2099481) • [🐱 Nyaa](https://nyaa.si/?q=ODKF263S6ILXBPRHCDKBVUR2CTEVF7NT) |
+| `[Some-Stuffs] Pocket Monsters (2023) Wonder Voyage Reveal...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-wonder-voyage-reveal-pv.n2099480) • [🐱 Nyaa](https://nyaa.si/?q=LF3PSDOPHUCFYWXHQDFZUJR5QDEU3S2Z) |
+| `[BlackRabbit] Lupin III (1971) - S06 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-lupin-iii-1971-s06-bluray-1080p-opus.k10444674939657) • [🐱 Nyaa](https://nyaa.si/?q=IYCKYJZ5H35UUIG6O4YRMGUFZQSARHY2) |
 | `[SubsPlease] Sousou no Frieren S2 (01-10) (1080p) [Unoffi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-sousou-no-frieren-s2-01-10-1080p-unofficial-batch.n2099476) • [🐱 Nyaa](https://nyaa.si/?q=35H42R4KG2WYY5AGGXIOKKWYGMFAG6WP) |
 | `[BlackRabbit] Nyaruko - Crawling with Love! (2012) - S02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nyaruko-crawling-love-2012-s02-bluray-1080p.k10444432128770) • [🐱 Nyaa](https://nyaa.si/?q=GZU733MSEGW5SKP5UB23OS5TNVCSTOJP) |
 | `RILAKKUMA S01E03 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e03-1080p-cr-web-dl-multi-aac2.n2099472) • [🐱 Nyaa](https://nyaa.si/?q=HAFYJHSF5VBLIDN4CQYBYZ42IYF5HTBR) |
@@ -38,11 +43,6 @@
 | `[ak-Submarines] Girls und Panzer - MLLSD - 07 [WEB 1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak-submarines-girls-und-panzer-mllsd-07-web-1080p-d5136544.n2099463) • [🐱 Nyaa](https://nyaa.si/?q=XTGLGKEAWIG2PA4KFH2UE2U5A5OSJHAS) |
 | `[ToonsHub] B King S01E10 1080p BILI WEB-DL AAC2.0 H.265 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e10-1080p-bili-web-dl.n2099462) • [🐱 Nyaa](https://nyaa.si/?q=NKXSN65AGVNXVRVTUHNUMIAER5MKIGB7) |
 | `[Erai-raws] Rilakkuma - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-03-1080p-cr-webrip-hevc.k10442021031172) • [🐱 Nyaa](https://nyaa.si/?q=7DA45BULHSKSTFIBIEI2GLGN6EVYBR5B) |
-| `[Some-Stuffs] Pocket Monsters (2023) 134 (1080p HEVC 10-b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-134-1080p-hevc-10-bit-e22f35c4.n2099458) • [🐱 Nyaa](https://nyaa.si/?q=DFIWJ36DQ7FGWMYSASYIVGSQPONTSUHR) |
-| `[Some-Stuffs] Pocket Monsters (2023) 134 (1080p) [0049A5AD]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-134-1080p-0049a5ad.n2099457) • [🐱 Nyaa](https://nyaa.si/?q=3XMJUGX75TQCRLDQVLZIAZC5YSQR627W) |
-| `[Mo7tas] Hikuidori: Ushuu Boro Tobi-gumi [1080p] [Multi l...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-hikuidori-ushuu-boro-tobi-gumi-1080p-multi-language.n2099449) • [🐱 Nyaa](https://nyaa.si/?q=DPU5GOIIYR2DQJJFBA4LUP4MWSAF2H4R) |
-| `[Dekinai] Fate EXTRA Last Encore - Irusterias Tendouron (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dekinai-fate-extra-last-encore-irusterias-tendouron-tv.n2099444) • [🐱 Nyaa](https://nyaa.si/?q=5YMWVJD7RIQXAWWLQWSJQ3RHIIL74544) |
-| `[Kaleido-subs] Summer Pockets - 26 (S01E26) - (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-summer-pockets-26-s01e26-web-1080p.n2099443) • [🐱 Nyaa](https://nyaa.si/?q=UIXZTYCMXSQBJ74WFNFQENWQMOVZC6OT) |
 
 ---
 <div align="center">
