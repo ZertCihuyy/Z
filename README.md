@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.57.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.55.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] Ascendance of a Bookworm - S04E01 [English Dub] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-ascendance-bookworm-s04e01-english-dub-cr-web.n2099522) • [🐱 Nyaa](https://nyaa.si/?q=SBXJUFXUIWRQVEE5BRWD36RQPYV5NTXU) |
+| `[Yameii] Ascendance of a Bookworm - S04E01 [English Dub] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-ascendance-bookworm-s04e01-english-dub-cr-web.n2099521) • [🐱 Nyaa](https://nyaa.si/?q=6C7XWO626R3U5UG5DZ3QID5EZTX47R4W) |
+| `Ascendance of a Bookworm S04E01 Ive Become a Noble 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e01-ive-become-noble-1080p-cr.n2099520) • [🐱 Nyaa](https://nyaa.si/?q=SE4JLWXH2QMTSW6VWQVXPXLRS4EXUOP6) |
+| `Ascendance of a Bookworm S04E03 Archdukes Castle and Ital...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e03-archdukes-castle-italian.n2099519) • [🐱 Nyaa](https://nyaa.si/?q=JBXDL3SRCZ5B57IREAPXZETGHAJT5Y37) |
+| `[ToonsHub] Ascendance of a Bookworm S04E01 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ascendance-bookworm-s04e01-1080p-cr-web-dl.k10448673356290) • [🐱 Nyaa](https://nyaa.si/?q=VT66V32MTVZSARIATRGM7NYIMVEQPVWC) |
+| `[ToonsHub] Ascendance of a Bookworm S04E03 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ascendance-bookworm-s04e03-1080p-cr-web-dl.k10448673116928) • [🐱 Nyaa](https://nyaa.si/?q=SEGT746W5FQWDKXT7TXEHFNMCB7KESOI) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 03 (1080p) [6C725E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-honzuki-no-gekokujou-s4-03-1080p-6c725e05-mkv.n2099513) • [🐱 Nyaa](https://nyaa.si/?q=XUOAQBK36FRQW5OEMZDXTJN5J4BUXE53) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-honzuki-no-gekokujou-shisho-ni-naru.n2099511) • [🐱 Nyaa](https://nyaa.si/?q=2YFCMDM4OYR2ZZ2Z3US6MOPVFSESDRSD) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 03 (720p) [71D9C3F...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-honzuki-no-gekokujou-s4-03-720p-71d9c3ff-mkv.n2099510) • [🐱 Nyaa](https://nyaa.si/?q=4RJRGVXZYT2R7VI6DL46XZZ5GJWKAPPL) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-honzuki-no-gekokujou-shisho-ni-naru.n2099509) • [🐱 Nyaa](https://nyaa.si/?q=O2HUFOXOT7TRWJLU43XIJCW7AHWPGY4E) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-honzuki-no-gekokujou-shisho-ni-naru.n2099508) • [🐱 Nyaa](https://nyaa.si/?q=466RN6MMQHDHTWOKZCTDCNOA5P6WLNCO) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 03 (480p) [756CA62...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-honzuki-no-gekokujou-s4-03-480p-756ca626-mkv.n2099507) • [🐱 Nyaa](https://nyaa.si/?q=DXIYNQMY3ZFSBCO3T4UCAQRKBXHVXWOC) |
+| `[BlackRabbit] Fairy Tail (2009) - S06 [Bluray-1080p][Opus...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s06-bluray-1080p-opus.k10448365203467) • [🐱 Nyaa](https://nyaa.si/?q=FSVZNZUA5NEWU4P4LTAPMTS2MIDDQF4D) |
 | `Please Save My Earth DVD.iso` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/please-save-my-earth-dvd-iso.n2099496) • [🐱 Nyaa](https://nyaa.si/?q=RBYMVIUDNIS6ZZBXA4ZA4OTMPU23K5Z7) |
 | `[Onalrie] Rilakkuma - S01E03 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e03-1080p-webrip-av1-mkv.2075054) • [🐱 Nyaa](https://nyaa.si/?q=5B7IWFBLCN4GW2YN55KNDLPLSKBWI3G3) |
-| `[ToonsHub] B King S01E10 1080p ADN WEB-DL AAC2.0 H.264 (Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e10-1080p-adn-web-dl.n2099491) • [🐱 Nyaa](https://nyaa.si/?q=4HSILOHB6XOMOCDHGMO3ZMCAROJVWZRC) |
-| `[ToonsHub] Magical Sisters LuluttoLilly S01E02 1080p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-magical-sisters-luluttolilly-s01e02-1080p-amzn-web.n2099490) • [🐱 Nyaa](https://nyaa.si/?q=FOQZARUN6GVD2YIYRKLYFJVUWEN5SRMZ) |
-| `[ToonsHub] Magical Sisters LuluttoLilly S01E01 1080p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-magical-sisters-luluttolilly-s01e01-1080p-amzn-web.n2099489) • [🐱 Nyaa](https://nyaa.si/?q=NOMWYSXIXH7BOGQ4KYFSOYFXOJFA6V46) |
-| `There's.No.Freaking.Way.I'll.Be.Your.Lover.Unless.S01.v2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/theres-no-freaking-way-ill-your-lover-unless.n2099488) • [🐱 Nyaa](https://nyaa.si/?q=NQ2AYE7OT75HD4Z3HU2FQ532QIWST3BA) |
-| `The.Legend.of.Hei.II.2025.1080p.IT.WEB-DL.DD5.1.H.264-ENK` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/legend-hei-ii-2025-1080p-web-dl-dd5.n2099487) • [🐱 Nyaa](https://nyaa.si/?q=H6N3XVCMWSKEWRCVLNPIZBDHMRBBINRM) |
-| `[BlackRabbit] The Kingdoms of Ruin (2023) - S01 [Bluray-1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-kingdoms-ruin-2023-s01-bluray-1080p-opus.k10445054332168) • [🐱 Nyaa](https://nyaa.si/?q=USY5FCDZ5XWO3V72RW3AX7NCSSYEYQHK) |
-| `[Some-Stuffs] Pocket Monsters (2023) Rising Again Climax ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-rising-again-climax-pv.n2099481) • [🐱 Nyaa](https://nyaa.si/?q=ODKF263S6ILXBPRHCDKBVUR2CTEVF7NT) |
-| `[Some-Stuffs] Pocket Monsters (2023) Wonder Voyage Reveal...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-wonder-voyage-reveal-pv.n2099480) • [🐱 Nyaa](https://nyaa.si/?q=LF3PSDOPHUCFYWXHQDFZUJR5QDEU3S2Z) |
-| `[BlackRabbit] Lupin III (1971) - S06 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-lupin-iii-1971-s06-bluray-1080p-opus.k10444674939657) • [🐱 Nyaa](https://nyaa.si/?q=IYCKYJZ5H35UUIG6O4YRMGUFZQSARHY2) |
-| `[SubsPlease] Sousou no Frieren S2 (01-10) (1080p) [Unoffi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-sousou-no-frieren-s2-01-10-1080p-unofficial-batch.n2099476) • [🐱 Nyaa](https://nyaa.si/?q=35H42R4KG2WYY5AGGXIOKKWYGMFAG6WP) |
-| `[BlackRabbit] Nyaruko - Crawling with Love! (2012) - S02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nyaruko-crawling-love-2012-s02-bluray-1080p.k10444432128770) • [🐱 Nyaa](https://nyaa.si/?q=GZU733MSEGW5SKP5UB23OS5TNVCSTOJP) |
-| `RILAKKUMA S01E03 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e03-1080p-cr-web-dl-multi-aac2.n2099472) • [🐱 Nyaa](https://nyaa.si/?q=HAFYJHSF5VBLIDN4CQYBYZ42IYF5HTBR) |
-| `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E04...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e04.k10443643881478) • [🐱 Nyaa](https://nyaa.si/?q=O5F3KXQX5QOHREYZCFZFCCFRF4J7VS3H) |
 
 ---
 <div align="center">
