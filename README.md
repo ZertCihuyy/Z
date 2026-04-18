@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.47.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.57.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Please Save My Earth DVD.iso` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/please-save-my-earth-dvd-iso.n2099496) • [🐱 Nyaa](https://nyaa.si/?q=RBYMVIUDNIS6ZZBXA4ZA4OTMPU23K5Z7) |
 | `[Onalrie] Rilakkuma - S01E03 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e03-1080p-webrip-av1-mkv.2075054) • [🐱 Nyaa](https://nyaa.si/?q=5B7IWFBLCN4GW2YN55KNDLPLSKBWI3G3) |
 | `[ToonsHub] B King S01E10 1080p ADN WEB-DL AAC2.0 H.264 (Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e10-1080p-adn-web-dl.n2099491) • [🐱 Nyaa](https://nyaa.si/?q=4HSILOHB6XOMOCDHGMO3ZMCAROJVWZRC) |
 | `[ToonsHub] Magical Sisters LuluttoLilly S01E02 1080p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-magical-sisters-luluttolilly-s01e02-1080p-amzn-web.n2099490) • [🐱 Nyaa](https://nyaa.si/?q=FOQZARUN6GVD2YIYRKLYFJVUWEN5SRMZ) |
@@ -42,7 +43,6 @@
 | `[BlackRabbit] Nyaruko - Crawling with Love! (2012) - S02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nyaruko-crawling-love-2012-s02-bluray-1080p.k10444432128770) • [🐱 Nyaa](https://nyaa.si/?q=GZU733MSEGW5SKP5UB23OS5TNVCSTOJP) |
 | `RILAKKUMA S01E03 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e03-1080p-cr-web-dl-multi-aac2.n2099472) • [🐱 Nyaa](https://nyaa.si/?q=HAFYJHSF5VBLIDN4CQYBYZ42IYF5HTBR) |
 | `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E04...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e04.k10443643881478) • [🐱 Nyaa](https://nyaa.si/?q=O5F3KXQX5QOHREYZCFZFCCFRF4J7VS3H) |
-| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 01 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniv-remastered-01-1080p-yt.n2099466) • [🐱 Nyaa](https://nyaa.si/?q=ARTLHHE3463SXSD7FGWDPZKQ7JDJCJAK) |
 
 ---
 <div align="center">
