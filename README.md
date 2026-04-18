@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.01.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.54.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] There's No Freaking Way I'll Be Your Lover!...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-theres-no-freaking-way-ill-your-lover.k10459011870720) • [🐱 Nyaa](https://nyaa.si/?q=XSK44VZGB3IURV3CFP2NB4747GKTZZ74) |
+| `[DKB] Kanan-sama wa Akumade Choroi - S01E03 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanan-sama-wa-akumade-choroi-s01e03-1080p.n2099910) • [🐱 Nyaa](https://nyaa.si/?q=BEYIYUSPCZBMM6U4L4CIRUXKHHNPYQLE) |
+| `[Judas] Tougen Anki (Season 01) [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tougen-anki-season-01-1080p-hevc-x265.n2099909) • [🐱 Nyaa](https://nyaa.si/?q=62UGKATQ5Q4EOKVASU2X6M53GZARMPQ3) |
+| `[Judas] Chanto Suenai Kyuuketsuki-chan (Li`l Miss Vampire...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-chanto-suenai-kyuuketsuki-chan-lil-miss-vampire.n2099908) • [🐱 Nyaa](https://nyaa.si/?q=JK3SBMX3TQLRODLEWUKFXWSD3W64M5LN) |
+| `[Judas] Tamon-kun Ima Docchi! (Tamon`s B-Side) (Season 01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tamon-kun-ima-docchi-tamons-b-side.n2099907) • [🐱 Nyaa](https://nyaa.si/?q=LVQZSFSVZGAEDKEJKGODTZ2C7EWECQ22) |
+| `[BlackRabbit] Fairy Tail (2009) - S08 [WEBDL-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-fairy-tail-2009-s08-webdl-1080p-opus.k10458738499846) • [🐱 Nyaa](https://nyaa.si/?q=MJSTI6R42BE5EIRCM7EUYDAZYPXKAAHX) |
+| `[BlackRabbit] Because I Don't Like My Brother At All-!! (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-because-dont-like-my-brother-all-2011.k10458501956365) • [🐱 Nyaa](https://nyaa.si/?q=VDEF7UOM34RLTADAHT2A3FXMS7DXIEXD) |
+| `[BlackRabbit] Because I Don't Like My Brother At All-!! (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-because-dont-like-my-brother-all-2011.k10458463449346) • [🐱 Nyaa](https://nyaa.si/?q=CGWPXJGDWEARROINYDTMI22E7YRN34FM) |
+| `[Erai-raws] Needy Girl Overdose - 03 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-needy-girl-overdose-03-1080p-cr.n2099905) • [🐱 Nyaa](https://nyaa.si/?q=JVZM5SNJFQRLNEB5FOB2V6SUNPTJ4W6W) |
+| `[Judas] Akane-banashi - S01E03 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-akane-banashi-s01e03-1080p-hevc-x265-10bit.n2099904) • [🐱 Nyaa](https://nyaa.si/?q=H5WXQCFAOEFV7FOYRETBP22UB5C7UZND) |
+| `[DKB] Yomi no Tsugai - S01E03 [1080p][HEVC x265 10bit][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-yomi-no-tsugai-s01e03-1080p-hevc-x265.n2099901) • [🐱 Nyaa](https://nyaa.si/?q=JEXHXLMDRIPKP6YEGTJNAGVLTMKZR3GR) |
 | `[somedroplet] Pokémon Horizons - 134 [46F4CC84].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/somedroplet-pokmon-horizons-134-46f4cc84-mkv.n2099900) • [🐱 Nyaa](https://nyaa.si/?q=ZO6Z4Y3FV24N2P5WRE2ILWIY2HEFHMQ3) |
 | `[Onalrie] NEEDY GIRL OVERDOSE - S01E03 [1080p WEBRip AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-needy-girl-overdose-s01e03-1080p-webrip-av1-mkv.2075210) • [🐱 Nyaa](https://nyaa.si/?q=QR7WX76UMGU7RC5J3XSSGMMHDOC6FHQK) |
 | `[Judas] Kami no Niwatsuki Kusunoki-tei (Kusunoki's Garden...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kami-no-niwatsuki-kusunoki-tei-kusunokis-garden.n2099896) • [🐱 Nyaa](https://nyaa.si/?q=Q6A2KCUUED45VLIMAWVWPXILEZQQB2Z5) |
 | `[ASW] Yuusha no Kuzu - 14 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-kuzu-14-1080p-hevc-x265-10bit-aac.n2099894) • [🐱 Nyaa](https://nyaa.si/?q=645T7TY4O7Z4LSQDEXJ4P4RFOD2DONFU) |
-| `[Onalrie] Yuusha no Kuzu - S01E14 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-kuzu-s01e14-1080p-webrip-av1-mkv.2075209) • [🐱 Nyaa](https://nyaa.si/?q=IQKI2J7RR6Z5J2O5KRQ44FUYZOCJRWSK) |
-| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 02 [1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-02-1080p-amzn.k10457317662979) • [🐱 Nyaa](https://nyaa.si/?q=4QNRJDKMJ7IEVB7U3NTXUNTLFYBJR3TV) |
-| `[ASW] Kami no Niwatsuki Kusunoki-tei - 03 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kami-no-niwatsuki-kusunoki-tei-03-1080p.n2099892) • [🐱 Nyaa](https://nyaa.si/?q=UDBIA2S27PT2V5KD46AV3D6X2WWZEZ7N) |
-| `[Judas] NEEDY GIRL OVERDOSE - S01E03 [1080p][HEVC x265 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-needy-girl-overdose-s01e03-1080p-hevc-x265.n2099887) • [🐱 Nyaa](https://nyaa.si/?q=FI2IIJC3TTXYBP36ZBHVKXMM7RYUCCPL) |
-| `[Onalrie] Kami no Niwatsuki Kusunoki-tei - S01E03 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kami-no-niwatsuki-kusunoki-tei-s01e03-1080p.2075206) • [🐱 Nyaa](https://nyaa.si/?q=CHRCDGLP5X2RBPEY2FGOHGRQSOQ6QHKB) |
-| `[Ironclad] Daemons of the Shadow Realm - S01E03 (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-daemons-shadow-realm-s01e03-web-1080p-av1.k10456958681865) • [🐱 Nyaa](https://nyaa.si/?q=PDCE66JUOSUTEUOT3CLENYO6UZSHVYDM) |
-| `[ASW] NEEDY GIRL OVERDOSE - 03 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-needy-girl-overdose-03-1080p-hevc-x265-10bit-aac.n2099881) • [🐱 Nyaa](https://nyaa.si/?q=OXDXRSQRYES4VPVKXEI3BDEGW6LKPYIM) |
-| `[UQW] Hataraku Saibou!! [BDRip 1080p HEVC-YUV420P10 FLAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/uqw-hataraku-saibou-bdrip-1080p-hevc-yuv420p10-flac.n2099872) • [🐱 Nyaa](https://nyaa.si/?q=W6H2E6HGOTP5LVYDBUEKWQCLD2KTSWBS) |
-| `[UQW] Hataraku Saibou [BDRip 1080p HEVC-YUV420P10 FLAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/uqw-hataraku-saibou-bdrip-1080p-hevc-yuv420p10-flac.n2099871) • [🐱 Nyaa](https://nyaa.si/?q=KNGLEPRCWPGVVHSYRLUSXXWZ525YTUXC) |
-| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E04 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-shunkashuutou-daikousha-haru-no-mai-s01e04-1080p.2075197) • [🐱 Nyaa](https://nyaa.si/?q=4IMUCTGBHXRJVBBUY6UU4DNKXA2E5P7W) |
-| `[Erai-raws] Yomi no Tsugai - 03 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yomi-no-tsugai-03-1080p-cr.k10456631671813) • [🐱 Nyaa](https://nyaa.si/?q=2MO7AHNYDWN4XPS6AUUUHXX577SQ3OXS) |
 
 ---
 <div align="center">
