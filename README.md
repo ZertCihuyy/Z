@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.52.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.11.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Sousou no Frieren S2 (01-10) (1080p) [Unoffi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-sousou-no-frieren-s2-01-10-1080p-unofficial-batch.n2099476) • [🐱 Nyaa](https://nyaa.si/?q=35H42R4KG2WYY5AGGXIOKKWYGMFAG6WP) |
+| `[BlackRabbit] Nyaruko - Crawling with Love! (2012) - S02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-nyaruko-crawling-love-2012-s02-bluray-1080p.k10444432128770) • [🐱 Nyaa](https://nyaa.si/?q=GZU733MSEGW5SKP5UB23OS5TNVCSTOJP) |
+| `RILAKKUMA S01E03 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e03-1080p-cr-web-dl-multi-aac2.n2099472) • [🐱 Nyaa](https://nyaa.si/?q=HAFYJHSF5VBLIDN4CQYBYZ42IYF5HTBR) |
+| `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E04...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e04.k10443643881478) • [🐱 Nyaa](https://nyaa.si/?q=O5F3KXQX5QOHREYZCFZFCCFRF4J7VS3H) |
+| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 01 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniv-remastered-01-1080p-yt.n2099466) • [🐱 Nyaa](https://nyaa.si/?q=ARTLHHE3463SXSD7FGWDPZKQ7JDJCJAK) |
+| `[Gecko] B.King - S01E10 (驭灵师; Yu Ling Shi) [BILI.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e10-yu-ling-shi-bili.k10442716899342) • [🐱 Nyaa](https://nyaa.si/?q=J434OROAZLLATIKJTMHVERWUIX7CWUPK) |
+| `[CrappySubs] MARRIAGETOXIN - S01E01 - (WEB 1080p H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crappysubs-marriagetoxin-s01e01-web-1080p-h-264-aac-d4fd1cb0.k10442679166222) • [🐱 Nyaa](https://nyaa.si/?q=CEH22TSNWPHRDOXGTC6GLJX7KJREMUSD) |
+| `[ak-Submarines] Girls und Panzer - MLLSD - 07 [WEB 1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak-submarines-girls-und-panzer-mllsd-07-web-1080p-d5136544.n2099463) • [🐱 Nyaa](https://nyaa.si/?q=XTGLGKEAWIG2PA4KFH2UE2U5A5OSJHAS) |
+| `[ToonsHub] B King S01E10 1080p BILI WEB-DL AAC2.0 H.265 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e10-1080p-bili-web-dl.n2099462) • [🐱 Nyaa](https://nyaa.si/?q=NKXSN65AGVNXVRVTUHNUMIAER5MKIGB7) |
 | `[Erai-raws] Rilakkuma - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-03-1080p-cr-webrip-hevc.k10442021031172) • [🐱 Nyaa](https://nyaa.si/?q=7DA45BULHSKSTFIBIEI2GLGN6EVYBR5B) |
+| `[Some-Stuffs] Pocket Monsters (2023) 134 (1080p HEVC 10-b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-134-1080p-hevc-10-bit-e22f35c4.n2099458) • [🐱 Nyaa](https://nyaa.si/?q=DFIWJ36DQ7FGWMYSASYIVGSQPONTSUHR) |
+| `[Some-Stuffs] Pocket Monsters (2023) 134 (1080p) [0049A5AD]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-134-1080p-0049a5ad.n2099457) • [🐱 Nyaa](https://nyaa.si/?q=3XMJUGX75TQCRLDQVLZIAZC5YSQR627W) |
 | `[Mo7tas] Hikuidori: Ushuu Boro Tobi-gumi [1080p] [Multi l...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-hikuidori-ushuu-boro-tobi-gumi-1080p-multi-language.n2099449) • [🐱 Nyaa](https://nyaa.si/?q=DPU5GOIIYR2DQJJFBA4LUP4MWSAF2H4R) |
 | `[Dekinai] Fate EXTRA Last Encore - Irusterias Tendouron (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dekinai-fate-extra-last-encore-irusterias-tendouron-tv.n2099444) • [🐱 Nyaa](https://nyaa.si/?q=5YMWVJD7RIQXAWWLQWSJQ3RHIIL74544) |
 | `[Kaleido-subs] Summer Pockets - 26 (S01E26) - (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-summer-pockets-26-s01e26-web-1080p.n2099443) • [🐱 Nyaa](https://nyaa.si/?q=UIXZTYCMXSQBJ74WFNFQENWQMOVZC6OT) |
-| `RILAKKUMA S01E03 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e03-1080p-cr-web-dl-dual-aac2.n2099440) • [🐱 Nyaa](https://nyaa.si/?q=3Z7DDGP4WW2XLEO722AMIIK4IFEACXTE) |
-| `[ToonsHub] RILAKKUMA S01E03 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e03-1080p-cr-web-dl-dual.k10440831336716) • [🐱 Nyaa](https://nyaa.si/?q=RAYUIN32EMDMDGHU4XYX44C2TWK2GZ66) |
-| `[Erai-raws] Rilakkuma - 03 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-03-480p-cr-web-dl.k10440814550534) • [🐱 Nyaa](https://nyaa.si/?q=IN7NQBTU57B4S2MP2XCD3T5JIWZQXPKT) |
-| `[Erai-raws] Rilakkuma - 03 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-03-720p-cr-web-dl.k10440813349645) • [🐱 Nyaa](https://nyaa.si/?q=YSCCZF4T5M3O2QAQ4HYDDAZOYGH65HE2) |
-| `[Erai-raws] Rilakkuma - 03 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-03-1080p-cr-web-dl.n2099431) • [🐱 Nyaa](https://nyaa.si/?q=4VPAFEHFVJKXLGLIF4PU7IRMRAXGWUET) |
-| `[SubsPlease] Rilakkuma - 03 (1080p) [1A2F2A45].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-03-1080p-1a2f2a45-mkv.n2099430) • [🐱 Nyaa](https://nyaa.si/?q=DWZVDPNT3WNYSLUES6E65YM7EJA3DA2R) |
-| `[SubsPlease] Rilakkuma - 03 (480p) [3DEBD679].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-03-480p-3debd679-mkv.n2099428) • [🐱 Nyaa](https://nyaa.si/?q=AXONIT4MGQDRDFFHA2JC6JQN43ICHT7F) |
-| `[SubsPlease] Rilakkuma - 03 (720p) [1F3799B2].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-03-720p-1f3799b2-mkv.n2099429) • [🐱 Nyaa](https://nyaa.si/?q=XVTQJDFOV2FISL5FFDQRIGBB4K4PFAS2) |
-| `[Erai-raws] Snowball Earth - 03 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-03-1080p-cr-webrip.n2099423) • [🐱 Nyaa](https://nyaa.si/?q=STDPWLHMOXF6O63VBGN2YQANOZJRA3ZH) |
-| `[Erai-raws] Kami no Shizuku - 02 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-shizuku-02-1080p-cr.n2099422) • [🐱 Nyaa](https://nyaa.si/?q=WDMGOX6ST7MANOQEZQPAHRGT75FQD5KA) |
-| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kamiina-botan-yoeru-sugata-wa-yuri-no.n2099421) • [🐱 Nyaa](https://nyaa.si/?q=6BV5BNDS3VKBQGLCKSX46POG52GCICSJ) |
 
 ---
 <div align="center">
