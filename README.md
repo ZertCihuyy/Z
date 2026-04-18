@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.50.36_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.39.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Welcome to Demon School Iruma kun S04E03 The Essence of a...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/welcome-demon-school-iruma-kun-s04e03-essence-dem.n2099569) • [🐱 Nyaa](https://nyaa.si/?q=CLI6ENUEOBGL444ID64KWYPHABZ63GMT) |
+| `[Erai-raws] Detective Conan - 1198 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1198-480p-cr-web.n2099567) • [🐱 Nyaa](https://nyaa.si/?q=NWE26IK7Q4DUKVTUW47Z4E3SK5RGIW6N) |
+| `[SubsPlease] Detective Conan - 1198 (1080p) [0674BC40].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1198-1080p-0674bc40-mkv.n2099566) • [🐱 Nyaa](https://nyaa.si/?q=G4GMXX3WYZDGTHUOQ3RI2N4WGDDPC3EM) |
+| `[SubsPlease] Detective Conan - 1198 (720p) [5A86F7A1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1198-720p-5a86f7a1-mkv.n2099565) • [🐱 Nyaa](https://nyaa.si/?q=I4GHJDZCIEDNZ5DCMYIYDIOGTFGHXOWN) |
+| `[Erai-raws] Detective Conan - 1198 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1198-720p-cr-web.n2099564) • [🐱 Nyaa](https://nyaa.si/?q=36CJ3LRXYLILCDSLWHFUXZXJD6CK4N7T) |
+| `[Erai-raws] Detective Conan - 1198 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1198-1080p-cr-web.n2099563) • [🐱 Nyaa](https://nyaa.si/?q=FTCLXMROTEXIEBPT5JVG7N6XKVZ42NCP) |
+| `[SubsPlease] Detective Conan - 1198 (480p) [DCBCAA2C].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1198-480p-dcbcaa2c-mkv.n2099562) • [🐱 Nyaa](https://nyaa.si/?q=PIWZN2JXF7FHABMNYWRFCYMBJHSC4TZL) |
+| `[ASW] Mairimashita! Iruma-kun S4 - 03 [1080p HEVC x265 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-mairimashita-iruma-kun-s4-03-1080p-hevc.n2099559) • [🐱 Nyaa](https://nyaa.si/?q=P3FSQLRG3SJ7DUM6FPLPQVR4PO5B6X3I) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E03 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-welcome-demon-school-iruma-kun-s04e03-1080p.n2099557) • [🐱 Nyaa](https://nyaa.si/?q=YVNROOKE3CK5RJR4UV4XSY4AUTIZ654X) |
+| `[Kekkan] Jishou Akuyaku Reijou na Konyakusha no Kansatsu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kekkan-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2099556) • [🐱 Nyaa](https://nyaa.si/?q=VW3HLLTIA6AMSRAGV72SKVXK3XS6IWHO) |
+| `[Onalrie] Mairimashita! Iruma-kun - S04E03 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mairimashita-iruma-kun-s04e03-1080p-webrip-av1-mkv.2075075) • [🐱 Nyaa](https://nyaa.si/?q=M2UYGWN4ETSSWGXCSJ6P3VFDKJYKXPKZ) |
+| `Welcome to Demon School Iruma kun S04E03 A Dem-dols Essen...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/welcome-demon-school-iruma-kun-s04e03-dem-dols.n2099554) • [🐱 Nyaa](https://nyaa.si/?q=Y7HTKU7P3Y5JSMI5UUWT6625JQ3JXPX3) |
+| `[ToonsHub] Way of Choices 2026 S01E14 1080p iQ WEB-DL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-way-choices-2026-s01e14-1080p-iq-web.n2099549) • [🐱 Nyaa](https://nyaa.si/?q=YS2PFUPHKBPP5ANNHONBKM7QTTCL5WRH) |
 | `[Yameii] Welcome to Demon School! Iruma-kun - S04E03 [Eng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-welcome-demon-school-iruma-kun-s04e03-english.n2099547) • [🐱 Nyaa](https://nyaa.si/?q=OKTEPG6OYILISN5FYPPOXFEERYDEY3IG) |
 | `[Yameii] Welcome to Demon School! Iruma-kun - S04E03 [Eng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-welcome-demon-school-iruma-kun-s04e03-english.n2099546) • [🐱 Nyaa](https://nyaa.si/?q=R3RFVOC73PEMIMB4I2AGHBW777YOA2AN) |
-| `Welcome to Demon School Iruma kun S04E03 The Essence of a...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/welcome-demon-school-iruma-kun-s04e03-essence-dem.n2099543) • [🐱 Nyaa](https://nyaa.si/?q=YWIKXHH247OZYUDXFENEDWEZJTFAYYIT) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E03 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-welcome-demon-school-iruma-kun-s04e03-1080p.k10449524804873) • [🐱 Nyaa](https://nyaa.si/?q=ZUHPFNKGDMGRK66PD5NNTY5WGERKQUH3) |
-| `[SubsPlease] Mairimashita! Iruma-kun S4 - 03 (1080p) [E56...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mairimashita-iruma-kun-s4-03-1080p-e56b4c70-mkv.n2099541) • [🐱 Nyaa](https://nyaa.si/?q=WXXWYFCGHRLKEVVAFNNNUKKW2DEZ2QY3) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 03 [480p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-03.k10449509401348) • [🐱 Nyaa](https://nyaa.si/?q=DY3NVORMNSTQUNN6HZDLZZSCKTEWUUWB) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 03 [720p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-03.n2099537) • [🐱 Nyaa](https://nyaa.si/?q=BRFPFJOHNPBDA6IGRKIO6FEXRBOHRBO4) |
-| `[SubsPlease] Mairimashita! Iruma-kun S4 - 03 (720p) [921A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mairimashita-iruma-kun-s4-03-720p-921a26b3-mkv.n2099535) • [🐱 Nyaa](https://nyaa.si/?q=QPLO4VTMFFHDXHSQBB3FGKEPTQ3GHHM5) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 03 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-03.n2099536) • [🐱 Nyaa](https://nyaa.si/?q=2ZSG4IGSKV4JY4UDEKOXXYQHMY5W2SB6) |
-| `[SubsPlease] Mairimashita! Iruma-kun S4 - 03 (480p) [02C3...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mairimashita-iruma-kun-s4-03-480p-02c34e7f-mkv.n2099534) • [🐱 Nyaa](https://nyaa.si/?q=GDLP7LP6SMW6WF3QRVPAORJYEYYQBX7T) |
-| `[ToonsHub] Way of Choices 2026 S01E14 1080p iQ WEB-DL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-way-choices-2026-s01e14-1080p-iq-web.n2099533) • [🐱 Nyaa](https://nyaa.si/?q=GBCH5JH5ZLXTJKR6AFSKVLKX5GSTBDKJ) |
-| `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-honzuki-no-gekokujou-shisho-ni-naru-tame.n2099532) • [🐱 Nyaa](https://nyaa.si/?q=6TDWK7NCEUTRSOMWSVAZUXLA3DPLPYYZ) |
-| `Magical Sisters LuluttoLilly S01E02 1080p AMZN WEB-DL DDP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/magical-sisters-luluttolilly-s01e02-1080p-amzn-web-dl.n2099531) • [🐱 Nyaa](https://nyaa.si/?q=2NA3Q3QC2V5XL2WRERI6KH7DHWW5KDIW) |
-| `Magical Sisters LuluttoLilly S01E01 1080p AMZN WEB-DL DDP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/magical-sisters-luluttolilly-s01e01-1080p-amzn-web-dl.n2099530) • [🐱 Nyaa](https://nyaa.si/?q=L6UEZZMPTHU5QC2HPMTGFG24C732CGUI) |
-| `[ASW] Honzuki no Gekokujou S4 - 03 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-honzuki-no-gekokujou-s4-03-1080p-hevc.n2099528) • [🐱 Nyaa](https://nyaa.si/?q=44OKWQ4QG4PEZHCBIA4E3Y52YYIJKL2C) |
 
 ---
 <div align="center">
