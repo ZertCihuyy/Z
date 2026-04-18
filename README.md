@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.04.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.52.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 04 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-shunkashuutou-daikousha-haru-no-mai-04.n2099942) • [🐱 Nyaa](https://nyaa.si/?q=7KFDGR2VOCGKLTZSYKNVQDOWBNLN7MJV) |
+| `Ichijyoma Mankitsu Gurashi S01E02 Hedgehog is Closing Got...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ichijyoma-mankitsu-gurashi-s01e02-hedgehog-closing-gotta.n2099934) • [🐱 Nyaa](https://nyaa.si/?q=SGBFMIVY5Q3B27G7FEQNXS5UREXHWLQ7) |
 | `[Judas] Boku no Hero Academia Illegals (My Hero Academia ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-boku-no-hero-academia-illegals-my-vigilantes.n2099930) • [🐱 Nyaa](https://nyaa.si/?q=JTVTJJSNZ2FUCZ5GULNDDP5E4DZVSOZO) |
 | `[Judas] Gnosia (Season 01) [1080p][HEVC x265 10bit][Dual-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-gnosia-season-01-1080p-hevc-x265-10bit.n2099929) • [🐱 Nyaa](https://nyaa.si/?q=UOR6GWPJXAO3CJLCVFL43NZRGL2TSONV) |
 | `[Unfucked] NEEDY GIRL OVERDOSE - S01E03 (1080p WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-needy-girl-overdose-s01e03-1080p-web-dl.n2099927) • [🐱 Nyaa](https://nyaa.si/?q=TI2TGPAR4YGY2WFTGLONUNCDZ7WWAHMF) |
@@ -41,8 +43,6 @@
 | `[Feibanyama] Daemons of the Shadow Realm S01E03 [BILIBILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-daemons-shadow-realm-s01e03-bilibili-webrip-2160p.n2099915) • [🐱 Nyaa](https://nyaa.si/?q=JLGXY2OGGHBIFR474IUSPZKKHXJE5XQL) |
 | `[BlackRabbit] I'm Getting Married to a Girl I Hate in My ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-im-getting-married-girl-hate-my-class.k10459614232841) • [🐱 Nyaa](https://nyaa.si/?q=2IVN36NVQ6RVMYVO64V2N7HGZXYWCQHA) |
 | `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 03 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-03.k10459373830151) • [🐱 Nyaa](https://nyaa.si/?q=CVXCGWJRQBRNLISNSVEOUBJZSJYEXDMY) |
-| `LUPIN THE IIIRD The Movie The Immortal Bloodline (2025) 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-movie-immortal-bloodline-2025-1080p-bd.n2099913) • [🐱 Nyaa](https://nyaa.si/?q=7ZON43UG6EDCPSCGCGV5WAF5KJWLFQML) |
-| `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-yomi-no-tsugai-daemons-shadow-realm-s01e03.n2099912) • [🐱 Nyaa](https://nyaa.si/?q=5ZKJLFN6PNSU4YV3X6DTL4LM6TBX2IJL) |
 
 ---
 <div align="center">
