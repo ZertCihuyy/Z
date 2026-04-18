@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.54.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.41.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Feibanyama] Daemons of the Shadow Realm S01E03 [BILIBILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-daemons-shadow-realm-s01e03-bilibili-webrip-2160p.n2099915) • [🐱 Nyaa](https://nyaa.si/?q=JLGXY2OGGHBIFR474IUSPZKKHXJE5XQL) |
+| `[BlackRabbit] I'm Getting Married to a Girl I Hate in My ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-im-getting-married-girl-hate-my-class.k10459614232841) • [🐱 Nyaa](https://nyaa.si/?q=2IVN36NVQ6RVMYVO64V2N7HGZXYWCQHA) |
+| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 03 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-03.k10459373830151) • [🐱 Nyaa](https://nyaa.si/?q=CVXCGWJRQBRNLISNSVEOUBJZSJYEXDMY) |
+| `LUPIN THE IIIRD The Movie The Immortal Bloodline (2025) 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-movie-immortal-bloodline-2025-1080p-bd.n2099913) • [🐱 Nyaa](https://nyaa.si/?q=7ZON43UG6EDCPSCGCGV5WAF5KJWLFQML) |
+| `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-yomi-no-tsugai-daemons-shadow-realm-s01e03.n2099912) • [🐱 Nyaa](https://nyaa.si/?q=5ZKJLFN6PNSU4YV3X6DTL4LM6TBX2IJL) |
 | `[BlackRabbit] There's No Freaking Way I'll Be Your Lover!...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-theres-no-freaking-way-ill-your-lover.k10459011870720) • [🐱 Nyaa](https://nyaa.si/?q=XSK44VZGB3IURV3CFP2NB4747GKTZZ74) |
 | `[DKB] Kanan-sama wa Akumade Choroi - S01E03 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanan-sama-wa-akumade-choroi-s01e03-1080p.n2099910) • [🐱 Nyaa](https://nyaa.si/?q=BEYIYUSPCZBMM6U4L4CIRUXKHHNPYQLE) |
 | `[Judas] Tougen Anki (Season 01) [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tougen-anki-season-01-1080p-hevc-x265.n2099909) • [🐱 Nyaa](https://nyaa.si/?q=62UGKATQ5Q4EOKVASU2X6M53GZARMPQ3) |
@@ -38,11 +43,6 @@
 | `[BlackRabbit] Because I Don't Like My Brother At All-!! (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-because-dont-like-my-brother-all-2011.k10458463449346) • [🐱 Nyaa](https://nyaa.si/?q=CGWPXJGDWEARROINYDTMI22E7YRN34FM) |
 | `[Erai-raws] Needy Girl Overdose - 03 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-needy-girl-overdose-03-1080p-cr.n2099905) • [🐱 Nyaa](https://nyaa.si/?q=JVZM5SNJFQRLNEB5FOB2V6SUNPTJ4W6W) |
 | `[Judas] Akane-banashi - S01E03 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-akane-banashi-s01e03-1080p-hevc-x265-10bit.n2099904) • [🐱 Nyaa](https://nyaa.si/?q=H5WXQCFAOEFV7FOYRETBP22UB5C7UZND) |
-| `[DKB] Yomi no Tsugai - S01E03 [1080p][HEVC x265 10bit][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-yomi-no-tsugai-s01e03-1080p-hevc-x265.n2099901) • [🐱 Nyaa](https://nyaa.si/?q=JEXHXLMDRIPKP6YEGTJNAGVLTMKZR3GR) |
-| `[somedroplet] Pokémon Horizons - 134 [46F4CC84].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/somedroplet-pokmon-horizons-134-46f4cc84-mkv.n2099900) • [🐱 Nyaa](https://nyaa.si/?q=ZO6Z4Y3FV24N2P5WRE2ILWIY2HEFHMQ3) |
-| `[Onalrie] NEEDY GIRL OVERDOSE - S01E03 [1080p WEBRip AV1]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-needy-girl-overdose-s01e03-1080p-webrip-av1-mkv.2075210) • [🐱 Nyaa](https://nyaa.si/?q=QR7WX76UMGU7RC5J3XSSGMMHDOC6FHQK) |
-| `[Judas] Kami no Niwatsuki Kusunoki-tei (Kusunoki's Garden...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kami-no-niwatsuki-kusunoki-tei-kusunokis-garden.n2099896) • [🐱 Nyaa](https://nyaa.si/?q=Q6A2KCUUED45VLIMAWVWPXILEZQQB2Z5) |
-| `[ASW] Yuusha no Kuzu - 14 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-kuzu-14-1080p-hevc-x265-10bit-aac.n2099894) • [🐱 Nyaa](https://nyaa.si/?q=645T7TY4O7Z4LSQDEXJ4P4RFOD2DONFU) |
 
 ---
 <div align="center">
