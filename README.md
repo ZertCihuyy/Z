@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.05.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.54.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[No0bSubs] Sentenced to Be a Hero~Yuusha-kei ni Shosu (10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-sentenced-hero-yuusha-kei-ni-shosu-1080p.n2100445) • [🐱 Nyaa](https://nyaa.si/?q=X6IUJ23IMTRZDY4IUNRZ65CQBY2D5M4N) |
+| `[No0bSubs] Yuusha-kei ni Shosu - Choubatsu Yuusha 9004-ta...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-yuusha-kei-ni-shosu-choubatsu-9004-tai.n2100444) • [🐱 Nyaa](https://nyaa.si/?q=ZY67VQ45CPTDCMPTFO4WJBP5RA7TV7AB) |
+| `[DKB] Dandelion - (Season 01) [1080p][HEVC x265 10bit][Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-dandelion-season-01-1080p-hevc-x265-10bit.n2100442) • [🐱 Nyaa](https://nyaa.si/?q=PGBHDCY6UEPGAEVLSZFVFVHQU4AWDSIU) |
+| `[No0bSubs] Jack-of-All-Trades Party of None (1080p AV1 Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-jack-all-trades-party-none-1080p-av1-dual-audio.n2100441) • [🐱 Nyaa](https://nyaa.si/?q=CSLFT67RII5JI5EDIUGXU3U745I4V6NJ) |
+| `[No0bSubs] Yuusha Party wo Oidasareta Kiyoubinbou (1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-yuusha-party-wo-oidasareta-kiyoubinbou-1080p-av1.n2100440) • [🐱 Nyaa](https://nyaa.si/?q=H25YXKB3KY5HH324SXHCKAZQBQVGLOZE) |
+| `[No0bSubs] You Can't Be In a Rom-Com with Your Childhood ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-cant-rom-com-your-childhood-friends-1080p.n2100439) • [🐱 Nyaa](https://nyaa.si/?q=RWSQL2DYBPQBL6675555XHPWNVAT2JK4) |
+| `[No0bSubs] Osananajimi to wa Love Comedy ni Naranai (1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-osananajimi-wa-love-comedy-ni-naranai-1080p.n2100438) • [🐱 Nyaa](https://nyaa.si/?q=XIMOQH3DFWVYCBKLLRMPYHHHDVJLEKUI) |
+| `[Kuraze] 雲界の迷宮ZEGUY / Mask of Zeguy (DVD H264 Hi10p AC3)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kuraze-zeguy-mask-zeguy-dvd-h264-hi10p-ac3.n2100434) • [🐱 Nyaa](https://nyaa.si/?q=UQYWNVQALVECNLGHSMT4FCX4TUJK3BUZ) |
 | `[Commie] Ace of the Diamond act II ~Second Season~ - 03 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-ace-diamond-act-ii-second-season-03-fc113d55-mkv.n2100431) • [🐱 Nyaa](https://nyaa.si/?q=JHWBDTLZAXTHO5VBPD4FU2HCZS3SNVRK) |
 | `[Feibanyama] Agents of the Four Seasons Dance of Spring S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-agents-four-seasons-dance-spring-s01e01-iqiyi.n2100429) • [🐱 Nyaa](https://nyaa.si/?q=B6AWO5A7SXD66YX3IDXAJ4C74PHL7CZR) |
 | `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 3...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gjm-ascendance-bookworm-honzuki-no-gekokujou-37-s04e01.n2100423) • [🐱 Nyaa](https://nyaa.si/?q=5BQRVYDP627LSR52WSQWVBLN6J55G7RB) |
@@ -35,14 +43,6 @@
 | `[Erai-raws] One Piece - 1158 [1080p CR WEB-DL AVC AAC][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-1080p-cr-web.k10481702973195) • [🐱 Nyaa](https://nyaa.si/?q=2RZDRLV7R4XTZM2EQTZM47JE5YF3634T) |
 | `[Erai-raws] One Piece - 1158 [720p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-720p-cr-web.k10481702225415) • [🐱 Nyaa](https://nyaa.si/?q=GNWQXZUH6E4PASQIK4XWFUCGMHQMYFG6) |
 | `[Erai-raws] One Piece - 1158 [480p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-480p-cr-web.k10481701728514) • [🐱 Nyaa](https://nyaa.si/?q=MSO5IOKFJIB426ZED53Z6ZIOQVTZNJDC) |
-| `[Erai-raws] Digimon Beatbreak - 27 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-1080p-cr-webrip.n2100413) • [🐱 Nyaa](https://nyaa.si/?q=OF7MAHXSHIPE7ECKBVXAKCKUTLZVQ5WP) |
-| `[Erai-raws] Digimon Beatbreak - 27 (REPACK) [480p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-repack-480p-cr.k10481659678477) • [🐱 Nyaa](https://nyaa.si/?q=HAKG6VP2MY756K33ATEZ6HA4AUEZ3FAX) |
-| `[Erai-raws] Digimon Beatbreak - 27 (REPACK) [720p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-repack-720p-cr.k10481659467270) • [🐱 Nyaa](https://nyaa.si/?q=MRRPOER5PAGDTR3T3ROY5IC7K2K3XTFE) |
-| `[Erai-raws] Digimon Beatbreak - 27 (REPACK) [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-repack-1080p-cr.k10481659350276) • [🐱 Nyaa](https://nyaa.si/?q=J2SVLF34JX3SC7VG4URVU2AORTVGIP6Z) |
-| `[DKB] Yozakura-san Chi no Daisakusen - S02E02 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-yozakura-san-chi-no-daisakusen-s02e02-1080p.n2100409) • [🐱 Nyaa](https://nyaa.si/?q=NXWN7IXI5QFOYJ7R35V52BWXXAUXQLDL) |
-| `[Baby Kozame] Odekake Kozame The Movie Tokai no Otomodach...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/baby-kozame-odekake-movie-tokai-no-otomodachi-friends.n2100408) • [🐱 Nyaa](https://nyaa.si/?q=24VQ5MDX666QDK732PZAHPIRHHJ24RKI) |
-| `[Kozame] Odekake Kozame The Movie Tokai no Otomodachi (Fr...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kozame-odekake-movie-tokai-no-otomodachi-friends-big.n2100407) • [🐱 Nyaa](https://nyaa.si/?q=NWQCSVJQP2L4QLPP4UTYWIRWYT54LLPS) |
-| `[Erai-raws] Ghost Concert: Missing Songs - 03 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-03-1080p.n2100406) • [🐱 Nyaa](https://nyaa.si/?q=C6KWEDUDUA5EWKYMNYW5BSVBSC5WMUUO) |
 
 ---
 <div align="center">
