@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.50.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.50.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Maid-san wa Taberu dake - 04 [1080p CR WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-maid-san-wa-taberu-dake-04.k10476440708353) • [🐱 Nyaa](https://nyaa.si/?q=4PX6ECBAYO6WKG5XTN7BOXM7BWKS5CX7) |
-| `[ppkhoa] Akane-banashi S01E03 Senior Apprentices 1080p DS...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ppkhoa-akane-banashi-s01e03-senior-apprentices-1080p-dsnp.k10476380100613) • [🐱 Nyaa](https://nyaa.si/?q=WW2WY6Y6OKMECSFJGSLTY32EHXTT2ATY) |
-| `GHOST CONCERT missing Songs S01E03 Blades and Thorns 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-concert-missing-songs-s01e03-blades-thorns-1080p.n2100282) • [🐱 Nyaa](https://nyaa.si/?q=TZG7JVLGQINVAA6PDCXPJB4RX3QDUOMJ) |
-| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E02 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kuroneko-majo-no-kyoushitsu-s01e02-1080p-webrip-av1.2075412) • [🐱 Nyaa](https://nyaa.si/?q=6ZX7YTCE757RG24LSGZFH72S24PWCBKE) |
-| `[SubsPlease] Ghost Concert - missing Songs - 03 (1080p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ghost-concert-missing-songs-03-1080p-3189f773-mkv.n2100280) • [🐱 Nyaa](https://nyaa.si/?q=IUIR5BAXXC5AYPXUSHYJWQMTHMXRATMI) |
-| `[SubsPlease] Ghost Concert - missing Songs - 03 (720p) [7...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ghost-concert-missing-songs-03-720p-71421a2d-mkv.n2100279) • [🐱 Nyaa](https://nyaa.si/?q=XFTC4PMWWKCNQWHWERCR2N472E4VIQWF) |
-| `[ToonsHub] GHOST CONCERT missing Songs S01E03 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ghost-concert-missing-songs-s01e03-1080p-cr.k10476318061568) • [🐱 Nyaa](https://nyaa.si/?q=J2NMXXX45AWXVQ5VEHI7Q3JKY5NCJJD5) |
-| `[SubsPlease] Ghost Concert - missing Songs - 03 (480p) [2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ghost-concert-missing-songs-03-480p-21448b6f-mkv.n2100278) • [🐱 Nyaa](https://nyaa.si/?q=5GTALAXPZ3HQTLUPDGIEIAQ6JZILTQDR) |
-| `[Erai-raws] Ghost Concert: Missing Songs - 03 [480p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-03-480p.n2100275) • [🐱 Nyaa](https://nyaa.si/?q=JEJVLEIIUKADEHRF2D35HI5D6VLTSVRT) |
-| `[Erai-raws] Ghost Concert: Missing Songs - 03 [720p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-03-720p.n2100273) • [🐱 Nyaa](https://nyaa.si/?q=FSVOI3G3CABGB34VUMIMPLSTC6XFCGYL) |
-| `[Erai-raws] Ghost Concert: Missing Songs - 03 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-03-1080p.n2100272) • [🐱 Nyaa](https://nyaa.si/?q=AFKTPIRQILMPRN2KSYGEQJCIGTKBAGD3) |
-| `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa I...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lolihouse-otaku-ni-yasashii-gyaru-wa-inai-02.n2100271) • [🐱 Nyaa](https://nyaa.si/?q=H6TDMF4N46E5G4OOSJKZ5QTHJB4JVIZG) |
-| `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa I...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lolihouse-otaku-ni-yasashii-gyaru-wa-inai-01.n2100267) • [🐱 Nyaa](https://nyaa.si/?q=YDHDJWXN44AGNFIKL6EWMMUYKTLHULED) |
-| `The Classroom of a Black Cat and a Witch S01E02 Magic of ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-black-cat-witch-s01e02-magic-zodiac-1080p.n2100262) • [🐱 Nyaa](https://nyaa.si/?q=2SQXS2I64N2QIYYXB5DXVOVEGYIJIOHE) |
-| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 02 (1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kuroneko-majo-no-kyoushitsu-02-1080p-773b31c1-mkv.n2100260) • [🐱 Nyaa](https://nyaa.si/?q=MCSGI3435TTHJQC7FSP2JURKEHGBQLOY) |
+| `[Onalrie] Detective Conan - E1198 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-detective-conan-e1198-1080p-webrip-av1-mkv.2075425) • [🐱 Nyaa](https://nyaa.si/?q=FD4LCTRPHJQBXIAXA2VFJ2K4NCRSKQFZ) |
+| `[ASW] Kuroneko to Majo no Kyoushitsu - 02 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kuroneko-majo-no-kyoushitsu-02-1080p-hevc.n2100318) • [🐱 Nyaa](https://nyaa.si/?q=OFJRDPQGQMSVROEKJNBDZMUI2FMR77LI) |
+| `[DKB] Maid-san wa Taberu dake - S01E04 [1080p][HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-maid-san-wa-taberu-dake-s01e04-1080p.n2100310) • [🐱 Nyaa](https://nyaa.si/?q=VETUA35JFCTM2467FN73VDFFPVLS2GZP) |
+| `[DKB] Niwatori Fighter - S01E06 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-niwatori-fighter-s01e06-1080p-hevc-x265-10bit.n2100309) • [🐱 Nyaa](https://nyaa.si/?q=XU372DBFXCABOTRPP3PZNXLUMGBSRDAR) |
+| `[DKB] Tsue to Tsurugi no Wistoria - S02E02 [1080p][HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tsue-tsurugi-no-wistoria-s02e02-1080p-hevc.n2100308) • [🐱 Nyaa](https://nyaa.si/?q=UY5B7ZGGD2HGPJMS77YWBGISHZZB54VP) |
+| `One Piece S01E1158 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1158-1080p-cr-web-dl-aac2.n2100303) • [🐱 Nyaa](https://nyaa.si/?q=OJTIAGSN7KLACL2YCH4GV62DUWDD4H56) |
+| `[Onalrie] Ghost Concert - missing Songs - S01E03 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ghost-concert-missing-songs-s01e03-1080p-webrip-av1.2075416) • [🐱 Nyaa](https://nyaa.si/?q=MOAYBI2EHYJBATKHNWQRUHMEPVRNIXUR) |
+| `[ToonsHub] One Piece EP1158 1080p CR WEB-DL AAC2.0 H.264 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1158-1080p-cr-web-dl.k10476781209859) • [🐱 Nyaa](https://nyaa.si/?q=53XEDAM2C7G36ULNO5KX25VYZZLKZHOG) |
+| `[SubsPlease] One Piece - 1158 (1080p) [0F7B48DA].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-one-piece-1158-1080p-0f7b48da-mkv.n2100300) • [🐱 Nyaa](https://nyaa.si/?q=5ADYAD4XFC75Q3CGFCK4TBCKQB6DEMOD) |
+| `[Erai-raws] One Piece - 1158 [480p CR WEB-DL AVC AAC][13D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-480p-cr-web.k10476771456007) • [🐱 Nyaa](https://nyaa.si/?q=WUZHYQGBK33R7EJ3M6ZZPVDYIFN3ZKUP) |
+| `[SubsPlease] One Piece - 1158 (720p) [863239CB].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-one-piece-1158-720p-863239cb-mkv.n2100298) • [🐱 Nyaa](https://nyaa.si/?q=B444DYK3NKBN6ZY3HYPU5MHPX2MTBYAH) |
+| `[SubsPlease] One Piece - 1158 (480p) [62C93197].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-one-piece-1158-480p-62c93197-mkv.n2100297) • [🐱 Nyaa](https://nyaa.si/?q=HCX3IJ3EIQWPCIPVZQFWM4L4EODUCUL7) |
+| `[Erai-raws] One Piece - 1158 [720p CR WEB-DL AVC AAC][38D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-720p-cr-web.k10476768868866) • [🐱 Nyaa](https://nyaa.si/?q=7KDIYYAHJTX5AC7ERGSYWJQRDY4JTKVY) |
+| `[Erai-raws] One Piece - 1158 [1080p CR WEB-DL AVC AAC][03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-1080p-cr-web.k10476766509574) • [🐱 Nyaa](https://nyaa.si/?q=46UHY76LO3VMRJOUF5GA7NECR5US5K5O) |
+| `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kuroneko-majo-no-kyoushitsu-classroom-black-cat.n2100294) • [🐱 Nyaa](https://nyaa.si/?q=M27Y42UIQKRTWX3TVV2P3XXNIJSZZ2TN) |
 
 ---
 <div align="center">
