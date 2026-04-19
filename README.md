@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.14.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.09.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[BlackRabbit] There's No Freaking Way I'll Be Your Lover!...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-theres-no-freaking-way-ill-your-lover.k10469524133391) • [🐱 Nyaa](https://nyaa.si/?q=YVHYMV4RAOA352RS3JK4LSBA3RGYPTCY) |
-| `[VARYG] Rooster Fighter S01E06 Built Like a Brick Coop 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-rooster-fighter-s01e06-built-like-brick-coop.k10469494368013) • [🐱 Nyaa](https://nyaa.si/?q=DYP4TOYFQPQ7WNXJEA453WIX3MEAWWMP) |
-| `[VARYG] Rooster Fighter S01E06 Built like a Brick Coop 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-rooster-fighter-s01e06-built-like-brick-coop.k10469477494531) • [🐱 Nyaa](https://nyaa.si/?q=5ZZFQA677ASLX5DYTPF7SIAZIOHBWLKK) |
-| `Rooster Fighter S01E06 Built like a Brick Coop 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e06-built-like-brick-coop-1080p.n2100074) • [🐱 Nyaa](https://nyaa.si/?q=XZAYVPZHBEKOVVBGOX6XT3G3DN4Z5NZT) |
-| `[Onalrie] Meitantei Precure! - S01E12 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-meitantei-precure-s01e12-1080p-webrip-av1-mkv.2075279) • [🐱 Nyaa](https://nyaa.si/?q=S5QQQ3Q7V5F2DIZNH6YFFRVC72WQOBCW) |
-| `[ToonsHub] Rooster Fighter S01E06 1080p AMZN WEB-DL DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e06-1080p-amzn-web-dl.k10469428447488) • [🐱 Nyaa](https://nyaa.si/?q=JRKHPK4LSJYXTOIVA3VML5DYNRYEL2GF) |
-| `Rooster Fighter S01E06 Built like a Brick Coop 1080p DSNP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rooster-fighter-s01e06-built-like-brick-coop-1080p.n2100072) • [🐱 Nyaa](https://nyaa.si/?q=FWVHYRCJVG5AAVCA3OLSPAFHPI7O5SVP) |
-| `[ToonsHub] Rooster Fighter S01E06 1080p CR WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e06-1080p-cr-web-dl.k10469411923212) • [🐱 Nyaa](https://nyaa.si/?q=EQ6EG4XZUS5RA36IYZFKMOB3JWWSSQWZ) |
-| `[SubsPlease] Niwatori Fighter - 06 (1080p) [A9F72F5B].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-06-1080p-a9f72f5b-mkv.n2100069) • [🐱 Nyaa](https://nyaa.si/?q=FAOIVAIF4QEVD5RHPVZXO3M6KSSWWO2E) |
-| `[SubsPlease] Niwatori Fighter - 06 (720p) [7A9D9C41].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-06-720p-7a9d9c41-mkv.n2100067) • [🐱 Nyaa](https://nyaa.si/?q=4DGRHQMHZPZ7UQ6DDUNHB7KYWYXDG6TL) |
-| `[SubsPlease] Niwatori Fighter - 06 (480p) [C3E77CD8].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-niwatori-fighter-06-480p-c3e77cd8-mkv.n2100066) • [🐱 Nyaa](https://nyaa.si/?q=GFRM57NSSHFDJ4YEWQ6D6ZZJYHE2NZUG) |
-| `[ToonsHub] Rooster Fighter S01E06 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e06-1080p-bili-web-dl.k10469387633153) • [🐱 Nyaa](https://nyaa.si/?q=YWLS4A3EI3NRUCKZIUBLVXQDAA3G56F4) |
-| `[BlackRabbit] Panty & Stocking with Garterbelt (2010) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-panty-stocking-garterbelt-2010-s01-bluray-720p.k10468896818955) • [🐱 Nyaa](https://nyaa.si/?q=CAQDCHJPZI5A2P2CUJEHXLEKCNKIGW2Y) |
-| `[Pixel] (1980) Tom Sawyer no Bouken [トム・ソーヤーの冒険][The Adve...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pixel-1980-tom-sawyer-no-bouken-adventures-dual.n2100050) • [🐱 Nyaa](https://nyaa.si/?q=P5MLK22PDIXZ4IM4Y6QFBQ43C7GCGT2K) |
-| `[ToonsHub] MAO S01E03 1080p DSNP WEB-DL AAC2.0 H.264 (Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mao-s01e03-1080p-dsnp-web-dl-aac2.n2100049) • [🐱 Nyaa](https://nyaa.si/?q=QX6EF6I3MVY4YHTDQ2FKW6WJZUFUOUSK) |
+| `[ToonsHub] Ace of Diamond S04E03 1080p CR WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ace-diamond-s04e03-1080p-cr-web-dl.k10470364615683) • [🐱 Nyaa](https://nyaa.si/?q=OXEH2SLFYYB5JJKQ4EQWKD4HYC664H4N) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 03 (1080p) [8A9EC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-03-1080p-8a9eca1a-mkv.n2100113) • [🐱 Nyaa](https://nyaa.si/?q=XZMFVRFRQ224ZA7ZUMCYT56SNBDSG5NK) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 03 [48...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.k10470320522754) • [🐱 Nyaa](https://nyaa.si/?q=ND6AQB4HHDM2CJKNBTY5HOIRXFM5ESR5) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 03 (720p) [9D277C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-03-720p-9d277c19-mkv.n2100110) • [🐱 Nyaa](https://nyaa.si/?q=CU3H74GHFF7XFZKKCG5QUUZM7FQTKMGC) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 03 [72...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.k10470317533953) • [🐱 Nyaa](https://nyaa.si/?q=R5M5FLHIBIDP5SSHBNA6N6DQPTWT5C2W) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 03 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2100107) • [🐱 Nyaa](https://nyaa.si/?q=QQ77KD5HQY7ZFD4EW6UUBZKBDRS3GEJY) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 03 (480p) [9B007D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-03-480p-9b007d96-mkv.n2100106) • [🐱 Nyaa](https://nyaa.si/?q=CRUEOK3XOATYANNVPLT5ZWHQB5TTQASR) |
+| `[Onalrie] Niwatori Fighter - S01E06 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-niwatori-fighter-s01e06-1080p-webrip-av1-mkv.2075293) • [🐱 Nyaa](https://nyaa.si/?q=UICTT4AAXWVP2VF3II5TJS6KEMEN7Y4R) |
+| `You and I Are Polar Opposites S01E12 Step by Step 1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polar-opposites-s01e12-step-1080p-cr-web-dl.n2100101) • [🐱 Nyaa](https://nyaa.si/?q=Y6DMHHL66A2WMOBC3LBQTRYHAZ5FY7UV) |
+| `[ToonsHub] Rooster Fighter S01E06 1080p DSNP WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e06-1080p-dsnp-web-dl.k10469974703621) • [🐱 Nyaa](https://nyaa.si/?q=FQWQYVR7JQIOZFA7I7XUBRV5CPLC5CPK) |
+| `Wistoria Wand and Sword S02E02 The Party from Hell Begins...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wistoria-wand-sword-s02e02-party-from-hell-begins.n2100098) • [🐱 Nyaa](https://nyaa.si/?q=LIGRL2RMDJS7DNX7T6B2ZIDVM5Y6EYNO) |
+| `[ToonsHub] Wistoria Wand and Sword S02E02 1080p CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-wistoria-wand-sword-s02e02-1080p-cr-web.k10469868524549) • [🐱 Nyaa](https://nyaa.si/?q=IR7E25EUACQPOYRBWMLXK74K7GP2BZTZ) |
+| `[SubsPlease] Tsue to Tsurugi no Wistoria S2 - 02 (1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tsue-tsurugi-no-wistoria-s2-02-1080p-f8f24c02-mkv.n2100092) • [🐱 Nyaa](https://nyaa.si/?q=JVI2FBVBBQHP75WHG6ICE4SYUB3BYHSE) |
+| `[ToonsHub] Mission Yozakura Family S02E02 1080p DSNP WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mission-yozakura-family-s02e02-1080p-dsnp-web.k10469860073988) • [🐱 Nyaa](https://nyaa.si/?q=LE2MRXLZ6WVAI52VTS7JPNKT5P445S7A) |
+| `[SubsPlease] Tsue to Tsurugi no Wistoria S2 - 02 (720p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tsue-tsurugi-no-wistoria-s2-02-720p-6ab70f99-mkv.n2100089) • [🐱 Nyaa](https://nyaa.si/?q=3R7X5RA4WMWRLXYVRT2MOKVPDEL76GJP) |
 
 ---
 <div align="center">
