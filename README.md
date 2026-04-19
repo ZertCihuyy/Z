@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.55.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.42.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] One Piece - 1158 [1080p CR WEB-DL AVC AAC][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-1080p-cr-web.k10481702973195) • [🐱 Nyaa](https://nyaa.si/?q=2RZDRLV7R4XTZM2EQTZM47JE5YF3634T) |
+| `[Erai-raws] One Piece - 1158 [720p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-720p-cr-web.k10481702225415) • [🐱 Nyaa](https://nyaa.si/?q=GNWQXZUH6E4PASQIK4XWFUCGMHQMYFG6) |
+| `[Erai-raws] One Piece - 1158 [480p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-480p-cr-web.k10481701728514) • [🐱 Nyaa](https://nyaa.si/?q=MSO5IOKFJIB426ZED53Z6ZIOQVTZNJDC) |
+| `[Erai-raws] Digimon Beatbreak - 27 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-1080p-cr-webrip.n2100413) • [🐱 Nyaa](https://nyaa.si/?q=OF7MAHXSHIPE7ECKBVXAKCKUTLZVQ5WP) |
+| `[Erai-raws] Digimon Beatbreak - 27 (REPACK) [480p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-repack-480p-cr.k10481659678477) • [🐱 Nyaa](https://nyaa.si/?q=HAKG6VP2MY756K33ATEZ6HA4AUEZ3FAX) |
+| `[Erai-raws] Digimon Beatbreak - 27 (REPACK) [720p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-repack-720p-cr.k10481659467270) • [🐱 Nyaa](https://nyaa.si/?q=MRRPOER5PAGDTR3T3ROY5IC7K2K3XTFE) |
+| `[Erai-raws] Digimon Beatbreak - 27 (REPACK) [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-repack-1080p-cr.k10481659350276) • [🐱 Nyaa](https://nyaa.si/?q=J2SVLF34JX3SC7VG4URVU2AORTVGIP6Z) |
+| `[DKB] Yozakura-san Chi no Daisakusen - S02E02 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-yozakura-san-chi-no-daisakusen-s02e02-1080p.n2100409) • [🐱 Nyaa](https://nyaa.si/?q=NXWN7IXI5QFOYJ7R35V52BWXXAUXQLDL) |
+| `[Baby Kozame] Odekake Kozame The Movie Tokai no Otomodach...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/baby-kozame-odekake-movie-tokai-no-otomodachi-friends.n2100408) • [🐱 Nyaa](https://nyaa.si/?q=24VQ5MDX666QDK732PZAHPIRHHJ24RKI) |
+| `[Kozame] Odekake Kozame The Movie Tokai no Otomodachi (Fr...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kozame-odekake-movie-tokai-no-otomodachi-friends-big.n2100407) • [🐱 Nyaa](https://nyaa.si/?q=NWQCSVJQP2L4QLPP4UTYWIRWYT54LLPS) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 03 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-03-1080p.n2100406) • [🐱 Nyaa](https://nyaa.si/?q=C6KWEDUDUA5EWKYMNYW5BSVBSC5WMUUO) |
+| `Frieren Beyond Journeys End S02 1080p CR WEB-DL MULTi AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02-1080p-cr-web.n2100402) • [🐱 Nyaa](https://nyaa.si/?q=YAPROIUVRKH4GLK5PL5YVRZGM3OROKVJ) |
+| `[Joseki] After War Gundam X S01 (1996)(BD AV1 1080p Opus)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/joseki-after-war-gundam-x-s01-1996-bd.n2100399) • [🐱 Nyaa](https://nyaa.si/?q=6VKGQF42IQ6CBXLRQQLPLRBYSZCQKTAG) |
 | `[Chihiro] Himekishi wa Barbaroi no Yome - 01 [1080p HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-himekishi-wa-barbaroi-no-yome-01-1080p.n2100396) • [🐱 Nyaa](https://nyaa.si/?q=E7KGWTDTPL6ANELZ3KKSWIM3EXD744YN) |
 | `Digimon Beatbreak S01E27 REPACK 1080p CR WEB-DL AAC2.0 H ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e27-repack-1080p-cr-web-dl.n2100392) • [🐱 Nyaa](https://nyaa.si/?q=EQLHGIFAR4IYW7WMKIETVR67WPP74WHY) |
-| `[geckyzz] Marika's Love Meter Malfunction - S01E03 (茉莉花ちゃ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/geckyzz-marikas-love-meter-malfunction-s01e03-marika-chan.k10480332873226) • [🐱 Nyaa](https://nyaa.si/?q=QTSZFXN7CAVGKMOJI523RE7VNCY2XS6O) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.n2100389) • [🐱 Nyaa](https://nyaa.si/?q=WAHTXR73I2JLT57UM4XKHO6434NEPRXR) |
-| `[Erai-raws] Niwatori Fighter - 06 [1080p DSNP WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-06-1080p-dsnp-webrip.n2100388) • [🐱 Nyaa](https://nyaa.si/?q=BGL6HUFWOTONKOCA2FYLHX5FPUZAGN36) |
-| `[yaneura] Re:Zero Break Time S4 - 02 (HDTV 1080p) | ReZer...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yaneura-re-zero-break-time-s4-02-hdtv.n2100387) • [🐱 Nyaa](https://nyaa.si/?q=AOJ5R5UFWOBICFWBXI4MSFU2V2SB43B3) |
-| `[BlackRabbit] Interspecies Reviewers (2020) - S01 [Bluray...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-interspecies-reviewers-2020-s01-bluray-1080p.k10479968468738) • [🐱 Nyaa](https://nyaa.si/?q=4NHAFILI5RG6NTSNZUPFHFREIVWYHSZN) |
-| `[Judas] Niwatori Fighter (Rooster Fighter) - S01E06 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e06-1080p-hevc-x265.n2100365) • [🐱 Nyaa](https://nyaa.si/?q=D2GYAYFPJOSHHY7JC4EUYQ4RONR2ABWW) |
-| `[DB] Sousou no Frieren 2nd Season | Frieren: Beyond Journ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-sousou-no-frieren-2nd-season-beyond-journeys.n2100364) • [🐱 Nyaa](https://nyaa.si/?q=A2LGC6UGY4Q4NW4YAEIWLIGEDDW77PUL) |
-| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E02 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kuroneko-majo-no-kyoushitsu-s01e02-1080p-hevc.n2100362) • [🐱 Nyaa](https://nyaa.si/?q=IDFMT47TOUIELLW4MOMATPMIE6C3DDLU) |
-| `[ASW] One Piece - 1158 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-one-piece-1158-1080p-hevc-x265-10bit-aac.n2100354) • [🐱 Nyaa](https://nyaa.si/?q=3ZSB66EKU3MNHH2MVXL2HKJUPJY24UI5) |
-| `[Erai-raws] Niwatori Fighter - 06 [1080p CR WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-06-1080p-cr-webrip.k10478444616452) • [🐱 Nyaa](https://nyaa.si/?q=7NNUIOP3VTP2PQATN4BSYU6BUGJ56GUR) |
-| `[SubsPlease] Douse, Koishite Shimaunda S2 (01-12) (1080p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-01-12-1080p-batch.n2100348) • [🐱 Nyaa](https://nyaa.si/?q=342FHMFGDTOHXGDQCTLVPIF5DCGVR6GG) |
-| `[SubsPlease] Douse, Koishite Shimaunda S2 (01-12) (720p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-01-12-720p-batch.n2100347) • [🐱 Nyaa](https://nyaa.si/?q=JR35CH4WNK2CWGV4NVVVCPXLHW6JMKTN) |
-| `[SubsPlease] Douse, Koishite Shimaunda S2 (01-12) (480p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-01-12-480p-batch.n2100346) • [🐱 Nyaa](https://nyaa.si/?q=RX7QPYGDOLPM3AWNURALNWX5VSDS2EZP) |
 
 ---
 <div align="center">
