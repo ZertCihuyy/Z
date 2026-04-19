@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.01.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.55.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Chihiro] Himekishi wa Barbaroi no Yome - 01 [1080p HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-himekishi-wa-barbaroi-no-yome-01-1080p.n2100396) • [🐱 Nyaa](https://nyaa.si/?q=E7KGWTDTPL6ANELZ3KKSWIM3EXD744YN) |
+| `Digimon Beatbreak S01E27 REPACK 1080p CR WEB-DL AAC2.0 H ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e27-repack-1080p-cr-web-dl.n2100392) • [🐱 Nyaa](https://nyaa.si/?q=EQLHGIFAR4IYW7WMKIETVR67WPP74WHY) |
 | `[geckyzz] Marika's Love Meter Malfunction - S01E03 (茉莉花ちゃ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/geckyzz-marikas-love-meter-malfunction-s01e03-marika-chan.k10480332873226) • [🐱 Nyaa](https://nyaa.si/?q=QTSZFXN7CAVGKMOJI523RE7VNCY2XS6O) |
 | `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.n2100389) • [🐱 Nyaa](https://nyaa.si/?q=WAHTXR73I2JLT57UM4XKHO6434NEPRXR) |
 | `[Erai-raws] Niwatori Fighter - 06 [1080p DSNP WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-06-1080p-dsnp-webrip.n2100388) • [🐱 Nyaa](https://nyaa.si/?q=BGL6HUFWOTONKOCA2FYLHX5FPUZAGN36) |
@@ -41,8 +43,6 @@
 | `[SubsPlease] Douse, Koishite Shimaunda S2 (01-12) (1080p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-01-12-1080p-batch.n2100348) • [🐱 Nyaa](https://nyaa.si/?q=342FHMFGDTOHXGDQCTLVPIF5DCGVR6GG) |
 | `[SubsPlease] Douse, Koishite Shimaunda S2 (01-12) (720p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-01-12-720p-batch.n2100347) • [🐱 Nyaa](https://nyaa.si/?q=JR35CH4WNK2CWGV4NVVVCPXLHW6JMKTN) |
 | `[SubsPlease] Douse, Koishite Shimaunda S2 (01-12) (480p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-01-12-480p-batch.n2100346) • [🐱 Nyaa](https://nyaa.si/?q=RX7QPYGDOLPM3AWNURALNWX5VSDS2EZP) |
-| `[BonoboSubs]Renegade Immortal - Xian Ni Episode 137` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bonobosubs-renegade-immortal-xian-ni-episode-137.n2100345) • [🐱 Nyaa](https://nyaa.si/?q=SNLZYC3GMAH2GKKVLN6LFKBV6CTOHTW7) |
-| `[shincaps] Marika-chan no Koukando wa Bukkowareteiru - 03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/shincaps-marika-chan-no-koukando-wa-bukkowareteiru-03.n2100344) • [🐱 Nyaa](https://nyaa.si/?q=XMHCQM7VZHYIF3KTL7TU6U46IWL5QA2Q) |
 
 ---
 <div align="center">
