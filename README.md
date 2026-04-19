@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.39.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.26.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DB] Sousou no Frieren 2nd Season | Frieren: Beyond Journ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-sousou-no-frieren-2nd-season-beyond-journeys.n2100364) • [🐱 Nyaa](https://nyaa.si/?q=A2LGC6UGY4Q4NW4YAEIWLIGEDDW77PUL) |
+| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E02 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kuroneko-majo-no-kyoushitsu-s01e02-1080p-hevc.n2100362) • [🐱 Nyaa](https://nyaa.si/?q=IDFMT47TOUIELLW4MOMATPMIE6C3DDLU) |
+| `[ASW] One Piece - 1158 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-one-piece-1158-1080p-hevc-x265-10bit-aac.n2100354) • [🐱 Nyaa](https://nyaa.si/?q=3ZSB66EKU3MNHH2MVXL2HKJUPJY24UI5) |
+| `[Erai-raws] Niwatori Fighter - 06 [1080p CR WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-06-1080p-cr-webrip.k10478444616452) • [🐱 Nyaa](https://nyaa.si/?q=7NNUIOP3VTP2PQATN4BSYU6BUGJ56GUR) |
+| `[SubsPlease] Douse, Koishite Shimaunda S2 (01-12) (1080p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-01-12-1080p-batch.n2100348) • [🐱 Nyaa](https://nyaa.si/?q=342FHMFGDTOHXGDQCTLVPIF5DCGVR6GG) |
+| `[SubsPlease] Douse, Koishite Shimaunda S2 (01-12) (720p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-01-12-720p-batch.n2100347) • [🐱 Nyaa](https://nyaa.si/?q=JR35CH4WNK2CWGV4NVVVCPXLHW6JMKTN) |
+| `[SubsPlease] Douse, Koishite Shimaunda S2 (01-12) (480p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-s2-01-12-480p-batch.n2100346) • [🐱 Nyaa](https://nyaa.si/?q=RX7QPYGDOLPM3AWNURALNWX5VSDS2EZP) |
+| `[BonoboSubs]Renegade Immortal - Xian Ni Episode 137` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bonobosubs-renegade-immortal-xian-ni-episode-137.n2100345) • [🐱 Nyaa](https://nyaa.si/?q=SNLZYC3GMAH2GKKVLN6LFKBV6CTOHTW7) |
+| `[shincaps] Marika-chan no Koukando wa Bukkowareteiru - 03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/shincaps-marika-chan-no-koukando-wa-bukkowareteiru-03.n2100344) • [🐱 Nyaa](https://nyaa.si/?q=XMHCQM7VZHYIF3KTL7TU6U46IWL5QA2Q) |
+| `Hells Paradise S02E12 Endings and Beginnings 1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02e12-endings-beginnings-1080p-cr-web.n2100343) • [🐱 Nyaa](https://nyaa.si/?q=B5YW6LSSKXWQWGBFRIX7S2JPXZH3WBKV) |
 | `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 02 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-02-1080p.k10478168166409) • [🐱 Nyaa](https://nyaa.si/?q=WTDSTYSCUUFX2MAOAWBJP7LBYF3KZDNW) |
 | `[BonoboSubs][4k]Renegade Immortal - Xian Ni Episode 137` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bonobosubs-4k-renegade-immortal-xian-ni-episode-137.n2100338) • [🐱 Nyaa](https://nyaa.si/?q=Y7BGLHLYKIRX6GTTGRP3CR62OKHUACK6) |
 | `[SubsPlease] Douse, Koishite Shimaunda (01-12) (1080p) [B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-01-12-1080p-batch.n2100336) • [🐱 Nyaa](https://nyaa.si/?q=BE3CZTYYPWAN5QF2B6RDHBHRKLPDLCXF) |
 | `[Onalrie] One Piece - E1158 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-one-piece-e1158-1080p-webrip-av1-mkv.2075433) • [🐱 Nyaa](https://nyaa.si/?q=U3MASGUPEEWENOQ2OV4UWCMAELIL2QYM) |
 | `[Reza] Wistoria Wand and Sword - S02E02 [WEBRip 1080p AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-wistoria-wand-sword-s02e02-webrip-1080p-aac.n2100334) • [🐱 Nyaa](https://nyaa.si/?q=274TYPCQ65PIHT3H457ISY4WVNBSRAX3) |
-| `[SubsPlease] Douse, Koishite Shimaunda (01-12) (720p) [Ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-01-12-720p-batch.n2100333) • [🐱 Nyaa](https://nyaa.si/?q=IM4BRGVQC7J7NOYUIOJPNLRUM75XFAST) |
-| `[ASW] Ghost Concert - missing Songs - 03 [1080p HEVC x265...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ghost-concert-missing-songs-03-1080p-hevc.n2100329) • [🐱 Nyaa](https://nyaa.si/?q=222QMSHN7LCGSTSDYK6O4KAWOVL3EJGU) |
-| `[SubsPlease] Douse, Koishite Shimaunda (01-12) (480p) [Ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-01-12-480p-batch.n2100325) • [🐱 Nyaa](https://nyaa.si/?q=AFLMKU7Y574I6AZYCZUTQ4TMHLVZLGRZ) |
-| `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ingoku-danchi-deviants-apartment-complex-s01e03.k10477699324424) • [🐱 Nyaa](https://nyaa.si/?q=IHIG2WE6EO67F35A6BIGXED7PZ4H4DTS) |
-| `[Onalrie] Detective Conan - E1198 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-detective-conan-e1198-1080p-webrip-av1-mkv.2075425) • [🐱 Nyaa](https://nyaa.si/?q=FD4LCTRPHJQBXIAXA2VFJ2K4NCRSKQFZ) |
-| `[ASW] Kuroneko to Majo no Kyoushitsu - 02 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kuroneko-majo-no-kyoushitsu-02-1080p-hevc.n2100318) • [🐱 Nyaa](https://nyaa.si/?q=OFJRDPQGQMSVROEKJNBDZMUI2FMR77LI) |
-| `[DKB] Maid-san wa Taberu dake - S01E04 [1080p][HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-maid-san-wa-taberu-dake-s01e04-1080p.n2100310) • [🐱 Nyaa](https://nyaa.si/?q=VETUA35JFCTM2467FN73VDFFPVLS2GZP) |
-| `[DKB] Niwatori Fighter - S01E06 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-niwatori-fighter-s01e06-1080p-hevc-x265-10bit.n2100309) • [🐱 Nyaa](https://nyaa.si/?q=XU372DBFXCABOTRPP3PZNXLUMGBSRDAR) |
-| `[DKB] Tsue to Tsurugi no Wistoria - S02E02 [1080p][HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tsue-tsurugi-no-wistoria-s02e02-1080p-hevc.n2100308) • [🐱 Nyaa](https://nyaa.si/?q=UY5B7ZGGD2HGPJMS77YWBGISHZZB54VP) |
-| `One Piece S01E1158 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1158-1080p-cr-web-dl-aac2.n2100303) • [🐱 Nyaa](https://nyaa.si/?q=OJTIAGSN7KLACL2YCH4GV62DUWDD4H56) |
 
 ---
 <div align="center">
