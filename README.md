@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.52.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.28.07_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 04 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-shunkashuutou-daikousha-haru-no-mai-04.n2099942) • [🐱 Nyaa](https://nyaa.si/?q=7KFDGR2VOCGKLTZSYKNVQDOWBNLN7MJV) |
-| `Ichijyoma Mankitsu Gurashi S01E02 Hedgehog is Closing Got...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ichijyoma-mankitsu-gurashi-s01e02-hedgehog-closing-gotta.n2099934) • [🐱 Nyaa](https://nyaa.si/?q=SGBFMIVY5Q3B27G7FEQNXS5UREXHWLQ7) |
-| `[Judas] Boku no Hero Academia Illegals (My Hero Academia ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-boku-no-hero-academia-illegals-my-vigilantes.n2099930) • [🐱 Nyaa](https://nyaa.si/?q=JTVTJJSNZ2FUCZ5GULNDDP5E4DZVSOZO) |
-| `[Judas] Gnosia (Season 01) [1080p][HEVC x265 10bit][Dual-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-gnosia-season-01-1080p-hevc-x265-10bit.n2099929) • [🐱 Nyaa](https://nyaa.si/?q=UOR6GWPJXAO3CJLCVFL43NZRGL2TSONV) |
-| `[Unfucked] NEEDY GIRL OVERDOSE - S01E03 (1080p WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-needy-girl-overdose-s01e03-1080p-web-dl.n2099927) • [🐱 Nyaa](https://nyaa.si/?q=TI2TGPAR4YGY2WFTGLONUNCDZ7WWAHMF) |
-| `[BDISO+BDMV][VWBS-7272] Ghibli ga Ippai Kantoku mo Ippai ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bdiso-bdmv-vwbs-7272-ghibli-ga-ippai-kantoku.n2099925) • [🐱 Nyaa](https://nyaa.si/?q=PAD3QJ5BYZGKBNHQMS56KAQ4ZMK32ZXT) |
-| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-daemons-shadow-realm-yomi-no-tsugai.n2099921) • [🐱 Nyaa](https://nyaa.si/?q=JVPODOBDUUT5QLDHHWG5666COTHCZUPV) |
-| `MAO S01E03 The Accursed 1080p DSNP WEB-DL AAC2.0 H 264-VA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e03-accursed-1080p-dsnp-web-dl-aac2.n2099920) • [🐱 Nyaa](https://nyaa.si/?q=L654THAFSHIX7IP6L7XNUBF5IX5HS3JH) |
-| `[Erai-raws] Kanan-sama wa Akumade Choroi - 03 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanan-sama-wa-akumade-choroi-03.k10460207959567) • [🐱 Nyaa](https://nyaa.si/?q=4JYIP3PJJWI7QYOK2FVM63IHERB6C4FK) |
-| `[Erai-raws] Mao - 03 [720p DSNP WEB-DL AVC AAC][MultiSub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-03-720p-dsnp-web-dl.n2099918) • [🐱 Nyaa](https://nyaa.si/?q=LPU544CYHRRKMMRCTYR4264PP7ZPYL2P) |
-| `[Erai-raws] Mao - 03 [1080p DSNP WEB-DL AVC AAC][MultiSub...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-03-1080p-dsnp-web-dl.n2099917) • [🐱 Nyaa](https://nyaa.si/?q=QKDF2ZTOR5AQ4KUHISG5QTQQK7MP5YDI) |
-| `[Erai-raws] Mao - 03 [480p DSNP WEB-DL AVC AAC][MultiSub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-03-480p-dsnp-web-dl.n2099916) • [🐱 Nyaa](https://nyaa.si/?q=XFDEYDT2I4GCAIF7UAEDH2BHVJEZAXLA) |
-| `[Feibanyama] Daemons of the Shadow Realm S01E03 [BILIBILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-daemons-shadow-realm-s01e03-bilibili-webrip-2160p.n2099915) • [🐱 Nyaa](https://nyaa.si/?q=JLGXY2OGGHBIFR474IUSPZKKHXJE5XQL) |
-| `[BlackRabbit] I'm Getting Married to a Girl I Hate in My ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-im-getting-married-girl-hate-my-class.k10459614232841) • [🐱 Nyaa](https://nyaa.si/?q=2IVN36NVQ6RVMYVO64V2N7HGZXYWCQHA) |
-| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 03 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-03.k10459373830151) • [🐱 Nyaa](https://nyaa.si/?q=CVXCGWJRQBRNLISNSVEOUBJZSJYEXDMY) |
+| `Digimon Beatbreak S01E27 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e27-1080p-cr-web-dl-aac2.n2100005) • [🐱 Nyaa](https://nyaa.si/?q=UAS3ZQMRXOF5SJG5KTWHUZBNUTHK6RHA) |
+| `[ToonsHub] Digimon Beatbreak S01E27 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-digimon-beatbreak-s01e27-1080p-cr-web-dl.k10464795996423) • [🐱 Nyaa](https://nyaa.si/?q=44FX37Y4GVVWU3WPVMECCHWFAKZFFE22) |
+| `[SubsPlease] Digimon Beatbreak - 27 (1080p) [9C22E11E].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-27-1080p-9c22e11e-mkv.n2100004) • [🐱 Nyaa](https://nyaa.si/?q=UGEMLUF5SD5OMSDFW45Z4XRSZKRSLFKR) |
+| `[SubsPlease] Digimon Beatbreak - 27 (720p) [FCD77ED4].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-27-720p-fcd77ed4-mkv.n2100002) • [🐱 Nyaa](https://nyaa.si/?q=K2WGBJQAVSWLJ4OFJN6ZQZFG3OEWUHBE) |
+| `[Erai-raws] Digimon Beatbreak - 27 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-480p-cr-web.k10464783750406) • [🐱 Nyaa](https://nyaa.si/?q=KHE2IFFYDXG5SUVJSFSYDTPEV4TU32EM) |
+| `[Erai-raws] Digimon Beatbreak - 27 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-720p-cr-web.n2100000) • [🐱 Nyaa](https://nyaa.si/?q=GM7JPQ2C7FNR77QA5IT7C3CFESB7DW27) |
+| `[SubsPlease] Digimon Beatbreak - 27 (480p) [DEA4062F].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-27-480p-dea4062f-mkv.n2099998) • [🐱 Nyaa](https://nyaa.si/?q=LQBFOQATKQP5O4HWEUTHNN5X7FZLRPO2) |
+| `[ToonsHub] The Other Side of Deep Space S01E16 1080p BILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-other-side-deep-space-s01e16-1080p-bili.n2099999) • [🐱 Nyaa](https://nyaa.si/?q=57EWWLOGG46QIB3ZYBHZ57IM5FCN7IYL) |
+| `[Erai-raws] Digimon Beatbreak - 27 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-1080p-cr-web.n2099997) • [🐱 Nyaa](https://nyaa.si/?q=HPSFXJMOKU6L57QJMJQ67HEPDNSRHYSP) |
+| `[Judas] 29-sai Dokushin Chuuken Boukensha no Nichijou  (A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-29-sai-dokushin-chuuken-boukensha-no-nichijou.n2099996) • [🐱 Nyaa](https://nyaa.si/?q=4LQ2VSV66V2W6GSUAXZK2LNBZL2MK4NG) |
+| `[Judas] Uruwashi no Yoi no Tsuki (In the Clear Moonlit Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-uruwashi-no-yoi-tsuki-clear-moonlit-dusk.n2099995) • [🐱 Nyaa](https://nyaa.si/?q=4UFA2GGV66F726AI2COALUSU5TGDYHVA) |
+| `[Judas] Douse, Koishite Shimaunda (Anyway, I`m Falling in...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-douse-koishite-shimaunda-anyway-im-falling-love.n2099994) • [🐱 Nyaa](https://nyaa.si/?q=GHT4LEWVAL3WRMRLQWREFU36TWRU53OB) |
+| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Op...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-seihantai-na-kimi-boku-polar-opposites-season.n2099993) • [🐱 Nyaa](https://nyaa.si/?q=ZL5KL3GYNFTDOWL2PUX6MM4WB4TQDIT5) |
+| `[Judas] Jigokuraku (Hell's Paradise) (Season 02) [1080p][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jigokuraku-hells-paradise-season-02-1080p-hevc.n2099992) • [🐱 Nyaa](https://nyaa.si/?q=Z567V5Q7QSXIVBJZT2FJRE2K72BFAYZ6) |
+| `[ASW] Meitantei Precure! - 12 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-meitantei-precure-12-1080p-hevc-x265-10bit-aac.n2099991) • [🐱 Nyaa](https://nyaa.si/?q=IPAKX26E4FZAICIPHDB7QUQKCEASWTGU) |
 
 ---
 <div align="center">
