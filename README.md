@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.28.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.41.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Digimon Beatbreak - S01E27 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e27-1080p-hevc-x265-10bit.n2100040) • [🐱 Nyaa](https://nyaa.si/?q=BG6LCALXMUNYMSESFE7QWWHI6DMGWJKK) |
+| `Digimon.Beatbreak.S01E27.1080p.CR.WEBRip.10bits.x265-Rapta` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e27-1080p-cr-webrip-10bits-x265-rapta.n2100032) • [🐱 Nyaa](https://nyaa.si/?q=KT5M3KNF7SSY7EJCHXE5OHNZOJJHFHGD) |
+| `[FSP] Battle Through The Heavens NF - 195 [4K]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-battle-through-heavens-nf-195-4k.n2100026) • [🐱 Nyaa](https://nyaa.si/?q=GVAZW5BGJJCIE2GC75R5SI7M6HDWTHQ5) |
+| `[FSP] Douluo Dalu II - Soul Land 2 - 149 [1080p]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-douluo-dalu-ii-soul-land-2-149-1080p.n2100025) • [🐱 Nyaa](https://nyaa.si/?q=GQO5ZQNZNTLXLSXSJPBLXDPTGWDC3N2T) |
+| `[ToonsHub] Rooster Fighter S01E06 1080p AS WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e06-1080p-web-dl-aac2.k10465756004109) • [🐱 Nyaa](https://nyaa.si/?q=ZY7NI6XXQLGLOB74HAWUYMS6B3W2S4QK) |
+| `[LGH] Bleach (2004) - S17E01-E13 (BD 1080p x264 8-bit Opu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lgh-bleach-2004-s17e01-e13-bd-1080p-x264.n2100018) • [🐱 Nyaa](https://nyaa.si/?q=JXCWEVCNNJ3R2H72Q7C2J6TRB3OCSKT7) |
+| `[ASW] Digimon Beatbreak - 27 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-digimon-beatbreak-27-1080p-hevc-x265-10bit-aac.n2100013) • [🐱 Nyaa](https://nyaa.si/?q=METIYAX2GD2LGB745HY7PO7GZM3U6FRT) |
+| `[Serenae] Meitantei Precure! - 12 Fanart Corner (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-12-fanart-corner-1080p-mkv.n2100012) • [🐱 Nyaa](https://nyaa.si/?q=HPHW7GSNGAGT5Q57DHUIH3NCGERRJINH) |
+| `[Serenae] Meitantei Precure! - 12 (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-12-1080p-mkv.n2100011) • [🐱 Nyaa](https://nyaa.si/?q=LDJOFYQ2W4NB6U2QFGKDYLX3LQS44DSH) |
+| `[Serenae] Meitantei Precure! - 12 (720p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-12-720p-mkv.n2100010) • [🐱 Nyaa](https://nyaa.si/?q=G6XAE2MM7ST5YK34VSB33I3WTYORBYTJ) |
 | `Digimon Beatbreak S01E27 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e27-1080p-cr-web-dl-aac2.n2100005) • [🐱 Nyaa](https://nyaa.si/?q=UAS3ZQMRXOF5SJG5KTWHUZBNUTHK6RHA) |
 | `[ToonsHub] Digimon Beatbreak S01E27 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-digimon-beatbreak-s01e27-1080p-cr-web-dl.k10464795996423) • [🐱 Nyaa](https://nyaa.si/?q=44FX37Y4GVVWU3WPVMECCHWFAKZFFE22) |
 | `[SubsPlease] Digimon Beatbreak - 27 (1080p) [9C22E11E].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-27-1080p-9c22e11e-mkv.n2100004) • [🐱 Nyaa](https://nyaa.si/?q=UGEMLUF5SD5OMSDFW45Z4XRSZKRSLFKR) |
 | `[SubsPlease] Digimon Beatbreak - 27 (720p) [FCD77ED4].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-27-720p-fcd77ed4-mkv.n2100002) • [🐱 Nyaa](https://nyaa.si/?q=K2WGBJQAVSWLJ4OFJN6ZQZFG3OEWUHBE) |
 | `[Erai-raws] Digimon Beatbreak - 27 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-480p-cr-web.k10464783750406) • [🐱 Nyaa](https://nyaa.si/?q=KHE2IFFYDXG5SUVJSFSYDTPEV4TU32EM) |
-| `[Erai-raws] Digimon Beatbreak - 27 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-720p-cr-web.n2100000) • [🐱 Nyaa](https://nyaa.si/?q=GM7JPQ2C7FNR77QA5IT7C3CFESB7DW27) |
-| `[SubsPlease] Digimon Beatbreak - 27 (480p) [DEA4062F].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-27-480p-dea4062f-mkv.n2099998) • [🐱 Nyaa](https://nyaa.si/?q=LQBFOQATKQP5O4HWEUTHNN5X7FZLRPO2) |
-| `[ToonsHub] The Other Side of Deep Space S01E16 1080p BILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-other-side-deep-space-s01e16-1080p-bili.n2099999) • [🐱 Nyaa](https://nyaa.si/?q=57EWWLOGG46QIB3ZYBHZ57IM5FCN7IYL) |
-| `[Erai-raws] Digimon Beatbreak - 27 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-27-1080p-cr-web.n2099997) • [🐱 Nyaa](https://nyaa.si/?q=HPSFXJMOKU6L57QJMJQ67HEPDNSRHYSP) |
-| `[Judas] 29-sai Dokushin Chuuken Boukensha no Nichijou  (A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-29-sai-dokushin-chuuken-boukensha-no-nichijou.n2099996) • [🐱 Nyaa](https://nyaa.si/?q=4LQ2VSV66V2W6GSUAXZK2LNBZL2MK4NG) |
-| `[Judas] Uruwashi no Yoi no Tsuki (In the Clear Moonlit Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-uruwashi-no-yoi-tsuki-clear-moonlit-dusk.n2099995) • [🐱 Nyaa](https://nyaa.si/?q=4UFA2GGV66F726AI2COALUSU5TGDYHVA) |
-| `[Judas] Douse, Koishite Shimaunda (Anyway, I`m Falling in...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-douse-koishite-shimaunda-anyway-im-falling-love.n2099994) • [🐱 Nyaa](https://nyaa.si/?q=GHT4LEWVAL3WRMRLQWREFU36TWRU53OB) |
-| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Op...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-seihantai-na-kimi-boku-polar-opposites-season.n2099993) • [🐱 Nyaa](https://nyaa.si/?q=ZL5KL3GYNFTDOWL2PUX6MM4WB4TQDIT5) |
-| `[Judas] Jigokuraku (Hell's Paradise) (Season 02) [1080p][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jigokuraku-hells-paradise-season-02-1080p-hevc.n2099992) • [🐱 Nyaa](https://nyaa.si/?q=Z567V5Q7QSXIVBJZT2FJRE2K72BFAYZ6) |
-| `[ASW] Meitantei Precure! - 12 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-meitantei-precure-12-1080p-hevc-x265-10bit-aac.n2099991) • [🐱 Nyaa](https://nyaa.si/?q=IPAKX26E4FZAICIPHDB7QUQKCEASWTGU) |
 
 ---
 <div align="center">
