@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.17.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.05.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Commie] Ace of the Diamond act II ~Second Season~ - 03 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-ace-diamond-act-ii-second-season-03-fc113d55-mkv.n2100431) • [🐱 Nyaa](https://nyaa.si/?q=JHWBDTLZAXTHO5VBPD4FU2HCZS3SNVRK) |
+| `[Feibanyama] Agents of the Four Seasons Dance of Spring S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-agents-four-seasons-dance-spring-s01e01-iqiyi.n2100429) • [🐱 Nyaa](https://nyaa.si/?q=B6AWO5A7SXD66YX3IDXAJ4C74PHL7CZR) |
 | `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 3...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gjm-ascendance-bookworm-honzuki-no-gekokujou-37-s04e01.n2100423) • [🐱 Nyaa](https://nyaa.si/?q=5BQRVYDP627LSR52WSQWVBLN6J55G7RB) |
 | `[Erai-raws] One Piece - 1158 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-1080p-cr-webrip.n2100418) • [🐱 Nyaa](https://nyaa.si/?q=7DTR3KAQ34B2TCBKRKEMHKHJ5YVTN6GY) |
 | `[Erai-raws] One Piece - 1158 [1080p CR WEB-DL AVC AAC][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-1080p-cr-web.k10481702973195) • [🐱 Nyaa](https://nyaa.si/?q=2RZDRLV7R4XTZM2EQTZM47JE5YF3634T) |
@@ -41,8 +43,6 @@
 | `[Baby Kozame] Odekake Kozame The Movie Tokai no Otomodach...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/baby-kozame-odekake-movie-tokai-no-otomodachi-friends.n2100408) • [🐱 Nyaa](https://nyaa.si/?q=24VQ5MDX666QDK732PZAHPIRHHJ24RKI) |
 | `[Kozame] Odekake Kozame The Movie Tokai no Otomodachi (Fr...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kozame-odekake-movie-tokai-no-otomodachi-friends-big.n2100407) • [🐱 Nyaa](https://nyaa.si/?q=NWQCSVJQP2L4QLPP4UTYWIRWYT54LLPS) |
 | `[Erai-raws] Ghost Concert: Missing Songs - 03 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-03-1080p.n2100406) • [🐱 Nyaa](https://nyaa.si/?q=C6KWEDUDUA5EWKYMNYW5BSVBSC5WMUUO) |
-| `Frieren Beyond Journeys End S02 1080p CR WEB-DL MULTi AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02-1080p-cr-web.n2100402) • [🐱 Nyaa](https://nyaa.si/?q=YAPROIUVRKH4GLK5PL5YVRZGM3OROKVJ) |
-| `[Joseki] After War Gundam X S01 (1996)(BD AV1 1080p Opus)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/joseki-after-war-gundam-x-s01-1996-bd.n2100399) • [🐱 Nyaa](https://nyaa.si/?q=6VKGQF42IQ6CBXLRQQLPLRBYSZCQKTAG) |
 
 ---
 <div align="center">
