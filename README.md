@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.42.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.17.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 3...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gjm-ascendance-bookworm-honzuki-no-gekokujou-37-s04e01.n2100423) • [🐱 Nyaa](https://nyaa.si/?q=5BQRVYDP627LSR52WSQWVBLN6J55G7RB) |
+| `[Erai-raws] One Piece - 1158 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-1080p-cr-webrip.n2100418) • [🐱 Nyaa](https://nyaa.si/?q=7DTR3KAQ34B2TCBKRKEMHKHJ5YVTN6GY) |
 | `[Erai-raws] One Piece - 1158 [1080p CR WEB-DL AVC AAC][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-1080p-cr-web.k10481702973195) • [🐱 Nyaa](https://nyaa.si/?q=2RZDRLV7R4XTZM2EQTZM47JE5YF3634T) |
 | `[Erai-raws] One Piece - 1158 [720p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-720p-cr-web.k10481702225415) • [🐱 Nyaa](https://nyaa.si/?q=GNWQXZUH6E4PASQIK4XWFUCGMHQMYFG6) |
 | `[Erai-raws] One Piece - 1158 [480p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-480p-cr-web.k10481701728514) • [🐱 Nyaa](https://nyaa.si/?q=MSO5IOKFJIB426ZED53Z6ZIOQVTZNJDC) |
@@ -41,8 +43,6 @@
 | `[Erai-raws] Ghost Concert: Missing Songs - 03 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-03-1080p.n2100406) • [🐱 Nyaa](https://nyaa.si/?q=C6KWEDUDUA5EWKYMNYW5BSVBSC5WMUUO) |
 | `Frieren Beyond Journeys End S02 1080p CR WEB-DL MULTi AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/frieren-beyond-journeys-end-s02-1080p-cr-web.n2100402) • [🐱 Nyaa](https://nyaa.si/?q=YAPROIUVRKH4GLK5PL5YVRZGM3OROKVJ) |
 | `[Joseki] After War Gundam X S01 (1996)(BD AV1 1080p Opus)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/joseki-after-war-gundam-x-s01-1996-bd.n2100399) • [🐱 Nyaa](https://nyaa.si/?q=6VKGQF42IQ6CBXLRQQLPLRBYSZCQKTAG) |
-| `[Chihiro] Himekishi wa Barbaroi no Yome - 01 [1080p HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-himekishi-wa-barbaroi-no-yome-01-1080p.n2100396) • [🐱 Nyaa](https://nyaa.si/?q=E7KGWTDTPL6ANELZ3KKSWIM3EXD744YN) |
-| `Digimon Beatbreak S01E27 REPACK 1080p CR WEB-DL AAC2.0 H ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e27-repack-1080p-cr-web-dl.n2100392) • [🐱 Nyaa](https://nyaa.si/?q=EQLHGIFAR4IYW7WMKIETVR67WPP74WHY) |
 
 ---
 <div align="center">
