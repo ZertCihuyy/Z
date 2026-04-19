@@ -1,5 +1,5 @@
 {
-  "last_update": "19/4/2026, 12.41.06",
+  "last_update": "19/4/2026, 14.01.29",
   "hari": "Minggu",
   "data": [
     {
@@ -71,8 +71,8 @@
       "score": null,
       "scored_by": null,
       "rank": 18143,
-      "popularity": 26580,
-      "members": 117,
+      "popularity": 26372,
+      "members": 120,
       "favorites": 0,
       "synopsis": "Third season of Kumarba.",
       "background": "",
@@ -598,147 +598,6 @@
       "demographics": []
     },
     {
-      "mal_id": 59176,
-      "url": "https://myanimelist.net/anime/59176/Mahou_no_Shimai_Lulutto_Lilly",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1099/155721.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1099/155721t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1099/155721l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1099/155721.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1099/155721t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1099/155721l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/7oNuxIfJqiI?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Mahou no Shimai Lulutto Lilly"
-        },
-        {
-          "type": "Synonym",
-          "title": "Magical Sisters Lulutto Lilly"
-        },
-        {
-          "type": "Japanese",
-          "title": "魔法の姉妹ルルットリリィ"
-        }
-      ],
-      "title": "Mahou no Shimai Lulutto Lilly",
-      "title_english": null,
-      "title_japanese": "魔法の姉妹ルルットリリィ",
-      "title_synonyms": [
-        "Magical Sisters Lulutto Lilly"
-      ],
-      "type": "TV",
-      "source": "Original",
-      "episodes": null,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-05T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 5,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 5, 2026 to ?"
-      },
-      "duration": "23 min",
-      "rating": "G - All Ages",
-      "score": 6.72,
-      "scored_by": 334,
-      "rank": 6629,
-      "popularity": 9510,
-      "members": 5051,
-      "favorites": 9,
-      "synopsis": "Fuu Nonoyama and Rui Nonoyama are sisters from a \"land of magic,\" who were once on terms with one another, but have drifted apart. Suddenly, they are given magical powers by two cat-like spirits, Uguisu and Azuki, allowing them to transform into magical girl idols. However, there is a catch: these powers only last for a year and they cannot tell anyone that that magic exists. While neither Fuu nor Rui knows one another are magical girls, they soon begin their careers as idols.\n\n(Source: Wikipedia)",
-      "background": "",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Sundays",
-        "time": "22:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Sundays at 22:30 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 230,
-          "type": "anime",
-          "name": "Bandai",
-          "url": "https://myanimelist.net/anime/producer/230/Bandai"
-        },
-        {
-          "mal_id": 1517,
-          "type": "anime",
-          "name": "Jinnan Studio",
-          "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
-        },
-        {
-          "mal_id": 1992,
-          "type": "anime",
-          "name": "Bandai Spirits",
-          "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
-        },
-        {
-          "mal_id": 2424,
-          "type": "anime",
-          "name": "Bandai Namco Filmworks",
-          "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
-        },
-        {
-          "mal_id": 2425,
-          "type": "anime",
-          "name": "Bandai Namco Music Live",
-          "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Studio Pierrot",
-          "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
-        }
-      ],
-      "genres": [],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 66,
-          "type": "anime",
-          "name": "Mahou Shoujo",
-          "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
-        }
-      ],
-      "demographics": []
-    },
-    {
       "mal_id": 63042,
       "url": "https://myanimelist.net/anime/63042/Meitantei_Precure",
       "images": {
@@ -892,6 +751,147 @@
           "type": "anime",
           "name": "Time Travel",
           "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 59176,
+      "url": "https://myanimelist.net/anime/59176/Mahou_no_Shimai_Lulutto_Lilly",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1099/155721.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1099/155721t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1099/155721l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1099/155721.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1099/155721t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1099/155721l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/7oNuxIfJqiI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Mahou no Shimai Lulutto Lilly"
+        },
+        {
+          "type": "Synonym",
+          "title": "Magical Sisters Lulutto Lilly"
+        },
+        {
+          "type": "Japanese",
+          "title": "魔法の姉妹ルルットリリィ"
+        }
+      ],
+      "title": "Mahou no Shimai Lulutto Lilly",
+      "title_english": null,
+      "title_japanese": "魔法の姉妹ルルットリリィ",
+      "title_synonyms": [
+        "Magical Sisters Lulutto Lilly"
+      ],
+      "type": "TV",
+      "source": "Original",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 5, 2026 to ?"
+      },
+      "duration": "23 min",
+      "rating": "G - All Ages",
+      "score": 6.72,
+      "scored_by": 359,
+      "rank": 6633,
+      "popularity": 9459,
+      "members": 5134,
+      "favorites": 10,
+      "synopsis": "Fuu Nonoyama and Rui Nonoyama are sisters from a \"land of magic,\" who were once on terms with one another, but have drifted apart. Suddenly, they are given magical powers by two cat-like spirits, Uguisu and Azuki, allowing them to transform into magical girl idols. However, there is a catch: these powers only last for a year and they cannot tell anyone that that magic exists. While neither Fuu nor Rui knows one another are magical girls, they soon begin their careers as idols.\n\n(Source: Wikipedia)",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "22:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 22:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 230,
+          "type": "anime",
+          "name": "Bandai",
+          "url": "https://myanimelist.net/anime/producer/230/Bandai"
+        },
+        {
+          "mal_id": 1517,
+          "type": "anime",
+          "name": "Jinnan Studio",
+          "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
+        },
+        {
+          "mal_id": 1992,
+          "type": "anime",
+          "name": "Bandai Spirits",
+          "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
+        },
+        {
+          "mal_id": 2424,
+          "type": "anime",
+          "name": "Bandai Namco Filmworks",
+          "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
+        },
+        {
+          "mal_id": 2425,
+          "type": "anime",
+          "name": "Bandai Namco Music Live",
+          "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Studio Pierrot",
+          "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 66,
+          "type": "anime",
+          "name": "Mahou Shoujo",
+          "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
         }
       ],
       "demographics": []
