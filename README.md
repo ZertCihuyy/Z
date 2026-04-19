@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.02.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.01.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] Wistoria Wand and Sword S02E02 The Party From Hel...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-wistoria-wand-sword-s02e02-party-from-hell.k10472052036869) • [🐱 Nyaa](https://nyaa.si/?q=DVYCDI2ATCNDHX3VDA5UZPMKHRGIFELK) |
+| `[FSP DN] Mushen Ji (Tales of Herding Gods) - 79 [1080p] (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-mushen-ji-tales-herding-gods-79-1080p-gb_cn.n2100135) • [🐱 Nyaa](https://nyaa.si/?q=ISEYQTZ7L4ACJRQR3XLHUVQ6SKZEL5LZ) |
+| `[ToonsHub] KILL BLUE S01E01 1080p AMZN WEB-DL MULTi DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e01-1080p-amzn-web-dl.k10471796411908) • [🐱 Nyaa](https://nyaa.si/?q=ZGFMOKWFGM7VHX73KNVUUGLQ7D6L63I3) |
+| `[Judas] Dia no Ace (Ace of the Diamond) - S04E03 [1080p][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-dia-no-ace-diamond-s04e03-1080p-hevc.n2100133) • [🐱 Nyaa](https://nyaa.si/?q=FBHKE5OSD4DVVP3APZTGGEOVNTTEIBDT) |
+| `[ASW] Ace of Diamond Act II S2 - 03 [1080p HEVC x265 10Bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ace-diamond-act-ii-s2-03-1080p.n2100129) • [🐱 Nyaa](https://nyaa.si/?q=2Y6NMYHMHJQG6KBPUB5SIWGAOCGDDC3Z) |
+| `[ToonsHub] How dare you S02E15 1080p iQ WEB-DL AAC2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dare-s02e15-1080p-iq-web-dl-aac2.k10471270599177) • [🐱 Nyaa](https://nyaa.si/?q=C2SJPBRNCZ27O4QIFETPZBSNYDC4JFJB) |
+| `[Half-Baked] Akane-banashi - S01E03 [WEB 1080p HEVC AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/half-baked-akane-banashi-s01e03-web-1080p-hevc.n2100127) • [🐱 Nyaa](https://nyaa.si/?q=KP6JFWBNUDKTNR7HSGX3V2CPPEBRLGOB) |
 | `[ASW] Tsue to Tsurugi no Wistoria S2 - 02 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tsue-tsurugi-no-wistoria-s2-02-1080p.n2100126) • [🐱 Nyaa](https://nyaa.si/?q=ZKM52FIUX733DTSOU5UIQAVSYXH6HMET) |
 | `[Onalrie] Ace of Diamond Act II - S02E03 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ace-diamond-act-ii-s02e03-1080p-webrip-av1-mkv.2075297) • [🐱 Nyaa](https://nyaa.si/?q=FESQSLPDPWMFNWRKJDL7LGWALIPBSR7G) |
 | `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sw...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tsue-tsurugi-no-wistoria-wand-sword-s02e02.n2100123) • [🐱 Nyaa](https://nyaa.si/?q=DRI7OYN6C3CKH3LSXWN4IAKJAJPNXV4I) |
@@ -36,13 +43,6 @@
 | `[ASW] Niwatori Fighter - 06 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-niwatori-fighter-06-1080p-hevc-x265-10bit-aac.n2100117) • [🐱 Nyaa](https://nyaa.si/?q=CG67XZW42HGT537RM7QWBRQFL55YWVCA) |
 | `Ace of the Diamond S04E03 The Path of the Victor 1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-diamond-s04e03-path-victor-1080p-cr-web.n2100116) • [🐱 Nyaa](https://nyaa.si/?q=LS2ZZUYI7UGHNO62YNZRLMTT3WSLLXZR) |
 | `[ToonsHub] Ace of Diamond S04E03 1080p CR WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ace-diamond-s04e03-1080p-cr-web-dl.k10470364615683) • [🐱 Nyaa](https://nyaa.si/?q=OXEH2SLFYYB5JJKQ4EQWKD4HYC664H4N) |
-| `[SubsPlease] Ace of Diamond Act II S2 - 03 (1080p) [8A9EC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-03-1080p-8a9eca1a-mkv.n2100113) • [🐱 Nyaa](https://nyaa.si/?q=XZMFVRFRQ224ZA7ZUMCYT56SNBDSG5NK) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 03 [48...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.k10470320522754) • [🐱 Nyaa](https://nyaa.si/?q=ND6AQB4HHDM2CJKNBTY5HOIRXFM5ESR5) |
-| `[SubsPlease] Ace of Diamond Act II S2 - 03 (720p) [9D277C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-03-720p-9d277c19-mkv.n2100110) • [🐱 Nyaa](https://nyaa.si/?q=CU3H74GHFF7XFZKKCG5QUUZM7FQTKMGC) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 03 [72...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.k10470317533953) • [🐱 Nyaa](https://nyaa.si/?q=R5M5FLHIBIDP5SSHBNA6N6DQPTWT5C2W) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 03 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2100107) • [🐱 Nyaa](https://nyaa.si/?q=QQ77KD5HQY7ZFD4EW6UUBZKBDRS3GEJY) |
-| `[SubsPlease] Ace of Diamond Act II S2 - 03 (480p) [9B007D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-03-480p-9b007d96-mkv.n2100106) • [🐱 Nyaa](https://nyaa.si/?q=CRUEOK3XOATYANNVPLT5ZWHQB5TTQASR) |
-| `[Onalrie] Niwatori Fighter - S01E06 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-niwatori-fighter-s01e06-1080p-webrip-av1-mkv.2075293) • [🐱 Nyaa](https://nyaa.si/?q=UICTT4AAXWVP2VF3II5TJS6KEMEN7Y4R) |
 
 ---
 <div align="center">
