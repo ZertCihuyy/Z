@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.26.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.25.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Niwatori Fighter (Rooster Fighter) - S01E06 [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-niwatori-fighter-rooster-s01e06-1080p-hevc-x265.n2100365) • [🐱 Nyaa](https://nyaa.si/?q=D2GYAYFPJOSHHY7JC4EUYQ4RONR2ABWW) |
 | `[DB] Sousou no Frieren 2nd Season | Frieren: Beyond Journ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-sousou-no-frieren-2nd-season-beyond-journeys.n2100364) • [🐱 Nyaa](https://nyaa.si/?q=A2LGC6UGY4Q4NW4YAEIWLIGEDDW77PUL) |
 | `[DKB] Kuroneko to Majo no Kyoushitsu - S01E02 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kuroneko-majo-no-kyoushitsu-s01e02-1080p-hevc.n2100362) • [🐱 Nyaa](https://nyaa.si/?q=IDFMT47TOUIELLW4MOMATPMIE6C3DDLU) |
 | `[ASW] One Piece - 1158 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-one-piece-1158-1080p-hevc-x265-10bit-aac.n2100354) • [🐱 Nyaa](https://nyaa.si/?q=3ZSB66EKU3MNHH2MVXL2HKJUPJY24UI5) |
@@ -42,7 +43,6 @@
 | `[BonoboSubs][4k]Renegade Immortal - Xian Ni Episode 137` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bonobosubs-4k-renegade-immortal-xian-ni-episode-137.n2100338) • [🐱 Nyaa](https://nyaa.si/?q=Y7BGLHLYKIRX6GTTGRP3CR62OKHUACK6) |
 | `[SubsPlease] Douse, Koishite Shimaunda (01-12) (1080p) [B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-douse-koishite-shimaunda-01-12-1080p-batch.n2100336) • [🐱 Nyaa](https://nyaa.si/?q=BE3CZTYYPWAN5QF2B6RDHBHRKLPDLCXF) |
 | `[Onalrie] One Piece - E1158 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-one-piece-e1158-1080p-webrip-av1-mkv.2075433) • [🐱 Nyaa](https://nyaa.si/?q=U3MASGUPEEWENOQ2OV4UWCMAELIL2QYM) |
-| `[Reza] Wistoria Wand and Sword - S02E02 [WEBRip 1080p AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-wistoria-wand-sword-s02e02-webrip-1080p-aac.n2100334) • [🐱 Nyaa](https://nyaa.si/?q=274TYPCQ65PIHT3H457ISY4WVNBSRAX3) |
 
 ---
 <div align="center">
