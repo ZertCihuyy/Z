@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.19.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.52.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AnoZu] Juni Taisen: Zodiac War S01 (Season 1) 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anozu-juni-taisen-zodiac-war-s01-season-1.n2100533) • [🐱 Nyaa](https://nyaa.si/?q=PZYMCT7FW6UCDCL4YD7P7MJXGUAFI3RS) |
 | `[denisplay] Detective Conan Movie 19 - The Hellfire Sunfl...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-detective-conan-movie-19-hellfire-sunflowers-2015.n2100517) • [🐱 Nyaa](https://nyaa.si/?q=BBV2KSQP32SVREHMKDVRQUBMDDDUVLM3) |
 | `Kinnikuman Nisei BATCH 01 (Episodes 1-4)  DUAL SUBS: ENGL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kinnikuman-nisei-batch-01-episodes-1-4-dual.n2100509) • [🐱 Nyaa](https://nyaa.si/?q=ZCI2OD4BVUTNJRPZ7SJWKG6FQD52RD32) |
 | `[denisplay] Detective Conan Movie 19 - The Hellfire Sunfl...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-detective-conan-movie-19-hellfire-sunflowers-2015.n2100508) • [🐱 Nyaa](https://nyaa.si/?q=77RGNKNDJ4LK3IJUOMSFETUT32WQXZEY) |
@@ -42,7 +43,6 @@
 | `[Judas] One Piece - 1158 [1080p][HEVC x265 10bit][Multi-S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-one-piece-1158-1080p-hevc-x265-10bit.n2100470) • [🐱 Nyaa](https://nyaa.si/?q=KLATGY7GAF6VEX2INGYLMQ22GKP5R4WH) |
 | `[NH] Frieren: Beyond Journey's End - Season 2 (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nh-frieren-beyond-journeys-end-season-2-web.n2100466) • [🐱 Nyaa](https://nyaa.si/?q=CJNBUIFSO7EU2X7Y7RYEOOO7EFRBMY3B) |
 | `[Erai-raws] Meitantei Precure - 12 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-12-1080p-cr-webrip.n2100465) • [🐱 Nyaa](https://nyaa.si/?q=MGXADVADRHBSXXJID2NV32IDN4NOZGKH) |
-| `[Erai-raws] Meitantei Precure - 12 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-12-480p-cr-web.n2100464) • [🐱 Nyaa](https://nyaa.si/?q=O3WA4TF524ZCEFO7NCJKW5KYJPVNGLBI) |
 
 ---
 <div align="center">
