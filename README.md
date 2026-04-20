@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.55.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.53.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[knyf1e] Hell's Paradise S02 1080p CR WEBRip DUAL Opus 2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/knyf1e-hells-paradise-s02-1080p-cr-webrip-dual.k10504211572490) • [🐱 Nyaa](https://nyaa.si/?q=DFOYKAUYGXALD7BZ3NHQQGLGVKV3FMCL) |
+| `[HatSubs] One Piece 1158 (WEB 1080p) [AA4A1ACB].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-1158-web-1080p-aa4a1acb-mkv.n2100768) • [🐱 Nyaa](https://nyaa.si/?q=ISDF24PEG5SPGV7VLCHVPHT5MQWT7E77) |
+| `Hells Paradise S02 1080p CR WEB-DL MULTi AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02-1080p-cr-web-dl-multi.n2100767) • [🐱 Nyaa](https://nyaa.si/?q=XIDK2WBYAYCH6CWWJHFVNHYAX3Y26565) |
+| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2100763) • [🐱 Nyaa](https://nyaa.si/?q=M2YDDDJMRETVU7GTEA64S4HOVA2YI6VS) |
 | `[Kurai] MAO - S01E02 (AMZN WEB-DL 1080p H.264 E-AC-3) [AB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kurai-mao-s01e02-amzn-web-dl-1080p-h.n2100757) • [🐱 Nyaa](https://nyaa.si/?q=WD5ILPPPRPERQDO2OGC7S5HJC4LKW75J) |
 | `[Sokudo] Re ZERO - Starting Life in Another World S04E02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-re-zero-starting-life-another-world-s04e02.n2100756) • [🐱 Nyaa](https://nyaa.si/?q=GKXUB7QNWK5QXXMWLX4WTUL3CK5SGONB) |
 | `[Breeze] Re ZERO - Starting Life in Another World S04E02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-re-zero-starting-life-another-world-s04e02.n2100755) • [🐱 Nyaa](https://nyaa.si/?q=KXSRXUAKJNKF3253VRI62IHNTFF4EBFO) |
@@ -39,10 +43,6 @@
 | `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [720p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100749) • [🐱 Nyaa](https://nyaa.si/?q=7JZELOXJLT64AJML24GB6VBGNQROLXBK) |
 | `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [540p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100748) • [🐱 Nyaa](https://nyaa.si/?q=2WRGMBKZGKTTBVT7ZZDZ7LV5HQXVAYW4) |
 | `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100747) • [🐱 Nyaa](https://nyaa.si/?q=QRJ222PQVP3CN5YYDNU6OY2OOTDINFLC) |
-| `[Erai-raws] Fangkai Nage Nuwu - 08 (CA) [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-08-ca-1080p.n2100717) • [🐱 Nyaa](https://nyaa.si/?q=P6SFKHHYBHZ2LCPGQURV44MBX3IQGFOP) |
-| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asakura-tensei-shitara-slime-datta-ken-4th-season.k10500719850765) • [🐱 Nyaa](https://nyaa.si/?q=CXHIDEZGU3NVMGA3LDS323MCDGPHMRND) |
-| `[Erai-raws] Liar Game - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-03-1080p-cr-webrip.k10500656852490) • [🐱 Nyaa](https://nyaa.si/?q=HNP43ZWNJ7EZK46B3KNWFOCJCO7BPDMT) |
-| `[Gecko] SHIBUYA♡HACHI - S00E01 (SHIBUYA♡HACHI; Shibuya♡Ha...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-shibuyahachi-s00e01-shibuyahachi-part-4-hachi-shibuya.n2100705) • [🐱 Nyaa](https://nyaa.si/?q=LXDTEML7RNPYZI322BYRGRVNFOUYZZOR) |
 
 ---
 <div align="center">
