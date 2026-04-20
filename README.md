@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.30.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.04.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BuriBuri] Crayon Shin-chan - 0070 [480p][0936CC97].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/buriburi-crayon-shin-chan-0070-480p-0936cc97-mkv.n2100484) • [🐱 Nyaa](https://nyaa.si/?q=H23RSUWAUURQFAHJC5WWX3HHZ46DGKYA) |
+| `[Hentai] Ingoku Danchi - 03 (WEB 1080p AAC2.0 H.264) (Unc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hentai-ingoku-danchi-03-web-1080p-aac2-0.n2100483) • [🐱 Nyaa](https://nyaa.si/?q=X75GOTCPU4D232DMTHFPBDOSHID3ON27) |
+| `One Piece S01E1158 A Quest in the Land of Mystery The Sec...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1158-quest-land-mystery-secret-sun.n2100479) • [🐱 Nyaa](https://nyaa.si/?q=JNVJ77LI25TMTG7QQ7LH2HVQJTGAUWJE) |
+| `Gake no Ue no Ponyo (2008) Multi-Subs + chapters for DCP ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gake-no-ue-ponyo-2008-multi-subs-chapters.n2100474) • [🐱 Nyaa](https://nyaa.si/?q=LIQLTQTMMFHVBIUNDNUQE4C7FOF7MYHQ) |
 | `[Judas] One Piece - 1158 [1080p][HEVC x265 10bit][Multi-S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-one-piece-1158-1080p-hevc-x265-10bit.n2100470) • [🐱 Nyaa](https://nyaa.si/?q=KLATGY7GAF6VEX2INGYLMQ22GKP5R4WH) |
 | `[NH] Frieren: Beyond Journey's End - Season 2 (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nh-frieren-beyond-journeys-end-season-2-web.n2100466) • [🐱 Nyaa](https://nyaa.si/?q=CJNBUIFSO7EU2X7Y7RYEOOO7EFRBMY3B) |
 | `[Erai-raws] Meitantei Precure - 12 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-12-1080p-cr-webrip.n2100465) • [🐱 Nyaa](https://nyaa.si/?q=MGXADVADRHBSXXJID2NV32IDN4NOZGKH) |
@@ -39,10 +43,6 @@
 | `[No0bSubs] Sentenced to Be a Hero~Yuusha-kei ni Shosu (10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-sentenced-hero-yuusha-kei-ni-shosu-1080p.n2100445) • [🐱 Nyaa](https://nyaa.si/?q=X6IUJ23IMTRZDY4IUNRZ65CQBY2D5M4N) |
 | `[No0bSubs] Yuusha-kei ni Shosu - Choubatsu Yuusha 9004-ta...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-yuusha-kei-ni-shosu-choubatsu-9004-tai.n2100444) • [🐱 Nyaa](https://nyaa.si/?q=ZY67VQ45CPTDCMPTFO4WJBP5RA7TV7AB) |
 | `[DKB] Dandelion - (Season 01) [1080p][HEVC x265 10bit][Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-dandelion-season-01-1080p-hevc-x265-10bit.n2100442) • [🐱 Nyaa](https://nyaa.si/?q=PGBHDCY6UEPGAEVLSZFVFVHQU4AWDSIU) |
-| `[No0bSubs] Jack-of-All-Trades Party of None (1080p AV1 MU...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-jack-all-trades-party-none-1080p-av1.n2100441) • [🐱 Nyaa](https://nyaa.si/?q=CSLFT67RII5JI5EDIUGXU3U745I4V6NJ) |
-| `[No0bSubs] Yuusha Party wo Oidasareta Kiyoubinbou (1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-yuusha-party-wo-oidasareta-kiyoubinbou-1080p-av1.n2100440) • [🐱 Nyaa](https://nyaa.si/?q=H25YXKB3KY5HH324SXHCKAZQBQVGLOZE) |
-| `[No0bSubs] You Can't Be In a Rom-Com with Your Childhood ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-cant-rom-com-your-childhood-friends-1080p.n2100439) • [🐱 Nyaa](https://nyaa.si/?q=RWSQL2DYBPQBL6675555XHPWNVAT2JK4) |
-| `[No0bSubs] Osananajimi to wa Love Comedy ni Naranai (1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-osananajimi-wa-love-comedy-ni-naranai-1080p.n2100438) • [🐱 Nyaa](https://nyaa.si/?q=XIMOQH3DFWVYCBKLLRMPYHHHDVJLEKUI) |
 
 ---
 <div align="center">
