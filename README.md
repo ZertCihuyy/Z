@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.54.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.30.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] One Piece - 1158 [1080p][HEVC x265 10bit][Multi-S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-one-piece-1158-1080p-hevc-x265-10bit.n2100470) • [🐱 Nyaa](https://nyaa.si/?q=KLATGY7GAF6VEX2INGYLMQ22GKP5R4WH) |
+| `[NH] Frieren: Beyond Journey's End - Season 2 (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nh-frieren-beyond-journeys-end-season-2-web.n2100466) • [🐱 Nyaa](https://nyaa.si/?q=CJNBUIFSO7EU2X7Y7RYEOOO7EFRBMY3B) |
+| `[Erai-raws] Meitantei Precure - 12 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-12-1080p-cr-webrip.n2100465) • [🐱 Nyaa](https://nyaa.si/?q=MGXADVADRHBSXXJID2NV32IDN4NOZGKH) |
+| `[Erai-raws] Meitantei Precure - 12 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-12-480p-cr-web.n2100464) • [🐱 Nyaa](https://nyaa.si/?q=O3WA4TF524ZCEFO7NCJKW5KYJPVNGLBI) |
+| `[Erai-raws] Meitantei Precure - 12 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-12-720p-cr-web.n2100463) • [🐱 Nyaa](https://nyaa.si/?q=6HSC6KVGG6WPR3OF5OGEQGJXJMLXOJVF) |
+| `[Erai-raws] Meitantei Precure - 12 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-12-1080p-cr-web.n2100462) • [🐱 Nyaa](https://nyaa.si/?q=BXJF6IPQ33KORMUXALMGEQB26JTBMQV5) |
+| `[ToonsHub] Star Detective Precure S01E12 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e12-1080p-cr-web.n2100459) • [🐱 Nyaa](https://nyaa.si/?q=FGH3C2DLJQJNMFX6AI6JUD6DWTAI6KTV) |
+| `[Seigyoku] Mahou no Shimai LuluttoLilly - 03 (WEB 1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/seigyoku-mahou-no-shimai-luluttolilly-03-web-1080p.k10484648267264) • [🐱 Nyaa](https://nyaa.si/?q=OTW5ABD6DASR5I4CUMMVUMV5UOAFCKKK) |
 | `[No0bSubs] Sentenced to Be a Hero~Yuusha-kei ni Shosu (10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-sentenced-hero-yuusha-kei-ni-shosu-1080p.n2100445) • [🐱 Nyaa](https://nyaa.si/?q=X6IUJ23IMTRZDY4IUNRZ65CQBY2D5M4N) |
 | `[No0bSubs] Yuusha-kei ni Shosu - Choubatsu Yuusha 9004-ta...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-yuusha-kei-ni-shosu-choubatsu-9004-tai.n2100444) • [🐱 Nyaa](https://nyaa.si/?q=ZY67VQ45CPTDCMPTFO4WJBP5RA7TV7AB) |
 | `[DKB] Dandelion - (Season 01) [1080p][HEVC x265 10bit][Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-dandelion-season-01-1080p-hevc-x265-10bit.n2100442) • [🐱 Nyaa](https://nyaa.si/?q=PGBHDCY6UEPGAEVLSZFVFVHQU4AWDSIU) |
-| `[No0bSubs] Jack-of-All-Trades Party of None (1080p AV1 Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-jack-all-trades-party-none-1080p-av1-dual-audio.n2100441) • [🐱 Nyaa](https://nyaa.si/?q=CSLFT67RII5JI5EDIUGXU3U745I4V6NJ) |
+| `[No0bSubs] Jack-of-All-Trades Party of None (1080p AV1 MU...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-jack-all-trades-party-none-1080p-av1.n2100441) • [🐱 Nyaa](https://nyaa.si/?q=CSLFT67RII5JI5EDIUGXU3U745I4V6NJ) |
 | `[No0bSubs] Yuusha Party wo Oidasareta Kiyoubinbou (1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-yuusha-party-wo-oidasareta-kiyoubinbou-1080p-av1.n2100440) • [🐱 Nyaa](https://nyaa.si/?q=H25YXKB3KY5HH324SXHCKAZQBQVGLOZE) |
 | `[No0bSubs] You Can't Be In a Rom-Com with Your Childhood ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-cant-rom-com-your-childhood-friends-1080p.n2100439) • [🐱 Nyaa](https://nyaa.si/?q=RWSQL2DYBPQBL6675555XHPWNVAT2JK4) |
 | `[No0bSubs] Osananajimi to wa Love Comedy ni Naranai (1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/no0bsubs-osananajimi-wa-love-comedy-ni-naranai-1080p.n2100438) • [🐱 Nyaa](https://nyaa.si/?q=XIMOQH3DFWVYCBKLLRMPYHHHDVJLEKUI) |
-| `[Kuraze] 雲界の迷宮ZEGUY / Mask of Zeguy (DVD H264 Hi10p AC3)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kuraze-zeguy-mask-zeguy-dvd-h264-hi10p-ac3.n2100434) • [🐱 Nyaa](https://nyaa.si/?q=UQYWNVQALVECNLGHSMT4FCX4TUJK3BUZ) |
-| `[Commie] Ace of the Diamond act II ~Second Season~ - 03 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-ace-diamond-act-ii-second-season-03-fc113d55-mkv.n2100431) • [🐱 Nyaa](https://nyaa.si/?q=JHWBDTLZAXTHO5VBPD4FU2HCZS3SNVRK) |
-| `[Feibanyama] Agents of the Four Seasons Dance of Spring S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-agents-four-seasons-dance-spring-s01e01-iqiyi.n2100429) • [🐱 Nyaa](https://nyaa.si/?q=B6AWO5A7SXD66YX3IDXAJ4C74PHL7CZR) |
-| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 3...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gjm-ascendance-bookworm-honzuki-no-gekokujou-37-s04e01.n2100423) • [🐱 Nyaa](https://nyaa.si/?q=5BQRVYDP627LSR52WSQWVBLN6J55G7RB) |
-| `[Erai-raws] One Piece - 1158 [1080p CR WEBRip HEVC AAC][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-1080p-cr-webrip.n2100418) • [🐱 Nyaa](https://nyaa.si/?q=7DTR3KAQ34B2TCBKRKEMHKHJ5YVTN6GY) |
-| `[Erai-raws] One Piece - 1158 [1080p CR WEB-DL AVC AAC][Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-1080p-cr-web.k10481702973195) • [🐱 Nyaa](https://nyaa.si/?q=2RZDRLV7R4XTZM2EQTZM47JE5YF3634T) |
-| `[Erai-raws] One Piece - 1158 [720p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-720p-cr-web.k10481702225415) • [🐱 Nyaa](https://nyaa.si/?q=GNWQXZUH6E4PASQIK4XWFUCGMHQMYFG6) |
-| `[Erai-raws] One Piece - 1158 [480p CR WEB-DL AVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1158-480p-cr-web.k10481701728514) • [🐱 Nyaa](https://nyaa.si/?q=MSO5IOKFJIB426ZED53Z6ZIOQVTZNJDC) |
 
 ---
 <div align="center">
