@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.43.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.44.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asakura-tensei-shitara-slime-datta-ken-4th-season.k10500719850765) • [🐱 Nyaa](https://nyaa.si/?q=CXHIDEZGU3NVMGA3LDS323MCDGPHMRND) |
+| `[Erai-raws] Liar Game - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-03-1080p-cr-webrip.k10500656852490) • [🐱 Nyaa](https://nyaa.si/?q=HNP43ZWNJ7EZK46B3KNWFOCJCO7BPDMT) |
+| `[Gecko] SHIBUYA♡HACHI - S00E01 (SHIBUYA♡HACHI; Shibuya♡Ha...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-shibuyahachi-s00e01-shibuyahachi-part-4-hachi-shibuya.n2100705) • [🐱 Nyaa](https://nyaa.si/?q=LXDTEML7RNPYZI322BYRGRVNFOUYZZOR) |
+| `[ToonsHub] Release that Witch S01E08 1080p CR WEB-DL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-release-witch-s01e08-1080p-cr-web-dl.k10500536482572) • [🐱 Nyaa](https://nyaa.si/?q=KLFKKGYCYUWG5V5Z52AL7ZVGR7BPDJXH) |
+| `[ASW] Release that Witch - 08 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-release-witch-08-1080p-hevc-x265-10bit-aac.n2100702) • [🐱 Nyaa](https://nyaa.si/?q=IC53O7ZBA7EAJBSDYZQFVMOYRCXBIIQ6) |
 | `[Onalrie] Release that Witch - S01E08 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-release-witch-s01e08-1080p-webrip-av1-mkv.2075661) • [🐱 Nyaa](https://nyaa.si/?q=G5FJ4VT6PUNWP2EFLQ3IVKL7Z3M4MX6H) |
 | `[ToonsHub] Scum of the Brave S01E14 1080p AMZN WEB-DL DDP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-scum-brave-s01e14-1080p-amzn-web-dl.k10500301907211) • [🐱 Nyaa](https://nyaa.si/?q=SB5DTUDZ24OLLQEOK6QA2R4OZ5QO775L) |
 | `[Raze] Tongari Boushi no Atelier - 04 x265 10bit 1080p 14...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-tongari-boushi-no-atelier-04-x265-10bit.n2100697) • [🐱 Nyaa](https://nyaa.si/?q=OMWZTUER4ND2RYE5J3LDXBSZTIO5DGCL) |
@@ -38,11 +43,6 @@
 | `[SubsPlease] Release that Witch - 08 (480p) [828F79BA].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-08-480p-828f79ba-mkv.n2100692) • [🐱 Nyaa](https://nyaa.si/?q=5XG6G75STPBZGJAMP6BHIGKMC3IXWSRD) |
 | `[Judas] Liar Game - S01E03 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e03-1080p-hevc-x265-10bit.n2100690) • [🐱 Nyaa](https://nyaa.si/?q=L4TESDH2LZNISKVLIV6N4ZXUWIA6OWEU) |
 | `[Erai-raws] Fangkai Nage Nuwu - 08 (CA) [480p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-08-ca-480p.n2100688) • [🐱 Nyaa](https://nyaa.si/?q=HYJM65ZUGBV3KBTLRDHVTRXJDDJHIMGO) |
-| `[Erai-raws] Fangkai Nage Nuwu - 08 (CA) [720p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-08-ca-720p.n2100687) • [🐱 Nyaa](https://nyaa.si/?q=HMNQZMNKV5MEALZYXIWK6SSWMNQQR6X2) |
-| `[Erai-raws] Fangkai Nage Nuwu - 08 (CA) [1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-08-ca-1080p.n2100686) • [🐱 Nyaa](https://nyaa.si/?q=A62ZV4OQS6DDQSBLGUJMTWFX4KSFUTZZ) |
-| `LIAR GAME S01E03 Resolution 1080p CR WEB-DL AAC2.0 H 264-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/liar-game-s01e03-resolution-1080p-cr-web-dl.n2100685) • [🐱 Nyaa](https://nyaa.si/?q=FJC6JF252V46UEMGAWZSJJMV2NT26BDC) |
-| `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2100684) • [🐱 Nyaa](https://nyaa.si/?q=UZZWA4TIAOICQH6FOPWGBPU2K25UCXZS) |
-| `[ASW] LIAR GAME - 03 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-liar-game-03-1080p-hevc-x265-10bit-aac.n2100680) • [🐱 Nyaa](https://nyaa.si/?q=W7RF2A4C46ODZ7JY6WCWSL3NO54RSUWL) |
 
 ---
 <div align="center">
