@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.48.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.55.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kurai] MAO - S01E02 (AMZN WEB-DL 1080p H.264 E-AC-3) [AB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kurai-mao-s01e02-amzn-web-dl-1080p-h.n2100757) • [🐱 Nyaa](https://nyaa.si/?q=WD5ILPPPRPERQDO2OGC7S5HJC4LKW75J) |
+| `[Sokudo] Re ZERO - Starting Life in Another World S04E02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-re-zero-starting-life-another-world-s04e02.n2100756) • [🐱 Nyaa](https://nyaa.si/?q=GKXUB7QNWK5QXXMWLX4WTUL3CK5SGONB) |
+| `[Breeze] Re ZERO - Starting Life in Another World S04E02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-re-zero-starting-life-another-world-s04e02.n2100755) • [🐱 Nyaa](https://nyaa.si/?q=KXSRXUAKJNKF3253VRI62IHNTFF4EBFO) |
+| `[Sokudo] Re ZERO - Starting Life in Another World S04E01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-re-zero-starting-life-another-world-s04e01.n2100754) • [🐱 Nyaa](https://nyaa.si/?q=L6GK64CGU6LGXNDAPL3VBZBEBAOUDAAK) |
+| `[Breeze] Re ZERO - Starting Life in Another World S04E01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-re-zero-starting-life-another-world-s04e01.n2100753) • [🐱 Nyaa](https://nyaa.si/?q=CMOHBZGJWWJY5EB3HCINB3C4QZHYDI3H) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.k10502514813704) • [🐱 Nyaa](https://nyaa.si/?q=OUPT4QE2AT6JVKLVSQRMGBEEEUND2S7Z) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [720p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.k10502514458380) • [🐱 Nyaa](https://nyaa.si/?q=272LN5CRDBOTEJ2QCBKA67RQ4LU3RJ4O) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [540p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.n2100750) • [🐱 Nyaa](https://nyaa.si/?q=KAZABLFEKY2KYMOTM55Q5K2IUQ3VRQJ5) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [720p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100749) • [🐱 Nyaa](https://nyaa.si/?q=7JZELOXJLT64AJML24GB6VBGNQROLXBK) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [540p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100748) • [🐱 Nyaa](https://nyaa.si/?q=2WRGMBKZGKTTBVT7ZZDZ7LV5HQXVAYW4) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100747) • [🐱 Nyaa](https://nyaa.si/?q=QRJ222PQVP3CN5YYDNU6OY2OOTDINFLC) |
 | `[Erai-raws] Fangkai Nage Nuwu - 08 (CA) [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-08-ca-1080p.n2100717) • [🐱 Nyaa](https://nyaa.si/?q=P6SFKHHYBHZ2LCPGQURV44MBX3IQGFOP) |
 | `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asakura-tensei-shitara-slime-datta-ken-4th-season.k10500719850765) • [🐱 Nyaa](https://nyaa.si/?q=CXHIDEZGU3NVMGA3LDS323MCDGPHMRND) |
 | `[Erai-raws] Liar Game - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-03-1080p-cr-webrip.k10500656852490) • [🐱 Nyaa](https://nyaa.si/?q=HNP43ZWNJ7EZK46B3KNWFOCJCO7BPDMT) |
 | `[Gecko] SHIBUYA♡HACHI - S00E01 (SHIBUYA♡HACHI; Shibuya♡Ha...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-shibuyahachi-s00e01-shibuyahachi-part-4-hachi-shibuya.n2100705) • [🐱 Nyaa](https://nyaa.si/?q=LXDTEML7RNPYZI322BYRGRVNFOUYZZOR) |
-| `[ToonsHub] Release that Witch S01E08 1080p CR WEB-DL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-release-witch-s01e08-1080p-cr-web-dl.k10500536482572) • [🐱 Nyaa](https://nyaa.si/?q=KLFKKGYCYUWG5V5Z52AL7ZVGR7BPDJXH) |
-| `[ASW] Release that Witch - 08 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-release-witch-08-1080p-hevc-x265-10bit-aac.n2100702) • [🐱 Nyaa](https://nyaa.si/?q=IC53O7ZBA7EAJBSDYZQFVMOYRCXBIIQ6) |
-| `[Onalrie] Release that Witch - S01E08 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-release-witch-s01e08-1080p-webrip-av1-mkv.2075661) • [🐱 Nyaa](https://nyaa.si/?q=G5FJ4VT6PUNWP2EFLQ3IVKL7Z3M4MX6H) |
-| `[ToonsHub] Scum of the Brave S01E14 1080p AMZN WEB-DL DDP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-scum-brave-s01e14-1080p-amzn-web-dl.k10500301907211) • [🐱 Nyaa](https://nyaa.si/?q=SB5DTUDZ24OLLQEOK6QA2R4OZ5QO775L) |
-| `[Raze] Tongari Boushi no Atelier - 04 x265 10bit 1080p 14...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-tongari-boushi-no-atelier-04-x265-10bit.n2100697) • [🐱 Nyaa](https://nyaa.si/?q=OMWZTUER4ND2RYE5J3LDXBSZTIO5DGCL) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.k10499883864074) • [🐱 Nyaa](https://nyaa.si/?q=7JT25MLMP2XO6GDVBNHFX5YKJUSDGCRR) |
-| `Release that Witch S01E08 1080p CR WEB-DL AAC2.0 H 264-VA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/release-witch-s01e08-1080p-cr-web-dl-aac2.n2100695) • [🐱 Nyaa](https://nyaa.si/?q=VQSBT3TEPYL6ADAFA6NJWBRV5PFIHFA3) |
-| `[SubsPlease] Release that Witch - 08 (1080p) [95531FB6].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-08-1080p-95531fb6-mkv.n2100694) • [🐱 Nyaa](https://nyaa.si/?q=2TOUDQACE4UTKC5B7PE5HFIEE4F6HQPY) |
-| `[SubsPlease] Release that Witch - 08 (720p) [5879371A].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-08-720p-5879371a-mkv.n2100693) • [🐱 Nyaa](https://nyaa.si/?q=WPC6CPBGA3IRGSV45MP3EOAPRFD5CX44) |
-| `[SubsPlease] Release that Witch - 08 (480p) [828F79BA].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-08-480p-828f79ba-mkv.n2100692) • [🐱 Nyaa](https://nyaa.si/?q=5XG6G75STPBZGJAMP6BHIGKMC3IXWSRD) |
-| `[Judas] Liar Game - S01E03 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e03-1080p-hevc-x265-10bit.n2100690) • [🐱 Nyaa](https://nyaa.si/?q=L4TESDH2LZNISKVLIV6N4ZXUWIA6OWEU) |
 
 ---
 <div align="center">
