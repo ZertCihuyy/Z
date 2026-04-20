@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.28.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.19.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[denisplay] Detective Conan Movie 19 - The Hellfire Sunfl...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-detective-conan-movie-19-hellfire-sunflowers-2015.n2100517) • [🐱 Nyaa](https://nyaa.si/?q=BBV2KSQP32SVREHMKDVRQUBMDDDUVLM3) |
 | `Kinnikuman Nisei BATCH 01 (Episodes 1-4)  DUAL SUBS: ENGL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kinnikuman-nisei-batch-01-episodes-1-4-dual.n2100509) • [🐱 Nyaa](https://nyaa.si/?q=ZCI2OD4BVUTNJRPZ7SJWKG6FQD52RD32) |
 | `[denisplay] Detective Conan Movie 19 - The Hellfire Sunfl...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/denisplay-detective-conan-movie-19-hellfire-sunflowers-2015.n2100508) • [🐱 Nyaa](https://nyaa.si/?q=77RGNKNDJ4LK3IJUOMSFETUT32WQXZEY) |
 | `[BlackRabbit] Tsugumomo (2017) - S02 [Bluray-1080p][Opus ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tsugumomo-2017-s02-bluray-1080p-opus-2.k10490664079104) • [🐱 Nyaa](https://nyaa.si/?q=BCE7PIX2EABSQVUXDXLPMYH6AJ535RD7) |
@@ -42,7 +43,6 @@
 | `[NH] Frieren: Beyond Journey's End - Season 2 (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nh-frieren-beyond-journeys-end-season-2-web.n2100466) • [🐱 Nyaa](https://nyaa.si/?q=CJNBUIFSO7EU2X7Y7RYEOOO7EFRBMY3B) |
 | `[Erai-raws] Meitantei Precure - 12 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-12-1080p-cr-webrip.n2100465) • [🐱 Nyaa](https://nyaa.si/?q=MGXADVADRHBSXXJID2NV32IDN4NOZGKH) |
 | `[Erai-raws] Meitantei Precure - 12 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-12-480p-cr-web.n2100464) • [🐱 Nyaa](https://nyaa.si/?q=O3WA4TF524ZCEFO7NCJKW5KYJPVNGLBI) |
-| `[Erai-raws] Meitantei Precure - 12 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-12-720p-cr-web.n2100463) • [🐱 Nyaa](https://nyaa.si/?q=6HSC6KVGG6WPR3OF5OGEQGJXJMLXOJVF) |
 
 ---
 <div align="center">
