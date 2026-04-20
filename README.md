@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.51.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.50.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Medalist S02E09 It Begins 1080p DSNP WEB-DL MULTi AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/medalist-s02e09-begins-1080p-dsnp-web-dl-multi.n2100781) • [🐱 Nyaa](https://nyaa.si/?q=B7NR4BVPEOHM7A3CVDVLLO65SW4QHHZ3) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.n2100779) • [🐱 Nyaa](https://nyaa.si/?q=JJ5R5TKBQGL2RONEUK4YUWB47J3WVJXA) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100778) • [🐱 Nyaa](https://nyaa.si/?q=7O24WBVDZRZAYFWKOBSFPQO574T7N7DO) |
 | `[knyf1e] My Hero Academia Vigilantes S02 1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/knyf1e-my-hero-academia-vigilantes-s02-1080p-cr.k10505061711115) • [🐱 Nyaa](https://nyaa.si/?q=Z3WAOG62VTRIZTOCKCKO4PXQLTP5O46N) |
 | `[ToonsHub] Golden Kamuy S05E13 1080p AMZN WEB-DL DDP2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e13-1080p-amzn-web-dl.k10504743414786) • [🐱 Nyaa](https://nyaa.si/?q=V2A7V7A25XGLOFRF3KV4M3GPVHR2MPMN) |
 | `[Judas] Otonari no Tenshi-sama ni Itsunomanika Dame Ninge...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2100769) • [🐱 Nyaa](https://nyaa.si/?q=2G5QWLFS2JEJCMN2T7L4IXUCLYI2E6ZW) |
@@ -40,9 +43,6 @@
 | `[Breeze] Re ZERO - Starting Life in Another World S04E02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-re-zero-starting-life-another-world-s04e02.n2100755) • [🐱 Nyaa](https://nyaa.si/?q=KXSRXUAKJNKF3253VRI62IHNTFF4EBFO) |
 | `[Sokudo] Re ZERO - Starting Life in Another World S04E01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-re-zero-starting-life-another-world-s04e01.n2100754) • [🐱 Nyaa](https://nyaa.si/?q=L6GK64CGU6LGXNDAPL3VBZBEBAOUDAAK) |
 | `[Breeze] Re ZERO - Starting Life in Another World S04E01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-re-zero-starting-life-another-world-s04e01.n2100753) • [🐱 Nyaa](https://nyaa.si/?q=CMOHBZGJWWJY5EB3HCINB3C4QZHYDI3H) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.k10502514813704) • [🐱 Nyaa](https://nyaa.si/?q=OUPT4QE2AT6JVKLVSQRMGBEEEUND2S7Z) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [720p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.k10502514458380) • [🐱 Nyaa](https://nyaa.si/?q=272LN5CRDBOTEJ2QCBKA67RQ4LU3RJ4O) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [540p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.n2100750) • [🐱 Nyaa](https://nyaa.si/?q=KAZABLFEKY2KYMOTM55Q5K2IUQ3VRQJ5) |
 
 ---
 <div align="center">
