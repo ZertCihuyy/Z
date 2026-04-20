@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.53.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.51.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[knyf1e] My Hero Academia Vigilantes S02 1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/knyf1e-my-hero-academia-vigilantes-s02-1080p-cr.k10505061711115) • [🐱 Nyaa](https://nyaa.si/?q=Z3WAOG62VTRIZTOCKCKO4PXQLTP5O46N) |
+| `[ToonsHub] Golden Kamuy S05E13 1080p AMZN WEB-DL DDP2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e13-1080p-amzn-web-dl.k10504743414786) • [🐱 Nyaa](https://nyaa.si/?q=V2A7V7A25XGLOFRF3KV4M3GPVHR2MPMN) |
+| `[Judas] Otonari no Tenshi-sama ni Itsunomanika Dame Ninge...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2100769) • [🐱 Nyaa](https://nyaa.si/?q=2G5QWLFS2JEJCMN2T7L4IXUCLYI2E6ZW) |
 | `[knyf1e] Hell's Paradise S02 1080p CR WEBRip DUAL Opus 2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/knyf1e-hells-paradise-s02-1080p-cr-webrip-dual.k10504211572490) • [🐱 Nyaa](https://nyaa.si/?q=DFOYKAUYGXALD7BZ3NHQQGLGVKV3FMCL) |
 | `[HatSubs] One Piece 1158 (WEB 1080p) [AA4A1ACB].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-1158-web-1080p-aa4a1acb-mkv.n2100768) • [🐱 Nyaa](https://nyaa.si/?q=ISDF24PEG5SPGV7VLCHVPHT5MQWT7E77) |
 | `Hells Paradise S02 1080p CR WEB-DL MULTi AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hells-paradise-s02-1080p-cr-web-dl-multi.n2100767) • [🐱 Nyaa](https://nyaa.si/?q=XIDK2WBYAYCH6CWWJHFVNHYAX3Y26565) |
@@ -40,9 +43,6 @@
 | `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.k10502514813704) • [🐱 Nyaa](https://nyaa.si/?q=OUPT4QE2AT6JVKLVSQRMGBEEEUND2S7Z) |
 | `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [720p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.k10502514458380) • [🐱 Nyaa](https://nyaa.si/?q=272LN5CRDBOTEJ2QCBKA67RQ4LU3RJ4O) |
 | `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [540p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.n2100750) • [🐱 Nyaa](https://nyaa.si/?q=KAZABLFEKY2KYMOTM55Q5K2IUQ3VRQJ5) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [720p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100749) • [🐱 Nyaa](https://nyaa.si/?q=7JZELOXJLT64AJML24GB6VBGNQROLXBK) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [540p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100748) • [🐱 Nyaa](https://nyaa.si/?q=2WRGMBKZGKTTBVT7ZZDZ7LV5HQXVAYW4) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100747) • [🐱 Nyaa](https://nyaa.si/?q=QRJ222PQVP3CN5YYDNU6OY2OOTDINFLC) |
 
 ---
 <div align="center">
