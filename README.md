@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.44.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.48.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Fangkai Nage Nuwu - 08 (CA) [1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-08-ca-1080p.n2100717) • [🐱 Nyaa](https://nyaa.si/?q=P6SFKHHYBHZ2LCPGQURV44MBX3IQGFOP) |
 | `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asakura-tensei-shitara-slime-datta-ken-4th-season.k10500719850765) • [🐱 Nyaa](https://nyaa.si/?q=CXHIDEZGU3NVMGA3LDS323MCDGPHMRND) |
 | `[Erai-raws] Liar Game - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-03-1080p-cr-webrip.k10500656852490) • [🐱 Nyaa](https://nyaa.si/?q=HNP43ZWNJ7EZK46B3KNWFOCJCO7BPDMT) |
 | `[Gecko] SHIBUYA♡HACHI - S00E01 (SHIBUYA♡HACHI; Shibuya♡Ha...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-shibuyahachi-s00e01-shibuyahachi-part-4-hachi-shibuya.n2100705) • [🐱 Nyaa](https://nyaa.si/?q=LXDTEML7RNPYZI322BYRGRVNFOUYZZOR) |
@@ -42,7 +43,6 @@
 | `[SubsPlease] Release that Witch - 08 (720p) [5879371A].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-08-720p-5879371a-mkv.n2100693) • [🐱 Nyaa](https://nyaa.si/?q=WPC6CPBGA3IRGSV45MP3EOAPRFD5CX44) |
 | `[SubsPlease] Release that Witch - 08 (480p) [828F79BA].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-release-witch-08-480p-828f79ba-mkv.n2100692) • [🐱 Nyaa](https://nyaa.si/?q=5XG6G75STPBZGJAMP6BHIGKMC3IXWSRD) |
 | `[Judas] Liar Game - S01E03 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e03-1080p-hevc-x265-10bit.n2100690) • [🐱 Nyaa](https://nyaa.si/?q=L4TESDH2LZNISKVLIV6N4ZXUWIA6OWEU) |
-| `[Erai-raws] Fangkai Nage Nuwu - 08 (CA) [480p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-fangkai-nage-nuwu-08-ca-480p.n2100688) • [🐱 Nyaa](https://nyaa.si/?q=HYJM65ZUGBV3KBTLRDHVTRXJDDJHIMGO) |
 
 ---
 <div align="center">
