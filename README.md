@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.46.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.01.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,8 +28,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Rilakkuma - S01E03 (リラックマ) [CTHP.WEB-DL 1080P AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-rilakkuma-s01e03-cthp-web-dl-1080p-avc.k10516598948105) • [🐱 Nyaa](https://nyaa.si/?q=MZJP5UUO2X7N26Q5UB3OKAM2XEEFRYC7) |
+| `[ace] NIPPON SANGOKU The Three Nations of the Crimson Sun...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-nippon-sangoku-three-nations-crimson-sun-s01e01.k10516236000777) • [🐱 Nyaa](https://nyaa.si/?q=YRLV222Z4NB43NEWGOEAZCU35C5CD6KC) |
 | `[LG] Fate Kaleid Liner Prisma Illya (2013) S00E06 - Dance...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lg-fate-kaleid-liner-prisma-illya-2013-s00e06.k10516079492360) • [🐱 Nyaa](https://nyaa.si/?q=2NK7KF6FQKBJZ3TXXJ3ETUXQGIO3JZCI) |
 | `[BlackRabbit] Tsugumomo (2017) - S00 [WEBDL-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tsugumomo-2017-s00-webdl-1080p-opus-2.k10515671188229) • [🐱 Nyaa](https://nyaa.si/?q=YXPFG4JMDSW4MLI2B4FJFGRNWYCDJIAY) |
+| `[Mangamannn] Slayers - 064-089 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-064-089-480i-dvd.k10515521532168) • [🐱 Nyaa](https://nyaa.si/?q=ZG6UHCTNODYSXMZOWB76FONRGGLZXMHP) |
+| `[Mangamannn] Slayers Premium 2001 - 063 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-premium-2001-063-480i-dvd.k10515492630275) • [🐱 Nyaa](https://nyaa.si/?q=RRP37SCYUASOCVZVWYE4ETMP6DJAYVKH) |
 | `[Mangamannn] Slayers - 037-062 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-037-062-480i-dvd.k10515472711428) • [🐱 Nyaa](https://nyaa.si/?q=YW4J5QDX66WBRIQI6EKYTPVI7PZ3NDZQ) |
 | `[Mangamannn] Slayers - 011-036 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-011-036-480i-dvd.k10515447854343) • [🐱 Nyaa](https://nyaa.si/?q=XRTTBGDKFGKVLJC7PZIOL6INLPRT7XS3) |
 | `[Mangamannn] Slayers Gorgeous 1998 - 010 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-gorgeous-1998-010-480i-dvd.k10515418199821) • [🐱 Nyaa](https://nyaa.si/?q=LTKGSEYPRQGZCCSGSQ7L5WTZJJNJ5476) |
@@ -39,10 +43,6 @@
 | `[Mangamannn] Slayers Return 1996 - 002 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-return-1996-002-480i-dvd.k10515302889733) • [🐱 Nyaa](https://nyaa.si/?q=NANZZ52Q6FW2O7BHVYWN4JENCTZXY2P2) |
 | `[Mangamannn] Slayers The Motion Picture 1995 - 001 (480i ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-motion-picture-1995-001-480i-dvd.k10515255094276) • [🐱 Nyaa](https://nyaa.si/?q=LDCXVILBJYVW53DAHBXJLUGWUMRCMY4E) |
 | `[Lazyleido-Mini] DIGIMON BEATBREAK - 27 (S01E27) - (WEB 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-mini-digimon-beatbreak-27-s01e27-web-1080p.n2100849) • [🐱 Nyaa](https://nyaa.si/?q=GQMYYJLP4WJ6PIWMESMMEQPGU7PFXFLB) |
-| `[Lazyleido] DIGIMON BEATBREAK - 27 (S01E27) - (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-digimon-beatbreak-27-s01e27-web-1080p-hevc.n2100848) • [🐱 Nyaa](https://nyaa.si/?q=7YVAOBTTVI4J2X3DQCX7G7WFVZCINYR6) |
-| `[Mehul] Link Click S00E01 - Marrying by Contesting (BD Re...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mehul-link-click-s00e01-marrying-contesting-bd-remux.n2100842) • [🐱 Nyaa](https://nyaa.si/?q=PQNPHUFC2TG7ENZCOGJTUQHA4AH6Z3EI) |
-| `[Mehul] Link Click S01 (BD Remux 1080p AVC FLAC) [Dual-Au...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mehul-link-click-s01-bd-remux-1080p-avc.n2100841) • [🐱 Nyaa](https://nyaa.si/?q=6G454IKIA3NH2MLUAX3P73DYOI5JZ2YP) |
-| `[Mo7tas] Dandelion [1080p] [Multi language subs]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-dandelion-1080p-multi-language-subs.n2100831) • [🐱 Nyaa](https://nyaa.si/?q=NGVLISJF7KOOAWBAM5A7CRFNWQCJEKHB) |
 
 ---
 <div align="center">
