@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.44.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.43.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Aishiteru Game wo Owarasetai - 02 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-aishiteru-game-wo-owarasetai-02-1080p.k10520614736643) • [🐱 Nyaa](https://nyaa.si/?q=CBWYYYWM4NSSOU73VI4IK6SBB5YFIPOO) |
-| `[Onalrie] Aishiteru Game wo Owarasetai - S01E02 [1080p WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-aishiteru-game-wo-owarasetai-s01e02-1080p-webrip-av1.2075857) • [🐱 Nyaa](https://nyaa.si/?q=WHP6C7BZZLJTBEOE5FONPYQCMEHPLSCC) |
-| `[Judas] MARRIAGETOXIN - S01E03 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-marriagetoxin-s01e03-1080p-hevc-x265-10bit-multi-subs.n2101001) • [🐱 Nyaa](https://nyaa.si/?q=742WMKPG3MDVOW2JZ63RV2LKDPQ7JV2P) |
-| `[ASW] Replica datte, Koi wo Suru. - 03 [1080p HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-replica-datte-koi-wo-suru-03-1080p.n2101000) • [🐱 Nyaa](https://nyaa.si/?q=I4A452MYXQA5IVZY752O66JUWN2IQCBJ) |
-| `[ToonsHub] The Most Heretical Last Boss Queen From Villai...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-most-heretical-last-boss-queen-from-villainess.k10520338768394) • [🐱 Nyaa](https://nyaa.si/?q=SNOBXULT6KNFHR6CLWAOWJUCHORMC53X) |
-| `[ToonsHub] MARRIAGETOXIN S01E01 1080p CR WEB-DL DUAL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-marriagetoxin-s01e01-1080p-cr-web-dl-dual.k10520166583041) • [🐱 Nyaa](https://nyaa.si/?q=XA4KAUXBXB7YZKWGRKD37K6XQFYWE42P) |
-| `[ToonsHub] Marriagetoxin S01E03 1080p NF WEB-DL AAC2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-marriagetoxin-s01e03-1080p-nf-web-dl-aac2.k10520158049024) • [🐱 Nyaa](https://nyaa.si/?q=FBYR5DDNDE6U7YP7NGBWVINIJAKKIPGM) |
-| `[ToonsHub] I Want to End this Love Game S01E02 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-want-end-love-game-s01e02-1080p-cr.k10520147217158) • [🐱 Nyaa](https://nyaa.si/?q=O4XVQMGLZ3ZAKILKGVCVZHCAKJK62K3Q) |
-| `[ToonsHub] I Made Friends with the Second Prettiest Girl ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-made-friends-second-prettiest-girl-my-class.n2100990) • [🐱 Nyaa](https://nyaa.si/?q=4ACRJGQR6P5DPDEUSMI46NFGJFPUDFCB) |
-| `[SubsPlease] Class de 2-banme ni Kawaii Onnanoko to Tomod...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-class-de-2-banme-ni-kawaii-onnanoko.n2100989) • [🐱 Nyaa](https://nyaa.si/?q=N5YEUMWN22IAULAHMICI2OZ34SW3NE3H) |
-| `I Made Friends with the Second Prettiest Girl in My Class...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/made-friends-second-prettiest-girl-my-class-s01e03.n2100987) • [🐱 Nyaa](https://nyaa.si/?q=RLMKFQJYI4L63O4G5LQLGB3NDJWD5LLV) |
-| `[SubsPlease] Class de 2-banme ni Kawaii Onnanoko to Tomod...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-class-de-2-banme-ni-kawaii-onnanoko.n2100985) • [🐱 Nyaa](https://nyaa.si/?q=QSYGJ325LRE5AYT5GQRDT6XLMYHOALMC) |
-| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomoda...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-class-de-2-banme-ni-kawaii.k10520084056578) • [🐱 Nyaa](https://nyaa.si/?q=ARASLWNBYXQNGQD5EG2SHZ6B7G5CRFRE) |
-| `[SubsPlease] Class de 2-banme ni Kawaii Onnanoko to Tomod...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-class-de-2-banme-ni-kawaii-onnanoko.n2100980) • [🐱 Nyaa](https://nyaa.si/?q=C4JG6ZUNSLY6INRI24NOHESXYGZQA7XG) |
-| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomoda...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-class-de-2-banme-ni-kawaii.k10520081904136) • [🐱 Nyaa](https://nyaa.si/?q=E5HLS2353GFNYOVDKTTJRQEWRKRJIKBX) |
+| `[Ironclad] The Most Heretical Last Boss Queen: From Villa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-most-heretical-last-boss-queen-from-villainess.k10521366439427) • [🐱 Nyaa](https://nyaa.si/?q=IQGCNS2YX2H6C24M5OYP4VEHWSO7FQXU) |
+| `[Onalrie] MARRIAGETOXIN - S01E03 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-marriagetoxin-s01e03-1080p-webrip-av1-mkv.2075871) • [🐱 Nyaa](https://nyaa.si/?q=AXMA7ZL7IJ4NLVKW7W2JE3AQ2C2LEQC3) |
+| `[DKB] Marriagetoxin - S01E03 [1080p][HEVC x265 10bit][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-marriagetoxin-s01e03-1080p-hevc-x265-10bit-multi-subs.n2101041) • [🐱 Nyaa](https://nyaa.si/?q=YLOPRA26QFQJEE55AS4AA6LYEXZNUTSZ) |
+| `MARRIAGETOXIN S01E03 My First 1080p CR WEB-DL AAC2.0 H 26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/marriagetoxin-s01e03-my-first-1080p-cr-web-dl.n2101039) • [🐱 Nyaa](https://nyaa.si/?q=AP3FEVDYQFCNPKHOWOIHTBLQK33ZTS3W) |
+| `[ASW] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-class-de-2-banme-ni-kawaii-onnanoko.n2101037) • [🐱 Nyaa](https://nyaa.si/?q=MAWRKTPHFMEGU2JIMK3EM5BR7DBTLQCJ) |
+| `[Judas] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-class-de-2-banme-ni-kawaii-onnanoko.n2101034) • [🐱 Nyaa](https://nyaa.si/?q=G4GWTHRRF5N6MMZM3VIOT4OUPWAORULI) |
+| `Eren the Southpaw S01E03 Episode 3 All Ive Got Is Guts Af...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/eren-southpaw-s01e03-episode-3-all-ive-got.n2101033) • [🐱 Nyaa](https://nyaa.si/?q=7R747L42AFMQTVLPCE6H3BBXOS4VNQVD) |
+| `[ToonsHub] Eren the Southpaw S01E03 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-eren-southpaw-s01e03-1080p-cr-web-dl.k10521027823624) • [🐱 Nyaa](https://nyaa.si/?q=OSF3CU5UINE2QV4NDYWJQKLTENL5QQZB) |
+| `[SubsPlease] Hidarikiki no Eren - 03 (1080p) [89B40BD6].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hidarikiki-no-eren-03-1080p-89b40bd6-mkv.n2101030) • [🐱 Nyaa](https://nyaa.si/?q=CR3RF4NIOSGNDAT7AMELR637MZKTCL54) |
+| `[SubsPlease] Hidarikiki no Eren - 03 (720p) [30393571].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hidarikiki-no-eren-03-720p-30393571-mkv.n2101029) • [🐱 Nyaa](https://nyaa.si/?q=D7VHZ3NRO3IRYCV6VCVRFODBZILPJ57N) |
+| `[SubsPlease] Hidarikiki no Eren - 03 (480p) [533CE517].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hidarikiki-no-eren-03-480p-533ce517-mkv.n2101028) • [🐱 Nyaa](https://nyaa.si/?q=WT54HQGD44EZV6QN5WFMWMRVXZC26BOM) |
+| `[ASW] Aishiteru Game wo Owarasetai - 02 [1080p HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-aishiteru-game-wo-owarasetai-02-1080p-hevc.n2101025) • [🐱 Nyaa](https://nyaa.si/?q=745FVEUS2RJSBJ4TTGQREVPLFGQWZXV6) |
+| `[Erai-raws] Hidarikiki no Eren - 03 [480p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-03-480p-cr.k10521006983687) • [🐱 Nyaa](https://nyaa.si/?q=67B6YWSPUR4BBM4RMFQX3CHFGWXHAARA) |
+| `[Erai-raws] Hidarikiki no Eren - 03 [720p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-03-720p-cr.k10521005025285) • [🐱 Nyaa](https://nyaa.si/?q=ISLMZF7PCWBW2CTZW6TNOBX5PNHRRZ5V) |
+| `[Erai-raws] Hidarikiki no Eren - 03 [1080p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-03-1080p-cr.n2101019) • [🐱 Nyaa](https://nyaa.si/?q=42XTWBDN2F6KFUJAYP6IPP3N4VMC6K6F) |
 
 ---
 <div align="center">
