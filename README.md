@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.39.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.15.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Mo7tas] Dandelion [1080p] [Multi language subs]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-dandelion-1080p-multi-language-subs.n2100831) • [🐱 Nyaa](https://nyaa.si/?q=NGVLISJF7KOOAWBAM5A7CRFNWQCJEKHB) |
 | `[LbE3L] My Status as an Assassin Obviously Exceeds the He...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-my-status-assassin-obviously-exceeds-heros-s01.k10511384928002) • [🐱 Nyaa](https://nyaa.si/?q=MLJXB5YEIVLJFXN6FX36M2ZD4Q7QDCL4) |
 | `[ToonsHub] Medalist S02E09 1080p DSNP WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-medalist-s02e09-1080p-dsnp-web-dl-dual.k10511373536257) • [🐱 Nyaa](https://nyaa.si/?q=UL54ZAISFRWKZJWKYZKI5ADGR7FMGBCO) |
 | `[LbE3L] [H.266] Sentenced to Be a Hero S01E12 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-sentenced-hero-s01e12-1080p-cr.k10511319092491) • [🐱 Nyaa](https://nyaa.si/?q=25DMEZ3NYTVTWJD6LBCBHBUEZ3YJAWS6) |
@@ -42,7 +43,6 @@
 | `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100778) • [🐱 Nyaa](https://nyaa.si/?q=7O24WBVDZRZAYFWKOBSFPQO574T7N7DO) |
 | `[knyf1e] My Hero Academia Vigilantes S02 1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/knyf1e-my-hero-academia-vigilantes-s02-1080p-cr.k10505061711115) • [🐱 Nyaa](https://nyaa.si/?q=Z3WAOG62VTRIZTOCKCKO4PXQLTP5O46N) |
 | `[ToonsHub] Golden Kamuy S05E13 1080p AMZN WEB-DL DDP2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e13-1080p-amzn-web-dl.k10504743414786) • [🐱 Nyaa](https://nyaa.si/?q=V2A7V7A25XGLOFRF3KV4M3GPVHR2MPMN) |
-| `[Judas] Otonari no Tenshi-sama ni Itsunomanika Dame Ninge...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2100769) • [🐱 Nyaa](https://nyaa.si/?q=2G5QWLFS2JEJCMN2T7L4IXUCLYI2E6ZW) |
 
 ---
 <div align="center">
