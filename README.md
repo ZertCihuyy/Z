@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.01.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.10.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlus+] Lastame - S02E03 (ADN WEB-DL 1080p AVC AAC) |...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-lastame-s02e03-adn-web-dl-1080p-avc.k10519053698062) • [🐱 Nyaa](https://nyaa.si/?q=TZTQ5FXNTAECFUUHWTQ3U6UUUMGPQMRK) |
+| `[Judas] Aishiteru Game o Owarasetai (I Want to End This L...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-aishiteru-game-o-owarasetai-want-end-love.n2100917) • [🐱 Nyaa](https://nyaa.si/?q=5BIZW2GA73AGW425B2JOHUFNE7D5OW6Z) |
+| `The Most Heretical Last Boss Queen From Villainess to Sav...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/most-heretical-last-boss-queen-from-villainess-savior.n2100916) • [🐱 Nyaa](https://nyaa.si/?q=XQ2JTDUOAIK7MYNB5RZKQZBABS74CLSG) |
+| `[ToonsHub] The Most Heretical Last Boss Queen From Villai...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-most-heretical-last-boss-queen-from-villainess.k10518738006784) • [🐱 Nyaa](https://nyaa.si/?q=PKDI4QKEJATNN256TSR4QLILNMTTS2T7) |
+| `[SubsPlease] LasTame S2 - 03 (1080p) [CB059671].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-03-1080p-cb059671-mkv.n2100914) • [🐱 Nyaa](https://nyaa.si/?q=QIY5AEYPL7DLB56WOYCHY25WYPNMF6GA) |
+| `[SubsPlease] LasTame S2 - 03 (720p) [2B55B21F].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-03-720p-2b55b21f-mkv.n2100913) • [🐱 Nyaa](https://nyaa.si/?q=XA6DGVH6XPBVXYEB47BFWDRBTONQ653D) |
+| `[SubsPlease] LasTame S2 - 03 (480p) [B81DBFFC].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-03-480p-b81dbffc-mkv.n2100912) • [🐱 Nyaa](https://nyaa.si/?q=HBUYMQQEOHPNKYKSPLXQCBKFLDG5QZ7U) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10518720725519) • [🐱 Nyaa](https://nyaa.si/?q=HVMBQQ6IJ25WBLKD2ZXZ7GRYORYXA3UA) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10518719385869) • [🐱 Nyaa](https://nyaa.si/?q=ZOYP7UPLM66M2N7WBUPTVT6GIH4BXNCF) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10518716926478) • [🐱 Nyaa](https://nyaa.si/?q=G7O6GQFETUWHUSCG55HWYD5CBCDZJWYA) |
+| `[Gecko] Hyakki Yakoushou - S01E03 (百鬼夜行抄; Beyond Twilight...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hyakki-yakoushou-s01e03-beyond-twilight-ytb-web.k10518516197132) • [🐱 Nyaa](https://nyaa.si/?q=2GF4JKNZNFV7VFQIBOZQBNQ7ADSDU5EQ) |
+| `[ToonsHub] Hyakki Yakoushou S01E03 1080p AMZN WEB-DL DDP2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hyakki-yakoushou-s01e03-1080p-amzn-web-dl.k10518340189188) • [🐱 Nyaa](https://nyaa.si/?q=XNTAOQ2SCTGL2LEKISMRVMC3NH3QIOTB) |
 | `[Gecko] Rilakkuma - S01E03 (リラックマ) [CTHP.WEB-DL 1080P AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-rilakkuma-s01e03-cthp-web-dl-1080p-avc.k10516598948105) • [🐱 Nyaa](https://nyaa.si/?q=MZJP5UUO2X7N26Q5UB3OKAM2XEEFRYC7) |
 | `[ace] NIPPON SANGOKU The Three Nations of the Crimson Sun...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-nippon-sangoku-three-nations-crimson-sun-s01e01.k10516236000777) • [🐱 Nyaa](https://nyaa.si/?q=YRLV222Z4NB43NEWGOEAZCU35C5CD6KC) |
 | `[LG] Fate Kaleid Liner Prisma Illya (2013) S00E06 - Dance...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lg-fate-kaleid-liner-prisma-illya-2013-s00e06.k10516079492360) • [🐱 Nyaa](https://nyaa.si/?q=2NK7KF6FQKBJZ3TXXJ3ETUXQGIO3JZCI) |
-| `[BlackRabbit] Tsugumomo (2017) - S00 [WEBDL-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tsugumomo-2017-s00-webdl-1080p-opus-2.k10515671188229) • [🐱 Nyaa](https://nyaa.si/?q=YXPFG4JMDSW4MLI2B4FJFGRNWYCDJIAY) |
-| `[Mangamannn] Slayers - 064-089 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-064-089-480i-dvd.k10515521532168) • [🐱 Nyaa](https://nyaa.si/?q=ZG6UHCTNODYSXMZOWB76FONRGGLZXMHP) |
-| `[Mangamannn] Slayers Premium 2001 - 063 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-premium-2001-063-480i-dvd.k10515492630275) • [🐱 Nyaa](https://nyaa.si/?q=RRP37SCYUASOCVZVWYE4ETMP6DJAYVKH) |
-| `[Mangamannn] Slayers - 037-062 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-037-062-480i-dvd.k10515472711428) • [🐱 Nyaa](https://nyaa.si/?q=YW4J5QDX66WBRIQI6EKYTPVI7PZ3NDZQ) |
-| `[Mangamannn] Slayers - 011-036 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-011-036-480i-dvd.k10515447854343) • [🐱 Nyaa](https://nyaa.si/?q=XRTTBGDKFGKVLJC7PZIOL6INLPRT7XS3) |
-| `[Mangamannn] Slayers Gorgeous 1998 - 010 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-gorgeous-1998-010-480i-dvd.k10515418199821) • [🐱 Nyaa](https://nyaa.si/?q=LTKGSEYPRQGZCCSGSQ7L5WTZJJNJ5476) |
-| `[Mangamannn] Slayers Excellent - 007-009 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-excellent-007-009-480i-dvd.k10515397665291) • [🐱 Nyaa](https://nyaa.si/?q=AQV6XXOHINUC2Z5276F65UKWEZL52UWI) |
-| `[Mangamannn] Slayers Great 1997 - 006 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-great-1997-006-480i-dvd.k10515366248193) • [🐱 Nyaa](https://nyaa.si/?q=TJWAZZGEJHWGRMMTZDE77IBBCFXO54YB) |
-| `[Mangamannn] Slayers Book of Spells 1996 - 003-005 (480i ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-book-spells-1996-003-005-480i-dvd.k10515341164294) • [🐱 Nyaa](https://nyaa.si/?q=G2JAMJBYQ77SYPS2MGMGYKKTOPA3DQFQ) |
-| `[Mangamannn] Slayers Return 1996 - 002 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-return-1996-002-480i-dvd.k10515302889733) • [🐱 Nyaa](https://nyaa.si/?q=NANZZ52Q6FW2O7BHVYWN4JENCTZXY2P2) |
-| `[Mangamannn] Slayers The Motion Picture 1995 - 001 (480i ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-motion-picture-1995-001-480i-dvd.k10515255094276) • [🐱 Nyaa](https://nyaa.si/?q=LDCXVILBJYVW53DAHBXJLUGWUMRCMY4E) |
-| `[Lazyleido-Mini] DIGIMON BEATBREAK - 27 (S01E27) - (WEB 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-mini-digimon-beatbreak-27-s01e27-web-1080p.n2100849) • [🐱 Nyaa](https://nyaa.si/?q=GQMYYJLP4WJ6PIWMESMMEQPGU7PFXFLB) |
 
 ---
 <div align="center">
