@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.10.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.44.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlus+] Lastame - S02E03 (ADN WEB-DL 1080p AVC AAC) |...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-lastame-s02e03-adn-web-dl-1080p-avc.k10519053698062) • [🐱 Nyaa](https://nyaa.si/?q=TZTQ5FXNTAECFUUHWTQ3U6UUUMGPQMRK) |
-| `[Judas] Aishiteru Game o Owarasetai (I Want to End This L...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-aishiteru-game-o-owarasetai-want-end-love.n2100917) • [🐱 Nyaa](https://nyaa.si/?q=5BIZW2GA73AGW425B2JOHUFNE7D5OW6Z) |
-| `The Most Heretical Last Boss Queen From Villainess to Sav...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/most-heretical-last-boss-queen-from-villainess-savior.n2100916) • [🐱 Nyaa](https://nyaa.si/?q=XQ2JTDUOAIK7MYNB5RZKQZBABS74CLSG) |
-| `[ToonsHub] The Most Heretical Last Boss Queen From Villai...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-most-heretical-last-boss-queen-from-villainess.k10518738006784) • [🐱 Nyaa](https://nyaa.si/?q=PKDI4QKEJATNN256TSR4QLILNMTTS2T7) |
-| `[SubsPlease] LasTame S2 - 03 (1080p) [CB059671].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-03-1080p-cb059671-mkv.n2100914) • [🐱 Nyaa](https://nyaa.si/?q=QIY5AEYPL7DLB56WOYCHY25WYPNMF6GA) |
-| `[SubsPlease] LasTame S2 - 03 (720p) [2B55B21F].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-03-720p-2b55b21f-mkv.n2100913) • [🐱 Nyaa](https://nyaa.si/?q=XA6DGVH6XPBVXYEB47BFWDRBTONQ653D) |
-| `[SubsPlease] LasTame S2 - 03 (480p) [B81DBFFC].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-lastame-s2-03-480p-b81dbffc-mkv.n2100912) • [🐱 Nyaa](https://nyaa.si/?q=HBUYMQQEOHPNKYKSPLXQCBKFLDG5QZ7U) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10518720725519) • [🐱 Nyaa](https://nyaa.si/?q=HVMBQQ6IJ25WBLKD2ZXZ7GRYORYXA3UA) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10518719385869) • [🐱 Nyaa](https://nyaa.si/?q=ZOYP7UPLM66M2N7WBUPTVT6GIH4BXNCF) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10518716926478) • [🐱 Nyaa](https://nyaa.si/?q=G7O6GQFETUWHUSCG55HWYD5CBCDZJWYA) |
-| `[Gecko] Hyakki Yakoushou - S01E03 (百鬼夜行抄; Beyond Twilight...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hyakki-yakoushou-s01e03-beyond-twilight-ytb-web.k10518516197132) • [🐱 Nyaa](https://nyaa.si/?q=2GF4JKNZNFV7VFQIBOZQBNQ7ADSDU5EQ) |
-| `[ToonsHub] Hyakki Yakoushou S01E03 1080p AMZN WEB-DL DDP2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hyakki-yakoushou-s01e03-1080p-amzn-web-dl.k10518340189188) • [🐱 Nyaa](https://nyaa.si/?q=XNTAOQ2SCTGL2LEKISMRVMC3NH3QIOTB) |
-| `[Gecko] Rilakkuma - S01E03 (リラックマ) [CTHP.WEB-DL 1080P AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-rilakkuma-s01e03-cthp-web-dl-1080p-avc.k10516598948105) • [🐱 Nyaa](https://nyaa.si/?q=MZJP5UUO2X7N26Q5UB3OKAM2XEEFRYC7) |
-| `[ace] NIPPON SANGOKU The Three Nations of the Crimson Sun...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ace-nippon-sangoku-three-nations-crimson-sun-s01e01.k10516236000777) • [🐱 Nyaa](https://nyaa.si/?q=YRLV222Z4NB43NEWGOEAZCU35C5CD6KC) |
-| `[LG] Fate Kaleid Liner Prisma Illya (2013) S00E06 - Dance...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lg-fate-kaleid-liner-prisma-illya-2013-s00e06.k10516079492360) • [🐱 Nyaa](https://nyaa.si/?q=2NK7KF6FQKBJZ3TXXJ3ETUXQGIO3JZCI) |
+| `[Erai-raws] Aishiteru Game wo Owarasetai - 02 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-aishiteru-game-wo-owarasetai-02-1080p.k10520614736643) • [🐱 Nyaa](https://nyaa.si/?q=CBWYYYWM4NSSOU73VI4IK6SBB5YFIPOO) |
+| `[Onalrie] Aishiteru Game wo Owarasetai - S01E02 [1080p WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-aishiteru-game-wo-owarasetai-s01e02-1080p-webrip-av1.2075857) • [🐱 Nyaa](https://nyaa.si/?q=WHP6C7BZZLJTBEOE5FONPYQCMEHPLSCC) |
+| `[Judas] MARRIAGETOXIN - S01E03 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-marriagetoxin-s01e03-1080p-hevc-x265-10bit-multi-subs.n2101001) • [🐱 Nyaa](https://nyaa.si/?q=742WMKPG3MDVOW2JZ63RV2LKDPQ7JV2P) |
+| `[ASW] Replica datte, Koi wo Suru. - 03 [1080p HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-replica-datte-koi-wo-suru-03-1080p.n2101000) • [🐱 Nyaa](https://nyaa.si/?q=I4A452MYXQA5IVZY752O66JUWN2IQCBJ) |
+| `[ToonsHub] The Most Heretical Last Boss Queen From Villai...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-most-heretical-last-boss-queen-from-villainess.k10520338768394) • [🐱 Nyaa](https://nyaa.si/?q=SNOBXULT6KNFHR6CLWAOWJUCHORMC53X) |
+| `[ToonsHub] MARRIAGETOXIN S01E01 1080p CR WEB-DL DUAL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-marriagetoxin-s01e01-1080p-cr-web-dl-dual.k10520166583041) • [🐱 Nyaa](https://nyaa.si/?q=XA4KAUXBXB7YZKWGRKD37K6XQFYWE42P) |
+| `[ToonsHub] Marriagetoxin S01E03 1080p NF WEB-DL AAC2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-marriagetoxin-s01e03-1080p-nf-web-dl-aac2.k10520158049024) • [🐱 Nyaa](https://nyaa.si/?q=FBYR5DDNDE6U7YP7NGBWVINIJAKKIPGM) |
+| `[ToonsHub] I Want to End this Love Game S01E02 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-want-end-love-game-s01e02-1080p-cr.k10520147217158) • [🐱 Nyaa](https://nyaa.si/?q=O4XVQMGLZ3ZAKILKGVCVZHCAKJK62K3Q) |
+| `[ToonsHub] I Made Friends with the Second Prettiest Girl ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-made-friends-second-prettiest-girl-my-class.n2100990) • [🐱 Nyaa](https://nyaa.si/?q=4ACRJGQR6P5DPDEUSMI46NFGJFPUDFCB) |
+| `[SubsPlease] Class de 2-banme ni Kawaii Onnanoko to Tomod...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-class-de-2-banme-ni-kawaii-onnanoko.n2100989) • [🐱 Nyaa](https://nyaa.si/?q=N5YEUMWN22IAULAHMICI2OZ34SW3NE3H) |
+| `I Made Friends with the Second Prettiest Girl in My Class...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/made-friends-second-prettiest-girl-my-class-s01e03.n2100987) • [🐱 Nyaa](https://nyaa.si/?q=RLMKFQJYI4L63O4G5LQLGB3NDJWD5LLV) |
+| `[SubsPlease] Class de 2-banme ni Kawaii Onnanoko to Tomod...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-class-de-2-banme-ni-kawaii-onnanoko.n2100985) • [🐱 Nyaa](https://nyaa.si/?q=QSYGJ325LRE5AYT5GQRDT6XLMYHOALMC) |
+| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomoda...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-class-de-2-banme-ni-kawaii.k10520084056578) • [🐱 Nyaa](https://nyaa.si/?q=ARASLWNBYXQNGQD5EG2SHZ6B7G5CRFRE) |
+| `[SubsPlease] Class de 2-banme ni Kawaii Onnanoko to Tomod...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-class-de-2-banme-ni-kawaii-onnanoko.n2100980) • [🐱 Nyaa](https://nyaa.si/?q=C4JG6ZUNSLY6INRI24NOHESXYGZQA7XG) |
+| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomoda...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-class-de-2-banme-ni-kawaii.k10520081904136) • [🐱 Nyaa](https://nyaa.si/?q=E5HLS2353GFNYOVDKTTJRQEWRKRJIKBX) |
 
 ---
 <div align="center">
