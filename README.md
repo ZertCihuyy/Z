@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.27.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.24.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Bugtte Honey (Adventure Island) - 05 [GoodSubs][720p]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bugtte-honey-adventure-island-05-goodsubs-720p.2075929) • [🐱 Nyaa](https://nyaa.si/?q=XLG4FAYN4L6TIA6QK5ZFZBZLX6KVSNOF) |
+| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.k10525707155723) • [🐱 Nyaa](https://nyaa.si/?q=NDXIAQLLNCZ7YCR7PIQHECRGNHTHAYTO) |
 | `[Erai-raws] Tadaima Ojamasaremasu - 03 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-03-1080p-cr-webrip.k10524803836936) • [🐱 Nyaa](https://nyaa.si/?q=RBIIVUE227B53FQAMHIL7VHMYPFVC7TS) |
 | `[Erai-raws] Marriagetoxin - 03 [1080p CR WEBRip HEVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-marriagetoxin-03-1080p-cr-webrip-hevc.n2101124) • [🐱 Nyaa](https://nyaa.si/?q=DM2D64DO77HTIHWPAEIQAW4W6AMHRDW7) |
 | `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-class-de-2-banme-ni-kawaii-onnanoko.n2101123) • [🐱 Nyaa](https://nyaa.si/?q=E2VCYLS6INPYUBEF2KDSEQLKRFNF6FYU) |
@@ -41,8 +43,6 @@
 | `[AK4NE] Eren the Southpaw (2026) - S01E01 - The Basquiat ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-eren-southpaw-2026-s01e01-basquiat-yokohama-web.k10523571930624) • [🐱 Nyaa](https://nyaa.si/?q=U54TZVVH2KJJY6277R77MF2J6T4ZOAHL) |
 | `[BlackRabbit] Please Put Them On, Takamine-san (2025) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-please-put-them-takamine-san-2025-s01.k10523533962255) • [🐱 Nyaa](https://nyaa.si/?q=UGDKKFBONE5WZAYU622N5KQRN5SST6X4) |
 | `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10523356858376) • [🐱 Nyaa](https://nyaa.si/?q=5D5TQFMDBZIXKGIRANQFRX2MY2DUAQVQ) |
-| `[Erai-raws] Hidarikiki no Eren - 03 [1080p CR WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-03-1080p-cr.n2101092) • [🐱 Nyaa](https://nyaa.si/?q=EIS77BWOLAAF7JX4IK5B2EAZEI3TSV3P) |
-| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomoda...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-class-de-2-banme-ni-kawaii.n2101091) • [🐱 Nyaa](https://nyaa.si/?q=IXRR3MSFP4ESZOWKG2MUJVUKS6WGACMN) |
 
 ---
 <div align="center">
