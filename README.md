@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.11.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.46.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LG] Fate Kaleid Liner Prisma Illya (2013) S00E06 - Dance...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lg-fate-kaleid-liner-prisma-illya-2013-s00e06.k10516079492360) • [🐱 Nyaa](https://nyaa.si/?q=2NK7KF6FQKBJZ3TXXJ3ETUXQGIO3JZCI) |
+| `[BlackRabbit] Tsugumomo (2017) - S00 [WEBDL-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tsugumomo-2017-s00-webdl-1080p-opus-2.k10515671188229) • [🐱 Nyaa](https://nyaa.si/?q=YXPFG4JMDSW4MLI2B4FJFGRNWYCDJIAY) |
+| `[Mangamannn] Slayers - 037-062 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-037-062-480i-dvd.k10515472711428) • [🐱 Nyaa](https://nyaa.si/?q=YW4J5QDX66WBRIQI6EKYTPVI7PZ3NDZQ) |
+| `[Mangamannn] Slayers - 011-036 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-011-036-480i-dvd.k10515447854343) • [🐱 Nyaa](https://nyaa.si/?q=XRTTBGDKFGKVLJC7PZIOL6INLPRT7XS3) |
+| `[Mangamannn] Slayers Gorgeous 1998 - 010 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-gorgeous-1998-010-480i-dvd.k10515418199821) • [🐱 Nyaa](https://nyaa.si/?q=LTKGSEYPRQGZCCSGSQ7L5WTZJJNJ5476) |
+| `[Mangamannn] Slayers Excellent - 007-009 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-excellent-007-009-480i-dvd.k10515397665291) • [🐱 Nyaa](https://nyaa.si/?q=AQV6XXOHINUC2Z5276F65UKWEZL52UWI) |
+| `[Mangamannn] Slayers Great 1997 - 006 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-great-1997-006-480i-dvd.k10515366248193) • [🐱 Nyaa](https://nyaa.si/?q=TJWAZZGEJHWGRMMTZDE77IBBCFXO54YB) |
+| `[Mangamannn] Slayers Book of Spells 1996 - 003-005 (480i ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-book-spells-1996-003-005-480i-dvd.k10515341164294) • [🐱 Nyaa](https://nyaa.si/?q=G2JAMJBYQ77SYPS2MGMGYKKTOPA3DQFQ) |
+| `[Mangamannn] Slayers Return 1996 - 002 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-return-1996-002-480i-dvd.k10515302889733) • [🐱 Nyaa](https://nyaa.si/?q=NANZZ52Q6FW2O7BHVYWN4JENCTZXY2P2) |
+| `[Mangamannn] Slayers The Motion Picture 1995 - 001 (480i ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-slayers-motion-picture-1995-001-480i-dvd.k10515255094276) • [🐱 Nyaa](https://nyaa.si/?q=LDCXVILBJYVW53DAHBXJLUGWUMRCMY4E) |
 | `[Lazyleido-Mini] DIGIMON BEATBREAK - 27 (S01E27) - (WEB 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-mini-digimon-beatbreak-27-s01e27-web-1080p.n2100849) • [🐱 Nyaa](https://nyaa.si/?q=GQMYYJLP4WJ6PIWMESMMEQPGU7PFXFLB) |
 | `[Lazyleido] DIGIMON BEATBREAK - 27 (S01E27) - (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-digimon-beatbreak-27-s01e27-web-1080p-hevc.n2100848) • [🐱 Nyaa](https://nyaa.si/?q=7YVAOBTTVI4J2X3DQCX7G7WFVZCINYR6) |
 | `[Mehul] Link Click S00E01 - Marrying by Contesting (BD Re...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mehul-link-click-s00e01-marrying-contesting-bd-remux.n2100842) • [🐱 Nyaa](https://nyaa.si/?q=PQNPHUFC2TG7ENZCOGJTUQHA4AH6Z3EI) |
+| `[Mehul] Link Click S01 (BD Remux 1080p AVC FLAC) [Dual-Au...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mehul-link-click-s01-bd-remux-1080p-avc.n2100841) • [🐱 Nyaa](https://nyaa.si/?q=6G454IKIA3NH2MLUAX3P73DYOI5JZ2YP) |
 | `[Mo7tas] Dandelion [1080p] [Multi language subs]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-dandelion-1080p-multi-language-subs.n2100831) • [🐱 Nyaa](https://nyaa.si/?q=NGVLISJF7KOOAWBAM5A7CRFNWQCJEKHB) |
-| `[LbE3L] My Status as an Assassin Obviously Exceeds the He...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-my-status-assassin-obviously-exceeds-heros-s01.k10511384928002) • [🐱 Nyaa](https://nyaa.si/?q=MLJXB5YEIVLJFXN6FX36M2ZD4Q7QDCL4) |
-| `[ToonsHub] Medalist S02E09 1080p DSNP WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-medalist-s02e09-1080p-dsnp-web-dl-dual.k10511373536257) • [🐱 Nyaa](https://nyaa.si/?q=UL54ZAISFRWKZJWKYZKI5ADGR7FMGBCO) |
-| `[LbE3L] [H.266] Sentenced to Be a Hero S01E12 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-sentenced-hero-s01e12-1080p-cr.k10511319092491) • [🐱 Nyaa](https://nyaa.si/?q=25DMEZ3NYTVTWJD6LBCBHBUEZ3YJAWS6) |
-| `Bubblegum Crash! (1991) S01 (BDRip 1080p x265 HEVC FLAC +...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bubblegum-crash-1991-s01-bdrip-1080p-x265-hevc.n2100824) • [🐱 Nyaa](https://nyaa.si/?q=CXSFZSPWG36LOCGBDYL3Z3K36WEFVR2L) |
-| `[AK4NE] Akane-banashi (2026) - S01E01 - That Day [WEB-Enc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-akane-banashi-2026-s01e01-day-web-enc.k10510513414150) • [🐱 Nyaa](https://nyaa.si/?q=XUTNEF2322CKGGDDZOBQ3JEZJWBPODKI) |
-| `Medalist S02E09 It Begins 1080p DSNP WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/medalist-s02e09-begins-1080p-dsnp-web-dl-dual.n2100797) • [🐱 Nyaa](https://nyaa.si/?q=K7ARXH7BX74YAST4ENSGO5XGV2FCRS4R) |
-| `[CicakRumah] Koupen-chan - S01E54 (コウペンちゃん; Koupen Chan) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cicakrumah-koupen-chan-s01e54-chan-amzn-web-dl.k10507852758790) • [🐱 Nyaa](https://nyaa.si/?q=BDPH556IKBZA3CGMBQOTJOA23R3QSRZT) |
-| `[Techmod] Nakoruru ~Ano Hito kara no Okurimono~ Kyouri no...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/techmod-nakoruru-ano-hito-kara-no-okurimono-kyouri.n2100784) • [🐱 Nyaa](https://nyaa.si/?q=YOKDJPM7WFV3QLS3OTLORJ3QOBIJTPGH) |
-| `[Reza] Witch Hat Atelier - S01E04 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e04-webrip-aac-1080p.n2100783) • [🐱 Nyaa](https://nyaa.si/?q=T5KI2YTFYSFCISWUMAWYG7E27X3G3R42) |
-| `Medalist S02E09 It Begins 1080p DSNP WEB-DL MULTi AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/medalist-s02e09-begins-1080p-dsnp-web-dl-multi.n2100781) • [🐱 Nyaa](https://nyaa.si/?q=B7NR4BVPEOHM7A3CVDVLLO65SW4QHHZ3) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.n2100779) • [🐱 Nyaa](https://nyaa.si/?q=JJ5R5TKBQGL2RONEUK4YUWB47J3WVJXA) |
 
 ---
 <div align="center">
