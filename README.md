@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.15.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.11.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Lazyleido-Mini] DIGIMON BEATBREAK - 27 (S01E27) - (WEB 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-mini-digimon-beatbreak-27-s01e27-web-1080p.n2100849) • [🐱 Nyaa](https://nyaa.si/?q=GQMYYJLP4WJ6PIWMESMMEQPGU7PFXFLB) |
+| `[Lazyleido] DIGIMON BEATBREAK - 27 (S01E27) - (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-digimon-beatbreak-27-s01e27-web-1080p-hevc.n2100848) • [🐱 Nyaa](https://nyaa.si/?q=7YVAOBTTVI4J2X3DQCX7G7WFVZCINYR6) |
+| `[Mehul] Link Click S00E01 - Marrying by Contesting (BD Re...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mehul-link-click-s00e01-marrying-contesting-bd-remux.n2100842) • [🐱 Nyaa](https://nyaa.si/?q=PQNPHUFC2TG7ENZCOGJTUQHA4AH6Z3EI) |
 | `[Mo7tas] Dandelion [1080p] [Multi language subs]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-dandelion-1080p-multi-language-subs.n2100831) • [🐱 Nyaa](https://nyaa.si/?q=NGVLISJF7KOOAWBAM5A7CRFNWQCJEKHB) |
 | `[LbE3L] My Status as an Assassin Obviously Exceeds the He...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-my-status-assassin-obviously-exceeds-heros-s01.k10511384928002) • [🐱 Nyaa](https://nyaa.si/?q=MLJXB5YEIVLJFXN6FX36M2ZD4Q7QDCL4) |
 | `[ToonsHub] Medalist S02E09 1080p DSNP WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-medalist-s02e09-1080p-dsnp-web-dl-dual.k10511373536257) • [🐱 Nyaa](https://nyaa.si/?q=UL54ZAISFRWKZJWKYZKI5ADGR7FMGBCO) |
@@ -40,9 +43,6 @@
 | `[Reza] Witch Hat Atelier - S01E04 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e04-webrip-aac-1080p.n2100783) • [🐱 Nyaa](https://nyaa.si/?q=T5KI2YTFYSFCISWUMAWYG7E27X3G3R42) |
 | `Medalist S02E09 It Begins 1080p DSNP WEB-DL MULTi AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/medalist-s02e09-begins-1080p-dsnp-web-dl-multi.n2100781) • [🐱 Nyaa](https://nyaa.si/?q=B7NR4BVPEOHM7A3CVDVLLO65SW4QHHZ3) |
 | `[Erai-raws] Mahou no Shimai Lulutto Lilly - 02 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-02.n2100779) • [🐱 Nyaa](https://nyaa.si/?q=JJ5R5TKBQGL2RONEUK4YUWB47J3WVJXA) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 01 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-01.n2100778) • [🐱 Nyaa](https://nyaa.si/?q=7O24WBVDZRZAYFWKOBSFPQO574T7N7DO) |
-| `[knyf1e] My Hero Academia Vigilantes S02 1080p CR WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/knyf1e-my-hero-academia-vigilantes-s02-1080p-cr.k10505061711115) • [🐱 Nyaa](https://nyaa.si/?q=Z3WAOG62VTRIZTOCKCKO4PXQLTP5O46N) |
-| `[ToonsHub] Golden Kamuy S05E13 1080p AMZN WEB-DL DDP2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-golden-kamuy-s05e13-1080p-amzn-web-dl.k10504743414786) • [🐱 Nyaa](https://nyaa.si/?q=V2A7V7A25XGLOFRF3KV4M3GPVHR2MPMN) |
 
 ---
 <div align="center">
