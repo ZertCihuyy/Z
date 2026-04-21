@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.00.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.52.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Unfucked] I Made Friends with the Second Prettiest Girl ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-made-friends-second-prettiest-girl-my-class.n2101154) • [🐱 Nyaa](https://nyaa.si/?q=JMWTYG2QMAUSRYOF2MBQW3VUKK7MPZHU) |
+| `[SubsPlease] Uruwashi no Yoi no Tsuki (01-12) (1080p) [Ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-uruwashi-no-yoi-no-tsuki-01-12-1080p-batch.n2101151) • [🐱 Nyaa](https://nyaa.si/?q=ZJSTIERYTVE4POVOLAWT5DKRNILPNFVA) |
+| `[SubsPlease] Uruwashi no Yoi no Tsuki (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-uruwashi-no-yoi-no-tsuki-01-12-720p-batch.n2101150) • [🐱 Nyaa](https://nyaa.si/?q=X2THUJZV7GJFELGDCDL7FNEI47F2NDYS) |
+| `[SubsPlease] Uruwashi no Yoi no Tsuki (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-uruwashi-no-yoi-no-tsuki-01-12-480p-batch.n2101149) • [🐱 Nyaa](https://nyaa.si/?q=XIRXTV44M4X564SV2VTXDPSZWQSROEHE) |
 | `[Judas] SI-VIS The Sound of Heroes (Season 01) [1080p][HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-si-vis-sound-heroes-season-01-1080p.n2101145) • [🐱 Nyaa](https://nyaa.si/?q=G3TIFL6QYTHQ72HLQJZDTWUBNGDNOWBU) |
 | `[Judas] Darwin Jihen (The Darwin Incident) (Season 01) [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-darwin-jihen-incident-season-01-1080p-hevc.n2101144) • [🐱 Nyaa](https://nyaa.si/?q=MRSLOOFNBEHGSABG6EDDN7GNNRQC7DLJ) |
 | `[Judas] Fumetsu no Anata e (To Your Eternity) (Season 03)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-fumetsu-no-anata-e-your-eternity-season.n2101143) • [🐱 Nyaa](https://nyaa.si/?q=UB4NKCFFPN6URJJGQNOR2L3UJTC2UVMK) |
@@ -39,10 +43,6 @@
 | `[BlackRabbit] Panty & Stocking with Garterbelt (2010) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-panty-stocking-garterbelt-2010-s02-bluray-1080p.k10526354023689) • [🐱 Nyaa](https://nyaa.si/?q=VYJVFVGZIZRRHOBRCC5HVT5LKQEH37HW) |
 | `[SubsPlease] Dead Account (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-dead-account-01-12-1080p-batch.n2101136) • [🐱 Nyaa](https://nyaa.si/?q=WE3VRXYXMT52QGL6LIGX4NVL3PHPWW2A) |
 | `[SubsPlease] Dead Account (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-dead-account-01-12-720p-batch.n2101135) • [🐱 Nyaa](https://nyaa.si/?q=E6E24LSQZ7E4JTNZZU7HOC5KMKXWRTB4) |
-| `[SubsPlease] Dead Account (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-dead-account-01-12-480p-batch.n2101134) • [🐱 Nyaa](https://nyaa.si/?q=JB3QF5QKRQFINFEJXHOE6CSXBNJ5DKBT) |
-| `Ookami Shounen Ken - 02 [Kingmenu].mp4` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ookami-shounen-ken-02-kingmenu-mp4.2075932) • [🐱 Nyaa](https://nyaa.si/?q=FQPSTYHGGF2QPB2YX6ELMIRAI6UF5SZC) |
-| `Tiger Mask - 14 [Kingmenu].mp4` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tiger-mask-14-kingmenu-mp4.2075931) • [🐱 Nyaa](https://nyaa.si/?q=JNNSFBAPKFJKRT6VBKOJMLOWPCMBMVRB) |
-| `[AnoZu] Juni Taisen: Zodiac War S01 (Season 1) REPACK 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anozu-juni-taisen-zodiac-war-s01-season-1.n2101133) • [🐱 Nyaa](https://nyaa.si/?q=MEA76UFOQHBJYWKJSFWMHNMKL3UFCX7K) |
 
 ---
 <div align="center">
