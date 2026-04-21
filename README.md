@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.20.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.27.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Tadaima Ojamasaremasu - 03 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-03-1080p-cr-webrip.k10524803836936) • [🐱 Nyaa](https://nyaa.si/?q=RBIIVUE227B53FQAMHIL7VHMYPFVC7TS) |
+| `[Erai-raws] Marriagetoxin - 03 [1080p CR WEBRip HEVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-marriagetoxin-03-1080p-cr-webrip-hevc.n2101124) • [🐱 Nyaa](https://nyaa.si/?q=DM2D64DO77HTIHWPAEIQAW4W6AMHRDW7) |
+| `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-class-de-2-banme-ni-kawaii-onnanoko.n2101123) • [🐱 Nyaa](https://nyaa.si/?q=E2VCYLS6INPYUBEF2KDSEQLKRFNF6FYU) |
 | `[DB] 5-toubun no Hanayome | The Quintessential Quintuplet...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-5-toubun-no-hanayome-quintessential-quintuplets-01.k10523965917964) • [🐱 Nyaa](https://nyaa.si/?q=4DJWVVH5XOOYYFPU6SEB6QAYCNRMAEN2) |
 | `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Or...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-megami-isekai-tensei-nani-ni-naritai-desu.n2101116) • [🐱 Nyaa](https://nyaa.si/?q=Q3EGMYMJLJRHOIXTZ4DWBEUJO4CZAHUY) |
 | `[DB] 5-toubun no Hanayome* | The Quintessential Quintuple...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-5-toubun-no-hanayome-quintessential-quintuplets-10bit.n2101113) • [🐱 Nyaa](https://nyaa.si/?q=TH66IAEX44OJG35KZMOYFJEWB7CAVI5Y) |
@@ -40,9 +43,6 @@
 | `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10523356858376) • [🐱 Nyaa](https://nyaa.si/?q=5D5TQFMDBZIXKGIRANQFRX2MY2DUAQVQ) |
 | `[Erai-raws] Hidarikiki no Eren - 03 [1080p CR WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-03-1080p-cr.n2101092) • [🐱 Nyaa](https://nyaa.si/?q=EIS77BWOLAAF7JX4IK5B2EAZEI3TSV3P) |
 | `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomoda...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-class-de-2-banme-ni-kawaii.n2101091) • [🐱 Nyaa](https://nyaa.si/?q=IXRR3MSFP4ESZOWKG2MUJVUKS6WGACMN) |
-| `[Erai-raws] Replica datte Koi wo Suru - 03 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-replica-datte-koi-wo-suru-03.n2101090) • [🐱 Nyaa](https://nyaa.si/?q=KZXZQ5I4CU3FMRMMLTAHO5ANII23K3H4) |
-| `[Onalrie] Tadaima, Ojamasaremasu! - S01E03 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tadaima-ojamasaremasu-s01e03-1080p-webrip-av1-mkv.2075906) • [🐱 Nyaa](https://nyaa.si/?q=RAZOW34H3JBRL4N6HLQOFXVVLSB6EL47) |
-| `[ToonsHub] Pardon the Intrusion Im Home S01E03 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-pardon-intrusion-im-home-s01e03-1080p-cr.n2101089) • [🐱 Nyaa](https://nyaa.si/?q=75CZQSDPMV2QCADSM55JMV2HWKSYZZH2) |
 
 ---
 <div align="center">
