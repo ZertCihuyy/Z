@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.48.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.12.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] ReZERO -Starting Life in Another World- S04E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rezero-starting-life-another-world-s04e03-1080p.k10541906598666) • [🐱 Nyaa](https://nyaa.si/?q=WXIQJ47XNVVY2KAHAD2V45WCQGIWSKQK) |
-| `[VARYG] Re ZERO Starting Life in Another World S04E03 The...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-re-zero-starting-life-another-world-s04e03.k10541788552971) • [🐱 Nyaa](https://nyaa.si/?q=PDKNJFTXKYFCDTCBGTZBABQHUDLU6W6W) |
-| `[VARYG] OSHI NO KO S03E04 Blind 1080p CR WEB-DL MULTi AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-oshi-no-ko-s03e04-blind-1080p-cr.k10541762655234) • [🐱 Nyaa](https://nyaa.si/?q=GARLO4QZDRQVBIJJMHVHXW6VBRPMXHTU) |
-| `[ToonsHub] ReZERO Starting Life in Another World S04E03 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rezero-starting-life-another-world-s04e03-1080p.k10541725695754) • [🐱 Nyaa](https://nyaa.si/?q=FQRQI7Q3B52HK57WWX52CQYDRDK4HSRR) |
-| `Re ZERO Starting Life in Another World S04E03 The Keeper ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/re-zero-starting-life-another-world-s04e03-keeper.n2101413) • [🐱 Nyaa](https://nyaa.si/?q=HLNNDGI36DA47LO2ZHOHZ3Z3S73LP5QE) |
-| `Dorohedoro S02E06 Farewell Caiman-Memory Bubbles 1080p BI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dorohedoro-s02e06-farewell-caiman-memory-bubbles-1080p-bili.n2101411) • [🐱 Nyaa](https://nyaa.si/?q=MRYNQFY3APWAF6IWJZTPF3GFKVFTGSD6) |
-| `[ToonsHub] Dorohedoro S02E06 1080p NF WEB-DL DUAL DDP5.1 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e06-1080p-nf-web-dl-dual.k10541532634885) • [🐱 Nyaa](https://nyaa.si/?q=2PXICVOZWH7KFVGXIOYXWKAFA6F5WRQP) |
-| `[Yameii] Dorohedoro - S02E06 [English Dub] [CR WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e06-english-dub-cr-web-dl.n2101408) • [🐱 Nyaa](https://nyaa.si/?q=BHX22R3TSPZM4CZRTDCPZC4KBKXJACRT) |
-| `[Yameii] Reborn as a Vending Machine, I Now Wander the Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-reborn-vending-machine-now-wander-dungeon-s03e02.k10541531084554) • [🐱 Nyaa](https://nyaa.si/?q=4Z4LFIQS2N7E7WUXB2XBPXERTBBADFRP) |
-| `[Yameii] Re:ZERO, Starting Life in Another World - S04E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-re-zero-starting-life-another-world-s04e03.k10541530339081) • [🐱 Nyaa](https://nyaa.si/?q=3YQ3262YJOCAVNMAHFV4V3G64IPDZL7P) |
-| `[Yameii] Oshi no Ko - S03E04 [English Dub] [CR WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-oshi-no-ko-s03e04-english-dub-cr.k10541529688322) • [🐱 Nyaa](https://nyaa.si/?q=AN2SOEXN6DERJMTLHDCRWPWHHRXAZWW6) |
-| `Dorohedoro S02E06 1080p NF WEB-DL DUAL DDP5.1 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dorohedoro-s02e06-1080p-nf-web-dl-dual-ddp5.n2101403) • [🐱 Nyaa](https://nyaa.si/?q=GOSIRC3RBQHYWLCP332ZBE3JCANMAGEB) |
-| `Dorohedoro S02E06 1080p NF WEB-DL MULTi DDP5.1 H 264-VARY...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dorohedoro-s02e06-1080p-nf-web-dl-multi-ddp5.n2101402) • [🐱 Nyaa](https://nyaa.si/?q=C2TT274JSZGVA3HNJRBP5ZXF4T267XFF) |
-| `[Yameii] Dorohedoro - S02E06 [English Dub] [CR WEB-DL 720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e06-english-dub-cr-web-dl.n2101400) • [🐱 Nyaa](https://nyaa.si/?q=S5TZJALZEIH445PXIXGTR4TKTA5KXFYT) |
-| `[Yameii] Reborn as a Vending Machine, I Now Wander the Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-reborn-vending-machine-now-wander-dungeon-s03e02.k10541437208847) • [🐱 Nyaa](https://nyaa.si/?q=LSLJSAVNMG5EPGVIO6QEIGRX7C26J4P5) |
+| `[ToonsHub] Always a Catch S01E04 1080p CR WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-always-catch-s01e04-1080p-cr-web-dl.k10543173581570) • [🐱 Nyaa](https://nyaa.si/?q=4FVQT3CSJW57HGUSQOPWGAQD5JI467ZX) |
+| `[VARYG] Always a Catch S01E04 How the One That Got Away W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-always-catch-s01e04-one-got-away-troubled.k10543158530568) • [🐱 Nyaa](https://nyaa.si/?q=FIDRZLK2RMHFD4OLHB37YAJRSUY3JVQV) |
+| `[FSP DN] The Gate of Mystical Realm - 24 (4K) | 玄界之门` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-gate-mystical-realm-24-4k.n2101498) • [🐱 Nyaa](https://nyaa.si/?q=UPWANN7FJWLUTZMQ42VHXSPZFCQGAXKV) |
+| `[SubsPlease] Nigetsuri - 04 (1080p) [971CA9F4].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-nigetsuri-04-1080p-971ca9f4-mkv.n2101496) • [🐱 Nyaa](https://nyaa.si/?q=FZC2GDIP3ZFVONJWMSL4V5ZSIGV2J27Y) |
+| `[SubsPlease] Nigetsuri - 04 (720p) [D3E0BB01].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-nigetsuri-04-720p-d3e0bb01-mkv.n2101494) • [🐱 Nyaa](https://nyaa.si/?q=B46RIXHAVXPF3AQQBP3J2PNU6TYLJT2E) |
+| `[ToonsHub] Candy Caries S01E02 1080p AMZN WEB-DL DDP2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-candy-caries-s01e02-1080p-amzn-web-dl.k10543129172232) • [🐱 Nyaa](https://nyaa.si/?q=YMNPO2W47PTE4UZAPZMJUODUV6JUP5PH) |
+| `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nigashita-sakana-wa-ookikatta-ga-tsuriageta.k10543122131975) • [🐱 Nyaa](https://nyaa.si/?q=ITNQTLRGM6NWOVRDW4R7NQTECVMFMZ7M) |
+| `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nigashita-sakana-wa-ookikatta-ga-tsuriageta.n2101490) • [🐱 Nyaa](https://nyaa.si/?q=TLVMNC6TBLNDHAFR5R5TCBVR7YEUGHYC) |
+| `[SubsPlease] Nigetsuri - 04 (480p) [EE00093A].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-nigetsuri-04-480p-ee00093a-mkv.n2101489) • [🐱 Nyaa](https://nyaa.si/?q=4C653KMK4G2YMRTSFJ22TXH3BXESVFPF) |
+| `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nigashita-sakana-wa-ookikatta-ga-tsuriageta.n2101486) • [🐱 Nyaa](https://nyaa.si/?q=UZYT4IT5O2H2TPNU37DR7ZY4WQP3V46Q) |
+| `[DKB] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2101484) • [🐱 Nyaa](https://nyaa.si/?q=47CJJWBDXCIPZBRU7AOQDVEWILH2Q47J) |
+| `[ASW] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Sa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu.n2101480) • [🐱 Nyaa](https://nyaa.si/?q=XH7UBPTZPJ7FV5TJOH6EXET5STOG3JAB) |
+| `[Judas] Dorohedoro - S02E06 [1080p][HEVC x265 10bit][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-dorohedoro-s02e06-1080p-hevc-x265-10bit-multi-subs.n2101479) • [🐱 Nyaa](https://nyaa.si/?q=HDMAGGC4PJHBAQFADF55EKXBMT6MFCG7) |
+| `[Onalrie] Re Zero kara Hajimeru Isekai Seikatsu - S04E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-re-zero-kara-hajimeru-isekai-seikatsu-s04e03.2076093) • [🐱 Nyaa](https://nyaa.si/?q=XH5IPSUU5MGNBURJKNHIGUWNQ46TMI2B) |
+| `Gals Cant be Kind to Otaku S01E03 Do You Want to Come Ove...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gals-cant-kind-otaku-s01e03-want-come-over.n2101478) • [🐱 Nyaa](https://nyaa.si/?q=C6JOUYUPEIAZJ4OY7AIKMJUBZZOJRV3H) |
 
 ---
 <div align="center">
