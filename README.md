@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.20.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.38.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Re:Zero kara Hajimeru Isekai Seikatsu - S04E02 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-re-zero-kara-hajimeru-isekai-seikatsu-s04e02.n2101235) • [🐱 Nyaa](https://nyaa.si/?q=BKLT76T3VM632RS23S4I2NQWMO3CJFOS) |
+| `[DKB] Re:Zero kara Hajimeru Isekai Seikatsu - S04E01 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-re-zero-kara-hajimeru-isekai-seikatsu-s04e01.n2101234) • [🐱 Nyaa](https://nyaa.si/?q=NLWM5XLZPOPUXLMRRBDGFD7XKIIDHVGX) |
+| `[DKB] Kijin Gentoushou - S01E21 [1080p][V2][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kijin-gentoushou-s01e21-1080p-v2-hevc-x265-10bit-weekly.n2101218) • [🐱 Nyaa](https://nyaa.si/?q=SU7TMVAYOPA3HP4JRJIG2X6UIBW2YURI) |
+| `[DKB] Nippon Sangoku - S01E03 [1080p][HEVC x265 10bit]Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-nippon-sangoku-s01e03-1080p-hevc-x265-10bit.n2101214) • [🐱 Nyaa](https://nyaa.si/?q=OTCOKNUVMUTS65T4OFOZ3F6XSE2LHDZQ) |
+| `[DKB] Nippon Sangoku - S01E02 [1080p][HEVC x265 10bit]Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-nippon-sangoku-s01e02-1080p-hevc-x265-10bit.n2101213) • [🐱 Nyaa](https://nyaa.si/?q=MAKAKG2SVR44K65GDI4P7VIBBYUXTUM5) |
+| `[DKB] Nippon Sangoku - S01E01 [1080p][HEVC x265 10bit]Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-nippon-sangoku-s01e01-1080p-hevc-x265-10bit.n2101211) • [🐱 Nyaa](https://nyaa.si/?q=G5664BJUFJ33EO2HIZ4NRE3GIWG2OG3N) |
 | `MARRIAGETOXIN S01E01 The Poison Masters Search for a Brid...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/marriagetoxin-s01e01-poison-masters-search-bride-1080p-bili.n2101187) • [🐱 Nyaa](https://nyaa.si/?q=4QEUO26LUQQG7HL7O47XP7742XZUGQJG) |
 | `[ToonsHub] Walking the Way all alone S01E04 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e04-1080p-bili.n2101186) • [🐱 Nyaa](https://nyaa.si/?q=WS6ZAIKP2S4YYMFTJ2N5ZJDTKUR7MS3L) |
 | `[AK4NE] Nippon Sangoku: The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-nippon-sangoku-three-nations-crimson-sun-2026.k10530817979915) • [🐱 Nyaa](https://nyaa.si/?q=7XA2Y5UCZQE6FDK2BATDGDIWQW32RVBE) |
@@ -37,12 +43,6 @@
 | `[Salieri] Kaiju No. 8 - Kaijuu 8-gou - S2 - BD (1080p) (H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/salieri-kaiju-no-8-kaijuu-gou-s2-bd.n2101165) • [🐱 Nyaa](https://nyaa.si/?q=GYHYIV7WYYH6EADZ4CDWUUC25FBJXTVC) |
 | `[SubsPlease] Kaya-chan wa Kowakunai (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-01-12-1080p-batch.n2101159) • [🐱 Nyaa](https://nyaa.si/?q=NYMF6WKABDW4HUPI4ARULIVUUUV6MBTP) |
 | `[SubsPlease] Kaya-chan wa Kowakunai (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-01-12-720p-batch.n2101158) • [🐱 Nyaa](https://nyaa.si/?q=AJPARE5L7TCMHYQW3ODMIHOTKIGMBTKQ) |
-| `[SubsPlease] Kaya-chan wa Kowakunai (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-01-12-480p-batch.n2101157) • [🐱 Nyaa](https://nyaa.si/?q=3JCL43BSTABRSNPW4Q2MFYJMQVDJH7UB) |
-| `[Unfucked] I Made Friends with the Second Prettiest Girl ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-made-friends-second-prettiest-girl-my-class.n2101154) • [🐱 Nyaa](https://nyaa.si/?q=JMWTYG2QMAUSRYOF2MBQW3VUKK7MPZHU) |
-| `[SubsPlease] Uruwashi no Yoi no Tsuki (01-12) (1080p) [Ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-uruwashi-no-yoi-no-tsuki-01-12-1080p-batch.n2101151) • [🐱 Nyaa](https://nyaa.si/?q=ZJSTIERYTVE4POVOLAWT5DKRNILPNFVA) |
-| `[SubsPlease] Uruwashi no Yoi no Tsuki (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-uruwashi-no-yoi-no-tsuki-01-12-720p-batch.n2101150) • [🐱 Nyaa](https://nyaa.si/?q=X2THUJZV7GJFELGDCDL7FNEI47F2NDYS) |
-| `[SubsPlease] Uruwashi no Yoi no Tsuki (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-uruwashi-no-yoi-no-tsuki-01-12-480p-batch.n2101149) • [🐱 Nyaa](https://nyaa.si/?q=XIRXTV44M4X564SV2VTXDPSZWQSROEHE) |
-| `[Judas] SI-VIS The Sound of Heroes (Season 01) [1080p][HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-si-vis-sound-heroes-season-01-1080p.n2101145) • [🐱 Nyaa](https://nyaa.si/?q=G3TIFL6QYTHQ72HLQJZDTWUBNGDNOWBU) |
 
 ---
 <div align="center">
