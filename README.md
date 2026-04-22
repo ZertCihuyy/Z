@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.02.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.06.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Dorohedoro Season 2 - 06 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-06-1080p-nf.k10548687750670) • [🐱 Nyaa](https://nyaa.si/?q=JURGNHCLV5NF2YYDB4YDXFWRQFHVPOMK) |
+| `[Erai-raws] Reincarnation no Kaben - 01 [540p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-01-540p-amzn.n2101665) • [🐱 Nyaa](https://nyaa.si/?q=MJEBXIVWUIRRORIB7KTI76WYBGRJ25B2) |
+| `[Erai-raws] Reincarnation no Kaben - 01 [720p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-01-720p-amzn.k10548633512709) • [🐱 Nyaa](https://nyaa.si/?q=6SVZOFPS7HRTHG4SKOXZRCYCWJ3BPYDJ) |
+| `[Erai-raws] Reincarnation no Kaben - 01 [1080p AMZN WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-01-1080p-amzn.k10548632745995) • [🐱 Nyaa](https://nyaa.si/?q=YNZ7B7RHWNQRRY37B6STYYZWMDC6LDQ5) |
+| `[ToonsHub] The Quintessential Quintuplets S00E05 1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-quintessential-quintuplets-s00e05-1080p-cr-web-dl.k10548536519691) • [🐱 Nyaa](https://nyaa.si/?q=663KD5QDSCQLUJXEUF72RMJEHVLX5BU4) |
+| `[ToonsHub] The Quintessential Quintuplets S00E04 1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-quintessential-quintuplets-s00e04-1080p-cr-web-dl.k10548500637962) • [🐱 Nyaa](https://nyaa.si/?q=NXQ6TUXDWVHYOECSKOFAJGUSMPUIMPYX) |
+| `[ToonsHub] The Quintessential Quintuplets S00E03 1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-quintessential-quintuplets-s00e03-1080p-cr-web-dl.k10548491470601) • [🐱 Nyaa](https://nyaa.si/?q=OK3IZ6ZQ6AQQ6KRRKAU2PRJMXBOBYMWV) |
+| `[ToonsHub] The Quintessential Quintuplets S00E02 1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-quintessential-quintuplets-s00e02-1080p-cr-web-dl.k10548484149002) • [🐱 Nyaa](https://nyaa.si/?q=XXN7NGFNE2W4JAHXRAZL5VGXGLGQL7X6) |
+| `The Quintessential Quintuplets S04E02 Special 2 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/quintessential-quintuplets-s04e02-special-2-1080p-cr-web.n2101656) • [🐱 Nyaa](https://nyaa.si/?q=DD57H7X632ALB7FT2MHS6E4FPIZOOMK4) |
+| `The Quintessential Quintuplets S04E01 Special 1 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/quintessential-quintuplets-s04e01-special-1-1080p-cr-web.n2101655) • [🐱 Nyaa](https://nyaa.si/?q=2OKFOCUYSTXKOGRXNY32AN2YTXPNRDO4) |
+| `The Quintessential Quintuplets S04E03 Special 3 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/quintessential-quintuplets-s04e03-special-3-1080p-cr-web.n2101654) • [🐱 Nyaa](https://nyaa.si/?q=NJRVPP2T4PREHUVTNNSCNEN63T65TNDR) |
+| `The Quintessential Quintuplets S04E04 Special 4 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/quintessential-quintuplets-s04e04-special-4-1080p-cr-web.n2101653) • [🐱 Nyaa](https://nyaa.si/?q=P6HJA4FE5E5TC7ELYS5FNR62QUZGU4ZC) |
+| `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E02 (W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sgt-botan-kamiina-fully-blossoms-when-drunk-s01e02.k10548011198470) • [🐱 Nyaa](https://nyaa.si/?q=JX3GQ376QLEJBWRJHZFHRNFEOG3AYHPC) |
+| `[Anime Time] Dorohedoro - S02E06 [1080p][HEVC 10bit x265]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-dorohedoro-s02e06-1080p-hevc-10bit-x265.n2101650) • [🐱 Nyaa](https://nyaa.si/?q=BYR77ESBWP5QQKESVZ4T7BKLLUZPRS22) |
 | `[Erai-raws] Dorohedoro Season 2 - 06 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-06-1080p-cr.k10547557449226) • [🐱 Nyaa](https://nyaa.si/?q=LNPUIFW663UYM7D7JHZSOGARKZEUZMC6) |
-| `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E03 [1080p][HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otaku-ni-yasashii-gal-wa-inai-s01e03.n2101648) • [🐱 Nyaa](https://nyaa.si/?q=WK2XAXSJUQ7YPWRVP732TEGRPS7PGA2C) |
-| `[DKB] Dorohedoro - S02E06 [1080p][HEVC x265 10bit][Multi-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-dorohedoro-s02e06-1080p-hevc-x265-10bit-multi-subs.n2101647) • [🐱 Nyaa](https://nyaa.si/?q=2L2YH7QTVU5SKFYV7IHULL6FE6MWW34X) |
-| `[nekotan] Kiniro Mosaic Thank You!! 2021 (BD Remux 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-kiniro-mosaic-thank-2021-bd-remux-1080p.k10546649365775) • [🐱 Nyaa](https://nyaa.si/?q=5N7BKUFV4JQ2HVHC6PHSKDDGKG5XZ7SF) |
-| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2101644) • [🐱 Nyaa](https://nyaa.si/?q=74BROK7NCGAQACAWVQYICFTXMHY63S7H) |
-| `[FBI] Re:Zero Starting Life in Another World - S04E03 (CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fbi-re-zero-starting-life-another-world-s04e03.n2101619) • [🐱 Nyaa](https://nyaa.si/?q=4ZYYKZNP6WVGQTPYFHMABD77VFCAJDFA) |
-| `The Beginning After the End S02E01 The King Begins Advent...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beginning-after-end-s02e01-king-begins-adventuring-1080p.n2101618) • [🐱 Nyaa](https://nyaa.si/?q=TOKCDGWS6KMUCEKISMGMMLVP27WTMQ6U) |
-| `Reborn as a Vending Machine I Now Wander the Dungeon S03E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-vending-machine-now-wander-dungeon-s03e01-each.n2101617) • [🐱 Nyaa](https://nyaa.si/?q=ZIDBLX3REJWA7LQOP44RTX4LJUIVTNXK) |
-| `[Erai-raws] Ganbare Nakamura-kun - 05 [1080p CR WEBRip HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-05-1080p-cr.k10545861735940) • [🐱 Nyaa](https://nyaa.si/?q=QGPOQEFD2GV5W66R6DBT34VRN5VXAYSB) |
-| `[ToonsHub] Go For It Nakamura-kun S01E04 REPACK 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-go-nakamura-kun-s01e04-repack-1080p-cr.k10545840629251) • [🐱 Nyaa](https://nyaa.si/?q=BLOPPC7MITBTXWXCYDGMWMF6FDO2OHBA) |
-| `[ToonsHub] Go For It Nakamura-kun S01E03 REPACK 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-go-nakamura-kun-s01e03-repack-1080p-cr.k10545812278018) • [🐱 Nyaa](https://nyaa.si/?q=HWBJUN5Q6ZJ52WXNQRJE5HA33VAAHVVP) |
-| `[ToonsHub] Go For It Nakamura-kun S01E02 REPACK 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-go-nakamura-kun-s01e02-repack-1080p-cr.k10545780665089) • [🐱 Nyaa](https://nyaa.si/?q=HSR2EVZTWF2J5NQ4QYFRAZMNACONHAJ5) |
-| `[ToonsHub] Go For It Nakamura-kun S01E01 REPACK 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-go-nakamura-kun-s01e01-repack-1080p-cr.k10545746322188) • [🐱 Nyaa](https://nyaa.si/?q=ANH4W4N6BD2JPYDMXMT6WQARFWM25XAH) |
-| `[Gecko] Candy Caries - S01E02 (キャンディーカリエス) [YTB.WEB-DL 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-candy-caries-s01e02-ytb-web-dl-1080p.k10545695258882) • [🐱 Nyaa](https://nyaa.si/?q=O5HY4D6QXFQGE6JAN3YVWAOFGJ7U7SOR) |
-| `[BlackRabbit] Tokyo Revengers (2021) - S03 [Bluray-1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tokyo-revengers-2021-s03-bluray-1080p-opus.k10545609593091) • [🐱 Nyaa](https://nyaa.si/?q=EZD4H6C3HVR6JKJEIBMQLLPHALWMEG2C) |
 
 ---
 <div align="center">
