@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.48.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.48.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Yameii] Classroom of the Elite - S04E05 [English Dub] [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-classroom-elite-s04e05-english-dub-cr-web.k10540022702337) • [🐱 Nyaa](https://nyaa.si/?q=437L7GFY4UYIIMR4INONTOKBWKBSACER) |
-| `Classroom of the Elite S04E07 Covert Maneuvers 1080p BILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-elite-s04e07-covert-maneuvers-1080p-bili-web.n2101317) • [🐱 Nyaa](https://nyaa.si/?q=HDX2DE77EJ5W3GELDXI5XXXZKEANSHNW) |
-| `Classroom of the Elite S04E05 The Twenty-Million Man 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-elite-s04e05-twenty-million-man-1080p-cr.n2101316) • [🐱 Nyaa](https://nyaa.si/?q=JHUXYRQDCARA62BFEH5SWHJF7GDZEWSO) |
-| `Classroom of the Elite S04E07 Plotting 1080p CR WEB-DL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-elite-s04e07-plotting-1080p-cr-web-dl.n2101315) • [🐱 Nyaa](https://nyaa.si/?q=3RUFDEBPKYTCPA6U3XZGCL77IMUAV7KS) |
-| `[Yameii] Classroom of the Elite - S04E05 [English Dub] [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-classroom-elite-s04e05-english-dub-cr-web.k10539935235844) • [🐱 Nyaa](https://nyaa.si/?q=UIGHHZWKJM2DDGT2VV4HUS24KZZEDHP2) |
-| `[ToonsHub] Classroom of the Elite S04E05 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-elite-s04e05-1080p-cr-web-dl.k10539917244675) • [🐱 Nyaa](https://nyaa.si/?q=XBYG3DJ42IYQBRGKSJ5ISUHG4X2LSM5Q) |
-| `[ToonsHub] Classroom of the Elite S04E07 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-elite-s04e07-1080p-cr-web-dl.k10539913951751) • [🐱 Nyaa](https://nyaa.si/?q=63HMUGJWHOAUZPLLJ24RWAFU666OKIF5) |
-| `[ToonsHub] Classroom of the Elite S04E07 1080p AMZN WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-elite-s04e07-1080p-amzn-web-dl.k10539912897538) • [🐱 Nyaa](https://nyaa.si/?q=6BW4HJRMOW5IGZHOXZPEENPESNSS7I47) |
-| `[SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyoushits...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2101309) • [🐱 Nyaa](https://nyaa.si/?q=VTWEITPOQBSITKVT2SR2EDOAAZAUEC3G) |
-| `[SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyoushits...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2101307) • [🐱 Nyaa](https://nyaa.si/?q=GHAAUVJLXMSASMIYABYDLT6XK6L6B7WO) |
-| `[SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyoushits...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2101308) • [🐱 Nyaa](https://nyaa.si/?q=QYPSNJBZAQNS2BHEKZZXFPCQBP3PGI3B) |
-| `[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.k10539893840398) • [🐱 Nyaa](https://nyaa.si/?q=775TO6W4CCWPUEJLJNPUFHCQMZDTSZDU) |
-| `[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.k10539892180749) • [🐱 Nyaa](https://nyaa.si/?q=F7NDSMMIYNOZWJMZXCXQN47OICUPWSSK) |
-| `[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.k10539890602510) • [🐱 Nyaa](https://nyaa.si/?q=BCAITZ2JA7G5BEBPE2WH2JEYWV2ZQRLB) |
-| `[ToonsHub] Classroom of the Elite S04E07 1080p BILI WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-elite-s04e07-1080p-bili-web-dl.k10539889707277) • [🐱 Nyaa](https://nyaa.si/?q=32NXQXWI333VU73BFXF4H5OL26IHCMDQ) |
+| `[ToonsHub] ReZERO -Starting Life in Another World- S04E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rezero-starting-life-another-world-s04e03-1080p.k10541906598666) • [🐱 Nyaa](https://nyaa.si/?q=WXIQJ47XNVVY2KAHAD2V45WCQGIWSKQK) |
+| `[VARYG] Re ZERO Starting Life in Another World S04E03 The...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-re-zero-starting-life-another-world-s04e03.k10541788552971) • [🐱 Nyaa](https://nyaa.si/?q=PDKNJFTXKYFCDTCBGTZBABQHUDLU6W6W) |
+| `[VARYG] OSHI NO KO S03E04 Blind 1080p CR WEB-DL MULTi AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-oshi-no-ko-s03e04-blind-1080p-cr.k10541762655234) • [🐱 Nyaa](https://nyaa.si/?q=GARLO4QZDRQVBIJJMHVHXW6VBRPMXHTU) |
+| `[ToonsHub] ReZERO Starting Life in Another World S04E03 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rezero-starting-life-another-world-s04e03-1080p.k10541725695754) • [🐱 Nyaa](https://nyaa.si/?q=FQRQI7Q3B52HK57WWX52CQYDRDK4HSRR) |
+| `Re ZERO Starting Life in Another World S04E03 The Keeper ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/re-zero-starting-life-another-world-s04e03-keeper.n2101413) • [🐱 Nyaa](https://nyaa.si/?q=HLNNDGI36DA47LO2ZHOHZ3Z3S73LP5QE) |
+| `Dorohedoro S02E06 Farewell Caiman-Memory Bubbles 1080p BI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dorohedoro-s02e06-farewell-caiman-memory-bubbles-1080p-bili.n2101411) • [🐱 Nyaa](https://nyaa.si/?q=MRYNQFY3APWAF6IWJZTPF3GFKVFTGSD6) |
+| `[ToonsHub] Dorohedoro S02E06 1080p NF WEB-DL DUAL DDP5.1 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-s02e06-1080p-nf-web-dl-dual.k10541532634885) • [🐱 Nyaa](https://nyaa.si/?q=2PXICVOZWH7KFVGXIOYXWKAFA6F5WRQP) |
+| `[Yameii] Dorohedoro - S02E06 [English Dub] [CR WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e06-english-dub-cr-web-dl.n2101408) • [🐱 Nyaa](https://nyaa.si/?q=BHX22R3TSPZM4CZRTDCPZC4KBKXJACRT) |
+| `[Yameii] Reborn as a Vending Machine, I Now Wander the Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-reborn-vending-machine-now-wander-dungeon-s03e02.k10541531084554) • [🐱 Nyaa](https://nyaa.si/?q=4Z4LFIQS2N7E7WUXB2XBPXERTBBADFRP) |
+| `[Yameii] Re:ZERO, Starting Life in Another World - S04E03...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-re-zero-starting-life-another-world-s04e03.k10541530339081) • [🐱 Nyaa](https://nyaa.si/?q=3YQ3262YJOCAVNMAHFV4V3G64IPDZL7P) |
+| `[Yameii] Oshi no Ko - S03E04 [English Dub] [CR WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-oshi-no-ko-s03e04-english-dub-cr.k10541529688322) • [🐱 Nyaa](https://nyaa.si/?q=AN2SOEXN6DERJMTLHDCRWPWHHRXAZWW6) |
+| `Dorohedoro S02E06 1080p NF WEB-DL DUAL DDP5.1 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dorohedoro-s02e06-1080p-nf-web-dl-dual-ddp5.n2101403) • [🐱 Nyaa](https://nyaa.si/?q=GOSIRC3RBQHYWLCP332ZBE3JCANMAGEB) |
+| `Dorohedoro S02E06 1080p NF WEB-DL MULTi DDP5.1 H 264-VARY...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dorohedoro-s02e06-1080p-nf-web-dl-multi-ddp5.n2101402) • [🐱 Nyaa](https://nyaa.si/?q=C2TT274JSZGVA3HNJRBP5ZXF4T267XFF) |
+| `[Yameii] Dorohedoro - S02E06 [English Dub] [CR WEB-DL 720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e06-english-dub-cr-web-dl.n2101400) • [🐱 Nyaa](https://nyaa.si/?q=S5TZJALZEIH445PXIXGTR4TKTA5KXFYT) |
+| `[Yameii] Reborn as a Vending Machine, I Now Wander the Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-reborn-vending-machine-now-wander-dungeon-s03e02.k10541437208847) • [🐱 Nyaa](https://nyaa.si/?q=LSLJSAVNMG5EPGVIO6QEIGRX7C26J4P5) |
 
 ---
 <div align="center">
