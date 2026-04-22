@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.39.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.44.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Sasaki and Miyano S01 1080p CR WEB-DL MULTi AAC2.0 H 264-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sasaki-miyano-s01-1080p-cr-web-dl-multi.n2101283) • [🐱 Nyaa](https://nyaa.si/?q=62X3YWPE4QGXURIESBH4UETBBARRS6RB) |
+| `[Gecko] Cat Tales - S01E28 (うごく！ねこむかしばなし; Ugoku! Neko Muk...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e28-ugoku-neko-mukashibanashi-ytb.n2101280) • [🐱 Nyaa](https://nyaa.si/?q=4WJNDSUMR6NIT6UYO4LVCGXCDVXBH2WB) |
+| `[ToonsHub] Cat Tales S01E28 1080p LNTV WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-cat-tales-s01e28-1080p-lntv-web-dl.n2101278) • [🐱 Nyaa](https://nyaa.si/?q=W7PFG4THZINZQE42HYD6CPEKD5MOUHKL) |
+| `Walking the Way all alone S01E04 1080p BILI WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/walking-way-all-alone-s01e04-1080p-bili-web.n2101275) • [🐱 Nyaa](https://nyaa.si/?q=QPULP34FWHLEDBXAIO33ID7AVSY5EGK5) |
 | `[Tasokare] Darling in the Franxx S01 (BD 1080p Opus AV1)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-darling-franxx-s01-bd-1080p-opus-av1.k10537708066315) • [🐱 Nyaa](https://nyaa.si/?q=P342DCTO2WNDKMRN56ZFQYPMK4LKFYSH) |
 | `[Kawatare] Darling in the Franxx S01 (BD 1080p FLAC x265)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-darling-franxx-s01-bd-1080p-flac-x265.k10537705660677) • [🐱 Nyaa](https://nyaa.si/?q=36NRXS64E3AFNNCQ74LXWCM3UZJXLW7S) |
 | `[SubsPlus+] Pon no Michi S01 (NF WEB-DL 1080p AVC AAC) (B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-pon-no-michi-s01-nf-web-dl.k10537341709327) • [🐱 Nyaa](https://nyaa.si/?q=POSO2WYEL6AON6X6QGJ6U4ID6Y3XFFOB) |
@@ -39,10 +43,6 @@
 | `[SubsPlus+] Hell Mode S01 (ADN WEB-DL 1080p AVC AAC) | HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-hell-mode-s01-adn-web-dl-1080p.k10534908257293) • [🐱 Nyaa](https://nyaa.si/?q=22WART74C5ZR6W4LE4EWM7PZJDZONR7L) |
 | `[LbE3L] Daemons of the Shadow Realm S01E03 [1080p CUSTOM ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-daemons-shadow-realm-s01e03-1080p-custom-webrip.k10533895036940) • [🐱 Nyaa](https://nyaa.si/?q=FDOSBTQZWLWG2CUGRHHQ7AWIEWWTE7WC) |
 | `[LbE3L] [H.266] Daemons of the Shadow Realm S01E03 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-daemons-shadow-realm-s01e03-1080p.k10533822118925) • [🐱 Nyaa](https://nyaa.si/?q=YQ3KZTNM3JCBGP5EXMPX6Q55WS2LB4Z7) |
-| `[DKB] Re:Zero kara Hajimeru Isekai Seikatsu - S04E02 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-re-zero-kara-hajimeru-isekai-seikatsu-s04e02.n2101235) • [🐱 Nyaa](https://nyaa.si/?q=BKLT76T3VM632RS23S4I2NQWMO3CJFOS) |
-| `[DKB] Re:Zero kara Hajimeru Isekai Seikatsu - S04E01 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-re-zero-kara-hajimeru-isekai-seikatsu-s04e01.n2101234) • [🐱 Nyaa](https://nyaa.si/?q=NLWM5XLZPOPUXLMRRBDGFD7XKIIDHVGX) |
-| `[DKB] Kijin Gentoushou - S01E21 [1080p][V2][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kijin-gentoushou-s01e21-1080p-v2-hevc-x265-10bit-weekly.n2101218) • [🐱 Nyaa](https://nyaa.si/?q=SU7TMVAYOPA3HP4JRJIG2X6UIBW2YURI) |
-| `[DKB] Nippon Sangoku - S01E03 [1080p][HEVC x265 10bit]Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-nippon-sangoku-s01e03-1080p-hevc-x265-10bit.n2101214) • [🐱 Nyaa](https://nyaa.si/?q=OTCOKNUVMUTS65T4OFOZ3F6XSE2LHDZQ) |
 
 ---
 <div align="center">
