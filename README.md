@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.52.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.02.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Dorohedoro Season 2 - 06 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-06-1080p-cr.k10547557449226) • [🐱 Nyaa](https://nyaa.si/?q=LNPUIFW663UYM7D7JHZSOGARKZEUZMC6) |
+| `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E03 [1080p][HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otaku-ni-yasashii-gal-wa-inai-s01e03.n2101648) • [🐱 Nyaa](https://nyaa.si/?q=WK2XAXSJUQ7YPWRVP732TEGRPS7PGA2C) |
+| `[DKB] Dorohedoro - S02E06 [1080p][HEVC x265 10bit][Multi-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-dorohedoro-s02e06-1080p-hevc-x265-10bit-multi-subs.n2101647) • [🐱 Nyaa](https://nyaa.si/?q=2L2YH7QTVU5SKFYV7IHULL6FE6MWW34X) |
+| `[nekotan] Kiniro Mosaic Thank You!! 2021 (BD Remux 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-kiniro-mosaic-thank-2021-bd-remux-1080p.k10546649365775) • [🐱 Nyaa](https://nyaa.si/?q=5N7BKUFV4JQ2HVHC6PHSKDDGKG5XZ7SF) |
+| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2101644) • [🐱 Nyaa](https://nyaa.si/?q=74BROK7NCGAQACAWVQYICFTXMHY63S7H) |
 | `[FBI] Re:Zero Starting Life in Another World - S04E03 (CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fbi-re-zero-starting-life-another-world-s04e03.n2101619) • [🐱 Nyaa](https://nyaa.si/?q=4ZYYKZNP6WVGQTPYFHMABD77VFCAJDFA) |
 | `The Beginning After the End S02E01 The King Begins Advent...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beginning-after-end-s02e01-king-begins-adventuring-1080p.n2101618) • [🐱 Nyaa](https://nyaa.si/?q=TOKCDGWS6KMUCEKISMGMMLVP27WTMQ6U) |
 | `Reborn as a Vending Machine I Now Wander the Dungeon S03E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-vending-machine-now-wander-dungeon-s03e01-each.n2101617) • [🐱 Nyaa](https://nyaa.si/?q=ZIDBLX3REJWA7LQOP44RTX4LJUIVTNXK) |
@@ -38,11 +43,6 @@
 | `[ToonsHub] Go For It Nakamura-kun S01E01 REPACK 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-go-nakamura-kun-s01e01-repack-1080p-cr.k10545746322188) • [🐱 Nyaa](https://nyaa.si/?q=ANH4W4N6BD2JPYDMXMT6WQARFWM25XAH) |
 | `[Gecko] Candy Caries - S01E02 (キャンディーカリエス) [YTB.WEB-DL 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-candy-caries-s01e02-ytb-web-dl-1080p.k10545695258882) • [🐱 Nyaa](https://nyaa.si/?q=O5HY4D6QXFQGE6JAN3YVWAOFGJ7U7SOR) |
 | `[BlackRabbit] Tokyo Revengers (2021) - S03 [Bluray-1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tokyo-revengers-2021-s03-bluray-1080p-opus.k10545609593091) • [🐱 Nyaa](https://nyaa.si/?q=EZD4H6C3HVR6JKJEIBMQLLPHALWMEG2C) |
-| `[BlackRabbit] Tokyo Revengers (2021) - S02 [Bluray-1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tokyo-revengers-2021-s02-bluray-1080p-opus.k10545499411201) • [🐱 Nyaa](https://nyaa.si/?q=P6H2FNCAOWSQKKF2IKY3SVQXV6KRPHHB) |
-| `[Kaizoku] Jujutsu Kaisen Season 3 (WEB 1080p HEVC EAC-3) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaizoku-jujutsu-kaisen-season-3-web-1080p-hevc.k10545424181760) • [🐱 Nyaa](https://nyaa.si/?q=QRNELBOSUWMSVZNRLQFXPO4KKM75FZ6T) |
-| `[miniKaizoku] Jujutsu Kaisen Season 3 (WEB 1080p AV1 EAC-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/minikaizoku-jujutsu-kaisen-season-3-web-1080p-av1.k10545423342342) • [🐱 Nyaa](https://nyaa.si/?q=VOP5RBJG7V6ET2FVOLOIBYFBRKGY4RQM) |
-| `[BlackRabbit] Tokyo Revengers (2021) - S01 [Bluray-1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-tokyo-revengers-2021-s01-bluray-1080p-opus.k10545376963597) • [🐱 Nyaa](https://nyaa.si/?q=DF74YE4DXIXTT2X55BQTGXPHBTLAK23H) |
-| `[ToonsHub] The Beginning After the End S02E01 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-beginning-after-end-s02e01-1080p-cr-web.k10545356681728) • [🐱 Nyaa](https://nyaa.si/?q=WPGKZPOLKUTEP2NVVYFX7RKQKTHKLKYT) |
 
 ---
 <div align="center">
