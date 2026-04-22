@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.38.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.14.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlus+] Hell Mode S01 (ADN WEB-DL 1080p AVC AAC) | HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-hell-mode-s01-adn-web-dl-1080p.k10534908257293) • [🐱 Nyaa](https://nyaa.si/?q=22WART74C5ZR6W4LE4EWM7PZJDZONR7L) |
+| `[LbE3L] Daemons of the Shadow Realm S01E03 [1080p CUSTOM ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-daemons-shadow-realm-s01e03-1080p-custom-webrip.k10533895036940) • [🐱 Nyaa](https://nyaa.si/?q=FDOSBTQZWLWG2CUGRHHQ7AWIEWWTE7WC) |
+| `[LbE3L] [H.266] Daemons of the Shadow Realm S01E03 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-daemons-shadow-realm-s01e03-1080p.k10533822118925) • [🐱 Nyaa](https://nyaa.si/?q=YQ3KZTNM3JCBGP5EXMPX6Q55WS2LB4Z7) |
 | `[DKB] Re:Zero kara Hajimeru Isekai Seikatsu - S04E02 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-re-zero-kara-hajimeru-isekai-seikatsu-s04e02.n2101235) • [🐱 Nyaa](https://nyaa.si/?q=BKLT76T3VM632RS23S4I2NQWMO3CJFOS) |
 | `[DKB] Re:Zero kara Hajimeru Isekai Seikatsu - S04E01 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-re-zero-kara-hajimeru-isekai-seikatsu-s04e01.n2101234) • [🐱 Nyaa](https://nyaa.si/?q=NLWM5XLZPOPUXLMRRBDGFD7XKIIDHVGX) |
 | `[DKB] Kijin Gentoushou - S01E21 [1080p][V2][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kijin-gentoushou-s01e21-1080p-v2-hevc-x265-10bit-weekly.n2101218) • [🐱 Nyaa](https://nyaa.si/?q=SU7TMVAYOPA3HP4JRJIG2X6UIBW2YURI) |
@@ -40,9 +43,6 @@
 | `[AK4NE] Nippon Sangoku: The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-nippon-sangoku-three-nations-crimson-sun-2026.k10530816643840) • [🐱 Nyaa](https://nyaa.si/?q=HMHOW2SX66WJRZRBC4VVSZFVRQHFK7NW) |
 | `[AK4NE] Nippon Sangoku: The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-nippon-sangoku-three-nations-crimson-sun-2026.k10530815185674) • [🐱 Nyaa](https://nyaa.si/?q=QZHUKGUJ2RJGFUPJU54MXEMZ6FEJOXY5) |
 | `[washed] Koori no Jouheki - S01E02 (WEB 1080p HEVC E-AC3)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/washed-koori-no-jouheki-s01e02-web-1080p-hevc.k10529961909519) • [🐱 Nyaa](https://nyaa.si/?q=HZAIFB3N4VHXVOZ3Y7IM3XNSQYD3TVVO) |
-| `[Salieri] Kaiju No. 8 - Kaijuu 8-gou - S2 - BD (1080p) (H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/salieri-kaiju-no-8-kaijuu-gou-s2-bd.n2101165) • [🐱 Nyaa](https://nyaa.si/?q=GYHYIV7WYYH6EADZ4CDWUUC25FBJXTVC) |
-| `[SubsPlease] Kaya-chan wa Kowakunai (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-01-12-1080p-batch.n2101159) • [🐱 Nyaa](https://nyaa.si/?q=NYMF6WKABDW4HUPI4ARULIVUUUV6MBTP) |
-| `[SubsPlease] Kaya-chan wa Kowakunai (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-01-12-720p-batch.n2101158) • [🐱 Nyaa](https://nyaa.si/?q=AJPARE5L7TCMHYQW3ODMIHOTKIGMBTKQ) |
 
 ---
 <div align="center">
