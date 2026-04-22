@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.59.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.39.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Tasokare] Darling in the Franxx S01 (BD 1080p Opus AV1)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-darling-franxx-s01-bd-1080p-opus-av1.k10537708066315) • [🐱 Nyaa](https://nyaa.si/?q=P342DCTO2WNDKMRN56ZFQYPMK4LKFYSH) |
+| `[Kawatare] Darling in the Franxx S01 (BD 1080p FLAC x265)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-darling-franxx-s01-bd-1080p-flac-x265.k10537705660677) • [🐱 Nyaa](https://nyaa.si/?q=36NRXS64E3AFNNCQ74LXWCM3UZJXLW7S) |
+| `[SubsPlus+] Pon no Michi S01 (NF WEB-DL 1080p AVC AAC) (B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-pon-no-michi-s01-nf-web-dl.k10537341709327) • [🐱 Nyaa](https://nyaa.si/?q=POSO2WYEL6AON6X6QGJ6U4ID6Y3XFFOB) |
+| `ゆき Yuki: Snow Fairy (1981) [Blu-ray 1080p | Japanese Audi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yuki-snow-fairy-1981-blu-ray-1080p-japanese.n2101266) • [🐱 Nyaa](https://nyaa.si/?q=TI3WDOVU7D65DOQGF3F4H7ZSHAK3UAQ6) |
 | `[Rododendron] Slow Step (WEB 720p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rododendron-slow-step-web-720p.n2101263) • [🐱 Nyaa](https://nyaa.si/?q=3L5BNJMHZP42W24GKKODTGM6K5R5QJE6) |
 | `[Feibanyama] Wistoria Wand and Sword S02E02 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e02-bilibili-webrip-2160p.n2101259) • [🐱 Nyaa](https://nyaa.si/?q=IRCZYL3JQ72XWA6Z3WRO26Y6PNQC6NKM) |
 | `Tatamp (BD 1080p MPEG-2)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tatamp-bd-1080p-mpeg-2.n2101251) • [🐱 Nyaa](https://nyaa.si/?q=V7VRDCMAK4OJOKHG6WCGLM7P23FMWIBL) |
@@ -39,10 +43,6 @@
 | `[DKB] Re:Zero kara Hajimeru Isekai Seikatsu - S04E01 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-re-zero-kara-hajimeru-isekai-seikatsu-s04e01.n2101234) • [🐱 Nyaa](https://nyaa.si/?q=NLWM5XLZPOPUXLMRRBDGFD7XKIIDHVGX) |
 | `[DKB] Kijin Gentoushou - S01E21 [1080p][V2][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kijin-gentoushou-s01e21-1080p-v2-hevc-x265-10bit-weekly.n2101218) • [🐱 Nyaa](https://nyaa.si/?q=SU7TMVAYOPA3HP4JRJIG2X6UIBW2YURI) |
 | `[DKB] Nippon Sangoku - S01E03 [1080p][HEVC x265 10bit]Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-nippon-sangoku-s01e03-1080p-hevc-x265-10bit.n2101214) • [🐱 Nyaa](https://nyaa.si/?q=OTCOKNUVMUTS65T4OFOZ3F6XSE2LHDZQ) |
-| `[DKB] Nippon Sangoku - S01E02 [1080p][HEVC x265 10bit]Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-nippon-sangoku-s01e02-1080p-hevc-x265-10bit.n2101213) • [🐱 Nyaa](https://nyaa.si/?q=MAKAKG2SVR44K65GDI4P7VIBBYUXTUM5) |
-| `[DKB] Nippon Sangoku - S01E01 [1080p][HEVC x265 10bit]Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-nippon-sangoku-s01e01-1080p-hevc-x265-10bit.n2101211) • [🐱 Nyaa](https://nyaa.si/?q=G5664BJUFJ33EO2HIZ4NRE3GIWG2OG3N) |
-| `MARRIAGETOXIN S01E01 The Poison Masters Search for a Brid...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/marriagetoxin-s01e01-poison-masters-search-bride-1080p-bili.n2101187) • [🐱 Nyaa](https://nyaa.si/?q=4QEUO26LUQQG7HL7O47XP7742XZUGQJG) |
-| `[ToonsHub] Walking the Way all alone S01E04 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e04-1080p-bili.n2101186) • [🐱 Nyaa](https://nyaa.si/?q=WS6ZAIKP2S4YYMFTJ2N5ZJDTKUR7MS3L) |
 
 ---
 <div align="center">
