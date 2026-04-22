@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.52.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.20.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `MARRIAGETOXIN S01E01 The Poison Masters Search for a Brid...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/marriagetoxin-s01e01-poison-masters-search-bride-1080p-bili.n2101187) • [🐱 Nyaa](https://nyaa.si/?q=4QEUO26LUQQG7HL7O47XP7742XZUGQJG) |
+| `[ToonsHub] Walking the Way all alone S01E04 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e04-1080p-bili.n2101186) • [🐱 Nyaa](https://nyaa.si/?q=WS6ZAIKP2S4YYMFTJ2N5ZJDTKUR7MS3L) |
+| `[AK4NE] Nippon Sangoku: The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-nippon-sangoku-three-nations-crimson-sun-2026.k10530817979915) • [🐱 Nyaa](https://nyaa.si/?q=7XA2Y5UCZQE6FDK2BATDGDIWQW32RVBE) |
+| `[AK4NE] Nippon Sangoku: The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-nippon-sangoku-three-nations-crimson-sun-2026.k10530816643840) • [🐱 Nyaa](https://nyaa.si/?q=HMHOW2SX66WJRZRBC4VVSZFVRQHFK7NW) |
+| `[AK4NE] Nippon Sangoku: The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-nippon-sangoku-three-nations-crimson-sun-2026.k10530815185674) • [🐱 Nyaa](https://nyaa.si/?q=QZHUKGUJ2RJGFUPJU54MXEMZ6FEJOXY5) |
+| `[washed] Koori no Jouheki - S01E02 (WEB 1080p HEVC E-AC3)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/washed-koori-no-jouheki-s01e02-web-1080p-hevc.k10529961909519) • [🐱 Nyaa](https://nyaa.si/?q=HZAIFB3N4VHXVOZ3Y7IM3XNSQYD3TVVO) |
+| `[Salieri] Kaiju No. 8 - Kaijuu 8-gou - S2 - BD (1080p) (H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/salieri-kaiju-no-8-kaijuu-gou-s2-bd.n2101165) • [🐱 Nyaa](https://nyaa.si/?q=GYHYIV7WYYH6EADZ4CDWUUC25FBJXTVC) |
+| `[SubsPlease] Kaya-chan wa Kowakunai (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-01-12-1080p-batch.n2101159) • [🐱 Nyaa](https://nyaa.si/?q=NYMF6WKABDW4HUPI4ARULIVUUUV6MBTP) |
+| `[SubsPlease] Kaya-chan wa Kowakunai (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-01-12-720p-batch.n2101158) • [🐱 Nyaa](https://nyaa.si/?q=AJPARE5L7TCMHYQW3ODMIHOTKIGMBTKQ) |
+| `[SubsPlease] Kaya-chan wa Kowakunai (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kaya-chan-wa-kowakunai-01-12-480p-batch.n2101157) • [🐱 Nyaa](https://nyaa.si/?q=3JCL43BSTABRSNPW4Q2MFYJMQVDJH7UB) |
 | `[Unfucked] I Made Friends with the Second Prettiest Girl ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-made-friends-second-prettiest-girl-my-class.n2101154) • [🐱 Nyaa](https://nyaa.si/?q=JMWTYG2QMAUSRYOF2MBQW3VUKK7MPZHU) |
 | `[SubsPlease] Uruwashi no Yoi no Tsuki (01-12) (1080p) [Ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-uruwashi-no-yoi-no-tsuki-01-12-1080p-batch.n2101151) • [🐱 Nyaa](https://nyaa.si/?q=ZJSTIERYTVE4POVOLAWT5DKRNILPNFVA) |
 | `[SubsPlease] Uruwashi no Yoi no Tsuki (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-uruwashi-no-yoi-no-tsuki-01-12-720p-batch.n2101150) • [🐱 Nyaa](https://nyaa.si/?q=X2THUJZV7GJFELGDCDL7FNEI47F2NDYS) |
 | `[SubsPlease] Uruwashi no Yoi no Tsuki (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-uruwashi-no-yoi-no-tsuki-01-12-480p-batch.n2101149) • [🐱 Nyaa](https://nyaa.si/?q=XIRXTV44M4X564SV2VTXDPSZWQSROEHE) |
 | `[Judas] SI-VIS The Sound of Heroes (Season 01) [1080p][HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-si-vis-sound-heroes-season-01-1080p.n2101145) • [🐱 Nyaa](https://nyaa.si/?q=G3TIFL6QYTHQ72HLQJZDTWUBNGDNOWBU) |
-| `[Judas] Darwin Jihen (The Darwin Incident) (Season 01) [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-darwin-jihen-incident-season-01-1080p-hevc.n2101144) • [🐱 Nyaa](https://nyaa.si/?q=MRSLOOFNBEHGSABG6EDDN7GNNRQC7DLJ) |
-| `[Judas] Fumetsu no Anata e (To Your Eternity) (Season 03)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-fumetsu-no-anata-e-your-eternity-season.n2101143) • [🐱 Nyaa](https://nyaa.si/?q=UB4NKCFFPN6URJJGQNOR2L3UJTC2UVMK) |
-| `[Judas] Shibou Yuugi de Meshi o Kuu (Playing Death Games ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-shibou-yuugi-de-meshi-o-kuu-playing.n2101141) • [🐱 Nyaa](https://nyaa.si/?q=DRAWBDHXKOA3NXU4NBF7UTGECF7WUM5Q) |
-| `[Yuumajin] Massugu ni Ikou (2003-2004) - Complete (720x48...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yuumajin-massugu-ni-ikou-2003-2004-complete-720x480.n2101139) • [🐱 Nyaa](https://nyaa.si/?q=F7XGDZFZNZGNPJ7VWINDFSQ4PJK7RYA7) |
-| `[sam] Dr. STONE - Science Future - S04E27 (WEB 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-dr-stone-science-future-s04e27-web-1080p.n2101138) • [🐱 Nyaa](https://nyaa.si/?q=FVLD5JLE4RVS74AOM4FO4G4J74R7QW5I) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.n2101137) • [🐱 Nyaa](https://nyaa.si/?q=TOZJWVJZJQM7EX6O5JZTHRDRG3SLV3E5) |
-| `[BlackRabbit] Panty & Stocking with Garterbelt (2010) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-panty-stocking-garterbelt-2010-s00-bluray-720p.k10526550337030) • [🐱 Nyaa](https://nyaa.si/?q=F2XEGX2SCPAZHFOZ2KKZMUVYYCTRPN2N) |
-| `[BlackRabbit] Panty & Stocking with Garterbelt (2010) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-panty-stocking-garterbelt-2010-s02-bluray-1080p.k10526354023689) • [🐱 Nyaa](https://nyaa.si/?q=VYJVFVGZIZRRHOBRCC5HVT5LKQEH37HW) |
-| `[SubsPlease] Dead Account (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-dead-account-01-12-1080p-batch.n2101136) • [🐱 Nyaa](https://nyaa.si/?q=WE3VRXYXMT52QGL6LIGX4NVL3PHPWW2A) |
-| `[SubsPlease] Dead Account (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-dead-account-01-12-720p-batch.n2101135) • [🐱 Nyaa](https://nyaa.si/?q=E6E24LSQZ7E4JTNZZU7HOC5KMKXWRTB4) |
 
 ---
 <div align="center">
