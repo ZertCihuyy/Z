@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.14.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.59.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Rododendron] Slow Step (WEB 720p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rododendron-slow-step-web-720p.n2101263) • [🐱 Nyaa](https://nyaa.si/?q=3L5BNJMHZP42W24GKKODTGM6K5R5QJE6) |
+| `[Feibanyama] Wistoria Wand and Sword S02E02 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e02-bilibili-webrip-2160p.n2101259) • [🐱 Nyaa](https://nyaa.si/?q=IRCZYL3JQ72XWA6Z3WRO26Y6PNQC6NKM) |
+| `Tatamp (BD 1080p MPEG-2)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tatamp-bd-1080p-mpeg-2.n2101251) • [🐱 Nyaa](https://nyaa.si/?q=V7VRDCMAK4OJOKHG6WCGLM7P23FMWIBL) |
+| `[SubsPlus+] Reincarnated as a Dragon Hatchling S01 (AMZN ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-reincarnated-dragon-hatchling-s01-amzn-web-dl.k10535012484104) • [🐱 Nyaa](https://nyaa.si/?q=5HFHNXH2I6LRUVGWWEK2Z3MNYTVHXVZZ) |
 | `[SubsPlus+] Hell Mode S01 (ADN WEB-DL 1080p AVC AAC) | HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-hell-mode-s01-adn-web-dl-1080p.k10534908257293) • [🐱 Nyaa](https://nyaa.si/?q=22WART74C5ZR6W4LE4EWM7PZJDZONR7L) |
 | `[LbE3L] Daemons of the Shadow Realm S01E03 [1080p CUSTOM ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-daemons-shadow-realm-s01e03-1080p-custom-webrip.k10533895036940) • [🐱 Nyaa](https://nyaa.si/?q=FDOSBTQZWLWG2CUGRHHQ7AWIEWWTE7WC) |
 | `[LbE3L] [H.266] Daemons of the Shadow Realm S01E03 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-daemons-shadow-realm-s01e03-1080p.k10533822118925) • [🐱 Nyaa](https://nyaa.si/?q=YQ3KZTNM3JCBGP5EXMPX6Q55WS2LB4Z7) |
@@ -39,10 +43,6 @@
 | `[DKB] Nippon Sangoku - S01E01 [1080p][HEVC x265 10bit]Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-nippon-sangoku-s01e01-1080p-hevc-x265-10bit.n2101211) • [🐱 Nyaa](https://nyaa.si/?q=G5664BJUFJ33EO2HIZ4NRE3GIWG2OG3N) |
 | `MARRIAGETOXIN S01E01 The Poison Masters Search for a Brid...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/marriagetoxin-s01e01-poison-masters-search-bride-1080p-bili.n2101187) • [🐱 Nyaa](https://nyaa.si/?q=4QEUO26LUQQG7HL7O47XP7742XZUGQJG) |
 | `[ToonsHub] Walking the Way all alone S01E04 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e04-1080p-bili.n2101186) • [🐱 Nyaa](https://nyaa.si/?q=WS6ZAIKP2S4YYMFTJ2N5ZJDTKUR7MS3L) |
-| `[AK4NE] Nippon Sangoku: The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-nippon-sangoku-three-nations-crimson-sun-2026.k10530817979915) • [🐱 Nyaa](https://nyaa.si/?q=7XA2Y5UCZQE6FDK2BATDGDIWQW32RVBE) |
-| `[AK4NE] Nippon Sangoku: The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-nippon-sangoku-three-nations-crimson-sun-2026.k10530816643840) • [🐱 Nyaa](https://nyaa.si/?q=HMHOW2SX66WJRZRBC4VVSZFVRQHFK7NW) |
-| `[AK4NE] Nippon Sangoku: The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak4ne-nippon-sangoku-three-nations-crimson-sun-2026.k10530815185674) • [🐱 Nyaa](https://nyaa.si/?q=QZHUKGUJ2RJGFUPJU54MXEMZ6FEJOXY5) |
-| `[washed] Koori no Jouheki - S01E02 (WEB 1080p HEVC E-AC3)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/washed-koori-no-jouheki-s01e02-web-1080p-hevc.k10529961909519) • [🐱 Nyaa](https://nyaa.si/?q=HZAIFB3N4VHXVOZ3Y7IM3XNSQYD3TVVO) |
 
 ---
 <div align="center">
