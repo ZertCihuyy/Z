@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.27.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.26.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Commie] Awajima Hyakkei - 03 [45D5D6DB].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-awajima-hyakkei-03-45d5d6db-mkv.n2102043) • [🐱 Nyaa](https://nyaa.si/?q=N6EBB3KKYDU3472TVD5I24UHUDMJTQVB) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 61 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kozame-odekake-little-sharks-outings-61-1080p-327a414e.n2102035) • [🐱 Nyaa](https://nyaa.si/?q=XGWEL4DRBB4WAVSQC3W4UYQEEBOEISZB) |
 | `[SubsPlease] Go-toubun no Hanayome Specials (01-04) (1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-go-toubun-no-hanayome-specials-01-04-1080p-batch.n2102032) • [🐱 Nyaa](https://nyaa.si/?q=XBNY7J6I6CQQW5KV2VEI4MFV5VG7DSQD) |
 | `[SubsPlease] Go-toubun no Hanayome Specials (01-04) (720p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-go-toubun-no-hanayome-specials-01-04-720p-batch.n2102031) • [🐱 Nyaa](https://nyaa.si/?q=VXHSPCOMDNPTUYIR25IGSRYR256JZFW5) |
@@ -42,7 +43,6 @@
 | `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.k10567831586306) • [🐱 Nyaa](https://nyaa.si/?q=X6WJWR4AXYXAQRIJOCT2Y7ZM3P2WSNON) |
 | `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mata-korosarete-shimatta-no-desu-ne-tantei.2076320) • [🐱 Nyaa](https://nyaa.si/?q=NONPDFXMUNYBDFQRON4PBSDCRFW6K3DN) |
 | `[ASW] Mata Korosarete Shimatta no desu ne, Tantei-sama - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-mata-korosarete-shimatta-no-desu-ne-tantei.n2101998) • [🐱 Nyaa](https://nyaa.si/?q=HFTWHE42WKCA7FONJFYGPDTGBFKAXP4U) |
-| `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mata-korosarete-shimatta-no-desu-ne-tantei.n2101996) • [🐱 Nyaa](https://nyaa.si/?q=OG6MEWOCJJSZQVSF6H6BLPW4FBFDFO4I) |
 
 ---
 <div align="center">
