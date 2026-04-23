@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.11.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.58.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] How dare you S02E15 REPACK 1080p iQ WEB-DL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dare-s02e15-repack-1080p-iq-web-dl.k10558919882248) • [🐱 Nyaa](https://nyaa.si/?q=NYU2DUYOYTFAJFGEUXQ3LU7LWD72BAT7) |
 | `[CicakRumah] Koupen-chan - S01E55 (コウペンちゃん; Koupen Chan) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cicakrumah-koupen-chan-s01e55-chan-amzn-web-dl.n2101743) • [🐱 Nyaa](https://nyaa.si/?q=OYV6HEYT2OBTIGNWXES3O3QAB5JRAUQQ) |
 | `Reincarnated as a Dragon Hatchling S01E06 1080p AMZN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reincarnated-dragon-hatchling-s01e06-1080p-amzn-web-dl.n2101734) • [🐱 Nyaa](https://nyaa.si/?q=ZZ4FTEOSLPZTZXI3PTQKGOKE7OJURQP6) |
 | `Chained Soldier S02E07 1080p AMZN WEB-DL DUAL DDP2.0 H 26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e07-1080p-amzn-web-dl-dual.n2101733) • [🐱 Nyaa](https://nyaa.si/?q=LP2I4PBRIZLEHEVGUS5XKKD5V44RXCLJ) |
@@ -42,7 +43,6 @@
 | `[Erai-raws] Reincarnation no Kaben - 03 [1080p AMZN WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-03-1080p-amzn.k10551290920969) • [🐱 Nyaa](https://nyaa.si/?q=DDEBHEOO3X4YT32HCGOTMNOAFW2UKQYD) |
 | `[Erai-raws] Reincarnation no Kaben - 02 [1080p AMZN WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-02-1080p-amzn.k10550502220815) • [🐱 Nyaa](https://nyaa.si/?q=TQQYDRJ7XSIAKJFB4QRK4ZU2UWEWIT3H) |
 | `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E03 (1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-gals-cant-kind-otaku-s01e03-1080p-cr.n2101687) • [🐱 Nyaa](https://nyaa.si/?q=6ZQ6NM75IA7MBKO3UPUW5JE4VHJHTJBP) |
-| `[Erai-raws] Reincarnation no Kaben - 01 [1080p AMZN WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-01-1080p-amzn.k10549552631811) • [🐱 Nyaa](https://nyaa.si/?q=KRMC5GSQQ65636G7ALPXBAXNIRMR6RHM) |
 
 ---
 <div align="center">
