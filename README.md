@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.42.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.40.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Beltraz] Akahori's Heretical Hour Love Game (2005) - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-akahoris-heretical-hour-love-game-2005-s01.k10569265257475) • [🐱 Nyaa](https://nyaa.si/?q=4JHQPCBWAPSBI2JPMVNWJN4YVOO2SQ2O) |
+| `The Ramparts of Ice S01E04 1080p NF WEB-DL AAC2.0 AV1 (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e04-1080p-nf-web-dl-aac2.n2102023) • [🐱 Nyaa](https://nyaa.si/?q=4A2M6K7EDQFMDPIRY34PJXWSWC2IPUH7) |
 | `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.n2102020) • [🐱 Nyaa](https://nyaa.si/?q=SXGE3343ACWHSPQQFUVRWRNR3PRFLD7U) |
 | `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E04 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-haibara-kun-no-tsuyokute-seishun-new-game.n2102013) • [🐱 Nyaa](https://nyaa.si/?q=DINNV6B5DLBEZMSR6J3KOB3XH2C2KHST) |
 | `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.k10567831586306) • [🐱 Nyaa](https://nyaa.si/?q=X6WJWR4AXYXAQRIJOCT2Y7ZM3P2WSNON) |
@@ -41,8 +43,6 @@
 | `[DKB] Koori no Jouheki - S01E04 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e04-1080p-hevc-x265.n2101992) • [🐱 Nyaa](https://nyaa.si/?q=THHKEK5B7PZJY2ZRJRQWYOK32R3PE5BJ) |
 | `[Erai-raws] Reincarnation no Kaben - 04 [1080p AMZN WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-04-1080p-amzn.k10566971666691) • [🐱 Nyaa](https://nyaa.si/?q=GOUWCG2GBV27XEVQ64H4A3ITI5MJGBU7) |
 | `Petals of Reincarnation S01E04 All-knowing and Corruption...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/petals-reincarnation-s01e04-all-knowing-corruption-1080p.n2101990) • [🐱 Nyaa](https://nyaa.si/?q=J2WIVVQUZQM6S6BIKAYMK5GPZ45ADVVW) |
-| `[ToonsHub] Killed again Mr Detective S01E04 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-killed-again-mr-detective-s01e04-1080p-cr.k10566744582917) • [🐱 Nyaa](https://nyaa.si/?q=BXJUOSVOWULZNEY52GKFFSRK2A3MBFRE) |
-| `[Onalrie] Awajima Hyakkei - S01E03 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-awajima-hyakkei-s01e03-1080p-webrip-av1-mkv.2076314) • [🐱 Nyaa](https://nyaa.si/?q=UPASXQ7EVHOSX2A7URQXQJYRMXLBDALC) |
 
 ---
 <div align="center">
