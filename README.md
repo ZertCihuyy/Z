@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.09.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.42.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.n2102020) • [🐱 Nyaa](https://nyaa.si/?q=SXGE3343ACWHSPQQFUVRWRNR3PRFLD7U) |
+| `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E04 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-haibara-kun-no-tsuyokute-seishun-new-game.n2102013) • [🐱 Nyaa](https://nyaa.si/?q=DINNV6B5DLBEZMSR6J3KOB3XH2C2KHST) |
+| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.k10567831586306) • [🐱 Nyaa](https://nyaa.si/?q=X6WJWR4AXYXAQRIJOCT2Y7ZM3P2WSNON) |
+| `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mata-korosarete-shimatta-no-desu-ne-tantei.2076320) • [🐱 Nyaa](https://nyaa.si/?q=NONPDFXMUNYBDFQRON4PBSDCRFW6K3DN) |
+| `[ASW] Mata Korosarete Shimatta no desu ne, Tantei-sama - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-mata-korosarete-shimatta-no-desu-ne-tantei.n2101998) • [🐱 Nyaa](https://nyaa.si/?q=HFTWHE42WKCA7FONJFYGPDTGBFKAXP4U) |
+| `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mata-korosarete-shimatta-no-desu-ne-tantei.n2101996) • [🐱 Nyaa](https://nyaa.si/?q=OG6MEWOCJJSZQVSF6H6BLPW4FBFDFO4I) |
+| `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 04 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-haibara-kun-no-tsuyokute-seishun-new-game.n2101995) • [🐱 Nyaa](https://nyaa.si/?q=JDKETNHPFCYEENYXUY5BNLTG5HLXZTS2) |
+| `[SubsPlus+] Petals of Reincarnation - S01E04 (AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-petals-reincarnation-s01e04-amzn-web-dl-1080p.n2101994) • [🐱 Nyaa](https://nyaa.si/?q=3XMIY4YDXL4IOKHXJX5PBNMWRXJ6ZGQF) |
 | `[Onalrie] Haibara-kun no Tsuyokute Seishun New Game - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-haibara-kun-no-tsuyokute-seishun-new-game.2076316) • [🐱 Nyaa](https://nyaa.si/?q=66F6WJKJFZBIJV4WEYVB6DP2XWEQLNYW) |
 | `[Freehold] Chained Soldier S02E07 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e07-repack2-adn-web-dl.k10567058784261) • [🐱 Nyaa](https://nyaa.si/?q=WVX634F7LKUIJL7G2SCQ6FVTHFL665M3) |
 | `[DKB] Koori no Jouheki - S01E04 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e04-1080p-hevc-x265.n2101992) • [🐱 Nyaa](https://nyaa.si/?q=THHKEK5B7PZJY2ZRJRQWYOK32R3PE5BJ) |
@@ -35,14 +43,6 @@
 | `Petals of Reincarnation S01E04 All-knowing and Corruption...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/petals-reincarnation-s01e04-all-knowing-corruption-1080p.n2101990) • [🐱 Nyaa](https://nyaa.si/?q=J2WIVVQUZQM6S6BIKAYMK5GPZ45ADVVW) |
 | `[ToonsHub] Killed again Mr Detective S01E04 1080p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-killed-again-mr-detective-s01e04-1080p-cr.k10566744582917) • [🐱 Nyaa](https://nyaa.si/?q=BXJUOSVOWULZNEY52GKFFSRK2A3MBFRE) |
 | `[Onalrie] Awajima Hyakkei - S01E03 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-awajima-hyakkei-s01e03-1080p-webrip-av1-mkv.2076314) • [🐱 Nyaa](https://nyaa.si/?q=UPASXQ7EVHOSX2A7URQXQJYRMXLBDALC) |
-| `Monster Eater S01E04 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e04-1080p-amzn-web-dl-ddp2.n2101988) • [🐱 Nyaa](https://nyaa.si/?q=JURV5KT64RFQ2MTYT7UFUHVXHLM3TTML) |
-| `[ASW] Awajima Hyakkei - 03 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-awajima-hyakkei-03-1080p-hevc-x265-10bit-aac.n2101987) • [🐱 Nyaa](https://nyaa.si/?q=5YNH4JVRS46YSWBZWJ5E7Z4KM7SWOJ5R) |
-| `[Gecko] Monster Eater - S01E04 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e04-mamonogurai-no-boukensha-ore.k10566675722497) • [🐱 Nyaa](https://nyaa.si/?q=Y7Y5KNZ4CVKD6YJQ443JJFJAG5QMNBMO) |
-| `[ASW] Reincarnation no Kaben - 04 [1080p HEVC x265 10Bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-reincarnation-no-kaben-04-1080p-hevc-x265-10bit-aac.n2101985) • [🐱 Nyaa](https://nyaa.si/?q=4UU7HNFZO7YPLM2N2LVCNNJEBXCRYGXR) |
-| `Killed again Mr Detective S01E04 The Kowloon Hotel Murder...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/killed-again-mr-detective-s01e04-kowloon-hotel-murderer.n2101983) • [🐱 Nyaa](https://nyaa.si/?q=VXOI3KJAVHLZ4DE3JHKONWGS2GQ3PXVC) |
-| `[SubsPlease] Mata Korosarete Shimatta no desu ne, Tantei-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mata-korosarete-shimatta-no-desu-ne-tantei.n2101982) • [🐱 Nyaa](https://nyaa.si/?q=SHDUSW62TC3SEMX7XNMD2IINNOS74BNY) |
-| `[SubsPlease] Mata Korosarete Shimatta no desu ne, Tantei-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-mata-korosarete-shimatta-no-desu-ne-tantei.n2101978) • [🐱 Nyaa](https://nyaa.si/?q=3FPQNY4TXFYT6TAWTWJE65AJSXFTINIE) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.k10566623929871) • [🐱 Nyaa](https://nyaa.si/?q=I6RLXH3WRWISY53C5G4ZSQWQ5TERKQD3) |
 
 ---
 <div align="center">
