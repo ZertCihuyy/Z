@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.48.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.09.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Reincarnated as a Dragon Hatchling S01E06 1080p AMZN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reincarnated-dragon-hatchling-s01e06-1080p-amzn-web-dl.n2101734) • [🐱 Nyaa](https://nyaa.si/?q=ZZ4FTEOSLPZTZXI3PTQKGOKE7OJURQP6) |
+| `Chained Soldier S02E07 1080p AMZN WEB-DL DUAL DDP2.0 H 26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e07-1080p-amzn-web-dl-dual.n2101733) • [🐱 Nyaa](https://nyaa.si/?q=LP2I4PBRIZLEHEVGUS5XKKD5V44RXCLJ) |
+| `HELL MODE S01E08 1080p AMZN WEB-DL DUAL DDP2.0 H 264-VARY...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hell-mode-s01e08-1080p-amzn-web-dl-dual.n2101732) • [🐱 Nyaa](https://nyaa.si/?q=GDU4LC37B4ADH5CCQP2WLCJQCTQA7XRY) |
+| `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa I...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lolihouse-otaku-ni-yasashii-gyaru-wa-inai-03.n2101717) • [🐱 Nyaa](https://nyaa.si/?q=465JMBXYZQPZ6P57LA4QT75EURWBV43L) |
 | `[Gecko] Cat Tales - S01E01-E28 (うごく！ねこむかしばなし; Ugoku! Neko...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e01-e28-ugoku-neko-mukashibanashi.k10553854053133) • [🐱 Nyaa](https://nyaa.si/?q=UXUUI7SN35A5RSJAE32R7IJRAG3H3OFW) |
 | `[Ironclad] Golden Kamuy - S05 [WEB.1080p.AV1] | Golden Ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-golden-kamuy-s05-web-1080p-av1-dual.n2101699) • [🐱 Nyaa](https://nyaa.si/?q=VTPRKFDHSMS3XUQUBONG2KSAWWKS3HP6) |
 | `[Gecko] Candy Caries - S01E02 (キャンディーカリエス) [CTHP.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-candy-caries-s01e02-cthp-web-dl-1080p.n2101698) • [🐱 Nyaa](https://nyaa.si/?q=KWMVHZCXSJJMJIN4BXLEYSCRUHA7ZYDI) |
@@ -39,10 +43,6 @@
 | `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E03 (1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-gals-cant-kind-otaku-s01e03-1080p-cr.n2101687) • [🐱 Nyaa](https://nyaa.si/?q=6ZQ6NM75IA7MBKO3UPUW5JE4VHJHTJBP) |
 | `[Erai-raws] Reincarnation no Kaben - 01 [1080p AMZN WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-01-1080p-amzn.k10549552631811) • [🐱 Nyaa](https://nyaa.si/?q=KRMC5GSQQ65636G7ALPXBAXNIRMR6RHM) |
 | `[ToonsHub] ReZERO Starting Life in Another World S04E03 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rezero-starting-life-another-world-s04e03-1080p.n2101680) • [🐱 Nyaa](https://nyaa.si/?q=ZWQ3GV6GHHA6KKC7H2H63MXIYMCPHU3B) |
-| `[DKB] Kanojo, Okarishimasu - S05E03 [1080p][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanojo-okarishimasu-s05e03-1080p-hevc-x265-10bit.n2101677) • [🐱 Nyaa](https://nyaa.si/?q=LF7BHRXC644HTRXO7G4OGJMH2ZFXBI5N) |
-| `[Erai-raws] Reincarnation no Kaben - 03 [720p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-03-720p-amzn.n2101676) • [🐱 Nyaa](https://nyaa.si/?q=Y325FSNZTST6PBXGIXYMREY56OPAY6TC) |
-| `[Erai-raws] Reincarnation no Kaben - 03 [1080p AMZN WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-03-1080p-amzn.n2101675) • [🐱 Nyaa](https://nyaa.si/?q=4S4KGYR5A7MRTW7NYTCQNVPCILNQJHPK) |
-| `[Erai-raws] Reincarnation no Kaben - 03 [540p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-03-540p-amzn.n2101674) • [🐱 Nyaa](https://nyaa.si/?q=P7GOVFK3OMRM5Q3WBYIDT5656VFPK5MF) |
 
 ---
 <div align="center">
