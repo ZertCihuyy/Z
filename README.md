@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.40.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.32.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Go-toubun no Hanayome Specials (01-04) (1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-go-toubun-no-hanayome-specials-01-04-1080p-batch.n2102032) • [🐱 Nyaa](https://nyaa.si/?q=XBNY7J6I6CQQW5KV2VEI4MFV5VG7DSQD) |
+| `[SubsPlease] Go-toubun no Hanayome Specials (01-04) (720p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-go-toubun-no-hanayome-specials-01-04-720p-batch.n2102031) • [🐱 Nyaa](https://nyaa.si/?q=VXHSPCOMDNPTUYIR25IGSRYR256JZFW5) |
+| `[SubsPlease] Go-toubun no Hanayome Specials (01-04) (480p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-go-toubun-no-hanayome-specials-01-04-480p-batch.n2102030) • [🐱 Nyaa](https://nyaa.si/?q=6OD65BPF3AGP6DASDLPNP2RPRPMFT6M6) |
+| `[DKB] Mata Korosarete Shimatta no desu ne, Tantei-sama - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-mata-korosarete-shimatta-no-desu-ne-tantei.n2102029) • [🐱 Nyaa](https://nyaa.si/?q=OMMPL7MUEPDRNK53UJ7UG7EQD3NKRP5D) |
+| `[DKB] Reincarnation no Kaben - S01E04 [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-reincarnation-no-kaben-s01e04-1080p-hevc-x265-10bit.n2102028) • [🐱 Nyaa](https://nyaa.si/?q=DNZHLBCZAPXSNG5LJXOHRY4LMGQAYKM7) |
+| `[Erai-raws] Awajima Hyakkei - 03 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-03-1080p-cr-webrip.n2102027) • [🐱 Nyaa](https://nyaa.si/?q=WHUHXRT5EVQQFSTCJEYO2Y7P2HHCFLOK) |
 | `[Beltraz] Akahori's Heretical Hour Love Game (2005) - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beltraz-akahoris-heretical-hour-love-game-2005-s01.k10569265257475) • [🐱 Nyaa](https://nyaa.si/?q=4JHQPCBWAPSBI2JPMVNWJN4YVOO2SQ2O) |
 | `The Ramparts of Ice S01E04 1080p NF WEB-DL AAC2.0 AV1 (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e04-1080p-nf-web-dl-aac2.n2102023) • [🐱 Nyaa](https://nyaa.si/?q=4A2M6K7EDQFMDPIRY34PJXWSWC2IPUH7) |
 | `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.n2102020) • [🐱 Nyaa](https://nyaa.si/?q=SXGE3343ACWHSPQQFUVRWRNR3PRFLD7U) |
@@ -37,12 +43,6 @@
 | `[ASW] Mata Korosarete Shimatta no desu ne, Tantei-sama - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-mata-korosarete-shimatta-no-desu-ne-tantei.n2101998) • [🐱 Nyaa](https://nyaa.si/?q=HFTWHE42WKCA7FONJFYGPDTGBFKAXP4U) |
 | `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mata-korosarete-shimatta-no-desu-ne-tantei.n2101996) • [🐱 Nyaa](https://nyaa.si/?q=OG6MEWOCJJSZQVSF6H6BLPW4FBFDFO4I) |
 | `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 04 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-haibara-kun-no-tsuyokute-seishun-new-game.n2101995) • [🐱 Nyaa](https://nyaa.si/?q=JDKETNHPFCYEENYXUY5BNLTG5HLXZTS2) |
-| `[SubsPlus+] Petals of Reincarnation - S01E04 (AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-petals-reincarnation-s01e04-amzn-web-dl-1080p.n2101994) • [🐱 Nyaa](https://nyaa.si/?q=3XMIY4YDXL4IOKHXJX5PBNMWRXJ6ZGQF) |
-| `[Onalrie] Haibara-kun no Tsuyokute Seishun New Game - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-haibara-kun-no-tsuyokute-seishun-new-game.2076316) • [🐱 Nyaa](https://nyaa.si/?q=66F6WJKJFZBIJV4WEYVB6DP2XWEQLNYW) |
-| `[Freehold] Chained Soldier S02E07 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e07-repack2-adn-web-dl.k10567058784261) • [🐱 Nyaa](https://nyaa.si/?q=WVX634F7LKUIJL7G2SCQ6FVTHFL665M3) |
-| `[DKB] Koori no Jouheki - S01E04 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e04-1080p-hevc-x265.n2101992) • [🐱 Nyaa](https://nyaa.si/?q=THHKEK5B7PZJY2ZRJRQWYOK32R3PE5BJ) |
-| `[Erai-raws] Reincarnation no Kaben - 04 [1080p AMZN WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-04-1080p-amzn.k10566971666691) • [🐱 Nyaa](https://nyaa.si/?q=GOUWCG2GBV27XEVQ64H4A3ITI5MJGBU7) |
-| `Petals of Reincarnation S01E04 All-knowing and Corruption...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/petals-reincarnation-s01e04-all-knowing-corruption-1080p.n2101990) • [🐱 Nyaa](https://nyaa.si/?q=J2WIVVQUZQM6S6BIKAYMK5GPZ45ADVVW) |
 
 ---
 <div align="center">
