@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.58.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.18.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Koalas Diary S01E30 1080p LNTV WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e30-1080p-lntv-web-dl.n2101771) • [🐱 Nyaa](https://nyaa.si/?q=DC6KBMLD6TAA4AMJ5JG37343OARF6ATR) |
+| `[Gecko] Koala's Diary - S01E30 (コアラ絵日記; Koala Enikki) [YT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e30-koala-enikki-ytb-web.n2101770) • [🐱 Nyaa](https://nyaa.si/?q=MAOSHMGBNU5UTAVAFXNO45DZW4GUBO3F) |
 | `[ToonsHub] How dare you S02E15 REPACK 1080p iQ WEB-DL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dare-s02e15-repack-1080p-iq-web-dl.k10558919882248) • [🐱 Nyaa](https://nyaa.si/?q=NYU2DUYOYTFAJFGEUXQ3LU7LWD72BAT7) |
 | `[CicakRumah] Koupen-chan - S01E55 (コウペンちゃん; Koupen Chan) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cicakrumah-koupen-chan-s01e55-chan-amzn-web-dl.n2101743) • [🐱 Nyaa](https://nyaa.si/?q=OYV6HEYT2OBTIGNWXES3O3QAB5JRAUQQ) |
 | `Reincarnated as a Dragon Hatchling S01E06 1080p AMZN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reincarnated-dragon-hatchling-s01e06-1080p-amzn-web-dl.n2101734) • [🐱 Nyaa](https://nyaa.si/?q=ZZ4FTEOSLPZTZXI3PTQKGOKE7OJURQP6) |
@@ -41,8 +43,6 @@
 | `[ToonsHub] Reborn as a Cat S01E26 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e26-1080p-bili-web-dl.n2101696) • [🐱 Nyaa](https://nyaa.si/?q=QLMDYTQUFFLV5AJJLR2DGC6Y3366RKQE) |
 | `Reborn as a Cat S01E25 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e25-1080p-bili-web-dl-aac2.n2101695) • [🐱 Nyaa](https://nyaa.si/?q=36DOJ3R2DHLVITJF362EKQENE6U7RSVQ) |
 | `[Erai-raws] Reincarnation no Kaben - 03 [1080p AMZN WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-03-1080p-amzn.k10551290920969) • [🐱 Nyaa](https://nyaa.si/?q=DDEBHEOO3X4YT32HCGOTMNOAFW2UKQYD) |
-| `[Erai-raws] Reincarnation no Kaben - 02 [1080p AMZN WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-02-1080p-amzn.k10550502220815) • [🐱 Nyaa](https://nyaa.si/?q=TQQYDRJ7XSIAKJFB4QRK4ZU2UWEWIT3H) |
-| `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E03 (1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-gals-cant-kind-otaku-s01e03-1080p-cr.n2101687) • [🐱 Nyaa](https://nyaa.si/?q=6ZQ6NM75IA7MBKO3UPUW5JE4VHJHTJBP) |
 
 ---
 <div align="center">
