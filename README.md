@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.07.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.03.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e01-1080p-cr.k10592391237894) • [🐱 Nyaa](https://nyaa.si/?q=GWZEXZJK3JHHY3VQXXBID3656UTBANM7) |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.n2102389) • [🐱 Nyaa](https://nyaa.si/?q=EF5O6CBDJ7KEZGZM3WRIJL24FILWNARZ) |
 | `That Time I Got Reincarnated as a Slime S04E01 New Days 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/time-got-reincarnated-slime-s04e01-new-days-1080p.n2102383) • [🐱 Nyaa](https://nyaa.si/?q=JNW5RQXM6JBK4VVREGWGIWMCV6HDG7KF) |
 | `SNOWBALL EARTH S01E01 THE SAVIOR WHO COULD NOT BRING SALV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e01-savior-who-could-not-bring.n2102381) • [🐱 Nyaa](https://nyaa.si/?q=2S2COENFHLPOMEMOLVVA364KTCSHPVKB) |
 | `[Erai-raws] Snowball Earth - 04 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-04-1080p-cr-webrip.k10591394417934) • [🐱 Nyaa](https://nyaa.si/?q=CS3BIXZIFGCXEZDPXM4CX3FNW2PERELS) |
@@ -41,8 +43,6 @@
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e02.n2102352) • [🐱 Nyaa](https://nyaa.si/?q=J5CCAY7KT2HE37DKPN74KVWWSSKJOFOO) |
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e01.n2102351) • [🐱 Nyaa](https://nyaa.si/?q=A3PQVJY5RUEZF57DNTYQ6R36FMWEC2VD) |
 | `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.k10589563269123) • [🐱 Nyaa](https://nyaa.si/?q=T2HFLNFCI5ZOZBPVAGJXHZKYGSK2O3ML) |
-| `[A&C] Fairy Tail 001-024 (BD HEVC 1080p) [Multi-Audio-Subs]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/c-fairy-tail-001-024-bd-hevc-1080p.n2102347) • [🐱 Nyaa](https://nyaa.si/?q=QAENPCV2OVIUY6GJH62HDHJK76S66KNB) |
-| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Bota...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kamiina-botan-yoeru-sugata-wa-yuri-no.n2102342) • [🐱 Nyaa](https://nyaa.si/?q=AQNYFUZSRO3JR2C3XOVEMLC6ZPEJ7XOU) |
 
 ---
 <div align="center">
