@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.07.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.14.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,40 +9,40 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Jumat**
+### 📅 Jadwal Rilis Hari Ini: **Sabtu**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `01:50` | **[Komekami! Girls](https://myanimelist.net/anime/63709/Komekami_Girls)** | *-* |
-| `16:20` | **[Sore Ike! Anpanman](https://myanimelist.net/anime/1960/Sore_Ike_Anpanman)** | *Comedy, Fantasy* |
-| `23:30` | **[Kami no Shizuku](https://myanimelist.net/anime/62981/Kami_no_Shizuku)** | *Drama, Gourmet, Mystery* |
-| `18:25` | **[Beyblade X](https://myanimelist.net/anime/56566/Beyblade_X)** | *Adventure, Sports* |
-| `00:26` | **[Kirio Fanclub](https://myanimelist.net/anime/59835/Kirio_Fanclub)** | *Comedy* |
-| `01:00` | **[Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/anime/63304/Mamonogurai_no_Boukensha__Ore_dake_Mamono_wo_Kuratte_Tsuyoku_Naru)** | *Action, Fantasy* |
-| `01:00` | **[Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/anime/63304/Mamonogurai_no_Boukensha__Ore_dake_Mamono_wo_Kuratte_Tsuyoku_Naru)** | *Action, Fantasy* |
-| `23:30` | **[Snowball Earth](https://myanimelist.net/anime/62068/Snowball_Earth)** | *Adventure, Sci-Fi* |
-| `01:45` | **[Awajima Hyakkei](https://myanimelist.net/anime/58820/Awajima_Hyakkei)** | *Drama* |
-| `07:40` | **[Chiikawa](https://myanimelist.net/anime/50250/Chiikawa)** | *Slice of Life* |
+| `09:00` | **[Oshiri Tantei 10th Season](https://myanimelist.net/anime/63762/Oshiri_Tantei_10th_Season)** | *Comedy, Fantasy, Mystery* |
+| `09:30` | **[Nezumi-kun no Chokki (TV)](https://myanimelist.net/anime/62495/Nezumi-kun_no_Chokki_TV)** | *Fantasy* |
+| `08:30` | **[Shimajirou no Wow!](https://myanimelist.net/anime/18941/Shimajirou_no_Wow)** | *Adventure, Comedy, Fantasy* |
+| `09:25` | **[Rilakkuma](https://myanimelist.net/anime/60153/Rilakkuma)** | *Slice of Life* |
+| `07:00` | **[Ninjala (TV)](https://myanimelist.net/anime/50418/Ninjala_TV)** | *Action* |
+| `04:52` | **[Bonobono (TV 2016)](https://myanimelist.net/anime/32353/Bonobono_TV_2016)** | *Comedy* |
+| `01:00` | **[Hokuto no Ken: Fist of the North Star](https://myanimelist.net/anime/56646/Hokuto_no_Ken__Fist_of_the_North_Star)** | *Action, Drama, Sci-Fi* |
+| `23:45` | **[Mao](https://myanimelist.net/anime/62048/Mao)** | *Mystery, Supernatural* |
+| `00:00` | **[Kamiina Botan, Yoeru Sugata wa Yuri no Hana](https://myanimelist.net/anime/61186/Kamiina_Botan_Yoeru_Sugata_wa_Yuri_no_Hana)** | *Girls Love, Gourmet, Slice of Life* |
+| `21:30` | **[Yowayowa Sensei](https://myanimelist.net/anime/60444/Yowayowa_Sensei)** | *Comedy, Romance, Ecchi* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] Fist of the North Star HOKUTO NO KEN S01E05 Blood...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-fist-north-star-hokuto-no-ken-s01e05.k10587394248199) • [🐱 Nyaa](https://nyaa.si/?q=OBY6B6C75F4I5A7A7PKH2X4LSAPWBBGR) |
-| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E05 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fist-north-star-hokuto-no-ken-s01e05.k10587374502147) • [🐱 Nyaa](https://nyaa.si/?q=W7HLFFBPNQE357RGRY6O35Y6EDJIWKLL) |
-| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E05 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fist-north-star-hokuto-no-ken-s01e05.k10587366814979) • [🐱 Nyaa](https://nyaa.si/?q=44K5WF57NOZXWD7IC3RIHBWJK6NW22VE) |
-| `[Gecko] Monster Eater - S01E04 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e04-mamonogurai-no-boukensha-ore.k10587326745611) • [🐱 Nyaa](https://nyaa.si/?q=I3GU2VWVZEXZVSXGKPLXC5ANQAVYMQBH) |
-| `[Gecko] Monster Eater - S01E03 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e03-mamonogurai-no-boukensha-ore.k10587274077702) • [🐱 Nyaa](https://nyaa.si/?q=7O472UDNYGEQRNILV6RDPWLVNYLHG6WZ) |
-| `[Gecko] Monster Eater - S01E02 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e02-mamonogurai-no-boukensha-ore.k10587218525696) • [🐱 Nyaa](https://nyaa.si/?q=Q4XW32SEXTFINQQCLVMFQ547K3UM2A5C) |
-| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E04 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tensei-shitara-slime-datta-ken-s04e04-1080p.2076519) • [🐱 Nyaa](https://nyaa.si/?q=GFFX7RBHG7OPOX7VIPO7D5WLHDXIEIV4) |
-| `[ASW] Tensei Shitara Slime Datta Ken S4 - 04 [1080p HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tensei-shitara-slime-datta-ken-s4-04.n2102286) • [🐱 Nyaa](https://nyaa.si/?q=F2VSRYSQCVVS5HQ23KPGL3DFGVL7LQUA) |
-| `[Gecko] Monster Eater - S01E01 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e01-mamonogurai-no-boukensha-ore.k10587163349007) • [🐱 Nyaa](https://nyaa.si/?q=KWQBYHEV7J52TLKGH4PO6NX45RQ33DND) |
-| `[ToonsHub] SNOWBALL EARTH S01E04 1080p CR WEB-DL MULTi AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-snowball-earth-s01e04-1080p-cr-web-dl.k10586995387913) • [🐱 Nyaa](https://nyaa.si/?q=LN5QM3F2W7QA6LSRKTAX4CRTPPIIRMVI) |
-| `[Yameii] The Drops of God - S01E01 [English Dub] [CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-drops-god-s01e01-english-dub-cr-web.k10586993424654) • [🐱 Nyaa](https://nyaa.si/?q=XW77CTQGSJGEB6M27AF56HQB773O5ROY) |
-| `[Yameii] SNOWBALL EARTH - S01E04 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e04-english-dub-cr-web.k10586991789581) • [🐱 Nyaa](https://nyaa.si/?q=55BZHUFD23PQZUXDPAUJIH3OYP6QA6OX) |
-| `Snowball Earth S01E04 The Kaiju Tamer and the Can of Pine...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e04-kaiju-tamer-pineapple-1080p-nf.n2102278) • [🐱 Nyaa](https://nyaa.si/?q=RIPXNJQHVHWPWNUJTN3RF7GGXJ7FFX4X) |
-| `[Yameii] The Drops of God - S01E01 [English Dub] [CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-drops-god-s01e01-english-dub-cr-web.k10586966383374) • [🐱 Nyaa](https://nyaa.si/?q=7ID4BLV4XOJOWYKF6EHCPTU5INO47WCT) |
-| `[Yameii] SNOWBALL EARTH - S01E04 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e04-english-dub-cr-web.k10586966063368) • [🐱 Nyaa](https://nyaa.si/?q=PIEGGW4AZKVYB6U5MR3EVMEAW4JC2B4W) |
+| `[Erai-raws] Kami no Shizuku - 03 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-shizuku-03-1080p-cr.k10588376333581) • [🐱 Nyaa](https://nyaa.si/?q=AD7AGMDUJJYFYJAOGIIZLERT2IEDUESN) |
+| `[Erai-raws] Hokuto no Ken (2026) - 05 [1080p AMZN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-05-1080p.k10588353554434) • [🐱 Nyaa](https://nyaa.si/?q=EW7MSN3DAMPYVOXBG4JNZDZN7MYGQ77K) |
+| `[Erai-raws] Hokuto no Ken (2026) - 05 [720p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-05-720p.k10588353464846) • [🐱 Nyaa](https://nyaa.si/?q=5IXP6TCJMVSPZXXAASR3RYZAH2TNCVT3) |
+| `[Erai-raws] Hokuto no Ken (2026) - 05 [540p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-05-540p.k10588353086477) • [🐱 Nyaa](https://nyaa.si/?q=DRHVCDMBBZXLFFHL6Y7A6TEC566DYNV5) |
+| `[Onalrie] Snowball Earth - S01E04 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-snowball-earth-s01e04-1080p-webrip-av1-mkv.2076543) • [🐱 Nyaa](https://nyaa.si/?q=7UYECLTWDCYX53U4EA7YXRSP4J4264B5) |
+| `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2102333) • [🐱 Nyaa](https://nyaa.si/?q=DPK2A4CQAGFUMRTIRYIYUEENBRZDRDJJ) |
+| `[DKB] Tensei shitara Slime Datta Ken - S04E04 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tensei-shitara-slime-datta-ken-s04e04-1080p.n2102332) • [🐱 Nyaa](https://nyaa.si/?q=57IXT5FS2G26Q3VVMGES2BH7JBTXXJHS) |
+| `[Trix] Botan Kamiina Fully Blossoms When Drunk S01E03 [WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-botan-kamiina-fully-blossoms-when-drunk-s01e03.n2102331) • [🐱 Nyaa](https://nyaa.si/?q=CA5W5JMKBV3ISYKV2LKOCRQJPAZIMGYQ) |
+| `[Ironclad] That Time I Got Reincarnated as a Slime - S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-time-got-reincarnated-slime-s04e04-web-1080p.k10588112620809) • [🐱 Nyaa](https://nyaa.si/?q=QSARHZ4BROJGZJIRYVUMCZZQ6VT2VAE2) |
+| `[ASW] Snowball Earth - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-snowball-earth-04-1080p-hevc-x265-10bit-aac.n2102328) • [🐱 Nyaa](https://nyaa.si/?q=GO45I4UWQPGFZWUSUNGDXXKB6GU7ALMT) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10588008251916) • [🐱 Nyaa](https://nyaa.si/?q=FNM3GQMQRLUDUJWEH3Q22KO6UTGVTD7O) |
+| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.k10588001316101) • [🐱 Nyaa](https://nyaa.si/?q=ZNAB5Q2K4DYDD6MDHNHSYFGHZUNVFZJ2) |
+| `[ASW] Kami no Shizuku - 03 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kami-no-shizuku-03-1080p-hevc-x265-10bit-aac.n2102325) • [🐱 Nyaa](https://nyaa.si/?q=NBJOIHGMDV4UJPCNLGYLCNWNH3NYZHPJ) |
+| `Botan Kamiina Fully Blossoms When Drunk S01E03 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/botan-kamiina-fully-blossoms-when-drunk-s01e03-1080p.n2102324) • [🐱 Nyaa](https://nyaa.si/?q=UI5NGPQBFOBW4IVBYHB6WLBTWWPHCWKV) |
+| `[SubsPlease] Kamiina Botan, Yoeru Sugata wa Yuri no Hana ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kamiina-botan-yoeru-sugata-wa-yuri-no.n2102322) • [🐱 Nyaa](https://nyaa.si/?q=24H2ZTYOGSZK4W6DRYF4SHLC4Z327IG6) |
 
 ---
 <div align="center">
