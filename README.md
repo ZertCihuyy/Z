@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.52.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.12.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Ascendance of a Bookworm S04E01 Ive Become a Noble REPACK...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e01-ive-become-noble-repack-1080p.n2102105) • [🐱 Nyaa](https://nyaa.si/?q=ADYNYWQYP7T4TVYXPMM5G2POOH4FDEUL) |
+| `Ascendance of a Bookworm S04E03 Archdukes Castle and Ital...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e03-archdukes-castle-italian.n2102104) • [🐱 Nyaa](https://nyaa.si/?q=IZBRZGCYXSCFS3V7XYW27HWS3GLEZ46L) |
+| `[yaneura] Re:Zero Break Time S4 - 03 (HDTV 1080p) | ReZer...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yaneura-re-zero-break-time-s4-03-hdtv.n2102100) • [🐱 Nyaa](https://nyaa.si/?q=VFXVSD3JRLE5QS6MOCOFWKQNOASPGPIM) |
+| `[Gecko] AOTU WORLD REBORN - S01E02 (凹凸世界·Reborn; AOTU Shi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-aotu-world-reborn-s01e02-reborn-shijie-bili.n2102092) • [🐱 Nyaa](https://nyaa.si/?q=MWJATUD6NY4QDXX6LCMFLHPJJPCVW7UB) |
+| `[Gecko] AOTU WORLD REBORN - S01E01 (凹凸世界·Reborn; AOTU Shi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-aotu-world-reborn-s01e01-reborn-shijie-bili.n2102091) • [🐱 Nyaa](https://nyaa.si/?q=LAPYJNHNHNKI7LRJ6FNB7YSPGCGJ7GAR) |
+| `[ToonsHub] Ascendance of a Bookworm S04E03 REPACK 1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ascendance-bookworm-s04e03-repack-1080p-cr-web.n2102090) • [🐱 Nyaa](https://nyaa.si/?q=P4YGHARK6BSV45NZYU7DLNFXY2VSRWGH) |
 | `[Gecko] Kujima Why Sing, When You Can Warble - S01E03 (クジ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-kujima-why-sing-when-warble-s01e03-utaeba.n2102079) • [🐱 Nyaa](https://nyaa.si/?q=V5NMIHZIYPDWECCJTCXK6DCAEEX3VNW5) |
 | `[HnY] Beyblade X 123 - One Percent of Hope (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hny-beyblade-x-123-one-percent-hope-1080p-mkv.n2102070) • [🐱 Nyaa](https://nyaa.si/?q=RWTJWLL6VER2TUX6HQRCA7BIAK6OSFP7) |
 | `Hitori No Shita The Outcast S06E17 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e17-1080p-cr-web.n2102069) • [🐱 Nyaa](https://nyaa.si/?q=OFFHYZDSXYL3NUPJYV4GN6U663XFX7H6) |
@@ -37,12 +43,6 @@
 | `[SubsPlease] Hitori no Shita - The Outcast S6 - 17 (480p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-17-480p-ce814a0f-mkv.n2102059) • [🐱 Nyaa](https://nyaa.si/?q=EMFA3OGH3FPT6YPDLTZVS4CHORDRUCZQ) |
 | `[SubsPlease] Hitori no Shita - The Outcast S6 - 17 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-17-1080p-3dcfb636-mkv.n2102060) • [🐱 Nyaa](https://nyaa.si/?q=EDS7LKK6I7L34S5J4R57WW67HGDISKP6) |
 | `[SubsPlease] Hitori no Shita - The Outcast S6 - 17 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-17-720p-c823bc4d-mkv.n2102061) • [🐱 Nyaa](https://nyaa.si/?q=OBXVIWR24P76QCC3YLURSXUID3LMTCKD) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 17 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.k10574458445836) • [🐱 Nyaa](https://nyaa.si/?q=I5UKNF3ET5QDVDFXUAZ5CVCJSXU6GDDQ) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 17 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.k10574455814915) • [🐱 Nyaa](https://nyaa.si/?q=Z7T2ABRRZWJAQZQF6D4TGL3ZKTNOGFPQ) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 17 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.k10574452668939) • [🐱 Nyaa](https://nyaa.si/?q=Y72BMPNXWXXGX72E37SVS7W2OGSAQKQO) |
-| `[SubsPlease] Toujima Tanzaburou wa Kamen Rider ni Naritai...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-toujima-tanzaburou-wa-kamen-rider-ni-naritai.n2102050) • [🐱 Nyaa](https://nyaa.si/?q=EEBKTLORCE4VFDSXI64CNIUN77YN2BS6) |
-| `[SubsPlease] Toujima Tanzaburou wa Kamen Rider ni Naritai...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-toujima-tanzaburou-wa-kamen-rider-ni-naritai.n2102049) • [🐱 Nyaa](https://nyaa.si/?q=F6DN67NOEVB3N54KC5G7AZ6YEXWHOUJF) |
-| `[SubsPlease] Toujima Tanzaburou wa Kamen Rider ni Naritai...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-toujima-tanzaburou-wa-kamen-rider-ni-naritai.n2102048) • [🐱 Nyaa](https://nyaa.si/?q=5MJLNF2K3LOW2WJ53MEDCGGQDFBRHO26) |
 
 ---
 <div align="center">
