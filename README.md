@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.46.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.07.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] The Angel Next Door Spoils Me Rotten S02E04 A Sta...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-angel-next-door-spoils-me-rotten-s02e04.k10586021505027) • [🐱 Nyaa](https://nyaa.si/?q=22RBG4BFSELEIBJAEGJSTXJENE5GUWZX) |
-| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E04 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-angel-next-door-spoils-me-rotten-s02e04.k10585987190791) • [🐱 Nyaa](https://nyaa.si/?q=73AIYMQM723SWZKYWMK4OM276NX5TBTU) |
-| `[BlackRabbit] Keijo!!!!!!!! (2016) - S01 [Bluray-1080p][O...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-keijo-2016-s01-bluray-1080p-opus-2-0-av1.k10585985703424) • [🐱 Nyaa](https://nyaa.si/?q=YPMTLEB2MRCFGNK7RWVZTZKALM7MKPRE) |
-| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10585977263366) • [🐱 Nyaa](https://nyaa.si/?q=NRMKFIBZJWNXT5MKL4S7AJDG6FP6Z6WF) |
-| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10585975182080) • [🐱 Nyaa](https://nyaa.si/?q=2RVNHNWAKDXXDTFUU2R45WPMOYNMXK4S) |
-| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10585973602312) • [🐱 Nyaa](https://nyaa.si/?q=5PULFPXDVNJOVTUUNKK2JRJTJSW6XY3H) |
-| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E04 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-angel-next-door-spoils-me-rotten-s02e04.k10585970071557) • [🐱 Nyaa](https://nyaa.si/?q=4E5DQNZPOKBUXBUJ5KSYOO4GADRW65JY) |
-| `[Onalrie] Jishou Akuyaku Reijou na Konyakusha no Kansatsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.2076494) • [🐱 Nyaa](https://nyaa.si/?q=43NDS3FKSNGNZIEESJR46HW3RBFYJCYM) |
-| `[FSP DN] Jian Lai 2 (Sword of Coming 2) - 20 [4K] | 剑来` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-jian-lai-2-sword-coming-2-20-4k.n2102193) • [🐱 Nyaa](https://nyaa.si/?q=WE34PF2CXPSA3LOX6TIZTMMEQS5OPJRF) |
-| `[BlackRabbit] Overlord (2015) - S02 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-overlord-2015-s02-bluray-1080p-opus-2.k10585743857679) • [🐱 Nyaa](https://nyaa.si/?q=JKYB5X7XXPRWI4ROHZIIFAH3UY5R3ZND) |
-| `[BlackRabbit] Overlord (2015) - S01 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-overlord-2015-s01-bluray-1080p-opus-2.k10585583463692) • [🐱 Nyaa](https://nyaa.si/?q=PNXOHJY7C3BQ7P3YMNOVLR43U3VUDKNJ) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2102188) • [🐱 Nyaa](https://nyaa.si/?q=NSSUX3GAO2P2BB6GNS64QPP7Y654L4TD) |
-| `[ASW] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2102187) • [🐱 Nyaa](https://nyaa.si/?q=GS46XMRLUPXP5JTMM6H6HIQUHRWMJ6ZV) |
-| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.k10584728217862) • [🐱 Nyaa](https://nyaa.si/?q=OIKJ5AMDSY4C43W3365AGY7YZWJFU72Y) |
-| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.n2102178) • [🐱 Nyaa](https://nyaa.si/?q=PNOTPR4GMBZ2CRWRHCAQX3XMSGRX6URA) |
+| `[VARYG] Fist of the North Star HOKUTO NO KEN S01E05 Blood...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-fist-north-star-hokuto-no-ken-s01e05.k10587394248199) • [🐱 Nyaa](https://nyaa.si/?q=OBY6B6C75F4I5A7A7PKH2X4LSAPWBBGR) |
+| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E05 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fist-north-star-hokuto-no-ken-s01e05.k10587374502147) • [🐱 Nyaa](https://nyaa.si/?q=W7HLFFBPNQE357RGRY6O35Y6EDJIWKLL) |
+| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E05 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fist-north-star-hokuto-no-ken-s01e05.k10587366814979) • [🐱 Nyaa](https://nyaa.si/?q=44K5WF57NOZXWD7IC3RIHBWJK6NW22VE) |
+| `[Gecko] Monster Eater - S01E04 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e04-mamonogurai-no-boukensha-ore.k10587326745611) • [🐱 Nyaa](https://nyaa.si/?q=I3GU2VWVZEXZVSXGKPLXC5ANQAVYMQBH) |
+| `[Gecko] Monster Eater - S01E03 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e03-mamonogurai-no-boukensha-ore.k10587274077702) • [🐱 Nyaa](https://nyaa.si/?q=7O472UDNYGEQRNILV6RDPWLVNYLHG6WZ) |
+| `[Gecko] Monster Eater - S01E02 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e02-mamonogurai-no-boukensha-ore.k10587218525696) • [🐱 Nyaa](https://nyaa.si/?q=Q4XW32SEXTFINQQCLVMFQ547K3UM2A5C) |
+| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E04 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tensei-shitara-slime-datta-ken-s04e04-1080p.2076519) • [🐱 Nyaa](https://nyaa.si/?q=GFFX7RBHG7OPOX7VIPO7D5WLHDXIEIV4) |
+| `[ASW] Tensei Shitara Slime Datta Ken S4 - 04 [1080p HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tensei-shitara-slime-datta-ken-s4-04.n2102286) • [🐱 Nyaa](https://nyaa.si/?q=F2VSRYSQCVVS5HQ23KPGL3DFGVL7LQUA) |
+| `[Gecko] Monster Eater - S01E01 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e01-mamonogurai-no-boukensha-ore.k10587163349007) • [🐱 Nyaa](https://nyaa.si/?q=KWQBYHEV7J52TLKGH4PO6NX45RQ33DND) |
+| `[ToonsHub] SNOWBALL EARTH S01E04 1080p CR WEB-DL MULTi AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-snowball-earth-s01e04-1080p-cr-web-dl.k10586995387913) • [🐱 Nyaa](https://nyaa.si/?q=LN5QM3F2W7QA6LSRKTAX4CRTPPIIRMVI) |
+| `[Yameii] The Drops of God - S01E01 [English Dub] [CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-drops-god-s01e01-english-dub-cr-web.k10586993424654) • [🐱 Nyaa](https://nyaa.si/?q=XW77CTQGSJGEB6M27AF56HQB773O5ROY) |
+| `[Yameii] SNOWBALL EARTH - S01E04 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e04-english-dub-cr-web.k10586991789581) • [🐱 Nyaa](https://nyaa.si/?q=55BZHUFD23PQZUXDPAUJIH3OYP6QA6OX) |
+| `Snowball Earth S01E04 The Kaiju Tamer and the Can of Pine...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e04-kaiju-tamer-pineapple-1080p-nf.n2102278) • [🐱 Nyaa](https://nyaa.si/?q=RIPXNJQHVHWPWNUJTN3RF7GGXJ7FFX4X) |
+| `[Yameii] The Drops of God - S01E01 [English Dub] [CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-drops-god-s01e01-english-dub-cr-web.k10586966383374) • [🐱 Nyaa](https://nyaa.si/?q=7ID4BLV4XOJOWYKF6EHCPTU5INO47WCT) |
+| `[Yameii] SNOWBALL EARTH - S01E04 [English Dub] [CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-snowball-earth-s01e04-english-dub-cr-web.k10586966063368) • [🐱 Nyaa](https://nyaa.si/?q=PIEGGW4AZKVYB6U5MR3EVMEAW4JC2B4W) |
 
 ---
 <div align="center">
