@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.03.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.07.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `That Time I Got Reincarnated as a Slime S04E01 New Days 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/time-got-reincarnated-slime-s04e01-new-days-1080p.n2102383) • [🐱 Nyaa](https://nyaa.si/?q=JNW5RQXM6JBK4VVREGWGIWMCV6HDG7KF) |
+| `SNOWBALL EARTH S01E01 THE SAVIOR WHO COULD NOT BRING SALV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e01-savior-who-could-not-bring.n2102381) • [🐱 Nyaa](https://nyaa.si/?q=2S2COENFHLPOMEMOLVVA364KTCSHPVKB) |
+| `[Erai-raws] Snowball Earth - 04 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-04-1080p-cr-webrip.k10591394417934) • [🐱 Nyaa](https://nyaa.si/?q=CS3BIXZIFGCXEZDPXM4CX3FNW2PERELS) |
+| `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E05...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e05.k10591147651842) • [🐱 Nyaa](https://nyaa.si/?q=AFPP2GAG36E277NRZSTMZRUMKDFQLTGS) |
 | `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kamiina-botan-yoeru-sugata-wa-yuri-no.n2102376) • [🐱 Nyaa](https://nyaa.si/?q=HFPF2IBSR6SUAXQHBUQ5CD7ZS3NKQUU7) |
 | `[Erai-raws] Hokuto no Ken (2026) - 05 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-05-1080p.n2102375) • [🐱 Nyaa](https://nyaa.si/?q=O7AA4ARDBBADTNHACAROXTYSDCKISDHA) |
 | `[Serenae] Meitantei Precure! - 1-12 Batch (1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-1-12-batch-1080p.n2102374) • [🐱 Nyaa](https://nyaa.si/?q=PJPGOHOJAVOOTDL6YTRNKLXVEPRQATRW) |
@@ -39,10 +43,6 @@
 | `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.k10589563269123) • [🐱 Nyaa](https://nyaa.si/?q=T2HFLNFCI5ZOZBPVAGJXHZKYGSK2O3ML) |
 | `[A&C] Fairy Tail 001-024 (BD HEVC 1080p) [Multi-Audio-Subs]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/c-fairy-tail-001-024-bd-hevc-1080p.n2102347) • [🐱 Nyaa](https://nyaa.si/?q=QAENPCV2OVIUY6GJH62HDHJK76S66KNB) |
 | `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Bota...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kamiina-botan-yoeru-sugata-wa-yuri-no.n2102342) • [🐱 Nyaa](https://nyaa.si/?q=AQNYFUZSRO3JR2C3XOVEMLC6ZPEJ7XOU) |
-| `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2102341) • [🐱 Nyaa](https://nyaa.si/?q=O6C35EERWXOEBWP4TQ4AMWZRCVYES4I2) |
-| `[BlackRabbit] Overlord (2015) - S03 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-overlord-2015-s03-bluray-1080p-opus-2.k10588741594382) • [🐱 Nyaa](https://nyaa.si/?q=V4WYT6YJSFH2RJKUOKZ36MSO45DZTD4I) |
-| `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kamiina-botan-yoeru-sugata-wa-yuri-no.2076546) • [🐱 Nyaa](https://nyaa.si/?q=KX32RKLVQ6ZUGZTB67R57OLWBDP2D3CW) |
-| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 03 [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kamiina-botan-yoeru-sugata-wa-yuri-no.n2102339) • [🐱 Nyaa](https://nyaa.si/?q=B7F7EH5IF7MOKQTOLOVCQKTQVMEEWAYF) |
 
 ---
 <div align="center">
