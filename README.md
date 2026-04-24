@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.13.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.03.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kamiina-botan-yoeru-sugata-wa-yuri-no.n2102376) • [🐱 Nyaa](https://nyaa.si/?q=HFPF2IBSR6SUAXQHBUQ5CD7ZS3NKQUU7) |
+| `[Erai-raws] Hokuto no Ken (2026) - 05 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-05-1080p.n2102375) • [🐱 Nyaa](https://nyaa.si/?q=O7AA4ARDBBADTNHACAROXTYSDCKISDHA) |
+| `[Serenae] Meitantei Precure! - 1-12 Batch (1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-1-12-batch-1080p.n2102374) • [🐱 Nyaa](https://nyaa.si/?q=PJPGOHOJAVOOTDL6YTRNKLXVEPRQATRW) |
+| `[Serenae] Meitantei Precure! - 1-12 Batch (720p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-1-12-batch-720p.n2102373) • [🐱 Nyaa](https://nyaa.si/?q=AXUUTH455NDLD2VZJTFHUFREHYORIESR) |
 | `[BlackRabbit] Overlord (2015) - S04 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-overlord-2015-s04-bluray-1080p-opus-2.k10589766725646) • [🐱 Nyaa](https://nyaa.si/?q=YNPTVKZQ4QKRCPMN2IESINUTPIE52LP2) |
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e03.n2102353) • [🐱 Nyaa](https://nyaa.si/?q=3FB2RK4TJPLI57DFPOGPUPAG3PVX2MUP) |
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e02.n2102352) • [🐱 Nyaa](https://nyaa.si/?q=J5CCAY7KT2HE37DKPN74KVWWSSKJOFOO) |
@@ -39,10 +43,6 @@
 | `[BlackRabbit] Overlord (2015) - S03 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-overlord-2015-s03-bluray-1080p-opus-2.k10588741594382) • [🐱 Nyaa](https://nyaa.si/?q=V4WYT6YJSFH2RJKUOKZ36MSO45DZTD4I) |
 | `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kamiina-botan-yoeru-sugata-wa-yuri-no.2076546) • [🐱 Nyaa](https://nyaa.si/?q=KX32RKLVQ6ZUGZTB67R57OLWBDP2D3CW) |
 | `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 03 [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kamiina-botan-yoeru-sugata-wa-yuri-no.n2102339) • [🐱 Nyaa](https://nyaa.si/?q=B7F7EH5IF7MOKQTOLOVCQKTQVMEEWAYF) |
-| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2102338) • [🐱 Nyaa](https://nyaa.si/?q=RUHX55LY3WPSVQWA2Y4U3ZBEFTEB3HPW) |
-| `[Erai-raws] Kami no Shizuku - 03 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-shizuku-03-1080p-cr.k10588376333581) • [🐱 Nyaa](https://nyaa.si/?q=AD7AGMDUJJYFYJAOGIIZLERT2IEDUESN) |
-| `[Erai-raws] Hokuto no Ken (2026) - 05 [1080p AMZN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-05-1080p.k10588353554434) • [🐱 Nyaa](https://nyaa.si/?q=EW7MSN3DAMPYVOXBG4JNZDZN7MYGQ77K) |
-| `[Erai-raws] Hokuto no Ken (2026) - 05 [720p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-05-720p.k10588353464846) • [🐱 Nyaa](https://nyaa.si/?q=5IXP6TCJMVSPZXXAASR3RYZAH2TNCVT3) |
 
 ---
 <div align="center">
