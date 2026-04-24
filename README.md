@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.03.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.59.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Fire Force S03 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fire-force-s03-1080p-cr-web-dl-dual.n2102395) • [🐱 Nyaa](https://nyaa.si/?q=K7BWSISSDDDURE2KSPQMHWOBFOH5Q6YN) |
 | `[ToonsHub] That Time I Got Reincarnated as a Slime S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e01-1080p-cr.k10592391237894) • [🐱 Nyaa](https://nyaa.si/?q=GWZEXZJK3JHHY3VQXXBID3656UTBANM7) |
 | `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.n2102389) • [🐱 Nyaa](https://nyaa.si/?q=EF5O6CBDJ7KEZGZM3WRIJL24FILWNARZ) |
 | `That Time I Got Reincarnated as a Slime S04E01 New Days 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/time-got-reincarnated-slime-s04e01-new-days-1080p.n2102383) • [🐱 Nyaa](https://nyaa.si/?q=JNW5RQXM6JBK4VVREGWGIWMCV6HDG7KF) |
@@ -42,7 +43,6 @@
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e03.n2102353) • [🐱 Nyaa](https://nyaa.si/?q=3FB2RK4TJPLI57DFPOGPUPAG3PVX2MUP) |
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e02.n2102352) • [🐱 Nyaa](https://nyaa.si/?q=J5CCAY7KT2HE37DKPN74KVWWSSKJOFOO) |
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e01.n2102351) • [🐱 Nyaa](https://nyaa.si/?q=A3PQVJY5RUEZF57DNTYQ6R36FMWEC2VD) |
-| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.k10589563269123) • [🐱 Nyaa](https://nyaa.si/?q=T2HFLNFCI5ZOZBPVAGJXHZKYGSK2O3ML) |
 
 ---
 <div align="center">
