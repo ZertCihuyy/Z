@@ -1,5 +1,5 @@
 {
-  "last_update": "24/4/2026, 07.10.29",
+  "last_update": "24/4/2026, 10.52.42",
   "data": [
     {
       "mal_id": 61469,
@@ -885,8 +885,8 @@
       "score": 8.5,
       "scored_by": 2475,
       "rank": 167,
-      "popularity": 6875,
-      "members": 11443,
+      "popularity": 6874,
+      "members": 11455,
       "favorites": 174,
       "synopsis": "A series of short films.\n\nShort film #1: Xie Lian and Hua Cheng's first encounter.\n\nShort film #2: Xie Lian and Hua Cheng enjoy the Lantern Festival at the Ghost Market.\n\nShort film #3: Xie Lian and Hua Cheng are underwater then they return to Ghost City.",
       "background": "",
@@ -1035,10 +1035,10 @@
       "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.5,
-      "scored_by": 2918,
+      "scored_by": 2921,
       "rank": 168,
-      "popularity": 6968,
-      "members": 11055,
+      "popularity": 6966,
+      "members": 11065,
       "favorites": 353,
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "background": "",
@@ -1330,10 +1330,10 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.38,
-      "scored_by": 4231,
-      "rank": 241,
+      "scored_by": 4234,
+      "rank": 242,
       "popularity": 6657,
-      "members": 12326,
+      "members": 12328,
       "favorites": 403,
       "synopsis": "Fifth season of Doupo Cangqiong.",
       "background": "",
@@ -1412,24 +1412,24 @@
       "demographics": []
     },
     {
-      "mal_id": 57779,
-      "url": "https://myanimelist.net/anime/57779/Dorohedoro_Season_2",
+      "mal_id": 56524,
+      "url": "https://myanimelist.net/anime/56524/Tunshi_Xingkong_4th_Season",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1603/155354.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1603/155354t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1603/155354l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1335/138907.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1335/138907t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1335/138907l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1603/155354.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1603/155354t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1603/155354l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1335/138907.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1335/138907t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1335/138907l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/oQSz3MaA35E?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/vg6QaCm-tmc?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -1442,30 +1442,45 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Dorohedoro Season 2"
+          "title": "Tunshi Xingkong 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "吞噬星空 宇宙篇"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tunshi Xingkong: Yuzhou Pian"
         },
         {
           "type": "Japanese",
-          "title": "ドロヘドロ Season2"
+          "title": "吞噬星空 第四季"
+        },
+        {
+          "type": "English",
+          "title": "Swallowed Star 4th Season"
         }
       ],
-      "title": "Dorohedoro Season 2",
-      "title_english": null,
-      "title_japanese": "ドロヘドロ Season2",
-      "title_synonyms": [],
+      "title": "Tunshi Xingkong 4th Season",
+      "title_english": "Swallowed Star 4th Season",
+      "title_japanese": "吞噬星空 第四季",
+      "title_synonyms": [
+        "吞噬星空 宇宙篇",
+        "Tunshi Xingkong: Yuzhou Pian"
+      ],
       "type": "ONA",
-      "source": "Manga",
-      "episodes": 11,
+      "source": "Web novel",
+      "episodes": 175,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2026-04-01T00:00:00+00:00",
+        "from": "2023-10-03T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 1,
-            "month": 4,
-            "year": 2026
+            "day": 3,
+            "month": 10,
+            "year": 2023
           },
           "to": {
             "day": null,
@@ -1473,17 +1488,17 @@
             "year": null
           }
         },
-        "string": "Apr 1, 2026 to ?"
+        "string": "Oct 3, 2023 to ?"
       },
-      "duration": "26 min per ep",
-      "rating": "R - 17+ (violence & profanity)",
+      "duration": "21 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
       "score": 8.37,
-      "scored_by": 4896,
-      "rank": 253,
-      "popularity": 3132,
-      "members": 63871,
-      "favorites": 223,
-      "synopsis": "Second season of Dorohedoro.",
+      "scored_by": 2111,
+      "rank": 261,
+      "popularity": 8944,
+      "members": 5985,
+      "favorites": 161,
+      "synopsis": "Fourth season of Tunshi Xingkong.",
       "background": "",
       "season": null,
       "year": null,
@@ -1495,25 +1510,19 @@
       },
       "producers": [
         {
-          "mal_id": 1856,
+          "mal_id": 1727,
           "type": "anime",
-          "name": "dugout",
-          "url": "https://myanimelist.net/anime/producer/1856/dugout"
-        },
-        {
-          "mal_id": 2229,
-          "type": "anime",
-          "name": "Toho Music",
-          "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+          "name": "Tencent Video",
+          "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
         }
       ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 569,
+          "mal_id": 1768,
           "type": "anime",
-          "name": "MAPPA",
-          "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+          "name": "Sparkly Key Animation Studio",
+          "url": "https://myanimelist.net/anime/producer/1768/Sparkly_Key_Animation_Studio"
         }
       ],
       "genres": [
@@ -1524,10 +1533,10 @@
           "url": "https://myanimelist.net/anime/genre/1/Action"
         },
         {
-          "mal_id": 4,
+          "mal_id": 2,
           "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
         },
         {
           "mal_id": 10,
@@ -1536,29 +1545,22 @@
           "url": "https://myanimelist.net/anime/genre/10/Fantasy"
         },
         {
-          "mal_id": 14,
+          "mal_id": 24,
           "type": "anime",
-          "name": "Horror",
-          "url": "https://myanimelist.net/anime/genre/14/Horror"
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
         }
       ],
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 58,
+          "mal_id": 17,
           "type": "anime",
-          "name": "Gore",
-          "url": "https://myanimelist.net/anime/genre/58/Gore"
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
         }
       ],
-      "demographics": [
-        {
-          "mal_id": 42,
-          "type": "anime",
-          "name": "Seinen",
-          "url": "https://myanimelist.net/anime/genre/42/Seinen"
-        }
-      ]
+      "demographics": []
     }
   ]
 }
