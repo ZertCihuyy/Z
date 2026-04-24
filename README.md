@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.35.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.45.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Dorohedoro Season1 S01E01 1080p BILI WEB-DL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-season1-s01e01-1080p-bili-web-dl.n2102148) • [🐱 Nyaa](https://nyaa.si/?q=S2A5JXPK5IRRZWSEFMF6RMXL5KLIS64N) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 17 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2102144) • [🐱 Nyaa](https://nyaa.si/?q=53OUOG5WDMKDRQIWDFCF6LXVUQXKY23N) |
 | `[BlackRabbit] Re - ZERO, Starting Life in Another World (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-re-zero-starting-life-another-world-2016.k10580798209024) • [🐱 Nyaa](https://nyaa.si/?q=7TENDJDRHGHX222MKE2N3XQM3Y4ONAQS) |
 | `[LbE3L] Oshi no Ko S03E09 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e09-1080p-webrip-av1.k10580718723074) • [🐱 Nyaa](https://nyaa.si/?q=6Z57TRWYW4DODD2HMM4ECYPNJJRXJ2N5) |
 | `[BlackRabbit] Re - ZERO, Starting Life in Another World (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-re-zero-starting-life-another-world-2016.k10580535593217) • [🐱 Nyaa](https://nyaa.si/?q=LI2EENO4KFCIP7A7ED7ZGYQPJ7PJUAVL) |
@@ -41,8 +43,6 @@
 | `[Gecko] AOTU WORLD REBORN - S01E01 (凹凸世界·Reborn; AOTU Shi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-aotu-world-reborn-s01e01-reborn-shijie-bili.n2102091) • [🐱 Nyaa](https://nyaa.si/?q=LAPYJNHNHNKI7LRJ6FNB7YSPGCGJ7GAR) |
 | `[ToonsHub] Ascendance of a Bookworm S04E03 REPACK 1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ascendance-bookworm-s04e03-repack-1080p-cr-web.n2102090) • [🐱 Nyaa](https://nyaa.si/?q=P4YGHARK6BSV45NZYU7DLNFXY2VSRWGH) |
 | `[Gecko] Kujima Why Sing, When You Can Warble - S01E03 (クジ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-kujima-why-sing-when-warble-s01e03-utaeba.n2102079) • [🐱 Nyaa](https://nyaa.si/?q=V5NMIHZIYPDWECCJTCXK6DCAEEX3VNW5) |
-| `[HnY] Beyblade X 123 - One Percent of Hope (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hny-beyblade-x-123-one-percent-hope-1080p-mkv.n2102070) • [🐱 Nyaa](https://nyaa.si/?q=RWTJWLL6VER2TUX6HQRCA7BIAK6OSFP7) |
-| `Hitori No Shita The Outcast S06E17 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e17-1080p-cr-web.n2102069) • [🐱 Nyaa](https://nyaa.si/?q=OFFHYZDSXYL3NUPJYV4GN6U663XFX7H6) |
 
 ---
 <div align="center">
