@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.12.06_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.24.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Hitori no Shita - The Outcast - S06E17 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e17-1080p-webrip-av1-mkv.2076422) • [🐱 Nyaa](https://nyaa.si/?q=YQFWFJA5BFMEOQIYO72BBMZR7LLNFZVZ) |
+| `[BlackRabbit] Re - ZERO, Starting Life in Another World (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-re-zero-starting-life-another-world-2016.k10578666242574) • [🐱 Nyaa](https://nyaa.si/?q=SLLZZSUXPUXWC3IAFYBYHZDJ6GVW6XAA) |
+| `[Starbez] In the Clear Moonlit Dusk - S01 (WEB 1080p H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/starbez-clear-moonlit-dusk-s01-web-1080p-h.n2102111) • [🐱 Nyaa](https://nyaa.si/?q=3ZQNTESAEZCRCULWE6XJJAGFVOKPADVH) |
 | `Ascendance of a Bookworm S04E01 Ive Become a Noble REPACK...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e01-ive-become-noble-repack-1080p.n2102105) • [🐱 Nyaa](https://nyaa.si/?q=ADYNYWQYP7T4TVYXPMM5G2POOH4FDEUL) |
 | `Ascendance of a Bookworm S04E03 Archdukes Castle and Ital...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e03-archdukes-castle-italian.n2102104) • [🐱 Nyaa](https://nyaa.si/?q=IZBRZGCYXSCFS3V7XYW27HWS3GLEZ46L) |
 | `[yaneura] Re:Zero Break Time S4 - 03 (HDTV 1080p) | ReZer...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yaneura-re-zero-break-time-s4-03-hdtv.n2102100) • [🐱 Nyaa](https://nyaa.si/?q=VFXVSD3JRLE5QS6MOCOFWKQNOASPGPIM) |
@@ -40,9 +43,6 @@
 | `[ToonsHub] Hitori No Shita The Outcast S06E17 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e17-1080p-cr.n2102068) • [🐱 Nyaa](https://nyaa.si/?q=O76DGTW4WIZKIIYLG7PLKONMGKGA3S5C) |
 | `[ASW] Hitori no Shita - The Outcast S6 - 17 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-17-1080p.n2102066) • [🐱 Nyaa](https://nyaa.si/?q=HHYHHDAI6PGXLGVRVLGBKQ2NN4P7WOVJ) |
 | `[Gecko] Hitori No Shita - The Outcast - S06E18 (一人之下; Yi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e18-yi-ren.k10574816343556) • [🐱 Nyaa](https://nyaa.si/?q=E6D4VOAM5M6MIW4MF7FF6YQDOIKKI3JW) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 17 (480p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-17-480p-ce814a0f-mkv.n2102059) • [🐱 Nyaa](https://nyaa.si/?q=EMFA3OGH3FPT6YPDLTZVS4CHORDRUCZQ) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 17 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-17-1080p-3dcfb636-mkv.n2102060) • [🐱 Nyaa](https://nyaa.si/?q=EDS7LKK6I7L34S5J4R57WW67HGDISKP6) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 17 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-17-720p-c823bc4d-mkv.n2102061) • [🐱 Nyaa](https://nyaa.si/?q=OBXVIWR24P76QCC3YLURSXUID3LMTCKD) |
 
 ---
 <div align="center">
