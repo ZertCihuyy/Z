@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.45.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.46.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Dorohedoro Season1 S01E01 1080p BILI WEB-DL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dorohedoro-season1-s01e01-1080p-bili-web-dl.n2102148) • [🐱 Nyaa](https://nyaa.si/?q=S2A5JXPK5IRRZWSEFMF6RMXL5KLIS64N) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 17 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2102144) • [🐱 Nyaa](https://nyaa.si/?q=53OUOG5WDMKDRQIWDFCF6LXVUQXKY23N) |
-| `[BlackRabbit] Re - ZERO, Starting Life in Another World (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-re-zero-starting-life-another-world-2016.k10580798209024) • [🐱 Nyaa](https://nyaa.si/?q=7TENDJDRHGHX222MKE2N3XQM3Y4ONAQS) |
-| `[LbE3L] Oshi no Ko S03E09 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e09-1080p-webrip-av1.k10580718723074) • [🐱 Nyaa](https://nyaa.si/?q=6Z57TRWYW4DODD2HMM4ECYPNJJRXJ2N5) |
-| `[BlackRabbit] Re - ZERO, Starting Life in Another World (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-re-zero-starting-life-another-world-2016.k10580535593217) • [🐱 Nyaa](https://nyaa.si/?q=LI2EENO4KFCIP7A7ED7ZGYQPJ7PJUAVL) |
-| `[Onalrie] Hitori no Shita - The Outcast - S06E17 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e17-1080p-webrip-av1-mkv.2076422) • [🐱 Nyaa](https://nyaa.si/?q=YQFWFJA5BFMEOQIYO72BBMZR7LLNFZVZ) |
-| `[BlackRabbit] Re - ZERO, Starting Life in Another World (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-re-zero-starting-life-another-world-2016.k10578666242574) • [🐱 Nyaa](https://nyaa.si/?q=SLLZZSUXPUXWC3IAFYBYHZDJ6GVW6XAA) |
-| `[Starbez] In the Clear Moonlit Dusk - S01 (WEB 1080p H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/starbez-clear-moonlit-dusk-s01-web-1080p-h.n2102111) • [🐱 Nyaa](https://nyaa.si/?q=3ZQNTESAEZCRCULWE6XJJAGFVOKPADVH) |
-| `Ascendance of a Bookworm S04E01 Ive Become a Noble REPACK...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e01-ive-become-noble-repack-1080p.n2102105) • [🐱 Nyaa](https://nyaa.si/?q=ADYNYWQYP7T4TVYXPMM5G2POOH4FDEUL) |
-| `Ascendance of a Bookworm S04E03 Archdukes Castle and Ital...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e03-archdukes-castle-italian.n2102104) • [🐱 Nyaa](https://nyaa.si/?q=IZBRZGCYXSCFS3V7XYW27HWS3GLEZ46L) |
-| `[yaneura] Re:Zero Break Time S4 - 03 (HDTV 1080p) | ReZer...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yaneura-re-zero-break-time-s4-03-hdtv.n2102100) • [🐱 Nyaa](https://nyaa.si/?q=VFXVSD3JRLE5QS6MOCOFWKQNOASPGPIM) |
-| `[Gecko] AOTU WORLD REBORN - S01E02 (凹凸世界·Reborn; AOTU Shi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-aotu-world-reborn-s01e02-reborn-shijie-bili.n2102092) • [🐱 Nyaa](https://nyaa.si/?q=MWJATUD6NY4QDXX6LCMFLHPJJPCVW7UB) |
-| `[Gecko] AOTU WORLD REBORN - S01E01 (凹凸世界·Reborn; AOTU Shi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-aotu-world-reborn-s01e01-reborn-shijie-bili.n2102091) • [🐱 Nyaa](https://nyaa.si/?q=LAPYJNHNHNKI7LRJ6FNB7YSPGCGJ7GAR) |
-| `[ToonsHub] Ascendance of a Bookworm S04E03 REPACK 1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ascendance-bookworm-s04e03-repack-1080p-cr-web.n2102090) • [🐱 Nyaa](https://nyaa.si/?q=P4YGHARK6BSV45NZYU7DLNFXY2VSRWGH) |
-| `[Gecko] Kujima Why Sing, When You Can Warble - S01E03 (クジ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-kujima-why-sing-when-warble-s01e03-utaeba.n2102079) • [🐱 Nyaa](https://nyaa.si/?q=V5NMIHZIYPDWECCJTCXK6DCAEEX3VNW5) |
+| `[VARYG] The Angel Next Door Spoils Me Rotten S02E04 A Sta...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-angel-next-door-spoils-me-rotten-s02e04.k10586021505027) • [🐱 Nyaa](https://nyaa.si/?q=22RBG4BFSELEIBJAEGJSTXJENE5GUWZX) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E04 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-angel-next-door-spoils-me-rotten-s02e04.k10585987190791) • [🐱 Nyaa](https://nyaa.si/?q=73AIYMQM723SWZKYWMK4OM276NX5TBTU) |
+| `[BlackRabbit] Keijo!!!!!!!! (2016) - S01 [Bluray-1080p][O...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-keijo-2016-s01-bluray-1080p-opus-2-0-av1.k10585985703424) • [🐱 Nyaa](https://nyaa.si/?q=YPMTLEB2MRCFGNK7RWVZTZKALM7MKPRE) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10585977263366) • [🐱 Nyaa](https://nyaa.si/?q=NRMKFIBZJWNXT5MKL4S7AJDG6FP6Z6WF) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10585975182080) • [🐱 Nyaa](https://nyaa.si/?q=2RVNHNWAKDXXDTFUU2R45WPMOYNMXK4S) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10585973602312) • [🐱 Nyaa](https://nyaa.si/?q=5PULFPXDVNJOVTUUNKK2JRJTJSW6XY3H) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E04 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-angel-next-door-spoils-me-rotten-s02e04.k10585970071557) • [🐱 Nyaa](https://nyaa.si/?q=4E5DQNZPOKBUXBUJ5KSYOO4GADRW65JY) |
+| `[Onalrie] Jishou Akuyaku Reijou na Konyakusha no Kansatsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.2076494) • [🐱 Nyaa](https://nyaa.si/?q=43NDS3FKSNGNZIEESJR46HW3RBFYJCYM) |
+| `[FSP DN] Jian Lai 2 (Sword of Coming 2) - 20 [4K] | 剑来` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-dn-jian-lai-2-sword-coming-2-20-4k.n2102193) • [🐱 Nyaa](https://nyaa.si/?q=WE34PF2CXPSA3LOX6TIZTMMEQS5OPJRF) |
+| `[BlackRabbit] Overlord (2015) - S02 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-overlord-2015-s02-bluray-1080p-opus-2.k10585743857679) • [🐱 Nyaa](https://nyaa.si/?q=JKYB5X7XXPRWI4ROHZIIFAH3UY5R3ZND) |
+| `[BlackRabbit] Overlord (2015) - S01 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-overlord-2015-s01-bluray-1080p-opus-2.k10585583463692) • [🐱 Nyaa](https://nyaa.si/?q=PNXOHJY7C3BQ7P3YMNOVLR43U3VUDKNJ) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2102188) • [🐱 Nyaa](https://nyaa.si/?q=NSSUX3GAO2P2BB6GNS64QPP7Y654L4TD) |
+| `[ASW] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2102187) • [🐱 Nyaa](https://nyaa.si/?q=GS46XMRLUPXP5JTMM6H6HIQUHRWMJ6ZV) |
+| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.k10584728217862) • [🐱 Nyaa](https://nyaa.si/?q=OIKJ5AMDSY4C43W3365AGY7YZWJFU72Y) |
+| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.n2102178) • [🐱 Nyaa](https://nyaa.si/?q=PNOTPR4GMBZ2CRWRHCAQX3XMSGRX6URA) |
 
 ---
 <div align="center">
