@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.24.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.07.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Re - ZERO, Starting Life in Another World (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-re-zero-starting-life-another-world-2016.k10580798209024) • [🐱 Nyaa](https://nyaa.si/?q=7TENDJDRHGHX222MKE2N3XQM3Y4ONAQS) |
+| `[LbE3L] Oshi no Ko S03E09 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e09-1080p-webrip-av1.k10580718723074) • [🐱 Nyaa](https://nyaa.si/?q=6Z57TRWYW4DODD2HMM4ECYPNJJRXJ2N5) |
+| `[BlackRabbit] Re - ZERO, Starting Life in Another World (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-re-zero-starting-life-another-world-2016.k10580535593217) • [🐱 Nyaa](https://nyaa.si/?q=LI2EENO4KFCIP7A7ED7ZGYQPJ7PJUAVL) |
 | `[Onalrie] Hitori no Shita - The Outcast - S06E17 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e17-1080p-webrip-av1-mkv.2076422) • [🐱 Nyaa](https://nyaa.si/?q=YQFWFJA5BFMEOQIYO72BBMZR7LLNFZVZ) |
 | `[BlackRabbit] Re - ZERO, Starting Life in Another World (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-re-zero-starting-life-another-world-2016.k10578666242574) • [🐱 Nyaa](https://nyaa.si/?q=SLLZZSUXPUXWC3IAFYBYHZDJ6GVW6XAA) |
 | `[Starbez] In the Clear Moonlit Dusk - S01 (WEB 1080p H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/starbez-clear-moonlit-dusk-s01-web-1080p-h.n2102111) • [🐱 Nyaa](https://nyaa.si/?q=3ZQNTESAEZCRCULWE6XJJAGFVOKPADVH) |
@@ -40,9 +43,6 @@
 | `[Gecko] Kujima Why Sing, When You Can Warble - S01E03 (クジ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-kujima-why-sing-when-warble-s01e03-utaeba.n2102079) • [🐱 Nyaa](https://nyaa.si/?q=V5NMIHZIYPDWECCJTCXK6DCAEEX3VNW5) |
 | `[HnY] Beyblade X 123 - One Percent of Hope (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hny-beyblade-x-123-one-percent-hope-1080p-mkv.n2102070) • [🐱 Nyaa](https://nyaa.si/?q=RWTJWLL6VER2TUX6HQRCA7BIAK6OSFP7) |
 | `Hitori No Shita The Outcast S06E17 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e17-1080p-cr-web.n2102069) • [🐱 Nyaa](https://nyaa.si/?q=OFFHYZDSXYL3NUPJYV4GN6U663XFX7H6) |
-| `[ToonsHub] Hitori No Shita The Outcast S06E17 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e17-1080p-cr.n2102068) • [🐱 Nyaa](https://nyaa.si/?q=O76DGTW4WIZKIIYLG7PLKONMGKGA3S5C) |
-| `[ASW] Hitori no Shita - The Outcast S6 - 17 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-17-1080p.n2102066) • [🐱 Nyaa](https://nyaa.si/?q=HHYHHDAI6PGXLGVRVLGBKQ2NN4P7WOVJ) |
-| `[Gecko] Hitori No Shita - The Outcast - S06E18 (一人之下; Yi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e18-yi-ren.k10574816343556) • [🐱 Nyaa](https://nyaa.si/?q=E6D4VOAM5M6MIW4MF7FF6YQDOIKKI3JW) |
 
 ---
 <div align="center">
