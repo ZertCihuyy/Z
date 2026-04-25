@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.54.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.18.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] B King S01E11 1080p ADN WEB-DL AAC2.0 H.264 (Y...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e11-1080p-adn-web-dl.n2102457) • [🐱 Nyaa](https://nyaa.si/?q=IDBK75DKCDDGGZR4S5M7V4XEYLMIZHKL) |
+| `My.Love.Story.with.Yamada-kun.at.Lv999.S01.v2.1080p.BluRa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/my-love-story-yamada-kun-lv999-s01-v2.n2102454) • [🐱 Nyaa](https://nyaa.si/?q=3X5NNDJRO4J2DNFIV4MIJPAJSNQQ7SAM) |
+| `[WhiteRose] Darling in the FranXX Season 1 (BD 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/whiterose-darling-franxx-season-1-bd-1080p-hevc.k10598470552073) • [🐱 Nyaa](https://nyaa.si/?q=2WJZOMRS2LEUUV3HF7VNXWFAIGZOHTI3) |
+| `[BlackRose] Darling in the FranXX Season 1 (BD 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-darling-franxx-season-1-bd-1080p-hevc.k10598469817600) • [🐱 Nyaa](https://nyaa.si/?q=FRKU3AF2OYEBFMIST7YME6SGBISENRZK) |
+| `RILAKKUMA S01E04 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e04-1080p-cr-web-dl-multi-aac2.n2102450) • [🐱 Nyaa](https://nyaa.si/?q=SOQAKIRN53SIVXMZPDZJXXBRAM75G3EH) |
+| `[ToonsHub] Jiang Ye S01E01 1080p BILI WEB-DL AAC2.0 H.265...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-jiang-ye-s01e01-1080p-bili-web-dl.n2102449) • [🐱 Nyaa](https://nyaa.si/?q=K6X3TDACRUOQ5M2UX2BDD6CFNY6SJLIW) |
+| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 02 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniv-remastered-02-1080p-yt.n2102445) • [🐱 Nyaa](https://nyaa.si/?q=M7JFEVG3QR54DFAQFWGZCUPCLBH3PCMN) |
+| `[Gecko] B.King - S01E11 (驭灵师; Yu Ling Shi) [BILI.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e11-yu-ling-shi-bili.n2102442) • [🐱 Nyaa](https://nyaa.si/?q=FQHM6MJCKKI46GI3QUU4SVCSGXZHXEC4) |
+| `[ToonsHub] B King S01E11 1080p BILI WEB-DL AAC2.0 H.265 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e11-1080p-bili-web-dl.n2102441) • [🐱 Nyaa](https://nyaa.si/?q=SITEWQZQ3O3XUAWGFMMLD7EQJOPCHVAE) |
 | `[ASW] Rilakkuma - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-rilakkuma-04-1080p-hevc-x265-10bit-aac.n2102425) • [🐱 Nyaa](https://nyaa.si/?q=GDO3KBOKCJT35ZJEV6W2WP5ANLLZCHGU) |
 | `RILAKKUMA S01E04 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e04-1080p-cr-web-dl-dual-aac2.n2102423) • [🐱 Nyaa](https://nyaa.si/?q=UVRKZXVIIVZDJDS7LROI3BB5DTZWBH3L) |
 | `[ToonsHub] RILAKKUMA S01E04 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e04-1080p-cr-web-dl-dual.k10595658847751) • [🐱 Nyaa](https://nyaa.si/?q=KWN637B5H3XII45MVIPT2RQSOZMKQYQA) |
 | `[Erai-raws] Rilakkuma - 04 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-04-480p-cr-web-dl.k10595643236869) • [🐱 Nyaa](https://nyaa.si/?q=IK5WNX4HIH5ZKXPWV6AX5ZSTXLOLEB4A) |
 | `[Erai-raws] Rilakkuma - 04 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-04-720p-cr-web-dl.k10595641953284) • [🐱 Nyaa](https://nyaa.si/?q=5JZN6A56KZIK7QUIRZCDSKIQFEZBOSTD) |
 | `[Erai-raws] Rilakkuma - 04 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-04-1080p-cr-web-dl.n2102413) • [🐱 Nyaa](https://nyaa.si/?q=DVKUHZF34U2QFJVWJKNXEMFVEMU3TAFE) |
-| `[SubsPlease] Rilakkuma - 04 (720p) [D3ABD46C].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-04-720p-d3abd46c-mkv.n2102414) • [🐱 Nyaa](https://nyaa.si/?q=ZQ6YUIY5DLOVOROBG6266VMQCGFUBGI4) |
-| `[SubsPlease] Rilakkuma - 04 (480p) [1CA44EC6].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-04-480p-1ca44ec6-mkv.n2102411) • [🐱 Nyaa](https://nyaa.si/?q=XXNVUPIEEHVDHG4PFERK25LYQT4RWPM3) |
-| `[SubsPlease] Rilakkuma - 04 (1080p) [D2D2A352].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-04-1080p-d2d2a352-mkv.n2102412) • [🐱 Nyaa](https://nyaa.si/?q=OOZKT35AW6IVOF6N5F2UO4E7XCM47VXE) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E97 (ちびゴジラの逆襲; Ch...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e97-no-gyakushuu.k10594857507587) • [🐱 Nyaa](https://nyaa.si/?q=36NCXWPRHW3CLQGCCQRWXDD2OGJI4KTU) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E96 (ちびゴジラの逆襲; Ch...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e96-no-gyakushuu.k10594838186250) • [🐱 Nyaa](https://nyaa.si/?q=JXHI3ACKOGVU6VIYT6MUEN5BEOCFGYZC) |
-| `[Some-Stuffs] Pocket Monsters (2023) 135 (1080p HEVC 10-b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-135-1080p-hevc-10-bit-ced82cca.n2102406) • [🐱 Nyaa](https://nyaa.si/?q=V6XKNEEMQ2OWBGRQGZ2COPUD6E2NX54X) |
-| `[Some-Stuffs] Pocket Monsters (2023) 135 (1080p) [B304235C]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-135-1080p-b304235c.n2102405) • [🐱 Nyaa](https://nyaa.si/?q=5UK3EDBT4A5GH577S2S7VHCHKRXUPO7W) |
-| `Fire Force S03 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fire-force-s03-1080p-cr-web-dl-dual.n2102395) • [🐱 Nyaa](https://nyaa.si/?q=K7BWSISSDDDURE2KSPQMHWOBFOH5Q6YN) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e01-1080p-cr.k10592391237894) • [🐱 Nyaa](https://nyaa.si/?q=GWZEXZJK3JHHY3VQXXBID3656UTBANM7) |
 
 ---
 <div align="center">
