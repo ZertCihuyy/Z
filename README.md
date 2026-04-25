@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.06.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.55.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[WrathMonth] The Most Heretical Last Boss Queen: From Vil...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wrathmonth-most-heretical-last-boss-queen-from-villainess.n2102893) • [🐱 Nyaa](https://nyaa.si/?q=SAJH3KHM4EUGNQB6MANSBF26AN36QKE7) |
 | `[Erai-raws] Mao - 04 [1080p DSNP WEBRip HEVC AAC][MultiSu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-04-1080p-dsnp-webrip-hevc.k10615978607873) • [🐱 Nyaa](https://nyaa.si/?q=UBI47NI5EBT3BKLR5YB4RTW22MDYOLWL) |
 | `[somedroplet] Pokémon Horizons - 135 [08D44C22].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/somedroplet-pokmon-horizons-135-08d44c22-mkv.n2102880) • [🐱 Nyaa](https://nyaa.si/?q=ZFZUJG2JCJMR4OGVYJY3TP22EKMAVZW2) |
 | `[Erai-raws] Mao - 04 [1080p DSNP WEB-DL AVC AAC][MultiSub...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-04-1080p-dsnp-web-dl.n2102877) • [🐱 Nyaa](https://nyaa.si/?q=LOEFEDVKVAD6UFWDKL6XG3WLJUGQV3O2) |
@@ -42,7 +43,6 @@
 | `Mistress Kanan is Devilishly Easy S01E01 Kanans Easy 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mistress-kanan-devilishly-easy-s01e01-kanans-1080p-cr.n2102866) • [🐱 Nyaa](https://nyaa.si/?q=K2VQSCSEMMLUNMBGASKAQD57MATRZEMH) |
 | `Ascendance of a Bookworm S04E01 Ive Become a Noble 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e01-ive-become-noble-1080p-cr.n2102865) • [🐱 Nyaa](https://nyaa.si/?q=XSEYXKEEU6YELSHXDD62SRCCKY535LRM) |
 | `[Feibanyama] ReZERO -Starting Life in Another World- S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-rezero-starting-life-another-world-s04e03-iqiyi.n2102862) • [🐱 Nyaa](https://nyaa.si/?q=JMTJ52AJPAWQE2G7IY7VGCV7QO4BKZAU) |
-| `(Wonder-Subs) Bakusou Kyoudai Let's & Go!! MAX 09 & 10.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wonder-subs-bakusou-kyoudai-lets-go-max-09-10-mkv.n2102858) • [🐱 Nyaa](https://nyaa.si/?q=6JHWZUMJNSCCADXPYZJH2EUWDZMCYOCU) |
 
 ---
 <div align="center">
