@@ -1,5 +1,5 @@
 {
-  "last_update": "25/4/2026, 06.52.26",
+  "last_update": "25/4/2026, 09.54.18",
   "data": [
     {
       "mal_id": 61469,
@@ -883,10 +883,10 @@
       "duration": "8 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.5,
-      "scored_by": 2475,
+      "scored_by": 2477,
       "rank": 167,
-      "popularity": 6874,
-      "members": 11455,
+      "popularity": 6873,
+      "members": 11462,
       "favorites": 174,
       "synopsis": "A series of short films.\n\nShort film #1: Xie Lian and Hua Cheng's first encounter.\n\nShort film #2: Xie Lian and Hua Cheng enjoy the Lantern Festival at the Ghost Market.\n\nShort film #3: Xie Lian and Hua Cheng are underwater then they return to Ghost City.",
       "background": "",
@@ -1239,179 +1239,6 @@
       "demographics": []
     },
     {
-      "mal_id": 51039,
-      "url": "https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1419/126374.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1419/126374t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1419/126374l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1419/126374.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1419/126374t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1419/126374l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/9t5budkJ9n0?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Doupo Cangqiong: Nian Fan"
-        },
-        {
-          "type": "Synonym",
-          "title": "BTTH"
-        },
-        {
-          "type": "Synonym",
-          "title": "Battle Through The Heavens 5th"
-        },
-        {
-          "type": "Synonym",
-          "title": "6th"
-        },
-        {
-          "type": "Synonym",
-          "title": "7th & 8th Seasons"
-        },
-        {
-          "type": "Japanese",
-          "title": "斗破苍穹年番"
-        },
-        {
-          "type": "English",
-          "title": "Battle Through The Heavens Season 5"
-        }
-      ],
-      "title": "Doupo Cangqiong: Nian Fan",
-      "title_english": "Battle Through The Heavens Season 5",
-      "title_japanese": "斗破苍穹年番",
-      "title_synonyms": [
-        "BTTH",
-        "Battle Through The Heavens 5th",
-        "6th",
-        "7th & 8th Seasons"
-      ],
-      "type": "ONA",
-      "source": "Web novel",
-      "episodes": 209,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2022-07-31T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 31,
-            "month": 7,
-            "year": 2022
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Jul 31, 2022 to ?"
-      },
-      "duration": "24 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.38,
-      "scored_by": 4234,
-      "rank": 242,
-      "popularity": 6657,
-      "members": 12328,
-      "favorites": 403,
-      "synopsis": "Fifth season of Doupo Cangqiong.",
-      "background": "",
-      "season": null,
-      "year": null,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "producers": [
-        {
-          "mal_id": 1727,
-          "type": "anime",
-          "name": "Tencent Video",
-          "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
-        },
-        {
-          "mal_id": 1728,
-          "type": "anime",
-          "name": "China Literature Limited",
-          "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
-        },
-        {
-          "mal_id": 2466,
-          "type": "anime",
-          "name": "Wanda Cinemas",
-          "url": "https://myanimelist.net/anime/producer/2466/Wanda_Cinemas"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 1827,
-          "type": "anime",
-          "name": "Motion Magic",
-          "url": "https://myanimelist.net/anime/producer/1827/Motion_Magic"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 13,
-          "type": "anime",
-          "name": "Historical",
-          "url": "https://myanimelist.net/anime/genre/13/Historical"
-        },
-        {
-          "mal_id": 17,
-          "type": "anime",
-          "name": "Martial Arts",
-          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
-        }
-      ],
-      "demographics": []
-    },
-    {
       "mal_id": 57779,
       "url": "https://myanimelist.net/anime/57779/Dorohedoro_Season_2",
       "images": {
@@ -1559,6 +1386,179 @@
           "url": "https://myanimelist.net/anime/genre/42/Seinen"
         }
       ]
+    },
+    {
+      "mal_id": 51039,
+      "url": "https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1419/126374.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1419/126374t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1419/126374l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1419/126374.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1419/126374t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1419/126374l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/9t5budkJ9n0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Doupo Cangqiong: Nian Fan"
+        },
+        {
+          "type": "Synonym",
+          "title": "BTTH"
+        },
+        {
+          "type": "Synonym",
+          "title": "Battle Through The Heavens 5th"
+        },
+        {
+          "type": "Synonym",
+          "title": "6th"
+        },
+        {
+          "type": "Synonym",
+          "title": "7th & 8th Seasons"
+        },
+        {
+          "type": "Japanese",
+          "title": "斗破苍穹年番"
+        },
+        {
+          "type": "English",
+          "title": "Battle Through The Heavens Season 5"
+        }
+      ],
+      "title": "Doupo Cangqiong: Nian Fan",
+      "title_english": "Battle Through The Heavens Season 5",
+      "title_japanese": "斗破苍穹年番",
+      "title_synonyms": [
+        "BTTH",
+        "Battle Through The Heavens 5th",
+        "6th",
+        "7th & 8th Seasons"
+      ],
+      "type": "ONA",
+      "source": "Web novel",
+      "episodes": 209,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2022-07-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 31,
+            "month": 7,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 31, 2022 to ?"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.37,
+      "scored_by": 4236,
+      "rank": 253,
+      "popularity": 6657,
+      "members": 12334,
+      "favorites": 403,
+      "synopsis": "Fifth season of Doupo Cangqiong.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1727,
+          "type": "anime",
+          "name": "Tencent Video",
+          "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+        },
+        {
+          "mal_id": 1728,
+          "type": "anime",
+          "name": "China Literature Limited",
+          "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+        },
+        {
+          "mal_id": 2466,
+          "type": "anime",
+          "name": "Wanda Cinemas",
+          "url": "https://myanimelist.net/anime/producer/2466/Wanda_Cinemas"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1827,
+          "type": "anime",
+          "name": "Motion Magic",
+          "url": "https://myanimelist.net/anime/producer/1827/Motion_Magic"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        }
+      ],
+      "demographics": []
     }
   ]
 }

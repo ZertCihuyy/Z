@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.52.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.54.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Rilakkuma - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-rilakkuma-04-1080p-hevc-x265-10bit-aac.n2102425) • [🐱 Nyaa](https://nyaa.si/?q=GDO3KBOKCJT35ZJEV6W2WP5ANLLZCHGU) |
+| `RILAKKUMA S01E04 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e04-1080p-cr-web-dl-dual-aac2.n2102423) • [🐱 Nyaa](https://nyaa.si/?q=UVRKZXVIIVZDJDS7LROI3BB5DTZWBH3L) |
+| `[ToonsHub] RILAKKUMA S01E04 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e04-1080p-cr-web-dl-dual.k10595658847751) • [🐱 Nyaa](https://nyaa.si/?q=KWN637B5H3XII45MVIPT2RQSOZMKQYQA) |
+| `[Erai-raws] Rilakkuma - 04 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-04-480p-cr-web-dl.k10595643236869) • [🐱 Nyaa](https://nyaa.si/?q=IK5WNX4HIH5ZKXPWV6AX5ZSTXLOLEB4A) |
+| `[Erai-raws] Rilakkuma - 04 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-04-720p-cr-web-dl.k10595641953284) • [🐱 Nyaa](https://nyaa.si/?q=5JZN6A56KZIK7QUIRZCDSKIQFEZBOSTD) |
+| `[Erai-raws] Rilakkuma - 04 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-04-1080p-cr-web-dl.n2102413) • [🐱 Nyaa](https://nyaa.si/?q=DVKUHZF34U2QFJVWJKNXEMFVEMU3TAFE) |
+| `[SubsPlease] Rilakkuma - 04 (720p) [D3ABD46C].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-04-720p-d3abd46c-mkv.n2102414) • [🐱 Nyaa](https://nyaa.si/?q=ZQ6YUIY5DLOVOROBG6266VMQCGFUBGI4) |
+| `[SubsPlease] Rilakkuma - 04 (480p) [1CA44EC6].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-04-480p-1ca44ec6-mkv.n2102411) • [🐱 Nyaa](https://nyaa.si/?q=XXNVUPIEEHVDHG4PFERK25LYQT4RWPM3) |
+| `[SubsPlease] Rilakkuma - 04 (1080p) [D2D2A352].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-04-1080p-d2d2a352-mkv.n2102412) • [🐱 Nyaa](https://nyaa.si/?q=OOZKT35AW6IVOF6N5F2UO4E7XCM47VXE) |
+| `[Gecko] Chibi Godzilla Raids Again - S01E97 (ちびゴジラの逆襲; Ch...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e97-no-gyakushuu.k10594857507587) • [🐱 Nyaa](https://nyaa.si/?q=36NCXWPRHW3CLQGCCQRWXDD2OGJI4KTU) |
+| `[Gecko] Chibi Godzilla Raids Again - S01E96 (ちびゴジラの逆襲; Ch...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e96-no-gyakushuu.k10594838186250) • [🐱 Nyaa](https://nyaa.si/?q=JXHI3ACKOGVU6VIYT6MUEN5BEOCFGYZC) |
+| `[Some-Stuffs] Pocket Monsters (2023) 135 (1080p HEVC 10-b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-135-1080p-hevc-10-bit-ced82cca.n2102406) • [🐱 Nyaa](https://nyaa.si/?q=V6XKNEEMQ2OWBGRQGZ2COPUD6E2NX54X) |
+| `[Some-Stuffs] Pocket Monsters (2023) 135 (1080p) [B304235C]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-135-1080p-b304235c.n2102405) • [🐱 Nyaa](https://nyaa.si/?q=5UK3EDBT4A5GH577S2S7VHCHKRXUPO7W) |
 | `Fire Force S03 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fire-force-s03-1080p-cr-web-dl-dual.n2102395) • [🐱 Nyaa](https://nyaa.si/?q=K7BWSISSDDDURE2KSPQMHWOBFOH5Q6YN) |
 | `[ToonsHub] That Time I Got Reincarnated as a Slime S04E01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-time-got-reincarnated-slime-s04e01-1080p-cr.k10592391237894) • [🐱 Nyaa](https://nyaa.si/?q=GWZEXZJK3JHHY3VQXXBID3656UTBANM7) |
-| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.n2102389) • [🐱 Nyaa](https://nyaa.si/?q=EF5O6CBDJ7KEZGZM3WRIJL24FILWNARZ) |
-| `That Time I Got Reincarnated as a Slime S04E01 New Days 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/time-got-reincarnated-slime-s04e01-new-days-1080p.n2102383) • [🐱 Nyaa](https://nyaa.si/?q=JNW5RQXM6JBK4VVREGWGIWMCV6HDG7KF) |
-| `SNOWBALL EARTH S01E01 THE SAVIOR WHO COULD NOT BRING SALV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/snowball-earth-s01e01-savior-who-could-not-bring.n2102381) • [🐱 Nyaa](https://nyaa.si/?q=2S2COENFHLPOMEMOLVVA364KTCSHPVKB) |
-| `[Erai-raws] Snowball Earth - 04 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-04-1080p-cr-webrip.k10591394417934) • [🐱 Nyaa](https://nyaa.si/?q=CS3BIXZIFGCXEZDPXM4CX3FNW2PERELS) |
-| `[Ironclad] Fist of the North Star: HOKUTO NO KEN - S01E05...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-fist-north-star-hokuto-no-ken-s01e05.k10591147651842) • [🐱 Nyaa](https://nyaa.si/?q=AFPP2GAG36E277NRZSTMZRUMKDFQLTGS) |
-| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kamiina-botan-yoeru-sugata-wa-yuri-no.n2102376) • [🐱 Nyaa](https://nyaa.si/?q=HFPF2IBSR6SUAXQHBUQ5CD7ZS3NKQUU7) |
-| `[Erai-raws] Hokuto no Ken (2026) - 05 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-05-1080p.n2102375) • [🐱 Nyaa](https://nyaa.si/?q=O7AA4ARDBBADTNHACAROXTYSDCKISDHA) |
-| `[Serenae] Meitantei Precure! - 1-12 Batch (1080p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-1-12-batch-1080p.n2102374) • [🐱 Nyaa](https://nyaa.si/?q=PJPGOHOJAVOOTDL6YTRNKLXVEPRQATRW) |
-| `[Serenae] Meitantei Precure! - 1-12 Batch (720p)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-1-12-batch-720p.n2102373) • [🐱 Nyaa](https://nyaa.si/?q=AXUUTH455NDLD2VZJTFHUFREHYORIESR) |
-| `[BlackRabbit] Overlord (2015) - S04 [Bluray-1080p][Opus 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-overlord-2015-s04-bluray-1080p-opus-2.k10589766725646) • [🐱 Nyaa](https://nyaa.si/?q=YNPTVKZQ4QKRCPMN2IESINUTPIE52LP2) |
-| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e03.n2102353) • [🐱 Nyaa](https://nyaa.si/?q=3FB2RK4TJPLI57DFPOGPUPAG3PVX2MUP) |
-| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e02.n2102352) • [🐱 Nyaa](https://nyaa.si/?q=J5CCAY7KT2HE37DKPN74KVWWSSKJOFOO) |
-| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e01.n2102351) • [🐱 Nyaa](https://nyaa.si/?q=A3PQVJY5RUEZF57DNTYQ6R36FMWEC2VD) |
 
 ---
 <div align="center">
