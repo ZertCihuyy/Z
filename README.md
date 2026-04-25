@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.18.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.06.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mao - 04 [1080p DSNP WEBRip HEVC AAC][MultiSu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-04-1080p-dsnp-webrip-hevc.k10615978607873) • [🐱 Nyaa](https://nyaa.si/?q=UBI47NI5EBT3BKLR5YB4RTW22MDYOLWL) |
+| `[somedroplet] Pokémon Horizons - 135 [08D44C22].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/somedroplet-pokmon-horizons-135-08d44c22-mkv.n2102880) • [🐱 Nyaa](https://nyaa.si/?q=ZFZUJG2JCJMR4OGVYJY3TP22EKMAVZW2) |
+| `[Erai-raws] Mao - 04 [1080p DSNP WEB-DL AVC AAC][MultiSub...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-04-1080p-dsnp-web-dl.n2102877) • [🐱 Nyaa](https://nyaa.si/?q=LOEFEDVKVAD6UFWDKL6XG3WLJUGQV3O2) |
+| `[Erai-raws] Mao - 04 [720p DSNP WEB-DL AVC AAC][MultiSub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-04-720p-dsnp-web-dl.n2102876) • [🐱 Nyaa](https://nyaa.si/?q=H6FES5CPVDTZFSHW33YMHDHAZEALWP3N) |
+| `[Erai-raws] Mao - 04 [480p DSNP WEB-DL AVC AAC][MultiSub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-04-480p-dsnp-web-dl.n2102875) • [🐱 Nyaa](https://nyaa.si/?q=G5EHOAXLG64XQTF7MX2ZJAEAOK3JPYPN) |
+| `[DKB] Needy Girl Overdose - S01E04 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-needy-girl-overdose-s01e04-1080p-hevc-x265.n2102872) • [🐱 Nyaa](https://nyaa.si/?q=B32TXT7HRNLH2J3EXOS5MMEHEUJ4V2BX) |
+| `[DKB] Akane-banashi - S01E04 [1080p][HEVC x265 10bit][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-akane-banashi-s01e04-1080p-hevc-x265-10bit.n2102871) • [🐱 Nyaa](https://nyaa.si/?q=L7FOVBZU2Y32BWL27ASTQE4C5X4TQXMR) |
 | `[Erai-raws] Kanan-sama wa Akumade Choroi - 04 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanan-sama-wa-akumade-choroi-04.k10615193712142) • [🐱 Nyaa](https://nyaa.si/?q=7C2P7YXTIRVCSES2367C3CZITES3JBB4) |
 | `MAO S01E04 The Shorinkyo Incident 1080p DSNP WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e04-shorinkyo-incident-1080p-dsnp-web-dl.n2102869) • [🐱 Nyaa](https://nyaa.si/?q=QJAXUOHUJNQST4NNP64JO5PTQZZQXWL2) |
 | `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 04 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-04.n2102868) • [🐱 Nyaa](https://nyaa.si/?q=S654JWMJU2L7UN2OMIV4OQM6DQAH5VA6) |
@@ -36,13 +43,6 @@
 | `Ascendance of a Bookworm S04E01 Ive Become a Noble 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e01-ive-become-noble-1080p-cr.n2102865) • [🐱 Nyaa](https://nyaa.si/?q=XSEYXKEEU6YELSHXDD62SRCCKY535LRM) |
 | `[Feibanyama] ReZERO -Starting Life in Another World- S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-rezero-starting-life-another-world-s04e03-iqiyi.n2102862) • [🐱 Nyaa](https://nyaa.si/?q=JMTJ52AJPAWQE2G7IY7VGCV7QO4BKZAU) |
 | `(Wonder-Subs) Bakusou Kyoudai Let's & Go!! MAX 09 & 10.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wonder-subs-bakusou-kyoudai-lets-go-max-09-10-mkv.n2102858) • [🐱 Nyaa](https://nyaa.si/?q=6JHWZUMJNSCCADXPYZJH2EUWDZMCYOCU) |
-| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-daemons-shadow-realm-yomi-no-tsugai.n2102857) • [🐱 Nyaa](https://nyaa.si/?q=RCD2GB6EBEW77KJLDKVRHFSGXMIBHDYL) |
-| `[ASW] NEEDY GIRL OVERDOSE - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-needy-girl-overdose-04-1080p-hevc-x265-10bit-aac.n2102856) • [🐱 Nyaa](https://nyaa.si/?q=T6PRO3W2AFRO2YVET2YK6ICM2FNVBA67) |
-| `[ASW] Shunkashuutou Daikousha - Haru no Mai - 05 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-shunkashuutou-daikousha-haru-no-mai-05-1080p.n2102855) • [🐱 Nyaa](https://nyaa.si/?q=D5MPJXEWI66VTGPUMPX75Y7VM2XBLJCS) |
-| `Beyond The Clouds - The Promised Place (2004 720p BD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyond-clouds-promised-place-2004-720p-bd.n2102854) • [🐱 Nyaa](https://nyaa.si/?q=UQVN4G7KZEHOLA4CCGXAFHSD3EKBAABQ) |
-| `[DKB] Kanan-sama wa Akumade Choroi - S01E04 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanan-sama-wa-akumade-choroi-s01e04-1080p.n2102852) • [🐱 Nyaa](https://nyaa.si/?q=3ZZ52ATGGJOOTQYBPW6V7DJLCLFTIUXK) |
-| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kanan-sama-wa-akumade-choroi-mistress-devilishly.n2102851) • [🐱 Nyaa](https://nyaa.si/?q=IOIPZ2BDKKMLGRVDPPBPSACZMWKQ6GH6) |
-| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 03 [1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-03-1080p-amzn.k10613199106574) • [🐱 Nyaa](https://nyaa.si/?q=ODG6SPN4FNF5CERVHHTRRAVIWBTNKBNV) |
 
 ---
 <div align="center">
