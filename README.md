@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.21.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.23.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlus+] Yowayowa Sensei - S01E03 (ADN WEB-DL 1080p AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-yowayowa-sensei-s01e03-adn-web-dl-1080p.k10606883061762) • [🐱 Nyaa](https://nyaa.si/?q=K63NHGH2KWNDZMFB2L4SHDY4USCMH4VT) |
-| `[VARYG] Yowayowa Sensei S01E03 Communicating By Touch 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-yowayowa-sensei-s01e03-communicating-touch-1080p-hidi.k10606878187787) • [🐱 Nyaa](https://nyaa.si/?q=YDYQYKC3INKVOFIFWTALHPTCGVLVBTUY) |
-| `[Erai-raws] Yowayowa Sensei - 03 [1080p ADN WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-1080p-adn-web.k10606783812107) • [🐱 Nyaa](https://nyaa.si/?q=3KCLIJADLUX54VME6Z6UAOC43MMKRYLI) |
-| `[Erai-raws] Yowayowa Sensei - 03 [720p ADN WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-720p-adn-web.k10606782490122) • [🐱 Nyaa](https://nyaa.si/?q=IHFX2RBJYMHCPFJYFEMU2EE7U4XQ5PEW) |
-| `[Erai-raws] Yowayowa Sensei - 03 [480p ADN WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-480p-adn-web.k10606782361354) • [🐱 Nyaa](https://nyaa.si/?q=BAMCXAB24VIUA2YC4PUQ6M7KDDRKFUFF) |
-| `[Gecko] The Great Sage Ryddel and the Hands of Time - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-great-sage-ryddel-hands-time-s01e04-regression.k10606757587457) • [🐱 Nyaa](https://nyaa.si/?q=V5I5UMAVHEOCV4LPVSPPFA7Z6EW4H37Q) |
-| `[SubsPlease] Yowayowa Sensei - 03 (1080p) [4EF7B335].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yowayowa-sensei-03-1080p-4ef7b335-mkv.n2102577) • [🐱 Nyaa](https://nyaa.si/?q=JRHNZXKD6PP5OFBWIQ2EYJ4Z5CNFE766) |
-| `[SubsPlease] Yowayowa Sensei - 03 (720p) [A40DD273].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yowayowa-sensei-03-720p-a40dd273-mkv.n2102576) • [🐱 Nyaa](https://nyaa.si/?q=4KQ2DM4DNFM55R4RCR7SLJ7HR7N7ZSXE) |
-| `[ToonsHub] Yowayowa Sensei S01E03 1080p HIDIVE WEB-DL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-yowayowa-sensei-s01e03-1080p-hidive-web-dl.k10606738382857) • [🐱 Nyaa](https://nyaa.si/?q=4ZZC4B4AVXAKU76S7NQ72EB6FVCUXDDO) |
-| `[Erai-raws] Yowayowa Sensei - 03 [480p HIDIVE WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-480p-hidive-web.k10606736032777) • [🐱 Nyaa](https://nyaa.si/?q=GXHTB65KL5YA75IZU7KOXWC47UR6CK2D) |
-| `[Erai-raws] Yowayowa Sensei - 03 [720p HIDIVE WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-720p-hidive-web.k10606734270728) • [🐱 Nyaa](https://nyaa.si/?q=C232XABKETLDTPXYBUO6REKN6XQUMKUV) |
-| `[SubsPlease] Yowayowa Sensei - 03 (480p) [F4DB0547].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yowayowa-sensei-03-480p-f4db0547-mkv.n2102571) • [🐱 Nyaa](https://nyaa.si/?q=33VDN6MUJB3QR5YUJVWEHIKY3A42K2XW) |
-| `[Erai-raws] Yowayowa Sensei - 03 [1080p HIDIVE WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-1080p-hidive-web.n2102570) • [🐱 Nyaa](https://nyaa.si/?q=Y3VS6KVQNXKM4KS6P64CWRXZ64KNIILH) |
-| `[ToonsHub] The Great Sage Ryddel and the Hands of Time S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-great-sage-ryddel-hands-time-s01e04-1080p.n2102569) • [🐱 Nyaa](https://nyaa.si/?q=2VRV4DUPAJSNPAPGKW3ZZPV2ZVRCTZ2P) |
-| `[Gecko] LINK CLICK - S00E24 - Mini Link Click Episode 4 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-link-click-s00e24-mini-link-click-episode.k10606534608137) • [🐱 Nyaa](https://nyaa.si/?q=KTYOVIB2ZOLVIW7LFTN5OLY56H62MUED) |
+| `[ToonsHub] Magical Sisters LuluttoLilly S01E03 1080p AMZN...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-magical-sisters-luluttolilly-s01e03-1080p-amzn-web.n2102610) • [🐱 Nyaa](https://nyaa.si/?q=FB3YIKXTVVYQ4BUFBMQLX5LY4R3E6I7H) |
+| `[Onalrie] Kanteishi (Kari) - S01E05 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kanteishi-kari-s01e05-1080p-webrip-av1-mkv.2076720) • [🐱 Nyaa](https://nyaa.si/?q=NK7CJ2WHMIDD462VKIK63KSQGZBHVNXX) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 03 [1080p AMZ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mahou-no-shimai-lulutto-lilly-03.k10607456928524) • [🐱 Nyaa](https://nyaa.si/?q=XTWYXE6KNX4N6GGJABO2PBDZAPPJDHT6) |
+| `[ASW] Yowayowa Sensei - 03 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yowayowa-sensei-03-1080p-hevc-x265-10bit-aac.n2102604) • [🐱 Nyaa](https://nyaa.si/?q=BTOUXO6L2S22IMK5EPRQDP6XTGK2ZIEK) |
+| `Yowayowa Sensei S01E03 Communicating By Touch 1080p ADN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yowayowa-sensei-s01e03-communicating-touch-1080p-adn-web.n2102603) • [🐱 Nyaa](https://nyaa.si/?q=URUGMVZCBS6X5JFC7534HQNYAQKT4QKH) |
+| `[Onalrie] Yowayowa Sensei - S01E03 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yowayowa-sensei-s01e03-1080p-webrip-av1-mkv.2076705) • [🐱 Nyaa](https://nyaa.si/?q=FUZTZXIKGE7AW72R63JRKCLCE4KQW37Z) |
+| `The strongest job is apparently not a hero or a sage but ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/strongest-job-apparently-not-hero-sage-appraiser-provisional.n2102602) • [🐱 Nyaa](https://nyaa.si/?q=7YI5COVPAEPVMWD5DDDDF6GEV7EIMWNR) |
+| `[SubsPlease] Kanteishi (Kari) - 05 (1080p) [384627DB].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanteishi-kari-05-1080p-384627db-mkv.n2102601) • [🐱 Nyaa](https://nyaa.si/?q=ZXAQ3UPR2XW5A6PSWGGNPHSNYGUX57XP) |
+| `[ToonsHub] The strongest job is apparently not a hero or ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-strongest-job-apparently-not-hero-sage-appraiser.k10607184779274) • [🐱 Nyaa](https://nyaa.si/?q=LWAVZVIK7OA5F5IQHF7EOJ46NPDBRT7A) |
+| `[SubsPlease] Kanteishi (Kari) - 05 (720p) [B3B41BED].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanteishi-kari-05-720p-b3b41bed-mkv.n2102598) • [🐱 Nyaa](https://nyaa.si/?q=P35OOSA5ZUYYT63R5ZGPOOBKOWMQRNTF) |
+| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.k10607175890958) • [🐱 Nyaa](https://nyaa.si/?q=GEEGNVV2SPSRAMPAP2YZLIAOGBIJH75C) |
+| `[SubsPlease] Kanteishi (Kari) - 05 (480p) [25E3B5E5].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanteishi-kari-05-480p-25e3b5e5-mkv.n2102595) • [🐱 Nyaa](https://nyaa.si/?q=QANVSWGIBSKHFTHPWIBS57AYBLHORHXO) |
+| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2102594) • [🐱 Nyaa](https://nyaa.si/?q=EE7BQZFHRMUISDGUZJOWFVE5EPTU4MVO) |
+| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.n2102593) • [🐱 Nyaa](https://nyaa.si/?q=HO3YD7YKSGV54WM6RH2G5I6C2L5OJM7I) |
+| `[ToonsHub] Yowayowa Sensei S01E03 1080p UNCENSORED ADN WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-yowayowa-sensei-s01e03-1080p-uncensored-adn-web.n2102590) • [🐱 Nyaa](https://nyaa.si/?q=M3VZGWZI7RO7REJWW2WKLGLKXPWFXAQE) |
 
 ---
 <div align="center">
