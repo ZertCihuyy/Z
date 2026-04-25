@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.57.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.56.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] MAO S01E04 1080p AMZN WEB-DL DDP2.0 H.264 (Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mao-s01e04-1080p-amzn-web-dl-ddp2.k10609323727620) • [🐱 Nyaa](https://nyaa.si/?q=BMSFCNB66NX4MQMCOA664MQECFZLPEFI) |
-| `[nekotan] Kiniro Mosaic S01 (BD Remux 1080p x264 8-bit FL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-kiniro-mosaic-s01-bd-remux-1080p-x264.k10609304412931) • [🐱 Nyaa](https://nyaa.si/?q=4NLMILBULQRDE6ZTQ76CUBHKSTC3SFOQ) |
-| `[VARYG] MAO S01E04 The Shorinkyo Incident 1080p BILI WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-mao-s01e04-shorinkyo-incident-1080p-bili-web.k10609283308802) • [🐱 Nyaa](https://nyaa.si/?q=7B76FHVFGCTUJPBVJLNBBJZMHRWP6HDH) |
-| `[ToonsHub] MAO S01E04 1080p BILI WEB-DL AAC2.0 H.265 (Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mao-s01e04-1080p-bili-web-dl-aac2.k10609255342343) • [🐱 Nyaa](https://nyaa.si/?q=P5VVCWJZGL7KYWQDR2EI7M7SLOI4FSKI) |
-| `[Ironclad] Ascendance of a Bookworm - S04E04 (WEB 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-ascendance-bookworm-s04e04-web-1080p-av1-honzuki.k10609075117313) • [🐱 Nyaa](https://nyaa.si/?q=VGKPMH4MOU6QG6CC5XQ7V5CGU427EF5B) |
-| `[Onalrie] Kill Ao - S01E03 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kill-ao-s01e03-1080p-webrip-av1-mkv.2076751) • [🐱 Nyaa](https://nyaa.si/?q=3PS3ADGKDB6OL6JRWJ4MSLO7PJBHMKH6) |
-| `[Erai-raws] Akane-banashi - 04 [1080p NF WEB-DL AVC AAC][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-akane-banashi-04-1080p-nf-web.k10608828487686) • [🐱 Nyaa](https://nyaa.si/?q=YOEBLCQXRWQXBA5ZEX76CMXSVIEBXVPA) |
-| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja dem...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-shokugyou-wa-yuusha-demo.k10608755569669) • [🐱 Nyaa](https://nyaa.si/?q=FYQZETAWDIQWJNNWJFIKMUMJ6IW7AAZS) |
-| `Akane Banashi S01E04 Beyond Joy 1080p NF WEB-DL AAC2.0 H ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/akane-banashi-s01e04-beyond-joy-1080p-nf-web.n2102650) • [🐱 Nyaa](https://nyaa.si/?q=I2FP6PL5OB4WHSGPRYMVJ7UQJ7I424H2) |
-| `[ToonsHub] Akane-Banashi S01E04 1080p NF WEB-DL AAC2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-akane-banashi-s01e04-1080p-nf-web-dl.k10608713230851) • [🐱 Nyaa](https://nyaa.si/?q=3R27TVDACACHEEKY6OT7TRZZUOLSCAXX) |
-| `KILL BLUE S01E03 Wipe Your Own Butt 1080p NF WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kill-blue-s01e03-wipe-your-own-butt-1080p.n2102648) • [🐱 Nyaa](https://nyaa.si/?q=OLLH2ABB7IKKVL7B3HYCLV4AM4HOYXXT) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E04 1080p NF WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-daemons-shadow-realm-s01e04-1080p-nf-web.k10608598854915) • [🐱 Nyaa](https://nyaa.si/?q=IAO4PYQIGJ7UYZKZXCMGJP62G72PDY5I) |
-| `Daemons of the Shadow Realm S01E04 Jin and Yuru 1080p NF ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/daemons-shadow-realm-s01e04-jin-yuru-1080p-nf.n2102644) • [🐱 Nyaa](https://nyaa.si/?q=UVF7I6EL5PJAV2BR7NI6H6PVP7E3G7ZV) |
-| `[Piyoko] Onegai AiPri - 03 [WEB AMZN 1080p h264 AC3 2.0]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-03-web-amzn-1080p-h264.n2102640) • [🐱 Nyaa](https://nyaa.si/?q=LYB5FGNIL34SVDTF5EJ7OBFB254KHCTS) |
-| `[ToonsHub] One Piece EP1158 1080p NF WEB-DL AAC2.0 H.264 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1158-1080p-nf-web-dl.k10608186991364) • [🐱 Nyaa](https://nyaa.si/?q=GVJ54PPDKVZMTNJR6T3SX4OFYEGECXJO) |
+| `[VARYG] Kusunokis Garden of Gods S01E04 Off to the Other ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-kusunokis-garden-gods-s01e04-off-other-world.k10610123466253) • [🐱 Nyaa](https://nyaa.si/?q=3WYCUP2MVFC4WIRAN7EINLK54VV7CSWV) |
+| `[ToonsHub] Kusunokis Garden of Gods S01E04 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kusunokis-garden-gods-s01e04-1080p-cr-web.k10610105141516) • [🐱 Nyaa](https://nyaa.si/?q=4EJOCMFIQQ54HTDMAWHGNGMHI3FYLC54) |
+| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 04 [480p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-04.k10610095331083) • [🐱 Nyaa](https://nyaa.si/?q=U4P243RNWSOSRSXZR5YP35PAH6S2VI3S) |
+| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 04 [720p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-04.k10610092976650) • [🐱 Nyaa](https://nyaa.si/?q=D5C3DBAZXZTTONW5ESWXICBZJ2TUIQAF) |
+| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 04 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-04.k10610090370818) • [🐱 Nyaa](https://nyaa.si/?q=JNEKSLUKR6ELONOIT2KEJS7OJY5AOQVQ) |
+| `[SubsMix] Mistress Kanan Is Devilishly Easy - 04 (S01E04)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsmix-mistress-kanan-devilishly-easy-04-s01e04-web.n2102738) • [🐱 Nyaa](https://nyaa.si/?q=BB7M6273H5CUAN362PDNKASGOFXOVAOY) |
+| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-agents-four-seasons-dance-spring-s01e02-1080p.k10610052626950) • [🐱 Nyaa](https://nyaa.si/?q=NMXEDV6W3FJDTDKGGIFILCP6J2LTD2WV) |
+| `[Onalrie] Yomi no Tsugai - S01E04 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yomi-no-tsugai-s01e04-1080p-webrip-av1-mkv.2076775) • [🐱 Nyaa](https://nyaa.si/?q=CK7WRCRTBVENBP7XBHIMLVT65XD3USG6) |
+| `[Yameii] Agents of the Four Seasons: Dance of Spring - S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-agents-four-seasons-dance-spring-s01e03-english.k10610009311745) • [🐱 Nyaa](https://nyaa.si/?q=OZ6ZYGLV6JNE2YDKO4TRQ57U3A3CVPFK) |
+| `[Yameii] Agents of the Four Seasons: Dance of Spring - S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-agents-four-seasons-dance-spring-s01e03-english.k10609981770240) • [🐱 Nyaa](https://nyaa.si/?q=KICY77QDTTOURMXRW2UX6J5JKIV34LBH) |
+| `Agents of the Four Seasons Dance of Spring S01E03 A Glimp...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/agents-four-seasons-dance-spring-s01e03-glimpse-1080p.n2102734) • [🐱 Nyaa](https://nyaa.si/?q=UCSOZOYXQ34FUCCOZILOKVN5OQQTOOMA) |
+| `Agents of the Four Seasons Dance of Spring S01E05 Alone T...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/agents-four-seasons-dance-spring-s01e05-alone-together.n2102733) • [🐱 Nyaa](https://nyaa.si/?q=CFK4647KQITGMWFJMQYZ7MFCCC3HEVEG) |
+| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-agents-four-seasons-dance-spring-s01e03-1080p.k10609958605323) • [🐱 Nyaa](https://nyaa.si/?q=RD5GSBBAIPPQKAHECCXHDXLVGNZIVD3D) |
+| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-agents-four-seasons-dance-spring-s01e05-1080p.k10609955106319) • [🐱 Nyaa](https://nyaa.si/?q=3IR5HIN4QIISRTHZT2S4FQ3U4OYY2WMI) |
+| `Kusunokis Garden of Gods S01E04 Off to the Otherworld to ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kusunokis-garden-gods-s01e04-off-otherworld-exorcise-evil.n2102728) • [🐱 Nyaa](https://nyaa.si/?q=G4QCSIVD2VDKEWFTOFZXX3ITONIQQCYD) |
 
 ---
 <div align="center">
