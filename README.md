@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.55.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.21.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E04 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-welcome-demon-school-iruma-kun-s04e04-1080p.n2102547) • [🐱 Nyaa](https://nyaa.si/?q=GYYCGSWMZZ7Q43IG36TCTGKCOI3RVXLR) |
-| `Welcome to Demon School Iruma kun S04E04 We Cant See Him ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/welcome-demon-school-iruma-kun-s04e04-cant-see.n2102546) • [🐱 Nyaa](https://nyaa.si/?q=XRX75IDBLCM7CJFH2B3TKOZEHDKCYHCK) |
-| `Detective Conan S01E1199 The Detective Boys VS The Silver...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-s01e1199-boys-vs-silver-detectives-2.n2102545) • [🐱 Nyaa](https://nyaa.si/?q=DVUS2TYU3XZMJZRARURBNIRNPIBBGJQM) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E04 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-welcome-demon-school-iruma-kun-s04e04-1080p.n2102544) • [🐱 Nyaa](https://nyaa.si/?q=N7IAVFG7EBEEKUAGT5MYDSMLDQEFFTQR) |
-| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mairimashita-iruma-kun-welcome-demon-school-s04e04.n2102543) • [🐱 Nyaa](https://nyaa.si/?q=3MEOFXAWWZ4IGZISPCVGO7TQILZ7MLV2) |
-| `[Mo7tas] Himesama "Goumon" no Jikan desu [BD 1080p] [Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-himesama-goumon-no-jikan-desu-bd-1080p.n2102542) • [🐱 Nyaa](https://nyaa.si/?q=PPAXTEZR63PDBRYJUDS7FCJ4JEFKLLE7) |
-| `[Erai-raws] Detective Conan - 1199 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1199-480p-cr-web.k10605348951814) • [🐱 Nyaa](https://nyaa.si/?q=TZAKLMSQNQCQQ645WZYK7MR322PEBJA2) |
-| `[Erai-raws] Detective Conan - 1199 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1199-720p-cr-web.k10605346217735) • [🐱 Nyaa](https://nyaa.si/?q=TALN7N5QNKAWIDXQ2Z6ILANIFBNFN5XC) |
-| `Welcome to Demon School Iruma kun S04E04 We Cant See Him ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/welcome-demon-school-iruma-kun-s04e04-cant-see.n2102539) • [🐱 Nyaa](https://nyaa.si/?q=VXEIBGM5BNGD67XJM27PEOZP4DB6LUZP) |
-| `[Erai-raws] Detective Conan - 1199 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-detective-conan-1199-1080p-cr-web.k10605343586050) • [🐱 Nyaa](https://nyaa.si/?q=QYN6AOTAMMJ4BHTY3IOMDWK3NP6KHH56) |
-| `[ToonsHub] Detective Conan EP1199 1080p CR WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-detective-conan-ep1199-1080p-cr-web-dl.k10605340374790) • [🐱 Nyaa](https://nyaa.si/?q=DN235RBKDUZ2KU6SOMIQM62JG3VAWBER) |
-| `[SubsPlease] Detective Conan - 1199 (1080p) [F964D69A].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1199-1080p-f964d69a-mkv.n2102536) • [🐱 Nyaa](https://nyaa.si/?q=6WST7F7QKOSQZEMORZ4V6CI7T4N62NUN) |
-| `[SubsPlease] Detective Conan - 1199 (720p) [BD8AC0A7].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1199-720p-bd8ac0a7-mkv.n2102535) • [🐱 Nyaa](https://nyaa.si/?q=7WDFYBLCM3FHD3MLJXD4YVJKYRGU7UWV) |
-| `[SubsPlease] Detective Conan - 1199 (480p) [1341C3DF].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-detective-conan-1199-480p-1341c3df-mkv.n2102534) • [🐱 Nyaa](https://nyaa.si/?q=NY6AQ44WFMXJENHXBSJ5FAF5EZQ33PDO) |
-| `[ToonsHub] Jiang Ye S01E02 1080p BILI WEB-DL AAC2.0 H.265...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-jiang-ye-s01e02-1080p-bili-web-dl.n2102533) • [🐱 Nyaa](https://nyaa.si/?q=EAAUUZTDYQOQNIATRBBL5HJMO2LD2PZV) |
+| `[SubsPlus+] Yowayowa Sensei - S01E03 (ADN WEB-DL 1080p AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-yowayowa-sensei-s01e03-adn-web-dl-1080p.k10606883061762) • [🐱 Nyaa](https://nyaa.si/?q=K63NHGH2KWNDZMFB2L4SHDY4USCMH4VT) |
+| `[VARYG] Yowayowa Sensei S01E03 Communicating By Touch 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-yowayowa-sensei-s01e03-communicating-touch-1080p-hidi.k10606878187787) • [🐱 Nyaa](https://nyaa.si/?q=YDYQYKC3INKVOFIFWTALHPTCGVLVBTUY) |
+| `[Erai-raws] Yowayowa Sensei - 03 [1080p ADN WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-1080p-adn-web.k10606783812107) • [🐱 Nyaa](https://nyaa.si/?q=3KCLIJADLUX54VME6Z6UAOC43MMKRYLI) |
+| `[Erai-raws] Yowayowa Sensei - 03 [720p ADN WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-720p-adn-web.k10606782490122) • [🐱 Nyaa](https://nyaa.si/?q=IHFX2RBJYMHCPFJYFEMU2EE7U4XQ5PEW) |
+| `[Erai-raws] Yowayowa Sensei - 03 [480p ADN WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-480p-adn-web.k10606782361354) • [🐱 Nyaa](https://nyaa.si/?q=BAMCXAB24VIUA2YC4PUQ6M7KDDRKFUFF) |
+| `[Gecko] The Great Sage Ryddel and the Hands of Time - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-great-sage-ryddel-hands-time-s01e04-regression.k10606757587457) • [🐱 Nyaa](https://nyaa.si/?q=V5I5UMAVHEOCV4LPVSPPFA7Z6EW4H37Q) |
+| `[SubsPlease] Yowayowa Sensei - 03 (1080p) [4EF7B335].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yowayowa-sensei-03-1080p-4ef7b335-mkv.n2102577) • [🐱 Nyaa](https://nyaa.si/?q=JRHNZXKD6PP5OFBWIQ2EYJ4Z5CNFE766) |
+| `[SubsPlease] Yowayowa Sensei - 03 (720p) [A40DD273].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yowayowa-sensei-03-720p-a40dd273-mkv.n2102576) • [🐱 Nyaa](https://nyaa.si/?q=4KQ2DM4DNFM55R4RCR7SLJ7HR7N7ZSXE) |
+| `[ToonsHub] Yowayowa Sensei S01E03 1080p HIDIVE WEB-DL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-yowayowa-sensei-s01e03-1080p-hidive-web-dl.k10606738382857) • [🐱 Nyaa](https://nyaa.si/?q=4ZZC4B4AVXAKU76S7NQ72EB6FVCUXDDO) |
+| `[Erai-raws] Yowayowa Sensei - 03 [480p HIDIVE WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-480p-hidive-web.k10606736032777) • [🐱 Nyaa](https://nyaa.si/?q=GXHTB65KL5YA75IZU7KOXWC47UR6CK2D) |
+| `[Erai-raws] Yowayowa Sensei - 03 [720p HIDIVE WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-720p-hidive-web.k10606734270728) • [🐱 Nyaa](https://nyaa.si/?q=C232XABKETLDTPXYBUO6REKN6XQUMKUV) |
+| `[SubsPlease] Yowayowa Sensei - 03 (480p) [F4DB0547].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yowayowa-sensei-03-480p-f4db0547-mkv.n2102571) • [🐱 Nyaa](https://nyaa.si/?q=33VDN6MUJB3QR5YUJVWEHIKY3A42K2XW) |
+| `[Erai-raws] Yowayowa Sensei - 03 [1080p HIDIVE WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yowayowa-sensei-03-1080p-hidive-web.n2102570) • [🐱 Nyaa](https://nyaa.si/?q=Y3VS6KVQNXKM4KS6P64CWRXZ64KNIILH) |
+| `[ToonsHub] The Great Sage Ryddel and the Hands of Time S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-great-sage-ryddel-hands-time-s01e04-1080p.n2102569) • [🐱 Nyaa](https://nyaa.si/?q=2VRV4DUPAJSNPAPGKW3ZZPV2ZVRCTZ2P) |
+| `[Gecko] LINK CLICK - S00E24 - Mini Link Click Episode 4 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-link-click-s00e24-mini-link-click-episode.k10606534608137) • [🐱 Nyaa](https://nyaa.si/?q=KTYOVIB2ZOLVIW7LFTN5OLY56H62MUED) |
 
 ---
 <div align="center">
