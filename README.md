@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.23.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.10.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-black-cat-witch-s01e03-1080p-cr.k10630723810310) • [🐱 Nyaa](https://nyaa.si/?q=TFFV6XFVCLIWA24KYZPEOHV6USIPJGV4) |
+| `[VARYG] The Classroom of a Black Cat and a Witch S01E03 T...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-classroom-black-cat-witch-s01e03-magicians-zodiac.k10630692763405) • [🐱 Nyaa](https://nyaa.si/?q=43MMDWPW2TGQ2ZRMGFUWV2JVI3DDODD3) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 03 [480p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-03-480p.k10630676638472) • [🐱 Nyaa](https://nyaa.si/?q=ZALNE3YDIOVI6HJNSFB4I5LKGNDV6VIL) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 03 [720p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-03-720p.k10630674189831) • [🐱 Nyaa](https://nyaa.si/?q=UB5VZIKN4ZYHBNVEATDOMKFJZI5OFGWG) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 03 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-03-1080p.k10630671845900) • [🐱 Nyaa](https://nyaa.si/?q=Z6S4DDWBM5JPURMYXWCPWPRBPFQSYY5A) |
+| `[Onalrie] Maid-san wa Taberu Dake - S01E05 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-maid-san-wa-taberu-dake-s01e05-1080p.2077037) • [🐱 Nyaa](https://nyaa.si/?q=W7254Z4RSFCVMGKVIZH7RTGBNL3G7BDV) |
+| `[ASW] Maid-san wa Taberu Dake - 05 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-maid-san-wa-taberu-dake-05-1080p.n2103141) • [🐱 Nyaa](https://nyaa.si/?q=T7KMMD2A4VHF2DWHD4K7OGXPW4PGZAFC) |
+| `One Piece S01E1158 1080p NF WEB-DL AAC2.0 H 264-VARYG (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1158-1080p-nf-web-dl-aac2.n2103137) • [🐱 Nyaa](https://nyaa.si/?q=BLSCFBH5ZAO5YU5624QBLJLDWYMPI2DT) |
 | `The Food Diary of Miss Maid S01E05 Soft Serve Plum Wine B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/food-diary-miss-maid-s01e05-soft-serve-plum.n2103131) • [🐱 Nyaa](https://nyaa.si/?q=PAL3ZFZLCMG745JZDYMW434NLEAABUOM) |
 | `[SubsPlease] Maid-san wa Taberu Dake - 05 (1080p) [09A6CF...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-maid-san-wa-taberu-dake-05-1080p-09a6cff9-mkv.n2103129) • [🐱 Nyaa](https://nyaa.si/?q=2RMGX2KJO6V37MXXRK76NBBJRZ7EXJLX) |
 | `[ToonsHub] The Food Diary of Miss Maid S01E05 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-food-diary-miss-maid-s01e05-1080p-cr.k10629763996940) • [🐱 Nyaa](https://nyaa.si/?q=TQVCQZYLSLXXSISX4NA6QTPCF3KL2ERO) |
@@ -35,14 +43,6 @@
 | `[SubsPlease] Maid-san wa Taberu Dake - 05 (480p) [11E2F24...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-maid-san-wa-taberu-dake-05-480p-11e2f248-mkv.n2103125) • [🐱 Nyaa](https://nyaa.si/?q=JQKJJ22KVKCIEB32EMSQMS2UTADG3W2N) |
 | `[Erai-raws] Maid-san wa Taberu dake - 05 [480p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-maid-san-wa-taberu-dake-05.n2103121) • [🐱 Nyaa](https://nyaa.si/?q=MVUXVCJPMC6BZ4BYY2GBQA76OYHKEF5E) |
 | `[Erai-raws] Maid-san wa Taberu dake - 05 [720p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-maid-san-wa-taberu-dake-05.n2103120) • [🐱 Nyaa](https://nyaa.si/?q=TOSEY5UMFHQDNZA5OOCZQ2VRLOL5NGQR) |
-| `[Erai-raws] Maid-san wa Taberu dake - 05 [1080p CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-maid-san-wa-taberu-dake-05.n2103119) • [🐱 Nyaa](https://nyaa.si/?q=AWYN65RND6CP2UM422OV5ITITOXSERBC) |
-| `[Ironclad] Niwatori Fighter - S01E07 [WEB.1080p.AV1] | Ro...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-niwatori-fighter-s01e07-web-1080p-av1-rooster.n2103116) • [🐱 Nyaa](https://nyaa.si/?q=MD6QJQ7JTV4GLOL2HCZZ6JZBNPPHNSEU) |
-| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sw...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tsue-tsurugi-no-wistoria-wand-sword-s02e03.n2103110) • [🐱 Nyaa](https://nyaa.si/?q=KKBF33TWOLO5XAQGBSIGI2357UD5TYM6) |
-| `[Erai-raws] Nippon Sangoku - 04 [720p AMZN WEB-DL AVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-04-720p-amzn-web.k10628005908225) • [🐱 Nyaa](https://nyaa.si/?q=VHMCP37IF2BOHNXQKIZY7QXWU4IXOA4T) |
-| `[Erai-raws] Nippon Sangoku - 04 [1080p AMZN WEB-DL AVC EA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-04-1080p-amzn-web.k10628006111239) • [🐱 Nyaa](https://nyaa.si/?q=ZIIQIXXXESJUHBXNIBO54A6YTFM3ALBT) |
-| `[Erai-raws] Nippon Sangoku - 04 [540p AMZN WEB-DL AVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-04-540p-amzn-web.k10628005634563) • [🐱 Nyaa](https://nyaa.si/?q=3UBF5RNVZKFXBBUJK2RV7FPIQGRI7KLV) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nippon-sangoku-three-nations-crimson-sun-s01e04-seii.n2103103) • [🐱 Nyaa](https://nyaa.si/?q=CVH4JLNOQ3VC33MIYJ3QT3BDSTO4KWIY) |
-| `[ASW] Digimon Beatbreak - 28v2 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-digimon-beatbreak-28v2-1080p-hevc-x265-10bit-aac.n2103102) • [🐱 Nyaa](https://nyaa.si/?q=U2VYAJXOH7MXB4NPPMI6KBQRTBFSJSYJ) |
 
 ---
 <div align="center">
