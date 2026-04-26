@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.10.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.58.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] One Piece EP1159 1080p iQ WEB-DL AAC2.0 H.264 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1159-1080p-iq-web-dl.n2103180) • [🐱 Nyaa](https://nyaa.si/?q=BASQZTEO2VSP6VVTV4AYVD5RZZBNS6IX) |
+| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E03 [1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kuroneko-majo-no-kyoushitsu-s01e03-1080p-webrip-av1.2077051) • [🐱 Nyaa](https://nyaa.si/?q=LZRRBJVV4Y7Q6A57BRZKHF5AFJ35U3LC) |
+| `[ppkhoa] Akane-banashi S01E04 Beyond Joy 1080p DSNP WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ppkhoa-akane-banashi-s01e04-beyond-joy-1080p-dsnp.k10631220499468) • [🐱 Nyaa](https://nyaa.si/?q=VGQOZTNJ2W4Q6HKVPQ576YWAZ55JH4RB) |
+| `GHOST CONCERT missing Songs S01E04 Worlds Apart 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ghost-concert-missing-songs-s01e04-worlds-apart-1080p.n2103176) • [🐱 Nyaa](https://nyaa.si/?q=EWA6EYMAJ2NKB4WTT7ZP56WOSEDBHKLQ) |
+| `[ToonsHub] GHOST CONCERT missing Songs S01E04 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ghost-concert-missing-songs-s01e04-1080p-cr.k10631146233357) • [🐱 Nyaa](https://nyaa.si/?q=SP5X5URDN2MSXH3QL6RKH24JYBLLTTAN) |
+| `[SubsPlease] Ghost Concert - missing Songs - 04 (1080p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ghost-concert-missing-songs-04-1080p-0ffc8ac5-mkv.n2103173) • [🐱 Nyaa](https://nyaa.si/?q=K3VGQXH2JYM3N5ASA6RYLQNWNCMTOKEV) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 04 [480p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-04-480p.k10631137382407) • [🐱 Nyaa](https://nyaa.si/?q=R6S76VR2NNU3ICM3Q7LKBERIUWQNFFG2) |
+| `[SubsPlease] Ghost Concert - missing Songs - 04 (720p) [F...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ghost-concert-missing-songs-04-720p-f5f430b6-mkv.n2103169) • [🐱 Nyaa](https://nyaa.si/?q=7ADVOG37K4RP7YIRZASBPRVIIW5TFCFM) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 04 [720p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-04-720p.k10631134978825) • [🐱 Nyaa](https://nyaa.si/?q=ZSKHLG6NIKETIEH4N5RTHIOLJD3ZQFON) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 04 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-04-1080p.k10631132890638) • [🐱 Nyaa](https://nyaa.si/?q=IRV36YRTVMMNOU5QXYN7GH3GL3B2GC6V) |
+| `[SubsPlease] Ghost Concert - missing Songs - 04 (480p) [A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ghost-concert-missing-songs-04-480p-aa23120f-mkv.n2103165) • [🐱 Nyaa](https://nyaa.si/?q=XKPRDUSE3RPPARSAFDQV5KZH5AW3WFLC) |
+| `[BonoboSubs]Renegade Immortal - Xian Ni Episode 138` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bonobosubs-renegade-immortal-xian-ni-episode-138.n2103163) • [🐱 Nyaa](https://nyaa.si/?q=S64CDZOZVOQMVNFK6NWHOIEMV3PA6HDX) |
+| `[BonoboSubs][4k]Renegade Immortal - Xian Ni Episode 138` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bonobosubs-4k-renegade-immortal-xian-ni-episode-138.n2103162) • [🐱 Nyaa](https://nyaa.si/?q=Q4OFUUGQ3QFPZSPXH5RPOXTLKTVGCJBW) |
 | `[ToonsHub] The Classroom of a Black Cat and a Witch S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-black-cat-witch-s01e03-1080p-cr.k10630723810310) • [🐱 Nyaa](https://nyaa.si/?q=TFFV6XFVCLIWA24KYZPEOHV6USIPJGV4) |
-| `[VARYG] The Classroom of a Black Cat and a Witch S01E03 T...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-classroom-black-cat-witch-s01e03-magicians-zodiac.k10630692763405) • [🐱 Nyaa](https://nyaa.si/?q=43MMDWPW2TGQ2ZRMGFUWV2JVI3DDODD3) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 03 [480p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-03-480p.k10630676638472) • [🐱 Nyaa](https://nyaa.si/?q=ZALNE3YDIOVI6HJNSFB4I5LKGNDV6VIL) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 03 [720p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-03-720p.k10630674189831) • [🐱 Nyaa](https://nyaa.si/?q=UB5VZIKN4ZYHBNVEATDOMKFJZI5OFGWG) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 03 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-03-1080p.k10630671845900) • [🐱 Nyaa](https://nyaa.si/?q=Z6S4DDWBM5JPURMYXWCPWPRBPFQSYY5A) |
-| `[Onalrie] Maid-san wa Taberu Dake - S01E05 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-maid-san-wa-taberu-dake-s01e05-1080p.2077037) • [🐱 Nyaa](https://nyaa.si/?q=W7254Z4RSFCVMGKVIZH7RTGBNL3G7BDV) |
-| `[ASW] Maid-san wa Taberu Dake - 05 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-maid-san-wa-taberu-dake-05-1080p.n2103141) • [🐱 Nyaa](https://nyaa.si/?q=T7KMMD2A4VHF2DWHD4K7OGXPW4PGZAFC) |
-| `One Piece S01E1158 1080p NF WEB-DL AAC2.0 H 264-VARYG (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1158-1080p-nf-web-dl-aac2.n2103137) • [🐱 Nyaa](https://nyaa.si/?q=BLSCFBH5ZAO5YU5624QBLJLDWYMPI2DT) |
-| `The Food Diary of Miss Maid S01E05 Soft Serve Plum Wine B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/food-diary-miss-maid-s01e05-soft-serve-plum.n2103131) • [🐱 Nyaa](https://nyaa.si/?q=PAL3ZFZLCMG745JZDYMW434NLEAABUOM) |
-| `[SubsPlease] Maid-san wa Taberu Dake - 05 (1080p) [09A6CF...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-maid-san-wa-taberu-dake-05-1080p-09a6cff9-mkv.n2103129) • [🐱 Nyaa](https://nyaa.si/?q=2RMGX2KJO6V37MXXRK76NBBJRZ7EXJLX) |
-| `[ToonsHub] The Food Diary of Miss Maid S01E05 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-food-diary-miss-maid-s01e05-1080p-cr.k10629763996940) • [🐱 Nyaa](https://nyaa.si/?q=TQVCQZYLSLXXSISX4NA6QTPCF3KL2ERO) |
-| `[SubsPlease] Maid-san wa Taberu Dake - 05 (720p) [017BC40...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-maid-san-wa-taberu-dake-05-720p-017bc40d-mkv.n2103126) • [🐱 Nyaa](https://nyaa.si/?q=H5IADBPBUM7KVEC3PWTCUULT52BJFIDE) |
-| `[SubsPlease] Maid-san wa Taberu Dake - 05 (480p) [11E2F24...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-maid-san-wa-taberu-dake-05-480p-11e2f248-mkv.n2103125) • [🐱 Nyaa](https://nyaa.si/?q=JQKJJ22KVKCIEB32EMSQMS2UTADG3W2N) |
-| `[Erai-raws] Maid-san wa Taberu dake - 05 [480p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-maid-san-wa-taberu-dake-05.n2103121) • [🐱 Nyaa](https://nyaa.si/?q=MVUXVCJPMC6BZ4BYY2GBQA76OYHKEF5E) |
-| `[Erai-raws] Maid-san wa Taberu dake - 05 [720p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-maid-san-wa-taberu-dake-05.n2103120) • [🐱 Nyaa](https://nyaa.si/?q=TOSEY5UMFHQDNZA5OOCZQ2VRLOL5NGQR) |
+| `The Classroom of a Black Cat and a Witch S01E03 The Magic...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-black-cat-witch-s01e03-magicians-zodiac-1080p.n2103158) • [🐱 Nyaa](https://nyaa.si/?q=43MMDWPW2TGQ2ZRMGFUWV2JVI3DDODD3) |
 
 ---
 <div align="center">
