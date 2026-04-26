@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.55.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.33.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[WrathMonth] The Most Heretical Last Boss Queen: From Vil...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wrathmonth-most-heretical-last-boss-queen-from-villainess.n2102893) • [🐱 Nyaa](https://nyaa.si/?q=SAJH3KHM4EUGNQB6MANSBF26AN36QKE7) |
-| `[Erai-raws] Mao - 04 [1080p DSNP WEBRip HEVC AAC][MultiSu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-04-1080p-dsnp-webrip-hevc.k10615978607873) • [🐱 Nyaa](https://nyaa.si/?q=UBI47NI5EBT3BKLR5YB4RTW22MDYOLWL) |
-| `[somedroplet] Pokémon Horizons - 135 [08D44C22].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/somedroplet-pokmon-horizons-135-08d44c22-mkv.n2102880) • [🐱 Nyaa](https://nyaa.si/?q=ZFZUJG2JCJMR4OGVYJY3TP22EKMAVZW2) |
-| `[Erai-raws] Mao - 04 [1080p DSNP WEB-DL AVC AAC][MultiSub...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-04-1080p-dsnp-web-dl.n2102877) • [🐱 Nyaa](https://nyaa.si/?q=LOEFEDVKVAD6UFWDKL6XG3WLJUGQV3O2) |
-| `[Erai-raws] Mao - 04 [720p DSNP WEB-DL AVC AAC][MultiSub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-04-720p-dsnp-web-dl.n2102876) • [🐱 Nyaa](https://nyaa.si/?q=H6FES5CPVDTZFSHW33YMHDHAZEALWP3N) |
-| `[Erai-raws] Mao - 04 [480p DSNP WEB-DL AVC AAC][MultiSub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mao-04-480p-dsnp-web-dl.n2102875) • [🐱 Nyaa](https://nyaa.si/?q=G5EHOAXLG64XQTF7MX2ZJAEAOK3JPYPN) |
-| `[DKB] Needy Girl Overdose - S01E04 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-needy-girl-overdose-s01e04-1080p-hevc-x265.n2102872) • [🐱 Nyaa](https://nyaa.si/?q=B32TXT7HRNLH2J3EXOS5MMEHEUJ4V2BX) |
-| `[DKB] Akane-banashi - S01E04 [1080p][HEVC x265 10bit][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-akane-banashi-s01e04-1080p-hevc-x265-10bit.n2102871) • [🐱 Nyaa](https://nyaa.si/?q=L7FOVBZU2Y32BWL27ASTQE4C5X4TQXMR) |
-| `[Erai-raws] Kanan-sama wa Akumade Choroi - 04 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanan-sama-wa-akumade-choroi-04.k10615193712142) • [🐱 Nyaa](https://nyaa.si/?q=7C2P7YXTIRVCSES2367C3CZITES3JBB4) |
-| `MAO S01E04 The Shorinkyo Incident 1080p DSNP WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mao-s01e04-shorinkyo-incident-1080p-dsnp-web-dl.n2102869) • [🐱 Nyaa](https://nyaa.si/?q=QJAXUOHUJNQST4NNP64JO5PTQZZQXWL2) |
-| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 04 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-04.n2102868) • [🐱 Nyaa](https://nyaa.si/?q=S654JWMJU2L7UN2OMIV4OQM6DQAH5VA6) |
-| `[ToonsHub] MAO S01E04 1080p DSNP WEB-DL AAC2.0 H.264 (Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mao-s01e04-1080p-dsnp-web-dl-aac2.n2102867) • [🐱 Nyaa](https://nyaa.si/?q=TTJVOKMWBBJLWZTYKKGNB42EBEPKAF7D) |
-| `Mistress Kanan is Devilishly Easy S01E01 Kanans Easy 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mistress-kanan-devilishly-easy-s01e01-kanans-1080p-cr.n2102866) • [🐱 Nyaa](https://nyaa.si/?q=K2VQSCSEMMLUNMBGASKAQD57MATRZEMH) |
-| `Ascendance of a Bookworm S04E01 Ive Become a Noble 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e01-ive-become-noble-1080p-cr.n2102865) • [🐱 Nyaa](https://nyaa.si/?q=XSEYXKEEU6YELSHXDD62SRCCKY535LRM) |
-| `[Feibanyama] ReZERO -Starting Life in Another World- S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-rezero-starting-life-another-world-s04e03-iqiyi.n2102862) • [🐱 Nyaa](https://nyaa.si/?q=JMTJ52AJPAWQE2G7IY7VGCV7QO4BKZAU) |
+| `Digimon Beatbreak S01E28 Wandering Love 720p CR WEB-DL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e28-wandering-love-720p-cr-web.n2102947) • [🐱 Nyaa](https://nyaa.si/?q=D6NEIO2WUSAFTHCE75ZDJOJ5KC5ZHNZW) |
+| `[ToonsHub] Digimon Beatbreak S01E28 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-digimon-beatbreak-s01e28-1080p-cr-web-dl.k10619629260553) • [🐱 Nyaa](https://nyaa.si/?q=KLQNALQVL2BUWFQPQIB5MMOL4HG6BW2M) |
+| `[Erai-raws] Digimon Beatbreak - 28 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-28-480p-cr-web.k10619621243916) • [🐱 Nyaa](https://nyaa.si/?q=YIWJGLHEMWOTB6WSJ3AGEARQTJXLUXYN) |
+| `[SubsPlease] Digimon Beatbreak - 28 (1080p) [7E9DE990].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-28-1080p-7e9de990-mkv.n2102944) • [🐱 Nyaa](https://nyaa.si/?q=UPLPGGQYKC3JCWZF7DAWKKUBERJ5H525) |
+| `[Erai-raws] Digimon Beatbreak - 28 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-28-720p-cr-web.k10619615101954) • [🐱 Nyaa](https://nyaa.si/?q=BFV5VX3XJTHEIPXXY33QVDQ7GZRSPPQB) |
+| `[SubsPlease] Digimon Beatbreak - 28 (720p) [25A29DF9].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-28-720p-25a29df9-mkv.n2102942) • [🐱 Nyaa](https://nyaa.si/?q=QRK7FIZUW4S4VWOKWZ3FJN6JC6JY34SD) |
+| `[ToonsHub] The Other Side of Deep Space S01E17 1080p BILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-other-side-deep-space-s01e17-1080p-bili.n2102941) • [🐱 Nyaa](https://nyaa.si/?q=7ARSHGN6ZBQHJCDZ3NNLG6ZJMYUHLEHM) |
+| `[SubsPlease] Digimon Beatbreak - 28 (480p) [373F5017].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-digimon-beatbreak-28-480p-373f5017-mkv.n2102940) • [🐱 Nyaa](https://nyaa.si/?q=QNJ65H4GHGDH4N6AUANMRXBV66ZNHLET) |
+| `[Erai-raws] Digimon Beatbreak - 28 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-28-1080p-cr-web.n2102939) • [🐱 Nyaa](https://nyaa.si/?q=7QOJ6YJXGPXEKP55P5DM6LBU43DS3Y56) |
+| `[ASW] Meitantei Precure! - 13 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-meitantei-precure-13-1080p-hevc-x265-10bit-aac.n2102938) • [🐱 Nyaa](https://nyaa.si/?q=QTYT5LSGNNPHCVGUQPXRBI2PXOH5OLJO) |
+| `[12GaugeShotgun] Love Live! Nijigasaki High School Idol C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/12gaugeshotgun-love-live-nijigasaki-high-school-idol-club.n2102935) • [🐱 Nyaa](https://nyaa.si/?q=M6FZCZ3AQK2C2S2UXNYP3EJVYZVMBDJY) |
+| `[SubsPlease] Meitantei Precure! - 13 (1080p) [0B69E6BC].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-meitantei-precure-13-1080p-0b69e6bc-mkv.n2102929) • [🐱 Nyaa](https://nyaa.si/?q=ZQE4VLW3TT5QGM6BGIJBOVJFSV6CFA3E) |
+| `[Erai-raws] Meitantei Precure - 13 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-480p-cr-web.k10618475924491) • [🐱 Nyaa](https://nyaa.si/?q=R7EGNVSCHSLKXXZA5ZN2KZC56P5U7VRG) |
+| `[Erai-raws] Meitantei Precure - 13 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-720p-cr-web.k10618473587978) • [🐱 Nyaa](https://nyaa.si/?q=REFA6UV6G2L6EOB76KE7E2UTQCBKP3GH) |
+| `[Erai-raws] Meitantei Precure - 13 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-1080p-cr-web.k10618470949889) • [🐱 Nyaa](https://nyaa.si/?q=3Z5ILLL2HMS4NGYMAQPRW7ZKAEDPBM7D) |
 
 ---
 <div align="center">
