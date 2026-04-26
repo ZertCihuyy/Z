@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.45.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.46.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nekotan] Detectives These Days Are Crazy! S01 (BD Remux ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-detectives-these-days-crazy-s01-bd-remux.k10637498559489) • [🐱 Nyaa](https://nyaa.si/?q=QLV4KJ7AWAHYOVAZBL4FBLVR3ALKNN4A) |
 | `[WasteOfBlindness] Ganbare Genki 12` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wasteofblindness-ganbare-genki-12.n2103299) • [🐱 Nyaa](https://nyaa.si/?q=XCWVDIBMHPXKT4HSAIYAYEF5WMGMVP5J) |
 | `[Anime Time] Wistoria Wand And Sword - S02E01 (Tsue to Ts...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-wistoria-wand-sword-s02e01-tsue-tsurugi.n2103298) • [🐱 Nyaa](https://nyaa.si/?q=FXPFGVNDLUZYLTLSXD27B237Q6ATWNYN) |
 | `[DKB] Maid-san wa Taberu dake - S01E05 [1080p][HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-maid-san-wa-taberu-dake-s01e05-1080p.n2103297) • [🐱 Nyaa](https://nyaa.si/?q=FBJODSBAIAOBFMMG2VGDQH4YBVXMVUVD) |
@@ -42,7 +43,6 @@
 | `[SubsPlease] Ikoku Nikki (01-13) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ikoku-nikki-01-13-1080p-batch.n2103277) • [🐱 Nyaa](https://nyaa.si/?q=GRXO3L27QJZCU3CSJWGSVIKIKSHG6K3J) |
 | `[SubsPlease] Ikoku Nikki (01-13) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ikoku-nikki-01-13-720p-batch.n2103276) • [🐱 Nyaa](https://nyaa.si/?q=LBKUEVKRI2MJ76RDDOVQCHYXQL6NPJND) |
 | `[SubsPlease] Ikoku Nikki (01-13) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ikoku-nikki-01-13-480p-batch.n2103275) • [🐱 Nyaa](https://nyaa.si/?q=GYT4ILGBGEO6QJ477DD7NR3WFU44F6QI) |
-| `[Erai-raws] Digimon Beatbreak - 28 (REPACK) [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-28-repack-1080p-cr.n2103274) • [🐱 Nyaa](https://nyaa.si/?q=PKNWVSOGJFK6PD4DRYP4UCU5X2RJMWPI) |
 
 ---
 <div align="center">
