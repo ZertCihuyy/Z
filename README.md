@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.56.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.25.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sw...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tsue-tsurugi-no-wistoria-wand-sword-s02e03.n2103110) • [🐱 Nyaa](https://nyaa.si/?q=KKBF33TWOLO5XAQGBSIGI2357UD5TYM6) |
+| `[Erai-raws] Nippon Sangoku - 04 [720p AMZN WEB-DL AVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-04-720p-amzn-web.k10628005908225) • [🐱 Nyaa](https://nyaa.si/?q=VHMCP37IF2BOHNXQKIZY7QXWU4IXOA4T) |
+| `[Erai-raws] Nippon Sangoku - 04 [1080p AMZN WEB-DL AVC EA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-04-1080p-amzn-web.k10628006111239) • [🐱 Nyaa](https://nyaa.si/?q=ZIIQIXXXESJUHBXNIBO54A6YTFM3ALBT) |
+| `[Erai-raws] Nippon Sangoku - 04 [540p AMZN WEB-DL AVC EAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-nippon-sangoku-04-540p-amzn-web.k10628005634563) • [🐱 Nyaa](https://nyaa.si/?q=3UBF5RNVZKFXBBUJK2RV7FPIQGRI7KLV) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nippon-sangoku-three-nations-crimson-sun-s01e04-seii.n2103103) • [🐱 Nyaa](https://nyaa.si/?q=CVH4JLNOQ3VC33MIYJ3QT3BDSTO4KWIY) |
+| `[ASW] Digimon Beatbreak - 28v2 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-digimon-beatbreak-28v2-1080p-hevc-x265-10bit-aac.n2103102) • [🐱 Nyaa](https://nyaa.si/?q=U2VYAJXOH7MXB4NPPMI6KBQRTBFSJSYJ) |
+| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimso...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-nippon-sangoku-three-nations-crimson-sun-s01e04.k10627947109376) • [🐱 Nyaa](https://nyaa.si/?q=7RDRJBZUIXHZMOZTEEM3CUDBK5AMUG5W) |
+| `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 03 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tsue-tsurugi-no-wistoria-2nd-season.k10627936363010) • [🐱 Nyaa](https://nyaa.si/?q=KFZBXHIDTEKVL2D6Q5ZAXFAFASKQWDVN) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nippon-sangoku-three-nations-crimson-sun-s01e04-seii.n2103099) • [🐱 Nyaa](https://nyaa.si/?q=32A7EJ23KHA3BHW4ELGCXTFGLQNNOSEK) |
+| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimso...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-nippon-sangoku-three-nations-crimson-sun-s01e04.k10627925999885) • [🐱 Nyaa](https://nyaa.si/?q=WMOHQ6NCHLHWIYTD4PI5EP4HSJUX6QGA) |
+| `[shincaps] NEEDY GIRL OVERDOSE - 04 (ANIPLUS 1920x1080 H2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/shincaps-needy-girl-overdose-04-aniplus-1920x1080-h264-aac.n2103097) • [🐱 Nyaa](https://nyaa.si/?q=DONWUQ6GJRYOZWQVL535D6WDPGKQIO2Y) |
+| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimso...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-nippon-sangoku-three-nations-crimson-sun-s01e04.n2103093) • [🐱 Nyaa](https://nyaa.si/?q=SE32YREAD6KC2XDZE6EBK4JD3IW5I7XP) |
 | `[ASW] Meitantei Precure! - 13v2 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-meitantei-precure-13v2-1080p-hevc-x265-10bit-aac.n2103087) • [🐱 Nyaa](https://nyaa.si/?q=TWRO6GM37ILDASZJJ6NNL4EXXK4NU34N) |
 | `[Onalrie] Digimon Beatbreak - S01E28 Rev. 2 [1080p WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-digimon-beatbreak-s01e28-rev-2-1080p-webrip-av1-mkv.2076995) • [🐱 Nyaa](https://nyaa.si/?q=VZXXY7MYTWZP4ONI6JNXD466FLQQZO4G) |
 | `[Erai-raws] Niwatori Fighter - 07 [1080p DSNP WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-07-1080p-dsnp-web.k10627169850117) • [🐱 Nyaa](https://nyaa.si/?q=V4IWHMSYWKUBXP42MS2CYJDN3GEJLCRG) |
-| `[Erai-raws] Niwatori Fighter - 07 [720p DSNP WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-07-720p-dsnp-web.k10627169571343) • [🐱 Nyaa](https://nyaa.si/?q=5F3TX3YBVEFWXHFQQQ2HNWEG3DZ26ZOL) |
-| `[Erai-raws] Niwatori Fighter - 07 [480p DSNP WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-07-480p-dsnp-web.k10627169209609) • [🐱 Nyaa](https://nyaa.si/?q=NYXNYV4PG4NAT6QZZ5PUWSPSUTPPT5CC) |
-| `[Onalrie] Meitantei Precure! - S01E13 Rev. 2 [1080p WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-meitantei-precure-s01e13-rev-2-1080p-webrip-av1-mkv.2076991) • [🐱 Nyaa](https://nyaa.si/?q=ULMJFVPPPHVBSKU3CMIGHFMEFBQNK4MN) |
-| `[ASW] Tsue to Tsurugi no Wistoria S2 - 03 [1080p HEVC x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tsue-tsurugi-no-wistoria-s2-03-1080p.n2103078) • [🐱 Nyaa](https://nyaa.si/?q=6G6UQYEK7GQBSOXM6RWE6KSFER4CUR3Q) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.k10627021437452) • [🐱 Nyaa](https://nyaa.si/?q=3SZGQU5CWNUJPSXQ3I6LW2UPYPAG3WJ4) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.k10627020908036) • [🐱 Nyaa](https://nyaa.si/?q=NAH2CVH4Q6EAI62HFBXZ4UGQP463ZFFH) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.k10627020533761) • [🐱 Nyaa](https://nyaa.si/?q=JVSZ3BK66ZHC27FCPVNPKUE4WYYGNA36) |
-| `[Erai-raws] Niwatori Fighter - 07 [480p CR WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-07-480p-cr-web.k10626995461893) • [🐱 Nyaa](https://nyaa.si/?q=ZWVRV53ME4RAZPOHRD6LICWV4CRSX3UE) |
-| `[Erai-raws] Niwatori Fighter - 07 [720p CR WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-07-720p-cr-web.k10626990615819) • [🐱 Nyaa](https://nyaa.si/?q=VTI5GPDJCETPHFHNQVJWH2B3JRHNQ3SF) |
-| `[Erai-raws] Niwatori Fighter - 07 [1080p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-niwatori-fighter-07-1080p-cr-web.n2103071) • [🐱 Nyaa](https://nyaa.si/?q=U2UNUBP4E5T6CGSXKMPKFZLMQG75QIJM) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 04 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.k10626863810314) • [🐱 Nyaa](https://nyaa.si/?q=MXBBSRGJDN5RPCHMFTXMETNOER76UMJ6) |
-| `[Erai-raws] Yuusha no Kuzu - 15 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-no-kuzu-15-1080p-cr.k10626855868173) • [🐱 Nyaa](https://nyaa.si/?q=Z2HLV2YKEURXL3VG4VYI4WZHVLLQE2DZ) |
 
 ---
 <div align="center">
