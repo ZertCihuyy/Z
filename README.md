@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.50.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.03.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Reza] Wistoria Wand and Sword - S02E03 [WEBRip 1080p AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-wistoria-wand-sword-s02e03-webrip-1080p-aac.n2103245) • [🐱 Nyaa](https://nyaa.si/?q=YPBTNXZXE5FBGTZXIA6NRO3IJJDXW3LK) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 03 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-03-1080p.n2103244) • [🐱 Nyaa](https://nyaa.si/?q=EK3WEQMSN5D7IHHSXXL7XWCPWOE7NTLV) |
+| `[FSP] Mushen Ji (Tales of Herding Gods) - 80 [1080p] (GB_...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-mushen-ji-tales-herding-gods-80-1080p-gb_cn.n2103236) • [🐱 Nyaa](https://nyaa.si/?q=6N3OFLNVQAES4BZFFIZBYGPNHWZ4UAEH) |
+| `[FSP] Douluo Dalu II - Soul Land 2 - 150 [1080p]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-douluo-dalu-ii-soul-land-2-150-1080p.n2103235) • [🐱 Nyaa](https://nyaa.si/?q=U2UYYB735QWAMAWT5FFIM5XT56O3UZEV) |
 | `[Erai-raws] Ghost Concert: Missing Songs - 04 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-04-1080p.k10633264802055) • [🐱 Nyaa](https://nyaa.si/?q=53JZIXUNTXHWGS66QKMXJ4FHVH7PKLYZ) |
 | `[Ommex] Doraemon Movie 21: Nobita's Legend of the Sun Kin...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ommex-doraemon-movie-21-nobitas-legend-sun-king.n2103230) • [🐱 Nyaa](https://nyaa.si/?q=A2PXNG3BPYTPSPNWACEKK6546XWD3ZWL) |
 | `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ingoku-danchi-deviants-apartment-complex-s01e04.n2103229) • [🐱 Nyaa](https://nyaa.si/?q=MSDBCEFUI4A5ZEF7MRJ32Z4YIPEXWXBD) |
@@ -39,10 +43,6 @@
 | `[ASW] Ghost Concert - missing Songs - 04 [1080p HEVC x265...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ghost-concert-missing-songs-04-1080p-hevc.n2103201) • [🐱 Nyaa](https://nyaa.si/?q=QASGMVBL5XO5SGOWLFWYLWG22GLST43Z) |
 | `[SubsPlease] One Piece - 1159 (1080p) [ECC80704].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-one-piece-1159-1080p-ecc80704-mkv.n2103200) • [🐱 Nyaa](https://nyaa.si/?q=3AWWLZXAOUEMHJMSWF2FROURPDTWNQRS) |
 | `[Erai-raws] One Piece - 1159 [480p CR WEB-DL AVC AAC][E4F...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1159-480p-cr-web.k10631889681165) • [🐱 Nyaa](https://nyaa.si/?q=LFKKCAMYHNKYMVLRLA6SIP23YRTJYVGY) |
-| `[Erai-raws] One Piece - 1159 [720p CR WEB-DL AVC AAC][B80...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1159-720p-cr-web.k10631886342153) • [🐱 Nyaa](https://nyaa.si/?q=YUFDSVGR3ZXFZDHW3UEL26GWVIGF7YHZ) |
-| `[Onalrie] Ghost Concert - missing Songs - S01E04 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ghost-concert-missing-songs-s01e04-1080p-webrip-av1.2077071) • [🐱 Nyaa](https://nyaa.si/?q=PONZGN2SRCGNBJIM4SWUDHIDE6BH6QWX) |
-| `[Erai-raws] One Piece - 1159 [1080p CR WEB-DL AVC AAC][D0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-one-piece-1159-1080p-cr-web.k10631883079437) • [🐱 Nyaa](https://nyaa.si/?q=OBZWJHIHWK7DKCZT6LHYGF5VFC3K6HGI) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yozakura-san-chi-no-daisakusen-2nd.k10631835971342) • [🐱 Nyaa](https://nyaa.si/?q=WOOYM74K44TGFVOEOGLNUOCNUNGULGE2) |
 
 ---
 <div align="center">
