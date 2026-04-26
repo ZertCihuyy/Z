@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.50.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.07.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Digimon Beatbreak - S01E28 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-digimon-beatbreak-s01e28-1080p-webrip-av1-mkv.2076935) • [🐱 Nyaa](https://nyaa.si/?q=C2VMDU4BAHRLCBMKSTNDTFQ3HMFC2NTW) |
-| `[ToonsHub] Rooster Fighter S01E07 REPACK 1080p AS WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e07-repack-1080p-web-dl.n2102984) • [🐱 Nyaa](https://nyaa.si/?q=X62MONS5N6NAO2GKUCSLL46VAVQOJLPM) |
-| `[Onalrie] Meitantei Precure! - S01E13 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-meitantei-precure-s01e13-1080p-webrip-av1-mkv.2076930) • [🐱 Nyaa](https://nyaa.si/?q=OOVLIQVO75GV6WU5OF2RHKJALJ3VFDMC) |
-| `Digimon Beatbreak S01E28 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e28-1080p-cr-web-dl-aac2.n2102973) • [🐱 Nyaa](https://nyaa.si/?q=FT3EQ4V7F7JWW2ULE4UWL2ZP6ZBHPMMR) |
-| `[knyf1e] One Piece S22 1080p CR WEBRip DUAL AAC2.0 AV1 (W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/knyf1e-one-piece-s22-1080p-cr-webrip-dual.k10622248633601) • [🐱 Nyaa](https://nyaa.si/?q=4XK2DIEGRLEEAGNXU5DWGWGJH5SW5ZRO) |
-| `[Judas] Digimon Beatbreak - S01E28 [1080p][HEVC x265 10bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-digimon-beatbreak-s01e28-1080p-hevc-x265-10bit.n2102956) • [🐱 Nyaa](https://nyaa.si/?q=F43EHABLPP56GBBONT7RVHL5NIVQCRLT) |
-| `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-honzuki-no-gekokujou-shisho-ni-naru-tame.n2102955) • [🐱 Nyaa](https://nyaa.si/?q=SCAITTFMTMVR7VOCRZ5K5LCO5FMTRYAJ) |
-| `[ToonsHub] Rooster Fighter S01E07 1080p AS WEB-DL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rooster-fighter-s01e07-1080p-web-dl-aac2.k10620576590091) • [🐱 Nyaa](https://nyaa.si/?q=UDK4XESUZMUO6JTZFJEIFCP4XWU7ELMJ) |
-| `[Serenae] Meitantei Precure! - 13 Fanart Corner (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-13-fanart-corner-1080p-mkv.n2102953) • [🐱 Nyaa](https://nyaa.si/?q=NJBQ66P5AQIIKEKZOCA5HNXTVMRPZMBJ) |
-| `[ASW] Digimon Beatbreak - 28 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-digimon-beatbreak-28-1080p-hevc-x265-10bit-aac.n2102952) • [🐱 Nyaa](https://nyaa.si/?q=PTQEIL22G46NC3DK4ZFWWKSC5CVI35BN) |
-| `[Serenae] Meitantei Precure! - 13 (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-13-1080p-mkv.n2102951) • [🐱 Nyaa](https://nyaa.si/?q=UGMUVWK5RXAF5THW7CP4G7TGEBQLFS3P) |
-| `[Serenae] Meitantei Precure! - 13 (720p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/serenae-meitantei-precure-13-720p-mkv.n2102950) • [🐱 Nyaa](https://nyaa.si/?q=HWW5SAVBOBCC7DA3RSVQKYX5M73P3SJR) |
-| `Digimon Beatbreak S01E28 Wandering Love 720p CR WEB-DL AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e28-wandering-love-720p-cr-web.n2102947) • [🐱 Nyaa](https://nyaa.si/?q=D6NEIO2WUSAFTHCE75ZDJOJ5KC5ZHNZW) |
-| `[ToonsHub] Digimon Beatbreak S01E28 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-digimon-beatbreak-s01e28-1080p-cr-web-dl.k10619629260553) • [🐱 Nyaa](https://nyaa.si/?q=KLQNALQVL2BUWFQPQIB5MMOL4HG6BW2M) |
-| `[Erai-raws] Digimon Beatbreak - 28 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-28-480p-cr-web.k10619621243916) • [🐱 Nyaa](https://nyaa.si/?q=YIWJGLHEMWOTB6WSJ3AGEARQTJXLUXYN) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 04 (1080p) [16B34...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-04-1080p-16b3477a-mkv.n2103027) • [🐱 Nyaa](https://nyaa.si/?q=TDFY2E7KZUVMZIOVLQLJSDSB4G5QCAUB) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 04 (720p) [8D297A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-04-720p-8d297a96-mkv.n2103026) • [🐱 Nyaa](https://nyaa.si/?q=OR2LTOD3P3ETTHQ62X7433KQ5VGHN2F5) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 04 (480p) [4DEC93...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ace-diamond-act-ii-s2-04-480p-4dec930d-mkv.n2103025) • [🐱 Nyaa](https://nyaa.si/?q=LV3LB74QRO77OVU3E4ZCUIXSZ4UVQNMS) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 04 [48...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2103023) • [🐱 Nyaa](https://nyaa.si/?q=RAUZUF63YSH4EZWQHHQYXUD2K2AYBAFJ) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 04 [72...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2103021) • [🐱 Nyaa](https://nyaa.si/?q=SGQVHR5HMHSAIKWTDLHDV4KJ67L4LBAL) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 04 [10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-diamond-no-ace-act-ii-second.n2103020) • [🐱 Nyaa](https://nyaa.si/?q=UN3VENWPF6DARW4JECLWL5GQLDRBFQCL) |
+| `[Onalrie] Niwatori Fighter - S01E07 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-niwatori-fighter-s01e07-1080p-webrip-av1-mkv.2076946) • [🐱 Nyaa](https://nyaa.si/?q=5H5WZCKOZUPU2RNVUV36CW6QPQK7KZNT) |
+| `[Yameii] Wistoria: Wand and Sword - S00E02 [English Dub] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-wistoria-wand-sword-s00e02-english-dub-cr.n2103018) • [🐱 Nyaa](https://nyaa.si/?q=GSU5ZQNMAF762WX2NPNHK5JFCFTQGIQR) |
+| `Star Detective Precure 13` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/star-detective-precure-13.n2103017) • [🐱 Nyaa](https://nyaa.si/?q=VIBPT6LKUNPQ7L3ORZKWNK7Z7GU5LM6K) |
+| `Wistoria Wand and Sword S02E03 One Single Magic Spell 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wistoria-wand-sword-s02e03-one-single-magic-spell.n2103015) • [🐱 Nyaa](https://nyaa.si/?q=46CT3PTMJM3CGM2YGO734LP77AFG3XCT) |
+| `[Yameii] Wistoria: Wand and Sword - S00E02 [English Dub] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-wistoria-wand-sword-s00e02-english-dub-cr.k10624722765828) • [🐱 Nyaa](https://nyaa.si/?q=BYWF6S2YSQQLDT3DNPPSABIRMHXHQWAS) |
+| `Mission Yozakura Family S02E03 The Big Bro Shinzo Safety ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mission-yozakura-family-s02e03-big-bro-shinzo-safety.n2103013) • [🐱 Nyaa](https://nyaa.si/?q=ZBIQFAWHWURT2COG4INNDJV7NDSATQJN) |
+| `Wistoria Wand and Sword S02E15 One Single Magic Spell 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wistoria-wand-sword-s02e15-one-single-magic-spell.n2103012) • [🐱 Nyaa](https://nyaa.si/?q=6MBIUSKL5MJ2QCNYGKSONM4R5YU65F37) |
+| `[ToonsHub] Wistoria Wand and Sword S02E13 1080p CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-wistoria-wand-sword-s02e13-1080p-cr-web.k10624706223620) • [🐱 Nyaa](https://nyaa.si/?q=Y56G44LT5DI2KBEZ4OXRZYA3WEK4OBKH) |
+| `Wistoria Wand and Sword S02E13 Barrier Day 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wistoria-wand-sword-s02e13-barrier-day-1080p-cr.n2103010) • [🐱 Nyaa](https://nyaa.si/?q=QXEUP37SMSWVGLSGEBCHFXVENRVCTO6O) |
 
 ---
 <div align="center">
