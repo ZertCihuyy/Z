@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.56.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.51.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Digimon Beatbreak S01E28 GIFT REPACK 1080p CR WEB-DL AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/digimon-beatbreak-s01e28-gift-repack-1080p-cr-web.n2103278) • [🐱 Nyaa](https://nyaa.si/?q=6R43I53Q7EQ2Z3Q74OCHAJ2LIF5I5S65) |
+| `[SubsPlease] Ikoku Nikki (01-13) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ikoku-nikki-01-13-1080p-batch.n2103277) • [🐱 Nyaa](https://nyaa.si/?q=GRXO3L27QJZCU3CSJWGSVIKIKSHG6K3J) |
+| `[SubsPlease] Ikoku Nikki (01-13) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ikoku-nikki-01-13-720p-batch.n2103276) • [🐱 Nyaa](https://nyaa.si/?q=LBKUEVKRI2MJ76RDDOVQCHYXQL6NPJND) |
+| `[SubsPlease] Ikoku Nikki (01-13) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ikoku-nikki-01-13-480p-batch.n2103275) • [🐱 Nyaa](https://nyaa.si/?q=GYT4ILGBGEO6QJ477DD7NR3WFU44F6QI) |
+| `[Erai-raws] Digimon Beatbreak - 28 (REPACK) [1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-28-repack-1080p-cr.n2103274) • [🐱 Nyaa](https://nyaa.si/?q=PKNWVSOGJFK6PD4DRYP4UCU5X2RJMWPI) |
+| `[Erai-raws] Digimon Beatbreak - 28 (REPACK) [720p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-28-repack-720p-cr.n2103273) • [🐱 Nyaa](https://nyaa.si/?q=QL5HY4Z4IKBLD5TLOKBGO2V2VFEAGTEO) |
+| `[Erai-raws] Digimon Beatbreak - 28 (REPACK) [480p CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-digimon-beatbreak-28-repack-480p-cr.n2103272) • [🐱 Nyaa](https://nyaa.si/?q=FEGQKEYTDYFYDTPQCBMKXGEZJXREDUNN) |
 | `[SubsPlease] Akuyaku Reijou wa Ringoku no Outaishi ni Dek...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-akuyaku-reijou-wa-ringoku-no-outaishi-ni.n2103271) • [🐱 Nyaa](https://nyaa.si/?q=CAKFJGEZS25VDOSDW6GD4AARU3NUN6NH) |
 | `[SubsPlease] Akuyaku Reijou wa Ringoku no Outaishi ni Dek...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-akuyaku-reijou-wa-ringoku-no-outaishi-ni.n2103270) • [🐱 Nyaa](https://nyaa.si/?q=B6KNRGGEYE4QAK75HNK44UFENS6SIHTD) |
 | `[SubsPlease] Akuyaku Reijou wa Ringoku no Outaishi ni Dek...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-akuyaku-reijou-wa-ringoku-no-outaishi-ni.n2103269) • [🐱 Nyaa](https://nyaa.si/?q=74M3ANJOCYG3XVPQ55U6NRTZSCXPBFAV) |
@@ -36,13 +43,6 @@
 | `[DKB] Niwatori Fighter - S01E07 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-niwatori-fighter-s01e07-1080p-hevc-x265-10bit.n2103247) • [🐱 Nyaa](https://nyaa.si/?q=TWARTBH2E75RUQWESL3LFOV22HR5T3QK) |
 | `[DKB] Tsue to Tsurugi no Wistoria - S02E03 [1080p][HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tsue-tsurugi-no-wistoria-s02e03-1080p-hevc.n2103246) • [🐱 Nyaa](https://nyaa.si/?q=LVEFIR26OTZTPFWKJ7AYKI5VVHCPCMKK) |
 | `[Reza] Wistoria Wand and Sword - S02E03 [WEBRip 1080p AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-wistoria-wand-sword-s02e03-webrip-1080p-aac.n2103245) • [🐱 Nyaa](https://nyaa.si/?q=YPBTNXZXE5FBGTZXIA6NRO3IJJDXW3LK) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 03 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kuroneko-majo-no-kyoushitsu-03-1080p.n2103244) • [🐱 Nyaa](https://nyaa.si/?q=EK3WEQMSN5D7IHHSXXL7XWCPWOE7NTLV) |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 80 [1080p] (GB_...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-mushen-ji-tales-herding-gods-80-1080p-gb_cn.n2103236) • [🐱 Nyaa](https://nyaa.si/?q=6N3OFLNVQAES4BZFFIZBYGPNHWZ4UAEH) |
-| `[FSP] Douluo Dalu II - Soul Land 2 - 150 [1080p]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-douluo-dalu-ii-soul-land-2-150-1080p.n2103235) • [🐱 Nyaa](https://nyaa.si/?q=U2UYYB735QWAMAWT5FFIM5XT56O3UZEV) |
-| `[Erai-raws] Ghost Concert: Missing Songs - 04 [1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ghost-concert-missing-songs-04-1080p.k10633264802055) • [🐱 Nyaa](https://nyaa.si/?q=53JZIXUNTXHWGS66QKMXJ4FHVH7PKLYZ) |
-| `[Ommex] Doraemon Movie 21: Nobita's Legend of the Sun Kin...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ommex-doraemon-movie-21-nobitas-legend-sun-king.n2103230) • [🐱 Nyaa](https://nyaa.si/?q=A2PXNG3BPYTPSPNWACEKK6546XWD3ZWL) |
-| `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ingoku-danchi-deviants-apartment-complex-s01e04.n2103229) • [🐱 Nyaa](https://nyaa.si/?q=MSDBCEFUI4A5ZEF7MRJ32Z4YIPEXWXBD) |
-| `[ASW] One Piece - 1159 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-one-piece-1159-1080p-hevc-x265-10bit-aac.n2103227) • [🐱 Nyaa](https://nyaa.si/?q=GPVUER5XOTGJE2POXH6CQBDFXQQY2AS4) |
 
 ---
 <div align="center">
