@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.04.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.18.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Magical Sisters LuluttoLilly S01E03 1080p AMZN WEB-DL DDP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/magical-sisters-luluttolilly-s01e03-1080p-amzn-web-dl.n2103386) • [🐱 Nyaa](https://nyaa.si/?q=SJN6FV4HZ7M4P6GVGNRXXOXI7ITQJHPX) |
 | `[geckyzz] Beryl & Sapphire - S02-S05 (小绿和小蓝; Xiao Lu He X...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/geckyzz-beryl-sapphire-s02-s05-xiao-lu-he.n2103378) • [🐱 Nyaa](https://nyaa.si/?q=HLGOEXGA2B2KDW7ACLCUXW7HZYCLLG4R) |
 | `[BlackRose] Darling in the FranXX Season 1 (BD 1080p H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-darling-franxx-season-1-bd-1080p-h.k10643994130947) • [🐱 Nyaa](https://nyaa.si/?q=72GXQJX56REQGHMF2MGIP5S2P4P2TV5M) |
 | `[BlackRose] Darling in the FranXX Season 1 v2 (BD 1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-darling-franxx-season-1-v2-bd-1080p.k10643934340864) • [🐱 Nyaa](https://nyaa.si/?q=QMLQOAOEKPILTHMUA2SZBOMCTLZV6FDS) |
@@ -42,7 +43,6 @@
 | `[Erai-raws] Meitantei Precure - 13 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-1080p-cr-web.k10640639950600) • [🐱 Nyaa](https://nyaa.si/?q=6WCCBFNA32XXEBBGLPNXB7ZQRLJUCMMK) |
 | `[Erai-raws] Meitantei Precure - 13 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-720p-cr-web.k10640639111175) • [🐱 Nyaa](https://nyaa.si/?q=LRYROUHEHDLIE75YYAYP7BAGTKFDYAFU) |
 | `[Erai-raws] Meitantei Precure - 13 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-480p-cr-web.k10640638577932) • [🐱 Nyaa](https://nyaa.si/?q=4NHADURTAREFVQLATJETYBVMX4HJFYKT) |
-| `[ToonsHub] Star Detective Precure S01E13 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e13-1080p-cr-web.k10640370539012) • [🐱 Nyaa](https://nyaa.si/?q=PIT7PBW6JLVFU4LAOOHSDID6NFQHFGS5) |
 
 ---
 <div align="center">
