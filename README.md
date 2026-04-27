@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.37.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.17.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[geckyzz] Beryl & Sapphire - S02-S05 (小绿和小蓝; Xiao Lu He X...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/geckyzz-beryl-sapphire-s02-s05-xiao-lu-he.n2103378) • [🐱 Nyaa](https://nyaa.si/?q=HLGOEXGA2B2KDW7ACLCUXW7HZYCLLG4R) |
+| `[BlackRose] Darling in the FranXX Season 1 (BD 1080p H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-darling-franxx-season-1-bd-1080p-h.k10643994130947) • [🐱 Nyaa](https://nyaa.si/?q=72GXQJX56REQGHMF2MGIP5S2P4P2TV5M) |
+| `[BlackRose] Darling in the FranXX Season 1 v2 (BD 1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-darling-franxx-season-1-v2-bd-1080p.k10643934340864) • [🐱 Nyaa](https://nyaa.si/?q=QMLQOAOEKPILTHMUA2SZBOMCTLZV6FDS) |
+| `[FSP] Battle Through The Heavens NF - 196 [4K]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-battle-through-heavens-nf-196-4k.n2103374) • [🐱 Nyaa](https://nyaa.si/?q=U36MQPFUOUTV4GVAY42ZKFE2ANKZQYII) |
+| `One Piece S01E1159 REPACK 1080p CR WEB-DL AAC2.0 H 264-VA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1159-repack-1080p-cr-web-dl.n2103373) • [🐱 Nyaa](https://nyaa.si/?q=ALDYCFJDPTUPUD6WOAAVMXJZKCJOT2ZS) |
+| `[Feibanyama] Wistoria Wand and Sword S02E03 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e03-bilibili-webrip-2160p.n2103366) • [🐱 Nyaa](https://nyaa.si/?q=MS2ZBKZONWLT3SRQ27HH7QOIZTSTAIFO) |
 | `[Hentai] Ingoku Danchi - 04 (WEB 1080p AAC2.0 H.264) (Unc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hentai-ingoku-danchi-04-web-1080p-aac2-0.n2103360) • [🐱 Nyaa](https://nyaa.si/?q=Z4JQGRT7WUD5FH7BV25BUC346JUWQTWM) |
 | `[ToonsHub] One Piece EP1159 2160p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1159-2160p-bili-web-dl.n2103352) • [🐱 Nyaa](https://nyaa.si/?q=L4OZR2VMF6L7ZEXSQS5HG7UMSF64XF67) |
 | `[ToonsHub] One Piece EP1159 1080p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1159-1080p-bili-web-dl.n2103351) • [🐱 Nyaa](https://nyaa.si/?q=M34ISCPXS3F2JR6OIYFFFTG637FEK4KJ) |
@@ -37,12 +43,6 @@
 | `[Erai-raws] Meitantei Precure - 13 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-720p-cr-web.k10640639111175) • [🐱 Nyaa](https://nyaa.si/?q=LRYROUHEHDLIE75YYAYP7BAGTKFDYAFU) |
 | `[Erai-raws] Meitantei Precure - 13 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-480p-cr-web.k10640638577932) • [🐱 Nyaa](https://nyaa.si/?q=4NHADURTAREFVQLATJETYBVMX4HJFYKT) |
 | `[ToonsHub] Star Detective Precure S01E13 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e13-1080p-cr-web.k10640370539012) • [🐱 Nyaa](https://nyaa.si/?q=PIT7PBW6JLVFU4LAOOHSDID6NFQHFGS5) |
-| `[LoversAnonymous] Virgin Punk - Clockwork Girl (1080p x26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/loversanonymous-virgin-punk-clockwork-girl-1080p-x264-10bit.n2103341) • [🐱 Nyaa](https://nyaa.si/?q=QQQZDBDPC3P5WXAIFYUYYUNGAYMMBDVC) |
-| `[Seigyoku] Mahou no Shimai LuluttoLilly - 04 (WEB 1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/seigyoku-mahou-no-shimai-luluttolilly-04-web-1080p.k10639500036101) • [🐱 Nyaa](https://nyaa.si/?q=IKM3ZTSGOFAL66PGMZQDS5DGZX6DMZCE) |
-| `[Commie] Ace of the Diamond act II ~Second Season~ - 04 [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-ace-diamond-act-ii-second-season-04-b320286d-mkv.n2103330) • [🐱 Nyaa](https://nyaa.si/?q=OBZMVPBUQ72MWPEHGBVRXOURF7EBLARX) |
-| `[DKB] Nippon Sangoku - S01E04 [1080p][HEVC x265 10bit][Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-nippon-sangoku-s01e04-1080p-hevc-x265-10bit.n2103329) • [🐱 Nyaa](https://nyaa.si/?q=SR6Y33FBE4E6OTF53HIUXJ6GENGM5TJH) |
-| `Magical Sisters Lulutto & Lilly  04` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/magical-sisters-lulutto-lilly-04.n2103328) • [🐱 Nyaa](https://nyaa.si/?q=BFQVWRGQS6OHMY35ZRAQ7O4PEJALW7E2) |
-| `[Gecko] Fabulous Beasts - S05E11 (有兽焉; You Shou Yan 5th S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fabulous-beasts-s05e11-shou-yan-5th-season.n2103324) • [🐱 Nyaa](https://nyaa.si/?q=JJPBT66TXTGJRUFQWBU6WVZIPJ2VCTOV) |
 
 ---
 <div align="center">
