@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.08.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.41.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,7 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2103552) • [🐱 Nyaa](https://nyaa.si/?q=ZECBAVORMPTGVC3VWUN55QA5WVRBJ5Y2) |
+| `[DKB] Witch Hat Atelier - S01E05 [1080p][HEVC x265 10bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-witch-hat-atelier-s01e05-1080p-hevc-x265.n2103551) • [🐱 Nyaa](https://nyaa.si/?q=IB5ZAY3UBSNWSNWRTA5RZUXYYZVNMGHB) |
+| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.k10655692831755) • [🐱 Nyaa](https://nyaa.si/?q=GVVQG36O3XJM2N4NYB3KOJ5EJHWEYSZY) |
+| `[ToonsHub] Scum of the Brave S01E15 1080p AMZN WEB-DL DDP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-scum-brave-s01e15-1080p-amzn-web-dl.k10655677716992) • [🐱 Nyaa](https://nyaa.si/?q=3BR5CNOETK57FJHJIJP2BSTQ3OHGUAJQ) |
+| `[Judas] Liar Game - S01E04 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e04-1080p-hevc-x265-10bit.n2103541) • [🐱 Nyaa](https://nyaa.si/?q=RLNK357OSTK7YZL6SZQ43B47D2VX7HTP) |
+| `[Raze] Tongari Boushi no Atelier - 05 x265 10bit 1080p 14...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-tongari-boushi-no-atelier-05-x265-10bit.n2103540) • [🐱 Nyaa](https://nyaa.si/?q=SNHV5G6MQTTCO3EY2DRZHI7XBSGILBM3) |
 | `[Erai-raws] Liar Game - 04 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-04-1080p-cr-webrip.k10654652334853) • [🐱 Nyaa](https://nyaa.si/?q=STLLV3L4ZVXUELOCHJTDTMGT4ABWS2UL) |
+| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e04.n2103538) • [🐱 Nyaa](https://nyaa.si/?q=ECQ64YSL6REOOEAOCBGNMFAJZ5N6VU3Z) |
 | `[ASW] LIAR GAME - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-liar-game-04-1080p-hevc-x265-10bit-aac.n2103536) • [🐱 Nyaa](https://nyaa.si/?q=VAL3DGARR52KPSH3P6GR66GBO4NGTPCN) |
 | `[Judas] Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu n...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2103532) • [🐱 Nyaa](https://nyaa.si/?q=USKXPLV6Y74LCVKQMCBUWXURQEUWFEZS) |
 | `[Onalrie] LIAR GAME - S01E04 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-liar-game-s01e04-1080p-webrip-av1-mkv.2077253) • [🐱 Nyaa](https://nyaa.si/?q=AM3ONDNNAZS6KTHCKBSPBXG5W5CF2Y7K) |
@@ -36,13 +43,6 @@
 | `[Erai-raws] Isekai Nonbiri Nouka 2 - 04 [1080p ADN WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-04-1080p.k10653780569613) • [🐱 Nyaa](https://nyaa.si/?q=VNQ3ZG4HHASOW4ANCK5VRAYWJINJD3YY) |
 | `[ToonsHub] LIAR GAME S01E01 1080p CR WEB-DL MULTi AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-liar-game-s01e01-1080p-cr-web-dl.k10653770264836) • [🐱 Nyaa](https://nyaa.si/?q=5NYF3G5ITCQ722QBTKSLLD3ZDCHJM6W3) |
 | `LIAR GAME S01E02 Shockwave 1080p CR WEB-DL DUAL AAC2.0 H ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/liar-game-s01e02-shockwave-1080p-cr-web-dl.n2103519) • [🐱 Nyaa](https://nyaa.si/?q=4TKPDEQESVOMVZ2YE6FU3FME2U3GXLGF) |
-| `LIAR GAME S01E04 Minority Rule 1080p CR WEB-DL AAC2.0 H 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/liar-game-s01e04-minority-rule-1080p-cr-web.n2103518) • [🐱 Nyaa](https://nyaa.si/?q=QCIMJMZOEKDJSVNMQA7QCL2BJELNYRB4) |
-| `[Yameii] LIAR GAME (2026) - S01E02 [English Dub] [CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-liar-game-2026-s01e02-english-dub-cr.k10653760219909) • [🐱 Nyaa](https://nyaa.si/?q=CSX63NGUZCBNVHEZQV4O7SLMEOH5HDW4) |
-| `[ToonsHub] LIAR GAME S01E02 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-liar-game-s01e02-1080p-cr-web-dl.k10653729820416) • [🐱 Nyaa](https://nyaa.si/?q=MMIGBVXVLDJH2HKAECUEJ3OU7OEEJAIG) |
-| `[ToonsHub] LIAR GAME S01E04 1080p CR WEB-DL AAC2.0 H.264 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-liar-game-s01e04-1080p-cr-web-dl.k10653728249861) • [🐱 Nyaa](https://nyaa.si/?q=DWRI56KARMBOUO6J2BXCLXJNI3KGQOCZ) |
-| `[SubsPlease] LIAR GAME - 04 (1080p) [16F930F7].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-liar-game-04-1080p-16f930f7-mkv.n2103513) • [🐱 Nyaa](https://nyaa.si/?q=QZQQY3ML3HK54JJVTYSVWOSN6RAUCBZN) |
-| `[Erai-raws] Liar Game - 04 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-04-480p-cr-web.k10653717421316) • [🐱 Nyaa](https://nyaa.si/?q=4TBPZJIYESWCT5ASLDQFJ62OUZNNOK4D) |
-| `[SubsPlease] LIAR GAME - 04 (720p) [CAAB20DE].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-liar-game-04-720p-caab20de-mkv.n2103511) • [🐱 Nyaa](https://nyaa.si/?q=L46K4JPQZUD4Y3RHI6QRD6JTBGTRUD4R) |
 
 ---
 <div align="center">
