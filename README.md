@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.59.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.13.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2103595) • [🐱 Nyaa](https://nyaa.si/?q=XWWAMADMQOZ736DGC2TM5DYCFK4RJYVL) |
 | `[nekotan] +Tic Elder Sister S01 (BD 1080p x264 Opus) | Pl...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-tic-elder-sister-s01-bd-1080p-x264.k10657076855308) • [🐱 Nyaa](https://nyaa.si/?q=K3EBVLYLNWRGXXAZJPAEPNZXDAOSMOUZ) |
 | `[DKB] Isekai Nonbiri Nouka - S02E04 [1080p][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-isekai-nonbiri-nouka-s02e04-1080p-hevc-x265-10bit-weekly.n2103579) • [🐱 Nyaa](https://nyaa.si/?q=KTSNTLGTURYT67VIJKHNO3EI4VNYLNAO) |
 | `Detective Conan - Movie 28 - One-Eyed Flashback (720p) [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-movie-28-one-eyed-flashback-720p.n2103578) • [🐱 Nyaa](https://nyaa.si/?q=NUYN5EBSW34PZVYIR6FD23NI5SMAOG3R) |
@@ -42,7 +43,6 @@
 | `[Judas] Liar Game - S01E04 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e04-1080p-hevc-x265-10bit.n2103541) • [🐱 Nyaa](https://nyaa.si/?q=RLNK357OSTK7YZL6SZQ43B47D2VX7HTP) |
 | `[Raze] Tongari Boushi no Atelier - 05 x265 10bit 1080p 14...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-tongari-boushi-no-atelier-05-x265-10bit.n2103540) • [🐱 Nyaa](https://nyaa.si/?q=SNHV5G6MQTTCO3EY2DRZHI7XBSGILBM3) |
 | `[Erai-raws] Liar Game - 04 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-04-1080p-cr-webrip.k10654652334853) • [🐱 Nyaa](https://nyaa.si/?q=STLLV3L4ZVXUELOCHJTDTMGT4ABWS2UL) |
-| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e04.n2103538) • [🐱 Nyaa](https://nyaa.si/?q=ECQ64YSL6REOOEAOCBGNMFAJZ5N6VU3Z) |
 
 ---
 <div align="center">
