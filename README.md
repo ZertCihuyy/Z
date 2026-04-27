@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.06.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.20.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[FLE] Re ZERO Starting Life in Another World - S04E03 (WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fle-re-zero-starting-life-another-world-s04e03.n2103403) • [🐱 Nyaa](https://nyaa.si/?q=DZN5JQAXMNVAE4WR4X2NPSRTFTZWF63D) |
-| `Magical Sisters LuluttoLilly S01E03 1080p AMZN WEB-DL DDP...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/magical-sisters-luluttolilly-s01e03-1080p-amzn-web-dl.n2103386) • [🐱 Nyaa](https://nyaa.si/?q=SJN6FV4HZ7M4P6GVGNRXXOXI7ITQJHPX) |
-| `[geckyzz] Beryl & Sapphire - S02-S05 (小绿和小蓝; Xiao Lu He X...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/geckyzz-beryl-sapphire-s02-s05-xiao-lu-he.n2103378) • [🐱 Nyaa](https://nyaa.si/?q=HLGOEXGA2B2KDW7ACLCUXW7HZYCLLG4R) |
-| `[BlackRose] Darling in the FranXX Season 1 (BD 1080p H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-darling-franxx-season-1-bd-1080p-h.k10643994130947) • [🐱 Nyaa](https://nyaa.si/?q=72GXQJX56REQGHMF2MGIP5S2P4P2TV5M) |
-| `[BlackRose] Darling in the FranXX Season 1 v2 (BD 1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-darling-franxx-season-1-v2-bd-1080p.k10643934340864) • [🐱 Nyaa](https://nyaa.si/?q=QMLQOAOEKPILTHMUA2SZBOMCTLZV6FDS) |
-| `[FSP] Battle Through The Heavens NF - 196 [4K]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fsp-battle-through-heavens-nf-196-4k.n2103374) • [🐱 Nyaa](https://nyaa.si/?q=U36MQPFUOUTV4GVAY42ZKFE2ANKZQYII) |
-| `One Piece S01E1159 REPACK 1080p CR WEB-DL AAC2.0 H 264-VA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-s01e1159-repack-1080p-cr-web-dl.n2103373) • [🐱 Nyaa](https://nyaa.si/?q=ALDYCFJDPTUPUD6WOAAVMXJZKCJOT2ZS) |
-| `[Feibanyama] Wistoria Wand and Sword S02E03 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e03-bilibili-webrip-2160p.n2103366) • [🐱 Nyaa](https://nyaa.si/?q=MS2ZBKZONWLT3SRQ27HH7QOIZTSTAIFO) |
-| `[Hentai] Ingoku Danchi - 04 (WEB 1080p AAC2.0 H.264) (Unc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hentai-ingoku-danchi-04-web-1080p-aac2-0.n2103360) • [🐱 Nyaa](https://nyaa.si/?q=Z4JQGRT7WUD5FH7BV25BUC346JUWQTWM) |
-| `[ToonsHub] One Piece EP1159 2160p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1159-2160p-bili-web-dl.n2103352) • [🐱 Nyaa](https://nyaa.si/?q=L4OZR2VMF6L7ZEXSQS5HG7UMSF64XF67) |
-| `[ToonsHub] One Piece EP1159 1080p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1159-1080p-bili-web-dl.n2103351) • [🐱 Nyaa](https://nyaa.si/?q=M34ISCPXS3F2JR6OIYFFFTG637FEK4KJ) |
-| `[R-Archive] [AB-Corner] ASTRO BOY TETSUWAN ATOM Special T...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/r-archive-ab-corner-astro-boy-tetsuwan-atom.n2103350) • [🐱 Nyaa](https://nyaa.si/?q=4S3LJD22VVALDJDVMAP4KXTXJHYM744J) |
-| `[Erai-raws] Meitantei Precure - 13 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-1080p-cr-webrip.n2103349) • [🐱 Nyaa](https://nyaa.si/?q=3NCJJIF6QYCMGLZABSL5RIO2ELHXCDTZ) |
-| `[Erai-raws] Meitantei Precure - 13 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-1080p-cr-web.k10640639950600) • [🐱 Nyaa](https://nyaa.si/?q=6WCCBFNA32XXEBBGLPNXB7ZQRLJUCMMK) |
-| `[Erai-raws] Meitantei Precure - 13 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-13-720p-cr-web.k10640639111175) • [🐱 Nyaa](https://nyaa.si/?q=LRYROUHEHDLIE75YYAYP7BAGTKFDYAFU) |
+| `[Erai-raws] Tongari Boushi no Atelier - 05 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tongari-boushi-no-atelier-05-1080p.k10652990496269) • [🐱 Nyaa](https://nyaa.si/?q=3ZB632772FXFRK5TJ76ED4IGEOH5KEL5) |
+| `[Yameii] The Klutzy Class Monitor and the Girl with the S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-klutzy-class-monitor-girl-short-skirt-s01e02.k10652904839938) • [🐱 Nyaa](https://nyaa.si/?q=3WQG4P547GRBZBKFEAHHAGN4PJHHVZJK) |
+| `[ToonsHub] The Klutzy Class Monitor and the Girl with the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-klutzy-class-monitor-girl-short-skirt-s01e04.k10652849517066) • [🐱 Nyaa](https://nyaa.si/?q=BPCXV6TBPVQDNOG3FON7Q4UI6NUKZ775) |
+| `[Yameii] The Klutzy Class Monitor and the Girl with the S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-klutzy-class-monitor-girl-short-skirt-s01e02.k10652847971849) • [🐱 Nyaa](https://nyaa.si/?q=WA5LTR5RB66Z2GIV42QCLVBWUZ6TSODY) |
+| `[ToonsHub] The Klutzy Class Monitor and the Girl with the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-klutzy-class-monitor-girl-short-skirt-s01e02.k10652830414088) • [🐱 Nyaa](https://nyaa.si/?q=MOBE3XXQUCKVTUEJVFDESW6GZVLQ2ID5) |
+| `[ToonsHub] The Klutzy Class Monitor and the Girl with the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-klutzy-class-monitor-girl-short-skirt-s01e04.k10652829905927) • [🐱 Nyaa](https://nyaa.si/?q=F4UVQLWGZPYOXDBPVZ6RSUXUJA4BVVFX) |
+| `The Klutzy Class Monitor and the Girl with the Short Skir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/klutzy-class-monitor-girl-short-skirt-s01e02-1080p.n2103478) • [🐱 Nyaa](https://nyaa.si/?q=CGB4WEOZOVEPXHG7WNMXINXCGL5J7TQQ) |
+| `The Klutzy Class Monitor and the Girl with the Short Skir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/klutzy-class-monitor-girl-short-skirt-s01e04-1080p.n2103477) • [🐱 Nyaa](https://nyaa.si/?q=4M6KPG5JIJ4QMWKVQOUXKJLUGAGFGDDI) |
+| `[Onalrie] Tongari Boushi no Atelier - S01E05 [1080p WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tongari-boushi-no-atelier-s01e05-1080p-webrip-av1.2077212) • [🐱 Nyaa](https://nyaa.si/?q=MFJCOLPF4IX5XAOVHNOAUISLKC6VCZI5) |
+| `[SubsPlease] Ponkotsu Fuuki Iin to Skirt-take ga Futekise...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2103475) • [🐱 Nyaa](https://nyaa.si/?q=LMKGV3S74F6OZYJNWVN2VC337AWCRF2F) |
+| `[SubsPlease] Ponkotsu Fuuki Iin to Skirt-take ga Futekise...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2103474) • [🐱 Nyaa](https://nyaa.si/?q=ALSR2ZWV7I4KK7YSMON5F2IFQXPOXGJB) |
+| `[SubsPlease] Ponkotsu Fuuki Iin to Skirt-take ga Futekise...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2103473) • [🐱 Nyaa](https://nyaa.si/?q=K4CFQ2BECJU75Z36QWD5QNVDRECFBNB3) |
+| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2103471) • [🐱 Nyaa](https://nyaa.si/?q=SGKYRSKSAOP7KNRL537BCMIZZMNV6LZ6) |
+| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2103470) • [🐱 Nyaa](https://nyaa.si/?q=3ZFC23BWNH4UU6WJ74OSPUBOZEC7QP2U) |
+| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2103468) • [🐱 Nyaa](https://nyaa.si/?q=C33ZPVN35RAD7IUGGWA3EHBCT3NECWKQ) |
 
 ---
 <div align="center">
