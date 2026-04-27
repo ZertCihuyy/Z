@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.41.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.59.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nekotan] +Tic Elder Sister S01 (BD 1080p x264 Opus) | Pl...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-tic-elder-sister-s01-bd-1080p-x264.k10657076855308) • [🐱 Nyaa](https://nyaa.si/?q=K3EBVLYLNWRGXXAZJPAEPNZXDAOSMOUZ) |
+| `[DKB] Isekai Nonbiri Nouka - S02E04 [1080p][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-isekai-nonbiri-nouka-s02e04-1080p-hevc-x265-10bit-weekly.n2103579) • [🐱 Nyaa](https://nyaa.si/?q=KTSNTLGTURYT67VIJKHNO3EI4VNYLNAO) |
+| `Detective Conan - Movie 28 - One-Eyed Flashback (720p) [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-movie-28-one-eyed-flashback-720p.n2103578) • [🐱 Nyaa](https://nyaa.si/?q=NUYN5EBSW34PZVYIR6FD23NI5SMAOG3R) |
+| `Detective Conan - Movie 28 - One-Eyed Flashback (1080p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-movie-28-one-eyed-flashback-1080p.n2103577) • [🐱 Nyaa](https://nyaa.si/?q=Y43RYLDRE24R637MILO3GIEA67LAJWBN) |
+| `[DB] Yuukoku no Moriarty | Moriarty the Patriot 01-24 (Se...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-yuukoku-no-moriarty-patriot-01-24-season.k10656369831692) • [🐱 Nyaa](https://nyaa.si/?q=2IRXXIPPRGSLAUYQZZTGVMF3GYLZKKNB) |
+| `[DB] Yuukoku no Moriarty Part 2 | Moriarty the Patriot Pa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-yuukoku-no-moriarty-part-2-patriot-ova.n2103559) • [🐱 Nyaa](https://nyaa.si/?q=WVIRPH23ZGJQAR3YA5IS2ANYT6LFNGY6) |
+| `[DB] Yuukoku no Moriarty | Moriarty the Patriot [Dual Aud...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-yuukoku-no-moriarty-patriot-dual-audio-10bit.n2103558) • [🐱 Nyaa](https://nyaa.si/?q=W4JUOROWMSVUYNFJ26BCMBUW6KRJOYY3) |
 | `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2103552) • [🐱 Nyaa](https://nyaa.si/?q=ZECBAVORMPTGVC3VWUN55QA5WVRBJ5Y2) |
 | `[DKB] Witch Hat Atelier - S01E05 [1080p][HEVC x265 10bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-witch-hat-atelier-s01e05-1080p-hevc-x265.n2103551) • [🐱 Nyaa](https://nyaa.si/?q=IB5ZAY3UBSNWSNWRTA5RZUXYYZVNMGHB) |
 | `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.k10655692831755) • [🐱 Nyaa](https://nyaa.si/?q=GVVQG36O3XJM2N4NYB3KOJ5EJHWEYSZY) |
@@ -36,13 +43,6 @@
 | `[Raze] Tongari Boushi no Atelier - 05 x265 10bit 1080p 14...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-tongari-boushi-no-atelier-05-x265-10bit.n2103540) • [🐱 Nyaa](https://nyaa.si/?q=SNHV5G6MQTTCO3EY2DRZHI7XBSGILBM3) |
 | `[Erai-raws] Liar Game - 04 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-04-1080p-cr-webrip.k10654652334853) • [🐱 Nyaa](https://nyaa.si/?q=STLLV3L4ZVXUELOCHJTDTMGT4ABWS2UL) |
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e04.n2103538) • [🐱 Nyaa](https://nyaa.si/?q=ECQ64YSL6REOOEAOCBGNMFAJZ5N6VU3Z) |
-| `[ASW] LIAR GAME - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-liar-game-04-1080p-hevc-x265-10bit-aac.n2103536) • [🐱 Nyaa](https://nyaa.si/?q=VAL3DGARR52KPSH3P6GR66GBO4NGTPCN) |
-| `[Judas] Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu n...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2103532) • [🐱 Nyaa](https://nyaa.si/?q=USKXPLV6Y74LCVKQMCBUWXURQEUWFEZS) |
-| `[Onalrie] LIAR GAME - S01E04 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-liar-game-s01e04-1080p-webrip-av1-mkv.2077253) • [🐱 Nyaa](https://nyaa.si/?q=AM3ONDNNAZS6KTHCKBSPBXG5W5CF2Y7K) |
-| `[Yameii] LIAR GAME (2026) - S01E02 [English Dub] [CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-liar-game-2026-s01e02-english-dub-cr.k10653851673607) • [🐱 Nyaa](https://nyaa.si/?q=6AOTUOBGSP3DV7OC6J2IZAFZIHOSTHXM) |
-| `[Erai-raws] Isekai Nonbiri Nouka 2 - 04 [1080p ADN WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-04-1080p.k10653780569613) • [🐱 Nyaa](https://nyaa.si/?q=VNQ3ZG4HHASOW4ANCK5VRAYWJINJD3YY) |
-| `[ToonsHub] LIAR GAME S01E01 1080p CR WEB-DL MULTi AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-liar-game-s01e01-1080p-cr-web-dl.k10653770264836) • [🐱 Nyaa](https://nyaa.si/?q=5NYF3G5ITCQ722QBTKSLLD3ZDCHJM6W3) |
-| `LIAR GAME S01E02 Shockwave 1080p CR WEB-DL DUAL AAC2.0 H ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/liar-game-s01e02-shockwave-1080p-cr-web-dl.n2103519) • [🐱 Nyaa](https://nyaa.si/?q=4TKPDEQESVOMVZ2YE6FU3FME2U3GXLGF) |
 
 ---
 <div align="center">
