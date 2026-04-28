@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.45.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.27.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s03-bluray.k10668470646024) • [🐱 Nyaa](https://nyaa.si/?q=ZI6VZH27NEYKK4UIYPQAQGRCVJFHHQJL) |
+| `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s02-bluray.k10668419863306) • [🐱 Nyaa](https://nyaa.si/?q=5B5BIOGXTQ2VKSHHFOC56GSPGDGOAZ2Y) |
+| `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s01-bluray.k10668315996169) • [🐱 Nyaa](https://nyaa.si/?q=3VGEBFBICQKRIVVODCMVTQLK4BNR657Z) |
+| `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s00-bluray.k10668245437700) • [🐱 Nyaa](https://nyaa.si/?q=TPIAQSDLZ2ITN4F4QZCQD5SQOCSOV5BV) |
+| `[Mo7tas] Jingai Kyoushitsu no Ningengirai Kyoushi [1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-jingai-kyoushitsu-no-ningengirai-kyoushi-1080p-multi.n2103654) • [🐱 Nyaa](https://nyaa.si/?q=4HMTPCIVASKIXSX2ZS4TK7A7VAW5G5TF) |
 | `[HatSubs] One Piece 1159 (WEB 1080p) [CD757DD0].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-1159-web-1080p-cd757dd0-mkv.n2103647) • [🐱 Nyaa](https://nyaa.si/?q=OYO2LV7RV2GW6JLXPN4WJZRCAWEA4YSH) |
 | `[DemiHuman] SPY x FAMILY CODE: White (2023) v2 (BD Remux ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/demihuman-spy-x-family-code-white-2023-v2.n2103645) • [🐱 Nyaa](https://nyaa.si/?q=NHTJ5Z2RKDTN2RZ3JZHZOIQDEBUASVXZ) |
 | `[Techmod] Youkai Apaato no Yuuga na Nichijou (BD 1080P) (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/techmod-youkai-apaato-no-yuuga-na-nichijou-bd.n2103642) • [🐱 Nyaa](https://nyaa.si/?q=RWOGLDM6EG5SB2GW33AMEAXJCPOSACFG) |
@@ -38,11 +43,6 @@
 | `[Reza] Witch Hat Atelier - S01E05 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e05-webrip-aac-1080p.n2103601) • [🐱 Nyaa](https://nyaa.si/?q=RUR7OKAGQXGB56E3YOJ7ZOEH6JUCZ22M) |
 | `[Chihiro] Himekishi wa Barbaroi no Yome - 03 [1080p HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-himekishi-wa-barbaroi-no-yome-03-1080p.n2103600) • [🐱 Nyaa](https://nyaa.si/?q=EZJ25OEZD5TGSWST3LH24LMUMEPONYQI) |
 | `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2103595) • [🐱 Nyaa](https://nyaa.si/?q=XWWAMADMQOZ736DGC2TM5DYCFK4RJYVL) |
-| `[nekotan] +Tic Elder Sister S01 (BD 1080p x264 Opus) | Pl...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-tic-elder-sister-s01-bd-1080p-x264.k10657076855308) • [🐱 Nyaa](https://nyaa.si/?q=K3EBVLYLNWRGXXAZJPAEPNZXDAOSMOUZ) |
-| `[DKB] Isekai Nonbiri Nouka - S02E04 [1080p][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-isekai-nonbiri-nouka-s02e04-1080p-hevc-x265-10bit-weekly.n2103579) • [🐱 Nyaa](https://nyaa.si/?q=KTSNTLGTURYT67VIJKHNO3EI4VNYLNAO) |
-| `Detective Conan - Movie 28 - One-Eyed Flashback (720p) [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-movie-28-one-eyed-flashback-720p.n2103578) • [🐱 Nyaa](https://nyaa.si/?q=NUYN5EBSW34PZVYIR6FD23NI5SMAOG3R) |
-| `Detective Conan - Movie 28 - One-Eyed Flashback (1080p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-movie-28-one-eyed-flashback-1080p.n2103577) • [🐱 Nyaa](https://nyaa.si/?q=Y43RYLDRE24R637MILO3GIEA67LAJWBN) |
-| `[DB] Yuukoku no Moriarty | Moriarty the Patriot 01-24 (Se...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-yuukoku-no-moriarty-patriot-01-24-season.k10656369831692) • [🐱 Nyaa](https://nyaa.si/?q=2IRXXIPPRGSLAUYQZZTGVMF3GYLZKKNB) |
 
 ---
 <div align="center">
