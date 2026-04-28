@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.07.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.45.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[HatSubs] One Piece 1159 (WEB 1080p) [CD757DD0].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-1159-web-1080p-cd757dd0-mkv.n2103647) • [🐱 Nyaa](https://nyaa.si/?q=OYO2LV7RV2GW6JLXPN4WJZRCAWEA4YSH) |
+| `[DemiHuman] SPY x FAMILY CODE: White (2023) v2 (BD Remux ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/demihuman-spy-x-family-code-white-2023-v2.n2103645) • [🐱 Nyaa](https://nyaa.si/?q=NHTJ5Z2RKDTN2RZ3JZHZOIQDEBUASVXZ) |
+| `[Techmod] Youkai Apaato no Yuuga na Nichijou (BD 1080P) (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/techmod-youkai-apaato-no-yuuga-na-nichijou-bd.n2103642) • [🐱 Nyaa](https://nyaa.si/?q=RWOGLDM6EG5SB2GW33AMEAXJCPOSACFG) |
 | `[izzybell] Ghost in the Shell (1995) [1080p] [Dual-Audio]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/izzybell-ghost-shell-1995-1080p-dual-audio-bd.n2103626) • [🐱 Nyaa](https://nyaa.si/?q=IBSC4TAFJLS2PN5GQ6EYH2M4MCLRXQZ5) |
 | `[Sokudo] Re ZERO - Starting Life in Another World S04E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-re-zero-starting-life-another-world-s04e03.n2103625) • [🐱 Nyaa](https://nyaa.si/?q=7J555MB4LTSPUFLJISP7RLR27BIKVNXK) |
 | `[Breeze] Re ZERO - Starting Life in Another World S04E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-re-zero-starting-life-another-world-s04e03.n2103624) • [🐱 Nyaa](https://nyaa.si/?q=EMHZKYK4GXZUHKBRUOWMC222HLBQMBXA) |
@@ -40,9 +43,6 @@
 | `Detective Conan - Movie 28 - One-Eyed Flashback (720p) [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-movie-28-one-eyed-flashback-720p.n2103578) • [🐱 Nyaa](https://nyaa.si/?q=NUYN5EBSW34PZVYIR6FD23NI5SMAOG3R) |
 | `Detective Conan - Movie 28 - One-Eyed Flashback (1080p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-movie-28-one-eyed-flashback-1080p.n2103577) • [🐱 Nyaa](https://nyaa.si/?q=Y43RYLDRE24R637MILO3GIEA67LAJWBN) |
 | `[DB] Yuukoku no Moriarty | Moriarty the Patriot 01-24 (Se...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-yuukoku-no-moriarty-patriot-01-24-season.k10656369831692) • [🐱 Nyaa](https://nyaa.si/?q=2IRXXIPPRGSLAUYQZZTGVMF3GYLZKKNB) |
-| `[DB] Yuukoku no Moriarty Part 2 | Moriarty the Patriot Pa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-yuukoku-no-moriarty-part-2-patriot-ova.n2103559) • [🐱 Nyaa](https://nyaa.si/?q=WVIRPH23ZGJQAR3YA5IS2ANYT6LFNGY6) |
-| `[DB] Yuukoku no Moriarty | Moriarty the Patriot [Dual Aud...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/db-yuukoku-no-moriarty-patriot-dual-audio-10bit.n2103558) • [🐱 Nyaa](https://nyaa.si/?q=W4JUOROWMSVUYNFJ26BCMBUW6KRJOYY3) |
-| `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2103552) • [🐱 Nyaa](https://nyaa.si/?q=ZECBAVORMPTGVC3VWUN55QA5WVRBJ5Y2) |
 
 ---
 <div align="center">
