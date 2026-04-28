@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.41.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.24.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,40 +9,40 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Selasa**
+### 📅 Jadwal Rilis Hari Ini: **Rabu**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `07:30` | **[Origami Ninja Koyankinte](https://myanimelist.net/anime/41458/Origami_Ninja_Koyankinte)** | *Comedy* |
-| `18:45` | **[Fushigi Dagashiya: Zenitendou](https://myanimelist.net/anime/42295/Fushigi_Dagashiya__Zenitendou)** | *Mystery* |
-| `21:55` | **[Hyakki Yakoushou](https://myanimelist.net/anime/63469/Hyakki_Yakoushou)** | *Horror, Mystery, Romance, Supernatural* |
-| `23:30` | **[Replica datte, Koi wo Suru.](https://myanimelist.net/anime/61013/Replica_datte_Koi_wo_Suru)** | *Drama, Romance, Supernatural* |
-| `22:00` | **[Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2](https://myanimelist.net/anime/61931/Higeki_no_Genkyou_to_Naru_Saikyou_Gedou_Last_Boss_Joou_wa_Tami_no_Tame_ni_Tsukushimasu_Season_2)** | *Fantasy* |
-| `00:00` | **[Nippon Sangoku](https://myanimelist.net/anime/63375/Nippon_Sangoku)** | *Drama* |
-| `23:00` | **[Aishiteru Game wo Owarasetai](https://myanimelist.net/anime/61839/Aishiteru_Game_wo_Owarasetai)** | *Comedy, Romance* |
-| `00:00` | **[Liar Game](https://myanimelist.net/anime/62331/Liar_Game)** | *Drama, Suspense* |
-| `23:30` | **[Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://myanimelist.net/anime/56734/Class_de_2-banme_ni_Kawaii_Onnanoko_to_Tomodachi_ni_Natta)** | *Romance* |
-| `23:00` | **[Marriagetoxin](https://myanimelist.net/anime/62601/Marriagetoxin)** | *Action, Comedy* |
+| `07:05` | **[Chibi Godzilla no Gyakushuu 3rd Season](https://myanimelist.net/anime/61765/Chibi_Godzilla_no_Gyakushuu_3rd_Season)** | *Fantasy* |
+| `21:55` | **[Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou)** | *Action, Fantasy* |
+| `21:55` | **[Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou)** | *Action, Fantasy* |
+| `00:00` | **[Hidarikiki no Eren](https://myanimelist.net/anime/53732/Hidarikiki_no_Eren)** | *Drama* |
+| `01:29` | **[Tadaima, Ojamasaremasu!](https://myanimelist.net/anime/63014/Tadaima_Ojamasaremasu)** | *Comedy, Romance* |
+| `01:59` | **[Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://myanimelist.net/anime/63376/Megami_Isekai_Tensei_Nani_ni_Naritai_desu_ka_Ore_Yuusha_no_Rokkotsu_de)** | *Comedy, Fantasy* |
+| `01:59` | **[Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://myanimelist.net/anime/63376/Megami_Isekai_Tensei_Nani_ni_Naritai_desu_ka_Ore_Yuusha_no_Rokkotsu_de)** | *Comedy, Fantasy* |
+| `22:00` | **[Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season](https://myanimelist.net/anime/62512/Jidou_Hanbaiki_ni_Umarekawatta_Ore_wa_Meikyuu_wo_Samayou_3rd_Season)** | *Comedy, Fantasy* |
+| `23:30` | **[Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2](https://myanimelist.net/anime/61831/Saikyou_no_Ousama_Nidome_no_Jinsei_wa_Nani_wo_Suru_Season_2)** | *Fantasy* |
+| `23:45` | **[Otaku ni Yasashii Gal wa Inai!?](https://myanimelist.net/anime/62604/Otaku_ni_Yasashii_Gal_wa_Inai)** | *Comedy, Romance* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10675483212553) • [🐱 Nyaa](https://nyaa.si/?q=E6ZI6XPZRBGUMQFRWZTCKNAMI2J57SO5) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10675481920008) • [🐱 Nyaa](https://nyaa.si/?q=2U5R246LHLUJDV65C5RMDXPOPCUZPCQB) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10675479042308) • [🐱 Nyaa](https://nyaa.si/?q=TXNKWUDBXUSNCZMKSHKGAD5NDRTIZAH5) |
-| `[ASW] Replica datte, Koi wo Suru. - 04 [1080p HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-replica-datte-koi-wo-suru-04-1080p.n2103827) • [🐱 Nyaa](https://nyaa.si/?q=G47STIXEO4EWY6YQGSCU5QZELRFIKKZT) |
-| `[ASW] Aishiteru Game wo Owarasetai - 03 [1080p HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-aishiteru-game-wo-owarasetai-03-1080p-hevc.n2103822) • [🐱 Nyaa](https://nyaa.si/?q=DQGAASFGTEBXHQA7HSFNBZMCSEDGLUAK) |
-| `[Judas] MARRIAGETOXIN - S01E04 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-marriagetoxin-s01e04-1080p-hevc-x265-10bit-multi-subs.n2103821) • [🐱 Nyaa](https://nyaa.si/?q=5AE555F3QD42R3KR4TK6KQHFBW4I2TLJ) |
-| `[Unfucked] I Made Friends with the Second Prettiest Girl ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-made-friends-second-prettiest-girl-my-class.n2103818) • [🐱 Nyaa](https://nyaa.si/?q=TRMJ5M5BWF5NIJXT6XHEYXZN4CRS2CMS) |
-| `[Onalrie] Aishiteru Game wo Owarasetai - S01E03 [1080p WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-aishiteru-game-wo-owarasetai-s01e03-1080p-webrip-av1.2077421) • [🐱 Nyaa](https://nyaa.si/?q=PZRJCLPQXP74UFNHSDKJHYQGFWQ6HB3Y) |
-| `[ToonsHub] MARRIAGETOXIN S01E01 1080p CR WEB-DL MULTi AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-marriagetoxin-s01e01-1080p-cr-web-dl-multi.k10675028731907) • [🐱 Nyaa](https://nyaa.si/?q=WMBZGIC4ZGR7363GPAYV4XEQNDBQPCVA) |
-| `[Yameii] I Want to End this Love Game - S01E01 [English D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-want-end-love-game-s01e01-english-dub.k10675009216517) • [🐱 Nyaa](https://nyaa.si/?q=N44AVMTEOV3TD753FA2HCW67ODE7XHWM) |
-| `[Yameii] MARRIAGETOXIN - S01E02 [English Dub] [CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-marriagetoxin-s01e02-english-dub-cr-web-dl.k10675008779266) • [🐱 Nyaa](https://nyaa.si/?q=67N7KIA3F7CNFKZYNMUDMBNR6PH6SMVD) |
-| `I Made Friends with the Second Prettiest Girl in My Class...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/made-friends-second-prettiest-girl-my-class-s01e04.n2103812) • [🐱 Nyaa](https://nyaa.si/?q=YVHA5UTBSA75NRVENL2BA6QPGFHAGWDH) |
-| `[Yameii] I Want to End this Love Game - S01E01 [English D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-want-end-love-game-s01e01-english-dub.k10674981102593) • [🐱 Nyaa](https://nyaa.si/?q=XHVWBSX6N44ZN2T5O2E542KGTCYC7D5P) |
-| `[Yameii] MARRIAGETOXIN - S01E02 [English Dub] [CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-marriagetoxin-s01e02-english-dub-cr-web-dl.k10674980898055) • [🐱 Nyaa](https://nyaa.si/?q=HUZQCDXDEMDBACCXUBH4OT3SKVSIWG4E) |
-| `[Trix] MARRIAGETOXIN S01E04 [WEBRip 1080p AV1 Opus] (Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-marriagetoxin-s01e04-webrip-1080p-av1-opus-multi.n2103809) • [🐱 Nyaa](https://nyaa.si/?q=4QDWWE5LLW4ZRTBLUHFR5ANM5L2P35S2) |
+| `[Raze] MARRIAGETOXIN - 04 x265 10bit 1080p 143.8561fps.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-marriagetoxin-04-x265-10bit-1080p-143-8561fps-mkv.n2103894) • [🐱 Nyaa](https://nyaa.si/?q=X6HGAQOC3IPZKVM7PJL4GAFVXY3A3XJA) |
+| `[Onalrie] Hidarikiki no Eren - S01E04 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hidarikiki-no-eren-s01e04-1080p-webrip-av1-mkv.2077456) • [🐱 Nyaa](https://nyaa.si/?q=NJ4UBXSEW6UAOMYATYAFY5FHOMJ3QIG5) |
+| `[cappybara] Marriage Toxin - S01E01 (WEB 1080p HEVC AAC).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cappybara-marriage-toxin-s01e01-web-1080p-hevc-aac-mkv.k10676727939596) • [🐱 Nyaa](https://nyaa.si/?q=2J36S2O5E7RUZNGN5AVK4TPEQPZR5CJF) |
+| `[DKB] Aishiteru Game wo Owarasetai - S01E03 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-aishiteru-game-wo-owarasetai-s01e03-1080p-hevc.n2103886) • [🐱 Nyaa](https://nyaa.si/?q=X4HUW2MCV5JAGGZRF24LBXHFWPSBCU7S) |
+| `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-class-de-2-banme-ni-kawaii-onnanoko.n2103885) • [🐱 Nyaa](https://nyaa.si/?q=7Y5W4NKGSI6H2OUM3WXWQIVRROZX7V4S) |
+| `[DKB] Marriagetoxin - S01E04 [1080p][HEVC x265 10bit][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-marriagetoxin-s01e04-1080p-hevc-x265-10bit-multi-subs.n2103884) • [🐱 Nyaa](https://nyaa.si/?q=GN6L3ULFLOHTCHV46UJF5KC7PP57AF6X) |
+| `[DKB] Higeki no Genkyou to Naru Saikyou Gedou Last Boss J...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-higeki-no-genkyou-naru-saikyou-gedou-last.n2103883) • [🐱 Nyaa](https://nyaa.si/?q=AF37D4HQZUVLYICECQYJGUK7FRMYR4LE) |
+| `[ASW] Hidarikiki no Eren - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hidarikiki-no-eren-04-1080p-hevc-x265-10bit-aac.n2103882) • [🐱 Nyaa](https://nyaa.si/?q=RYKZX447LA7D2ESWJ2ZOOEXJ6FJ2AWUX) |
+| `[Onalrie] MARRIAGETOXIN - S01E04 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-marriagetoxin-s01e04-1080p-webrip-av1-mkv.2077454) • [🐱 Nyaa](https://nyaa.si/?q=WHDRANYNOSLHGFXEOLKJNXSETPOHI5UF) |
+| `[BlackRabbit] The Eminence in Shadow (2022) - S02 [Bluray...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-eminence-shadow-2022-s02-bluray-1080p-opus.k10676409945868) • [🐱 Nyaa](https://nyaa.si/?q=QVUGF5SICZZDSDQHAPWDXJEY3XQD3MRG) |
+| `[Judas] Aishiteru Game o Owarasetai (I Want to End This L...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-aishiteru-game-o-owarasetai-want-end-love.n2103880) • [🐱 Nyaa](https://nyaa.si/?q=G5YJSOYWEXSHDUZ2XEE4AVCGEYQ73SQF) |
+| `[BlackRabbit] The Eminence in Shadow (2022) - S01 [Bluray...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-eminence-shadow-2022-s01-bluray-1080p-opus.k10676359698440) • [🐱 Nyaa](https://nyaa.si/?q=KTQ4YPYSZKD6ZKHAFRWXPK52N3JAPQT2) |
+| `[BlackRabbit] The Eminence in Shadow (2022) - S00 [Bluray...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-eminence-shadow-2022-s00-bluray-1080p-opus.k10676312850955) • [🐱 Nyaa](https://nyaa.si/?q=5SHIFOZO5MVCTTCFATCJMXKIILTQUE6T) |
+| `[ASW] MARRIAGETOXIN - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-marriagetoxin-04-1080p-hevc-x265-10bit-aac.n2103868) • [🐱 Nyaa](https://nyaa.si/?q=EI35MEWANQBSXNHE433EROMKG3NJ6BSI) |
+| `[ASW] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-class-de-2-banme-ni-kawaii-onnanoko.n2103866) • [🐱 Nyaa](https://nyaa.si/?q=YN4HVULCJFNDNUPN2VF2UW4ZJPNVWATQ) |
 
 ---
 <div align="center">
