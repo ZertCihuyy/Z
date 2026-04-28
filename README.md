@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.15.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.41.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gecko] Hyakki Yakoushou - S01E04 (百鬼夜行抄; Beyond Twilight...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hyakki-yakoushou-s01e04-beyond-twilight-ytb-web.k10673182476802) • [🐱 Nyaa](https://nyaa.si/?q=NKXPEJUNSRATQ6B5Q5SUZBXKHSLYOIOD) |
-| `[ToonsHub] Hyakki Yakoushou S01E04 1080p AMZN WEB-DL DDP2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hyakki-yakoushou-s01e04-1080p-amzn-web-dl.k10673159549707) • [🐱 Nyaa](https://nyaa.si/?q=DNPK7AA2INC2FO2VCE4YHUVNYXL7PLTW) |
-| `[Some-Stuffs] Steel Ball Run - JoJo's Bizarre Adventure 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-steel-ball-run-jojos-bizarre-adventure-01.n2103725) • [🐱 Nyaa](https://nyaa.si/?q=B7GQBPJBVNMQBIBW6BYSIBYUNBYQO2PA) |
-| `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s03-bluray.k10668470646024) • [🐱 Nyaa](https://nyaa.si/?q=ZI6VZH27NEYKK4UIYPQAQGRCVJFHHQJL) |
-| `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s02-bluray.k10668419863306) • [🐱 Nyaa](https://nyaa.si/?q=5B5BIOGXTQ2VKSHHFOC56GSPGDGOAZ2Y) |
-| `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s01-bluray.k10668315996169) • [🐱 Nyaa](https://nyaa.si/?q=3VGEBFBICQKRIVVODCMVTQLK4BNR657Z) |
-| `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s00-bluray.k10668245437700) • [🐱 Nyaa](https://nyaa.si/?q=TPIAQSDLZ2ITN4F4QZCQD5SQOCSOV5BV) |
-| `[Mo7tas] Jingai Kyoushitsu no Ningengirai Kyoushi [1080p]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-jingai-kyoushitsu-no-ningengirai-kyoushi-1080p-multi.n2103654) • [🐱 Nyaa](https://nyaa.si/?q=4HMTPCIVASKIXSX2ZS4TK7A7VAW5G5TF) |
-| `[HatSubs] One Piece 1159 (WEB 1080p) [CD757DD0].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-1159-web-1080p-cd757dd0-mkv.n2103647) • [🐱 Nyaa](https://nyaa.si/?q=OYO2LV7RV2GW6JLXPN4WJZRCAWEA4YSH) |
-| `[DemiHuman] SPY x FAMILY CODE: White (2023) v2 (BD Remux ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/demihuman-spy-x-family-code-white-2023-v2.n2103645) • [🐱 Nyaa](https://nyaa.si/?q=NHTJ5Z2RKDTN2RZ3JZHZOIQDEBUASVXZ) |
-| `[Techmod] Youkai Apaato no Yuuga na Nichijou (BD 1080P) (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/techmod-youkai-apaato-no-yuuga-na-nichijou-bd.n2103642) • [🐱 Nyaa](https://nyaa.si/?q=RWOGLDM6EG5SB2GW33AMEAXJCPOSACFG) |
-| `[izzybell] Ghost in the Shell (1995) [1080p] [Dual-Audio]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/izzybell-ghost-shell-1995-1080p-dual-audio-bd.n2103626) • [🐱 Nyaa](https://nyaa.si/?q=IBSC4TAFJLS2PN5GQ6EYH2M4MCLRXQZ5) |
-| `[Sokudo] Re ZERO - Starting Life in Another World S04E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-re-zero-starting-life-another-world-s04e03.n2103625) • [🐱 Nyaa](https://nyaa.si/?q=7J555MB4LTSPUFLJISP7RLR27BIKVNXK) |
-| `[Breeze] Re ZERO - Starting Life in Another World S04E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-re-zero-starting-life-another-world-s04e03.n2103624) • [🐱 Nyaa](https://nyaa.si/?q=EMHZKYK4GXZUHKBRUOWMC222HLBQMBXA) |
-| `Tekkaman.Blade.II.S01.1080p.BluRay.REMUX.AVC.FLAC.2.0-NAN0` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tekkaman-blade-ii-s01-1080p-bluray-remux-avc.n2103605) • [🐱 Nyaa](https://nyaa.si/?q=TJ7C5NCILCP2DBVTG3GIFU2M5SZ2UMF2) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10675483212553) • [🐱 Nyaa](https://nyaa.si/?q=E6ZI6XPZRBGUMQFRWZTCKNAMI2J57SO5) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10675481920008) • [🐱 Nyaa](https://nyaa.si/?q=2U5R246LHLUJDV65C5RMDXPOPCUZPCQB) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10675479042308) • [🐱 Nyaa](https://nyaa.si/?q=TXNKWUDBXUSNCZMKSHKGAD5NDRTIZAH5) |
+| `[ASW] Replica datte, Koi wo Suru. - 04 [1080p HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-replica-datte-koi-wo-suru-04-1080p.n2103827) • [🐱 Nyaa](https://nyaa.si/?q=G47STIXEO4EWY6YQGSCU5QZELRFIKKZT) |
+| `[ASW] Aishiteru Game wo Owarasetai - 03 [1080p HEVC x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-aishiteru-game-wo-owarasetai-03-1080p-hevc.n2103822) • [🐱 Nyaa](https://nyaa.si/?q=DQGAASFGTEBXHQA7HSFNBZMCSEDGLUAK) |
+| `[Judas] MARRIAGETOXIN - S01E04 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-marriagetoxin-s01e04-1080p-hevc-x265-10bit-multi-subs.n2103821) • [🐱 Nyaa](https://nyaa.si/?q=5AE555F3QD42R3KR4TK6KQHFBW4I2TLJ) |
+| `[Unfucked] I Made Friends with the Second Prettiest Girl ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-made-friends-second-prettiest-girl-my-class.n2103818) • [🐱 Nyaa](https://nyaa.si/?q=TRMJ5M5BWF5NIJXT6XHEYXZN4CRS2CMS) |
+| `[Onalrie] Aishiteru Game wo Owarasetai - S01E03 [1080p WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-aishiteru-game-wo-owarasetai-s01e03-1080p-webrip-av1.2077421) • [🐱 Nyaa](https://nyaa.si/?q=PZRJCLPQXP74UFNHSDKJHYQGFWQ6HB3Y) |
+| `[ToonsHub] MARRIAGETOXIN S01E01 1080p CR WEB-DL MULTi AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-marriagetoxin-s01e01-1080p-cr-web-dl-multi.k10675028731907) • [🐱 Nyaa](https://nyaa.si/?q=WMBZGIC4ZGR7363GPAYV4XEQNDBQPCVA) |
+| `[Yameii] I Want to End this Love Game - S01E01 [English D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-want-end-love-game-s01e01-english-dub.k10675009216517) • [🐱 Nyaa](https://nyaa.si/?q=N44AVMTEOV3TD753FA2HCW67ODE7XHWM) |
+| `[Yameii] MARRIAGETOXIN - S01E02 [English Dub] [CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-marriagetoxin-s01e02-english-dub-cr-web-dl.k10675008779266) • [🐱 Nyaa](https://nyaa.si/?q=67N7KIA3F7CNFKZYNMUDMBNR6PH6SMVD) |
+| `I Made Friends with the Second Prettiest Girl in My Class...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/made-friends-second-prettiest-girl-my-class-s01e04.n2103812) • [🐱 Nyaa](https://nyaa.si/?q=YVHA5UTBSA75NRVENL2BA6QPGFHAGWDH) |
+| `[Yameii] I Want to End this Love Game - S01E01 [English D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-want-end-love-game-s01e01-english-dub.k10674981102593) • [🐱 Nyaa](https://nyaa.si/?q=XHVWBSX6N44ZN2T5O2E542KGTCYC7D5P) |
+| `[Yameii] MARRIAGETOXIN - S01E02 [English Dub] [CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-marriagetoxin-s01e02-english-dub-cr-web-dl.k10674980898055) • [🐱 Nyaa](https://nyaa.si/?q=HUZQCDXDEMDBACCXUBH4OT3SKVSIWG4E) |
+| `[Trix] MARRIAGETOXIN S01E04 [WEBRip 1080p AV1 Opus] (Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-marriagetoxin-s01e04-webrip-1080p-av1-opus-multi.n2103809) • [🐱 Nyaa](https://nyaa.si/?q=4QDWWE5LLW4ZRTBLUHFR5ANM5L2P35S2) |
 
 ---
 <div align="center">
