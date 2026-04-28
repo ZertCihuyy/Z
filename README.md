@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.22.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.15.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Hyakki Yakoushou - S01E04 (百鬼夜行抄; Beyond Twilight...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hyakki-yakoushou-s01e04-beyond-twilight-ytb-web.k10673182476802) • [🐱 Nyaa](https://nyaa.si/?q=NKXPEJUNSRATQ6B5Q5SUZBXKHSLYOIOD) |
+| `[ToonsHub] Hyakki Yakoushou S01E04 1080p AMZN WEB-DL DDP2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hyakki-yakoushou-s01e04-1080p-amzn-web-dl.k10673159549707) • [🐱 Nyaa](https://nyaa.si/?q=DNPK7AA2INC2FO2VCE4YHUVNYXL7PLTW) |
+| `[Some-Stuffs] Steel Ball Run - JoJo's Bizarre Adventure 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-steel-ball-run-jojos-bizarre-adventure-01.n2103725) • [🐱 Nyaa](https://nyaa.si/?q=B7GQBPJBVNMQBIBW6BYSIBYUNBYQO2PA) |
 | `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s03-bluray.k10668470646024) • [🐱 Nyaa](https://nyaa.si/?q=ZI6VZH27NEYKK4UIYPQAQGRCVJFHHQJL) |
 | `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s02-bluray.k10668419863306) • [🐱 Nyaa](https://nyaa.si/?q=5B5BIOGXTQ2VKSHHFOC56GSPGDGOAZ2Y) |
 | `[BlackRabbit] That Time I Got Reincarnated as a Slime (20...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-time-got-reincarnated-slime-2018-s01-bluray.k10668315996169) • [🐱 Nyaa](https://nyaa.si/?q=3VGEBFBICQKRIVVODCMVTQLK4BNR657Z) |
@@ -40,9 +43,6 @@
 | `[Sokudo] Re ZERO - Starting Life in Another World S04E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-re-zero-starting-life-another-world-s04e03.n2103625) • [🐱 Nyaa](https://nyaa.si/?q=7J555MB4LTSPUFLJISP7RLR27BIKVNXK) |
 | `[Breeze] Re ZERO - Starting Life in Another World S04E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-re-zero-starting-life-another-world-s04e03.n2103624) • [🐱 Nyaa](https://nyaa.si/?q=EMHZKYK4GXZUHKBRUOWMC222HLBQMBXA) |
 | `Tekkaman.Blade.II.S01.1080p.BluRay.REMUX.AVC.FLAC.2.0-NAN0` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tekkaman-blade-ii-s01-1080p-bluray-remux-avc.n2103605) • [🐱 Nyaa](https://nyaa.si/?q=TJ7C5NCILCP2DBVTG3GIFU2M5SZ2UMF2) |
-| `[Reza] Witch Hat Atelier - S01E05 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e05-webrip-aac-1080p.n2103601) • [🐱 Nyaa](https://nyaa.si/?q=RUR7OKAGQXGB56E3YOJ7ZOEH6JUCZ22M) |
-| `[Chihiro] Himekishi wa Barbaroi no Yome - 03 [1080p HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-himekishi-wa-barbaroi-no-yome-03-1080p.n2103600) • [🐱 Nyaa](https://nyaa.si/?q=EZJ25OEZD5TGSWST3LH24LMUMEPONYQI) |
-| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2103595) • [🐱 Nyaa](https://nyaa.si/?q=XWWAMADMQOZ736DGC2TM5DYCFK4RJYVL) |
 
 ---
 <div align="center">
