@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.42.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.44.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2103965) • [🐱 Nyaa](https://nyaa.si/?q=SZ2VIKMOCVLAPMXC76RDI3LJUOJBSWE5) |
+| `Cardfight!! Vanguard 15th Anniversary Remastered S01E02 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniversary-remastered-s01e02-webdl.n2103963) • [🐱 Nyaa](https://nyaa.si/?q=NP5NPHR3WC54M5FWSCSUNVPYLIPW2W4I) |
+| `Cardfight!! Vanguard 15th Anniversary Remastered S01E01 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniversary-remastered-s01e01-webdl.n2103962) • [🐱 Nyaa](https://nyaa.si/?q=ER4RF3Y4XWZM3ZW5RWGKHJXJ2YEO3JYN) |
 | `[Kaleido-mini] Liar Game (2026) - 03v2 (S01E03) - (WEB 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-03v2-s01e03-web.n2103961) • [🐱 Nyaa](https://nyaa.si/?q=Y5DQBDP2CJPVCEIILJF33O2GRVEKH62D) |
 | `[Kaleido-subs] Liar Game (2026) - 03v2 (S01E03) - (WEB 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-liar-game-2026-03v2-s01e03-web.n2103960) • [🐱 Nyaa](https://nyaa.si/?q=LEVGGQTCNXN7T4VOSRZ265GVGKUEX4MQ) |
 | `[Erai-raws] Tadaima Ojamasaremasu - 04 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-04-1080p-cr-webrip.k10679623234562) • [🐱 Nyaa](https://nyaa.si/?q=CTAYUO5JSRGAE3MLXZPGHNLFXLDF53JC) |
@@ -40,9 +43,6 @@
 | `[ASW] Yuusha no Rokkotsu de - 04 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-rokkotsu-de-04-1080p-hevc.n2103938) • [🐱 Nyaa](https://nyaa.si/?q=3GJVRZIQLUCRBJHQA67KLUX67KEOOOUU) |
 | `[Gecko] Rilakkuma - S01E04 (リラックマ) [CTHP.WEB-DL 1080P AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-rilakkuma-s01e04-cthp-web-dl-1080p-avc.k10678770500102) • [🐱 Nyaa](https://nyaa.si/?q=WWSYMKYNA2WUCIFN4HXUP2KG5KHQL3X2) |
 | `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10678236191744) • [🐱 Nyaa](https://nyaa.si/?q=7RNWJ3AM7XYNXPQORPVXAAEVQ35B64EO) |
-| `[ASW] Tadaima, Ojamasaremasu! - 04 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tadaima-ojamasaremasu-04-1080p-hevc-x265-10bit-aac.n2103929) • [🐱 Nyaa](https://nyaa.si/?q=TXHVM3WD2QIFGVC424GXEUOTHUKFSHVI) |
-| `My Ribdiculous Reincarnation S01E04 Vegetable-The Lock on...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/my-ribdiculous-reincarnation-s01e04-vegetable-lock-treasure.n2103928) • [🐱 Nyaa](https://nyaa.si/?q=52O6WR5NQQRV6PZNOH43GV3JRBA6KTNL) |
-| `[SubsPlease] Yuusha no Rokkotsu de - 04 (1080p) [236650DA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-rokkotsu-de-04-1080p-236650da-mkv.n2103925) • [🐱 Nyaa](https://nyaa.si/?q=5RLPHW6D7TWO2VTXJJLDRLN5B4KZUKXQ) |
 
 ---
 <div align="center">
