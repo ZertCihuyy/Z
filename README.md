@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.44.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.41.50_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.k10681942122760) • [🐱 Nyaa](https://nyaa.si/?q=VCAQSCE4PUX7QRXXBYAW6KWXO3NNK24C) |
+| `[SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi (01-12) (10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-01-12-1080p-batch.n2103971) • [🐱 Nyaa](https://nyaa.si/?q=JBIIBKS6JBUOS3JHZHNC6EFIEQEJHU2K) |
+| `[SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi (01-12) (72...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-01-12-720p-batch.n2103970) • [🐱 Nyaa](https://nyaa.si/?q=XNORQZLMNXI2XNIHMGR7IHXSR4ADK4DW) |
+| `[SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi (01-12) (48...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-01-12-480p-batch.n2103969) • [🐱 Nyaa](https://nyaa.si/?q=LA6ETVWGZTUTEOT6JCDSLC2Z5U3QA4J3) |
+| `[SubsPlease] Seihantai na Kimi to Boku (01-12) (1080p) [B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-01-12-1080p-batch.n2103968) • [🐱 Nyaa](https://nyaa.si/?q=HKO3J423O4O3IU2TQRBA7VUYY6NG4CAY) |
+| `[SubsPlease] Seihantai na Kimi to Boku (01-12) (720p) [Ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-01-12-720p-batch.n2103967) • [🐱 Nyaa](https://nyaa.si/?q=BUQGVI5L6MGLOKFJVM7FX6ESPBKWOC2Z) |
+| `[SubsPlease] Seihantai na Kimi to Boku (01-12) (480p) [Ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-01-12-480p-batch.n2103966) • [🐱 Nyaa](https://nyaa.si/?q=IBC4LS3T76VEVKWBVV32FDZWEIJC2LM7) |
+| `[Onalrie] Yuusha no Rokkotsu de - S01E04 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-rokkotsu-de-s01e04-1080p-webrip-av1-mkv.2077503) • [🐱 Nyaa](https://nyaa.si/?q=VSJID4MVIDRRC3D7FS7KMB5YPSUDQGTP) |
 | `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2103965) • [🐱 Nyaa](https://nyaa.si/?q=SZ2VIKMOCVLAPMXC76RDI3LJUOJBSWE5) |
 | `Cardfight!! Vanguard 15th Anniversary Remastered S01E02 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniversary-remastered-s01e02-webdl.n2103963) • [🐱 Nyaa](https://nyaa.si/?q=NP5NPHR3WC54M5FWSCSUNVPYLIPW2W4I) |
 | `Cardfight!! Vanguard 15th Anniversary Remastered S01E01 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniversary-remastered-s01e01-webdl.n2103962) • [🐱 Nyaa](https://nyaa.si/?q=ER4RF3Y4XWZM3ZW5RWGKHJXJ2YEO3JYN) |
 | `[Kaleido-mini] Liar Game (2026) - 03v2 (S01E03) - (WEB 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-03v2-s01e03-web.n2103961) • [🐱 Nyaa](https://nyaa.si/?q=Y5DQBDP2CJPVCEIILJF33O2GRVEKH62D) |
 | `[Kaleido-subs] Liar Game (2026) - 03v2 (S01E03) - (WEB 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-liar-game-2026-03v2-s01e03-web.n2103960) • [🐱 Nyaa](https://nyaa.si/?q=LEVGGQTCNXN7T4VOSRZ265GVGKUEX4MQ) |
 | `[Erai-raws] Tadaima Ojamasaremasu - 04 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-04-1080p-cr-webrip.k10679623234562) • [🐱 Nyaa](https://nyaa.si/?q=CTAYUO5JSRGAE3MLXZPGHNLFXLDF53JC) |
-| `[Kaleido-mini] Liar Game (2026) - 03 (S01E03) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-03-s01e03-web.n2103953) • [🐱 Nyaa](https://nyaa.si/?q=N4NMFUR6GP6XRKGG5VQ33P6AKFDSDYSM) |
-| `[Kaleido-subs] Liar Game (2026) - 03 (S01E03) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-liar-game-2026-03-s01e03-web.n2103952) • [🐱 Nyaa](https://nyaa.si/?q=QWKTRZMSKUCF7KNRFSF6NGXPLIBHZ3OW) |
 | `[crane0922] Children of the Whales Season 1 (BD 1080p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-children-whales-season-1-bd-1080p-hevc.k10679127672333) • [🐱 Nyaa](https://nyaa.si/?q=F23K75I3V53G3YZWC7R6EARFHXYGEBH3) |
-| `中配 - 葬送的芙莉莲 (Sousou no Frieren) (Season 2) (Mainland Mand...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sousou-no-frieren-season-2-mainland-mandarin-chinese.n2103948) • [🐱 Nyaa](https://nyaa.si/?q=OYIV5PPFHWMBMYCGTRX4L74M3HKANAHT) |
-| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Or...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-megami-isekai-tensei-nani-ni-naritai-desu.n2103944) • [🐱 Nyaa](https://nyaa.si/?q=BAUKDONNQQWC2TVYVCI7NSJH2QMLCRHR) |
-| `[Erai-raws] Marriagetoxin - 04 [1080p CR WEBRip HEVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-marriagetoxin-04-1080p-cr-webrip-hevc.k10678924670976) • [🐱 Nyaa](https://nyaa.si/?q=X25O7CEXYD5RPZ2VK4LCZKOPDF2WY5QZ) |
-| `[ASW] Yuusha no Rokkotsu de - 04 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-rokkotsu-de-04-1080p-hevc.n2103938) • [🐱 Nyaa](https://nyaa.si/?q=3GJVRZIQLUCRBJHQA67KLUX67KEOOOUU) |
-| `[Gecko] Rilakkuma - S01E04 (リラックマ) [CTHP.WEB-DL 1080P AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-rilakkuma-s01e04-cthp-web-dl-1080p-avc.k10678770500102) • [🐱 Nyaa](https://nyaa.si/?q=WWSYMKYNA2WUCIFN4HXUP2KG5KHQL3X2) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10678236191744) • [🐱 Nyaa](https://nyaa.si/?q=7RNWJ3AM7XYNXPQORPVXAAEVQ35B64EO) |
 
 ---
 <div align="center">
