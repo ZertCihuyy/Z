@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.08.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.42.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kaleido-mini] Liar Game (2026) - 03v2 (S01E03) - (WEB 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-03v2-s01e03-web.n2103961) • [🐱 Nyaa](https://nyaa.si/?q=Y5DQBDP2CJPVCEIILJF33O2GRVEKH62D) |
+| `[Kaleido-subs] Liar Game (2026) - 03v2 (S01E03) - (WEB 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-liar-game-2026-03v2-s01e03-web.n2103960) • [🐱 Nyaa](https://nyaa.si/?q=LEVGGQTCNXN7T4VOSRZ265GVGKUEX4MQ) |
+| `[Erai-raws] Tadaima Ojamasaremasu - 04 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-04-1080p-cr-webrip.k10679623234562) • [🐱 Nyaa](https://nyaa.si/?q=CTAYUO5JSRGAE3MLXZPGHNLFXLDF53JC) |
+| `[Kaleido-mini] Liar Game (2026) - 03 (S01E03) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-03-s01e03-web.n2103953) • [🐱 Nyaa](https://nyaa.si/?q=N4NMFUR6GP6XRKGG5VQ33P6AKFDSDYSM) |
+| `[Kaleido-subs] Liar Game (2026) - 03 (S01E03) - (WEB 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-liar-game-2026-03-s01e03-web.n2103952) • [🐱 Nyaa](https://nyaa.si/?q=QWKTRZMSKUCF7KNRFSF6NGXPLIBHZ3OW) |
+| `[crane0922] Children of the Whales Season 1 (BD 1080p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-children-whales-season-1-bd-1080p-hevc.k10679127672333) • [🐱 Nyaa](https://nyaa.si/?q=F23K75I3V53G3YZWC7R6EARFHXYGEBH3) |
+| `中配 - 葬送的芙莉莲 (Sousou no Frieren) (Season 2) (Mainland Mand...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sousou-no-frieren-season-2-mainland-mandarin-chinese.n2103948) • [🐱 Nyaa](https://nyaa.si/?q=OYIV5PPFHWMBMYCGTRX4L74M3HKANAHT) |
+| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Or...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-megami-isekai-tensei-nani-ni-naritai-desu.n2103944) • [🐱 Nyaa](https://nyaa.si/?q=BAUKDONNQQWC2TVYVCI7NSJH2QMLCRHR) |
+| `[Erai-raws] Marriagetoxin - 04 [1080p CR WEBRip HEVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-marriagetoxin-04-1080p-cr-webrip-hevc.k10678924670976) • [🐱 Nyaa](https://nyaa.si/?q=X25O7CEXYD5RPZ2VK4LCZKOPDF2WY5QZ) |
+| `[ASW] Yuusha no Rokkotsu de - 04 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-rokkotsu-de-04-1080p-hevc.n2103938) • [🐱 Nyaa](https://nyaa.si/?q=3GJVRZIQLUCRBJHQA67KLUX67KEOOOUU) |
+| `[Gecko] Rilakkuma - S01E04 (リラックマ) [CTHP.WEB-DL 1080P AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-rilakkuma-s01e04-cthp-web-dl-1080p-avc.k10678770500102) • [🐱 Nyaa](https://nyaa.si/?q=WWSYMKYNA2WUCIFN4HXUP2KG5KHQL3X2) |
 | `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-higeki-no-genkyou-naru-saikyou-gedou.k10678236191744) • [🐱 Nyaa](https://nyaa.si/?q=7RNWJ3AM7XYNXPQORPVXAAEVQ35B64EO) |
 | `[ASW] Tadaima, Ojamasaremasu! - 04 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tadaima-ojamasaremasu-04-1080p-hevc-x265-10bit-aac.n2103929) • [🐱 Nyaa](https://nyaa.si/?q=TXHVM3WD2QIFGVC424GXEUOTHUKFSHVI) |
 | `My Ribdiculous Reincarnation S01E04 Vegetable-The Lock on...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/my-ribdiculous-reincarnation-s01e04-vegetable-lock-treasure.n2103928) • [🐱 Nyaa](https://nyaa.si/?q=52O6WR5NQQRV6PZNOH43GV3JRBA6KTNL) |
 | `[SubsPlease] Yuusha no Rokkotsu de - 04 (1080p) [236650DA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-rokkotsu-de-04-1080p-236650da-mkv.n2103925) • [🐱 Nyaa](https://nyaa.si/?q=5RLPHW6D7TWO2VTXJJLDRLN5B4KZUKXQ) |
-| `[ToonsHub] My Ribdiculous Reincarnation S01E04 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-my-ribdiculous-reincarnation-s01e04-1080p-cr-web.k10677762645763) • [🐱 Nyaa](https://nyaa.si/?q=OGG4LJ55QXUOHUS3VSK7ODOWNCGFNFFO) |
-| `[SubsPlease] Yuusha no Rokkotsu de - 04 (720p) [9447F60E]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-rokkotsu-de-04-720p-9447f60e-mkv.n2103923) • [🐱 Nyaa](https://nyaa.si/?q=76QUQFCBT7HLJWG7GX72WI3ISGHNDO3X) |
-| `[SubsPlease] Yuusha no Rokkotsu de - 04 (480p) [4E3A7BC7]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-rokkotsu-de-04-480p-4e3a7bc7-mkv.n2103922) • [🐱 Nyaa](https://nyaa.si/?q=PBV6MT2VWE63V7HNXNUVNDJOZJZTKZZ6) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.n2103920) • [🐱 Nyaa](https://nyaa.si/?q=IELM7NAAKWMN5TERV77VZR2OBNP6WKHO) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.n2103919) • [🐱 Nyaa](https://nyaa.si/?q=PTGX4RNQVYENVKOL3R4TZMVYJLOWCDCS) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.n2103918) • [🐱 Nyaa](https://nyaa.si/?q=ZA7WOEFUX6KCWD6A6ABNWOG4KPYGS6BY) |
-| `[Onalrie] Tadaima, Ojamasaremasu! - S01E04 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-tadaima-ojamasaremasu-s01e04-1080p-webrip-av1-mkv.2077461) • [🐱 Nyaa](https://nyaa.si/?q=NCV2GUZ4BD4TBPTMK4SUXDI5SGR7SJYB) |
-| `[Erai-raws] Hidarikiki no Eren - 04 [1080p CR WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-04-1080p-cr.k10677648452872) • [🐱 Nyaa](https://nyaa.si/?q=SP4ASF2YQFKYH3FWB5KJ26HB6ZSFJJZV) |
-| `MARRIAGETOXIN S01E01 The Poison Masters Search for a Brid...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/marriagetoxin-s01e01-poison-masters-search-bride-1080p-cr.n2103911) • [🐱 Nyaa](https://nyaa.si/?q=HTX3555CRZRIP3DXINTJPRXG4PQ7LEVE) |
-| `MARRIAGETOXIN S01E04 The Sound Master 1080p CR WEB-DL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/marriagetoxin-s01e04-sound-master-1080p-cr-web-dl.n2103910) • [🐱 Nyaa](https://nyaa.si/?q=SHL572W4SJXWX27YQKMXXFW4BI5B75LW) |
-| `Pardon the Intrusion Im Home S01E04 I Dont Have Writers B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pardon-intrusion-im-home-s01e04-dont-writers-block.n2103909) • [🐱 Nyaa](https://nyaa.si/?q=5QLQA7WYTVU37CHFZ4BCC7R6RNVDUI62) |
 
 ---
 <div align="center">
