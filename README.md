@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.25.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.57.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Walking the Way all alone S01E05 1080p BILI WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/walking-way-all-alone-s01e05-1080p-bili-web.n2104026) • [🐱 Nyaa](https://nyaa.si/?q=NI226GYAP6H2JUVROPMTIGAGNUZUNITN) |
+| `[ToonsHub] Walking the Way all alone S01E05 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e05-1080p-bili.n2104025) • [🐱 Nyaa](https://nyaa.si/?q=EYV6TYV5CHPXN7XEEZZFJ4ATRG6U3F4C) |
+| `[Kuraze] ダークキャット / Dark Cat (DVD 710x480 H264 Hi10p AC3 v2)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kuraze-dark-cat-dvd-710x480-h264-hi10p-ac3-v2.n2104024) • [🐱 Nyaa](https://nyaa.si/?q=PABJPC2CLI3QPDWEI544EUPOJSZY657S) |
+| `[Chihiro] Rock wa Lady no Tashinami deshite - 09 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-rock-wa-lady-no-tashinami-deshite-09.n2104004) • [🐱 Nyaa](https://nyaa.si/?q=NPRYRY62LSCCE5AYQABSOLWCR4WFZYWH) |
 | `[Inka-Subs] Akuma-kun (1989) - Episode 29` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/inka-subs-akuma-kun-1989-episode-29.n2103991) • [🐱 Nyaa](https://nyaa.si/?q=KIVXWSFWRL2AKVDBNNSQPCDENWQ66AWF) |
 | `Kino s Journey The Beautiful World The Animated Series S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kino-s-journey-beautiful-world-animated-series-s01.n2103986) • [🐱 Nyaa](https://nyaa.si/?q=HZC4IA7XDWRQBLIAGUMGN6HDUIT7TLF3) |
 | `For Whom The Alchemist Exists 2019 SUBFRENCH 1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/whom-alchemist-exists-2019-subfrench-1080p-cr-web.n2103984) • [🐱 Nyaa](https://nyaa.si/?q=67WPBI5S534AJ7A5OPXLAVU6KJFMZMPI) |
@@ -39,10 +43,6 @@
 | `[SubsPlease] Seihantai na Kimi to Boku (01-12) (720p) [Ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-01-12-720p-batch.n2103967) • [🐱 Nyaa](https://nyaa.si/?q=BUQGVI5L6MGLOKFJVM7FX6ESPBKWOC2Z) |
 | `[SubsPlease] Seihantai na Kimi to Boku (01-12) (480p) [Ba...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-seihantai-na-kimi-boku-01-12-480p-batch.n2103966) • [🐱 Nyaa](https://nyaa.si/?q=IBC4LS3T76VEVKWBVV32FDZWEIJC2LM7) |
 | `[Onalrie] Yuusha no Rokkotsu de - S01E04 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-rokkotsu-de-s01e04-1080p-webrip-av1-mkv.2077503) • [🐱 Nyaa](https://nyaa.si/?q=VSJID4MVIDRRC3D7FS7KMB5YPSUDQGTP) |
-| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2103965) • [🐱 Nyaa](https://nyaa.si/?q=SZ2VIKMOCVLAPMXC76RDI3LJUOJBSWE5) |
-| `Cardfight!! Vanguard 15th Anniversary Remastered S01E02 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniversary-remastered-s01e02-webdl.n2103963) • [🐱 Nyaa](https://nyaa.si/?q=NP5NPHR3WC54M5FWSCSUNVPYLIPW2W4I) |
-| `Cardfight!! Vanguard 15th Anniversary Remastered S01E01 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniversary-remastered-s01e01-webdl.n2103962) • [🐱 Nyaa](https://nyaa.si/?q=ER4RF3Y4XWZM3ZW5RWGKHJXJ2YEO3JYN) |
-| `[Kaleido-mini] Liar Game (2026) - 03v2 (S01E03) - (WEB 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-03v2-s01e03-web.n2103961) • [🐱 Nyaa](https://nyaa.si/?q=Y5DQBDP2CJPVCEIILJF33O2GRVEKH62D) |
 
 ---
 <div align="center">
