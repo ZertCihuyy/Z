@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.13.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.33.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Dorohedoro Season 2 - 07 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-07-1080p-cr.n2104396) • [🐱 Nyaa](https://nyaa.si/?q=UORHBKZ3ALZL7ZQ4WQ6P2LILRW6JRDZR) |
+| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2104394) • [🐱 Nyaa](https://nyaa.si/?q=LYLKHMX7GOWCQYJW53LVXJA42LTAZ7IC) |
 | `[DKB] Kanojo, Okarishimasu - S05E04 [1080p][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanojo-okarishimasu-s05e04-1080p-hevc-x265-10bit.n2104393) • [🐱 Nyaa](https://nyaa.si/?q=7VFGSXVYITGRWBUTI63RRVRIZ7MW4ZYN) |
 | `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-saikyou-no-ousama-nidome-jinsei-wa-nani.n2104392) • [🐱 Nyaa](https://nyaa.si/?q=LFXNYADPWZ2RV67CT5JF3LEKETKJSTJY) |
 | `[Anime Time] Dorohedoro - S02E07 [1080p][HEVC 10bit x265]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-dorohedoro-s02e07-1080p-hevc-10bit-x265.n2104391) • [🐱 Nyaa](https://nyaa.si/?q=DMLQ2IIO65SFW5M7QEZE3ZA4B6L654EM) |
@@ -41,8 +43,6 @@
 | `[ASW] Ganbare! Nakamura-kun!! - 06 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ganbare-nakamura-kun-06-1080p-hevc-x265-10bit-aac.n2104363) • [🐱 Nyaa](https://nyaa.si/?q=P7NPUVYNNVYSP4HZFHTBPNIIRGE5ATYV) |
 | `[FBI] Re:Zero Starting Life in Another World - S04E04 (CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fbi-re-zero-starting-life-another-world-s04e04.n2104362) • [🐱 Nyaa](https://nyaa.si/?q=VESZSXJFRB3MN5ETZRVMHR7W7V2QFJ54) |
 | `[Noiy] Psychic School Wars (2012) v2 (BDRip 1080p HEVC Op...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/noiy-psychic-school-wars-2012-v2-bdrip-1080p.k10699830519562) • [🐱 Nyaa](https://nyaa.si/?q=NKKWMN4UNRQL5HJPBGIRDQWE6CA4KL2C) |
-| `[ASW] Nigetsuri - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-nigetsuri-05-1080p-hevc-x265-10bit-aac.n2104358) • [🐱 Nyaa](https://nyaa.si/?q=5WWRYO66Q7WIGNBLUVBPQFXNVWI36BF2) |
-| `[Judas] Saikyou no Ousama, Nidome no Jinsei wa Nani o Sur...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-saikyou-no-ousama-nidome-jinsei-wa-nani.n2104356) • [🐱 Nyaa](https://nyaa.si/?q=KCJ6JDUD3QPS4FUCRQAMSJJR5YCMEWPF) |
 
 ---
 <div align="center">
