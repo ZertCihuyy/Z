@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.39.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.25.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Inka-Subs] Akuma-kun (1989) - Episode 29` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/inka-subs-akuma-kun-1989-episode-29.n2103991) • [🐱 Nyaa](https://nyaa.si/?q=KIVXWSFWRL2AKVDBNNSQPCDENWQ66AWF) |
+| `Kino s Journey The Beautiful World The Animated Series S0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kino-s-journey-beautiful-world-animated-series-s01.n2103986) • [🐱 Nyaa](https://nyaa.si/?q=HZC4IA7XDWRQBLIAGUMGN6HDUIT7TLF3) |
+| `For Whom The Alchemist Exists 2019 SUBFRENCH 1080p CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/whom-alchemist-exists-2019-subfrench-1080p-cr-web.n2103984) • [🐱 Nyaa](https://nyaa.si/?q=67WPBI5S534AJ7A5OPXLAVU6KJFMZMPI) |
 | `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.k10681942122760) • [🐱 Nyaa](https://nyaa.si/?q=VCAQSCE4PUX7QRXXBYAW6KWXO3NNK24C) |
 | `[SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi (01-12) (10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-01-12-1080p-batch.n2103971) • [🐱 Nyaa](https://nyaa.si/?q=JBIIBKS6JBUOS3JHZHNC6EFIEQEJHU2K) |
 | `[SubsPlease] Hikuidori - Ushuu Boro Tobi-gumi (01-12) (72...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hikuidori-ushuu-boro-tobi-gumi-01-12-720p-batch.n2103970) • [🐱 Nyaa](https://nyaa.si/?q=XNORQZLMNXI2XNIHMGR7IHXSR4ADK4DW) |
@@ -40,9 +43,6 @@
 | `Cardfight!! Vanguard 15th Anniversary Remastered S01E02 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniversary-remastered-s01e02-webdl.n2103963) • [🐱 Nyaa](https://nyaa.si/?q=NP5NPHR3WC54M5FWSCSUNVPYLIPW2W4I) |
 | `Cardfight!! Vanguard 15th Anniversary Remastered S01E01 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniversary-remastered-s01e01-webdl.n2103962) • [🐱 Nyaa](https://nyaa.si/?q=ER4RF3Y4XWZM3ZW5RWGKHJXJ2YEO3JYN) |
 | `[Kaleido-mini] Liar Game (2026) - 03v2 (S01E03) - (WEB 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-mini-liar-game-2026-03v2-s01e03-web.n2103961) • [🐱 Nyaa](https://nyaa.si/?q=Y5DQBDP2CJPVCEIILJF33O2GRVEKH62D) |
-| `[Kaleido-subs] Liar Game (2026) - 03v2 (S01E03) - (WEB 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kaleido-subs-liar-game-2026-03v2-s01e03-web.n2103960) • [🐱 Nyaa](https://nyaa.si/?q=LEVGGQTCNXN7T4VOSRZ265GVGKUEX4MQ) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 04 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-04-1080p-cr-webrip.k10679623234562) • [🐱 Nyaa](https://nyaa.si/?q=CTAYUO5JSRGAE3MLXZPGHNLFXLDF53JC) |
-| `[crane0922] Children of the Whales Season 1 (BD 1080p HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-children-whales-season-1-bd-1080p-hevc.k10679127672333) • [🐱 Nyaa](https://nyaa.si/?q=F23K75I3V53G3YZWC7R6EARFHXYGEBH3) |
 
 ---
 <div align="center">

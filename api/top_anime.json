@@ -1,5 +1,5 @@
 {
-  "last_update": "29/4/2026, 06.39.55",
+  "last_update": "29/4/2026, 08.25.53",
   "data": [
     {
       "mal_id": 61469,
@@ -976,7 +976,7 @@
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/zhJv7ieSuos?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/CbcJ_0XG_Sc?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -1035,10 +1035,10 @@
       "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.5,
-      "scored_by": 2940,
+      "scored_by": 2944,
       "rank": 168,
-      "popularity": 6967,
-      "members": 11105,
+      "popularity": 6968,
+      "members": 11121,
       "favorites": 360,
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "background": "",
@@ -1388,24 +1388,24 @@
       ]
     },
     {
-      "mal_id": 51039,
-      "url": "https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan",
+      "mal_id": 56524,
+      "url": "https://myanimelist.net/anime/56524/Tunshi_Xingkong_4th_Season",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1419/126374.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1419/126374t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1419/126374l.jpg"
+          "image_url": "https://myanimelist.net/images/anime/1335/138907.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1335/138907t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1335/138907l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1419/126374.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1419/126374t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1419/126374l.webp"
+          "image_url": "https://myanimelist.net/images/anime/1335/138907.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1335/138907t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1335/138907l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/9t5budkJ9n0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/vg6QaCm-tmc?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -1418,55 +1418,45 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Doupo Cangqiong: Nian Fan"
+          "title": "Tunshi Xingkong 4th Season"
         },
         {
           "type": "Synonym",
-          "title": "BTTH"
+          "title": "吞噬星空 宇宙篇"
         },
         {
           "type": "Synonym",
-          "title": "Battle Through The Heavens 5th"
-        },
-        {
-          "type": "Synonym",
-          "title": "6th"
-        },
-        {
-          "type": "Synonym",
-          "title": "7th & 8th Seasons"
+          "title": "Tunshi Xingkong: Yuzhou Pian"
         },
         {
           "type": "Japanese",
-          "title": "斗破苍穹年番"
+          "title": "吞噬星空 第四季"
         },
         {
           "type": "English",
-          "title": "Battle Through The Heavens Season 5"
+          "title": "Swallowed Star 4th Season"
         }
       ],
-      "title": "Doupo Cangqiong: Nian Fan",
-      "title_english": "Battle Through The Heavens Season 5",
-      "title_japanese": "斗破苍穹年番",
+      "title": "Tunshi Xingkong 4th Season",
+      "title_english": "Swallowed Star 4th Season",
+      "title_japanese": "吞噬星空 第四季",
       "title_synonyms": [
-        "BTTH",
-        "Battle Through The Heavens 5th",
-        "6th",
-        "7th & 8th Seasons"
+        "吞噬星空 宇宙篇",
+        "Tunshi Xingkong: Yuzhou Pian"
       ],
       "type": "ONA",
       "source": "Web novel",
-      "episodes": 209,
+      "episodes": 175,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
-        "from": "2022-07-31T00:00:00+00:00",
+        "from": "2023-10-03T00:00:00+00:00",
         "to": null,
         "prop": {
           "from": {
-            "day": 31,
-            "month": 7,
-            "year": 2022
+            "day": 3,
+            "month": 10,
+            "year": 2023
           },
           "to": {
             "day": null,
@@ -1474,17 +1464,17 @@
             "year": null
           }
         },
-        "string": "Jul 31, 2022 to ?"
+        "string": "Oct 3, 2023 to ?"
       },
-      "duration": "24 min per ep",
+      "duration": "21 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.36,
-      "scored_by": 4242,
-      "rank": 262,
-      "popularity": 6656,
-      "members": 12355,
-      "favorites": 403,
-      "synopsis": "Fifth season of Doupo Cangqiong.",
+      "score": 8.37,
+      "scored_by": 2123,
+      "rank": 261,
+      "popularity": 8929,
+      "members": 6013,
+      "favorites": 167,
+      "synopsis": "Fourth season of Tunshi Xingkong.",
       "background": "",
       "season": null,
       "year": null,
@@ -1500,27 +1490,15 @@
           "type": "anime",
           "name": "Tencent Video",
           "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
-        },
-        {
-          "mal_id": 1728,
-          "type": "anime",
-          "name": "China Literature Limited",
-          "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
-        },
-        {
-          "mal_id": 2466,
-          "type": "anime",
-          "name": "Wanda Cinemas",
-          "url": "https://myanimelist.net/anime/producer/2466/Wanda_Cinemas"
         }
       ],
       "licensors": [],
       "studios": [
         {
-          "mal_id": 1827,
+          "mal_id": 1768,
           "type": "anime",
-          "name": "Motion Magic",
-          "url": "https://myanimelist.net/anime/producer/1827/Motion_Magic"
+          "name": "Sparkly Key Animation Studio",
+          "url": "https://myanimelist.net/anime/producer/1768/Sparkly_Key_Animation_Studio"
         }
       ],
       "genres": [
@@ -1541,16 +1519,16 @@
           "type": "anime",
           "name": "Fantasy",
           "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
         }
       ],
       "explicit_genres": [],
       "themes": [
-        {
-          "mal_id": 13,
-          "type": "anime",
-          "name": "Historical",
-          "url": "https://myanimelist.net/anime/genre/13/Historical"
-        },
         {
           "mal_id": 17,
           "type": "anime",
