@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.42.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.10.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gecko] Cat Tales - S01E29 (うごく！ねこむかしばなし; Ugoku! Neko Muk...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e29-ugoku-neko-mukashibanashi-ytb.n2104089) • [🐱 Nyaa](https://nyaa.si/?q=2CHW2X5F4U6IEIDZKUVLCPVSFOLX4P4W) |
-| `[ToonsHub] Cat Tales S01E29 1080p LNTV WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-cat-tales-s01e29-1080p-lntv-web-dl.n2104088) • [🐱 Nyaa](https://nyaa.si/?q=234ZOGXGPLC74YOOBB2M4UTQ6FN6PNYX) |
-| `[cappybara] Marriage Toxin - S01E03 (WEB 1080p HEVC AAC).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cappybara-marriage-toxin-s01e03-web-1080p-hevc-aac-mkv.k10692548281858) • [🐱 Nyaa](https://nyaa.si/?q=CPTKATTEC6O67TB2ZNDEPVGZDBYLDBWH) |
-| `[cappybara] Marriage Toxin - S01E02 (WEB 1080p HEVC AAC).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cappybara-marriage-toxin-s01e02-web-1080p-hevc-aac-mkv.k10692512494084) • [🐱 Nyaa](https://nyaa.si/?q=OOETD5GZZKGVQ2OWKD3XP4M5VSVGMPOO) |
-| `[SavI0r] Mono [BD][1080p][AV1][OPUS][Multi Dual Audio]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-mono-bd-1080p-av1-opus-multi-dual-audio.n2104064) • [🐱 Nyaa](https://nyaa.si/?q=ZAVP76QHV3KYOYH7CGCMDR7DPLIP75Y2) |
-| `Konosuba-Legend Of Crimson BD-Remux` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/konosuba-legend-crimson-bd-remux.n2104063) • [🐱 Nyaa](https://nyaa.si/?q=FIOZR2G5ONOIEEQBB457XUJDENDW223M) |
-| `[SavI0r-Pro] Hibi wa Sugiredo Meshi Umashi (Food for the ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-pro-hibi-wa-sugiredo-meshi-umashi-food.n2104062) • [🐱 Nyaa](https://nyaa.si/?q=G6BRVYXL3SHVHYLHMRVN6UTSFREUD3RS) |
-| `[SavI0r] Hibi wa Sugiredo Meshi Umashi (Food for the Soul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-hibi-wa-sugiredo-meshi-umashi-food-soul.n2104061) • [🐱 Nyaa](https://nyaa.si/?q=YZZPURXXKBR5DODFSEA3WHBXUENFYQCN) |
-| `[SavI0r-Pro] Mono [BD][1080p][AV1][OPUS][Multi Dual Audio]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-pro-mono-bd-1080p-av1-opus-multi-dual-audio.n2104059) • [🐱 Nyaa](https://nyaa.si/?q=AT23KB7VQ5KXE7EGFIICUJOLHNABNIGI) |
-| `[SavI0r] Kanojo ga Koushaku-tei ni Itta Riyuu (Why Raelia...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-kanojo-ga-koushaku-tei-ni-itta-riyuu.n2104058) • [🐱 Nyaa](https://nyaa.si/?q=HSDAOBMV5RPU4Q7ANLM4JZ4N62LMIEZW) |
-| `[BlackRose] Spy x Family Code White (2023) (BD Remux 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrose-spy-x-family-code-white-2023-bd.k10690078796802) • [🐱 Nyaa](https://nyaa.si/?q=HUUFUVYBJCSDTFFYX672OKJAYRLTNHHN) |
-| `[LbE3L] My Hero Academia. Vigilantes S02 CR [1080p WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-my-hero-academia-vigilantes-s02-cr-1080p.k10689854662657) • [🐱 Nyaa](https://nyaa.si/?q=2HVK2MUAEIBHKDC2M7M7QHC3H25LMNPX) |
-| `[LbE3L] [H.266] My Hero Academia. Vigilantes S02 CR [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-my-hero-academia-vigilantes-s02.k10689789690625) • [🐱 Nyaa](https://nyaa.si/?q=6EQDUZ6CL7NUNCLSKYEQDVW2IGOW2KNZ) |
-| `[LbE3L] Tougen Anki S01E13–E16 [1080p CUSTOM WEBRip AV1 O...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-tougen-anki-s01e13e16-1080p-custom-webrip-av1.k10689504383503) • [🐱 Nyaa](https://nyaa.si/?q=BDSUCP2ONGUA2IXGVGEKTYTNNEKLZGMQ) |
-| `[LbE3L] Witch Hat Atelier S01E01 [1080p CUSTOM WEBRip AV1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-witch-hat-atelier-s01e01-1080p-custom-webrip.k10688937716224) • [🐱 Nyaa](https://nyaa.si/?q=JTPMAX74ZPEOEWAQUW4ZLFEUVJONLVPQ) |
+| `[VARYG] Rent a Girlfriend S05E02 Rental Girlfriend 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-rent-girlfriend-s05e02-rental-1080p-cr-web.k10695241494029) • [🐱 Nyaa](https://nyaa.si/?q=6SELJ2SZIBRJH25RVWWQVGQAI7XOMG7F) |
+| `[VARYG] Rent a Girlfriend S05E04 Climax and Girlfriend 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-rent-girlfriend-s05e04-climax-1080p-cr-web.k10695233717508) • [🐱 Nyaa](https://nyaa.si/?q=OJQMXRCJBHHJ46TFPZ4RKT2F2VEYGMSY) |
+| `[Onalrie] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.2077633) • [🐱 Nyaa](https://nyaa.si/?q=ZRO5EALTDJAAPMUHI7QIE6YQM5VZT22Q) |
+| `[ToonsHub] Rent-a-Girlfriend S05E02 1080p CR WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rent-girlfriend-s05e02-1080p-cr-web-dl.k10695202803724) • [🐱 Nyaa](https://nyaa.si/?q=OBHI2KF5DIP2PNJ5KCLF5BKZ3YUQEUL5) |
+| `[ToonsHub] Rent-a-Girlfriend S05E04 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rent-girlfriend-s05e04-1080p-cr-web-dl.k10695201937155) • [🐱 Nyaa](https://nyaa.si/?q=EXAGRQPGRN3WITVCU6EQF7DQWC4KAFRB) |
+| `[SubsPlease] Kanojo, Okarishimasu - 52 (1080p) [DE2FEFF3]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanojo-okarishimasu-52-1080p-de2feff3-mkv.n2104128) • [🐱 Nyaa](https://nyaa.si/?q=KPSLCRBVVFUQEWWRFSZP4TNW4SENZF4C) |
+| `[SubsPlease] Kanojo, Okarishimasu - 52 (720p) [A11CCAD6].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanojo-okarishimasu-52-720p-a11ccad6-mkv.n2104125) • [🐱 Nyaa](https://nyaa.si/?q=3RSMKGN3D72KP7LHDNQSCNOD22KS4ADV) |
+| `[SubsPlease] Kanojo, Okarishimasu - 52 (480p) [EB47A1F8].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanojo-okarishimasu-52-480p-eb47a1f8-mkv.n2104124) • [🐱 Nyaa](https://nyaa.si/?q=EALIZA2K7WDWLE6MQZL7S2VHBBV25OUM) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 04 [480p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-04-480p.n2104122) • [🐱 Nyaa](https://nyaa.si/?q=NBOBQ5KV7BFP4RBNEM5QUJRCU7VGBJN7) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 04 [720p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-04-720p.n2104120) • [🐱 Nyaa](https://nyaa.si/?q=QB4AIDNS5QLSHAH5I5MGQMDEEFUKFRPO) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 04 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-04-1080p.n2104119) • [🐱 Nyaa](https://nyaa.si/?q=C4UZPFNP3FMBHMIOOFWENNDQFIPELS32) |
+| `[Yameii] Classroom of the Elite - S04E06 [English Dub] [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-classroom-elite-s04e06-english-dub-cr-web.k10694849949184) • [🐱 Nyaa](https://nyaa.si/?q=T5V22KJAKEY6WOHWMG74BVX3CS2P2KF7) |
+| `[ToonsHub] Classroom of the Elite S04E06 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-elite-s04e06-1080p-cr-web-dl.n2104114) • [🐱 Nyaa](https://nyaa.si/?q=QBVQG6B7A7THSPCFS3O3SUHVO5MBDB3D) |
+| `Classroom of the Elite S04E08 What the Dragons are Watchi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-elite-s04e08-dragons-watching-1080p-bili-web.n2104113) • [🐱 Nyaa](https://nyaa.si/?q=B5AD27R2FBHEPKHNXON22M2NKJGZRGXZ) |
+| `Classroom of the Elite S04E06 A Tumultuous Scramble 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-elite-s04e06-tumultuous-scramble-1080p-cr-web.n2104112) • [🐱 Nyaa](https://nyaa.si/?q=57H3R35NGWCCBSMHYWQ2YI6TDGKBDEXM) |
 
 ---
 <div align="center">
