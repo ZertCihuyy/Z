@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.51.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.42.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Cat Tales - S01E29 (うごく！ねこむかしばなし; Ugoku! Neko Muk...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e29-ugoku-neko-mukashibanashi-ytb.n2104089) • [🐱 Nyaa](https://nyaa.si/?q=2CHW2X5F4U6IEIDZKUVLCPVSFOLX4P4W) |
+| `[ToonsHub] Cat Tales S01E29 1080p LNTV WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-cat-tales-s01e29-1080p-lntv-web-dl.n2104088) • [🐱 Nyaa](https://nyaa.si/?q=234ZOGXGPLC74YOOBB2M4UTQ6FN6PNYX) |
+| `[cappybara] Marriage Toxin - S01E03 (WEB 1080p HEVC AAC).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cappybara-marriage-toxin-s01e03-web-1080p-hevc-aac-mkv.k10692548281858) • [🐱 Nyaa](https://nyaa.si/?q=CPTKATTEC6O67TB2ZNDEPVGZDBYLDBWH) |
+| `[cappybara] Marriage Toxin - S01E02 (WEB 1080p HEVC AAC).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cappybara-marriage-toxin-s01e02-web-1080p-hevc-aac-mkv.k10692512494084) • [🐱 Nyaa](https://nyaa.si/?q=OOETD5GZZKGVQ2OWKD3XP4M5VSVGMPOO) |
 | `[SavI0r] Mono [BD][1080p][AV1][OPUS][Multi Dual Audio]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-mono-bd-1080p-av1-opus-multi-dual-audio.n2104064) • [🐱 Nyaa](https://nyaa.si/?q=ZAVP76QHV3KYOYH7CGCMDR7DPLIP75Y2) |
 | `Konosuba-Legend Of Crimson BD-Remux` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/konosuba-legend-crimson-bd-remux.n2104063) • [🐱 Nyaa](https://nyaa.si/?q=FIOZR2G5ONOIEEQBB457XUJDENDW223M) |
 | `[SavI0r-Pro] Hibi wa Sugiredo Meshi Umashi (Food for the ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-pro-hibi-wa-sugiredo-meshi-umashi-food.n2104062) • [🐱 Nyaa](https://nyaa.si/?q=G6BRVYXL3SHVHYLHMRVN6UTSFREUD3RS) |
@@ -39,10 +43,6 @@
 | `[LbE3L] [H.266] My Hero Academia. Vigilantes S02 CR [1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-my-hero-academia-vigilantes-s02.k10689789690625) • [🐱 Nyaa](https://nyaa.si/?q=6EQDUZ6CL7NUNCLSKYEQDVW2IGOW2KNZ) |
 | `[LbE3L] Tougen Anki S01E13–E16 [1080p CUSTOM WEBRip AV1 O...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-tougen-anki-s01e13e16-1080p-custom-webrip-av1.k10689504383503) • [🐱 Nyaa](https://nyaa.si/?q=BDSUCP2ONGUA2IXGVGEKTYTNNEKLZGMQ) |
 | `[LbE3L] Witch Hat Atelier S01E01 [1080p CUSTOM WEBRip AV1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-witch-hat-atelier-s01e01-1080p-custom-webrip.k10688937716224) • [🐱 Nyaa](https://nyaa.si/?q=JTPMAX74ZPEOEWAQUW4ZLFEUVJONLVPQ) |
-| `[LbE3L] [H.266] Witch Hat Atelier S01E01 [1080p CUSTOM WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-witch-hat-atelier-s01e01-1080p.k10688887331852) • [🐱 Nyaa](https://nyaa.si/?q=ZMYC6TYZA4NCKQRLGFQKCXP3KKA6UGG7) |
-| `[BlackRabbit] GATE (2015) - S01 [Bluray-1080p][Opus 2.0][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-gate-2015-s01-bluray-1080p-opus-2.k10688687516160) • [🐱 Nyaa](https://nyaa.si/?q=B65PWCSVPCPDJCHIO2YXVFQXQCRB7EBJ) |
-| `[Tasokare] Saekano: How to Raise a Boring Girlfriend S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-saekano-raise-boring-girlfriend-s01-bd-1080p.k10688585376009) • [🐱 Nyaa](https://nyaa.si/?q=KPEHL26H7AHK2JOE5BIIMODCBSE2JFM6) |
-| `[Kawatare] Saekano: How to Raise a Boring Girlfriend S01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-saekano-raise-boring-girlfriend-s01-bd-1080p.k10688582893839) • [🐱 Nyaa](https://nyaa.si/?q=SQXG5765XMFF5BMMZ56LAAJDD5IGWC7Q) |
 
 ---
 <div align="center">
