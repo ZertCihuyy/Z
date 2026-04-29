@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.10.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.29.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] Rent a Girlfriend S05E02 Rental Girlfriend 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-rent-girlfriend-s05e02-rental-1080p-cr-web.k10695241494029) • [🐱 Nyaa](https://nyaa.si/?q=6SELJ2SZIBRJH25RVWWQVGQAI7XOMG7F) |
-| `[VARYG] Rent a Girlfriend S05E04 Climax and Girlfriend 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-rent-girlfriend-s05e04-climax-1080p-cr-web.k10695233717508) • [🐱 Nyaa](https://nyaa.si/?q=OJQMXRCJBHHJ46TFPZ4RKT2F2VEYGMSY) |
-| `[Onalrie] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.2077633) • [🐱 Nyaa](https://nyaa.si/?q=ZRO5EALTDJAAPMUHI7QIE6YQM5VZT22Q) |
-| `[ToonsHub] Rent-a-Girlfriend S05E02 1080p CR WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rent-girlfriend-s05e02-1080p-cr-web-dl.k10695202803724) • [🐱 Nyaa](https://nyaa.si/?q=OBHI2KF5DIP2PNJ5KCLF5BKZ3YUQEUL5) |
-| `[ToonsHub] Rent-a-Girlfriend S05E04 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rent-girlfriend-s05e04-1080p-cr-web-dl.k10695201937155) • [🐱 Nyaa](https://nyaa.si/?q=EXAGRQPGRN3WITVCU6EQF7DQWC4KAFRB) |
-| `[SubsPlease] Kanojo, Okarishimasu - 52 (1080p) [DE2FEFF3]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanojo-okarishimasu-52-1080p-de2feff3-mkv.n2104128) • [🐱 Nyaa](https://nyaa.si/?q=KPSLCRBVVFUQEWWRFSZP4TNW4SENZF4C) |
-| `[SubsPlease] Kanojo, Okarishimasu - 52 (720p) [A11CCAD6].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanojo-okarishimasu-52-720p-a11ccad6-mkv.n2104125) • [🐱 Nyaa](https://nyaa.si/?q=3RSMKGN3D72KP7LHDNQSCNOD22KS4ADV) |
-| `[SubsPlease] Kanojo, Okarishimasu - 52 (480p) [EB47A1F8].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanojo-okarishimasu-52-480p-eb47a1f8-mkv.n2104124) • [🐱 Nyaa](https://nyaa.si/?q=EALIZA2K7WDWLE6MQZL7S2VHBBV25OUM) |
-| `[Erai-raws] Kanojo Okarishimasu 5th Season - 04 [480p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-04-480p.n2104122) • [🐱 Nyaa](https://nyaa.si/?q=NBOBQ5KV7BFP4RBNEM5QUJRCU7VGBJN7) |
-| `[Erai-raws] Kanojo Okarishimasu 5th Season - 04 [720p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-04-720p.n2104120) • [🐱 Nyaa](https://nyaa.si/?q=QB4AIDNS5QLSHAH5I5MGQMDEEFUKFRPO) |
-| `[Erai-raws] Kanojo Okarishimasu 5th Season - 04 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-04-1080p.n2104119) • [🐱 Nyaa](https://nyaa.si/?q=C4UZPFNP3FMBHMIOOFWENNDQFIPELS32) |
-| `[Yameii] Classroom of the Elite - S04E06 [English Dub] [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-classroom-elite-s04e06-english-dub-cr-web.k10694849949184) • [🐱 Nyaa](https://nyaa.si/?q=T5V22KJAKEY6WOHWMG74BVX3CS2P2KF7) |
-| `[ToonsHub] Classroom of the Elite S04E06 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-classroom-elite-s04e06-1080p-cr-web-dl.n2104114) • [🐱 Nyaa](https://nyaa.si/?q=QBVQG6B7A7THSPCFS3O3SUHVO5MBDB3D) |
-| `Classroom of the Elite S04E08 What the Dragons are Watchi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-elite-s04e08-dragons-watching-1080p-bili-web.n2104113) • [🐱 Nyaa](https://nyaa.si/?q=B5AD27R2FBHEPKHNXON22M2NKJGZRGXZ) |
-| `Classroom of the Elite S04E06 A Tumultuous Scramble 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-elite-s04e06-tumultuous-scramble-1080p-cr-web.n2104112) • [🐱 Nyaa](https://nyaa.si/?q=57H3R35NGWCCBSMHYWQ2YI6TDGKBDEXM) |
+| `[Erai-raws] Re:Zero kara Hajimeru Isekai Seikatsu 4th Sea...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-re-zero-kara-hajimeru-isekai-seikatsu.k10697182044686) • [🐱 Nyaa](https://nyaa.si/?q=MQM2OBITA7XEQXXQYSPNRVQLJEHE7OQA) |
+| `[Onalrie] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu w...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu.2077654) • [🐱 Nyaa](https://nyaa.si/?q=BCVM6IVBNHDRTK47C2YZBDBH6GVBWWBY) |
+| `Reborn as a Vending Machine I Now Wander the Dungeon S03E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-vending-machine-now-wander-dungeon-s03e02-clam.n2104231) • [🐱 Nyaa](https://nyaa.si/?q=NA4NDGEMLAQD2HPOW2A2X77VOHB775ZJ) |
+| `[Judas] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Sa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jidouhanbaiki-ni-umarekawatta-ore-wa-meikyuu-o.n2104230) • [🐱 Nyaa](https://nyaa.si/?q=H6CFRZ5K24HFHDXWMMZS7IIUI7XJLEGU) |
+| `Rent a Girlfriend S05E01 Ex-Girlfriend Nanami Mami 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rent-girlfriend-s05e01-ex-nanami-mami-1080p-cr.n2104229) • [🐱 Nyaa](https://nyaa.si/?q=HT4WDR7RTWXL776F7HODSZALTXR3A5VZ) |
+| `[ToonsHub] Reborn as a Vending Machine I Now Wander the D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-vending-machine-now-wander-dungeon-s03e02.k10696918045453) • [🐱 Nyaa](https://nyaa.si/?q=M2KWVKJMJVK4U4WR3LKEOGB7ZHND4R7N) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 04 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-04-1080p.k10696894813964) • [🐱 Nyaa](https://nyaa.si/?q=6R5MBTN2DWDI6WHPYUJQACCHPFCKPWK5) |
+| `[Onalrie] Dorohedoro - S02E07 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dorohedoro-s02e07-1080p-webrip-av1-mkv.2077652) • [🐱 Nyaa](https://nyaa.si/?q=PHRN2QVMNMEEFINDRWEG4R5NULGPVCE7) |
+| `[ToonsHub] ReZERO -Starting Life in Another World- S04E04...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rezero-starting-life-another-world-s04e04-1080p.k10696682158863) • [🐱 Nyaa](https://nyaa.si/?q=YJUNUK4XW7JYREJWOTLF74IXX6NCDMAT) |
+| `Re ZERO Starting Life in Another World S04E04 A White Sky...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/re-zero-starting-life-another-world-s04e04-white.n2104214) • [🐱 Nyaa](https://nyaa.si/?q=6MSR3QS557PJ7IUBVBGZ5ARY3N3ZDPHP) |
+| `OSHI NO KO S03E05 Casting 1080p CR WEB-DL MULTi AAC2.0 H ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oshi-no-ko-s03e05-casting-1080p-cr-web.n2104212) • [🐱 Nyaa](https://nyaa.si/?q=743OFB57AYMQPPNTE4YC54EIRW6KJQPA) |
+| `[Yameii] Dorohedoro - S02E07 [English Dub] [CR WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dorohedoro-s02e07-english-dub-cr-web-dl.k10696427555334) • [🐱 Nyaa](https://nyaa.si/?q=HYLO2QLUZQNP6XLOWYXUIBUQ2VSNNPER) |
+| `[Yameii] Reborn as a Vending Machine, I Now Wander the Du...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-reborn-vending-machine-now-wander-dungeon-s03e03.k10696421301768) • [🐱 Nyaa](https://nyaa.si/?q=VHORKNLJKFTAM4635RHJI5LOWAUS647I) |
+| `[Yameii] Re:ZERO, Starting Life in Another World - S04E04...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-re-zero-starting-life-another-world-s04e04.k10696420439303) • [🐱 Nyaa](https://nyaa.si/?q=PZKXIBQY6KFMODKBPKQ3QXZI7A3JZPIY) |
+| `[Yameii] Oshi no Ko - S03E05 [English Dub] [CR WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-oshi-no-ko-s03e05-english-dub-cr.k10696419769867) • [🐱 Nyaa](https://nyaa.si/?q=47SWFJXY3QFPOB23LV7M6X35CRL7ZZZV) |
 
 ---
 <div align="center">
