@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.59.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.34.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Mo7tas] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-yuusha-party-ni-kawaii-ko-ga-ita.n2104458) • [🐱 Nyaa](https://nyaa.si/?q=F3CRKPSL6OGTZOUYS7O2WYMJG72GIECK) |
+| `(shiteater) Dr. Slump & Arale-chan 185 [B63CF233]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/shiteater-dr-slump-arale-chan-185-b63cf233.n2104455) • [🐱 Nyaa](https://nyaa.si/?q=F4RYM4CRFAALPP2WEO6K5IIGXA2LJESK) |
+| `[sam] Shoukoku no Altair [BD 1080p FLAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-shoukoku-no-altair-bd-1080p-flac.n2104448) • [🐱 Nyaa](https://nyaa.si/?q=6VTVRUVRMBYTCOWHIOM3C3LDGX4HEZHH) |
 | `[Gecko] Cat Tales - S01E29 (うごく！ねこむかしばなし; Ugoku! Neko Muk...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e29-ugoku-neko-mukashibanashi-cthp.k10708657222402) • [🐱 Nyaa](https://nyaa.si/?q=URWKBA54WU4NKBUQLTDVR63RFED4KQC2) |
 | `[Gecko] Candy Caries - S01E03 (キャンディーカリエス) [CTHP.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-candy-caries-s01e03-cthp-web-dl-1080p.k10708297041153) • [🐱 Nyaa](https://nyaa.si/?q=6HGGBFYF57IMDAKPXMKSVWNG2WFVVMEG) |
 | `[Gecko] Reborn as a Cat - S01E27 (为喵人生; Wei Miao Rensheng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e27-wei-miao-rensheng-bili.k10708105229569) • [🐱 Nyaa](https://nyaa.si/?q=7WGXGGJDNOUU4OFPOJ3JEDWE7HKM7VSE) |
@@ -40,9 +43,6 @@
 | `[torta] SANDA (Season 01) [BD 1080p][HEVC x265 10bit][Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/torta-sanda-season-01-bd-1080p-hevc-x265.n2104421) • [🐱 Nyaa](https://nyaa.si/?q=J62UBBJMDRBUCF7U7RPTAUIEBS2ERSWG) |
 | `[torta] Disney Twisted-Wonderland (Season 01) [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/torta-disney-twisted-wonderland-season-01-1080p-hevc.n2104420) • [🐱 Nyaa](https://nyaa.si/?q=BEMSRC4YUJ76FG7CMFU4KNN3P5QD4GLM) |
 | `[Chihiro] Rock wa Lady no Tashinami deshite - 10 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-rock-wa-lady-no-tashinami-deshite-10.n2104418) • [🐱 Nyaa](https://nyaa.si/?q=L2Y3NXKSUUNKB6WGKR7ME6HIPHTX7RIS) |
-| `[Erai-raws] Dorohedoro Season 2 - 07 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-07-1080p-nf.n2104414) • [🐱 Nyaa](https://nyaa.si/?q=YHREDS7PNURKZXXRVCDJBTB55XYGZNEU) |
-| `[Chika] Witch Hat Atelier - S01E05 (1080p WEB-DL H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chika-witch-hat-atelier-s01e05-1080p-web-dl.n2104412) • [🐱 Nyaa](https://nyaa.si/?q=P7NIZFJ2AYLOANDTTK4EPRPUUBEDKMZX) |
-| `[GetItTwisted] Samurai Girls S00E14-E19 [BD 1080p AVC Opu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/getittwisted-samurai-girls-s00e14-e19-bd-1080p-avc.k10703671785482) • [🐱 Nyaa](https://nyaa.si/?q=GPIWOHP3A6H2ERQ6WDNBODMUC7TN7VZC) |
 
 ---
 <div align="center">
