@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.23.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.58.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Kujima Utaeba Ie Hororo - S01E04 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kujima-utaeba-ie-hororo-s01e04-1080p-webrip-av1-mkv.2077850) • [🐱 Nyaa](https://nyaa.si/?q=WUQ3PM5QY4CQ6HAHRJXSASKD3L2I23YI) |
-| `[Judas] Dr Stone - Science Future - S04E29 [1080p][HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-dr-stone-science-future-s04e29-1080p-hevc.n2104577) • [🐱 Nyaa](https://nyaa.si/?q=C5CO7VTR5TGB3PCHI57OFERIM7U2HNUF) |
-| `[Onalrie] Dr. Stone - S04E29 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dr-stone-s04e29-1080p-webrip-av1-mkv.2077848) • [🐱 Nyaa](https://nyaa.si/?q=QFDC5JJ3TPMZMXMVGWRJOGHWMWEA225N) |
-| `[ToonsHub] I Want You To Show Me Your Panties With a Disg...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-want-show-me-your-panties-disgusted-face.n2104566) • [🐱 Nyaa](https://nyaa.si/?q=FIWBNWS6SIUPYZ7EBY7F4XAVMDCZQQBC) |
-| `[ToonsHub] Dr STONE S04E29 1080p CR WEB-DL MULTi AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e29-1080p-cr-web-dl.k10718618434823) • [🐱 Nyaa](https://nyaa.si/?q=QDFVX5TXY2NJ47VEFSEOBSMGKHMYLC66) |
-| `[ToonsHub] Dr STONE S04E29 1080p CR WEB-DL DUAL AAC2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e29-1080p-cr-web-dl.k10718563438080) • [🐱 Nyaa](https://nyaa.si/?q=CIGXJJPHKDP7PT7I3WPET6VUH2VZIVDE) |
-| `Dr STONE S04E29 The Truth About Rockets 1080p CR WEB-DL M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dr-stone-s04e29-truth-about-rockets-1080p-cr.n2104563) • [🐱 Nyaa](https://nyaa.si/?q=AZYDV442FI567NUBAIN4U5NHBFXIHXB3) |
-| `[ToonsHub] Kujima Why Sing When You Can Warble S01E04 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kujima-why-sing-when-warble-s01e04-1080p.k10718501458191) • [🐱 Nyaa](https://nyaa.si/?q=UOEVTSUUJOJU4MESXZS7RKSG7DWKY4WB) |
-| `[Yameii] Dr. Stone - S04E29 [English Dub] [CR WEB-DL 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dr-stone-s04e29-english-dub-cr-web.k10718365339398) • [🐱 Nyaa](https://nyaa.si/?q=JDLB5WYKLXWWRQNOH532F4P6HQJSX56A) |
-| `Kujima Why Sing When You Can Warble S01E04 The Bird from ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kujima-why-sing-when-warble-s01e04-bird-from.n2104556) • [🐱 Nyaa](https://nyaa.si/?q=WBQAEQGSCBHLMYAGWOQOSFEXCPC5UP3Z) |
-| `Dr STONE S04E29 The Truth About Rockets 1080p CR WEB-DL D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dr-stone-s04e29-truth-about-rockets-1080p-cr.n2104555) • [🐱 Nyaa](https://nyaa.si/?q=RQVYAA2HUFO7WTUI2GSARNUAGNQSNL2F) |
-| `[ToonsHub] Kujima Why Sing When You Can Warble S01E04 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kujima-why-sing-when-warble-s01e04-1080p.n2104552) • [🐱 Nyaa](https://nyaa.si/?q=FYSZLDCNXQRSV3G5XLJ6X2IUQX3VDDZB) |
-| `[Yameii] Dr. Stone - S04E29 [English Dub] [CR WEB-DL 720p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dr-stone-s04e29-english-dub-cr-web.k10718265865476) • [🐱 Nyaa](https://nyaa.si/?q=EF6G7UXMUZSWR3HZZ36A6XTN5C43HENZ) |
-| `[ToonsHub] Dr Stone S04E29 1080p AMZN WEB-DL DDP2.0 H.264...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e29-1080p-amzn-web-dl.k10718253000197) • [🐱 Nyaa](https://nyaa.si/?q=AI7OQFYIJ6LT4MFTSLSOZEQDJOYC6XD6) |
-| `[Erai-raws] Dr. Stone: Science Future Part 3 - 05 [480p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dr-stone-science-future-part-3.n2104546) • [🐱 Nyaa](https://nyaa.si/?q=4AVTGAQ3F2GRJ4CYNGKUJKGUTLKPKPNY) |
+| `[VARYG] A Hundred Scenes of AWAJIMA S01E04 Kayo Yomogida ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-hundred-scenes-awajima-s01e04-kayo-yomogida-saori.k10720788313608) • [🐱 Nyaa](https://nyaa.si/?q=5J2EXQVTJ3J6HV4QPIQR4H7B4ZJGZD5K) |
+| `[Erai-raws] Koori no Jouheki - 05 [1080p NF WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-koori-no-jouheki-05-1080p-nf.k10720780218630) • [🐱 Nyaa](https://nyaa.si/?q=ZCPUHK6WRPR7PDSLMB3YQHQJOBAG23L4) |
+| `[ToonsHub] A Hundred Scenes of AWAJIMA S01E04 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hundred-scenes-awajima-s01e04-1080p-cr-web.k10720771301895) • [🐱 Nyaa](https://nyaa.si/?q=NBOBEZHCA2RLL5FCNU2Y2UOYEXITGMSN) |
+| `[SubsPlease] Awajima Hyakkei - 04 (1080p) [80205ECF].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-awajima-hyakkei-04-1080p-80205ecf-mkv.n2104634) • [🐱 Nyaa](https://nyaa.si/?q=ZK7NEH2UB5YNTFVS4DYA6RAHTM7OREXD) |
+| `[Erai-raws] Awajima Hyakkei - 04 [480p CR WEB-DL AVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-04-480p-cr-web.k10720765072910) • [🐱 Nyaa](https://nyaa.si/?q=4TZC4WQWTU7HSVT4JQWADSBLUMONYLVQ) |
+| `[SubsPlease] Awajima Hyakkei - 04 (720p) [7027A671].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-awajima-hyakkei-04-720p-7027a671-mkv.n2104630) • [🐱 Nyaa](https://nyaa.si/?q=VDIWPEPUNIO3HFODHMPAV5WLVD7TF42T) |
+| `[Erai-raws] Awajima Hyakkei - 04 [720p CR WEB-DL AVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-04-720p-cr-web.k10720761109253) • [🐱 Nyaa](https://nyaa.si/?q=LKNUZ7XEVIGDB76GJADL7U5HEV72NQ2B) |
+| `[Erai-raws] Awajima Hyakkei - 04 [1080p CR WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-04-1080p-cr-web.k10720757538055) • [🐱 Nyaa](https://nyaa.si/?q=WROUK4EVVKU4JN3DIVILBQ4OLYHR3N46) |
+| `[SubsPlease] Awajima Hyakkei - 04 (480p) [4E05A5DA].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-awajima-hyakkei-04-480p-4e05a5da-mkv.n2104626) • [🐱 Nyaa](https://nyaa.si/?q=FWEXFSPQ7J6LGECYIA72UL34UUJTY4EY) |
+| `[Erai-raws] Reincarnation no Kaben - 05 [540p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-05-540p-amzn.k10720720608269) • [🐱 Nyaa](https://nyaa.si/?q=7TOIYBM7MIVCFFWCOEQL5VBSLD7YJJ5M) |
+| `[Erai-raws] Reincarnation no Kaben - 05 [720p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-05-720p-amzn.k10720720262150) • [🐱 Nyaa](https://nyaa.si/?q=M5COZH4OCXJACHTSTFZERJYYKE7MAFIK) |
+| `[Erai-raws] Reincarnation no Kaben - 05 [1080p AMZN WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-05-1080p-amzn.k10720719783949) • [🐱 Nyaa](https://nyaa.si/?q=XYTRGO4C3F5J7KGW5M7HHFTGX2EWCSW5) |
+| `[ToonsHub] Petals of Reincarnation S01E05 1080p HIDIVE WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-petals-reincarnation-s01e05-1080p-hidive-web-dl.n2104622) • [🐱 Nyaa](https://nyaa.si/?q=4MZEDFXCMV2V3ELIRBEJOTRA2QY4NSUD) |
+| `[Onalrie] Kirio Fanclub - S01E05 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kirio-fanclub-s01e05-1080p-webrip-av1-mkv.2077869) • [🐱 Nyaa](https://nyaa.si/?q=VIMBF4LOLSX3I6YOEDVLTNTR3CSFZKQL) |
+| `Petals of Reincarnation S01E04 All-knowing and Corruption...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/petals-reincarnation-s01e04-all-knowing-corruption-1080p.n2104621) • [🐱 Nyaa](https://nyaa.si/?q=ALZCWWSPYBDYSPHIPJ5YACMKOBNRLBGU) |
 
 ---
 <div align="center">
