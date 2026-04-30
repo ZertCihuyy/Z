@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.53.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.42.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Baki (2018) - S02 [WEBDL-1080p][Opus 2.0][D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-baki-2018-s02-webdl-1080p-opus-2.k10716017371148) • [🐱 Nyaa](https://nyaa.si/?q=LAMRI5VI7P4J4VM73DEBEPVGV6KZIBFY) |
+| `[BlackRabbit] Baki (2018) - S01 [WEBDL-1080p][Opus 2.0][D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-baki-2018-s01-webdl-1080p-opus-2.k10715975057166) • [🐱 Nyaa](https://nyaa.si/?q=WDGKXHE3SLYSDYG3UG4B2RFZA7L22SQQ) |
+| `[CicakRumah] Gekkan! Nanmono Anime - S01E13 (げっかん！なんものアニメ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cicakrumah-gekkan-nanmono-anime-s01e13-abema-web-dl.n2104477) • [🐱 Nyaa](https://nyaa.si/?q=4YAHO7XNN25KORD5ZYTB4DGVT47KNFOX) |
 | `[Mo7tas] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-yuusha-party-ni-kawaii-ko-ga-ita.n2104458) • [🐱 Nyaa](https://nyaa.si/?q=F3CRKPSL6OGTZOUYS7O2WYMJG72GIECK) |
 | `(shiteater) Dr. Slump & Arale-chan 185 [B63CF233]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/shiteater-dr-slump-arale-chan-185-b63cf233.n2104455) • [🐱 Nyaa](https://nyaa.si/?q=F4RYM4CRFAALPP2WEO6K5IIGXA2LJESK) |
 | `[sam] Shoukoku no Altair [BD 1080p FLAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-shoukoku-no-altair-bd-1080p-flac.n2104448) • [🐱 Nyaa](https://nyaa.si/?q=6VTVRUVRMBYTCOWHIOM3C3LDGX4HEZHH) |
@@ -40,9 +43,6 @@
 | `{Bite Me Bitch} WISH UPON THE PLEIADES TV BD-Remux` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bite-me-bitch-wish-upon-pleiades-tv-bd-remux.n2104425) • [🐱 Nyaa](https://nyaa.si/?q=TC5B6UB7TPROFU7VQVJS3PMOJRDOAIFR) |
 | `[crane0922] Children of the Whales Season 1 v2 (BD 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-children-whales-season-1-v2-bd-1080p.k10706619875599) • [🐱 Nyaa](https://nyaa.si/?q=FVV3CYNAAK56S76LWNDK42JPLLCDNF7E) |
 | `Death Note TV Fansub Collection [Various Groups]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/death-note-tv-fansub-collection-various-groups.n2104422) • [🐱 Nyaa](https://nyaa.si/?q=B75KPT2ETHF7PS7G7QOJ4JYQHAH6KMF7) |
-| `[torta] SANDA (Season 01) [BD 1080p][HEVC x265 10bit][Dua...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/torta-sanda-season-01-bd-1080p-hevc-x265.n2104421) • [🐱 Nyaa](https://nyaa.si/?q=J62UBBJMDRBUCF7U7RPTAUIEBS2ERSWG) |
-| `[torta] Disney Twisted-Wonderland (Season 01) [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/torta-disney-twisted-wonderland-season-01-1080p-hevc.n2104420) • [🐱 Nyaa](https://nyaa.si/?q=BEMSRC4YUJ76FG7CMFU4KNN3P5QD4GLM) |
-| `[Chihiro] Rock wa Lady no Tashinami deshite - 10 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-rock-wa-lady-no-tashinami-deshite-10.n2104418) • [🐱 Nyaa](https://nyaa.si/?q=L2Y3NXKSUUNKB6WGKR7ME6HIPHTX7RIS) |
 
 ---
 <div align="center">
