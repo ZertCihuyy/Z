@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.42.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.10.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[BlackRabbit] Baki (2018) - S02 [WEBDL-1080p][Opus 2.0][D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-baki-2018-s02-webdl-1080p-opus-2.k10716017371148) • [🐱 Nyaa](https://nyaa.si/?q=LAMRI5VI7P4J4VM73DEBEPVGV6KZIBFY) |
-| `[BlackRabbit] Baki (2018) - S01 [WEBDL-1080p][Opus 2.0][D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/blackrabbit-baki-2018-s01-webdl-1080p-opus-2.k10715975057166) • [🐱 Nyaa](https://nyaa.si/?q=WDGKXHE3SLYSDYG3UG4B2RFZA7L22SQQ) |
-| `[CicakRumah] Gekkan! Nanmono Anime - S01E13 (げっかん！なんものアニメ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cicakrumah-gekkan-nanmono-anime-s01e13-abema-web-dl.n2104477) • [🐱 Nyaa](https://nyaa.si/?q=4YAHO7XNN25KORD5ZYTB4DGVT47KNFOX) |
-| `[Mo7tas] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mo7tas-yuusha-party-ni-kawaii-ko-ga-ita.n2104458) • [🐱 Nyaa](https://nyaa.si/?q=F3CRKPSL6OGTZOUYS7O2WYMJG72GIECK) |
-| `(shiteater) Dr. Slump & Arale-chan 185 [B63CF233]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/shiteater-dr-slump-arale-chan-185-b63cf233.n2104455) • [🐱 Nyaa](https://nyaa.si/?q=F4RYM4CRFAALPP2WEO6K5IIGXA2LJESK) |
-| `[sam] Shoukoku no Altair [BD 1080p FLAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-shoukoku-no-altair-bd-1080p-flac.n2104448) • [🐱 Nyaa](https://nyaa.si/?q=6VTVRUVRMBYTCOWHIOM3C3LDGX4HEZHH) |
-| `[Gecko] Cat Tales - S01E29 (うごく！ねこむかしばなし; Ugoku! Neko Muk...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e29-ugoku-neko-mukashibanashi-cthp.k10708657222402) • [🐱 Nyaa](https://nyaa.si/?q=URWKBA54WU4NKBUQLTDVR63RFED4KQC2) |
-| `[Gecko] Candy Caries - S01E03 (キャンディーカリエス) [CTHP.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-candy-caries-s01e03-cthp-web-dl-1080p.k10708297041153) • [🐱 Nyaa](https://nyaa.si/?q=6HGGBFYF57IMDAKPXMKSVWNG2WFVVMEG) |
-| `[Gecko] Reborn as a Cat - S01E27 (为喵人生; Wei Miao Rensheng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e27-wei-miao-rensheng-bili.k10708105229569) • [🐱 Nyaa](https://nyaa.si/?q=7WGXGGJDNOUU4OFPOJ3JEDWE7HKM7VSE) |
-| `[ToonsHub] Reborn as a Cat S01E27 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e27-1080p-bili-web-dl.n2104432) • [🐱 Nyaa](https://nyaa.si/?q=W5WPF4PNSL5DHI2FJ4HBVIZNGQUTCHUT) |
-| `Reborn as a Cat S01E26 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e26-1080p-bili-web-dl-aac2.n2104430) • [🐱 Nyaa](https://nyaa.si/?q=YPZB5YKYH4R5K4WW32Q7DNR3W3I4G6FP) |
-| `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa I...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lolihouse-otaku-ni-yasashii-gyaru-wa-inai-04.n2104429) • [🐱 Nyaa](https://nyaa.si/?q=WSUSU5W4UIMXXTNOKY3O5UYZWYATNMKA) |
-| `{Bite Me Bitch} WISH UPON THE PLEIADES TV BD-Remux` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bite-me-bitch-wish-upon-pleiades-tv-bd-remux.n2104425) • [🐱 Nyaa](https://nyaa.si/?q=TC5B6UB7TPROFU7VQVJS3PMOJRDOAIFR) |
-| `[crane0922] Children of the Whales Season 1 v2 (BD 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crane0922-children-whales-season-1-v2-bd-1080p.k10706619875599) • [🐱 Nyaa](https://nyaa.si/?q=FVV3CYNAAK56S76LWNDK42JPLLCDNF7E) |
-| `Death Note TV Fansub Collection [Various Groups]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/death-note-tv-fansub-collection-various-groups.n2104422) • [🐱 Nyaa](https://nyaa.si/?q=B75KPT2ETHF7PS7G7QOJ4JYQHAH6KMF7) |
+| `[ToonsHub] GANSO BanG Dream Chan S01E30 1080p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ganso-bang-dream-chan-s01e30-1080p-amzn.k10717359315970) • [🐱 Nyaa](https://nyaa.si/?q=O7LITW3SCGBQSLBXJXEROKSERME4RRSR) |
+| `[Onalrie] Himekishi wa Barbaroi no Yome - S01E04 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-himekishi-wa-barbaroi-no-yome-s01e04-1080p.2077836) • [🐱 Nyaa](https://nyaa.si/?q=6VE2F5HIMR2DOZWTR5XEDM5LEDRENDOM) |
+| `[ToonsHub] I Want You To Show Me Your Panties With a Disg...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-want-show-me-your-panties-disgusted-face.n2104510) • [🐱 Nyaa](https://nyaa.si/?q=UTL2BPF7XZXZCTEWI5BC5YAJ2R7LITIB) |
+| `[Yameii] The Warrior Princess and the Barbaric King - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-warrior-princess-barbaric-king-s01e02-english-dub.k10716957692162) • [🐱 Nyaa](https://nyaa.si/?q=4QVWQFBUQSEHE3B44CDI6QURGGYRNWRX) |
+| `[Yameii] The Warrior Princess and the Barbaric King - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-warrior-princess-barbaric-king-s01e02-english-dub.k10716914022669) • [🐱 Nyaa](https://nyaa.si/?q=CKQFVWAIVMTRWWJPRBDNJOXU4KHNDAQ6) |
+| `The Warrior Princess and the Barbaric King S01E02 1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/warrior-princess-barbaric-king-s01e02-1080p-cr-web.n2104504) • [🐱 Nyaa](https://nyaa.si/?q=PBOGZFXQ2OHERGAMQRR46FH3FKJCFJEC) |
+| `The Warrior Princess and the Barbaric King S01E04 1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/warrior-princess-barbaric-king-s01e04-1080p-cr-web.n2104503) • [🐱 Nyaa](https://nyaa.si/?q=BTKKPBQZSLQRJJVEISFC3YLN7TNWGR63) |
+| `[ToonsHub] The Warrior Princess and the Barbaric King S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-warrior-princess-barbaric-king-s01e02-1080p-cr.k10716860327680) • [🐱 Nyaa](https://nyaa.si/?q=MIDEXG26BAICM6RMUOUBGWOQEB7N6JAZ) |
+| `[ToonsHub] The Warrior Princess and the Barbaric King S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-warrior-princess-barbaric-king-s01e04-1080p-cr.k10716856745229) • [🐱 Nyaa](https://nyaa.si/?q=CC2OTL7VPXSQZMNLEHMAI5YUL7DWVFEC) |
+| `[SubsPlease] Himekishi wa Barbaroi no Yome - 04 (1080p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-himekishi-wa-barbaroi-no-yome-04-1080p-c3541580.n2104499) • [🐱 Nyaa](https://nyaa.si/?q=WX5HANRP4OFCQYDCH44VFWGM36XTZHKT) |
+| `[SubsPlease] Himekishi wa Barbaroi no Yome - 04 (720p) [0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-himekishi-wa-barbaroi-no-yome-04-720p-0da6264c.n2104498) • [🐱 Nyaa](https://nyaa.si/?q=NSEQA3LH2KDOB4ADQOA3HCS5NW5D6MEE) |
+| `[SubsPlease] Himekishi wa Barbaroi no Yome - 04 (480p) [E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-himekishi-wa-barbaroi-no-yome-04-480p-eb8af039.n2104497) • [🐱 Nyaa](https://nyaa.si/?q=3XP522ZQNQNJQB7W35Y6DJ4X6FUUDOCI) |
+| `[Erai-raws] Himekishi wa Barbaroi no Yome - 04 [480p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-himekishi-wa-barbaroi-no-yome-04.k10716842039052) • [🐱 Nyaa](https://nyaa.si/?q=56S5FSK2CVBCCAYEU6IQA7PCLTR7Q5PC) |
+| `[Erai-raws] Himekishi wa Barbaroi no Yome - 04 [720p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-himekishi-wa-barbaroi-no-yome-04.k10716840295948) • [🐱 Nyaa](https://nyaa.si/?q=HL7VVARGEZZ3GIETEP47REGZF3JGB4QK) |
+| `[Erai-raws] Himekishi wa Barbaroi no Yome - 04 [1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-himekishi-wa-barbaroi-no-yome-04.n2104492) • [🐱 Nyaa](https://nyaa.si/?q=QFT53FEHRMCUHSJA3KU472DWRBQOU6OC) |
 
 ---
 <div align="center">
