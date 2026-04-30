@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.11.36_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.11.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Petals of Reincarnation S01E05 Farewell Hearkening Soul 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/petals-reincarnation-s01e05-farewell-hearkening-soul-1080p.n2104735) • [🐱 Nyaa](https://nyaa.si/?q=42QR3SCI3QIQBYEW7DFA74YUO66JC5SQ) |
+| `Kirio Fan Club S01E05 May I Stan You 1080p ABMA WEB-DL DD...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kirio-fan-club-s01e05-may-stan-1080p-abma.n2104734) • [🐱 Nyaa](https://nyaa.si/?q=AYPV5C2ILRME6MKBQ6XGANQLF7LTRHRV) |
+| `Monster Eater S01E05 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e05-1080p-amzn-web-dl-ddp2.n2104733) • [🐱 Nyaa](https://nyaa.si/?q=BHEMYP6TEGT6S5XXE6HCKPKDS5XFQNEI) |
+| `[sam] Dr. STONE - Science Future - S04E28 (WEB 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-dr-stone-science-future-s04e28-web-1080p.k10724988301583) • [🐱 Nyaa](https://nyaa.si/?q=HZQP2FTVIIAIZVGPYZMEUAZFX3JRTDT3) |
 | `[DKB] Koori no Jouheki - S01E05 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e05-1080p-hevc-x265.n2104726) • [🐱 Nyaa](https://nyaa.si/?q=IJB745REWBVOVC3MPLRQA6WSHPSKAO5W) |
 | `Naruto Shippuden 001 Remaster (BDRip 1080p x265 FLAC Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/naruto-shippuden-001-remaster-bdrip-1080p-x265-flac-multi.n2104724) • [🐱 Nyaa](https://nyaa.si/?q=7MU4QMBSVUZQNAGW6SYDDIN7VW7N5FC7) |
 | `[Erai-raws] Awajima Hyakkei - 04 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-04-1080p-cr-webrip.n2104722) • [🐱 Nyaa](https://nyaa.si/?q=G7LMYDAZEJ2CN2L6ODPC6ZUM3IILX2XL) |
@@ -39,10 +43,6 @@
 | `The Ramparts of Ice S01E05 1080p NF WEB-DL AAC2.0 AV1 (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e05-1080p-nf-web-dl-aac2.n2104714) • [🐱 Nyaa](https://nyaa.si/?q=DWLB4C5OZ566J2HLZ7ACAULHCUM252CQ) |
 | `[ASW] Mata Korosarete Shimatta no desu ne, Tantei-sama - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-mata-korosarete-shimatta-no-desu-ne-tantei.n2104711) • [🐱 Nyaa](https://nyaa.si/?q=XEG6TOSFLJHAN7ZXACJ7WE3O23TP7RSY) |
 | `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 05 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-haibara-kun-no-tsuyokute-seishun-new-game.n2104710) • [🐱 Nyaa](https://nyaa.si/?q=NMTH6IRN77LTOU7OUY7KO3TRI6W5C26J) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.k10722918905350) • [🐱 Nyaa](https://nyaa.si/?q=PVVSHMNJ3KLWV7APUH7FONRU6LBR5ZGR) |
-| `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mata-korosarete-shimatta-no-desu-ne-tantei.2077903) • [🐱 Nyaa](https://nyaa.si/?q=N5L3RH6KSBI7DVLNYVJGCJ6TXADV4K4G) |
-| `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mata-korosarete-shimatta-no-desu-ne-tantei.n2104704) • [🐱 Nyaa](https://nyaa.si/?q=ZKUMPIPDKUUHIZIQSO47VEO7YAEIN5DH) |
-| `[ASW] Awajima Hyakkei - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-awajima-hyakkei-04-1080p-hevc-x265-10bit-aac.n2104702) • [🐱 Nyaa](https://nyaa.si/?q=X6XBZVLH4LKKKVY7VNZXDU4NMCQKZHXR) |
 
 ---
 <div align="center">
