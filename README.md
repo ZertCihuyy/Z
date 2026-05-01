@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.59.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.00.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nekotan] Hajime no Ippo S00E03 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s00e03-bd-remux-1080p.k10748469938180) • [🐱 Nyaa](https://nyaa.si/?q=DAOYU7HJJVYVM7HSAKHXND5I7EY4Q2YU) |
+| `[nekotan] Hajime no Ippo S00E02 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s00e02-bd-remux-1080p.k10748392015116) • [🐱 Nyaa](https://nyaa.si/?q=GHSPW5GYLUDGA2INIPQSFUQFRC3K2NND) |
+| `[nekotan] Hajime no Ippo S00E01 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s00e01-bd-remux-1080p.k10748314302213) • [🐱 Nyaa](https://nyaa.si/?q=7XW4ZA5L64IZE675VDWWFTLJ7TXFU7IA) |
+| `Naruto Shippuden 052 Remaster (*with subs eng*) (BDRip 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/naruto-shippuden-052-remaster-subs-eng-bdrip-1080p.n2105162) • [🐱 Nyaa](https://nyaa.si/?q=TLVYRX62KFK33OF4P5QSTORQIH4TJZAF) |
+| `[nekotan] Hajime no Ippo S01 (BD Remux 1080p x264 8-bit F...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s01-bd-remux-1080p.k10748110497035) • [🐱 Nyaa](https://nyaa.si/?q=APJ4YGMEH4OFC72G6CQ4YYV2B7FILJ6V) |
 | `[ASW] Yuukoku no Moriarty - OVA2 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuukoku-no-moriarty-ova2-1080p-hevc-x265-10bit-aac.n2105160) • [🐱 Nyaa](https://nyaa.si/?q=CHIZMDHMKKVOOT4ZDR6PTOUNYUDC3DKU) |
 | `[Lazyleido-Mini] DIGIMON BEATBREAK - 28 (S01E28) - (WEB 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-mini-digimon-beatbreak-28-s01e28-web-1080p.n2105159) • [🐱 Nyaa](https://nyaa.si/?q=LP6M5HVMMJMFHWSBA4SIJXOZRI7AKXDF) |
 | `[Lazyleido] DIGIMON BEATBREAK - 28 (S01E28) - (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-digimon-beatbreak-28-s01e28-web-1080p-hevc.n2105158) • [🐱 Nyaa](https://nyaa.si/?q=EILXYB5BEOG2JH4OQNHNGLDKILZJOQ5Z) |
@@ -38,11 +43,6 @@
 | `[SubsPlease] Yuukoku no Moriarty - OVA2 (720p) [B5461197]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuukoku-no-moriarty-ova2-720p-b5461197-mkv.n2105148) • [🐱 Nyaa](https://nyaa.si/?q=CVSPC65SMGJJJWG3IEI4JRUBPRH5RR3N) |
 | `[SubsPlease] Yuukoku no Moriarty - OVA2 (480p) [3DEA0068]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuukoku-no-moriarty-ova2-480p-3dea0068-mkv.n2105147) • [🐱 Nyaa](https://nyaa.si/?q=CDDJTWYXSC6DKMB5OOYI77G3HAESZ5UI) |
 | `[SubsPlease] Yuukoku no Moriarty - OVA1 (1080p) [C16F94ED...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuukoku-no-moriarty-ova1-1080p-c16f94ed-mkv.n2105145) • [🐱 Nyaa](https://nyaa.si/?q=G732BKE7XNZKWD3TDEYNLX4HMJYG4NGA) |
-| `[SubsPlease] Yuukoku no Moriarty - OVA1 (720p) [5408E7C4]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuukoku-no-moriarty-ova1-720p-5408e7c4-mkv.n2105144) • [🐱 Nyaa](https://nyaa.si/?q=VNNNMLNKVFSFS76WVT6Z3O7MJDBXI4QC) |
-| `[SubsPlease] Yuukoku no Moriarty - OVA1 (480p) [0213166B]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuukoku-no-moriarty-ova1-480p-0213166b-mkv.n2105142) • [🐱 Nyaa](https://nyaa.si/?q=ZHMZYLMUKIKSAA3RSGRLF3ZKVPO5QZTV) |
-| `Naruto Shippuden 052 Remaster (BDRip 1080p x265 FLAC Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/naruto-shippuden-052-remaster-bdrip-1080p-x265-flac-multi.n2105138) • [🐱 Nyaa](https://nyaa.si/?q=JGJLSEIIGNVDYNDZERJFQKSUCPVV7AKD) |
-| `Naruto Shippuden 053 Remaster (BDRip 1080p x265 FLAC Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/naruto-shippuden-053-remaster-bdrip-1080p-x265-flac-multi.n2105136) • [🐱 Nyaa](https://nyaa.si/?q=UOA5OGKYHJQW6CNZDA6BBBCKWSEARDDJ) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E98 (ちびゴジラの逆襲; Ch...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-chibi-godzilla-raids-again-s01e98-no-gyakushuu.k10746041651718) • [🐱 Nyaa](https://nyaa.si/?q=REHJKV2ULWT427JI6Z4UIDUWLC5XFVBE) |
 
 ---
 <div align="center">
