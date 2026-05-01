@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.11.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.08.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[torta] Umamusume Cinderella Gray (Season 01 Part 2) [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/torta-umamusume-cinderella-gray-season-01-part-2.n2104757) • [🐱 Nyaa](https://nyaa.si/?q=BPAZNRFYVBZOLCJLGAEWIRZ2TN5NEQY5) |
+| `[SubsPlus+] Petals of Reincarnation - S01E05 (AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-petals-reincarnation-s01e05-amzn-web-dl-1080p.n2104755) • [🐱 Nyaa](https://nyaa.si/?q=I6JABIHWB2EZVLRRPOOWR62JW5WZA7Z7) |
+| `[SubsPlus+] Kirio Fan Club - S01E05 (ABEMA WEB-DL 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-kirio-fan-club-s01e05-abema-web-dl.n2104753) • [🐱 Nyaa](https://nyaa.si/?q=5I7XMMJUOYTUW25744TP4NVKH6374YGP) |
+| `[SubsPlease] Trigun Stargaze (13-24) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stargaze-13-24-1080p-batch.n2104752) • [🐱 Nyaa](https://nyaa.si/?q=XCGZD5AYLSFHAEP5OBOMID7IRHV4SNUL) |
+| `[SubsPlease] Trigun Stargaze (13-24) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stargaze-13-24-720p-batch.n2104751) • [🐱 Nyaa](https://nyaa.si/?q=K2QMK3VISKB66M52MRGLZE6KLARIALMI) |
+| `[SubsPlease] Trigun Stargaze (13-24) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stargaze-13-24-480p-batch.n2104750) • [🐱 Nyaa](https://nyaa.si/?q=G2U74KBKRVVVWHD7WEDPRN6VGKAMVHDM) |
+| `[SubsPlease] Trigun Stampede (01-12) (1080p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stampede-01-12-1080p-batch.n2104749) • [🐱 Nyaa](https://nyaa.si/?q=VARVC2PUIV62KCPD4NP6W2HF7TNVB4OL) |
+| `[SubsPlease] Trigun Stampede (01-12) (720p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stampede-01-12-720p-batch.n2104748) • [🐱 Nyaa](https://nyaa.si/?q=UTKSKSHUTWFZBH2KZQZIV5ZDXL7SFHHL) |
+| `Reincarnated as a Dragon Hatchling S01E07 1080p AMZN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reincarnated-dragon-hatchling-s01e07-1080p-amzn-web-dl.n2104747) • [🐱 Nyaa](https://nyaa.si/?q=S6EJSNKLEY5FCGOEY4UX5ZU6ZL5VIAEB) |
 | `[SubsPlease] Trigun Stampede (01-12) (480p) [Batch]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-trigun-stampede-01-12-480p-batch.n2104745) • [🐱 Nyaa](https://nyaa.si/?q=WJMY5QYTVL7P7LJBPWBH7GLGMPHROSLY) |
 | `[torta] ROLL OVER AND DIE (Season 01) [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/torta-roll-over-die-season-01-1080p-hevc.n2104744) • [🐱 Nyaa](https://nyaa.si/?q=6PRXAB64MXICGPYJGQ3EBCYCY2YNPGI5) |
 | `[Chihiro] Rock wa Lady no Tashinami deshite - 11 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-rock-wa-lady-no-tashinami-deshite-11.n2104741) • [🐱 Nyaa](https://nyaa.si/?q=ASXJGUUVF2EMFHXXSDL6ETZ4PJTYL2BS) |
 | `Reincarnated as a Dragon Hatchling S01E07 I Went on a Dat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reincarnated-dragon-hatchling-s01e07-went-date-got-ditched.n2104738) • [🐱 Nyaa](https://nyaa.si/?q=P6G2N3MJB2KURO44WCTJ6UM2FSRUI6KI) |
 | `Chained Soldier S02E08 1080p AMZN WEB-DL DUAL DDP2.0 H 26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chained-soldier-s02e08-1080p-amzn-web-dl-dual.n2104737) • [🐱 Nyaa](https://nyaa.si/?q=OGI37Q4W27X7XS35SBHZSKOCFHJH6ATB) |
 | `HELL MODE S01E09 1080p AMZN WEB-DL DUAL DDP2.0 H 264-VARY...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hell-mode-s01e09-1080p-amzn-web-dl-dual.n2104736) • [🐱 Nyaa](https://nyaa.si/?q=GIBA6QCUWMMY4RXT7PZF44AUTXR5IXFU) |
-| `[VARYG] Petals of Reincarnation S01E05 Farewell Hearkenin...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-petals-reincarnation-s01e05-farewell-hearkening-soul.k10725749797390) • [🐱 Nyaa](https://nyaa.si/?q=ZYLI5HKDHDT6CN43X3DEFABGX7JC2Q2O) |
-| `[VARYG] Kirio Fan Club S01E05 May I Stan You 1080p ABMA W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-kirio-fan-club-s01e05-may-stan-1080p.k10725743517184) • [🐱 Nyaa](https://nyaa.si/?q=MAS55YISMIMTUMS6YP7U7LCAZBWLXIGA) |
-| `[VARYG] Monster Eater S01E05 1080p AMZN WEB-DL DDP2.0 H.2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-monster-eater-s01e05-1080p-amzn-web-dl.k10725737893377) • [🐱 Nyaa](https://nyaa.si/?q=VACRESGFMHZNBSC4NO72IQOT4MNY2H25) |
-| `Petals of Reincarnation S01E05 Farewell Hearkening Soul 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/petals-reincarnation-s01e05-farewell-hearkening-soul-1080p.n2104735) • [🐱 Nyaa](https://nyaa.si/?q=42QR3SCI3QIQBYEW7DFA74YUO66JC5SQ) |
-| `Kirio Fan Club S01E05 May I Stan You 1080p ABMA WEB-DL DD...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kirio-fan-club-s01e05-may-stan-1080p-abma.n2104734) • [🐱 Nyaa](https://nyaa.si/?q=AYPV5C2ILRME6MKBQ6XGANQLF7LTRHRV) |
-| `Monster Eater S01E05 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e05-1080p-amzn-web-dl-ddp2.n2104733) • [🐱 Nyaa](https://nyaa.si/?q=BHEMYP6TEGT6S5XXE6HCKPKDS5XFQNEI) |
-| `[sam] Dr. STONE - Science Future - S04E28 (WEB 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-dr-stone-science-future-s04e28-web-1080p.k10724988301583) • [🐱 Nyaa](https://nyaa.si/?q=HZQP2FTVIIAIZVGPYZMEUAZFX3JRTDT3) |
-| `[DKB] Koori no Jouheki - S01E05 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e05-1080p-hevc-x265.n2104726) • [🐱 Nyaa](https://nyaa.si/?q=IJB745REWBVOVC3MPLRQA6WSHPSKAO5W) |
-| `Naruto Shippuden 001 Remaster (BDRip 1080p x265 FLAC Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/naruto-shippuden-001-remaster-bdrip-1080p-x265-flac-multi.n2104724) • [🐱 Nyaa](https://nyaa.si/?q=7MU4QMBSVUZQNAGW6SYDDIN7VW7N5FC7) |
 
 ---
 <div align="center">
