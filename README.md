@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.55.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.01.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu K...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2104930) • [🐱 Nyaa](https://nyaa.si/?q=62Z74HJ52HPTMUN56QDJKXPJYQEG6BDQ) |
-| `[VARYG] An Observation Log of My Fiancee Who Calls Hersel...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-observation-log-my-fiancee-who-calls-herself.k10740070646029) • [🐱 Nyaa](https://nyaa.si/?q=RZ7HBLJBGRWBKYZA5TAZXDUTK3TETKS5) |
-| `CHAINSAW MAN THE MOVIE REZE ARC 2025 1080p CR WEB-DL MULT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chainsaw-man-movie-reze-arc-2025-1080p-cr.n2104928) • [🐱 Nyaa](https://nyaa.si/?q=KOAROSYPZ7LGO55L3C3CSFMKKTRG7YTB) |
-| `[Onalrie] Jishou Akuyaku Reijou na Konyakusha no Kansatsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.2078072) • [🐱 Nyaa](https://nyaa.si/?q=VYIP2M6T3XGCXZVWIAF6GIIM4VHRET4S) |
-| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.n2104927) • [🐱 Nyaa](https://nyaa.si/?q=FVXT73IL4TC3ZX5LPNYGYI6QDQQNR4VC) |
-| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.n2104926) • [🐱 Nyaa](https://nyaa.si/?q=56IT7NMYSME3CWZIE3JVTADWFV3SX3WE) |
-| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.k10739439390732) • [🐱 Nyaa](https://nyaa.si/?q=TUNIW4N3NB247D3AAJE2W25UGS5U6Y2E) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2104919) • [🐱 Nyaa](https://nyaa.si/?q=ZF4OYPQ5QXDD7HXSQC6DMDLU65ECVXQA) |
-| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.k10739434914048) • [🐱 Nyaa](https://nyaa.si/?q=QEUOW5I2SPYZN2T4LGQWYBBXFCWW5XYT) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.k10739423749890) • [🐱 Nyaa](https://nyaa.si/?q=I5MNXZTZCIINGJBJJ7BDGXOWY7543DBW) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2104914) • [🐱 Nyaa](https://nyaa.si/?q=VEHWFZDOQ5R5DRX4WSN6T5XDKKYVQ4OD) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2104913) • [🐱 Nyaa](https://nyaa.si/?q=5II5ER6PLIUYSQFNIHH7MLGJD7ZHOFXP) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2104912) • [🐱 Nyaa](https://nyaa.si/?q=5DPSHXIVINJEI7WT4MPRALTD5C7MXHJE) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2104911) • [🐱 Nyaa](https://nyaa.si/?q=KSUZKGFCCULYPDIAQ25HCFHPNUNPQCL3) |
-| `[Gecko] Koala's Diary - S01E01-E30 (コアラ絵日記; Koala Enikki)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e01-e30-koala-enikki-cthp.k10737681008394) • [🐱 Nyaa](https://nyaa.si/?q=W2Z2BU5OOM35P7AN4YX4CZDGSEVD7SUH) |
+| `[ASW] Yuusha no Kuzu - 15 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-kuzu-15-1080p-hevc-x265-10bit-aac.n2104963) • [🐱 Nyaa](https://nyaa.si/?q=MZKQ72L65TUUPKHPP4PIO6OM3Y6SU7M6) |
+| `[ASW] NEEDY GIRL OVERDOSE - 04 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-needy-girl-overdose-04-1080p-hevc-x265-10bit-aac.n2104962) • [🐱 Nyaa](https://nyaa.si/?q=2JM6NAH7VU3Q5S5WLC2UBO3M6GS6CXAY) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E05 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-angel-next-door-spoils-me-rotten-s02e05.k10740817067272) • [🐱 Nyaa](https://nyaa.si/?q=3YZJWX3CD5IBM6OD56F4QWO2GQUKBZHH) |
+| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2104959) • [🐱 Nyaa](https://nyaa.si/?q=DDDNEC5BO47FMAPAN2VKPVXCKVANN2IK) |
+| `The Angel Next Door Spoils Me Rotten S02E04 A Stay-at-Hom...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/angel-next-door-spoils-me-rotten-s02e04-stay.n2104958) • [🐱 Nyaa](https://nyaa.si/?q=GJ3D4IGZT6FKKXYWP44JJYSVIW6KQL2X) |
+| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2104956) • [🐱 Nyaa](https://nyaa.si/?q=5AS7CHUW6FHUPZL2I4L5EQHSKND5IRNK) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10740805021185) • [🐱 Nyaa](https://nyaa.si/?q=FKQQUFOICER4HBAQFPD7OUMJPS7GMWF4) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10740802802959) • [🐱 Nyaa](https://nyaa.si/?q=LZHMSJYK355GAS2FKBY4QVKZPUWF5O34) |
+| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2104951) • [🐱 Nyaa](https://nyaa.si/?q=AFZDQX74O245L4IY4A6DDRGJ6LTJHHFM) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10740801417735) • [🐱 Nyaa](https://nyaa.si/?q=SI3QXZR5MHPRZKAG5USWLDZ4T3HUBDAT) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E05 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-angel-next-door-spoils-me-rotten-s02e05.k10740798102030) • [🐱 Nyaa](https://nyaa.si/?q=BQA325FOZWM3XOHARV3CFPHA4XR4LLVP) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2104946) • [🐱 Nyaa](https://nyaa.si/?q=P64WC32B3TZ52IPTUZMBPIOEATVTJFFH) |
+| `[torta] Back Street Girls - Gokudols (Season 01) [BD 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/torta-back-street-girls-gokudols-season-01-bd.n2104945) • [🐱 Nyaa](https://nyaa.si/?q=3BQZDC3XI3GAJ2VGBBZPZL24ABFVY22Z) |
+| `Galaxy Kickoff S01E30 Showdown 1080p CR WEB-DL AAC2.0 H 2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/galaxy-kickoff-s01e30-showdown-1080p-cr-web-dl.n2104942) • [🐱 Nyaa](https://nyaa.si/?q=T454QVL4BZFXKL54TYUWRPJJZDZJTVBK) |
+| `[ToonsHub] Farming Life In Another World S02E01 1080p HID...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-farming-life-another-world-s02e01-1080p-hidive.k10740399972101) • [🐱 Nyaa](https://nyaa.si/?q=LZ5WJGX7PGLNTO2R7E7NCOIBG63QR5I2) |
 
 ---
 <div align="center">
