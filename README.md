@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.14.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.15.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Bota...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kamiina-botan-yoeru-sugata-wa-yuri-no.n2105077) • [🐱 Nyaa](https://nyaa.si/?q=T27FJU5YZNPLA6554DKDOCAJYU6YHY7B) |
+| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 04 [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kamiina-botan-yoeru-sugata-wa-yuri-no.n2105074) • [🐱 Nyaa](https://nyaa.si/?q=4GU72TVZRDKZHSAGRRATUQ7KTXUPZIEG) |
+| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.n2105073) • [🐱 Nyaa](https://nyaa.si/?q=KRXJEOQDUP2RWCIDST2QKGFW6EJ4TYOF) |
 | `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2105072) • [🐱 Nyaa](https://nyaa.si/?q=5CX4N34OVWDSUTMECNCJXBW64UFR457Y) |
 | `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kamiina-botan-yoeru-sugata-wa-yuri-no.2078120) • [🐱 Nyaa](https://nyaa.si/?q=L4MX7YKJ3JANBGLOWTUFS4PLTH2JKNND) |
 | `Farming Life In Another World S02E01 1080p AMZN WEB-DL DU...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/farming-life-another-world-s02e01-1080p-amzn-web.n2105071) • [🐱 Nyaa](https://nyaa.si/?q=6WB75DSRBJ2E4GX542LT36S4WFMQCQSC) |
@@ -40,9 +43,6 @@
 | `Botan Kamiina Fully Blossoms When Drunk S01E04 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/botan-kamiina-fully-blossoms-when-drunk-s01e04-1080p.n2105064) • [🐱 Nyaa](https://nyaa.si/?q=OS5OYWSTEQ3KDWYAWUEM3AANLEJQF2E5) |
 | `Botan Kamiina Fully Blossoms When Drunk S01E03 1080p BILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/botan-kamiina-fully-blossoms-when-drunk-s01e03-1080p.n2105062) • [🐱 Nyaa](https://nyaa.si/?q=JJSYPM7ZV7RGFLJU3BTAKIZNHIWCWUI5) |
 | `[ToonsHub] Botan Kamiina Fully Blossoms When Drunk S01E04...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-botan-kamiina-fully-blossoms-when-drunk-s01e04.k10742663103232) • [🐱 Nyaa](https://nyaa.si/?q=LKSK5AAL5JKWVNGKXJUSN2GPL6JBXURY) |
-| `[SubsPlease] Kamiina Botan, Yoeru Sugata wa Yuri no Hana ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kamiina-botan-yoeru-sugata-wa-yuri-no.n2105060) • [🐱 Nyaa](https://nyaa.si/?q=FHNDWHH7GDV2EAVKROH6JFB2Q52RBQLD) |
-| `[SubsPlease] Kamiina Botan, Yoeru Sugata wa Yuri no Hana ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kamiina-botan-yoeru-sugata-wa-yuri-no.n2105058) • [🐱 Nyaa](https://nyaa.si/?q=HADJI2HMB7TV7UK67IKRFRB4HCXMB5KE) |
-| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.k10742648670991) • [🐱 Nyaa](https://nyaa.si/?q=UNJAJ2JIHYEZHPWXNI3W4SNIR4MWSGOE) |
 
 ---
 <div align="center">
