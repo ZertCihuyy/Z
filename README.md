@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.46.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.01.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Koala's Diary - S01E01-E30 (コアラ絵日記; Koala Enikki)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e01-e30-koala-enikki-cthp.k10737681008394) • [🐱 Nyaa](https://nyaa.si/?q=W2Z2BU5OOM35P7AN4YX4CZDGSEVD7SUH) |
 | `Detective Conan Episode Selection FBI Intervention Episod...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-episode-selection-fbi-intervention-1-12.n2104882) • [🐱 Nyaa](https://nyaa.si/?q=RJI34OAQE5TQZ7IMW5BVMUHPTRM636ND) |
 | `[Erai-raws] Chainsaw Man: Reze-hen - Movie [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-chainsaw-man-reze-hen-movie-1080p.n2104881) • [🐱 Nyaa](https://nyaa.si/?q=AGNT4SQMGE7UT3Q4GZJSFLBLBX4QYOWO) |
 | `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 18 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.k10736668626958) • [🐱 Nyaa](https://nyaa.si/?q=XDLZVC5GCGFVHHLBJFNVBFLTUSJEIYVB) |
@@ -42,7 +43,6 @@
 | `[Onalrie] Hitori no Shita - The Outcast - S06E18 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e18-1080p-webrip-av1-mkv.2077998) • [🐱 Nyaa](https://nyaa.si/?q=YHKA77LDYDAZWLKAY3SN6C3ISOEWNNQ2) |
 | `[LbE3L] Oshi no Ko S03E10 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e10-1080p-webrip-av1.k10732371343873) • [🐱 Nyaa](https://nyaa.si/?q=UNY5ILOJ5WERPWG5G373OHIX246IP4KR) |
 | `[Commie] Awajima Hyakkei - 04 [A59129B8].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-awajima-hyakkei-04-a59129b8-mkv.n2104854) • [🐱 Nyaa](https://nyaa.si/?q=ZH4PGJ3O2TCQNCBU4C4HEJPGQYEV3GZL) |
-| `[HnY] Beyblade X 124 - True X Tower War (1080p) v2.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hny-beyblade-x-124-true-tower-war-1080p.n2104853) • [🐱 Nyaa](https://nyaa.si/?q=HRO4YLNNLRLNMH6I2SUYGRPJ62DTMXZL) |
 
 ---
 <div align="center">
