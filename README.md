@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.19.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.14.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] Oshi no Ko S03E10 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e10-1080p-webrip-av1.k10732371343873) • [🐱 Nyaa](https://nyaa.si/?q=UNY5ILOJ5WERPWG5G373OHIX246IP4KR) |
+| `[Commie] Awajima Hyakkei - 04 [A59129B8].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-awajima-hyakkei-04-a59129b8-mkv.n2104854) • [🐱 Nyaa](https://nyaa.si/?q=ZH4PGJ3O2TCQNCBU4C4HEJPGQYEV3GZL) |
+| `[HnY] Beyblade X 124 - True X Tower War (1080p) v2.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hny-beyblade-x-124-true-tower-war-1080p.n2104853) • [🐱 Nyaa](https://nyaa.si/?q=HRO4YLNNLRLNMH6I2SUYGRPJ62DTMXZL) |
 | `[Gecko] Monster Eater - S01E05 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e05-mamonogurai-no-boukensha-ore.k10730764162825) • [🐱 Nyaa](https://nyaa.si/?q=2DTMZWDJBIFAST6RFTIGZZWJBWUZNKFC) |
 | `[ASW] Chainsaw Man Movie - Reze-hen [1080p HEVC x265 10Bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-chainsaw-man-movie-reze-hen-1080p-hevc.n2104845) • [🐱 Nyaa](https://nyaa.si/?q=RTNK4EI4KDN7KCYD63WZF4SOIGRLFVNY) |
 | `[Gecko] Kujima Why Sing, When You Can Warble - S01E04 (クジ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-kujima-why-sing-when-warble-s01e04-utaeba.n2104842) • [🐱 Nyaa](https://nyaa.si/?q=KJLK6NMZ5A5UKZVLXUEX5XDBYUEEB45Q) |
@@ -40,9 +43,6 @@
 | `[Gecko] Hitori No Shita - The Outcast - S06E19 (一人之下; Yi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-hitori-no-shita-outcast-s06e19-yi-ren.k10729317793548) • [🐱 Nyaa](https://nyaa.si/?q=PCVL6SHW6LAPLANGWMZNP4RNOC2RZ2ZW) |
 | `[SubsPlease] Hitori no Shita - The Outcast S6 - 18 (1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-18-1080p-d7386c63-mkv.n2104825) • [🐱 Nyaa](https://nyaa.si/?q=NJ6MS6WOLKGLQ23MPSOOPRHA3S25WK57) |
 | `[ToonsHub] Hitori No Shita The Outcast S06E18 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hitori-no-shita-outcast-s06e18-1080p-cr.k10729296484614) • [🐱 Nyaa](https://nyaa.si/?q=PVECRSZ2FICLAWNXITDKQPVNVXC3UCU3) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 18 (720p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-18-720p-6b66733c-mkv.n2104820) • [🐱 Nyaa](https://nyaa.si/?q=SR4KTUBQPO5RYOYZL62SO45XZGCTASUC) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 18 (480p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-hitori-no-shita-outcast-s6-18-480p-38480480-mkv.n2104819) • [🐱 Nyaa](https://nyaa.si/?q=7HSXEKUAPM2EYOMSH3ZZRS4QHWLD4EKC) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 18 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.n2104818) • [🐱 Nyaa](https://nyaa.si/?q=54BTVUXQRJQ2O3T3ERAO2BCWJGURA6NJ) |
 
 ---
 <div align="center">
