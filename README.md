@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.01.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.55.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu K...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2104930) • [🐱 Nyaa](https://nyaa.si/?q=62Z74HJ52HPTMUN56QDJKXPJYQEG6BDQ) |
+| `[VARYG] An Observation Log of My Fiancee Who Calls Hersel...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-observation-log-my-fiancee-who-calls-herself.k10740070646029) • [🐱 Nyaa](https://nyaa.si/?q=RZ7HBLJBGRWBKYZA5TAZXDUTK3TETKS5) |
+| `CHAINSAW MAN THE MOVIE REZE ARC 2025 1080p CR WEB-DL MULT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chainsaw-man-movie-reze-arc-2025-1080p-cr.n2104928) • [🐱 Nyaa](https://nyaa.si/?q=KOAROSYPZ7LGO55L3C3CSFMKKTRG7YTB) |
+| `[Onalrie] Jishou Akuyaku Reijou na Konyakusha no Kansatsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.2078072) • [🐱 Nyaa](https://nyaa.si/?q=VYIP2M6T3XGCXZVWIAF6GIIM4VHRET4S) |
+| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.n2104927) • [🐱 Nyaa](https://nyaa.si/?q=FVXT73IL4TC3ZX5LPNYGYI6QDQQNR4VC) |
+| `[Yameii] An Observation Log of My Fiancée Who Calls Herse...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-observation-log-my-fiance-who-calls-herself.n2104926) • [🐱 Nyaa](https://nyaa.si/?q=56IT7NMYSME3CWZIE3JVTADWFV3SX3WE) |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.k10739439390732) • [🐱 Nyaa](https://nyaa.si/?q=TUNIW4N3NB247D3AAJE2W25UGS5U6Y2E) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2104919) • [🐱 Nyaa](https://nyaa.si/?q=ZF4OYPQ5QXDD7HXSQC6DMDLU65ECVXQA) |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Her...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-observation-log-my-fiancee-who-calls-herself.k10739434914048) • [🐱 Nyaa](https://nyaa.si/?q=QEUOW5I2SPYZN2T4LGQWYBBXFCWW5XYT) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.k10739423749890) • [🐱 Nyaa](https://nyaa.si/?q=I5MNXZTZCIINGJBJJ7BDGXOWY7543DBW) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2104914) • [🐱 Nyaa](https://nyaa.si/?q=VEHWFZDOQ5R5DRX4WSN6T5XDKKYVQ4OD) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2104913) • [🐱 Nyaa](https://nyaa.si/?q=5II5ER6PLIUYSQFNIHH7MLGJD7ZHOFXP) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2104912) • [🐱 Nyaa](https://nyaa.si/?q=5DPSHXIVINJEI7WT4MPRALTD5C7MXHJE) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.n2104911) • [🐱 Nyaa](https://nyaa.si/?q=KSUZKGFCCULYPDIAQ25HCFHPNUNPQCL3) |
 | `[Gecko] Koala's Diary - S01E01-E30 (コアラ絵日記; Koala Enikki)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e01-e30-koala-enikki-cthp.k10737681008394) • [🐱 Nyaa](https://nyaa.si/?q=W2Z2BU5OOM35P7AN4YX4CZDGSEVD7SUH) |
-| `Detective Conan Episode Selection FBI Intervention Episod...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/detective-conan-episode-selection-fbi-intervention-1-12.n2104882) • [🐱 Nyaa](https://nyaa.si/?q=RJI34OAQE5TQZ7IMW5BVMUHPTRM636ND) |
-| `[Erai-raws] Chainsaw Man: Reze-hen - Movie [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-chainsaw-man-reze-hen-movie-1080p.n2104881) • [🐱 Nyaa](https://nyaa.si/?q=AGNT4SQMGE7UT3Q4GZJSFLBLBX4QYOWO) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 18 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.k10736668626958) • [🐱 Nyaa](https://nyaa.si/?q=XDLZVC5GCGFVHHLBJFNVBFLTUSJEIYVB) |
-| `[Mangamannn] The SoulTaker - 01-13 (480i BD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-soultaker-01-13-480i-bd.k10736667645454) • [🐱 Nyaa](https://nyaa.si/?q=TEPVBJ2VRBT6Q4CP3XWLXN2HKTRXRQJV) |
-| `[Mangamannn] Night Warriors DarkStalkers' Revenge - 01-04...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-night-warriors-darkstalkers-revenge-01-04-480i.k10736637312005) • [🐱 Nyaa](https://nyaa.si/?q=PVU7C5NXC5XISOQRYUAGSVDVOA56I6CM) |
-| `[Mangamannn] Vampire Hunter D Bloodlust 2000 - 002 (480i ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-vampire-hunter-d-bloodlust-2000-002-480i-dvd.k10736608119821) • [🐱 Nyaa](https://nyaa.si/?q=JOEKJPEGD5MNXWUSQGO32QNGCKSUBAHC) |
-| `[Mangamannn] Vampire Hunter D 1985 - 001 (1080i TV)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-vampire-hunter-d-1985-001-1080i-tv.k10736577421836) • [🐱 Nyaa](https://nyaa.si/?q=5X4HHSVV3PL6T7AW55XP6IWXPLNCSVGF) |
-| `KILL BLUE S01E03 Wipe Your Own Butt 1080p AMZN WEB-DL MUL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kill-blue-s01e03-wipe-your-own-butt-1080p.n2104876) • [🐱 Nyaa](https://nyaa.si/?q=OBOXCOKMEPQ2N3I55K6OAK4NBC7JZEHZ) |
-| `KILL BLUE S01E03 Wipe Your Own Butt 1080p AMZN WEB-DL DUA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kill-blue-s01e03-wipe-your-own-butt-1080p.n2104875) • [🐱 Nyaa](https://nyaa.si/?q=MZHPOKGAVSHZVPNYFLMQE2GFRM3IYO63) |
-| `[ToonsHub] KILL BLUE S01E03 1080p AMZN WEB-DL MULTi DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e03-1080p-amzn-web-dl.n2104873) • [🐱 Nyaa](https://nyaa.si/?q=DX7ENJ4RRNMZSF34OSBIYTUKOY43QZF6) |
-| `[ToonsHub] KILL BLUE S01E03 1080p AMZN WEB-DL DUAL DDP2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e03-1080p-amzn-web-dl.n2104872) • [🐱 Nyaa](https://nyaa.si/?q=VXTKFPP3RZZ632HAP4BWPUNHODCHFMQA) |
-| `[Onalrie] Hitori no Shita - The Outcast - S06E18 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e18-1080p-webrip-av1-mkv.2077998) • [🐱 Nyaa](https://nyaa.si/?q=YHKA77LDYDAZWLKAY3SN6C3ISOEWNNQ2) |
-| `[LbE3L] Oshi no Ko S03E10 [1080p WEBRip AV1] [Castellano ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03e10-1080p-webrip-av1.k10732371343873) • [🐱 Nyaa](https://nyaa.si/?q=UNY5ILOJ5WERPWG5G373OHIX246IP4KR) |
-| `[Commie] Awajima Hyakkei - 04 [A59129B8].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/commie-awajima-hyakkei-04-a59129b8-mkv.n2104854) • [🐱 Nyaa](https://nyaa.si/?q=ZH4PGJ3O2TCQNCBU4C4HEJPGQYEV3GZL) |
 
 ---
 <div align="center">
