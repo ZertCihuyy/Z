@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.00.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.06.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `The Most Heretical Last Boss Queen From Villainess to Sav...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/most-heretical-last-boss-queen-from-villainess-savior.n2105170) • [🐱 Nyaa](https://nyaa.si/?q=UMJCBGMVYCCX5JWMTWMCSMMUD4BGUOWQ) |
+| `Beyond Twilight S01E04 1080p AMZN WEB-DL DDP2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyond-twilight-s01e04-1080p-amzn-web-dl-ddp2.n2105169) • [🐱 Nyaa](https://nyaa.si/?q=4CV6TEQBWMBDCHTYFVCNVCWHTCZKA6KO) |
+| `[Piyoko] Onegai AiPri - 04 [WEB AMZN 1080p h264 AC3 2.0]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-04-web-amzn-1080p-h264.n2105166) • [🐱 Nyaa](https://nyaa.si/?q=IDZGTCKGQI5ULRO4FYJENUTCTRH4LZXR) |
 | `[nekotan] Hajime no Ippo S00E03 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s00e03-bd-remux-1080p.k10748469938180) • [🐱 Nyaa](https://nyaa.si/?q=DAOYU7HJJVYVM7HSAKHXND5I7EY4Q2YU) |
 | `[nekotan] Hajime no Ippo S00E02 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s00e02-bd-remux-1080p.k10748392015116) • [🐱 Nyaa](https://nyaa.si/?q=GHSPW5GYLUDGA2INIPQSFUQFRC3K2NND) |
 | `[nekotan] Hajime no Ippo S00E01 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s00e01-bd-remux-1080p.k10748314302213) • [🐱 Nyaa](https://nyaa.si/?q=7XW4ZA5L64IZE675VDWWFTLJ7TXFU7IA) |
@@ -40,9 +43,6 @@
 | `[sam] Grand Blue Dreaming - S01E08 (BD 1080p HEVC x265 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-grand-blue-dreaming-s01e08-bd-1080p-hevc.k10746890057226) • [🐱 Nyaa](https://nyaa.si/?q=VFTP4J4QQPUKPMZFJXM6364LLM3O6GMP) |
 | `[Freehold] Chained Soldier S02E08 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e08-repack2-adn-web-dl.k10746838037511) • [🐱 Nyaa](https://nyaa.si/?q=YKT4DMVGB2BELC7KBT5EOQMJXN6GPHV2) |
 | `[SubsPlease] Yuukoku no Moriarty - OVA2 (1080p) [ED12C76F...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuukoku-no-moriarty-ova2-1080p-ed12c76f-mkv.n2105149) • [🐱 Nyaa](https://nyaa.si/?q=DO4ZBSCH3PIUPZH7DYLCXEDGIEGAG77O) |
-| `[SubsPlease] Yuukoku no Moriarty - OVA2 (720p) [B5461197]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuukoku-no-moriarty-ova2-720p-b5461197-mkv.n2105148) • [🐱 Nyaa](https://nyaa.si/?q=CVSPC65SMGJJJWG3IEI4JRUBPRH5RR3N) |
-| `[SubsPlease] Yuukoku no Moriarty - OVA2 (480p) [3DEA0068]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuukoku-no-moriarty-ova2-480p-3dea0068-mkv.n2105147) • [🐱 Nyaa](https://nyaa.si/?q=CDDJTWYXSC6DKMB5OOYI77G3HAESZ5UI) |
-| `[SubsPlease] Yuukoku no Moriarty - OVA1 (1080p) [C16F94ED...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuukoku-no-moriarty-ova1-1080p-c16f94ed-mkv.n2105145) • [🐱 Nyaa](https://nyaa.si/?q=G732BKE7XNZKWD3TDEYNLX4HMJYG4NGA) |
 
 ---
 <div align="center">
