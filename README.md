@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.06.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.52.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `The Most Heretical Last Boss Queen From Villainess to Sav...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/most-heretical-last-boss-queen-from-villainess-savior.n2105170) • [🐱 Nyaa](https://nyaa.si/?q=UMJCBGMVYCCX5JWMTWMCSMMUD4BGUOWQ) |
-| `Beyond Twilight S01E04 1080p AMZN WEB-DL DDP2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyond-twilight-s01e04-1080p-amzn-web-dl-ddp2.n2105169) • [🐱 Nyaa](https://nyaa.si/?q=4CV6TEQBWMBDCHTYFVCNVCWHTCZKA6KO) |
-| `[Piyoko] Onegai AiPri - 04 [WEB AMZN 1080p h264 AC3 2.0]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-04-web-amzn-1080p-h264.n2105166) • [🐱 Nyaa](https://nyaa.si/?q=IDZGTCKGQI5ULRO4FYJENUTCTRH4LZXR) |
-| `[nekotan] Hajime no Ippo S00E03 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s00e03-bd-remux-1080p.k10748469938180) • [🐱 Nyaa](https://nyaa.si/?q=DAOYU7HJJVYVM7HSAKHXND5I7EY4Q2YU) |
-| `[nekotan] Hajime no Ippo S00E02 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s00e02-bd-remux-1080p.k10748392015116) • [🐱 Nyaa](https://nyaa.si/?q=GHSPW5GYLUDGA2INIPQSFUQFRC3K2NND) |
-| `[nekotan] Hajime no Ippo S00E01 (BD Remux 1080p x264 8-bi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s00e01-bd-remux-1080p.k10748314302213) • [🐱 Nyaa](https://nyaa.si/?q=7XW4ZA5L64IZE675VDWWFTLJ7TXFU7IA) |
-| `Naruto Shippuden 052 Remaster (*with subs eng*) (BDRip 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/naruto-shippuden-052-remaster-subs-eng-bdrip-1080p.n2105162) • [🐱 Nyaa](https://nyaa.si/?q=TLVYRX62KFK33OF4P5QSTORQIH4TJZAF) |
-| `[nekotan] Hajime no Ippo S01 (BD Remux 1080p x264 8-bit F...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nekotan-hajime-no-ippo-s01-bd-remux-1080p.k10748110497035) • [🐱 Nyaa](https://nyaa.si/?q=APJ4YGMEH4OFC72G6CQ4YYV2B7FILJ6V) |
-| `[ASW] Yuukoku no Moriarty - OVA2 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuukoku-no-moriarty-ova2-1080p-hevc-x265-10bit-aac.n2105160) • [🐱 Nyaa](https://nyaa.si/?q=CHIZMDHMKKVOOT4ZDR6PTOUNYUDC3DKU) |
-| `[Lazyleido-Mini] DIGIMON BEATBREAK - 28 (S01E28) - (WEB 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-mini-digimon-beatbreak-28-s01e28-web-1080p.n2105159) • [🐱 Nyaa](https://nyaa.si/?q=LP6M5HVMMJMFHWSBA4SIJXOZRI7AKXDF) |
-| `[Lazyleido] DIGIMON BEATBREAK - 28 (S01E28) - (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-digimon-beatbreak-28-s01e28-web-1080p-hevc.n2105158) • [🐱 Nyaa](https://nyaa.si/?q=EILXYB5BEOG2JH4OQNHNGLDKILZJOQ5Z) |
-| `[ASW] Yuukoku no Moriarty - OVA1 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuukoku-no-moriarty-ova1-1080p-hevc-x265-10bit-aac.n2105156) • [🐱 Nyaa](https://nyaa.si/?q=TGBVIOM6YH7E62ONL5V7A6AFHBGL5CF6) |
-| `[sam] Grand Blue Dreaming - S01E08 (BD 1080p HEVC x265 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-grand-blue-dreaming-s01e08-bd-1080p-hevc.k10746890057226) • [🐱 Nyaa](https://nyaa.si/?q=VFTP4J4QQPUKPMZFJXM6364LLM3O6GMP) |
-| `[Freehold] Chained Soldier S02E08 REPACK2 [ADN WEB-DL 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/freehold-chained-soldier-s02e08-repack2-adn-web-dl.k10746838037511) • [🐱 Nyaa](https://nyaa.si/?q=YKT4DMVGB2BELC7KBT5EOQMJXN6GPHV2) |
-| `[SubsPlease] Yuukoku no Moriarty - OVA2 (1080p) [ED12C76F...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuukoku-no-moriarty-ova2-1080p-ed12c76f-mkv.n2105149) • [🐱 Nyaa](https://nyaa.si/?q=DO4ZBSCH3PIUPZH7DYLCXEDGIEGAG77O) |
+| `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2105215) • [🐱 Nyaa](https://nyaa.si/?q=U7R7KUCR5AUAFRQXLOMY3NGKWY46LJ27) |
+| `[Gecko] B.King - S01E12 (驭灵师; Yu Ling Shi) [BILI.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e12-yu-ling-shi-bili.k10752371208463) • [🐱 Nyaa](https://nyaa.si/?q=4VAVQRFFGFTP6AD5C2OYUZ3RBFI52WAK) |
+| `[ToonsHub] B King S01E12 1080p ADN WEB-DL AAC2.0 H.264 (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e12-1080p-adn-web-dl.k10752344987660) • [🐱 Nyaa](https://nyaa.si/?q=SXOC4RXL6XK6ELQB2U7OGN3XZEPPZLP7) |
+| `[ToonsHub] B King S01E12 1080p BILI WEB-DL AAC2.0 H.265 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e12-1080p-bili-web-dl.n2105211) • [🐱 Nyaa](https://nyaa.si/?q=YYLBUZKJPV4UL53GIOFY3U4LCM4KK7U2) |
+| `[Some-Stuffs] Pocket Monsters (2023) 136 (1080p HEVC 10-b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-136-1080p-hevc-10-bit-42ce46b1.n2105201) • [🐱 Nyaa](https://nyaa.si/?q=OPUVT5JDUY4MJKO3TW4M7K4CH3H42OVR) |
+| `[Some-Stuffs] Pocket Monsters (2023) 136 (1080p) [A479F347]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-136-1080p-a479f347.n2105200) • [🐱 Nyaa](https://nyaa.si/?q=KBOVGNOXQOFL5TCONE3CM53JBW6CE6QS) |
+| `[ASW] Rilakkuma - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-rilakkuma-05-1080p-hevc-x265-10bit-aac.n2105198) • [🐱 Nyaa](https://nyaa.si/?q=HHI2CBPFEAHK4TIOWPH3HFEWLTFAOL75) |
+| `RILAKKUMA S01E05 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e05-1080p-cr-web-dl-dual-aac2.n2105197) • [🐱 Nyaa](https://nyaa.si/?q=R3HVQW2SG662LNVL3MJD7GUDCUJCBRER) |
+| `[ToonsHub] RILAKKUMA S01E05 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e05-1080p-cr-web-dl-dual.k10750491557900) • [🐱 Nyaa](https://nyaa.si/?q=LVNZSB7HVTA75GF7A7GUUHAJAAYRYYWX) |
+| `[Erai-raws] Rilakkuma - 05 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-05-480p-cr-web-dl.k10750472193544) • [🐱 Nyaa](https://nyaa.si/?q=HQASDN7DGGIN2MMJPEL6HWKRPROUH43Q) |
+| `[Erai-raws] Rilakkuma - 05 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-05-720p-cr-web-dl.k10750471119883) • [🐱 Nyaa](https://nyaa.si/?q=VLEAYPU6AEIFVZB6UY76RW6X46KMFQVV) |
+| `[SubsPlease] Rilakkuma - 05 (1080p) [9D7B2AAD].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-05-1080p-9d7b2aad-mkv.n2105186) • [🐱 Nyaa](https://nyaa.si/?q=TY2B7PHVYYBHZJKQAP5CCBPQ3FNMX2CX) |
+| `[Erai-raws] Rilakkuma - 05 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-05-1080p-cr-web-dl.n2105185) • [🐱 Nyaa](https://nyaa.si/?q=7LTFU44BPOXITZ6U3QGKLD72E3GG6MM4) |
+| `[SubsPlease] Rilakkuma - 05 (480p) [FDF0A38B].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-05-480p-fdf0a38b-mkv.n2105184) • [🐱 Nyaa](https://nyaa.si/?q=TV22JJWIV6OONOIOUWEKPNKNMDLNFPPM) |
+| `[SubsPlease] Rilakkuma - 05 (720p) [FEA96D35].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-05-720p-fea96d35-mkv.n2105183) • [🐱 Nyaa](https://nyaa.si/?q=IOXSBETQNTENNCJG2GBMNRG47W5MASGY) |
 
 ---
 <div align="center">
