@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.34.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.35.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] My Hero Academia S00E23 More 1080p NF WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-my-hero-academia-s00e23-more-1080p-nf.n2105238) • [🐱 Nyaa](https://nyaa.si/?q=YEOOFMTQBQQIKPLHK7GWO3QQESHVQEXM) |
-| `[Onalrie] Rilakkuma - S01E05 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-rilakkuma-s01e05-1080p-webrip-av1-mkv.2078246) • [🐱 Nyaa](https://nyaa.si/?q=O5HNHNFOADNWZQRUMJTZ2KHKK66AUXEE) |
-| `[nnotaclue] Dr. STONE - S04E29 [1080p AV1 Opus 2.0 Multi-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e29-1080p-av1-opus-2.k10754816717826) • [🐱 Nyaa](https://nyaa.si/?q=EJSJ766P3BJH7QDBOUCIEZLSY2VRZLZ4) |
-| `[nnotaclue] Dr. STONE - S04E29 [1080p AV1 Opus 2.0 Dual-A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e29-1080p-av1-opus-2.k10754700482311) • [🐱 Nyaa](https://nyaa.si/?q=ZBTQMRPPVHHYL3YNKNUDVIVUCF5Z66XN) |
-| `The.100.Girlfriends.Who.Really.Really.Really.Really.REALL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/100-girlfriends-who-really-really-love-s01-v2.k10754319022849) • [🐱 Nyaa](https://nyaa.si/?q=HZM3HTJEATE3ZY3MRKHFMTH7E77EC7UH) |
-| `[Soshiki] Strike Witches S1 - Sub[EN,ES] - Aud[JP,EN]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/soshiki-strike-witches-s1-sub-en-es-aud-jp-en.n2105225) • [🐱 Nyaa](https://nyaa.si/?q=GSM3GQXEFNCWASNVXFBL6CJP55CWGJEV) |
-| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 03 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniv-remastered-03-1080p-yt.n2105218) • [🐱 Nyaa](https://nyaa.si/?q=SFDFAUBMO6DDNKR2ZXKB4R4YKIYQYQZH) |
-| `RILAKKUMA S01E05 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e05-1080p-cr-web-dl-multi-aac2.n2105217) • [🐱 Nyaa](https://nyaa.si/?q=FAW2NTX7E6WFUGZN2FOVR6U6S7LSVJWS) |
-| `[ToonsHub] Jiang Ye S01E03 1080p BILI WEB-DL AAC2.0 H.265...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-jiang-ye-s01e03-1080p-bili-web-dl.n2105216) • [🐱 Nyaa](https://nyaa.si/?q=3VTA3JK7GSLJFAHK6V4DDWXRJ2QGFPIK) |
-| `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2105215) • [🐱 Nyaa](https://nyaa.si/?q=U7R7KUCR5AUAFRQXLOMY3NGKWY46LJ27) |
-| `[Gecko] B.King - S01E12 (驭灵师; Yu Ling Shi) [BILI.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e12-yu-ling-shi-bili.k10752371208463) • [🐱 Nyaa](https://nyaa.si/?q=4VAVQRFFGFTP6AD5C2OYUZ3RBFI52WAK) |
-| `[ToonsHub] B King S01E12 1080p ADN WEB-DL AAC2.0 H.264 (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e12-1080p-adn-web-dl.k10752344987660) • [🐱 Nyaa](https://nyaa.si/?q=SXOC4RXL6XK6ELQB2U7OGN3XZEPPZLP7) |
-| `[ToonsHub] B King S01E12 1080p BILI WEB-DL AAC2.0 H.265 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e12-1080p-bili-web-dl.n2105211) • [🐱 Nyaa](https://nyaa.si/?q=YYLBUZKJPV4UL53GIOFY3U4LCM4KK7U2) |
-| `[Some-Stuffs] Pocket Monsters (2023) 136 (1080p HEVC 10-b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-136-1080p-hevc-10-bit-42ce46b1.n2105201) • [🐱 Nyaa](https://nyaa.si/?q=OPUVT5JDUY4MJKO3TW4M7K4CH3H42OVR) |
-| `[Some-Stuffs] Pocket Monsters (2023) 136 (1080p) [A479F347]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-136-1080p-a479f347.n2105200) • [🐱 Nyaa](https://nyaa.si/?q=KBOVGNOXQOFL5TCONE3CM53JBW6CE6QS) |
+| `[Onalrie] Boku no Hero Academia - S08E12 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-boku-no-hero-academia-s08e12-1080p-webrip-av1-mkv.2078285) • [🐱 Nyaa](https://nyaa.si/?q=KZPSQN72LICG5Y65DIABH4SBFYB3WW4J) |
+| `[Yameii] Welcome to Demon School! Iruma-kun - S04E05 [Eng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-welcome-demon-school-iruma-kun-s04e05-english.k10759197747724) • [🐱 Nyaa](https://nyaa.si/?q=LPR7EZCKOWSNWRUK4ZDN6KL2WJ6SPZUJ) |
+| `[VARYG] Welcome to Demon School Iruma kun S04E05 Lets Hav...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-welcome-demon-school-iruma-kun-s04e05-lets.k10759196813319) • [🐱 Nyaa](https://nyaa.si/?q=KXV4I5PUIDUP3ZTLZPHL46JV3CIAUSCJ) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E05 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-welcome-demon-school-iruma-kun-s04e05-1080p.k10759184742925) • [🐱 Nyaa](https://nyaa.si/?q=KFYDG32GFLFIHZSAVIOILT5BIW4UFEIG) |
+| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 05 [480p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-05.k10759161558536) • [🐱 Nyaa](https://nyaa.si/?q=JVSBYIKCMMKZZMATVGLKJFC3V2UN5XUN) |
+| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 05 [720p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-05.n2105257) • [🐱 Nyaa](https://nyaa.si/?q=SWWZJOY6X6NJ7QDBGZKXHW4SXEHE7QBH) |
+| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 05 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mairimashita-iruma-kun-4th-season-05.n2105256) • [🐱 Nyaa](https://nyaa.si/?q=37EZ7VDCMUE7IE26KDTRH5EEDG2OENJK) |
+| `[ASW] Boku no Hero Academia - 171 [1080p HEVC x265 10Bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-boku-no-hero-academia-171-1080p-hevc.n2105255) • [🐱 Nyaa](https://nyaa.si/?q=C2LGEXIBNZ2B672VCV3ZMVTWSUGI377I) |
+| `[Yameii] Ascendance of a Bookworm - S04E03 [English Dub] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-ascendance-bookworm-s04e03-english-dub-cr-web.k10758459227403) • [🐱 Nyaa](https://nyaa.si/?q=WNTLVGAWXY6Z7UZJ23LRCHAJ6YRUSFEL) |
+| `[SubsPlease] Boku no Hero Academia - 171 (1080p) [ADE3A4B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-boku-no-hero-academia-171-1080p-ade3a4b9-mkv.n2105249) • [🐱 Nyaa](https://nyaa.si/?q=2QOBO56D5JIOHGQP3J2WD5O2HA2YM277) |
+| `[SubsPlease] Boku no Hero Academia - 171 (720p) [A472F3A0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-boku-no-hero-academia-171-720p-a472f3a0-mkv.n2105248) • [🐱 Nyaa](https://nyaa.si/?q=EHLD7UHW2DP6AEUOACJ2XE5H7IDI3EFW) |
+| `[SubsPlease] Boku no Hero Academia - 171 (480p) [675F68CC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-boku-no-hero-academia-171-480p-675f68cc-mkv.n2105247) • [🐱 Nyaa](https://nyaa.si/?q=4IWMHMC37NAODW4EHFYERSDEUEYJMLCM) |
+| `My Hero Academia S00E23 More 1080p CR WEB-DL DUAL AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/my-hero-academia-s00e23-more-1080p-cr-web.n2105246) • [🐱 Nyaa](https://nyaa.si/?q=L3LWMZUGN2IZ6WG4YRLB6PMUPDWCTIZ4) |
+| `[Yameii] Ascendance of a Bookworm - S04E03 [English Dub] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-ascendance-bookworm-s04e03-english-dub-cr-web.k10758352217088) • [🐱 Nyaa](https://nyaa.si/?q=RGBGFERQJYCTLD73RZO7A6K5B5KZBO4P) |
+| `Ascendance of a Bookworm S04E03 Archdukes Castle and Ital...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ascendance-bookworm-s04e03-archdukes-castle-italian.n2105243) • [🐱 Nyaa](https://nyaa.si/?q=KQH5BGWWDEXZKKWMZNLA3VAJNE36XJCW) |
 
 ---
 <div align="center">
