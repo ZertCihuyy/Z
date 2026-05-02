@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.07.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.03.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Yameii] NEEDY GIRL OVERDOSE - S01E01 [English Dub] [CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-needy-girl-overdose-s01e01-english-dub-cr.k10765273801743) • [🐱 Nyaa](https://nyaa.si/?q=UKOKNMWD2UDSPGGYR6NWYOTJKMSWD5NE) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E01 1080p CR WEB-DL DUA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-needy-girl-overdose-s01e01-1080p-cr-web.k10765249055499) • [🐱 Nyaa](https://nyaa.si/?q=MB4ZCS4UMBGSUBR56Z2VQTRVRIJFCGDQ) |
-| `[Erai-raws] Needy Girl Overdose - 05 [480p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-needy-girl-overdose-05-480p-cr.k10765245851907) • [🐱 Nyaa](https://nyaa.si/?q=DVGDAKJCCUIG42UVGNB5BUG23QYXISZ6) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E05 1080p CR WEB-DL AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-needy-girl-overdose-s01e05-1080p-cr-web.k10765244695562) • [🐱 Nyaa](https://nyaa.si/?q=4QNTO4KFPTPQ5MBJJSOBUYNBBNVQPCFR) |
-| `[VARYG] Mistress Kanan is Devilishly Easy S01E02 Ami Has ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-mistress-kanan-devilishly-easy-s01e02-ami-has.k10765241561358) • [🐱 Nyaa](https://nyaa.si/?q=XSCFDIXZWYH6LUOAHBXT3FJGRESAJCUW) |
-| `[Erai-raws] Yuusha no Kuzu - 16 [480p CR WEB-DL AVC AAC][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-no-kuzu-16-480p-cr.k10765235286786) • [🐱 Nyaa](https://nyaa.si/?q=ZVSB3XPCDBAIGZELCQQQZ6TRJ76GCTEL) |
-| `[Erai-raws] Needy Girl Overdose - 05 [720p CR WEB-DL AVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-needy-girl-overdose-05-720p-cr.k10765235313923) • [🐱 Nyaa](https://nyaa.si/?q=RXLWVNLBX2EKNJNXKG6EMQDIF5XQGFTN) |
-| `[Erai-raws] Yuusha no Kuzu - 16 [720p CR WEB-DL AVC AAC][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yuusha-no-kuzu-16-720p-cr.k10765229477645) • [🐱 Nyaa](https://nyaa.si/?q=J37KOVMSZQJFOSC24LQ5IBBHZEWE7OIJ) |
-| `[SubsPlease] Kami no Niwatsuki Kusunoki-tei - 05 (1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kami-no-niwatsuki-kusunoki-tei-05-1080p-f52cade9.n2105488) • [🐱 Nyaa](https://nyaa.si/?q=ORCVBEDBEFZETKJLCKFEAJJN6DTTVFXH) |
-| `[SubsPlease] Kami no Niwatsuki Kusunoki-tei - 05 (720p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kami-no-niwatsuki-kusunoki-tei-05-720p-5c1835c4.n2105486) • [🐱 Nyaa](https://nyaa.si/?q=5HQRNFU3ALPEMQYN75HCNSKEBM5S6R5G) |
-| `[Judas] Akane-banashi - S01E05 [1080p][HEVC x265 10bit][M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-akane-banashi-s01e05-1080p-hevc-x265-10bit.n2105485) • [🐱 Nyaa](https://nyaa.si/?q=OJQBKTYD6YEUCILEHEDMARABWY22YMRP) |
-| `[SubsPlease] Kami no Niwatsuki Kusunoki-tei - 05 (480p) [...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kami-no-niwatsuki-kusunoki-tei-05-480p-95105f8c.n2105484) • [🐱 Nyaa](https://nyaa.si/?q=CTNC27UKICCL2VJDI7B2RXMNAZ3WGNFS) |
-| `[ToonsHub] Kusunokis Garden of Gods S01E05 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kusunokis-garden-gods-s01e05-1080p-cr-web.k10764933521162) • [🐱 Nyaa](https://nyaa.si/?q=AL5KLYEIP5LABYTFJTALA2TBGSBY26WS) |
-| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 05 [480p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-05.k10764924627458) • [🐱 Nyaa](https://nyaa.si/?q=JZC6PUPRCZ7M3IHDIZNOYJ345YYZP55N) |
-| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 05 [720p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-niwatsuki-kusunoki-tei-05.k10764922424842) • [🐱 Nyaa](https://nyaa.si/?q=R2XQSO6LLT6PFYIKB65XTJ7XRW7345SQ) |
+| `[FumeiRaws] NEEDY GIRL OVERDOSE - 05 (Aniplus 1920x1080 x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fumeiraws-needy-girl-overdose-05-aniplus-1920x1080-x264-aac.n2105541) • [🐱 Nyaa](https://nyaa.si/?q=CUD3ZLVK3YIKNFCJMEO546DXPIRB65NG) |
+| `Scum of the Brave S01E16 The Darkness of Braves 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/scum-brave-s01e16-darkness-braves-1080p-cr-web.n2105539) • [🐱 Nyaa](https://nyaa.si/?q=L624CK3FIPJMKS4GE5S6265W6J2FZHGK) |
+| `NEEDY GIRL OVERDOSE S01E01 Shes a Killer Queen 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/needy-girl-overdose-s01e01-shes-killer-queen-1080p.n2105538) • [🐱 Nyaa](https://nyaa.si/?q=2J245D64BNHK3WZQHURSJOFWLGA5IZYM) |
+| `NEEDY GIRL OVERDOSE S01E05 Whatever 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/needy-girl-overdose-s01e05-whatever-1080p-cr-web.n2105537) • [🐱 Nyaa](https://nyaa.si/?q=62MPSQ2FSAZU7VQSL6SPY7XCDQ43KPU3) |
+| `[Judas] Boku no Hero Academia (My Hero Academia) - S08SP0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-boku-no-hero-academia-my-s08sp01-1080p.n2105536) • [🐱 Nyaa](https://nyaa.si/?q=4FIFBWNSBTLCEIJNHLWNEU3ZBP4WAJZS) |
+| `[ToonsHub] Scum of the Brave S01E16 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-scum-brave-s01e16-1080p-cr-web-dl.k10765789889549) • [🐱 Nyaa](https://nyaa.si/?q=CYMJ4TYZ75QYRAAPF56K7FYVVDNGG5AH) |
+| `[ToonsHub] Ichijyoma Mankitsu Gurashi S01E04 1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-ichijyoma-mankitsu-gurashi-s01e04-1080p-amzn-web.k10765785514497) • [🐱 Nyaa](https://nyaa.si/?q=EQOAWHUWLFJ5ALDHA523Y4FFFPTDIKVQ) |
+| `[ToonsHub] Akane-Banashi S01E05 1080p NF WEB-DL AAC2.0 H....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-akane-banashi-s01e05-1080p-nf-web-dl.k10765783069453) • [🐱 Nyaa](https://nyaa.si/?q=ISSKF442DSJEJ2IHVB33PFRUD3OQFATB) |
+| `[ToonsHub] MAO S01E05 1080p AMZN WEB-DL DDP2.0 H.264 (Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-mao-s01e05-1080p-amzn-web-dl-ddp2.k10765730473998) • [🐱 Nyaa](https://nyaa.si/?q=LSLXXQY4IK24E55QSO5J4PHWREGEN3EU) |
+| `[Erai-raws] Yomi no Tsugai - 05 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-yomi-no-tsugai-05-1080p-cr.k10765696514060) • [🐱 Nyaa](https://nyaa.si/?q=Q3PA2ZAEBSQDN3XUL2737FQPXKOENAMG) |
+| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kanan-sama-wa-akumade-choroi-mistress-devilishly.n2105530) • [🐱 Nyaa](https://nyaa.si/?q=6RMPZPD7KOYDUE6LTTZML6WOKHR62BWQ) |
+| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E06 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-shunkashuutou-daikousha-haru-no-mai-s01e06-1080p.2078391) • [🐱 Nyaa](https://nyaa.si/?q=R4TVI3EYR52IXESSZOOJHND3QT7AODWA) |
+| `[Unfucked] NEEDY GIRL OVERDOSE - S01E05 (1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-needy-girl-overdose-s01e05-1080p-cr-web.n2105529) • [🐱 Nyaa](https://nyaa.si/?q=KVJCTUODJHP2KEXSW5UL24BINFMPDS2V) |
+| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 04 [720p AMZN WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-04-720p-amzn.n2105528) • [🐱 Nyaa](https://nyaa.si/?q=GMHHRLXGZMONMIUACB4CDVQU5FD6YSCP) |
+| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 04 [1080p AMZN W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ichijyoma-mankitsu-gurashi-04-1080p-amzn.n2105527) • [🐱 Nyaa](https://nyaa.si/?q=GNHO6YRFISBTAH2JJERGZTXMJ7LOXV37) |
 
 ---
 <div align="center">
