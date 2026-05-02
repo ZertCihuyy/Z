@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.52.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.11.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nnotaclue] Dr. STONE - S04E29 [1080p AV1 Opus 2.0 Multi-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e29-1080p-av1-opus-2.k10754816717826) • [🐱 Nyaa](https://nyaa.si/?q=EJSJ766P3BJH7QDBOUCIEZLSY2VRZLZ4) |
+| `[nnotaclue] Dr. STONE - S04E29 [1080p AV1 Opus 2.0 Dual-A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e29-1080p-av1-opus-2.k10754700482311) • [🐱 Nyaa](https://nyaa.si/?q=ZBTQMRPPVHHYL3YNKNUDVIVUCF5Z66XN) |
+| `The.100.Girlfriends.Who.Really.Really.Really.Really.REALL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/100-girlfriends-who-really-really-love-s01-v2.k10754319022849) • [🐱 Nyaa](https://nyaa.si/?q=HZM3HTJEATE3ZY3MRKHFMTH7E77EC7UH) |
+| `[Soshiki] Strike Witches - Sub[EN,ES] - Aud[JP,EN]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/soshiki-strike-witches-sub-en-es-aud-jp-en.n2105225) • [🐱 Nyaa](https://nyaa.si/?q=GSM3GQXEFNCWASNVXFBL6CJP55CWGJEV) |
+| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 03 [1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniv-remastered-03-1080p-yt.n2105218) • [🐱 Nyaa](https://nyaa.si/?q=SFDFAUBMO6DDNKR2ZXKB4R4YKIYQYQZH) |
+| `RILAKKUMA S01E05 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e05-1080p-cr-web-dl-multi-aac2.n2105217) • [🐱 Nyaa](https://nyaa.si/?q=FAW2NTX7E6WFUGZN2FOVR6U6S7LSVJWS) |
+| `[ToonsHub] Jiang Ye S01E03 1080p BILI WEB-DL AAC2.0 H.265...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-jiang-ye-s01e03-1080p-bili-web-dl.n2105216) • [🐱 Nyaa](https://nyaa.si/?q=3VTA3JK7GSLJFAHK6V4DDWXRJ2QGFPIK) |
 | `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2105215) • [🐱 Nyaa](https://nyaa.si/?q=U7R7KUCR5AUAFRQXLOMY3NGKWY46LJ27) |
 | `[Gecko] B.King - S01E12 (驭灵师; Yu Ling Shi) [BILI.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-b-king-s01e12-yu-ling-shi-bili.k10752371208463) • [🐱 Nyaa](https://nyaa.si/?q=4VAVQRFFGFTP6AD5C2OYUZ3RBFI52WAK) |
 | `[ToonsHub] B King S01E12 1080p ADN WEB-DL AAC2.0 H.264 (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-b-king-s01e12-1080p-adn-web-dl.k10752344987660) • [🐱 Nyaa](https://nyaa.si/?q=SXOC4RXL6XK6ELQB2U7OGN3XZEPPZLP7) |
@@ -36,13 +43,6 @@
 | `[Some-Stuffs] Pocket Monsters (2023) 136 (1080p) [A479F347]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/stuffs-pocket-monsters-2023-136-1080p-a479f347.n2105200) • [🐱 Nyaa](https://nyaa.si/?q=KBOVGNOXQOFL5TCONE3CM53JBW6CE6QS) |
 | `[ASW] Rilakkuma - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-rilakkuma-05-1080p-hevc-x265-10bit-aac.n2105198) • [🐱 Nyaa](https://nyaa.si/?q=HHI2CBPFEAHK4TIOWPH3HFEWLTFAOL75) |
 | `RILAKKUMA S01E05 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rilakkuma-s01e05-1080p-cr-web-dl-dual-aac2.n2105197) • [🐱 Nyaa](https://nyaa.si/?q=R3HVQW2SG662LNVL3MJD7GUDCUJCBRER) |
-| `[ToonsHub] RILAKKUMA S01E05 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rilakkuma-s01e05-1080p-cr-web-dl-dual.k10750491557900) • [🐱 Nyaa](https://nyaa.si/?q=LVNZSB7HVTA75GF7A7GUUHAJAAYRYYWX) |
-| `[Erai-raws] Rilakkuma - 05 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-05-480p-cr-web-dl.k10750472193544) • [🐱 Nyaa](https://nyaa.si/?q=HQASDN7DGGIN2MMJPEL6HWKRPROUH43Q) |
-| `[Erai-raws] Rilakkuma - 05 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-05-720p-cr-web-dl.k10750471119883) • [🐱 Nyaa](https://nyaa.si/?q=VLEAYPU6AEIFVZB6UY76RW6X46KMFQVV) |
-| `[SubsPlease] Rilakkuma - 05 (1080p) [9D7B2AAD].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-05-1080p-9d7b2aad-mkv.n2105186) • [🐱 Nyaa](https://nyaa.si/?q=TY2B7PHVYYBHZJKQAP5CCBPQ3FNMX2CX) |
-| `[Erai-raws] Rilakkuma - 05 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-rilakkuma-05-1080p-cr-web-dl.n2105185) • [🐱 Nyaa](https://nyaa.si/?q=7LTFU44BPOXITZ6U3QGKLD72E3GG6MM4) |
-| `[SubsPlease] Rilakkuma - 05 (480p) [FDF0A38B].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-05-480p-fdf0a38b-mkv.n2105184) • [🐱 Nyaa](https://nyaa.si/?q=TV22JJWIV6OONOIOUWEKPNKNMDLNFPPM) |
-| `[SubsPlease] Rilakkuma - 05 (720p) [FEA96D35].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-rilakkuma-05-720p-fea96d35-mkv.n2105183) • [🐱 Nyaa](https://nyaa.si/?q=IOXSBETQNTENNCJG2GBMNRG47W5MASGY) |
 
 ---
 <div align="center">
