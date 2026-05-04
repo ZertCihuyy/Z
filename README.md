@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.23.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.39.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Vigilante - Boku no Hero Academia Illegals S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-s2.n2106294) • [🐱 Nyaa](https://nyaa.si/?q=TAPCCYSIHFQXIXK3GYKOFMMQGGGKOMZ4) |
+| `[SubsPlease] Vigilante - Boku no Hero Academia Illegals S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-s2.n2106293) • [🐱 Nyaa](https://nyaa.si/?q=5Z4UKQOZQBH447KWE72FSWCQVICBFTFP) |
+| `[SubsPlease] Vigilante - Boku no Hero Academia Illegals S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-s2.n2106292) • [🐱 Nyaa](https://nyaa.si/?q=IPNRD33YWE2J4HMJOONDPWSYSOTQP4MW) |
+| `[SubsPlease] Vigilante - Boku no Hero Academia Illegals (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-01.n2106291) • [🐱 Nyaa](https://nyaa.si/?q=GJ7JM76IRD2QHUQJXYO6QWGP454J67CD) |
+| `[SubsPlease] Vigilante - Boku no Hero Academia Illegals (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-01.n2106290) • [🐱 Nyaa](https://nyaa.si/?q=DMCYX463ZLJHYAUSXJBTZUCLITDMVWLU) |
+| `[SubsPlease] Vigilante - Boku no Hero Academia Illegals (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-01.n2106289) • [🐱 Nyaa](https://nyaa.si/?q=H3JMNQQ65J2SICUELHG35BELROMVFX26) |
+| `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2106288) • [🐱 Nyaa](https://nyaa.si/?q=XW5DF6GSQIG7NXYRGUEBSK5HF3SQEKWH) |
 | `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2106286) • [🐱 Nyaa](https://nyaa.si/?q=6Q3BH72AXX2CYQAZ7NIU6WRZTXU4INKS) |
 | `Farming Life In Another World S02E05 Another Peaceful Day...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/farming-life-another-world-s02e05-peaceful-day-1080p.n2106285) • [🐱 Nyaa](https://nyaa.si/?q=WHFXUKZQKZUCNDKCCJXCWS4AEPJN6YXS) |
 | `[Erai-raws] Liar Game - 05 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-05-1080p-cr-webrip.k10811816774915) • [🐱 Nyaa](https://nyaa.si/?q=64ETGTLAL2ZDCQBTFXRL3IGWHDXC4BOX) |
@@ -36,13 +43,6 @@
 | `[ASW] LIAR GAME - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-liar-game-05-1080p-hevc-x265-10bit-aac.n2106264) • [🐱 Nyaa](https://nyaa.si/?q=SCYQCEMM3LPDM2FCSS3TFZJTQL6XJLKI) |
 | `[Onalrie] LIAR GAME - S01E05 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-liar-game-s01e05-1080p-webrip-av1-mkv.2078833) • [🐱 Nyaa](https://nyaa.si/?q=3FZLQZZJH3J26V6CCE53AUHLHDSUZJM4) |
 | `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.k10810182845697) • [🐱 Nyaa](https://nyaa.si/?q=UHWAKPRBGAJ3C35SAUBGU2QSANT4MUZO) |
-| `[DKB] Isekai Nonbiri Nouka - S02E05 [1080p][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-isekai-nonbiri-nouka-s02e05-1080p-hevc-x265-10bit-weekly.n2106250) • [🐱 Nyaa](https://nyaa.si/?q=HO3T6Z6AEXOGCFZSO7UQJ3JFMK7EHB65) |
-| `LIAR GAME S01E05 Alliance 1080p CR WEB-DL AAC2.0 H 264-VA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/liar-game-s01e05-alliance-1080p-cr-web-dl.n2106249) • [🐱 Nyaa](https://nyaa.si/?q=PWZYWQ6LB2HVECD7XKIHKW6VFENI5Y5C) |
-| `[Erai-raws] Liar Game - 05 [480p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-05-480p-cr-web.k10809947166733) • [🐱 Nyaa](https://nyaa.si/?q=RTGIFDVR7L2Q2MA7OUSLDNL3TTIHDF6D) |
-| `[Erai-raws] Liar Game - 05 [720p CR WEB-DL AVC AAC][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-05-720p-cr-web.k10809945240844) • [🐱 Nyaa](https://nyaa.si/?q=X4QQ324CPR67PS2KN77CJCTBDNUSITXU) |
-| `[Erai-raws] Liar Game - 05 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-05-1080p-cr-web.k10809943196683) • [🐱 Nyaa](https://nyaa.si/?q=7Z4HILXM3SO2WMYPQJCHBOZV6XRKIM6Q) |
-| `[SubsPlease] LIAR GAME - 05 (1080p) [DCB70472].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-liar-game-05-1080p-dcb70472-mkv.n2106245) • [🐱 Nyaa](https://nyaa.si/?q=2IEWVN4LWTVBEDKRNX27NSL4ZSWOK3IY) |
-| `[SubsPlease] LIAR GAME - 05 (720p) [0B170936].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-liar-game-05-720p-0b170936-mkv.n2106244) • [🐱 Nyaa](https://nyaa.si/?q=OLACGNDBSX53OJUM5UV6IGBR2R4SCMMC) |
 
 ---
 <div align="center">
