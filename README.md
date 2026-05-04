@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.38.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.27.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Chihiro] Aru Majo ga Shinu Made - 11 [Blu-ray 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-aru-majo-ga-shinu-made-11-blu.n2106123) • [🐱 Nyaa](https://nyaa.si/?q=RZOR343TSAI2D4IPMEKGQLVSNA3WA5MG) |
+| `One.Piece.Vol001.DVDRip.480p.x265.10bit.AAC.Multi-uP` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-vol001-dvdrip-480p-x265-10bit-aac-multi-up.n2106118) • [🐱 Nyaa](https://nyaa.si/?q=5RWQIQ6PPU3M6TCDJM5UATO5Q3YO3BBQ) |
 | `One Piece 0122 Remaster (BDRip 1080p x264 AC3 Multi) - Ry...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-0122-remaster-bdrip-1080p-x264-ac3-multi-ryjin.n2106109) • [🐱 Nyaa](https://nyaa.si/?q=TJAUE6KEXVPXL54LTQQRZX2LPZIM5EZC) |
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e05.n2106100) • [🐱 Nyaa](https://nyaa.si/?q=LWWUQ45KHQAFGSNIMJXPSU27EILDWNSI) |
 | `[ToonsHub] One Piece EP1160 2160p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1160-2160p-bili-web-dl.n2106074) • [🐱 Nyaa](https://nyaa.si/?q=J3MPE22EMS37CSFDFMPRANRPLLRPSP3L) |
@@ -41,8 +43,6 @@
 | `[Seigyoku] Mahou no Shimai LuluttoLilly - 05 (WEB 1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/seigyoku-mahou-no-shimai-luluttolilly-05-web-1080p.n2106062) • [🐱 Nyaa](https://nyaa.si/?q=JM3HVLK2NWNFGFYD4QQBKLEL6QYVA3FD) |
 | `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sw...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tsue-tsurugi-no-wistoria-wand-sword-s02e04.n2106056) • [🐱 Nyaa](https://nyaa.si/?q=2365XD3SDLV6MV273SNMNYF3MHX2CIOS) |
 | `[NSnf] Yoroi Shin Den Samurai Troopers - 03 (h265 1920x10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nsnf-yoroi-shin-den-samurai-troopers-03-h265.n2106055) • [🐱 Nyaa](https://nyaa.si/?q=6OURMX5REEVLJADSQT6FKO3VFJOI4T2H) |
-| `[ToonsHub] Quiet Please S01E05 1080p VIKI WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-quiet-please-s01e05-1080p-viki-web-dl.k10793362685966) • [🐱 Nyaa](https://nyaa.si/?q=DYH77SIMJ5N6ATGERRNEBDW4AJM7LNJB) |
-| `[ToonsHub] Quiet Please S01E04 1080p VIKI WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-quiet-please-s01e04-1080p-viki-web-dl.k10793351830541) • [🐱 Nyaa](https://nyaa.si/?q=Y6EY6CNDSM2FCGKMRBVQ3S53QLUPYYKO) |
 
 ---
 <div align="center">
