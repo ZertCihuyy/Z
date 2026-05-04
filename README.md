@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.57.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.23.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2106286) • [🐱 Nyaa](https://nyaa.si/?q=6Q3BH72AXX2CYQAZ7NIU6WRZTXU4INKS) |
+| `Farming Life In Another World S02E05 Another Peaceful Day...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/farming-life-another-world-s02e05-peaceful-day-1080p.n2106285) • [🐱 Nyaa](https://nyaa.si/?q=WHFXUKZQKZUCNDKCCJXCWS4AEPJN6YXS) |
+| `[Erai-raws] Liar Game - 05 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-05-1080p-cr-webrip.k10811816774915) • [🐱 Nyaa](https://nyaa.si/?q=64ETGTLAL2ZDCQBTFXRL3IGWHDXC4BOX) |
 | `[Feibanyama] Classroom of the Elite S04E08 [IQIYI WebRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-classroom-elite-s04e08-iqiyi-webrip-2160p-hevc.n2106268) • [🐱 Nyaa](https://nyaa.si/?q=7ULE2BJEBOQOGCMM4OEEPWH6KINZPTXD) |
 | `[Judas] Liar Game - S01E05 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e05-1080p-hevc-x265-10bit.n2106267) • [🐱 Nyaa](https://nyaa.si/?q=JS6VK6EGJIWRNIVNLQUVG3EQZ2GREFXW) |
 | `[ASW] LIAR GAME - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-liar-game-05-1080p-hevc-x265-10bit-aac.n2106264) • [🐱 Nyaa](https://nyaa.si/?q=SCYQCEMM3LPDM2FCSS3TFZJTQL6XJLKI) |
@@ -40,9 +43,6 @@
 | `[Erai-raws] Liar Game - 05 [1080p CR WEB-DL AVC AAC][Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-05-1080p-cr-web.k10809943196683) • [🐱 Nyaa](https://nyaa.si/?q=7Z4HILXM3SO2WMYPQJCHBOZV6XRKIM6Q) |
 | `[SubsPlease] LIAR GAME - 05 (1080p) [DCB70472].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-liar-game-05-1080p-dcb70472-mkv.n2106245) • [🐱 Nyaa](https://nyaa.si/?q=2IEWVN4LWTVBEDKRNX27NSL4ZSWOK3IY) |
 | `[SubsPlease] LIAR GAME - 05 (720p) [0B170936].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-liar-game-05-720p-0b170936-mkv.n2106244) • [🐱 Nyaa](https://nyaa.si/?q=OLACGNDBSX53OJUM5UV6IGBR2R4SCMMC) |
-| `[SubsPlease] LIAR GAME - 05 (480p) [63916006].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-liar-game-05-480p-63916006-mkv.n2106242) • [🐱 Nyaa](https://nyaa.si/?q=52UDQ3K3KRERJ5645KCJSMVWFFQXQ56N) |
-| `[ToonsHub] LIAR GAME S01E05 1080p CR WEB-DL AAC2.0 H.264 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-liar-game-s01e05-1080p-cr-web-dl.n2106240) • [🐱 Nyaa](https://nyaa.si/?q=YSJUM24734JEFG2DQOXMXXLVUUXVLPEY) |
-| `Agents of the Four Seasons Dance of Spring S01E06 A Place...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/agents-four-seasons-dance-spring-s01e06-place-call.n2106239) • [🐱 Nyaa](https://nyaa.si/?q=SQAPUJ23UHH25WZAXLSQYRLYKJHMASII) |
 
 ---
 <div align="center">
