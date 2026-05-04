@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.41.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.38.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[R-Archive] Inuyasha Seasons 1~7 R1 DVD Remux 480p Eng Su...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/r-archive-inuyasha-seasons-1-7-r1-dvd.n2106303) • [🐱 Nyaa](https://nyaa.si/?q=VHY2L7KTJK5ELZKZIDQ5JFDY4LROOLJR) |
 | `[HatSubs] One Piece 1160 (WEB 1080p) [DC7506FA].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-1160-web-1080p-dc7506fa-mkv.n2106295) • [🐱 Nyaa](https://nyaa.si/?q=LUISNSKQE5IDTONAIXXZBPWGMPJZYOXV) |
 | `[SubsPlease] Vigilante - Boku no Hero Academia Illegals S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-s2.n2106294) • [🐱 Nyaa](https://nyaa.si/?q=TAPCCYSIHFQXIXK3GYKOFMMQGGGKOMZ4) |
 | `[SubsPlease] Vigilante - Boku no Hero Academia Illegals S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-s2.n2106293) • [🐱 Nyaa](https://nyaa.si/?q=5Z4UKQOZQBH447KWE72FSWCQVICBFTFP) |
@@ -42,7 +43,6 @@
 | `[Feibanyama] Classroom of the Elite S04E08 [IQIYI WebRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-classroom-elite-s04e08-iqiyi-webrip-2160p-hevc.n2106268) • [🐱 Nyaa](https://nyaa.si/?q=7ULE2BJEBOQOGCMM4OEEPWH6KINZPTXD) |
 | `[Judas] Liar Game - S01E05 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e05-1080p-hevc-x265-10bit.n2106267) • [🐱 Nyaa](https://nyaa.si/?q=JS6VK6EGJIWRNIVNLQUVG3EQZ2GREFXW) |
 | `[ASW] LIAR GAME - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-liar-game-05-1080p-hevc-x265-10bit-aac.n2106264) • [🐱 Nyaa](https://nyaa.si/?q=SCYQCEMM3LPDM2FCSS3TFZJTQL6XJLKI) |
-| `[Onalrie] LIAR GAME - S01E05 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-liar-game-s01e05-1080p-webrip-av1-mkv.2078833) • [🐱 Nyaa](https://nyaa.si/?q=3FZLQZZJH3J26V6CCE53AUHLHDSUZJM4) |
 
 ---
 <div align="center">
