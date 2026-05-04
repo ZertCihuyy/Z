@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.10.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.23.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Chihiro] Aru Majo ga Shinu Made - 11 [Blu-ray 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-aru-majo-ga-shinu-made-11-blu.n2106123) • [🐱 Nyaa](https://nyaa.si/?q=RZOR343TSAI2D4IPMEKGQLVSNA3WA5MG) |
-| `One.Piece.Vol001.DVDRip.480p.x265.10bit.AAC.Multi-uP` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-vol001-dvdrip-480p-x265-10bit-aac-multi-up.n2106118) • [🐱 Nyaa](https://nyaa.si/?q=5RWQIQ6PPU3M6TCDJM5UATO5Q3YO3BBQ) |
-| `One Piece 0122 Remaster (BDRip 1080p x264 AC3 Multi) - Ry...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-0122-remaster-bdrip-1080p-x264-ac3-multi-ryjin.n2106109) • [🐱 Nyaa](https://nyaa.si/?q=TJAUE6KEXVPXL54LTQQRZX2LPZIM5EZC) |
-| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-nippon-sangoku-three-nations-crimson-sun-s01e05.n2106100) • [🐱 Nyaa](https://nyaa.si/?q=LWWUQ45KHQAFGSNIMJXPSU27EILDWNSI) |
-| `[ToonsHub] One Piece EP1160 2160p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1160-2160p-bili-web-dl.n2106074) • [🐱 Nyaa](https://nyaa.si/?q=J3MPE22EMS37CSFDFMPRANRPLLRPSP3L) |
-| `[ToonsHub] One Piece EP1160 1080p BILI WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-one-piece-ep1160-1080p-bili-web-dl.n2106073) • [🐱 Nyaa](https://nyaa.si/?q=ARHJ4JIVH5U6I5M2B7N4JERX57OVPPUA) |
-| `[ToonsHub] Star Detective Precure S01E14 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-star-detective-precure-s01e14-1080p-cr-web.k10795199164940) • [🐱 Nyaa](https://nyaa.si/?q=CEATKEJCBTWVLAWY7WL7NTTDUEKAXQJ4) |
-| `[Erai-raws] Meitantei Precure - 14 [1080p CR WEBRip HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-14-1080p-cr-webrip.n2106067) • [🐱 Nyaa](https://nyaa.si/?q=ABZPFP6TTAGQBWWXDYNWOBQS3N7EHFEF) |
-| `[Erai-raws] Meitantei Precure - 14 [480p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-14-480p-cr-web.n2106066) • [🐱 Nyaa](https://nyaa.si/?q=43CUFWHJURCFUO7EFVUTVS32BITHOMYA) |
-| `[Erai-raws] Meitantei Precure - 14 [720p CR WEB-DL AVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-14-720p-cr-web.n2106065) • [🐱 Nyaa](https://nyaa.si/?q=2ML3BPVTWGDFUNQWFPAEMIMJB6C7TJSB) |
-| `[Erai-raws] Meitantei Precure - 14 [1080p CR WEB-DL AVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-meitantei-precure-14-1080p-cr-web.n2106064) • [🐱 Nyaa](https://nyaa.si/?q=ZTQCBOPWZSECVU3WPPJMQGBVBTGLF2GT) |
-| `[Reza] Wistoria Wand and Sword - S02E04 [WEBRip 1080p AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-wistoria-wand-sword-s02e04-webrip-1080p-aac.n2106063) • [🐱 Nyaa](https://nyaa.si/?q=YFCYMA5IHQA3ZLPNSTUURS5CDCJQQZFH) |
-| `[Seigyoku] Mahou no Shimai LuluttoLilly - 05 (WEB 1080p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/seigyoku-mahou-no-shimai-luluttolilly-05-web-1080p.n2106062) • [🐱 Nyaa](https://nyaa.si/?q=JM3HVLK2NWNFGFYD4QQBKLEL6QYVA3FD) |
-| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sw...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-tsue-tsurugi-no-wistoria-wand-sword-s02e04.n2106056) • [🐱 Nyaa](https://nyaa.si/?q=2365XD3SDLV6MV273SNMNYF3MHX2CIOS) |
-| `[NSnf] Yoroi Shin Den Samurai Troopers - 03 (h265 1920x10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nsnf-yoroi-shin-den-samurai-troopers-03-h265.n2106055) • [🐱 Nyaa](https://nyaa.si/?q=6OURMX5REEVLJADSQT6FKO3VFJOI4T2H) |
+| `[VARYG] One Piece S01E1160 An Encounter on a Snowfield-Lo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-one-piece-s01e1160-encounter-snowfield-loki-accursed.k10807829543172) • [🐱 Nyaa](https://nyaa.si/?q=END7D4FADX7WGQFU2MY5W3DFPJIGCSAY) |
+| `[Yameii] The Klutzy Class Monitor and the Girl with the S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-klutzy-class-monitor-girl-short-skirt-s01e03.k10807771285767) • [🐱 Nyaa](https://nyaa.si/?q=ILV4UFYWSDYCZ567EOVSNVJPGGSXD7II) |
+| `[ASW] Tongari Boushi no Atelier - 06 [1080p HEVC x265 10B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tongari-boushi-no-atelier-06-1080p-hevc.n2106195) • [🐱 Nyaa](https://nyaa.si/?q=WBVI5CE7PY5V4AHVEN4IRV7IWDGUDOG4) |
+| `[ASW] Isekai Nonbiri Nouka S2 - 05 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-isekai-nonbiri-nouka-s2-05-1080p-hevc.n2106194) • [🐱 Nyaa](https://nyaa.si/?q=V2556FWHBKXXQQYDUJL4RMZEBBN6ORYT) |
+| `The Klutzy Class Monitor and the Girl with the Short Skir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/klutzy-class-monitor-girl-short-skirt-s01e03-1080p.n2106192) • [🐱 Nyaa](https://nyaa.si/?q=RBSNSRNTISYGAF26R5RYW6XIWDDHUNAA) |
+| `[Yameii] The Klutzy Class Monitor and the Girl with the S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-klutzy-class-monitor-girl-short-skirt-s01e03.k10807663173890) • [🐱 Nyaa](https://nyaa.si/?q=4U5JY4IKWCYSQGOV2GEEKHDQVH7VBL6B) |
+| `[Erai-raws] Tongari Boushi no Atelier - 06 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tongari-boushi-no-atelier-06-1080p.k10807662575107) • [🐱 Nyaa](https://nyaa.si/?q=NIZROBOMKH32JTURZXCGP6UNZDZPKR45) |
+| `The Klutzy Class Monitor and the Girl with the Short Skir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/klutzy-class-monitor-girl-short-skirt-s01e05-1080p.n2106189) • [🐱 Nyaa](https://nyaa.si/?q=3C6DXERBGZTKOPUQTVTRKOXDN4IO63EC) |
+| `[ToonsHub] The Klutzy Class Monitor and the Girl with the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-klutzy-class-monitor-girl-short-skirt-s01e03.k10807637282566) • [🐱 Nyaa](https://nyaa.si/?q=SMH7LCT54YZUBUDL3DT66FKYXZHAHAQO) |
+| `[SubsPlease] Ponkotsu Fuuki Iin to Skirt-take ga Futekise...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2106186) • [🐱 Nyaa](https://nyaa.si/?q=4AGMCTOTN76WLM2DAHSB46KMJPUBLXQI) |
+| `[ToonsHub] The Klutzy Class Monitor and the Girl with the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-klutzy-class-monitor-girl-short-skirt-s01e05.k10807635348226) • [🐱 Nyaa](https://nyaa.si/?q=COAVRUTDACTRIYASIY7LLSA55FTEWYRY) |
+| `[Trix] Witch Hat Atelier S01E06 [WEBRip 1080p AV1 Opus] (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-witch-hat-atelier-s01e06-webrip-1080p-av1.n2106183) • [🐱 Nyaa](https://nyaa.si/?q=H3XP5VWKYVSITCZFYSKXYQ2OQNSWA6DI) |
+| `[SubsPlease] Ponkotsu Fuuki Iin to Skirt-take ga Futekise...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2106182) • [🐱 Nyaa](https://nyaa.si/?q=NP3CFJWFHT7NAXJFXCRX7LZSDOHNVSYU) |
+| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2106181) • [🐱 Nyaa](https://nyaa.si/?q=WZ4LKI2MDDX3NOU7KZBQYWIJH3NHPRBM) |
+| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2106180) • [🐱 Nyaa](https://nyaa.si/?q=A7HBCIAEK7FAA6SHZY4PTIGQX6AO5FEM) |
 
 ---
 <div align="center">
