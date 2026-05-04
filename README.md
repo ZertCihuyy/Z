@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.23.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.12.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,40 +9,40 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Senin**
+### 📅 Jadwal Rilis Hari Ini: **Selasa**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `01:00` | **[Shin Nippon History](https://myanimelist.net/anime/54871/Shin_Nippon_History)** | *Comedy* |
-| `18:25` | **[Puzzle & Dragon](https://myanimelist.net/anime/37096/Puzzle___Dragon)** | *-* |
-| `00:30` | **[Ghost Concert: Missing Songs](https://myanimelist.net/anime/62852/Ghost_Concert__Missing_Songs)** | *Action, Sci-Fi, Supernatural* |
-| `01:10` | **[Ingoku Danchi](https://myanimelist.net/anime/63310/Ingoku_Danchi)** | *Comedy, Supernatural, Erotica* |
-| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
-| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
-| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
-| `00:00` | **[Niwatori Fighter](https://myanimelist.net/anime/59393/Niwatori_Fighter)** | *Action, Comedy* |
-| `22:00` | **[Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.](https://myanimelist.net/anime/61687/Jishou_Akuyaku_Reijou_na_Konyakusha_no_Kansatsu_Kiroku)** | *Comedy, Romance* |
-| `23:24` | **[Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi](https://myanimelist.net/anime/61425/Ponkotsu_Fuuki_Iin_to_Skirt-take_ga_Futekisetsu_na_JK_no_Hanashi)** | *Comedy, Romance* |
+| `07:30` | **[Origami Ninja Koyankinte](https://myanimelist.net/anime/41458/Origami_Ninja_Koyankinte)** | *Comedy* |
+| `18:45` | **[Fushigi Dagashiya: Zenitendou](https://myanimelist.net/anime/42295/Fushigi_Dagashiya__Zenitendou)** | *Mystery* |
+| `21:55` | **[Hyakki Yakoushou](https://myanimelist.net/anime/63469/Hyakki_Yakoushou)** | *Horror, Mystery, Romance, Supernatural* |
+| `23:30` | **[Replica datte, Koi wo Suru.](https://myanimelist.net/anime/61013/Replica_datte_Koi_wo_Suru)** | *Drama, Romance, Supernatural* |
+| `22:00` | **[Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2](https://myanimelist.net/anime/61931/Higeki_no_Genkyou_to_Naru_Saikyou_Gedou_Last_Boss_Joou_wa_Tami_no_Tame_ni_Tsukushimasu_Season_2)** | *Fantasy* |
+| `00:00` | **[Nippon Sangoku](https://myanimelist.net/anime/63375/Nippon_Sangoku)** | *Drama* |
+| `23:00` | **[Aishiteru Game wo Owarasetai](https://myanimelist.net/anime/61839/Aishiteru_Game_wo_Owarasetai)** | *Comedy, Romance* |
+| `00:00` | **[Liar Game](https://myanimelist.net/anime/62331/Liar_Game)** | *Drama, Suspense* |
+| `23:30` | **[Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://myanimelist.net/anime/56734/Class_de_2-banme_ni_Kawaii_Onnanoko_to_Tomodachi_ni_Natta)** | *Romance* |
+| `23:00` | **[Marriagetoxin](https://myanimelist.net/anime/62601/Marriagetoxin)** | *Action, Comedy* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] One Piece S01E1160 An Encounter on a Snowfield-Lo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-one-piece-s01e1160-encounter-snowfield-loki-accursed.k10807829543172) • [🐱 Nyaa](https://nyaa.si/?q=END7D4FADX7WGQFU2MY5W3DFPJIGCSAY) |
-| `[Yameii] The Klutzy Class Monitor and the Girl with the S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-klutzy-class-monitor-girl-short-skirt-s01e03.k10807771285767) • [🐱 Nyaa](https://nyaa.si/?q=ILV4UFYWSDYCZ567EOVSNVJPGGSXD7II) |
-| `[ASW] Tongari Boushi no Atelier - 06 [1080p HEVC x265 10B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tongari-boushi-no-atelier-06-1080p-hevc.n2106195) • [🐱 Nyaa](https://nyaa.si/?q=WBVI5CE7PY5V4AHVEN4IRV7IWDGUDOG4) |
-| `[ASW] Isekai Nonbiri Nouka S2 - 05 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-isekai-nonbiri-nouka-s2-05-1080p-hevc.n2106194) • [🐱 Nyaa](https://nyaa.si/?q=V2556FWHBKXXQQYDUJL4RMZEBBN6ORYT) |
-| `The Klutzy Class Monitor and the Girl with the Short Skir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/klutzy-class-monitor-girl-short-skirt-s01e03-1080p.n2106192) • [🐱 Nyaa](https://nyaa.si/?q=RBSNSRNTISYGAF26R5RYW6XIWDDHUNAA) |
-| `[Yameii] The Klutzy Class Monitor and the Girl with the S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-klutzy-class-monitor-girl-short-skirt-s01e03.k10807663173890) • [🐱 Nyaa](https://nyaa.si/?q=4U5JY4IKWCYSQGOV2GEEKHDQVH7VBL6B) |
-| `[Erai-raws] Tongari Boushi no Atelier - 06 [1080p CR WEBR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tongari-boushi-no-atelier-06-1080p.k10807662575107) • [🐱 Nyaa](https://nyaa.si/?q=NIZROBOMKH32JTURZXCGP6UNZDZPKR45) |
-| `The Klutzy Class Monitor and the Girl with the Short Skir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/klutzy-class-monitor-girl-short-skirt-s01e05-1080p.n2106189) • [🐱 Nyaa](https://nyaa.si/?q=3C6DXERBGZTKOPUQTVTRKOXDN4IO63EC) |
-| `[ToonsHub] The Klutzy Class Monitor and the Girl with the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-klutzy-class-monitor-girl-short-skirt-s01e03.k10807637282566) • [🐱 Nyaa](https://nyaa.si/?q=SMH7LCT54YZUBUDL3DT66FKYXZHAHAQO) |
-| `[SubsPlease] Ponkotsu Fuuki Iin to Skirt-take ga Futekise...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2106186) • [🐱 Nyaa](https://nyaa.si/?q=4AGMCTOTN76WLM2DAHSB46KMJPUBLXQI) |
-| `[ToonsHub] The Klutzy Class Monitor and the Girl with the...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-klutzy-class-monitor-girl-short-skirt-s01e05.k10807635348226) • [🐱 Nyaa](https://nyaa.si/?q=COAVRUTDACTRIYASIY7LLSA55FTEWYRY) |
-| `[Trix] Witch Hat Atelier S01E06 [WEBRip 1080p AV1 Opus] (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-witch-hat-atelier-s01e06-webrip-1080p-av1.n2106183) • [🐱 Nyaa](https://nyaa.si/?q=H3XP5VWKYVSITCZFYSKXYQ2OQNSWA6DI) |
-| `[SubsPlease] Ponkotsu Fuuki Iin to Skirt-take ga Futekise...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2106182) • [🐱 Nyaa](https://nyaa.si/?q=NP3CFJWFHT7NAXJFXCRX7LZSDOHNVSYU) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2106181) • [🐱 Nyaa](https://nyaa.si/?q=WZ4LKI2MDDX3NOU7KZBQYWIJH3NHPRBM) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.n2106180) • [🐱 Nyaa](https://nyaa.si/?q=A7HBCIAEK7FAA6SHZY4PTIGQX6AO5FEM) |
+| `[VARYG] LIAR GAME S01E02 Shockwave 1080p CR WEB-DL MULTi ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-liar-game-s01e02-shockwave-1080p-cr-web.k10809284074249) • [🐱 Nyaa](https://nyaa.si/?q=PQKKS4XP43Y24THZFWXI52VVHT5SAJSL) |
+| `LIAR GAME S01E01 The Legendary Con Artist 1080p CR WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/liar-game-s01e01-legendary-con-artist-1080p-cr.n2106228) • [🐱 Nyaa](https://nyaa.si/?q=KKW7BGBVT2QHEPPDTBGPT2EQGVOC64DZ) |
+| `[Reza] Witch Hat Atelier - S01E06 [WEBRip AAC 1080p AAC] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reza-witch-hat-atelier-s01e06-webrip-aac-1080p.n2106225) • [🐱 Nyaa](https://nyaa.si/?q=YB4JZSY6PQSMQMSMZ6GES7TSJZQ2JCGM) |
+| `[Judas] Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu n...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2106224) • [🐱 Nyaa](https://nyaa.si/?q=7VHACVL3ZSP4RXYYRACLVR6G7D7UQD72) |
+| `[DKB] Witch Hat Atelier - S01E06 [1080p][HEVC x265 10bit]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-witch-hat-atelier-s01e06-1080p-hevc-x265.n2106222) • [🐱 Nyaa](https://nyaa.si/?q=FGWQNH6BHJTCM7NPDMDUOC36ACP7KLHI) |
+| `[Yameii] LIAR GAME (2026) - S01E03 [English Dub] [CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-liar-game-2026-s01e03-english-dub-cr.k10808694119428) • [🐱 Nyaa](https://nyaa.si/?q=BRNGOVM2BIHAK5MFHYQ6ZP2WQQKXT5ZZ) |
+| `[ToonsHub] LIAR GAME S01E02 1080p CR WEB-DL MULTi AAC2.0 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-liar-game-s01e02-1080p-cr-web-dl.n2106220) • [🐱 Nyaa](https://nyaa.si/?q=LOKFJ4C5CJDV2FPYLUMS4UDVI6G3BCEP) |
+| `[Yameii] LIAR GAME (2026) - S01E03 [English Dub] [CR WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-liar-game-2026-s01e03-english-dub-cr.k10808583380227) • [🐱 Nyaa](https://nyaa.si/?q=EMKZIVGV4YLVMOKTAUOQ3YL7GCDMUTEB) |
+| `LIAR GAME S01E03 Resolution 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/liar-game-s01e03-resolution-1080p-cr-web-dl.n2106216) • [🐱 Nyaa](https://nyaa.si/?q=UKT7XPBVVHFJFHX2HZVRKZK53VR7NGTZ) |
+| `[ToonsHub] LIAR GAME S01E03 1080p CR WEB-DL DUAL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-liar-game-s01e03-1080p-cr-web-dl.k10808556533255) • [🐱 Nyaa](https://nyaa.si/?q=MSE2ZG6EMZXYAUFXUV63DOURGHIX5K4E) |
+| `[Raze] Tongari Boushi no Atelier - 06 x265 10bit 1080p 14...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-tongari-boushi-no-atelier-06-x265-10bit.n2106214) • [🐱 Nyaa](https://nyaa.si/?q=WWH36WAHQACJVGOCC2AYWKPHT6VFBT6E) |
+| `[Onalrie] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.2078815) • [🐱 Nyaa](https://nyaa.si/?q=FQAQTHP6EUENOAUNYKTMV5ZNWYKBBOTI) |
+| `[Erai-raws] Isekai Nonbiri Nouka 2 - 05 [1080p ADN WEBRip...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-isekai-nonbiri-nouka-2-05-1080p.k10808369384711) • [🐱 Nyaa](https://nyaa.si/?q=F7TKSWFZMY32O4GVYITS7JE2IQK2RYBC) |
+| `[ASW] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2106211) • [🐱 Nyaa](https://nyaa.si/?q=ED7JZHPPWMWE4VTCRPYKSZ6RZWDOOV74) |
+| `[Judas] Witch Hat Atelier (Tongari Boushi no Atelier) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-witch-hat-atelier-tongari-boushi-no-s01e06.n2106207) • [🐱 Nyaa](https://nyaa.si/?q=CG4V3XS5UX7CXYEZSRKRWB4ACRKSYEHY) |
 
 ---
 <div align="center">
