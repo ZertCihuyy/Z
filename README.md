@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.39.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.41.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[HatSubs] One Piece 1160 (WEB 1080p) [DC7506FA].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hatsubs-one-piece-1160-web-1080p-dc7506fa-mkv.n2106295) • [🐱 Nyaa](https://nyaa.si/?q=LUISNSKQE5IDTONAIXXZBPWGMPJZYOXV) |
 | `[SubsPlease] Vigilante - Boku no Hero Academia Illegals S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-s2.n2106294) • [🐱 Nyaa](https://nyaa.si/?q=TAPCCYSIHFQXIXK3GYKOFMMQGGGKOMZ4) |
 | `[SubsPlease] Vigilante - Boku no Hero Academia Illegals S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-s2.n2106293) • [🐱 Nyaa](https://nyaa.si/?q=5Z4UKQOZQBH447KWE72FSWCQVICBFTFP) |
 | `[SubsPlease] Vigilante - Boku no Hero Academia Illegals S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-vigilante-boku-no-hero-academia-illegals-s2.n2106292) • [🐱 Nyaa](https://nyaa.si/?q=IPNRD33YWE2J4HMJOONDPWSYSOTQP4MW) |
@@ -42,7 +43,6 @@
 | `[Judas] Liar Game - S01E05 [1080p][HEVC x265 10bit][Multi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-liar-game-s01e05-1080p-hevc-x265-10bit.n2106267) • [🐱 Nyaa](https://nyaa.si/?q=JS6VK6EGJIWRNIVNLQUVG3EQZ2GREFXW) |
 | `[ASW] LIAR GAME - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-liar-game-05-1080p-hevc-x265-10bit-aac.n2106264) • [🐱 Nyaa](https://nyaa.si/?q=SCYQCEMM3LPDM2FCSS3TFZJTQL6XJLKI) |
 | `[Onalrie] LIAR GAME - S01E05 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-liar-game-s01e05-1080p-webrip-av1-mkv.2078833) • [🐱 Nyaa](https://nyaa.si/?q=3FZLQZZJH3J26V6CCE53AUHLHDSUZJM4) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekiset...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ponkotsu-fuuki-iin-skirt-take-ga.k10810182845697) • [🐱 Nyaa](https://nyaa.si/?q=UHWAKPRBGAJ3C35SAUBGU2QSANT4MUZO) |
 
 ---
 <div align="center">
