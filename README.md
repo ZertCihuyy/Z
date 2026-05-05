@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.44.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.07.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Hentai] Ingoku Danchi - 05 (WEB 1080p AAC2.0 H.264) (Unc...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hentai-ingoku-danchi-05-web-1080p-aac2-0.n2106335) • [🐱 Nyaa](https://nyaa.si/?q=CUFL3KBMAVR7IGGYNGYFUO2NGDXQLLIN) |
 | `[ToonsHub] Atashinchi NEXT S01E10 1080p AMZN WEB-DL DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-atashinchi-next-s01e10-1080p-amzn-web-dl.n2106334) • [🐱 Nyaa](https://nyaa.si/?q=HSEWNNYAHPZXJ5NNPEMWV26Z2225ZTR5) |
 | `Bakugan Battle Brawlers Mechtanium Surge 04 SUB - Guidepo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/bakugan-battle-brawlers-mechtanium-surge-04-sub-guidepost.n2106321) • [🐱 Nyaa](https://nyaa.si/?q=LGP3CLQ4KWYGSJAB3HHMTU6QWMKOFHYO) |
 | `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E03 (W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sgt-botan-kamiina-fully-blossoms-when-drunk-s01e03.n2106308) • [🐱 Nyaa](https://nyaa.si/?q=WJ2WQTAN3WKRPGJBOHSB3ACTNP76DKY4) |
@@ -42,7 +43,6 @@
 | `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-ponkotsu-fuuki-iin-skirt-take-ga-futekisetsu.n2106288) • [🐱 Nyaa](https://nyaa.si/?q=XW5DF6GSQIG7NXYRGUEBSK5HF3SQEKWH) |
 | `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-witch-hat-atelier-tongari-boushi-no.n2106286) • [🐱 Nyaa](https://nyaa.si/?q=6Q3BH72AXX2CYQAZ7NIU6WRZTXU4INKS) |
 | `Farming Life In Another World S02E05 Another Peaceful Day...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/farming-life-another-world-s02e05-peaceful-day-1080p.n2106285) • [🐱 Nyaa](https://nyaa.si/?q=WHFXUKZQKZUCNDKCCJXCWS4AEPJN6YXS) |
-| `[Erai-raws] Liar Game - 05 [1080p CR WEBRip HEVC AAC][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-liar-game-05-1080p-cr-webrip.k10811816774915) • [🐱 Nyaa](https://nyaa.si/?q=64ETGTLAL2ZDCQBTFXRL3IGWHDXC4BOX) |
 
 ---
 <div align="center">
