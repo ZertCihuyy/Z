@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.45.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.04.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[RJ01605121][Azur Lane ASMR] Commander Pampering Team!  B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rj01605121-azur-lane-asmr-commander-pampering-team.n2106591) • [🐱 Nyaa](https://nyaa.si/?q=P5YKWHKUQ2MLQGPWQM3TECZCZB2A4YLN) |
+| `[Pico] Boku no Hero Academia - Season 08 (S08) (WEB 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pico-boku-no-hero-academia-season-08-s08.n2106589) • [🐱 Nyaa](https://nyaa.si/?q=PTZACCO2O7WLH3A2BUI7T354JHCSRWOB) |
+| `BEYBLADE X - 71 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-71-1920x1080-ytv-ca.k10835403325956) • [🐱 Nyaa](https://nyaa.si/?q=ZLM7FYCKAMPNCHG33HZVVEDG2WT7AD75) |
+| `BEYBLADE X - 70 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-70-1920x1080-ytv-ca.k10835385009415) • [🐱 Nyaa](https://nyaa.si/?q=MQLS5MAHH27TL4LM2THM6L5WU43MZPLF) |
+| `BEYBLADE X - 69 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-69-1920x1080-ytv-ca.k10835360064525) • [🐱 Nyaa](https://nyaa.si/?q=N3JEODID5D3PFZBPWNWPF7APPVWTKQIC) |
+| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2106584) • [🐱 Nyaa](https://nyaa.si/?q=2OTJN7Y4WCJTZACRSD24TBSOZKN63JBQ) |
+| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.k10835239248911) • [🐱 Nyaa](https://nyaa.si/?q=ITFFTDZYK7FQRVYUI46S7I27GRIOIU2S) |
+| `[9volt] Sousou no Frieren - Season 2 (WEB 1080p HEVC EAC-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/9volt-sousou-no-frieren-season-2-web-1080p.n2106580) • [🐱 Nyaa](https://nyaa.si/?q=F7JBGPZI7PJJAINXOXAXZDQ46WWOXGQV) |
 | `BEYBLADE X - 91 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-91-1920x1080-cartoon-network-ca.k10834882083338) • [🐱 Nyaa](https://nyaa.si/?q=6NYYRZFSZ4MWHE5GSVVCVT7NIWTXHGNX) |
 | `[Erai-raws] Tadaima Ojamasaremasu - 05 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-05-1080p-cr-webrip.k10834297193985) • [🐱 Nyaa](https://nyaa.si/?q=WPOUZL75EOTW2OX7WRYU7H7IIVQUAHQI) |
 | `BEYBLADE X - 92 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-92-1920x1080-cartoon-network-ca.k10834295781893) • [🐱 Nyaa](https://nyaa.si/?q=W5HLT534EU7VC2YDX5RSZVBFUJHNWU4C) |
@@ -35,14 +43,6 @@
 | `The Most Heretical Last Boss Queen From Villainess to Sav...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/most-heretical-last-boss-queen-from-villainess-savior.n2106572) • [🐱 Nyaa](https://nyaa.si/?q=DOOCWTTEZGFWHRHIAHDUVHXHBDVGVEYB) |
 | `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-class-de-2-banme-ni-kawaii-onnanoko.n2106571) • [🐱 Nyaa](https://nyaa.si/?q=4QNCZWHGFLKF546ARUUQD3ASV7X6RINT) |
 | `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Or...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-megami-isekai-tensei-nani-ni-naritai-desu.n2106564) • [🐱 Nyaa](https://nyaa.si/?q=EDHIE7DXVPK235OQNPAJ7BXLIPJD5WEH) |
-| `[Lazyleido-Mini] DIGIMON BEATBREAK - 29 (S01E29) - (WEB 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-mini-digimon-beatbreak-29-s01e29-web-1080p.n2106548) • [🐱 Nyaa](https://nyaa.si/?q=IAWV44OIUBIBUBDW3TMSJYIWX3KQ45GZ) |
-| `[Lazyleido] DIGIMON BEATBREAK - 29 (S01E29) - (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-digimon-beatbreak-29-s01e29-web-1080p-hevc.n2106547) • [🐱 Nyaa](https://nyaa.si/?q=2LWMYF2FMYOIYNNB37RIVA2DHJS5B5DA) |
-| `BEYBLADE X - 94 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-94-1920x1080-cartoon-network-ca.k10833535648774) • [🐱 Nyaa](https://nyaa.si/?q=QQ427Q6EAOXUCCCYF6DNB2FXKWTYOIN2) |
-| `[ASW] Yuusha no Rokkotsu de - 05 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-rokkotsu-de-05-1080p-hevc.n2106546) • [🐱 Nyaa](https://nyaa.si/?q=UM6773TU4IHWTI3WHB3PIOPLYXU7OJTM) |
-| `[Erai-raws] Marriagetoxin - 05 [1080p CR WEBRip HEVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-marriagetoxin-05-1080p-cr-webrip-hevc.k10833429855236) • [🐱 Nyaa](https://nyaa.si/?q=TOGFFE7GQVNPY2AFJ7QQQTQNJAYTX6EF) |
-| `[succ_] Tsugumomo (2017) - S01 (BD 1080p x264 10-bit Hi10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/succ_-tsugumomo-2017-s01-bd-1080p-x264-10.n2106543) • [🐱 Nyaa](https://nyaa.si/?q=OZYI4PRGZHHGQOQ2F42VDBZCW6ZW3RYJ) |
-| `[Onalrie] Yuusha no Rokkotsu de - S01E05 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-rokkotsu-de-s01e05-1080p-webrip-av1-mkv.2079065) • [🐱 Nyaa](https://nyaa.si/?q=BQ3EWTPVZ7CHXM645AKD4LRB46EJ6QPW) |
-| `Cardfight!! Vanguard 15th Anniversary Remastered S01E03 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniversary-remastered-s01e03-webdl.n2106542) • [🐱 Nyaa](https://nyaa.si/?q=JOW3H6IN6IOF5PWLJY7CYKCHQTILVWHF) |
 
 ---
 <div align="center">
