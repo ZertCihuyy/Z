@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.53.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.42.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Pardon the Intrusion Im Home S01E05 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-pardon-intrusion-im-home-s01e05-1080p-cr.k10832132325122) • [🐱 Nyaa](https://nyaa.si/?q=IRNZVGEDRSKSVTKVQ7IFVYY65DRTPYK5) |
-| `[SubsPlease] Tadaima, Ojamasaremasu! - 05 (1080p) [E638B4...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tadaima-ojamasaremasu-05-1080p-e638b436-mkv.n2106523) • [🐱 Nyaa](https://nyaa.si/?q=DA3474NRXYXL7SUPK2BQ36LN6SPPLTLF) |
-| `[SubsPlease] Tadaima, Ojamasaremasu! - 05 (720p) [3630102...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tadaima-ojamasaremasu-05-720p-36301028-mkv.n2106522) • [🐱 Nyaa](https://nyaa.si/?q=XHPS7APAZUOENK34OL7RNUX2BFVIRRUA) |
-| `[SubsPlease] Tadaima, Ojamasaremasu! - 05 (480p) [DCC68D3...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-tadaima-ojamasaremasu-05-480p-dcc68d3c-mkv.n2106521) • [🐱 Nyaa](https://nyaa.si/?q=AIPIHQEJDCX7WM6HRVS3HX5JDQAQZHGD) |
-| `Pardon the Intrusion Im Home S01E05 This is a work of fic...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pardon-intrusion-im-home-s01e05-work-fiction-okay.n2106519) • [🐱 Nyaa](https://nyaa.si/?q=7L2TNLOMDYTOXABLKMA5OXVXKYSZNX3H) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 05 [480p CR WEB-DL AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-05-480p-cr-web.n2106518) • [🐱 Nyaa](https://nyaa.si/?q=RF575E6IR6IBNCDJ65NXF2SXRTMB5JUT) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 05 [720p CR WEB-DL AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-05-720p-cr-web.n2106516) • [🐱 Nyaa](https://nyaa.si/?q=2DYXMVVMH3JDQRHSKXCJPJMG3SKBVLYP) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 05 [1080p CR WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-05-1080p-cr-web.n2106515) • [🐱 Nyaa](https://nyaa.si/?q=LLUZRPKRW53ESW5DIGS4RTVE32T345T5) |
-| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomoda...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-class-de-2-banme-ni-kawaii.n2106510) • [🐱 Nyaa](https://nyaa.si/?q=7A5QF7VNSRNMF5NAWBOOFP4EXFPAZTEP) |
-| `[Raze] MARRIAGETOXIN - 05 x265 10bit 1080p 143.8561fps.mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-marriagetoxin-05-x265-10bit-1080p-143-8561fps-mkv.n2106508) • [🐱 Nyaa](https://nyaa.si/?q=AFGPADHJ5DSNQ2ZNA7LYXEAKZDDDDOCJ) |
-| `[Onalrie] Hidarikiki no Eren - S01E05 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hidarikiki-no-eren-s01e05-1080p-webrip-av1-mkv.2079048) • [🐱 Nyaa](https://nyaa.si/?q=Y3GH7WJP2T7SFBYSCK4CAUBBJ2N37TUW) |
-| `[Ommex] Doraemon (2005) Episode 913 [ENG SUB][1080p x265 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ommex-doraemon-2005-episode-913-eng-sub-1080p-x265-aac.n2106505) • [🐱 Nyaa](https://nyaa.si/?q=ZGGLMTMS4TLGLR6DTCZR47VZNPUH2GM4) |
-| `[DKB] Marriagetoxin - S01E05 [1080p][HEVC x265 10bit][Mul...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-marriagetoxin-s01e05-1080p-hevc-x265-10bit-multi-subs.n2106504) • [🐱 Nyaa](https://nyaa.si/?q=KU7A2ZIMM4QPVZUYTIRIK3J2TDX4SRLL) |
-| `[ASW] Hidarikiki no Eren - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hidarikiki-no-eren-05-1080p-hevc-x265-10bit-aac.n2106503) • [🐱 Nyaa](https://nyaa.si/?q=H5SJ5K7VCIQWBLOD2VPRXAITDWPIGA5N) |
-| `[Judas] Aishiteru Game o Owarasetai (I Want to End This L...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-aishiteru-game-o-owarasetai-want-end-love.n2106502) • [🐱 Nyaa](https://nyaa.si/?q=HFVFZ442ZZXHWB7AA27LPKQSNGVUPRND) |
+| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Or...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-megami-isekai-tensei-nani-ni-naritai-desu.n2106564) • [🐱 Nyaa](https://nyaa.si/?q=EDHIE7DXVPK235OQNPAJ7BXLIPJD5WEH) |
+| `[Lazyleido-Mini] DIGIMON BEATBREAK - 29 (S01E29) - (WEB 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-mini-digimon-beatbreak-29-s01e29-web-1080p.n2106548) • [🐱 Nyaa](https://nyaa.si/?q=IAWV44OIUBIBUBDW3TMSJYIWX3KQ45GZ) |
+| `[Lazyleido] DIGIMON BEATBREAK - 29 (S01E29) - (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lazyleido-digimon-beatbreak-29-s01e29-web-1080p-hevc.n2106547) • [🐱 Nyaa](https://nyaa.si/?q=2LWMYF2FMYOIYNNB37RIVA2DHJS5B5DA) |
+| `BEYBLADE X - 94 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-94-1920x1080-cartoon-network-ca.k10833535648774) • [🐱 Nyaa](https://nyaa.si/?q=QQ427Q6EAOXUCCCYF6DNB2FXKWTYOIN2) |
+| `[ASW] Yuusha no Rokkotsu de - 05 [1080p HEVC x265 10Bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-yuusha-no-rokkotsu-de-05-1080p-hevc.n2106546) • [🐱 Nyaa](https://nyaa.si/?q=UM6773TU4IHWTI3WHB3PIOPLYXU7OJTM) |
+| `[Erai-raws] Marriagetoxin - 05 [1080p CR WEBRip HEVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-marriagetoxin-05-1080p-cr-webrip-hevc.k10833429855236) • [🐱 Nyaa](https://nyaa.si/?q=TOGFFE7GQVNPY2AFJ7QQQTQNJAYTX6EF) |
+| `[succ_] Tsugumomo (2017) - S01 (BD 1080p x264 10-bit Hi10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/succ_-tsugumomo-2017-s01-bd-1080p-x264-10.n2106543) • [🐱 Nyaa](https://nyaa.si/?q=OZYI4PRGZHHGQOQ2F42VDBZCW6ZW3RYJ) |
+| `[Onalrie] Yuusha no Rokkotsu de - S01E05 [1080p WEBRip AV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-yuusha-no-rokkotsu-de-s01e05-1080p-webrip-av1-mkv.2079065) • [🐱 Nyaa](https://nyaa.si/?q=BQ3EWTPVZ7CHXM645AKD4LRB46EJ6QPW) |
+| `Cardfight!! Vanguard 15th Anniversary Remastered S01E03 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cardfight-vanguard-15th-anniversary-remastered-s01e03-webdl.n2106542) • [🐱 Nyaa](https://nyaa.si/?q=JOW3H6IN6IOF5PWLJY7CYKCHQTILVWHF) |
+| `BEYBLADE X - 93 (1920x1080 - Disney Channel CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-93-1920x1080-disney-channel-ca.k10832835888899) • [🐱 Nyaa](https://nyaa.si/?q=KPELMQPM3JVOLWYE2GV3KJANHD3SQREF) |
+| `[Erai-raws] Hidarikiki no Eren - 05 [1080p CR WEBRip HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hidarikiki-no-eren-05-1080p-cr.n2106541) • [🐱 Nyaa](https://nyaa.si/?q=OLITCGH5VVHVDKT525VV4BDKGSNENYNP) |
+| `[ASW] Tadaima, Ojamasaremasu! - 05 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tadaima-ojamasaremasu-05-1080p-hevc-x265-10bit-aac.n2106540) • [🐱 Nyaa](https://nyaa.si/?q=G777AR5STKQ6YCRYEWKE2N5SXJTURK3A) |
+| `[ToonsHub] My Ribdiculous Reincarnation S01E05 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-my-ribdiculous-reincarnation-s01e05-1080p-cr-web.k10832619814671) • [🐱 Nyaa](https://nyaa.si/?q=46IYJTPW6QTH2HIIWD65UPJX773ZE5WN) |
+| `My Ribdiculous Reincarnation S01E05 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/my-ribdiculous-reincarnation-s01e05-1080p-cr-web-dl.n2106535) • [🐱 Nyaa](https://nyaa.si/?q=H73WS2H64Z6MJRU4XC3UYYBTFMPMJJKV) |
+| `[SubsPlease] Yuusha no Rokkotsu de - 05 (1080p) [A75D1985...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-no-rokkotsu-de-05-1080p-a75d1985-mkv.n2106533) • [🐱 Nyaa](https://nyaa.si/?q=WCGZGTEDGM77ZENH5YOG5YYI4A552V3T) |
 
 ---
 <div align="center">
