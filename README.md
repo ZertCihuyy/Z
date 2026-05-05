@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.04.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.12.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ODDish] Fumetsu no Anata e - S03E22 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e22-web-1080p.n2106605) • [🐱 Nyaa](https://nyaa.si/?q=AC462BDNCMAPF6RLKQIDJWDO5KGLWOLB) |
+| `[ODDish] Fumetsu no Anata e - S03E21 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e21-web-1080p.n2106604) • [🐱 Nyaa](https://nyaa.si/?q=TQUESBH5TRHEOCAEKXNAXXUL2OWPQDRQ) |
+| `[ODDish] Fumetsu no Anata e - S03E20 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e20-web-1080p.n2106603) • [🐱 Nyaa](https://nyaa.si/?q=LD3CM3GCLFE75VSX4UOFDT3T5U5KG4VQ) |
+| `[ODDish] Fumetsu no Anata e - S03E19 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e19-web-1080p.n2106597) • [🐱 Nyaa](https://nyaa.si/?q=QDHFZBCCJDWDRDMHB5K6JRLC2KUHKTYP) |
+| `[ODDish] Fumetsu no Anata e - S03E18 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e18-web-1080p.n2106596) • [🐱 Nyaa](https://nyaa.si/?q=PJJWTKKJAICBPRSZATZQWNAQRYJZOX7H) |
+| `[ODDish] Fumetsu no Anata e - S03E17 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e17-web-1080p.n2106595) • [🐱 Nyaa](https://nyaa.si/?q=WDHEBNWFDC4QZ52DTNIGQW33P5C6Z6I3) |
 | `[RJ01605121][Azur Lane ASMR] Commander Pampering Team!  B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rj01605121-azur-lane-asmr-commander-pampering-team.n2106591) • [🐱 Nyaa](https://nyaa.si/?q=P5YKWHKUQ2MLQGPWQM3TECZCZB2A4YLN) |
 | `[Pico] Boku no Hero Academia - Season 08 (S08) (WEB 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pico-boku-no-hero-academia-season-08-s08.n2106589) • [🐱 Nyaa](https://nyaa.si/?q=PTZACCO2O7WLH3A2BUI7T354JHCSRWOB) |
 | `BEYBLADE X - 71 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-71-1920x1080-ytv-ca.k10835403325956) • [🐱 Nyaa](https://nyaa.si/?q=ZLM7FYCKAMPNCHG33HZVVEDG2WT7AD75) |
@@ -37,12 +43,6 @@
 | `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.k10835239248911) • [🐱 Nyaa](https://nyaa.si/?q=ITFFTDZYK7FQRVYUI46S7I27GRIOIU2S) |
 | `[9volt] Sousou no Frieren - Season 2 (WEB 1080p HEVC EAC-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/9volt-sousou-no-frieren-season-2-web-1080p.n2106580) • [🐱 Nyaa](https://nyaa.si/?q=F7JBGPZI7PJJAINXOXAXZDQ46WWOXGQV) |
 | `BEYBLADE X - 91 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-91-1920x1080-cartoon-network-ca.k10834882083338) • [🐱 Nyaa](https://nyaa.si/?q=6NYYRZFSZ4MWHE5GSVVCVT7NIWTXHGNX) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 05 [1080p CR WEBRip H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tadaima-ojamasaremasu-05-1080p-cr-webrip.k10834297193985) • [🐱 Nyaa](https://nyaa.si/?q=WPOUZL75EOTW2OX7WRYU7H7IIVQUAHQI) |
-| `BEYBLADE X - 92 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-92-1920x1080-cartoon-network-ca.k10834295781893) • [🐱 Nyaa](https://nyaa.si/?q=W5HLT534EU7VC2YDX5RSZVBFUJHNWU4C) |
-| `[DKB] Higeki no Genkyou to Naru Saikyou Gedou Last Boss J...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-higeki-no-genkyou-naru-saikyou-gedou-last.n2106573) • [🐱 Nyaa](https://nyaa.si/?q=F5TL5YYKJ4JAEP2NLYU2LNE5MXACX5HE) |
-| `The Most Heretical Last Boss Queen From Villainess to Sav...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/most-heretical-last-boss-queen-from-villainess-savior.n2106572) • [🐱 Nyaa](https://nyaa.si/?q=DOOCWTTEZGFWHRHIAHDUVHXHBDVGVEYB) |
-| `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-class-de-2-banme-ni-kawaii-onnanoko.n2106571) • [🐱 Nyaa](https://nyaa.si/?q=4QNCZWHGFLKF546ARUUQD3ASV7X6RINT) |
-| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Or...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-megami-isekai-tensei-nani-ni-naritai-desu.n2106564) • [🐱 Nyaa](https://nyaa.si/?q=EDHIE7DXVPK235OQNPAJ7BXLIPJD5WEH) |
 
 ---
 <div align="center">
