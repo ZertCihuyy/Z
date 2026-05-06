@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.06.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.06.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `BEYBLADE X - 72 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-72-1920x1080-ytv-ca.k10841337154057) • [🐱 Nyaa](https://nyaa.si/?q=75GESRG7KPVOVUXSK7TTEOJV7ZLHWWK2) |
+| `Walking the Way all alone S01E06 1080p BILI WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/walking-way-all-alone-s01e06-1080p-bili-web.n2106640) • [🐱 Nyaa](https://nyaa.si/?q=4R6NM3WBXO3E5MVJWZMKV4XZ2UCHSK47) |
+| `[ToonsHub] Walking the Way all alone S01E06 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e06-1080p-bili.n2106639) • [🐱 Nyaa](https://nyaa.si/?q=3PPU75I46O5TLRH5ZI5LOFBXOMIJ4I6O) |
+| `[Feibanyama] Wistoria Wand and Sword S02E04 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e04-bilibili-webrip-2160p.n2106629) • [🐱 Nyaa](https://nyaa.si/?q=SM6SBDB3AB6YY67KG55ZAKF3L7TLRGHV) |
+| `Cleopatra D.C. S01 1080p BluRay REMUX AVC FLAC 2.0-Headpa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cleopatra-d-c-s01-1080p-bluray-remux-avc.k10838539114247) • [🐱 Nyaa](https://nyaa.si/?q=2UXCXTHNVAC2HCJGDKLVWVEER3B5WD72) |
+| `[TrashEnthusiast] Farming Life in Another World - S02E01 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trashenthusiast-farming-life-another-world-s02e01-amzn-web.n2106618) • [🐱 Nyaa](https://nyaa.si/?q=P4ASRTNG27OXNBWRX53JOOHK5UWJ2HEP) |
 | `[Sokudo] Re ZERO - Starting Life in Another World S04E04 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-re-zero-starting-life-another-world-s04e04.n2106614) • [🐱 Nyaa](https://nyaa.si/?q=SO7M7PHCYCJJ2LX7YR47TUIH43SAGJRF) |
 | `[Breeze] Re ZERO - Starting Life in Another World S04E04 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-re-zero-starting-life-another-world-s04e04.n2106613) • [🐱 Nyaa](https://nyaa.si/?q=SESBOR7DAIMRDSFWSJHKYV6CPGJXY3VK) |
-| `[Polarwindz] Rainbow (BD 1080p HEVC Opus)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polarwindz-rainbow-bd-1080p-hevc-opus.n2106612) • [🐱 Nyaa](https://nyaa.si/?q=GYXKQUODSFD2RD5X452YZWHTTVTF4P4N) |
+| `[Polarwindz] Rainbow (Nisha Rokubō no Shichinin) (BD 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polarwindz-rainbow-nisha-rokub-no-shichinin-bd-1080p-hevc.n2106612) • [🐱 Nyaa](https://nyaa.si/?q=GYXKQUODSFD2RD5X452YZWHTTVTF4P4N) |
+| `[DKB] Aishiteru Game wo Owarasetai - S01E04 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-aishiteru-game-wo-owarasetai-s01e04-1080p-hevc.n2106611) • [🐱 Nyaa](https://nyaa.si/?q=QSSSRQLNGZWLC4OIUL2P5A6ALF5226T3) |
 | `[ODDish] Fumetsu no Anata e - S03E22 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e22-web-1080p.n2106605) • [🐱 Nyaa](https://nyaa.si/?q=AC462BDNCMAPF6RLKQIDJWDO5KGLWOLB) |
 | `[ODDish] Fumetsu no Anata e - S03E21 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e21-web-1080p.n2106604) • [🐱 Nyaa](https://nyaa.si/?q=TQUESBH5TRHEOCAEKXNAXXUL2OWPQDRQ) |
 | `[ODDish] Fumetsu no Anata e - S03E20 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e20-web-1080p.n2106603) • [🐱 Nyaa](https://nyaa.si/?q=LD3CM3GCLFE75VSX4UOFDT3T5U5KG4VQ) |
 | `[ODDish] Fumetsu no Anata e - S03E19 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e19-web-1080p.n2106597) • [🐱 Nyaa](https://nyaa.si/?q=QDHFZBCCJDWDRDMHB5K6JRLC2KUHKTYP) |
 | `[ODDish] Fumetsu no Anata e - S03E18 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e18-web-1080p.n2106596) • [🐱 Nyaa](https://nyaa.si/?q=PJJWTKKJAICBPRSZATZQWNAQRYJZOX7H) |
-| `[ODDish] Fumetsu no Anata e - S03E17 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e17-web-1080p.n2106595) • [🐱 Nyaa](https://nyaa.si/?q=WDHEBNWFDC4QZ52DTNIGQW33P5C6Z6I3) |
-| `[RJ01605121][Azur Lane ASMR] Commander Pampering Team!  B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rj01605121-azur-lane-asmr-commander-pampering-team.n2106591) • [🐱 Nyaa](https://nyaa.si/?q=P5YKWHKUQ2MLQGPWQM3TECZCZB2A4YLN) |
-| `[Pico] Boku no Hero Academia - Season 08 (S08) (WEB 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pico-boku-no-hero-academia-season-08-s08.n2106589) • [🐱 Nyaa](https://nyaa.si/?q=PTZACCO2O7WLH3A2BUI7T354JHCSRWOB) |
-| `BEYBLADE X - 71 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-71-1920x1080-ytv-ca.k10835403325956) • [🐱 Nyaa](https://nyaa.si/?q=ZLM7FYCKAMPNCHG33HZVVEDG2WT7AD75) |
-| `BEYBLADE X - 70 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-70-1920x1080-ytv-ca.k10835385009415) • [🐱 Nyaa](https://nyaa.si/?q=MQLS5MAHH27TL4LM2THM6L5WU43MZPLF) |
-| `BEYBLADE X - 69 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-69-1920x1080-ytv-ca.k10835360064525) • [🐱 Nyaa](https://nyaa.si/?q=N3JEODID5D3PFZBPWNWPF7APPVWTKQIC) |
-| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2106584) • [🐱 Nyaa](https://nyaa.si/?q=2OTJN7Y4WCJTZACRSD24TBSOZKN63JBQ) |
 
 ---
 <div align="center">
