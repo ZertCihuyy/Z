@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.06.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.45.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] Oshi no Ko S01–S02 (Spanish Dubs) [1080p BD AV1] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s01s02-spanish-dubs-1080p.k10844058971143) • [🐱 Nyaa](https://nyaa.si/?q=6E6KITKV64H3KDGEQBWNRQWIF6PW4TB2) |
 | `BEYBLADE X - 72 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-72-1920x1080-ytv-ca.k10841337154057) • [🐱 Nyaa](https://nyaa.si/?q=75GESRG7KPVOVUXSK7TTEOJV7ZLHWWK2) |
 | `Walking the Way all alone S01E06 1080p BILI WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/walking-way-all-alone-s01e06-1080p-bili-web.n2106640) • [🐱 Nyaa](https://nyaa.si/?q=4R6NM3WBXO3E5MVJWZMKV4XZ2UCHSK47) |
 | `[ToonsHub] Walking the Way all alone S01E06 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e06-1080p-bili.n2106639) • [🐱 Nyaa](https://nyaa.si/?q=3PPU75I46O5TLRH5ZI5LOFBXOMIJ4I6O) |
@@ -42,7 +43,6 @@
 | `[ODDish] Fumetsu no Anata e - S03E21 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e21-web-1080p.n2106604) • [🐱 Nyaa](https://nyaa.si/?q=TQUESBH5TRHEOCAEKXNAXXUL2OWPQDRQ) |
 | `[ODDish] Fumetsu no Anata e - S03E20 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e20-web-1080p.n2106603) • [🐱 Nyaa](https://nyaa.si/?q=LD3CM3GCLFE75VSX4UOFDT3T5U5KG4VQ) |
 | `[ODDish] Fumetsu no Anata e - S03E19 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e19-web-1080p.n2106597) • [🐱 Nyaa](https://nyaa.si/?q=QDHFZBCCJDWDRDMHB5K6JRLC2KUHKTYP) |
-| `[ODDish] Fumetsu no Anata e - S03E18 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e18-web-1080p.n2106596) • [🐱 Nyaa](https://nyaa.si/?q=PJJWTKKJAICBPRSZATZQWNAQRYJZOX7H) |
 
 ---
 <div align="center">
