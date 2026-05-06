@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.45.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.28.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Cryooon] Urusei Yatsura (2022) - S02 - 1080p BD REMUX - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cryooon-urusei-yatsura-2022-s02-1080p-bd-remux.n2106655) • [🐱 Nyaa](https://nyaa.si/?q=UFBSIPMFVT6YER7WBTCANYV6QH3CMHLQ) |
+| `[LbE3L] Wistoria Wand and Sword S02E01 [1080p WEBRip AV1 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-wistoria-wand-sword-s02e01-1080p-webrip-av1.k10845473502728) • [🐱 Nyaa](https://nyaa.si/?q=4V66YIVXAJC7MGTMVK2QCKDRV3T4FB4S) |
+| `[LbE3L] [H.266] Wistoria Wand and Sword S02E01 [1080p WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-wistoria-wand-sword-s02e01-1080p.k10845430285325) • [🐱 Nyaa](https://nyaa.si/?q=Q2GGVJZUHTQ4663WL6GQLGO5AJZVCYQR) |
 | `[LbE3L] Oshi no Ko S01–S02 (Spanish Dubs) [1080p BD AV1] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s01s02-spanish-dubs-1080p.k10844058971143) • [🐱 Nyaa](https://nyaa.si/?q=6E6KITKV64H3KDGEQBWNRQWIF6PW4TB2) |
 | `BEYBLADE X - 72 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-72-1920x1080-ytv-ca.k10841337154057) • [🐱 Nyaa](https://nyaa.si/?q=75GESRG7KPVOVUXSK7TTEOJV7ZLHWWK2) |
 | `Walking the Way all alone S01E06 1080p BILI WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/walking-way-all-alone-s01e06-1080p-bili-web.n2106640) • [🐱 Nyaa](https://nyaa.si/?q=4R6NM3WBXO3E5MVJWZMKV4XZ2UCHSK47) |
@@ -40,9 +43,6 @@
 | `[Polarwindz] Rainbow (Nisha Rokubō no Shichinin) (BD 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polarwindz-rainbow-nisha-rokub-no-shichinin-bd-1080p-hevc.n2106612) • [🐱 Nyaa](https://nyaa.si/?q=GYXKQUODSFD2RD5X452YZWHTTVTF4P4N) |
 | `[DKB] Aishiteru Game wo Owarasetai - S01E04 [1080p][HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-aishiteru-game-wo-owarasetai-s01e04-1080p-hevc.n2106611) • [🐱 Nyaa](https://nyaa.si/?q=QSSSRQLNGZWLC4OIUL2P5A6ALF5226T3) |
 | `[ODDish] Fumetsu no Anata e - S03E22 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e22-web-1080p.n2106605) • [🐱 Nyaa](https://nyaa.si/?q=AC462BDNCMAPF6RLKQIDJWDO5KGLWOLB) |
-| `[ODDish] Fumetsu no Anata e - S03E21 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e21-web-1080p.n2106604) • [🐱 Nyaa](https://nyaa.si/?q=TQUESBH5TRHEOCAEKXNAXXUL2OWPQDRQ) |
-| `[ODDish] Fumetsu no Anata e - S03E20 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e20-web-1080p.n2106603) • [🐱 Nyaa](https://nyaa.si/?q=LD3CM3GCLFE75VSX4UOFDT3T5U5KG4VQ) |
-| `[ODDish] Fumetsu no Anata e - S03E19 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e19-web-1080p.n2106597) • [🐱 Nyaa](https://nyaa.si/?q=QDHFZBCCJDWDRDMHB5K6JRLC2KUHKTYP) |
 
 ---
 <div align="center">
