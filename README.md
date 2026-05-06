@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.47.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.01.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2106961) • [🐱 Nyaa](https://nyaa.si/?q=YELLNXMRMPR4KE7X3LOSGHYVTPEUWD6V) |
+| `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-saikyou-no-ousama-nidome-jinsei-wa-nani.n2106960) • [🐱 Nyaa](https://nyaa.si/?q=SXPSR56I3VZXXLWFGL4B3PMAI3TD6JWM) |
+| `[Feibanyama] ReZERO -Starting Life in Another World- S04E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-rezero-starting-life-another-world-s04e04-iqiyi.n2106959) • [🐱 Nyaa](https://nyaa.si/?q=4WTV22RRRJPO66UQYZ3VQ465ZLCTNDDF) |
+| `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E05 [1080p][HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otaku-ni-yasashii-gal-wa-inai-s01e05.n2106957) • [🐱 Nyaa](https://nyaa.si/?q=REKRNPHIC6WA6GGGWPZCBOMRTQ3J64QG) |
+| `[sam] Dr. STONE - Science Future - S04E29 (WEB 1080p HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sam-dr-stone-science-future-s04e29-web-1080p.k10857509766144) • [🐱 Nyaa](https://nyaa.si/?q=KA2YNA53FZ5NFJQ62TWNXCFS22DDM5X6) |
+| `[SubsPlease] Yuusha Party ni Kawaii Ko ga Ita node, Kokuh...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-party-ni-kawaii-ko-ga-ita.n2106955) • [🐱 Nyaa](https://nyaa.si/?q=2AQKKUUZNFD2YOJWM32UCLPTOQ2IRPAK) |
+| `[SubsPlease] Yuusha Party ni Kawaii Ko ga Ita node, Kokuh...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-party-ni-kawaii-ko-ga-ita.n2106954) • [🐱 Nyaa](https://nyaa.si/?q=UNSBEEA3BGCRDP5BIHEQIWMEZ6ALAT6A) |
+| `[SubsPlease] Yuusha Party ni Kawaii Ko ga Ita node, Kokuh...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-yuusha-party-ni-kawaii-ko-ga-ita.n2106953) • [🐱 Nyaa](https://nyaa.si/?q=47AUHRSLOPRSPGWSH3X3CHOT4G6TN642) |
 | `[FBI] Re:Zero Starting Life in Another World - S04E05 (CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fbi-re-zero-starting-life-another-world-s04e05.n2106952) • [🐱 Nyaa](https://nyaa.si/?q=SQZ4R43JMQDHAG4VZHF5AZJCQT3EGKD7) |
 | `[Erai-raws] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jidouhanbaiki-ni-umarekawatta-ore-wa-meikyuu.k10856796539142) • [🐱 Nyaa](https://nyaa.si/?q=DOXUOJHQD7GHMZR4YXGGF3HPQTKKL47B) |
 | `[Anime Time] Dorohedoro - S02E08 [1080p][HEVC 10bit x265]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/anime-time-dorohedoro-s02e08-1080p-hevc-10bit-x265.n2106948) • [🐱 Nyaa](https://nyaa.si/?q=2DNUCCNUHWTTTAZ6H6EVAHXU7XBKHNPO) |
@@ -35,14 +43,6 @@
 | `[Erai-raws] Ganbare Nakamura-kun - 07 [1080p CR WEBRip HE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-07-1080p-cr.k10855873148168) • [🐱 Nyaa](https://nyaa.si/?q=LEWL36ACXXOHPBER4MUAOHGMOQ32JMWI) |
 | `[DKB] Kanojo, Okarishimasu - S05E05 [1080p][HEVC x265 10b...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kanojo-okarishimasu-s05e05-1080p-hevc-x265-10bit.n2106925) • [🐱 Nyaa](https://nyaa.si/?q=G6MMXMLSLPE6MCK526YZJZ7LYZX5X36R) |
 | `[DKB] Dorohedoro - S02E08 [1080p][HEVC x265 10bit][Multi-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-dorohedoro-s02e08-1080p-hevc-x265-10bit-multi-subs.n2106924) • [🐱 Nyaa](https://nyaa.si/?q=D3JEY4XY7YRI23GXDIQWJ3ZYIMFX2UFR) |
-| `[SubsPlease] Chitose-kun wa Ramune Bin no Naka (01-13) (1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-chitose-kun-wa-ramune-bin-no-naka.n2106921) • [🐱 Nyaa](https://nyaa.si/?q=AZY2ECGNMGSINFDESVCJZFRIPLALNFLN) |
-| `Classroom of the Elite S04E03 Determination of a Leader 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-elite-s04e03-determination-leader-1080p-cr-web.n2106920) • [🐱 Nyaa](https://nyaa.si/?q=TK3DAFZXYX36ROXT5OXGOGGFBYC6J5SI) |
-| `[SubsPlease] Chitose-kun wa Ramune Bin no Naka (01-13) (7...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-chitose-kun-wa-ramune-bin-no-naka.n2106919) • [🐱 Nyaa](https://nyaa.si/?q=RXDMKYY2YDDKV6DIYNHJHHE6VNTADNB2) |
-| `[SubsPlease] Chitose-kun wa Ramune Bin no Naka (01-13) (4...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-chitose-kun-wa-ramune-bin-no-naka.n2106918) • [🐱 Nyaa](https://nyaa.si/?q=4SHPCAZ6QWPMEQ7Q5KUXSHVYXAYPKMTU) |
-| `[Erai-raws] Otaku ni Yasashii Gal wa Inai - 05 [1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otaku-ni-yasashii-gal-wa-inai.n2106917) • [🐱 Nyaa](https://nyaa.si/?q=S633YTCOKTUIM5SU3UNMMQSWGZL5U5NP) |
-| `[Judas] Saikyou no Ousama, Nidome no Jinsei wa Nani o Sur...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-saikyou-no-ousama-nidome-jinsei-wa-nani.n2106916) • [🐱 Nyaa](https://nyaa.si/?q=7SLBX56E3NRIYMSDYGFWKAZ23YWJMU3I) |
-| `[DKB] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Sa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu.n2106913) • [🐱 Nyaa](https://nyaa.si/?q=ORPZ5LASTVCEWV47QZH6K7SGW5WT3X53) |
-| `[ASW] Ganbare! Nakamura-kun!! - 07 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-ganbare-nakamura-kun-07-1080p-hevc-x265-10bit-aac.n2106912) • [🐱 Nyaa](https://nyaa.si/?q=ZJIBEGM7ULAJ3X6M3VK6RXVVQQEMUIYM) |
 
 ---
 <div align="center">
