@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.26.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.16.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gecko] Cat Tales - S01E30 (うごく！ねこむかしばなし; Ugoku! Neko Muk...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e30-ugoku-neko-mukashibanashi-ytb.k10848355361536) • [🐱 Nyaa](https://nyaa.si/?q=KSFSTA2HSFLR26CWKOPXWADL5NFN4I7Y) |
-| `[ToonsHub] Cat Tales S01E30 1080p LNTV WEB-DL AAC2.0 H.26...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-cat-tales-s01e30-1080p-lntv-web-dl.n2106672) • [🐱 Nyaa](https://nyaa.si/?q=DH24P3KFMS3XECBD3FBA57PE4J6QIHI3) |
-| `One.Piece.Vol002.DVDRip.480p.x265.10bit.AAC.Multi-uP` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-piece-vol002-dvdrip-480p-x265-10bit-aac-multi-up.n2106671) • [🐱 Nyaa](https://nyaa.si/?q=PDJTN7UDSTJTYMLDI7FWSWCVSAUEFDZA) |
-| `[nnotaclue] Call of the Night - S01 [BD 1080 AV1 Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-call-night-s01-bd-1080-av1-opus.k10847942621449) • [🐱 Nyaa](https://nyaa.si/?q=WVOU3BHHGI54J2JXZHGAXV7XYVDEZDU6) |
-| `[nnotaclue] Call of the Night - S02 [BD 1080 AV1 Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-call-night-s02-bd-1080-av1-opus.k10846984655373) • [🐱 Nyaa](https://nyaa.si/?q=DLQLRQ43IJ6VCJ7BEVJ7KCREE56CWBLX) |
-| `My Hero Academia S01 1080p NF WEB-DL MULTi AAC2.0 H 264-V...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/my-hero-academia-s01-1080p-nf-web-dl.n2106656) • [🐱 Nyaa](https://nyaa.si/?q=5HOYFLJWWC5IOYO2LTU5DH4ZS3LJIRQG) |
-| `[nnotaclue] Call of the Night - S01 [BD 1080 AV1 Opus 2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-call-night-s01-bd-1080-av1-opus.k10846699216139) • [🐱 Nyaa](https://nyaa.si/?q=XH2XHBEAE7G3QSNS64KODFMYPTOZVECV) |
-| `[Cryooon] Urusei Yatsura (2022) - S02 - 1080p BD REMUX - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cryooon-urusei-yatsura-2022-s02-1080p-bd-remux.n2106655) • [🐱 Nyaa](https://nyaa.si/?q=UFBSIPMFVT6YER7WBTCANYV6QH3CMHLQ) |
-| `[LbE3L] Wistoria Wand and Sword S02E01 [1080p WEBRip AV1 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-wistoria-wand-sword-s02e01-1080p-webrip-av1.k10845473502728) • [🐱 Nyaa](https://nyaa.si/?q=4V66YIVXAJC7MGTMVK2QCKDRV3T4FB4S) |
-| `[LbE3L] [H.266] Wistoria Wand and Sword S02E01 [1080p WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-h-266-wistoria-wand-sword-s02e01-1080p.k10845430285325) • [🐱 Nyaa](https://nyaa.si/?q=Q2GGVJZUHTQ4663WL6GQLGO5AJZVCYQR) |
-| `[LbE3L] Oshi no Ko S01–S02 (Spanish Dubs) [1080p BD AV1] ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s01s02-spanish-dubs-1080p.k10844058971143) • [🐱 Nyaa](https://nyaa.si/?q=6E6KITKV64H3KDGEQBWNRQWIF6PW4TB2) |
-| `BEYBLADE X - 72 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-72-1920x1080-ytv-ca.k10841337154057) • [🐱 Nyaa](https://nyaa.si/?q=75GESRG7KPVOVUXSK7TTEOJV7ZLHWWK2) |
-| `Walking the Way all alone S01E06 1080p BILI WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/walking-way-all-alone-s01e06-1080p-bili-web.n2106640) • [🐱 Nyaa](https://nyaa.si/?q=4R6NM3WBXO3E5MVJWZMKV4XZ2UCHSK47) |
-| `[ToonsHub] Walking the Way all alone S01E06 1080p BILI WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-walking-way-all-alone-s01e06-1080p-bili.n2106639) • [🐱 Nyaa](https://nyaa.si/?q=3PPU75I46O5TLRH5ZI5LOFBXOMIJ4I6O) |
-| `[Feibanyama] Wistoria Wand and Sword S02E04 [BILIBILI Web...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/feibanyama-wistoria-wand-sword-s02e04-bilibili-webrip-2160p.n2106629) • [🐱 Nyaa](https://nyaa.si/?q=SM6SBDB3AB6YY67KG55ZAKF3L7TLRGHV) |
+| `[ASW] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.n2106716) • [🐱 Nyaa](https://nyaa.si/?q=ESVL5V3LU546Y42YGNPSWWZ3RI267USF) |
+| `[Yameii] Rent-a-Girlfriend - S05E03 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-rent-girlfriend-s05e03-english-dub-cr-web.k10850065648386) • [🐱 Nyaa](https://nyaa.si/?q=LRA5U6PRI7XR35NSQDJ5TFVUGFI2HWJD) |
+| `[Yameii] Rent-a-Girlfriend - S05E03 [English Dub] [CR WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-rent-girlfriend-s05e03-english-dub-cr-web.k10850060759821) • [🐱 Nyaa](https://nyaa.si/?q=3CCYKFRVL5SJXKKF5P4UVLXDVWOXHIST) |
+| `[Onalrie] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.2079162) • [🐱 Nyaa](https://nyaa.si/?q=S3ZGRAV747DJ5IZ7LSFZA4AZPRCSZCPM) |
+| `[ToonsHub] Rent-a-Girlfriend S05E05 1080p CR WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rent-girlfriend-s05e05-1080p-cr-web-dl.k10850031290881) • [🐱 Nyaa](https://nyaa.si/?q=4BQSGBSZCLI4UTTJK5DHHCRDYM6QYN24) |
+| `[SubsPlease] Kanojo, Okarishimasu - 53 (1080p) [4431D343]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanojo-okarishimasu-53-1080p-4431d343-mkv.n2106710) • [🐱 Nyaa](https://nyaa.si/?q=JCRJ2MXTWJYBSME4WKMJDYWWYNNCVZGO) |
+| `[ToonsHub] Rent-a-Girlfriend S05E03 1080p CR WEB-DL DUAL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-rent-girlfriend-s05e03-1080p-cr-web-dl.k10850030103556) • [🐱 Nyaa](https://nyaa.si/?q=PGVMJMEQSZIRV75SPVZS7GXK6QHO3JXG) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 05 [480p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-05-480p.n2106708) • [🐱 Nyaa](https://nyaa.si/?q=5ZVXSZTVHNCC3JSVXYVLYAXEAHTI5RVE) |
+| `[SubsPlease] Kanojo, Okarishimasu - 53 (720p) [9B8E2905].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanojo-okarishimasu-53-720p-9b8e2905-mkv.n2106706) • [🐱 Nyaa](https://nyaa.si/?q=ECJRG6PILYV4NFG2QS3Q6U5J2YUOM74X) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 05 [720p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-05-720p.n2106705) • [🐱 Nyaa](https://nyaa.si/?q=HKHQFVBSSZAV4QXFQR4MUSNZUNEX377R) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 05 [1080p CR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kanojo-okarishimasu-5th-season-05-1080p.n2106704) • [🐱 Nyaa](https://nyaa.si/?q=ZPZERZVDHEZV24HVKTPANOBLP7RJVTQT) |
+| `[SubsPlease] Kanojo, Okarishimasu - 53 (480p) [D449A22F].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kanojo-okarishimasu-53-480p-d449a22f-mkv.n2106703) • [🐱 Nyaa](https://nyaa.si/?q=C6A6XIUYXSSCPE3K4TECZMGOKSBYE432) |
+| `Classroom of the Elite S04E09 A Disquieting Beginning 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-elite-s04e09-disquieting-beginning-1080p-cr-web.n2106701) • [🐱 Nyaa](https://nyaa.si/?q=CCDK3LRXSJ6VNTBRWHXMWUJAG4XNBPZD) |
+| `[Chihiro] Rock wa Lady no Tashinami deshite - 12 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-rock-wa-lady-no-tashinami-deshite-12.n2106699) • [🐱 Nyaa](https://nyaa.si/?q=IBIOCW2IHXLKHXECXGNPZH7SBV3CZ6HY) |
+| `[Yameii] Classroom of the Elite - S04E07 [English Dub] [C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-classroom-elite-s04e07-english-dub-cr-web.k10849688110860) • [🐱 Nyaa](https://nyaa.si/?q=LU2V2TSHE5MH52JIDZ4YXYOIDG6K7PEK) |
 
 ---
 <div align="center">
