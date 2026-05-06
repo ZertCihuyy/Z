@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.41.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.15.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,40 +9,40 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Rabu**
+### 📅 Jadwal Rilis Hari Ini: **Kamis**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `07:05` | **[Chibi Godzilla no Gyakushuu 3rd Season](https://myanimelist.net/anime/61765/Chibi_Godzilla_no_Gyakushuu_3rd_Season)** | *Fantasy* |
-| `21:55` | **[Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou)** | *Action, Fantasy* |
-| `21:55` | **[Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/anime/63433/Daikenja_Riddle_no_Jikan_Gyakkou)** | *Action, Fantasy* |
-| `00:00` | **[Hidarikiki no Eren](https://myanimelist.net/anime/53732/Hidarikiki_no_Eren)** | *Drama* |
-| `01:29` | **[Tadaima, Ojamasaremasu!](https://myanimelist.net/anime/63014/Tadaima_Ojamasaremasu)** | *Comedy, Romance* |
-| `01:59` | **[Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://myanimelist.net/anime/63376/Megami_Isekai_Tensei_Nani_ni_Naritai_desu_ka_Ore_Yuusha_no_Rokkotsu_de)** | *Comedy, Fantasy* |
-| `01:59` | **[Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://myanimelist.net/anime/63376/Megami_Isekai_Tensei_Nani_ni_Naritai_desu_ka_Ore_Yuusha_no_Rokkotsu_de)** | *Comedy, Fantasy* |
-| `22:00` | **[Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season](https://myanimelist.net/anime/62512/Jidou_Hanbaiki_ni_Umarekawatta_Ore_wa_Meikyuu_wo_Samayou_3rd_Season)** | *Comedy, Fantasy* |
-| `23:30` | **[Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2](https://myanimelist.net/anime/61831/Saikyou_no_Ousama_Nidome_no_Jinsei_wa_Nani_wo_Suru_Season_2)** | *Fantasy* |
-| `23:45` | **[Otaku ni Yasashii Gal wa Inai!?](https://myanimelist.net/anime/62604/Otaku_ni_Yasashii_Gal_wa_Inai)** | *Comedy, Romance* |
+| `07:45` | **[Metal Cardbot W](https://myanimelist.net/anime/63142/Metal_Cardbot_W)** | *Action, Sci-Fi* |
+| `07:45` | **[Metal Cardbot W](https://myanimelist.net/anime/63142/Metal_Cardbot_W)** | *Action, Sci-Fi* |
+| `00:55` | **[Candy Caries](https://myanimelist.net/anime/63276/Candy_Caries)** | *Comedy, Fantasy* |
+| `00:55` | **[Candy Caries](https://myanimelist.net/anime/63276/Candy_Caries)** | *Comedy, Fantasy* |
+| `22:30` | **[Kujima Utaeba Ie Hororo](https://myanimelist.net/anime/58832/Kujima_Utaeba_Ie_Hororo)** | *Comedy, Supernatural* |
+| `00:00` | **[Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken](https://myanimelist.net/anime/62893/Nigashita_Sakana_wa_Ookikatta_ga_Tsuriageta_Sakana_ga_Ookisugita_Ken)** | *Comedy, Romance* |
+| `00:30` | **[Ganbare! Nakamura-kun!!](https://myanimelist.net/anime/59551/Ganbare_Nakamura-kun)** | *Boys Love, Comedy* |
+| `21:30` | **[Himekishi wa Barbaroi no Yome](https://myanimelist.net/anime/60028/Himekishi_wa_Barbaroi_no_Yome)** | *Comedy, Fantasy, Romance* |
+| `23:56` | **[Koori no Jouheki](https://myanimelist.net/anime/60852/Koori_no_Jouheki)** | *Drama, Romance* |
+| `22:00` | **[Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)** | *Adventure, Comedy* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `BEYBLADE X - 73 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-73-1920x1080-ytv-ca.k10852358817792) • [🐱 Nyaa](https://nyaa.si/?q=OBBTXB7QAAT2DGFSLLR5WVX3JFE6DEUN) |
-| `[Onalrie] Dorohedoro - S02E08 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dorohedoro-s02e08-1080p-webrip-av1-mkv.2079199) • [🐱 Nyaa](https://nyaa.si/?q=DDRM6XMK7LT57WUI3GX5Y3VXRXYQK3CM) |
-| `[ToonsHub] Always a Catch S01E06 1080p BILI WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-always-catch-s01e06-1080p-bili-web-dl.n2106808) • [🐱 Nyaa](https://nyaa.si/?q=O5ISN6ASVDITQ53UL2RFPTTO44OCC44I) |
-| `[ASW] Dorohedoro S2 - 08 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-dorohedoro-s2-08-1080p-hevc-x265-10bit-aac.n2106807) • [🐱 Nyaa](https://nyaa.si/?q=JRD3GDARLEPGEF4XHEW2MF425CBCSP6W) |
-| `[ASW] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Sa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu.n2106806) • [🐱 Nyaa](https://nyaa.si/?q=PZJLFT3JMWQMVWOCIBIS6H6HYYQXG2DM) |
-| `[Raze] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsue S4 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/raze-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsue-s4.n2106803) • [🐱 Nyaa](https://nyaa.si/?q=BKHTLXT3YAM2DEQNAVGPNHLSDHMMK6FS) |
-| `Classroom of the Elite S04E01 Assassin From the White Roo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/classroom-elite-s04e01-assassin-from-white-room-1080p.n2106802) • [🐱 Nyaa](https://nyaa.si/?q=H2VUAGCKLDZZLCC4OSNBEVG2YMDONWLV) |
-| `Reborn as a Vending Machine I Now Wander the Dungeon S03E...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-vending-machine-now-wander-dungeon-s03e03-stay.n2106801) • [🐱 Nyaa](https://nyaa.si/?q=ELUNFIN2HV7AYWIJC2HGFECFIVJWBWON) |
-| `Rent a Girlfriend S05E02 Rental Girlfriend 1080p CR WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/rent-girlfriend-s05e02-rental-1080p-cr-web-dl.n2106800) • [🐱 Nyaa](https://nyaa.si/?q=H7GW3OWDWE35QTWAFR4Q4BPAQ7FDF4FK) |
-| `[Onalrie] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu w...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu.2079195) • [🐱 Nyaa](https://nyaa.si/?q=437HEZB2YI2KAFJBCMR2NACBQK6ZOW6K) |
-| `[Judas] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Sa...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jidouhanbaiki-ni-umarekawatta-ore-wa-meikyuu-o.n2106799) • [🐱 Nyaa](https://nyaa.si/?q=2N6F7Q5IIQG7F2PQ6NW2K6OMR2S3N6UT) |
-| `[Unfucked] I Want to End This Love Game - S01E04 (1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-want-end-love-game-s01e04-1080p-cr.n2106798) • [🐱 Nyaa](https://nyaa.si/?q=WVMLOJJPUXPEGIQA633TC2O7TFFOV27C) |
-| `[Unfucked] I Want to End This Love Game - S01E03 (1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-want-end-love-game-s01e03-1080p-cr.n2106797) • [🐱 Nyaa](https://nyaa.si/?q=S6UBNT4Q5NTKYWCM7KKQUZY6EHRWRBK6) |
-| `[Unfucked] I Want to End This Love Game - S01E02 (1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-want-end-love-game-s01e02-1080p-cr.n2106796) • [🐱 Nyaa](https://nyaa.si/?q=HCRFCWTMEFMOU5CGT4O5YMSNBPZ7YQNK) |
-| `[Unfucked] I Want to End This Love Game - S01E01 (1080p C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/unfucked-want-end-love-game-s01e01-1080p-cr.n2106795) • [🐱 Nyaa](https://nyaa.si/?q=TEU5NQLOWD67CXUICU7QQEOYJ4H6UAWQ) |
+| `[VARYG] Chained Soldier S02E09 A Commanders Resolve 1080p...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-chained-soldier-s02e09-commanders-resolve-1080p-hidi.k10853784669698) • [🐱 Nyaa](https://nyaa.si/?q=7AUYWWYKVHY3OVPUT3CT6XPJW7SIBWKS) |
+| `[Yameii] Go For It, Nakamura-kun!! - S01E07 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-go-nakamura-kun-s01e07-english-dub-cr.k10853769876237) • [🐱 Nyaa](https://nyaa.si/?q=4MIKL4NPGRIPCKLPJXB4FWAUEEO66RCE) |
+| `[VARYG] Go For It Nakamura kun S01E07 Gh-Ghost School Gho...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-go-nakamura-kun-s01e07-gh-ghost-school.k10853766406914) • [🐱 Nyaa](https://nyaa.si/?q=G6LPHAP4XBUS4YLOQBLSOCDGEGD7SX4Z) |
+| `[Yameii] Go For It, Nakamura-kun!! - S01E07 [English Dub]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-go-nakamura-kun-s01e07-english-dub-cr.k10853750604812) • [🐱 Nyaa](https://nyaa.si/?q=5ILPIMHTYKNIMRLCO7HVHKTFMOCWGSDD) |
+| `[VARYG] Go For It Nakamura kun S01E07 Gh-Ghost School Gho...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-go-nakamura-kun-s01e07-gh-ghost-school.k10853747693057) • [🐱 Nyaa](https://nyaa.si/?q=GFQTH3WXXGZQJGZIIQO5UQUPRIXDCGJT) |
+| `[VARYG] HELL MODE The Hardcore Gamer Dominates in Another...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-hell-mode-hardcore-gamer-dominates-another-world.k10853739687947) • [🐱 Nyaa](https://nyaa.si/?q=OHCP32HTLQMF3TSDONJQT6KMU5KQP2FW) |
+| `[ToonsHub] Chained Soldier S02E09 1080p HIDIVE WEB-DL DUA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-chained-soldier-s02e09-1080p-hidive-web-dl.k10853725812231) • [🐱 Nyaa](https://nyaa.si/?q=NT4WWYP7Q57KKAVIS4K37QDZ32GT5CI2) |
+| `The Beginning After the End S02E03 The King Is Stranded 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beginning-after-end-s02e03-king-stranded-1080p-cr.n2106886) • [🐱 Nyaa](https://nyaa.si/?q=IJ4HRVCEZ2HNA2C6UDEB4SUQT2EGFOLW) |
+| `[ToonsHub] Go For It Nakamura-kun S01E07 1080p CR WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-go-nakamura-kun-s01e07-1080p-cr-web.k10853715263746) • [🐱 Nyaa](https://nyaa.si/?q=TSUWWTDEENZUUE6K6KYXJDZCJ6US3PSY) |
+| `[ToonsHub] Farming Life In Another World S02E02 1080p HID...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-farming-life-another-world-s02e02-1080p-hidive.k10853714739457) • [🐱 Nyaa](https://nyaa.si/?q=QQWPUYXPBIZ24AJV6W42Z3BJVUFXGW4C) |
+| `[SubsPlease] Ganbare! Nakamura-kun!! - 07 (1080p) [7A297C...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ganbare-nakamura-kun-07-1080p-7a297c20-mkv.n2106882) • [🐱 Nyaa](https://nyaa.si/?q=G2EVKJ5N62BAQVEYJOGPJCGRAI6V6LFI) |
+| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Anot...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hell-mode-hardcore-gamer-dominates-another-world.n2106881) • [🐱 Nyaa](https://nyaa.si/?q=MEOT35BX5LEGLIW7SMOXOEK4NXOHKIEU) |
+| `[SubsPlease] Ganbare! Nakamura-kun!! - 07 (720p) [CFB7918...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-ganbare-nakamura-kun-07-720p-cfb7918d-mkv.n2106880) • [🐱 Nyaa](https://nyaa.si/?q=DSMELZFMPCUBUKVJJ2J2TIL6U46D5KIV) |
+| `[Erai-raws] Ganbare Nakamura-kun - 07 [480p CR WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-07-480p-cr.n2106878) • [🐱 Nyaa](https://nyaa.si/?q=WEMKVXJR4VZGC6GU3VTKQPARR5W62YPI) |
+| `[Erai-raws] Ganbare Nakamura-kun - 07 [720p CR WEB-DL AVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-ganbare-nakamura-kun-07-720p-cr.n2106876) • [🐱 Nyaa](https://nyaa.si/?q=6KY5FVTVJ455J7QNNZY6AFGVBFC4KUQM) |
 
 ---
 <div align="center">
