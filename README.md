@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.12.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.06.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sokudo] Re ZERO - Starting Life in Another World S04E04 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/sokudo-re-zero-starting-life-another-world-s04e04.n2106614) • [🐱 Nyaa](https://nyaa.si/?q=SO7M7PHCYCJJ2LX7YR47TUIH43SAGJRF) |
+| `[Breeze] Re ZERO - Starting Life in Another World S04E04 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/breeze-re-zero-starting-life-another-world-s04e04.n2106613) • [🐱 Nyaa](https://nyaa.si/?q=SESBOR7DAIMRDSFWSJHKYV6CPGJXY3VK) |
+| `[Polarwindz] Rainbow (BD 1080p HEVC Opus)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/polarwindz-rainbow-bd-1080p-hevc-opus.n2106612) • [🐱 Nyaa](https://nyaa.si/?q=GYXKQUODSFD2RD5X452YZWHTTVTF4P4N) |
 | `[ODDish] Fumetsu no Anata e - S03E22 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e22-web-1080p.n2106605) • [🐱 Nyaa](https://nyaa.si/?q=AC462BDNCMAPF6RLKQIDJWDO5KGLWOLB) |
 | `[ODDish] Fumetsu no Anata e - S03E21 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e21-web-1080p.n2106604) • [🐱 Nyaa](https://nyaa.si/?q=TQUESBH5TRHEOCAEKXNAXXUL2OWPQDRQ) |
 | `[ODDish] Fumetsu no Anata e - S03E20 (WEB 1080p H.264 AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-s03e20-web-1080p.n2106603) • [🐱 Nyaa](https://nyaa.si/?q=LD3CM3GCLFE75VSX4UOFDT3T5U5KG4VQ) |
@@ -40,9 +43,6 @@
 | `BEYBLADE X - 70 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-70-1920x1080-ytv-ca.k10835385009415) • [🐱 Nyaa](https://nyaa.si/?q=MQLS5MAHH27TL4LM2THM6L5WU43MZPLF) |
 | `BEYBLADE X - 69 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-69-1920x1080-ytv-ca.k10835360064525) • [🐱 Nyaa](https://nyaa.si/?q=N3JEODID5D3PFZBPWNWPF7APPVWTKQIC) |
 | `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-fate-grand-order-youve-lost-ritsuka-fujimaru.n2106584) • [🐱 Nyaa](https://nyaa.si/?q=2OTJN7Y4WCJTZACRSD24TBSOZKN63JBQ) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-megami-isekai-tensei-nani-ni-naritai.k10835239248911) • [🐱 Nyaa](https://nyaa.si/?q=ITFFTDZYK7FQRVYUI46S7I27GRIOIU2S) |
-| `[9volt] Sousou no Frieren - Season 2 (WEB 1080p HEVC EAC-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/9volt-sousou-no-frieren-season-2-web-1080p.n2106580) • [🐱 Nyaa](https://nyaa.si/?q=F7JBGPZI7PJJAINXOXAXZDQ46WWOXGQV) |
-| `BEYBLADE X - 91 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-91-1920x1080-cartoon-network-ca.k10834882083338) • [🐱 Nyaa](https://nyaa.si/?q=6NYYRZFSZ4MWHE5GSVVCVT7NIWTXHGNX) |
 
 ---
 <div align="center">
