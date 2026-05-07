@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.01.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.12.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Chihiro] Rock wa Lady no Tashinami deshite - 13 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-rock-wa-lady-no-tashinami-deshite-13.n2107031) • [🐱 Nyaa](https://nyaa.si/?q=XJZPPP4BPAGSCGB7YI7VCGNSNYJX5LB2) |
+| `High School DxD Remaster (BDRip 1080p x265 AAC Multi) Ryū...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/high-school-dxd-remaster-bdrip-1080p-x265-aac-multi-ryjin.n2107030) • [🐱 Nyaa](https://nyaa.si/?q=EQ57OSIMQGSWGQC73LOVFHPWCDRLMTEP) |
+| `[One Pace][117-119] Little Garden 02 [1080p][1E643507].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-pace-117-119-little-garden-02-1080p-1e643507-mkv.n2107029) • [🐱 Nyaa](https://nyaa.si/?q=BV2XURR3AXSN6KRWS5WUOVF54SG2U2B3) |
+| `[Gecko] Koala's Diary - S01E31 (コアラ絵日記; Koala Enikki) [YT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e31-koala-enikki-ytb-web.k10870366253824) • [🐱 Nyaa](https://nyaa.si/?q=5XYMLGZ7JSJX54HDOSMLONEQPPB35KG4) |
+| `[ToonsHub] Koalas Diary S01E31 1080p LNTV WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e31-1080p-lntv-web-dl.k10870362572292) • [🐱 Nyaa](https://nyaa.si/?q=PB52A2Y2KDXM5Y7S5QO4MXSOMMPXNVXU) |
+| `[Mangamannn] Rurouni Kenshin 1996 - 097-100 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-rurouni-kenshin-1996-097-100-480i-dvd.k10869998771970) • [🐱 Nyaa](https://nyaa.si/?q=RIVNHXBHDBVDSP5IFN6P3WD7THSI5FMD) |
+| `[Mangamannn] The Wings of Rean - 01-06 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-wings-rean-01-06-480i-dvd.k10869969930511) • [🐱 Nyaa](https://nyaa.si/?q=R5BAL7EREGEQIAVYEG2VURQM5KDIROU6) |
+| `[Kekkan] Champignon no Majo (WebRip 1080p AV1 Multi-Subs ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kekkan-champignon-no-majo-webrip-1080p-av1-multi.n2107024) • [🐱 Nyaa](https://nyaa.si/?q=2BSUVN4PCMV5YYE5HSVZ7VPOBCDLC6LG) |
 | `[LbE3L] Oshi no Ko S03 (Spanish Dub) [1080p WEBRip AV1 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03-spanish-dub-1080p.k10868408498694) • [🐱 Nyaa](https://nyaa.si/?q=JRJQPXOC7FSV4JBP4CJ2QVJ6W5R2WZ45) |
 | `[LbE3L] Witch Hat Atelier S01E02 [1080p CUSTOM WEBRip AV1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-witch-hat-atelier-s01e02-1080p-custom-webrip.k10866815525646) • [🐱 Nyaa](https://nyaa.si/?q=HGSINZZCJJFUS2HXURBZHGZTIITU64RA) |
 | `Farming Life In Another World S02E02 1080p AMZN WEB-DL DU...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/farming-life-another-world-s02e02-1080p-amzn-web.n2107011) • [🐱 Nyaa](https://nyaa.si/?q=ELSE3Y6VA4YBTWC5JKFTR3LBFOXYUOYR) |
@@ -35,14 +43,6 @@
 | `Ayane-chan High Kick! (Ayane's High Kick) (1997) S01 (720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ayane-chan-high-kick-ayanes-1997-s01-720p.n2107010) • [🐱 Nyaa](https://nyaa.si/?q=5OEEGICJTHWTLATRYTHVWMXQLJWM2TY7) |
 | `[Gecko] Reborn as a Cat - S01E28 (为喵人生; Wei Miao Rensheng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e28-wei-miao-rensheng-bili.k10865783109645) • [🐱 Nyaa](https://nyaa.si/?q=MGGSEJYTKZF5YY3VCW63RIBQGUMLN55O) |
 | `[Cyan] Champignon no Majo - 12 [WEB 1080p x265][AAC][DDE1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cyan-champignon-no-majo-12-web-1080p-x265.n2107008) • [🐱 Nyaa](https://nyaa.si/?q=7MEZTKIMDFBHU3F2DAKN7OGGRRRIX4X2) |
-| `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa I...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lolihouse-otaku-ni-yasashii-gyaru-wa-inai-05.n2107007) • [🐱 Nyaa](https://nyaa.si/?q=N3CLB3C4GRX2B65LKGGYLUP2VRCJ2P74) |
-| `[Gecko] Cat Tales - S01E30 (うごく！ねこむかしばなし; Ugoku! Neko Muk...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e30-ugoku-neko-mukashibanashi-cthp.n2106999) • [🐱 Nyaa](https://nyaa.si/?q=MV7INXRRKMBA7HQ5HV3QCWZNE4UG2F74) |
-| `[Gecko] Candy Caries - S01E04 (キャンディーカリエス) [CTHP.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-candy-caries-s01e04-cthp-web-dl-1080p.n2106995) • [🐱 Nyaa](https://nyaa.si/?q=E5XY3VHJB2L5NOVW7XI3GTZ7VZ75XC3R) |
-| `[ToonsHub] Reborn as a Cat S01E28 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e28-1080p-bili-web-dl.n2106991) • [🐱 Nyaa](https://nyaa.si/?q=FHQVYG5VH42ZHU2BGM4LDB4DGPFGN565) |
-| `Pokemon Horizons - 49 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pokemon-horizons-49-1920x1080-ytv-ca.k10862575486471) • [🐱 Nyaa](https://nyaa.si/?q=UVNM6VV47IB4W26EQ6W4JFWN2OHL4FEK) |
-| `Pokemon Horizons - 48 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pokemon-horizons-48-1920x1080-ytv-ca.k10862340874508) • [🐱 Nyaa](https://nyaa.si/?q=Y54G55BFE7IV3VPJABUPP7ZRVXZPERQE) |
-| `Pokemon Horizons - 46 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pokemon-horizons-46-1920x1080-ytv-ca.k10862303125261) • [🐱 Nyaa](https://nyaa.si/?q=TKHKLL5E76GRZLQDYKHQGIC5OMAMGYEY) |
-| `Reborn as a Cat S01E27 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e27-1080p-bili-web-dl-aac2.n2106989) • [🐱 Nyaa](https://nyaa.si/?q=7T44JDMBWZGUMSHOL2BY3J5N6YUYCVRY) |
 
 ---
 <div align="center">
