@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.06.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.06.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Cat Tales - S01E30 (うごく！ねこむかしばなし; Ugoku! Neko Muk...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-cat-tales-s01e30-ugoku-neko-mukashibanashi-cthp.n2106999) • [🐱 Nyaa](https://nyaa.si/?q=MV7INXRRKMBA7HQ5HV3QCWZNE4UG2F74) |
+| `[Gecko] Candy Caries - S01E04 (キャンディーカリエス) [CTHP.WEB-DL 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-candy-caries-s01e04-cthp-web-dl-1080p.n2106995) • [🐱 Nyaa](https://nyaa.si/?q=E5XY3VHJB2L5NOVW7XI3GTZ7VZ75XC3R) |
+| `[ToonsHub] Reborn as a Cat S01E28 1080p BILI WEB-DL AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-reborn-cat-s01e28-1080p-bili-web-dl.n2106991) • [🐱 Nyaa](https://nyaa.si/?q=FHQVYG5VH42ZHU2BGM4LDB4DGPFGN565) |
+| `Pokemon Horizons - 49 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pokemon-horizons-49-1920x1080-ytv-ca.k10862575486471) • [🐱 Nyaa](https://nyaa.si/?q=UVNM6VV47IB4W26EQ6W4JFWN2OHL4FEK) |
+| `Pokemon Horizons - 48 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pokemon-horizons-48-1920x1080-ytv-ca.k10862340874508) • [🐱 Nyaa](https://nyaa.si/?q=Y54G55BFE7IV3VPJABUPP7ZRVXZPERQE) |
+| `Pokemon Horizons - 46 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pokemon-horizons-46-1920x1080-ytv-ca.k10862303125261) • [🐱 Nyaa](https://nyaa.si/?q=TKHKLL5E76GRZLQDYKHQGIC5OMAMGYEY) |
+| `Reborn as a Cat S01E27 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e27-1080p-bili-web-dl-aac2.n2106989) • [🐱 Nyaa](https://nyaa.si/?q=7T44JDMBWZGUMSHOL2BY3J5N6YUYCVRY) |
+| `[WF] Oshi no Ko - 08 [BD 1080p x265 OPUS][PT-BR] (My Star...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wf-oshi-no-ko-08-bd-1080p-x265.n2106985) • [🐱 Nyaa](https://nyaa.si/?q=7PZ7I34CSB3OMDMGOMDIAK2FMBPLMZBF) |
+| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2106974) • [🐱 Nyaa](https://nyaa.si/?q=D6P3SXJWNXBMDW33FMMANEYKZAH7FDBC) |
 | `[Erai-raws] Dorohedoro Season 2 - 08 [1080p NF WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-08-1080p-nf.k10860111753739) • [🐱 Nyaa](https://nyaa.si/?q=P7FSAP4TQFVCLLEJV54M5OI3OXFRC2XX) |
 | `[Duracell] Nippon Sangoku - S01E01 (WEB 1080p H.264 E-AC-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/duracell-nippon-sangoku-s01e01-web-1080p-h-264.n2106968) • [🐱 Nyaa](https://nyaa.si/?q=5QB4XIYBQKMKU4PFY45IP3FJQKUWQ4X2) |
 | `Pokémon Horizons - 98 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pokmon-horizons-98-1920x1080-cartoon-network-ca.k10859969899784) • [🐱 Nyaa](https://nyaa.si/?q=6FCRINEW6STKQGAD4XAAFQUHPB7J2XN6) |
 | `Pokémon Horizons - 97 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pokmon-horizons-97-1920x1080-cartoon-network-ca.k10859951873290) • [🐱 Nyaa](https://nyaa.si/?q=IGDA7UCM2UZNBTLWO6RFFS6IEWSK6KCO) |
 | `[Erai-raws] Dorohedoro Season 2 - 08 [1080p CR WEBRip HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-dorohedoro-season-2-08-1080p-cr.k10859933956109) • [🐱 Nyaa](https://nyaa.si/?q=AZ4MFMD7FTFMY5LSCTHFE3NOQPKZLMR7) |
 | `BEYBLADE X - 87 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-87-1920x1080-cartoon-network-ca.k10858830455046) • [🐱 Nyaa](https://nyaa.si/?q=55B34LPQ6O77J6FRGBXOZT3VGEGUKUTT) |
-| `BEYBLADE X - 86 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-86-1920x1080-cartoon-network-ca.k10858813179144) • [🐱 Nyaa](https://nyaa.si/?q=WTJ6TAG5MGKZGNR5AV3MY4SISSEEHFOU) |
-| `BEYBLADE X - 85 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-85-1920x1080-cartoon-network-ca.k10858793998083) • [🐱 Nyaa](https://nyaa.si/?q=DK455Q2Q5IG5JTXWDJLOM4JRPGDHGZ23) |
-| `BEYBLADE X - 84 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-84-1920x1080-cartoon-network-ca.k10858759341061) • [🐱 Nyaa](https://nyaa.si/?q=2QJ4G27P6NJYRYUN3XPCAEMJULPPROR2) |
-| `BEYBLADE X - 83 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-83-1920x1080-cartoon-network-ca.k10858713849863) • [🐱 Nyaa](https://nyaa.si/?q=YMATJZG4UUOIHS7EGREWWTDIMZTGU5HC) |
-| `BEYBLADE X - 82 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-82-1920x1080-cartoon-network-ca.k10858693029391) • [🐱 Nyaa](https://nyaa.si/?q=WGGPKMSSPEBXODNUAMTZ7HUBWSSOQFIO) |
-| `BEYBLADE X - 81 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-81-1920x1080-cartoon-network-ca.k10858675555330) • [🐱 Nyaa](https://nyaa.si/?q=JCZ4V4C5HMAB5QR6X7XACESDN2MKI2IC) |
-| `BEYBLADE X - 80 (1920x1080 - Cartoon Network CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-80-1920x1080-cartoon-network-ca.k10858540304651) • [🐱 Nyaa](https://nyaa.si/?q=URDZGRNOFQJ3HJKLLVNHD32DE72CMZCE) |
-| `BEYBLADE X - 79 (1920x1080 - Cartoon Network CA).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/beyblade-x-79-1920x1080-cartoon-network-ca-mkv.k10858504830724) • [🐱 Nyaa](https://nyaa.si/?q=72QCH42DYDM6GF3DDIIXUSDVPN27NIKI) |
-| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-saikyou-no-ousama-nidome-jinsei-wa.n2106961) • [🐱 Nyaa](https://nyaa.si/?q=YELLNXMRMPR4KE7X3LOSGHYVTPEUWD6V) |
 
 ---
 <div align="center">
