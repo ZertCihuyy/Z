@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.12.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.06.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Chihiro] Rock wa Lady no Tashinami deshite - 13 [1080p H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/chihiro-rock-wa-lady-no-tashinami-deshite-13.n2107031) • [🐱 Nyaa](https://nyaa.si/?q=XJZPPP4BPAGSCGB7YI7VCGNSNYJX5LB2) |
-| `High School DxD Remaster (BDRip 1080p x265 AAC Multi) Ryū...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/high-school-dxd-remaster-bdrip-1080p-x265-aac-multi-ryjin.n2107030) • [🐱 Nyaa](https://nyaa.si/?q=EQ57OSIMQGSWGQC73LOVFHPWCDRLMTEP) |
-| `[One Pace][117-119] Little Garden 02 [1080p][1E643507].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/one-pace-117-119-little-garden-02-1080p-1e643507-mkv.n2107029) • [🐱 Nyaa](https://nyaa.si/?q=BV2XURR3AXSN6KRWS5WUOVF54SG2U2B3) |
-| `[Gecko] Koala's Diary - S01E31 (コアラ絵日記; Koala Enikki) [YT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e31-koala-enikki-ytb-web.k10870366253824) • [🐱 Nyaa](https://nyaa.si/?q=5XYMLGZ7JSJX54HDOSMLONEQPPB35KG4) |
-| `[ToonsHub] Koalas Diary S01E31 1080p LNTV WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-koalas-diary-s01e31-1080p-lntv-web-dl.k10870362572292) • [🐱 Nyaa](https://nyaa.si/?q=PB52A2Y2KDXM5Y7S5QO4MXSOMMPXNVXU) |
-| `[Mangamannn] Rurouni Kenshin 1996 - 097-100 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-rurouni-kenshin-1996-097-100-480i-dvd.k10869998771970) • [🐱 Nyaa](https://nyaa.si/?q=RIVNHXBHDBVDSP5IFN6P3WD7THSI5FMD) |
-| `[Mangamannn] The Wings of Rean - 01-06 (480i DVD)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/mangamannn-wings-rean-01-06-480i-dvd.k10869969930511) • [🐱 Nyaa](https://nyaa.si/?q=R5BAL7EREGEQIAVYEG2VURQM5KDIROU6) |
-| `[Kekkan] Champignon no Majo (WebRip 1080p AV1 Multi-Subs ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kekkan-champignon-no-majo-webrip-1080p-av1-multi.n2107024) • [🐱 Nyaa](https://nyaa.si/?q=2BSUVN4PCMV5YYE5HSVZ7VPOBCDLC6LG) |
-| `[LbE3L] Oshi no Ko S03 (Spanish Dub) [1080p WEBRip AV1 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03-spanish-dub-1080p.k10868408498694) • [🐱 Nyaa](https://nyaa.si/?q=JRJQPXOC7FSV4JBP4CJ2QVJ6W5R2WZ45) |
-| `[LbE3L] Witch Hat Atelier S01E02 [1080p CUSTOM WEBRip AV1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-witch-hat-atelier-s01e02-1080p-custom-webrip.k10866815525646) • [🐱 Nyaa](https://nyaa.si/?q=HGSINZZCJJFUS2HXURBZHGZTIITU64RA) |
-| `Farming Life In Another World S02E02 1080p AMZN WEB-DL DU...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/farming-life-another-world-s02e02-1080p-amzn-web.n2107011) • [🐱 Nyaa](https://nyaa.si/?q=ELSE3Y6VA4YBTWC5JKFTR3LBFOXYUOYR) |
-| `[vLbE3L] Witch Hat Atelier S01E02 [1080p CUSTOM WEBRip VV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/vlbe3l-witch-hat-atelier-s01e02-1080p-custom-webrip.k10866771385600) • [🐱 Nyaa](https://nyaa.si/?q=JBGIWE2IQZ7F7NJHIO76PXUSQW5NANHT) |
-| `Ayane-chan High Kick! (Ayane's High Kick) (1997) S01 (720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ayane-chan-high-kick-ayanes-1997-s01-720p.n2107010) • [🐱 Nyaa](https://nyaa.si/?q=5OEEGICJTHWTLATRYTHVWMXQLJWM2TY7) |
-| `[Gecko] Reborn as a Cat - S01E28 (为喵人生; Wei Miao Rensheng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e28-wei-miao-rensheng-bili.k10865783109645) • [🐱 Nyaa](https://nyaa.si/?q=MGGSEJYTKZF5YY3VCW63RIBQGUMLN55O) |
-| `[Cyan] Champignon no Majo - 12 [WEB 1080p x265][AAC][DDE1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/cyan-champignon-no-majo-12-web-1080p-x265.n2107008) • [🐱 Nyaa](https://nyaa.si/?q=7MEZTKIMDFBHU3F2DAKN7OGGRRRIX4X2) |
+| `[VARYG] Tamons B side S01E01 You Need Money to Support Yo...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-tamons-b-side-s01e01-need-money-support.k10874000397580) • [🐱 Nyaa](https://nyaa.si/?q=6EB7USCB47N2RCQERZ5QAA5IZ62NDRAK) |
+| `[Onalrie] Kujima Utaeba Ie Hororo - S01E05 [1080p WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kujima-utaeba-ie-hororo-s01e05-1080p-webrip-av1-mkv.2079375) • [🐱 Nyaa](https://nyaa.si/?q=UUFDI33UBEV6KUVCAP2VUYZOOBL52E5V) |
+| `[Judas] Dr Stone - Science Future - S04E30 [1080p][HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-dr-stone-science-future-s04e30-1080p-hevc.n2107133) • [🐱 Nyaa](https://nyaa.si/?q=IEUN5Y2TZPNQGJICTFKWJFAN5KTWRJ6K) |
+| `[Onalrie] Dr. Stone - S04E30 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-dr-stone-s04e30-1080p-webrip-av1-mkv.2079362) • [🐱 Nyaa](https://nyaa.si/?q=B3IR2QAKUKAQZBJ3RFODI6YOMLBLB2GR) |
+| `[Ironclad] The Warrior Princess and the Barbaric King - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-warrior-princess-barbaric-king-s01e05-web-1080p.k10873556824587) • [🐱 Nyaa](https://nyaa.si/?q=2ZBHNS4CTJGDDBAM6UWVX234YC7OOVRM) |
+| `[DKB] Himekishi wa Barbaroi no Yome - S01E05 [1080p][HEVC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-himekishi-wa-barbaroi-no-yome-s01e05-1080p.n2107132) • [🐱 Nyaa](https://nyaa.si/?q=3JW7FAZOCTRGOA4RCEKGIUJTCAAKSGIH) |
+| `[vools] Re ZERO Starting Life in Another World S04E05 Sti...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/vools-re-zero-starting-life-another-world-s04e05.n2107129) • [🐱 Nyaa](https://nyaa.si/?q=VDDK65LEJ5ZEXOWIV7XCOQLZROYMB5RK) |
+| `[vools] Re ZERO Starting Life in Another World S04E04 The...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/vools-re-zero-starting-life-another-world-s04e04.n2107128) • [🐱 Nyaa](https://nyaa.si/?q=327ALLD2PZSUXT6R6VSQHV5RUDG6XZX2) |
+| `[vools] Re ZERO Starting Life in Another World S04E03 Kee...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/vools-re-zero-starting-life-another-world-s04e03.n2107127) • [🐱 Nyaa](https://nyaa.si/?q=UEUAIKT5D3C6MKPCKAEFLEGNGL7FX3OU) |
+| `Dr STONE S04E30 Stone to Space 1080p CR WEB-DL MULTi AAC2...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dr-stone-s04e30-stone-space-1080p-cr-web.n2107125) • [🐱 Nyaa](https://nyaa.si/?q=JGXALRVIA6KUWELY3HBIBD26F664J3AX) |
+| `[vools] Re ZERO Starting Life in Another World S04E02 Bre...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/vools-re-zero-starting-life-another-world-s04e02.n2107122) • [🐱 Nyaa](https://nyaa.si/?q=XT5W5HVSPRDS2VYSZLFQFHD4B4J526SK) |
+| `[Onalrie] Himekishi wa Barbaroi no Yome - S01E05 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-himekishi-wa-barbaroi-no-yome-s01e05-1080p.2079359) • [🐱 Nyaa](https://nyaa.si/?q=AUA2YFM3YKZHZJY4KLNMWYXCRALQNFV4) |
+| `[ToonsHub] Dr STONE S04E30 1080p CR WEB-DL MULTi AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-dr-stone-s04e30-1080p-cr-web-dl.k10873170189069) • [🐱 Nyaa](https://nyaa.si/?q=MXSSE4OUCDTHBGY72SJ2WKX4BHYWQHTM) |
+| `[ToonsHub] Kujima Why Sing When You Can Warble S01E05 108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kujima-why-sing-when-warble-s01e05-1080p.k10873101694212) • [🐱 Nyaa](https://nyaa.si/?q=Y3ES32TBHFPGQROCZS232VL3ZIXNKFYB) |
+| `[Yameii] Dr. Stone - S04E30 [English Dub] [CR WEB-DL 1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yameii-dr-stone-s04e30-english-dub-cr-web.k10873101754636) • [🐱 Nyaa](https://nyaa.si/?q=AKXXGFG63JOJ2SPDXBKJACCJU2D5FAZ2) |
 
 ---
 <div align="center">
