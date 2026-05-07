@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.00.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.23.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Naruto Shippuden 163 Remaster (BDRip 1080p x265 FLAC Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/naruto-shippuden-163-remaster-bdrip-1080p-x265-flac-multi.n2107283) • [🐱 Nyaa](https://nyaa.si/?q=VWAFIX4VQVMYME5BODB5LDIJNNJ2O72V) |
+| `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 05 (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kikuri-otaku-ni-yasashii-gal-wa-inai-05.k10878682434568) • [🐱 Nyaa](https://nyaa.si/?q=3K6MANQS6RSS4EFW76O5THVFT7WWR3WV) |
+| `Monster Eater S01E06 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e06-1080p-amzn-web-dl-ddp2.n2107280) • [🐱 Nyaa](https://nyaa.si/?q=BAOZ2HIH5UE25VMXRHY7TVQQXXQ5E6Z6) |
+| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.k10878324986635) • [🐱 Nyaa](https://nyaa.si/?q=LJZ5IRY7R5IBDGHJE44VGVC47RRDGRXC) |
 | `[DKB] Reincarnation no Kaben - S01E06 [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-reincarnation-no-kaben-s01e06-1080p-hevc-x265-10bit.n2107252) • [🐱 Nyaa](https://nyaa.si/?q=74UKKJX4ZDEJMGRNDPKAZVD2DVFV7UM2) |
 | `[Erai-raws] Koori no Jouheki - 06 [1080p NF WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-koori-no-jouheki-06-1080p-nf.k10877234912778) • [🐱 Nyaa](https://nyaa.si/?q=SUQAQUQC4BPJYVU2EWLCUHEOHZCAJG2U) |
 | `[DKB] Koori no Jouheki - S01E06 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e06-1080p-hevc-x265.n2107250) • [🐱 Nyaa](https://nyaa.si/?q=AZOIX2CKLZ24P2TAZYUJR4EJSJIRSBCJ) |
@@ -39,10 +43,6 @@
 | `[Onalrie] Haibara-kun no Tsuyokute Seishun New Game - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-haibara-kun-no-tsuyokute-seishun-new-game.2079409) • [🐱 Nyaa](https://nyaa.si/?q=RCZVFTS7XXO4RBHBJVLKR4GFITRBBTKZ) |
 | `[Erai-raws] Reincarnation no Kaben - 06 [1080p AMZN WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-06-1080p-amzn.k10876564953100) • [🐱 Nyaa](https://nyaa.si/?q=EJDLKYVVMM7D4KJOP3C6W63TVEGBG2HH) |
 | `[SubsPlus+] Kirio Fan Club - S01E06 (ABEMA WEB-DL 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-kirio-fan-club-s01e06-abema-web-dl.k10876557192197) • [🐱 Nyaa](https://nyaa.si/?q=6AQMX2X6AXTHO7JNGO5JDGMHVVQEO44X) |
-| `[Trix] Awajima Hyakkei S01E05 [WEBRip 1080p AV1 Opus] (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-awajima-hyakkei-s01e05-webrip-1080p-av1-opus.n2107235) • [🐱 Nyaa](https://nyaa.si/?q=6FY3DBNFPGUGH7V7RKSCM26M6FQ4A2NN) |
-| `[ASW] Awajima Hyakkei - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-awajima-hyakkei-05-1080p-hevc-x265-10bit-aac.n2107234) • [🐱 Nyaa](https://nyaa.si/?q=MBPCBY7JD6RXPKBY5PMFOFCSDYUXB3Q5) |
-| `Killed again Mr Detective S01E06 1080p CR WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/killed-again-mr-detective-s01e06-1080p-cr-web.n2107232) • [🐱 Nyaa](https://nyaa.si/?q=S7XQRPE32IU4A3EU7KZQNRIQL7A7ZVOH) |
-| `[Gecko] Monster Eater - S01E06 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e06-mamonogurai-no-boukensha-ore.k10876299113985) • [🐱 Nyaa](https://nyaa.si/?q=HVNOKQK4STVSKW7WUZ5KEG3BU5I3LNLQ) |
 
 ---
 <div align="center">
