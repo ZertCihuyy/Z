@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.44.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.38.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Kujima Utaeba Ie Hororo - 05 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kujima-utaeba-ie-hororo-05-1080p-hevc.n2107305) • [🐱 Nyaa](https://nyaa.si/?q=FWDONHBK3I2S4CGNVGK57YFAP4PSIZD6) |
 | `LUPIN THE IIIRD - Fujiko's Lie (2019) (BDRip 1920x1080p x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-fujikos-lie-2019-bdrip-1920x1080p-x265.n2107297) • [🐱 Nyaa](https://nyaa.si/?q=G3PP7BFZJZPMGYJMJRKTAM56RVOQSQ36) |
 | `LUPIN THE IIIRD - Goemon's Blood Spray (2017) (BDRip 1920...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-goemons-blood-spray-2017-bdrip-1920x1080p.n2107290) • [🐱 Nyaa](https://nyaa.si/?q=EG4JHPNO2GRKDLKILPNASA7EZRJTYQOB) |
 | `[Erai-raws] Awajima Hyakkei - 05 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-05-1080p-cr-webrip.k10879624204553) • [🐱 Nyaa](https://nyaa.si/?q=KLVBDRVYSO42EOYFUH2RHNUNYAPVWFS6) |
@@ -42,7 +43,6 @@
 | `Monster Eater S01E06 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e06-1080p-amzn-web-dl-ddp2.n2107280) • [🐱 Nyaa](https://nyaa.si/?q=BAOZ2HIH5UE25VMXRHY7TVQQXXQ5E6Z6) |
 | `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.k10878324986635) • [🐱 Nyaa](https://nyaa.si/?q=LJZ5IRY7R5IBDGHJE44VGVC47RRDGRXC) |
 | `[DKB] Reincarnation no Kaben - S01E06 [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-reincarnation-no-kaben-s01e06-1080p-hevc-x265-10bit.n2107252) • [🐱 Nyaa](https://nyaa.si/?q=74UKKJX4ZDEJMGRNDPKAZVD2DVFV7UM2) |
-| `[Erai-raws] Koori no Jouheki - 06 [1080p NF WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-koori-no-jouheki-06-1080p-nf.k10877234912778) • [🐱 Nyaa](https://nyaa.si/?q=SUQAQUQC4BPJYVU2EWLCUHEOHZCAJG2U) |
 
 ---
 <div align="center">
