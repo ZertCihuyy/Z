@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.31.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.44.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,7 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `LUPIN THE IIIRD - Fujiko's Lie (2019) (BDRip 1920x1080p x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-fujikos-lie-2019-bdrip-1920x1080p-x265.n2107291) • [🐱 Nyaa](https://nyaa.si/?q=OW3JSGRCLSPLDFL3KAJKQJOUILKLV4RH) |
+| `LUPIN THE IIIRD - Fujiko's Lie (2019) (BDRip 1920x1080p x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-fujikos-lie-2019-bdrip-1920x1080p-x265.n2107297) • [🐱 Nyaa](https://nyaa.si/?q=G3PP7BFZJZPMGYJMJRKTAM56RVOQSQ36) |
 | `LUPIN THE IIIRD - Goemon's Blood Spray (2017) (BDRip 1920...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-goemons-blood-spray-2017-bdrip-1920x1080p.n2107290) • [🐱 Nyaa](https://nyaa.si/?q=EG4JHPNO2GRKDLKILPNASA7EZRJTYQOB) |
 | `[Erai-raws] Awajima Hyakkei - 05 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-05-1080p-cr-webrip.k10879624204553) • [🐱 Nyaa](https://nyaa.si/?q=KLVBDRVYSO42EOYFUH2RHNUNYAPVWFS6) |
 | `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.n2107288) • [🐱 Nyaa](https://nyaa.si/?q=KQXY54BRDIJVXXUUDRKGBN2X6ALBHNZY) |
