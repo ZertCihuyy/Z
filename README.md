@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.04.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.00.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Petals of Reincarnation S01E06 1080p AMZN WEB-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-petals-reincarnation-s01e06-1080p-amzn-web-dl.k10875766773509) • [🐱 Nyaa](https://nyaa.si/?q=6KGYOI3UXWQAIVO63KIGDJYBMX36WSCO) |
-| `[VARYG] Kirio Fan Club S01E06 Secrets 1080p ABMA WEB-DL D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/varyg-kirio-fan-club-s01e06-secrets-1080p-abma.k10875646205188) • [🐱 Nyaa](https://nyaa.si/?q=ZF3YPXPVD4LLNC2AIDAIWA4SPPY2M4ND) |
-| `Kirio Fan Club S01E06 Secrets 1080p ABMA WEB-DL DDP2.0 H ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kirio-fan-club-s01e06-secrets-1080p-abma-web.n2107199) • [🐱 Nyaa](https://nyaa.si/?q=N4WXVCI3VDDWNE33J22KKKARHSMWXAC3) |
-| `[SubsPlease] Awajima Hyakkei - 05 (1080p) [F69B9512].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-awajima-hyakkei-05-1080p-f69b9512-mkv.n2107197) • [🐱 Nyaa](https://nyaa.si/?q=PAFZ3N6RFQPY6CWUCR66IFCGYY5F7PRW) |
-| `[ToonsHub] A Hundred Scenes of AWAJIMA S01E05 1080p CR WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-hundred-scenes-awajima-s01e05-1080p-cr-web.k10875599933698) • [🐱 Nyaa](https://nyaa.si/?q=Z5REW4FYOJEG3ZW2YAFPDIFYVM4CR5S6) |
-| `A Hundred Scenes of AWAJIMA S01E05 Ohkubo Asami 1080p CR ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hundred-scenes-awajima-s01e05-ohkubo-asami-1080p-cr.n2107195) • [🐱 Nyaa](https://nyaa.si/?q=7OYDPBFKR7N3OYIGQHPEDETZWNGP2CJU) |
-| `[SubsPlease] Awajima Hyakkei - 05 (720p) [A7E8E220].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-awajima-hyakkei-05-720p-a7e8e220-mkv.n2107194) • [🐱 Nyaa](https://nyaa.si/?q=Y3KQQK5GZQ7A6QCYTL4NZYXJNUFBMFLL) |
-| `[Erai-raws] Awajima Hyakkei - 05 [480p CR WEB-DL AVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-05-480p-cr-web.k10875591604741) • [🐱 Nyaa](https://nyaa.si/?q=2B4WMARDWKHIQAWP5SSBMY72DHYV5327) |
-| `[Erai-raws] Awajima Hyakkei - 05 [720p CR WEB-DL AVC AAC]...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-05-720p-cr-web.n2107191) • [🐱 Nyaa](https://nyaa.si/?q=PJ5VCSUP7WX7GGD5D7JLDSI3HZ7UVJY4) |
-| `[Erai-raws] Awajima Hyakkei - 05 [1080p CR WEB-DL AVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-05-1080p-cr-web.n2107190) • [🐱 Nyaa](https://nyaa.si/?q=TXFYMMEIGVJ7UE6R33MPQ7ZPKUMIU3TL) |
-| `[SubsPlease] Awajima Hyakkei - 05 (480p) [2038ABD3].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-awajima-hyakkei-05-480p-2038abd3-mkv.n2107189) • [🐱 Nyaa](https://nyaa.si/?q=ALPUH4CWS2LF6GZDHWKPJ3XCGCOBG2F3) |
-| `[Erai-raws] Reincarnation no Kaben - 06 [540p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-06-540p-amzn.k10875551816463) • [🐱 Nyaa](https://nyaa.si/?q=QDOBGHX4R7ZJATMYPFZ5UNSBXPR2DMG2) |
-| `[Erai-raws] Reincarnation no Kaben - 06 [720p AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-06-720p-amzn.k10875551453966) • [🐱 Nyaa](https://nyaa.si/?q=LL3WWXDV6OIETMRRMFLYBC6TOCSMGC2W) |
-| `[Erai-raws] Reincarnation no Kaben - 06 [1080p AMZN WEB-D...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-06-1080p-amzn.k10875551024644) • [🐱 Nyaa](https://nyaa.si/?q=7C5Y3PJLPIVKM56534LUAQONEVRVW4ZQ) |
-| `[ASW] Kirio Fanclub - 06 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kirio-fanclub-06-1080p-hevc-x265-10bit-aac.n2107184) • [🐱 Nyaa](https://nyaa.si/?q=N56MYBFRUHR3UV7C46A7RD5U5BPQW3EB) |
+| `[DKB] Reincarnation no Kaben - S01E06 [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-reincarnation-no-kaben-s01e06-1080p-hevc-x265-10bit.n2107252) • [🐱 Nyaa](https://nyaa.si/?q=74UKKJX4ZDEJMGRNDPKAZVD2DVFV7UM2) |
+| `[Erai-raws] Koori no Jouheki - 06 [1080p NF WEBRip HEVC A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-koori-no-jouheki-06-1080p-nf.k10877234912778) • [🐱 Nyaa](https://nyaa.si/?q=SUQAQUQC4BPJYVU2EWLCUHEOHZCAJG2U) |
+| `[DKB] Koori no Jouheki - S01E06 [1080p][HEVC x265 10bit][...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-koori-no-jouheki-s01e06-1080p-hevc-x265.n2107250) • [🐱 Nyaa](https://nyaa.si/?q=AZOIX2CKLZ24P2TAZYUJR4EJSJIRSBCJ) |
+| `[ASW] Mata Korosarete Shimatta no desu ne, Tantei-sama - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-mata-korosarete-shimatta-no-desu-ne-tantei.n2107249) • [🐱 Nyaa](https://nyaa.si/?q=3EILDCZT63HBS564E65FPAP2JBXE6ZXT) |
+| `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-mata-korosarete-shimatta-no-desu-ne-tantei.n2107246) • [🐱 Nyaa](https://nyaa.si/?q=NT2QIZPIKWSPUCRSO7DL4CKVMZFFVIJQ) |
+| `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sam...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-mata-korosarete-shimatta-no-desu-ne-tantei.2079417) • [🐱 Nyaa](https://nyaa.si/?q=ZOKQT3ONO5LCHUTXVE7TCINU4VUD6I4Q) |
+| `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 06 [108...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-haibara-kun-no-tsuyokute-seishun-new-game.n2107240) • [🐱 Nyaa](https://nyaa.si/?q=FYD35JAZJIDWXYOQH7FDVIHGMKLE3TI6) |
+| `[SubsPlus+] Petals of Reincarnation - S01E06 (AMZN WEB-DL...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-petals-reincarnation-s01e06-amzn-web-dl-1080p.k10876715482882) • [🐱 Nyaa](https://nyaa.si/?q=BB4BDAWZ3YYHGO3AK554VMORQHOBTYLG) |
+| `[Onalrie] Haibara-kun no Tsuyokute Seishun New Game - S01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-haibara-kun-no-tsuyokute-seishun-new-game.2079409) • [🐱 Nyaa](https://nyaa.si/?q=RCZVFTS7XXO4RBHBJVLKR4GFITRBBTKZ) |
+| `[Erai-raws] Reincarnation no Kaben - 06 [1080p AMZN WEBRi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-reincarnation-no-kaben-06-1080p-amzn.k10876564953100) • [🐱 Nyaa](https://nyaa.si/?q=EJDLKYVVMM7D4KJOP3C6W63TVEGBG2HH) |
+| `[SubsPlus+] Kirio Fan Club - S01E06 (ABEMA WEB-DL 1080p A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplus-kirio-fan-club-s01e06-abema-web-dl.k10876557192197) • [🐱 Nyaa](https://nyaa.si/?q=6AQMX2X6AXTHO7JNGO5JDGMHVVQEO44X) |
+| `[Trix] Awajima Hyakkei S01E05 [WEBRip 1080p AV1 Opus] (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-awajima-hyakkei-s01e05-webrip-1080p-av1-opus.n2107235) • [🐱 Nyaa](https://nyaa.si/?q=6FY3DBNFPGUGH7V7RKSCM26M6FQ4A2NN) |
+| `[ASW] Awajima Hyakkei - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-awajima-hyakkei-05-1080p-hevc-x265-10bit-aac.n2107234) • [🐱 Nyaa](https://nyaa.si/?q=MBPCBY7JD6RXPKBY5PMFOFCSDYUXB3Q5) |
+| `Killed again Mr Detective S01E06 1080p CR WEB-DL AAC2.0 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/killed-again-mr-detective-s01e06-1080p-cr-web.n2107232) • [🐱 Nyaa](https://nyaa.si/?q=S7XQRPE32IU4A3EU7KZQNRIQL7A7ZVOH) |
+| `[Gecko] Monster Eater - S01E06 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e06-mamonogurai-no-boukensha-ore.k10876299113985) • [🐱 Nyaa](https://nyaa.si/?q=HVNOKQK4STVSKW7WUZ5KEG3BU5I3LNLQ) |
 
 ---
 <div align="center">
