@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.19.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.01.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,7 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] Oshi no Ko S03 (Spanish Dub) [1080p WEBRip AV1 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-oshi-no-ko-s03-spanish-dub-1080p.k10868408498694) • [🐱 Nyaa](https://nyaa.si/?q=JRJQPXOC7FSV4JBP4CJ2QVJ6W5R2WZ45) |
 | `[LbE3L] Witch Hat Atelier S01E02 [1080p CUSTOM WEBRip AV1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lbe3l-witch-hat-atelier-s01e02-1080p-custom-webrip.k10866815525646) • [🐱 Nyaa](https://nyaa.si/?q=HGSINZZCJJFUS2HXURBZHGZTIITU64RA) |
+| `Farming Life In Another World S02E02 1080p AMZN WEB-DL DU...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/farming-life-another-world-s02e02-1080p-amzn-web.n2107011) • [🐱 Nyaa](https://nyaa.si/?q=ELSE3Y6VA4YBTWC5JKFTR3LBFOXYUOYR) |
 | `[vLbE3L] Witch Hat Atelier S01E02 [1080p CUSTOM WEBRip VV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/vlbe3l-witch-hat-atelier-s01e02-1080p-custom-webrip.k10866771385600) • [🐱 Nyaa](https://nyaa.si/?q=JBGIWE2IQZ7F7NJHIO76PXUSQW5NANHT) |
 | `Ayane-chan High Kick! (Ayane's High Kick) (1997) S01 (720...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ayane-chan-high-kick-ayanes-1997-s01-720p.n2107010) • [🐱 Nyaa](https://nyaa.si/?q=5OEEGICJTHWTLATRYTHVWMXQLJWM2TY7) |
 | `[Gecko] Reborn as a Cat - S01E28 (为喵人生; Wei Miao Rensheng...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-reborn-cat-s01e28-wei-miao-rensheng-bili.k10865783109645) • [🐱 Nyaa](https://nyaa.si/?q=MGGSEJYTKZF5YY3VCW63RIBQGUMLN55O) |
@@ -41,8 +43,6 @@
 | `Pokemon Horizons - 48 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pokemon-horizons-48-1920x1080-ytv-ca.k10862340874508) • [🐱 Nyaa](https://nyaa.si/?q=Y54G55BFE7IV3VPJABUPP7ZRVXZPERQE) |
 | `Pokemon Horizons - 46 (1920x1080 - YTV CA)` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/pokemon-horizons-46-1920x1080-ytv-ca.k10862303125261) • [🐱 Nyaa](https://nyaa.si/?q=TKHKLL5E76GRZLQDYKHQGIC5OMAMGYEY) |
 | `Reborn as a Cat S01E27 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/reborn-cat-s01e27-1080p-bili-web-dl-aac2.n2106989) • [🐱 Nyaa](https://nyaa.si/?q=7T44JDMBWZGUMSHOL2BY3J5N6YUYCVRY) |
-| `[WF] Oshi no Ko - 08 [BD 1080p x265 OPUS][PT-BR] (My Star...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/wf-oshi-no-ko-08-bd-1080p-x265.n2106985) • [🐱 Nyaa](https://nyaa.si/?q=7PZ7I34CSB3OMDMGOMDIAK2FMBPLMZBF) |
-| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2106974) • [🐱 Nyaa](https://nyaa.si/?q=D6P3SXJWNXBMDW33FMMANEYKZAH7FDBC) |
 
 ---
 <div align="center">
