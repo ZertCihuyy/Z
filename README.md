@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.26.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.41.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `LUPIN THE IIIRD - Zenigata and the Two Lupins (2025) (WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-zenigata-two-lupins-2025-web-dl.n2107319) • [🐱 Nyaa](https://nyaa.si/?q=U7BQVY5GFAANX4RO75Z32E4AVKY2535M) |
-| `[ASW] Dr. Stone S4 - 30 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-dr-stone-s4-30-1080p-hevc-x265-10bit-aac.n2107306) • [🐱 Nyaa](https://nyaa.si/?q=LQUVECBDKSJRQDWCS3EMZBI366DNQPU6) |
-| `[ASW] Kujima Utaeba Ie Hororo - 05 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kujima-utaeba-ie-hororo-05-1080p-hevc.n2107305) • [🐱 Nyaa](https://nyaa.si/?q=FWDONHBK3I2S4CGNVGK57YFAP4PSIZD6) |
-| `LUPIN THE IIIRD - Fujiko's Lie (2019) (BDRip 1920x1080p x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-fujikos-lie-2019-bdrip-1920x1080p-x265.n2107297) • [🐱 Nyaa](https://nyaa.si/?q=G3PP7BFZJZPMGYJMJRKTAM56RVOQSQ36) |
-| `LUPIN THE IIIRD - Goemon's Blood Spray (2017) (BDRip 1920...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-goemons-blood-spray-2017-bdrip-1920x1080p.n2107290) • [🐱 Nyaa](https://nyaa.si/?q=EG4JHPNO2GRKDLKILPNASA7EZRJTYQOB) |
-| `[Erai-raws] Awajima Hyakkei - 05 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-awajima-hyakkei-05-1080p-cr-webrip.k10879624204553) • [🐱 Nyaa](https://nyaa.si/?q=KLVBDRVYSO42EOYFUH2RHNUNYAPVWFS6) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-s...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-mata-korosarete-shimatta-no-desu-ne.n2107288) • [🐱 Nyaa](https://nyaa.si/?q=KQXY54BRDIJVXXUUDRKGBN2X6ALBHNZY) |
-| `[DKB] Mata Korosarete Shimatta no desu ne, Tantei-sama - ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-mata-korosarete-shimatta-no-desu-ne-tantei.n2107287) • [🐱 Nyaa](https://nyaa.si/?q=LBOMXMXWDKS4NRIFSAUV47AHMKFTMJML) |
-| `LUPIN THE IIIRD - Jigen's Gravestone (2014) (BDRip 1920x1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-jigens-gravestone-2014-bdrip-1920x1080p-x265.n2107286) • [🐱 Nyaa](https://nyaa.si/?q=6ZNIKFQLCX776ET6SK54SRW5A3RECSNH) |
-| `[nnotaclue] Dr. STONE - S04E30 [1080p AV1 Opus 2.0 Multi-...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e30-1080p-av1-opus-2.k10879214831105) • [🐱 Nyaa](https://nyaa.si/?q=UMDMAWFQINS6OC7DY277KGWXXYUCVITM) |
-| `[nnotaclue] Dr. STONE - S04E30 [1080p AV1 Opus 2.0 Dual-A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/nnotaclue-dr-stone-s04e30-1080p-av1-opus-2.k10879164540681) • [🐱 Nyaa](https://nyaa.si/?q=2ZB24MNPWU4VMCBRZVAIRUWGOUQEQXLV) |
-| `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E06 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-haibara-kun-no-tsuyokute-seishun-new-game.n2107285) • [🐱 Nyaa](https://nyaa.si/?q=BSOL3LROHR3RHCRKHHKBLACZPD2YEKWR) |
-| `Naruto Shippuden 163 Remaster (BDRip 1080p x265 FLAC Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/naruto-shippuden-163-remaster-bdrip-1080p-x265-flac-multi.n2107283) • [🐱 Nyaa](https://nyaa.si/?q=VWAFIX4VQVMYME5BODB5LDIJNNJ2O72V) |
-| `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 05 (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kikuri-otaku-ni-yasashii-gal-wa-inai-05.k10878682434568) • [🐱 Nyaa](https://nyaa.si/?q=3K6MANQS6RSS4EFW76O5THVFT7WWR3WV) |
-| `Monster Eater S01E06 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e06-1080p-amzn-web-dl-ddp2.n2107280) • [🐱 Nyaa](https://nyaa.si/?q=BAOZ2HIH5UE25VMXRHY7TVQQXXQ5E6Z6) |
+| `[Gecko] Koala's Diary - S01E31 (コアラ絵日記; Koala Enikki) [CT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e31-koala-enikki-cthp-web.n2107350) • [🐱 Nyaa](https://nyaa.si/?q=4OOX2VCDR6BCLSTSYGTZJ27P27LEEUHB) |
+| `Tokyo Babylon (1992) S01 (DVDRip x264 AC3+AAC) (Dual Audi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tokyo-babylon-1992-s01-dvdrip-x264-ac3-aac.n2107347) • [🐱 Nyaa](https://nyaa.si/?q=XUJWSNHCDP4FLGLJE4RBH5QFL7DOTCY5) |
+| `Silent Möbius (1998) - Movies (Bluray 1080p x264 DTS - OG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/silent-mbius-1998-movies-bluray-1080p-x264-dts.n2107346) • [🐱 Nyaa](https://nyaa.si/?q=GMQJH6P4HMZU5EEQX6JDM6GC3RXJINS6) |
+| `3x3 Eyes (1991) S01+S02 (BDRip 720p x264 AAC+AC3) (Dual A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/3x3-eyes-1991-s01-s02-bdrip-720p-x264.n2107345) • [🐱 Nyaa](https://nyaa.si/?q=PBW3JVEYILKH2PXAAQZ5A4ATYX6VQQG4) |
+| `[Gecko] Monster Eater - S01E06 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e06-mamonogurai-no-boukensha-ore.n2107344) • [🐱 Nyaa](https://nyaa.si/?q=N2BLJWHIPBS62EALQX3SV6RAC6CDE34H) |
+| `Karna The Guardian S01E01 A Slightly Unusual Heros Story ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/karna-guardian-s01e01-slightly-unusual-heros-story-1080p.n2107343) • [🐱 Nyaa](https://nyaa.si/?q=Q4KN5ERWDXD4N4EOOEL4DVJYF77GDXK6) |
+| `[Gecko] Kujima Why Sing, When You Can Warble - S01E05 (クジ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-kujima-why-sing-when-warble-s01e05-utaeba.k10885307720205) • [🐱 Nyaa](https://nyaa.si/?q=UNCYNWKSFGKIV6IIA7EEYXVZCDYG5XZ4) |
+| `[HnY] BeyWheelz 01 - New Generation (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hny-beywheelz-01-new-generation-1080p-mkv.n2107338) • [🐱 Nyaa](https://nyaa.si/?q=5INM3XHZCFKLJIF7624ZB5WY37AHZ77Y) |
+| `[TrashEnthusiast] Farming Life in Another World - S02E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trashenthusiast-farming-life-another-world-s02e03-amzn-web.n2107337) • [🐱 Nyaa](https://nyaa.si/?q=FT7IE2NCXIAKB5PFP2L2MP23CP2LELSM) |
+| `Hitori No Shita The Outcast S06E19 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e19-1080p-cr-web.n2107336) • [🐱 Nyaa](https://nyaa.si/?q=AVYOZRTV5Z6S3CXMOJB24STGMVR2YECM) |
+| `[ASW] Hitori no Shita - The Outcast S6 - 19 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-19-1080p.n2107335) • [🐱 Nyaa](https://nyaa.si/?q=DZJG4WXTANGQYFY6UFIZA22FQX5ULZKO) |
+| `[KOTEX] Busamen Gachi Fighter Subs+Fonts for ReinForce [B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kotex-busamen-gachi-fighter-subs-fonts-reinforce-bd-zip.n2107334) • [🐱 Nyaa](https://nyaa.si/?q=YNNE3ZSSFIHFPYNMRV6W6MUS6INI2Q54) |
+| `[Tasokare] Saekano: How to Raise a Boring Girlfriend S02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-saekano-raise-boring-girlfriend-s02-bd-1080p.k10884778398734) • [🐱 Nyaa](https://nyaa.si/?q=Z3BNTJ36WLGPCNRUMHHYDJLSLNUQKDAY) |
+| `[Kawatare] Saekano: How to Raise a Boring Girlfriend S02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-saekano-raise-boring-girlfriend-s02-bd-1080p.k10884771029254) • [🐱 Nyaa](https://nyaa.si/?q=ZRN4MHZKVB54RXLHXO5QAGXBZYVEVSDJ) |
+| `[yaneura] Re:Zero Starting Life in Another World S00E74 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yaneura-re-zero-starting-life-another-world-s00e74.k10884189954573) • [🐱 Nyaa](https://nyaa.si/?q=MLWLOPQ4X2K7ZSJJSDSP7HUUYSQFLROH) |
 
 ---
 <div align="center">
