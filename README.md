@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.52.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.26.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (1080p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-1080p-batch.n2107610) • [🐱 Nyaa](https://nyaa.si/?q=74T5X7WE5QAOYEFZ7N3QY75KP2S3PSNN) |
+| `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (720p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-720p-batch.n2107609) • [🐱 Nyaa](https://nyaa.si/?q=COSOI7NKRDHBX6KMGDTOUJRRNUQE2EWM) |
+| `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (480p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-480p-batch.n2107608) • [🐱 Nyaa](https://nyaa.si/?q=GBV3PFC6PQAW7CNKY7G7W5FIQDOMTTN5) |
+| `[Erai-raws] Kami no Shizuku - 05 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-shizuku-05-1080p-cr.k10899828301327) • [🐱 Nyaa](https://nyaa.si/?q=6NXZ77KH34T64IVKVCDGJ5MFQIRJIPRD) |
+| `[ODDish] Fumetsu no Anata e - Season 03 (S03) (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-season-03-s03.n2107594) • [🐱 Nyaa](https://nyaa.si/?q=QYMP3YXSAGE6SXB6AGUPCISEVKQNTRLC) |
+| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-hokuto-no-ken-fist-north-star-s01e07.n2107593) • [🐱 Nyaa](https://nyaa.si/?q=CZLSESZK4Y7CPEURVE4L6BHP7OEJLEVY) |
+| `[Kuraze] FIGHT!! / Fight!! Spirit of the Sword (DVD 706x4...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kuraze-fight-fight-spirit-sword-dvd-706x480-h264-hi10p-ac3.n2107592) • [🐱 Nyaa](https://nyaa.si/?q=QY2NVVISLLR2TUL4534D2QO6ZZDNRXS2) |
+| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.n2107591) • [🐱 Nyaa](https://nyaa.si/?q=ZMHBEOK4B6KAQCEHDE2FEBSAYO7T5XE2) |
+| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kamiina-botan-yoeru-sugata-wa-yuri-no.n2107590) • [🐱 Nyaa](https://nyaa.si/?q=F6VAKNKUWSSHJFNC6WE57SN3AEO7IP24) |
+| `[Kekkan] Jishou Akuyaku Reijou na Konyakusha no Kansatsu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kekkan-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2107589) • [🐱 Nyaa](https://nyaa.si/?q=IVS3FMJ3RNHUSC7W7GQ2GEWRTSUWRM5L) |
+| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 05 [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kamiina-botan-yoeru-sugata-wa-yuri-no.n2107588) • [🐱 Nyaa](https://nyaa.si/?q=PLC33LWOAFZFK432QK3SJTRSJJTJRC4A) |
 | `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Bota...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kamiina-botan-yoeru-sugata-wa-yuri-no.n2107587) • [🐱 Nyaa](https://nyaa.si/?q=GWLZEZS645G6VLAPXJIMILKAQW2HNBM7) |
 | `[ASW] Snowball Earth - 06 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-snowball-earth-06-1080p-hevc-x265-10bit-aac.n2107586) • [🐱 Nyaa](https://nyaa.si/?q=ZSU7DW54AHTKVZYTNLFPAJCVR3GBDOHZ) |
 | `[Erai-raws] Hokuto no Ken (2026) - 07 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-07-1080p.k10898292558605) • [🐱 Nyaa](https://nyaa.si/?q=VEWATYYWRSV4YIZRGFAYRISSMPHMWR6Z) |
 | `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2107584) • [🐱 Nyaa](https://nyaa.si/?q=ZA6ZILUQ5WQH657E5IQAEW3OKAA4NGNH) |
-| `[DKB] Tensei shitara Slime Datta Ken - S04E05 [1080p][HEV...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-tensei-shitara-slime-datta-ken-s04e05-1080p.n2107583) • [🐱 Nyaa](https://nyaa.si/?q=RGDZYW6COEF6ZNRJGZO2AYHMTM5G65N4) |
-| `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2107582) • [🐱 Nyaa](https://nyaa.si/?q=DOFIB6T2TER43ROHQKJZOA224EZOYLV3) |
-| `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-kamiina-botan-yoeru-sugata-wa-yuri-no.2079613) • [🐱 Nyaa](https://nyaa.si/?q=LFP4CT7N4IAESUQLGIS7ZTPUPURUA3MP) |
-| `[ASW] Kami no Shizuku - 05 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kami-no-shizuku-05-1080p-hevc-x265-10bit-aac.n2107580) • [🐱 Nyaa](https://nyaa.si/?q=SG5MUGFSNLVWTBH27ZP4JW7NUAT3JMBE) |
-| `[Onalrie] Snowball Earth - S01E06 [1080p WEBRip AV1].mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-snowball-earth-s01e06-1080p-webrip-av1-mkv.2079611) • [🐱 Nyaa](https://nyaa.si/?q=OTGTMAEIQLE3K7U3M4H6LF5UIUZMIPFH) |
-| `[Trix] Botan Kamiina Fully Blossoms When Drunk S01E05 [WE...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-botan-kamiina-fully-blossoms-when-drunk-s01e05.n2107579) • [🐱 Nyaa](https://nyaa.si/?q=RWKJYRFOQPLD57THACIQ75QYUYK2GLH6) |
-| `GTO Great Teacher Onizuka S01 1080p NF WEB-DL MULTi AAC2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gto-great-teacher-onizuka-s01-1080p-nf-web.n2107577) • [🐱 Nyaa](https://nyaa.si/?q=CQOY3HVOLE22B2P4YQREVELIEERMSFUZ) |
-| `Botan Kamiina Fully Blossoms When Drunk S01E04 1080p BILI...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/botan-kamiina-fully-blossoms-when-drunk-s01e04-1080p.n2107576) • [🐱 Nyaa](https://nyaa.si/?q=UANR4RE7AASWEB6DLUB23BY4RMA5UCY4) |
-| `Botan Kamiina Fully Blossoms When Drunk S01E05 1080p CR W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/botan-kamiina-fully-blossoms-when-drunk-s01e05-1080p.n2107572) • [🐱 Nyaa](https://nyaa.si/?q=Q6YKYHNJCHRNWXQNVJ4TQ3IFCKOU7LJG) |
-| `[SubsPlease] Kamiina Botan, Yoeru Sugata wa Yuri no Hana ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kamiina-botan-yoeru-sugata-wa-yuri-no.n2107571) • [🐱 Nyaa](https://nyaa.si/?q=6X6CFLMN65AYIFPHSQQ4U2TLRMGW4QII) |
-| `[ToonsHub] Botan Kamiina Fully Blossoms When Drunk S01E05...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-botan-kamiina-fully-blossoms-when-drunk-s01e05.k10897488911881) • [🐱 Nyaa](https://nyaa.si/?q=WSN5NBFG63KF4TW4BVTPQVIAM3ATSV6U) |
 
 ---
 <div align="center">
