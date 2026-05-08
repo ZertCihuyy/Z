@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.55.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.22.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[HGS-Renc] Kingdom Collection S1+S2+S3+S4+S5 [BD1080][AV1]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hgs-renc-kingdom-collection-s1-s2-s3-s4.n2107378) • [🐱 Nyaa](https://nyaa.si/?q=BTI4XYRW7LZWLGTG5ROBWXHGTP4NOIRS) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 19 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.k10891606554375) • [🐱 Nyaa](https://nyaa.si/?q=GRQDTREEENUQDODO7C7GXO2ND5T7BOVL) |
 | `[Onalrie] Hitori no Shita - The Outcast - S06E19 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e19-1080p-webrip-av1-mkv.2079510) • [🐱 Nyaa](https://nyaa.si/?q=YPHBISMGNADZSL2M6UHD7PIZFUGTNQUE) |
 | `LUPIN THE IIIRD - The Movie - The Immortal Bloodline (202...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-movie-immortal-bloodline-2025-web-dl.n2107352) • [🐱 Nyaa](https://nyaa.si/?q=4T2K7IBUYEMI4QSOBTJUBSEIUEKI36QI) |
 | `[Gecko] Koala's Diary - S01E31 (コアラ絵日記; Koala Enikki) [CT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e31-koala-enikki-cthp-web.n2107350) • [🐱 Nyaa](https://nyaa.si/?q=4OOX2VCDR6BCLSTSYGTZJ27P27LEEUHB) |
@@ -41,8 +43,6 @@
 | `[TrashEnthusiast] Farming Life in Another World - S02E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trashenthusiast-farming-life-another-world-s02e03-amzn-web.n2107337) • [🐱 Nyaa](https://nyaa.si/?q=FT7IE2NCXIAKB5PFP2L2MP23CP2LELSM) |
 | `Hitori No Shita The Outcast S06E19 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e19-1080p-cr-web.n2107336) • [🐱 Nyaa](https://nyaa.si/?q=AVYOZRTV5Z6S3CXMOJB24STGMVR2YECM) |
 | `[ASW] Hitori no Shita - The Outcast S6 - 19 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-19-1080p.n2107335) • [🐱 Nyaa](https://nyaa.si/?q=DZJG4WXTANGQYFY6UFIZA22FQX5ULZKO) |
-| `[KOTEX] Busamen Gachi Fighter Subs+Fonts for ReinForce [B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kotex-busamen-gachi-fighter-subs-fonts-reinforce-bd-zip.n2107334) • [🐱 Nyaa](https://nyaa.si/?q=YNNE3ZSSFIHFPYNMRV6W6MUS6INI2Q54) |
-| `[Tasokare] Saekano: How to Raise a Boring Girlfriend S02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-saekano-raise-boring-girlfriend-s02-bd-1080p.k10884778398734) • [🐱 Nyaa](https://nyaa.si/?q=Z3BNTJ36WLGPCNRUMHHYDJLSLNUQKDAY) |
 
 ---
 <div align="center">
