@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.23.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.10.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Hitori no Shita - The Outcast - S06E19 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e19-1080p-webrip-av1-mkv.2079510) • [🐱 Nyaa](https://nyaa.si/?q=YPHBISMGNADZSL2M6UHD7PIZFUGTNQUE) |
+| `LUPIN THE IIIRD - The Movie - The Immortal Bloodline (202...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-movie-immortal-bloodline-2025-web-dl.n2107352) • [🐱 Nyaa](https://nyaa.si/?q=4T2K7IBUYEMI4QSOBTJUBSEIUEKI36QI) |
 | `[Gecko] Koala's Diary - S01E31 (コアラ絵日記; Koala Enikki) [CT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e31-koala-enikki-cthp-web.n2107350) • [🐱 Nyaa](https://nyaa.si/?q=4OOX2VCDR6BCLSTSYGTZJ27P27LEEUHB) |
 | `Tokyo Babylon (1992) S01 (DVDRip x264 AC3+AAC) (Dual Audi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tokyo-babylon-1992-s01-dvdrip-x264-ac3-aac.n2107347) • [🐱 Nyaa](https://nyaa.si/?q=XUJWSNHCDP4FLGLJE4RBH5QFL7DOTCY5) |
 | `Silent Möbius (1998) - Movies (Bluray 1080p x264 DTS - OG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/silent-mbius-1998-movies-bluray-1080p-x264-dts.n2107346) • [🐱 Nyaa](https://nyaa.si/?q=GMQJH6P4HMZU5EEQX6JDM6GC3RXJINS6) |
@@ -41,8 +43,6 @@
 | `[ASW] Hitori no Shita - The Outcast S6 - 19 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-19-1080p.n2107335) • [🐱 Nyaa](https://nyaa.si/?q=DZJG4WXTANGQYFY6UFIZA22FQX5ULZKO) |
 | `[KOTEX] Busamen Gachi Fighter Subs+Fonts for ReinForce [B...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kotex-busamen-gachi-fighter-subs-fonts-reinforce-bd-zip.n2107334) • [🐱 Nyaa](https://nyaa.si/?q=YNNE3ZSSFIHFPYNMRV6W6MUS6INI2Q54) |
 | `[Tasokare] Saekano: How to Raise a Boring Girlfriend S02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tasokare-saekano-raise-boring-girlfriend-s02-bd-1080p.k10884778398734) • [🐱 Nyaa](https://nyaa.si/?q=Z3BNTJ36WLGPCNRUMHHYDJLSLNUQKDAY) |
-| `[Kawatare] Saekano: How to Raise a Boring Girlfriend S02 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kawatare-saekano-raise-boring-girlfriend-s02-bd-1080p.k10884771029254) • [🐱 Nyaa](https://nyaa.si/?q=ZRN4MHZKVB54RXLHXO5QAGXBZYVEVSDJ) |
-| `[yaneura] Re:Zero Starting Life in Another World S00E74 (...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/yaneura-re-zero-starting-life-another-world-s00e74.k10884189954573) • [🐱 Nyaa](https://nyaa.si/?q=MLWLOPQ4X2K7ZSJJSDSP7HUUYSQFLROH) |
 
 ---
 <div align="center">
