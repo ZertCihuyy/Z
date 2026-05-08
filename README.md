@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.26.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.35.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi (01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jingai-kyoushitsu-no-ningengirai-kyoushi-01-13.n2107615) • [🐱 Nyaa](https://nyaa.si/?q=ZHNPZTFHFHB3ISSGDWUND554ZXVAWM65) |
+| `[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi (01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jingai-kyoushitsu-no-ningengirai-kyoushi-01-13.n2107614) • [🐱 Nyaa](https://nyaa.si/?q=E46KYNNY6BW4KSHNGIBSLS2ECFYXKTCC) |
+| `[Erai-raws] Snowball Earth - 06 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-06-1080p-cr-webrip.n2107613) • [🐱 Nyaa](https://nyaa.si/?q=X5AYRD74U6O7DY5SD3D3HIY7DV3WU7KZ) |
 | `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (1080p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-1080p-batch.n2107610) • [🐱 Nyaa](https://nyaa.si/?q=74T5X7WE5QAOYEFZ7N3QY75KP2S3PSNN) |
 | `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (720p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-720p-batch.n2107609) • [🐱 Nyaa](https://nyaa.si/?q=COSOI7NKRDHBX6KMGDTOUJRRNUQE2EWM) |
 | `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (480p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-480p-batch.n2107608) • [🐱 Nyaa](https://nyaa.si/?q=GBV3PFC6PQAW7CNKY7G7W5FIQDOMTTN5) |
@@ -40,9 +43,6 @@
 | `[Kekkan] Jishou Akuyaku Reijou na Konyakusha no Kansatsu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kekkan-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2107589) • [🐱 Nyaa](https://nyaa.si/?q=IVS3FMJ3RNHUSC7W7GQ2GEWRTSUWRM5L) |
 | `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 05 [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kamiina-botan-yoeru-sugata-wa-yuri-no.n2107588) • [🐱 Nyaa](https://nyaa.si/?q=PLC33LWOAFZFK432QK3SJTRSJJTJRC4A) |
 | `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Bota...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kamiina-botan-yoeru-sugata-wa-yuri-no.n2107587) • [🐱 Nyaa](https://nyaa.si/?q=GWLZEZS645G6VLAPXJIMILKAQW2HNBM7) |
-| `[ASW] Snowball Earth - 06 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-snowball-earth-06-1080p-hevc-x265-10bit-aac.n2107586) • [🐱 Nyaa](https://nyaa.si/?q=ZSU7DW54AHTKVZYTNLFPAJCVR3GBDOHZ) |
-| `[Erai-raws] Hokuto no Ken (2026) - 07 [1080p AMZN WEBRip ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-07-1080p.k10898292558605) • [🐱 Nyaa](https://nyaa.si/?q=VEWATYYWRSV4YIZRGFAYRISSMPHMWR6Z) |
-| `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2107584) • [🐱 Nyaa](https://nyaa.si/?q=ZA6ZILUQ5WQH657E5IQAEW3OKAA4NGNH) |
 
 ---
 <div align="center">
