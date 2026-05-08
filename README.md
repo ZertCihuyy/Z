@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.38.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.26.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `LUPIN THE IIIRD - Zenigata and the Two Lupins (2025) (WEB...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-zenigata-two-lupins-2025-web-dl.n2107319) • [🐱 Nyaa](https://nyaa.si/?q=U7BQVY5GFAANX4RO75Z32E4AVKY2535M) |
+| `[ASW] Dr. Stone S4 - 30 [1080p HEVC x265 10Bit][AAC]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-dr-stone-s4-30-1080p-hevc-x265-10bit-aac.n2107306) • [🐱 Nyaa](https://nyaa.si/?q=LQUVECBDKSJRQDWCS3EMZBI366DNQPU6) |
 | `[ASW] Kujima Utaeba Ie Hororo - 05 [1080p HEVC x265 10Bit...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kujima-utaeba-ie-hororo-05-1080p-hevc.n2107305) • [🐱 Nyaa](https://nyaa.si/?q=FWDONHBK3I2S4CGNVGK57YFAP4PSIZD6) |
 | `LUPIN THE IIIRD - Fujiko's Lie (2019) (BDRip 1920x1080p x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-fujikos-lie-2019-bdrip-1920x1080p-x265.n2107297) • [🐱 Nyaa](https://nyaa.si/?q=G3PP7BFZJZPMGYJMJRKTAM56RVOQSQ36) |
 | `LUPIN THE IIIRD - Goemon's Blood Spray (2017) (BDRip 1920...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-goemons-blood-spray-2017-bdrip-1920x1080p.n2107290) • [🐱 Nyaa](https://nyaa.si/?q=EG4JHPNO2GRKDLKILPNASA7EZRJTYQOB) |
@@ -41,8 +43,6 @@
 | `Naruto Shippuden 163 Remaster (BDRip 1080p x265 FLAC Mult...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/naruto-shippuden-163-remaster-bdrip-1080p-x265-flac-multi.n2107283) • [🐱 Nyaa](https://nyaa.si/?q=VWAFIX4VQVMYME5BODB5LDIJNNJ2O72V) |
 | `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 05 (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kikuri-otaku-ni-yasashii-gal-wa-inai-05.k10878682434568) • [🐱 Nyaa](https://nyaa.si/?q=3K6MANQS6RSS4EFW76O5THVFT7WWR3WV) |
 | `Monster Eater S01E06 1080p AMZN WEB-DL DDP2.0 H 264-VARYG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/monster-eater-s01e06-1080p-amzn-web-dl-ddp2.n2107280) • [🐱 Nyaa](https://nyaa.si/?q=BAOZ2HIH5UE25VMXRHY7TVQQXXQ5E6Z6) |
-| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-haibara-kun-no-tsuyokute-seishun-new.k10878324986635) • [🐱 Nyaa](https://nyaa.si/?q=LJZ5IRY7R5IBDGHJE44VGVC47RRDGRXC) |
-| `[DKB] Reincarnation no Kaben - S01E06 [1080p][HEVC x265 1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-reincarnation-no-kaben-s01e06-1080p-hevc-x265-10bit.n2107252) • [🐱 Nyaa](https://nyaa.si/?q=74UKKJX4ZDEJMGRNDPKAZVD2DVFV7UM2) |
 
 ---
 <div align="center">
