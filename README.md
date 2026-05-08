@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.42.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.39.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2107629) • [🐱 Nyaa](https://nyaa.si/?q=2NE4ZPECGYGGQTIQK4SAUYG5ANCNZ3XZ) |
+| `[CrappySubs] MARRIAGETOXIN - S01E02 - (WEB 1080p H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crappysubs-marriagetoxin-s01e02-web-1080p-h-264-aac-88b2a4d1.k10902684915717) • [🐱 Nyaa](https://nyaa.si/?q=SIICWPC43IZ2ZALH5W5ZTCLYFPNNXXRJ) |
+| `[Joseki] Turn A Gundam S01 (1999)(BD AV1 1080p Opus)[Sub ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/joseki-turn-gundam-s01-1999-bd-av1-1080p.n2107627) • [🐱 Nyaa](https://nyaa.si/?q=LCB77M35UPPR6MWIMGC3SCOLUEIPSOM6) |
+| `[ak-Submarines] Girls und Panzer - Princess Samurai - Pil...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak-submarines-girls-und-panzer-princess-samurai-pilot.n2107626) • [🐱 Nyaa](https://nyaa.si/?q=R4N5DCJXJA5ETCBTDU6SUJFHOSQBB7AU) |
+| `Lupin III - Dead or Alive (1996) (BDRip 1920x1080p x265 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iii-dead-alive-1996-bdrip-1920x1080p-x265.n2107625) • [🐱 Nyaa](https://nyaa.si/?q=EBTUVQU5TH6NGJJ7A6SIMGXFSLGKWIEO) |
 | `[SavI0r-Pro] Hibi wa Sugiredo Meshi Umashi (Food for the ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-pro-hibi-wa-sugiredo-meshi-umashi-food.n2107624) • [🐱 Nyaa](https://nyaa.si/?q=JFUPASPM33GFXWO3JTMVMTKYC4XHIHDL) |
 | `Lupin III Farewell to Nostradamus (1995) (BDRip 1920x1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iii-farewell-nostradamus-1995-bdrip-1920x1080p-x265.n2107617) • [🐱 Nyaa](https://nyaa.si/?q=Y6CSIO36ASJPGVH46KWDZCFRGUC3MTO2) |
 | `[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi (01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jingai-kyoushitsu-no-ningengirai-kyoushi-01-13.n2107616) • [🐱 Nyaa](https://nyaa.si/?q=KE7UJTNK2EBIE4GCXPLDOCB2HLNQUT5G) |
@@ -38,11 +43,6 @@
 | `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (720p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-720p-batch.n2107609) • [🐱 Nyaa](https://nyaa.si/?q=COSOI7NKRDHBX6KMGDTOUJRRNUQE2EWM) |
 | `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (480p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-480p-batch.n2107608) • [🐱 Nyaa](https://nyaa.si/?q=GBV3PFC6PQAW7CNKY7G7W5FIQDOMTTN5) |
 | `[Erai-raws] Kami no Shizuku - 05 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-shizuku-05-1080p-cr.k10899828301327) • [🐱 Nyaa](https://nyaa.si/?q=6NXZ77KH34T64IVKVCDGJ5MFQIRJIPRD) |
-| `[ODDish] Fumetsu no Anata e - Season 03 (S03) (WEB 1080p ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/oddish-fumetsu-no-anata-e-season-03-s03.n2107594) • [🐱 Nyaa](https://nyaa.si/?q=QYMP3YXSAGE6SXB6AGUPCISEVKQNTRLC) |
-| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ironclad-hokuto-no-ken-fist-north-star-s01e07.n2107593) • [🐱 Nyaa](https://nyaa.si/?q=CZLSESZK4Y7CPEURVE4L6BHP7OEJLEVY) |
-| `[Kuraze] FIGHT!! / Fight!! Spirit of the Sword (DVD 706x4...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kuraze-fight-fight-spirit-sword-dvd-706x480-h264-hi10p-ac3.n2107592) • [🐱 Nyaa](https://nyaa.si/?q=QY2NVVISLLR2TUL4534D2QO6ZZDNRXS2) |
-| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.n2107591) • [🐱 Nyaa](https://nyaa.si/?q=ZMHBEOK4B6KAQCEHDE2FEBSAYO7T5XE2) |
-| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kamiina-botan-yoeru-sugata-wa-yuri-no.n2107590) • [🐱 Nyaa](https://nyaa.si/?q=F6VAKNKUWSSHJFNC6WE57SN3AEO7IP24) |
 
 ---
 <div align="center">
