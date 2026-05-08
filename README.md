@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.55.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.19.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2107453) • [🐱 Nyaa](https://nyaa.si/?q=LVA74G4JL4ECJ5GDKCLMJSKWT2OTBFEK) |
-| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E06 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-angel-next-door-spoils-me-rotten-s02e06.k10895644568332) • [🐱 Nyaa](https://nyaa.si/?q=GHUL4YEPVG3H46HPURI6JLGA3JCPCFIS) |
-| `The Angel Next Door Spoils Me Rotten S02E05 A Summer Fest...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/angel-next-door-spoils-me-rotten-s02e05-summer.n2107451) • [🐱 Nyaa](https://nyaa.si/?q=BQHJJ7ZHPM3UMSCMGGRJVLRHFWMVPHS3) |
-| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2107449) • [🐱 Nyaa](https://nyaa.si/?q=V2E6PDDRH3ZNMALD54BQOBHHSPOFTWH7) |
-| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2107447) • [🐱 Nyaa](https://nyaa.si/?q=F4U46ETZTI3TPTKDFT26AYGX37YUFRUR) |
-| `The Angel Next Door Spoils Me Rotten S02E06 A Once-Desire...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/angel-next-door-spoils-me-rotten-s02e06-once.n2107446) • [🐱 Nyaa](https://nyaa.si/?q=N5ICQ6H6QAZY4IQ6IVZWPWDCMW23DJDD) |
-| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10895633229323) • [🐱 Nyaa](https://nyaa.si/?q=SSMD7X6DSIWJKBGAWRWYEM42NFO7DSDH) |
-| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.n2107442) • [🐱 Nyaa](https://nyaa.si/?q=7RM3OEXVDVHQ5NRHXGRXCPUACKF6K2MI) |
-| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.n2107440) • [🐱 Nyaa](https://nyaa.si/?q=3P42OPWNGDPIZ7VC6EAVXJ6GSHYQYBUS) |
-| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E06 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-angel-next-door-spoils-me-rotten-s02e06.n2107439) • [🐱 Nyaa](https://nyaa.si/?q=CUYX2YWF3VN5COQNJIPSZKJZHZ35LGBM) |
-| `The Ramparts of Ice S01E06 1080p NF WEB-DL AAC2.0 AV1 (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e06-1080p-nf-web-dl-aac2.n2107437) • [🐱 Nyaa](https://nyaa.si/?q=X2JR7BTQTA5XZ6BQZSGOXD2FFOPQSF53) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.k10895225646851) • [🐱 Nyaa](https://nyaa.si/?q=Y27XIGYCADTZ2QY4BC7SSHC4X56HVPAA) |
-| `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu K...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2107434) • [🐱 Nyaa](https://nyaa.si/?q=QYSGLMGR5JFC6IKJSXFXEIUO74F5YMEO) |
-| `[ASW] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2107433) • [🐱 Nyaa](https://nyaa.si/?q=GIVH5TKNINVQY5PHRWIR7WDMR7VDPLO3) |
-| `[Onalrie] Jishou Akuyaku Reijou na Konyakusha no Kansatsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.2079577) • [🐱 Nyaa](https://nyaa.si/?q=B6GSDFT4HJJUJXIO4BPF5OKEONAE6A4M) |
+| `[Kosaka] That Time I Got Reincarnated as a Slime - S04E05...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kosaka-time-got-reincarnated-slime-s04e05-webrip-1080p.k10897220858123) • [🐱 Nyaa](https://nyaa.si/?q=PYJHV45CYVKTP2EB4UNTA3YRFEP3SP6R) |
+| `[Erai-raws] Hokuto no Ken (2026) - 07 [540p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-07-540p.k10897125306119) • [🐱 Nyaa](https://nyaa.si/?q=QBOCIL5WMHUZH5KSXOQO5XUPN3A4KYJG) |
+| `[Erai-raws] Hokuto no Ken (2026) - 07 [720p AMZN WEB-DL A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-07-720p.k10897124907786) • [🐱 Nyaa](https://nyaa.si/?q=5S3VAGJ4FFEBNNERUM2YKUGMUOYQ2D2A) |
+| `[Erai-raws] Hokuto no Ken (2026) - 07 [1080p AMZN WEB-DL ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hokuto-no-ken-2026-07-1080p.k10897124431885) • [🐱 Nyaa](https://nyaa.si/?q=QWWDKQPCJ3T2772MW7ZNLEDR6XKNP7SE) |
+| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-tensei-shitara-slime-datta-ken-4th.k10897105560841) • [🐱 Nyaa](https://nyaa.si/?q=HRDNQBFFCOTCQ3WZNQZD4DTRLUNLFBMX) |
+| `[ToonsHub] KILL BLUE S01E04 1080p AMZN WEB-DL MULTi DDP2....` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e04-1080p-amzn-web-dl.k10897100604680) • [🐱 Nyaa](https://nyaa.si/?q=6CLPLA5PBZ7QCIRU6KDNVGFBWLF3UZYE) |
+| `[ToonsHub] KILL BLUE S01E04 1080p AMZN WEB-DL DUAL DDP2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-kill-blue-s01e04-1080p-amzn-web-dl.k10897085133578) • [🐱 Nyaa](https://nyaa.si/?q=XV3CBA7NTL5DCSMWHWB7PS262CJ3HLJL) |
+| `Fist of the North Star HOKUTO NO KEN S01E07 The Ultimate ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fist-north-star-hokuto-no-ken-s01e07-ultimate.n2107544) • [🐱 Nyaa](https://nyaa.si/?q=NZBK3TIYPNDYUAM6STK5CRRP7YMXZZIM) |
+| `[ToonsHub] Fist of the North Star: HOKUTO NO KEN S01E07 T...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fist-north-star-hokuto-no-ken-s01e07.k10897072824838) • [🐱 Nyaa](https://nyaa.si/?q=6LPZTO7ZVTGUQIFULIFWA3NI4SQJKWPT) |
+| `[ToonsHub] Fist of the North Star: HOKUTO NO KEN S01E07 T...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fist-north-star-hokuto-no-ken-s01e07.k10897051506184) • [🐱 Nyaa](https://nyaa.si/?q=ZJAIKOMGUYGYSQ7JMZW7WCEYK4OSSWX6) |
+| `[ToonsHub] Fist of the North Star: HOKUTO NO KEN S01E07 T...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-fist-north-star-hokuto-no-ken-s01e07.k10897040247303) • [🐱 Nyaa](https://nyaa.si/?q=WRESTZ4635ZU6Y4M2JF7B7A7V4GJ6WBS) |
+| `Fist of the North Star HOKUTO NO KEN S01E07 The Ultimate ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/fist-north-star-hokuto-no-ken-s01e07-ultimate.n2107540) • [🐱 Nyaa](https://nyaa.si/?q=V6B3T2TSBNEBHCILWPDXXBXR5CD5G7OV) |
+| `[Trix] The Drops of God S01E05 [WEBRip 1080p AV1 Opus] (M...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trix-drops-god-s01e05-webrip-1080p-av1-opus.n2107539) • [🐱 Nyaa](https://nyaa.si/?q=ZUFTZZZAQGEIWO75IIVTOVUW7R7RBORQ) |
+| `KILL BLUE S01E04 The Pacifier Duel 1080p AMZN WEB-DL MULT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kill-blue-s01e04-pacifier-duel-1080p-amzn-web.n2107538) • [🐱 Nyaa](https://nyaa.si/?q=ZRJNY2EMJYOOC6V2RQOSKIYBPLKSVMEK) |
+| `[ASW] Tensei Shitara Slime Datta Ken S4 - 05 [1080p HEVC ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-tensei-shitara-slime-datta-ken-s4-05.n2107537) • [🐱 Nyaa](https://nyaa.si/?q=2YHLR2UG7HDC5LQM5CJNQTWKWLFUXAUW) |
 
 ---
 <div align="center">
