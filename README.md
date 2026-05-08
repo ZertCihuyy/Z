@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.39.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.40.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Lupin III - The Legend of the Gold of Babylon (1985) (BDR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iii-legend-gold-babylon-1985-bdrip-1920x1080p.n2107636) • [🐱 Nyaa](https://nyaa.si/?q=L2W4BVEGEGXGNDVHK2XZPER4BRDTVD2S) |
+| `[Piyoko] Onegai AiPri - 05 [WEB AMZN 1080p h264 AC3 2.0]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-05-web-amzn-1080p-h264.n2107633) • [🐱 Nyaa](https://nyaa.si/?q=DUQW7UQFAGV3ME547VGCEM64AOO56HNU) |
 | `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2107629) • [🐱 Nyaa](https://nyaa.si/?q=2NE4ZPECGYGGQTIQK4SAUYG5ANCNZ3XZ) |
 | `[CrappySubs] MARRIAGETOXIN - S01E02 - (WEB 1080p H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crappysubs-marriagetoxin-s01e02-web-1080p-h-264-aac-88b2a4d1.k10902684915717) • [🐱 Nyaa](https://nyaa.si/?q=SIICWPC43IZ2ZALH5W5ZTCLYFPNNXXRJ) |
 | `[Joseki] Turn A Gundam S01 (1999)(BD AV1 1080p Opus)[Sub ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/joseki-turn-gundam-s01-1999-bd-av1-1080p.n2107627) • [🐱 Nyaa](https://nyaa.si/?q=LCB77M35UPPR6MWIMGC3SCOLUEIPSOM6) |
@@ -41,8 +43,6 @@
 | `[Erai-raws] Snowball Earth - 06 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-06-1080p-cr-webrip.n2107613) • [🐱 Nyaa](https://nyaa.si/?q=X5AYRD74U6O7DY5SD3D3HIY7DV3WU7KZ) |
 | `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (1080p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-1080p-batch.n2107610) • [🐱 Nyaa](https://nyaa.si/?q=74T5X7WE5QAOYEFZ7N3QY75KP2S3PSNN) |
 | `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (720p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-720p-batch.n2107609) • [🐱 Nyaa](https://nyaa.si/?q=COSOI7NKRDHBX6KMGDTOUJRRNUQE2EWM) |
-| `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (480p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-480p-batch.n2107608) • [🐱 Nyaa](https://nyaa.si/?q=GBV3PFC6PQAW7CNKY7G7W5FIQDOMTTN5) |
-| `[Erai-raws] Kami no Shizuku - 05 [1080p CR WEBRip HEVC AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kami-no-shizuku-05-1080p-cr.k10899828301327) • [🐱 Nyaa](https://nyaa.si/?q=6NXZ77KH34T64IVKVCDGJ5MFQIRJIPRD) |
 
 ---
 <div align="center">
