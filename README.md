@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.54.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.55.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[HGS-Renc] Kingdom Collection S1+S2+S3+S4+S5 [BD1080][AV1]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hgs-renc-kingdom-collection-s1-s2-s3-s4.n2107378) • [🐱 Nyaa](https://nyaa.si/?q=BTI4XYRW7LZWLGTG5ROBWXHGTP4NOIRS) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 19 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-hitori-no-shita-outcast-6th-season.k10891606554375) • [🐱 Nyaa](https://nyaa.si/?q=GRQDTREEENUQDODO7C7GXO2ND5T7BOVL) |
-| `[Onalrie] Hitori no Shita - The Outcast - S06E19 [1080p W...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-hitori-no-shita-outcast-s06e19-1080p-webrip-av1-mkv.2079510) • [🐱 Nyaa](https://nyaa.si/?q=YPHBISMGNADZSL2M6UHD7PIZFUGTNQUE) |
-| `LUPIN THE IIIRD - The Movie - The Immortal Bloodline (202...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iiird-movie-immortal-bloodline-2025-web-dl.n2107352) • [🐱 Nyaa](https://nyaa.si/?q=4T2K7IBUYEMI4QSOBTJUBSEIUEKI36QI) |
-| `[Gecko] Koala's Diary - S01E31 (コアラ絵日記; Koala Enikki) [CT...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-koalas-diary-s01e31-koala-enikki-cthp-web.n2107350) • [🐱 Nyaa](https://nyaa.si/?q=4OOX2VCDR6BCLSTSYGTZJ27P27LEEUHB) |
-| `Tokyo Babylon (1992) S01 (DVDRip x264 AC3+AAC) (Dual Audi...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/tokyo-babylon-1992-s01-dvdrip-x264-ac3-aac.n2107347) • [🐱 Nyaa](https://nyaa.si/?q=XUJWSNHCDP4FLGLJE4RBH5QFL7DOTCY5) |
-| `Silent Möbius (1998) - Movies (Bluray 1080p x264 DTS - OG...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/silent-mbius-1998-movies-bluray-1080p-x264-dts.n2107346) • [🐱 Nyaa](https://nyaa.si/?q=GMQJH6P4HMZU5EEQX6JDM6GC3RXJINS6) |
-| `3x3 Eyes (1991) S01+S02 (BDRip 720p x264 AAC+AC3) (Dual A...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/3x3-eyes-1991-s01-s02-bdrip-720p-x264.n2107345) • [🐱 Nyaa](https://nyaa.si/?q=PBW3JVEYILKH2PXAAQZ5A4ATYX6VQQG4) |
-| `[Gecko] Monster Eater - S01E06 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-monster-eater-s01e06-mamonogurai-no-boukensha-ore.n2107344) • [🐱 Nyaa](https://nyaa.si/?q=N2BLJWHIPBS62EALQX3SV6RAC6CDE34H) |
-| `Karna The Guardian S01E01 A Slightly Unusual Heros Story ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/karna-guardian-s01e01-slightly-unusual-heros-story-1080p.n2107343) • [🐱 Nyaa](https://nyaa.si/?q=Q4KN5ERWDXD4N4EOOEL4DVJYF77GDXK6) |
-| `[Gecko] Kujima Why Sing, When You Can Warble - S01E05 (クジ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/gecko-kujima-why-sing-when-warble-s01e05-utaeba.k10885307720205) • [🐱 Nyaa](https://nyaa.si/?q=UNCYNWKSFGKIV6IIA7EEYXVZCDYG5XZ4) |
-| `[HnY] BeyWheelz 01 - New Generation (1080p).mkv` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hny-beywheelz-01-new-generation-1080p-mkv.n2107338) • [🐱 Nyaa](https://nyaa.si/?q=5INM3XHZCFKLJIF7624ZB5WY37AHZ77Y) |
-| `[TrashEnthusiast] Farming Life in Another World - S02E03 ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/trashenthusiast-farming-life-another-world-s02e03-amzn-web.n2107337) • [🐱 Nyaa](https://nyaa.si/?q=FT7IE2NCXIAKB5PFP2L2MP23CP2LELSM) |
-| `Hitori No Shita The Outcast S06E19 1080p CR WEB-DL AAC2.0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/hitori-no-shita-outcast-s06e19-1080p-cr-web.n2107336) • [🐱 Nyaa](https://nyaa.si/?q=AVYOZRTV5Z6S3CXMOJB24STGMVR2YECM) |
-| `[ASW] Hitori no Shita - The Outcast S6 - 19 [1080p HEVC x...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-hitori-no-shita-outcast-s6-19-1080p.n2107335) • [🐱 Nyaa](https://nyaa.si/?q=DZJG4WXTANGQYFY6UFIZA22FQX5ULZKO) |
+| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2107453) • [🐱 Nyaa](https://nyaa.si/?q=LVA74G4JL4ECJ5GDKCLMJSKWT2OTBFEK) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E06 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-angel-next-door-spoils-me-rotten-s02e06.k10895644568332) • [🐱 Nyaa](https://nyaa.si/?q=GHUL4YEPVG3H46HPURI6JLGA3JCPCFIS) |
+| `The Angel Next Door Spoils Me Rotten S02E05 A Summer Fest...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/angel-next-door-spoils-me-rotten-s02e05-summer.n2107451) • [🐱 Nyaa](https://nyaa.si/?q=BQHJJ7ZHPM3UMSCMGGRJVLRHFWMVPHS3) |
+| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2107449) • [🐱 Nyaa](https://nyaa.si/?q=V2E6PDDRH3ZNMALD54BQOBHHSPOFTWH7) |
+| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-otonari-no-tenshi-sama-ni-itsunomanika-dame.n2107447) • [🐱 Nyaa](https://nyaa.si/?q=F4U46ETZTI3TPTKDFT26AYGX37YUFRUR) |
+| `The Angel Next Door Spoils Me Rotten S02E06 A Once-Desire...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/angel-next-door-spoils-me-rotten-s02e06-once.n2107446) • [🐱 Nyaa](https://nyaa.si/?q=N5ICQ6H6QAZY4IQ6IVZWPWDCMW23DJDD) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.k10895633229323) • [🐱 Nyaa](https://nyaa.si/?q=SSMD7X6DSIWJKBGAWRWYEM42NFO7DSDH) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.n2107442) • [🐱 Nyaa](https://nyaa.si/?q=7RM3OEXVDVHQ5NRHXGRXCPUACKF6K2MI) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame N...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-otonari-no-tenshi-sama-ni-itsunomanika.n2107440) • [🐱 Nyaa](https://nyaa.si/?q=3P42OPWNGDPIZ7VC6EAVXJ6GSHYQYBUS) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E06 10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/toonshub-angel-next-door-spoils-me-rotten-s02e06.n2107439) • [🐱 Nyaa](https://nyaa.si/?q=CUYX2YWF3VN5COQNJIPSZKJZHZ35LGBM) |
+| `The Ramparts of Ice S01E06 1080p NF WEB-DL AAC2.0 AV1 (Mu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ramparts-ice-s01e06-1080p-nf-web-dl-aac2.n2107437) • [🐱 Nyaa](https://nyaa.si/?q=X2JR7BTQTA5XZ6BQZSGOXD2FFOPQSF53) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansat...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-jishou-akuyaku-reijou-na-konyakusha-no.k10895225646851) • [🐱 Nyaa](https://nyaa.si/?q=Y27XIGYCADTZ2QY4BC7SSHC4X56HVPAA) |
+| `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu K...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2107434) • [🐱 Nyaa](https://nyaa.si/?q=QYSGLMGR5JFC6IKJSXFXEIUO74F5YMEO) |
+| `[ASW] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kir...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2107433) • [🐱 Nyaa](https://nyaa.si/?q=GIVH5TKNINVQY5PHRWIR7WDMR7VDPLO3) |
+| `[Onalrie] Jishou Akuyaku Reijou na Konyakusha no Kansatsu...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/onalrie-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.2079577) • [🐱 Nyaa](https://nyaa.si/?q=B6GSDFT4HJJUJXIO4BPF5OKEONAE6A4M) |
 
 ---
 <div align="center">
