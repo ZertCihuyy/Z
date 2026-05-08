@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.35.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.42.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SavI0r-Pro] Hibi wa Sugiredo Meshi Umashi (Food for the ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-pro-hibi-wa-sugiredo-meshi-umashi-food.n2107624) • [🐱 Nyaa](https://nyaa.si/?q=JFUPASPM33GFXWO3JTMVMTKYC4XHIHDL) |
+| `Lupin III Farewell to Nostradamus (1995) (BDRip 1920x1080...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iii-farewell-nostradamus-1995-bdrip-1920x1080p-x265.n2107617) • [🐱 Nyaa](https://nyaa.si/?q=Y6CSIO36ASJPGVH46KWDZCFRGUC3MTO2) |
+| `[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi (01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jingai-kyoushitsu-no-ningengirai-kyoushi-01-13.n2107616) • [🐱 Nyaa](https://nyaa.si/?q=KE7UJTNK2EBIE4GCXPLDOCB2HLNQUT5G) |
 | `[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi (01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jingai-kyoushitsu-no-ningengirai-kyoushi-01-13.n2107615) • [🐱 Nyaa](https://nyaa.si/?q=ZHNPZTFHFHB3ISSGDWUND554ZXVAWM65) |
 | `[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi (01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jingai-kyoushitsu-no-ningengirai-kyoushi-01-13.n2107614) • [🐱 Nyaa](https://nyaa.si/?q=E46KYNNY6BW4KSHNGIBSLS2ECFYXKTCC) |
 | `[Erai-raws] Snowball Earth - 06 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-06-1080p-cr-webrip.n2107613) • [🐱 Nyaa](https://nyaa.si/?q=X5AYRD74U6O7DY5SD3D3HIY7DV3WU7KZ) |
@@ -40,9 +43,6 @@
 | `[Kuraze] FIGHT!! / Fight!! Spirit of the Sword (DVD 706x4...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kuraze-fight-fight-spirit-sword-dvd-706x480-h264-hi10p-ac3.n2107592) • [🐱 Nyaa](https://nyaa.si/?q=QY2NVVISLLR2TUL4534D2QO6ZZDNRXS2) |
 | `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana -...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-kamiina-botan-yoeru-sugata-wa-yuri.n2107591) • [🐱 Nyaa](https://nyaa.si/?q=ZMHBEOK4B6KAQCEHDE2FEBSAYO7T5XE2) |
 | `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E0...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/dkb-kamiina-botan-yoeru-sugata-wa-yuri-no.n2107590) • [🐱 Nyaa](https://nyaa.si/?q=F6VAKNKUWSSHJFNC6WE57SN3AEO7IP24) |
-| `[Kekkan] Jishou Akuyaku Reijou na Konyakusha no Kansatsu ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/kekkan-jishou-akuyaku-reijou-na-konyakusha-no-kansatsu.n2107589) • [🐱 Nyaa](https://nyaa.si/?q=IVS3FMJ3RNHUSC7W7GQ2GEWRTSUWRM5L) |
-| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 05 [1...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/asw-kamiina-botan-yoeru-sugata-wa-yuri-no.n2107588) • [🐱 Nyaa](https://nyaa.si/?q=PLC33LWOAFZFK432QK3SJTRSJJTJRC4A) |
-| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Bota...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-kamiina-botan-yoeru-sugata-wa-yuri-no.n2107587) • [🐱 Nyaa](https://nyaa.si/?q=GWLZEZS645G6VLAPXJIMILKAQW2HNBM7) |
 
 ---
 <div align="center">
