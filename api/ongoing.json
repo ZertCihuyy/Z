@@ -1,5 +1,5 @@
 {
-  "last_update": "9/5/2026, 15.53.49",
+  "last_update": "9/5/2026, 17.10.50",
   "data": [
     {
       "mal_id": 51553,
@@ -910,298 +910,6 @@
       ]
     },
     {
-      "mal_id": 62568,
-      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Dr. Stone: Science Future Part 3"
-        },
-        {
-          "type": "Synonym",
-          "title": "Dr. Stone 4th Season Part 3"
-        },
-        {
-          "type": "Japanese",
-          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
-        },
-        {
-          "type": "English",
-          "title": "Dr. Stone: Science Future Part 3"
-        }
-      ],
-      "title": "Dr. Stone: Science Future Part 3",
-      "title_english": "Dr. Stone: Science Future Part 3",
-      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
-      "title_synonyms": [
-        "Dr. Stone 4th Season Part 3"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-02T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 2,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 2, 2026 to ?"
-      },
-      "duration": "24 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.29,
-      "scored_by": 13050,
-      "rank": 329,
-      "popularity": 1953,
-      "members": 133236,
-      "favorites": 359,
-      "synopsis": "Third part of Dr. Stone: Science Future.",
-      "background": "",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Thursdays",
-        "time": "22:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 22:00 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 306,
-          "type": "anime",
-          "name": "Magic Capsule",
-          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
-        },
-        {
-          "mal_id": 1143,
-          "type": "anime",
-          "name": "TOHO animation",
-          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
-        },
-        {
-          "mal_id": 1365,
-          "type": "anime",
-          "name": "Shueisha",
-          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 73,
-          "type": "anime",
-          "name": "TMS Entertainment",
-          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ]
-    },
-    {
-      "mal_id": 62568,
-      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Dr. Stone: Science Future Part 3"
-        },
-        {
-          "type": "Synonym",
-          "title": "Dr. Stone 4th Season Part 3"
-        },
-        {
-          "type": "Japanese",
-          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
-        },
-        {
-          "type": "English",
-          "title": "Dr. Stone: Science Future Part 3"
-        }
-      ],
-      "title": "Dr. Stone: Science Future Part 3",
-      "title_english": "Dr. Stone: Science Future Part 3",
-      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
-      "title_synonyms": [
-        "Dr. Stone 4th Season Part 3"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-04-02T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 2,
-            "month": 4,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Apr 2, 2026 to ?"
-      },
-      "duration": "24 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.29,
-      "scored_by": 13050,
-      "rank": 329,
-      "popularity": 1953,
-      "members": 133236,
-      "favorites": 359,
-      "synopsis": "Third part of Dr. Stone: Science Future.",
-      "background": "",
-      "season": "spring",
-      "year": 2026,
-      "broadcast": {
-        "day": "Thursdays",
-        "time": "22:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 22:00 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 306,
-          "type": "anime",
-          "name": "Magic Capsule",
-          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
-        },
-        {
-          "mal_id": 1143,
-          "type": "anime",
-          "name": "TOHO animation",
-          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
-        },
-        {
-          "mal_id": 1365,
-          "type": "anime",
-          "name": "Shueisha",
-          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 73,
-          "type": "anime",
-          "name": "TMS Entertainment",
-          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ]
-    },
-    {
       "mal_id": 59983,
       "url": "https://myanimelist.net/anime/59983/Tsue_to_Tsurugi_no_Wistoria_Season_2",
       "images": {
@@ -1277,12 +985,12 @@
       },
       "duration": "23 min",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 8.24,
-      "scored_by": 12900,
-      "rank": 404,
-      "popularity": 1954,
-      "members": 133004,
-      "favorites": 583,
+      "score": 8.25,
+      "scored_by": 13164,
+      "rank": 390,
+      "popularity": 1950,
+      "members": 133739,
+      "favorites": 586,
       "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
       "background": "",
       "season": "spring",
@@ -1375,6 +1083,298 @@
           "url": "https://myanimelist.net/anime/genre/23/School"
         }
       ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 62568,
+      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Dr. Stone: Science Future Part 3"
+        },
+        {
+          "type": "Synonym",
+          "title": "Dr. Stone 4th Season Part 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
+        },
+        {
+          "type": "English",
+          "title": "Dr. Stone: Science Future Part 3"
+        }
+      ],
+      "title": "Dr. Stone: Science Future Part 3",
+      "title_english": "Dr. Stone: Science Future Part 3",
+      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
+      "title_synonyms": [
+        "Dr. Stone 4th Season Part 3"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2, 2026 to ?"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.29,
+      "scored_by": 13050,
+      "rank": 329,
+      "popularity": 1953,
+      "members": 133236,
+      "favorites": 359,
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 73,
+          "type": "anime",
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 62568,
+      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1773/155779.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1773/155779t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1773/155779l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/O8Mf9JEYDUI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Dr. Stone: Science Future Part 3"
+        },
+        {
+          "type": "Synonym",
+          "title": "Dr. Stone 4th Season Part 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "Dr.STONE SCIENCE FUTURE 第3クール"
+        },
+        {
+          "type": "English",
+          "title": "Dr. Stone: Science Future Part 3"
+        }
+      ],
+      "title": "Dr. Stone: Science Future Part 3",
+      "title_english": "Dr. Stone: Science Future Part 3",
+      "title_japanese": "Dr.STONE SCIENCE FUTURE 第3クール",
+      "title_synonyms": [
+        "Dr. Stone 4th Season Part 3"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2, 2026 to ?"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.29,
+      "scored_by": 13050,
+      "rank": 329,
+      "popularity": 1953,
+      "members": 133236,
+      "favorites": 359,
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "background": "",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 73,
+          "type": "anime",
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
       "demographics": [
         {
           "mal_id": 27,
