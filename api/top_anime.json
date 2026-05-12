@@ -1,5 +1,5 @@
 {
-  "last_update": "12/5/2026, 14.16.20",
+  "last_update": "12/5/2026, 17.05.20",
   "data": [
     {
       "mal_id": 61469,
@@ -802,6 +802,152 @@
       "demographics": []
     },
     {
+      "mal_id": 55809,
+      "url": "https://myanimelist.net/anime/55809/Xian_Ni",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1289/149708.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1289/149708t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1289/149708l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1289/149708.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1289/149708t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1289/149708l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/CbcJ_0XG_Sc?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Xian Ni"
+        },
+        {
+          "type": "Synonym",
+          "title": "RI"
+        },
+        {
+          "type": "Japanese",
+          "title": "仙逆"
+        },
+        {
+          "type": "English",
+          "title": "Renegade Immortal"
+        }
+      ],
+      "title": "Xian Ni",
+      "title_english": "Renegade Immortal",
+      "title_japanese": "仙逆",
+      "title_synonyms": [
+        "RI"
+      ],
+      "type": "ONA",
+      "source": "Web novel",
+      "episodes": 180,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2023-09-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 25,
+            "month": 9,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Sep 25, 2023 to ?"
+      },
+      "duration": "25 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.5,
+      "scored_by": 2993,
+      "rank": 168,
+      "popularity": 6916,
+      "members": 11342,
+      "favorites": 368,
+      "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1727,
+          "type": "anime",
+          "name": "Tencent Video",
+          "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2191,
+          "type": "anime",
+          "name": "BUILD DREAM",
+          "url": "https://myanimelist.net/anime/producer/2191/BUILD_DREAM"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        }
+      ],
+      "demographics": []
+    },
+    {
       "mal_id": 60988,
       "url": "https://myanimelist.net/anime/60988/Tian_Guan_Cifu_Short_Films",
       "images": {
@@ -954,152 +1100,6 @@
           "type": "anime",
           "name": "Mythology",
           "url": "https://myanimelist.net/anime/genre/6/Mythology"
-        }
-      ],
-      "demographics": []
-    },
-    {
-      "mal_id": 55809,
-      "url": "https://myanimelist.net/anime/55809/Xian_Ni",
-      "images": {
-        "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1289/149708.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1289/149708t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1289/149708l.jpg"
-        },
-        "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1289/149708.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1289/149708t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1289/149708l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/CbcJ_0XG_Sc?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Xian Ni"
-        },
-        {
-          "type": "Synonym",
-          "title": "RI"
-        },
-        {
-          "type": "Japanese",
-          "title": "仙逆"
-        },
-        {
-          "type": "English",
-          "title": "Renegade Immortal"
-        }
-      ],
-      "title": "Xian Ni",
-      "title_english": "Renegade Immortal",
-      "title_japanese": "仙逆",
-      "title_synonyms": [
-        "RI"
-      ],
-      "type": "ONA",
-      "source": "Web novel",
-      "episodes": 180,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2023-09-25T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 25,
-            "month": 9,
-            "year": 2023
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Sep 25, 2023 to ?"
-      },
-      "duration": "25 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.5,
-      "scored_by": 2993,
-      "rank": 168,
-      "popularity": 6916,
-      "members": 11342,
-      "favorites": 368,
-      "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
-      "background": "",
-      "season": null,
-      "year": null,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "producers": [
-        {
-          "mal_id": 1727,
-          "type": "anime",
-          "name": "Tencent Video",
-          "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 2191,
-          "type": "anime",
-          "name": "BUILD DREAM",
-          "url": "https://myanimelist.net/anime/producer/2191/BUILD_DREAM"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 13,
-          "type": "anime",
-          "name": "Historical",
-          "url": "https://myanimelist.net/anime/genre/13/Historical"
-        },
-        {
-          "mal_id": 17,
-          "type": "anime",
-          "name": "Martial Arts",
-          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
         }
       ],
       "demographics": []
