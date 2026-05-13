@@ -1,5 +1,5 @@
 {
-  "last_update": "13/5/2026, 15.25.15",
+  "last_update": "13/5/2026, 18.09.16",
   "hari": "Rabu",
   "data": [
     {
@@ -1388,7 +1388,7 @@
       ],
       "type": "TV",
       "source": "Other",
-      "episodes": null,
+      "episodes": 12,
       "status": "Currently Airing",
       "airing": true,
       "aired": {
@@ -1408,13 +1408,13 @@
         },
         "string": "Apr 1, 2026 to ?"
       },
-      "duration": "22 min",
+      "duration": "22 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 5.66,
-      "scored_by": 7121,
-      "rank": 12696,
-      "popularity": 3244,
-      "members": 60219,
+      "scored_by": 7177,
+      "rank": 12695,
+      "popularity": 3239,
+      "members": 60519,
       "favorites": 146,
       "synopsis": "Second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
       "background": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 aired on Fuji TV's +Ultra block.",
