@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.29.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.32.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,19 +9,19 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Sabtu**
+### 📅 Jadwal Rilis Hari Ini: **Minggu**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `09:00` | **[Oshiri Tantei 10th Season](https://myanimelist.net/anime/63762/Oshiri_Tantei_10th_Season)** | *Comedy, Fantasy, Mystery* |
-| `09:30` | **[Nezumi-kun no Chokki (TV)](https://myanimelist.net/anime/62495/Nezumi-kun_no_Chokki_TV)** | *Fantasy* |
-| `08:30` | **[Shimajirou no Wow!](https://myanimelist.net/anime/18941/Shimajirou_no_Wow)** | *Adventure, Comedy, Fantasy* |
-| `09:25` | **[Rilakkuma](https://myanimelist.net/anime/60153/Rilakkuma)** | *Slice of Life* |
-| `07:00` | **[Ninjala (TV)](https://myanimelist.net/anime/50418/Ninjala_TV)** | *Action* |
-| `04:52` | **[Bonobono (TV 2016)](https://myanimelist.net/anime/32353/Bonobono_TV_2016)** | *Comedy* |
-| `01:00` | **[Hokuto no Ken: Fist of the North Star](https://myanimelist.net/anime/56646/Hokuto_no_Ken__Fist_of_the_North_Star)** | *Action, Drama, Sci-Fi* |
-| `23:45` | **[Mao](https://myanimelist.net/anime/62048/Mao)** | *Mystery, Supernatural* |
-| `21:30` | **[Yowayowa Sensei](https://myanimelist.net/anime/60444/Yowayowa_Sensei)** | *Comedy, Romance, Ecchi* |
-| `00:00` | **[Kamiina Botan, Yoeru Sugata wa Yuri no Hana](https://myanimelist.net/anime/61186/Kamiina_Botan_Yoeru_Sugata_wa_Yuri_no_Hana)** | *Girls Love, Gourmet, Slice of Life* |
+| `07:00` | **[Kumarba Season 3](https://myanimelist.net/anime/63383/Kumarba_Season_3)** | *-* |
+| `08:30` | **[Tomica to Tom (TV)](https://myanimelist.net/anime/62083/Tomica_to_Tom_TV)** | *Slice of Life* |
+| `07:00` | **[Shou 3 Ashibe QQ Goma-chan](https://myanimelist.net/anime/62933/Shou_3_Ashibe_QQ_Goma-chan)** | *Comedy* |
+| `09:30` | **[Onegai AiPri](https://myanimelist.net/anime/63352/Onegai_AiPri)** | *-* |
+| `TBA` | **[Manul no Yuube](https://myanimelist.net/anime/38776/Manul_no_Yuube)** | *Slice of Life* |
+| `08:30` | **[Meitantei Precure!](https://myanimelist.net/anime/63042/Meitantei_Precure)** | *Action, Mystery* |
+| `22:30` | **[Mahou no Shimai Lulutto Lilly](https://myanimelist.net/anime/59176/Mahou_no_Shimai_Lulutto_Lilly)** | *-* |
+| `08:00` | **[Koupen-chan](https://myanimelist.net/anime/60534/Koupen-chan)** | *Slice of Life* |
+| `18:00` | **[Chibi Maruko-chan (1995)](https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995)** | *Comedy* |
+| `18:30` | **[Sazae-san](https://myanimelist.net/anime/2406/Sazae-san)** | *Comedy* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
