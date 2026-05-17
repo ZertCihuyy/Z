@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.12.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.17.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,19 +9,9 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Minggu**
+### 📅 Jadwal Rilis Hari Ini: **Senin**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `07:00` | **[Kumarba Season 3](https://myanimelist.net/anime/63383/Kumarba_Season_3)** | *-* |
-| `08:30` | **[Tomica to Tom (TV)](https://myanimelist.net/anime/62083/Tomica_to_Tom_TV)** | *Slice of Life* |
-| `07:00` | **[Shou 3 Ashibe QQ Goma-chan](https://myanimelist.net/anime/62933/Shou_3_Ashibe_QQ_Goma-chan)** | *Comedy* |
-| `09:30` | **[Onegai AiPri](https://myanimelist.net/anime/63352/Onegai_AiPri)** | *-* |
-| `TBA` | **[Manul no Yuube](https://myanimelist.net/anime/38776/Manul_no_Yuube)** | *Slice of Life* |
-| `08:30` | **[Meitantei Precure!](https://myanimelist.net/anime/63042/Meitantei_Precure)** | *Action, Mystery* |
-| `22:30` | **[Mahou no Shimai Lulutto Lilly](https://myanimelist.net/anime/59176/Mahou_no_Shimai_Lulutto_Lilly)** | *-* |
-| `08:00` | **[Koupen-chan](https://myanimelist.net/anime/60534/Koupen-chan)** | *Slice of Life* |
-| `18:00` | **[Chibi Maruko-chan (1995)](https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995)** | *Comedy* |
-| `18:30` | **[Sazae-san](https://myanimelist.net/anime/2406/Sazae-san)** | *Comedy* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
