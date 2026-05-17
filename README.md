@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.52.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.59.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -12,6 +12,16 @@
 ### 📅 Jadwal Rilis Hari Ini: **Senin**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
+| `01:00` | **[Shin Nippon History](https://myanimelist.net/anime/54871/Shin_Nippon_History)** | *Comedy* |
+| `18:25` | **[Puzzle & Dragon](https://myanimelist.net/anime/37096/Puzzle___Dragon)** | *-* |
+| `00:30` | **[Ghost Concert: Missing Songs](https://myanimelist.net/anime/62852/Ghost_Concert__Missing_Songs)** | *Action, Sci-Fi, Supernatural* |
+| `01:10` | **[Ingoku Danchi](https://myanimelist.net/anime/63310/Ingoku_Danchi)** | *Comedy, Supernatural, Erotica* |
+| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
+| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
+| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
+| `00:00` | **[Niwatori Fighter](https://myanimelist.net/anime/59393/Niwatori_Fighter)** | *Action, Comedy* |
+| `22:00` | **[Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.](https://myanimelist.net/anime/61687/Jishou_Akuyaku_Reijou_na_Konyakusha_no_Kansatsu_Kiroku)** | *Comedy, Romance* |
+| `23:24` | **[Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi](https://myanimelist.net/anime/61425/Ponkotsu_Fuuki_Iin_to_Skirt-take_ga_Futekisetsu_na_JK_no_Hanashi)** | *Comedy, Romance* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
