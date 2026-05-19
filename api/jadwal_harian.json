@@ -1,5 +1,5 @@
 {
-  "last_update": "19/5/2026, 18.28.13",
+  "last_update": "19/5/2026, 21.12.24",
   "hari": "Selasa",
   "data": [
     {
@@ -131,14 +131,14 @@
       "url": "https://myanimelist.net/anime/42295/Fushigi_Dagashiya__Zenitendou",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1602/150098.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1602/150098t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1602/150098l.jpg"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1602/150098.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1602/150098t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1602/150098l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1602/150098.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1602/150098t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1602/150098l.webp"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1602/150098.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1602/150098t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1602/150098l.webp"
         }
       },
       "trailer": {
@@ -194,9 +194,9 @@
       "rating": "G - All Ages",
       "score": 6.16,
       "scored_by": 244,
-      "rank": 10149,
-      "popularity": 12119,
-      "members": 2407,
+      "rank": 10157,
+      "popularity": 12116,
+      "members": 2409,
       "favorites": 6,
       "synopsis": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
       "background": "",
@@ -579,14 +579,14 @@
       "url": "https://myanimelist.net/anime/61931/Higeki_no_Genkyou_to_Naru_Saikyou_Gedou_Last_Boss_Joou_wa_Tami_no_Tame_ni_Tsukushimasu_Season_2",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1916/155657.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1916/155657t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1916/155657l.jpg"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1916/155657.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1916/155657t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1916/155657l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1916/155657.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1916/155657t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1916/155657l.webp"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1916/155657.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1916/155657t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1916/155657l.webp"
         }
       },
       "trailer": {
@@ -656,11 +656,11 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.22,
-      "scored_by": 3015,
-      "rank": 3869,
-      "popularity": 4208,
-      "members": 37561,
-      "favorites": 112,
+      "scored_by": 3037,
+      "rank": 3882,
+      "popularity": 4204,
+      "members": 37668,
+      "favorites": 114,
       "synopsis": "Second season of Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu..",
       "background": "",
       "season": "spring",
@@ -1313,14 +1313,14 @@
       "url": "https://myanimelist.net/anime/62601/Marriagetoxin",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1927/154309.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1927/154309t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1927/154309l.jpg"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1927/154309.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/154309t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/154309l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1927/154309.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1927/154309t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1927/154309l.webp"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1927/154309.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/154309t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/154309l.webp"
         }
       },
       "trailer": {
@@ -1385,11 +1385,11 @@
       "duration": "23 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.56,
-      "scored_by": 12489,
-      "rank": 1995,
-      "popularity": 2404,
-      "members": 99194,
-      "favorites": 207,
+      "scored_by": 12628,
+      "rank": 2000,
+      "popularity": 2394,
+      "members": 99865,
+      "favorites": 208,
       "synopsis": "For centuries, the Poison Masters have perfected the art of assassination. Among them, the Gero family stands as one of the five most powerful families of Masters, wielding unmatched skill and influence. Hikaru Gero, heir to this infamous bloodline, has lived his life deep in the shadows of the underworld, far removed from love or marriage.\n\nHowever, to ensure the Poison Master bloodline does not die out, the head of the Gero family declares that Hikaru's sister will be forced to bear an heir. Soon after, Hikaru crosses paths with Mei Kinosaki, a brilliant marriage swindler who also happens to be his current assassination target. Determined to protect his sister and solve the succession problem himself, Hikaru makes an unexpected request on the spot—asking Mei to help him get married.\n\n\"...That's the first time anyone's ever proposed like that.\"\n\nAnd so, with the cunning marriage swindler Mei as his advisor, the elite assassin Hikaru sets out on the toughest mission for love. His goal? The ultimate marriage. The most unlikely duo—an assassin and a marriage swindler—take on the world's toughest mission for love!\n\n(Source: Official site)",
       "background": "Marriagetoxin aired on Kansai TV and Fuji TV's Ka-Anival!! block.",
       "season": "spring",
