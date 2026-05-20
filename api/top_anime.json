@@ -1,5 +1,5 @@
 {
-  "last_update": "20/5/2026, 11.04.04",
+  "last_update": "20/5/2026, 14.55.59",
   "data": [
     {
       "mal_id": 61469,
@@ -806,14 +806,14 @@
       "url": "https://myanimelist.net/anime/55809/Xian_Ni",
       "images": {
         "jpg": {
-          "image_url": "https://myanimelist.net/images/anime/1289/149708.jpg",
-          "small_image_url": "https://myanimelist.net/images/anime/1289/149708t.jpg",
-          "large_image_url": "https://myanimelist.net/images/anime/1289/149708l.jpg"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1289/149708.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1289/149708t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1289/149708l.jpg"
         },
         "webp": {
-          "image_url": "https://myanimelist.net/images/anime/1289/149708.webp",
-          "small_image_url": "https://myanimelist.net/images/anime/1289/149708t.webp",
-          "large_image_url": "https://myanimelist.net/images/anime/1289/149708l.webp"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1289/149708.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1289/149708t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1289/149708l.webp"
         }
       },
       "trailer": {
@@ -878,11 +878,11 @@
       "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.5,
-      "scored_by": 3019,
+      "scored_by": 3020,
       "rank": 168,
-      "popularity": 6899,
-      "members": 11436,
-      "favorites": 375,
+      "popularity": 6894,
+      "members": 11445,
+      "favorites": 376,
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "background": "",
       "season": null,
