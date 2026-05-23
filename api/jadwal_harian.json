@@ -1,5 +1,5 @@
 {
-  "last_update": "24/5/2026, 00.29.21",
+  "last_update": "24/5/2026, 01.37.13",
   "hari": "Minggu",
   "data": [
     {
@@ -70,8 +70,8 @@
       "rating": "PG - Children",
       "score": null,
       "scored_by": null,
-      "rank": 18192,
-      "popularity": 25315,
+      "rank": 18193,
+      "popularity": 25319,
       "members": 145,
       "favorites": 0,
       "synopsis": "Third season of Kumarba.",
@@ -808,7 +808,7 @@
       "airing": true,
       "aired": {
         "from": "2026-04-05T00:00:00+00:00",
-        "to": null,
+        "to": "2026-06-21T00:00:00+00:00",
         "prop": {
           "from": {
             "day": 5,
@@ -816,20 +816,20 @@
             "year": 2026
           },
           "to": {
-            "day": null,
-            "month": null,
-            "year": null
+            "day": 21,
+            "month": 6,
+            "year": 2026
           }
         },
-        "string": "Apr 5, 2026 to ?"
+        "string": "Apr 5, 2026 to Jun 21, 2026"
       },
       "duration": "23 min per ep",
       "rating": "G - All Ages",
       "score": 6.78,
-      "scored_by": 633,
-      "rank": 6492,
-      "popularity": 8702,
-      "members": 6406,
+      "scored_by": 635,
+      "rank": 6498,
+      "popularity": 8695,
+      "members": 6425,
       "favorites": 16,
       "synopsis": "Fuu Nonoyama and Rui Nonoyama are sisters from a \"land of magic,\" who were once on terms with one another, but have drifted apart. Suddenly, they are given magical powers by two cat-like spirits, Uguisu and Azuki, allowing them to transform into magical girl idols. However, there is a catch: these powers only last for a year and they cannot tell anyone that that magic exists. While neither Fuu nor Rui knows one another are magical girls, they soon begin their careers as idols.\n\n(Source: Wikipedia)",
       "background": "",
