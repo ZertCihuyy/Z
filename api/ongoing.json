@@ -1,5 +1,5 @@
 {
-  "last_update": "23/5/2026, 06.51.54",
+  "last_update": "23/5/2026, 10.46.46",
   "data": [
     {
       "mal_id": 51553,
@@ -1624,7 +1624,7 @@
       "airing": true,
       "aired": {
         "from": "2026-04-07T00:00:00+00:00",
-        "to": null,
+        "to": "2026-06-23T00:00:00+00:00",
         "prop": {
           "from": {
             "day": 7,
@@ -1632,21 +1632,21 @@
             "year": 2026
           },
           "to": {
-            "day": null,
-            "month": null,
-            "year": null
+            "day": 23,
+            "month": 6,
+            "year": 2026
           }
         },
-        "string": "Apr 7, 2026 to ?"
+        "string": "Apr 7, 2026 to Jun 23, 2026"
       },
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.9,
-      "scored_by": 16412,
-      "rank": 936,
-      "popularity": 2335,
-      "members": 103858,
-      "favorites": 579,
+      "scored_by": 16646,
+      "rank": 938,
+      "popularity": 2324,
+      "members": 104591,
+      "favorites": 585,
       "synopsis": "I, Maehara Maki, struggled to connect with anyone during my high school years, finding it hard to make friends. Then, a turning point arrived. A girl named Asanagi entered my life. Despite being clandestinely referred to as the \"second cutest girl in class\" by the boys, she chose to spend her Fridays with me instead of her best friend Amami, who held the \"cutest girl in class\" title. In the comfort of my home, we delved into the realm of games, watched movies, immersed ourselves in manga, indulged in junk food—pizza, hamburgers—and guzzled cola, carefree and content. To the outside world, we might have seemed a bit messy, but to both Asanagi and me, it was a cherished, hidden time together.\n\n(Source: MAL News)",
       "background": "",
       "season": "spring",

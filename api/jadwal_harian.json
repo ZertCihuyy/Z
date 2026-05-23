@@ -1,5 +1,5 @@
 {
-  "last_update": "23/5/2026, 06.51.54",
+  "last_update": "23/5/2026, 10.46.46",
   "hari": "Sabtu",
   "data": [
     {
@@ -832,10 +832,10 @@
       "duration": "24 min",
       "rating": "R - 17+ (violence & profanity)",
       "score": 6.35,
-      "scored_by": 1145,
-      "rank": 9102,
+      "scored_by": 1151,
+      "rank": 9108,
       "popularity": 6475,
-      "members": 13333,
+      "members": 13355,
       "favorites": 58,
       "synopsis": "In 199x, the world was engulfed in the blaze of nuclear war.\n\nWith the Ocean drying up and Earth torn asunder, all life seems to be lost but humans survived stubbornly. However, what dominated the post-apocalyptic world was sheer violence. The remaining humanity was split into two groups: those who kill and take whatever they can and those who are exploited.\n\nWhen all hope seems lost for the weak, a man in ragged cloth appears. He is Kenshiro, the rightful successor of the Hokuto Shinken martial arts with seven studs-like scars in the shape of the Big Dipper. His journey to becoming a legendary savior begins! \n\n(Source: Warner Bros. Japan, edited)",
       "background": "",
@@ -1183,7 +1183,7 @@
       "airing": true,
       "aired": {
         "from": "2026-04-11T00:00:00+00:00",
-        "to": null,
+        "to": "2026-06-27T00:00:00+00:00",
         "prop": {
           "from": {
             "day": 11,
@@ -1191,21 +1191,21 @@
             "year": 2026
           },
           "to": {
-            "day": null,
-            "month": null,
-            "year": null
+            "day": 27,
+            "month": 6,
+            "year": 2026
           }
         },
-        "string": "Apr 11, 2026 to ?"
+        "string": "Apr 11, 2026 to Jun 27, 2026"
       },
       "duration": "23 min per ep",
       "rating": "R+ - Mild Nudity",
-      "score": 6.48,
-      "scored_by": 3472,
-      "rank": 8363,
-      "popularity": 4321,
-      "members": 35721,
-      "favorites": 128,
+      "score": 6.47,
+      "scored_by": 3499,
+      "rank": 8431,
+      "popularity": 4314,
+      "members": 35869,
+      "favorites": 129,
       "synopsis": "When the new term starts, second-year student Abikura discovers that his homeroom teacher is none other than Hiyori Hiwamura, infamously known as \"Scary-Scary Sensei,\" a woman rumored to curse anyone who crosses her.\n\nBut one day, Abikura accidentally witnesses a completely unexpected side of his fearsome teacher after school. The striking contrast between her fearsome image and her hidden personality is utterly irresistible!\n\nBrace yourself for Gap Moe overload in this tender romantic comedy that's sure to ignite your protective instincts!\n\n(Source: MAL News)",
       "background": "",
       "season": "spring",
@@ -1378,11 +1378,11 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.8,
-      "scored_by": 4724,
+      "scored_by": 4776,
       "rank": 1192,
-      "popularity": 4156,
-      "members": 38828,
-      "favorites": 159,
+      "popularity": 4145,
+      "members": 39073,
+      "favorites": 163,
       "synopsis": "This is a story about a 20-year-old first-year college student, Botan Kamiina, and her life in a dorm, where she meets her seniors and forms friendships through drinking sessions. The anime features many real-life alcoholic drinks - Japanese sake, whiskey, wine - and also describes music, movies, and other cultural elements that can be enjoyed with alcohol. Each drink and pastime is closely tied to the characters' personalities and emotions, creating a special atmosphere.",
       "background": "",
       "season": "spring",
