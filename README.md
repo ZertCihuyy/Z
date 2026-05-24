@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.43.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.44.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,19 +9,19 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Minggu**
+### 📅 Jadwal Rilis Hari Ini: **Senin**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `07:00` | **[Kumarba Season 3](https://myanimelist.net/anime/63383/Kumarba_Season_3)** | *-* |
-| `08:30` | **[Tomica to Tom (TV)](https://myanimelist.net/anime/62083/Tomica_to_Tom_TV)** | *Slice of Life* |
-| `07:00` | **[Shou 3 Ashibe QQ Goma-chan](https://myanimelist.net/anime/62933/Shou_3_Ashibe_QQ_Goma-chan)** | *Comedy* |
-| `09:30` | **[Onegai AiPri](https://myanimelist.net/anime/63352/Onegai_AiPri)** | *-* |
-| `TBA` | **[Manul no Yuube](https://myanimelist.net/anime/38776/Manul_no_Yuube)** | *Slice of Life* |
-| `08:30` | **[Meitantei Precure!](https://myanimelist.net/anime/63042/Meitantei_Precure)** | *Action, Mystery* |
-| `22:30` | **[Mahou no Shimai Lulutto Lilly](https://myanimelist.net/anime/59176/Mahou_no_Shimai_Lulutto_Lilly)** | *-* |
-| `08:00` | **[Koupen-chan](https://myanimelist.net/anime/60534/Koupen-chan)** | *Slice of Life* |
-| `18:00` | **[Chibi Maruko-chan (1995)](https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995)** | *Comedy* |
-| `18:30` | **[Sazae-san](https://myanimelist.net/anime/2406/Sazae-san)** | *Comedy* |
+| `01:00` | **[Shin Nippon History](https://myanimelist.net/anime/54871/Shin_Nippon_History)** | *Comedy* |
+| `18:25` | **[Puzzle & Dragon](https://myanimelist.net/anime/37096/Puzzle___Dragon)** | *-* |
+| `00:30` | **[Ghost Concert: Missing Songs](https://myanimelist.net/anime/62852/Ghost_Concert__Missing_Songs)** | *Action, Sci-Fi, Supernatural* |
+| `01:10` | **[Ingoku Danchi](https://myanimelist.net/anime/63310/Ingoku_Danchi)** | *Comedy, Supernatural, Erotica* |
+| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
+| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
+| `01:00` | **[Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/anime/62983/Marika-chan_no_Koukando_wa_Bukkowareteiru)** | *Comedy, Romance, Ecchi* |
+| `00:00` | **[Niwatori Fighter](https://myanimelist.net/anime/59393/Niwatori_Fighter)** | *Action, Comedy* |
+| `22:00` | **[Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.](https://myanimelist.net/anime/61687/Jishou_Akuyaku_Reijou_na_Konyakusha_no_Kansatsu_Kiroku)** | *Comedy, Romance* |
+| `23:24` | **[Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi](https://myanimelist.net/anime/61425/Ponkotsu_Fuuki_Iin_to_Skirt-take_ga_Futekisetsu_na_JK_no_Hanashi)** | *Comedy, Romance* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
