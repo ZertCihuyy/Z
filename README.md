@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.43.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.28.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,19 +9,19 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Kamis**
+### 📅 Jadwal Rilis Hari Ini: **Jumat**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `07:45` | **[Metal Cardbot W](https://myanimelist.net/anime/63142/Metal_Cardbot_W)** | *Action, Sci-Fi* |
-| `07:45` | **[Metal Cardbot W](https://myanimelist.net/anime/63142/Metal_Cardbot_W)** | *Action, Sci-Fi* |
-| `00:55` | **[Candy Caries](https://myanimelist.net/anime/63276/Candy_Caries)** | *Comedy, Fantasy* |
-| `00:55` | **[Candy Caries](https://myanimelist.net/anime/63276/Candy_Caries)** | *Comedy, Fantasy* |
-| `22:30` | **[Kujima Utaeba Ie Hororo](https://myanimelist.net/anime/58832/Kujima_Utaeba_Ie_Hororo)** | *Slice of Life, Supernatural* |
-| `00:00` | **[Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken](https://myanimelist.net/anime/62893/Nigashita_Sakana_wa_Ookikatta_ga_Tsuriageta_Sakana_ga_Ookisugita_Ken)** | *Comedy, Romance* |
-| `00:30` | **[Ganbare! Nakamura-kun!!](https://myanimelist.net/anime/59551/Ganbare_Nakamura-kun)** | *Boys Love, Comedy* |
-| `21:30` | **[Himekishi wa Barbaroi no Yome](https://myanimelist.net/anime/60028/Himekishi_wa_Barbaroi_no_Yome)** | *Comedy, Fantasy, Romance* |
-| `23:56` | **[Koori no Jouheki](https://myanimelist.net/anime/60852/Koori_no_Jouheki)** | *Drama, Romance* |
-| `22:00` | **[Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)** | *Adventure, Comedy* |
+| `01:50` | **[Komekami! Girls](https://myanimelist.net/anime/63709/Komekami_Girls)** | *-* |
+| `16:20` | **[Sore Ike! Anpanman](https://myanimelist.net/anime/1960/Sore_Ike_Anpanman)** | *Comedy, Fantasy* |
+| `18:25` | **[Beyblade X](https://myanimelist.net/anime/56566/Beyblade_X)** | *Adventure, Sports* |
+| `23:30` | **[Kami no Shizuku](https://myanimelist.net/anime/62981/Kami_no_Shizuku)** | *Drama, Gourmet, Mystery* |
+| `00:26` | **[Kirio Fanclub](https://myanimelist.net/anime/59835/Kirio_Fanclub)** | *Comedy* |
+| `01:00` | **[Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/anime/63304/Mamonogurai_no_Boukensha__Ore_dake_Mamono_wo_Kuratte_Tsuyoku_Naru)** | *Action, Fantasy* |
+| `01:00` | **[Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/anime/63304/Mamonogurai_no_Boukensha__Ore_dake_Mamono_wo_Kuratte_Tsuyoku_Naru)** | *Action, Fantasy* |
+| `01:45` | **[Awajima Hyakkei](https://myanimelist.net/anime/58820/Awajima_Hyakkei)** | *Drama* |
+| `23:30` | **[Snowball Earth](https://myanimelist.net/anime/62068/Snowball_Earth)** | *Adventure, Sci-Fi* |
+| `07:40` | **[Chiikawa](https://myanimelist.net/anime/50250/Chiikawa)** | *Slice of Life* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
