@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.34.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.02.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,19 +9,19 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Jumat**
+### 📅 Jadwal Rilis Hari Ini: **Sabtu**
 | Waktu (JST) | Judul Anime | Genre |
 | :---: | --- | --- |
-| `01:50` | **[Komekami! Girls](https://myanimelist.net/anime/63709/Komekami_Girls)** | *-* |
-| `16:20` | **[Sore Ike! Anpanman](https://myanimelist.net/anime/1960/Sore_Ike_Anpanman)** | *Comedy, Fantasy* |
-| `18:25` | **[Beyblade X](https://myanimelist.net/anime/56566/Beyblade_X)** | *Adventure, Sports* |
-| `23:30` | **[Kami no Shizuku](https://myanimelist.net/anime/62981/Kami_no_Shizuku)** | *Drama, Gourmet, Mystery* |
-| `00:26` | **[Kirio Fanclub](https://myanimelist.net/anime/59835/Kirio_Fanclub)** | *Comedy* |
-| `01:00` | **[Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/anime/63304/Mamonogurai_no_Boukensha__Ore_dake_Mamono_wo_Kuratte_Tsuyoku_Naru)** | *Action, Fantasy* |
-| `01:00` | **[Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/anime/63304/Mamonogurai_no_Boukensha__Ore_dake_Mamono_wo_Kuratte_Tsuyoku_Naru)** | *Action, Fantasy* |
-| `01:45` | **[Awajima Hyakkei](https://myanimelist.net/anime/58820/Awajima_Hyakkei)** | *Drama* |
-| `23:30` | **[Snowball Earth](https://myanimelist.net/anime/62068/Snowball_Earth)** | *Adventure, Sci-Fi* |
-| `07:40` | **[Chiikawa](https://myanimelist.net/anime/50250/Chiikawa)** | *Slice of Life* |
+| `09:00` | **[Oshiri Tantei 10th Season](https://myanimelist.net/anime/63762/Oshiri_Tantei_10th_Season)** | *Comedy, Fantasy, Mystery* |
+| `09:30` | **[Nezumi-kun no Chokki (TV)](https://myanimelist.net/anime/62495/Nezumi-kun_no_Chokki_TV)** | *Fantasy* |
+| `08:30` | **[Shimajirou no Wow!](https://myanimelist.net/anime/18941/Shimajirou_no_Wow)** | *Adventure, Comedy, Fantasy* |
+| `09:25` | **[Rilakkuma](https://myanimelist.net/anime/60153/Rilakkuma)** | *Slice of Life* |
+| `07:00` | **[Ninjala (TV)](https://myanimelist.net/anime/50418/Ninjala_TV)** | *Action* |
+| `04:52` | **[Bonobono (TV 2016)](https://myanimelist.net/anime/32353/Bonobono_TV_2016)** | *Comedy* |
+| `01:00` | **[Hokuto no Ken: Fist of the North Star](https://myanimelist.net/anime/56646/Hokuto_no_Ken__Fist_of_the_North_Star)** | *Action, Drama, Sci-Fi* |
+| `23:45` | **[Mao](https://myanimelist.net/anime/62048/Mao)** | *Mystery, Supernatural* |
+| `21:30` | **[Yowayowa Sensei](https://myanimelist.net/anime/60444/Yowayowa_Sensei)** | *Comedy, Romance, Ecchi* |
+| `00:00` | **[Kamiina Botan, Yoeru Sugata wa Yuri no Hana](https://myanimelist.net/anime/61186/Kamiina_Botan_Yoeru_Sugata_wa_Yuri_no_Hana)** | *Girls Love, Gourmet, Slice of Life* |
 
 ### 📥 Update Rilisan Terbaru (1080p)
 > *Diambil langsung dari radar Animetosho & Nyaa.*
