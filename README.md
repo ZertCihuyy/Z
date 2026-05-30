@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.44.36_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.44.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mao - 09 [1080p DSNP WEBRip HEVC AAC][MultiSub][8787FA0A]` | **359.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612932) • [🐱 Nyaa](https://nyaa.si/view/2116151) |
+| `[ToonsHub] Koupen-chan S01E61 1080p AMZN WEB-DL DDP2.0 H.264` | **100.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/612931) • [🐱 Nyaa](https://nekobt.to/torrents/11390165597954) |
+| `[DKB] Akane-banashi - S01E09 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **318.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612927) • [🐱 Nyaa](https://nyaa.si/view/2116148) |
+| `[DKB] Kanan-sama wa Akumade Choroi - S01E09 [1080p][HEVC x265 10bit...` | **369.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/612928) • [🐱 Nyaa](https://nyaa.si/view/2116147) |
+| `[DKB] Needy Girl Overdose - S01E09 [1080p][HEVC x265 10bit][Multi-S...` | **651.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612929) • [🐱 Nyaa](https://nyaa.si/view/2116146) |
+| `[ToonsHub] Shou 3 Ashibe QQ Goma-chan S01E08 1080p AMZN WEB-DL DDP2...` | **71.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/612930) • [🐱 Nyaa](https://nekobt.to/torrents/11389625492995) |
 | `[Erai-raws] Kanan-sama wa Akumade Choroi - 09 [1080p CR WEBRip HEVC...` | **586.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/612926) • [🐱 Nyaa](https://nyaa.si/view/2116144) |
 | `[Erai-raws] Mao - 09 [1080p DSNP WEB-DL AVC AAC][MultiSub][D93FF765]` | **884.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612925) • [🐱 Nyaa](https://nyaa.si/view/2116139) |
 | `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 09 [1080p CR WEBRip HE...` | **378.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612920) • [🐱 Nyaa](https://nyaa.si/view/2116138) |
@@ -42,12 +48,6 @@
 | `[Erai-raws] Ichijyoma Mankitsu Gurashi - 08 [1080p AMZN WEBRip HEVC...` | **315.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/612918) • [🐱 Nyaa](https://nyaa.si/view/2116128) |
 | `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly ...` | **328.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612917) • [🐱 Nyaa](https://nyaa.si/view/2116127) |
 | `[DKB] Kill Ao - S01E08 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **485.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/612916) • [🐱 Nyaa](https://nyaa.si/view/2116114) |
-| `[Judas] Kami no Niwatsuki Kusunoki-tei (Kusunoki's Garden of Gods) ...` | **235.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612915) • [🐱 Nyaa](https://nyaa.si/view/2116113) |
-| `[Onalrie] Yuusha no Kuzu - S01E20 [1080p WEBRip AV1]` | **272.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/612914) • [🐱 Nyaa](https://onalrie.app/torrent/19a8c58d-3680-4f57-a46f-0f452c1c702c) |
-| `[ASW] NEEDY GIRL OVERDOSE - 09 [1080p HEVC x265 10Bit][AAC]` | **510.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/612910) • [🐱 Nyaa](https://nyaa.si/view/2116111) |
-| `[ASW] Yuusha no Kuzu - 20 [1080p HEVC x265 10Bit][AAC]` | **364.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/612911) • [🐱 Nyaa](https://nyaa.si/view/2116110) |
-| `[Erai-raws] Akane-banashi - 04 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **414.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/612912) • [🐱 Nyaa](https://nyaa.si/view/2116109) |
-| `Ichijyoma Mankitsu Gurashi S01E08 Aiming for the Top The Amamiya Sp...` | **830.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612913) • [🐱 Nyaa](https://nyaa.si/view/2116106) |
 
 ---
 <div align="center">
