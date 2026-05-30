@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 Top 10 Anime Saat Ini
+# 🏆 Top 10 Anime (AniList)
 
 **[ 🏠 Kembali ke Beranda ](README.md)**
 
@@ -10,13 +10,13 @@
 
 | Rank | Poster | Informasi Anime |
 | :---: | :---: | --- |
-| **#2** | <img src="https://cdn.myanimelist.net/images/anime/1448/154111.jpg" width="100" style="border-radius: 8px;"> | **[Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)**<br>⭐ Score: 9.13<br>🎭 Genre: Action, Adventure, Mystery, Supernatural |
-| **#21** | <img src="https://cdn.myanimelist.net/images/anime/1540/155824.jpg" width="100" style="border-radius: 8px;"> | **[Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season)**<br>⭐ Score: 8.93<br>🎭 Genre: Drama, Fantasy, Suspense |
-| **#54** | <img src="https://cdn.myanimelist.net/images/anime/1244/138851.jpg" width="100" style="border-radius: 8px;"> | **[One Piece](https://myanimelist.net/anime/21/One_Piece)**<br>⭐ Score: 8.73<br>🎭 Genre: Action, Adventure, Fantasy |
-| **#55** | <img src="https://cdn.myanimelist.net/images/anime/1726/155542.jpg" width="100" style="border-radius: 8px;"> | **[Tongari Boushi no Atelier](https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier)**<br>⭐ Score: 8.73<br>🎭 Genre: Fantasy |
-| **#112** | <img src="https://cdn.myanimelist.net/images/anime/1783/121944.jpg" width="100" style="border-radius: 8px;"> | **[Chiikawa](https://myanimelist.net/anime/50250/Chiikawa)**<br>⭐ Score: 8.6<br>🎭 Genre: Slice of Life |
-| **#161** | <img src="https://cdn.myanimelist.net/images/anime/1174/149943.jpg" width="100" style="border-radius: 8px;"> | **[Tian Guan Cifu Short Films](https://myanimelist.net/anime/60988/Tian_Guan_Cifu_Short_Films)**<br>⭐ Score: 8.51<br>🎭 Genre: Action, Adventure, Drama, Fantasy |
-| **#169** | <img src="https://cdn.myanimelist.net/images/anime/1289/149708.jpg" width="100" style="border-radius: 8px;"> | **[Xian Ni](https://myanimelist.net/anime/55809/Xian_Ni)**<br>⭐ Score: 8.5<br>🎭 Genre: Action, Adventure, Fantasy |
-| **#174** | <img src="https://cdn.myanimelist.net/images/anime/1623/156387.jpg" width="100" style="border-radius: 8px;"> | **[Nippon Sangoku](https://myanimelist.net/anime/63375/Nippon_Sangoku)**<br>⭐ Score: 8.48<br>🎭 Genre: Drama |
-| **#201** | <img src="https://cdn.myanimelist.net/images/anime/1419/126374.jpg" width="100" style="border-radius: 8px;"> | **[Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)**<br>⭐ Score: 8.43<br>🎭 Genre: Action, Adventure, Fantasy |
-| **#270** | <img src="https://cdn.myanimelist.net/images/anime/1335/138907.jpg" width="100" style="border-radius: 8px;"> | **[Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524/Tunshi_Xingkong_4th_Season)**<br>⭐ Score: 8.36<br>🎭 Genre: Action, Adventure, Fantasy, Sci-Fi |
+| **#1** | <a href="https://anilist.co/anime/154587"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg" width="100" style="border-radius: 8px;"></a> | **[Sousou no Frieren](https://anilist.co/anime/154587)**<br>⭐ Score: 91/100<br>🎭 Genre: Adventure, Drama, Fantasy |
+| **#2** | <a href="https://anilist.co/anime/114129"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114129-RLgSuh6YbeYx.jpg" width="100" style="border-radius: 8px;"></a> | **[Gintama: THE FINAL](https://anilist.co/anime/114129)**<br>⭐ Score: 91/100<br>🎭 Genre: Action, Comedy, Drama, Sci-Fi |
+| **#3** | <a href="https://anilist.co/anime/20996"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20996-kBEGEGdeK1r7.jpg" width="100" style="border-radius: 8px;"></a> | **[Gintama°](https://anilist.co/anime/20996)**<br>⭐ Score: 90/100<br>🎭 Genre: Action, Comedy, Drama, Sci-Fi |
+| **#4** | <a href="https://anilist.co/anime/171627"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171627-ZN9D7P46yHnw.png" width="100" style="border-radius: 8px;"></a> | **[Chainsaw Man: Reze-hen](https://anilist.co/anime/171627)**<br>⭐ Score: 90/100<br>🎭 Genre: Action, Drama, Horror, Romance, Supernatural |
+| **#5** | <a href="https://anilist.co/anime/5114"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5114-nSWCgQlmOMtj.jpg" width="100" style="border-radius: 8px;"></a> | **[Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST](https://anilist.co/anime/5114)**<br>⭐ Score: 90/100<br>🎭 Genre: Action, Adventure, Drama, Fantasy |
+| **#6** | <a href="https://anilist.co/anime/182469"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182469-JQ808NBPxmgn.jpg" width="100" style="border-radius: 8px;"></a> | **[ONE PIECE FAN LETTER](https://anilist.co/anime/182469)**<br>⭐ Score: 90/100<br>🎭 Genre: Action, Adventure, Fantasy |
+| **#7** | <a href="https://anilist.co/anime/104578"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-k61nx3LPjvgd.jpg" width="100" style="border-radius: 8px;"></a> | **[Shingeki no Kyojin Season 3 Part 2](https://anilist.co/anime/104578)**<br>⭐ Score: 90/100<br>🎭 Genre: Action, Drama, Fantasy, Mystery |
+| **#8** | <a href="https://anilist.co/anime/124194"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124194-TJlqMMR7BGn9.jpg" width="100" style="border-radius: 8px;"></a> | **[Fruits Basket: The Final](https://anilist.co/anime/124194)**<br>⭐ Score: 89/100<br>🎭 Genre: Comedy, Drama, Psychological, Romance, Slice of Life, Supernatural |
+| **#9** | <a href="https://anilist.co/anime/11061"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11061-y5gsT1hoHuHw.png" width="100" style="border-radius: 8px;"></a> | **[HUNTER×HUNTER (2011)](https://anilist.co/anime/11061)**<br>⭐ Score: 89/100<br>🎭 Genre: Action, Adventure, Fantasy |
+| **#10** | <a href="https://anilist.co/anime/9253"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-tIUXF2gfU8Sg.jpg" width="100" style="border-radius: 8px;"></a> | **[Steins;Gate](https://anilist.co/anime/9253)**<br>⭐ Score: 89/100<br>🎭 Genre: Drama, Psychological, Sci-Fi, Thriller |

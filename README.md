@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.41.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.44.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -10,43 +10,48 @@
 ---
 
 ### 📅 Jadwal Rilis Hari Ini: **Minggu**
-| Waktu (JST) | Judul Anime | Genre |
-| :---: | --- | --- |
-| `07:00` | **[Kumarba Season 3](https://myanimelist.net/anime/63383/Kumarba_Season_3)** | *-* |
-| `08:30` | **[Tomica to Tom (TV)](https://myanimelist.net/anime/62083/Tomica_to_Tom_TV)** | *Slice of Life* |
-| `07:00` | **[Shou 3 Ashibe QQ Goma-chan](https://myanimelist.net/anime/62933/Shou_3_Ashibe_QQ_Goma-chan)** | *Comedy* |
-| `TBA` | **[Manul no Yuube](https://myanimelist.net/anime/38776/Manul_no_Yuube)** | *Slice of Life* |
-| `09:30` | **[Onegai AiPri](https://myanimelist.net/anime/63352/Onegai_AiPri)** | *-* |
-| `08:30` | **[Meitantei Precure!](https://myanimelist.net/anime/63042/Meitantei_Precure)** | *Action, Mystery* |
-| `22:30` | **[Mahou no Shimai Lulutto Lilly](https://myanimelist.net/anime/59176/Mahou_no_Shimai_Lulutto_Lilly)** | *-* |
-| `08:00` | **[Koupen-chan](https://myanimelist.net/anime/60534/Koupen-chan)** | *Slice of Life* |
-| `18:00` | **[Chibi Maruko-chan (1995)](https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995)** | *Comedy* |
-| `18:30` | **[Sazae-san](https://myanimelist.net/anime/2406/Sazae-san)** | *Comedy* |
+| Poster | Jam (WIB) | Judul Anime | Genre |
+| :---: | :---: | --- | --- |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png" width="45" style="border-radius: 4px;"> | `05.00` | **[Odekake Kozame Season 2](https://anilist.co/anime/204269)** | *Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png" width="45" style="border-radius: 4px;"> | `05.00` | **[Shou 3 Ashibe QQ Goma-chan](https://anilist.co/anime/202386)** | *Comedy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png" width="45" style="border-radius: 4px;"> | `05.00` | **[Kumarba Season 3](https://anilist.co/anime/206950)** | *Action, Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg" width="45" style="border-radius: 4px;"> | `06.00` | **[Koupen-chan](https://anilist.co/anime/185646)** | *Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg" width="45" style="border-radius: 4px;"> | `06.30` | **[Meitantei Precure!](https://anilist.co/anime/202957)** | *Mahou Shoujo, Mystery* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg" width="45" style="border-radius: 4px;"> | `07.00` | **[DIGIMON BEATBREAK](https://anilist.co/anime/188388)** | *Action, Adventure, Fantasy, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg" width="45" style="border-radius: 4px;"> | `07.30` | **[Onegai AiPri](https://anilist.co/anime/206523)** | *Music* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205905-lbDVh7foIfjt.jpg" width="45" style="border-radius: 4px;"> | `09.00` | **[Guangyin Zhi Wai](https://anilist.co/anime/205905)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg" width="45" style="border-radius: 4px;"> | `09.00` | **[Dou Po Cangqiong: Nian Fan 4](https://anilist.co/anime/196613)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)** | *Action, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg" width="45" style="border-radius: 4px;"> | `11.00` | **[Niwatori Fighter](https://anilist.co/anime/179813)** | *Action, Adventure, Comedy, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg" width="45" style="border-radius: 4px;"> | `14.30` | **[Tsue to Tsurugi no Wistoria Season 2](https://anilist.co/anime/182300)** | *Action, Adventure, Drama, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg" width="45" style="border-radius: 4px;"> | `15.00` | **[Yozakura-san Chi no Daisakusen 2nd Season](https://anilist.co/anime/182578)** | *Action, Comedy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png" width="45" style="border-radius: 4px;"> | `15.30` | **[Diamond no Ace act II: Second Season](https://anilist.co/anime/177634)** | *Sports* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png" width="45" style="border-radius: 4px;"> | `16.00` | **[Holo no Graffiti](https://anilist.co/anime/118123)** | *Action, Adventure, Comedy* |
 
-### 📥 Update Rilisan Terbaru (1080p)
-> *Diambil langsung dari radar Animetosho & Nyaa.*
+### 📥 Rilisan Terbaru (1080p)
+> *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Lupin III - The Legend of the Gold of Babylon (1985) (BDR...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iii-legend-gold-babylon-1985-bdrip-1920x1080p.n2107640) • [🐱 Nyaa](https://nyaa.si/?q=VUSGIESK7OWHR22H3BZMSCIHLHC5EER6) |
-| `[Piyoko] Onegai AiPri - 05 [WEB AMZN 1080p h264 AC3 2.0]` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/piyoko-onegai-aipri-05-web-amzn-1080p-h264.n2107633) • [🐱 Nyaa](https://nyaa.si/?q=DUQW7UQFAGV3ME547VGCEM64AOO56HNU) |
-| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/judas-hokuto-no-ken-2026-fist-north-star.n2107629) • [🐱 Nyaa](https://nyaa.si/?q=2NE4ZPECGYGGQTIQK4SAUYG5ANCNZ3XZ) |
-| `[CrappySubs] MARRIAGETOXIN - S01E02 - (WEB 1080p H.264 AA...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/crappysubs-marriagetoxin-s01e02-web-1080p-h-264-aac-88b2a4d1.k10902684915717) • [🐱 Nyaa](https://nyaa.si/?q=SIICWPC43IZ2ZALH5W5ZTCLYFPNNXXRJ) |
-| `[Joseki] Turn A Gundam S01 (1999)(BD AV1 1080p Opus)[Sub ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/joseki-turn-gundam-s01-1999-bd-av1-1080p.n2107627) • [🐱 Nyaa](https://nyaa.si/?q=LCB77M35UPPR6MWIMGC3SCOLUEIPSOM6) |
-| `[ak-Submarines] Girls und Panzer - Princess Samurai - Pil...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/ak-submarines-girls-und-panzer-princess-samurai-pilot.n2107626) • [🐱 Nyaa](https://nyaa.si/?q=R4N5DCJXJA5ETCBTDU6SUJFHOSQBB7AU) |
-| `Lupin III - Dead or Alive (1996) (BDRip 1920x1080p x265 H...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iii-dead-alive-1996-bdrip-1920x1080p-x265.n2107625) • [🐱 Nyaa](https://nyaa.si/?q=EBTUVQU5TH6NGJJ7A6SIMGXFSLGKWIEO) |
-| `[SavI0r-Pro] Hibi wa Sugiredo Meshi Umashi (Food for the ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/savi0r-pro-hibi-wa-sugiredo-meshi-umashi-food.n2107624) • [🐱 Nyaa](https://nyaa.si/?q=JFUPASPM33GFXWO3JTMVMTKYC4XHIHDL) |
-| `Lupin III - Farewell to Nostradamus (1995) (BDRip 1920x10...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/lupin-iii-farewell-nostradamus-1995-bdrip-1920x1080p-x265.n2107617) • [🐱 Nyaa](https://nyaa.si/?q=Y6CSIO36ASJPGVH46KWDZCFRGUC3MTO2) |
-| `[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi (01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jingai-kyoushitsu-no-ningengirai-kyoushi-01-13.n2107616) • [🐱 Nyaa](https://nyaa.si/?q=KE7UJTNK2EBIE4GCXPLDOCB2HLNQUT5G) |
-| `[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi (01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jingai-kyoushitsu-no-ningengirai-kyoushi-01-13.n2107615) • [🐱 Nyaa](https://nyaa.si/?q=ZHNPZTFHFHB3ISSGDWUND554ZXVAWM65) |
-| `[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi (01...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-jingai-kyoushitsu-no-ningengirai-kyoushi-01-13.n2107614) • [🐱 Nyaa](https://nyaa.si/?q=E46KYNNY6BW4KSHNGIBSLS2ECFYXKTCC) |
-| `[Erai-raws] Snowball Earth - 06 [1080p CR WEBRip HEVC AAC...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/erai-raws-snowball-earth-06-1080p-cr-webrip.n2107613) • [🐱 Nyaa](https://nyaa.si/?q=X5AYRD74U6O7DY5SD3D3HIY7DV3WU7KZ) |
-| `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (1080p)...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-1080p-batch.n2107610) • [🐱 Nyaa](https://nyaa.si/?q=74T5X7WE5QAOYEFZ7N3QY75KP2S3PSNN) |
-| `[SubsPlease] Kirei ni Shite Moraemasu ka. (01-12) (720p) ...` | **NaN MB** | [🌐 Tosho](https://animetosho.org/view/subsplease-kirei-ni-shite-moraemasu-ka-01-12-720p-batch.n2107609) • [🐱 Nyaa](https://nyaa.si/?q=COSOI7NKRDHBX6KMGDTOUJRRNUQE2EWM) |
+| `[Erai-raws] Kanan-sama wa Akumade Choroi - 09 [1080p CR WEBRip HEVC...` | **586.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/612926) • [🐱 Nyaa](https://nyaa.si/view/2116144) |
+| `[Erai-raws] Mao - 09 [1080p DSNP WEB-DL AVC AAC][MultiSub][D93FF765]` | **884.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612925) • [🐱 Nyaa](https://nyaa.si/view/2116139) |
+| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 09 [1080p CR WEBRip HE...` | **378.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612920) • [🐱 Nyaa](https://nyaa.si/view/2116138) |
+| `[ToonsHub] MAO S01E09 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **884.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612921) • [🐱 Nyaa](https://nyaa.si/view/2116137) |
+| `MAO S01E09 Kamon 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Maoyuu Maou ...` | **884.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612922) • [🐱 Nyaa](https://nyaa.si/view/2116136) |
+| `[Erai-raws] Needy Girl Overdose - 09 [1080p CR WEBRip HEVC AAC][Mul...` | **673.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/612919) • [🐱 Nyaa](https://nyaa.si/view/2116133) |
+| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 08 [1080p AMZN WEBRip HEVC...` | **315.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/612918) • [🐱 Nyaa](https://nyaa.si/view/2116128) |
+| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly ...` | **328.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612917) • [🐱 Nyaa](https://nyaa.si/view/2116127) |
+| `[DKB] Kill Ao - S01E08 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **485.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/612916) • [🐱 Nyaa](https://nyaa.si/view/2116114) |
+| `[Judas] Kami no Niwatsuki Kusunoki-tei (Kusunoki's Garden of Gods) ...` | **235.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612915) • [🐱 Nyaa](https://nyaa.si/view/2116113) |
+| `[Onalrie] Yuusha no Kuzu - S01E20 [1080p WEBRip AV1]` | **272.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/612914) • [🐱 Nyaa](https://onalrie.app/torrent/19a8c58d-3680-4f57-a46f-0f452c1c702c) |
+| `[ASW] NEEDY GIRL OVERDOSE - 09 [1080p HEVC x265 10Bit][AAC]` | **510.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/612910) • [🐱 Nyaa](https://nyaa.si/view/2116111) |
+| `[ASW] Yuusha no Kuzu - 20 [1080p HEVC x265 10Bit][AAC]` | **364.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/612911) • [🐱 Nyaa](https://nyaa.si/view/2116110) |
+| `[Erai-raws] Akane-banashi - 04 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **414.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/612912) • [🐱 Nyaa](https://nyaa.si/view/2116109) |
+| `Ichijyoma Mankitsu Gurashi S01E08 Aiming for the Top The Amamiya Sp...` | **830.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612913) • [🐱 Nyaa](https://nyaa.si/view/2116106) |
 
 ---
 <div align="center">
 
-*System Automated by [zertcihuyy](https://github.com/ZertCihuyy) | Dukung proyek ini di [Sociabuzz](https://sociabuzz.com/zerty_/support)*
+*System Automated by [ZertCihuyy](https://github.com/ZertCihuyy) | Dukung proyek ini di [Sociabuzz](https://sociabuzz.com/zerty_/support)*
 
 </div>
