@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.24.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.34.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Digimon Beatbreak S01E22 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612967) • [🐱 Nyaa](https://nyaa.si/view/2116272) |
-| `[ToonsHub] Digimon Beatbreak S01E21 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612966) • [🐱 Nyaa](https://nyaa.si/view/2116268) |
-| `[ToonsHub] Digimon Beatbreak S01E20 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612964) • [🐱 Nyaa](https://nyaa.si/view/2116259) |
-| `[ToonsHub] Digimon Beatbreak S01E19 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612965) • [🐱 Nyaa](https://nyaa.si/view/2116258) |
-| `[ToonsHub] Digimon Beatbreak S01E18 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1411.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/612963) • [🐱 Nyaa](https://nekobt.to/torrents/11395587296014) |
-| `[ToonsHub] Digimon Beatbreak S01E17 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612961) • [🐱 Nyaa](https://nyaa.si/view/2116255) |
-| `[ToonsHub] Digimon Beatbreak S01E16 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612962) • [🐱 Nyaa](https://nyaa.si/view/2116254) |
-| `[ToonsHub] Rooster Fighter S01E12 1080p AS WEB-DL AAC2.0 H.264 (Niw...` | **853.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612960) • [🐱 Nyaa](https://nyaa.si/view/2116229) |
-| `[ASW] Digimon Beatbreak - 33 [1080p HEVC x265 10Bit][AAC]` | **410.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/612959) • [🐱 Nyaa](https://nyaa.si/view/2116227) |
-| `[Yameii] Digimon Beatbreak - S01E25 [English Dub] [CR WEB-DL 1080p ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612958) • [🐱 Nyaa](https://nyaa.si/view/2116225) |
-| `[Yameii] Digimon Beatbreak - S01E24 [English Dub] [CR WEB-DL 1080p ...` | **1375.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/612957) • [🐱 Nyaa](https://nekobt.to/torrents/11394147701768) |
-| `[Yameii] Digimon Beatbreak - S01E23 [English Dub] [CR WEB-DL 1080p ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612954) • [🐱 Nyaa](https://nyaa.si/view/2116217) |
-| `Digimon Beatbreak S01E33 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612955) • [🐱 Nyaa](https://nyaa.si/view/2116215) |
-| `[Yameii] Digimon Beatbreak - S01E22 [English Dub] [CR WEB-DL 1080p ...` | **1377.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/612953) • [🐱 Nyaa](https://nekobt.to/torrents/11393847465986) |
-| `[SubsPlease] Digimon Beatbreak - 33 (1080p) [89480693].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612956) • [🐱 Nyaa](https://nyaa.si/view/2116209) |
+| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E08 [1080p WEBRip AV1]` | **246.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/613018) • [🐱 Nyaa](https://onalrie.app/torrent/db36c7b1-6944-4ff1-9358-10d7198ea8bb) |
+| `[ASW] Niwatori Fighter - 12 [1080p HEVC x265 10Bit][AAC]` | **404.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613009) • [🐱 Nyaa](https://nyaa.si/view/2116336) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 09 (1080p) [6E8FBA8D].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613010) • [🐱 Nyaa](https://nyaa.si/view/2116335) |
+| `[ToonsHub] Ace of Diamond S04E09 1080p CR WEB-DL AAC2.0 H.264 (Diam...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613011) • [🐱 Nyaa](https://nyaa.si/view/2116334) |
+| `Ace of the Diamond S04E09 High Voltage 1080p CR WEB-DL AAC2.0 H 264...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613013) • [🐱 Nyaa](https://nyaa.si/view/2116332) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 09 [1080p CR WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613017) • [🐱 Nyaa](https://nyaa.si/view/2116327) |
+| `[Onalrie] Niwatori Fighter - S01E12 [1080p WEBRip AV1]` | **290.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613008) • [🐱 Nyaa](https://onalrie.app/torrent/a8fb0900-922f-4637-b628-4907c0227468) |
+| `[ToonsHub] Wistoria Wand and Sword S02E05 1080p CR WEB-DL MULTi AAC...` | **1704.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/613006) • [🐱 Nyaa](https://nekobt.to/torrents/11398977146635) |
+| `[ToonsHub] Wistoria Wand and Sword S02E06 1080p CR WEB-DL DUAL AAC2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612992) • [🐱 Nyaa](https://nyaa.si/view/2116325) |
+| `[ToonsHub] Wistoria Wand and Sword S02E08 1080p CR WEB-DL AAC2.0 H....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612993) • [🐱 Nyaa](https://nyaa.si/view/2116324) |
+| `[ToonsHub] Wistoria Wand and Sword S02E08 1080p NF WEB-DL AAC2.0 H....` | **874.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612994) • [🐱 Nyaa](https://nyaa.si/view/2116323) |
+| `[Yameii] Wistoria: Wand and Sword - S02E06 [English Dub] [CR WEB-DL...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612995) • [🐱 Nyaa](https://nyaa.si/view/2116322) |
+| `Wistoria Wand and Sword S02E08 Teachings of the Witch 1080p CR WEB-...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612997) • [🐱 Nyaa](https://nyaa.si/view/2116320) |
+| `Wistoria Wand and Sword S02E06 The First Bloom 1080p CR WEB-DL DUAL...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612998) • [🐱 Nyaa](https://nyaa.si/view/2116319) |
+| `[SubsPlease] Tsue to Tsurugi no Wistoria S2 - 08 (1080p) [66FDF30D]...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612999) • [🐱 Nyaa](https://nyaa.si/view/2116317) |
 
 ---
 <div align="center">
