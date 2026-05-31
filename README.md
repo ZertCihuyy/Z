@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.55.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.24.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlease] Meitantei Precure! - 18 (1080p) [DAA83789].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612936) • [🐱 Nyaa](https://nyaa.si/view/2116180) |
-| `[Erai-raws] Meitantei Precure - 18 [1080p CR WEB-DL AVC AAC][021683D7]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612941) • [🐱 Nyaa](https://nyaa.si/view/2116175) |
-| `[Erai-raws] Yuusha no Kuzu - 20 [1080p CR WEBRip HEVC AAC][MultiSub...` | **608.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/612942) • [🐱 Nyaa](https://nyaa.si/view/2116173) |
-| `[ToonsHub] Onegai AiPri S01E09 1080p AMZN WEB-DL DDP2.0 H.264` | **926.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/612935) • [🐱 Nyaa](https://nekobt.to/torrents/11391934180611) |
-| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 10 [1080p CR WEB...` | **555.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/612934) • [🐱 Nyaa](https://nyaa.si/view/2116156) |
-| `[DKB] MAO - S01E09 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **354.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612933) • [🐱 Nyaa](https://nyaa.si/view/2116154) |
-| `[Erai-raws] Mao - 09 [1080p DSNP WEBRip HEVC AAC][MultiSub][8787FA0A]` | **359.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612932) • [🐱 Nyaa](https://nyaa.si/view/2116151) |
-| `[ToonsHub] Koupen-chan S01E61 1080p AMZN WEB-DL DDP2.0 H.264` | **100.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/612931) • [🐱 Nyaa](https://nekobt.to/torrents/11390165597954) |
-| `[DKB] Akane-banashi - S01E09 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **318.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612927) • [🐱 Nyaa](https://nyaa.si/view/2116148) |
-| `[DKB] Kanan-sama wa Akumade Choroi - S01E09 [1080p][HEVC x265 10bit...` | **369.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/612928) • [🐱 Nyaa](https://nyaa.si/view/2116147) |
-| `[DKB] Needy Girl Overdose - S01E09 [1080p][HEVC x265 10bit][Multi-S...` | **651.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612929) • [🐱 Nyaa](https://nyaa.si/view/2116146) |
-| `[ToonsHub] Shou 3 Ashibe QQ Goma-chan S01E08 1080p AMZN WEB-DL DDP2...` | **71.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/612930) • [🐱 Nyaa](https://nekobt.to/torrents/11389625492995) |
-| `[Erai-raws] Kanan-sama wa Akumade Choroi - 09 [1080p CR WEBRip HEVC...` | **586.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/612926) • [🐱 Nyaa](https://nyaa.si/view/2116144) |
-| `[Erai-raws] Mao - 09 [1080p DSNP WEB-DL AVC AAC][MultiSub][D93FF765]` | **884.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612925) • [🐱 Nyaa](https://nyaa.si/view/2116139) |
-| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 09 [1080p CR WEBRip HE...` | **378.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612920) • [🐱 Nyaa](https://nyaa.si/view/2116138) |
+| `[ToonsHub] Digimon Beatbreak S01E22 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612967) • [🐱 Nyaa](https://nyaa.si/view/2116272) |
+| `[ToonsHub] Digimon Beatbreak S01E21 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612966) • [🐱 Nyaa](https://nyaa.si/view/2116268) |
+| `[ToonsHub] Digimon Beatbreak S01E20 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612964) • [🐱 Nyaa](https://nyaa.si/view/2116259) |
+| `[ToonsHub] Digimon Beatbreak S01E19 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612965) • [🐱 Nyaa](https://nyaa.si/view/2116258) |
+| `[ToonsHub] Digimon Beatbreak S01E18 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1411.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/612963) • [🐱 Nyaa](https://nekobt.to/torrents/11395587296014) |
+| `[ToonsHub] Digimon Beatbreak S01E17 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612961) • [🐱 Nyaa](https://nyaa.si/view/2116255) |
+| `[ToonsHub] Digimon Beatbreak S01E16 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612962) • [🐱 Nyaa](https://nyaa.si/view/2116254) |
+| `[ToonsHub] Rooster Fighter S01E12 1080p AS WEB-DL AAC2.0 H.264 (Niw...` | **853.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612960) • [🐱 Nyaa](https://nyaa.si/view/2116229) |
+| `[ASW] Digimon Beatbreak - 33 [1080p HEVC x265 10Bit][AAC]` | **410.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/612959) • [🐱 Nyaa](https://nyaa.si/view/2116227) |
+| `[Yameii] Digimon Beatbreak - S01E25 [English Dub] [CR WEB-DL 1080p ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612958) • [🐱 Nyaa](https://nyaa.si/view/2116225) |
+| `[Yameii] Digimon Beatbreak - S01E24 [English Dub] [CR WEB-DL 1080p ...` | **1375.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/612957) • [🐱 Nyaa](https://nekobt.to/torrents/11394147701768) |
+| `[Yameii] Digimon Beatbreak - S01E23 [English Dub] [CR WEB-DL 1080p ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612954) • [🐱 Nyaa](https://nyaa.si/view/2116217) |
+| `Digimon Beatbreak S01E33 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612955) • [🐱 Nyaa](https://nyaa.si/view/2116215) |
+| `[Yameii] Digimon Beatbreak - S01E22 [English Dub] [CR WEB-DL 1080p ...` | **1377.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/612953) • [🐱 Nyaa](https://nekobt.to/torrents/11393847465986) |
+| `[SubsPlease] Digimon Beatbreak - 33 (1080p) [89480693].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612956) • [🐱 Nyaa](https://nyaa.si/view/2116209) |
 
 ---
 <div align="center">
