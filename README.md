@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.44.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.55.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Meitantei Precure! - 18 (1080p) [DAA83789].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612936) • [🐱 Nyaa](https://nyaa.si/view/2116180) |
+| `[Erai-raws] Meitantei Precure - 18 [1080p CR WEB-DL AVC AAC][021683D7]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612941) • [🐱 Nyaa](https://nyaa.si/view/2116175) |
+| `[Erai-raws] Yuusha no Kuzu - 20 [1080p CR WEBRip HEVC AAC][MultiSub...` | **608.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/612942) • [🐱 Nyaa](https://nyaa.si/view/2116173) |
+| `[ToonsHub] Onegai AiPri S01E09 1080p AMZN WEB-DL DDP2.0 H.264` | **926.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/612935) • [🐱 Nyaa](https://nekobt.to/torrents/11391934180611) |
+| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 10 [1080p CR WEB...` | **555.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/612934) • [🐱 Nyaa](https://nyaa.si/view/2116156) |
+| `[DKB] MAO - S01E09 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **354.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612933) • [🐱 Nyaa](https://nyaa.si/view/2116154) |
 | `[Erai-raws] Mao - 09 [1080p DSNP WEBRip HEVC AAC][MultiSub][8787FA0A]` | **359.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612932) • [🐱 Nyaa](https://nyaa.si/view/2116151) |
 | `[ToonsHub] Koupen-chan S01E61 1080p AMZN WEB-DL DDP2.0 H.264` | **100.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/612931) • [🐱 Nyaa](https://nekobt.to/torrents/11390165597954) |
 | `[DKB] Akane-banashi - S01E09 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **318.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612927) • [🐱 Nyaa](https://nyaa.si/view/2116148) |
@@ -42,12 +48,6 @@
 | `[Erai-raws] Kanan-sama wa Akumade Choroi - 09 [1080p CR WEBRip HEVC...` | **586.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/612926) • [🐱 Nyaa](https://nyaa.si/view/2116144) |
 | `[Erai-raws] Mao - 09 [1080p DSNP WEB-DL AVC AAC][MultiSub][D93FF765]` | **884.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612925) • [🐱 Nyaa](https://nyaa.si/view/2116139) |
 | `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 09 [1080p CR WEBRip HE...` | **378.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/612920) • [🐱 Nyaa](https://nyaa.si/view/2116138) |
-| `[ToonsHub] MAO S01E09 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **884.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612921) • [🐱 Nyaa](https://nyaa.si/view/2116137) |
-| `MAO S01E09 Kamon 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Maoyuu Maou ...` | **884.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/612922) • [🐱 Nyaa](https://nyaa.si/view/2116136) |
-| `[Erai-raws] Needy Girl Overdose - 09 [1080p CR WEBRip HEVC AAC][Mul...` | **673.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/612919) • [🐱 Nyaa](https://nyaa.si/view/2116133) |
-| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 08 [1080p AMZN WEBRip HEVC...` | **315.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/612918) • [🐱 Nyaa](https://nyaa.si/view/2116128) |
-| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly ...` | **328.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612917) • [🐱 Nyaa](https://nyaa.si/view/2116127) |
-| `[DKB] Kill Ao - S01E08 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **485.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/612916) • [🐱 Nyaa](https://nyaa.si/view/2116114) |
 
 ---
 <div align="center">
