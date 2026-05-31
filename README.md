@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.33.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.46.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] One Piece - 1164 [1080p CR WEBRip HEVC AAC][MultiSub][A...` | **495.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613125) • [🐱 Nyaa](https://nyaa.si/view/2116605) |
+| `[Erai-raws] One Piece - 1164 [1080p CR WEB-DL AVC AAC][MultiSub][0C...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613128) • [🐱 Nyaa](https://nyaa.si/view/2116601) |
 | `[DKB] Kuroneko to Majo no Kyoushitsu - S01E08 [1080p][HEVC x265 10b...` | **498.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613124) • [🐱 Nyaa](https://nyaa.si/view/2116589) |
 | `Digimon Beatbreak S01E33 Midsummer Ghost REPACK 1080p CR WEB-DL AAC...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613123) • [🐱 Nyaa](https://nyaa.si/view/2116584) |
 | `[DKB] Maid-san wa Taberu dake - S01E10 [1080p][HEVC x265 10bit][Mul...` | **217.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613122) • [🐱 Nyaa](https://nyaa.si/view/2116554) |
@@ -36,8 +38,6 @@
 | `[ASW] One Piece - 1164 [1080p HEVC x265 10Bit][AAC]` | **327.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613112) • [🐱 Nyaa](https://nyaa.si/view/2116521) |
 | `[Onalrie] One Piece - E1164 [1080p WEBRip AV1]` | **283.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/613111) • [🐱 Nyaa](https://onalrie.app/torrent/f602fe62-fadf-44ed-b99b-a8d448dcf419) |
 | `[ASW] Ghost Concert - missing Songs - 09 [1080p HEVC x265 10Bit][AAC]` | **428.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613110) • [🐱 Nyaa](https://nyaa.si/view/2116518) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 08 [1080p CR WEBRip HE...` | **543.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613109) • [🐱 Nyaa](https://nyaa.si/view/2116514) |
-| `[ToonsHub] One Piece EP1164 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **269.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/613107) • [🐱 Nyaa](https://nekobt.to/torrents/11406109532165) |
 
 ---
 <div align="center">
