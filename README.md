@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.58.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.52.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Nippon Sangoku - 09 [1080p AMZN WEB-DL AVC EAC3][MultiS...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613039) • [🐱 Nyaa](https://nyaa.si/view/2116396) |
-| `[ToonsHub] MilkySubway The Galactic Limited Express the Movie (2026...` | **2662.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613040) • [🐱 Nyaa](https://nyaa.si/view/2116393) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1983.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/613034) • [🐱 Nyaa](https://nekobt.to/torrents/11402097522189) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1571.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/613035) • [🐱 Nyaa](https://nekobt.to/torrents/11402073552396) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **570.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/613036) • [🐱 Nyaa](https://nekobt.to/torrents/11402054158088) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 08 [1080p D...` | **339.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613032) • [🐱 Nyaa](https://nyaa.si/view/2116382) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 09 [1080p CR WEB...` | **508.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613033) • [🐱 Nyaa](https://nyaa.si/view/2116381) |
-| `[ASW] Ace of Diamond Act II S2 - 09 [1080p HEVC x265 10Bit][AAC]` | **283.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613030) • [🐱 Nyaa](https://nyaa.si/view/2116352) |
-| `[Onalrie] Ace of Diamond Act II - S02E09 [1080p WEBRip AV1]` | **204.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/613031) • [🐱 Nyaa](https://onalrie.app/torrent/9f5bda0c-554f-4eb2-915c-f93649d42eed) |
-| `[Erai-raws] Niwatori Fighter - 12 [1080p DSNP WEB-DL AVC AAC][Multi...` | **884.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/613029) • [🐱 Nyaa](https://nekobt.to/torrents/11399872556807) |
-| `[ASW] Tsue to Tsurugi no Wistoria S2 - 08 [1080p HEVC x265 10Bit][AAC]` | **319.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613019) • [🐱 Nyaa](https://nyaa.si/view/2116347) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 08 [1080p D...` | **819.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613021) • [🐱 Nyaa](https://nyaa.si/view/2116345) |
-| `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 08 [1080p CR W...` | **387.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613023) • [🐱 Nyaa](https://nyaa.si/view/2116342) |
-| `[Erai-raws] Niwatori Fighter - 12 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613026) • [🐱 Nyaa](https://nyaa.si/view/2116339) |
-| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E08 [1080p WEBRip AV1]` | **246.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/613018) • [🐱 Nyaa](https://onalrie.app/torrent/db36c7b1-6944-4ff1-9358-10d7198ea8bb) |
+| `[ToonsHub] Kirio Fan Club S01E05 1080p VIKI WEB-DL AAC2.0 H.264 (Mu...` | **179.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/613067) • [🐱 Nyaa](https://nekobt.to/torrents/11404432829967) |
+| `[ToonsHub] NEEDY GIRL OVERDOSE S01E09 1080p CR WEB-DL AAC2.0 H.264 ...` | **1475.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/613068) • [🐱 Nyaa](https://nekobt.to/torrents/11404361773836) |
+| `[Judas] Niwatori Fighter (Rooster Fighter) - S01E12 [1080p][HEVC x2...` | **380.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613060) • [🐱 Nyaa](https://nyaa.si/view/2116437) |
+| `[Judas] Dia no Ace (Ace of the Diamond) - S04E09 [1080p][HEVC x265 ...` | **283.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613061) • [🐱 Nyaa](https://nyaa.si/view/2116434) |
+| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sword) - S02...` | **316.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613062) • [🐱 Nyaa](https://nyaa.si/view/2116433) |
+| `[Judas] Digimon Beatbreak - S01E33 [1080p][HEVC x265 10bit][Eng-Sub...` | **404.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613063) • [🐱 Nyaa](https://nyaa.si/view/2116432) |
+| `[VARYG] MilkySubway The Galactic Limited Express the Movie 2026 108...` | **3205.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/613052) • [🐱 Nyaa](https://nekobt.to/torrents/11403934986509) |
+| `[VARYG] The Food Diary of Miss Maid S01E10 Thousand-Year Candy Corn...` | **1405.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/613053) • [🐱 Nyaa](https://nekobt.to/torrents/11403933356815) |
+| `[VARYG] MilkySubway The Galactic Limited Express the Movie 2026 108...` | **2588.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/613054) • [🐱 Nyaa](https://nekobt.to/torrents/11403929633803) |
+| `[SubsPlease] Maid-san wa Taberu Dake - 10 (1080p) [A2F288BB].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613064) • [🐱 Nyaa](https://nyaa.si/view/2116428) |
+| `[ToonsHub] Magical Sisters LuluttoLilly S01E09 1080p AMZN WEB-DL DD...` | **525.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/613055) • [🐱 Nyaa](https://nekobt.to/torrents/11403912465417) |
+| `[ToonsHub] The Food Diary of Miss Maid S01E10 1080p CR WEB-DL AAC2....` | **1426.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/613056) • [🐱 Nyaa](https://nekobt.to/torrents/11403911864842) |
+| `[Erai-raws] Maid-san wa Taberu dake - 10 [1080p CR WEB-DL AVC AAC][...` | **1388.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/613059) • [🐱 Nyaa](https://nekobt.to/torrents/11403895913481) |
+| `[DKB] Niwatori Fighter - S01E12 [1080p][END][HEVC x265 10bit][Multi...` | **559.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613049) • [🐱 Nyaa](https://nyaa.si/view/2116416) |
+| `[DKB] Tsue to Tsurugi no Wistoria - S02E08 [1080p][HEVC x265 10bit]...` | **429.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613050) • [🐱 Nyaa](https://nyaa.si/view/2116415) |
 
 ---
 <div align="center">
