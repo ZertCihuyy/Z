@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.52.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.15.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Kirio Fan Club S01E05 1080p VIKI WEB-DL AAC2.0 H.264 (Mu...` | **179.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/613067) • [🐱 Nyaa](https://nekobt.to/torrents/11404432829967) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E09 1080p CR WEB-DL AAC2.0 H.264 ...` | **1475.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/613068) • [🐱 Nyaa](https://nekobt.to/torrents/11404361773836) |
-| `[Judas] Niwatori Fighter (Rooster Fighter) - S01E12 [1080p][HEVC x2...` | **380.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613060) • [🐱 Nyaa](https://nyaa.si/view/2116437) |
-| `[Judas] Dia no Ace (Ace of the Diamond) - S04E09 [1080p][HEVC x265 ...` | **283.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613061) • [🐱 Nyaa](https://nyaa.si/view/2116434) |
-| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sword) - S02...` | **316.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613062) • [🐱 Nyaa](https://nyaa.si/view/2116433) |
-| `[Judas] Digimon Beatbreak - S01E33 [1080p][HEVC x265 10bit][Eng-Sub...` | **404.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613063) • [🐱 Nyaa](https://nyaa.si/view/2116432) |
-| `[VARYG] MilkySubway The Galactic Limited Express the Movie 2026 108...` | **3205.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/613052) • [🐱 Nyaa](https://nekobt.to/torrents/11403934986509) |
-| `[VARYG] The Food Diary of Miss Maid S01E10 Thousand-Year Candy Corn...` | **1405.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/613053) • [🐱 Nyaa](https://nekobt.to/torrents/11403933356815) |
-| `[VARYG] MilkySubway The Galactic Limited Express the Movie 2026 108...` | **2588.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/613054) • [🐱 Nyaa](https://nekobt.to/torrents/11403929633803) |
-| `[SubsPlease] Maid-san wa Taberu Dake - 10 (1080p) [A2F288BB].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613064) • [🐱 Nyaa](https://nyaa.si/view/2116428) |
-| `[ToonsHub] Magical Sisters LuluttoLilly S01E09 1080p AMZN WEB-DL DD...` | **525.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/613055) • [🐱 Nyaa](https://nekobt.to/torrents/11403912465417) |
-| `[ToonsHub] The Food Diary of Miss Maid S01E10 1080p CR WEB-DL AAC2....` | **1426.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/613056) • [🐱 Nyaa](https://nekobt.to/torrents/11403911864842) |
-| `[Erai-raws] Maid-san wa Taberu dake - 10 [1080p CR WEB-DL AVC AAC][...` | **1388.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/613059) • [🐱 Nyaa](https://nekobt.to/torrents/11403895913481) |
-| `[DKB] Niwatori Fighter - S01E12 [1080p][END][HEVC x265 10bit][Multi...` | **559.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613049) • [🐱 Nyaa](https://nyaa.si/view/2116416) |
-| `[DKB] Tsue to Tsurugi no Wistoria - S02E08 [1080p][HEVC x265 10bit]...` | **429.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613050) • [🐱 Nyaa](https://nyaa.si/view/2116415) |
+| `[VARYG] One Piece S01E1164 1080p CR WEB-DL AAC2.0 H.264` | **1380.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/613098) • [🐱 Nyaa](https://nekobt.to/torrents/11405759557890) |
+| `[ToonsHub] One Piece EP1164 1080p CR WEB-DL AAC2.0 H.264 (English-Sub)` | **1380.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/613099) • [🐱 Nyaa](https://nekobt.to/torrents/11405751165442) |
+| `[Erai-raws] One Piece - 1164 [1080p CR WEB-DL AVC AAC][48A80E4B]` | **1380.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/613102) • [🐱 Nyaa](https://nekobt.to/torrents/11405738414595) |
+| `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of a Black Ca...` | **385.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613093) • [🐱 Nyaa](https://nyaa.si/view/2116495) |
+| `[ASW] Kuroneko to Majo no Kyoushitsu - 08 [1080p HEVC x265 10Bit][AAC]` | **399.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613094) • [🐱 Nyaa](https://nyaa.si/view/2116494) |
+| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E08 [1080p WEBRip AV1]` | **261.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/613103) • [🐱 Nyaa](https://onalrie.app/torrent/5fa5fbfc-309c-4093-928e-ce16719d4436) |
+| `[VARYG] GHOST CONCERT missing Songs S01E09 Master Thyself-Rule Thro...` | **1405.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/613087) • [🐱 Nyaa](https://nekobt.to/torrents/11405322046209) |
+| `[Erai-raws] Maid-san wa Taberu dake - 10 [1080p CR WEBRip HEVC AAC]...` | **346.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/613088) • [🐱 Nyaa](https://nekobt.to/torrents/11405321844751) |
+| `[SubsPlease] Ghost Concert - missing Songs - 09 (1080p) [51D91497].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613095) • [🐱 Nyaa](https://nyaa.si/view/2116482) |
+| `[ToonsHub] GHOST CONCERT missing Songs S01E09 1080p CR WEB-DL AAC2....` | **1404.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/613089) • [🐱 Nyaa](https://nekobt.to/torrents/11405292910336) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 09 [1080p CR WEB-DL AVC ...` | **1388.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/613092) • [🐱 Nyaa](https://nekobt.to/torrents/11405277906692) |
+| `[Onalrie] Maid-san wa Taberu Dake - S01E10 [1080p WEBRip AV1]` | **154.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613081) • [🐱 Nyaa](https://onalrie.app/torrent/6291146c-a2ca-4e9e-a6cb-7040056ac3de) |
+| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E08 1080p CR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613073) • [🐱 Nyaa](https://nyaa.si/view/2116461) |
+| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 08 (1080p) [913D8F7C]...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613074) • [🐱 Nyaa](https://nyaa.si/view/2116458) |
+| `The Classroom of a Black Cat and a Witch S01E08 1080p CR WEB-DL AAC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613075) • [🐱 Nyaa](https://nyaa.si/view/2116457) |
 
 ---
 <div align="center">
