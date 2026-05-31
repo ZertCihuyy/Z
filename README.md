@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.21.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.58.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Nippon Sangoku - 09 [1080p AMZN WEB-DL AVC EAC3][MultiS...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613039) • [🐱 Nyaa](https://nyaa.si/view/2116396) |
+| `[ToonsHub] MilkySubway The Galactic Limited Express the Movie (2026...` | **2662.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613040) • [🐱 Nyaa](https://nyaa.si/view/2116393) |
+| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1983.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/613034) • [🐱 Nyaa](https://nekobt.to/torrents/11402097522189) |
+| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1571.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/613035) • [🐱 Nyaa](https://nekobt.to/torrents/11402073552396) |
+| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **570.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/613036) • [🐱 Nyaa](https://nekobt.to/torrents/11402054158088) |
+| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 08 [1080p D...` | **339.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613032) • [🐱 Nyaa](https://nyaa.si/view/2116382) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 09 [1080p CR WEB...` | **508.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613033) • [🐱 Nyaa](https://nyaa.si/view/2116381) |
 | `[ASW] Ace of Diamond Act II S2 - 09 [1080p HEVC x265 10Bit][AAC]` | **283.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613030) • [🐱 Nyaa](https://nyaa.si/view/2116352) |
 | `[Onalrie] Ace of Diamond Act II - S02E09 [1080p WEBRip AV1]` | **204.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/613031) • [🐱 Nyaa](https://onalrie.app/torrent/9f5bda0c-554f-4eb2-915c-f93649d42eed) |
 | `[Erai-raws] Niwatori Fighter - 12 [1080p DSNP WEB-DL AVC AAC][Multi...` | **884.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/613029) • [🐱 Nyaa](https://nekobt.to/torrents/11399872556807) |
@@ -41,13 +48,6 @@
 | `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 08 [1080p CR W...` | **387.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613023) • [🐱 Nyaa](https://nyaa.si/view/2116342) |
 | `[Erai-raws] Niwatori Fighter - 12 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613026) • [🐱 Nyaa](https://nyaa.si/view/2116339) |
 | `[Onalrie] Tsue to Tsurugi no Wistoria - S02E08 [1080p WEBRip AV1]` | **246.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/613018) • [🐱 Nyaa](https://onalrie.app/torrent/db36c7b1-6944-4ff1-9358-10d7198ea8bb) |
-| `[ASW] Niwatori Fighter - 12 [1080p HEVC x265 10Bit][AAC]` | **404.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613009) • [🐱 Nyaa](https://nyaa.si/view/2116336) |
-| `[SubsPlease] Ace of Diamond Act II S2 - 09 (1080p) [6E8FBA8D].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613010) • [🐱 Nyaa](https://nyaa.si/view/2116335) |
-| `[ToonsHub] Ace of Diamond S04E09 1080p CR WEB-DL AAC2.0 H.264 (Diam...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613011) • [🐱 Nyaa](https://nyaa.si/view/2116334) |
-| `Ace of the Diamond S04E09 High Voltage 1080p CR WEB-DL AAC2.0 H 264...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613013) • [🐱 Nyaa](https://nyaa.si/view/2116332) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 09 [1080p CR WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613017) • [🐱 Nyaa](https://nyaa.si/view/2116327) |
-| `[Onalrie] Niwatori Fighter - S01E12 [1080p WEBRip AV1]` | **290.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613008) • [🐱 Nyaa](https://onalrie.app/torrent/a8fb0900-922f-4637-b628-4907c0227468) |
-| `[ToonsHub] Wistoria Wand and Sword S02E05 1080p CR WEB-DL MULTi AAC...` | **1704.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/613006) • [🐱 Nyaa](https://nekobt.to/torrents/11398977146635) |
 
 ---
 <div align="center">
