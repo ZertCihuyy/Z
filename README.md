@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.14.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.17.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E08 [1080p][HEVC x265 10b...` | **498.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613124) • [🐱 Nyaa](https://nyaa.si/view/2116589) |
 | `Digimon Beatbreak S01E33 Midsummer Ghost REPACK 1080p CR WEB-DL AAC...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613123) • [🐱 Nyaa](https://nyaa.si/view/2116584) |
 | `[DKB] Maid-san wa Taberu dake - S01E10 [1080p][HEVC x265 10bit][Mul...` | **217.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613122) • [🐱 Nyaa](https://nyaa.si/view/2116554) |
 | `[DKB] Nippon Sangoku - S01E09 [1080p][HEVC x265 10bit][Dual-Audio][...` | **766.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613120) • [🐱 Nyaa](https://nyaa.si/view/2116550) |
@@ -37,7 +38,6 @@
 | `[ASW] Ghost Concert - missing Songs - 09 [1080p HEVC x265 10Bit][AAC]` | **428.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613110) • [🐱 Nyaa](https://nyaa.si/view/2116518) |
 | `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 08 [1080p CR WEBRip HE...` | **543.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613109) • [🐱 Nyaa](https://nyaa.si/view/2116514) |
 | `[ToonsHub] One Piece EP1164 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **269.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/613107) • [🐱 Nyaa](https://nekobt.to/torrents/11406109532165) |
-| `[Onalrie] Ghost Concert - missing Songs - S01E09 [1080p WEBRip AV1]` | **275.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/613108) • [🐱 Nyaa](https://onalrie.app/torrent/50b93c10-80d5-41fc-bf4f-c637794fde11) |
 
 ---
 <div align="center">
