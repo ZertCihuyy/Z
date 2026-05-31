@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.34.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.21.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Ace of Diamond Act II S2 - 09 [1080p HEVC x265 10Bit][AAC]` | **283.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613030) • [🐱 Nyaa](https://nyaa.si/view/2116352) |
+| `[Onalrie] Ace of Diamond Act II - S02E09 [1080p WEBRip AV1]` | **204.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/613031) • [🐱 Nyaa](https://onalrie.app/torrent/9f5bda0c-554f-4eb2-915c-f93649d42eed) |
+| `[Erai-raws] Niwatori Fighter - 12 [1080p DSNP WEB-DL AVC AAC][Multi...` | **884.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/613029) • [🐱 Nyaa](https://nekobt.to/torrents/11399872556807) |
+| `[ASW] Tsue to Tsurugi no Wistoria S2 - 08 [1080p HEVC x265 10Bit][AAC]` | **319.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613019) • [🐱 Nyaa](https://nyaa.si/view/2116347) |
+| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 08 [1080p D...` | **819.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613021) • [🐱 Nyaa](https://nyaa.si/view/2116345) |
+| `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 08 [1080p CR W...` | **387.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613023) • [🐱 Nyaa](https://nyaa.si/view/2116342) |
+| `[Erai-raws] Niwatori Fighter - 12 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613026) • [🐱 Nyaa](https://nyaa.si/view/2116339) |
 | `[Onalrie] Tsue to Tsurugi no Wistoria - S02E08 [1080p WEBRip AV1]` | **246.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/613018) • [🐱 Nyaa](https://onalrie.app/torrent/db36c7b1-6944-4ff1-9358-10d7198ea8bb) |
 | `[ASW] Niwatori Fighter - 12 [1080p HEVC x265 10Bit][AAC]` | **404.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613009) • [🐱 Nyaa](https://nyaa.si/view/2116336) |
 | `[SubsPlease] Ace of Diamond Act II S2 - 09 (1080p) [6E8FBA8D].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613010) • [🐱 Nyaa](https://nyaa.si/view/2116335) |
@@ -41,13 +48,6 @@
 | `[Erai-raws] Diamond no Ace: Act II Second Season - 09 [1080p CR WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613017) • [🐱 Nyaa](https://nyaa.si/view/2116327) |
 | `[Onalrie] Niwatori Fighter - S01E12 [1080p WEBRip AV1]` | **290.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613008) • [🐱 Nyaa](https://onalrie.app/torrent/a8fb0900-922f-4637-b628-4907c0227468) |
 | `[ToonsHub] Wistoria Wand and Sword S02E05 1080p CR WEB-DL MULTi AAC...` | **1704.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/613006) • [🐱 Nyaa](https://nekobt.to/torrents/11398977146635) |
-| `[ToonsHub] Wistoria Wand and Sword S02E06 1080p CR WEB-DL DUAL AAC2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612992) • [🐱 Nyaa](https://nyaa.si/view/2116325) |
-| `[ToonsHub] Wistoria Wand and Sword S02E08 1080p CR WEB-DL AAC2.0 H....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612993) • [🐱 Nyaa](https://nyaa.si/view/2116324) |
-| `[ToonsHub] Wistoria Wand and Sword S02E08 1080p NF WEB-DL AAC2.0 H....` | **874.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/612994) • [🐱 Nyaa](https://nyaa.si/view/2116323) |
-| `[Yameii] Wistoria: Wand and Sword - S02E06 [English Dub] [CR WEB-DL...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612995) • [🐱 Nyaa](https://nyaa.si/view/2116322) |
-| `Wistoria Wand and Sword S02E08 Teachings of the Witch 1080p CR WEB-...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612997) • [🐱 Nyaa](https://nyaa.si/view/2116320) |
-| `Wistoria Wand and Sword S02E06 The First Bloom 1080p CR WEB-DL DUAL...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612998) • [🐱 Nyaa](https://nyaa.si/view/2116319) |
-| `[SubsPlease] Tsue to Tsurugi no Wistoria S2 - 08 (1080p) [66FDF30D]...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/612999) • [🐱 Nyaa](https://nyaa.si/view/2116317) |
 
 ---
 <div align="center">
