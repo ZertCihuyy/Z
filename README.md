@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.43.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.52.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Golden Kamuy (37-49) (1080p) [Batch]` | **21811.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613228) • [🐱 Nyaa](https://nyaa.si/view/2116908) |
 | `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **349.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613227) • [🐱 Nyaa](https://nyaa.si/view/2116876) |
 | `Magical Sisters LuluttoLilly S01E08 1080p AMZN WEB-DL DDP2.0 H 264-...` | **694.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613226) • [🐱 Nyaa](https://nyaa.si/view/2116874) |
 | `[Feibanyama] Witch Hat Atelier S01E10 [CR WebRip 1080p HEVC AAC Mul...` | **469.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613225) • [🐱 Nyaa](https://nyaa.si/view/2116873) |
@@ -44,7 +45,6 @@
 | `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK n...` | **520.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613215) • [🐱 Nyaa](https://nyaa.si/view/2116852) |
 | `[ASW] LIAR GAME - 09 [1080p HEVC x265 10Bit][AAC]` | **179.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613211) • [🐱 Nyaa](https://nyaa.si/view/2116848) |
 | `LIAR GAME S01E06 Initiative 1080p CR WEB-DL MULTi AAC2.0 H 264-VARY...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613212) • [🐱 Nyaa](https://nyaa.si/view/2116847) |
-| `[Judas] Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Ha...` | **259.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613213) • [🐱 Nyaa](https://nyaa.si/view/2116845) |
 
 ---
 <div align="center">
