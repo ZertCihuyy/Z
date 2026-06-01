@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.25.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.21.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,21 +23,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `One Piece S01E1164 Sauls Resolve-The Inherited Will of Ohara REPACK...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613137) • [🐱 Nyaa](https://nyaa.si/view/2116631) |
-| `One Piece S01E1157 Nami in a Fix An Adventure in Block Kingdom 1080...` | **440.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613138) • [🐱 Nyaa](https://nyaa.si/view/2116630) |
-| `[ToonsHub] One Piece EP1164 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **301.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613136) • [🐱 Nyaa](https://nyaa.si/view/2116624) |
-| `[ToonsHub] Star Detective Precure S01E18 1080p CR WEB-DL AAC2.0 H.2...` | **1415.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/613130) • [🐱 Nyaa](https://nekobt.to/torrents/11414517370638) |
-| `[Erai-raws] Meitantei Precure - 18 [1080p CR WEBRip HEVC AAC][Multi...` | **618.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613131) • [🐱 Nyaa](https://nekobt.to/torrents/11414506994957) |
-| `[Erai-raws] Meitantei Precure - 18 [1080p CR WEB-DL AVC AAC][MultiS...` | **1416.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613134) • [🐱 Nyaa](https://nekobt.to/torrents/11414490462731) |
-| `[Judas] One Piece - 1164 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **302.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613129) • [🐱 Nyaa](https://nyaa.si/view/2116609) |
-| `[Erai-raws] One Piece - 1164 [1080p CR WEBRip HEVC AAC][MultiSub][A...` | **495.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613125) • [🐱 Nyaa](https://nyaa.si/view/2116605) |
-| `[Erai-raws] One Piece - 1164 [1080p CR WEB-DL AVC AAC][MultiSub][0C...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613128) • [🐱 Nyaa](https://nyaa.si/view/2116601) |
-| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E08 [1080p][HEVC x265 10b...` | **498.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613124) • [🐱 Nyaa](https://nyaa.si/view/2116589) |
-| `Digimon Beatbreak S01E33 Midsummer Ghost REPACK 1080p CR WEB-DL AAC...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613123) • [🐱 Nyaa](https://nyaa.si/view/2116584) |
-| `[DKB] Maid-san wa Taberu dake - S01E10 [1080p][HEVC x265 10bit][Mul...` | **217.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613122) • [🐱 Nyaa](https://nyaa.si/view/2116554) |
-| `[DKB] Nippon Sangoku - S01E09 [1080p][HEVC x265 10bit][Dual-Audio][...` | **766.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613120) • [🐱 Nyaa](https://nyaa.si/view/2116550) |
-| `[DKB] Yozakura-san Chi no Daisakusen - S02E08 [1080p][HEVC x265 10b...` | **394.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613121) • [🐱 Nyaa](https://nyaa.si/view/2116549) |
-| `NEEDY GIRL OVERDOSE S01E09 Blue Monday 1080p CR WEB-DL AAC2.0 H 264...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613117) • [🐱 Nyaa](https://nyaa.si/view/2116538) |
+| `[Yameii] LIAR GAME (2026) - S01E07 [English Dub] [CR WEB-DL 1080p H...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613198) • [🐱 Nyaa](https://nyaa.si/view/2116840) |
+| `LIAR GAME S01E07 The Losers Revival 1080p CR WEB-DL DUAL AAC2.0 H 2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613200) • [🐱 Nyaa](https://nyaa.si/view/2116838) |
+| `[SubsPlease] LIAR GAME - 09 (1080p) [AC91AB78].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613201) • [🐱 Nyaa](https://nyaa.si/view/2116837) |
+| `[ToonsHub] LIAR GAME S01E07 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613202) • [🐱 Nyaa](https://nyaa.si/view/2116836) |
+| `[ToonsHub] LIAR GAME S01E09 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613203) • [🐱 Nyaa](https://nyaa.si/view/2116835) |
+| `LIAR GAME S01E09 Light and Darkness 1080p CR WEB-DL AAC2.0 H 264-VA...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613204) • [🐱 Nyaa](https://nyaa.si/view/2116834) |
+| `[Onalrie] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no ...` | **206.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/613197) • [🐱 Nyaa](https://onalrie.app/torrent/b0df99ee-9c5e-401c-885e-dc8b1cfc7aca) |
+| `[Erai-raws] Isekai Nonbiri Nouka 2 - 09 [1080p ADN WEBRip HEVC AAC]...` | **334.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613193) • [🐱 Nyaa](https://nyaa.si/view/2116809) |
+| `[Erai-raws] Tongari Boushi no Atelier - 10 [1080p CR WEBRip HEVC AA...` | **326.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613194) • [🐱 Nyaa](https://nyaa.si/view/2116808) |
+| `[ASW] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **271.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613195) • [🐱 Nyaa](https://nyaa.si/view/2116806) |
+| `[ToonsHub] LIAR GAME S01E09 1080p AMZN WEB-DL DDP2.0 H.264` | **766.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/613191) • [🐱 Nyaa](https://nekobt.to/torrents/11427416098575) |
+| `[Judas] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E10 [108...` | **227.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613196) • [🐱 Nyaa](https://nyaa.si/view/2116797) |
+| `[ToonsHub] The Klutzy Class Monitor and the Girl with the Short Ski...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613182) • [🐱 Nyaa](https://nyaa.si/view/2116794) |
+| `[Onalrie] Isekai Nonbiri Nouka - S02E09 [1080p WEBRip AV1]` | **219.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/613192) • [🐱 Nyaa](https://onalrie.app/torrent/e3fc66a5-ddc2-49c1-a53c-dcde7fbef97c) |
+| `[Yameii] The Klutzy Class Monitor and the Girl with the Short Skirt...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613183) • [🐱 Nyaa](https://nyaa.si/view/2116788) |
 
 ---
 <div align="center">
