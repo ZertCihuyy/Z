@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.46.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.48.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `One Piece S01E1164 Sauls Resolve-The Inherited Will of Ohara REPACK...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613137) • [🐱 Nyaa](https://nyaa.si/view/2116631) |
+| `One Piece S01E1157 Nami in a Fix An Adventure in Block Kingdom 1080...` | **440.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613138) • [🐱 Nyaa](https://nyaa.si/view/2116630) |
+| `[ToonsHub] One Piece EP1164 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **301.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613136) • [🐱 Nyaa](https://nyaa.si/view/2116624) |
+| `[ToonsHub] Star Detective Precure S01E18 1080p CR WEB-DL AAC2.0 H.2...` | **1415.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/613130) • [🐱 Nyaa](https://nekobt.to/torrents/11414517370638) |
+| `[Erai-raws] Meitantei Precure - 18 [1080p CR WEBRip HEVC AAC][Multi...` | **618.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613131) • [🐱 Nyaa](https://nekobt.to/torrents/11414506994957) |
+| `[Erai-raws] Meitantei Precure - 18 [1080p CR WEB-DL AVC AAC][MultiS...` | **1416.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613134) • [🐱 Nyaa](https://nekobt.to/torrents/11414490462731) |
+| `[Judas] One Piece - 1164 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **302.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613129) • [🐱 Nyaa](https://nyaa.si/view/2116609) |
 | `[Erai-raws] One Piece - 1164 [1080p CR WEBRip HEVC AAC][MultiSub][A...` | **495.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613125) • [🐱 Nyaa](https://nyaa.si/view/2116605) |
 | `[Erai-raws] One Piece - 1164 [1080p CR WEB-DL AVC AAC][MultiSub][0C...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613128) • [🐱 Nyaa](https://nyaa.si/view/2116601) |
 | `[DKB] Kuroneko to Majo no Kyoushitsu - S01E08 [1080p][HEVC x265 10b...` | **498.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613124) • [🐱 Nyaa](https://nyaa.si/view/2116589) |
@@ -31,13 +38,6 @@
 | `[DKB] Nippon Sangoku - S01E09 [1080p][HEVC x265 10bit][Dual-Audio][...` | **766.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613120) • [🐱 Nyaa](https://nyaa.si/view/2116550) |
 | `[DKB] Yozakura-san Chi no Daisakusen - S02E08 [1080p][HEVC x265 10b...` | **394.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613121) • [🐱 Nyaa](https://nyaa.si/view/2116549) |
 | `NEEDY GIRL OVERDOSE S01E09 Blue Monday 1080p CR WEB-DL AAC2.0 H 264...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613117) • [🐱 Nyaa](https://nyaa.si/view/2116538) |
-| `[Erai-raws] Ghost Concert: Missing Songs - 09 [1080p CR WEBRip HEVC...` | **595.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613118) • [🐱 Nyaa](https://nyaa.si/view/2116537) |
-| `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E09 1080p U...` | **85.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613119) • [🐱 Nyaa](https://nyaa.si/view/2116533) |
-| `[Erai-raws] Digimon Beatbreak - 33 [1080p CR WEBRip HEVC AAC][Multi...` | **487.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613113) • [🐱 Nyaa](https://nyaa.si/view/2116531) |
-| `[Erai-raws] Digimon Beatbreak - 33 (REPACK) [1080p CR WEB-DL AVC AA...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613116) • [🐱 Nyaa](https://nyaa.si/view/2116528) |
-| `[ASW] One Piece - 1164 [1080p HEVC x265 10Bit][AAC]` | **327.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613112) • [🐱 Nyaa](https://nyaa.si/view/2116521) |
-| `[Onalrie] One Piece - E1164 [1080p WEBRip AV1]` | **283.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/613111) • [🐱 Nyaa](https://onalrie.app/torrent/f602fe62-fadf-44ed-b99b-a8d448dcf419) |
-| `[ASW] Ghost Concert - missing Songs - 09 [1080p HEVC x265 10Bit][AAC]` | **428.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613110) • [🐱 Nyaa](https://nyaa.si/view/2116518) |
 
 ---
 <div align="center">
