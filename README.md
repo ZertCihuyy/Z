@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.55.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.04.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S03E21 (Fat...` | **27.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613372) • [🐱 Nyaa](https://nyaa.si/view/2117269) |
+| `[BlackRabbit] Kämpfer (2009) - S01 [Bluray-1080p][Opus 2.0][Dual Au...` | **2567.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/613371) • [🐱 Nyaa](https://nekobt.to/torrents/11454503424263) |
+| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **684.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613370) • [🐱 Nyaa](https://nyaa.si/view/2117268) |
 | `[Erai-raws] Tadaima Ojamasaremasu - 09 [1080p CR WEBRip HEVC AAC][M...` | **251.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/613365) • [🐱 Nyaa](https://nekobt.to/torrents/11453529735432) |
 | `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha ...` | **430.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613361) • [🐱 Nyaa](https://nyaa.si/view/2117252) |
 | `[Erai-raws] Hidarikiki no Eren - 09 [1080p CR WEBRip HEVC AAC][Mult...` | **440.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613358) • [🐱 Nyaa](https://nyaa.si/view/2117250) |
@@ -45,9 +48,6 @@
 | `[Onalrie] Tadaima, Ojamasaremasu! - S01E09 [1080p WEBRip AV1]` | **165.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/613355) • [🐱 Nyaa](https://onalrie.app/torrent/6f017896-86e1-470c-bab8-638f863219cc) |
 | `[DKB] Marriagetoxin - S01E09 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **505.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613348) • [🐱 Nyaa](https://nyaa.si/view/2117233) |
 | `[DKB] Aishiteru Game wo Owarasetai - S01E08 [1080p][HEVC x265 10bit...` | **240.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613349) • [🐱 Nyaa](https://nyaa.si/view/2117232) |
-| `[ASW] Tadaima, Ojamasaremasu! - 09 [1080p HEVC x265 10Bit][AAC]` | **157.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613350) • [🐱 Nyaa](https://nyaa.si/view/2117230) |
-| `[Erai-raws] Marriagetoxin - 09 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **517.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613351) • [🐱 Nyaa](https://nyaa.si/view/2117229) |
-| `[SubsPlease] Yuusha no Rokkotsu de - 09 (1080p) [B8ECDF1F].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613352) • [🐱 Nyaa](https://nyaa.si/view/2117228) |
 
 ---
 <div align="center">
