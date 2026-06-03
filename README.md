@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.04.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.48.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `MARRIAGETOXIN S01E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1464.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/613375) • [🐱 Nyaa](https://nekobt.to/torrents/11457173718023) |
+| `MARRIAGETOXIN S01E05 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1463.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/613376) • [🐱 Nyaa](https://nekobt.to/torrents/11457150702342) |
+| `[Gecko] mofusand the animation - S01E22 (mofusand animation; Mofusa...` | **26.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/613374) • [🐱 Nyaa](https://nekobt.to/torrents/11456686507533) |
+| `[ToonsHub] mofusand animation S01E22 1080p AMZN WEB-DL DDP2.0 H.264` | **23.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/613373) • [🐱 Nyaa](https://nekobt.to/torrents/11456450450702) |
 | `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S03E21 (Fat...` | **27.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613372) • [🐱 Nyaa](https://nyaa.si/view/2117269) |
 | `[BlackRabbit] Kämpfer (2009) - S01 [Bluray-1080p][Opus 2.0][Dual Au...` | **2567.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/613371) • [🐱 Nyaa](https://nekobt.to/torrents/11454503424263) |
 | `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **684.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613370) • [🐱 Nyaa](https://nyaa.si/view/2117268) |
@@ -44,10 +48,6 @@
 | `[HatSubs] One Piece 1164 (WEB 1080p) [D7798541].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613369) • [🐱 Nyaa](https://nyaa.si/view/2117235) |
 | `[BlackRabbit] Akira (1988) [Bluray-1080p][Opus 5.1][Dual Audio][AV1]` | **2070.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/613366) • [🐱 Nyaa](https://nekobt.to/torrents/11452493405955) |
 | `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta - S...` | **232.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613356) • [🐱 Nyaa](https://nyaa.si/view/2117234) |
-| `[FrixySubs] Tsue to Tsurugi no Wistoria - S02E08 [1080p CR WEB-DL H...` | **1381.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/613367) • [🐱 Nyaa](https://nekobt.to/torrents/11452309873669) |
-| `[Onalrie] Tadaima, Ojamasaremasu! - S01E09 [1080p WEBRip AV1]` | **165.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/613355) • [🐱 Nyaa](https://onalrie.app/torrent/6f017896-86e1-470c-bab8-638f863219cc) |
-| `[DKB] Marriagetoxin - S01E09 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **505.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613348) • [🐱 Nyaa](https://nyaa.si/view/2117233) |
-| `[DKB] Aishiteru Game wo Owarasetai - S01E08 [1080p][HEVC x265 10bit...` | **240.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613349) • [🐱 Nyaa](https://nyaa.si/view/2117232) |
 
 ---
 <div align="center">
