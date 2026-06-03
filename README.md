@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.48.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.58.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Beyond Twilight S01E09 1080p AMZN WEB-DL DDP2.0 H 264-VARYG (Hyakki...` | **111.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613386) • [🐱 Nyaa](https://nyaa.si/view/2117363) |
+| `[BlackRabbit] Zom 100 - Bucket List of the Dead (2023) - S01 [Blura...` | **2549.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/613385) • [🐱 Nyaa](https://nekobt.to/torrents/11462455563020) |
+| `[ASW] Quanzhi Fashi S7 - 03 [1080p HEVC x265 10Bit][AAC]` | **450.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613384) • [🐱 Nyaa](https://nyaa.si/view/2117309) |
+| `Walking the Way all alone S01E10 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **640.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613382) • [🐱 Nyaa](https://nyaa.si/view/2117306) |
+| `[ToonsHub] Walking the Way all alone S01E10 1080p BILI WEB-DL AAC2....` | **582.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613383) • [🐱 Nyaa](https://nyaa.si/view/2117305) |
+| `[ToonsHub] Full-Time Magister S07E03 1080p CR WEB-DL AAC2.0 H.264 (...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613377) • [🐱 Nyaa](https://nyaa.si/view/2117303) |
+| `[SubsPlease] Quanzhi Fashi S7 - 03 (1080p) [71354F73].mkv` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613378) • [🐱 Nyaa](https://nyaa.si/view/2117301) |
+| `Versatile Mage S07E03 Shocking Turn at Hua Village 1080p CR WEB-DL ...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613379) • [🐱 Nyaa](https://nyaa.si/view/2117299) |
 | `MARRIAGETOXIN S01E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1464.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/613375) • [🐱 Nyaa](https://nekobt.to/torrents/11457173718023) |
 | `MARRIAGETOXIN S01E05 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1463.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/613376) • [🐱 Nyaa](https://nekobt.to/torrents/11457150702342) |
 | `[Gecko] mofusand the animation - S01E22 (mofusand animation; Mofusa...` | **26.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/613374) • [🐱 Nyaa](https://nekobt.to/torrents/11456686507533) |
@@ -40,14 +48,6 @@
 | `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S03E21 (Fat...` | **27.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613372) • [🐱 Nyaa](https://nyaa.si/view/2117269) |
 | `[BlackRabbit] Kämpfer (2009) - S01 [Bluray-1080p][Opus 2.0][Dual Au...` | **2567.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/613371) • [🐱 Nyaa](https://nekobt.to/torrents/11454503424263) |
 | `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **684.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613370) • [🐱 Nyaa](https://nyaa.si/view/2117268) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 09 [1080p CR WEBRip HEVC AAC][M...` | **251.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/613365) • [🐱 Nyaa](https://nekobt.to/torrents/11453529735432) |
-| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha ...` | **430.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613361) • [🐱 Nyaa](https://nyaa.si/view/2117252) |
-| `[Erai-raws] Hidarikiki no Eren - 09 [1080p CR WEBRip HEVC AAC][Mult...` | **440.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613358) • [🐱 Nyaa](https://nyaa.si/view/2117250) |
-| `[ASW] Yuusha no Rokkotsu de - 09 [1080p HEVC x265 10Bit][AAC]` | **461.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613359) • [🐱 Nyaa](https://nyaa.si/view/2117249) |
-| `[Onalrie] Yuusha no Rokkotsu de - S01E09 [1080p WEBRip AV1]` | **279.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/613357) • [🐱 Nyaa](https://onalrie.app/torrent/e8573e3a-aaa5-4912-ab3c-6f9084c3fb64) |
-| `[HatSubs] One Piece 1164 (WEB 1080p) [D7798541].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613369) • [🐱 Nyaa](https://nyaa.si/view/2117235) |
-| `[BlackRabbit] Akira (1988) [Bluray-1080p][Opus 5.1][Dual Audio][AV1]` | **2070.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/613366) • [🐱 Nyaa](https://nekobt.to/torrents/11452493405955) |
-| `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta - S...` | **232.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613356) • [🐱 Nyaa](https://nyaa.si/view/2117234) |
 
 ---
 <div align="center">
