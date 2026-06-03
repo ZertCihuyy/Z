@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.18.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.38.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Yameii] Go For It, Nakamura-kun!! - S01E11 [English Dub] [CR WEB-D...` | **1387.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613528) • [🐱 Nyaa](https://nekobt.to/torrents/11473066983686) |
-| `[ToonsHub] Petals of Reincarnation S01E04 1080p HIDIVE WEB-DL DUAL ...` | **949.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/613530) • [🐱 Nyaa](https://nekobt.to/torrents/11473053686281) |
-| `[ToonsHub] Farming Life In Another World S02E06 1080p HIDIVE WEB-DL...` | **956.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/613531) • [🐱 Nyaa](https://nekobt.to/torrents/11473053257733) |
-| `[ToonsHub] Reincarnated as a Dragon Hatchling S01E12 1080p HIDIVE W...` | **944.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/613532) • [🐱 Nyaa](https://nekobt.to/torrents/11473042280964) |
-| `[ToonsHub] Go For It Nakamura-kun S01E11 1080p CR WEB-DL DUAL AAC2....` | **1423.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/613533) • [🐱 Nyaa](https://nekobt.to/torrents/11473039886595) |
-| `[ToonsHub] The Most Heretical Last Boss Queen From Villainess to Sa...` | **946.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/613534) • [🐱 Nyaa](https://nekobt.to/torrents/11473036537352) |
-| `[DKB] Kanojo, Okarishimasu - S05E09 [1080p][HEVC x265 10bit][Multi-...` | **314.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613514) • [🐱 Nyaa](https://nyaa.si/view/2117602) |
-| `[DKB] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - S0...` | **494.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613515) • [🐱 Nyaa](https://nyaa.si/view/2117601) |
-| `[DKB] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - S04E13 [108...` | **257.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613516) • [🐱 Nyaa](https://nyaa.si/view/2117599) |
-| `[ToonsHub] The Beginning After the End S02E10 1080p BILI WEB-DL AAC...` | **292.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613517) • [🐱 Nyaa](https://nyaa.si/view/2117598) |
-| `Farming Life In Another World S02E06 Fine Day for Visitors 1080p HI...` | **957.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613518) • [🐱 Nyaa](https://nyaa.si/view/2117597) |
-| `[ToonsHub] The Beginning After the End S02E07 1080p CR WEB-DL MULTi...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613519) • [🐱 Nyaa](https://nyaa.si/view/2117595) |
-| `The Most Heretical Last Boss Queen From Villainess to Savior S02E03...` | **946.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613520) • [🐱 Nyaa](https://nyaa.si/view/2117594) |
-| `[ToonsHub] Does It Count If You Lose Your Innocence to an Android S...` | **354.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613521) • [🐱 Nyaa](https://nyaa.si/view/2117592) |
-| `[Erai-raws] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou ...` | **509.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613522) • [🐱 Nyaa](https://nyaa.si/view/2117590) |
+| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E08 (80) [1080p CR ...` | **1407.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/613574) • [🐱 Nyaa](https://nekobt.to/torrents/11476248044551) |
+| `[Erai-raws] Ganbare Nakamura-kun - 11 [1080p CR WEBRip HEVC AAC][Mu...` | **519.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613572) • [🐱 Nyaa](https://nyaa.si/view/2117675) |
+| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? Sea...` | **325.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613573) • [🐱 Nyaa](https://nyaa.si/view/2117674) |
+| `[SubsPlease] Super no Ura de Yani Suu Futari Mini (01-12) (1080p) [...` | **9523.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613569) • [🐱 Nyaa](https://nyaa.si/view/2117666) |
+| `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - S02E09...` | **304.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613568) • [🐱 Nyaa](https://nyaa.si/view/2117663) |
+| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E08...` | **384.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613567) • [🐱 Nyaa](https://nyaa.si/view/2117658) |
+| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E09...` | **452.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613566) • [🐱 Nyaa](https://nyaa.si/view/2117659) |
+| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E09 [1080p CR...` | **1385.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/613565) • [🐱 Nyaa](https://nekobt.to/torrents/11474580942596) |
+| `Classroom of the Elite S04E08 The Subject of the Dragons Gaze 1080p...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613563) • [🐱 Nyaa](https://nyaa.si/view/2117652) |
+| `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga O...` | **472.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/613561) • [🐱 Nyaa](https://nekobt.to/torrents/11473868694027) |
+| `[Onalrie] Ganbare! Nakamura-kun!! - S01E11 [1080p WEBRip AV1]` | **290.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/613562) • [🐱 Nyaa](https://onalrie.app/torrent/dd9ca53e-6053-4080-a499-a50e89724fee) |
+| `[ASW] Ganbare! Nakamura-kun!! - 11 [1080p HEVC x265 10Bit][AAC]` | **342.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613564) • [🐱 Nyaa](https://nyaa.si/view/2117649) |
+| `[Erai-raws] Otaku ni Yasashii Gal wa Inai - 09 [1080p CR WEBRip HEV...` | **405.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613546) • [🐱 Nyaa](https://nyaa.si/view/2117642) |
+| `Reincarnated as a Dragon Hatchling S01E12 1080p HIDI WEB-DL DUAL AA...` | **944.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613547) • [🐱 Nyaa](https://nyaa.si/view/2117641) |
+| `The Beginning After the End S02E10 The King Negotiates 1080p BILI W...` | **334.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613548) • [🐱 Nyaa](https://nyaa.si/view/2117640) |
 
 ---
 <div align="center">
