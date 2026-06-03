@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.58.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.01.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] Kanan-sama wa Akumade Choroi - S01E06 [1080p CR WEB-DL ...` | **1389.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/613393) • [🐱 Nyaa](https://nekobt.to/torrents/11468094732805) |
+| `[Gecko] Cat Tales - S01E34 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **42.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613392) • [🐱 Nyaa](https://nyaa.si/view/2117391) |
+| `[Ironclad] Niwatori Fighter - S01 [WEB.1080p.AV1] | Rooster Fighter...` | **10137.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613389) • [🐱 Nyaa](https://nyaa.si/view/2117388) |
+| `[FrixySubs] Kanan-sama wa Akumade Choroi - S01E05 [1080p CR WEB-DL ...` | **1382.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/613390) • [🐱 Nyaa](https://nekobt.to/torrents/11467277507085) |
+| `[BlackRabbit] Don't Toy With Me, Miss Nagatoro (2021) - S01 [Bluray...` | **2749.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/613388) • [🐱 Nyaa](https://nekobt.to/torrents/11465807795982) |
+| `[Onalrie] Quanzhi Fashi - S07E03 [1080p WEBRip AV1]` | **296.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/613387) • [🐱 Nyaa](https://onalrie.app/torrent/e00d64b4-ae83-4b1f-a4b3-a11480686a4f) |
 | `Beyond Twilight S01E09 1080p AMZN WEB-DL DDP2.0 H 264-VARYG (Hyakki...` | **111.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613386) • [🐱 Nyaa](https://nyaa.si/view/2117363) |
 | `[BlackRabbit] Zom 100 - Bucket List of the Dead (2023) - S01 [Blura...` | **2549.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/613385) • [🐱 Nyaa](https://nekobt.to/torrents/11462455563020) |
 | `[ASW] Quanzhi Fashi S7 - 03 [1080p HEVC x265 10Bit][AAC]` | **450.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613384) • [🐱 Nyaa](https://nyaa.si/view/2117309) |
@@ -42,12 +48,6 @@
 | `[SubsPlease] Quanzhi Fashi S7 - 03 (1080p) [71354F73].mkv` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613378) • [🐱 Nyaa](https://nyaa.si/view/2117301) |
 | `Versatile Mage S07E03 Shocking Turn at Hua Village 1080p CR WEB-DL ...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613379) • [🐱 Nyaa](https://nyaa.si/view/2117299) |
 | `MARRIAGETOXIN S01E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1464.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/613375) • [🐱 Nyaa](https://nekobt.to/torrents/11457173718023) |
-| `MARRIAGETOXIN S01E05 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1463.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/613376) • [🐱 Nyaa](https://nekobt.to/torrents/11457150702342) |
-| `[Gecko] mofusand the animation - S01E22 (mofusand animation; Mofusa...` | **26.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/613374) • [🐱 Nyaa](https://nekobt.to/torrents/11456686507533) |
-| `[ToonsHub] mofusand animation S01E22 1080p AMZN WEB-DL DDP2.0 H.264` | **23.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/613373) • [🐱 Nyaa](https://nekobt.to/torrents/11456450450702) |
-| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S03E21 (Fat...` | **27.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613372) • [🐱 Nyaa](https://nyaa.si/view/2117269) |
-| `[BlackRabbit] Kämpfer (2009) - S01 [Bluray-1080p][Opus 2.0][Dual Au...` | **2567.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/613371) • [🐱 Nyaa](https://nekobt.to/torrents/11454503424263) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **684.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613370) • [🐱 Nyaa](https://nyaa.si/view/2117268) |
 
 ---
 <div align="center">
