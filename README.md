@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.03.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.46.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `The Ramparts of Ice S01E10 1080p NF WEB-DL AAC2.0 AV1 (Multi-Subs) ...` | **169.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613753) • [🐱 Nyaa](https://nyaa.si/view/2118010) |
+| `[DKB] Mata Korosarete Shimatta no desu ne, Tantei-sama - S01E10 [10...` | **265.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613754) • [🐱 Nyaa](https://nyaa.si/view/2118006) |
+| `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E10 [1080p][HE...` | **272.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613752) • [🐱 Nyaa](https://nyaa.si/view/2118005) |
 | `[SubsPlus+] Kirio Fan Club - S01E10 (ABEMA WEB-DL 1080p AVC EAC3) |...` | **720.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613751) • [🐱 Nyaa](https://nyaa.si/view/2117988) |
 | `[SubsPlus+] Petals of Reincarnation - S01E10 (AMZN WEB-DL 1080p AVC...` | **1403.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613750) • [🐱 Nyaa](https://nekobt.to/torrents/11498467057414) |
 | `[Erai-raws] Awajima Hyakkei - 09 [1080p CR WEBRip HEVC AAC][MultiSu...` | **360.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613748) • [🐱 Nyaa](https://nyaa.si/view/2117986) |
@@ -41,9 +44,6 @@
 | `[DKB] Reincarnation no Kaben - S01E10 [1080p][HEVC x265 10bit][weekly]` | **509.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613740) • [🐱 Nyaa](https://nyaa.si/view/2117978) |
 | `[DKB] Koori no Jouheki - S01E10 [1080p][HEVC x265 10bit][Dual-Audio...` | **291.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613741) • [🐱 Nyaa](https://nyaa.si/view/2117977) |
 | `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-sama - 10 [...` | **421.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613742) • [🐱 Nyaa](https://nyaa.si/view/2117976) |
-| `[BlackRabbit] Don't Toy With Me, Miss Nagatoro (2021) - S02 [Bluray...` | **1973.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/613739) • [🐱 Nyaa](https://nekobt.to/torrents/11496951450376) |
-| `[SubsPlease] Toumei Otoko to Ningen Onna (01-12) (1080p) [Batch]` | **16588.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613736) • [🐱 Nyaa](https://nyaa.si/view/2117972) |
-| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 10 [1080p C...` | **352.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613732) • [🐱 Nyaa](https://nyaa.si/view/2117968) |
 
 ---
 <div align="center">
