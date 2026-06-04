@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.37.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.07.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,45 +9,41 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Kamis**
+### 📅 Jadwal Rilis Hari Ini: **Jumat**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg" width="45" style="border-radius: 4px;"> | `16.30` | **[PetitCure: Precure Fairies Season 3](https://anilist.co/anime/209541)** | *Fantasy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b205290-oc3SbEom5g7U.png" width="45" style="border-radius: 4px;"> | `17.00` | **[Jian Lai 2](https://anilist.co/anime/205290)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg" width="45" style="border-radius: 4px;"> | `18.00` | **[Wei Miao Rensheng](https://anilist.co/anime/203710)** | *Romance, Supernatural* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png" width="45" style="border-radius: 4px;"> | `18.00` | **[Koala Enikki](https://anilist.co/anime/194389)** | *Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg" width="45" style="border-radius: 4px;"> | `19.30` | **[Hime Kishi wa Barbaroi no Yome](https://anilist.co/anime/182483)** | *Comedy, Ecchi, Fantasy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png" width="45" style="border-radius: 4px;"> | `20.00` | **[Ganso! Bandori-chan](https://anilist.co/anime/187166)** | *Comedy, Music* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Dr. STONE: SCIENCE FUTURE Part 3](https://anilist.co/anime/199221)** | *Action, Adventure, Comedy, Sci-Fi* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196840-9l084Fis4fYF.png" width="45" style="border-radius: 4px;"> | `20.00` | **[Iya na Kao sare nagara Opantsu Misete Moraitai Returns](https://anilist.co/anime/196840)** | *Ecchi* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177508-Ajz9UrU5SsQ0.jpg" width="45" style="border-radius: 4px;"> | `20.30` | **[Kujima Utaeba Ie Hororo](https://anilist.co/anime/177508)** | *Comedy, Fantasy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg" width="45" style="border-radius: 4px;"> | `21.56` | **[Koori no Jouheki](https://anilist.co/anime/186497)** | *Comedy, Romance, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206004-gwD6l2pmSvCr.png" width="45" style="border-radius: 4px;"> | `22.00` | **[Love wa Gal kara Hajimaru Unmei](https://anilist.co/anime/206004)** | *Hentai* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg" width="45" style="border-radius: 4px;"> | `22.26` | **[Kirio Fanclub](https://anilist.co/anime/181284)** | *Comedy, Romance, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg" width="45" style="border-radius: 4px;"> | `22.30` | **[Reincarnation no Kaben](https://anilist.co/anime/179950)** | *Action, Supernatural* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210234-MZaMjdbBzEHz.jpg" width="45" style="border-radius: 4px;"> | `23.00` | **[Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru](https://anilist.co/anime/210234)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png" width="45" style="border-radius: 4px;"> | `23.28` | **[Haibara-kun no Tsuyokute Seishun New Game](https://anilist.co/anime/195333)** | *Romance, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg" width="45" style="border-radius: 4px;"> | `05.10` | **[Hanakappa](https://anilist.co/anime/8336)** | *Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg" width="45" style="border-radius: 4px;"> | `05.40` | **[Chiikawa](https://anilist.co/anime/140842)** | *Comedy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg" width="45" style="border-radius: 4px;"> | `16.55` | **[Pocket Monsters (2023)](https://anilist.co/anime/158871)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png" width="45" style="border-radius: 4px;"> | `17.00` | **[BEYBLADE X](https://anilist.co/anime/165159)** | *Action, Adventure, Sports* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.](https://anilist.co/anime/192808)** | *Comedy, Fantasy, Romance, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg" width="45" style="border-radius: 4px;"> | `20.30` | **[Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season](https://anilist.co/anime/170019)** | *Romance, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Tensei Shitara Slime Datta Ken 4th Season](https://anilist.co/anime/182205)** | *Action, Adventure, Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Kami no Shizuku](https://anilist.co/anime/202508)** | *Drama, Mystery, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Snowball Earth](https://anilist.co/anime/196144)** | *Action, Mecha, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg" width="45" style="border-radius: 4px;"> | `22.00` | **[Kamiina Botan, Yoeru Sugata wa Yuri no Hana](https://anilist.co/anime/187869)** | *Comedy, Romance, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169228-y79xDpZ29Vv4.jpg" width="45" style="border-radius: 4px;"> | `23.00` | **[Hokuto no Ken: FIST OF THE NORTH STAR](https://anilist.co/anime/169228)** | *Action, Drama, Sci-Fi* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Monster Eater S01E10 1080p AMZN WEB-DL DDP2.0 H.264` | **579.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613666) • [🐱 Nyaa](https://nekobt.to/torrents/11494457127946) |
-| `[SubsPlease] Kirio Fanclub - 10 (1080p) [C9A78834].mkv` | **876.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613658) • [🐱 Nyaa](https://nyaa.si/view/2117883) |
-| `Kirio Fan Club S01E10 I Hear Kirios Quitting the Team 1080p HIDI WE...` | **880.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613659) • [🐱 Nyaa](https://nyaa.si/view/2117882) |
-| `[ToonsHub] Kirio Fan Club S01E10 1080p HIDIVE WEB-DL AAC2.0 H.264 (...` | **878.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613660) • [🐱 Nyaa](https://nyaa.si/view/2117881) |
-| `[Erai-raws] Kirio Fan Club - 10 [1080p HIDIVE WEB-DL AVC AAC][51C22...` | **878.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613665) • [🐱 Nyaa](https://nyaa.si/view/2117876) |
-| `[Erai-raws] Kujima Utaeba Ie Hororo - 09 [1080p CR WEBRip HEVC AAC]...` | **560.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/613656) • [🐱 Nyaa](https://nekobt.to/torrents/11494154088200) |
-| `[Onalrie] Kujima Utaeba Ie Hororo - S01E09 [1080p WEBRip AV1]` | **217.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/613657) • [🐱 Nyaa](https://onalrie.app/torrent/73943952-4fc0-4ae9-96c2-a720034b8546) |
-| `[Erai-raws] Koori no Jouheki - 10 [1080p NF WEB-DL AVC AAC][MultiSu...` | **906.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613651) • [🐱 Nyaa](https://nyaa.si/view/2117869) |
-| `Petals of Reincarnation S01E04 All-knowing and Corruption 1080p AMZ...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613652) • [🐱 Nyaa](https://nyaa.si/view/2117868) |
-| `The Most Heretical Last Boss Queen From Villainess to Savior S02E03...` | **813.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613653) • [🐱 Nyaa](https://nyaa.si/view/2117867) |
-| `Reincarnated as a Dragon Hatchling S01E12 1080p AMZN WEB-DL DUAL DD...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613654) • [🐱 Nyaa](https://nyaa.si/view/2117866) |
-| `[ToonsHub] The Ramparts of Ice S01E10 1080p NF WEB-DL MULTi AAC2.0 ...` | **1228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613655) • [🐱 Nyaa](https://nyaa.si/view/2117865) |
-| `[VARYG] The Ramparts of Ice S01E10 Spring 1080p NF MULTi WEB-DL AAC...` | **1241.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613649) • [🐱 Nyaa](https://nekobt.to/torrents/11493812480525) |
-| `[ToonsHub] The Ramparts of Ice S01E10 1080p NF WEB-DL DUAL AAC2.0 H...` | **912.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/613650) • [🐱 Nyaa](https://nekobt.to/torrents/11493807402759) |
-| `The Ramparts of Ice S01E10 Spring 1080p NF WEB-DL DUAL AAC2.0 H 264...` | **912.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613648) • [🐱 Nyaa](https://nyaa.si/view/2117862) |
+| `[SubsPlease] Toumei Otoko to Ningen Onna (01-12) (1080p) [Batch]` | **16588.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613736) • [🐱 Nyaa](https://nyaa.si/view/2117972) |
+| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 10 [1080p C...` | **352.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613732) • [🐱 Nyaa](https://nyaa.si/view/2117968) |
+| `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sama - S01E10...` | **203.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/613735) • [🐱 Nyaa](https://onalrie.app/torrent/90f9cee5-74f8-42d7-b867-ddc28dc15222) |
+| `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama (Killed Ag...` | **225.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613733) • [🐱 Nyaa](https://nyaa.si/view/2117966) |
+| `[ASW] Mata Korosarete Shimatta no desu ne, Tantei-sama - 10 [1080p ...` | **228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613734) • [🐱 Nyaa](https://nyaa.si/view/2117965) |
+| `[Trix] Awajima Hyakkei S01E09 [WEBRip 1080p AV1 Opus] (Multi Subs, ...` | **178.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/613728) • [🐱 Nyaa](https://nekobt.to/torrents/11496216702210) |
+| `[ToonsHub] I Want You To Show Me Your Panties With a Disgusted Face...` | **691.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613716) • [🐱 Nyaa](https://nyaa.si/view/2117963) |
+| `[Onalrie] Haibara-kun no Tsuyokute Seishun New Game - S01E10 [1080p...` | **145.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/613731) • [🐱 Nyaa](https://onalrie.app/torrent/0119aafa-cd0e-4aa5-b452-7588bed4260a) |
+| `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 10 [1080p HEVC x2...` | **171.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613717) • [🐱 Nyaa](https://nyaa.si/view/2117962) |
+| `The Warrior Princess and the Barbaric King S01E06 MULTi AD 1080p CR...` | **1448.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613729) • [🐱 Nyaa](https://nekobt.to/torrents/11495866967300) |
+| `Dr STONE S04E34 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws ...` | **1468.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/613730) • [🐱 Nyaa](https://nekobt.to/torrents/11495798481417) |
+| `[Erai-raws] Reincarnation no Kaben - 10 [1080p AMZN WEBRip HEVC EAC...` | **574.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613718) • [🐱 Nyaa](https://nyaa.si/view/2117959) |
+| `[Onalrie] Awajima Hyakkei - S01E09 [1080p WEBRip AV1]` | **169.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/613714) • [🐱 Nyaa](https://onalrie.app/torrent/1254b88f-67be-4c3b-9613-3a622de987b2) |
+| `[ToonsHub] Monster Eater S01E10 1080p AMZN WEB-DL DDP2.0 H.264 (Mam...` | **579.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613719) • [🐱 Nyaa](https://nyaa.si/view/2117958) |
+| `[ASW] Awajima Hyakkei - 09 [1080p HEVC x265 10Bit][AAC]` | **195.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613720) • [🐱 Nyaa](https://nyaa.si/view/2117957) |
 
 ---
 <div align="center">
