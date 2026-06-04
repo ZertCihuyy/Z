@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.42.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.37.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Himekishi wa Barbaroi no Yome (The Warrior Princess and the...` | **181.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613610) • [🐱 Nyaa](https://nyaa.si/view/2117799) |
-| `[Onalrie] Himekishi wa Barbaroi no Yome - S01E09 [1080p WEBRip AV1]` | **156.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/613612) • [🐱 Nyaa](https://onalrie.app/torrent/6af6f51e-abd5-4fcd-8b18-f7c10344f74e) |
-| `[ASW] Himekishi wa Barbaroi no Yome - 09 [1080p HEVC x265 10Bit][AAC]` | **177.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613611) • [🐱 Nyaa](https://nyaa.si/view/2117798) |
-| `[ToonsHub] GANSO BanG Dream Chan S01E35 1080p AMZN WEB-DL DDP2.0 H....` | **56.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613607) • [🐱 Nyaa](https://nyaa.si/view/2117796) |
-| `[ToonsHub] I Want You To Show Me Your Panties With a Disgusted Face...` | **82.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613608) • [🐱 Nyaa](https://nyaa.si/view/2117795) |
-| `[ToonsHub] I Want You To Show Me Your Panties With a Disgusted Face...` | **57.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613609) • [🐱 Nyaa](https://nyaa.si/view/2117792) |
-| `[Yameii] The Warrior Princess and the Barbaric King - S01E07 [Engli...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613595) • [🐱 Nyaa](https://nyaa.si/view/2117790) |
-| `The Warrior Princess and the Barbaric King S01E07 Flows to Purify C...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613596) • [🐱 Nyaa](https://nyaa.si/view/2117789) |
-| `The Warrior Princess and the Barbaric King S01E09 1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613597) • [🐱 Nyaa](https://nyaa.si/view/2117788) |
-| `[SubsPlease] Himekishi wa Barbaroi no Yome - 09 (1080p) [429DA099].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613598) • [🐱 Nyaa](https://nyaa.si/view/2117786) |
-| `[ToonsHub] The Warrior Princess and the Barbaric King S01E07 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613599) • [🐱 Nyaa](https://nyaa.si/view/2117784) |
-| `[ToonsHub] The Warrior Princess and the Barbaric King S01E09 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613600) • [🐱 Nyaa](https://nyaa.si/view/2117783) |
-| `[Erai-raws] Himekishi wa Barbaroi no Yome - 09 [1080p CR WEB-DL AVC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613605) • [🐱 Nyaa](https://nyaa.si/view/2117776) |
-| `[BlackRabbit] DARLING in the FRANXX (2018) - S01 [Bluray-1080p][Opu...` | **5545.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/613594) • [🐱 Nyaa](https://nekobt.to/torrents/11489788183564) |
-| `[Gecko] Koala's Diary - S01E35 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **43.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613593) • [🐱 Nyaa](https://nyaa.si/view/2117764) |
+| `[ToonsHub] Monster Eater S01E10 1080p AMZN WEB-DL DDP2.0 H.264` | **579.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613666) • [🐱 Nyaa](https://nekobt.to/torrents/11494457127946) |
+| `[SubsPlease] Kirio Fanclub - 10 (1080p) [C9A78834].mkv` | **876.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613658) • [🐱 Nyaa](https://nyaa.si/view/2117883) |
+| `Kirio Fan Club S01E10 I Hear Kirios Quitting the Team 1080p HIDI WE...` | **880.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613659) • [🐱 Nyaa](https://nyaa.si/view/2117882) |
+| `[ToonsHub] Kirio Fan Club S01E10 1080p HIDIVE WEB-DL AAC2.0 H.264 (...` | **878.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613660) • [🐱 Nyaa](https://nyaa.si/view/2117881) |
+| `[Erai-raws] Kirio Fan Club - 10 [1080p HIDIVE WEB-DL AVC AAC][51C22...` | **878.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613665) • [🐱 Nyaa](https://nyaa.si/view/2117876) |
+| `[Erai-raws] Kujima Utaeba Ie Hororo - 09 [1080p CR WEBRip HEVC AAC]...` | **560.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/613656) • [🐱 Nyaa](https://nekobt.to/torrents/11494154088200) |
+| `[Onalrie] Kujima Utaeba Ie Hororo - S01E09 [1080p WEBRip AV1]` | **217.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/613657) • [🐱 Nyaa](https://onalrie.app/torrent/73943952-4fc0-4ae9-96c2-a720034b8546) |
+| `[Erai-raws] Koori no Jouheki - 10 [1080p NF WEB-DL AVC AAC][MultiSu...` | **906.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613651) • [🐱 Nyaa](https://nyaa.si/view/2117869) |
+| `Petals of Reincarnation S01E04 All-knowing and Corruption 1080p AMZ...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613652) • [🐱 Nyaa](https://nyaa.si/view/2117868) |
+| `The Most Heretical Last Boss Queen From Villainess to Savior S02E03...` | **813.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613653) • [🐱 Nyaa](https://nyaa.si/view/2117867) |
+| `Reincarnated as a Dragon Hatchling S01E12 1080p AMZN WEB-DL DUAL DD...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613654) • [🐱 Nyaa](https://nyaa.si/view/2117866) |
+| `[ToonsHub] The Ramparts of Ice S01E10 1080p NF WEB-DL MULTi AAC2.0 ...` | **1228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613655) • [🐱 Nyaa](https://nyaa.si/view/2117865) |
+| `[VARYG] The Ramparts of Ice S01E10 Spring 1080p NF MULTi WEB-DL AAC...` | **1241.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613649) • [🐱 Nyaa](https://nekobt.to/torrents/11493812480525) |
+| `[ToonsHub] The Ramparts of Ice S01E10 1080p NF WEB-DL DUAL AAC2.0 H...` | **912.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/613650) • [🐱 Nyaa](https://nekobt.to/torrents/11493807402759) |
+| `The Ramparts of Ice S01E10 Spring 1080p NF WEB-DL DUAL AAC2.0 H 264...` | **912.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613648) • [🐱 Nyaa](https://nyaa.si/view/2117862) |
 
 ---
 <div align="center">
