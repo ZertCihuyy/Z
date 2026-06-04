@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.07.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.03.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,21 +29,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlus+] Kirio Fan Club - S01E10 (ABEMA WEB-DL 1080p AVC EAC3) |...` | **720.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613751) • [🐱 Nyaa](https://nyaa.si/view/2117988) |
+| `[SubsPlus+] Petals of Reincarnation - S01E10 (AMZN WEB-DL 1080p AVC...` | **1403.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613750) • [🐱 Nyaa](https://nekobt.to/torrents/11498467057414) |
+| `[Erai-raws] Awajima Hyakkei - 09 [1080p CR WEBRip HEVC AAC][MultiSu...` | **360.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613748) • [🐱 Nyaa](https://nyaa.si/view/2117986) |
+| `[ToonsHub] Rent-a-Girlfriend S05E06 1080p CR WEB-DL MULTi AAC2.0 H....` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613749) • [🐱 Nyaa](https://nyaa.si/view/2117985) |
+| `Rent a Girlfriend S05E06 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **1461.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/613747) • [🐱 Nyaa](https://nekobt.to/torrents/11498168320256) |
+| `Petals of Reincarnation S01E10 The Faceless Man 1080p AMZN WEB-DL D...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613743) • [🐱 Nyaa](https://nyaa.si/view/2117983) |
+| `Kirio Fan Club S01E10 I Hear Kirios Quitting the Team 1080p ABMA WE...` | **740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613744) • [🐱 Nyaa](https://nyaa.si/view/2117982) |
+| `[ToonsHub] Scum of the Brave S01E20 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **815.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613745) • [🐱 Nyaa](https://nyaa.si/view/2117981) |
+| `[ToonsHub] Scum of the Brave S01E19 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **843.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613746) • [🐱 Nyaa](https://nyaa.si/view/2117980) |
+| `[DKB] Reincarnation no Kaben - S01E10 [1080p][HEVC x265 10bit][weekly]` | **509.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613740) • [🐱 Nyaa](https://nyaa.si/view/2117978) |
+| `[DKB] Koori no Jouheki - S01E10 [1080p][HEVC x265 10bit][Dual-Audio...` | **291.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613741) • [🐱 Nyaa](https://nyaa.si/view/2117977) |
+| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-sama - 10 [...` | **421.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613742) • [🐱 Nyaa](https://nyaa.si/view/2117976) |
+| `[BlackRabbit] Don't Toy With Me, Miss Nagatoro (2021) - S02 [Bluray...` | **1973.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/613739) • [🐱 Nyaa](https://nekobt.to/torrents/11496951450376) |
 | `[SubsPlease] Toumei Otoko to Ningen Onna (01-12) (1080p) [Batch]` | **16588.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613736) • [🐱 Nyaa](https://nyaa.si/view/2117972) |
 | `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 10 [1080p C...` | **352.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613732) • [🐱 Nyaa](https://nyaa.si/view/2117968) |
-| `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sama - S01E10...` | **203.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/613735) • [🐱 Nyaa](https://onalrie.app/torrent/90f9cee5-74f8-42d7-b867-ddc28dc15222) |
-| `[Judas] Mata Korosarete Shimatta no desu ne, Tantei-sama (Killed Ag...` | **225.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613733) • [🐱 Nyaa](https://nyaa.si/view/2117966) |
-| `[ASW] Mata Korosarete Shimatta no desu ne, Tantei-sama - 10 [1080p ...` | **228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613734) • [🐱 Nyaa](https://nyaa.si/view/2117965) |
-| `[Trix] Awajima Hyakkei S01E09 [WEBRip 1080p AV1 Opus] (Multi Subs, ...` | **178.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/613728) • [🐱 Nyaa](https://nekobt.to/torrents/11496216702210) |
-| `[ToonsHub] I Want You To Show Me Your Panties With a Disgusted Face...` | **691.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613716) • [🐱 Nyaa](https://nyaa.si/view/2117963) |
-| `[Onalrie] Haibara-kun no Tsuyokute Seishun New Game - S01E10 [1080p...` | **145.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/613731) • [🐱 Nyaa](https://onalrie.app/torrent/0119aafa-cd0e-4aa5-b452-7588bed4260a) |
-| `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 10 [1080p HEVC x2...` | **171.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613717) • [🐱 Nyaa](https://nyaa.si/view/2117962) |
-| `The Warrior Princess and the Barbaric King S01E06 MULTi AD 1080p CR...` | **1448.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613729) • [🐱 Nyaa](https://nekobt.to/torrents/11495866967300) |
-| `Dr STONE S04E34 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws ...` | **1468.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/613730) • [🐱 Nyaa](https://nekobt.to/torrents/11495798481417) |
-| `[Erai-raws] Reincarnation no Kaben - 10 [1080p AMZN WEBRip HEVC EAC...` | **574.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613718) • [🐱 Nyaa](https://nyaa.si/view/2117959) |
-| `[Onalrie] Awajima Hyakkei - S01E09 [1080p WEBRip AV1]` | **169.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/613714) • [🐱 Nyaa](https://onalrie.app/torrent/1254b88f-67be-4c3b-9613-3a622de987b2) |
-| `[ToonsHub] Monster Eater S01E10 1080p AMZN WEB-DL DDP2.0 H.264 (Mam...` | **579.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613719) • [🐱 Nyaa](https://nyaa.si/view/2117958) |
-| `[ASW] Awajima Hyakkei - 09 [1080p HEVC x265 10Bit][AAC]` | **195.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613720) • [🐱 Nyaa](https://nyaa.si/view/2117957) |
 
 ---
 <div align="center">
