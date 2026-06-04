@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.44.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.24.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E08 [1080p AV1][Dual Audi...` | **297.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613591) • [🐱 Nyaa](https://nyaa.si/view/2117734) |
+| `[Gecko] Cat Tales - S01E34 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613590) • [🐱 Nyaa](https://nyaa.si/view/2117729) |
+| `[Gecko] Candy Caries - S01E08 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613589) • [🐱 Nyaa](https://nyaa.si/view/2117728) |
+| `[ToonsHub] Reborn as a Cat S01E32 1080p BILI WEB-DL AAC2.0 H.265 (E...` | **186.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/613587) • [🐱 Nyaa](https://nekobt.to/torrents/11482240464390) |
+| `[Gecko] Reborn as a Cat - S01E32 (为喵人生; Wei Miao Rensheng) [BILI.WE...` | **189.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/613588) • [🐱 Nyaa](https://nekobt.to/torrents/11482235691525) |
+| `Reborn as a Cat S01E30 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **216.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613586) • [🐱 Nyaa](https://nyaa.si/view/2117716) |
 | `The Beginning After the End S02E07 MULTi AD 1080p CR WEB-DL AAC2.0 ...` | **1396.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/613585) • [🐱 Nyaa](https://nekobt.to/torrents/11479800327425) |
 | `Tawawa on Monday S02 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **4198.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613583) • [🐱 Nyaa](https://nyaa.si/view/2117708) |
 | `Tawawa on Monday S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **3379.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613584) • [🐱 Nyaa](https://nyaa.si/view/2117707) |
@@ -42,12 +48,6 @@
 | `[BlackRabbit] My Dress-Up Darling (2022) - S01 [Bluray-1080p][Opus ...` | **2842.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/613580) • [🐱 Nyaa](https://nekobt.to/torrents/11476905862403) |
 | `[SubsPlease] Golden Kamuy (50-62) (1080p) [Batch]` | **17920.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613576) • [🐱 Nyaa](https://nyaa.si/view/2117685) |
 | `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E08 (80) [1080p CR ...` | **1407.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/613574) • [🐱 Nyaa](https://nekobt.to/torrents/11476248044551) |
-| `[Erai-raws] Ganbare Nakamura-kun - 11 [1080p CR WEBRip HEVC AAC][Mu...` | **519.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613572) • [🐱 Nyaa](https://nyaa.si/view/2117675) |
-| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? Sea...` | **325.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613573) • [🐱 Nyaa](https://nyaa.si/view/2117674) |
-| `[SubsPlease] Super no Ura de Yani Suu Futari Mini (01-12) (1080p) [...` | **9523.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613569) • [🐱 Nyaa](https://nyaa.si/view/2117666) |
-| `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - S02E09...` | **304.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613568) • [🐱 Nyaa](https://nyaa.si/view/2117663) |
-| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E08...` | **384.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613567) • [🐱 Nyaa](https://nyaa.si/view/2117658) |
-| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E09...` | **452.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613566) • [🐱 Nyaa](https://nyaa.si/view/2117659) |
 
 ---
 <div align="center">
