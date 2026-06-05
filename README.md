@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.35.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.50.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[NVN] Witch Hat Atelier - S01E10 [WEBRip HEVC 1080p] [Sub. Español]` | **2210.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/613947) • [🐱 Nyaa](https://nekobt.to/torrents/11522933841420) |
+| `[ASW] Jujutsu Kaisen - Kaigyoku Gyokusetsu [1080p HEVC x265 10Bit][...` | **1228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613946) • [🐱 Nyaa](https://nyaa.si/view/2118424) |
+| `[Piyoko] Onegai AiPri - 09 [WEB AMZN 1080p h264 AC3 2.0]` | **928.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613944) • [🐱 Nyaa](https://nyaa.si/view/2118421) |
 | `[Ironclad] Maou no Musume wa Yasashi Sugiru - S01 [BD.1080p.AV1] | ...` | **3174.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613943) • [🐱 Nyaa](https://nyaa.si/view/2118419) |
 | `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 09 [1080p...` | **450.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613941) • [🐱 Nyaa](https://nyaa.si/view/2118413) |
 | `[Cryon] Arknights - S01 + S02 + S03 - BD 1080p AV1 - Opus 5.1` | **27340.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613940) • [🐱 Nyaa](https://nyaa.si/view/2118410) |
@@ -45,9 +48,6 @@
 | `[ToonsHub] The Drops of God S01E07 REPACK 1080p CR WEB-DL DUAL AAC2...` | **1464.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/613925) • [🐱 Nyaa](https://nekobt.to/torrents/11518961042439) |
 | `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saretei...` | **209.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613922) • [🐱 Nyaa](https://nyaa.si/view/2118391) |
 | `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E11 [WEB.108...` | **658.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613923) • [🐱 Nyaa](https://nyaa.si/view/2118390) |
-| `[Erai-raws] Hokuto no Ken (2026) - 11 [1080p AMZN WEBRip HEVC EAC3]...` | **746.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613921) • [🐱 Nyaa](https://nyaa.si/view/2118387) |
-| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina ...` | **208.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613920) • [🐱 Nyaa](https://nyaa.si/view/2118382) |
-| `[SubVision] Mahou no Shimai LuluttoLilly - 09 (WEB 1080p x264 8Bit ...` | **527.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/613937) • [🐱 Nyaa](https://nekobt.to/torrents/11518108271879) |
 
 ---
 <div align="center">
