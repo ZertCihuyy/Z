@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.28.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.20.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] The Drops of God S01E07 REPACK 1080p CR WEB-DL DUAL AAC2...` | **1464.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/613925) • [🐱 Nyaa](https://nekobt.to/torrents/11518961042439) |
+| `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saretei...` | **209.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613922) • [🐱 Nyaa](https://nyaa.si/view/2118391) |
+| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E11 [WEB.108...` | **658.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613923) • [🐱 Nyaa](https://nyaa.si/view/2118390) |
+| `[Erai-raws] Hokuto no Ken (2026) - 11 [1080p AMZN WEBRip HEVC EAC3]...` | **746.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613921) • [🐱 Nyaa](https://nyaa.si/view/2118387) |
+| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina ...` | **208.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613920) • [🐱 Nyaa](https://nyaa.si/view/2118382) |
+| `[VARYG] The Drops of God S01E07 The Pegasus in the Heavens 1080p CR...` | **1443.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/613918) • [🐱 Nyaa](https://nekobt.to/torrents/11517885381893) |
+| `[DKB] Tensei shitara Slime Datta Ken - S04E09 [1080p][HEVC x265 10b...` | **532.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613912) • [🐱 Nyaa](https://nyaa.si/view/2118379) |
+| `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku - S01E...` | **529.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613913) • [🐱 Nyaa](https://nyaa.si/view/2118378) |
+| `[ToonsHub] The Drops of God S01E07 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **712.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613914) • [🐱 Nyaa](https://nyaa.si/view/2118377) |
+| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S01E11 [108...` | **422.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613915) • [🐱 Nyaa](https://nyaa.si/view/2118376) |
+| `[FrixySubs] MARRIAGETOXIN - S01E09 [1080p CR WEB-DL H.264 AAC] [Nap...` | **1395.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/613919) • [🐱 Nyaa](https://nekobt.to/torrents/11517520259330) |
 | `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E09 [108...` | **181.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/613910) • [🐱 Nyaa](https://onalrie.app/torrent/7268afb6-8228-4a66-a7c1-acd467f27547) |
 | `[Yameii] The Drops of God - S01E07 [English Dub] [CR WEB-DL 1080p H...` | **674.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613905) • [🐱 Nyaa](https://nekobt.to/torrents/11517494945537) |
+| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 09 [1080p HEVC ...` | **220.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613917) • [🐱 Nyaa](https://nyaa.si/view/2118372) |
 | `[Erai-raws] Kami no Shizuku - 09 [1080p CR WEBRip HEVC AAC][MultiSu...` | **375.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/613906) • [🐱 Nyaa](https://nekobt.to/torrents/11517392981249) |
-| `[Trix] Botan Kamiina Fully Blossoms When Drunk S01E09 [WEBRip 1080p...` | **203.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613898) • [🐱 Nyaa](https://nyaa.si/view/2118368) |
-| `[Onalrie] Kami no Shizuku - S01E09 [1080p WEBRip AV1]` | **156.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/613911) • [🐱 Nyaa](https://onalrie.app/torrent/46393b88-e900-4bde-a4c9-7828b5184f75) |
-| `The Drops of God S01E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **1452.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/613907) • [🐱 Nyaa](https://nekobt.to/torrents/11517145762566) |
-| `[ASW] Snowball Earth - 10 [1080p HEVC x265 10Bit][AAC]` | **439.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613899) • [🐱 Nyaa](https://nyaa.si/view/2118366) |
-| `That Time I Got Reincarnated as a Slime S04E06 MULTi AD 1080p CR WE...` | **1470.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/613908) • [🐱 Nyaa](https://nekobt.to/torrents/11517046353669) |
-| `[ASW] Kami no Shizuku - 09 [1080p HEVC x265 10Bit][AAC]` | **195.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613900) • [🐱 Nyaa](https://nyaa.si/view/2118364) |
-| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E09 [WEB.1080p.AV1...` | **432.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613901) • [🐱 Nyaa](https://nyaa.si/view/2118361) |
-| `SNOWBALL EARTH S01E10 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H.264-Tsun...` | **1015.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/613886) • [🐱 Nyaa](https://nekobt.to/torrents/11516892489220) |
-| `[ToonsHub] Botan Kamiina Fully Blossoms When Drunk S01E09 1080p CR ...` | **1386.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/613887) • [🐱 Nyaa](https://nekobt.to/torrents/11516841468165) |
-| `Fist of the North Star HOKUTO NO KEN S01E11 MULTi 1080p AMZN WEB-DL...` | **595.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613888) • [🐱 Nyaa](https://nekobt.to/torrents/11516820371972) |
-| `[SubsPlease] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 09 (1080...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613902) • [🐱 Nyaa](https://nyaa.si/view/2118355) |
-| `[VARYG] Botan Kamiina Fully Blossoms When Drunk S01E09 1080p CR WEB...` | **1387.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/613889) • [🐱 Nyaa](https://nekobt.to/torrents/11516804549384) |
 
 ---
 <div align="center">
