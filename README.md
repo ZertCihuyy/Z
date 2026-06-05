@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.29.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.28.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,41 +9,45 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Jumat**
+### 📅 Jadwal Rilis Hari Ini: **Sabtu**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg" width="45" style="border-radius: 4px;"> | `05.10` | **[Hanakappa](https://anilist.co/anime/8336)** | *Comedy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg" width="45" style="border-radius: 4px;"> | `05.40` | **[Chiikawa](https://anilist.co/anime/140842)** | *Comedy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg" width="45" style="border-radius: 4px;"> | `16.55` | **[Pocket Monsters (2023)](https://anilist.co/anime/158871)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png" width="45" style="border-radius: 4px;"> | `17.00` | **[BEYBLADE X](https://anilist.co/anime/165159)** | *Action, Adventure, Sports* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.](https://anilist.co/anime/192808)** | *Comedy, Fantasy, Romance, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg" width="45" style="border-radius: 4px;"> | `20.30` | **[Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season](https://anilist.co/anime/170019)** | *Romance, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Tensei Shitara Slime Datta Ken 4th Season](https://anilist.co/anime/182205)** | *Action, Adventure, Comedy, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Kami no Shizuku](https://anilist.co/anime/202508)** | *Drama, Mystery, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Snowball Earth](https://anilist.co/anime/196144)** | *Action, Mecha, Sci-Fi* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg" width="45" style="border-radius: 4px;"> | `22.00` | **[Kamiina Botan, Yoeru Sugata wa Yuri no Hana](https://anilist.co/anime/187869)** | *Comedy, Romance, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169228-y79xDpZ29Vv4.jpg" width="45" style="border-radius: 4px;"> | `23.00` | **[Hokuto no Ken: FIST OF THE NORTH STAR](https://anilist.co/anime/169228)** | *Action, Drama, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png" width="45" style="border-radius: 4px;"> | `05.30` | **[Ninjala](https://anilist.co/anime/142274)** | *Action, Comedy, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png" width="45" style="border-radius: 4px;"> | `07.26` | **[Rilakkuma: Goyururi Yume no Tabi](https://anilist.co/anime/183231)** | *Fantasy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198411-FuPLk3KBEoFH.png" width="45" style="border-radius: 4px;"> | `07.30` | **[Nezumi-kun no Chokki (TV)](https://anilist.co/anime/198411)** | *Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)** | *Action, Adventure, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg" width="45" style="border-radius: 4px;"> | `14.30` | **[Crayon Shin-chan](https://anilist.co/anime/966)** | *Comedy, Ecchi, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg" width="45" style="border-radius: 4px;"> | `15.00` | **[Doraemon (2005)](https://anilist.co/anime/8687)** | *Adventure, Comedy, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg" width="45" style="border-radius: 4px;"> | `15.30` | **[Honzuki no Gekokujou: Ryoushu no Youjo](https://anilist.co/anime/171110)** | *Drama, Fantasy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg" width="45" style="border-radius: 4px;"> | `16.00` | **[Meitantei Conan](https://anilist.co/anime/235)** | *Adventure, Comedy, Mystery, Psychological* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg" width="45" style="border-radius: 4px;"> | `16.26` | **[Mairimashita! Iruma-kun 4](https://anilist.co/anime/184492)** | *Comedy, Fantasy, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg" width="45" style="border-radius: 4px;"> | `19.30` | **[Yowa Yowa Sensei](https://anilist.co/anime/185211)** | *Comedy, Ecchi, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Kill Ao](https://anilist.co/anime/198113)** | *Action, Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Akane-banashi](https://anilist.co/anime/196935)** | *Drama* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Yomi no Tsugai](https://anilist.co/anime/195600)** | *Action, Adventure, Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?](https://anilist.co/anime/200769)** | *Action, Adventure, Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg" width="45" style="border-radius: 4px;"> | `21.46` | **[MAO](https://anilist.co/anime/196012)** | *Drama, Mystery, Romance, Supernatural* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E09 1080p NF ...` | **876.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/613832) • [🐱 Nyaa](https://nekobt.to/torrents/11515728888074) |
-| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni S...` | **246.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/613833) • [🐱 Nyaa](https://nekobt.to/torrents/11515629768454) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E06 1080p CR ...` | **1690.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/613834) • [🐱 Nyaa](https://nekobt.to/torrents/11515574413065) |
-| `[Yameii] That Time I Got Reincarnated as a Slime - S04E07 [English ...` | **1401.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/613835) • [🐱 Nyaa](https://nekobt.to/torrents/11515513543691) |
-| `[Yameii] That Time I Got Reincarnated as a Slime - S04E06 [English ...` | **1404.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/613836) • [🐱 Nyaa](https://nekobt.to/torrents/11515513196037) |
-| `[ASW] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saretei...` | **131.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613816) • [🐱 Nyaa](https://nyaa.si/view/2118275) |
-| `That Time I Got Reincarnated as a Slime S04E09 Ruin Expedition 1080...` | **383.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613817) • [🐱 Nyaa](https://nyaa.si/view/2118274) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E07 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613818) • [🐱 Nyaa](https://nyaa.si/view/2118273) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E09 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613819) • [🐱 Nyaa](https://nyaa.si/view/2118272) |
-| `That Time I Got Reincarnated as a Slime S04E09 1080p NF WEB-DL AAC2...` | **876.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613822) • [🐱 Nyaa](https://nyaa.si/view/2118269) |
-| `That Time I Got Reincarnated as a Slime S04E06 The Council of the W...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613820) • [🐱 Nyaa](https://nyaa.si/view/2118271) |
-| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 09 (1080p) [961605...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613821) • [🐱 Nyaa](https://nyaa.si/view/2118270) |
-| `That Time I Got Reincarnated as a Slime S04E07 The Masterminds Iden...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613823) • [🐱 Nyaa](https://nyaa.si/view/2118268) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E06 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613826) • [🐱 Nyaa](https://nyaa.si/view/2118265) |
-| `That Time I Got Reincarnated as a Slime S04E09 1080p CR WEB-DL AAC2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613827) • [🐱 Nyaa](https://nyaa.si/view/2118263) |
+| `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E09 [108...` | **181.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/613910) • [🐱 Nyaa](https://onalrie.app/torrent/7268afb6-8228-4a66-a7c1-acd467f27547) |
+| `[Yameii] The Drops of God - S01E07 [English Dub] [CR WEB-DL 1080p H...` | **674.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613905) • [🐱 Nyaa](https://nekobt.to/torrents/11517494945537) |
+| `[Erai-raws] Kami no Shizuku - 09 [1080p CR WEBRip HEVC AAC][MultiSu...` | **375.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/613906) • [🐱 Nyaa](https://nekobt.to/torrents/11517392981249) |
+| `[Trix] Botan Kamiina Fully Blossoms When Drunk S01E09 [WEBRip 1080p...` | **203.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613898) • [🐱 Nyaa](https://nyaa.si/view/2118368) |
+| `[Onalrie] Kami no Shizuku - S01E09 [1080p WEBRip AV1]` | **156.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/613911) • [🐱 Nyaa](https://onalrie.app/torrent/46393b88-e900-4bde-a4c9-7828b5184f75) |
+| `The Drops of God S01E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **1452.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/613907) • [🐱 Nyaa](https://nekobt.to/torrents/11517145762566) |
+| `[ASW] Snowball Earth - 10 [1080p HEVC x265 10Bit][AAC]` | **439.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613899) • [🐱 Nyaa](https://nyaa.si/view/2118366) |
+| `That Time I Got Reincarnated as a Slime S04E06 MULTi AD 1080p CR WE...` | **1470.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/613908) • [🐱 Nyaa](https://nekobt.to/torrents/11517046353669) |
+| `[ASW] Kami no Shizuku - 09 [1080p HEVC x265 10Bit][AAC]` | **195.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613900) • [🐱 Nyaa](https://nyaa.si/view/2118364) |
+| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E09 [WEB.1080p.AV1...` | **432.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613901) • [🐱 Nyaa](https://nyaa.si/view/2118361) |
+| `SNOWBALL EARTH S01E10 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H.264-Tsun...` | **1015.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/613886) • [🐱 Nyaa](https://nekobt.to/torrents/11516892489220) |
+| `[ToonsHub] Botan Kamiina Fully Blossoms When Drunk S01E09 1080p CR ...` | **1386.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/613887) • [🐱 Nyaa](https://nekobt.to/torrents/11516841468165) |
+| `Fist of the North Star HOKUTO NO KEN S01E11 MULTi 1080p AMZN WEB-DL...` | **595.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613888) • [🐱 Nyaa](https://nekobt.to/torrents/11516820371972) |
+| `[SubsPlease] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 09 (1080...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613902) • [🐱 Nyaa](https://nyaa.si/view/2118355) |
+| `[VARYG] Botan Kamiina Fully Blossoms When Drunk S01E09 1080p CR WEB...` | **1387.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/613889) • [🐱 Nyaa](https://nekobt.to/torrents/11516804549384) |
 
 ---
 <div align="center">
