@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.08.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.35.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Maou no Musume wa Yasashi Sugiru - S01 [BD.1080p.AV1] | ...` | **3174.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613943) • [🐱 Nyaa](https://nyaa.si/view/2118419) |
+| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 09 [1080p...` | **450.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613941) • [🐱 Nyaa](https://nyaa.si/view/2118413) |
 | `[Cryon] Arknights - S01 + S02 + S03 - BD 1080p AV1 - Opus 5.1` | **27340.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613940) • [🐱 Nyaa](https://nyaa.si/view/2118410) |
 | `[SubsPlease] Jujutsu Kaisen - Kaigyoku Gyokusetsu (1080p) [C891D2DC...` | **6348.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613939) • [🐱 Nyaa](https://nyaa.si/view/2118405) |
 | `[Gecko] Chibi Godzilla Raids Again - S01E103 (ちびゴジラの逆襲; Chibi Godzi...` | **21.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613929) • [🐱 Nyaa](https://nyaa.si/view/2118403) |
@@ -46,8 +48,6 @@
 | `[Erai-raws] Hokuto no Ken (2026) - 11 [1080p AMZN WEBRip HEVC EAC3]...` | **746.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613921) • [🐱 Nyaa](https://nyaa.si/view/2118387) |
 | `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina ...` | **208.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613920) • [🐱 Nyaa](https://nyaa.si/view/2118382) |
 | `[SubVision] Mahou no Shimai LuluttoLilly - 09 (WEB 1080p x264 8Bit ...` | **527.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/613937) • [🐱 Nyaa](https://nekobt.to/torrents/11518108271879) |
-| `[VARYG] The Drops of God S01E07 The Pegasus in the Heavens 1080p CR...` | **1443.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/613918) • [🐱 Nyaa](https://nekobt.to/torrents/11517885381893) |
-| `[DKB] Tensei shitara Slime Datta Ken - S04E09 [1080p][HEVC x265 10b...` | **532.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613912) • [🐱 Nyaa](https://nyaa.si/view/2118379) |
 
 ---
 <div align="center">
