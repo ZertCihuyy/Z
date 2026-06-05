@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.12.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.29.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,21 +29,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Hitori no Shita - The Outcast - S06E23 [1080p WEBRip AV1]` | **259.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/613784) • [🐱 Nyaa](https://onalrie.app/torrent/a5c87425-e4b7-432e-9e39-e8007c74c3a3) |
-| `JUJUTSU KAISEN Hidden Inventory Premature Death The Movie 2025 1080...` | **6553.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613782) • [🐱 Nyaa](https://nyaa.si/view/2118081) |
-| `Monster Eater S01E10 1080p AMZN WEB-DL DDP2.0 H 264-VARYG (Mamonogu...` | **579.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613783) • [🐱 Nyaa](https://nyaa.si/view/2118079) |
-| `[Gecko] Monster Eater - S01E10 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～; Mamonogu...` | **421.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613780) • [🐱 Nyaa](https://nyaa.si/view/2118078) |
-| `given To the Sea 2024 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Dual...` | **4812.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613781) • [🐱 Nyaa](https://nyaa.si/view/2118077) |
-| `[BlackRabbit] The Qwaser of Stigmata (2010) - S01 [Bluray-1080p][Op...` | **3850.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613779) • [🐱 Nyaa](https://nekobt.to/torrents/11506158025486) |
-| `[Gecko] Koala's Diary - S01E35 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **77.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613778) • [🐱 Nyaa](https://nyaa.si/view/2118076) |
-| `[Gecko] Kujima Why Sing, When You Can Warble - S01E09 (クジマ歌えば家ほろろ; ...` | **700.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613775) • [🐱 Nyaa](https://nyaa.si/view/2118069) |
-| `[Gecko] Chiikawa - S01E349 (ちいかわ) [TVER.WEB-DL 1080P AVC, AAC][F594...` | **36.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/613774) • [🐱 Nyaa](https://nekobt.to/torrents/11504693050891) |
-| `[Hentai] Iya na Kao sare nagara Opantsu Misete Moraitai Returns (Se...` | **567.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613772) • [🐱 Nyaa](https://nyaa.si/view/2118066) |
-| `[Hentai] Iya na Kao sare nagara Opantsu Misete Moraitai Returns (S3...` | **83.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613773) • [🐱 Nyaa](https://nyaa.si/view/2118065) |
-| `The Outcast S06E23 1080p CR WEB-DL AAC2.0 H 264-VARYG (Yi Ren Zhi X...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613771) • [🐱 Nyaa](https://nyaa.si/view/2118059) |
-| `[ASW] Hitori no Shita - The Outcast S6 - 23 [1080p HEVC x265 10Bit]...` | **361.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613770) • [🐱 Nyaa](https://nyaa.si/view/2118058) |
-| `[ToonsHub] The Outcast S06E23 1080p CR WEB-DL AAC2.0 H.264 (Multi-S...` | **1609.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/613760) • [🐱 Nyaa](https://nekobt.to/torrents/11503482743303) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 23 (1080p) [2C72C9B...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613767) • [🐱 Nyaa](https://nyaa.si/view/2118046) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E09 1080p NF ...` | **876.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/613832) • [🐱 Nyaa](https://nekobt.to/torrents/11515728888074) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni S...` | **246.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/613833) • [🐱 Nyaa](https://nekobt.to/torrents/11515629768454) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E06 1080p CR ...` | **1690.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/613834) • [🐱 Nyaa](https://nekobt.to/torrents/11515574413065) |
+| `[Yameii] That Time I Got Reincarnated as a Slime - S04E07 [English ...` | **1401.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/613835) • [🐱 Nyaa](https://nekobt.to/torrents/11515513543691) |
+| `[Yameii] That Time I Got Reincarnated as a Slime - S04E06 [English ...` | **1404.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/613836) • [🐱 Nyaa](https://nekobt.to/torrents/11515513196037) |
+| `[ASW] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saretei...` | **131.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613816) • [🐱 Nyaa](https://nyaa.si/view/2118275) |
+| `That Time I Got Reincarnated as a Slime S04E09 Ruin Expedition 1080...` | **383.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613817) • [🐱 Nyaa](https://nyaa.si/view/2118274) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E07 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613818) • [🐱 Nyaa](https://nyaa.si/view/2118273) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E09 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613819) • [🐱 Nyaa](https://nyaa.si/view/2118272) |
+| `That Time I Got Reincarnated as a Slime S04E09 1080p NF WEB-DL AAC2...` | **876.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613822) • [🐱 Nyaa](https://nyaa.si/view/2118269) |
+| `That Time I Got Reincarnated as a Slime S04E06 The Council of the W...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613820) • [🐱 Nyaa](https://nyaa.si/view/2118271) |
+| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 09 (1080p) [961605...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613821) • [🐱 Nyaa](https://nyaa.si/view/2118270) |
+| `That Time I Got Reincarnated as a Slime S04E07 The Masterminds Iden...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613823) • [🐱 Nyaa](https://nyaa.si/view/2118268) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E06 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613826) • [🐱 Nyaa](https://nyaa.si/view/2118265) |
+| `That Time I Got Reincarnated as a Slime S04E09 1080p CR WEB-DL AAC2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613827) • [🐱 Nyaa](https://nyaa.si/view/2118263) |
 
 ---
 <div align="center">
