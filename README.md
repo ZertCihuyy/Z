@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.14.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.50.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,21 +29,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `The Ramparts of Ice S01E10 1080p NF WEB-DL AAC2.0 AV1 (Multi-Subs) ...` | **169.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613753) • [🐱 Nyaa](https://nyaa.si/view/2118010) |
-| `[DKB] Mata Korosarete Shimatta no desu ne, Tantei-sama - S01E10 [10...` | **265.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613754) • [🐱 Nyaa](https://nyaa.si/view/2118006) |
-| `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E10 [1080p][HE...` | **272.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613752) • [🐱 Nyaa](https://nyaa.si/view/2118005) |
-| `[SubsPlus+] Kirio Fan Club - S01E10 (ABEMA WEB-DL 1080p AVC EAC3) |...` | **720.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613751) • [🐱 Nyaa](https://nyaa.si/view/2117988) |
-| `[SubsPlus+] Petals of Reincarnation - S01E10 (AMZN WEB-DL 1080p AVC...` | **1403.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613750) • [🐱 Nyaa](https://nekobt.to/torrents/11498467057414) |
-| `[Erai-raws] Awajima Hyakkei - 09 [1080p CR WEBRip HEVC AAC][MultiSu...` | **360.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613748) • [🐱 Nyaa](https://nyaa.si/view/2117986) |
-| `[ToonsHub] Rent-a-Girlfriend S05E06 1080p CR WEB-DL MULTi AAC2.0 H....` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613749) • [🐱 Nyaa](https://nyaa.si/view/2117985) |
-| `Rent a Girlfriend S05E06 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **1461.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/613747) • [🐱 Nyaa](https://nekobt.to/torrents/11498168320256) |
-| `Petals of Reincarnation S01E10 The Faceless Man 1080p AMZN WEB-DL D...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613743) • [🐱 Nyaa](https://nyaa.si/view/2117983) |
-| `Kirio Fan Club S01E10 I Hear Kirios Quitting the Team 1080p ABMA WE...` | **740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613744) • [🐱 Nyaa](https://nyaa.si/view/2117982) |
-| `[ToonsHub] Scum of the Brave S01E20 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **815.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613745) • [🐱 Nyaa](https://nyaa.si/view/2117981) |
-| `[ToonsHub] Scum of the Brave S01E19 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **843.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613746) • [🐱 Nyaa](https://nyaa.si/view/2117980) |
-| `[DKB] Reincarnation no Kaben - S01E10 [1080p][HEVC x265 10bit][weekly]` | **509.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/613740) • [🐱 Nyaa](https://nyaa.si/view/2117978) |
-| `[DKB] Koori no Jouheki - S01E10 [1080p][HEVC x265 10bit][Dual-Audio...` | **291.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613741) • [🐱 Nyaa](https://nyaa.si/view/2117977) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-sama - 10 [...` | **421.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613742) • [🐱 Nyaa](https://nyaa.si/view/2117976) |
+| `[Gecko] Koala's Diary - S01E35 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **77.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613778) • [🐱 Nyaa](https://nyaa.si/view/2118076) |
+| `[Gecko] Kujima Why Sing, When You Can Warble - S01E09 (クジマ歌えば家ほろろ; ...` | **700.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613775) • [🐱 Nyaa](https://nyaa.si/view/2118069) |
+| `[Gecko] Chiikawa - S01E349 (ちいかわ) [TVER.WEB-DL 1080P AVC, AAC][F594...` | **36.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/613774) • [🐱 Nyaa](https://nekobt.to/torrents/11504693050891) |
+| `[Hentai] Iya na Kao sare nagara Opantsu Misete Moraitai Returns (Se...` | **567.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613772) • [🐱 Nyaa](https://nyaa.si/view/2118066) |
+| `[Hentai] Iya na Kao sare nagara Opantsu Misete Moraitai Returns (S3...` | **83.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613773) • [🐱 Nyaa](https://nyaa.si/view/2118065) |
+| `The Outcast S06E23 1080p CR WEB-DL AAC2.0 H 264-VARYG (Yi Ren Zhi X...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613771) • [🐱 Nyaa](https://nyaa.si/view/2118059) |
+| `[ASW] Hitori no Shita - The Outcast S6 - 23 [1080p HEVC x265 10Bit]...` | **361.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613770) • [🐱 Nyaa](https://nyaa.si/view/2118058) |
+| `[ToonsHub] The Outcast S06E23 1080p CR WEB-DL AAC2.0 H.264 (Multi-S...` | **1609.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/613760) • [🐱 Nyaa](https://nekobt.to/torrents/11503482743303) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 23 (1080p) [2C72C9B...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613767) • [🐱 Nyaa](https://nyaa.si/view/2118046) |
+| `[ToonsHub] given The Movie: Hiiragi Mix (2024) 1080p CR WEB-DL DUAL...` | **4212.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/613762) • [🐱 Nyaa](https://nekobt.to/torrents/11503441171213) |
+| `[Erai-raws] Hitori no Shita: The Outcast S06E23 (CA) [1080p CR WEB-...` | **1545.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/613765) • [🐱 Nyaa](https://nekobt.to/torrents/11503426153990) |
+| `given The Movie Hiiragi Mix 2024 1080p CR WEB-DL DUAL AAC2.0 H 264-...` | **4198.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613757) • [🐱 Nyaa](https://nyaa.si/view/2118037) |
+| `[ToonsHub] JUJUTSU KAISEN: Hidden Inventory Premature Death The Mov...` | **6553.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613758) • [🐱 Nyaa](https://nyaa.si/view/2118036) |
+| `[ToonsHub] given The Movie: To the Sea (2024) 1080p CR WEB-DL DUAL ...` | **4812.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613759) • [🐱 Nyaa](https://nyaa.si/view/2118033) |
+| `JUJUTSU KAISEN Hidden Inventory Premature Death The Movie (2025) SU...` | **6860.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613756) • [🐱 Nyaa](https://nyaa.si/view/2118022) |
 
 ---
 <div align="center">
