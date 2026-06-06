@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.17.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.51.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Yowayowa Sensei - S01E09 [1080p WEBRip AV1]` | **163.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/614073) • [🐱 Nyaa](https://onalrie.app/torrent/f1e3bace-14a5-42de-8029-0ffaeac300eb) |
-| `[Erai-raws] Yowayowa Sensei - 09 [1080p ADN WEBRip HEVC AAC][MultiS...` | **252.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/614071) • [🐱 Nyaa](https://nekobt.to/torrents/11536733869824) |
-| `[miniAUTISM] Dagashi Kashi - S01 + S02 (BD Rip 1080p AV1 OPUS｜MULTI...` | **5203.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614072) • [🐱 Nyaa](https://nekobt.to/torrents/11536625142543) |
-| `[Ironclad] Honzuki no Gekokujou - S04E09 [WEB.1080p.AV1] | Ascendan...` | **283.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614070) • [🐱 Nyaa](https://nyaa.si/view/2118641) |
-| `[ASW] Yowayowa Sensei - 09 [1080p HEVC x265 10Bit][AAC]` | **233.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614068) • [🐱 Nyaa](https://nyaa.si/view/2118637) |
-| `[SubsPlease] Kanteishi (Kari) - 11 (1080p) [DB878B28].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614056) • [🐱 Nyaa](https://nyaa.si/view/2118632) |
-| `The strongest job is apparently not a hero or a sage but an apprais...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614058) • [🐱 Nyaa](https://nyaa.si/view/2118629) |
-| `[ToonsHub] The strongest job is apparently not a hero or a sage but...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614059) • [🐱 Nyaa](https://nyaa.si/view/2118628) |
-| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kan...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614063) • [🐱 Nyaa](https://nyaa.si/view/2118624) |
-| `[Erai-raws] Detective Conan - Hanamaru na Answer [1080p CR WEBRip H...` | **484.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614064) • [🐱 Nyaa](https://nyaa.si/view/2118622) |
-| `[ToonsHub] Yowayowa Sensei S01E09 1080p UNCENSORED ADN WEB-DL AAC2....` | **566.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614065) • [🐱 Nyaa](https://nyaa.si/view/2118621) |
-| `KILL BLUE S01E08 Versus the Rindou Brothers 1080p AMZN WEB-DL MULTi...` | **1015.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614066) • [🐱 Nyaa](https://nyaa.si/view/2118620) |
-| `[SubsPlus+] Yowayowa Sensei - S01E09 (ADN WEB-DL 1080p AVC AAC) (Un...` | **565.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/614055) • [🐱 Nyaa](https://nekobt.to/torrents/11535881233675) |
-| `[Erai-raws] Yowayowa Sensei - 09 [1080p ADN WEB-DL AVC AAC][MultiSu...` | **565.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/614054) • [🐱 Nyaa](https://nekobt.to/torrents/11535867113985) |
-| `[ToonsHub] One Piece EP1164 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **862.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614047) • [🐱 Nyaa](https://nyaa.si/view/2118613) |
+| `[Erai-raws] Akane-banashi - 10 [1080p NF WEB-DL AVC AAC][MultiSub][...` | **918.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614097) • [🐱 Nyaa](https://nyaa.si/view/2118695) |
+| `[ASW] Kill Ao - 09 [1080p HEVC x265 10Bit][AAC]` | **324.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614094) • [🐱 Nyaa](https://nyaa.si/view/2118684) |
+| `[ToonsHub] Akane-Banashi S01E10 REPACK 1080p NF WEB-DL AAC2.0 H.264...` | **903.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614095) • [🐱 Nyaa](https://nyaa.si/view/2118683) |
+| `[Erai-raws] Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kan...` | **568.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614096) • [🐱 Nyaa](https://nyaa.si/view/2118682) |
+| `[BlackRabbit] Saekano - How to Raise a Boring Girlfriend (2015) - S...` | **846.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/614092) • [🐱 Nyaa](https://nekobt.to/torrents/11537638323713) |
+| `[Onalrie] Kill Ao - S01E09 [1080p WEBRip AV1]` | **228.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/614093) • [🐱 Nyaa](https://onalrie.app/torrent/887e7304-a964-440a-9cc0-6d36a011b9c3) |
+| `Daemons of the Shadow Realm S01E10 Long-Arm and Long-Leg 1080p NF W...` | **863.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614088) • [🐱 Nyaa](https://nyaa.si/view/2118679) |
+| `Akane Banashi S01E10 1080p NF WEB-DL AAC2.0 H 264-VARYG (Akane-bana...` | **903.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614089) • [🐱 Nyaa](https://nyaa.si/view/2118675) |
+| `[ToonsHub] Akane-Banashi S01E10 1080p NF WEB-DL AAC2.0 H.264 (Multi...` | **315.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614090) • [🐱 Nyaa](https://nyaa.si/view/2118674) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E10 1080p NF WEB-DL AAC2....` | **863.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614091) • [🐱 Nyaa](https://nyaa.si/view/2118672) |
+| `[Onalrie] Kanteishi (Kari) - S01E11 [1080p WEBRip AV1]` | **220.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/614087) • [🐱 Nyaa](https://onalrie.app/torrent/ade6d645-7722-4744-a0bd-08c517898abf) |
+| `[ToonsHub] KILL BLUE S01E09 1080p NF WEB-DL AAC2.0 H.264 (Kill Ao, ...` | **864.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614074) • [🐱 Nyaa](https://nyaa.si/view/2118668) |
+| `[ToonsHub] KILL BLUE S01E09 1080p CR WEB-DL AAC2.0 H.264 (Kill Ao, ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614075) • [🐱 Nyaa](https://nyaa.si/view/2118667) |
+| `One Piece S01E1164 1080p NF WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **862.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614076) • [🐱 Nyaa](https://nyaa.si/view/2118666) |
+| `KILL BLUE S01E09 The Impossible Aftermath of an Impossible Game 108...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614077) • [🐱 Nyaa](https://nyaa.si/view/2118664) |
 
 ---
 <div align="center">
