@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.19.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.48.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Daemons of the Shadow Realm S01E07 MULTi 1080p CR WEB-DL AAC2.0 x26...` | **1417.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/614179) • [🐱 Nyaa](https://nekobt.to/torrents/11539445985031) |
-| `[Yameii] NEEDY GIRL OVERDOSE - S01E06 [English Dub] [CR WEB-DL 1080...` | **1382.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/614180) • [🐱 Nyaa](https://nekobt.to/torrents/11539433543944) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E10 1080p CR WEB-DL AAC2.0 H.264 ...` | **1504.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/614181) • [🐱 Nyaa](https://nekobt.to/torrents/11539430885642) |
-| `[Onalrie] Yomi no Tsugai - S01E10 [1080p WEBRip AV1]` | **349.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/614183) • [🐱 Nyaa](https://onalrie.app/torrent/00301da9-39bb-4255-8c58-b0fe40c7b7f1) |
-| `[ToonsHub] Ichijyoma Mankitsu Gurashi S01E09 1080p AMZN WEB-DL DDP2...` | **852.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614166) • [🐱 Nyaa](https://nyaa.si/view/2118801) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E06 1080p CR WEB-DL DUAL AAC2.0 H...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614167) • [🐱 Nyaa](https://nyaa.si/view/2118800) |
-| `Mistress Kanan is Devilishly Easy S01E07 Kanans Summer Break 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614168) • [🐱 Nyaa](https://nyaa.si/view/2118799) |
-| `[Erai-raws] Needy Girl Overdose - 10 [1080p CR WEB-DL AVC AAC][Mult...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614171) • [🐱 Nyaa](https://nyaa.si/view/2118795) |
-| `[SubsPlease] NEEDY GIRL OVERDOSE - 10 (1080p) [E869D245].mkv` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614172) • [🐱 Nyaa](https://nyaa.si/view/2118794) |
-| `[DKB] Mairimashita! Iruma-kun - S04E10 [1080p][HEVC x265 10bit][Dua...` | **670.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614175) • [🐱 Nyaa](https://nyaa.si/view/2118789) |
-| `[DKB] Yowayowa Sensei - S01E09 [1080p][HEVC x265 10bit][weekly]` | **239.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614176) • [🐱 Nyaa](https://nyaa.si/view/2118788) |
-| `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Era...` | **358.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614177) • [🐱 Nyaa](https://nyaa.si/view/2118787) |
-| `[Judas] Akane-banashi - S01E10 [1080p][HEVC x265 10bit][Multi-Subs]...` | **298.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614178) • [🐱 Nyaa](https://nyaa.si/view/2118786) |
-| `[LoliHouse] 最强的职业不是勇者也不是贤者好像是鉴定士(暂定)的样子？ / Kanteishi (Kari) - 11 [W...` | **737.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614157) • [🐱 Nyaa](https://nyaa.si/view/2118785) |
-| `[ToonsHub] Kusunokis Garden of Gods S01E10 1080p CR WEB-DL AAC2.0 H...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614158) • [🐱 Nyaa](https://nyaa.si/view/2118781) |
+| `[DKB] Yomi no Tsugai - S01E10 [1080p][HEVC x265 10bit][Multi-Subs][...` | **695.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614222) • [🐱 Nyaa](https://nyaa.si/view/2118864) |
+| `[Onalrie] NEEDY GIRL OVERDOSE - S01E10 [1080p WEBRip AV1]` | **489.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614221) • [🐱 Nyaa](https://onalrie.app/torrent/35efc2a3-0c05-4e29-ad1e-42d7268d651f) |
+| `[Erai-raws] Akane-banashi - 10 [1080p NF WEBRip HEVC AAC][MultiSub]...` | **379.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614218) • [🐱 Nyaa](https://nyaa.si/view/2118858) |
+| `[ASW] Shunkashuutou Daikousha - Haru no Mai - 11 [1080p HEVC x265 1...` | **171.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614219) • [🐱 Nyaa](https://nyaa.si/view/2118856) |
+| `[ASW] Kami no Niwatsuki Kusunoki-tei - 10 [1080p HEVC x265 10Bit][AAC]` | **269.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614215) • [🐱 Nyaa](https://nyaa.si/view/2118855) |
+| `[Ironclad] Daemons of the Shadow Realm - S01E10 (WEB 1080p AV1) | Y...` | **577.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/614213) • [🐱 Nyaa](https://nekobt.to/torrents/11540196396545) |
+| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E11 [1080p WEB...` | **150.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/614214) • [🐱 Nyaa](https://onalrie.app/torrent/e9eabc37-07c2-48c2-baf5-30819ee56750) |
+| `[Serenae] Detective Conan - A Hanamaru Answer (1080p).mkv (Meitante...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614211) • [🐱 Nyaa](https://nyaa.si/view/2118847) |
+| `[Raze] Yomi no Tsugai - 10 x265 10bit 1080p 143.8561fps.mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614205) • [🐱 Nyaa](https://nyaa.si/view/2118843) |
+| `[Judas] Kami no Niwatsuki Kusunoki-tei (Kusunoki's Garden of Gods) ...` | **269.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614206) • [🐱 Nyaa](https://nyaa.si/view/2118842) |
+| `[ASW] Yomi no Tsugai - 10 [1080p HEVC x265 10Bit][AAC]` | **529.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614207) • [🐱 Nyaa](https://nyaa.si/view/2118840) |
+| `[Onalrie] Kami no Niwatsuki Kusunoki-tei - S01E10 [1080p WEBRip AV1]` | **228.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/614210) • [🐱 Nyaa](https://onalrie.app/torrent/21d09a08-5fdb-424b-9b1a-183a8ef0b9cb) |
+| `[Erai-raws] Yomi no Tsugai - 10 [1080p CR WEBRip HEVC AAC][MultiSub...` | **689.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614208) • [🐱 Nyaa](https://nyaa.si/view/2118838) |
+| `[ToonsHub] NEEDY GIRL OVERDOSE S01E06 1080p CR WEB-DL MULTi AAC2.0 ...` | **1484.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/614203) • [🐱 Nyaa](https://nekobt.to/torrents/11539685833227) |
+| `[VARYG] Ichijyoma Mankitsu Gurashi S01E09 Marika the Target 1080p A...` | **858.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/614204) • [🐱 Nyaa](https://nekobt.to/torrents/11539678097930) |
 
 ---
 <div align="center">
