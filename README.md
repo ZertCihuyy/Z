@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.48.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.13.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S01E08 [1080...` | **428.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614230) • [🐱 Nyaa](https://nyaa.si/view/2118873) |
+| `Agents of the Four Seasons Dance of Spring S01E11 CUSTOM SUBFRENCH ...` | **846.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/614231) • [🐱 Nyaa](https://nekobt.to/torrents/11541826871813) |
+| `[ASW] NEEDY GIRL OVERDOSE - 10 [1080p HEVC x265 10Bit][AAC]` | **731.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614229) • [🐱 Nyaa](https://nyaa.si/view/2118871) |
+| `[ASW] Yuusha no Kuzu - 21 [1080p HEVC x265 10Bit][AAC]` | **516.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614225) • [🐱 Nyaa](https://nyaa.si/view/2118870) |
+| `[Erai-raws] Akane-banashi - 05 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **344.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614226) • [🐱 Nyaa](https://nyaa.si/view/2118868) |
+| `Agents of the Four Seasons Dance of Spring S01E09 United Front 1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614227) • [🐱 Nyaa](https://nyaa.si/view/2118867) |
+| `[Judas] NEEDY GIRL OVERDOSE - S01E10 [1080p][HEVC x265 10bit][Multi...` | **715.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614228) • [🐱 Nyaa](https://nyaa.si/view/2118866) |
+| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01E08 1080p ...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614223) • [🐱 Nyaa](https://nyaa.si/view/2118865) |
+| `[Onalrie] Yuusha no Kuzu - S01E21 [1080p WEBRip AV1]` | **287.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/614224) • [🐱 Nyaa](https://onalrie.app/torrent/ca1bd19c-479e-42e3-b33b-5f8b9e5d57b8) |
 | `[DKB] Yomi no Tsugai - S01E10 [1080p][HEVC x265 10bit][Multi-Subs][...` | **695.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614222) • [🐱 Nyaa](https://nyaa.si/view/2118864) |
 | `[Onalrie] NEEDY GIRL OVERDOSE - S01E10 [1080p WEBRip AV1]` | **489.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614221) • [🐱 Nyaa](https://onalrie.app/torrent/35efc2a3-0c05-4e29-ad1e-42d7268d651f) |
 | `[Erai-raws] Akane-banashi - 10 [1080p NF WEBRip HEVC AAC][MultiSub]...` | **379.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614218) • [🐱 Nyaa](https://nyaa.si/view/2118858) |
 | `[ASW] Shunkashuutou Daikousha - Haru no Mai - 11 [1080p HEVC x265 1...` | **171.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614219) • [🐱 Nyaa](https://nyaa.si/view/2118856) |
 | `[ASW] Kami no Niwatsuki Kusunoki-tei - 10 [1080p HEVC x265 10Bit][AAC]` | **269.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614215) • [🐱 Nyaa](https://nyaa.si/view/2118855) |
 | `[Ironclad] Daemons of the Shadow Realm - S01E10 (WEB 1080p AV1) | Y...` | **577.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/614213) • [🐱 Nyaa](https://nekobt.to/torrents/11540196396545) |
-| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E11 [1080p WEB...` | **150.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/614214) • [🐱 Nyaa](https://onalrie.app/torrent/e9eabc37-07c2-48c2-baf5-30819ee56750) |
-| `[Serenae] Detective Conan - A Hanamaru Answer (1080p).mkv (Meitante...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614211) • [🐱 Nyaa](https://nyaa.si/view/2118847) |
-| `[Raze] Yomi no Tsugai - 10 x265 10bit 1080p 143.8561fps.mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614205) • [🐱 Nyaa](https://nyaa.si/view/2118843) |
-| `[Judas] Kami no Niwatsuki Kusunoki-tei (Kusunoki's Garden of Gods) ...` | **269.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614206) • [🐱 Nyaa](https://nyaa.si/view/2118842) |
-| `[ASW] Yomi no Tsugai - 10 [1080p HEVC x265 10Bit][AAC]` | **529.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614207) • [🐱 Nyaa](https://nyaa.si/view/2118840) |
-| `[Onalrie] Kami no Niwatsuki Kusunoki-tei - S01E10 [1080p WEBRip AV1]` | **228.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/614210) • [🐱 Nyaa](https://onalrie.app/torrent/21d09a08-5fdb-424b-9b1a-183a8ef0b9cb) |
-| `[Erai-raws] Yomi no Tsugai - 10 [1080p CR WEBRip HEVC AAC][MultiSub...` | **689.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614208) • [🐱 Nyaa](https://nyaa.si/view/2118838) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E06 1080p CR WEB-DL MULTi AAC2.0 ...` | **1484.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/614203) • [🐱 Nyaa](https://nekobt.to/torrents/11539685833227) |
-| `[VARYG] Ichijyoma Mankitsu Gurashi S01E09 Marika the Target 1080p A...` | **858.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/614204) • [🐱 Nyaa](https://nekobt.to/torrents/11539678097930) |
 
 ---
 <div align="center">
