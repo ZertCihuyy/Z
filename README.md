@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.21.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.34.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sristi] Nazo no Kanojo X - 01 [1080p BD HEVC 10-bit OPUS]` | **888.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/613980) • [🐱 Nyaa](https://nekobt.to/torrents/11532026940675) |
+| `[ToonsHub] B King S01E17 1080p ADN WEB-DL AAC2.0 H.264 (Yu Ling Shi...` | **591.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613976) • [🐱 Nyaa](https://nyaa.si/view/2118508) |
+| `[Onalrie] Rilakkuma - S01E10 [1080p WEBRip AV1]` | **35.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/613978) • [🐱 Nyaa](https://onalrie.app/torrent/59dddd8c-7c52-448a-9434-6cb47fd4f085) |
+| `[ToonsHub] Jiang Ye S01E08 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **450.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/613977) • [🐱 Nyaa](https://nyaa.si/view/2118507) |
 | `[BlackRabbit] Days (2016) - S01 [Bluray-1080p][Opus 2.0][AV1]` | **3896.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/613974) • [🐱 Nyaa](https://nekobt.to/torrents/11529471879687) |
 | `Don't.Toy.With.Me.Miss.Nagatoro.S02.1080p.BluRay.Dual-Audio.Opus.2....` | **16486.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613972) • [🐱 Nyaa](https://nyaa.si/view/2118499) |
 | `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 08 [1080p][YT]` | **362.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613973) • [🐱 Nyaa](https://nyaa.si/view/2118495) |
@@ -44,10 +48,6 @@
 | `[ToonsHub] B King S01E17 1080p BILI WEB-DL AAC2.0 H.265 (Yu Ling Sh...` | **427.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613966) • [🐱 Nyaa](https://nyaa.si/view/2118480) |
 | `[Erai-raws] Rilakkuma - 10 [1080p CR WEBRip HEVC AAC][MultiSub][4B8...` | **42.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/613964) • [🐱 Nyaa](https://nekobt.to/torrents/11525530302210) |
 | `[ToonsHub] Magical Sisters LuluttoLilly S01E09 1080p AMZN WEB-DL DD...` | **577.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613963) • [🐱 Nyaa](https://nyaa.si/view/2118472) |
-| `[ASW] Rilakkuma - 10 [1080p HEVC x265 10Bit][AAC]` | **40.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613962) • [🐱 Nyaa](https://nyaa.si/view/2118471) |
-| `[ToonsHub] RILAKKUMA S01E10 1080p CR WEB-DL DUAL AAC2.0 H.264 (Rila...` | **91.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613954) • [🐱 Nyaa](https://nyaa.si/view/2118468) |
-| `RILAKKUMA S01E10 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Rilakkuma...` | **95.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613955) • [🐱 Nyaa](https://nyaa.si/view/2118467) |
-| `[SubsPlease] Rilakkuma - 10 (1080p) [CCD9BA10].mkv` | **93.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613957) • [🐱 Nyaa](https://nyaa.si/view/2118463) |
 
 ---
 <div align="center">
