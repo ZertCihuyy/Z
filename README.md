@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.58.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.21.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Days (2016) - S01 [Bluray-1080p][Opus 2.0][AV1]` | **3896.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/613974) • [🐱 Nyaa](https://nekobt.to/torrents/11529471879687) |
+| `Don't.Toy.With.Me.Miss.Nagatoro.S02.1080p.BluRay.Dual-Audio.Opus.2....` | **16486.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613972) • [🐱 Nyaa](https://nyaa.si/view/2118499) |
+| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 08 [1080p][YT]` | **362.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613973) • [🐱 Nyaa](https://nyaa.si/view/2118495) |
+| `RILAKKUMA S01E10 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Rilakkum...` | **98.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613969) • [🐱 Nyaa](https://nyaa.si/view/2118491) |
+| `[Kakumei Subs] Honzuki no Gekokujou S04E08 v0 [1080p WEB H264 AAC] ...` | **1467.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/613970) • [🐱 Nyaa](https://nekobt.to/torrents/11527356521218) |
 | `[Some-Stuffs] Pocket Monsters (2023) 139 (1080p HEVC 10-bit) [F3003...` | **991.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/613967) • [🐱 Nyaa](https://nyaa.si/view/2118483) |
 | `[Some-Stuffs] Pocket Monsters (2023) 139 (1080p) [1E6AF242]` | **491.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/613968) • [🐱 Nyaa](https://nyaa.si/view/2118482) |
 | `[Gecko] B.King - S01E17 (驭灵师; Yu Ling Shi) [BILI.WEB-DL 1080P AVC, ...` | **452.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613965) • [🐱 Nyaa](https://nyaa.si/view/2118481) |
@@ -43,11 +48,6 @@
 | `[ToonsHub] RILAKKUMA S01E10 1080p CR WEB-DL DUAL AAC2.0 H.264 (Rila...` | **91.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/613954) • [🐱 Nyaa](https://nyaa.si/view/2118468) |
 | `RILAKKUMA S01E10 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Rilakkuma...` | **95.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613955) • [🐱 Nyaa](https://nyaa.si/view/2118467) |
 | `[SubsPlease] Rilakkuma - 10 (1080p) [CCD9BA10].mkv` | **93.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613957) • [🐱 Nyaa](https://nyaa.si/view/2118463) |
-| `[Erai-raws] Rilakkuma - 10 [1080p CR WEB-DL AVC AAC][MultiSub][544B...` | **88.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/613961) • [🐱 Nyaa](https://nyaa.si/view/2118456) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 09 [1080p AMZN WEBRip H...` | **313.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/613950) • [🐱 Nyaa](https://nyaa.si/view/2118454) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 09 [1080p AMZN WEB-DL A...` | **577.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/613953) • [🐱 Nyaa](https://nyaa.si/view/2118451) |
-| `[AnoZu] Dropkick on My Devil! S00E02 Episode 12 1080p CR WEB-DL H26...` | **1395.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/613948) • [🐱 Nyaa](https://nekobt.to/torrents/11523569414158) |
-| `[AnoZu] Dropkick on My Devil! S01 1080p CR WEB-DL H264 AAC 2.0` | **15478.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/613949) • [🐱 Nyaa](https://nekobt.to/torrents/11523540571399) |
 
 ---
 <div align="center">
