@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.10.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.19.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Detective Conan - The Gold-Star Answer (1080p) [2BC348...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614025) • [🐱 Nyaa](https://nyaa.si/view/2118585) |
+| `[Some-Stuffs] Pocket Monsters (2023) 139 (1080p HEVC 10-bit) v2 [FD...` | **991.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614028) • [🐱 Nyaa](https://nyaa.si/view/2118577) |
+| `[Some-Stuffs] Pocket Monsters (2023) 139 (1080p) v2 [59CC029F]` | **491.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614029) • [🐱 Nyaa](https://nyaa.si/view/2118576) |
+| `[BlackRabbit] Saekano - How to Raise a Boring Girlfriend (2015) - S...` | **1987.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/614023) • [🐱 Nyaa](https://nekobt.to/torrents/11534556133121) |
+| `Detective Conan S00E84 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsund...` | **586.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/614024) • [🐱 Nyaa](https://nekobt.to/torrents/11534549777928) |
+| `[ToonsHub] Detective Conan S00E84 1080p NF WEB-DL AAC2.0 H.264 (Mei...` | **868.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614021) • [🐱 Nyaa](https://nyaa.si/view/2118573) |
+| `[ToonsHub] Detective Conan S00E84 The Gold-Star Answer 1080p CR WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614017) • [🐱 Nyaa](https://nyaa.si/view/2118572) |
+| `Ascendance of a Bookworm S04E06 Harspiel Concert 1080p CR WEB-DL MU...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614018) • [🐱 Nyaa](https://nyaa.si/view/2118565) |
+| `Detective Conan S01E00 The Gold-Star Answer 1080p CR WEB-DL AAC2.0 ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614019) • [🐱 Nyaa](https://nyaa.si/view/2118564) |
+| `[ASW] Mairimashita! Iruma-kun S4 - 10 [1080p HEVC x265 10Bit][AAC]` | **577.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614020) • [🐱 Nyaa](https://nyaa.si/view/2118562) |
+| `[Onalrie] Mairimashita! Iruma-kun - S04E10 [1080p WEBRip AV1]` | **398.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/614016) • [🐱 Nyaa](https://onalrie.app/torrent/bb337c20-f42f-46af-8005-84eda8c58525) |
 | `[VARYG] Welcome to Demon School Iruma kun S04E10 Love Trio 1080p BI...` | **529.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/614014) • [🐱 Nyaa](https://nekobt.to/torrents/11533777866760) |
 | `[ToonsHub] Welcome to Demon School Iruma-kun S04E10 1080p BILI WEB-...` | **492.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/614015) • [🐱 Nyaa](https://nekobt.to/torrents/11533775331598) |
 | `Welcome to Demon School Iruma kun S04E10 Triple Love Squad 1080p CR...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614013) • [🐱 Nyaa](https://nyaa.si/view/2118556) |
 | `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Er...` | **227.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614000) • [🐱 Nyaa](https://nyaa.si/view/2118554) |
-| `[Yameii] Welcome to Demon School! Iruma-kun - S04E10 [English Dub] ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614001) • [🐱 Nyaa](https://nyaa.si/view/2118553) |
-| `[ToonsHub] Way of Choices 2026 S01E21 1080p iQ WEB-DL AAC2.0 H.264 ...` | **458.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614003) • [🐱 Nyaa](https://nyaa.si/view/2118551) |
-| `Welcome to Demon School Iruma kun S04E10 Triple Love Squad 1080p CR...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614004) • [🐱 Nyaa](https://nyaa.si/view/2118550) |
-| `[SubsPlease] Mairimashita! Iruma-kun S4 - 10 (1080p) [9CF25E22].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614006) • [🐱 Nyaa](https://nyaa.si/view/2118547) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E10 1080p CR WEB-DL...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614005) • [🐱 Nyaa](https://nyaa.si/view/2118548) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E10 1080p CR WEB-DL...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614007) • [🐱 Nyaa](https://nyaa.si/view/2118546) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 10 [1080p CR WEB-DL...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614012) • [🐱 Nyaa](https://nyaa.si/view/2118540) |
-| `[ASW] Honzuki no Gekokujou S4 - 09 [1080p HEVC x265 10Bit][AAC]` | **224.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/613999) • [🐱 Nyaa](https://nyaa.si/view/2118539) |
-| `[Onalrie] Honzuki no Gekokujou - S04E09 [1080p WEBRip AV1]` | **183.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/613998) • [🐱 Nyaa](https://onalrie.app/torrent/039ebdb9-48ff-4dd4-b1e4-fa317e677ae6) |
-| `[BlackRabbit] Saekano - How to Raise a Boring Girlfriend (2015) - S...` | **1650.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/613997) • [🐱 Nyaa](https://nekobt.to/torrents/11532841075717) |
-| `[Yameii] Ascendance of a Bookworm - S04E07 [English Dub] [CR WEB-DL...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/613992) • [🐱 Nyaa](https://nyaa.si/view/2118534) |
 
 ---
 <div align="center">
