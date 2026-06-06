@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.44.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.48.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mao - 10 [1080p DSNP WEBRip HEVC AAC][MultiSub][43F88BE2]` | **423.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614269) • [🐱 Nyaa](https://nyaa.si/view/2118926) |
+| `[DKB] Akane-banashi - S01E10 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **359.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614265) • [🐱 Nyaa](https://nyaa.si/view/2118923) |
+| `[DKB] Needy Girl Overdose - S01E10 [1080p][HEVC x265 10bit][Multi-S...` | **837.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614266) • [🐱 Nyaa](https://nyaa.si/view/2118922) |
+| `[DKB] Kill Ao - S01E09 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **445.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614267) • [🐱 Nyaa](https://nyaa.si/view/2118921) |
+| `[DKB] Kanan-sama wa Akumade Choroi - S01E10 [1080p][HEVC x265 10bit...` | **396.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614268) • [🐱 Nyaa](https://nyaa.si/view/2118920) |
 | `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 11 [1080p CR WEB...` | **583.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614262) • [🐱 Nyaa](https://nyaa.si/view/2118919) |
 | `[Sokudo] Dr. STONE - Science Future - S04E33 [1080p AV1][Dual Audio...` | **512.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614263) • [🐱 Nyaa](https://nyaa.si/view/2118918) |
 | `[Breeze] Dr. STONE - Science Future - S04E33 [1080p AV1][Dual Audio...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614264) • [🐱 Nyaa](https://nyaa.si/view/2118917) |
@@ -43,11 +48,6 @@
 | `MAO S01E10 Taizanfukun 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Maoyuu...` | **939.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614253) • [🐱 Nyaa](https://nyaa.si/view/2118903) |
 | `Agents of the Four Seasons Dance of Spring S01E11 Impatience REPACK...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614255) • [🐱 Nyaa](https://nyaa.si/view/2118901) |
 | `[ASW] Shunkashuutou Daikousha - Haru no Mai - 11v2 [1080p HEVC x265...` | **287.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614257) • [🐱 Nyaa](https://nyaa.si/view/2118899) |
-| `[Erai-raws] Needy Girl Overdose - 10 [1080p CR WEBRip HEVC AAC][Mul...` | **905.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614247) • [🐱 Nyaa](https://nyaa.si/view/2118898) |
-| `[ToonsHub] MAO S01E10 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **939.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614248) • [🐱 Nyaa](https://nyaa.si/view/2118897) |
-| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E11 Rev. 2 [10...` | **207.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/614250) • [🐱 Nyaa](https://onalrie.app/torrent/abb04c32-b8b8-46dd-a4d8-c81a9ebd4e68) |
-| `[Erai-raws] Hateshinaki Scarlet - Movie [1080p NF WEB-DL AVC EAC3][...` | **4608.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614246) • [🐱 Nyaa](https://nyaa.si/view/2118894) |
-| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E08 ...` | **565.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614243) • [🐱 Nyaa](https://nyaa.si/view/2118891) |
 
 ---
 <div align="center">
