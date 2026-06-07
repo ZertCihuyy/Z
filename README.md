@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.36.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.13.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **422.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614360) • [🐱 Nyaa](https://nekobt.to/torrents/11556888156423) |
+| `[LbE3L] Daemons of the Shadow Realm S01E07 [1080p CUSTOM WEBRip HEV...` | **721.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/614361) • [🐱 Nyaa](https://nekobt.to/torrents/11556688828675) |
+| `[vLbE3L] Daemons of the Shadow Realm S01E07 [1080p CUSTOM WEBRip VV...` | **350.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/614359) • [🐱 Nyaa](https://nekobt.to/torrents/11556631055362) |
+| `[Judas] Dia no Ace (Ace of the Diamond) - S04E10 [1080p][HEVC x265 ...` | **305.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614358) • [🐱 Nyaa](https://nyaa.si/view/2119154) |
+| `[Polarwindz] A Kite  (1998) (BD 1080p HEVC Opus + FLAC)` | **6553.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614357) • [🐱 Nyaa](https://nyaa.si/view/2119152) |
 | `[Yameii] Wistoria: Wand and Sword - S02E07 [English Dub] [CR WEB-DL...` | **1392.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/614356) • [🐱 Nyaa](https://nekobt.to/torrents/11555404098817) |
 | `[VARYG] Wistoria Wand and Sword S02E06 The First Bloom 1080p CR WEB...` | **1712.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/614354) • [🐱 Nyaa](https://nekobt.to/torrents/11555195824399) |
 | `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sword) - S02...` | **445.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614353) • [🐱 Nyaa](https://nyaa.si/view/2119143) |
@@ -43,11 +48,6 @@
 | `[Himejoshi]  ⯎ NEEDY GIRL OVERDOSE ⯎  S01E06 (WEB 1080p AV1) | 06 |...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614348) • [🐱 Nyaa](https://nyaa.si/view/2119138) |
 | `[ASW] Tsue to Tsurugi no Wistoria S2 - 09 [1080p HEVC x265 10Bit][AAC]` | **444.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614349) • [🐱 Nyaa](https://nyaa.si/view/2119137) |
 | `[Onalrie] Tsue to Tsurugi no Wistoria - S02E09 [1080p WEBRip AV1]` | **364.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/614347) • [🐱 Nyaa](https://onalrie.app/torrent/700f02da-515f-48c8-9ddd-5bb4c175d35f) |
-| `Ace of the Diamond S04E10 My Fight 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614339) • [🐱 Nyaa](https://nyaa.si/view/2119136) |
-| `[ToonsHub] Ace of Diamond S04E10 1080p CR WEB-DL AAC2.0 H.264 (Diam...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614340) • [🐱 Nyaa](https://nyaa.si/view/2119135) |
-| `[SubsPlease] Ace of Diamond Act II S2 - 10 (1080p) [A4AA090D].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614341) • [🐱 Nyaa](https://nyaa.si/view/2119132) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 10 [1080p CR WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614345) • [🐱 Nyaa](https://nyaa.si/view/2119127) |
-| `[ToonsHub] Wistoria Wand and Sword S02E06 1080p CR WEB-DL MULTi AAC...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614338) • [🐱 Nyaa](https://nyaa.si/view/2119125) |
 
 ---
 <div align="center">
