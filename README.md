@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.06.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.36.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `KILL BLUE S01E09 SUBFRENCH 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **903.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/614312) • [🐱 Nyaa](https://nekobt.to/torrents/11552938646028) |
-| `KILL BLUE S01E09 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **338.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/614313) • [🐱 Nyaa](https://nekobt.to/torrents/11552933360139) |
-| `KILL BLUE S01E09 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **197.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/614314) • [🐱 Nyaa](https://nekobt.to/torrents/11552929601802) |
-| `KILL BLUE S01E08 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **404.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/614315) • [🐱 Nyaa](https://nekobt.to/torrents/11552926697993) |
-| `KILL BLUE S01E08 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **200.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/614316) • [🐱 Nyaa](https://nekobt.to/torrents/11552922674954) |
-| `KILL BLUE S01E07 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **420.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/614317) • [🐱 Nyaa](https://nekobt.to/torrents/11552919588872) |
-| `KILL BLUE S01E07 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **187.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614318) • [🐱 Nyaa](https://nekobt.to/torrents/11552916148745) |
-| `KILL BLUE S01E06 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **395.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/614319) • [🐱 Nyaa](https://nekobt.to/torrents/11552913542666) |
-| `KILL BLUE S01E06 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **229.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/614320) • [🐱 Nyaa](https://nekobt.to/torrents/11552909834505) |
-| `Akane banashi S01E05 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1022.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/614321) • [🐱 Nyaa](https://nekobt.to/torrents/11552905826057) |
-| `Akane banashi S01E05 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **245.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/614322) • [🐱 Nyaa](https://nekobt.to/torrents/11552900491784) |
-| `Akane banashi S01E05 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **270.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/614323) • [🐱 Nyaa](https://nekobt.to/torrents/11552896981768) |
-| `Mission Yozakura Family S02E09 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H...` | **844.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/614310) • [🐱 Nyaa](https://nekobt.to/torrents/11552683505412) |
-| `[Onalrie] Digimon Beatbreak - S01E34 [1080p WEBRip AV1]` | **325.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/614311) • [🐱 Nyaa](https://onalrie.app/torrent/1eac2e55-df41-43fb-bdb1-b26ec1616749) |
-| `[VARYG] Mission Yozakura Family S02E09 Tsubomi and Mutsumi 1080p DS...` | **845.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/614306) • [🐱 Nyaa](https://nekobt.to/torrents/11552308553987) |
+| `[Yameii] Wistoria: Wand and Sword - S02E07 [English Dub] [CR WEB-DL...` | **1392.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/614356) • [🐱 Nyaa](https://nekobt.to/torrents/11555404098817) |
+| `[VARYG] Wistoria Wand and Sword S02E06 The First Bloom 1080p CR WEB...` | **1712.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/614354) • [🐱 Nyaa](https://nekobt.to/torrents/11555195824399) |
+| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sword) - S02...` | **445.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614353) • [🐱 Nyaa](https://nyaa.si/view/2119143) |
+| `[MΔD MΔX] My Sister, My Writer AKA Ore ga Suki nano wa Imōto dakedo...` | **5820.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/614355) • [🐱 Nyaa](https://nekobt.to/torrents/11554967992576) |
+| `[ASW] Ace of Diamond Act II S2 - 10 [1080p HEVC x265 10Bit][AAC]` | **308.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614351) • [🐱 Nyaa](https://nyaa.si/view/2119142) |
+| `Wistoria Wand and Sword S02E09 The Page To Be Turned 1080p NF WEB-D...` | **872.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614352) • [🐱 Nyaa](https://nyaa.si/view/2119141) |
+| `[Onalrie] Ace of Diamond Act II - S02E10 [1080p WEBRip AV1]` | **236.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/614350) • [🐱 Nyaa](https://onalrie.app/torrent/2cf623bb-0193-44f8-8976-4af80025fcd8) |
+| `[Himejoshi]  ⯎ NEEDY GIRL OVERDOSE ⯎  S01E06 (WEB 1080p AV1) | 06 |...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614348) • [🐱 Nyaa](https://nyaa.si/view/2119138) |
+| `[ASW] Tsue to Tsurugi no Wistoria S2 - 09 [1080p HEVC x265 10Bit][AAC]` | **444.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614349) • [🐱 Nyaa](https://nyaa.si/view/2119137) |
+| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E09 [1080p WEBRip AV1]` | **364.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/614347) • [🐱 Nyaa](https://onalrie.app/torrent/700f02da-515f-48c8-9ddd-5bb4c175d35f) |
+| `Ace of the Diamond S04E10 My Fight 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614339) • [🐱 Nyaa](https://nyaa.si/view/2119136) |
+| `[ToonsHub] Ace of Diamond S04E10 1080p CR WEB-DL AAC2.0 H.264 (Diam...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614340) • [🐱 Nyaa](https://nyaa.si/view/2119135) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 10 (1080p) [A4AA090D].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614341) • [🐱 Nyaa](https://nyaa.si/view/2119132) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 10 [1080p CR WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614345) • [🐱 Nyaa](https://nyaa.si/view/2119127) |
+| `[ToonsHub] Wistoria Wand and Sword S02E06 1080p CR WEB-DL MULTi AAC...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614338) • [🐱 Nyaa](https://nyaa.si/view/2119125) |
 
 ---
 <div align="center">
