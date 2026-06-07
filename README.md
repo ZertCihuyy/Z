@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.24.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.06.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ASW] Digimon Beatbreak - 34 [1080p HEVC x265 10Bit][AAC]` | **442.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614293) • [🐱 Nyaa](https://nyaa.si/view/2119023) |
-| `[FSP] Douluo Dalu II - Soul Land 2 - 156 [1080p]` | **513.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614295) • [🐱 Nyaa](https://nyaa.si/view/2119021) |
-| `[VARYG] Digimon Beatbreak S01E34 Behind the Mask 1080p CR WEB-DL AA...` | **1380.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/614286) • [🐱 Nyaa](https://nekobt.to/torrents/11548616450816) |
-| `[SubsPlease] Digimon Beatbreak - 34 (1080p) [CA3F6F45].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614290) • [🐱 Nyaa](https://nyaa.si/view/2119006) |
-| `[ToonsHub] Digimon Beatbreak S01E34 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1378.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/614287) • [🐱 Nyaa](https://nekobt.to/torrents/11548598330112) |
-| `[Erai-raws] Digimon Beatbreak - 34 [1080p CR WEB-DL AVC AAC][031C6CE4]` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614284) • [🐱 Nyaa](https://nyaa.si/view/2118998) |
-| `[ToonsHub] The Other Side of Deep Space S01E23 1080p BILI WEB-DL AA...` | **612.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614285) • [🐱 Nyaa](https://nyaa.si/view/2118997) |
-| `[Erai-raws] Yuusha no Kuzu - 21 [1080p CR WEBRip HEVC AAC][MultiSub...` | **943.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614283) • [🐱 Nyaa](https://nyaa.si/view/2118996) |
-| `[ASW] Meitantei Precure! - 19 [1080p HEVC x265 10Bit][AAC]` | **560.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614282) • [🐱 Nyaa](https://nyaa.si/view/2118990) |
-| `[Erai-raws] Kanan-sama wa Akumade Choroi - 10 [1080p CR WEBRip HEVC...` | **618.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614275) • [🐱 Nyaa](https://nyaa.si/view/2118978) |
-| `[SubsPlease] Meitantei Precure! - 19 (1080p) [0B129769].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614276) • [🐱 Nyaa](https://nyaa.si/view/2118977) |
-| `[Erai-raws] Meitantei Precure - 19 [1080p CR WEB-DL AVC AAC][54F96881]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614281) • [🐱 Nyaa](https://nyaa.si/view/2118972) |
-| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 10 [1080p CR WEBRip HE...` | **425.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614274) • [🐱 Nyaa](https://nyaa.si/view/2118956) |
-| `[DKB] MAO - S01E10 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **411.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614273) • [🐱 Nyaa](https://nyaa.si/view/2118949) |
-| `Scarlet (2025) MULTi 1080p NF WEB-DL DDP5.1 x264-Tsundere-Raws (VF,...` | **8499.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614270) • [🐱 Nyaa](https://nyaa.si/view/2118931) |
+| `KILL BLUE S01E09 SUBFRENCH 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **903.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/614312) • [🐱 Nyaa](https://nekobt.to/torrents/11552938646028) |
+| `KILL BLUE S01E09 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **338.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/614313) • [🐱 Nyaa](https://nekobt.to/torrents/11552933360139) |
+| `KILL BLUE S01E09 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **197.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/614314) • [🐱 Nyaa](https://nekobt.to/torrents/11552929601802) |
+| `KILL BLUE S01E08 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **404.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/614315) • [🐱 Nyaa](https://nekobt.to/torrents/11552926697993) |
+| `KILL BLUE S01E08 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **200.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/614316) • [🐱 Nyaa](https://nekobt.to/torrents/11552922674954) |
+| `KILL BLUE S01E07 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **420.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/614317) • [🐱 Nyaa](https://nekobt.to/torrents/11552919588872) |
+| `KILL BLUE S01E07 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **187.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614318) • [🐱 Nyaa](https://nekobt.to/torrents/11552916148745) |
+| `KILL BLUE S01E06 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **395.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/614319) • [🐱 Nyaa](https://nekobt.to/torrents/11552913542666) |
+| `KILL BLUE S01E06 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **229.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/614320) • [🐱 Nyaa](https://nekobt.to/torrents/11552909834505) |
+| `Akane banashi S01E05 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1022.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/614321) • [🐱 Nyaa](https://nekobt.to/torrents/11552905826057) |
+| `Akane banashi S01E05 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **245.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/614322) • [🐱 Nyaa](https://nekobt.to/torrents/11552900491784) |
+| `Akane banashi S01E05 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **270.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/614323) • [🐱 Nyaa](https://nekobt.to/torrents/11552896981768) |
+| `Mission Yozakura Family S02E09 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H...` | **844.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/614310) • [🐱 Nyaa](https://nekobt.to/torrents/11552683505412) |
+| `[Onalrie] Digimon Beatbreak - S01E34 [1080p WEBRip AV1]` | **325.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/614311) • [🐱 Nyaa](https://onalrie.app/torrent/1eac2e55-df41-43fb-bdb1-b26ec1616749) |
+| `[VARYG] Mission Yozakura Family S02E09 Tsubomi and Mutsumi 1080p DS...` | **845.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/614306) • [🐱 Nyaa](https://nekobt.to/torrents/11552308553987) |
 
 ---
 <div align="center">
