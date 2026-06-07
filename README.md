@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.13.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.23.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **422.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614360) • [🐱 Nyaa](https://nekobt.to/torrents/11556888156423) |
-| `[LbE3L] Daemons of the Shadow Realm S01E07 [1080p CUSTOM WEBRip HEV...` | **721.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/614361) • [🐱 Nyaa](https://nekobt.to/torrents/11556688828675) |
-| `[vLbE3L] Daemons of the Shadow Realm S01E07 [1080p CUSTOM WEBRip VV...` | **350.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/614359) • [🐱 Nyaa](https://nekobt.to/torrents/11556631055362) |
-| `[Judas] Dia no Ace (Ace of the Diamond) - S04E10 [1080p][HEVC x265 ...` | **305.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614358) • [🐱 Nyaa](https://nyaa.si/view/2119154) |
-| `[Polarwindz] A Kite  (1998) (BD 1080p HEVC Opus + FLAC)` | **6553.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614357) • [🐱 Nyaa](https://nyaa.si/view/2119152) |
-| `[Yameii] Wistoria: Wand and Sword - S02E07 [English Dub] [CR WEB-DL...` | **1392.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/614356) • [🐱 Nyaa](https://nekobt.to/torrents/11555404098817) |
-| `[VARYG] Wistoria Wand and Sword S02E06 The First Bloom 1080p CR WEB...` | **1712.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/614354) • [🐱 Nyaa](https://nekobt.to/torrents/11555195824399) |
-| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sword) - S02...` | **445.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614353) • [🐱 Nyaa](https://nyaa.si/view/2119143) |
-| `[MΔD MΔX] My Sister, My Writer AKA Ore ga Suki nano wa Imōto dakedo...` | **5820.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/614355) • [🐱 Nyaa](https://nekobt.to/torrents/11554967992576) |
-| `[ASW] Ace of Diamond Act II S2 - 10 [1080p HEVC x265 10Bit][AAC]` | **308.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614351) • [🐱 Nyaa](https://nyaa.si/view/2119142) |
-| `Wistoria Wand and Sword S02E09 The Page To Be Turned 1080p NF WEB-D...` | **872.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614352) • [🐱 Nyaa](https://nyaa.si/view/2119141) |
-| `[Onalrie] Ace of Diamond Act II - S02E10 [1080p WEBRip AV1]` | **236.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/614350) • [🐱 Nyaa](https://onalrie.app/torrent/2cf623bb-0193-44f8-8976-4af80025fcd8) |
-| `[Himejoshi]  ⯎ NEEDY GIRL OVERDOSE ⯎  S01E06 (WEB 1080p AV1) | 06 |...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614348) • [🐱 Nyaa](https://nyaa.si/view/2119138) |
-| `[ASW] Tsue to Tsurugi no Wistoria S2 - 09 [1080p HEVC x265 10Bit][AAC]` | **444.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614349) • [🐱 Nyaa](https://nyaa.si/view/2119137) |
-| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E09 [1080p WEBRip AV1]` | **364.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/614347) • [🐱 Nyaa](https://onalrie.app/torrent/700f02da-515f-48c8-9ddd-5bb4c175d35f) |
+| `[ToonsHub] The Food Diary of Miss Maid S01E11 1080p CR WEB-DL AAC2....` | **1426.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/614387) • [🐱 Nyaa](https://nekobt.to/torrents/11558772974863) |
+| `[SubsPlease] Maid-san wa Taberu Dake - 11 (1080p) [89A80C94].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614380) • [🐱 Nyaa](https://nyaa.si/view/2119206) |
+| `The Food Diary of Miss Maid S01E11 Stollen Persimmon Yuzu and Chris...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614381) • [🐱 Nyaa](https://nyaa.si/view/2119204) |
+| `[Erai-raws] Maid-san wa Taberu dake - 11 [1080p CR WEB-DL AVC AAC][...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614385) • [🐱 Nyaa](https://nyaa.si/view/2119198) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E10 MULTi 10...` | **421.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/614375) • [🐱 Nyaa](https://nekobt.to/torrents/11558241433100) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E10 MULTi 10...` | **1360.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/614376) • [🐱 Nyaa](https://nekobt.to/torrents/11558228572171) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E10 MULTi 10...` | **338.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/614377) • [🐱 Nyaa](https://nekobt.to/torrents/11558215771917) |
+| `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 09 [1080p CR W...` | **556.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614374) • [🐱 Nyaa](https://nyaa.si/view/2119189) |
+| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 09 [1080p D...` | **845.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614368) • [🐱 Nyaa](https://nyaa.si/view/2119176) |
+| `[Erai-raws] Hateshinaki Scarlet - Movie [1080p NF WEBRip HEVC EAC3]...` | **3379.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614369) • [🐱 Nyaa](https://nyaa.si/view/2119175) |
+| `[Erai-raws] Ginga Tokkyuu Milky Subway - Movie [1080p NF WEBRip HEV...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614370) • [🐱 Nyaa](https://nyaa.si/view/2119174) |
+| `[Erai-raws] Nippon Sangoku - 10 [1080p AMZN WEB-DL AVC EAC3][MultiS...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614373) • [🐱 Nyaa](https://nyaa.si/view/2119171) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E10 Reunion ...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614362) • [🐱 Nyaa](https://nyaa.si/view/2119167) |
+| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614363) • [🐱 Nyaa](https://nyaa.si/view/2119166) |
+| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614364) • [🐱 Nyaa](https://nyaa.si/view/2119165) |
 
 ---
 <div align="center">
