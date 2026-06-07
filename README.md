@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.16.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.44.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Seigyoku] Mahou no Shimai LuluttoLilly - 10 (WEB 1080p) [24446A2D]...` | **680.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614461) • [🐱 Nyaa](https://nyaa.si/view/2119368) |
+| `[Erai-raws] One Piece - 1165 [1080p CR WEBRip HEVC AAC][MultiSub][8...` | **538.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/614456) • [🐱 Nyaa](https://nekobt.to/torrents/11565270833926) |
+| `[Erai-raws] One Piece - 1165 [1080p CR WEB-DL AVC AAC][MultiSub][23...` | **1386.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614459) • [🐱 Nyaa](https://nekobt.to/torrents/11565262916360) |
+| `[BlackRabbit] Amagami SS (2010) - S01 [Bluray-1080p][Opus 2.0][AV1]` | **2588.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/614460) • [🐱 Nyaa](https://nekobt.to/torrents/11565164333578) |
+| `[KawaSubs] The Demon King's Daughter is Too Kind - S01E07 [WEB 1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614454) • [🐱 Nyaa](https://nyaa.si/view/2119363) |
+| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E09 [1080p][HEVC x265 10b...` | **555.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614453) • [🐱 Nyaa](https://nyaa.si/view/2119362) |
+| `Digimon Beatbreak S01E34 Behind the Mask REPACK 1080p CR WEB-DL AAC...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614452) • [🐱 Nyaa](https://nyaa.si/view/2119361) |
 | `[Erai-raws] Hateshinaki Scarlet - Movie (V2) [1080p NF WEBRip HEVC ...` | **3379.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614450) • [🐱 Nyaa](https://nyaa.si/view/2119346) |
 | `[Erai-raws] Hateshinaki Scarlet - Movie (V2) [1080p NF WEB-DL AVC E...` | **4608.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614451) • [🐱 Nyaa](https://nyaa.si/view/2119345) |
 | `[Erai-raws] Diamond no Ace: Act II Second Season - 10 [1080p CR WEB...` | **554.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614447) • [🐱 Nyaa](https://nyaa.si/view/2119341) |
@@ -31,13 +38,6 @@
 | `[Erai-raws] Digimon Beatbreak - 34 (REPACK) [1080p CR WEB-DL AVC AA...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614445) • [🐱 Nyaa](https://nyaa.si/view/2119333) |
 | `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 09 [1080p CR WEBRip HE...` | **607.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614446) • [🐱 Nyaa](https://nyaa.si/view/2119326) |
 | `[Erai-raws] Ghost Concert: Missing Songs - 10 [1080p CR WEBRip HEVC...` | **335.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614440) • [🐱 Nyaa](https://nyaa.si/view/2119325) |
-| `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E10 1080p U...` | **85.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614439) • [🐱 Nyaa](https://nyaa.si/view/2119303) |
-| `[Trix] Ghost Concert: Missing Songs S01E10 [WEBRip 1080p AV1 Opus] ...` | **250.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614438) • [🐱 Nyaa](https://nyaa.si/view/2119301) |
-| `[DKB] Maid-san wa Taberu dake - S01E11 [1080p][HEVC x265 10bit][Mul...` | **219.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614433) • [🐱 Nyaa](https://nyaa.si/view/2119294) |
-| `[DKB] Nippon Sangoku - S01E10 [1080p][HEVC x265 10bit][Dual-Audio][...` | **624.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614434) • [🐱 Nyaa](https://nyaa.si/view/2119293) |
-| `[DKB] Tsue to Tsurugi no Wistoria - S02E09 [1080p][HEVC x265 10bit]...` | **590.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614435) • [🐱 Nyaa](https://nyaa.si/view/2119292) |
-| `[ASW] One Piece - 1165 [1080p HEVC x265 10Bit][AAC]` | **361.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614436) • [🐱 Nyaa](https://nyaa.si/view/2119291) |
-| `[DKB] Yozakura-san Chi no Daisakusen - S02E09 [1080p][HEVC x265 10b...` | **421.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614437) • [🐱 Nyaa](https://nyaa.si/view/2119290) |
 
 ---
 <div align="center">
