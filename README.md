@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.44.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.48.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] One Piece - 1165 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **332.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614462) • [🐱 Nyaa](https://nyaa.si/view/2119376) |
 | `[Seigyoku] Mahou no Shimai LuluttoLilly - 10 (WEB 1080p) [24446A2D]...` | **680.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614461) • [🐱 Nyaa](https://nyaa.si/view/2119368) |
 | `[Erai-raws] One Piece - 1165 [1080p CR WEBRip HEVC AAC][MultiSub][8...` | **538.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/614456) • [🐱 Nyaa](https://nekobt.to/torrents/11565270833926) |
 | `[Erai-raws] One Piece - 1165 [1080p CR WEB-DL AVC AAC][MultiSub][23...` | **1386.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614459) • [🐱 Nyaa](https://nekobt.to/torrents/11565262916360) |
@@ -37,7 +38,6 @@
 | `[Erai-raws] Digimon Beatbreak - 34 [1080p CR WEBRip HEVC AAC][Multi...` | **535.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614442) • [🐱 Nyaa](https://nyaa.si/view/2119336) |
 | `[Erai-raws] Digimon Beatbreak - 34 (REPACK) [1080p CR WEB-DL AVC AA...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614445) • [🐱 Nyaa](https://nyaa.si/view/2119333) |
 | `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 09 [1080p CR WEBRip HE...` | **607.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614446) • [🐱 Nyaa](https://nyaa.si/view/2119326) |
-| `[Erai-raws] Ghost Concert: Missing Songs - 10 [1080p CR WEBRip HEVC...` | **335.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614440) • [🐱 Nyaa](https://nyaa.si/view/2119325) |
 
 ---
 <div align="center">
