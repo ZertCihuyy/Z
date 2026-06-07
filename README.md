@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.23.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.49.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Digimon Beatbreak - 34 [1080p CR WEBRip HEVC AAC][Multi...` | **535.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614442) • [🐱 Nyaa](https://nyaa.si/view/2119336) |
+| `[Erai-raws] Digimon Beatbreak - 34 (REPACK) [1080p CR WEB-DL AVC AA...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614445) • [🐱 Nyaa](https://nyaa.si/view/2119333) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 09 [1080p CR WEBRip HE...` | **607.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614446) • [🐱 Nyaa](https://nyaa.si/view/2119326) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 10 [1080p CR WEBRip HEVC...` | **335.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614440) • [🐱 Nyaa](https://nyaa.si/view/2119325) |
+| `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E10 1080p U...` | **85.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614439) • [🐱 Nyaa](https://nyaa.si/view/2119303) |
 | `[Trix] Ghost Concert: Missing Songs S01E10 [WEBRip 1080p AV1 Opus] ...` | **250.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614438) • [🐱 Nyaa](https://nyaa.si/view/2119301) |
 | `[DKB] Maid-san wa Taberu dake - S01E11 [1080p][HEVC x265 10bit][Mul...` | **219.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614433) • [🐱 Nyaa](https://nyaa.si/view/2119294) |
 | `[DKB] Nippon Sangoku - S01E10 [1080p][HEVC x265 10bit][Dual-Audio][...` | **624.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614434) • [🐱 Nyaa](https://nyaa.si/view/2119293) |
@@ -33,11 +38,6 @@
 | `[geckyzz] Marika's Love Meter Malfunction - S01 (茉莉花ちゃんの好感度はぶっ壊れている...` | **464.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/614430) • [🐱 Nyaa](https://nekobt.to/torrents/11560998042120) |
 | `[geckyzz] Marika's Love Meter Malfunction - S01E08 (茉莉花ちゃんの好感度はぶっ壊れ...` | **69.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614428) • [🐱 Nyaa](https://nyaa.si/view/2119286) |
 | `[ASW] Ghost Concert - missing Songs - 10 [1080p HEVC x265 10Bit][AAC]` | **231.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614429) • [🐱 Nyaa](https://nyaa.si/view/2119285) |
-| `[Onalrie] Ghost Concert - missing Songs - S01E10 [1080p WEBRip AV1]` | **172.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/614431) • [🐱 Nyaa](https://onalrie.app/torrent/444a912d-935f-4a0b-b879-0ffe1a160e97) |
-| `[ToonsHub] One Piece EP1165 1080p CR WEB-DL AAC2.0 H.264 (English-Sub)` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614417) • [🐱 Nyaa](https://nyaa.si/view/2119279) |
-| `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of a Black Ca...` | **443.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614418) • [🐱 Nyaa](https://nyaa.si/view/2119277) |
-| `One Piece S01E1165 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614419) • [🐱 Nyaa](https://nyaa.si/view/2119276) |
-| `[Erai-raws] Maid-san wa Taberu dake - 11 [1080p CR WEBRip HEVC AAC]...` | **337.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614420) • [🐱 Nyaa](https://nyaa.si/view/2119275) |
 
 ---
 <div align="center">
