@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.48.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.24.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Mao - 10 [1080p DSNP WEBRip HEVC AAC][MultiSub][43F88BE2]` | **423.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614269) • [🐱 Nyaa](https://nyaa.si/view/2118926) |
-| `[DKB] Akane-banashi - S01E10 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **359.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614265) • [🐱 Nyaa](https://nyaa.si/view/2118923) |
-| `[DKB] Needy Girl Overdose - S01E10 [1080p][HEVC x265 10bit][Multi-S...` | **837.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614266) • [🐱 Nyaa](https://nyaa.si/view/2118922) |
-| `[DKB] Kill Ao - S01E09 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **445.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614267) • [🐱 Nyaa](https://nyaa.si/view/2118921) |
-| `[DKB] Kanan-sama wa Akumade Choroi - S01E10 [1080p][HEVC x265 10bit...` | **396.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614268) • [🐱 Nyaa](https://nyaa.si/view/2118920) |
-| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 11 [1080p CR WEB...` | **583.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614262) • [🐱 Nyaa](https://nyaa.si/view/2118919) |
-| `[Sokudo] Dr. STONE - Science Future - S04E33 [1080p AV1][Dual Audio...` | **512.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614263) • [🐱 Nyaa](https://nyaa.si/view/2118918) |
-| `[Breeze] Dr. STONE - Science Future - S04E33 [1080p AV1][Dual Audio...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614264) • [🐱 Nyaa](https://nyaa.si/view/2118917) |
-| `NEEDY GIRL OVERDOSE S01E06 Turn Around and Count 2 Ten 1080p CR WEB...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614258) • [🐱 Nyaa](https://nyaa.si/view/2118913) |
-| `[Erai-raws] Mao - 10 [1080p DSNP WEB-DL AVC AAC][MultiSub][F6D708C2]` | **939.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614261) • [🐱 Nyaa](https://nyaa.si/view/2118910) |
-| `[Trix] Agents of the Four Seasons S01E11 [WEBRip 1080p AV1 Opus] (M...` | **261.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614251) • [🐱 Nyaa](https://nyaa.si/view/2118907) |
-| `[SubsPlease] SI-VIS - The Sound of Heroes (01-24) (1080p) [Batch]` | **33075.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614252) • [🐱 Nyaa](https://nyaa.si/view/2118904) |
-| `MAO S01E10 Taizanfukun 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Maoyuu...` | **939.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614253) • [🐱 Nyaa](https://nyaa.si/view/2118903) |
-| `Agents of the Four Seasons Dance of Spring S01E11 Impatience REPACK...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614255) • [🐱 Nyaa](https://nyaa.si/view/2118901) |
-| `[ASW] Shunkashuutou Daikousha - Haru no Mai - 11v2 [1080p HEVC x265...` | **287.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614257) • [🐱 Nyaa](https://nyaa.si/view/2118899) |
+| `[ASW] Digimon Beatbreak - 34 [1080p HEVC x265 10Bit][AAC]` | **442.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614293) • [🐱 Nyaa](https://nyaa.si/view/2119023) |
+| `[FSP] Douluo Dalu II - Soul Land 2 - 156 [1080p]` | **513.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614295) • [🐱 Nyaa](https://nyaa.si/view/2119021) |
+| `[VARYG] Digimon Beatbreak S01E34 Behind the Mask 1080p CR WEB-DL AA...` | **1380.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/614286) • [🐱 Nyaa](https://nekobt.to/torrents/11548616450816) |
+| `[SubsPlease] Digimon Beatbreak - 34 (1080p) [CA3F6F45].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614290) • [🐱 Nyaa](https://nyaa.si/view/2119006) |
+| `[ToonsHub] Digimon Beatbreak S01E34 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1378.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/614287) • [🐱 Nyaa](https://nekobt.to/torrents/11548598330112) |
+| `[Erai-raws] Digimon Beatbreak - 34 [1080p CR WEB-DL AVC AAC][031C6CE4]` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614284) • [🐱 Nyaa](https://nyaa.si/view/2118998) |
+| `[ToonsHub] The Other Side of Deep Space S01E23 1080p BILI WEB-DL AA...` | **612.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614285) • [🐱 Nyaa](https://nyaa.si/view/2118997) |
+| `[Erai-raws] Yuusha no Kuzu - 21 [1080p CR WEBRip HEVC AAC][MultiSub...` | **943.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614283) • [🐱 Nyaa](https://nyaa.si/view/2118996) |
+| `[ASW] Meitantei Precure! - 19 [1080p HEVC x265 10Bit][AAC]` | **560.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614282) • [🐱 Nyaa](https://nyaa.si/view/2118990) |
+| `[Erai-raws] Kanan-sama wa Akumade Choroi - 10 [1080p CR WEBRip HEVC...` | **618.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614275) • [🐱 Nyaa](https://nyaa.si/view/2118978) |
+| `[SubsPlease] Meitantei Precure! - 19 (1080p) [0B129769].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614276) • [🐱 Nyaa](https://nyaa.si/view/2118977) |
+| `[Erai-raws] Meitantei Precure - 19 [1080p CR WEB-DL AVC AAC][54F96881]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614281) • [🐱 Nyaa](https://nyaa.si/view/2118972) |
+| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 10 [1080p CR WEBRip HE...` | **425.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614274) • [🐱 Nyaa](https://nyaa.si/view/2118956) |
+| `[DKB] MAO - S01E10 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **411.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614273) • [🐱 Nyaa](https://nyaa.si/view/2118949) |
+| `Scarlet (2025) MULTi 1080p NF WEB-DL DDP5.1 x264-Tsundere-Raws (VF,...` | **8499.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614270) • [🐱 Nyaa](https://nyaa.si/view/2118931) |
 
 ---
 <div align="center">
