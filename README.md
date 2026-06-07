@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.23.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.52.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] The Food Diary of Miss Maid S01E11 1080p CR WEB-DL AAC2....` | **1426.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/614387) • [🐱 Nyaa](https://nekobt.to/torrents/11558772974863) |
-| `[SubsPlease] Maid-san wa Taberu Dake - 11 (1080p) [89A80C94].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614380) • [🐱 Nyaa](https://nyaa.si/view/2119206) |
-| `The Food Diary of Miss Maid S01E11 Stollen Persimmon Yuzu and Chris...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614381) • [🐱 Nyaa](https://nyaa.si/view/2119204) |
-| `[Erai-raws] Maid-san wa Taberu dake - 11 [1080p CR WEB-DL AVC AAC][...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614385) • [🐱 Nyaa](https://nyaa.si/view/2119198) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E10 MULTi 10...` | **421.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/614375) • [🐱 Nyaa](https://nekobt.to/torrents/11558241433100) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E10 MULTi 10...` | **1360.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/614376) • [🐱 Nyaa](https://nekobt.to/torrents/11558228572171) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E10 MULTi 10...` | **338.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/614377) • [🐱 Nyaa](https://nekobt.to/torrents/11558215771917) |
-| `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 09 [1080p CR W...` | **556.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614374) • [🐱 Nyaa](https://nyaa.si/view/2119189) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 09 [1080p D...` | **845.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614368) • [🐱 Nyaa](https://nyaa.si/view/2119176) |
-| `[Erai-raws] Hateshinaki Scarlet - Movie [1080p NF WEBRip HEVC EAC3]...` | **3379.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614369) • [🐱 Nyaa](https://nyaa.si/view/2119175) |
-| `[Erai-raws] Ginga Tokkyuu Milky Subway - Movie [1080p NF WEBRip HEV...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614370) • [🐱 Nyaa](https://nyaa.si/view/2119174) |
-| `[Erai-raws] Nippon Sangoku - 10 [1080p AMZN WEB-DL AVC EAC3][MultiS...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614373) • [🐱 Nyaa](https://nyaa.si/view/2119171) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E10 Reunion ...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614362) • [🐱 Nyaa](https://nyaa.si/view/2119167) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614363) • [🐱 Nyaa](https://nyaa.si/view/2119166) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614364) • [🐱 Nyaa](https://nyaa.si/view/2119165) |
+| `[ppkhoa] Akane-banashi S01E10 Jugemu 1080p DSNP WEB-DL DDP2.0 H.264...` | **922.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/614412) • [🐱 Nyaa](https://nekobt.to/torrents/11560222371852) |
+| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E09 [1080p WEBRip AV1]` | **296.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/614414) • [🐱 Nyaa](https://onalrie.app/torrent/685586be-e41b-4d4e-a83b-6855a8a2ecc3) |
+| `[ToonsHub] GHOST CONCERT missing Songs S01E10 1080p CR WEB-DL AAC2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614404) • [🐱 Nyaa](https://nyaa.si/view/2119263) |
+| `GHOST CONCERT missing Songs S01E10 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614405) • [🐱 Nyaa](https://nyaa.si/view/2119262) |
+| `[SubsPlease] Ghost Concert - missing Songs - 10 (1080p) [61B380B2].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614406) • [🐱 Nyaa](https://nyaa.si/view/2119260) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 10 [1080p CR WEB-DL AVC ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614411) • [🐱 Nyaa](https://nyaa.si/view/2119253) |
+| `[FuyuPOP] Koharu Biyori 01-03END (1080p x265 AC3x2 WEB)` | **1478.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/614403) • [🐱 Nyaa](https://nekobt.to/torrents/11559921169930) |
+| `The Classroom of a Black Cat and a Witch S01E09 Bond of Flames 1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614392) • [🐱 Nyaa](https://nyaa.si/view/2119246) |
+| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E09 1080p CR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614393) • [🐱 Nyaa](https://nyaa.si/view/2119245) |
+| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 09 (1080p) [0F72F2B7]...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614394) • [🐱 Nyaa](https://nyaa.si/view/2119242) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 09 [1080p CR WEB-DL AV...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614398) • [🐱 Nyaa](https://nyaa.si/view/2119237) |
+| `[Onalrie] Maid-san wa Taberu Dake - S01E11 [1080p WEBRip AV1]` | **136.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/614391) • [🐱 Nyaa](https://onalrie.app/torrent/eddce813-e7b1-4d8b-b43a-bc09154c9925) |
+| `[ASW] Maid-san wa Taberu Dake - 11 [1080p HEVC x265 10Bit][AAC]` | **163.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614390) • [🐱 Nyaa](https://nyaa.si/view/2119215) |
+| `[Erai-raws] Nippon Sangoku - 10 [1080p AMZN WEBRip HEVC EAC3][Multi...` | **569.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/614389) • [🐱 Nyaa](https://nekobt.to/torrents/11559040764427) |
+| `[Ironclad] Tensei Shitara Dragon no Tamago Datta - S01 [WEB.1080p.A...` | **6656.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614388) • [🐱 Nyaa](https://nyaa.si/view/2119210) |
 
 ---
 <div align="center">
