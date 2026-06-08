@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.53.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.15.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sgt] This Monster Wants to Eat Me - S01E06 (WEB 1080p HEVC EAC3) |...` | **1807.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614585) • [🐱 Nyaa](https://nekobt.to/torrents/11589049994241) |
 | `[Reza] Witch Hat Atelier - S01E11 [WEBRip AAC 1080p AAC] (Dual Audi...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614583) • [🐱 Nyaa](https://nyaa.si/view/2119677) |
 | `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **405.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614582) • [🐱 Nyaa](https://nyaa.si/view/2119676) |
 | `[AV1MERR] Metallic Rouge (2024) S01 (1080p BD AV1 Opus 5.1 Multi-Au...` | **3379.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614581) • [🐱 Nyaa](https://nyaa.si/view/2119674) |
@@ -44,7 +45,6 @@
 | `[WBDP] Seija Musou /  The Great Cleric - Dual Audio [BD][1080p-FLAC...` | **10240.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614571) • [🐱 Nyaa](https://nyaa.si/view/2119659) |
 | `Wistoria Wand and Sword S02E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264...` | **1457.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/614573) • [🐱 Nyaa](https://nekobt.to/torrents/11584871579917) |
 | `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E11...` | **567.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614569) • [🐱 Nyaa](https://nyaa.si/view/2119654) |
-| `[Poopoo] The Ossan Newbie Adventurer, Trained to Death by the Most ...` | **36966.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614570) • [🐱 Nyaa](https://nyaa.si/view/2119652) |
 
 ---
 <div align="center">
