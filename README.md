@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.52.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.53.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Reza] Witch Hat Atelier - S01E11 [WEBRip AAC 1080p AAC] (Dual Audi...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614583) • [🐱 Nyaa](https://nyaa.si/view/2119677) |
+| `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **405.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614582) • [🐱 Nyaa](https://nyaa.si/view/2119676) |
+| `[AV1MERR] Metallic Rouge (2024) S01 (1080p BD AV1 Opus 5.1 Multi-Au...` | **3379.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614581) • [🐱 Nyaa](https://nyaa.si/view/2119674) |
 | `Farming Life In Another World S02E10 Festivities and Fuushus Gratit...` | **777.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614579) • [🐱 Nyaa](https://nyaa.si/view/2119673) |
 | `[DKB] Digimon Beatbreak - S01E34 [1080p][HEVC x265 10bit][Multi-Sub...` | **514.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614580) • [🐱 Nyaa](https://nyaa.si/view/2119672) |
 | `[DKB] Isekai Nonbiri Nouka - S02E10 [1080p][HEVC x265 10bit][weekly]` | **380.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614578) • [🐱 Nyaa](https://nyaa.si/view/2119671) |
@@ -42,9 +45,6 @@
 | `Wistoria Wand and Sword S02E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264...` | **1457.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/614573) • [🐱 Nyaa](https://nekobt.to/torrents/11584871579917) |
 | `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E11...` | **567.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614569) • [🐱 Nyaa](https://nyaa.si/view/2119654) |
 | `[Poopoo] The Ossan Newbie Adventurer, Trained to Death by the Most ...` | **36966.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614570) • [🐱 Nyaa](https://nyaa.si/view/2119652) |
-| `[FLE] Re ZERO Starting Life in Another World - S04E09 (WEB 1080p HE...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614567) • [🐱 Nyaa](https://nyaa.si/view/2119648) |
-| `[Erai-raws] Isekai Nonbiri Nouka 2 - 10 [1080p ADN WEBRip HEVC AAC]...` | **355.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614568) • [🐱 Nyaa](https://nyaa.si/view/2119647) |
-| `[Judas] Liar Game - S01E10 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **170.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614564) • [🐱 Nyaa](https://nyaa.si/view/2119642) |
 
 ---
 <div align="center">
