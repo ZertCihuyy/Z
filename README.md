@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.56.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.16.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,21 +23,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Farming Life in Another World S02E10 1080p AMZN WEB-DL D...` | **752.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/614495) • [🐱 Nyaa](https://nekobt.to/torrents/11580903874823) |
+| `[Yameii] Witch Hat Atelier - S01E11 [English Dub] [CR WEB-DL 1080p ...` | **1384.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/614496) • [🐱 Nyaa](https://nekobt.to/torrents/11580899520527) |
+| `[VARYG] Witch Hat Atelier S01E11 The Test in Serpentback Cave 1080p...` | **1423.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/614498) • [🐱 Nyaa](https://nekobt.to/torrents/11580889226502) |
+| `[ToonsHub] Farming Life In Another World S02E10 1080p HIDIVE WEB-DL...` | **932.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/614499) • [🐱 Nyaa](https://nekobt.to/torrents/11580872089091) |
+| `[ToonsHub] Witch Hat Atelier S01E11 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1422.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/614500) • [🐱 Nyaa](https://nekobt.to/torrents/11580866039310) |
+| `[Erai-raws] Isekai Nonbiri Nouka 2 - 10 [1080p HIDIVE WEB-DL AVC AA...` | **932.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/614503) • [🐱 Nyaa](https://nekobt.to/torrents/11580860344333) |
+| `[ToonsHub] Witch Hat Atelier S01E11 1080p NF WEB-DL AAC2.0 H.264 (T...` | **865.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614489) • [🐱 Nyaa](https://nyaa.si/view/2119532) |
+| `[Erai-raws] Tongari Boushi no Atelier - 11 [1080p CR WEB-DL AVC AAC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614494) • [🐱 Nyaa](https://nyaa.si/view/2119526) |
+| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 43 (S04E07)...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614487) • [🐱 Nyaa](https://nyaa.si/view/2119512) |
+| `[LbE3L] The Beginning After the End S02E01–E07 [1080p CR WEBRip AV1...` | **2725.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614486) • [🐱 Nyaa](https://nekobt.to/torrents/11578709136899) |
+| `[ToonsHub] Exorcism Chronicles The Beginning (2025) 1080p AMZN WEB-...` | **5222.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614485) • [🐱 Nyaa](https://nyaa.si/view/2119505) |
+| `[Bird] Nikke Nichi! Non Non Zenshou Kichi - 02v2 (1080p) [12E61937]` | **43.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614482) • [🐱 Nyaa](https://nyaa.si/view/2119434) |
+| `[Bird] Nikke Nichi! Non Non Zenshou Kichi - 01 (1080p) [B4AF35B6]` | **46.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614483) • [🐱 Nyaa](https://nyaa.si/view/2119433) |
 | `[CicakRumah] Koupen-chan - S01E61 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **121.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614481) • [🐱 Nyaa](https://nyaa.si/view/2119432) |
 | `[LbE3L] Wistoria Wand and Sword S02E06 [1080p CR WEBRip AV1 Opus 2....` | **471.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/614479) • [🐱 Nyaa](https://nekobt.to/torrents/11573168346117) |
-| `[vLbE3L] Wistoria Wand and Sword S02E06 [1080p CR WEBRip VVC HE-AAC...` | **266.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/614480) • [🐱 Nyaa](https://nekobt.to/torrents/11573095805184) |
-| `[BlackRabbit] Amagami SS (2010) - S02 [Bluray-1080p][Opus 2.0][AV1]` | **1588.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/614478) • [🐱 Nyaa](https://nekobt.to/torrents/11572332181508) |
-| `[VARYG] One Piece S01E1165 A Welcome with Friends Cups and Intruder...` | **1385.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/614476) • [🐱 Nyaa](https://nekobt.to/torrents/11570761842447) |
-| `[VARYG] One Piece S01E1158 A Quest in the Land of Mystery The Secre...` | **393.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614477) • [🐱 Nyaa](https://nekobt.to/torrents/11570722249728) |
-| `[ToonsHub] One Piece EP1165 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **321.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/614475) • [🐱 Nyaa](https://nekobt.to/torrents/11569779123209) |
-| `[Erai-raws] Meitantei Precure - 19 [1080p CR WEBRip HEVC AAC][Multi...` | **634.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614469) • [🐱 Nyaa](https://nyaa.si/view/2119398) |
-| `[Erai-raws] Meitantei Precure - 19 [1080p CR WEB-DL AVC AAC][MultiS...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614470) • [🐱 Nyaa](https://nyaa.si/view/2119397) |
-| `[ToonsHub] Star Detective Precure S01E19 1080p CR WEB-DL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614473) • [🐱 Nyaa](https://nyaa.si/view/2119394) |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 86 [1080p] (GB_CN) | 牧神记` | **381.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614468) • [🐱 Nyaa](https://nyaa.si/view/2119388) |
-| `[DCPN] Detective Conan The Time Bombed Skyscraper (BD Encode) x265 ...` | **1096.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/614465) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2086246) |
-| `[jaaj] Lucky Star S01+OVA (2007) (BD 1080p AV1 OPUS)` | **7005.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/614463) • [🐱 Nyaa](https://nekobt.to/torrents/11566683661066) |
-| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E09 (81) [1080p CR ...` | **1406.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614464) • [🐱 Nyaa](https://nekobt.to/torrents/11566619156234) |
-| `[Judas] One Piece - 1165 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **332.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614462) • [🐱 Nyaa](https://nyaa.si/view/2119376) |
 
 ---
 <div align="center">
