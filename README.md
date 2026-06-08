@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.14.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.07.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Amagami SS (2010) - S02 [Bluray-1080p][Opus 2.0][AV1]` | **1588.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/614478) • [🐱 Nyaa](https://nekobt.to/torrents/11572332181508) |
+| `[VARYG] One Piece S01E1165 A Welcome with Friends Cups and Intruder...` | **1385.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/614476) • [🐱 Nyaa](https://nekobt.to/torrents/11570761842447) |
+| `[VARYG] One Piece S01E1158 A Quest in the Land of Mystery The Secre...` | **393.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614477) • [🐱 Nyaa](https://nekobt.to/torrents/11570722249728) |
+| `[ToonsHub] One Piece EP1165 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **321.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/614475) • [🐱 Nyaa](https://nekobt.to/torrents/11569779123209) |
+| `[Erai-raws] Meitantei Precure - 19 [1080p CR WEBRip HEVC AAC][Multi...` | **634.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614469) • [🐱 Nyaa](https://nyaa.si/view/2119398) |
+| `[Erai-raws] Meitantei Precure - 19 [1080p CR WEB-DL AVC AAC][MultiS...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614470) • [🐱 Nyaa](https://nyaa.si/view/2119397) |
+| `[ToonsHub] Star Detective Precure S01E19 1080p CR WEB-DL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614473) • [🐱 Nyaa](https://nyaa.si/view/2119394) |
+| `[FSP] Mushen Ji (Tales of Herding Gods) - 86 [1080p] (GB_CN) | 牧神记` | **381.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614468) • [🐱 Nyaa](https://nyaa.si/view/2119388) |
 | `[DCPN] Detective Conan The Time Bombed Skyscraper (BD Encode) x265 ...` | **1096.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/614465) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2086246) |
 | `[jaaj] Lucky Star S01+OVA (2007) (BD 1080p AV1 OPUS)` | **7005.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/614463) • [🐱 Nyaa](https://nekobt.to/torrents/11566683661066) |
 | `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E09 (81) [1080p CR ...` | **1406.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614464) • [🐱 Nyaa](https://nekobt.to/torrents/11566619156234) |
@@ -30,14 +38,6 @@
 | `[Seigyoku] Mahou no Shimai LuluttoLilly - 10 (WEB 1080p) [24446A2D]...` | **680.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614461) • [🐱 Nyaa](https://nyaa.si/view/2119368) |
 | `[Erai-raws] One Piece - 1165 [1080p CR WEBRip HEVC AAC][MultiSub][8...` | **538.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/614456) • [🐱 Nyaa](https://nekobt.to/torrents/11565270833926) |
 | `[Erai-raws] One Piece - 1165 [1080p CR WEB-DL AVC AAC][MultiSub][23...` | **1386.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614459) • [🐱 Nyaa](https://nekobt.to/torrents/11565262916360) |
-| `[BlackRabbit] Amagami SS (2010) - S01 [Bluray-1080p][Opus 2.0][AV1]` | **2588.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/614460) • [🐱 Nyaa](https://nekobt.to/torrents/11565164333578) |
-| `[KawaSubs] The Demon King's Daughter is Too Kind - S01E07 [WEB 1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614454) • [🐱 Nyaa](https://nyaa.si/view/2119363) |
-| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E09 [1080p][HEVC x265 10b...` | **555.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614453) • [🐱 Nyaa](https://nyaa.si/view/2119362) |
-| `Digimon Beatbreak S01E34 Behind the Mask REPACK 1080p CR WEB-DL AAC...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614452) • [🐱 Nyaa](https://nyaa.si/view/2119361) |
-| `[Erai-raws] Hateshinaki Scarlet - Movie (V2) [1080p NF WEBRip HEVC ...` | **3379.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614450) • [🐱 Nyaa](https://nyaa.si/view/2119346) |
-| `[Erai-raws] Hateshinaki Scarlet - Movie (V2) [1080p NF WEB-DL AVC E...` | **4608.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614451) • [🐱 Nyaa](https://nyaa.si/view/2119345) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 10 [1080p CR WEB...` | **554.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614447) • [🐱 Nyaa](https://nyaa.si/view/2119341) |
-| `[Anime Time] Wistoria Wand And Sword - S02E07 (Tsue to Tsurugi no W...` | **589.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614448) • [🐱 Nyaa](https://nyaa.si/view/2119340) |
 
 ---
 <div align="center">
