@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.07.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.56.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CicakRumah] Koupen-chan - S01E61 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **121.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614481) • [🐱 Nyaa](https://nyaa.si/view/2119432) |
+| `[LbE3L] Wistoria Wand and Sword S02E06 [1080p CR WEBRip AV1 Opus 2....` | **471.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/614479) • [🐱 Nyaa](https://nekobt.to/torrents/11573168346117) |
+| `[vLbE3L] Wistoria Wand and Sword S02E06 [1080p CR WEBRip VVC HE-AAC...` | **266.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/614480) • [🐱 Nyaa](https://nekobt.to/torrents/11573095805184) |
 | `[BlackRabbit] Amagami SS (2010) - S02 [Bluray-1080p][Opus 2.0][AV1]` | **1588.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/614478) • [🐱 Nyaa](https://nekobt.to/torrents/11572332181508) |
 | `[VARYG] One Piece S01E1165 A Welcome with Friends Cups and Intruder...` | **1385.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/614476) • [🐱 Nyaa](https://nekobt.to/torrents/11570761842447) |
 | `[VARYG] One Piece S01E1158 A Quest in the Land of Mystery The Secre...` | **393.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614477) • [🐱 Nyaa](https://nekobt.to/torrents/11570722249728) |
@@ -35,9 +38,6 @@
 | `[jaaj] Lucky Star S01+OVA (2007) (BD 1080p AV1 OPUS)` | **7005.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/614463) • [🐱 Nyaa](https://nekobt.to/torrents/11566683661066) |
 | `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E09 (81) [1080p CR ...` | **1406.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614464) • [🐱 Nyaa](https://nekobt.to/torrents/11566619156234) |
 | `[Judas] One Piece - 1165 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **332.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614462) • [🐱 Nyaa](https://nyaa.si/view/2119376) |
-| `[Seigyoku] Mahou no Shimai LuluttoLilly - 10 (WEB 1080p) [24446A2D]...` | **680.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614461) • [🐱 Nyaa](https://nyaa.si/view/2119368) |
-| `[Erai-raws] One Piece - 1165 [1080p CR WEBRip HEVC AAC][MultiSub][8...` | **538.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/614456) • [🐱 Nyaa](https://nekobt.to/torrents/11565270833926) |
-| `[Erai-raws] One Piece - 1165 [1080p CR WEB-DL AVC AAC][MultiSub][23...` | **1386.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614459) • [🐱 Nyaa](https://nekobt.to/torrents/11565262916360) |
 
 ---
 <div align="center">
