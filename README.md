@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.48.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.14.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DCPN] Detective Conan The Time Bombed Skyscraper (BD Encode) x265 ...` | **1096.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/614465) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2086246) |
+| `[jaaj] Lucky Star S01+OVA (2007) (BD 1080p AV1 OPUS)` | **7005.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/614463) • [🐱 Nyaa](https://nekobt.to/torrents/11566683661066) |
+| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E09 (81) [1080p CR ...` | **1406.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614464) • [🐱 Nyaa](https://nekobt.to/torrents/11566619156234) |
 | `[Judas] One Piece - 1165 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **332.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614462) • [🐱 Nyaa](https://nyaa.si/view/2119376) |
 | `[Seigyoku] Mahou no Shimai LuluttoLilly - 10 (WEB 1080p) [24446A2D]...` | **680.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614461) • [🐱 Nyaa](https://nyaa.si/view/2119368) |
 | `[Erai-raws] One Piece - 1165 [1080p CR WEBRip HEVC AAC][MultiSub][8...` | **538.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/614456) • [🐱 Nyaa](https://nekobt.to/torrents/11565270833926) |
@@ -35,9 +38,6 @@
 | `[Erai-raws] Hateshinaki Scarlet - Movie (V2) [1080p NF WEB-DL AVC E...` | **4608.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614451) • [🐱 Nyaa](https://nyaa.si/view/2119345) |
 | `[Erai-raws] Diamond no Ace: Act II Second Season - 10 [1080p CR WEB...` | **554.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614447) • [🐱 Nyaa](https://nyaa.si/view/2119341) |
 | `[Anime Time] Wistoria Wand And Sword - S02E07 (Tsue to Tsurugi no W...` | **589.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614448) • [🐱 Nyaa](https://nyaa.si/view/2119340) |
-| `[Erai-raws] Digimon Beatbreak - 34 [1080p CR WEBRip HEVC AAC][Multi...` | **535.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614442) • [🐱 Nyaa](https://nyaa.si/view/2119336) |
-| `[Erai-raws] Digimon Beatbreak - 34 (REPACK) [1080p CR WEB-DL AVC AA...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614445) • [🐱 Nyaa](https://nyaa.si/view/2119333) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 09 [1080p CR WEBRip HE...` | **607.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614446) • [🐱 Nyaa](https://nyaa.si/view/2119326) |
 
 ---
 <div align="center">
