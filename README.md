@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.35.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.52.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Farming Life In Another World S02E10 Festivities and Fuushus Gratit...` | **777.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614579) • [🐱 Nyaa](https://nyaa.si/view/2119673) |
+| `[DKB] Digimon Beatbreak - S01E34 [1080p][HEVC x265 10bit][Multi-Sub...` | **514.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614580) • [🐱 Nyaa](https://nyaa.si/view/2119672) |
+| `[DKB] Isekai Nonbiri Nouka - S02E10 [1080p][HEVC x265 10bit][weekly]` | **380.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614578) • [🐱 Nyaa](https://nyaa.si/view/2119671) |
+| `Queen Millennia S01 (1981) CUSTOM MULTi 1080p 10bits BluRay x265-Gu...` | **51429.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/614577) • [🐱 Nyaa](https://nekobt.to/torrents/11585699653890) |
+| `[Trix] PonSuka S01E10 [WEBRip 1080p AV1 Opus] (Multi Subs, VOSTFR) ...` | **348.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614575) • [🐱 Nyaa](https://nyaa.si/view/2119669) |
+| `[SubsMix] Mistress Kanan Is Devilishly Easy - 10 (S01E10) - (WEB 10...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614576) • [🐱 Nyaa](https://nyaa.si/view/2119665) |
+| `[FrixySubs] Smoking Behind the Supermarket with You - S00E03 [1080p...` | **755.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/614574) • [🐱 Nyaa](https://nekobt.to/torrents/11585293184256) |
+| `Witch Hat Atelier S01E11 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **1417.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/614572) • [🐱 Nyaa](https://nekobt.to/torrents/11584888742415) |
+| `[WBDP] Seija Musou /  The Great Cleric - Dual Audio [BD][1080p-FLAC...` | **10240.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614571) • [🐱 Nyaa](https://nyaa.si/view/2119659) |
+| `Wistoria Wand and Sword S02E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264...` | **1457.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/614573) • [🐱 Nyaa](https://nekobt.to/torrents/11584871579917) |
+| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E11...` | **567.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614569) • [🐱 Nyaa](https://nyaa.si/view/2119654) |
+| `[Poopoo] The Ossan Newbie Adventurer, Trained to Death by the Most ...` | **36966.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614570) • [🐱 Nyaa](https://nyaa.si/view/2119652) |
+| `[FLE] Re ZERO Starting Life in Another World - S04E09 (WEB 1080p HE...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614567) • [🐱 Nyaa](https://nyaa.si/view/2119648) |
+| `[Erai-raws] Isekai Nonbiri Nouka 2 - 10 [1080p ADN WEBRip HEVC AAC]...` | **355.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614568) • [🐱 Nyaa](https://nyaa.si/view/2119647) |
 | `[Judas] Liar Game - S01E10 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **170.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614564) • [🐱 Nyaa](https://nyaa.si/view/2119642) |
-| `[Erai-raws] Liar Game - 10 [1080p CR WEBRip HEVC AAC][MultiSub][C5E...` | **384.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614565) • [🐱 Nyaa](https://nyaa.si/view/2119641) |
-| `[Erai-raws] Isekai Nonbiri Nouka 2 - 10 [1080p ADN WEB-DL AVC AAC][...` | **575.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614561) • [🐱 Nyaa](https://nyaa.si/view/2119638) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK n...` | **615.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614562) • [🐱 Nyaa](https://nyaa.si/view/2119637) |
-| `[Erai-raws] Tongari Boushi no Atelier - 11 [1080p CR WEBRip HEVC AA...` | **586.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614563) • [🐱 Nyaa](https://nyaa.si/view/2119636) |
-| `[Onalrie] LIAR GAME - S01E10 [1080p WEBRip AV1]` | **143.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/614558) • [🐱 Nyaa](https://onalrie.app/torrent/6b0d93a2-615b-4308-991b-90387cdb5752) |
-| `[ASW] LIAR GAME - 10 [1080p HEVC x265 10Bit][AAC]` | **163.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614555) • [🐱 Nyaa](https://nyaa.si/view/2119634) |
-| `LIAR GAME S01E07 The Losers Revival 1080p CR WEB-DL MULTi AAC2.0 H ...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614556) • [🐱 Nyaa](https://nyaa.si/view/2119633) |
-| `[Judas] Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Ha...` | **325.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614557) • [🐱 Nyaa](https://nyaa.si/view/2119631) |
-| `[DKB] Witch Hat Atelier - S01E11 [1080p][HEVC x265 10bit][Multi-Aud...` | **592.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614553) • [🐱 Nyaa](https://nyaa.si/view/2119628) |
-| `[ToonsHub] Witch Hat Atelier S01E11 1080p CR WEB-DL MULTi AAC2.0 H....` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614554) • [🐱 Nyaa](https://nyaa.si/view/2119626) |
-| `[ToonsHub] LIAR GAME S01E07 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1633.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614552) • [🐱 Nyaa](https://nekobt.to/torrents/11582795399434) |
-| `[Yameii] LIAR GAME (2026) - S01E08 [English Dub] [CR WEB-DL 1080p H...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614539) • [🐱 Nyaa](https://nyaa.si/view/2119623) |
-| `LIAR GAME S01E08 Downsizing Game 1080p CR WEB-DL DUAL AAC2.0 H 264-...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614541) • [🐱 Nyaa](https://nyaa.si/view/2119620) |
-| `LIAR GAME S01E10 Salvation 1080p CR WEB-DL AAC2.0 H 264-VARYG (Mult...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614542) • [🐱 Nyaa](https://nyaa.si/view/2119619) |
 
 ---
 <div align="center">
