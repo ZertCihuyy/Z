@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.54.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.41.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Rilakkuma - S01E10 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **45.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614606) • [🐱 Nyaa](https://nyaa.si/view/2119773) |
+| `[Half-Baked] Akane-banashi - S01E10 [WEB 1080p HEVC AAC] (Multi-sub)` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614605) • [🐱 Nyaa](https://nyaa.si/view/2119771) |
+| `[One Pace][1093-1094] Egghead 21 Extended [1080p][2C16CBB5].mkv` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614603) • [🐱 Nyaa](https://nyaa.si/view/2119770) |
+| `[One Pace][1093-1094] Egghead 21 [1080p][DBDB2978].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614604) • [🐱 Nyaa](https://nyaa.si/view/2119769) |
 | `[CicakRumah] Koupen-chan - S01E62 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **80.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614601) • [🐱 Nyaa](https://nyaa.si/view/2119760) |
 | `[Kakumei Subs] Honzuki no Gekokujou S04E09 v0 [1080p WEB H264 AAC] ...` | **1476.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/614600) • [🐱 Nyaa](https://nekobt.to/torrents/11595263111693) |
 | `KILL BLUE S01E07 Doki-Doki Double Date 1080p AMZN WEB-DL DUAL DDP2....` | **866.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614597) • [🐱 Nyaa](https://nyaa.si/view/2119739) |
@@ -42,10 +46,6 @@
 | `[FoundYears] That Time I Got Reincarnated as a Slime S04E01-E07 (WE...` | **10202.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/614590) • [🐱 Nyaa](https://nekobt.to/torrents/11590870245895) |
 | `[SubsPlease] Fumetsu no Anata e S2 (01-20) (1080p) [Batch]` | **29184.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614586) • [🐱 Nyaa](https://nyaa.si/view/2119694) |
 | `[sgt] This Monster Wants to Eat Me - S01E06 (WEB 1080p HEVC EAC3) |...` | **1807.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614585) • [🐱 Nyaa](https://nekobt.to/torrents/11589049994241) |
-| `[Reza] Witch Hat Atelier - S01E11 [WEBRip AAC 1080p AAC] (Dual Audi...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614583) • [🐱 Nyaa](https://nyaa.si/view/2119677) |
-| `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **405.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614582) • [🐱 Nyaa](https://nyaa.si/view/2119676) |
-| `[AV1MERR] Metallic Rouge (2024) S01 (1080p BD AV1 Opus 5.1 Multi-Au...` | **3379.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614581) • [🐱 Nyaa](https://nyaa.si/view/2119674) |
-| `Farming Life In Another World S02E10 Festivities and Fuushus Gratit...` | **777.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614579) • [🐱 Nyaa](https://nyaa.si/view/2119673) |
 
 ---
 <div align="center">
