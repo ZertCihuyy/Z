@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.27.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.49.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kakumei Subs] Honzuki no Gekokujou S04E09 v0 [1080p WEB H264 AAC] ...` | **1476.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/614600) • [🐱 Nyaa](https://nekobt.to/torrents/11595263111693) |
+| `KILL BLUE S01E07 Doki-Doki Double Date 1080p AMZN WEB-DL DUAL DDP2....` | **866.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614597) • [🐱 Nyaa](https://nyaa.si/view/2119739) |
+| `[BlackRabbit] Castle Town Dandelion (2015) - S01 [Bluray-1080p][Opu...` | **2503.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614599) • [🐱 Nyaa](https://nekobt.to/torrents/11594696201219) |
+| `[ToonsHub] KILL BLUE S01E07 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (K...` | **961.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614594) • [🐱 Nyaa](https://nyaa.si/view/2119722) |
+| `[ToonsHub] KILL BLUE S01E07 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Ki...` | **866.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614595) • [🐱 Nyaa](https://nyaa.si/view/2119721) |
+| `[Sokudo] Re ZERO - Starting Life in Another World S04E09 [1080p AV1...` | **308.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614592) • [🐱 Nyaa](https://nyaa.si/view/2119718) |
+| `[Breeze] Re ZERO - Starting Life in Another World S04E09 [1080p AV1...` | **589.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614593) • [🐱 Nyaa](https://nyaa.si/view/2119717) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime S04E01-E07 (WE...` | **10202.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/614590) • [🐱 Nyaa](https://nekobt.to/torrents/11590870245895) |
 | `[SubsPlease] Fumetsu no Anata e S2 (01-20) (1080p) [Batch]` | **29184.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614586) • [🐱 Nyaa](https://nyaa.si/view/2119694) |
 | `[sgt] This Monster Wants to Eat Me - S01E06 (WEB 1080p HEVC EAC3) |...` | **1807.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614585) • [🐱 Nyaa](https://nekobt.to/torrents/11589049994241) |
@@ -38,13 +45,6 @@
 | `[AV1MERR] Metallic Rouge (2024) S01 (1080p BD AV1 Opus 5.1 Multi-Au...` | **3379.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614581) • [🐱 Nyaa](https://nyaa.si/view/2119674) |
 | `Farming Life In Another World S02E10 Festivities and Fuushus Gratit...` | **777.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614579) • [🐱 Nyaa](https://nyaa.si/view/2119673) |
 | `[DKB] Digimon Beatbreak - S01E34 [1080p][HEVC x265 10bit][Multi-Sub...` | **514.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614580) • [🐱 Nyaa](https://nyaa.si/view/2119672) |
-| `[DKB] Isekai Nonbiri Nouka - S02E10 [1080p][HEVC x265 10bit][weekly]` | **380.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614578) • [🐱 Nyaa](https://nyaa.si/view/2119671) |
-| `Queen Millennia S01 (1981) CUSTOM MULTi 1080p 10bits BluRay x265-Gu...` | **51429.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/614577) • [🐱 Nyaa](https://nekobt.to/torrents/11585699653890) |
-| `[Trix] PonSuka S01E10 [WEBRip 1080p AV1 Opus] (Multi Subs, VOSTFR) ...` | **348.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614575) • [🐱 Nyaa](https://nyaa.si/view/2119669) |
-| `[SubsMix] Mistress Kanan Is Devilishly Easy - 10 (S01E10) - (WEB 10...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614576) • [🐱 Nyaa](https://nyaa.si/view/2119665) |
-| `[FrixySubs] Smoking Behind the Supermarket with You - S00E03 [1080p...` | **755.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/614574) • [🐱 Nyaa](https://nekobt.to/torrents/11585293184256) |
-| `Witch Hat Atelier S01E11 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **1417.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/614572) • [🐱 Nyaa](https://nekobt.to/torrents/11584888742415) |
-| `[WBDP] Seija Musou /  The Great Cleric - Dual Audio [BD][1080p-FLAC...` | **10240.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614571) • [🐱 Nyaa](https://nyaa.si/view/2119659) |
 
 ---
 <div align="center">
