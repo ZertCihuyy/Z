@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.15.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.27.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FoundYears] That Time I Got Reincarnated as a Slime S04E01-E07 (WE...` | **10202.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/614590) • [🐱 Nyaa](https://nekobt.to/torrents/11590870245895) |
+| `[SubsPlease] Fumetsu no Anata e S2 (01-20) (1080p) [Batch]` | **29184.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614586) • [🐱 Nyaa](https://nyaa.si/view/2119694) |
 | `[sgt] This Monster Wants to Eat Me - S01E06 (WEB 1080p HEVC EAC3) |...` | **1807.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614585) • [🐱 Nyaa](https://nekobt.to/torrents/11589049994241) |
 | `[Reza] Witch Hat Atelier - S01E11 [WEBRip AAC 1080p AAC] (Dual Audi...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614583) • [🐱 Nyaa](https://nyaa.si/view/2119677) |
 | `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **405.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614582) • [🐱 Nyaa](https://nyaa.si/view/2119676) |
@@ -43,8 +45,6 @@
 | `[FrixySubs] Smoking Behind the Supermarket with You - S00E03 [1080p...` | **755.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/614574) • [🐱 Nyaa](https://nekobt.to/torrents/11585293184256) |
 | `Witch Hat Atelier S01E11 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **1417.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/614572) • [🐱 Nyaa](https://nekobt.to/torrents/11584888742415) |
 | `[WBDP] Seija Musou /  The Great Cleric - Dual Audio [BD][1080p-FLAC...` | **10240.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614571) • [🐱 Nyaa](https://nyaa.si/view/2119659) |
-| `Wistoria Wand and Sword S02E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264...` | **1457.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/614573) • [🐱 Nyaa](https://nekobt.to/torrents/11584871579917) |
-| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E11...` | **567.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614569) • [🐱 Nyaa](https://nyaa.si/view/2119654) |
 
 ---
 <div align="center">
