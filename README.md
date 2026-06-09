@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.12.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.21.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Marriagetoxin - 10 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **428.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614715) • [🐱 Nyaa](https://nyaa.si/view/2119966) |
-| `[DKB] Aishiteru Game wo Owarasetai - S01E09 [1080p][HEVC x265 10bit...` | **230.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614716) • [🐱 Nyaa](https://nyaa.si/view/2119965) |
-| `[SubsPlease] Tadaima, Ojamasaremasu! - 10 (1080p) [78088946].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614717) • [🐱 Nyaa](https://nyaa.si/view/2119963) |
-| `Pardon the Intrusion Im Home S01E10 The Pathetic Puppy Plan 1080p C...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614720) • [🐱 Nyaa](https://nyaa.si/view/2119958) |
-| `[ToonsHub] Pardon the Intrusion Im Home S01E10 1080p CR WEB-DL AAC2...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614721) • [🐱 Nyaa](https://nyaa.si/view/2119957) |
-| `[ASW] MARRIAGETOXIN - 10 [1080p HEVC x265 10Bit][AAC]` | **327.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614722) • [🐱 Nyaa](https://nyaa.si/view/2119956) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 10 [1080p CR WEB-DL AVC AAC][Mu...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614725) • [🐱 Nyaa](https://nyaa.si/view/2119952) |
-| `[Raze] MARRIAGETOXIN - 10 x265 10bit 1080p 143.8561fps.mkv` | **846.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614711) • [🐱 Nyaa](https://nyaa.si/view/2119951) |
-| `[ASW] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta - 1...` | **153.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614712) • [🐱 Nyaa](https://nyaa.si/view/2119950) |
-| `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta - S...` | **229.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614713) • [🐱 Nyaa](https://nyaa.si/view/2119948) |
-| `[DKB] Marriagetoxin - S01E10 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **424.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614714) • [🐱 Nyaa](https://nyaa.si/view/2119947) |
-| `[Chihiro] Himekishi wa Barbaroi no Yome - 04 [1080p HEVC AAC][77590...` | **933.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614710) • [🐱 Nyaa](https://nyaa.si/view/2119946) |
-| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Nat...` | **271.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/614709) • [🐱 Nyaa](https://nekobt.to/torrents/11605679350794) |
-| `[ASW] LasTame S2 - 10 [1080p HEVC x265 10Bit][AAC]` | **243.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614706) • [🐱 Nyaa](https://nyaa.si/view/2119944) |
-| `[ASW] Aishiteru Game wo Owarasetai - 09 [1080p HEVC x265 10Bit][AAC]` | **171.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614707) • [🐱 Nyaa](https://nyaa.si/view/2119942) |
+| `[Kozame] Odekake Kozame (Little Shark's Outings) - 69 [1080p] [ED5A...` | **22.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614749) • [🐱 Nyaa](https://nyaa.si/view/2120004) |
+| `[Erai-raws] Tadaima Ojamasaremasu - 10 [1080p CR WEBRip HEVC AAC][M...` | **296.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/614748) • [🐱 Nyaa](https://nekobt.to/torrents/11608341967363) |
+| `[Chihiro] Himekishi wa Barbaroi no Yome - 05 [1080p HEVC AAC][DE69D...` | **905.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614747) • [🐱 Nyaa](https://nyaa.si/view/2120002) |
+| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha ...` | **576.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614745) • [🐱 Nyaa](https://nyaa.si/view/2120001) |
+| `[ASW] Yuusha no Rokkotsu de - 10 [1080p HEVC x265 10Bit][AAC]` | **603.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614746) • [🐱 Nyaa](https://nyaa.si/view/2120000) |
+| `[Erai-raws] Hidarikiki no Eren - 10 [1080p CR WEBRip HEVC AAC][Mult...` | **482.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614744) • [🐱 Nyaa](https://nyaa.si/view/2119996) |
+| `[Headpatter] Given The Movie : Hiiragi Mix (2024) v2 (BD 1080p x264...` | **4608.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614740) • [🐱 Nyaa](https://nyaa.si/view/2119994) |
+| `[8RM] Ishura Season 2 (BD 1080p HEVC 10-bit EAC-3) [Dual Audio] | I...` | **16486.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614741) • [🐱 Nyaa](https://nyaa.si/view/2119991) |
+| `[ASW] Tadaima, Ojamasaremasu! - 10 [1080p HEVC x265 10Bit][AAC]` | **187.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614742) • [🐱 Nyaa](https://nyaa.si/view/2119990) |
+| `[Onalrie] Yuusha no Rokkotsu de - S01E10 [1080p WEBRip AV1]` | **468.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/614743) • [🐱 Nyaa](https://onalrie.app/torrent/896a4a42-a8a8-4b14-943a-aaf627ba5166) |
+| `[ASW] Replica datte, Koi wo Suru. - 10 [1080p HEVC x265 10Bit][AAC]` | **187.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614734) • [🐱 Nyaa](https://nyaa.si/view/2119987) |
+| `[ASW] Hidarikiki no Eren - 10 [1080p HEVC x265 10Bit][AAC]` | **291.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614735) • [🐱 Nyaa](https://nyaa.si/view/2119985) |
+| `[SubsPlease] Yuusha no Rokkotsu de - 10 (1080p) [A5B44911].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614736) • [🐱 Nyaa](https://nyaa.si/view/2119984) |
+| `[ToonsHub] My Ribdiculous Reincarnation S01E10 1080p CR WEB-DL AAC2...` | **1382.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/614726) • [🐱 Nyaa](https://nekobt.to/torrents/11606896305409) |
+| `[VARYG] My Ribdiculous Reincarnation S01E10 1080p CR WEB-DL AAC2.0 ...` | **1361.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614727) • [🐱 Nyaa](https://nekobt.to/torrents/11606886205963) |
 
 ---
 <div align="center">
