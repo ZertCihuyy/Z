@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.21.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.07.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Hellsing.BDRip.1080p.HQ.Original.Color.Rus.Eng.Fre.Ger.Ita.Spa.Jap....` | **27033.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614753) • [🐱 Nyaa](https://nyaa.si/view/2120010) |
+| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S03E22-E24 ...` | **103.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614754) • [🐱 Nyaa](https://nyaa.si/view/2120009) |
+| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **776.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614755) • [🐱 Nyaa](https://nyaa.si/view/2120008) |
+| `[Ironclad] Isekai de Mofumofu - S01 [BD.1080p.AV1] | Fluffy Paradis...` | **2867.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614756) • [🐱 Nyaa](https://nyaa.si/view/2120007) |
+| `[Pico] Boku no Hero Academia - Season 08v2 (S08) (WEB 1080p H.264 E...` | **16691.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614752) • [🐱 Nyaa](https://nyaa.si/view/2120005) |
+| `[FrixySubs] Smoking Behind the Supermarket with You - S00E05 [1080p...` | **676.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/614750) • [🐱 Nyaa](https://nekobt.to/torrents/11608696467458) |
+| `[FrixySubs] Smoking Behind the Supermarket with You - S00E04 [1080p...` | **825.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/614751) • [🐱 Nyaa](https://nekobt.to/torrents/11608647788548) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 69 [1080p] [ED5A...` | **22.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614749) • [🐱 Nyaa](https://nyaa.si/view/2120004) |
 | `[Erai-raws] Tadaima Ojamasaremasu - 10 [1080p CR WEBRip HEVC AAC][M...` | **296.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/614748) • [🐱 Nyaa](https://nekobt.to/torrents/11608341967363) |
 | `[Chihiro] Himekishi wa Barbaroi no Yome - 05 [1080p HEVC AAC][DE69D...` | **905.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614747) • [🐱 Nyaa](https://nyaa.si/view/2120002) |
@@ -40,13 +47,6 @@
 | `[Erai-raws] Hidarikiki no Eren - 10 [1080p CR WEBRip HEVC AAC][Mult...` | **482.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614744) • [🐱 Nyaa](https://nyaa.si/view/2119996) |
 | `[Headpatter] Given The Movie : Hiiragi Mix (2024) v2 (BD 1080p x264...` | **4608.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614740) • [🐱 Nyaa](https://nyaa.si/view/2119994) |
 | `[8RM] Ishura Season 2 (BD 1080p HEVC 10-bit EAC-3) [Dual Audio] | I...` | **16486.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614741) • [🐱 Nyaa](https://nyaa.si/view/2119991) |
-| `[ASW] Tadaima, Ojamasaremasu! - 10 [1080p HEVC x265 10Bit][AAC]` | **187.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614742) • [🐱 Nyaa](https://nyaa.si/view/2119990) |
-| `[Onalrie] Yuusha no Rokkotsu de - S01E10 [1080p WEBRip AV1]` | **468.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/614743) • [🐱 Nyaa](https://onalrie.app/torrent/896a4a42-a8a8-4b14-943a-aaf627ba5166) |
-| `[ASW] Replica datte, Koi wo Suru. - 10 [1080p HEVC x265 10Bit][AAC]` | **187.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614734) • [🐱 Nyaa](https://nyaa.si/view/2119987) |
-| `[ASW] Hidarikiki no Eren - 10 [1080p HEVC x265 10Bit][AAC]` | **291.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614735) • [🐱 Nyaa](https://nyaa.si/view/2119985) |
-| `[SubsPlease] Yuusha no Rokkotsu de - 10 (1080p) [A5B44911].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614736) • [🐱 Nyaa](https://nyaa.si/view/2119984) |
-| `[ToonsHub] My Ribdiculous Reincarnation S01E10 1080p CR WEB-DL AAC2...` | **1382.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/614726) • [🐱 Nyaa](https://nekobt.to/torrents/11606896305409) |
-| `[VARYG] My Ribdiculous Reincarnation S01E10 1080p CR WEB-DL AAC2.0 ...` | **1361.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614727) • [🐱 Nyaa](https://nekobt.to/torrents/11606886205963) |
 
 ---
 <div align="center">
