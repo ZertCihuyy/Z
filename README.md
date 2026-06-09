@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.07.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.43.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[derpie] The 100 Girlfriends Who Really, Really, Really, Really, RE...` | **29798.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614757) • [🐱 Nyaa](https://nyaa.si/view/2120021) |
+| `[derpie] MARRIAGETOXIN - S01E10 (WEB 1080p HEVC AAC) | Marriage Toxin` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614758) • [🐱 Nyaa](https://nyaa.si/view/2120020) |
+| `[derpie] MARRIAGETOXIN - S01E08 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614759) • [🐱 Nyaa](https://nyaa.si/view/2120019) |
 | `Hellsing.BDRip.1080p.HQ.Original.Color.Rus.Eng.Fre.Ger.Ita.Spa.Jap....` | **27033.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614753) • [🐱 Nyaa](https://nyaa.si/view/2120010) |
 | `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S03E22-E24 ...` | **103.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614754) • [🐱 Nyaa](https://nyaa.si/view/2120009) |
 | `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **776.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614755) • [🐱 Nyaa](https://nyaa.si/view/2120008) |
@@ -44,9 +47,6 @@
 | `[Chihiro] Himekishi wa Barbaroi no Yome - 05 [1080p HEVC AAC][DE69D...` | **905.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614747) • [🐱 Nyaa](https://nyaa.si/view/2120002) |
 | `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha ...` | **576.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614745) • [🐱 Nyaa](https://nyaa.si/view/2120001) |
 | `[ASW] Yuusha no Rokkotsu de - 10 [1080p HEVC x265 10Bit][AAC]` | **603.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614746) • [🐱 Nyaa](https://nyaa.si/view/2120000) |
-| `[Erai-raws] Hidarikiki no Eren - 10 [1080p CR WEBRip HEVC AAC][Mult...` | **482.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614744) • [🐱 Nyaa](https://nyaa.si/view/2119996) |
-| `[Headpatter] Given The Movie : Hiiragi Mix (2024) v2 (BD 1080p x264...` | **4608.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614740) • [🐱 Nyaa](https://nyaa.si/view/2119994) |
-| `[8RM] Ishura Season 2 (BD 1080p HEVC 10-bit EAC-3) [Dual Audio] | I...` | **16486.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614741) • [🐱 Nyaa](https://nyaa.si/view/2119991) |
 
 ---
 <div align="center">
