@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.41.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.45.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gecko] Rilakkuma - S01E10 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **45.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614606) • [🐱 Nyaa](https://nyaa.si/view/2119773) |
-| `[Half-Baked] Akane-banashi - S01E10 [WEB 1080p HEVC AAC] (Multi-sub)` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614605) • [🐱 Nyaa](https://nyaa.si/view/2119771) |
-| `[One Pace][1093-1094] Egghead 21 Extended [1080p][2C16CBB5].mkv` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614603) • [🐱 Nyaa](https://nyaa.si/view/2119770) |
-| `[One Pace][1093-1094] Egghead 21 [1080p][DBDB2978].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614604) • [🐱 Nyaa](https://nyaa.si/view/2119769) |
-| `[CicakRumah] Koupen-chan - S01E62 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **80.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614601) • [🐱 Nyaa](https://nyaa.si/view/2119760) |
-| `[Kakumei Subs] Honzuki no Gekokujou S04E09 v0 [1080p WEB H264 AAC] ...` | **1476.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/614600) • [🐱 Nyaa](https://nekobt.to/torrents/11595263111693) |
-| `KILL BLUE S01E07 Doki-Doki Double Date 1080p AMZN WEB-DL DUAL DDP2....` | **866.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614597) • [🐱 Nyaa](https://nyaa.si/view/2119739) |
-| `[BlackRabbit] Castle Town Dandelion (2015) - S01 [Bluray-1080p][Opu...` | **2503.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614599) • [🐱 Nyaa](https://nekobt.to/torrents/11594696201219) |
-| `[ToonsHub] KILL BLUE S01E07 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (K...` | **961.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614594) • [🐱 Nyaa](https://nyaa.si/view/2119722) |
-| `[ToonsHub] KILL BLUE S01E07 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Ki...` | **866.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614595) • [🐱 Nyaa](https://nyaa.si/view/2119721) |
-| `[Sokudo] Re ZERO - Starting Life in Another World S04E09 [1080p AV1...` | **308.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614592) • [🐱 Nyaa](https://nyaa.si/view/2119718) |
-| `[Breeze] Re ZERO - Starting Life in Another World S04E09 [1080p AV1...` | **589.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614593) • [🐱 Nyaa](https://nyaa.si/view/2119717) |
-| `[FoundYears] That Time I Got Reincarnated as a Slime S04E01-E07 (WE...` | **10202.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/614590) • [🐱 Nyaa](https://nekobt.to/torrents/11590870245895) |
-| `[SubsPlease] Fumetsu no Anata e S2 (01-20) (1080p) [Batch]` | **29184.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614586) • [🐱 Nyaa](https://nyaa.si/view/2119694) |
-| `[sgt] This Monster Wants to Eat Me - S01E06 (WEB 1080p HEVC EAC3) |...` | **1807.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614585) • [🐱 Nyaa](https://nekobt.to/torrents/11589049994241) |
+| `The Most Heretical Last Boss Queen From Villainess to Savior S02E10...` | **563.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614684) • [🐱 Nyaa](https://nyaa.si/view/2119905) |
+| `[Judas] MARRIAGETOXIN - S01E10 [1080p][HEVC x265 10bit][Multi-Subs]...` | **333.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614685) • [🐱 Nyaa](https://nyaa.si/view/2119904) |
+| `[Erai-raws] Aishiteru Game wo Owarasetai - 09 [1080p CR WEBRip HEVC...` | **364.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614686) • [🐱 Nyaa](https://nyaa.si/view/2119903) |
+| `[BlackRabbit] Goblin Slayer (2018) - S02 [Bluray-1080p][Opus 2.0][D...` | **2753.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/614688) • [🐱 Nyaa](https://nekobt.to/torrents/11604291492612) |
+| `[Polarwindz] Aiura (BD 1080p HEVC Opus)` | **6860.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614687) • [🐱 Nyaa](https://nyaa.si/view/2119902) |
+| `[ToonsHub] I Want to End this Love Game S01E06 1080p CR WEB-DL MULT...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614679) • [🐱 Nyaa](https://nyaa.si/view/2119900) |
+| `[Onalrie] Aishiteru Game wo Owarasetai - S01E09 [1080p WEBRip AV1]` | **150.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/614683) • [🐱 Nyaa](https://onalrie.app/torrent/b8ad4ab5-0c8c-4070-9d98-050c1f81d5bd) |
+| `[ToonsHub] MARRIAGETOXIN S01E07 1080p CR WEB-DL MULTi AAC2.0 H.264 ...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614680) • [🐱 Nyaa](https://nyaa.si/view/2119898) |
+| `[Unfucked] I Made Friends with the Second Prettiest Girl in My Clas...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614681) • [🐱 Nyaa](https://nyaa.si/view/2119896) |
+| `[ToonsHub] I Made Friends with the Second Prettiest Girl in My Clas...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614682) • [🐱 Nyaa](https://nyaa.si/view/2119895) |
+| `MARRIAGETOXIN S01E07 The Bug Masters Wedding 1080p CR WEB-DL MULTi ...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614667) • [🐱 Nyaa](https://nyaa.si/view/2119893) |
+| `I Made Friends with the Second Prettiest Girl in My Class S01E10 On...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614668) • [🐱 Nyaa](https://nyaa.si/view/2119891) |
+| `[SubsPlease] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Na...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614669) • [🐱 Nyaa](https://nyaa.si/view/2119887) |
+| `[Unfucked] I Want to End This Love Game - S01E09 (1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614672) • [🐱 Nyaa](https://nyaa.si/view/2119884) |
+| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Nat...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614675) • [🐱 Nyaa](https://nyaa.si/view/2119876) |
 
 ---
 <div align="center">
