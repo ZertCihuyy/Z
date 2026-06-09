@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.49.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.54.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -14,6 +14,7 @@
 | :---: | :---: | --- | --- |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg" width="45" style="border-radius: 4px;"> | `05.40` | **[Chiikawa](https://anilist.co/anime/140842)** | *Comedy, Slice of Life* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)** | *Action, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137664-9MB4bb4ASiIN.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Cheng Huang Lu](https://anilist.co/anime/137664)** | *Supernatural* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png" width="45" style="border-radius: 4px;"> | `11.00` | **[Fei Ren Zai 3 Part 2](https://anilist.co/anime/211270)** | *Comedy, Slice of Life, Supernatural* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png" width="45" style="border-radius: 4px;"> | `19.55` | **[Hyakki Yakou Shou](https://anilist.co/anime/207675)** | *Horror, Mystery, Supernatural* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2](https://anilist.co/anime/195268)** | *Comedy, Fantasy, Romance* |
@@ -30,6 +31,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CicakRumah] Koupen-chan - S01E62 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **80.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614601) • [🐱 Nyaa](https://nyaa.si/view/2119760) |
 | `[Kakumei Subs] Honzuki no Gekokujou S04E09 v0 [1080p WEB H264 AAC] ...` | **1476.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/614600) • [🐱 Nyaa](https://nekobt.to/torrents/11595263111693) |
 | `KILL BLUE S01E07 Doki-Doki Double Date 1080p AMZN WEB-DL DUAL DDP2....` | **866.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614597) • [🐱 Nyaa](https://nyaa.si/view/2119739) |
 | `[BlackRabbit] Castle Town Dandelion (2015) - S01 [Bluray-1080p][Opu...` | **2503.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614599) • [🐱 Nyaa](https://nekobt.to/torrents/11594696201219) |
@@ -44,7 +46,6 @@
 | `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **405.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614582) • [🐱 Nyaa](https://nyaa.si/view/2119676) |
 | `[AV1MERR] Metallic Rouge (2024) S01 (1080p BD AV1 Opus 5.1 Multi-Au...` | **3379.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614581) • [🐱 Nyaa](https://nyaa.si/view/2119674) |
 | `Farming Life In Another World S02E10 Festivities and Fuushus Gratit...` | **777.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614579) • [🐱 Nyaa](https://nyaa.si/view/2119673) |
-| `[DKB] Digimon Beatbreak - S01E34 [1080p][HEVC x265 10bit][Multi-Sub...` | **514.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614580) • [🐱 Nyaa](https://nyaa.si/view/2119672) |
 
 ---
 <div align="center">
