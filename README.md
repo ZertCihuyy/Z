@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.37.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.59.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? Sea...` | **224.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/614939) • [🐱 Nyaa](https://nekobt.to/torrents/11630187119368) |
+| `[Erai-raws] Ganbare Nakamura-kun - 12 [1080p CR WEBRip HEVC AAC][Mu...` | **348.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/614940) • [🐱 Nyaa](https://nekobt.to/torrents/11630184658957) |
+| `[SubsPlease] Fumetsu no Anata e S3 (01-22) (1080p) [Batch]` | **32051.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614935) • [🐱 Nyaa](https://nyaa.si/view/2120354) |
+| `given - Film Collection [3-Movies] (BDRip 1920x1080p x265 HEVC OPUS...` | **4915.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614938) • [🐱 Nyaa](https://nyaa.si/view/2120351) |
+| `[Gecko] The Chronicles of City God - S01E01 (城隍录; Cheng Huang Lu) [...` | **113.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614934) • [🐱 Nyaa](https://nyaa.si/view/2120349) |
+| `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga O...` | **407.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614933) • [🐱 Nyaa](https://nyaa.si/view/2120342) |
+| `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E10 [1080p][HEVC x265 10...` | **309.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614927) • [🐱 Nyaa](https://nyaa.si/view/2120338) |
+| `[DKB] Kanojo, Okarishimasu - S05E10 [1080p][HEVC x265 10bit][Multi-...` | **337.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614928) • [🐱 Nyaa](https://nyaa.si/view/2120337) |
+| `[DKB] Re:Zero kara Hajimeru Isekai Seikatsu - S04E10 [1080p][HEVC x...` | **682.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614929) • [🐱 Nyaa](https://nyaa.si/view/2120336) |
+| `[DKB] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - S04E14 [108...` | **256.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614930) • [🐱 Nyaa](https://nyaa.si/view/2120335) |
+| `[ASW] Ganbare! Nakamura-kun!! - 12 [1080p HEVC x265 10Bit][AAC]` | **217.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614931) • [🐱 Nyaa](https://nyaa.si/view/2120331) |
+| `[Onalrie] Ganbare! Nakamura-kun!! - S01E12 [1080p WEBRip AV1]` | **195.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614926) • [🐱 Nyaa](https://onalrie.app/torrent/7c5b34a9-89a6-4454-968e-4b5c2c1ca766) |
+| `The Beginning After the End S02E11 1080p NF WEB-DL AAC2.0 H 264-VAR...` | **838.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614925) • [🐱 Nyaa](https://nyaa.si/view/2120325) |
 | `[ToonsHub] Kirio Fan Club S01E01 1080p HIDIVE WEB-DL DUAL AAC2.0 H....` | **893.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614921) • [🐱 Nyaa](https://nekobt.to/torrents/11628210959629) |
 | `Farming Life In Another World S02E07 Hot Spring Expedition 1080p HI...` | **957.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614910) • [🐱 Nyaa](https://nyaa.si/view/2120322) |
-| `The Most Heretical Last Boss Queen From Villainess to Savior S02E04...` | **948.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614911) • [🐱 Nyaa](https://nyaa.si/view/2120321) |
-| `[Erai-raws] Otaku ni Yasashii Gal wa Inai - 10 [1080p CR WEBRip HEV...` | **417.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614912) • [🐱 Nyaa](https://nyaa.si/view/2120320) |
-| `Kirio Fan Club S01E01 Dear Kirio-kun 1080p HIDI WEB-DL DUAL AAC2.0 ...` | **896.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614918) • [🐱 Nyaa](https://nyaa.si/view/2120314) |
-| `[ToonsHub] Go For It Nakamura-kun S01E12 1080p CR WEB-DL MULTi AAC2...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614919) • [🐱 Nyaa](https://nyaa.si/view/2120312) |
-| `[ASW] The Beginning After the End S2 - 11 [1080p HEVC x265 10Bit][AAC]` | **191.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614920) • [🐱 Nyaa](https://nyaa.si/view/2120311) |
-| `[Onalrie] The Beginning After the End - S02E11 [1080p WEBRip AV1]` | **165.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/614922) • [🐱 Nyaa](https://onalrie.app/torrent/d3748fac-f784-4bb5-82f1-315bd89c921c) |
-| `The Beginning After the End S02E08 The Kings Day In Court 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614890) • [🐱 Nyaa](https://nyaa.si/view/2120310) |
-| `[ToonsHub] Go For It Nakamura-kun S01E12 1080p CR WEB-DL DUAL AAC2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614891) • [🐱 Nyaa](https://nyaa.si/view/2120309) |
-| `Go For It Nakamura kun S01E12 You and I Are Friends 1080p CR WEB-DL...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614892) • [🐱 Nyaa](https://nyaa.si/view/2120307) |
-| `[Yameii] Go For It, Nakamura-kun!! - S01E12 [English Dub] [CR WEB-D...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614893) • [🐱 Nyaa](https://nyaa.si/view/2120306) |
-| `[ToonsHub] Farming Life In Another World S02E07 1080p HIDIVE WEB-DL...` | **956.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614894) • [🐱 Nyaa](https://nyaa.si/view/2120305) |
-| `[ToonsHub] Petals of Reincarnation S01E05 1080p HIDIVE WEB-DL DUAL ...` | **949.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614895) • [🐱 Nyaa](https://nyaa.si/view/2120303) |
-| `[ToonsHub] Kirio Fan Club S01E01 1080p HIDIVE WEB-DL DUAL AAC2.0 H....` | **893.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614896) • [🐱 Nyaa](https://nyaa.si/view/2120302) |
 
 ---
 <div align="center">
