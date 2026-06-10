@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.36.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.44.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Quanzhi Fashi - S07E04 [1080p WEBRip AV1]` | **233.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/614776) • [🐱 Nyaa](https://onalrie.app/torrent/6d54a754-0ed5-4f21-8492-33dbbf128abc) |
 | `[BlackRabbit] Am I Actually the Strongest! (2023) - S01 [Bluray-108...` | **3137.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/614774) • [🐱 Nyaa](https://nekobt.to/torrents/11617763591434) |
 | `[BlackRabbit] The Strongest Sage With the Weakest Crest (2022) - S0...` | **2079.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/614773) • [🐱 Nyaa](https://nekobt.to/torrents/11617420145673) |
 | `[TrashEnthusiast] Farming Life in Another World - S02E10 (AMZN WEB-...` | **770.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614772) • [🐱 Nyaa](https://nyaa.si/view/2120071) |
@@ -46,7 +47,6 @@
 | `[Chihiro] Himekishi wa Barbaroi no Yome - 06 [1080p HEVC AAC][FA18F...` | **684.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614761) • [🐱 Nyaa](https://nyaa.si/view/2120038) |
 | `MARRIAGETOXIN S01E07 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1463.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/614760) • [🐱 Nyaa](https://nekobt.to/torrents/11612198056201) |
 | `[derpie] The 100 Girlfriends Who Really, Really, Really, Really, RE...` | **29798.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614757) • [🐱 Nyaa](https://nyaa.si/view/2120021) |
-| `[derpie] MARRIAGETOXIN - S01E10 (WEB 1080p HEVC AAC) | Marriage Toxin` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614758) • [🐱 Nyaa](https://nyaa.si/view/2120020) |
 
 ---
 <div align="center">
