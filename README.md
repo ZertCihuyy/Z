@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.54.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.36.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Am I Actually the Strongest! (2023) - S01 [Bluray-108...` | **3137.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/614774) • [🐱 Nyaa](https://nekobt.to/torrents/11617763591434) |
+| `[BlackRabbit] The Strongest Sage With the Weakest Crest (2022) - S0...` | **2079.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/614773) • [🐱 Nyaa](https://nekobt.to/torrents/11617420145673) |
+| `[TrashEnthusiast] Farming Life in Another World - S02E10 (AMZN WEB-...` | **770.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614772) • [🐱 Nyaa](https://nyaa.si/view/2120071) |
+| `Versatile Mage S07E04 A Terrifying Journey 1080p CR WEB-DL AAC2.0 H...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614771) • [🐱 Nyaa](https://nyaa.si/view/2120070) |
+| `[ToonsHub] Full-Time Magister S07E04 1080p CR WEB-DL AAC2.0 H.264 (...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614770) • [🐱 Nyaa](https://nyaa.si/view/2120066) |
+| `[Feibanyama] Witch Hat Atelier S01E11 [CR WebRip 1080p HEVC AAC Mul...` | **660.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614769) • [🐱 Nyaa](https://nyaa.si/view/2120063) |
+| `[ASW] Quanzhi Fashi S7 - 04 [1080p HEVC x265 10Bit][AAC]` | **313.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614768) • [🐱 Nyaa](https://nyaa.si/view/2120060) |
+| `[ToonsHub] Walking the Way all alone S01E11 1080p BILI WEB-DL AAC2....` | **659.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614766) • [🐱 Nyaa](https://nyaa.si/view/2120055) |
+| `Walking the Way all alone S01E11 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **732.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614767) • [🐱 Nyaa](https://nyaa.si/view/2120054) |
+| `[SubsPlease] Quanzhi Fashi S7 - 04 (1080p) [9BA9BD38].mkv` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614763) • [🐱 Nyaa](https://nyaa.si/view/2120048) |
+| `Cardfight!! Vanguard 15th Anniversary Remastered S01E08 (WEBDL 1080...` | **775.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614762) • [🐱 Nyaa](https://nyaa.si/view/2120041) |
 | `[Chihiro] Himekishi wa Barbaroi no Yome - 06 [1080p HEVC AAC][FA18F...` | **684.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614761) • [🐱 Nyaa](https://nyaa.si/view/2120038) |
 | `MARRIAGETOXIN S01E07 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1463.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/614760) • [🐱 Nyaa](https://nekobt.to/torrents/11612198056201) |
 | `[derpie] The 100 Girlfriends Who Really, Really, Really, Really, RE...` | **29798.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614757) • [🐱 Nyaa](https://nyaa.si/view/2120021) |
 | `[derpie] MARRIAGETOXIN - S01E10 (WEB 1080p HEVC AAC) | Marriage Toxin` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614758) • [🐱 Nyaa](https://nyaa.si/view/2120020) |
-| `[derpie] MARRIAGETOXIN - S01E08 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614759) • [🐱 Nyaa](https://nyaa.si/view/2120019) |
-| `Hellsing.BDRip.1080p.HQ.Original.Color.Rus.Eng.Fre.Ger.Ita.Spa.Jap....` | **27033.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614753) • [🐱 Nyaa](https://nyaa.si/view/2120010) |
-| `[Gecko] Fate Grand Order You've Lost Ritsuka Fujimaru - S03E22-E24 ...` | **103.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614754) • [🐱 Nyaa](https://nyaa.si/view/2120009) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **776.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614755) • [🐱 Nyaa](https://nyaa.si/view/2120008) |
-| `[Ironclad] Isekai de Mofumofu - S01 [BD.1080p.AV1] | Fluffy Paradis...` | **2867.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614756) • [🐱 Nyaa](https://nyaa.si/view/2120007) |
-| `[Pico] Boku no Hero Academia - Season 08v2 (S08) (WEB 1080p H.264 E...` | **16691.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614752) • [🐱 Nyaa](https://nyaa.si/view/2120005) |
-| `[FrixySubs] Smoking Behind the Supermarket with You - S00E05 [1080p...` | **676.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/614750) • [🐱 Nyaa](https://nekobt.to/torrents/11608696467458) |
-| `[FrixySubs] Smoking Behind the Supermarket with You - S00E04 [1080p...` | **825.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/614751) • [🐱 Nyaa](https://nekobt.to/torrents/11608647788548) |
-| `[Kozame] Odekake Kozame (Little Shark's Outings) - 69 [1080p] [ED5A...` | **22.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614749) • [🐱 Nyaa](https://nyaa.si/view/2120004) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 10 [1080p CR WEBRip HEVC AAC][M...` | **296.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/614748) • [🐱 Nyaa](https://nekobt.to/torrents/11608341967363) |
-| `[Chihiro] Himekishi wa Barbaroi no Yome - 05 [1080p HEVC AAC][DE69D...` | **905.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614747) • [🐱 Nyaa](https://nyaa.si/view/2120002) |
 
 ---
 <div align="center">
