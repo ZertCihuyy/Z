@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.15.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.56.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Lupin III vs. Detective Conan - The Movie (2013) v2 (BDRip 1920x108...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614956) • [🐱 Nyaa](https://nyaa.si/view/2120384) |
+| `The Beginning After the End S02E08 MULTi AD 1080p CR WEB-DL AAC2.0 ...` | **1396.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/614950) • [🐱 Nyaa](https://nekobt.to/torrents/11632727960327) |
+| `Rent a Girlfriend S05E07 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1497.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/614951) • [🐱 Nyaa](https://nekobt.to/torrents/11632713157643) |
+| `Reborn as a Vending Machine I Now Wander the Dungeon S03E08 MULTi A...` | **1448.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/614952) • [🐱 Nyaa](https://nekobt.to/torrents/11632697571343) |
+| `Re ZERO Starting Life in Another World S04E10 MULTi AD 1080p CR WEB...` | **1443.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614953) • [🐱 Nyaa](https://nekobt.to/torrents/11632681804294) |
+| `Magical DoReMi S02 FRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raw...` | **28564.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/614954) • [🐱 Nyaa](https://nekobt.to/torrents/11632611808527) |
+| `[BlackRabbit] Wise Man's Grandchild (2019) - S01 [Bluray-1080p][Opu...` | **2321.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/614955) • [🐱 Nyaa](https://nekobt.to/torrents/11632551837189) |
 | `Go For It Nakamura kun S01E12 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1451.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/614946) • [🐱 Nyaa](https://nekobt.to/torrents/11632458919940) |
 | `Classroom of the Elite S04E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1451.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614947) • [🐱 Nyaa](https://nekobt.to/torrents/11632441283597) |
 | `[FBI] Re:Zero Starting Life in Another World - S04E10 (CR WEB-DL 10...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614945) • [🐱 Nyaa](https://nyaa.si/view/2120372) |
@@ -41,13 +48,6 @@
 | `The Most Heretical Last Boss Queen From Villainess to Savior S02E04...` | **786.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614942) • [🐱 Nyaa](https://nyaa.si/view/2120364) |
 | `Kirio Fan Club S01E01 Dear Kirio-kun 1080p AMZN WEB-DL DUAL DDP2.0 ...` | **527.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614943) • [🐱 Nyaa](https://nyaa.si/view/2120363) |
 | `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? Sea...` | **224.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/614939) • [🐱 Nyaa](https://nekobt.to/torrents/11630187119368) |
-| `[Erai-raws] Ganbare Nakamura-kun - 12 [1080p CR WEBRip HEVC AAC][Mu...` | **348.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/614940) • [🐱 Nyaa](https://nekobt.to/torrents/11630184658957) |
-| `[SubsPlease] Fumetsu no Anata e S3 (01-22) (1080p) [Batch]` | **32051.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614935) • [🐱 Nyaa](https://nyaa.si/view/2120354) |
-| `given - Film Collection [3-Movies] (BDRip 1920x1080p x265 HEVC OPUS...` | **4915.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614938) • [🐱 Nyaa](https://nyaa.si/view/2120351) |
-| `[Gecko] The Chronicles of City God - S01E01 (城隍录; Cheng Huang Lu) [...` | **113.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614934) • [🐱 Nyaa](https://nyaa.si/view/2120349) |
-| `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga O...` | **407.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614933) • [🐱 Nyaa](https://nyaa.si/view/2120342) |
-| `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E10 [1080p][HEVC x265 10...` | **309.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614927) • [🐱 Nyaa](https://nyaa.si/view/2120338) |
-| `[DKB] Kanojo, Okarishimasu - S05E10 [1080p][HEVC x265 10bit][Multi-...` | **337.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614928) • [🐱 Nyaa](https://nyaa.si/view/2120337) |
 
 ---
 <div align="center">
