@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.59.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.15.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Go For It Nakamura kun S01E12 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1451.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/614946) • [🐱 Nyaa](https://nekobt.to/torrents/11632458919940) |
+| `Classroom of the Elite S04E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1451.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614947) • [🐱 Nyaa](https://nekobt.to/torrents/11632441283597) |
+| `[FBI] Re:Zero Starting Life in Another World - S04E10 (CR WEB-DL 10...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614945) • [🐱 Nyaa](https://nyaa.si/view/2120372) |
+| `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - S02E11...` | **222.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614944) • [🐱 Nyaa](https://nyaa.si/view/2120368) |
+| `Petals of Reincarnation S01E05 Farewell Hearkening Soul 1080p AMZN ...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614941) • [🐱 Nyaa](https://nyaa.si/view/2120365) |
+| `The Most Heretical Last Boss Queen From Villainess to Savior S02E04...` | **786.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614942) • [🐱 Nyaa](https://nyaa.si/view/2120364) |
+| `Kirio Fan Club S01E01 Dear Kirio-kun 1080p AMZN WEB-DL DUAL DDP2.0 ...` | **527.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614943) • [🐱 Nyaa](https://nyaa.si/view/2120363) |
 | `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? Sea...` | **224.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/614939) • [🐱 Nyaa](https://nekobt.to/torrents/11630187119368) |
 | `[Erai-raws] Ganbare Nakamura-kun - 12 [1080p CR WEBRip HEVC AAC][Mu...` | **348.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/614940) • [🐱 Nyaa](https://nekobt.to/torrents/11630184658957) |
 | `[SubsPlease] Fumetsu no Anata e S3 (01-22) (1080p) [Batch]` | **32051.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614935) • [🐱 Nyaa](https://nyaa.si/view/2120354) |
@@ -41,13 +48,6 @@
 | `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga O...` | **407.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/614933) • [🐱 Nyaa](https://nyaa.si/view/2120342) |
 | `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E10 [1080p][HEVC x265 10...` | **309.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614927) • [🐱 Nyaa](https://nyaa.si/view/2120338) |
 | `[DKB] Kanojo, Okarishimasu - S05E10 [1080p][HEVC x265 10bit][Multi-...` | **337.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614928) • [🐱 Nyaa](https://nyaa.si/view/2120337) |
-| `[DKB] Re:Zero kara Hajimeru Isekai Seikatsu - S04E10 [1080p][HEVC x...` | **682.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614929) • [🐱 Nyaa](https://nyaa.si/view/2120336) |
-| `[DKB] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - S04E14 [108...` | **256.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/614930) • [🐱 Nyaa](https://nyaa.si/view/2120335) |
-| `[ASW] Ganbare! Nakamura-kun!! - 12 [1080p HEVC x265 10Bit][AAC]` | **217.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614931) • [🐱 Nyaa](https://nyaa.si/view/2120331) |
-| `[Onalrie] Ganbare! Nakamura-kun!! - S01E12 [1080p WEBRip AV1]` | **195.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614926) • [🐱 Nyaa](https://onalrie.app/torrent/7c5b34a9-89a6-4454-968e-4b5c2c1ca766) |
-| `The Beginning After the End S02E11 1080p NF WEB-DL AAC2.0 H 264-VAR...` | **838.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614925) • [🐱 Nyaa](https://nyaa.si/view/2120325) |
-| `[ToonsHub] Kirio Fan Club S01E01 1080p HIDIVE WEB-DL DUAL AAC2.0 H....` | **893.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614921) • [🐱 Nyaa](https://nekobt.to/torrents/11628210959629) |
-| `Farming Life In Another World S02E07 Hot Spring Expedition 1080p HI...` | **957.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614910) • [🐱 Nyaa](https://nyaa.si/view/2120322) |
 
 ---
 <div align="center">
