@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.43.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.54.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Chihiro] Himekishi wa Barbaroi no Yome - 06 [1080p HEVC AAC][FA18F...` | **684.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614761) • [🐱 Nyaa](https://nyaa.si/view/2120038) |
+| `MARRIAGETOXIN S01E07 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1463.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/614760) • [🐱 Nyaa](https://nekobt.to/torrents/11612198056201) |
 | `[derpie] The 100 Girlfriends Who Really, Really, Really, Really, RE...` | **29798.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614757) • [🐱 Nyaa](https://nyaa.si/view/2120021) |
 | `[derpie] MARRIAGETOXIN - S01E10 (WEB 1080p HEVC AAC) | Marriage Toxin` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614758) • [🐱 Nyaa](https://nyaa.si/view/2120020) |
 | `[derpie] MARRIAGETOXIN - S01E08 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614759) • [🐱 Nyaa](https://nyaa.si/view/2120019) |
@@ -45,8 +47,6 @@
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 69 [1080p] [ED5A...` | **22.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614749) • [🐱 Nyaa](https://nyaa.si/view/2120004) |
 | `[Erai-raws] Tadaima Ojamasaremasu - 10 [1080p CR WEBRip HEVC AAC][M...` | **296.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/614748) • [🐱 Nyaa](https://nekobt.to/torrents/11608341967363) |
 | `[Chihiro] Himekishi wa Barbaroi no Yome - 05 [1080p HEVC AAC][DE69D...` | **905.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614747) • [🐱 Nyaa](https://nyaa.si/view/2120002) |
-| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha ...` | **576.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614745) • [🐱 Nyaa](https://nyaa.si/view/2120001) |
-| `[ASW] Yuusha no Rokkotsu de - 10 [1080p HEVC x265 10Bit][AAC]` | **603.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/614746) • [🐱 Nyaa](https://nyaa.si/view/2120000) |
 
 ---
 <div align="center">
