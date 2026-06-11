@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.51.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.14.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Demon Slayer Kimetsu No Yaiba Infinity Castle 2025 1080p WEB DUAL H...` | **4710.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614974) • [🐱 Nyaa](https://nyaa.si/view/2120440) |
+| `[BlackRabbit] Clean Freak! Aoyama-kun (2017) - S01 [Bluray-1080p][O...` | **2027.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/614972) • [🐱 Nyaa](https://nekobt.to/torrents/11639761263620) |
+| `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 10 (WEB 1080p HEVC AAC) ...` | **519.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614971) • [🐱 Nyaa](https://nekobt.to/torrents/11638909475329) |
 | `[Kaleido-mini] Mahou Shoujo Lyrical Nanoha THE MOVIE 2nd A's (2012)...` | **2867.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614968) • [🐱 Nyaa](https://nyaa.si/view/2120423) |
 | `[Kaleido-subs] Mahou Shoujo Lyrical Nanoha THE MOVIE 2nd A's (2012)...` | **16486.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614969) • [🐱 Nyaa](https://nyaa.si/view/2120422) |
 | `[geckyzz] Go for It, Nakamura-kun!! - S01E12 (ガンバレ！中村くん！！; Ganbare!...` | **643.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/614970) • [🐱 Nyaa](https://nekobt.to/torrents/11637819347714) |
@@ -45,9 +48,6 @@
 | `Reborn as a Cat S01E31 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **241.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614961) • [🐱 Nyaa](https://nyaa.si/view/2120403) |
 | `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa Inai!? - 10...` | **490.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614960) • [🐱 Nyaa](https://nyaa.si/view/2120400) |
 | `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E09 [1080p AV1][Dual Audi...` | **346.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614958) • [🐱 Nyaa](https://nyaa.si/view/2120396) |
-| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E10...` | **339.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614959) • [🐱 Nyaa](https://nyaa.si/view/2120395) |
-| `[Chihiro] Himekishi wa Barbaroi no Yome - 09 [1080p HEVC AAC][19CF0...` | **552.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614957) • [🐱 Nyaa](https://nyaa.si/view/2120390) |
-| `Lupin III vs. Detective Conan - The Movie (2013) v2 (BDRip 1920x108...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614956) • [🐱 Nyaa](https://nyaa.si/view/2120384) |
 
 ---
 <div align="center">
