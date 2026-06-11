@@ -1,32 +1,47 @@
 {
-  "last_update": "11/6/2026, 23.57.27",
-  "hari": "Kamis",
+  "last_update": "12/6/2026, 02.38.45",
+  "hari": "Jumat",
   "data": [
     {
-      "airingAt": 1781170200,
+      "airingAt": 1781215800,
       "media": {
-        "id": 209541,
+        "id": 8336,
         "title": {
-          "romaji": "PetitCure: Precure Fairies Season 3"
+          "romaji": "Hanakappa"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg"
         },
         "genres": [
-          "Fantasy",
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781217600,
+      "media": {
+        "id": 140842,
+        "title": {
+          "romaji": "Chiikawa"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg"
+        },
+        "genres": [
+          "Comedy",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1781172000,
+      "airingAt": 1781258100,
       "media": {
-        "id": 205290,
+        "id": 158871,
         "title": {
-          "romaji": "Jian Lai 2"
+          "romaji": "Pocket Monsters (2023)"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b205290-oc3SbEom5g7U.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg"
         },
         "genres": [
           "Action",
@@ -36,216 +51,121 @@
       }
     },
     {
-      "airingAt": 1781175600,
+      "airingAt": 1781269200,
       "media": {
-        "id": 203710,
+        "id": 192808,
         "title": {
-          "romaji": "Wei Miao Rensheng"
+          "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg"
         },
         "genres": [
+          "Comedy",
+          "Fantasy",
           "Romance",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781175600,
-      "media": {
-        "id": 194389,
-        "title": {
-          "romaji": "Koala Enikki"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png"
-        },
-        "genres": [
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1781181000,
+      "airingAt": 1781271000,
       "media": {
-        "id": 182483,
+        "id": 170019,
         "title": {
-          "romaji": "Hime Kishi wa Barbaroi no Yome"
+          "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg"
         },
         "genres": [
-          "Comedy",
-          "Ecchi",
-          "Fantasy",
-          "Romance"
+          "Romance",
+          "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1781182800,
+      "airingAt": 1781272800,
       "media": {
-        "id": 187166,
+        "id": 182205,
         "title": {
-          "romaji": "Ganso! Bandori-chan"
+          "romaji": "Tensei Shitara Slime Datta Ken 4th Season"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png"
-        },
-        "genres": [
-          "Comedy",
-          "Music"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781182800,
-      "media": {
-        "id": 199221,
-        "title": {
-          "romaji": "Dr. STONE: SCIENCE FUTURE Part 3"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg"
         },
         "genres": [
           "Action",
           "Adventure",
           "Comedy",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781274600,
+      "media": {
+        "id": 202508,
+        "title": {
+          "romaji": "Kami no Shizuku"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781274600,
+      "media": {
+        "id": 196144,
+        "title": {
+          "romaji": "Snowball Earth"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg"
+        },
+        "genres": [
+          "Action",
+          "Mecha",
           "Sci-Fi"
         ]
       }
     },
     {
-      "airingAt": 1781184600,
+      "airingAt": 1781276400,
       "media": {
-        "id": 177508,
+        "id": 187869,
         "title": {
-          "romaji": "Kujima Utaeba Ie Hororo"
+          "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177508-Ajz9UrU5SsQ0.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg"
         },
         "genres": [
-          "Comedy",
-          "Fantasy",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781189760,
-      "media": {
-        "id": 186497,
-        "title": {
-          "romaji": "Koori no Jouheki"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg"
-        },
-        "genres": [
-          "Comedy",
           "Romance",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1781190000,
+      "airingAt": 1781280000,
       "media": {
-        "id": 208749,
+        "id": 169228,
         "title": {
-          "romaji": "Nuki Nuki ♡ Zupposism"
+          "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208749-8Tw6LuaE6oQF.png"
-        },
-        "genres": [
-          "Hentai"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781190000,
-      "media": {
-        "id": 161680,
-        "title": {
-          "romaji": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161680-NjggzN5hw0UL.jpg"
-        },
-        "genres": [
-          "Hentai",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781191560,
-      "media": {
-        "id": 181284,
-        "title": {
-          "romaji": "Kirio Fanclub"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781191800,
-      "media": {
-        "id": 179950,
-        "title": {
-          "romaji": "Reincarnation no Kaben"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169228-y79xDpZ29Vv4.jpg"
         },
         "genres": [
           "Action",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781193600,
-      "media": {
-        "id": 210234,
-        "title": {
-          "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210234-MZaMjdbBzEHz.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781195280,
-      "media": {
-        "id": 195333,
-        "title": {
-          "romaji": "Haibara-kun no Tsuyokute Seishun New Game"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png"
-        },
-        "genres": [
-          "Romance",
-          "Slice of Life"
+          "Drama",
+          "Sci-Fi"
         ]
       }
     }
