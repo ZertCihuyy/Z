@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.14.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.55.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] The Warrior Princess and the Barbaric King - S01E08 [Engli...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614979) • [🐱 Nyaa](https://nyaa.si/view/2120480) |
+| `The Warrior Princess and the Barbaric King S01E10 1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614981) • [🐱 Nyaa](https://nyaa.si/view/2120476) |
+| `The Warrior Princess and the Barbaric King S01E08 A Contract in the...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614982) • [🐱 Nyaa](https://nyaa.si/view/2120475) |
+| `[SubsPlease] Himekishi wa Barbaroi no Yome - 10 (1080p) [1AA5EC96].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614983) • [🐱 Nyaa](https://nyaa.si/view/2120473) |
+| `[Erai-raws] Himekishi wa Barbaroi no Yome - 10 [1080p CR WEB-DL AVC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614987) • [🐱 Nyaa](https://nyaa.si/view/2120469) |
+| `[Gecko] Koala's Diary - S01E36 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **41.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614978) • [🐱 Nyaa](https://nyaa.si/view/2120453) |
+| `[Mo7tas] Ganglion [1080p] [Multi language subs]` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614976) • [🐱 Nyaa](https://nyaa.si/view/2120449) |
 | `Demon Slayer Kimetsu No Yaiba Infinity Castle 2025 1080p WEB DUAL H...` | **4710.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614974) • [🐱 Nyaa](https://nyaa.si/view/2120440) |
 | `[BlackRabbit] Clean Freak! Aoyama-kun (2017) - S01 [Bluray-1080p][O...` | **2027.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/614972) • [🐱 Nyaa](https://nekobt.to/torrents/11639761263620) |
 | `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 10 (WEB 1080p HEVC AAC) ...` | **519.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614971) • [🐱 Nyaa](https://nekobt.to/torrents/11638909475329) |
@@ -41,13 +48,6 @@
 | `[geckyzz] Go for It, Nakamura-kun!! - S01E12 (ガンバレ！中村くん！！; Ganbare!...` | **643.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/614970) • [🐱 Nyaa](https://nekobt.to/torrents/11637819347714) |
 | `[Gecko] Cat Tales - S01E35 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/614967) • [🐱 Nyaa](https://nekobt.to/torrents/11637414900742) |
 | `[Gecko] Candy Caries - S01E09 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614966) • [🐱 Nyaa](https://nyaa.si/view/2120412) |
-| `[Gecko] Reborn as a Cat - S01E33 (为喵人生; Wei Miao Rensheng) [BILI.WE...` | **214.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614962) • [🐱 Nyaa](https://nyaa.si/view/2120408) |
-| `[ToonsHub] Reborn as a Cat S01E33 1080p BILI WEB-DL AAC2.0 H.265 (W...` | **212.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614963) • [🐱 Nyaa](https://nyaa.si/view/2120407) |
-| `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 01-09 (WEB 1080p HEVC AA...` | **4710.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614964) • [🐱 Nyaa](https://nyaa.si/view/2120406) |
-| `[Anime-HEVC] Boushoku no Berserk (Season 1) (BDRip 1080p Dual Audio...` | **5324.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614965) • [🐱 Nyaa](https://nyaa.si/view/2120405) |
-| `Reborn as a Cat S01E31 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **241.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614961) • [🐱 Nyaa](https://nyaa.si/view/2120403) |
-| `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa Inai!? - 10...` | **490.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614960) • [🐱 Nyaa](https://nyaa.si/view/2120400) |
-| `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E09 [1080p AV1][Dual Audi...` | **346.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614958) • [🐱 Nyaa](https://nyaa.si/view/2120396) |
 
 ---
 <div align="center">
