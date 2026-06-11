@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.55.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.57.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Yameii] The Warrior Princess and the Barbaric King - S01E08 [Engli...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614979) • [🐱 Nyaa](https://nyaa.si/view/2120480) |
-| `The Warrior Princess and the Barbaric King S01E10 1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614981) • [🐱 Nyaa](https://nyaa.si/view/2120476) |
-| `The Warrior Princess and the Barbaric King S01E08 A Contract in the...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614982) • [🐱 Nyaa](https://nyaa.si/view/2120475) |
-| `[SubsPlease] Himekishi wa Barbaroi no Yome - 10 (1080p) [1AA5EC96].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614983) • [🐱 Nyaa](https://nyaa.si/view/2120473) |
-| `[Erai-raws] Himekishi wa Barbaroi no Yome - 10 [1080p CR WEB-DL AVC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614987) • [🐱 Nyaa](https://nyaa.si/view/2120469) |
-| `[Gecko] Koala's Diary - S01E36 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **41.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614978) • [🐱 Nyaa](https://nyaa.si/view/2120453) |
-| `[Mo7tas] Ganglion [1080p] [Multi language subs]` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614976) • [🐱 Nyaa](https://nyaa.si/view/2120449) |
-| `Demon Slayer Kimetsu No Yaiba Infinity Castle 2025 1080p WEB DUAL H...` | **4710.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614974) • [🐱 Nyaa](https://nyaa.si/view/2120440) |
-| `[BlackRabbit] Clean Freak! Aoyama-kun (2017) - S01 [Bluray-1080p][O...` | **2027.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/614972) • [🐱 Nyaa](https://nekobt.to/torrents/11639761263620) |
-| `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 10 (WEB 1080p HEVC AAC) ...` | **519.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614971) • [🐱 Nyaa](https://nekobt.to/torrents/11638909475329) |
-| `[Kaleido-mini] Mahou Shoujo Lyrical Nanoha THE MOVIE 2nd A's (2012)...` | **2867.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614968) • [🐱 Nyaa](https://nyaa.si/view/2120423) |
-| `[Kaleido-subs] Mahou Shoujo Lyrical Nanoha THE MOVIE 2nd A's (2012)...` | **16486.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614969) • [🐱 Nyaa](https://nyaa.si/view/2120422) |
-| `[geckyzz] Go for It, Nakamura-kun!! - S01E12 (ガンバレ！中村くん！！; Ganbare!...` | **643.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/614970) • [🐱 Nyaa](https://nekobt.to/torrents/11637819347714) |
-| `[Gecko] Cat Tales - S01E35 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/614967) • [🐱 Nyaa](https://nekobt.to/torrents/11637414900742) |
-| `[Gecko] Candy Caries - S01E09 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614966) • [🐱 Nyaa](https://nyaa.si/view/2120412) |
+| `[VARYG] Petals of Reincarnation S01E10 The Faceless Man 1080p HIDI ...` | **928.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/615079) • [🐱 Nyaa](https://nekobt.to/torrents/11649667927304) |
+| `[Erai-raws] Reincarnation no Kaben - 11 [1080p AMZN WEB-DL AVC EAC3...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615067) • [🐱 Nyaa](https://nyaa.si/view/2120595) |
+| `Petals of Reincarnation S01E11 Torn Talent 1080p BILI WEB-DL AAC2.0...` | **414.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615068) • [🐱 Nyaa](https://nyaa.si/view/2120594) |
+| `Dr STONE S04E35 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Dr. Stone...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615069) • [🐱 Nyaa](https://nyaa.si/view/2120593) |
+| `[Onalrie] Kirio Fanclub - S01E11 [1080p WEBRip AV1]` | **202.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/615080) • [🐱 Nyaa](https://onalrie.app/torrent/a8a43c3e-a9f5-4aef-a1dd-05ab46abb314) |
+| `[SubsPlease] Reincarnation no Kaben - 11 (1080p) [517B4E6D].mkv` | **927.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615070) • [🐱 Nyaa](https://nyaa.si/view/2120592) |
+| `[ToonsHub] Petals of Reincarnation S01E11 1080p HIDIVE WEB-DL AAC2....` | **927.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615072) • [🐱 Nyaa](https://nyaa.si/view/2120590) |
+| `[Erai-raws] Reincarnation no Kaben - 11 [1080p HIDIVE WEB-DL AVC AA...` | **927.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615076) • [🐱 Nyaa](https://nyaa.si/view/2120585) |
+| `[ToonsHub] Petals of Reincarnation S01E11 1080p BILI WEB-DL AAC2.0 ...` | **380.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615077) • [🐱 Nyaa](https://nyaa.si/view/2120583) |
+| `[Erai-raws] Kujima Utaeba Ie Hororo - 10 [1080p CR WEBRip HEVC AAC]...` | **570.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615078) • [🐱 Nyaa](https://nyaa.si/view/2120582) |
+| `[VARYG] Dr STONE S04E35 1080p NF WEB-DL AAC2.0 H.264 (Dr. STONE, Mu...` | **881.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/615064) • [🐱 Nyaa](https://nekobt.to/torrents/11649429609477) |
+| `The Ramparts of Ice S01E11 1080p NF WEB-DL AAC2.0 AV1 (Multi-Subs) ...` | **187.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615057) • [🐱 Nyaa](https://nyaa.si/view/2120580) |
+| `Farming Life In Another World S02E03 1080p AMZN WEB-DL DUAL DDP2.0 ...` | **950.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615058) • [🐱 Nyaa](https://nyaa.si/view/2120578) |
+| `Farming Life In Another World S02E04 1080p AMZN WEB-DL DUAL DDP2.0 ...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615059) • [🐱 Nyaa](https://nyaa.si/view/2120577) |
+| `Farming Life In Another World S02E07 1080p AMZN WEB-DL DUAL DDP2.0 ...` | **1024.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615060) • [🐱 Nyaa](https://nyaa.si/view/2120575) |
 
 ---
 <div align="center">
