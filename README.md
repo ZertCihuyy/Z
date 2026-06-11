@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.56.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.51.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kaleido-mini] Mahou Shoujo Lyrical Nanoha THE MOVIE 2nd A's (2012)...` | **2867.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614968) • [🐱 Nyaa](https://nyaa.si/view/2120423) |
+| `[Kaleido-subs] Mahou Shoujo Lyrical Nanoha THE MOVIE 2nd A's (2012)...` | **16486.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614969) • [🐱 Nyaa](https://nyaa.si/view/2120422) |
+| `[geckyzz] Go for It, Nakamura-kun!! - S01E12 (ガンバレ！中村くん！！; Ganbare!...` | **643.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/614970) • [🐱 Nyaa](https://nekobt.to/torrents/11637819347714) |
+| `[Gecko] Cat Tales - S01E35 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/614967) • [🐱 Nyaa](https://nekobt.to/torrents/11637414900742) |
+| `[Gecko] Candy Caries - S01E09 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614966) • [🐱 Nyaa](https://nyaa.si/view/2120412) |
+| `[Gecko] Reborn as a Cat - S01E33 (为喵人生; Wei Miao Rensheng) [BILI.WE...` | **214.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614962) • [🐱 Nyaa](https://nyaa.si/view/2120408) |
+| `[ToonsHub] Reborn as a Cat S01E33 1080p BILI WEB-DL AAC2.0 H.265 (W...` | **212.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/614963) • [🐱 Nyaa](https://nyaa.si/view/2120407) |
+| `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 01-09 (WEB 1080p HEVC AA...` | **4710.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614964) • [🐱 Nyaa](https://nyaa.si/view/2120406) |
+| `[Anime-HEVC] Boushoku no Berserk (Season 1) (BDRip 1080p Dual Audio...` | **5324.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614965) • [🐱 Nyaa](https://nyaa.si/view/2120405) |
+| `Reborn as a Cat S01E31 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **241.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614961) • [🐱 Nyaa](https://nyaa.si/view/2120403) |
+| `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa Inai!? - 10...` | **490.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614960) • [🐱 Nyaa](https://nyaa.si/view/2120400) |
+| `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E09 [1080p AV1][Dual Audi...` | **346.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614958) • [🐱 Nyaa](https://nyaa.si/view/2120396) |
+| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E10...` | **339.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614959) • [🐱 Nyaa](https://nyaa.si/view/2120395) |
+| `[Chihiro] Himekishi wa Barbaroi no Yome - 09 [1080p HEVC AAC][19CF0...` | **552.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614957) • [🐱 Nyaa](https://nyaa.si/view/2120390) |
 | `Lupin III vs. Detective Conan - The Movie (2013) v2 (BDRip 1920x108...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/614956) • [🐱 Nyaa](https://nyaa.si/view/2120384) |
-| `The Beginning After the End S02E08 MULTi AD 1080p CR WEB-DL AAC2.0 ...` | **1396.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/614950) • [🐱 Nyaa](https://nekobt.to/torrents/11632727960327) |
-| `Rent a Girlfriend S05E07 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1497.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/614951) • [🐱 Nyaa](https://nekobt.to/torrents/11632713157643) |
-| `Reborn as a Vending Machine I Now Wander the Dungeon S03E08 MULTi A...` | **1448.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/614952) • [🐱 Nyaa](https://nekobt.to/torrents/11632697571343) |
-| `Re ZERO Starting Life in Another World S04E10 MULTi AD 1080p CR WEB...` | **1443.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614953) • [🐱 Nyaa](https://nekobt.to/torrents/11632681804294) |
-| `Magical DoReMi S02 FRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raw...` | **28564.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/614954) • [🐱 Nyaa](https://nekobt.to/torrents/11632611808527) |
-| `[BlackRabbit] Wise Man's Grandchild (2019) - S01 [Bluray-1080p][Opu...` | **2321.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/614955) • [🐱 Nyaa](https://nekobt.to/torrents/11632551837189) |
-| `Go For It Nakamura kun S01E12 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1451.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/614946) • [🐱 Nyaa](https://nekobt.to/torrents/11632458919940) |
-| `Classroom of the Elite S04E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1451.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614947) • [🐱 Nyaa](https://nekobt.to/torrents/11632441283597) |
-| `[FBI] Re:Zero Starting Life in Another World - S04E10 (CR WEB-DL 10...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/614945) • [🐱 Nyaa](https://nyaa.si/view/2120372) |
-| `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - S02E11...` | **222.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/614944) • [🐱 Nyaa](https://nyaa.si/view/2120368) |
-| `Petals of Reincarnation S01E05 Farewell Hearkening Soul 1080p AMZN ...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/614941) • [🐱 Nyaa](https://nyaa.si/view/2120365) |
-| `The Most Heretical Last Boss Queen From Villainess to Savior S02E04...` | **786.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/614942) • [🐱 Nyaa](https://nyaa.si/view/2120364) |
-| `Kirio Fan Club S01E01 Dear Kirio-kun 1080p AMZN WEB-DL DUAL DDP2.0 ...` | **527.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/614943) • [🐱 Nyaa](https://nyaa.si/view/2120363) |
-| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? Sea...` | **224.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/614939) • [🐱 Nyaa](https://nekobt.to/torrents/11630187119368) |
 
 ---
 <div align="center">
