@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.30.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.20.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Chibi Godzilla Raids Again - S01E104 (ちびゴジラの逆襲; Chibi Godzi...` | **34.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615324) • [🐱 Nyaa](https://nekobt.to/torrents/11675832266757) |
+| `[FrixySubs] NEEDY GIRL OVERDOSE - S01E08 [1080p CR WEB-DL H.264 AAC...` | **1384.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/615321) • [🐱 Nyaa](https://nekobt.to/torrents/11675470216964) |
+| `[Judas] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saret...` | **141.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615320) • [🐱 Nyaa](https://nyaa.si/view/2120975) |
+| `[FrixySubs] NEEDY GIRL OVERDOSE - S01E07 [1080p CR WEB-DL H.264 AAC...` | **1457.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/615322) • [🐱 Nyaa](https://nekobt.to/torrents/11675384374541) |
+| `[FrixySubs] NEEDY GIRL OVERDOSE - S01E06 [1080p CR WEB-DL H.264 AAC...` | **1384.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/615319) • [🐱 Nyaa](https://nekobt.to/torrents/11675291612420) |
+| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E10 [1080p][...` | **242.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615318) • [🐱 Nyaa](https://nyaa.si/view/2120974) |
+| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 10 [1080p...` | **405.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615314) • [🐱 Nyaa](https://nyaa.si/view/2120971) |
+| `[Gecko] Chibi Godzilla Raids Again - S01E100 (ちびゴジラの逆襲; Chibi Godzi...` | **34.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615315) • [🐱 Nyaa](https://nyaa.si/view/2120970) |
+| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina ...` | **198.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615317) • [🐱 Nyaa](https://nyaa.si/view/2120968) |
+| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S01E12 [108...` | **467.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615310) • [🐱 Nyaa](https://nyaa.si/view/2120964) |
+| `[Erai-raws] Snowball Earth - 11 [1080p CR WEBRip HEVC AAC][MultiSub...` | **416.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615311) • [🐱 Nyaa](https://nyaa.si/view/2120963) |
+| `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saretei...` | **200.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615312) • [🐱 Nyaa](https://nyaa.si/view/2120961) |
 | `[DKB] Tensei shitara Slime Datta Ken - S04E10 [1080p][HEVC x265 10b...` | **519.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615309) • [🐱 Nyaa](https://nyaa.si/view/2120957) |
 | `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E12 [WEB.108...` | **732.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615305) • [🐱 Nyaa](https://nyaa.si/view/2120955) |
 | `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku (An ...` | **268.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615306) • [🐱 Nyaa](https://nyaa.si/view/2120954) |
-| `[ASW] Kami no Shizuku - 10 [1080p HEVC x265 10Bit][AAC]` | **208.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615307) • [🐱 Nyaa](https://nyaa.si/view/2120953) |
-| `[Erai-raws] Hokuto no Ken (2026) - 12 [1080p AMZN WEBRip HEVC EAC3]...` | **803.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615308) • [🐱 Nyaa](https://nyaa.si/view/2120952) |
-| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 10 [1080p HEVC ...` | **198.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615301) • [🐱 Nyaa](https://nyaa.si/view/2120951) |
-| `[SubsPlease] Enen no Shouboutai S3 (01-25) (1080p) [Batch]` | **35123.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615302) • [🐱 Nyaa](https://nyaa.si/view/2120950) |
-| `[SubVision] Mahou no Shimai LuluttoLilly - 10 (WEB 1080p x264 8Bit ...` | **680.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/615300) • [🐱 Nyaa](https://nekobt.to/torrents/11673103939329) |
-| `[Judas] Tensei Shitara Slime Datta Ken (That Time I Got Reincarnate...` | **420.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615299) • [🐱 Nyaa](https://nyaa.si/view/2120945) |
-| `[ASW] Tensei Shitara Slime Datta Ken S4 - 10 [1080p HEVC x265 10Bit...` | **407.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615298) • [🐱 Nyaa](https://nyaa.si/view/2120942) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 10 [1080p C...` | **524.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615293) • [🐱 Nyaa](https://nyaa.si/view/2120941) |
-| `[ASW] Snowball Earth - 11 [1080p HEVC x265 10Bit][AAC]` | **340.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615294) • [🐱 Nyaa](https://nyaa.si/view/2120940) |
-| `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E10 [108...` | **164.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/615297) • [🐱 Nyaa](https://onalrie.app/torrent/abf0ffa5-a3fb-4273-aaaf-3d1ad5396e98) |
-| `KILL BLUE S01E07 Doki-Doki Double Date 1080p CR WEB-DL DUAL AAC2.0 ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615295) • [🐱 Nyaa](https://nyaa.si/view/2120939) |
-| `[DKB] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku - S01E...` | **376.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615296) • [🐱 Nyaa](https://nyaa.si/view/2120938) |
 
 ---
 <div align="center">
