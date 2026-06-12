@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.00.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.55.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Hitori no Shita - The Outcast - S06E24 [1080p WEBRip AV1]` | **288.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/615179) • [🐱 Nyaa](https://onalrie.app/torrent/69479db8-7dd7-4ef6-9451-c757e09857fc) |
+| `[BlackRabbit] My One-Hit Kill Sister (2023) - S01 [Bluray-1080p][Op...` | **2291.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/615178) • [🐱 Nyaa](https://nekobt.to/torrents/11662501496335) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 24 (CA) [1080...` | **893.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615177) • [🐱 Nyaa](https://nyaa.si/view/2120770) |
+| `[Gecko] Koala's Diary - S01E36 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **78.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615175) • [🐱 Nyaa](https://nyaa.si/view/2120763) |
+| `[Gecko] Monster Eater - S01E11 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～; Mamonogu...` | **417.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/615173) • [🐱 Nyaa](https://nekobt.to/torrents/11659909150978) |
+| `[Gecko] Monster Eater - S01E10 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～; Mamonogu...` | **389.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/615174) • [🐱 Nyaa](https://nekobt.to/torrents/11659892994062) |
+| `[Gecko] Kujima Why Sing, When You Can Warble - S01E10 (クジマ歌えば家ほろろ; ...` | **681.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615171) • [🐱 Nyaa](https://nyaa.si/view/2120753) |
+| `[VARYG] The Outcast S06E24 1080p CR WEB-DL AAC2.0 H.264 (Yi Ren Zhi...` | **1791.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/615170) • [🐱 Nyaa](https://nekobt.to/torrents/11659198453516) |
+| `[ASW] Hitori no Shita - The Outcast S6 - 24 [1080p HEVC x265 10Bit]...` | **416.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615169) • [🐱 Nyaa](https://nyaa.si/view/2120748) |
+| `[ToonsHub] The Outcast S06E24 1080p CR WEB-DL AAC2.0 H.264 (Multi-S...` | **1810.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/615167) • [🐱 Nyaa](https://nekobt.to/torrents/11658297792256) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 24 (1080p) [59B6B15...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615161) • [🐱 Nyaa](https://nyaa.si/view/2120736) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 24 (CA) [1080...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615166) • [🐱 Nyaa](https://nyaa.si/view/2120730) |
 | `JoJo's Bizzare Adventure - Phantom Blood & Battle Tendency (BDRip 1...` | **12083.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615160) • [🐱 Nyaa](https://nyaa.si/view/2120728) |
 | `[sam] Dr. STONE - Science Future - S04E34 (WEB 1080p HEVC x265 10-b...` | **2457.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615158) • [🐱 Nyaa](https://nyaa.si/view/2120699) |
 | `[cappybara] Marriage Toxin - S01E10 (WEB 1080p HEVC AAC).mkv` | **2540.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/615156) • [🐱 Nyaa](https://nekobt.to/torrents/11654587773453) |
-| `[Piyoko] Onegai AiPri - 10 [WEB AMZN 1080p h264 AC3 2.0]` | **914.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615151) • [🐱 Nyaa](https://nyaa.si/view/2120693) |
-| `[Erai-raws] Osomatsu-san 4th Season - 13 [1080p CR WEBRip HEVC AAC]...` | **611.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615152) • [🐱 Nyaa](https://nyaa.si/view/2120691) |
-| `[DKB] Reincarnation no Kaben - S01E11 [1080p][HEVC x265 10bit][weekly]` | **522.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615153) • [🐱 Nyaa](https://nyaa.si/view/2120690) |
-| `[DKB] Mata Korosarete Shimatta no desu ne, Tantei-sama - S01E11 [10...` | **324.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615154) • [🐱 Nyaa](https://nyaa.si/view/2120689) |
-| `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E11 [1080p][HE...` | **302.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615155) • [🐱 Nyaa](https://nyaa.si/view/2120688) |
-| `[Erai-raws] Awajima Hyakkei - 10 [1080p CR WEBRip HEVC AAC][MultiSu...` | **447.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615150) • [🐱 Nyaa](https://nyaa.si/view/2120683) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-sama - 11 [...` | **558.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615148) • [🐱 Nyaa](https://nyaa.si/view/2120682) |
-| `Eren the Southpaw S01E07 Episode 7 Dont Give That Person Happiness ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615149) • [🐱 Nyaa](https://nyaa.si/view/2120681) |
-| `[ASW] Mata Korosarete Shimatta no desu ne, Tantei-sama - 11 [1080p ...` | **267.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615147) • [🐱 Nyaa](https://nyaa.si/view/2120680) |
-| `[ASW] Osomatsu-san S4 - 13 [1080p HEVC x265 10Bit][AAC]` | **435.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615146) • [🐱 Nyaa](https://nyaa.si/view/2120679) |
-| `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 11 [1080p HEVC x2...` | **188.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615145) • [🐱 Nyaa](https://nyaa.si/view/2120675) |
-| `[BlackRabbit] Sankarea - Undying Love (2012) - S00 [Bluray-1080p][O...` | **379.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/615144) • [🐱 Nyaa](https://nekobt.to/torrents/11652239471619) |
 
 ---
 <div align="center">
