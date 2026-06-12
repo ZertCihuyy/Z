@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.20.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.57.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E08 (WEB ...` | **1466.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/615327) • [🐱 Nyaa](https://nekobt.to/torrents/11676884305935) |
+| `[ToonsHub] Marikas Love Meter Malfunction S01E08 1080p UNCENSORED A...` | **167.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615325) • [🐱 Nyaa](https://nyaa.si/view/2120989) |
+| `[Erai-raws] Kami no Shizuku - 10 [1080p CR WEBRip HEVC AAC][MultiSu...` | **378.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615326) • [🐱 Nyaa](https://nyaa.si/view/2120984) |
 | `[Gecko] Chibi Godzilla Raids Again - S01E104 (ちびゴジラの逆襲; Chibi Godzi...` | **34.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615324) • [🐱 Nyaa](https://nekobt.to/torrents/11675832266757) |
 | `[FrixySubs] NEEDY GIRL OVERDOSE - S01E08 [1080p CR WEB-DL H.264 AAC...` | **1384.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/615321) • [🐱 Nyaa](https://nekobt.to/torrents/11675470216964) |
 | `[Judas] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saret...` | **141.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615320) • [🐱 Nyaa](https://nyaa.si/view/2120975) |
@@ -45,9 +48,6 @@
 | `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S01E12 [108...` | **467.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615310) • [🐱 Nyaa](https://nyaa.si/view/2120964) |
 | `[Erai-raws] Snowball Earth - 11 [1080p CR WEBRip HEVC AAC][MultiSub...` | **416.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615311) • [🐱 Nyaa](https://nyaa.si/view/2120963) |
 | `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saretei...` | **200.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615312) • [🐱 Nyaa](https://nyaa.si/view/2120961) |
-| `[DKB] Tensei shitara Slime Datta Ken - S04E10 [1080p][HEVC x265 10b...` | **519.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615309) • [🐱 Nyaa](https://nyaa.si/view/2120957) |
-| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E12 [WEB.108...` | **732.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615305) • [🐱 Nyaa](https://nyaa.si/view/2120955) |
-| `[Judas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku (An ...` | **268.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615306) • [🐱 Nyaa](https://nyaa.si/view/2120954) |
 
 ---
 <div align="center">
