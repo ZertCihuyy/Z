@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.40.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.00.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `JoJo's Bizzare Adventure - Phantom Blood & Battle Tendency (BDRip 1...` | **12083.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615160) • [🐱 Nyaa](https://nyaa.si/view/2120728) |
 | `[sam] Dr. STONE - Science Future - S04E34 (WEB 1080p HEVC x265 10-b...` | **2457.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615158) • [🐱 Nyaa](https://nyaa.si/view/2120699) |
 | `[cappybara] Marriage Toxin - S01E10 (WEB 1080p HEVC AAC).mkv` | **2540.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/615156) • [🐱 Nyaa](https://nekobt.to/torrents/11654587773453) |
 | `[Piyoko] Onegai AiPri - 10 [WEB AMZN 1080p h264 AC3 2.0]` | **914.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615151) • [🐱 Nyaa](https://nyaa.si/view/2120693) |
@@ -42,7 +43,6 @@
 | `[ASW] Osomatsu-san S4 - 13 [1080p HEVC x265 10Bit][AAC]` | **435.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615146) • [🐱 Nyaa](https://nyaa.si/view/2120679) |
 | `[ASW] Haibara-kun no Tsuyokute Seishun New Game - 11 [1080p HEVC x2...` | **188.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615145) • [🐱 Nyaa](https://nyaa.si/view/2120675) |
 | `[BlackRabbit] Sankarea - Undying Love (2012) - S00 [Bluray-1080p][O...` | **379.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/615144) • [🐱 Nyaa](https://nekobt.to/torrents/11652239471619) |
-| `[BlackRabbit] Sankarea - Undying Love (2012) - S01 [Bluray-1080p][O...` | **2427.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615142) • [🐱 Nyaa](https://nekobt.to/torrents/11651950450444) |
 
 ---
 <div align="center">
