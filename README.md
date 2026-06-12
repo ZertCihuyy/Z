@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.05.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.16.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] Dr. STONE - S04E34 [1080p CR WEB-DL H.264 AAC] [Napisy ...` | **1396.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/615197) • [🐱 Nyaa](https://nekobt.to/torrents/11669004930560) |
+| `An Observation Log of My Fiancee Who Calls Herself a Villainess S01...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615196) • [🐱 Nyaa](https://nyaa.si/view/2120814) |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Herself a Vil...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615185) • [🐱 Nyaa](https://nyaa.si/view/2120813) |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Herself a Vil...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615186) • [🐱 Nyaa](https://nyaa.si/view/2120812) |
+| `[Yameii] An Observation Log of My Fiancée Who Calls Herself a Villa...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615187) • [🐱 Nyaa](https://nyaa.si/view/2120811) |
+| `An Observation Log of My Fiancee Who Calls Herself a Villainess S01...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615189) • [🐱 Nyaa](https://nyaa.si/view/2120807) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615190) • [🐱 Nyaa](https://nyaa.si/view/2120806) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615195) • [🐱 Nyaa](https://nyaa.si/view/2120801) |
+| `[AnoZu] Oshi no Ko S03 (Season 3) 1080p CR WEB-DL H264 Dual-Audio D...` | **18227.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615183) • [🐱 Nyaa](https://nyaa.si/view/2120794) |
 | `[nnotaclue] Dr. STONE - S04E35 [1080p AV1 Opus 2.0 Dual-Audio Engli...` | **352.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/615181) • [🐱 Nyaa](https://nekobt.to/torrents/11664510459915) |
 | `[nnotaclue] Dr. STONE - S04E35 [1080p AV1 Opus 2.0 Multi-Audio Mult...` | **514.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/615182) • [🐱 Nyaa](https://nekobt.to/torrents/11664445246218) |
 | `[BlackRose] I Want to End This Love Game - S01E01 (WEB 1080p HEVC 1...` | **1754.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/615180) • [🐱 Nyaa](https://nekobt.to/torrents/11663785749255) |
 | `[Onalrie] Hitori no Shita - The Outcast - S06E24 [1080p WEBRip AV1]` | **288.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/615179) • [🐱 Nyaa](https://onalrie.app/torrent/69479db8-7dd7-4ef6-9451-c757e09857fc) |
 | `[BlackRabbit] My One-Hit Kill Sister (2023) - S01 [Bluray-1080p][Op...` | **2291.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/615178) • [🐱 Nyaa](https://nekobt.to/torrents/11662501496335) |
 | `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 24 (CA) [1080...` | **893.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615177) • [🐱 Nyaa](https://nyaa.si/view/2120770) |
-| `[Gecko] Koala's Diary - S01E36 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **78.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615175) • [🐱 Nyaa](https://nyaa.si/view/2120763) |
-| `[Gecko] Monster Eater - S01E11 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～; Mamonogu...` | **417.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/615173) • [🐱 Nyaa](https://nekobt.to/torrents/11659909150978) |
-| `[Gecko] Monster Eater - S01E10 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～; Mamonogu...` | **389.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/615174) • [🐱 Nyaa](https://nekobt.to/torrents/11659892994062) |
-| `[Gecko] Kujima Why Sing, When You Can Warble - S01E10 (クジマ歌えば家ほろろ; ...` | **681.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615171) • [🐱 Nyaa](https://nyaa.si/view/2120753) |
-| `[VARYG] The Outcast S06E24 1080p CR WEB-DL AAC2.0 H.264 (Yi Ren Zhi...` | **1791.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/615170) • [🐱 Nyaa](https://nekobt.to/torrents/11659198453516) |
-| `[ASW] Hitori no Shita - The Outcast S6 - 24 [1080p HEVC x265 10Bit]...` | **416.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615169) • [🐱 Nyaa](https://nyaa.si/view/2120748) |
-| `[ToonsHub] The Outcast S06E24 1080p CR WEB-DL AAC2.0 H.264 (Multi-S...` | **1810.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/615167) • [🐱 Nyaa](https://nekobt.to/torrents/11658297792256) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 24 (1080p) [59B6B15...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615161) • [🐱 Nyaa](https://nyaa.si/view/2120736) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 24 (CA) [1080...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615166) • [🐱 Nyaa](https://nyaa.si/view/2120730) |
 
 ---
 <div align="center">
