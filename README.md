@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.55.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.05.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nnotaclue] Dr. STONE - S04E35 [1080p AV1 Opus 2.0 Dual-Audio Engli...` | **352.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/615181) • [🐱 Nyaa](https://nekobt.to/torrents/11664510459915) |
+| `[nnotaclue] Dr. STONE - S04E35 [1080p AV1 Opus 2.0 Multi-Audio Mult...` | **514.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/615182) • [🐱 Nyaa](https://nekobt.to/torrents/11664445246218) |
+| `[BlackRose] I Want to End This Love Game - S01E01 (WEB 1080p HEVC 1...` | **1754.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/615180) • [🐱 Nyaa](https://nekobt.to/torrents/11663785749255) |
 | `[Onalrie] Hitori no Shita - The Outcast - S06E24 [1080p WEBRip AV1]` | **288.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/615179) • [🐱 Nyaa](https://onalrie.app/torrent/69479db8-7dd7-4ef6-9451-c757e09857fc) |
 | `[BlackRabbit] My One-Hit Kill Sister (2023) - S01 [Bluray-1080p][Op...` | **2291.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/615178) • [🐱 Nyaa](https://nekobt.to/torrents/11662501496335) |
 | `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 24 (CA) [1080...` | **893.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615177) • [🐱 Nyaa](https://nyaa.si/view/2120770) |
@@ -40,9 +43,6 @@
 | `[ToonsHub] The Outcast S06E24 1080p CR WEB-DL AAC2.0 H.264 (Multi-S...` | **1810.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/615167) • [🐱 Nyaa](https://nekobt.to/torrents/11658297792256) |
 | `[SubsPlease] Hitori no Shita - The Outcast S6 - 24 (1080p) [59B6B15...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615161) • [🐱 Nyaa](https://nyaa.si/view/2120736) |
 | `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 24 (CA) [1080...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615166) • [🐱 Nyaa](https://nyaa.si/view/2120730) |
-| `JoJo's Bizzare Adventure - Phantom Blood & Battle Tendency (BDRip 1...` | **12083.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615160) • [🐱 Nyaa](https://nyaa.si/view/2120728) |
-| `[sam] Dr. STONE - Science Future - S04E34 (WEB 1080p HEVC x265 10-b...` | **2457.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615158) • [🐱 Nyaa](https://nyaa.si/view/2120699) |
-| `[cappybara] Marriage Toxin - S01E10 (WEB 1080p HEVC AAC).mkv` | **2540.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/615156) • [🐱 Nyaa](https://nekobt.to/torrents/11654587773453) |
 
 ---
 <div align="center">
