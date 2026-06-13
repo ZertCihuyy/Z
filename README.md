@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.05.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.32.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `mono.S01.1080p.BluRay.Dual-Audio.Opus.2.0.x265-YURASUKA (mono: Week...` | **13619.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615359) • [🐱 Nyaa](https://nyaa.si/view/2121073) |
+| `[Onalrie] Rilakkuma - S01E11 [1080p WEBRip AV1]` | **21.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/615360) • [🐱 Nyaa](https://onalrie.app/torrent/3ef7dbc3-c8fe-454c-b21d-cfb1f5b26964) |
+| `[NVN] Witch Hat Atelier - S01E11 [WEBRip HEVC 1080p] [Sub. Español]` | **1996.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/615357) • [🐱 Nyaa](https://nekobt.to/torrents/11683561937930) |
 | `[Some-Stuffs] Pocket Monsters (2023) 140 (1080p HEVC 10-bit) [F5A0F...` | **944.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615354) • [🐱 Nyaa](https://nyaa.si/view/2121060) |
 | `[Some-Stuffs] Pocket Monsters (2023) 140 (1080p) [C82A45E8]` | **472.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615355) • [🐱 Nyaa](https://nyaa.si/view/2121059) |
 | `[ToonsHub] Jiang Ye S01E09 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **438.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615353) • [🐱 Nyaa](https://nyaa.si/view/2121056) |
@@ -45,9 +48,6 @@
 | `[ASW] Rilakkuma - 11 [1080p HEVC x265 10Bit][AAC]` | **30.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615338) • [🐱 Nyaa](https://nyaa.si/view/2121029) |
 | `[ToonsHub] RILAKKUMA S01E11 1080p CR WEB-DL DUAL AAC2.0 H.264 (Rila...` | **91.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615339) • [🐱 Nyaa](https://nyaa.si/view/2121028) |
 | `RILAKKUMA S01E11 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Rilakkuma...` | **94.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615340) • [🐱 Nyaa](https://nyaa.si/view/2121025) |
-| `[SubsPlease] Rilakkuma - 11 (1080p) [8FFD7787].mkv` | **93.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615343) • [🐱 Nyaa](https://nyaa.si/view/2121021) |
-| `[Erai-raws] Rilakkuma - 11 [1080p CR WEB-DL AVC AAC][MultiSub][2E3E...` | **89.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615346) • [🐱 Nyaa](https://nyaa.si/view/2121016) |
-| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 10 [1080p AMZN WEBRip H...` | **386.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615332) • [🐱 Nyaa](https://nyaa.si/view/2121011) |
 
 ---
 <div align="center">
