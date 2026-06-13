@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.57.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.23.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 10 [1080p AMZN WEBRip H...` | **386.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615332) • [🐱 Nyaa](https://nyaa.si/view/2121011) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 10 [1080p AMZN WEB-DL A...` | **726.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615335) • [🐱 Nyaa](https://nyaa.si/view/2121008) |
+| `The Drops of God S01E07 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **1452.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/615336) • [🐱 Nyaa](https://nekobt.to/torrents/11678417190412) |
+| `That Time I Got Reincarnated as a Slime S04E07 MULTi AD 1080p CR WE...` | **1467.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/615337) • [🐱 Nyaa](https://nekobt.to/torrents/11678394520833) |
+| `SNOWBALL EARTH S01E11 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H.264-Tsun...` | **881.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/615330) • [🐱 Nyaa](https://nekobt.to/torrents/11678042791691) |
+| `Mobile Suit Gundam The Origin Advent of the Red Comet S01 SUBFRENCH...` | **19011.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615331) • [🐱 Nyaa](https://nekobt.to/torrents/11677981369857) |
+| `Dorohedoro S02 MULTi 1080p DSNP WEB-DL AAC2.0 H.264-Tsundere-Raws (...` | **12361.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/615328) • [🐱 Nyaa](https://nekobt.to/torrents/11677840337152) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime - S04E08 (WEB ...` | **1466.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/615327) • [🐱 Nyaa](https://nekobt.to/torrents/11676884305935) |
 | `[ToonsHub] Marikas Love Meter Malfunction S01E08 1080p UNCENSORED A...` | **167.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615325) • [🐱 Nyaa](https://nyaa.si/view/2120989) |
 | `[Erai-raws] Kami no Shizuku - 10 [1080p CR WEBRip HEVC AAC][MultiSu...` | **378.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615326) • [🐱 Nyaa](https://nyaa.si/view/2120984) |
@@ -41,13 +48,6 @@
 | `[Judas] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saret...` | **141.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615320) • [🐱 Nyaa](https://nyaa.si/view/2120975) |
 | `[FrixySubs] NEEDY GIRL OVERDOSE - S01E07 [1080p CR WEB-DL H.264 AAC...` | **1457.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/615322) • [🐱 Nyaa](https://nekobt.to/torrents/11675384374541) |
 | `[FrixySubs] NEEDY GIRL OVERDOSE - S01E06 [1080p CR WEB-DL H.264 AAC...` | **1384.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/615319) • [🐱 Nyaa](https://nekobt.to/torrents/11675291612420) |
-| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E10 [1080p][...` | **242.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615318) • [🐱 Nyaa](https://nyaa.si/view/2120974) |
-| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 10 [1080p...` | **405.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615314) • [🐱 Nyaa](https://nyaa.si/view/2120971) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E100 (ちびゴジラの逆襲; Chibi Godzi...` | **34.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615315) • [🐱 Nyaa](https://nyaa.si/view/2120970) |
-| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina ...` | **198.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615317) • [🐱 Nyaa](https://nyaa.si/view/2120968) |
-| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S01E12 [108...` | **467.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615310) • [🐱 Nyaa](https://nyaa.si/view/2120964) |
-| `[Erai-raws] Snowball Earth - 11 [1080p CR WEBRip HEVC AAC][MultiSub...` | **416.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615311) • [🐱 Nyaa](https://nyaa.si/view/2120963) |
-| `[DKB] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saretei...` | **200.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615312) • [🐱 Nyaa](https://nyaa.si/view/2120961) |
 
 ---
 <div align="center">
