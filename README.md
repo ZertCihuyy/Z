@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.21.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.38.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Kanan-sama wa Akumade Choroi - 11 [1080p CR WEBRip HEVC...` | **574.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/615614) • [🐱 Nyaa](https://nekobt.to/torrents/11699211327495) |
+| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E09 ...` | **589.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615612) • [🐱 Nyaa](https://nyaa.si/view/2121442) |
+| `[DKB] Needy Girl Overdose - S01E11 [1080p][HEVC x265 10bit][Multi-S...` | **909.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615613) • [🐱 Nyaa](https://nyaa.si/view/2121440) |
+| `[Gecko] Odekake Kozame - S01E70 (おでかけ子ザメ; Odekake Kozame 2nd Season...` | **14.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615611) • [🐱 Nyaa](https://nekobt.to/torrents/11698935136257) |
+| `[Erai-raws] Mao - 11 [1080p DSNP WEB-DL AVC AAC][MultiSub][14EAA33B]` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615610) • [🐱 Nyaa](https://nyaa.si/view/2121436) |
+| `[Lazyleido-Mini] DIGIMON BEATBREAK - 33 (S01E33) - (WEB 1080p AV1 1...` | **585.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615606) • [🐱 Nyaa](https://nyaa.si/view/2121435) |
+| `[Lazyleido] DIGIMON BEATBREAK - 33 (S01E33) - (WEB 1080p HEVC x265 ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615607) • [🐱 Nyaa](https://nyaa.si/view/2121434) |
+| `[VARYG] MAO S01E11 Blood Bond 1080p DSNP WEB-DL AAC2.0 H.264 (Multi...` | **1091.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/615605) • [🐱 Nyaa](https://nekobt.to/torrents/11698370448905) |
+| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 12 [1080p CR WEB...` | **535.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615600) • [🐱 Nyaa](https://nyaa.si/view/2121430) |
+| `[DKB] Kill Ao - S01E10 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **423.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615601) • [🐱 Nyaa](https://nyaa.si/view/2121429) |
+| `[DKB] Akane-banashi - S01E11 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **348.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615602) • [🐱 Nyaa](https://nyaa.si/view/2121428) |
+| `[DKB] Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi...` | **246.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615603) • [🐱 Nyaa](https://nyaa.si/view/2121427) |
+| `[DKB] Kanan-sama wa Akumade Choroi - S01E11 [1080p][HEVC x265 10bit...` | **365.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615604) • [🐱 Nyaa](https://nyaa.si/view/2121426) |
 | `[ToonsHub] MAO S01E11 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1091.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/615599) • [🐱 Nyaa](https://nekobt.to/torrents/11698122191618) |
 | `[BlackRabbit] Ghost in the Shell - Stand Alone Complex (2002) - S01...` | **6140.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/615597) • [🐱 Nyaa](https://nekobt.to/torrents/11697565678347) |
-| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly ...` | **327.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615595) • [🐱 Nyaa](https://nyaa.si/view/2121424) |
-| `[Erai-raws] Needy Girl Overdose - 11 [1080p CR WEBRip HEVC AAC][Mul...` | **892.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615596) • [🐱 Nyaa](https://nyaa.si/view/2121423) |
-| `[Himejoshi] NEEDY GIRL OVERDOSE - S01E07 (WEB 1080p AV1)` | **1251.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/615594) • [🐱 Nyaa](https://nekobt.to/torrents/11697123333135) |
-| `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E07 (WEB 1080p H...` | **1843.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615593) • [🐱 Nyaa](https://nyaa.si/view/2121418) |
-| `[Erai-raws] Ichijyoma Mankitsu Gurashi - 10 [1080p AMZN WEBRip HEVC...` | **285.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615591) • [🐱 Nyaa](https://nyaa.si/view/2121417) |
-| `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S01E09 [1080...` | **509.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615592) • [🐱 Nyaa](https://nyaa.si/view/2121416) |
-| `[ASW] Kami no Niwatsuki Kusunoki-tei - 11 [1080p HEVC x265 10Bit][AAC]` | **281.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615588) • [🐱 Nyaa](https://nyaa.si/view/2121415) |
-| `[ASW] Yuusha no Kuzu - 22 [1080p HEVC x265 10Bit][AAC]` | **270.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615589) • [🐱 Nyaa](https://nyaa.si/view/2121414) |
-| `[Onalrie] Yuusha no Kuzu - S01E22 [1080p WEBRip AV1]` | **243.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/615587) • [🐱 Nyaa](https://onalrie.app/torrent/2e426072-a429-4a42-b54c-e65c68a2fbd4) |
-| `[Judas] NEEDY GIRL OVERDOSE - S01E11 [1080p][HEVC x265 10bit][Multi...` | **538.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615585) • [🐱 Nyaa](https://nyaa.si/view/2121412) |
-| `[Onalrie] NEEDY GIRL OVERDOSE - S01E11 [1080p WEBRip AV1]` | **343.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/615584) • [🐱 Nyaa](https://onalrie.app/torrent/f1377e7d-3ddc-4553-9c5c-25517cd0b078) |
-| `[ASW] NEEDY GIRL OVERDOSE - 11 [1080p HEVC x265 10Bit][AAC]` | **562.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615580) • [🐱 Nyaa](https://nyaa.si/view/2121410) |
-| `[Erai-raws] Yomi no Tsugai - 11 [1080p CR WEBRip HEVC AAC][MultiSub...` | **498.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615581) • [🐱 Nyaa](https://nyaa.si/view/2121408) |
 
 ---
 <div align="center">
