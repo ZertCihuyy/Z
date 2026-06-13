@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.05.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.48.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Daemons of the Shadow Realm S01E11 1080p NF WEB-DL AAC2....` | **863.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/615451) • [🐱 Nyaa](https://nekobt.to/torrents/11692388646666) |
-| `[ToonsHub] KILL BLUE S01E10 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1003.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/615450) • [🐱 Nyaa](https://nekobt.to/torrents/11692388789515) |
-| `[VARYG] Akane Banashi S01E11 1080p NF WEB-DL AAC2.0 H.264 (Akane-ba...` | **1052.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/615452) • [🐱 Nyaa](https://nekobt.to/torrents/11692385353480) |
-| `[ToonsHub] Detective Conan EP1203 1080p NF WEB-DL AAC2.0 H.264 (Mei...` | **995.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615449) • [🐱 Nyaa](https://nyaa.si/view/2121224) |
-| `[ToonsHub] Detective Conan EP1203 1080p NF WEB-DL AAC2.0 H.264 (Mul...` | **995.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/615453) • [🐱 Nyaa](https://nekobt.to/torrents/11692306183695) |
-| `One Piece S01E1165 1080p NF WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **860.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615438) • [🐱 Nyaa](https://nyaa.si/view/2121220) |
-| `KILL BLUE S01E10 1080p CR WEB-DL AAC2.0 H 264-VARYG (Kill Ao, Multi...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615439) • [🐱 Nyaa](https://nyaa.si/view/2121219) |
-| `[ToonsHub] KILL BLUE S01E10 1080p CR WEB-DL AAC2.0 H.264 (Kill Ao, ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615440) • [🐱 Nyaa](https://nyaa.si/view/2121218) |
-| `KILL BLUE S01E10 Death or Kiss 1080p NF WEB-DL AAC2.0 H 264-VARYG (...` | **1003.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615441) • [🐱 Nyaa](https://nyaa.si/view/2121216) |
-| `[ToonsHub] KILL BLUE S01E10 1080p BILI WEB-DL AAC2.0 H.265 (Kill Ao...` | **317.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615442) • [🐱 Nyaa](https://nyaa.si/view/2121215) |
-| `[SubsPlease] Kill Ao - 10 (1080p) [5C9E744A].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615443) • [🐱 Nyaa](https://nyaa.si/view/2121213) |
-| `[Erai-raws] Kill Ao - 10 [1080p CR WEB-DL AVC AAC][MultiSub][C599076E]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615447) • [🐱 Nyaa](https://nyaa.si/view/2121208) |
-| `[ASW] Kanteishi (Kari) - 12 [1080p HEVC x265 10Bit][AAC]` | **212.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615437) • [🐱 Nyaa](https://nyaa.si/view/2121204) |
-| `[Onalrie] Kanteishi (Kari) - S01E12 [1080p WEBRip AV1]` | **176.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/615435) • [🐱 Nyaa](https://onalrie.app/torrent/ab1a517b-3592-4629-80ea-bfdb3fef1cc5) |
-| `Yowayowa Sensei S01E10 A Weak and Wimpy Best Summer Ever 1080p ADN ...` | **566.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615429) • [🐱 Nyaa](https://nyaa.si/view/2121196) |
+| `KILL BLUE S01E10 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **737.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/615517) • [🐱 Nyaa](https://nekobt.to/torrents/11693963854596) |
+| `Akane banashi S01E06 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **328.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615518) • [🐱 Nyaa](https://nekobt.to/torrents/11693958432519) |
+| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01E09 1080p ...` | **1630.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/615519) • [🐱 Nyaa](https://nekobt.to/torrents/11693904984584) |
+| `[Erai-raws] Akane-banashi - 11 [1080p NF WEBRip HEVC AAC][MultiSub]...` | **349.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/615520) • [🐱 Nyaa](https://nekobt.to/torrents/11693869943053) |
+| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01E10 1080p ...` | **1437.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/615521) • [🐱 Nyaa](https://nekobt.to/torrents/11693821710339) |
+| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01E12 1080p ...` | **1388.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/615522) • [🐱 Nyaa](https://nekobt.to/torrents/11693816233730) |
+| `[ToonsHub] Kusunokis Garden of Gods S01E11 1080p CR WEB-DL AAC2.0 H...` | **1390.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/615523) • [🐱 Nyaa](https://nekobt.to/torrents/11693815936769) |
+| `Agents of the Four Seasons Dance of Spring S01E10 Afterimage 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615497) • [🐱 Nyaa](https://nyaa.si/view/2121323) |
+| `[Erai-raws] Akane-banashi - 06 (REPACK) [1080p NF WEB-DL AVC AAC][M...` | **919.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615498) • [🐱 Nyaa](https://nyaa.si/view/2121320) |
+| `[Trix] Mistress Kanan is Devilishly Easy S01E11 [WEBRip 1080p AV1 O...` | **317.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615499) • [🐱 Nyaa](https://nyaa.si/view/2121318) |
+| `[SubsPlease] Shunkashuutou Daikousha - Haru no Mai - 12 (1080p) [1D...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615500) • [🐱 Nyaa](https://nyaa.si/view/2121316) |
+| `Kusunokis Garden of Gods S01E11 The Grudge of Evil Spirits Taints t...` | **300.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615501) • [🐱 Nyaa](https://nyaa.si/view/2121315) |
+| `[SubsPlease] Kami no Niwatsuki Kusunoki-tei - 11 (1080p) [46F12B9D]...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615503) • [🐱 Nyaa](https://nyaa.si/view/2121312) |
+| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 12 [1080p CR WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615506) • [🐱 Nyaa](https://nyaa.si/view/2121309) |
+| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 11 [1080p CR WEB-DL AV...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615510) • [🐱 Nyaa](https://nyaa.si/view/2121305) |
 
 ---
 <div align="center">
