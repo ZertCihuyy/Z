@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.58.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.05.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ASW] Detective Conan - 1203 [1080p HEVC x265 10Bit][AAC]` | **206.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615404) • [🐱 Nyaa](https://nyaa.si/view/2121148) |
-| `[Onalrie] Detective Conan - E1203 [1080p WEBRip AV1]` | **181.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/615403) • [🐱 Nyaa](https://onalrie.app/torrent/fb1dea2a-9665-43e1-9ddc-4c9684cc966e) |
-| `Detective Conan S01E1203 Sonoko and Conans Spooky Story Night 1080p...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615402) • [🐱 Nyaa](https://nyaa.si/view/2121146) |
-| `[ToonsHub] Detective Conan EP1203 1080p CR WEB-DL AAC2.0 H.264 (Mei...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615393) • [🐱 Nyaa](https://nyaa.si/view/2121144) |
-| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School) - S04E11 ...` | **668.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615394) • [🐱 Nyaa](https://nyaa.si/view/2121143) |
-| `Ascendance of a Bookworm S04E07 Hasses Monastery 1080p CR WEB-DL MU...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615395) • [🐱 Nyaa](https://nyaa.si/view/2121141) |
-| `[SubsPlease] Detective Conan - 1203 (1080p) [19448D57].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615396) • [🐱 Nyaa](https://nyaa.si/view/2121139) |
-| `[Erai-raws] Detective Conan - 1203 [1080p CR WEB-DL AVC AAC][33F22E3D]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615401) • [🐱 Nyaa](https://nyaa.si/view/2121134) |
-| `[ASW] Mairimashita! Iruma-kun S4 - 11 [1080p HEVC x265 10Bit][AAC]` | **637.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615391) • [🐱 Nyaa](https://nyaa.si/view/2121133) |
-| `[Onalrie] Mairimashita! Iruma-kun - S04E11 [1080p WEBRip AV1]` | **461.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/615392) • [🐱 Nyaa](https://onalrie.app/torrent/4f5fcfe5-2d31-47ac-b8d3-7d540fd97b55) |
-| `Welcome to Demon School Iruma kun S04E11 The Best Friends Meeting 1...` | **565.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615389) • [🐱 Nyaa](https://nyaa.si/view/2121124) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E11 1080p BILI WEB-...` | **531.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615390) • [🐱 Nyaa](https://nyaa.si/view/2121123) |
-| `Welcome to Demon School Iruma kun S04E11 1080p CR WEB-DL MULTi AAC2...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615388) • [🐱 Nyaa](https://nyaa.si/view/2121119) |
-| `[Yameii] Welcome to Demon School! Iruma-kun - S04E11 [English Dub] ...` | **1464.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/615384) • [🐱 Nyaa](https://nekobt.to/torrents/11688194734593) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E11 1080p CR WEB-DL...` | **1606.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/615385) • [🐱 Nyaa](https://nekobt.to/torrents/11688174242319) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E11 1080p NF WEB-DL AAC2....` | **863.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/615451) • [🐱 Nyaa](https://nekobt.to/torrents/11692388646666) |
+| `[ToonsHub] KILL BLUE S01E10 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1003.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/615450) • [🐱 Nyaa](https://nekobt.to/torrents/11692388789515) |
+| `[VARYG] Akane Banashi S01E11 1080p NF WEB-DL AAC2.0 H.264 (Akane-ba...` | **1052.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/615452) • [🐱 Nyaa](https://nekobt.to/torrents/11692385353480) |
+| `[ToonsHub] Detective Conan EP1203 1080p NF WEB-DL AAC2.0 H.264 (Mei...` | **995.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615449) • [🐱 Nyaa](https://nyaa.si/view/2121224) |
+| `[ToonsHub] Detective Conan EP1203 1080p NF WEB-DL AAC2.0 H.264 (Mul...` | **995.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/615453) • [🐱 Nyaa](https://nekobt.to/torrents/11692306183695) |
+| `One Piece S01E1165 1080p NF WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **860.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615438) • [🐱 Nyaa](https://nyaa.si/view/2121220) |
+| `KILL BLUE S01E10 1080p CR WEB-DL AAC2.0 H 264-VARYG (Kill Ao, Multi...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615439) • [🐱 Nyaa](https://nyaa.si/view/2121219) |
+| `[ToonsHub] KILL BLUE S01E10 1080p CR WEB-DL AAC2.0 H.264 (Kill Ao, ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615440) • [🐱 Nyaa](https://nyaa.si/view/2121218) |
+| `KILL BLUE S01E10 Death or Kiss 1080p NF WEB-DL AAC2.0 H 264-VARYG (...` | **1003.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615441) • [🐱 Nyaa](https://nyaa.si/view/2121216) |
+| `[ToonsHub] KILL BLUE S01E10 1080p BILI WEB-DL AAC2.0 H.265 (Kill Ao...` | **317.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615442) • [🐱 Nyaa](https://nyaa.si/view/2121215) |
+| `[SubsPlease] Kill Ao - 10 (1080p) [5C9E744A].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615443) • [🐱 Nyaa](https://nyaa.si/view/2121213) |
+| `[Erai-raws] Kill Ao - 10 [1080p CR WEB-DL AVC AAC][MultiSub][C599076E]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615447) • [🐱 Nyaa](https://nyaa.si/view/2121208) |
+| `[ASW] Kanteishi (Kari) - 12 [1080p HEVC x265 10Bit][AAC]` | **212.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615437) • [🐱 Nyaa](https://nyaa.si/view/2121204) |
+| `[Onalrie] Kanteishi (Kari) - S01E12 [1080p WEBRip AV1]` | **176.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/615435) • [🐱 Nyaa](https://onalrie.app/torrent/ab1a517b-3592-4629-80ea-bfdb3fef1cc5) |
+| `Yowayowa Sensei S01E10 A Weak and Wimpy Best Summer Ever 1080p ADN ...` | **566.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615429) • [🐱 Nyaa](https://nyaa.si/view/2121196) |
 
 ---
 <div align="center">
