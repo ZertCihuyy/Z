@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.38.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.48.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `The King of Braves GaoGaiGar EP01-EP25 (BD 1080p) (Dual Audio) + FI...` | **59289.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615615) • [🐱 Nyaa](https://nyaa.si/view/2121451) |
 | `[Erai-raws] Kanan-sama wa Akumade Choroi - 11 [1080p CR WEBRip HEVC...` | **574.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/615614) • [🐱 Nyaa](https://nekobt.to/torrents/11699211327495) |
 | `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E09 ...` | **589.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615612) • [🐱 Nyaa](https://nyaa.si/view/2121442) |
 | `[DKB] Needy Girl Overdose - S01E11 [1080p][HEVC x265 10bit][Multi-S...` | **909.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615613) • [🐱 Nyaa](https://nyaa.si/view/2121440) |
@@ -47,7 +48,6 @@
 | `[DKB] Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi...` | **246.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615603) • [🐱 Nyaa](https://nyaa.si/view/2121427) |
 | `[DKB] Kanan-sama wa Akumade Choroi - S01E11 [1080p][HEVC x265 10bit...` | **365.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615604) • [🐱 Nyaa](https://nyaa.si/view/2121426) |
 | `[ToonsHub] MAO S01E11 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1091.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/615599) • [🐱 Nyaa](https://nekobt.to/torrents/11698122191618) |
-| `[BlackRabbit] Ghost in the Shell - Stand Alone Complex (2002) - S01...` | **6140.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/615597) • [🐱 Nyaa](https://nekobt.to/torrents/11697565678347) |
 
 ---
 <div align="center">
