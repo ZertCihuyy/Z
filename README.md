@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.34.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.16.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[CicakRumah] Koupen-chan - S01E63 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **98.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615669) • [🐱 Nyaa](https://nyaa.si/view/2121559) |
-| `[ToonsHub] How dare you S02E23 1080p iQ WEB-DL AAC2.0 H.264 (Cheng ...` | **336.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615670) • [🐱 Nyaa](https://nyaa.si/view/2121558) |
-| `[Onalrie] Digimon Beatbreak - S01E35 [1080p WEBRip AV1]` | **332.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/615668) • [🐱 Nyaa](https://onalrie.app/torrent/ec4f3c6d-1d94-4f5c-aded-20bb0f80bcc7) |
-| `Mission Yozakura Family S02E10 Refusal 1080p DSNP WEB-DL AAC2.0 H 2...` | **794.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615666) • [🐱 Nyaa](https://nyaa.si/view/2121543) |
-| `[ToonsHub] Mission Yozakura Family S02E10 1080p DSNP WEB-DL AAC2.0 ...` | **794.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615667) • [🐱 Nyaa](https://nyaa.si/view/2121542) |
-| `[Gecko] Action Monster Big Movie - S01E09 (开拍啦！怪兽大电影; Kai Pai La! G...` | **369.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615665) • [🐱 Nyaa](https://nyaa.si/view/2121541) |
-| `[BlackRose] I Want to End This Love Game - S01E03 (WEB 1080p HEVC 1...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615663) • [🐱 Nyaa](https://nyaa.si/view/2121540) |
-| `Digimon.Beatbreak.S01E35.1080p.CR.WEBRip.10bits.x265-Rapta` | **266.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615664) • [🐱 Nyaa](https://nyaa.si/view/2121539) |
-| `[BlackRabbit] Ghost in the Shell - Stand Alone Complex (2002) - S02...` | **6279.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/615662) • [🐱 Nyaa](https://nekobt.to/torrents/11705876486412) |
-| `[Yameii] KILL BLUE - S01E07 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615659) • [🐱 Nyaa](https://nyaa.si/view/2121534) |
-| `[Serenae] Meitantei Precure! - 20 Next Ep PV (1080p).mkv` | **34.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615661) • [🐱 Nyaa](https://nyaa.si/view/2121532) |
-| `[Yameii] Dr. Stone - S04E35 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1406.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/615657) • [🐱 Nyaa](https://nekobt.to/torrents/11705547533826) |
-| `[Gecko] Odekake Kozame - S01E69v2 (おでかけ子ザメ; Odekake Kozame 2nd Seas...` | **14.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615655) • [🐱 Nyaa](https://nyaa.si/view/2121529) |
-| `[Gecko] Odekake Kozame - S01E68v2 (おでかけ子ザメ; Odekake Kozame 2nd Seas...` | **20.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615658) • [🐱 Nyaa](https://nekobt.to/torrents/11705445397000) |
-| `[Serenae] Meitantei Precure! - 20 Fanart Corner (1080p).mkv` | **8.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615656) • [🐱 Nyaa](https://nyaa.si/view/2121527) |
+| `[denisplay] Yowayowa Sensei - 09 [1080p] [AV1] (Weekly) (Yowayowa S...` | **206.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615704) • [🐱 Nyaa](https://nyaa.si/view/2121609) |
+| `[Half-Baked] Akane-banashi - S01E11 [WEB 1080p HEVC AAC] (Multi-sub)` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615701) • [🐱 Nyaa](https://nyaa.si/view/2121603) |
+| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sword) - S02...` | **300.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615702) • [🐱 Nyaa](https://nyaa.si/view/2121602) |
+| `[ASW] Ace of Diamond Act II S2 - 11 [1080p HEVC x265 10Bit][AAC]` | **292.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615699) • [🐱 Nyaa](https://nyaa.si/view/2121601) |
+| `[Onalrie] Ace of Diamond Act II - S02E11 [1080p WEBRip AV1]` | **210.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/615698) • [🐱 Nyaa](https://onalrie.app/torrent/267f233d-4394-499e-82ed-32e16064d29d) |
+| `[ASW] Tsue to Tsurugi no Wistoria S2 - 10 [1080p HEVC x265 10Bit][AAC]` | **300.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615697) • [🐱 Nyaa](https://nyaa.si/view/2121597) |
+| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E10 [1080p WEBRip AV1]` | **238.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615696) • [🐱 Nyaa](https://onalrie.app/torrent/b43288d2-80f4-446e-9f8b-6ba5d8318115) |
+| `Ace of the Diamond S04E11 1080p CR WEB-DL AAC2.0 H 264-VARYG (Diamo...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615688) • [🐱 Nyaa](https://nyaa.si/view/2121593) |
+| `[ToonsHub] Ace of Diamond S04E11 1080p CR WEB-DL AAC2.0 H.264 (Diam...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615689) • [🐱 Nyaa](https://nyaa.si/view/2121590) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 11 (1080p) [09E15D36].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615690) • [🐱 Nyaa](https://nyaa.si/view/2121589) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 11 [1080p CR WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615695) • [🐱 Nyaa](https://nyaa.si/view/2121583) |
+| `[ToonsHub] Wistoria Wand and Sword S02E07 1080p CR WEB-DL MULTi AAC...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615686) • [🐱 Nyaa](https://nyaa.si/view/2121581) |
+| `[BlackRabbit] Ghost in the Shell - Stand Alone Complex (2002) - S03...` | **2849.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/615687) • [🐱 Nyaa](https://nekobt.to/torrents/11708669726213) |
+| `[Yameii] Wistoria: Wand and Sword - S02E08 [English Dub] [CR WEB-DL...` | **1392.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/615684) • [🐱 Nyaa](https://nekobt.to/torrents/11708559139585) |
+| `Wistoria Wand and Sword S02E10 1080p CR WEB-DL AAC2.0 H 264-VARYG (...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615671) • [🐱 Nyaa](https://nyaa.si/view/2121577) |
 
 ---
 <div align="center">
