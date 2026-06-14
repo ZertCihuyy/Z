@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.18.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.06.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 10 [1080p D...` | **326.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615813) • [🐱 Nyaa](https://nyaa.si/view/2121814) |
+| `[DKB] Nippon Sangoku - S01E11 [1080p][HEVC x265 10bit][Dual-Audio][...` | **758.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615812) • [🐱 Nyaa](https://nyaa.si/view/2121813) |
+| `[Erai-raws] Nippon Sangoku - 11 [1080p AMZN WEBRip HEVC EAC3][Multi...` | **719.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615808) • [🐱 Nyaa](https://nyaa.si/view/2121809) |
+| `[ToonsHub] One Piece EP1166 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **267.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615809) • [🐱 Nyaa](https://nyaa.si/view/2121808) |
 | `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 10 [1080p WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615806) • [🐱 Nyaa](https://nyaa.si/view/2121787) |
 | `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 09 [1080p WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615807) • [🐱 Nyaa](https://nyaa.si/view/2121786) |
 | `[Erai-raws] Digimon Beatbreak - 35 [1080p CR WEBRip HEVC AAC][Multi...` | **518.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615800) • [🐱 Nyaa](https://nyaa.si/view/2121781) |
@@ -34,10 +38,6 @@
 | `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 10 [1080p CR W...` | **357.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615791) • [🐱 Nyaa](https://nyaa.si/view/2121764) |
 | `[Erai-raws] Diamond no Ace: Act II Second Season - 11 [1080p CR WEB...` | **550.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615792) • [🐱 Nyaa](https://nyaa.si/view/2121763) |
 | `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 10 [1080p D...` | **794.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615793) • [🐱 Nyaa](https://nyaa.si/view/2121762) |
-| `[Erai-raws] Nippon Sangoku - 11 [1080p AMZN WEB-DL AVC EAC3][MultiS...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615798) • [🐱 Nyaa](https://nyaa.si/view/2121757) |
-| `[Onalrie] One Piece - E1166 [1080p WEBRip AV1]` | **280.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/615799) • [🐱 Nyaa](https://nekobt.to/torrents/11716174486538) |
-| `[FLE] Re ZERO Starting Life in Another World - S04E10 (WEB 1080p HE...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615785) • [🐱 Nyaa](https://nyaa.si/view/2121756) |
-| `[ASW] Ghost Concert - missing Songs - 11 [1080p HEVC x265 10Bit][AAC]` | **332.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615786) • [🐱 Nyaa](https://nyaa.si/view/2121755) |
 
 ---
 <div align="center">
