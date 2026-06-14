@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.21.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.56.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E10 1080p CR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615755) • [🐱 Nyaa](https://nyaa.si/view/2121699) |
-| `[HnY] Beyblade X 127 - The Kurosu Clan's Strategy (1080p).mkv` | **857.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615756) • [🐱 Nyaa](https://nyaa.si/view/2121698) |
-| `[VARYG] The Classroom of a Black Cat and a Witch S01E10 1080p CR WE...` | **1389.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/615752) • [🐱 Nyaa](https://nekobt.to/torrents/11714503133698) |
-| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 10 (1080p) [ED09D4C5]...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615757) • [🐱 Nyaa](https://nyaa.si/view/2121694) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 10 [1080p CR WEB-DL AV...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615751) • [🐱 Nyaa](https://nyaa.si/view/2121686) |
-| `[Onalrie] Maid-san wa Taberu Dake - S01E12 [1080p WEBRip AV1]` | **146.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/615754) • [🐱 Nyaa](https://onalrie.app/torrent/e7012cc3-d74a-4bbd-94d1-164fd71837dc) |
-| `[ToonsHub] One Piece EP1166 1080p TVER WEB-DL AAC2.0 H.264` | **552.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/615753) • [🐱 Nyaa](https://nekobt.to/torrents/11714265856768) |
-| `[ASW] Maid-san wa Taberu Dake - 12 [1080p HEVC x265 10Bit][AAC]` | **162.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615746) • [🐱 Nyaa](https://nyaa.si/view/2121681) |
-| `The Food Diary of Miss Maid S01E12 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615738) • [🐱 Nyaa](https://nyaa.si/view/2121676) |
-| `[ToonsHub] The Food Diary of Miss Maid S01E12 1080p CR WEB-DL AAC2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615739) • [🐱 Nyaa](https://nyaa.si/view/2121673) |
-| `[SubsPlease] Maid-san wa Taberu Dake - 12 (1080p) [6F7118F1].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615740) • [🐱 Nyaa](https://nyaa.si/view/2121671) |
-| `[Erai-raws] Maid-san wa Taberu dake - 12 [1080p CR WEB-DL AVC AAC][...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615745) • [🐱 Nyaa](https://nyaa.si/view/2121664) |
-| `Wistoria Wand and Sword S02E07 MULTi AD 1080p CR WEB-DL AAC2.0 x264...` | **1457.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/615736) • [🐱 Nyaa](https://nekobt.to/torrents/11713213888780) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E11 MULTi 10...` | **568.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/615737) • [🐱 Nyaa](https://nekobt.to/torrents/11713200237572) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E11 MULTi 10...` | **1452.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/615731) • [🐱 Nyaa](https://nekobt.to/torrents/11713187496462) |
+| `[FLE] Re ZERO Starting Life in Another World - S04E10 (WEB 1080p HE...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615785) • [🐱 Nyaa](https://nyaa.si/view/2121756) |
+| `[ASW] Ghost Concert - missing Songs - 11 [1080p HEVC x265 10Bit][AAC]` | **332.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615786) • [🐱 Nyaa](https://nyaa.si/view/2121755) |
+| `[DKB] Yozakura-san Chi no Daisakusen - S02E10 [1080p][HEVC x265 10b...` | **387.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615787) • [🐱 Nyaa](https://nyaa.si/view/2121754) |
+| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **569.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615784) • [🐱 Nyaa](https://nyaa.si/view/2121747) |
+| `[Onalrie] Ghost Concert - missing Songs - S01E11 [1080p WEBRip AV1]` | **247.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/615783) • [🐱 Nyaa](https://onalrie.app/torrent/0be81659-e74b-4631-978e-63dbfeb445ed) |
+| `[Trix] Ghost Concert: Missing Songs S01E11 [WEBRip 1080p AV1 Opus] ...` | **316.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/615781) • [🐱 Nyaa](https://nekobt.to/torrents/11715546589705) |
+| `[VARYG] One Piece S01E1166 1080p CR WEB-DL AAC2.0 H.264` | **1379.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/615782) • [🐱 Nyaa](https://nekobt.to/torrents/11715513210892) |
+| `[ASW] Kuroneko to Majo no Kyoushitsu - 10 [1080p HEVC x265 10Bit][AAC]` | **396.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615771) • [🐱 Nyaa](https://nyaa.si/view/2121735) |
+| `[ToonsHub] One Piece EP1166 1080p CR WEB-DL AAC2.0 H.264 (English-Sub)` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615772) • [🐱 Nyaa](https://nyaa.si/view/2121734) |
+| `[SubsPlease] One Piece - 1166 (1080p) [E8A3E5BE].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615773) • [🐱 Nyaa](https://nyaa.si/view/2121733) |
+| `[Erai-raws] One Piece - 1166 [1080p CR WEB-DL AVC AAC][B8E7642F]` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615778) • [🐱 Nyaa](https://nyaa.si/view/2121728) |
+| `JUJUTSU KAISEN S02 MULTi 1080p DSNP WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **24354.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/615769) • [🐱 Nyaa](https://nekobt.to/torrents/11715301636614) |
+| `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of a Black Ca...` | **382.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615780) • [🐱 Nyaa](https://nyaa.si/view/2121725) |
+| `GHOST CONCERT missing Songs S01E11 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615764) • [🐱 Nyaa](https://nyaa.si/view/2121719) |
+| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E10 [1080p WEBRip AV1]` | **263.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615770) • [🐱 Nyaa](https://onalrie.app/torrent/c92d75e1-1df6-4935-9185-fbf02b704a50) |
 
 ---
 <div align="center">
