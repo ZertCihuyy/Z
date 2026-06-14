@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.14.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.21.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E11 Lie on F...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615721) • [🐱 Nyaa](https://nyaa.si/view/2121639) |
-| `Wistoria Wand and Sword S02E10 Hoping Blooming Thundering 1080p NF ...` | **872.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615722) • [🐱 Nyaa](https://nyaa.si/view/2121638) |
-| `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 03v2 (WEB 1080p HEVC AAC...` | **523.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/615720) • [🐱 Nyaa](https://nekobt.to/torrents/11712139300868) |
-| `Wistoria Wand and Sword S02E07 He Said He Would No Longer Hang His ...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615719) • [🐱 Nyaa](https://nyaa.si/view/2121634) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1843.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615717) • [🐱 Nyaa](https://nyaa.si/view/2121633) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615718) • [🐱 Nyaa](https://nyaa.si/view/2121632) |
-| `[Judas] Dia no Ace (Ace of the Diamond) - S04E11 [1080p][HEVC x265 ...` | **289.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615706) • [🐱 Nyaa](https://nyaa.si/view/2121625) |
-| `[denisplay] Ichijouma Mankitsu Gurashi! - 09 [1080p] [AV1] (Weekly)...` | **243.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615707) • [🐱 Nyaa](https://nyaa.si/view/2121624) |
-| `[denisplay] Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kan...` | **262.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615710) • [🐱 Nyaa](https://nyaa.si/view/2121621) |
-| `[Chihiro] Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (Mu...` | **2662.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615713) • [🐱 Nyaa](https://nyaa.si/view/2121618) |
-| `[denisplay] Kuroneko to Majo no Kyoushitsu - 09 [1080p] [AV1] (Week...` | **359.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615714) • [🐱 Nyaa](https://nyaa.si/view/2121616) |
-| `[denisplay] Yowayowa Sensei - 09 [1080p] [AV1] (Weekly) (Yowayowa S...` | **206.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615704) • [🐱 Nyaa](https://nyaa.si/view/2121609) |
-| `[Half-Baked] Akane-banashi - S01E11 [WEB 1080p HEVC AAC] (Multi-sub)` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615701) • [🐱 Nyaa](https://nyaa.si/view/2121603) |
-| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sword) - S02...` | **300.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615702) • [🐱 Nyaa](https://nyaa.si/view/2121602) |
-| `[ASW] Ace of Diamond Act II S2 - 11 [1080p HEVC x265 10Bit][AAC]` | **292.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615699) • [🐱 Nyaa](https://nyaa.si/view/2121601) |
+| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E10 1080p CR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615755) • [🐱 Nyaa](https://nyaa.si/view/2121699) |
+| `[HnY] Beyblade X 127 - The Kurosu Clan's Strategy (1080p).mkv` | **857.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615756) • [🐱 Nyaa](https://nyaa.si/view/2121698) |
+| `[VARYG] The Classroom of a Black Cat and a Witch S01E10 1080p CR WE...` | **1389.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/615752) • [🐱 Nyaa](https://nekobt.to/torrents/11714503133698) |
+| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 10 (1080p) [ED09D4C5]...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615757) • [🐱 Nyaa](https://nyaa.si/view/2121694) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 10 [1080p CR WEB-DL AV...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615751) • [🐱 Nyaa](https://nyaa.si/view/2121686) |
+| `[Onalrie] Maid-san wa Taberu Dake - S01E12 [1080p WEBRip AV1]` | **146.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/615754) • [🐱 Nyaa](https://onalrie.app/torrent/e7012cc3-d74a-4bbd-94d1-164fd71837dc) |
+| `[ToonsHub] One Piece EP1166 1080p TVER WEB-DL AAC2.0 H.264` | **552.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/615753) • [🐱 Nyaa](https://nekobt.to/torrents/11714265856768) |
+| `[ASW] Maid-san wa Taberu Dake - 12 [1080p HEVC x265 10Bit][AAC]` | **162.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615746) • [🐱 Nyaa](https://nyaa.si/view/2121681) |
+| `The Food Diary of Miss Maid S01E12 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615738) • [🐱 Nyaa](https://nyaa.si/view/2121676) |
+| `[ToonsHub] The Food Diary of Miss Maid S01E12 1080p CR WEB-DL AAC2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615739) • [🐱 Nyaa](https://nyaa.si/view/2121673) |
+| `[SubsPlease] Maid-san wa Taberu Dake - 12 (1080p) [6F7118F1].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615740) • [🐱 Nyaa](https://nyaa.si/view/2121671) |
+| `[Erai-raws] Maid-san wa Taberu dake - 12 [1080p CR WEB-DL AVC AAC][...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615745) • [🐱 Nyaa](https://nyaa.si/view/2121664) |
+| `Wistoria Wand and Sword S02E07 MULTi AD 1080p CR WEB-DL AAC2.0 x264...` | **1457.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/615736) • [🐱 Nyaa](https://nekobt.to/torrents/11713213888780) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E11 MULTi 10...` | **568.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/615737) • [🐱 Nyaa](https://nekobt.to/torrents/11713200237572) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E11 MULTi 10...` | **1452.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/615731) • [🐱 Nyaa](https://nekobt.to/torrents/11713187496462) |
 
 ---
 <div align="center">
