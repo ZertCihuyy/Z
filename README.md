@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.41.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.52.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru - S...` | **1325.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/615820) • [🐱 Nyaa](https://nekobt.to/torrents/11720922143247) |
 | `[Anime Time] Wistoria Wand And Sword - S02E08 (Tsue to Tsurugi no W...` | **580.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615818) • [🐱 Nyaa](https://nyaa.si/view/2121831) |
 | `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 44 (S04E08)...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615816) • [🐱 Nyaa](https://nyaa.si/view/2121829) |
 | `[SubsNoJutsu] Witch Hat Atelier - S01E02 (1080p WEB AAC x265)` | **379.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/615817) • [🐱 Nyaa](https://nekobt.to/torrents/11719607264268) |
@@ -37,7 +38,6 @@
 | `[Erai-raws] Digimon Beatbreak - 35 [1080p CR WEBRip HEVC AAC][Multi...` | **518.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615800) • [🐱 Nyaa](https://nyaa.si/view/2121781) |
 | `[Erai-raws] Digimon Beatbreak - 35 (REPACK) [1080p CR WEB-DL AVC AA...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615803) • [🐱 Nyaa](https://nyaa.si/view/2121777) |
 | `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E11 1080p U...` | **85.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615804) • [🐱 Nyaa](https://nyaa.si/view/2121775) |
-| `[ASW] One Piece - 1166 [1080p HEVC x265 10Bit][AAC]` | **334.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615805) • [🐱 Nyaa](https://nyaa.si/view/2121768) |
 
 ---
 <div align="center">
