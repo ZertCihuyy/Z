@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.06.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.41.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anime Time] Wistoria Wand And Sword - S02E08 (Tsue to Tsurugi no W...` | **580.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615818) • [🐱 Nyaa](https://nyaa.si/view/2121831) |
+| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 44 (S04E08)...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615816) • [🐱 Nyaa](https://nyaa.si/view/2121829) |
+| `[SubsNoJutsu] Witch Hat Atelier - S01E02 (1080p WEB AAC x265)` | **379.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/615817) • [🐱 Nyaa](https://nekobt.to/torrents/11719607264268) |
+| `[Erai-raws] Ghost Concert: Missing Songs - 11 [1080p CR WEBRip HEVC...` | **408.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615815) • [🐱 Nyaa](https://nyaa.si/view/2121828) |
+| `Digimon Beatbreak S01E35 REPACK 1080p CR WEB-DL AAC2.0 H 264-VARYG ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615814) • [🐱 Nyaa](https://nyaa.si/view/2121827) |
 | `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 10 [1080p D...` | **326.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615813) • [🐱 Nyaa](https://nyaa.si/view/2121814) |
 | `[DKB] Nippon Sangoku - S01E11 [1080p][HEVC x265 10bit][Dual-Audio][...` | **758.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615812) • [🐱 Nyaa](https://nyaa.si/view/2121813) |
 | `[Erai-raws] Nippon Sangoku - 11 [1080p AMZN WEBRip HEVC EAC3][Multi...` | **719.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615808) • [🐱 Nyaa](https://nyaa.si/view/2121809) |
@@ -33,11 +38,6 @@
 | `[Erai-raws] Digimon Beatbreak - 35 (REPACK) [1080p CR WEB-DL AVC AA...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615803) • [🐱 Nyaa](https://nyaa.si/view/2121777) |
 | `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E11 1080p U...` | **85.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615804) • [🐱 Nyaa](https://nyaa.si/view/2121775) |
 | `[ASW] One Piece - 1166 [1080p HEVC x265 10Bit][AAC]` | **334.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615805) • [🐱 Nyaa](https://nyaa.si/view/2121768) |
-| `[Erai-raws] Maid-san wa Taberu dake - 12 [1080p CR WEBRip HEVC AAC]...` | **345.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615789) • [🐱 Nyaa](https://nyaa.si/view/2121766) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 10 [1080p CR WEBRip HE...` | **537.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615790) • [🐱 Nyaa](https://nyaa.si/view/2121765) |
-| `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 10 [1080p CR W...` | **357.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615791) • [🐱 Nyaa](https://nyaa.si/view/2121764) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 11 [1080p CR WEB...` | **550.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615792) • [🐱 Nyaa](https://nyaa.si/view/2121763) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 10 [1080p D...` | **794.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615793) • [🐱 Nyaa](https://nyaa.si/view/2121762) |
 
 ---
 <div align="center">
