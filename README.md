@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.44.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.34.50_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Digimon Beatbreak - S01E35 [1080p][HEVC x265 10bit][Eng-Sub...` | **430.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615650) • [🐱 Nyaa](https://nyaa.si/view/2121515) |
-| `[BlackRose] I Want to End This Love Game - S01E02 (WEB 1080p HEVC 1...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615647) • [🐱 Nyaa](https://nyaa.si/view/2121511) |
-| `[Kakumei Subs] Honzuki no Gekokujou S04E09 [1080p WEB HEVC AAC] [Su...` | **2110.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/615649) • [🐱 Nyaa](https://nekobt.to/torrents/11704387419151) |
-| `[ASW] Digimon Beatbreak - 35 [1080p HEVC x265 10Bit][AAC]` | **436.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615648) • [🐱 Nyaa](https://nyaa.si/view/2121509) |
-| `Digimon Beatbreak S01E35 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615631) • [🐱 Nyaa](https://nyaa.si/view/2121498) |
-| `[ToonsHub] Digimon Beatbreak S01E35 1080p CR WEB-DL AAC2.0 H.264 (E...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615632) • [🐱 Nyaa](https://nyaa.si/view/2121497) |
-| `[SubsPlease] Digimon Beatbreak - 35 (1080p) [0D1B63D5].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615633) • [🐱 Nyaa](https://nyaa.si/view/2121495) |
-| `[ToonsHub] The Other Side of Deep Space S01E24 1080p BILI WEB-DL AA...` | **574.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615638) • [🐱 Nyaa](https://nyaa.si/view/2121490) |
-| `[Erai-raws] Digimon Beatbreak - 35 [1080p CR WEB-DL AVC AAC][E11CD38C]` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615639) • [🐱 Nyaa](https://nyaa.si/view/2121489) |
-| `[DKB] MAO - S01E11 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **722.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615640) • [🐱 Nyaa](https://nyaa.si/view/2121488) |
-| `[Kakumei Subs] Honzuki no Gekokujou S04E08 [1080p WEB HEVC AAC] [Su...` | **2327.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615629) • [🐱 Nyaa](https://nekobt.to/torrents/11703153036295) |
-| `[Kakumei Subs] Honzuki no Gekokujou S04E07 [1080p WEB HEVC AAC] [Su...` | **2211.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/615630) • [🐱 Nyaa](https://nekobt.to/torrents/11703083121415) |
-| `[ASW] Meitantei Precure! - 20 [1080p HEVC x265 10Bit][AAC]` | **593.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615627) • [🐱 Nyaa](https://nyaa.si/view/2121487) |
-| `[SubsPlease] Meitantei Precure! - 20 (1080p) [4C9BD580].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615623) • [🐱 Nyaa](https://nyaa.si/view/2121479) |
-| `[Erai-raws] Meitantei Precure - 20 [1080p CR WEB-DL AVC AAC][44ABFBFD]` | **1411.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/615622) • [🐱 Nyaa](https://nekobt.to/torrents/11702027607563) |
+| `[CicakRumah] Koupen-chan - S01E63 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **98.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615669) • [🐱 Nyaa](https://nyaa.si/view/2121559) |
+| `[ToonsHub] How dare you S02E23 1080p iQ WEB-DL AAC2.0 H.264 (Cheng ...` | **336.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/615670) • [🐱 Nyaa](https://nyaa.si/view/2121558) |
+| `[Onalrie] Digimon Beatbreak - S01E35 [1080p WEBRip AV1]` | **332.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/615668) • [🐱 Nyaa](https://onalrie.app/torrent/ec4f3c6d-1d94-4f5c-aded-20bb0f80bcc7) |
+| `Mission Yozakura Family S02E10 Refusal 1080p DSNP WEB-DL AAC2.0 H 2...` | **794.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615666) • [🐱 Nyaa](https://nyaa.si/view/2121543) |
+| `[ToonsHub] Mission Yozakura Family S02E10 1080p DSNP WEB-DL AAC2.0 ...` | **794.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615667) • [🐱 Nyaa](https://nyaa.si/view/2121542) |
+| `[Gecko] Action Monster Big Movie - S01E09 (开拍啦！怪兽大电影; Kai Pai La! G...` | **369.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615665) • [🐱 Nyaa](https://nyaa.si/view/2121541) |
+| `[BlackRose] I Want to End This Love Game - S01E03 (WEB 1080p HEVC 1...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615663) • [🐱 Nyaa](https://nyaa.si/view/2121540) |
+| `Digimon.Beatbreak.S01E35.1080p.CR.WEBRip.10bits.x265-Rapta` | **266.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615664) • [🐱 Nyaa](https://nyaa.si/view/2121539) |
+| `[BlackRabbit] Ghost in the Shell - Stand Alone Complex (2002) - S02...` | **6279.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/615662) • [🐱 Nyaa](https://nekobt.to/torrents/11705876486412) |
+| `[Yameii] KILL BLUE - S01E07 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615659) • [🐱 Nyaa](https://nyaa.si/view/2121534) |
+| `[Serenae] Meitantei Precure! - 20 Next Ep PV (1080p).mkv` | **34.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615661) • [🐱 Nyaa](https://nyaa.si/view/2121532) |
+| `[Yameii] Dr. Stone - S04E35 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1406.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/615657) • [🐱 Nyaa](https://nekobt.to/torrents/11705547533826) |
+| `[Gecko] Odekake Kozame - S01E69v2 (おでかけ子ザメ; Odekake Kozame 2nd Seas...` | **14.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615655) • [🐱 Nyaa](https://nyaa.si/view/2121529) |
+| `[Gecko] Odekake Kozame - S01E68v2 (おでかけ子ザメ; Odekake Kozame 2nd Seas...` | **20.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615658) • [🐱 Nyaa](https://nekobt.to/torrents/11705445397000) |
+| `[Serenae] Meitantei Precure! - 20 Fanart Corner (1080p).mkv` | **8.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615656) • [🐱 Nyaa](https://nyaa.si/view/2121527) |
 
 ---
 <div align="center">
