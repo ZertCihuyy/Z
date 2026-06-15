@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.39.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.35.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DB] [Oshi no Ko] 3rd Season | [Oshi No Ko] Season 3 [Dual Audio 10...` | **4710.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615856) • [🐱 Nyaa](https://nyaa.si/view/2121917) |
+| `Akane banashi S01E06 REPACK MULTi 1080p NF WEB-DL AAC2.0 x264-Tsund...` | **1015.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/615857) • [🐱 Nyaa](https://nekobt.to/torrents/11731127767809) |
+| `[SubsPlease] Jigokuraku (14-25) (1080p) [Batch]` | **17100.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615853) • [🐱 Nyaa](https://nyaa.si/view/2121911) |
+| `[Sokudo] Dr. STONE - Science Future - S04E34 [1080p AV1][Dual Audio...` | **387.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615851) • [🐱 Nyaa](https://nyaa.si/view/2121908) |
+| `[Breeze] Dr. STONE - Science Future - S04E34 [1080p AV1][Dual Audio...` | **1228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615852) • [🐱 Nyaa](https://nyaa.si/view/2121907) |
+| `[SubsPlease] Jigokuraku (01-13) (1080p) [Batch]` | **18534.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615848) • [🐱 Nyaa](https://nyaa.si/view/2121903) |
 | `[DKB] Kuroneko to Majo no Kyoushitsu - S01E10 [1080p][HEVC x265 10b...` | **454.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615847) • [🐱 Nyaa](https://nyaa.si/view/2121891) |
 | `[BlackRose] I Want to End This Love Game - S01E05 (WEB 1080p HEVC 1...` | **1627.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/615846) • [🐱 Nyaa](https://nekobt.to/torrents/11726579942148) |
 | `Lupin III - Colombus Files - Fujiko's Unlucky Days (1999) (BDRip 14...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615843) • [🐱 Nyaa](https://nyaa.si/view/2121880) |
@@ -32,12 +38,6 @@
 | `[ppkhoa] Akane-banashi S01E11 Answer 1080p DSNP WEB-DL DDP2.0 H.264...` | **847.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/615841) • [🐱 Nyaa](https://nekobt.to/torrents/11725485285893) |
 | `[ToonsHub] One Piece EP1166 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **298.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615834) • [🐱 Nyaa](https://nyaa.si/view/2121870) |
 | `[Erai-raws] Meitantei Precure - 20 [1080p CR WEBRip HEVC AAC][Multi...` | **684.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615835) • [🐱 Nyaa](https://nyaa.si/view/2121869) |
-| `[Erai-raws] Meitantei Precure - 20 [1080p CR WEB-DL AVC AAC][MultiS...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615838) • [🐱 Nyaa](https://nyaa.si/view/2121866) |
-| `[DKB] Maid-san wa Taberu dake - S01E12 [1080p][END][HEVC x265 10bit...` | **204.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615831) • [🐱 Nyaa](https://nyaa.si/view/2121865) |
-| `Lupin III - Island of Assassins (1997) (BDRip 1440x1080p x265 HEVC ...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615832) • [🐱 Nyaa](https://nyaa.si/view/2121864) |
-| `[ToonsHub] Star Detective Precure S01E20 1080p CR WEB-DL AAC2.0 H.2...` | **1416.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/615830) • [🐱 Nyaa](https://nekobt.to/torrents/11724170834435) |
-| `[BlackRose] I Want to End This Love Game - S01E04 (WEB 1080p HEVC 1...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615828) • [🐱 Nyaa](https://nyaa.si/view/2121859) |
-| `[Seigyoku] Mahou no Shimai LuluttoLilly - 11 (WEB 1080p) [0969D4BE]...` | **607.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615824) • [🐱 Nyaa](https://nyaa.si/view/2121854) |
 
 ---
 <div align="center">
