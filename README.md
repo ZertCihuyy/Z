@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.52.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.17.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Seigyoku] Mahou no Shimai LuluttoLilly - 11 (WEB 1080p) [0969D4BE]...` | **607.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615824) • [🐱 Nyaa](https://nyaa.si/view/2121854) |
+| `[Demo-subs] Oshi no Ko - 35 (S03E11) - (WEB 1080p HEVC x265 10-bit ...` | **4092.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/615823) • [🐱 Nyaa](https://nekobt.to/torrents/11721625253126) |
+| `[Demo-subs] Oshi no Ko - 27v2 (S03E03) - (WEB 1080p HEVC x265 10-bi...` | **1875.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/615827) • [🐱 Nyaa](https://nekobt.to/torrents/11721054105089) |
+| `[Demo-subs] Oshi no Ko - 26v2 (S03E02) - (WEB 1080p HEVC x265 10-bi...` | **1956.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/615825) • [🐱 Nyaa](https://nekobt.to/torrents/11721028800774) |
+| `[Demo-subs] Oshi no Ko - 25v2 (S03E01) - (WEB 1080p HEVC x265 10-bi...` | **1681.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/615826) • [🐱 Nyaa](https://nekobt.to/torrents/11720991474432) |
 | `[FrixySubs] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru - S...` | **1325.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/615820) • [🐱 Nyaa](https://nekobt.to/torrents/11720922143247) |
 | `[Anime Time] Wistoria Wand And Sword - S02E08 (Tsue to Tsurugi no W...` | **580.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615818) • [🐱 Nyaa](https://nyaa.si/view/2121831) |
 | `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 44 (S04E08)...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615816) • [🐱 Nyaa](https://nyaa.si/view/2121829) |
@@ -33,11 +38,6 @@
 | `[DKB] Nippon Sangoku - S01E11 [1080p][HEVC x265 10bit][Dual-Audio][...` | **758.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615812) • [🐱 Nyaa](https://nyaa.si/view/2121813) |
 | `[Erai-raws] Nippon Sangoku - 11 [1080p AMZN WEBRip HEVC EAC3][Multi...` | **719.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615808) • [🐱 Nyaa](https://nyaa.si/view/2121809) |
 | `[ToonsHub] One Piece EP1166 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **267.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615809) • [🐱 Nyaa](https://nyaa.si/view/2121808) |
-| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 10 [1080p WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615806) • [🐱 Nyaa](https://nyaa.si/view/2121787) |
-| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 09 [1080p WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615807) • [🐱 Nyaa](https://nyaa.si/view/2121786) |
-| `[Erai-raws] Digimon Beatbreak - 35 [1080p CR WEBRip HEVC AAC][Multi...` | **518.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615800) • [🐱 Nyaa](https://nyaa.si/view/2121781) |
-| `[Erai-raws] Digimon Beatbreak - 35 (REPACK) [1080p CR WEB-DL AVC AA...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615803) • [🐱 Nyaa](https://nyaa.si/view/2121777) |
-| `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E11 1080p U...` | **85.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/615804) • [🐱 Nyaa](https://nyaa.si/view/2121775) |
 
 ---
 <div align="center">
