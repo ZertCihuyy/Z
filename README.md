@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.16.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.34.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRose] I Want to End This Love Game - S01E06 (WEB 1080p HEVC 1...` | **1483.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/615966) • [🐱 Nyaa](https://nekobt.to/torrents/11742917849609) |
+| `My Love Story with Yamada kun at Lv999 S01 1080p NF WEB-DL MULTi AA...` | **15257.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615965) • [🐱 Nyaa](https://nyaa.si/view/2122100) |
+| `[Judas] One Piece - 1166 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **310.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615963) • [🐱 Nyaa](https://nyaa.si/view/2122096) |
+| `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **436.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615962) • [🐱 Nyaa](https://nyaa.si/view/2122094) |
 | `[WBDP] Dimension W (Complete) [BD][1080p-FLAC][HEVC]` | **13312.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615961) • [🐱 Nyaa](https://nyaa.si/view/2122092) |
 | `[Erai-raws] One Piece - 1166 [1080p CR WEBRip HEVC AAC][MultiSub][6...` | **510.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615956) • [🐱 Nyaa](https://nyaa.si/view/2122090) |
 | `[Erai-raws] One Piece - 1166 [1080p CR WEB-DL AVC AAC][MultiSub][FD...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615959) • [🐱 Nyaa](https://nyaa.si/view/2122087) |
@@ -43,10 +47,6 @@
 | `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK n...` | **612.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615951) • [🐱 Nyaa](https://nyaa.si/view/2122072) |
 | `[Erai-raws] Isekai Nonbiri Nouka 2 - 11 [1080p ADN WEBRip HEVC AAC]...` | **341.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615952) • [🐱 Nyaa](https://nyaa.si/view/2122071) |
 | `Clevatess S01 (2025) CUSTOM MULTi 1080p 10bits BluRay x265-GundamGuy` | **19131.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/615949) • [🐱 Nyaa](https://nekobt.to/torrents/11738947755279) |
-| `Above Myriads S01E01 REPACK 1080p iQ WEB-DL AAC2.0 H 264-VARYG (Wan...` | **403.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615947) • [🐱 Nyaa](https://nyaa.si/view/2122063) |
-| `[Judas] Liar Game - S01E11 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **181.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615948) • [🐱 Nyaa](https://nyaa.si/view/2122062) |
-| `[ASW] LIAR GAME - 11 [1080p HEVC x265 10Bit][AAC]` | **181.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615944) • [🐱 Nyaa](https://nyaa.si/view/2122061) |
-| `[ToonsHub] LIAR GAME S01E08 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615945) • [🐱 Nyaa](https://nyaa.si/view/2122060) |
 
 ---
 <div align="center">
