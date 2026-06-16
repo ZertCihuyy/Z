@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.51.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.18.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Tadaima Ojamasaremasu - 11 [1080p CR WEBRip HEVC AAC][M...` | **266.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/616116) • [🐱 Nyaa](https://nekobt.to/torrents/11763667678215) |
+| `[ToonsHub] MARRIAGETOXIN S01E08 1080p CR WEB-DL MULTi AAC2.0 H.264 ...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616114) • [🐱 Nyaa](https://nyaa.si/view/2122358) |
+| `[ToonsHub] I Want to End this Love Game S01E07 1080p CR WEB-DL MULT...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616115) • [🐱 Nyaa](https://nyaa.si/view/2122357) |
+| `[Erai-raws] Hidarikiki no Eren - 11 [1080p CR WEBRip HEVC AAC][Mult...` | **596.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616109) • [🐱 Nyaa](https://nyaa.si/view/2122353) |
+| `[DKB] Marriagetoxin - S01E11 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **480.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616110) • [🐱 Nyaa](https://nyaa.si/view/2122352) |
+| `[DKB] Aishiteru Game wo Owarasetai - S01E10 [1080p][HEVC x265 10bit...` | **201.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616111) • [🐱 Nyaa](https://nyaa.si/view/2122351) |
+| `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta - S...` | **197.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616112) • [🐱 Nyaa](https://nyaa.si/view/2122350) |
+| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha ...` | **710.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616113) • [🐱 Nyaa](https://nyaa.si/view/2122349) |
 | `[Demo-subs] Sword Art Online Alternative - Gun Gale Online II - 11 ...` | **1430.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/616107) • [🐱 Nyaa](https://nekobt.to/torrents/11762769640199) |
 | `[Onalrie] Yuusha no Rokkotsu de - S01E11 [1080p WEBRip AV1]` | **568.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/616108) • [🐱 Nyaa](https://nekobt.to/torrents/11762741019650) |
 | `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou ...` | **301.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/616106) • [🐱 Nyaa](https://nekobt.to/torrents/11762663364865) |
@@ -39,14 +47,6 @@
 | `[Unfucked] I Made Friends with the Second Prettiest Girl in My Clas...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616105) • [🐱 Nyaa](https://nyaa.si/view/2122344) |
 | `[Unfucked] I Want to End This Love Game - S01E10 (1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616103) • [🐱 Nyaa](https://nyaa.si/view/2122341) |
 | `[Onalrie] Tadaima, Ojamasaremasu! - S01E11 [1080p WEBRip AV1]` | **186.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/616102) • [🐱 Nyaa](https://nekobt.to/torrents/11762065854734) |
-| `[Unfucked] I Want to End This Love Game - S01E08 (1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616101) • [🐱 Nyaa](https://nyaa.si/view/2122340) |
-| `[ASW] Tadaima, Ojamasaremasu! - 11 [1080p HEVC x265 10Bit][AAC]` | **172.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616092) • [🐱 Nyaa](https://nyaa.si/view/2122339) |
-| `My Ribdiculous Reincarnation S01E11 1080p CR WEB-DL AAC2.0 H 264-VA...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616093) • [🐱 Nyaa](https://nyaa.si/view/2122338) |
-| `[SubsPlease] Yuusha no Rokkotsu de - 11 (1080p) [42B5307D].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616094) • [🐱 Nyaa](https://nyaa.si/view/2122337) |
-| `[ToonsHub] My Ribdiculous Reincarnation S01E11 1080p CR WEB-DL AAC2...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616096) • [🐱 Nyaa](https://nyaa.si/view/2122333) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616100) • [🐱 Nyaa](https://nyaa.si/view/2122328) |
-| `[ToonsHub] Above Myriads S01E04 1080p iQ WEB-DL AAC2.0 H.264 (Wan R...` | **382.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616090) • [🐱 Nyaa](https://nyaa.si/view/2122326) |
-| `[Erai-raws] Marriagetoxin - 11 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **456.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616091) • [🐱 Nyaa](https://nyaa.si/view/2122324) |
 
 ---
 <div align="center">
