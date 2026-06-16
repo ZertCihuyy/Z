@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.17.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.08.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Kimagure Orange Road (1987) - S01 [Bluray-1080p][Opus...` | **13595.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/615975) • [🐱 Nyaa](https://nekobt.to/torrents/11749565208582) |
+| `[Gecko] The Chronicles of City God - S01E03 (城隍录; Cheng Huang Lu; C...` | **102.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615974) • [🐱 Nyaa](https://nyaa.si/view/2122128) |
+| `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E10 (WEB 1080p AAC)` | **1454.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/615973) • [🐱 Nyaa](https://nekobt.to/torrents/11745777405710) |
+| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E12...` | **572.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615972) • [🐱 Nyaa](https://nyaa.si/view/2122120) |
+| `[Chihiro] Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (Mu...` | **2457.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615971) • [🐱 Nyaa](https://nyaa.si/view/2122119) |
 | `Clevatess S01 (2025) REPACK CUSTOM MULTi 1080p 10bits BluRay x265-G...` | **19131.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/615970) • [🐱 Nyaa](https://nekobt.to/torrents/11743980179972) |
 | `Lupin III - TV Special Collection (1989-2019) [14-Special Collectio...` | **27955.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615969) • [🐱 Nyaa](https://nyaa.si/view/2122108) |
 | `[Sokudo] Re ZERO - Starting Life in Another World S04E10 [1080p AV1...` | **657.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615967) • [🐱 Nyaa](https://nyaa.si/view/2122107) |
@@ -42,11 +47,6 @@
 | `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **436.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615962) • [🐱 Nyaa](https://nyaa.si/view/2122094) |
 | `[WBDP] Dimension W (Complete) [BD][1080p-FLAC][HEVC]` | **13312.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615961) • [🐱 Nyaa](https://nyaa.si/view/2122092) |
 | `[Erai-raws] One Piece - 1166 [1080p CR WEBRip HEVC AAC][MultiSub][6...` | **510.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615956) • [🐱 Nyaa](https://nyaa.si/view/2122090) |
-| `[Erai-raws] One Piece - 1166 [1080p CR WEB-DL AVC AAC][MultiSub][FD...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615959) • [🐱 Nyaa](https://nyaa.si/view/2122087) |
-| `[anime4life.] Dr.Stone Season 1-3 + Special BD_1080p Dolby TrueHD D...` | **76902.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615960) • [🐱 Nyaa](https://nyaa.si/view/2122086) |
-| `[Demo-subs] Sword Art Online Alternative - Gun Gale Online II - 10 ...` | **1431.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/615955) • [🐱 Nyaa](https://nekobt.to/torrents/11740078017295) |
-| `[DKB] Isekai Nonbiri Nouka - S02E11 [1080p][HEVC x265 10bit][weekly]` | **373.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615953) • [🐱 Nyaa](https://nyaa.si/view/2122076) |
-| `[DKB] Witch Hat Atelier - S01E12 [1080p][HEVC x265 10bit][Multi-Aud...` | **534.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615954) • [🐱 Nyaa](https://nyaa.si/view/2122075) |
 
 ---
 <div align="center">
