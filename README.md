@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.35.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.13.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gecko] Rilakkuma - S01E11 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **47.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/615979) • [🐱 Nyaa](https://nekobt.to/torrents/11755188683526) |
-| `[vLbE3L] Wistoria Wand and Sword S02E07 [1080p CR WEBRip VVC HE-AAC...` | **271.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/615980) • [🐱 Nyaa](https://nekobt.to/torrents/11755054430213) |
-| `[LbE3L] Wistoria Wand and Sword S02E07 [1080p CR WEBRip AV1 Opus 2....` | **477.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/615981) • [🐱 Nyaa](https://nekobt.to/torrents/11755011126272) |
-| `[HatSubs] One Piece 1166 (WEB 1080p) [C339A5F8].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615978) • [🐱 Nyaa](https://nyaa.si/view/2122157) |
-| `[BlackRabbit] The 100 Girlfriends Who Really, Really, Really, Reall...` | **2864.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/615977) • [🐱 Nyaa](https://nekobt.to/torrents/11753673176068) |
-| `[yolerejiju] My Dress-Up Darling Season 2 (S02) (BD 1080p x265 Opus...` | **22220.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615976) • [🐱 Nyaa](https://nyaa.si/view/2122150) |
-| `[BlackRabbit] Kimagure Orange Road (1987) - S01 [Bluray-1080p][Opus...` | **13595.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/615975) • [🐱 Nyaa](https://nekobt.to/torrents/11749565208582) |
-| `[Gecko] The Chronicles of City God - S01E03 (城隍录; Cheng Huang Lu; C...` | **102.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615974) • [🐱 Nyaa](https://nyaa.si/view/2122128) |
-| `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E10 (WEB 1080p AAC)` | **1454.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/615973) • [🐱 Nyaa](https://nekobt.to/torrents/11745777405710) |
-| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E12...` | **572.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615972) • [🐱 Nyaa](https://nyaa.si/view/2122120) |
-| `[Chihiro] Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (Mu...` | **2457.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615971) • [🐱 Nyaa](https://nyaa.si/view/2122119) |
-| `Clevatess S01 (2025) REPACK CUSTOM MULTi 1080p 10bits BluRay x265-G...` | **19131.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/615970) • [🐱 Nyaa](https://nekobt.to/torrents/11743980179972) |
-| `Lupin III - TV Special Collection (1989-2019) [14-Special Collectio...` | **27955.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615969) • [🐱 Nyaa](https://nyaa.si/view/2122108) |
-| `[Sokudo] Re ZERO - Starting Life in Another World S04E10 [1080p AV1...` | **657.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615967) • [🐱 Nyaa](https://nyaa.si/view/2122107) |
-| `[Breeze] Re ZERO - Starting Life in Another World S04E10 [1080p AV1...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615968) • [🐱 Nyaa](https://nyaa.si/view/2122106) |
+| `[ToonsHub] Eren the Southpaw S01E11 1080p CR WEB-DL AAC2.0 H.264 (H...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616057) • [🐱 Nyaa](https://nyaa.si/view/2122288) |
+| `[ASW] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta - 1...` | **137.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616058) • [🐱 Nyaa](https://nyaa.si/view/2122287) |
+| `[Trix] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta S0...` | **160.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616059) • [🐱 Nyaa](https://nyaa.si/view/2122285) |
+| `Eren the Southpaw S01E11 1080p CR WEB-DL AAC2.0 H 264-VARYG (Hidari...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616060) • [🐱 Nyaa](https://nyaa.si/view/2122284) |
+| `[SubsPlease] Hidarikiki no Eren - 11 (1080p) [EB0F1A6E].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616061) • [🐱 Nyaa](https://nyaa.si/view/2122283) |
+| `[Onalrie] MARRIAGETOXIN - S01E11 [1080p WEBRip AV1]` | **233.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/616056) • [🐱 Nyaa](https://nekobt.to/torrents/11759484668681) |
+| `[Erai-raws] Aishiteru Game wo Owarasetai - 10 [1080p CR WEBRip HEVC...` | **352.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616054) • [🐱 Nyaa](https://nyaa.si/view/2122275) |
+| `[Judas] MARRIAGETOXIN - S01E11 [1080p][HEVC x265 10bit][Multi-Subs]...` | **356.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616055) • [🐱 Nyaa](https://nyaa.si/view/2122273) |
+| `[ASW] Replica datte, Koi wo Suru. - 11 [1080p HEVC x265 10Bit][AAC]` | **201.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616051) • [🐱 Nyaa](https://nyaa.si/view/2122270) |
+| `[Trix] MARRIAGETOXIN S01E11 [WEBRip 1080p AV1 Opus] (Multi Subs, VO...` | **328.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616052) • [🐱 Nyaa](https://nyaa.si/view/2122269) |
+| `Above Myriads S01E04 1080p iQ WEB-DL AAC2.0 H 264-VARYG (Wan Ren Zh...` | **382.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616053) • [🐱 Nyaa](https://nyaa.si/view/2122267) |
+| `[Ironclad] Higeki no Genkyou to Naru - S02E11 [WEB.1080p.AV1] | The...` | **230.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616044) • [🐱 Nyaa](https://nyaa.si/view/2122263) |
+| `[Onalrie] Replica datte, Koi wo Suru. - S01E11 [1080p WEBRip AV1]` | **174.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/616050) • [🐱 Nyaa](https://nekobt.to/torrents/11758854413573) |
+| `I Made Friends with the Second Prettiest Girl in My Class S01E11 10...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616045) • [🐱 Nyaa](https://nyaa.si/view/2122262) |
+| `[VARYG] MARRIAGETOXIN S01E08 The Hit Man Hunter 1080p CR WEB-DL MUL...` | **1688.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616040) • [🐱 Nyaa](https://nekobt.to/torrents/11758765053447) |
 
 ---
 <div align="center">
