@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.08.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.35.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Rilakkuma - S01E11 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **47.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/615979) • [🐱 Nyaa](https://nekobt.to/torrents/11755188683526) |
+| `[vLbE3L] Wistoria Wand and Sword S02E07 [1080p CR WEBRip VVC HE-AAC...` | **271.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/615980) • [🐱 Nyaa](https://nekobt.to/torrents/11755054430213) |
+| `[LbE3L] Wistoria Wand and Sword S02E07 [1080p CR WEBRip AV1 Opus 2....` | **477.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/615981) • [🐱 Nyaa](https://nekobt.to/torrents/11755011126272) |
+| `[HatSubs] One Piece 1166 (WEB 1080p) [C339A5F8].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615978) • [🐱 Nyaa](https://nyaa.si/view/2122157) |
+| `[BlackRabbit] The 100 Girlfriends Who Really, Really, Really, Reall...` | **2864.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/615977) • [🐱 Nyaa](https://nekobt.to/torrents/11753673176068) |
+| `[yolerejiju] My Dress-Up Darling Season 2 (S02) (BD 1080p x265 Opus...` | **22220.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615976) • [🐱 Nyaa](https://nyaa.si/view/2122150) |
 | `[BlackRabbit] Kimagure Orange Road (1987) - S01 [Bluray-1080p][Opus...` | **13595.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/615975) • [🐱 Nyaa](https://nekobt.to/torrents/11749565208582) |
 | `[Gecko] The Chronicles of City God - S01E03 (城隍录; Cheng Huang Lu; C...` | **102.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/615974) • [🐱 Nyaa](https://nyaa.si/view/2122128) |
 | `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E10 (WEB 1080p AAC)` | **1454.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/615973) • [🐱 Nyaa](https://nekobt.to/torrents/11745777405710) |
@@ -41,12 +47,6 @@
 | `Lupin III - TV Special Collection (1989-2019) [14-Special Collectio...` | **27955.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615969) • [🐱 Nyaa](https://nyaa.si/view/2122108) |
 | `[Sokudo] Re ZERO - Starting Life in Another World S04E10 [1080p AV1...` | **657.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615967) • [🐱 Nyaa](https://nyaa.si/view/2122107) |
 | `[Breeze] Re ZERO - Starting Life in Another World S04E10 [1080p AV1...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615968) • [🐱 Nyaa](https://nyaa.si/view/2122106) |
-| `[BlackRose] I Want to End This Love Game - S01E06 (WEB 1080p HEVC 1...` | **1483.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/615966) • [🐱 Nyaa](https://nekobt.to/torrents/11742917849609) |
-| `My Love Story with Yamada kun at Lv999 S01 1080p NF WEB-DL MULTi AA...` | **15257.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615965) • [🐱 Nyaa](https://nyaa.si/view/2122100) |
-| `[Judas] One Piece - 1166 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **310.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615963) • [🐱 Nyaa](https://nyaa.si/view/2122096) |
-| `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **436.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615962) • [🐱 Nyaa](https://nyaa.si/view/2122094) |
-| `[WBDP] Dimension W (Complete) [BD][1080p-FLAC][HEVC]` | **13312.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615961) • [🐱 Nyaa](https://nyaa.si/view/2122092) |
-| `[Erai-raws] One Piece - 1166 [1080p CR WEBRip HEVC AAC][MultiSub][6...` | **510.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/615956) • [🐱 Nyaa](https://nyaa.si/view/2122090) |
 
 ---
 <div align="center">
