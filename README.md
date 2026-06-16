@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.34.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.17.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Clevatess S01 (2025) REPACK CUSTOM MULTi 1080p 10bits BluRay x265-G...` | **19131.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/615970) • [🐱 Nyaa](https://nekobt.to/torrents/11743980179972) |
+| `Lupin III - TV Special Collection (1989-2019) [14-Special Collectio...` | **27955.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615969) • [🐱 Nyaa](https://nyaa.si/view/2122108) |
+| `[Sokudo] Re ZERO - Starting Life in Another World S04E10 [1080p AV1...` | **657.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/615967) • [🐱 Nyaa](https://nyaa.si/view/2122107) |
+| `[Breeze] Re ZERO - Starting Life in Another World S04E10 [1080p AV1...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615968) • [🐱 Nyaa](https://nyaa.si/view/2122106) |
 | `[BlackRose] I Want to End This Love Game - S01E06 (WEB 1080p HEVC 1...` | **1483.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/615966) • [🐱 Nyaa](https://nekobt.to/torrents/11742917849609) |
 | `My Love Story with Yamada kun at Lv999 S01 1080p NF WEB-DL MULTi AA...` | **15257.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/615965) • [🐱 Nyaa](https://nyaa.si/view/2122100) |
 | `[Judas] One Piece - 1166 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **310.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615963) • [🐱 Nyaa](https://nyaa.si/view/2122096) |
@@ -43,10 +47,6 @@
 | `[Demo-subs] Sword Art Online Alternative - Gun Gale Online II - 10 ...` | **1431.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/615955) • [🐱 Nyaa](https://nekobt.to/torrents/11740078017295) |
 | `[DKB] Isekai Nonbiri Nouka - S02E11 [1080p][HEVC x265 10bit][weekly]` | **373.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615953) • [🐱 Nyaa](https://nyaa.si/view/2122076) |
 | `[DKB] Witch Hat Atelier - S01E12 [1080p][HEVC x265 10bit][Multi-Aud...` | **534.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/615954) • [🐱 Nyaa](https://nyaa.si/view/2122075) |
-| `[Erai-raws] Liar Game - 11 [1080p CR WEBRip HEVC AAC][MultiSub][3C1...` | **375.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/615950) • [🐱 Nyaa](https://nyaa.si/view/2122073) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK n...` | **612.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/615951) • [🐱 Nyaa](https://nyaa.si/view/2122072) |
-| `[Erai-raws] Isekai Nonbiri Nouka 2 - 11 [1080p ADN WEBRip HEVC AAC]...` | **341.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/615952) • [🐱 Nyaa](https://nyaa.si/view/2122071) |
-| `Clevatess S01 (2025) CUSTOM MULTi 1080p 10bits BluRay x265-GundamGuy` | **19131.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/615949) • [🐱 Nyaa](https://nekobt.to/torrents/11738947755279) |
 
 ---
 <div align="center">
