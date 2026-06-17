@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.36.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.45.50_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E11 [1080p CR...` | **1428.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/616307) • [🐱 Nyaa](https://nekobt.to/torrents/11786242359054) |
+| `Petals of Reincarnation S01E06 Seiya 1080p HIDI WEB-DL DUAL AAC2.0 ...` | **950.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616306) • [🐱 Nyaa](https://nyaa.si/view/2122737) |
+| `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E10 [1080p AV1][Dual Audi...` | **300.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616305) • [🐱 Nyaa](https://nyaa.si/view/2122734) |
+| `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E11 [1080p][HEVC x265 10...` | **271.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616301) • [🐱 Nyaa](https://nyaa.si/view/2122731) |
+| `[DKB] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - S0...` | **602.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616302) • [🐱 Nyaa](https://nyaa.si/view/2122730) |
+| `[Kaleido-mini] Shibou Yuugi de Meshi wo Kuu. - 01 (S01E01) - (BD 10...` | **447.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616303) • [🐱 Nyaa](https://nyaa.si/view/2122729) |
+| `[Kaleido-subs] Shibou Yuugi de Meshi wo Kuu. - 01 (S01E01) - (BD 10...` | **4300.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616304) • [🐱 Nyaa](https://nyaa.si/view/2122728) |
 | `[Ommex] Doraemon (2005) Episode 919 [ENG SUB][1080p x265 AAC]` | **605.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616300) • [🐱 Nyaa](https://nyaa.si/view/2122726) |
 | `[ASW] Kanojo, Okarishimasu - 59 [1080p HEVC x265 10Bit][AAC]` | **261.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616299) • [🐱 Nyaa](https://nyaa.si/view/2122724) |
 | `[Erai-raws] Ganbare Nakamura-kun - 13 [1080p CR WEBRip HEVC AAC][Mu...` | **373.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616296) • [🐱 Nyaa](https://nyaa.si/view/2122723) |
@@ -41,13 +48,6 @@
 | `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E11 (1080p CR WEB-DL ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616290) • [🐱 Nyaa](https://nyaa.si/view/2122718) |
 | `Kirio Fan Club S01E02 When I Saw Your Tears That Day 1080p HIDI WEB...` | **923.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616291) • [🐱 Nyaa](https://nyaa.si/view/2122717) |
 | `Petals of Reincarnation S01E03 Declaration of War 1080p HIDI WEB-DL...` | **944.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616292) • [🐱 Nyaa](https://nyaa.si/view/2122716) |
-| `Farming Life In Another World S02E08 More Hot Spring Expedition 108...` | **956.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616293) • [🐱 Nyaa](https://nyaa.si/view/2122715) |
-| `[Sristi] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta ...` | **1395.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/616295) • [🐱 Nyaa](https://nekobt.to/torrents/11784018698240) |
-| `The Most Heretical Last Boss Queen From Villainess to Savior S02E05...` | **948.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616294) • [🐱 Nyaa](https://nyaa.si/view/2122714) |
-| `[Erai-raws] Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga O...` | **402.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616288) • [🐱 Nyaa](https://nyaa.si/view/2122712) |
-| `The Most Heretical Last Boss Queen From Villainess to Savior S02E02...` | **945.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616289) • [🐱 Nyaa](https://nyaa.si/view/2122710) |
-| `Farming Life In Another World S02E08 1080p AMZN WEB-DL DUAL DDP2.0 ...` | **897.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616286) • [🐱 Nyaa](https://nyaa.si/view/2122709) |
-| `Go For It Nakamura kun S01E13 1080p CR WEB-DL MULTi AAC2.0 H 264-VA...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616287) • [🐱 Nyaa](https://nyaa.si/view/2122708) |
 
 ---
 <div align="center">
