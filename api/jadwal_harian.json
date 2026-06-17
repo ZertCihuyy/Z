@@ -1,5 +1,5 @@
 {
-  "last_update": "17/6/2026, 17.04.19",
+  "last_update": "17/6/2026, 21.01.59",
   "hari": "Rabu",
   "data": [
     {
@@ -14,6 +14,40 @@
         },
         "genres": [
           "Comedy",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781661600,
+      "media": {
+        "id": 213297,
+        "title": {
+          "romaji": "Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781661600,
+      "media": {
+        "id": 213297,
+        "title": {
+          "romaji": "Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
           "Fantasy"
         ]
       }
@@ -213,23 +247,6 @@
           "Comedy",
           "Fantasy",
           "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781710200,
-      "media": {
-        "id": 180228,
-        "title": {
-          "romaji": "Ganbare! Nakamura-kun!!"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180228-MuZ7adbGiYVj.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
         ]
       }
     }
