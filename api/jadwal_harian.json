@@ -1,252 +1,252 @@
 {
-  "last_update": "17/6/2026, 21.01.59",
-  "hari": "Rabu",
+  "last_update": "18/6/2026, 00.24.52",
+  "hari": "Kamis",
   "data": [
     {
-      "airingAt": 1781647560,
+      "airingAt": 1781766000,
       "media": {
-        "id": 193883,
+        "id": 210032,
         "title": {
-          "romaji": "Chibi Godzilla no Gyakushuu 3"
+          "romaji": "BAKI-DOU Part 2"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781661600,
-      "media": {
-        "id": 213297,
-        "title": {
-          "romaji": "Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210032-6Oht6oWrgeMS.jpg"
         },
         "genres": [
           "Action",
-          "Adventure",
-          "Fantasy"
+          "Sports"
         ]
       }
     },
     {
-      "airingAt": 1781661600,
+      "airingAt": 1781775000,
       "media": {
-        "id": 213297,
+        "id": 209541,
         "title": {
-          "romaji": "Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi"
+          "romaji": "PetitCure: Precure Fairies Season 3"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg"
         },
         "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781684100,
-      "media": {
-        "id": 163793,
-        "title": {
-          "romaji": "Cheongchun Blossom: Uriui Bom"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg"
-        },
-        "genres": [
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781694000,
-      "media": {
-        "id": 188529,
-        "title": {
-          "romaji": "Ugoku! Neko Mukashi Banashi"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg"
-        },
-        "genres": [
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781699400,
-      "media": {
-        "id": 180745,
-        "title": {
-          "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png"
-        },
-        "genres": [
-          "Drama",
-          "Psychological"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781700900,
-      "media": {
-        "id": 210375,
-        "title": {
-          "romaji": "Daikenja Riddle no Jikan Gyakko"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210375-Nfj4cciZ35un.jpg"
-        },
-        "genres": [
-          "Action",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781701200,
-      "media": {
-        "id": 189046,
-        "title": {
-          "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
           "Fantasy",
-          "Psychological",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781780400,
+      "media": {
+        "id": 203710,
+        "title": {
+          "romaji": "Wei Miao Rensheng"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg"
+        },
+        "genres": [
           "Romance",
-          "Thriller"
+          "Supernatural"
         ]
       }
     },
     {
-      "airingAt": 1781701200,
+      "airingAt": 1781780400,
       "media": {
-        "id": 199029,
+        "id": 194389,
         "title": {
-          "romaji": "Kanojo, Okarishimasu 5th Season"
+          "romaji": "Koala Enikki"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png"
+        },
+        "genres": [
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781785800,
+      "media": {
+        "id": 182483,
+        "title": {
+          "romaji": "Hime Kishi wa Barbaroi no Yome"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg"
         },
         "genres": [
           "Comedy",
+          "Ecchi",
+          "Fantasy",
           "Romance"
         ]
       }
     },
     {
-      "airingAt": 1781701200,
+      "airingAt": 1781787600,
       "media": {
-        "id": 198939,
+        "id": 187166,
         "title": {
-          "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season"
+          "romaji": "Ganso! Bandori-chan"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198939-95aqzBr0Lzcv.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png"
         },
         "genres": [
-          "Action",
           "Comedy",
-          "Fantasy"
+          "Music"
         ]
       }
     },
     {
-      "airingAt": 1781703000,
+      "airingAt": 1781787600,
       "media": {
-        "id": 210687,
+        "id": 199221,
         "title": {
-          "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season"
+          "romaji": "Dr. STONE: SCIENCE FUTURE Part 3"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg"
-        },
-        "genres": [
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781706600,
-      "media": {
-        "id": 194317,
-        "title": {
-          "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg"
         },
         "genres": [
           "Action",
           "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781707500,
-      "media": {
-        "id": 199588,
-        "title": {
-          "romaji": "Otaku ni Yasashii Gal wa Inai!?"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg"
-        },
-        "genres": [
           "Comedy",
-          "Romance"
+          "Sci-Fi"
         ]
       }
     },
     {
-      "airingAt": 1781708160,
+      "airingAt": 1781789400,
       "media": {
-        "id": 205772,
+        "id": 177508,
         "title": {
-          "romaji": "Candy Caries"
+          "romaji": "Kujima Utaeba Ie Hororo"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png"
-        },
-        "genres": [
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781708400,
-      "media": {
-        "id": 201817,
-        "title": {
-          "romaji": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201817-pyfL9F8muPeq.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177508-Ajz9UrU5SsQ0.jpg"
         },
         "genres": [
           "Comedy",
           "Fantasy",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781794560,
+      "media": {
+        "id": 186497,
+        "title": {
+          "romaji": "Koori no Jouheki"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781796360,
+      "media": {
+        "id": 181284,
+        "title": {
+          "romaji": "Kirio Fanclub"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781796600,
+      "media": {
+        "id": 179950,
+        "title": {
+          "romaji": "Reincarnation no Kaben"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg"
+        },
+        "genres": [
+          "Action",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781798400,
+      "media": {
+        "id": 210234,
+        "title": {
+          "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210234-MZaMjdbBzEHz.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781800080,
+      "media": {
+        "id": 195333,
+        "title": {
+          "romaji": "Haibara-kun no Tsuyokute Seishun New Game"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png"
+        },
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781801100,
+      "media": {
+        "id": 177501,
+        "title": {
+          "romaji": "Awajima Hyakkei"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177501-lLkxUFVZ8uAj.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Music",
           "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781801400,
+      "media": {
+        "id": 209940,
+        "title": {
+          "romaji": "Komekami! Girls"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209940-AmmMcfBXmB3c.jpg"
+        },
+        "genres": [
+          "Comedy"
         ]
       }
     }

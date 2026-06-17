@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.01.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.24.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,45 +9,45 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Rabu**
+### 📅 Jadwal Rilis Hari Ini: **Kamis**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg" width="45" style="border-radius: 4px;"> | `05.06` | **[Chibi Godzilla no Gyakushuu 3](https://anilist.co/anime/193883)** | *Comedy, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg" width="45" style="border-radius: 4px;"> | `09.00` | **[Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi](https://anilist.co/anime/213297)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg" width="45" style="border-radius: 4px;"> | `09.00` | **[Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi](https://anilist.co/anime/213297)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg" width="45" style="border-radius: 4px;"> | `15.15` | **[Cheongchun Blossom: Uriui Bom](https://anilist.co/anime/163793)** | *Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg" width="45" style="border-radius: 4px;"> | `18.00` | **[Ugoku! Neko Mukashi Banashi](https://anilist.co/anime/188529)** | *Comedy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png" width="45" style="border-radius: 4px;"> | `19.30` | **[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki](https://anilist.co/anime/180745)** | *Drama, Psychological* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210375-Nfj4cciZ35un.jpg" width="45" style="border-radius: 4px;"> | `19.55` | **[Daikenja Riddle no Jikan Gyakko](https://anilist.co/anime/210375)** | *Action, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://anilist.co/anime/189046)** | *Action, Adventure, Drama, Fantasy, Psychological, Romance, Thriller* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png" width="45" style="border-radius: 4px;"> | `20.00` | **[Kanojo, Okarishimasu 5th Season](https://anilist.co/anime/199029)** | *Comedy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198939-95aqzBr0Lzcv.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season](https://anilist.co/anime/198939)** | *Action, Comedy, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg" width="45" style="border-radius: 4px;"> | `20.30` | **[Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season](https://anilist.co/anime/210687)** | *Adventure, Comedy, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season](https://anilist.co/anime/194317)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg" width="45" style="border-radius: 4px;"> | `21.45` | **[Otaku ni Yasashii Gal wa Inai!?](https://anilist.co/anime/199588)** | *Comedy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png" width="45" style="border-radius: 4px;"> | `21.56` | **[Candy Caries](https://anilist.co/anime/205772)** | *Comedy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201817-pyfL9F8muPeq.jpg" width="45" style="border-radius: 4px;"> | `22.00` | **[Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken](https://anilist.co/anime/201817)** | *Comedy, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210032-6Oht6oWrgeMS.jpg" width="45" style="border-radius: 4px;"> | `14.00` | **[BAKI-DOU Part 2](https://anilist.co/anime/210032)** | *Action, Sports* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg" width="45" style="border-radius: 4px;"> | `16.30` | **[PetitCure: Precure Fairies Season 3](https://anilist.co/anime/209541)** | *Fantasy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg" width="45" style="border-radius: 4px;"> | `18.00` | **[Wei Miao Rensheng](https://anilist.co/anime/203710)** | *Romance, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png" width="45" style="border-radius: 4px;"> | `18.00` | **[Koala Enikki](https://anilist.co/anime/194389)** | *Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg" width="45" style="border-radius: 4px;"> | `19.30` | **[Hime Kishi wa Barbaroi no Yome](https://anilist.co/anime/182483)** | *Comedy, Ecchi, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png" width="45" style="border-radius: 4px;"> | `20.00` | **[Ganso! Bandori-chan](https://anilist.co/anime/187166)** | *Comedy, Music* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Dr. STONE: SCIENCE FUTURE Part 3](https://anilist.co/anime/199221)** | *Action, Adventure, Comedy, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177508-Ajz9UrU5SsQ0.jpg" width="45" style="border-radius: 4px;"> | `20.30` | **[Kujima Utaeba Ie Hororo](https://anilist.co/anime/177508)** | *Comedy, Fantasy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg" width="45" style="border-radius: 4px;"> | `21.56` | **[Koori no Jouheki](https://anilist.co/anime/186497)** | *Comedy, Drama, Romance, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg" width="45" style="border-radius: 4px;"> | `22.26` | **[Kirio Fanclub](https://anilist.co/anime/181284)** | *Comedy, Romance, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg" width="45" style="border-radius: 4px;"> | `22.30` | **[Reincarnation no Kaben](https://anilist.co/anime/179950)** | *Action, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210234-MZaMjdbBzEHz.jpg" width="45" style="border-radius: 4px;"> | `23.00` | **[Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru](https://anilist.co/anime/210234)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png" width="45" style="border-radius: 4px;"> | `23.28` | **[Haibara-kun no Tsuyokute Seishun New Game](https://anilist.co/anime/195333)** | *Romance, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177501-lLkxUFVZ8uAj.jpg" width="45" style="border-radius: 4px;"> | `23.45` | **[Awajima Hyakkei](https://anilist.co/anime/177501)** | *Drama, Music, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209940-AmmMcfBXmB3c.jpg" width="45" style="border-radius: 4px;"> | `23.50` | **[Komekami! Girls](https://anilist.co/anime/209940)** | *Comedy* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Kanojo Okarishimasu (Rent-A-Girlfriend) - S05E11 [1080p][HE...` | **255.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616187) • [🐱 Nyaa](https://nyaa.si/view/2122553) |
-| `[Onalrie] Kanojo, Okarishimasu - S05E11 [1080p WEBRip AV1]` | **196.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/616188) • [🐱 Nyaa](https://onalrie.app/torrent/d511cbfb-b59f-40d0-b03e-3cf6bf3b366c) |
-| `[ToonsHub] Rent-a-Girlfriend S05E08 1080p CR WEB-DL MULTi AAC2.0 H....` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616182) • [🐱 Nyaa](https://nyaa.si/view/2122548) |
-| `[Yameii] Rent-a-Girlfriend - S05E09 [English Dub] [CR WEB-DL 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616183) • [🐱 Nyaa](https://nyaa.si/view/2122547) |
-| `[ToonsHub] Rent-a-Girlfriend S05E09 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616185) • [🐱 Nyaa](https://nyaa.si/view/2122545) |
-| `[ToonsHub] Rent-a-Girlfriend S05E11 1080p CR WEB-DL AAC2.0 H.264 (K...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616186) • [🐱 Nyaa](https://nyaa.si/view/2122544) |
-| `[Onalrie] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - S04E15 ...` | **167.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/616179) • [🐱 Nyaa](https://nekobt.to/torrents/11779054764032) |
-| `[VARYG] Rent a Girlfriend S05E11 1080p CR WEB-DL AAC2.0 H.264 (Kano...` | **1436.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/616180) • [🐱 Nyaa](https://nekobt.to/torrents/11779033780487) |
-| `[VARYG] Rent a Girlfriend S05E09 Bra and Girlfriend 1080p CR WEB-DL...` | **1487.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/616181) • [🐱 Nyaa](https://nekobt.to/torrents/11779031156742) |
-| `[ASW] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 15 [1080...` | **215.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616172) • [🐱 Nyaa](https://nyaa.si/view/2122540) |
-| `[SubsPlease] Kanojo, Okarishimasu - 59 (1080p) [CA91C0DD].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616173) • [🐱 Nyaa](https://nyaa.si/view/2122535) |
-| `[Erai-raws] Kanojo Okarishimasu 5th Season - 11 [1080p CR WEB-DL AV...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616178) • [🐱 Nyaa](https://nyaa.si/view/2122529) |
-| `[Yameii] Classroom of the Elite - S04E13 [English Dub] [CR WEB-DL 1...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616159) • [🐱 Nyaa](https://nyaa.si/view/2122520) |
-| `Classroom of the Elite S04E13 Obscured By the Rain 1080p CR WEB-DL ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616161) • [🐱 Nyaa](https://nyaa.si/view/2122518) |
-| `Classroom of the Elite S04E15 1080p CR WEB-DL AAC2.0 H 264-VARYG (Y...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616162) • [🐱 Nyaa](https://nyaa.si/view/2122517) |
+| `[ToonsHub] Go For It Nakamura-kun S01E13 1080p CR WEB-DL MULTi AAC2...` | **1518.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/616277) • [🐱 Nyaa](https://nekobt.to/torrents/11782836707853) |
+| `[Yameii] Go For It, Nakamura-kun!! - S01E13 [English Dub] [CR WEB-D...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616262) • [🐱 Nyaa](https://nyaa.si/view/2122699) |
+| `Go For It Nakamura kun S01E13 1080p CR WEB-DL DUAL AAC2.0 H 264-VAR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616264) • [🐱 Nyaa](https://nyaa.si/view/2122697) |
+| `[ToonsHub] Farming Life In Another World S02E08 1080p HIDIVE WEB-DL...` | **955.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616265) • [🐱 Nyaa](https://nyaa.si/view/2122696) |
+| `[ToonsHub] Go For It Nakamura-kun S01E13 1080p CR WEB-DL DUAL AAC2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616266) • [🐱 Nyaa](https://nyaa.si/view/2122695) |
+| `[ToonsHub] Kirio Fan Club S01E02 1080p HIDIVE WEB-DL DUAL AAC2.0 H....` | **921.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616267) • [🐱 Nyaa](https://nyaa.si/view/2122693) |
+| `[SubsPlease] Ganbare! Nakamura-kun!! - 13 (1080p) [8196BEB8].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616268) • [🐱 Nyaa](https://nyaa.si/view/2122691) |
+| `[ToonsHub] The Most Heretical Last Boss Queen From Villainess to Sa...` | **949.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616269) • [🐱 Nyaa](https://nyaa.si/view/2122690) |
+| `[Erai-raws] Ganbare Nakamura-kun - 13 [1080p CR WEB-DL AVC AAC][Mul...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616274) • [🐱 Nyaa](https://nyaa.si/view/2122684) |
+| `[Onalrie] Nigetsuri - S01E12 [1080p WEBRip AV1]` | **205.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616278) • [🐱 Nyaa](https://nekobt.to/torrents/11782670107907) |
+| `Classroom of the Elite S04E10 Love Uncommunicated 1080p CR WEB-DL M...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616275) • [🐱 Nyaa](https://nyaa.si/view/2122681) |
+| `[ASW] Nigetsuri - 12 [1080p HEVC x265 10Bit][AAC]` | **246.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616276) • [🐱 Nyaa](https://nyaa.si/view/2122680) |
+| `[VARYG] Rent a Girlfriend S05E08 Investigation and Girlfriend 1080p...` | **1621.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/616261) • [🐱 Nyaa](https://nekobt.to/torrents/11782519927301) |
+| `Reborn as a Vending Machine I Now Wander the Dungeon S03E09 The Thu...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616257) • [🐱 Nyaa](https://nyaa.si/view/2122677) |
+| `[Judas] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou (Reb...` | **430.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616258) • [🐱 Nyaa](https://nyaa.si/view/2122676) |
 
 ---
 <div align="center">
