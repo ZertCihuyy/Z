@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.45.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.42.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Go For It Nakamura kun S01E13 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1479.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/616312) • [🐱 Nyaa](https://nekobt.to/torrents/11788508217088) |
+| `Classroom of the Elite S04E10 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1447.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/616313) • [🐱 Nyaa](https://nekobt.to/torrents/11788489721088) |
+| `[sam] Dr. STONE - Science Future - S04E35 (WEB 1080p HEVC x265 10-b...` | **3110.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/616311) • [🐱 Nyaa](https://nekobt.to/torrents/11787768752646) |
+| `[DKB] Kanojo, Okarishimasu - S05E11 [1080p][HEVC x265 10bit][Multi-...` | **289.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616310) • [🐱 Nyaa](https://nyaa.si/view/2122750) |
+| `[FBI] Re:Zero Starting Life in Another World - S04E11 (CR WEB-DL 10...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616309) • [🐱 Nyaa](https://nyaa.si/view/2122749) |
+| `[Elite-Fansubs & Real Fansubbers Restoration] Hikaru no Go (BD 1080...` | **52428.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616308) • [🐱 Nyaa](https://nyaa.si/view/2122743) |
 | `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E11 [1080p CR...` | **1428.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/616307) • [🐱 Nyaa](https://nekobt.to/torrents/11786242359054) |
 | `Petals of Reincarnation S01E06 Seiya 1080p HIDI WEB-DL DUAL AAC2.0 ...` | **950.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616306) • [🐱 Nyaa](https://nyaa.si/view/2122737) |
 | `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E10 [1080p AV1][Dual Audi...` | **300.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616305) • [🐱 Nyaa](https://nyaa.si/view/2122734) |
@@ -42,12 +48,6 @@
 | `[Kaleido-subs] Shibou Yuugi de Meshi wo Kuu. - 01 (S01E01) - (BD 10...` | **4300.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616304) • [🐱 Nyaa](https://nyaa.si/view/2122728) |
 | `[Ommex] Doraemon (2005) Episode 919 [ENG SUB][1080p x265 AAC]` | **605.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616300) • [🐱 Nyaa](https://nyaa.si/view/2122726) |
 | `[ASW] Kanojo, Okarishimasu - 59 [1080p HEVC x265 10Bit][AAC]` | **261.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616299) • [🐱 Nyaa](https://nyaa.si/view/2122724) |
-| `[Erai-raws] Ganbare Nakamura-kun - 13 [1080p CR WEBRip HEVC AAC][Mu...` | **373.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616296) • [🐱 Nyaa](https://nyaa.si/view/2122723) |
-| `The Most Heretical Last Boss Queen From Villainess to Savior S02E05...` | **823.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616297) • [🐱 Nyaa](https://nyaa.si/view/2122722) |
-| `[Demo-subs] Sword Art Online Alternative - Gun Gale Online II - 12 ...` | **1436.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/616298) • [🐱 Nyaa](https://nekobt.to/torrents/11784259539969) |
-| `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E11 (1080p CR WEB-DL ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616290) • [🐱 Nyaa](https://nyaa.si/view/2122718) |
-| `Kirio Fan Club S01E02 When I Saw Your Tears That Day 1080p HIDI WEB...` | **923.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616291) • [🐱 Nyaa](https://nyaa.si/view/2122717) |
-| `Petals of Reincarnation S01E03 Declaration of War 1080p HIDI WEB-DL...` | **944.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616292) • [🐱 Nyaa](https://nyaa.si/view/2122716) |
 
 ---
 <div align="center">
