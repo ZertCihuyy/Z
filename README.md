@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.17.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.28.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[cappybara] Marriage Toxin - S01E11 (WEB 1080p HEVC AAC).mkv` | **2767.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/616339) • [🐱 Nyaa](https://nekobt.to/torrents/11799305408772) |
-| `[vLbE3L] Witch Hat Atelier S01E08 [1080p CUSTOM WEBRip VVC HE-AACv2...` | **303.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/616340) • [🐱 Nyaa](https://nekobt.to/torrents/11799284137484) |
-| `[LbE3L] Witch Hat Atelier S01E08 [1080p CUSTOM WEBRip AV1 (Muxed) O...` | **535.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616341) • [🐱 Nyaa](https://nekobt.to/torrents/11799237721869) |
-| `[Kulot] Turn A Gundam II: Moonlight Butterfly (2002) (BD 1080p x264...` | **16179.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616337) • [🐱 Nyaa](https://nyaa.si/view/2122828) |
-| `[Kulot] Turn A Gundam I: Earth Light (2002) (BD 1080p x264 Hi10P Tr...` | **13516.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616338) • [🐱 Nyaa](https://nyaa.si/view/2122827) |
-| `[WOR] Prima Doll S01 [BD HEVC 1080p FLAC] multi subs` | **20582.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616336) • [🐱 Nyaa](https://nyaa.si/view/2122825) |
-| `[SubsNoJutsu] Witch Hat Atelier - S01E05 (1080p WEB AAC x265)` | **379.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/616335) • [🐱 Nyaa](https://nekobt.to/torrents/11797989904396) |
-| `[BlackRabbit] Chained Soldier (2024) - S02 [Bluray-1080p][Opus 2.0]...` | **3010.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/616334) • [🐱 Nyaa](https://nekobt.to/torrents/11796352024334) |
-| `[ToonsHub] BAKI-DOU The Invincible Samurai S01E14-E25 1080p NF WEB-...` | **12902.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616333) • [🐱 Nyaa](https://nyaa.si/view/2122812) |
-| `[Headpatter] The Future Diary Season 1 (BD 1080p x264 Hi10P Opus) [...` | **41267.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616331) • [🐱 Nyaa](https://nyaa.si/view/2122811) |
-| `[Headpatter] Chained Soldier Season 1 v2 (BD 1080p HEVC 10-bit Opus...` | **20377.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616332) • [🐱 Nyaa](https://nyaa.si/view/2122809) |
-| `[BlackRabbit] Chained Soldier (2024) - S01 v2 [Bluray-1080p][Opus 2...` | **3537.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/616330) • [🐱 Nyaa](https://nekobt.to/torrents/11794773835274) |
-| `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa Inai!? - 11...` | **419.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616329) • [🐱 Nyaa](https://nyaa.si/view/2122804) |
-| `[DKB] Digimon Beatbreak - S01E35 [1080p][HEVC x265 10bit][Multi-Sub...` | **497.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616328) • [🐱 Nyaa](https://nyaa.si/view/2122794) |
-| `[geckyzz] Go for It, Nakamura-kun!! - S01E13 (ガンバレ！中村くん！！) [CTHP.WE...` | **669.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/616327) • [🐱 Nyaa](https://nekobt.to/torrents/11792681452801) |
+| `[VARYG] Dr STONE S04E36 1080p CR WEB-DL MULTi AAC2.0 H.264 (Dr. STO...` | **1789.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/616389) • [🐱 Nyaa](https://nekobt.to/torrents/11802147471108) |
+| `Dr STONE S05E36 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Dr. Stone,...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616370) • [🐱 Nyaa](https://nyaa.si/view/2122923) |
+| `Kujima Why Sing When You Can Warble S01E11 1080p CR WEB-DL AAC2.0 H...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616371) • [🐱 Nyaa](https://nyaa.si/view/2122921) |
+| `[Yameii] Dr. Stone - S04E36 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616372) • [🐱 Nyaa](https://nyaa.si/view/2122920) |
+| `[ToonsHub] Kujima Why Sing When You Can Warble S01E11 1080p AMZN WE...` | **738.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616374) • [🐱 Nyaa](https://nyaa.si/view/2122917) |
+| `[ToonsHub] Dr Stone S04E36 1080p AMZN WEB-DL DDP2.0 H.264 (English-...` | **993.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616375) • [🐱 Nyaa](https://nyaa.si/view/2122916) |
+| `[SubsPlease] Dr. Stone S4 - 36 (1080p) [999A00BE].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616378) • [🐱 Nyaa](https://nyaa.si/view/2122911) |
+| `[SubsPlease] Kujima Utaeba Ie Hororo - 11 (1080p) [C335567E].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616382) • [🐱 Nyaa](https://nyaa.si/view/2122905) |
+| `[Erai-raws] Kujima Utaeba Ie Hororo - 11 [1080p CR WEB-DL AVC AAC][...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616383) • [🐱 Nyaa](https://nyaa.si/view/2122903) |
+| `[Erai-raws] Dr. Stone: Science Future Part 3 - 12 [1080p CR WEB-DL ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616384) • [🐱 Nyaa](https://nyaa.si/view/2122902) |
+| `[ToonsHub] Dr STONE S04E36 1080p BILI WEB-DL AAC2.0 H.265 (Multi-Subs)` | **533.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616387) • [🐱 Nyaa](https://nyaa.si/view/2122898) |
+| `Dr STONE S04E36 1080p NF WEB-DL AAC2.0 H 264-VARYG (Dr. STONE: SCIE...` | **877.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616369) • [🐱 Nyaa](https://nyaa.si/view/2122893) |
+| `[ToonsHub] Dr STONE S04E36 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **877.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/616366) • [🐱 Nyaa](https://nekobt.to/torrents/11801583556879) |
+| `[Erai-raws] Himekishi wa Barbaroi no Yome - 11 [1080p CR WEBRip HEV...` | **611.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616367) • [🐱 Nyaa](https://nekobt.to/torrents/11801578460167) |
+| `[BlackRabbit] Agent AIKa (1997) - S00 [Bluray-1080p][Opus 2.0][UNCE...` | **92.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/616368) • [🐱 Nyaa](https://nekobt.to/torrents/11801473730316) |
 
 ---
 <div align="center">
