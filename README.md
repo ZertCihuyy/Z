@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.59.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.22.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] MARRIAGETOXIN - S01E11 [1080p CR WEB-DL H.264 AAC] [Nap...` | **1389.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/616507) • [🐱 Nyaa](https://nekobt.to/torrents/11809645108232) |
+| `[Erai-raws] Awajima Hyakkei - 11 [1080p CR WEBRip HEVC AAC][MultiSu...` | **378.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616505) • [🐱 Nyaa](https://nyaa.si/view/2123093) |
+| `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 11 (WEB 1080p HEVC AAC) ...` | **448.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/616504) • [🐱 Nyaa](https://nekobt.to/torrents/11808013721090) |
+| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-sama - 12 [...` | **523.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616503) • [🐱 Nyaa](https://nyaa.si/view/2123090) |
 | `[DKB] Koori no Jouheki - S01E12 [1080p][HEVC x265 10bit][Dual-Audio...` | **289.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616501) • [🐱 Nyaa](https://nyaa.si/view/2123081) |
 | `[ToonsHub] Kujima Why Sing When You Can Warble S01E11 1080p CR WEB-...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616502) • [🐱 Nyaa](https://nyaa.si/view/2123078) |
 | `[SubsPlus+] Petals of Reincarnation - S01E12 (AMZN WEB-DL 1080p AVC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616499) • [🐱 Nyaa](https://nyaa.si/view/2123069) |
@@ -40,10 +44,6 @@
 | `Petals of Reincarnation S01E12 Till My Voice is Heard 1080p AMZN WE...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616487) • [🐱 Nyaa](https://nyaa.si/view/2123063) |
 | `[Erai-raws] Reincarnation no Kaben - 12 [1080p AMZN WEBRip HEVC EAC...` | **629.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616488) • [🐱 Nyaa](https://nyaa.si/view/2123062) |
 | `The Warrior Princess and the Barbaric King S01E08 MULTi AD 1080p CR...` | **1451.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/616491) • [🐱 Nyaa](https://nekobt.to/torrents/11806240614916) |
-| `MARRIAGETOXIN S01E04 REPACK MULTi AD 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1466.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/616492) • [🐱 Nyaa](https://nekobt.to/torrents/11806219919364) |
-| `MARRIAGETOXIN S01E03 REPACK MULTi AD 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1463.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/616493) • [🐱 Nyaa](https://nekobt.to/torrents/11806200328451) |
-| `[Onalrie] Haibara-kun no Tsuyokute Seishun New Game - S01E12 [1080p...` | **162.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/616494) • [🐱 Nyaa](https://nekobt.to/torrents/11806189749002) |
-| `MARRIAGETOXIN S01E02 REPACK MULTi AD 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1467.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/616495) • [🐱 Nyaa](https://nekobt.to/torrents/11806181701890) |
 
 ---
 <div align="center">
