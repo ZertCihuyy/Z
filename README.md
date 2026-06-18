@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.42.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.04.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Petals of Reincarnation S01E06 1080p HIDIVE WEB-DL DUAL ...` | **950.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616314) • [🐱 Nyaa](https://nyaa.si/view/2122759) |
+| `The Beginning After the End S02E09 MULTi AD 1080p CR WEB-DL AAC2.0 ...` | **1399.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/616315) • [🐱 Nyaa](https://nekobt.to/torrents/11788900296457) |
+| `Rent a Girlfriend S05E08 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1495.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/616316) • [🐱 Nyaa](https://nekobt.to/torrents/11788880045827) |
+| `Reborn as a Vending Machine I Now Wander the Dungeon S03E09 MULTi 1...` | **1417.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/616317) • [🐱 Nyaa](https://nekobt.to/torrents/11788859079684) |
+| `Re ZERO Starting Life in Another World S04E11 MULTi 1080p CR WEB-DL...` | **1461.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/616318) • [🐱 Nyaa](https://nekobt.to/torrents/11788840390917) |
 | `Go For It Nakamura kun S01E13 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1479.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/616312) • [🐱 Nyaa](https://nekobt.to/torrents/11788508217088) |
 | `Classroom of the Elite S04E10 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1447.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/616313) • [🐱 Nyaa](https://nekobt.to/torrents/11788489721088) |
 | `[sam] Dr. STONE - Science Future - S04E35 (WEB 1080p HEVC x265 10-b...` | **3110.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/616311) • [🐱 Nyaa](https://nekobt.to/torrents/11787768752646) |
@@ -43,11 +48,6 @@
 | `Petals of Reincarnation S01E06 Seiya 1080p HIDI WEB-DL DUAL AAC2.0 ...` | **950.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616306) • [🐱 Nyaa](https://nyaa.si/view/2122737) |
 | `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E10 [1080p AV1][Dual Audi...` | **300.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616305) • [🐱 Nyaa](https://nyaa.si/view/2122734) |
 | `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E11 [1080p][HEVC x265 10...` | **271.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616301) • [🐱 Nyaa](https://nyaa.si/view/2122731) |
-| `[DKB] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - S0...` | **602.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616302) • [🐱 Nyaa](https://nyaa.si/view/2122730) |
-| `[Kaleido-mini] Shibou Yuugi de Meshi wo Kuu. - 01 (S01E01) - (BD 10...` | **447.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616303) • [🐱 Nyaa](https://nyaa.si/view/2122729) |
-| `[Kaleido-subs] Shibou Yuugi de Meshi wo Kuu. - 01 (S01E01) - (BD 10...` | **4300.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616304) • [🐱 Nyaa](https://nyaa.si/view/2122728) |
-| `[Ommex] Doraemon (2005) Episode 919 [ENG SUB][1080p x265 AAC]` | **605.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616300) • [🐱 Nyaa](https://nyaa.si/view/2122726) |
-| `[ASW] Kanojo, Okarishimasu - 59 [1080p HEVC x265 10Bit][AAC]` | **261.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616299) • [🐱 Nyaa](https://nyaa.si/view/2122724) |
 
 ---
 <div align="center">
