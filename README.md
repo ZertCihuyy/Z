@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.22.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.10.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Mata Korosarete Shimatta no desu ne, Tantei-sama - S01E12 [10...` | **337.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616510) • [🐱 Nyaa](https://nyaa.si/view/2123099) |
+| `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E12 [1080p][EN...` | **271.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616508) • [🐱 Nyaa](https://nyaa.si/view/2123098) |
+| `[DKB] Reincarnation no Kaben - S01E12 [1080p][HEVC x265 10bit][weekly]` | **532.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616509) • [🐱 Nyaa](https://nyaa.si/view/2123097) |
 | `[FrixySubs] MARRIAGETOXIN - S01E11 [1080p CR WEB-DL H.264 AAC] [Nap...` | **1389.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/616507) • [🐱 Nyaa](https://nekobt.to/torrents/11809645108232) |
 | `[Erai-raws] Awajima Hyakkei - 11 [1080p CR WEBRip HEVC AAC][MultiSu...` | **378.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616505) • [🐱 Nyaa](https://nyaa.si/view/2123093) |
 | `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 11 (WEB 1080p HEVC AAC) ...` | **448.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/616504) • [🐱 Nyaa](https://nekobt.to/torrents/11808013721090) |
@@ -41,9 +44,6 @@
 | `[SubsPlus+] Kirio Fan Club - S01E12 (ABEMA WEB-DL 1080p AVC EAC3) |...` | **718.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616497) • [🐱 Nyaa](https://nyaa.si/view/2123066) |
 | `Kirio Fan Club S01E12 Kirio Fan Club 1080p ABMA WEB-DL DDP2.0 H 264...` | **719.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616485) • [🐱 Nyaa](https://nyaa.si/view/2123065) |
 | `Monster Eater S01E12 1080p AMZN WEB-DL DDP2.0 H 264-VARYG (Mamonogu...` | **653.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616486) • [🐱 Nyaa](https://nyaa.si/view/2123064) |
-| `Petals of Reincarnation S01E12 Till My Voice is Heard 1080p AMZN WE...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616487) • [🐱 Nyaa](https://nyaa.si/view/2123063) |
-| `[Erai-raws] Reincarnation no Kaben - 12 [1080p AMZN WEBRip HEVC EAC...` | **629.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616488) • [🐱 Nyaa](https://nyaa.si/view/2123062) |
-| `The Warrior Princess and the Barbaric King S01E08 MULTi AD 1080p CR...` | **1451.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/616491) • [🐱 Nyaa](https://nekobt.to/torrents/11806240614916) |
 
 ---
 <div align="center">
