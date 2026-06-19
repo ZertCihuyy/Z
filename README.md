@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.26.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.03.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,21 +29,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Given - 10th Mix (1080p) [684D2C85].mkv` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616552) • [🐱 Nyaa](https://nyaa.si/view/2123170) |
+| `[SubsPlease] Kobayashi-san Chi no Maid Dragon - Samishigariya no Ry...` | **6041.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616555) • [🐱 Nyaa](https://nyaa.si/view/2123167) |
+| `[FrixySubs] Dr. STONE - S04E35 [1080p CR WEB-DL H.264 AAC] [Napisy ...` | **1397.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/616548) • [🐱 Nyaa](https://nekobt.to/torrents/11819184463877) |
+| `[SubsNoJutsu] Witch Hat Atelier - S01E07 (1080p WEB AAC x265)` | **383.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/616549) • [🐱 Nyaa](https://nekobt.to/torrents/11819046735620) |
+| `[SubsNoJutsu] Witch Hat Atelier - S01E06 (1080p WEB AAC x265)` | **359.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/616547) • [🐱 Nyaa](https://nekobt.to/torrents/11818985920004) |
+| `[ToonsHub] Mistress Kanan is Devilishly Easy S01E10 1080p LIV WEB-D...` | **302.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/616544) • [🐱 Nyaa](https://nekobt.to/torrents/11818442783747) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E10 1080p LIV WEB-DL DUAL...` | **310.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616543) • [🐱 Nyaa](https://nyaa.si/view/2123154) |
+| `[Onalrie] Hitori no Shita - The Outcast - S06E25 [1080p WEBRip AV1]` | **237.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/616545) • [🐱 Nyaa](https://nekobt.to/torrents/11818352614157) |
+| `[Gecko] Sweet Bite Marks - S01 (甜美的咬痕; Tianmei de Yaohen) [VIKI.WEB...` | **923.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/616542) • [🐱 Nyaa](https://nekobt.to/torrents/11817935948034) |
+| `[BlackRabbit] My Hero Academia (2016) - S02 [Bluray-1080p][Opus 2.0...` | **7321.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/616541) • [🐱 Nyaa](https://nekobt.to/torrents/11817116395020) |
+| `Zombie Land Saga Yumeginga Paradise 2025 1080p AMZN WEB-DL DUAL DDP...` | **5120.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616540) • [🐱 Nyaa](https://nyaa.si/view/2123149) |
+| `[ToonsHub] Zombie Land Saga Yumeginga Paradise (2025) 1080p AMZN WE...` | **5120.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616539) • [🐱 Nyaa](https://nyaa.si/view/2123147) |
 | `[Gecko] Spicy Girl - S01 (麻辣女配; Ma La Nu Pei) [VIKI.WEB-DL 1080P AV...` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616537) • [🐱 Nyaa](https://nyaa.si/view/2123146) |
 | `The Ramparts of Ice S01E11 1080p DSNP WEB-DL DUAL DDP2.0 H.264-ppkhoa` | **891.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616538) • [🐱 Nyaa](https://nekobt.to/torrents/11815892984320) |
 | `[ToonsHub] Miss Kobayashi's Dragon Maid: A lonely dragon wants to b...` | **6246.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616533) • [🐱 Nyaa](https://nyaa.si/view/2123139) |
-| `[ToonsHub] Zombie Land Saga Yumeginga Paradise (2025) 1080p CR WEB-...` | **7065.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616534) • [🐱 Nyaa](https://nyaa.si/view/2123138) |
-| `[Gecko] Koala's Diary - S01E37 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **70.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616535) • [🐱 Nyaa](https://nyaa.si/view/2123137) |
-| `[Gecko] Monster Eater - S01E12 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～; Mamonogu...` | **418.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/616532) • [🐱 Nyaa](https://nekobt.to/torrents/11814831623431) |
-| `[Gecko] Kujima Why Sing, When You Can Warble - S01E11 (クジマ歌えば家ほろろ; ...` | **693.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616531) • [🐱 Nyaa](https://nekobt.to/torrents/11814552779019) |
-| `[ASW] Hitori no Shita - The Outcast S6 - 25 [1080p HEVC x265 10Bit]...` | **373.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616530) • [🐱 Nyaa](https://nyaa.si/view/2123130) |
-| `[ToonsHub] The Outcast S06E25 1080p CR WEB-DL AAC2.0 H.264 (Yi Ren ...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616523) • [🐱 Nyaa](https://nyaa.si/view/2123128) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 - 25 (1080p) [615775E...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616524) • [🐱 Nyaa](https://nyaa.si/view/2123126) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 25 (CA) [1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616529) • [🐱 Nyaa](https://nyaa.si/view/2123118) |
-| `Tiger and Bunny S02 MULTi 1080p NF WEB-DL DDP5.1 x264-Tsundere-Raws...` | **27790.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/616521) • [🐱 Nyaa](https://nekobt.to/torrents/11812991369999) |
-| `Tiger and Bunny S02 MULTi 1080p NF WEB-DL DDP5.1 H.265-Tsundere-Raw...` | **9816.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/616522) • [🐱 Nyaa](https://nekobt.to/torrents/11812767303182) |
-| `Tiger and Bunny S01 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws...` | **24286.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/616519) • [🐱 Nyaa](https://nekobt.to/torrents/11812678636042) |
-| `Tiger and Bunny S02 MULTi 1080p NF WEB-DL DDP5.1 AV1-Tsundere-Raws ...` | **9473.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/616520) • [🐱 Nyaa](https://nekobt.to/torrents/11812613664521) |
 
 ---
 <div align="center">
