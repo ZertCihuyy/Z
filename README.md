@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.10.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.26.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,21 +29,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[DKB] Mata Korosarete Shimatta no desu ne, Tantei-sama - S01E12 [10...` | **337.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616510) • [🐱 Nyaa](https://nyaa.si/view/2123099) |
-| `[DKB] Haibara-kun no Tsuyokute Seishun New Game - S01E12 [1080p][EN...` | **271.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616508) • [🐱 Nyaa](https://nyaa.si/view/2123098) |
-| `[DKB] Reincarnation no Kaben - S01E12 [1080p][HEVC x265 10bit][weekly]` | **532.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616509) • [🐱 Nyaa](https://nyaa.si/view/2123097) |
-| `[FrixySubs] MARRIAGETOXIN - S01E11 [1080p CR WEB-DL H.264 AAC] [Nap...` | **1389.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/616507) • [🐱 Nyaa](https://nekobt.to/torrents/11809645108232) |
-| `[Erai-raws] Awajima Hyakkei - 11 [1080p CR WEBRip HEVC AAC][MultiSu...` | **378.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616505) • [🐱 Nyaa](https://nyaa.si/view/2123093) |
-| `[kikuri] Otaku ni Yasashii Gal wa Inai!? - 11 (WEB 1080p HEVC AAC) ...` | **448.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/616504) • [🐱 Nyaa](https://nekobt.to/torrents/11808013721090) |
-| `[Erai-raws] Mata Korosarete Shimatta no desu ne, Tantei-sama - 12 [...` | **523.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616503) • [🐱 Nyaa](https://nyaa.si/view/2123090) |
-| `[DKB] Koori no Jouheki - S01E12 [1080p][HEVC x265 10bit][Dual-Audio...` | **289.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616501) • [🐱 Nyaa](https://nyaa.si/view/2123081) |
-| `[ToonsHub] Kujima Why Sing When You Can Warble S01E11 1080p CR WEB-...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616502) • [🐱 Nyaa](https://nyaa.si/view/2123078) |
-| `[SubsPlus+] Petals of Reincarnation - S01E12 (AMZN WEB-DL 1080p AVC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616499) • [🐱 Nyaa](https://nyaa.si/view/2123069) |
-| `[Erai-raws] Haibara-kun no Tsuyokute Seishun New Game - 12 [1080p C...` | **364.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616500) • [🐱 Nyaa](https://nyaa.si/view/2123067) |
-| `[Onalrie] Mata Korosarete Shimatta no desu ne, Tantei-sama - S01E12...` | **206.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/616498) • [🐱 Nyaa](https://nekobt.to/torrents/11806637104389) |
-| `[SubsPlus+] Kirio Fan Club - S01E12 (ABEMA WEB-DL 1080p AVC EAC3) |...` | **718.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616497) • [🐱 Nyaa](https://nyaa.si/view/2123066) |
-| `Kirio Fan Club S01E12 Kirio Fan Club 1080p ABMA WEB-DL DDP2.0 H 264...` | **719.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616485) • [🐱 Nyaa](https://nyaa.si/view/2123065) |
-| `Monster Eater S01E12 1080p AMZN WEB-DL DDP2.0 H 264-VARYG (Mamonogu...` | **653.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616486) • [🐱 Nyaa](https://nyaa.si/view/2123064) |
+| `[Gecko] Spicy Girl - S01 (麻辣女配; Ma La Nu Pei) [VIKI.WEB-DL 1080P AV...` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616537) • [🐱 Nyaa](https://nyaa.si/view/2123146) |
+| `The Ramparts of Ice S01E11 1080p DSNP WEB-DL DUAL DDP2.0 H.264-ppkhoa` | **891.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616538) • [🐱 Nyaa](https://nekobt.to/torrents/11815892984320) |
+| `[ToonsHub] Miss Kobayashi's Dragon Maid: A lonely dragon wants to b...` | **6246.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616533) • [🐱 Nyaa](https://nyaa.si/view/2123139) |
+| `[ToonsHub] Zombie Land Saga Yumeginga Paradise (2025) 1080p CR WEB-...` | **7065.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616534) • [🐱 Nyaa](https://nyaa.si/view/2123138) |
+| `[Gecko] Koala's Diary - S01E37 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **70.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616535) • [🐱 Nyaa](https://nyaa.si/view/2123137) |
+| `[Gecko] Monster Eater - S01E12 (魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～; Mamonogu...` | **418.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/616532) • [🐱 Nyaa](https://nekobt.to/torrents/11814831623431) |
+| `[Gecko] Kujima Why Sing, When You Can Warble - S01E11 (クジマ歌えば家ほろろ; ...` | **693.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616531) • [🐱 Nyaa](https://nekobt.to/torrents/11814552779019) |
+| `[ASW] Hitori no Shita - The Outcast S6 - 25 [1080p HEVC x265 10Bit]...` | **373.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616530) • [🐱 Nyaa](https://nyaa.si/view/2123130) |
+| `[ToonsHub] The Outcast S06E25 1080p CR WEB-DL AAC2.0 H.264 (Yi Ren ...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616523) • [🐱 Nyaa](https://nyaa.si/view/2123128) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 25 (1080p) [615775E...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616524) • [🐱 Nyaa](https://nyaa.si/view/2123126) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 25 (CA) [1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616529) • [🐱 Nyaa](https://nyaa.si/view/2123118) |
+| `Tiger and Bunny S02 MULTi 1080p NF WEB-DL DDP5.1 x264-Tsundere-Raws...` | **27790.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/616521) • [🐱 Nyaa](https://nekobt.to/torrents/11812991369999) |
+| `Tiger and Bunny S02 MULTi 1080p NF WEB-DL DDP5.1 H.265-Tsundere-Raw...` | **9816.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/616522) • [🐱 Nyaa](https://nekobt.to/torrents/11812767303182) |
+| `Tiger and Bunny S01 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws...` | **24286.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/616519) • [🐱 Nyaa](https://nekobt.to/torrents/11812678636042) |
+| `Tiger and Bunny S02 MULTi 1080p NF WEB-DL DDP5.1 AV1-Tsundere-Raws ...` | **9473.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/616520) • [🐱 Nyaa](https://nekobt.to/torrents/11812613664521) |
 
 ---
 <div align="center">
