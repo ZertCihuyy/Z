@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.03.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.49.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,21 +29,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlease] Given - 10th Mix (1080p) [684D2C85].mkv` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616552) • [🐱 Nyaa](https://nyaa.si/view/2123170) |
-| `[SubsPlease] Kobayashi-san Chi no Maid Dragon - Samishigariya no Ry...` | **6041.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616555) • [🐱 Nyaa](https://nyaa.si/view/2123167) |
-| `[FrixySubs] Dr. STONE - S04E35 [1080p CR WEB-DL H.264 AAC] [Napisy ...` | **1397.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/616548) • [🐱 Nyaa](https://nekobt.to/torrents/11819184463877) |
-| `[SubsNoJutsu] Witch Hat Atelier - S01E07 (1080p WEB AAC x265)` | **383.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/616549) • [🐱 Nyaa](https://nekobt.to/torrents/11819046735620) |
-| `[SubsNoJutsu] Witch Hat Atelier - S01E06 (1080p WEB AAC x265)` | **359.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/616547) • [🐱 Nyaa](https://nekobt.to/torrents/11818985920004) |
-| `[ToonsHub] Mistress Kanan is Devilishly Easy S01E10 1080p LIV WEB-D...` | **302.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/616544) • [🐱 Nyaa](https://nekobt.to/torrents/11818442783747) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E10 1080p LIV WEB-DL DUAL...` | **310.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616543) • [🐱 Nyaa](https://nyaa.si/view/2123154) |
-| `[Onalrie] Hitori no Shita - The Outcast - S06E25 [1080p WEBRip AV1]` | **237.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/616545) • [🐱 Nyaa](https://nekobt.to/torrents/11818352614157) |
-| `[Gecko] Sweet Bite Marks - S01 (甜美的咬痕; Tianmei de Yaohen) [VIKI.WEB...` | **923.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/616542) • [🐱 Nyaa](https://nekobt.to/torrents/11817935948034) |
-| `[BlackRabbit] My Hero Academia (2016) - S02 [Bluray-1080p][Opus 2.0...` | **7321.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/616541) • [🐱 Nyaa](https://nekobt.to/torrents/11817116395020) |
-| `Zombie Land Saga Yumeginga Paradise 2025 1080p AMZN WEB-DL DUAL DDP...` | **5120.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616540) • [🐱 Nyaa](https://nyaa.si/view/2123149) |
-| `[ToonsHub] Zombie Land Saga Yumeginga Paradise (2025) 1080p AMZN WE...` | **5120.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616539) • [🐱 Nyaa](https://nyaa.si/view/2123147) |
-| `[Gecko] Spicy Girl - S01 (麻辣女配; Ma La Nu Pei) [VIKI.WEB-DL 1080P AV...` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616537) • [🐱 Nyaa](https://nyaa.si/view/2123146) |
-| `The Ramparts of Ice S01E11 1080p DSNP WEB-DL DUAL DDP2.0 H.264-ppkhoa` | **891.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616538) • [🐱 Nyaa](https://nekobt.to/torrents/11815892984320) |
-| `[ToonsHub] Miss Kobayashi's Dragon Maid: A lonely dragon wants to b...` | **6246.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616533) • [🐱 Nyaa](https://nyaa.si/view/2123139) |
+| `[Onalrie] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. -...` | **232.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/616593) • [🐱 Nyaa](https://onalrie.app/torrent/f365519c-0e9b-4621-9aaa-03e7573ff2eb) |
+| `[Yameii] An Observation Log of My Fiancée Who Calls Herself a Villa...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616580) • [🐱 Nyaa](https://nyaa.si/view/2123213) |
+| `An Observation Log of My Fiancee Who Calls Herself a Villainess S01...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616581) • [🐱 Nyaa](https://nyaa.si/view/2123212) |
+| `An Observation Log of My Fiancee Who Calls Herself a Villainess S01...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616582) • [🐱 Nyaa](https://nyaa.si/view/2123211) |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Herself a Vil...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616584) • [🐱 Nyaa](https://nyaa.si/view/2123209) |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Herself a Vil...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616585) • [🐱 Nyaa](https://nyaa.si/view/2123208) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616586) • [🐱 Nyaa](https://nyaa.si/view/2123206) |
+| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616590) • [🐱 Nyaa](https://nyaa.si/view/2123201) |
+| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E10 (82) [1080p CR ...` | **1403.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/616592) • [🐱 Nyaa](https://nekobt.to/torrents/11823204088069) |
+| `The Outcast S06E25 1080p CR WEB-DL AAC2.0 H 264-VARYG (Yi Ren Zhi X...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616579) • [🐱 Nyaa](https://nyaa.si/view/2123199) |
+| `[Erai-raws] Given - 10th mix [1080p CR WEB-DL AVC AAC][MultiSub][84...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616571) • [🐱 Nyaa](https://nyaa.si/view/2123196) |
+| `[SubsPlease] Niwatori Fighter (01-12) (1080p) [Batch]` | **16691.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616572) • [🐱 Nyaa](https://nyaa.si/view/2123194) |
+| `[Erai-raws] Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu...` | **6144.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616577) • [🐱 Nyaa](https://nyaa.si/view/2123189) |
+| `[BlackRabbit] Possibly the Greatest Alchemist of All Time (2025) - ...` | **1816.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/616578) • [🐱 Nyaa](https://nekobt.to/torrents/11822447368964) |
+| `[Erai-raws] Baki-dou - 14 ~ 25 [1080p NF WEBRip HEVC EAC3][MultiSub...` | **8089.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616568) • [🐱 Nyaa](https://nyaa.si/view/2123188) |
 
 ---
 <div align="center">
