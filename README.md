@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.49.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.33.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,21 +29,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. -...` | **232.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/616593) • [🐱 Nyaa](https://onalrie.app/torrent/f365519c-0e9b-4621-9aaa-03e7573ff2eb) |
-| `[Yameii] An Observation Log of My Fiancée Who Calls Herself a Villa...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616580) • [🐱 Nyaa](https://nyaa.si/view/2123213) |
-| `An Observation Log of My Fiancee Who Calls Herself a Villainess S01...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616581) • [🐱 Nyaa](https://nyaa.si/view/2123212) |
-| `An Observation Log of My Fiancee Who Calls Herself a Villainess S01...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616582) • [🐱 Nyaa](https://nyaa.si/view/2123211) |
-| `[ToonsHub] An Observation Log of My Fiancee Who Calls Herself a Vil...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616584) • [🐱 Nyaa](https://nyaa.si/view/2123209) |
-| `[ToonsHub] An Observation Log of My Fiancee Who Calls Herself a Vil...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616585) • [🐱 Nyaa](https://nyaa.si/view/2123208) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616586) • [🐱 Nyaa](https://nyaa.si/view/2123206) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616590) • [🐱 Nyaa](https://nyaa.si/view/2123201) |
-| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E10 (82) [1080p CR ...` | **1403.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/616592) • [🐱 Nyaa](https://nekobt.to/torrents/11823204088069) |
-| `The Outcast S06E25 1080p CR WEB-DL AAC2.0 H 264-VARYG (Yi Ren Zhi X...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616579) • [🐱 Nyaa](https://nyaa.si/view/2123199) |
-| `[Erai-raws] Given - 10th mix [1080p CR WEB-DL AVC AAC][MultiSub][84...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616571) • [🐱 Nyaa](https://nyaa.si/view/2123196) |
-| `[SubsPlease] Niwatori Fighter (01-12) (1080p) [Batch]` | **16691.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616572) • [🐱 Nyaa](https://nyaa.si/view/2123194) |
-| `[Erai-raws] Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu...` | **6144.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616577) • [🐱 Nyaa](https://nyaa.si/view/2123189) |
-| `[BlackRabbit] Possibly the Greatest Alchemist of All Time (2025) - ...` | **1816.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/616578) • [🐱 Nyaa](https://nekobt.to/torrents/11822447368964) |
-| `[Erai-raws] Baki-dou - 14 ~ 25 [1080p NF WEBRip HEVC EAC3][MultiSub...` | **8089.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616568) • [🐱 Nyaa](https://nyaa.si/view/2123188) |
+| `[Onalrie] Snowball Earth - S01E12 [1080p WEBRip AV1]` | **203.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/616674) • [🐱 Nyaa](https://onalrie.app/torrent/9fe0bb27-db29-4c29-8e05-20032bf404bd) |
+| `[VARYG] Snowball Earth S01E12 A Calm And Gentle World 1080p DSNP WE...` | **842.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/616669) • [🐱 Nyaa](https://nekobt.to/torrents/11826339362052) |
+| `[Erai-raws] Hokuto no Ken (2026) - 13 [1080p AMZN WEB-DL AVC EAC3][...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616639) • [🐱 Nyaa](https://nyaa.si/view/2123340) |
+| `[Judas] Tensei Shitara Slime Datta Ken (That Time I Got Reincarnate...` | **410.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616640) • [🐱 Nyaa](https://nyaa.si/view/2123339) |
+| `Fist of the North Star HOKUTO NO KEN S01E13 MULTi 1080p AMZN WEB-DL...` | **652.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/616670) • [🐱 Nyaa](https://nekobt.to/torrents/11826090230543) |
+| `Fist of the North Star HOKUTO NO KEN S01E13 MULTi 1080p AMZN WEB-DL...` | **1730.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/616671) • [🐱 Nyaa](https://nekobt.to/torrents/11826076283397) |
+| `Fist of the North Star HOKUTO NO KEN S01E13 MULTi 1080p AMZN WEB-DL...` | **484.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616672) • [🐱 Nyaa](https://nekobt.to/torrents/11826061319951) |
+| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E13 1080p AMZN W...` | **2048.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616641) • [🐱 Nyaa](https://nyaa.si/view/2123335) |
+| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E13 1080p AMZN W...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616642) • [🐱 Nyaa](https://nyaa.si/view/2123334) |
+| `[ASW] Zombieland Saga Movie - Yumeginga Paradise [1080p HEVC x265 1...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616643) • [🐱 Nyaa](https://nyaa.si/view/2123333) |
+| `[Kosaka] That Time I Got Reincarnated as a Slime - 83 (WEBRip 1080p...` | **352.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/616673) • [🐱 Nyaa](https://nekobt.to/torrents/11826000710158) |
+| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E13 1080p AMZN W...` | **652.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616644) • [🐱 Nyaa](https://nyaa.si/view/2123332) |
+| `[Kekkan] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. (W...` | **4710.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616645) • [🐱 Nyaa](https://nyaa.si/view/2123331) |
+| `[Trix] The Drops of God S01E11 [WEBRip 1080p AV1 Opus] (Multi Subs,...` | **236.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616646) • [🐱 Nyaa](https://nyaa.si/view/2123330) |
+| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E11 [1080p WEBRip AV1]` | **257.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/616675) • [🐱 Nyaa](https://onalrie.app/torrent/ffe0f4a4-3530-4e3e-9a47-b8c2d7766213) |
 
 ---
 <div align="center">
