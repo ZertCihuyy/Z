@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.16.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.45.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Kami no Shizuku - 11 [1080p CR WEBRip HEVC AAC][MultiSu...` | **391.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/616721) • [🐱 Nyaa](https://nekobt.to/torrents/11831053677313) |
+| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni S...` | **258.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/616720) • [🐱 Nyaa](https://nekobt.to/torrents/11830301479182) |
 | `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku ...` | **493.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616718) • [🐱 Nyaa](https://nyaa.si/view/2123408) |
 | `[Pi13] Blades of the Guardians Season 1 (BD 1080p AV1 10-bit Opus) ...` | **5324.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616719) • [🐱 Nyaa](https://nyaa.si/view/2123406) |
 | `[nnotaclue] Dr. STONE - S04E36 [1080p AV1 Opus 2.0 Dual-Audio Engli...` | **448.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/616715) • [🐱 Nyaa](https://nekobt.to/torrents/11828928384264) |
@@ -46,8 +48,6 @@
 | `[ASW] Tensei Shitara Slime Datta Ken S4 - 11 [1080p HEVC x265 10Bit...` | **395.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616705) • [🐱 Nyaa](https://nyaa.si/view/2123384) |
 | `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S01E13 [108...` | **456.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616702) • [🐱 Nyaa](https://nyaa.si/view/2123382) |
 | `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 11 [1080p HEVC ...` | **173.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616703) • [🐱 Nyaa](https://nyaa.si/view/2123380) |
-| `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E11 [108...` | **145.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/616704) • [🐱 Nyaa](https://nekobt.to/torrents/11827333083145) |
-| `[ASW] Kami no Shizuku - 11 [1080p HEVC x265 10Bit][AAC]` | **215.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616701) • [🐱 Nyaa](https://nyaa.si/view/2123373) |
 
 ---
 <div align="center">
