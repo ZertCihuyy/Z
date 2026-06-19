@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.45.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.02.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 11 [1080p...` | **359.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/616723) • [🐱 Nyaa](https://nekobt.to/torrents/11831781480450) |
+| `[Piyoko] Onegai AiPri - 11 [WEB AMZN 1080p h264 AC3 2.0]` | **982.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616722) • [🐱 Nyaa](https://nyaa.si/view/2123430) |
 | `[Erai-raws] Kami no Shizuku - 11 [1080p CR WEBRip HEVC AAC][MultiSu...` | **391.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/616721) • [🐱 Nyaa](https://nekobt.to/torrents/11831053677313) |
 | `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni S...` | **258.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/616720) • [🐱 Nyaa](https://nekobt.to/torrents/11830301479182) |
 | `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku ...` | **493.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616718) • [🐱 Nyaa](https://nyaa.si/view/2123408) |
@@ -46,8 +48,6 @@
 | `[Erai-raws] Zombie Land Saga: Yumeginga Paradise - Movie [1080p CR ...` | **3174.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616706) • [🐱 Nyaa](https://nyaa.si/view/2123388) |
 | `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina ...` | **179.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616707) • [🐱 Nyaa](https://nyaa.si/view/2123387) |
 | `[ASW] Tensei Shitara Slime Datta Ken S4 - 11 [1080p HEVC x265 10Bit...` | **395.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616705) • [🐱 Nyaa](https://nyaa.si/view/2123384) |
-| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S01E13 [108...` | **456.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616702) • [🐱 Nyaa](https://nyaa.si/view/2123382) |
-| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 11 [1080p HEVC ...` | **173.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616703) • [🐱 Nyaa](https://nyaa.si/view/2123380) |
 
 ---
 <div align="center">
