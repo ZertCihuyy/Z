@@ -1,5 +1,5 @@
 {
-  "last_update": "20/6/2026, 18.43.44",
+  "last_update": "20/6/2026, 20.14.36",
   "hari": "Sabtu",
   "data": [
     {
@@ -175,6 +175,23 @@
       }
     },
     {
+      "airingAt": 1781949600,
+      "media": {
+        "id": 213356,
+        "title": {
+          "romaji": "Guangyin Zhi Wai 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
       "airingAt": 1781958600,
       "media": {
         "id": 185211,
@@ -237,24 +254,6 @@
           "Adventure",
           "Comedy",
           "Fantasy",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781966760,
-      "media": {
-        "id": 196012,
-        "title": {
-          "romaji": "MAO"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Romance",
           "Supernatural"
         ]
       }
