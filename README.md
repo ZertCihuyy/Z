@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.02.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.29.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 11 [1080p AMZN WEBRip H...` | **341.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616744) • [🐱 Nyaa](https://nekobt.to/torrents/11834535367937) |
+| `[ToonsHub] RILAKKUMA S01E12 1080p CR WEB-DL DUAL AAC2.0 H.264 (Rila...` | **91.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616736) • [🐱 Nyaa](https://nyaa.si/view/2123477) |
+| `RILAKKUMA S01E12 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Rilakkuma...` | **95.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616737) • [🐱 Nyaa](https://nyaa.si/view/2123476) |
+| `[SubsPlease] Rilakkuma - 12 (1080p) [8A849CA7].mkv` | **93.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616741) • [🐱 Nyaa](https://nyaa.si/view/2123469) |
+| `[Erai-raws] Rilakkuma - 12 [1080p CR WEB-DL AVC AAC][MultiSub][1F0C...` | **89.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616742) • [🐱 Nyaa](https://nyaa.si/view/2123468) |
+| `[Erai-raws] Snowball Earth - 12 [1080p CR WEBRip HEVC AAC][MultiSub...` | **323.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616733) • [🐱 Nyaa](https://nyaa.si/view/2123462) |
+| `Spice and Wolf MERCHANT MEETS THE WISE WOLF S01 MULTi 1080p CR WEB-...` | **35655.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/616735) • [🐱 Nyaa](https://nekobt.to/torrents/11833830117124) |
+| `[Chihiro] Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (Mu...` | **2457.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616734) • [🐱 Nyaa](https://nyaa.si/view/2123457) |
+| `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E11 (WEB 1080p AAC)` | **1470.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/616731) • [🐱 Nyaa](https://nekobt.to/torrents/11833642385672) |
+| `SNOWBALL EARTH S01E12 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H.264-Tsun...` | **821.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/616729) • [🐱 Nyaa](https://nekobt.to/torrents/11833507142663) |
+| `Dragon Ball Super Super Hero (2022) MULTi 1080p DSNP WEB-DL AAC2.0 ...` | **5120.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616730) • [🐱 Nyaa](https://nyaa.si/view/2123452) |
+| `[Erai-raws] Mahou no Shimai Lulutto Lilly - 11 [1080p AMZN WEB-DL A...` | **655.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616728) • [🐱 Nyaa](https://nyaa.si/view/2123449) |
+| `[Erai-raws] Hokuto no Ken (2026) - 13 [1080p AMZN WEBRip HEVC EAC3]...` | **831.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616725) • [🐱 Nyaa](https://nyaa.si/view/2123448) |
 | `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 11 [1080p...` | **359.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/616723) • [🐱 Nyaa](https://nekobt.to/torrents/11831781480450) |
 | `[Piyoko] Onegai AiPri - 11 [WEB AMZN 1080p h264 AC3 2.0]` | **982.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616722) • [🐱 Nyaa](https://nyaa.si/view/2123430) |
-| `[Erai-raws] Kami no Shizuku - 11 [1080p CR WEBRip HEVC AAC][MultiSu...` | **391.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/616721) • [🐱 Nyaa](https://nekobt.to/torrents/11831053677313) |
-| `[Erai-raws] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni S...` | **258.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/616720) • [🐱 Nyaa](https://nekobt.to/torrents/11830301479182) |
-| `[Erai-raws] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku ...` | **493.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616718) • [🐱 Nyaa](https://nyaa.si/view/2123408) |
-| `[Pi13] Blades of the Guardians Season 1 (BD 1080p AV1 10-bit Opus) ...` | **5324.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616719) • [🐱 Nyaa](https://nyaa.si/view/2123406) |
-| `[nnotaclue] Dr. STONE - S04E36 [1080p AV1 Opus 2.0 Dual-Audio Engli...` | **448.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/616715) • [🐱 Nyaa](https://nekobt.to/torrents/11828928384264) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 11 [1080p C...` | **689.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616712) • [🐱 Nyaa](https://nyaa.si/view/2123398) |
-| `[nnotaclue] Dr. STONE - S04E36 [1080p AV1 Opus 2.0 Multi-Audio Mult...` | **610.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/616716) • [🐱 Nyaa](https://nekobt.to/torrents/11828866929667) |
-| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E13 [WEB.108...` | **709.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616709) • [🐱 Nyaa](https://nyaa.si/view/2123395) |
-| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E11 [1080p][...` | **212.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616710) • [🐱 Nyaa](https://nyaa.si/view/2123394) |
-| `[MΔD MΔX] Nukitashi the Animation S01+OVAs (2025) [UNCENSORED] [108...` | **4468.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616708) • [🐱 Nyaa](https://nekobt.to/torrents/11828450602764) |
-| `[Erai-raws] Zombie Land Saga: Yumeginga Paradise - Movie [1080p CR ...` | **3174.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616706) • [🐱 Nyaa](https://nyaa.si/view/2123388) |
-| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina ...` | **179.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616707) • [🐱 Nyaa](https://nyaa.si/view/2123387) |
-| `[ASW] Tensei Shitara Slime Datta Ken S4 - 11 [1080p HEVC x265 10Bit...` | **395.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616705) • [🐱 Nyaa](https://nyaa.si/view/2123384) |
 
 ---
 <div align="center">
