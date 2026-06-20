@@ -1,5 +1,5 @@
 {
-  "last_update": "20/6/2026, 08.29.42",
+  "last_update": "20/6/2026, 12.59.27",
   "hari": "Sabtu",
   "data": [
     {
@@ -24,7 +24,7 @@
       "media": {
         "id": 183231,
         "title": {
-          "romaji": "Rilakkuma: Goyururi Yume no Tabi"
+          "romaji": "Rilakkuma"
         },
         "coverImage": {
           "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
@@ -65,6 +65,26 @@
           "Adventure",
           "Fantasy",
           "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1781924400,
+      "media": {
+        "id": 199448,
+        "title": {
+          "romaji": "Guimi Zhi Zhu Specials"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199448-BuqzEdkuPSEm.png"
+        },
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Mystery",
+          "Supernatural",
+          "Thriller"
         ]
       }
     },
@@ -236,23 +256,6 @@
           "Mystery",
           "Romance",
           "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781967600,
-      "media": {
-        "id": 190143,
-        "title": {
-          "romaji": "Shunkashuutou Daikousha: Haru no Mai"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Romance"
         ]
       }
     }
