@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.03.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.46.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Akane-banashi - 12 [1080p NF WEBRip HEVC AAC][MultiSub]...` | **413.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/616933) • [🐱 Nyaa](https://nekobt.to/torrents/11848848142853) |
-| `[Onalrie] Yomi no Tsugai - S01E12 [1080p WEBRip AV1]` | **297.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616934) • [🐱 Nyaa](https://nekobt.to/torrents/11848803639564) |
-| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01E10 1080p ...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616907) • [🐱 Nyaa](https://nyaa.si/view/2123805) |
-| `[Yameii] Agents of the Four Seasons: Dance of Spring - S01E11 [Engl...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616908) • [🐱 Nyaa](https://nyaa.si/view/2123804) |
-| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01E11 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616909) • [🐱 Nyaa](https://nyaa.si/view/2123795) |
-| `[ToonsHub] Kusunokis Garden of Gods S01E12 1080p CR WEB-DL AAC2.0 H...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616910) • [🐱 Nyaa](https://nyaa.si/view/2123794) |
-| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01E13 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616911) • [🐱 Nyaa](https://nyaa.si/view/2123793) |
-| `Agents of the Four Seasons Dance of Spring S01E11 Impatience 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616913) • [🐱 Nyaa](https://nyaa.si/view/2123791) |
-| `Agents of the Four Seasons Dance of Spring S01E13 1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616914) • [🐱 Nyaa](https://nyaa.si/view/2123790) |
-| `Kusunokis Garden of Gods S01E12 1080p CR WEB-DL AAC2.0 H 264-VARYG ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616915) • [🐱 Nyaa](https://nyaa.si/view/2123788) |
-| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01E13 1080p ...` | **251.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616916) • [🐱 Nyaa](https://nyaa.si/view/2123785) |
-| `[Trix] Mistress Kanan is Devilishly Easy S01E12 [WEBRip 1080p AV1 O...` | **290.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616917) • [🐱 Nyaa](https://nyaa.si/view/2123784) |
-| `[ToonsHub] Kusunokis Garden of Gods S01E12 1080p BILI WEB-DL AAC2.0...` | **275.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616918) • [🐱 Nyaa](https://nyaa.si/view/2123783) |
-| `[SubsPlease] Shunkashuutou Daikousha - Haru no Mai - 13 (1080p) [FC...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616920) • [🐱 Nyaa](https://nyaa.si/view/2123781) |
-| `Kusunokis Garden of Gods S01E12 Kusunokis Garden of Gods 1080p BILI...` | **306.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616921) • [🐱 Nyaa](https://nyaa.si/view/2123780) |
+| `[BlackRabbit] Vision of Escaflowne (1996) - S01 [Bluray-1080p][Opus...` | **5295.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/616988) • [🐱 Nyaa](https://nekobt.to/torrents/11850581680902) |
+| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E13 [1080p WEB...` | **182.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616989) • [🐱 Nyaa](https://nekobt.to/torrents/11850436501513) |
+| `[Ironclad] Yomi no Tsugai - S01E12 [WEB.1080p.AV1] | Daemons of the...` | **465.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616980) • [🐱 Nyaa](https://nyaa.si/view/2123872) |
+| `[ToonsHub] Akane-Banashi S01E07 1080p NF WEB-DL MULTi AAC2.0 H.264 ...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616981) • [🐱 Nyaa](https://nyaa.si/view/2123871) |
+| `[ToonsHub] Akane-Banashi S01E07 1080p NF WEB-DL DUAL AAC2.0 H.264 (...` | **930.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616982) • [🐱 Nyaa](https://nyaa.si/view/2123869) |
+| `[ToonsHub] KILL BLUE S01E11 1080p NF WEB-DL AAC2.0 H.264 (Kill Ao, ...` | **866.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616983) • [🐱 Nyaa](https://nyaa.si/view/2123868) |
+| `[ToonsHub] The Great Sage Ryddel and the Hands of Time S01E12 1080p...` | **297.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616984) • [🐱 Nyaa](https://nyaa.si/view/2123867) |
+| `[ToonsHub] Ichijyoma Mankitsu Gurashi S01E11 1080p AMZN WEB-DL DDP2...` | **875.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616985) • [🐱 Nyaa](https://nyaa.si/view/2123865) |
+| `[ToonsHub] Scum of the Brave S01E23 1080p CR WEB-DL AAC2.0 H.264 (Y...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616986) • [🐱 Nyaa](https://nyaa.si/view/2123864) |
+| `[ASW] Kami no Niwatsuki Kusunoki-tei - 12 [1080p HEVC x265 10Bit][AAC]` | **253.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616987) • [🐱 Nyaa](https://nyaa.si/view/2123862) |
+| `[ASW] Shunkashuutou Daikousha - Haru no Mai - 13 [1080p HEVC x265 1...` | **255.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616975) • [🐱 Nyaa](https://nyaa.si/view/2123861) |
+| `[Onalrie] Kami no Niwatsuki Kusunoki-tei - S01E12 [1080p WEBRip AV1]` | **205.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/616979) • [🐱 Nyaa](https://nekobt.to/torrents/11849998207493) |
+| `[Erai-raws] Akane-banashi - 07 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **364.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616976) • [🐱 Nyaa](https://nyaa.si/view/2123860) |
+| `Ichijyoma Mankitsu Gurashi S01E11 Manga Cafe Hedgehog 1080p AMZN WE...` | **880.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616969) • [🐱 Nyaa](https://nyaa.si/view/2123856) |
+| `Agents of the Four Seasons Dance of Spring S01E08 Spring Rain 1080p...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616970) • [🐱 Nyaa](https://nyaa.si/view/2123855) |
 
 ---
 <div align="center">
