@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.59.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.32.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Die, Please! - S01 (부탁이니 죽어주라; Butagini Jugeojura) [VIKI.WE...` | **346.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616779) • [🐱 Nyaa](https://nyaa.si/view/2123537) |
+| `[SubsNoJutsu] Witch Hat Atelier - S01E08 (1080p WEB AAC x265)` | **321.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/616780) • [🐱 Nyaa](https://nekobt.to/torrents/11841520973835) |
+| `KILL BLUE S01E09 The Impossible Aftermath of an Impossible Game 108...` | **964.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616777) • [🐱 Nyaa](https://nyaa.si/view/2123536) |
+| `[Onalrie] Lord of Mysteries - Specials - S01E01 [1080p WEBRip AV1]` | **172.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/616776) • [🐱 Nyaa](https://onalrie.app/torrent/d41d6d44-fb9d-4d81-8d0f-07e8d851a922) |
+| `Zombie Land Saga Yumeginga Paradise 2025 1080p CR WEB-DL DUAL AAC2....` | **7270.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616775) • [🐱 Nyaa](https://nyaa.si/view/2123532) |
+| `[ToonsHub] Zombie Land Saga Yumeginga Paradise (2025) 1080p CR WEB-...` | **7270.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616774) • [🐱 Nyaa](https://nyaa.si/view/2123528) |
+| `[Onalrie] Rilakkuma - S01E12 [1080p WEBRip AV1]` | **22.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/616773) • [🐱 Nyaa](https://nekobt.to/torrents/11840322013448) |
+| `Dorohedoro S02 1080p NF WEB-DL MULTi DDP5.1 H 264-VARYG (Multi-Audi...` | **21913.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616771) • [🐱 Nyaa](https://nyaa.si/view/2123527) |
+| `Dorohedoro S02 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Multi-Audi...` | **18841.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616772) • [🐱 Nyaa](https://nyaa.si/view/2123526) |
+| `[Some-Stuffs] Pocket Monsters (2023) - Pokémon Unite Special Anime ...` | **6.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616770) • [🐱 Nyaa](https://nyaa.si/view/2123523) |
 | `As.a.Reincarnated.Aristocrat.I'll.Use.My.Appraisal.Skill.to.Rise.in...` | **18124.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616768) • [🐱 Nyaa](https://nyaa.si/view/2123521) |
 | `[DemiHuman] Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to ...` | **9523.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616769) • [🐱 Nyaa](https://nyaa.si/view/2123520) |
 | `[FoundYears] The Warrior Princess and the Barbaric King - S01E09 (C...` | **1445.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/616766) • [🐱 Nyaa](https://nekobt.to/torrents/11837910200071) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime - S04E09 (WEB ...` | **1468.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/616767) • [🐱 Nyaa](https://nekobt.to/torrents/11837849110789) |
 | `[Some-Stuffs] Pocket Monsters (2023) 141 (1080p HEVC 10-bit) [3A76E...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616764) • [🐱 Nyaa](https://nyaa.si/view/2123519) |
-| `[Some-Stuffs] Pocket Monsters (2023) 141 (1080p) [F081AD31]` | **688.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616765) • [🐱 Nyaa](https://nyaa.si/view/2123518) |
-| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 10 [1080p][YT]` | **310.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616763) • [🐱 Nyaa](https://nyaa.si/view/2123517) |
-| `RILAKKUMA S01E12 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Multi-Au...` | **99.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616761) • [🐱 Nyaa](https://nyaa.si/view/2123516) |
-| `[ToonsHub] Jiang Ye S01E10 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **454.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616762) • [🐱 Nyaa](https://nyaa.si/view/2123515) |
-| `[BlackRabbit] My Hero Academia (2016) - S03 [Bluray-1080p][Opus 2.0...` | **7210.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/616760) • [🐱 Nyaa](https://nekobt.to/torrents/11836730450694) |
-| `[NVN] Witch Hat Atelier - S01E12 [WEBRip HEVC 1080p] [Sub. Español]` | **2536.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/616759) • [🐱 Nyaa](https://nekobt.to/torrents/11836574993665) |
-| `[ASW] Lord of Mysteries - Specials - 01 [1080p HEVC x265 10Bit][AAC]` | **271.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616758) • [🐱 Nyaa](https://nyaa.si/view/2123505) |
-| `[Erai-raws] Lord of Mysteries - Special 01 [1080p CR WEB-DL AVC AAC...` | **1024.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616754) • [🐱 Nyaa](https://nyaa.si/view/2123499) |
-| `[SubsPlease] Lord of Mysteries - Specials - 01 (1080p) [6D526A6D].mkv` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616755) • [🐱 Nyaa](https://nyaa.si/view/2123498) |
-| `[Erai-raws] Given - 10th mix [1080p CR WEBRip HEVC AAC][MultiSub][1...` | **210.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616750) • [🐱 Nyaa](https://nyaa.si/view/2123495) |
 
 ---
 <div align="center">
