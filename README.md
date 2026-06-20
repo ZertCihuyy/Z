@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.46.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.18.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[BlackRabbit] Vision of Escaflowne (1996) - S01 [Bluray-1080p][Opus...` | **5295.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/616988) • [🐱 Nyaa](https://nekobt.to/torrents/11850581680902) |
-| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E13 [1080p WEB...` | **182.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616989) • [🐱 Nyaa](https://nekobt.to/torrents/11850436501513) |
-| `[Ironclad] Yomi no Tsugai - S01E12 [WEB.1080p.AV1] | Daemons of the...` | **465.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616980) • [🐱 Nyaa](https://nyaa.si/view/2123872) |
-| `[ToonsHub] Akane-Banashi S01E07 1080p NF WEB-DL MULTi AAC2.0 H.264 ...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616981) • [🐱 Nyaa](https://nyaa.si/view/2123871) |
-| `[ToonsHub] Akane-Banashi S01E07 1080p NF WEB-DL DUAL AAC2.0 H.264 (...` | **930.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616982) • [🐱 Nyaa](https://nyaa.si/view/2123869) |
-| `[ToonsHub] KILL BLUE S01E11 1080p NF WEB-DL AAC2.0 H.264 (Kill Ao, ...` | **866.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616983) • [🐱 Nyaa](https://nyaa.si/view/2123868) |
-| `[ToonsHub] The Great Sage Ryddel and the Hands of Time S01E12 1080p...` | **297.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/616984) • [🐱 Nyaa](https://nyaa.si/view/2123867) |
-| `[ToonsHub] Ichijyoma Mankitsu Gurashi S01E11 1080p AMZN WEB-DL DDP2...` | **875.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616985) • [🐱 Nyaa](https://nyaa.si/view/2123865) |
-| `[ToonsHub] Scum of the Brave S01E23 1080p CR WEB-DL AAC2.0 H.264 (Y...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616986) • [🐱 Nyaa](https://nyaa.si/view/2123864) |
-| `[ASW] Kami no Niwatsuki Kusunoki-tei - 12 [1080p HEVC x265 10Bit][AAC]` | **253.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616987) • [🐱 Nyaa](https://nyaa.si/view/2123862) |
-| `[ASW] Shunkashuutou Daikousha - Haru no Mai - 13 [1080p HEVC x265 1...` | **255.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616975) • [🐱 Nyaa](https://nyaa.si/view/2123861) |
-| `[Onalrie] Kami no Niwatsuki Kusunoki-tei - S01E12 [1080p WEBRip AV1]` | **205.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/616979) • [🐱 Nyaa](https://nekobt.to/torrents/11849998207493) |
-| `[Erai-raws] Akane-banashi - 07 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **364.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616976) • [🐱 Nyaa](https://nyaa.si/view/2123860) |
-| `Ichijyoma Mankitsu Gurashi S01E11 Manga Cafe Hedgehog 1080p AMZN WE...` | **880.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616969) • [🐱 Nyaa](https://nyaa.si/view/2123856) |
-| `Agents of the Four Seasons Dance of Spring S01E08 Spring Rain 1080p...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616970) • [🐱 Nyaa](https://nyaa.si/view/2123855) |
+| `[Erai-raws] Needy Girl Overdose - 12 [1080p CR WEBRip HEVC AAC][Mul...` | **670.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617007) • [🐱 Nyaa](https://nyaa.si/view/2123888) |
+| `[Unfucked] NEEDY GIRL OVERDOSE - S01E12 (1080p CR WEB-DL AVC AAC 2.0)` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617008) • [🐱 Nyaa](https://nyaa.si/view/2123887) |
+| `[Unfucked] NEEDY GIRL OVERDOSE - S01E08 (1080p CR WEB-DL AVC AAC 2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617009) • [🐱 Nyaa](https://nyaa.si/view/2123886) |
+| `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S01E10 [1080...` | **576.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617005) • [🐱 Nyaa](https://nyaa.si/view/2123885) |
+| `[BlackRabbit] Please Teacher! (2002) - S00 [Bluray-1080p][Opus 2.0]...` | **144.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/617006) • [🐱 Nyaa](https://nekobt.to/torrents/11851493416707) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E12 1080p CR WEB-DL AAC2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617001) • [🐱 Nyaa](https://nyaa.si/view/2123884) |
+| `[BlackRabbit] Please Teacher! (2002) - S01 [Bluray-1080p][Opus 2.0]...` | **1712.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/617003) • [🐱 Nyaa](https://nekobt.to/torrents/11851353212936) |
+| `[Onalrie] Yuusha no Kuzu - S01E23 [1080p WEBRip AV1]` | **210.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/617004) • [🐱 Nyaa](https://nekobt.to/torrents/11851269482501) |
+| `[Gecko] Observing Elena Evoy - S01 (일레나 에보이 관찰일지; Elena Evoy Gwanch...` | **395.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617002) • [🐱 Nyaa](https://nyaa.si/view/2123883) |
+| `[DKB] Kanan-sama wa Akumade Choroi - S01E12 [1080p][END][HEVC x265 ...` | **352.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616997) • [🐱 Nyaa](https://nyaa.si/view/2123881) |
+| `[ASW] NEEDY GIRL OVERDOSE - 12 [1080p HEVC x265 10Bit][AAC]` | **499.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/616998) • [🐱 Nyaa](https://nyaa.si/view/2123880) |
+| `[DKB] Kill Ao - S01E11 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **418.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616999) • [🐱 Nyaa](https://nyaa.si/view/2123879) |
+| `[BlackRabbit] Vision of Escaflowne (1996) - S00 [Bluray-1080p][Opus...` | **1001.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/617000) • [🐱 Nyaa](https://nekobt.to/torrents/11850917756943) |
+| `[Onalrie] NEEDY GIRL OVERDOSE - S01E12 [1080p WEBRip AV1]` | **370.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/616996) • [🐱 Nyaa](https://nekobt.to/torrents/11850864493572) |
+| `[ToonsHub] Scum of the Brave S01E22 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **671.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616990) • [🐱 Nyaa](https://nyaa.si/view/2123878) |
 
 ---
 <div align="center">
