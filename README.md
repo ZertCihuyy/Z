@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.48.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.13.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `MAO S01E12 Water Sorcerer 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Mao...` | **950.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617017) • [🐱 Nyaa](https://nyaa.si/view/2123904) |
-| `[ToonsHub] MAO S01E12 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **950.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617013) • [🐱 Nyaa](https://nyaa.si/view/2123899) |
-| `KILL BLUE S01E11 SUBFRENCH 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **904.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617014) • [🐱 Nyaa](https://nekobt.to/torrents/11852817540614) |
-| `Akane banashi S01E07 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1010.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/617015) • [🐱 Nyaa](https://nekobt.to/torrents/11852812549121) |
-| `Akane banashi S01E07 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **264.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/617016) • [🐱 Nyaa](https://nekobt.to/torrents/11852806877189) |
-| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 13 [1080p CR WEB...` | **526.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/617012) • [🐱 Nyaa](https://nekobt.to/torrents/11852729364485) |
-| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly ...` | **314.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617011) • [🐱 Nyaa](https://nyaa.si/view/2123893) |
-| `[VARYG] Yowayowa Sensei S01E11 Strong and Sturdy Feelings 1080p ADN...` | **567.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/617010) • [🐱 Nyaa](https://nekobt.to/torrents/11852215983881) |
-| `[Erai-raws] Needy Girl Overdose - 12 [1080p CR WEBRip HEVC AAC][Mul...` | **670.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617007) • [🐱 Nyaa](https://nyaa.si/view/2123888) |
-| `[Unfucked] NEEDY GIRL OVERDOSE - S01E12 (1080p CR WEB-DL AVC AAC 2.0)` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617008) • [🐱 Nyaa](https://nyaa.si/view/2123887) |
-| `[Unfucked] NEEDY GIRL OVERDOSE - S01E08 (1080p CR WEB-DL AVC AAC 2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617009) • [🐱 Nyaa](https://nyaa.si/view/2123886) |
-| `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S01E10 [1080...` | **576.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617005) • [🐱 Nyaa](https://nyaa.si/view/2123885) |
-| `[BlackRabbit] Please Teacher! (2002) - S00 [Bluray-1080p][Opus 2.0]...` | **144.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/617006) • [🐱 Nyaa](https://nekobt.to/torrents/11851493416707) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E12 1080p CR WEB-DL AAC2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617001) • [🐱 Nyaa](https://nyaa.si/view/2123884) |
-| `[BlackRabbit] Please Teacher! (2002) - S01 [Bluray-1080p][Opus 2.0]...` | **1712.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/617003) • [🐱 Nyaa](https://nekobt.to/torrents/11851353212936) |
+| `[Headpatter] The Future Diary S00E02 (BD 1080p x264 Hi10P Opus) [Du...` | **2048.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617033) • [🐱 Nyaa](https://nyaa.si/view/2123926) |
+| `No Doubt In Us S02 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-...` | **8000.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/617034) • [🐱 Nyaa](https://nekobt.to/torrents/11854326996494) |
+| `[Erai-raws] Kanan-sama wa Akumade Choroi - 12 [1080p CR WEBRip HEVC...` | **572.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617027) • [🐱 Nyaa](https://nyaa.si/view/2123923) |
+| `[Erai-raws] Mao - 12 [1080p DSNP WEB-DL AVC AAC][MultiSub][7AEFF581]` | **951.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617028) • [🐱 Nyaa](https://nyaa.si/view/2123922) |
+| `No Doubt In Us S01 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-...` | **7954.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/617032) • [🐱 Nyaa](https://nekobt.to/torrents/11854102911240) |
+| `[SubsMix] Mistress Kanan Is Devilishly Easy - 12 (S01E12) - (WEB 10...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617031) • [🐱 Nyaa](https://nyaa.si/view/2123917) |
+| `Monster But Wild S02 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsunder...` | **7358.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/617026) • [🐱 Nyaa](https://nekobt.to/torrents/11853880967436) |
+| `[Gecko] Odekake Kozame - S01E71 (おでかけ子ザメ; Odekake Kozame 2nd Season...` | **16.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617021) • [🐱 Nyaa](https://nekobt.to/torrents/11853767030023) |
+| `[DKB] Needy Girl Overdose - S01E12 [1080p][HEVC x265 10bit][Multi-S...` | **620.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617024) • [🐱 Nyaa](https://nyaa.si/view/2123913) |
+| `[DKB] Akane-banashi - S01E12 [1080p][END][HEVC x265 10bit][Multi-Su...` | **350.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617025) • [🐱 Nyaa](https://nyaa.si/view/2123912) |
+| `Monster But Wild S01 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsunder...` | **5599.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/617022) • [🐱 Nyaa](https://nekobt.to/torrents/11853671694338) |
+| `Love Tyrant S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **16796.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/617023) • [🐱 Nyaa](https://nekobt.to/torrents/11853563626758) |
+| `[Afro] Steamboy (2004) (BD 1080p x264 Hi10P AAC) [Dual Audio]` | **8089.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617020) • [🐱 Nyaa](https://nyaa.si/view/2123907) |
+| `Daemons of the Shadow Realm S01E09 MULTi AD 1080p CR WEB-DL AAC2.0 ...` | **1449.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/617018) • [🐱 Nyaa](https://nekobt.to/torrents/11853458637320) |
+| `Bungo Stray Dogs S01 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **35280.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/617019) • [🐱 Nyaa](https://nekobt.to/torrents/11853326382347) |
 
 ---
 <div align="center">
