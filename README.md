@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.14.36_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.17.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] One Piece EP1166 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **861.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/616833) • [🐱 Nyaa](https://nekobt.to/torrents/11845451295493) |
-| `Yowayowa Sensei S01E11 Strong and Sturdy Feelings 1080p HIDI WEB-DL...` | **923.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/616824) • [🐱 Nyaa](https://nyaa.si/view/2123630) |
-| `[Gecko] The Great Sage Ryddel and the Hands of Time - S01E12 (大賢者リド...` | **102.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616826) • [🐱 Nyaa](https://nyaa.si/view/2123628) |
-| `[SubsPlease] Yowayowa Sensei - 11 (1080p) [1ED2593A].mkv` | **921.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616827) • [🐱 Nyaa](https://nyaa.si/view/2123627) |
-| `[ToonsHub] Yowayowa Sensei S01E11 1080p HIDIVE WEB-DL AAC2.0 H.264 ...` | **922.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616828) • [🐱 Nyaa](https://nyaa.si/view/2123626) |
-| `[Erai-raws] Yowayowa Sensei - 11 [1080p HIDIVE WEB-DL AVC AAC][E0A9...` | **922.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616832) • [🐱 Nyaa](https://nyaa.si/view/2123622) |
-| `[Onalrie] Detective Conan - E1204 [1080p WEBRip AV1]` | **167.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/616823) • [🐱 Nyaa](https://nekobt.to/torrents/11844602472205) |
-| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School) - S04E12 ...` | **507.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616822) • [🐱 Nyaa](https://nyaa.si/view/2123606) |
-| `[ASW] Detective Conan - 1204 [1080p HEVC x265 10Bit][AAC]` | **177.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616820) • [🐱 Nyaa](https://nyaa.si/view/2123605) |
-| `Detective Conan S03E1204 Who Kidnapped Conan and Azusa Part One 108...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616821) • [🐱 Nyaa](https://nyaa.si/view/2123604) |
-| `[ToonsHub] Detective Conan EP1204 1080p CR WEB-DL AAC2.0 H.264 (Mul...` | **1433.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/616819) • [🐱 Nyaa](https://nekobt.to/torrents/11844099094792) |
-| `[ToonsHub] Detective Conan EP1204 1080p NF WEB-DL AAC2.0 H.264 (Mei...` | **844.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/616810) • [🐱 Nyaa](https://nyaa.si/view/2123601) |
-| `Ascendance of a Bookworm S04E08 Ferdinands Task 1080p CR WEB-DL MUL...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616811) • [🐱 Nyaa](https://nyaa.si/view/2123600) |
-| `[SubsPlease] Detective Conan - 1204 (1080p) [416DF94F].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616813) • [🐱 Nyaa](https://nyaa.si/view/2123598) |
-| `[Erai-raws] Detective Conan - 1204 [1080p CR WEB-DL AVC AAC][E432CBD8]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616815) • [🐱 Nyaa](https://nyaa.si/view/2123596) |
+| `Daemons of the Shadow Realm S01E12 Retainer and Shaman 1080p NF WEB...` | **863.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616866) • [🐱 Nyaa](https://nyaa.si/view/2123695) |
+| `[ToonsHub] Akane-Banashi S01E12 1080p NF WEB-DL AAC2.0 H.264 (Multi...` | **1024.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616867) • [🐱 Nyaa](https://nyaa.si/view/2123694) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E12 1080p NF WEB-DL AAC2....` | **863.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616868) • [🐱 Nyaa](https://nyaa.si/view/2123693) |
+| `Akane Banashi S01E12 1080p NF WEB-DL AAC2.0 H 264-VARYG (Akane-bana...` | **1024.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/616869) • [🐱 Nyaa](https://nyaa.si/view/2123691) |
+| `[SubsPlus+] Yowayowa Sensei - S01E11 (ADN WEB-DL 1080p AVC AAC) (Un...` | **565.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/616856) • [🐱 Nyaa](https://nyaa.si/view/2123682) |
+| `[Yameii] KILL BLUE - S01E08 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616857) • [🐱 Nyaa](https://nyaa.si/view/2123681) |
+| `One Piece S01E1166 1080p NF WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **861.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/616859) • [🐱 Nyaa](https://nyaa.si/view/2123679) |
+| `[ToonsHub] KILL BLUE S01E11 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **317.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/616851) • [🐱 Nyaa](https://nekobt.to/torrents/11846744121864) |
+| `[VARYG] KILL BLUE S01E11 The First Hitman Summit 1080p NF WEB-DL AA...` | **866.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/616852) • [🐱 Nyaa](https://nekobt.to/torrents/11846743422220) |
+| `[ToonsHub] KILL BLUE S01E11 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1401.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/616853) • [🐱 Nyaa](https://nekobt.to/torrents/11846739130631) |
+| `[SubsPlease] Kill Ao - 11 (1080p) [CBC70D81].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/616861) • [🐱 Nyaa](https://nyaa.si/view/2123672) |
+| `[VARYG] KILL BLUE S01E08 Versus the Rindou Brothers 1080p CR WEB-DL...` | **1436.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/616854) • [🐱 Nyaa](https://nekobt.to/torrents/11846737126671) |
+| `[VARYG] KILL BLUE S01E11 1080p CR WEB-DL AAC2.0 H.264 (Kill Ao, Mul...` | **1402.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/616855) • [🐱 Nyaa](https://nekobt.to/torrents/11846735652865) |
+| `[Erai-raws] Kill Ao - 11 [1080p CR WEB-DL AVC AAC][MultiSub][3409BFD4]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/616865) • [🐱 Nyaa](https://nyaa.si/view/2123665) |
+| `[FSP DN] A Record of a Mortal’s Journey to Immortality - 179 (1080p...` | **438.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/616847) • [🐱 Nyaa](https://nyaa.si/view/2123662) |
 
 ---
 <div align="center">
