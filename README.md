@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.25.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.56.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FSP] Mushen Ji (Tales of Herding Gods) - 88 [1080p] (GB_CN) | 牧神记` | **385.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617141) • [🐱 Nyaa](https://nyaa.si/view/2124160) |
+| `[ToonsHub] One Piece EP1167 1080p TVER WEB-DL AAC2.0 H.264` | **550.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/617143) • [🐱 Nyaa](https://nekobt.to/torrents/11869106863365) |
+| `[One Pace][1009-1010] Wano 60 [1080p][27E7EE1C].mkv` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617142) • [🐱 Nyaa](https://nyaa.si/view/2124146) |
+| `[Erai-raws] Nippon Sangoku - 12 [1080p AMZN WEBRip HEVC EAC3][Multi...` | **756.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/617140) • [🐱 Nyaa](https://nekobt.to/torrents/11868216510209) |
+| `[Himejoshi]  ⯎ NEEDY GIRL OVERDOSE ⯎  S01E08 (WEB 1080p AV1) | 08 |...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617139) • [🐱 Nyaa](https://nyaa.si/view/2124144) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12 MULTi 10...` | **624.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/617136) • [🐱 Nyaa](https://nekobt.to/torrents/11867408969992) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12 MULTi 10...` | **1510.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/617137) • [🐱 Nyaa](https://nekobt.to/torrents/11867396751110) |
+| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12 MULTi 10...` | **463.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/617138) • [🐱 Nyaa](https://nekobt.to/torrents/11867386208517) |
+| `[Erai-raws] Nippon Sangoku - 12 [1080p AMZN WEB-DL AVC EAC3][MultiS...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617135) • [🐱 Nyaa](https://nyaa.si/view/2124134) |
 | `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12 The Fall...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617128) • [🐱 Nyaa](https://nyaa.si/view/2124131) |
 | `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617129) • [🐱 Nyaa](https://nyaa.si/view/2124130) |
 | `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12 The Fall...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617130) • [🐱 Nyaa](https://nyaa.si/view/2124129) |
 | `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617131) • [🐱 Nyaa](https://nyaa.si/view/2124128) |
 | `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **624.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617132) • [🐱 Nyaa](https://nyaa.si/view/2124127) |
 | `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 11 [1080p D...` | **391.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617127) • [🐱 Nyaa](https://nyaa.si/view/2124124) |
-| `[Judas] Dia no Ace (Ace of the Diamond) - S04E12 [1080p][HEVC x265 ...` | **285.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617126) • [🐱 Nyaa](https://nyaa.si/view/2124112) |
-| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E01 (1080p WEB AAC x265)` | **269.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/617125) • [🐱 Nyaa](https://nekobt.to/torrents/11865509466634) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 12 [1080p CR WEB...` | **537.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617124) • [🐱 Nyaa](https://nyaa.si/view/2124109) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen S02E11 [1080p DSNP WEB-D...` | **784.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/617123) • [🐱 Nyaa](https://nekobt.to/torrents/11865195959809) |
-| `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 11 [1080p CR W...` | **570.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617119) • [🐱 Nyaa](https://nyaa.si/view/2124103) |
-| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sword) - S02...` | **480.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617120) • [🐱 Nyaa](https://nyaa.si/view/2124102) |
-| `[Onalrie] Ace of Diamond Act II - S02E12 [1080p WEBRip AV1]` | **202.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/617118) • [🐱 Nyaa](https://nekobt.to/torrents/11864748371725) |
-| `[ASW] Ace of Diamond Act II S2 - 12 [1080p HEVC x265 10Bit][AAC]` | **288.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617117) • [🐱 Nyaa](https://nyaa.si/view/2124101) |
-| `[BlackRabbit] My Hero Academia (2016) - S05 [Bluray-1080p][Opus 2.0...` | **6384.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/617116) • [🐱 Nyaa](https://nekobt.to/torrents/11864567996939) |
 
 ---
 <div align="center">
