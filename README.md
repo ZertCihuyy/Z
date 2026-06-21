@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.13.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.44.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Mo7tas] Ken En Ken: Aoki Kagayaki [1080p] [Multi language subs]` | **2867.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617207) • [🐱 Nyaa](https://nyaa.si/view/2124267) |
+| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E11...` | **447.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617203) • [🐱 Nyaa](https://nyaa.si/view/2124254) |
+| `[Himejoshi]  ⯎ 君を紡ぐ ⯎ Kimi wo Tsumugu ⯎  Anime PV (WEB 1080p AV1) |...` | **40.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617204) • [🐱 Nyaa](https://nyaa.si/view/2124253) |
+| `[SubsNoJutsu] Witch Hat Atelier - S01E11 (1080p WEB AAC x265)` | **374.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/617202) • [🐱 Nyaa](https://nekobt.to/torrents/11874033041411) |
+| `Digimon Beatbreak S01E36 Twisted Code REPACK 1080p CR WEB-DL AAC2.0...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617201) • [🐱 Nyaa](https://nyaa.si/view/2124251) |
 | `[Anime Time] Wistoria Wand And Sword - S02E09 (Tsue to Tsurugi no W...` | **593.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617200) • [🐱 Nyaa](https://nyaa.si/view/2124250) |
 | `[Seigyoku] Mahou no Shimai LuluttoLilly - 12 (WEB 1080p) [0A629389]...` | **748.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617199) • [🐱 Nyaa](https://nyaa.si/view/2124247) |
 | `[kikuri] Witch Watch S01 (BD 1080p AVC Opus)` | **30655.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617198) • [🐱 Nyaa](https://nekobt.to/torrents/11872742333710) |
@@ -33,11 +38,6 @@
 | `[DKB] Tsue to Tsurugi no Wistoria - S02E11 [1080p][HEVC x265 10bit]...` | **669.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617195) • [🐱 Nyaa](https://nyaa.si/view/2124240) |
 | `[SubsMix] The Classroom of a Black Cat and a Witch - 11 (S01E11) - ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617191) • [🐱 Nyaa](https://nyaa.si/view/2124234) |
 | `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E12 1080p U...` | **86.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617185) • [🐱 Nyaa](https://nyaa.si/view/2124230) |
-| `[Erai-raws] Digimon Beatbreak - 36 [1080p CR WEBRip HEVC AAC][Multi...` | **601.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617186) • [🐱 Nyaa](https://nyaa.si/view/2124229) |
-| `[Erai-raws] Digimon Beatbreak - 36 (REPACK) [1080p CR WEB-DL AVC AA...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617189) • [🐱 Nyaa](https://nyaa.si/view/2124226) |
-| `[Erai-raws] Ghost Concert: Missing Songs - 12 [1080p CR WEBRip HEVC...` | **303.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617182) • [🐱 Nyaa](https://nyaa.si/view/2124223) |
-| `[ASW] One Piece - 1167 [1080p HEVC x265 10Bit][AAC]` | **326.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617183) • [🐱 Nyaa](https://nyaa.si/view/2124222) |
-| `[FrixySubs] Lord of Mysteries S00E01 - Specials - Miasto Srebra (18...` | **1069.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617190) • [🐱 Nyaa](https://nekobt.to/torrents/11871199129867) |
 
 ---
 <div align="center">
