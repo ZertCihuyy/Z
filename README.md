@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.32.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.22.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[BlackRabbit] Please Twins! (2003) - S00 [Bluray-1080p][Opus 2.0][D...` | **143.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/617075) • [🐱 Nyaa](https://nekobt.to/torrents/11860199650057) |
-| `[Serenae] Meitantei Precure! - 21 Next Ep PV (1080p).mkv` | **31.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617073) • [🐱 Nyaa](https://nyaa.si/view/2124028) |
-| `[Serenae] Meitantei Precure! - 21 Fanart Corner (1080p).mkv` | **8.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617074) • [🐱 Nyaa](https://nyaa.si/view/2124027) |
-| `[BlackRabbit] Please Twins! (2003) - S01 [Bluray-1080p][Opus 2.0][D...` | **1597.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/617072) • [🐱 Nyaa](https://nekobt.to/torrents/11860011389711) |
-| `[Gecko] Action Monster Big Movie - S01E10 (开拍啦！怪兽大电影; Kai Pai La! G...` | **379.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/617070) • [🐱 Nyaa](https://nekobt.to/torrents/11859847857163) |
-| `[Serenae] Meitantei Precure! - 21 (1080p).mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617066) • [🐱 Nyaa](https://nyaa.si/view/2124020) |
-| `[Judas] Digimon Beatbreak - S01E36 [1080p][HEVC x265 10bit][Eng-Sub...` | **487.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617068) • [🐱 Nyaa](https://nyaa.si/view/2124018) |
-| `Digimon.Beatbreak.S01E36.1080p.CR.WEBRip.10bits.x265-Rapta` | **290.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617069) • [🐱 Nyaa](https://nyaa.si/view/2124017) |
-| `[ASW] Digimon Beatbreak - 36 [1080p HEVC x265 10Bit][AAC]` | **484.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617065) • [🐱 Nyaa](https://nyaa.si/view/2124016) |
-| `[DKB] MAO - S01E12 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **436.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617064) • [🐱 Nyaa](https://nyaa.si/view/2124013) |
-| `[VARYG] Digimon Beatbreak S01E36 1080p CR WEB-DL AAC2.0 H.264` | **1376.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617061) • [🐱 Nyaa](https://nekobt.to/torrents/11858324765702) |
-| `[ToonsHub] Digimon Beatbreak S01E36 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1377.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/617062) • [🐱 Nyaa](https://nekobt.to/torrents/11858293648645) |
-| `[ToonsHub] The Other Side of Deep Space S01E25 1080p BILI WEB-DL AA...` | **427.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617053) • [🐱 Nyaa](https://nyaa.si/view/2123989) |
-| `[SubsPlease] Digimon Beatbreak - 36 (1080p) [5EBBBAB7].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617054) • [🐱 Nyaa](https://nyaa.si/view/2123988) |
-| `[Erai-raws] Digimon Beatbreak - 36 [1080p CR WEB-DL AVC AAC][EAF1A129]` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617059) • [🐱 Nyaa](https://nyaa.si/view/2123983) |
+| `[Onalrie] Ace of Diamond Act II - S02E12 [1080p WEBRip AV1]` | **202.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/617118) • [🐱 Nyaa](https://nekobt.to/torrents/11864748371725) |
+| `[ASW] Ace of Diamond Act II S2 - 12 [1080p HEVC x265 10Bit][AAC]` | **288.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617117) • [🐱 Nyaa](https://nyaa.si/view/2124101) |
+| `[BlackRabbit] My Hero Academia (2016) - S05 [Bluray-1080p][Opus 2.0...` | **6384.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/617116) • [🐱 Nyaa](https://nekobt.to/torrents/11864567996939) |
+| `[ASW] Tsue to Tsurugi no Wistoria S2 - 11 [1080p HEVC x265 10Bit][AAC]` | **479.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617115) • [🐱 Nyaa](https://nyaa.si/view/2124099) |
+| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E11 [1080p WEBRip AV1]` | **364.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617113) • [🐱 Nyaa](https://nekobt.to/torrents/11864174096896) |
+| `[Half-Baked] Akane-banashi - S01E12 [WEB 1080p HEVC AAC] (Multi-sub...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617109) • [🐱 Nyaa](https://nyaa.si/view/2124091) |
+| `[VARYG] Wistoria Wand and Sword S02E08 Teachings of the Witch 1080p...` | **1711.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/617103) • [🐱 Nyaa](https://nekobt.to/torrents/11863829304335) |
+| `[VARYG] Ace of the Diamond S04E12 1080p CR WEB-DL AAC2.0 H.264 (Dia...` | **1389.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617104) • [🐱 Nyaa](https://nekobt.to/torrents/11863826326284) |
+| `[ToonsHub] Ace of Diamond S04E12 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1386.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/617105) • [🐱 Nyaa](https://nekobt.to/torrents/11863825334283) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 12 (1080p) [51A22FC2].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617110) • [🐱 Nyaa](https://nyaa.si/view/2124084) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 12 [1080p CR WEB...` | **1387.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/617108) • [🐱 Nyaa](https://nekobt.to/torrents/11863771658254) |
+| `[ToonsHub] Wistoria Wand and Sword S02E08 1080p CR WEB-DL MULTi AAC...` | **1709.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617099) • [🐱 Nyaa](https://nekobt.to/torrents/11863501833729) |
+| `[Onalrie] Digimon Beatbreak - S01E36 [1080p WEBRip AV1]` | **350.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/617100) • [🐱 Nyaa](https://nekobt.to/torrents/11863409105920) |
+| `[ToonsHub] Wistoria Wand and Sword S02E09 1080p CR WEB-DL DUAL AAC2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617084) • [🐱 Nyaa](https://nyaa.si/view/2124075) |
+| `[ToonsHub] Wistoria Wand and Sword S02E11 1080p CR WEB-DL AAC2.0 H....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617085) • [🐱 Nyaa](https://nyaa.si/view/2124074) |
 
 ---
 <div align="center">
