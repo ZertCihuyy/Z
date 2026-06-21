@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.13.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.41.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mao - 12 [1080p DSNP WEBRip HEVC AAC][MultiSub][29E112E7]` | **473.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617042) • [🐱 Nyaa](https://nyaa.si/view/2123955) |
+| `[Erai-raws] Kami no Niwatsuki Kusunoki-tei - 12 [1080p CR WEBRip HE...` | **432.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/617040) • [🐱 Nyaa](https://nekobt.to/torrents/11855529903114) |
+| `[Erai-raws] Yuusha no Kuzu - 23 [1080p CR WEBRip HEVC AAC][MultiSub...` | **472.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617041) • [🐱 Nyaa](https://nekobt.to/torrents/11855527249935) |
+| `[kikuri] Cider no You ni Kotoba ga Wakiagaru (2021) v2 (BD 1080p HE...` | **3174.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617039) • [🐱 Nyaa](https://nyaa.si/view/2123935) |
+| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E11 (83) [1080p CR ...` | **1403.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/617036) • [🐱 Nyaa](https://nekobt.to/torrents/11855077348357) |
+| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E10 ...` | **595.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617035) • [🐱 Nyaa](https://nyaa.si/view/2123930) |
 | `[Headpatter] The Future Diary S00E02 (BD 1080p x264 Hi10P Opus) [Du...` | **2048.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617033) • [🐱 Nyaa](https://nyaa.si/view/2123926) |
 | `No Doubt In Us S02 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-...` | **8000.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/617034) • [🐱 Nyaa](https://nekobt.to/torrents/11854326996494) |
 | `[Erai-raws] Kanan-sama wa Akumade Choroi - 12 [1080p CR WEBRip HEVC...` | **572.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617027) • [🐱 Nyaa](https://nyaa.si/view/2123923) |
@@ -42,12 +48,6 @@
 | `Monster But Wild S02 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsunder...` | **7358.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/617026) • [🐱 Nyaa](https://nekobt.to/torrents/11853880967436) |
 | `[Gecko] Odekake Kozame - S01E71 (おでかけ子ザメ; Odekake Kozame 2nd Season...` | **16.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617021) • [🐱 Nyaa](https://nekobt.to/torrents/11853767030023) |
 | `[DKB] Needy Girl Overdose - S01E12 [1080p][HEVC x265 10bit][Multi-S...` | **620.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617024) • [🐱 Nyaa](https://nyaa.si/view/2123913) |
-| `[DKB] Akane-banashi - S01E12 [1080p][END][HEVC x265 10bit][Multi-Su...` | **350.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617025) • [🐱 Nyaa](https://nyaa.si/view/2123912) |
-| `Monster But Wild S01 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsunder...` | **5599.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/617022) • [🐱 Nyaa](https://nekobt.to/torrents/11853671694338) |
-| `Love Tyrant S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **16796.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/617023) • [🐱 Nyaa](https://nekobt.to/torrents/11853563626758) |
-| `[Afro] Steamboy (2004) (BD 1080p x264 Hi10P AAC) [Dual Audio]` | **8089.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617020) • [🐱 Nyaa](https://nyaa.si/view/2123907) |
-| `Daemons of the Shadow Realm S01E09 MULTi AD 1080p CR WEB-DL AAC2.0 ...` | **1449.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/617018) • [🐱 Nyaa](https://nekobt.to/torrents/11853458637320) |
-| `Bungo Stray Dogs S01 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **35280.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/617019) • [🐱 Nyaa](https://nekobt.to/torrents/11853326382347) |
 
 ---
 <div align="center">
