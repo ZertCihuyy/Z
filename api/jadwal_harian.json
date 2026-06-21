@@ -1,248 +1,88 @@
 {
-  "last_update": "21/6/2026, 23.50.06",
-  "hari": "Minggu",
+  "last_update": "22/6/2026, 01.21.12",
+  "hari": "Senin",
   "data": [
     {
-      "airingAt": 1781992800,
+      "airingAt": 1782093600,
       "media": {
-        "id": 204269,
+        "id": 137653,
         "title": {
-          "romaji": "Odekake Kozame Season 2"
+          "romaji": "Xian Ni"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png"
-        },
-        "genres": [
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781992800,
-      "media": {
-        "id": 202386,
-        "title": {
-          "romaji": "Shou 3 Ashibe QQ Goma-chan"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png"
-        },
-        "genres": [
-          "Comedy",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781992800,
-      "media": {
-        "id": 206950,
-        "title": {
-          "romaji": "Kumarba Season 3"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png"
-        },
-        "genres": [
-          "Action",
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781996400,
-      "media": {
-        "id": 185646,
-        "title": {
-          "romaji": "Koupen-chan"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg"
-        },
-        "genres": [
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1781998200,
-      "media": {
-        "id": 202957,
-        "title": {
-          "romaji": "Meitantei Precure!"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg"
-        },
-        "genres": [
-          "Mahou Shoujo",
-          "Mystery"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782000000,
-      "media": {
-        "id": 188388,
-        "title": {
-          "romaji": "DIGIMON BEATBREAK"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png"
         },
         "genres": [
           "Action",
           "Adventure",
+          "Drama",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782135000,
+      "media": {
+        "id": 197824,
+        "title": {
+          "romaji": "Isekai Nonbiri Nouka 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png"
+        },
+        "genres": [
           "Fantasy",
-          "Sci-Fi"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782001800,
-      "media": {
-        "id": 206523,
-        "title": {
-          "romaji": "Onegai AiPri"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg"
-        },
-        "genres": [
-          "Music"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782007200,
-      "media": {
-        "id": 196613,
-        "title": {
-          "romaji": "Dou Po Cangqiong: Nian Fan 4"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782007200,
-      "media": {
-        "id": 155723,
-        "title": {
-          "romaji": "Wushen Zhuzai: Da Wei Pian"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
-        },
-        "genres": [
-          "Action",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782027000,
-      "media": {
-        "id": 182300,
-        "title": {
-          "romaji": "Tsue to Tsurugi no Wistoria Season 2"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782028800,
-      "media": {
-        "id": 182578,
-        "title": {
-          "romaji": "Yozakura-san Chi no Daisakusen 2nd Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg"
-        },
-        "genres": [
-          "Action",
-          "Comedy",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782030600,
-      "media": {
-        "id": 177634,
-        "title": {
-          "romaji": "Diamond no Ace act II: Second Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png"
-        },
-        "genres": [
-          "Sports"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782032400,
-      "media": {
-        "id": 118123,
-        "title": {
-          "romaji": "Holo no Graffiti"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782034200,
-      "media": {
-        "id": 2406,
-        "title": {
-          "romaji": "Sazae-san"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg"
-        },
-        "genres": [
-          "Comedy",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1782043200,
+      "airingAt": 1782136800,
       "media": {
-        "id": 206914,
+        "id": 147105,
         "title": {
-          "romaji": "Nippon Sangoku"
+          "romaji": "Tongari Boushi no Atelier"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg"
         },
         "genres": [
-          "Action",
+          "Adventure",
           "Drama",
-          "Sci-Fi"
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782138240,
+      "media": {
+        "id": 189987,
+        "title": {
+          "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782140400,
+      "media": {
+        "id": 197754,
+        "title": {
+          "romaji": "LIAR GAME"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
+        },
+        "genres": [
+          "Drama",
+          "Psychological"
         ]
       }
     }
