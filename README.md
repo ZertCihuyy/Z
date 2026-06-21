@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.56.06_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.50.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 88 [1080p] (GB_CN) | 牧神记` | **385.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617141) • [🐱 Nyaa](https://nyaa.si/view/2124160) |
-| `[ToonsHub] One Piece EP1167 1080p TVER WEB-DL AAC2.0 H.264` | **550.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/617143) • [🐱 Nyaa](https://nekobt.to/torrents/11869106863365) |
-| `[One Pace][1009-1010] Wano 60 [1080p][27E7EE1C].mkv` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617142) • [🐱 Nyaa](https://nyaa.si/view/2124146) |
-| `[Erai-raws] Nippon Sangoku - 12 [1080p AMZN WEBRip HEVC EAC3][Multi...` | **756.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/617140) • [🐱 Nyaa](https://nekobt.to/torrents/11868216510209) |
-| `[Himejoshi]  ⯎ NEEDY GIRL OVERDOSE ⯎  S01E08 (WEB 1080p AV1) | 08 |...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617139) • [🐱 Nyaa](https://nyaa.si/view/2124144) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12 MULTi 10...` | **624.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/617136) • [🐱 Nyaa](https://nekobt.to/torrents/11867408969992) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12 MULTi 10...` | **1510.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/617137) • [🐱 Nyaa](https://nekobt.to/torrents/11867396751110) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12 MULTi 10...` | **463.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/617138) • [🐱 Nyaa](https://nekobt.to/torrents/11867386208517) |
-| `[Erai-raws] Nippon Sangoku - 12 [1080p AMZN WEB-DL AVC EAC3][MultiS...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617135) • [🐱 Nyaa](https://nyaa.si/view/2124134) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12 The Fall...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617128) • [🐱 Nyaa](https://nyaa.si/view/2124131) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617129) • [🐱 Nyaa](https://nyaa.si/view/2124130) |
-| `NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12 The Fall...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617130) • [🐱 Nyaa](https://nyaa.si/view/2124129) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617131) • [🐱 Nyaa](https://nyaa.si/view/2124128) |
-| `[ToonsHub] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E...` | **624.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617132) • [🐱 Nyaa](https://nyaa.si/view/2124127) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 11 [1080p D...` | **391.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617127) • [🐱 Nyaa](https://nyaa.si/view/2124124) |
+| `[ASW] Ghost Concert - missing Songs - 12 [1080p HEVC x265 10Bit][AAC]` | **254.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617179) • [🐱 Nyaa](https://nyaa.si/view/2124220) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 11 [1080p CR WEBRip HE...` | **714.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617175) • [🐱 Nyaa](https://nyaa.si/view/2124215) |
+| `[ASW] Kuroneko to Majo no Kyoushitsu - 11 [1080p HEVC x265 10Bit][AAC]` | **531.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617176) • [🐱 Nyaa](https://nyaa.si/view/2124214) |
+| `[Onalrie] Ghost Concert - missing Songs - S01E12 [1080p WEBRip AV1]` | **208.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/617178) • [🐱 Nyaa](https://nekobt.to/torrents/11870424771337) |
+| `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of a Black Ca...` | **520.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617177) • [🐱 Nyaa](https://nyaa.si/view/2124208) |
+| `[VARYG] One Piece S01E1167 1080p CR WEB-DL AAC2.0 H.264` | **1381.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/617173) • [🐱 Nyaa](https://nekobt.to/torrents/11870297668110) |
+| `[ToonsHub] One Piece EP1167 1080p CR WEB-DL AAC2.0 H.264 (English-Sub)` | **1380.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/617174) • [🐱 Nyaa](https://nekobt.to/torrents/11870264648968) |
+| `[SubsPlease] One Piece - 1167 (1080p) [60AF4418].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617166) • [🐱 Nyaa](https://nyaa.si/view/2124205) |
+| `[Erai-raws] One Piece - 1167 [1080p CR WEB-DL AVC AAC][45D106B9]` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617171) • [🐱 Nyaa](https://nyaa.si/view/2124200) |
+| `[Trix] Ghost Concert: Missing Songs S01E12 [WEBRip 1080p AV1 Opus] ...` | **247.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617172) • [🐱 Nyaa](https://nyaa.si/view/2124199) |
+| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E11 [1080p WEBRip AV1]` | **350.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617163) • [🐱 Nyaa](https://nekobt.to/torrents/11870052225030) |
+| `[ToonsHub] One Piece EP1167 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **265.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617164) • [🐱 Nyaa](https://nekobt.to/torrents/11870032565765) |
+| `[SubsNoJutsu] Witch Hat Atelier - S01E10 (1080p WEB AAC x265)` | **194.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/617165) • [🐱 Nyaa](https://nekobt.to/torrents/11870000179723) |
+| `[ToonsHub] GHOST CONCERT missing Songs S01E12 1080p CR WEB-DL AAC2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617155) • [🐱 Nyaa](https://nyaa.si/view/2124188) |
+| `GHOST CONCERT missing Songs S01E12 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617156) • [🐱 Nyaa](https://nyaa.si/view/2124187) |
 
 ---
 <div align="center">

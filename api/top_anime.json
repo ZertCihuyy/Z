@@ -1,5 +1,5 @@
 {
-  "last_update": "21/6/2026, 21.56.06",
+  "last_update": "21/6/2026, 23.50.06",
   "data": [
     {
       "id": 154587,
@@ -150,20 +150,18 @@
       ]
     },
     {
-      "id": 21745,
+      "id": 11061,
       "title": {
-        "romaji": "Owarimonogatari (Ge)"
+        "romaji": "HUNTER×HUNTER (2011)"
       },
       "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21745-VrhhJjZNdBXV.png"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11061-y5gsT1hoHuHw.png"
       },
       "averageScore": 89,
       "genres": [
-        "Comedy",
-        "Mystery",
-        "Psychological",
-        "Romance",
-        "Supernatural"
+        "Action",
+        "Adventure",
+        "Fantasy"
       ]
     }
   ]
