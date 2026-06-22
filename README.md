@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.48.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.08.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E13...` | **583.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617335) • [🐱 Nyaa](https://nyaa.si/view/2124527) |
+| `[Kozame] Odekake Kozame (Little Shark's Outings) - 70 [1080p] [BE24...` | **19.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617336) • [🐱 Nyaa](https://nyaa.si/view/2124522) |
+| `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **323.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617334) • [🐱 Nyaa](https://nyaa.si/view/2124521) |
+| `[hchcsen] Letter Bee Season 1 (BD 1080p x264 Hi10P FLAC) | Tegami B...` | **26316.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617333) • [🐱 Nyaa](https://nyaa.si/view/2124520) |
 | `[DKB] Isekai Nonbiri Nouka - S02E12 [1080p][END][HEVC x265 10bit][w...` | **366.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617332) • [🐱 Nyaa](https://nyaa.si/view/2124512) |
 | `[Headpatter] Your Forma Season 1 (BD 1080p HEVC 10-bit Opus) [Dual ...` | **41472.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617329) • [🐱 Nyaa](https://nyaa.si/view/2124501) |
 | `[Headpatter] The Too-Perfect Saint: Tossed Aside by My Fiancé and S...` | **14745.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617330) • [🐱 Nyaa](https://nyaa.si/view/2124499) |
@@ -43,10 +47,6 @@
 | `[Erai-raws] Liar Game - 12 [1080p CR WEBRip HEVC AAC][MultiSub][B0A...` | **381.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617324) • [🐱 Nyaa](https://nyaa.si/view/2124491) |
 | `[Reza] Witch Hat Atelier - S01E13 [WEBRip HEVC 1080p AAC] (Dual Aud...` | **2764.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617320) • [🐱 Nyaa](https://nyaa.si/view/2124489) |
 | `[Kawatare] 100 Meters 2025 (DCP 1080p DD+ YUV422P x265) | Hyakuemu.` | **11059.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617322) • [🐱 Nyaa](https://nyaa.si/view/2124487) |
-| `[SubVision] Mahou no Shimai LuluttoLilly - 11 (WEB 1080p x264 8Bit ...` | **606.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/617319) • [🐱 Nyaa](https://nekobt.to/torrents/11893709054474) |
-| `[Judas] Liar Game - S01E12 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **189.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617318) • [🐱 Nyaa](https://nyaa.si/view/2124482) |
-| `[TearSmith] Witch Hat Atelier S01 1080p CR WEBRip DUAL AAC2.0 x265 ...` | **7163.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/617317) • [🐱 Nyaa](https://nekobt.to/torrents/11893474837513) |
-| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK n...` | **486.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617316) • [🐱 Nyaa](https://nyaa.si/view/2124478) |
 
 ---
 <div align="center">
