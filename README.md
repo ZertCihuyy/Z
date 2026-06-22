@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.08.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.43.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Witch Hat Atelier S01E13 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1437.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/617340) • [🐱 Nyaa](https://nekobt.to/torrents/11898944687365) |
+| `Lord of Mysteries S00E18 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1505.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/617341) • [🐱 Nyaa](https://nekobt.to/torrents/11898928199936) |
+| `[BlackRabbit] Demon Slayer - Kimetsu no Yaiba (2019) - S02 [Bluray-...` | **1886.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/617339) • [🐱 Nyaa](https://nekobt.to/torrents/11898278912007) |
+| `[HatSubs] One Piece 1167 (WEB 1080p) [2056CC7D].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617338) • [🐱 Nyaa](https://nyaa.si/view/2124530) |
+| `[Chihiro] Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (Mu...` | **2457.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617337) • [🐱 Nyaa](https://nyaa.si/view/2124529) |
 | `[Anime Time] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E13...` | **583.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617335) • [🐱 Nyaa](https://nyaa.si/view/2124527) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 70 [1080p] [BE24...` | **19.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617336) • [🐱 Nyaa](https://nyaa.si/view/2124522) |
 | `[DKB] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **323.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617334) • [🐱 Nyaa](https://nyaa.si/view/2124521) |
@@ -42,11 +47,6 @@
 | `[Headpatter] Burn the Witch Season 1 v2 (BD 1080p HEVC 10-bit Opus)...` | **9318.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617331) • [🐱 Nyaa](https://nyaa.si/view/2124498) |
 | `[Gecko] Nonhuman - S03E13-E20 (非人哉; Fei Ren Zai 3rd Season Part 2) ...` | **852.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617327) • [🐱 Nyaa](https://nyaa.si/view/2124496) |
 | `[BlackRabbit] Demon Slayer - Kimetsu no Yaiba (2019) - S01 [Bluray-...` | **6571.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/617328) • [🐱 Nyaa](https://nekobt.to/torrents/11894916304399) |
-| `[DB] Tongari Boushi no Atelier | Witch Hat Atelier S1 [Dual Audio 1...` | **6368.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617325) • [🐱 Nyaa](https://nekobt.to/torrents/11894291225614) |
-| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12...` | **464.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617326) • [🐱 Nyaa](https://nyaa.si/view/2124492) |
-| `[Erai-raws] Liar Game - 12 [1080p CR WEBRip HEVC AAC][MultiSub][B0A...` | **381.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617324) • [🐱 Nyaa](https://nyaa.si/view/2124491) |
-| `[Reza] Witch Hat Atelier - S01E13 [WEBRip HEVC 1080p AAC] (Dual Aud...` | **2764.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617320) • [🐱 Nyaa](https://nyaa.si/view/2124489) |
-| `[Kawatare] 100 Meters 2025 (DCP 1080p DD+ YUV422P x265) | Hyakuemu.` | **11059.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617322) • [🐱 Nyaa](https://nyaa.si/view/2124487) |
 
 ---
 <div align="center">
