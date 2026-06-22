@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.52.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.16.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,6 +23,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Digimon Beatbreak - S01E36 [1080p][HEVC x265 10bit][Multi-Sub...` | **553.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617209) • [🐱 Nyaa](https://nyaa.si/view/2124290) |
 | `[Mo7tas] Ken En Ken: Aoki Kagayaki [1080p] [Multi language subs]` | **2867.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617207) • [🐱 Nyaa](https://nyaa.si/view/2124267) |
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E11...` | **447.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617203) • [🐱 Nyaa](https://nyaa.si/view/2124254) |
 | `[Himejoshi]  ⯎ 君を紡ぐ ⯎ Kimi wo Tsumugu ⯎  Anime PV (WEB 1080p AV1) |...` | **40.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617204) • [🐱 Nyaa](https://nyaa.si/view/2124253) |
@@ -37,7 +38,6 @@
 | `[DKB] Yozakura-san Chi no Daisakusen - S02E11 [1080p][HEVC x265 10b...` | **463.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617194) • [🐱 Nyaa](https://nyaa.si/view/2124241) |
 | `[DKB] Tsue to Tsurugi no Wistoria - S02E11 [1080p][HEVC x265 10bit]...` | **669.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617195) • [🐱 Nyaa](https://nyaa.si/view/2124240) |
 | `[SubsMix] The Classroom of a Black Cat and a Witch - 11 (S01E11) - ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617191) • [🐱 Nyaa](https://nyaa.si/view/2124234) |
-| `[ToonsHub] Ingoku Danchi Deviant's Apartment Complex S01E12 1080p U...` | **86.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617185) • [🐱 Nyaa](https://nyaa.si/view/2124230) |
 
 ---
 <div align="center">
