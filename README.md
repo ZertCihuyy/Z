@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.16.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.42.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,21 +23,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Fuchs] Beyond the Boundary - S00E06 (BD 1080p HEVC Opus 2.0) [Dual...` | **1880.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/617221) • [🐱 Nyaa](https://nekobt.to/torrents/11882381763076) |
+| `[Fuchs] Beyond the Boundary - S01 (BD 1080p HEVC Opus 2.0) [Dual-Au...` | **21577.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/617222) • [🐱 Nyaa](https://nekobt.to/torrents/11882376173315) |
+| `[Hentai] Ingoku Danchi (WEB 1080p AAC2.0 H.264) (Uncensored) (Batch)` | **1024.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617219) • [🐱 Nyaa](https://nyaa.si/view/2124313) |
+| `[Hentai] Ingoku Danchi - 12 END (WEB 1080p AAC2.0 H.264) (Uncensored)` | **87.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617220) • [🐱 Nyaa](https://nyaa.si/view/2124312) |
+| `One Piece S01E1167 REPACK 1080p CR WEB-DL AAC2.0 H 264-VARYG (Multi...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617218) • [🐱 Nyaa](https://nyaa.si/view/2124307) |
+| `[VARYG] One Piece S01E1160 An Encounter on a Snowfield-Loki the Acc...` | **468.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/617217) • [🐱 Nyaa](https://nekobt.to/torrents/11880379649801) |
+| `[ToonsHub] One Piece EP1167 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **286.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617216) • [🐱 Nyaa](https://nyaa.si/view/2124301) |
+| `[Erai-raws] Meitantei Precure - 21 [1080p CR WEBRip HEVC AAC][Multi...` | **651.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617210) • [🐱 Nyaa](https://nyaa.si/view/2124295) |
+| `[ToonsHub] Star Detective Precure S01E21 1080p CR WEB-DL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617211) • [🐱 Nyaa](https://nyaa.si/view/2124294) |
+| `[Erai-raws] Meitantei Precure - 21 [1080p CR WEB-DL AVC AAC][MultiS...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617214) • [🐱 Nyaa](https://nyaa.si/view/2124291) |
 | `[DKB] Digimon Beatbreak - S01E36 [1080p][HEVC x265 10bit][Multi-Sub...` | **553.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617209) • [🐱 Nyaa](https://nyaa.si/view/2124290) |
 | `[Mo7tas] Ken En Ken: Aoki Kagayaki [1080p] [Multi language subs]` | **2867.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617207) • [🐱 Nyaa](https://nyaa.si/view/2124267) |
 | `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E11...` | **447.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617203) • [🐱 Nyaa](https://nyaa.si/view/2124254) |
 | `[Himejoshi]  ⯎ 君を紡ぐ ⯎ Kimi wo Tsumugu ⯎  Anime PV (WEB 1080p AV1) |...` | **40.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617204) • [🐱 Nyaa](https://nyaa.si/view/2124253) |
 | `[SubsNoJutsu] Witch Hat Atelier - S01E11 (1080p WEB AAC x265)` | **374.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/617202) • [🐱 Nyaa](https://nekobt.to/torrents/11874033041411) |
-| `Digimon Beatbreak S01E36 Twisted Code REPACK 1080p CR WEB-DL AAC2.0...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617201) • [🐱 Nyaa](https://nyaa.si/view/2124251) |
-| `[Anime Time] Wistoria Wand And Sword - S02E09 (Tsue to Tsurugi no W...` | **593.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617200) • [🐱 Nyaa](https://nyaa.si/view/2124250) |
-| `[Seigyoku] Mahou no Shimai LuluttoLilly - 12 (WEB 1080p) [0A629389]...` | **748.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617199) • [🐱 Nyaa](https://nyaa.si/view/2124247) |
-| `[kikuri] Witch Watch S01 (BD 1080p AVC Opus)` | **30655.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617198) • [🐱 Nyaa](https://nekobt.to/torrents/11872742333710) |
-| `[ppkhoa] Akane-banashi S01E12 Graduation 1080p DSNP WEB-DL DDP2.0 H...` | **865.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/617196) • [🐱 Nyaa](https://nekobt.to/torrents/11872358591502) |
-| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E11 [1080p][HEVC x265 10b...` | **605.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617192) • [🐱 Nyaa](https://nyaa.si/view/2124243) |
-| `[DKB] Nippon Sangoku - S01E12 [1080p][END][HEVC x265 10bit][Dual-Au...` | **853.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617193) • [🐱 Nyaa](https://nyaa.si/view/2124242) |
-| `[DKB] Yozakura-san Chi no Daisakusen - S02E11 [1080p][HEVC x265 10b...` | **463.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617194) • [🐱 Nyaa](https://nyaa.si/view/2124241) |
-| `[DKB] Tsue to Tsurugi no Wistoria - S02E11 [1080p][HEVC x265 10bit]...` | **669.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617195) • [🐱 Nyaa](https://nyaa.si/view/2124240) |
-| `[SubsMix] The Classroom of a Black Cat and a Witch - 11 (S01E11) - ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617191) • [🐱 Nyaa](https://nyaa.si/view/2124234) |
 
 ---
 <div align="center">
