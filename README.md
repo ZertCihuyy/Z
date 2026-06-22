@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.11.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.48.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,35 +9,44 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Senin**
+### 📅 Jadwal Rilis Hari Ini: **Selasa**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Xian Ni](https://anilist.co/anime/137653)** | *Action, Adventure, Drama, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png" width="45" style="border-radius: 4px;"> | `20.30` | **[Isekai Nonbiri Nouka 2](https://anilist.co/anime/197824)** | *Fantasy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Tongari Boushi no Atelier](https://anilist.co/anime/147105)** | *Adventure, Drama, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg" width="45" style="border-radius: 4px;"> | `21.24` | **[Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi](https://anilist.co/anime/189987)** | *Comedy, Romance, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png" width="45" style="border-radius: 4px;"> | `22.00` | **[LIAR GAME](https://anilist.co/anime/197754)** | *Drama, Psychological* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg" width="45" style="border-radius: 4px;"> | `05.40` | **[Chiikawa](https://anilist.co/anime/140842)** | *Comedy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)** | *Action, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137664-9MB4bb4ASiIN.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Cheng Huang Lu](https://anilist.co/anime/137664)** | *Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Jueshi Zhan Hun 2](https://anilist.co/anime/213188)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png" width="45" style="border-radius: 4px;"> | `11.00` | **[Fei Ren Zai 3 Part 2](https://anilist.co/anime/211270)** | *Comedy, Slice of Life, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png" width="45" style="border-radius: 4px;"> | `19.55` | **[Hyakki Yakou Shou](https://anilist.co/anime/207675)** | *Horror, Mystery, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2](https://anilist.co/anime/195268)** | *Comedy, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Aishiteru Game wo Owarasetai](https://anilist.co/anime/194393)** | *Comedy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[MARRIAGETOXIN](https://anilist.co/anime/199547)** | *Action, Comedy, Drama, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://anilist.co/anime/169580)** | *Comedy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Replica Datte, Koi wo Suru.](https://anilist.co/anime/186744)** | *Drama, Romance, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg" width="45" style="border-radius: 4px;"> | `22.00` | **[Hidarikiki no Eren](https://anilist.co/anime/158036)** | *Drama* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202985-lyp5TYpTnqSg.jpg" width="45" style="border-radius: 4px;"> | `23.29` | **[Tadaima, Ojamasaremasu!](https://anilist.co/anime/202985)** | *Comedy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg" width="45" style="border-radius: 4px;"> | `23.59` | **[Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"](https://anilist.co/anime/206951)** | *Comedy, Fantasy* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no ...` | **215.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/617295) • [🐱 Nyaa](https://nekobt.to/torrents/11892468858886) |
-| `Farming Life In Another World S02E12 A Village for All 1080p AMZN W...` | **572.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617284) • [🐱 Nyaa](https://nyaa.si/view/2124450) |
-| `[Erai-raws] Isekai Nonbiri Nouka 2 - 12 [1080p ADN WEBRip HEVC AAC]...` | **332.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617285) • [🐱 Nyaa](https://nyaa.si/view/2124449) |
-| `[ToonsHub] LIAR GAME S01E12 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617286) • [🐱 Nyaa](https://nyaa.si/view/2124446) |
-| `[SubsPlease] LIAR GAME - 12 (1080p) [16C0C1B7].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617287) • [🐱 Nyaa](https://nyaa.si/view/2124445) |
-| `LIAR GAME S01E12 1080p CR WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617290) • [🐱 Nyaa](https://nyaa.si/view/2124442) |
-| `[Erai-raws] Liar Game - 12 [1080p CR WEB-DL AVC AAC][MultiSub][6F7C...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617293) • [🐱 Nyaa](https://nyaa.si/view/2124439) |
-| `[Judas] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E13 [108...` | **435.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617294) • [🐱 Nyaa](https://nyaa.si/view/2124438) |
-| `[ASW] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **269.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617282) • [🐱 Nyaa](https://nyaa.si/view/2124437) |
-| `[Raze] Tongari Boushi no Atelier - 13 x265 10bit 1080p 143.8561fps.mkv` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617283) • [🐱 Nyaa](https://nyaa.si/view/2124434) |
-| `[Trix] PonSuka S01E12 [WEBRip 1080p AV1 Opus] (Multi Subs, VOSTFR) ...` | **293.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/617280) • [🐱 Nyaa](https://nekobt.to/torrents/11891903020803) |
-| `[Onalrie] Isekai Nonbiri Nouka - S02E12 [1080p WEBRip AV1]` | **220.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/617281) • [🐱 Nyaa](https://nekobt.to/torrents/11891882000643) |
-| `[ASW] Tongari Boushi no Atelier - 13 [1080p HEVC x265 10Bit][AAC]` | **427.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617279) • [🐱 Nyaa](https://nyaa.si/view/2124423) |
-| `[ASW] Isekai Nonbiri Nouka S2 - 12 [1080p HEVC x265 10Bit][AAC]` | **308.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617265) • [🐱 Nyaa](https://nyaa.si/view/2124422) |
-| `[Erai-raws] Tongari Boushi no Atelier - 13 [1080p CR WEBRip HEVC AA...` | **633.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617266) • [🐱 Nyaa](https://nyaa.si/view/2124421) |
+| `[DKB] Isekai Nonbiri Nouka - S02E12 [1080p][END][HEVC x265 10bit][w...` | **366.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617332) • [🐱 Nyaa](https://nyaa.si/view/2124512) |
+| `[Headpatter] Your Forma Season 1 (BD 1080p HEVC 10-bit Opus) [Dual ...` | **41472.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617329) • [🐱 Nyaa](https://nyaa.si/view/2124501) |
+| `[Headpatter] The Too-Perfect Saint: Tossed Aside by My Fiancé and S...` | **14745.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617330) • [🐱 Nyaa](https://nyaa.si/view/2124499) |
+| `[Headpatter] Burn the Witch Season 1 v2 (BD 1080p HEVC 10-bit Opus)...` | **9318.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617331) • [🐱 Nyaa](https://nyaa.si/view/2124498) |
+| `[Gecko] Nonhuman - S03E13-E20 (非人哉; Fei Ren Zai 3rd Season Part 2) ...` | **852.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617327) • [🐱 Nyaa](https://nyaa.si/view/2124496) |
+| `[BlackRabbit] Demon Slayer - Kimetsu no Yaiba (2019) - S01 [Bluray-...` | **6571.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/617328) • [🐱 Nyaa](https://nekobt.to/torrents/11894916304399) |
+| `[DB] Tongari Boushi no Atelier | Witch Hat Atelier S1 [Dual Audio 1...` | **6368.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617325) • [🐱 Nyaa](https://nekobt.to/torrents/11894291225614) |
+| `[Sokudo] NIPPON SANGOKU The Three Nations of the Crimson Sun S01E12...` | **464.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617326) • [🐱 Nyaa](https://nyaa.si/view/2124492) |
+| `[Erai-raws] Liar Game - 12 [1080p CR WEBRip HEVC AAC][MultiSub][B0A...` | **381.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617324) • [🐱 Nyaa](https://nyaa.si/view/2124491) |
+| `[Reza] Witch Hat Atelier - S01E13 [WEBRip HEVC 1080p AAC] (Dual Aud...` | **2764.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617320) • [🐱 Nyaa](https://nyaa.si/view/2124489) |
+| `[Kawatare] 100 Meters 2025 (DCP 1080p DD+ YUV422P x265) | Hyakuemu.` | **11059.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617322) • [🐱 Nyaa](https://nyaa.si/view/2124487) |
+| `[SubVision] Mahou no Shimai LuluttoLilly - 11 (WEB 1080p x264 8Bit ...` | **606.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/617319) • [🐱 Nyaa](https://nekobt.to/torrents/11893709054474) |
+| `[Judas] Liar Game - S01E12 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **189.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617318) • [🐱 Nyaa](https://nyaa.si/view/2124482) |
+| `[TearSmith] Witch Hat Atelier S01 1080p CR WEBRip DUAL AAC2.0 x265 ...` | **7163.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/617317) • [🐱 Nyaa](https://nekobt.to/torrents/11893474837513) |
+| `[Erai-raws] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK n...` | **486.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617316) • [🐱 Nyaa](https://nyaa.si/view/2124478) |
 
 ---
 <div align="center">

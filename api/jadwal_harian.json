@@ -1,88 +1,233 @@
 {
-  "last_update": "22/6/2026, 23.11.28",
-  "hari": "Senin",
+  "last_update": "23/6/2026, 02.48.35",
+  "hari": "Selasa",
   "data": [
     {
-      "airingAt": 1782093600,
+      "airingAt": 1782168000,
       "media": {
-        "id": 137653,
+        "id": 140842,
         "title": {
-          "romaji": "Xian Ni"
+          "romaji": "Chiikawa"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782180000,
+      "media": {
+        "id": 155723,
+        "title": {
+          "romaji": "Wushen Zhuzai: Da Wei Pian"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
+        },
+        "genres": [
+          "Action",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782180000,
+      "media": {
+        "id": 137664,
+        "title": {
+          "romaji": "Cheng Huang Lu"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137664-9MB4bb4ASiIN.png"
+        },
+        "genres": [
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782180000,
+      "media": {
+        "id": 213188,
+        "title": {
+          "romaji": "Jueshi Zhan Hun 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png"
         },
         "genres": [
           "Action",
           "Adventure",
-          "Drama",
           "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1782135000,
+      "airingAt": 1782187200,
       "media": {
-        "id": 197824,
+        "id": 211270,
         "title": {
-          "romaji": "Isekai Nonbiri Nouka 2"
+          "romaji": "Fei Ren Zai 3 Part 2"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png"
-        },
-        "genres": [
-          "Fantasy",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782136800,
-      "media": {
-        "id": 147105,
-        "title": {
-          "romaji": "Tongari Boushi no Atelier"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg"
-        },
-        "genres": [
-          "Adventure",
-          "Drama",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782138240,
-      "media": {
-        "id": 189987,
-        "title": {
-          "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png"
         },
         "genres": [
           "Comedy",
-          "Romance",
-          "Slice of Life"
+          "Slice of Life",
+          "Supernatural"
         ]
       }
     },
     {
-      "airingAt": 1782140400,
+      "airingAt": 1782219300,
       "media": {
-        "id": 197754,
+        "id": 207675,
         "title": {
-          "romaji": "LIAR GAME"
+          "romaji": "Hyakki Yakou Shou"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png"
+        },
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782219600,
+      "media": {
+        "id": 195268,
+        "title": {
+          "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782223200,
+      "media": {
+        "id": 194393,
+        "title": {
+          "romaji": "Aishiteru Game wo Owarasetai"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782223200,
+      "media": {
+        "id": 199547,
+        "title": {
+          "romaji": "MARRIAGETOXIN"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782225000,
+      "media": {
+        "id": 169580,
+        "title": {
+          "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782225000,
+      "media": {
+        "id": 186744,
+        "title": {
+          "romaji": "Replica Datte, Koi wo Suru."
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg"
         },
         "genres": [
           "Drama",
-          "Psychological"
+          "Romance",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782226800,
+      "media": {
+        "id": 158036,
+        "title": {
+          "romaji": "Hidarikiki no Eren"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg"
+        },
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782232140,
+      "media": {
+        "id": 202985,
+        "title": {
+          "romaji": "Tadaima, Ojamasaremasu!"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202985-lyp5TYpTnqSg.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782233940,
+      "media": {
+        "id": 206951,
+        "title": {
+          "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\""
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Fantasy"
         ]
       }
     }
