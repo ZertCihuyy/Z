@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.23.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.11.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -23,21 +23,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlease] Kanteishi (Kari) (01-12) (1080p) [Batch]` | **16588.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617232) • [🐱 Nyaa](https://nyaa.si/view/2124340) |
-| `[SubsPlease] Dorohedoro S2 (01-11) (1080p) [Batch]` | **16281.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617228) • [🐱 Nyaa](https://nyaa.si/view/2124337) |
-| `[ToonsHub] You and I Are Polar Opposites S01E12 1080p CR WEB-DL MUL...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617226) • [🐱 Nyaa](https://nyaa.si/view/2124333) |
-| `[CatgirlCafe] Kimi ga Shinu made Koi wo Shitai S01EP01 (Prerelease)...` | **223.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617225) • [🐱 Nyaa](https://nyaa.si/view/2124332) |
-| `Wistoria Wand and Sword S02E08 MULTi AD 1080p CR WEB-DL AAC2.0 x264...` | **1457.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/617224) • [🐱 Nyaa](https://nekobt.to/torrents/11883732772356) |
-| `[BlackRabbit] My Hero Academia (2016) - S06 [Bluray-1080p][Opus 2.0...` | **6564.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/617223) • [🐱 Nyaa](https://nekobt.to/torrents/11882758072588) |
-| `[Fuchs] Beyond the Boundary - S00E06 (BD 1080p HEVC Opus 2.0) [Dual...` | **1880.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/617221) • [🐱 Nyaa](https://nekobt.to/torrents/11882381763076) |
-| `[Fuchs] Beyond the Boundary - S01 (BD 1080p HEVC Opus 2.0) [Dual-Au...` | **21577.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/617222) • [🐱 Nyaa](https://nekobt.to/torrents/11882376173315) |
-| `[Hentai] Ingoku Danchi (WEB 1080p AAC2.0 H.264) (Uncensored) (Batch)` | **1024.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617219) • [🐱 Nyaa](https://nyaa.si/view/2124313) |
-| `[Hentai] Ingoku Danchi - 12 END (WEB 1080p AAC2.0 H.264) (Uncensored)` | **87.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617220) • [🐱 Nyaa](https://nyaa.si/view/2124312) |
-| `One Piece S01E1167 REPACK 1080p CR WEB-DL AAC2.0 H 264-VARYG (Multi...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617218) • [🐱 Nyaa](https://nyaa.si/view/2124307) |
-| `[VARYG] One Piece S01E1160 An Encounter on a Snowfield-Loki the Acc...` | **468.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/617217) • [🐱 Nyaa](https://nekobt.to/torrents/11880379649801) |
-| `[ToonsHub] One Piece EP1167 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **286.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617216) • [🐱 Nyaa](https://nyaa.si/view/2124301) |
-| `[Erai-raws] Meitantei Precure - 21 [1080p CR WEBRip HEVC AAC][Multi...` | **651.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617210) • [🐱 Nyaa](https://nyaa.si/view/2124295) |
-| `[ToonsHub] Star Detective Precure S01E21 1080p CR WEB-DL AAC2.0 H.2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617211) • [🐱 Nyaa](https://nyaa.si/view/2124294) |
+| `[Onalrie] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no ...` | **215.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/617295) • [🐱 Nyaa](https://nekobt.to/torrents/11892468858886) |
+| `Farming Life In Another World S02E12 A Village for All 1080p AMZN W...` | **572.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617284) • [🐱 Nyaa](https://nyaa.si/view/2124450) |
+| `[Erai-raws] Isekai Nonbiri Nouka 2 - 12 [1080p ADN WEBRip HEVC AAC]...` | **332.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617285) • [🐱 Nyaa](https://nyaa.si/view/2124449) |
+| `[ToonsHub] LIAR GAME S01E12 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617286) • [🐱 Nyaa](https://nyaa.si/view/2124446) |
+| `[SubsPlease] LIAR GAME - 12 (1080p) [16C0C1B7].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617287) • [🐱 Nyaa](https://nyaa.si/view/2124445) |
+| `LIAR GAME S01E12 1080p CR WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617290) • [🐱 Nyaa](https://nyaa.si/view/2124442) |
+| `[Erai-raws] Liar Game - 12 [1080p CR WEB-DL AVC AAC][MultiSub][6F7C...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617293) • [🐱 Nyaa](https://nyaa.si/view/2124439) |
+| `[Judas] Witch Hat Atelier (Tongari Boushi no Atelier) - S01E13 [108...` | **435.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617294) • [🐱 Nyaa](https://nyaa.si/view/2124438) |
+| `[ASW] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hana...` | **269.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617282) • [🐱 Nyaa](https://nyaa.si/view/2124437) |
+| `[Raze] Tongari Boushi no Atelier - 13 x265 10bit 1080p 143.8561fps.mkv` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617283) • [🐱 Nyaa](https://nyaa.si/view/2124434) |
+| `[Trix] PonSuka S01E12 [WEBRip 1080p AV1 Opus] (Multi Subs, VOSTFR) ...` | **293.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/617280) • [🐱 Nyaa](https://nekobt.to/torrents/11891903020803) |
+| `[Onalrie] Isekai Nonbiri Nouka - S02E12 [1080p WEBRip AV1]` | **220.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/617281) • [🐱 Nyaa](https://nekobt.to/torrents/11891882000643) |
+| `[ASW] Tongari Boushi no Atelier - 13 [1080p HEVC x265 10Bit][AAC]` | **427.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617279) • [🐱 Nyaa](https://nyaa.si/view/2124423) |
+| `[ASW] Isekai Nonbiri Nouka S2 - 12 [1080p HEVC x265 10Bit][AAC]` | **308.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617265) • [🐱 Nyaa](https://nyaa.si/view/2124422) |
+| `[Erai-raws] Tongari Boushi no Atelier - 13 [1080p CR WEBRip HEVC AA...` | **633.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617266) • [🐱 Nyaa](https://nyaa.si/view/2124421) |
 
 ---
 <div align="center">
