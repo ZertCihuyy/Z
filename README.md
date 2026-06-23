@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.05.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.48.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] LIAR GAME S01E09 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio ...` | **290.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/617360) • [🐱 Nyaa](https://nekobt.to/torrents/11911190692111) |
+| `[CicakRumah] Koupen-chan - S01E63v2 (コウペンちゃん; Koupen Chan) [AMZN.WE...` | **98.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617358) • [🐱 Nyaa](https://nyaa.si/view/2124581) |
+| `[CicakRumah] Koupen-chan - S01E64 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **98.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617359) • [🐱 Nyaa](https://nyaa.si/view/2124580) |
 | `[Chihiro] Himekishi wa Barbaroi no Yome - 10 [1080p HEVC AAC][015C4...` | **784.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617357) • [🐱 Nyaa](https://nyaa.si/view/2124576) |
 | `Above Myriads S01E05 1080p iQ WEB-DL AAC2.0 H 264-VARYG (Wan Ren Zh...` | **369.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617356) • [🐱 Nyaa](https://nyaa.si/view/2124574) |
 | `[ToonsHub] Above Myriads S01E05 1080p iQ WEB-DL AAC2.0 H.264 (Wan R...` | **369.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617355) • [🐱 Nyaa](https://nyaa.si/view/2124568) |
@@ -44,9 +47,6 @@
 | `[Gecko] Nonhuman - S03E21 (非人哉; Fei Ren Zai 3rd Season Part 2) [BIL...` | **106.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617348) • [🐱 Nyaa](https://nyaa.si/view/2124558) |
 | `Farming Life In Another World S02E12 A Village for All REPACK 1080p...` | **751.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617347) • [🐱 Nyaa](https://nyaa.si/view/2124553) |
 | `Witch Hat Atelier S01E13 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617345) • [🐱 Nyaa](https://nyaa.si/view/2124551) |
-| `KILL BLUE S01E09 The Impossible Aftermath of an Impossible Game 108...` | **926.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617346) • [🐱 Nyaa](https://nyaa.si/view/2124550) |
-| `[ToonsHub] KILL BLUE S01E09 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (K...` | **1021.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617343) • [🐱 Nyaa](https://nyaa.si/view/2124536) |
-| `[ToonsHub] KILL BLUE S01E09 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Ki...` | **926.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617342) • [🐱 Nyaa](https://nyaa.si/view/2124535) |
 
 ---
 <div align="center">
