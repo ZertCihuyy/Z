@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.54.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.23.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,44 +9,42 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Selasa**
+### 📅 Jadwal Rilis Hari Ini: **Rabu**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg" width="45" style="border-radius: 4px;"> | `05.40` | **[Chiikawa](https://anilist.co/anime/140842)** | *Comedy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)** | *Action, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137664-9MB4bb4ASiIN.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Cheng Huang Lu](https://anilist.co/anime/137664)** | *Supernatural* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Jueshi Zhan Hun 2](https://anilist.co/anime/213188)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png" width="45" style="border-radius: 4px;"> | `11.00` | **[Fei Ren Zai 3 Part 2](https://anilist.co/anime/211270)** | *Comedy, Slice of Life, Supernatural* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png" width="45" style="border-radius: 4px;"> | `19.55` | **[Hyakki Yakou Shou](https://anilist.co/anime/207675)** | *Horror, Mystery, Supernatural* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2](https://anilist.co/anime/195268)** | *Comedy, Fantasy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Aishiteru Game wo Owarasetai](https://anilist.co/anime/194393)** | *Comedy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[MARRIAGETOXIN](https://anilist.co/anime/199547)** | *Action, Comedy, Drama, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://anilist.co/anime/169580)** | *Comedy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Replica Datte, Koi wo Suru.](https://anilist.co/anime/186744)** | *Drama, Romance, Supernatural* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg" width="45" style="border-radius: 4px;"> | `22.00` | **[Hidarikiki no Eren](https://anilist.co/anime/158036)** | *Drama* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202985-lyp5TYpTnqSg.jpg" width="45" style="border-radius: 4px;"> | `23.29` | **[Tadaima, Ojamasaremasu!](https://anilist.co/anime/202985)** | *Comedy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg" width="45" style="border-radius: 4px;"> | `23.59` | **[Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"](https://anilist.co/anime/206951)** | *Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg" width="45" style="border-radius: 4px;"> | `05.06` | **[Chibi Godzilla no Gyakushuu 3](https://anilist.co/anime/193883)** | *Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212309-gDqt6qz1RPEL.png" width="45" style="border-radius: 4px;"> | `08.00` | **[Transformers: Wild King W](https://anilist.co/anime/212309)** | *Action, Mecha, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg" width="45" style="border-radius: 4px;"> | `09.00` | **[Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi](https://anilist.co/anime/213297)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg" width="45" style="border-radius: 4px;"> | `15.15` | **[Cheongchun Blossom: Uriui Bom](https://anilist.co/anime/163793)** | *Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg" width="45" style="border-radius: 4px;"> | `18.00` | **[Ugoku! Neko Mukashi Banashi](https://anilist.co/anime/188529)** | *Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png" width="45" style="border-radius: 4px;"> | `19.30` | **[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki](https://anilist.co/anime/180745)** | *Drama, Psychological* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png" width="45" style="border-radius: 4px;"> | `20.00` | **[Kanojo, Okarishimasu 5th Season](https://anilist.co/anime/199029)** | *Comedy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198939-95aqzBr0Lzcv.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season](https://anilist.co/anime/198939)** | *Action, Adventure, Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg" width="45" style="border-radius: 4px;"> | `20.30` | **[Heroine? Seijo? Iie, All Works Maid desu (Ko)!](https://anilist.co/anime/192800)** | *Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season](https://anilist.co/anime/194317)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg" width="45" style="border-radius: 4px;"> | `21.45` | **[Otaku ni Yasashii Gal wa Inai!?](https://anilist.co/anime/199588)** | *Comedy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png" width="45" style="border-radius: 4px;"> | `21.56` | **[Candy Caries](https://anilist.co/anime/205772)** | *Comedy* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Trix] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta S0...` | **193.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/617437) • [🐱 Nyaa](https://nekobt.to/torrents/11914190429708) |
-| `[Judas] MARRIAGETOXIN - S01E12 [1080p][HEVC x265 10bit][Multi-Subs]...` | **350.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617434) • [🐱 Nyaa](https://nyaa.si/view/2124731) |
-| `[Onalrie] Replica datte, Koi wo Suru. - S01E12 [1080p WEBRip AV1]` | **129.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/617438) • [🐱 Nyaa](https://nekobt.to/torrents/11914064519691) |
-| `[ASW] Aishiteru Game wo Owarasetai - 11 [1080p HEVC x265 10Bit][AAC]` | **156.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617435) • [🐱 Nyaa](https://nyaa.si/view/2124729) |
-| `[Erai-raws] Aishiteru Game wo Owarasetai - 11 [1080p CR WEBRip HEVC...` | **353.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617436) • [🐱 Nyaa](https://nyaa.si/view/2124727) |
-| `[Trix] MARRIAGETOXIN S01E12 [WEBRip 1080p AV1 Opus] (Multi Subs, VO...` | **326.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617431) • [🐱 Nyaa](https://nyaa.si/view/2124725) |
-| `MARRIAGETOXIN S01E08 The Hit Man Hunter 1080p CR WEB-DL MULTi AAC2....` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617432) • [🐱 Nyaa](https://nyaa.si/view/2124724) |
-| `[Onalrie] Aishiteru Game wo Owarasetai - S01E11 [1080p WEBRip AV1]` | **130.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/617427) • [🐱 Nyaa](https://nekobt.to/torrents/11913652393984) |
-| `[ToonsHub] I Made Friends with the Second Prettiest Girl in My Clas...` | **1433.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/617428) • [🐱 Nyaa](https://nekobt.to/torrents/11913592647691) |
-| `[VARYG] I Made Friends with the Second Prettiest Girl in My Class S...` | **1412.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/617429) • [🐱 Nyaa](https://nekobt.to/torrents/11913568423178) |
-| `[SubsPlease] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Na...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617433) • [🐱 Nyaa](https://nyaa.si/view/2124713) |
-| `[FrixySubs] Tsue to Tsurugi no Wistoria - S02E11 [1080p CR WEB-DL H...` | **1378.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/617430) • [🐱 Nyaa](https://nekobt.to/torrents/11913546922766) |
-| `[Erai-raws] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Nat...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617416) • [🐱 Nyaa](https://nyaa.si/view/2124708) |
-| `[SubsPlus+] Lastame - S02E12 (ADN WEB-DL 1080p AVC AAC) | The Most ...` | **559.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617418) • [🐱 Nyaa](https://nyaa.si/view/2124704) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou ...` | **560.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617421) • [🐱 Nyaa](https://nyaa.si/view/2124698) |
+| `[BlackRabbit] My Hero Academia - Vigilantes (2025) - S02 [WEBDL-108...` | **3941.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/617496) • [🐱 Nyaa](https://nekobt.to/torrents/11918223382535) |
+| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou ...` | **333.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617494) • [🐱 Nyaa](https://nyaa.si/view/2124825) |
+| `[Erai-raws] Tadaima Ojamasaremasu - 12 [1080p CR WEBRip HEVC AAC][M...` | **300.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617495) • [🐱 Nyaa](https://nyaa.si/view/2124824) |
+| `[CicakRumah] Koupen-chan Extra: Hanamaru Morning Radio - Episode 1 ...` | **4.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617492) • [🐱 Nyaa](https://nyaa.si/view/2124823) |
+| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha ...` | **506.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617493) • [🐱 Nyaa](https://nyaa.si/view/2124822) |
+| `[ASW] Yuusha no Rokkotsu de - 12 [1080p HEVC x265 10Bit][AAC]` | **523.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617489) • [🐱 Nyaa](https://nyaa.si/view/2124821) |
+| `[DKB] Marriagetoxin - S01E12 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **417.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617490) • [🐱 Nyaa](https://nyaa.si/view/2124820) |
+| `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta - S...` | **230.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617491) • [🐱 Nyaa](https://nyaa.si/view/2124816) |
+| `[Onalrie] Yuusha no Rokkotsu de - S01E12 [1080p WEBRip AV1]` | **371.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/617488) • [🐱 Nyaa](https://nekobt.to/torrents/11917331554826) |
+| `[ASW] Tadaima, Ojamasaremasu! - 12 [1080p HEVC x265 10Bit][AAC]` | **188.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617482) • [🐱 Nyaa](https://nyaa.si/view/2124812) |
+| `My Ribdiculous Reincarnation S01E12 Hero Who Saves the World 1080p ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617483) • [🐱 Nyaa](https://nyaa.si/view/2124811) |
+| `[Onalrie] Tadaima, Ojamasaremasu! - S01E12 [1080p WEBRip AV1]` | **187.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/617487) • [🐱 Nyaa](https://nekobt.to/torrents/11916662527748) |
+| `[ToonsHub] My Ribdiculous Reincarnation S01E12 1080p CR WEB-DL AAC2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617484) • [🐱 Nyaa](https://nyaa.si/view/2124810) |
+| `[SubsPlease] Yuusha no Rokkotsu de - 12 (1080p) [DC672D07].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617485) • [🐱 Nyaa](https://nyaa.si/view/2124808) |
+| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617481) • [🐱 Nyaa](https://nyaa.si/view/2124801) |
 
 ---
 <div align="center">
