@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.58.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.15.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Aishiteru Game wo Owarasetai - S01E11 [1080p][HEVC x265 10bit...` | **201.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617510) • [🐱 Nyaa](https://nyaa.si/view/2124841) |
+| `[DKB] Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tam...` | **321.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617511) • [🐱 Nyaa](https://nyaa.si/view/2124840) |
 | `[sam] Grand Blue Dreaming - S01E09 (BD 1080p HEVC x265 10-bit FLAC)` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617508) • [🐱 Nyaa](https://nyaa.si/view/2124838) |
 | `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **638.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617509) • [🐱 Nyaa](https://nyaa.si/view/2124837) |
 | `[Unfucked] I Want to End This Love Game - S01E09 (1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617505) • [🐱 Nyaa](https://nyaa.si/view/2124836) |
@@ -43,8 +45,6 @@
 | `[kikuri] Kusuriya no Hitorigoto 2nd Season (BD 1080p HEVC Opus) | T...` | **23190.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/617503) • [🐱 Nyaa](https://nekobt.to/torrents/11918721961482) |
 | `[DB] Nippon Sangoku | Nippon Sangoku: The Three Nations of the Crim...` | **7577.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617497) • [🐱 Nyaa](https://nyaa.si/view/2124828) |
 | `[BlackRabbit] My Hero Academia - Vigilantes (2025) - S02 [WEBDL-108...` | **3941.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/617496) • [🐱 Nyaa](https://nekobt.to/torrents/11918223382535) |
-| `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou ...` | **333.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617494) • [🐱 Nyaa](https://nyaa.si/view/2124825) |
-| `[Erai-raws] Tadaima Ojamasaremasu - 12 [1080p CR WEBRip HEVC AAC][M...` | **300.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617495) • [🐱 Nyaa](https://nyaa.si/view/2124824) |
 
 ---
 <div align="center">
