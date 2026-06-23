@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.13.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.05.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Chihiro] Himekishi wa Barbaroi no Yome - 10 [1080p HEVC AAC][015C4...` | **784.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617357) • [🐱 Nyaa](https://nyaa.si/view/2124576) |
+| `Above Myriads S01E05 1080p iQ WEB-DL AAC2.0 H 264-VARYG (Wan Ren Zh...` | **369.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617356) • [🐱 Nyaa](https://nyaa.si/view/2124574) |
+| `[ToonsHub] Above Myriads S01E05 1080p iQ WEB-DL AAC2.0 H.264 (Wan R...` | **369.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617355) • [🐱 Nyaa](https://nyaa.si/view/2124568) |
+| `[Kakumei Subs] Honzuki no Gekokujou S04E11 [1080p WEB HEVC AAC] [Su...` | **2340.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/617354) • [🐱 Nyaa](https://nekobt.to/torrents/11905550776845) |
 | `[BlackRabbit] My Hero Academia (2016) - S08 [WEBDL-1080p][Opus 2.0]...` | **4179.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/617353) • [🐱 Nyaa](https://nekobt.to/torrents/11904512561928) |
 | `[ALS] Shoujo☆Conte All Starlight 01-26 (1080p WEB AC-3 x264)` | **1972.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/617349) • [🐱 Nyaa](https://nekobt.to/torrents/11904041618183) |
 | `[ALS] Medalist 09 (1080p BD AAC x264)` | **851.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/617350) • [🐱 Nyaa](https://nekobt.to/torrents/11903969849351) |
@@ -43,10 +47,6 @@
 | `KILL BLUE S01E09 The Impossible Aftermath of an Impossible Game 108...` | **926.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617346) • [🐱 Nyaa](https://nyaa.si/view/2124550) |
 | `[ToonsHub] KILL BLUE S01E09 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (K...` | **1021.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617343) • [🐱 Nyaa](https://nyaa.si/view/2124536) |
 | `[ToonsHub] KILL BLUE S01E09 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Ki...` | **926.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617342) • [🐱 Nyaa](https://nyaa.si/view/2124535) |
-| `Witch Hat Atelier S01E13 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1437.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/617340) • [🐱 Nyaa](https://nekobt.to/torrents/11898944687365) |
-| `Lord of Mysteries S00E18 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1505.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/617341) • [🐱 Nyaa](https://nekobt.to/torrents/11898928199936) |
-| `[BlackRabbit] Demon Slayer - Kimetsu no Yaiba (2019) - S02 [Bluray-...` | **1886.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/617339) • [🐱 Nyaa](https://nekobt.to/torrents/11898278912007) |
-| `[HatSubs] One Piece 1167 (WEB 1080p) [2056CC7D].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617338) • [🐱 Nyaa](https://nyaa.si/view/2124530) |
 
 ---
 <div align="center">
