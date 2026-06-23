@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.43.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.49.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] KILL BLUE S01E09 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (K...` | **1021.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617343) • [🐱 Nyaa](https://nyaa.si/view/2124536) |
+| `[ToonsHub] KILL BLUE S01E09 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Ki...` | **926.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617342) • [🐱 Nyaa](https://nyaa.si/view/2124535) |
 | `Witch Hat Atelier S01E13 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1437.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/617340) • [🐱 Nyaa](https://nekobt.to/torrents/11898944687365) |
 | `Lord of Mysteries S00E18 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1505.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/617341) • [🐱 Nyaa](https://nekobt.to/torrents/11898928199936) |
 | `[BlackRabbit] Demon Slayer - Kimetsu no Yaiba (2019) - S02 [Bluray-...` | **1886.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/617339) • [🐱 Nyaa](https://nekobt.to/torrents/11898278912007) |
@@ -45,8 +47,6 @@
 | `[Headpatter] Your Forma Season 1 (BD 1080p HEVC 10-bit Opus) [Dual ...` | **41472.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617329) • [🐱 Nyaa](https://nyaa.si/view/2124501) |
 | `[Headpatter] The Too-Perfect Saint: Tossed Aside by My Fiancé and S...` | **14745.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617330) • [🐱 Nyaa](https://nyaa.si/view/2124499) |
 | `[Headpatter] Burn the Witch Season 1 v2 (BD 1080p HEVC 10-bit Opus)...` | **9318.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617331) • [🐱 Nyaa](https://nyaa.si/view/2124498) |
-| `[Gecko] Nonhuman - S03E13-E20 (非人哉; Fei Ren Zai 3rd Season Part 2) ...` | **852.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617327) • [🐱 Nyaa](https://nyaa.si/view/2124496) |
-| `[BlackRabbit] Demon Slayer - Kimetsu no Yaiba (2019) - S01 [Bluray-...` | **6571.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/617328) • [🐱 Nyaa](https://nekobt.to/torrents/11894916304399) |
 
 ---
 <div align="center">
