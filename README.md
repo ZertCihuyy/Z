@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.23.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.58.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sam] Grand Blue Dreaming - S01E09 (BD 1080p HEVC x265 10-bit FLAC)` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617508) • [🐱 Nyaa](https://nyaa.si/view/2124838) |
+| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **638.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617509) • [🐱 Nyaa](https://nyaa.si/view/2124837) |
+| `[Unfucked] I Want to End This Love Game - S01E09 (1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617505) • [🐱 Nyaa](https://nyaa.si/view/2124836) |
+| `[Unfucked] I Want to End This Love Game - S01E11 (1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617506) • [🐱 Nyaa](https://nyaa.si/view/2124835) |
+| `[Unfucked] I Made Friends with the Second Prettiest Girl in My Clas...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617507) • [🐱 Nyaa](https://nyaa.si/view/2124834) |
+| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 45 (S04E09)...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617504) • [🐱 Nyaa](https://nyaa.si/view/2124833) |
+| `Magical Sisters LuluttoLilly S01E11 1080p AMZN WEB-DL DDP2.0 H 264-...` | **654.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617499) • [🐱 Nyaa](https://nyaa.si/view/2124832) |
+| `Magical Sisters LuluttoLilly S01E10 1080p AMZN WEB-DL DDP2.0 H 264-...` | **726.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617500) • [🐱 Nyaa](https://nyaa.si/view/2124831) |
+| `Magical Sisters LuluttoLilly S01E09 1080p AMZN WEB-DL DDP2.0 H 264-...` | **577.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617501) • [🐱 Nyaa](https://nyaa.si/view/2124830) |
+| `[Erai-raws] Marriagetoxin - 12 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **444.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617502) • [🐱 Nyaa](https://nyaa.si/view/2124829) |
+| `[kikuri] Kusuriya no Hitorigoto 2nd Season (BD 1080p HEVC Opus) | T...` | **23190.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/617503) • [🐱 Nyaa](https://nekobt.to/torrents/11918721961482) |
+| `[DB] Nippon Sangoku | Nippon Sangoku: The Three Nations of the Crim...` | **7577.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617497) • [🐱 Nyaa](https://nyaa.si/view/2124828) |
 | `[BlackRabbit] My Hero Academia - Vigilantes (2025) - S02 [WEBDL-108...` | **3941.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/617496) • [🐱 Nyaa](https://nekobt.to/torrents/11918223382535) |
 | `[Erai-raws] Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou ...` | **333.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617494) • [🐱 Nyaa](https://nyaa.si/view/2124825) |
 | `[Erai-raws] Tadaima Ojamasaremasu - 12 [1080p CR WEBRip HEVC AAC][M...` | **300.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617495) • [🐱 Nyaa](https://nyaa.si/view/2124824) |
-| `[CicakRumah] Koupen-chan Extra: Hanamaru Morning Radio - Episode 1 ...` | **4.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617492) • [🐱 Nyaa](https://nyaa.si/view/2124823) |
-| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha ...` | **506.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617493) • [🐱 Nyaa](https://nyaa.si/view/2124822) |
-| `[ASW] Yuusha no Rokkotsu de - 12 [1080p HEVC x265 10Bit][AAC]` | **523.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617489) • [🐱 Nyaa](https://nyaa.si/view/2124821) |
-| `[DKB] Marriagetoxin - S01E12 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **417.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617490) • [🐱 Nyaa](https://nyaa.si/view/2124820) |
-| `[DKB] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta - S...` | **230.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617491) • [🐱 Nyaa](https://nyaa.si/view/2124816) |
-| `[Onalrie] Yuusha no Rokkotsu de - S01E12 [1080p WEBRip AV1]` | **371.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/617488) • [🐱 Nyaa](https://nekobt.to/torrents/11917331554826) |
-| `[ASW] Tadaima, Ojamasaremasu! - 12 [1080p HEVC x265 10Bit][AAC]` | **188.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617482) • [🐱 Nyaa](https://nyaa.si/view/2124812) |
-| `My Ribdiculous Reincarnation S01E12 Hero Who Saves the World 1080p ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617483) • [🐱 Nyaa](https://nyaa.si/view/2124811) |
-| `[Onalrie] Tadaima, Ojamasaremasu! - S01E12 [1080p WEBRip AV1]` | **187.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/617487) • [🐱 Nyaa](https://nekobt.to/torrents/11916662527748) |
-| `[ToonsHub] My Ribdiculous Reincarnation S01E12 1080p CR WEB-DL AAC2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617484) • [🐱 Nyaa](https://nyaa.si/view/2124810) |
-| `[SubsPlease] Yuusha no Rokkotsu de - 12 (1080p) [DC672D07].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617485) • [🐱 Nyaa](https://nyaa.si/view/2124808) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617481) • [🐱 Nyaa](https://nyaa.si/view/2124801) |
 
 ---
 <div align="center">
