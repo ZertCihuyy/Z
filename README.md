@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.15.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.26.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `MARRIAGETOXIN S01E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1467.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/617516) • [🐱 Nyaa](https://nekobt.to/torrents/11923016217870) |
+| `All Out S01 MULTi 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raws (VF, F...` | **14547.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/617515) • [🐱 Nyaa](https://nekobt.to/torrents/11922347580165) |
+| `[Some-Stuffs] Pokémon Concierge (1080p)` | **5836.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617513) • [🐱 Nyaa](https://nyaa.si/view/2124849) |
 | `[DKB] Aishiteru Game wo Owarasetai - S01E11 [1080p][HEVC x265 10bit...` | **201.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617510) • [🐱 Nyaa](https://nyaa.si/view/2124841) |
 | `[DKB] Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tam...` | **321.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617511) • [🐱 Nyaa](https://nyaa.si/view/2124840) |
 | `[sam] Grand Blue Dreaming - S01E09 (BD 1080p HEVC x265 10-bit FLAC)` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617508) • [🐱 Nyaa](https://nyaa.si/view/2124838) |
@@ -42,9 +45,6 @@
 | `Magical Sisters LuluttoLilly S01E10 1080p AMZN WEB-DL DDP2.0 H 264-...` | **726.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617500) • [🐱 Nyaa](https://nyaa.si/view/2124831) |
 | `Magical Sisters LuluttoLilly S01E09 1080p AMZN WEB-DL DDP2.0 H 264-...` | **577.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617501) • [🐱 Nyaa](https://nyaa.si/view/2124830) |
 | `[Erai-raws] Marriagetoxin - 12 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **444.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617502) • [🐱 Nyaa](https://nyaa.si/view/2124829) |
-| `[kikuri] Kusuriya no Hitorigoto 2nd Season (BD 1080p HEVC Opus) | T...` | **23190.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/617503) • [🐱 Nyaa](https://nekobt.to/torrents/11918721961482) |
-| `[DB] Nippon Sangoku | Nippon Sangoku: The Three Nations of the Crim...` | **7577.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617497) • [🐱 Nyaa](https://nyaa.si/view/2124828) |
-| `[BlackRabbit] My Hero Academia - Vigilantes (2025) - S02 [WEBDL-108...` | **3941.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/617496) • [🐱 Nyaa](https://nekobt.to/torrents/11918223382535) |
 
 ---
 <div align="center">
