@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.42.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.55.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,21 +29,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Kanojo Okarishimasu 5th Season - 12 [1080p CR WEBRip HE...` | **442.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617594) • [🐱 Nyaa](https://nyaa.si/view/2125004) |
-| `[ToonsHub] Reborn as a Vending Machine I Now Wander the Dungeon S03...` | **1686.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/617591) • [🐱 Nyaa](https://nekobt.to/torrents/11934830143748) |
-| `[VARYG] Reborn as a Vending Machine I Now Wander the Dungeon S03E12...` | **1428.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/617592) • [🐱 Nyaa](https://nekobt.to/torrents/11934824721920) |
-| `[ToonsHub] Reborn as a Vending Machine I Now Wander the Dungeon S03...` | **1431.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/617593) • [🐱 Nyaa](https://nekobt.to/torrents/11934789640968) |
-| `[SubsPlease] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samay...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617585) • [🐱 Nyaa](https://nyaa.si/view/2125000) |
-| `[Erai-raws] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617590) • [🐱 Nyaa](https://nyaa.si/view/2124993) |
-| `[ASW] Kanojo, Okarishimasu - 60 [1080p HEVC x265 10Bit][AAC]` | **228.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617582) • [🐱 Nyaa](https://nyaa.si/view/2124992) |
-| `[Onalrie] Kanojo, Okarishimasu - S05E12 [1080p WEBRip AV1]` | **192.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/617584) • [🐱 Nyaa](https://nekobt.to/torrents/11934444763918) |
-| `[Judas] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom ...` | **213.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617583) • [🐱 Nyaa](https://nyaa.si/view/2124991) |
-| `[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Sea...` | **385.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617581) • [🐱 Nyaa](https://nyaa.si/view/2124988) |
-| `[VARYG] Rent a Girlfriend S05E12 1080p CR WEB-DL AAC2.0 H.264 (Kano...` | **1421.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/617575) • [🐱 Nyaa](https://nekobt.to/torrents/11934047550209) |
-| `Rent a Girlfriend S05E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1498.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617576) • [🐱 Nyaa](https://nekobt.to/torrents/11934017215495) |
-| `Classroom of the Elite S04E11 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1450.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/617577) • [🐱 Nyaa](https://nekobt.to/torrents/11933996545282) |
-| `[ToonsHub] Rent-a-Girlfriend S05E09 1080p CR WEB-DL MULTi AAC2.0 H....` | **1644.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/617578) • [🐱 Nyaa](https://nekobt.to/torrents/11933957354246) |
-| `[VARYG] Rent a Girlfriend S05E10 Childhood Home and Girlfriend 1080...` | **1489.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/617579) • [🐱 Nyaa](https://nekobt.to/torrents/11933941595648) |
+| `[Onalrie] Otaku ni Yasashii Gal wa Inai - S01E12 [1080p WEBRip AV1]` | **183.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/617651) • [🐱 Nyaa](https://nekobt.to/torrents/11937297155329) |
+| `[ToonsHub] The Beginning After the End S02E12 1080p BILI WEB-DL AAC...` | **385.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/617652) • [🐱 Nyaa](https://nekobt.to/torrents/11937290446848) |
+| `[VARYG] The Beginning After the End S02E11 The King Celebrates 1080...` | **1390.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/617645) • [🐱 Nyaa](https://nekobt.to/torrents/11937039787789) |
+| `[ASW] Otaku ni Yasashii Gal wa Inai - 12 [1080p HEVC x265 10Bit][AAC]` | **202.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617649) • [🐱 Nyaa](https://nyaa.si/view/2125073) |
+| `[VARYG] The Beginning After the End S02E12 The King Enrolls 1080p C...` | **1341.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/617646) • [🐱 Nyaa](https://nekobt.to/torrents/11937006607370) |
+| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 01 [10...` | **575.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617650) • [🐱 Nyaa](https://nyaa.si/view/2125070) |
+| `[Onalrie] All Works Maid - S01E01 [1080p WEBRip AV1]` | **226.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/617647) • [🐱 Nyaa](https://nekobt.to/torrents/11936919868687) |
+| `[Yameii] The Beginning After the End - S02E11 [English Dub] [CR WEB...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617631) • [🐱 Nyaa](https://nyaa.si/view/2125069) |
+| `[ToonsHub] The Beginning After the End S02E11 1080p CR WEB-DL DUAL ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617633) • [🐱 Nyaa](https://nyaa.si/view/2125065) |
+| `[ToonsHub] The Beginning After the End S02E12 1080p CR WEB-DL AAC2....` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617634) • [🐱 Nyaa](https://nyaa.si/view/2125064) |
+| `[SubsPlease] The Beginning After the End S2 - 12 (1080p) [B8EDF78B]...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617635) • [🐱 Nyaa](https://nyaa.si/view/2125063) |
+| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? Sea...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617639) • [🐱 Nyaa](https://nyaa.si/view/2125059) |
+| `[Trix] Gals Can't Be Kind to Otaku!? S01E12 [WEBRip 1080p AV1 Opus]...` | **244.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617641) • [🐱 Nyaa](https://nyaa.si/view/2125057) |
+| `Kirio Fan Club S01E02 When I Saw Your Tears That Day 1080p HIDI WEB...` | **922.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617642) • [🐱 Nyaa](https://nyaa.si/view/2125056) |
+| `The Most Heretical Last Boss Queen From Villainess to Savior S02E06...` | **740.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617643) • [🐱 Nyaa](https://nyaa.si/view/2125055) |
 
 ---
 <div align="center">
