@@ -1,5 +1,5 @@
 {
-  "last_update": "24/6/2026, 12.45.05",
+  "last_update": "24/6/2026, 15.45.54",
   "hari": "Rabu",
   "data": [
     {
@@ -49,21 +49,6 @@
           "Action",
           "Adventure",
           "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782288900,
-      "media": {
-        "id": 163793,
-        "title": {
-          "romaji": "Cheongchun Blossom: Uriui Bom"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg"
-        },
-        "genres": [
-          "Romance"
         ]
       }
     },

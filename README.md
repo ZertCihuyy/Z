@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.45.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.45.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -15,7 +15,6 @@
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg" width="45" style="border-radius: 4px;"> | `05.06` | **[Chibi Godzilla no Gyakushuu 3](https://anilist.co/anime/193883)** | *Comedy, Fantasy* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212309-gDqt6qz1RPEL.png" width="45" style="border-radius: 4px;"> | `08.00` | **[Transformers: Wild King W](https://anilist.co/anime/212309)** | *Action, Mecha, Sci-Fi* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg" width="45" style="border-radius: 4px;"> | `09.00` | **[Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi](https://anilist.co/anime/213297)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg" width="45" style="border-radius: 4px;"> | `15.15` | **[Cheongchun Blossom: Uriui Bom](https://anilist.co/anime/163793)** | *Romance* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg" width="45" style="border-radius: 4px;"> | `18.00` | **[Ugoku! Neko Mukashi Banashi](https://anilist.co/anime/188529)** | *Comedy* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png" width="45" style="border-radius: 4px;"> | `19.30` | **[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki](https://anilist.co/anime/180745)** | *Drama, Psychological* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png" width="45" style="border-radius: 4px;"> | `20.00` | **[Kanojo, Okarishimasu 5th Season](https://anilist.co/anime/199029)** | *Comedy, Romance* |
@@ -30,6 +29,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Quanzhi Fashi - S07E06 [1080p WEBRip AV1]` | **239.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/617541) • [🐱 Nyaa](https://nekobt.to/torrents/11929141068043) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S01E02 1080p LIV WE...` | **213.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617538) • [🐱 Nyaa](https://nyaa.si/view/2124916) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S01E03 1080p LIV WE...` | **185.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617539) • [🐱 Nyaa](https://nyaa.si/view/2124915) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S01E01 1080p LIV WE...` | **180.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617540) • [🐱 Nyaa](https://nyaa.si/view/2124914) |
 | `[MegaMTBB] Hakumei to Mikochi S1 (BD 1080p)` | **26112.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617536) • [🐱 Nyaa](https://nyaa.si/view/2124908) |
 | `[Tasokare] Days with My Stepsister S01 (BD 1080p Opus AV1) | Gimai ...` | **12132.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/617534) • [🐱 Nyaa](https://nekobt.to/torrents/11925942750478) |
 | `[Kawatare] Days with My Stepsister S01 (BD 1080p FLAC x265) | Gimai...` | **51305.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/617535) • [🐱 Nyaa](https://nekobt.to/torrents/11925940879108) |
@@ -41,10 +44,6 @@
 | `[derpie] MARRIAGETOXIN - S01E12 (WEB 1080p HEVC AAC) | Marriage Toxin` | **1693.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/617527) • [🐱 Nyaa](https://nekobt.to/torrents/11924343929612) |
 | `[derpie] MARRIAGETOXIN - S01E10 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1706.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/617528) • [🐱 Nyaa](https://nekobt.to/torrents/11924337613319) |
 | `[ToonsHub] Full-Time Magister S07E06 1080p CR WEB-DL AAC2.0 H.264 (...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617522) • [🐱 Nyaa](https://nyaa.si/view/2124894) |
-| `Versatile Mage S07E06 Breakout of a Fierce Battle 1080p CR WEB-DL A...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617523) • [🐱 Nyaa](https://nyaa.si/view/2124893) |
-| `[SubsPlease] Quanzhi Fashi S7 - 06 (1080p) [FAC2BAAB].mkv` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617524) • [🐱 Nyaa](https://nyaa.si/view/2124892) |
-| `Resident Evil Infinite Darkness S01 MULTi 1080p NF WEB-DL DDP5.1 x2...` | **7782.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617521) • [🐱 Nyaa](https://nyaa.si/view/2124886) |
-| `Resident Evil Degeneration (2008) MULTi 1080p NF WEB-DL DDP5.1 x264...` | **7372.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617519) • [🐱 Nyaa](https://nyaa.si/view/2124884) |
 
 ---
 <div align="center">
