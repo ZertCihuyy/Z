@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.26.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.45.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `MARRIAGETOXIN S01E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1467.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/617516) • [🐱 Nyaa](https://nekobt.to/torrents/11923016217870) |
-| `All Out S01 MULTi 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raws (VF, F...` | **14547.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/617515) • [🐱 Nyaa](https://nekobt.to/torrents/11922347580165) |
-| `[Some-Stuffs] Pokémon Concierge (1080p)` | **5836.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617513) • [🐱 Nyaa](https://nyaa.si/view/2124849) |
-| `[DKB] Aishiteru Game wo Owarasetai - S01E11 [1080p][HEVC x265 10bit...` | **201.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617510) • [🐱 Nyaa](https://nyaa.si/view/2124841) |
-| `[DKB] Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tam...` | **321.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617511) • [🐱 Nyaa](https://nyaa.si/view/2124840) |
-| `[sam] Grand Blue Dreaming - S01E09 (BD 1080p HEVC x265 10-bit FLAC)` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617508) • [🐱 Nyaa](https://nyaa.si/view/2124838) |
-| `[Erai-raws] Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuu...` | **638.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617509) • [🐱 Nyaa](https://nyaa.si/view/2124837) |
-| `[Unfucked] I Want to End This Love Game - S01E09 (1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617505) • [🐱 Nyaa](https://nyaa.si/view/2124836) |
-| `[Unfucked] I Want to End This Love Game - S01E11 (1080p CR WEB-DL A...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617506) • [🐱 Nyaa](https://nyaa.si/view/2124835) |
-| `[Unfucked] I Made Friends with the Second Prettiest Girl in My Clas...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617507) • [🐱 Nyaa](https://nyaa.si/view/2124834) |
-| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 45 (S04E09)...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617504) • [🐱 Nyaa](https://nyaa.si/view/2124833) |
-| `Magical Sisters LuluttoLilly S01E11 1080p AMZN WEB-DL DDP2.0 H 264-...` | **654.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617499) • [🐱 Nyaa](https://nyaa.si/view/2124832) |
-| `Magical Sisters LuluttoLilly S01E10 1080p AMZN WEB-DL DDP2.0 H 264-...` | **726.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617500) • [🐱 Nyaa](https://nyaa.si/view/2124831) |
-| `Magical Sisters LuluttoLilly S01E09 1080p AMZN WEB-DL DDP2.0 H 264-...` | **577.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617501) • [🐱 Nyaa](https://nyaa.si/view/2124830) |
-| `[Erai-raws] Marriagetoxin - 12 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **444.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617502) • [🐱 Nyaa](https://nyaa.si/view/2124829) |
+| `[MegaMTBB] Hakumei to Mikochi S1 (BD 1080p)` | **26112.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617536) • [🐱 Nyaa](https://nyaa.si/view/2124908) |
+| `[Tasokare] Days with My Stepsister S01 (BD 1080p Opus AV1) | Gimai ...` | **12132.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/617534) • [🐱 Nyaa](https://nekobt.to/torrents/11925942750478) |
+| `[Kawatare] Days with My Stepsister S01 (BD 1080p FLAC x265) | Gimai...` | **51305.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/617535) • [🐱 Nyaa](https://nekobt.to/torrents/11925940879108) |
+| `[Judas] One Piece - 1167 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **311.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617533) • [🐱 Nyaa](https://nyaa.si/view/2124900) |
+| `[ASW] Quanzhi Fashi S7 - 06 [1080p HEVC x265 10Bit][AAC]` | **327.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617532) • [🐱 Nyaa](https://nyaa.si/view/2124899) |
+| `[sandoe41] Saving 80,000 Gold in Another World [NCOP][1080P][BDRip]...` | **107.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617531) • [🐱 Nyaa](https://nyaa.si/view/2124898) |
+| `Walking the Way all alone S01E12 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **695.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617529) • [🐱 Nyaa](https://nyaa.si/view/2124897) |
+| `[ToonsHub] Walking the Way all alone S01E13 1080p BILI WEB-DL AAC2....` | **761.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617530) • [🐱 Nyaa](https://nyaa.si/view/2124896) |
+| `[derpie] MARRIAGETOXIN - S01E12 (WEB 1080p HEVC AAC) | Marriage Toxin` | **1693.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/617527) • [🐱 Nyaa](https://nekobt.to/torrents/11924343929612) |
+| `[derpie] MARRIAGETOXIN - S01E10 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1706.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/617528) • [🐱 Nyaa](https://nekobt.to/torrents/11924337613319) |
+| `[ToonsHub] Full-Time Magister S07E06 1080p CR WEB-DL AAC2.0 H.264 (...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617522) • [🐱 Nyaa](https://nyaa.si/view/2124894) |
+| `Versatile Mage S07E06 Breakout of a Fierce Battle 1080p CR WEB-DL A...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617523) • [🐱 Nyaa](https://nyaa.si/view/2124893) |
+| `[SubsPlease] Quanzhi Fashi S7 - 06 (1080p) [FAC2BAAB].mkv` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617524) • [🐱 Nyaa](https://nyaa.si/view/2124892) |
+| `Resident Evil Infinite Darkness S01 MULTi 1080p NF WEB-DL DDP5.1 x2...` | **7782.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617521) • [🐱 Nyaa](https://nyaa.si/view/2124886) |
+| `Resident Evil Degeneration (2008) MULTi 1080p NF WEB-DL DDP5.1 x264...` | **7372.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617519) • [🐱 Nyaa](https://nyaa.si/view/2124884) |
 
 ---
 <div align="center">
