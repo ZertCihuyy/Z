@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.52.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.22.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E12 (1080p CR WEB-DL ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617693) • [🐱 Nyaa](https://nyaa.si/view/2125160) |
 | `[FrixySubs] MARRIAGETOXIN - S01E12 [1080p CR WEB-DL H.264 AAC] [Nap...` | **1392.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/617692) • [🐱 Nyaa](https://nekobt.to/torrents/11939575758594) |
 | `[SubsPlease] Nigetsuri (01-12) (1080p) [Batch]` | **16588.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617691) • [🐱 Nyaa](https://nyaa.si/view/2125153) |
 | `[SubsNoJutsu] Wistoria - Wand and Sword - S01E02 (1080p WEB AAC x265)` | **322.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/617690) • [🐱 Nyaa](https://nekobt.to/torrents/11939349840902) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] The Beginning After the End S02E10 1080p CR WEB-DL MULTi...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617672) • [🐱 Nyaa](https://nyaa.si/view/2125124) |
 | `The Beginning After the End S02E12 The King Enrolls 1080p BILI WEB-...` | **433.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617673) • [🐱 Nyaa](https://nyaa.si/view/2125123) |
 | `[ToonsHub] Yowayowa Sensei S01E01 1080p HIDIVE WEB-DL DUAL AAC2.0 H...` | **944.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617674) • [🐱 Nyaa](https://nyaa.si/view/2125122) |
-| `Yowayowa Sensei S01E01 Spooky Scary Sensei 1080p AMZN WEB-DL DUAL D...` | **691.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617675) • [🐱 Nyaa](https://nyaa.si/view/2125121) |
 
 ---
 <div align="center">
