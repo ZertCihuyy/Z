@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.22.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.44.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `One Piece EP093-130 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws...` | **36711.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/617698) • [🐱 Nyaa](https://nekobt.to/torrents/11943408448267) |
+| `One Piece EP093-130 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raw...` | **14592.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/617697) • [🐱 Nyaa](https://nekobt.to/torrents/11943075664387) |
+| `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E01 [...` | **379.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617696) • [🐱 Nyaa](https://nyaa.si/view/2125167) |
+| `One Piece EP093-130 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws ...` | **12488.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/617695) • [🐱 Nyaa](https://nekobt.to/torrents/11942949066241) |
+| `[sam] Dr. STONE - Science Future - S04E36 (WEB 1080p HEVC x265 10-b...` | **3481.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617694) • [🐱 Nyaa](https://nyaa.si/view/2125161) |
 | `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E12 (1080p CR WEB-DL ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617693) • [🐱 Nyaa](https://nyaa.si/view/2125160) |
 | `[FrixySubs] MARRIAGETOXIN - S01E12 [1080p CR WEB-DL H.264 AAC] [Nap...` | **1392.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/617692) • [🐱 Nyaa](https://nekobt.to/torrents/11939575758594) |
 | `[SubsPlease] Nigetsuri (01-12) (1080p) [Batch]` | **16588.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617691) • [🐱 Nyaa](https://nyaa.si/view/2125153) |
@@ -43,11 +48,6 @@
 | `[DKB] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - S0...` | **623.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617682) • [🐱 Nyaa](https://nyaa.si/view/2125141) |
 | `[DKB] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - S04E16 [108...` | **235.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617683) • [🐱 Nyaa](https://nyaa.si/view/2125140) |
 | `[DB] Tu Bian Yingxiong X | To Be Hero X [Tri Audio 10bit BD1080p][H...` | **15667.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617684) • [🐱 Nyaa](https://nyaa.si/view/2125139) |
-| `[Erai-raws] Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? Sea...` | **499.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/617681) • [🐱 Nyaa](https://nekobt.to/torrents/11938673916687) |
-| `[SubsPlease] Maid-san wa Taberu Dake (01-12) (1080p) [Batch]` | **16486.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617678) • [🐱 Nyaa](https://nyaa.si/view/2125127) |
-| `[ToonsHub] The Beginning After the End S02E10 1080p CR WEB-DL MULTi...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617672) • [🐱 Nyaa](https://nyaa.si/view/2125124) |
-| `The Beginning After the End S02E12 The King Enrolls 1080p BILI WEB-...` | **433.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617673) • [🐱 Nyaa](https://nyaa.si/view/2125123) |
-| `[ToonsHub] Yowayowa Sensei S01E01 1080p HIDIVE WEB-DL DUAL AAC2.0 H...` | **944.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617674) • [🐱 Nyaa](https://nyaa.si/view/2125122) |
 
 ---
 <div align="center">
