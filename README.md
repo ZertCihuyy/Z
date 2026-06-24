@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.58.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.52.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] MARRIAGETOXIN - S01E12 [1080p CR WEB-DL H.264 AAC] [Nap...` | **1392.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/617692) • [🐱 Nyaa](https://nekobt.to/torrents/11939575758594) |
+| `[SubsPlease] Nigetsuri (01-12) (1080p) [Batch]` | **16588.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617691) • [🐱 Nyaa](https://nyaa.si/view/2125153) |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E02 (1080p WEB AAC x265)` | **322.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/617690) • [🐱 Nyaa](https://nekobt.to/torrents/11939349840902) |
 | `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - S02E12...` | **442.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617685) • [🐱 Nyaa](https://nyaa.si/view/2125144) |
 | `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E12 [1080p][END][HEVC x2...` | **265.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617686) • [🐱 Nyaa](https://nyaa.si/view/2125143) |
 | `[DKB] Kanojo, Okarishimasu - S05E12 [1080p][END][HEVC x265 10bit][M...` | **305.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617687) • [🐱 Nyaa](https://nyaa.si/view/2125142) |
@@ -45,9 +48,6 @@
 | `The Beginning After the End S02E12 The King Enrolls 1080p BILI WEB-...` | **433.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617673) • [🐱 Nyaa](https://nyaa.si/view/2125123) |
 | `[ToonsHub] Yowayowa Sensei S01E01 1080p HIDIVE WEB-DL DUAL AAC2.0 H...` | **944.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617674) • [🐱 Nyaa](https://nyaa.si/view/2125122) |
 | `Yowayowa Sensei S01E01 Spooky Scary Sensei 1080p AMZN WEB-DL DUAL D...` | **691.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617675) • [🐱 Nyaa](https://nyaa.si/view/2125121) |
-| `The Beginning After the End S02E12 The King Enrolls 1080p BILI WEB-...` | **433.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617676) • [🐱 Nyaa](https://nyaa.si/view/2125120) |
-| `Petals of Reincarnation S01E07 Reblooming Reincarnation 1080p AMZN ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617677) • [🐱 Nyaa](https://nyaa.si/view/2125119) |
-| `Farming Life In Another World S02E09 Return to Ordinary 1080p HIDI ...` | **954.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617670) • [🐱 Nyaa](https://nyaa.si/view/2125116) |
 
 ---
 <div align="center">
