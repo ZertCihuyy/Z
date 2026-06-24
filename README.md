@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.45.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.48.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Cat Tales - S01E37 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **41.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617544) • [🐱 Nyaa](https://nyaa.si/view/2124933) |
+| `[BlackRabbit] My Hero Academia (2016) - S04 [WEBDL-1080p][Opus 2.0]...` | **4852.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/617543) • [🐱 Nyaa](https://nekobt.to/torrents/11930409576455) |
+| `[Gecko] The Diary of Ochibi - S01 (オチビサン; Ochibi-san) [CTHP.WEB-DL ...` | **3481.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617542) • [🐱 Nyaa](https://nyaa.si/view/2124918) |
 | `[Onalrie] Quanzhi Fashi - S07E06 [1080p WEBRip AV1]` | **239.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/617541) • [🐱 Nyaa](https://nekobt.to/torrents/11929141068043) |
 | `[ToonsHub] The Angel Next Door Spoils Me Rotten S01E02 1080p LIV WE...` | **213.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617538) • [🐱 Nyaa](https://nyaa.si/view/2124916) |
 | `[ToonsHub] The Angel Next Door Spoils Me Rotten S01E03 1080p LIV WE...` | **185.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617539) • [🐱 Nyaa](https://nyaa.si/view/2124915) |
@@ -41,9 +44,6 @@
 | `[sandoe41] Saving 80,000 Gold in Another World [NCOP][1080P][BDRip]...` | **107.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617531) • [🐱 Nyaa](https://nyaa.si/view/2124898) |
 | `Walking the Way all alone S01E12 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **695.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617529) • [🐱 Nyaa](https://nyaa.si/view/2124897) |
 | `[ToonsHub] Walking the Way all alone S01E13 1080p BILI WEB-DL AAC2....` | **761.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617530) • [🐱 Nyaa](https://nyaa.si/view/2124896) |
-| `[derpie] MARRIAGETOXIN - S01E12 (WEB 1080p HEVC AAC) | Marriage Toxin` | **1693.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/617527) • [🐱 Nyaa](https://nekobt.to/torrents/11924343929612) |
-| `[derpie] MARRIAGETOXIN - S01E10 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1706.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/617528) • [🐱 Nyaa](https://nekobt.to/torrents/11924337613319) |
-| `[ToonsHub] Full-Time Magister S07E06 1080p CR WEB-DL AAC2.0 H.264 (...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617522) • [🐱 Nyaa](https://nyaa.si/view/2124894) |
 
 ---
 <div align="center">
