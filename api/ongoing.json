@@ -1,5 +1,5 @@
 {
-  "last_update": "24/6/2026, 23.55.55",
+  "last_update": "25/6/2026, 01.58.35",
   "data": [
     {
       "id": 21,
@@ -141,23 +141,6 @@
       }
     },
     {
-      "id": 199588,
-      "title": {
-        "romaji": "Otaku ni Yasashii Gal wa Inai!?"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg"
-      },
-      "episodes": 12,
-      "studios": {
-        "nodes": [
-          {
-            "name": "TMS Entertainment"
-          }
-        ]
-      }
-    },
-    {
       "id": 186497,
       "title": {
         "romaji": "Koori no Jouheki"
@@ -170,6 +153,23 @@
         "nodes": [
           {
             "name": "Studio KAI"
+          }
+        ]
+      }
+    },
+    {
+      "id": 182483,
+      "title": {
+        "romaji": "Hime Kishi wa Barbaroi no Yome"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg"
+      },
+      "episodes": 12,
+      "studios": {
+        "nodes": [
+          {
+            "name": "Jumondou"
           }
         ]
       }

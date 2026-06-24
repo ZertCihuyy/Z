@@ -1,183 +1,246 @@
 {
-  "last_update": "24/6/2026, 23.55.55",
-  "hari": "Rabu",
+  "last_update": "25/6/2026, 01.58.35",
+  "hari": "Kamis",
   "data": [
     {
-      "airingAt": 1782252360,
+      "airingAt": 1782379800,
       "media": {
-        "id": 193883,
+        "id": 209541,
         "title": {
-          "romaji": "Chibi Godzilla no Gyakushuu 3"
+          "romaji": "PetitCure: Precure Fairies Season 3"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg"
         },
         "genres": [
-          "Comedy",
-          "Fantasy"
+          "Fantasy",
+          "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1782262800,
+      "airingAt": 1782385200,
       "media": {
-        "id": 212309,
+        "id": 203710,
         "title": {
-          "romaji": "Transformers: Wild King W"
+          "romaji": "Wei Miao Rensheng"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212309-gDqt6qz1RPEL.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg"
+        },
+        "genres": [
+          "Romance",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782385200,
+      "media": {
+        "id": 194389,
+        "title": {
+          "romaji": "Koala Enikki"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png"
+        },
+        "genres": [
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782390600,
+      "media": {
+        "id": 182483,
+        "title": {
+          "romaji": "Hime Kishi wa Barbaroi no Yome"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Fantasy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782392400,
+      "media": {
+        "id": 187166,
+        "title": {
+          "romaji": "Ganso! Bandori-chan"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png"
+        },
+        "genres": [
+          "Comedy",
+          "Music"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782392400,
+      "media": {
+        "id": 199221,
+        "title": {
+          "romaji": "Dr. STONE: SCIENCE FUTURE Part 3"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg"
         },
         "genres": [
           "Action",
-          "Mecha",
+          "Adventure",
+          "Comedy",
           "Sci-Fi"
         ]
       }
     },
     {
-      "airingAt": 1782266400,
+      "airingAt": 1782394200,
       "media": {
-        "id": 213297,
+        "id": 177508,
         "title": {
-          "romaji": "Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi"
+          "romaji": "Kujima Utaeba Ie Hororo"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177508-Ajz9UrU5SsQ0.jpg"
         },
         "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1782298800,
+      "airingAt": 1782399360,
       "media": {
-        "id": 188529,
+        "id": 186497,
         "title": {
-          "romaji": "Ugoku! Neko Mukashi Banashi"
+          "romaji": "Koori no Jouheki"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg"
         },
         "genres": [
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782304200,
-      "media": {
-        "id": 180745,
-        "title": {
-          "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png"
-        },
-        "genres": [
+          "Comedy",
           "Drama",
-          "Psychological"
+          "Romance",
+          "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1782306000,
+      "airingAt": 1782399600,
       "media": {
-        "id": 199029,
+        "id": 206682,
         "title": {
-          "romaji": "Kanojo, Okarishimasu 5th Season"
+          "romaji": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206682-CV51UmTvQJ84.png"
         },
         "genres": [
           "Comedy",
-          "Romance"
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1782306000,
+      "airingAt": 1782399600,
       "media": {
-        "id": 198939,
+        "id": 144779,
         "title": {
-          "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season"
+          "romaji": "Yamato yo Towa ni: REBEL3199"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198939-95aqzBr0Lzcv.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144779-WJ8aJbYk3o5t.png"
         },
         "genres": [
           "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
+          "Sci-Fi"
         ]
       }
     },
     {
-      "airingAt": 1782307800,
+      "airingAt": 1782399600,
       "media": {
-        "id": 192800,
+        "id": 206840,
         "title": {
-          "romaji": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!"
+          "romaji": "Todo no Tsumari"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206840-WSrKIJA0GFci.png"
+        },
+        "genres": [
+          "Hentai"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782399600,
+      "media": {
+        "id": 210116,
+        "title": {
+          "romaji": "Kare no Shiranai Himitsu wo Irete. The Animation"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210116-CRuoaXeZO5qU.png"
+        },
+        "genres": [
+          "Hentai"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782399600,
+      "media": {
+        "id": 176636,
+        "title": {
+          "romaji": "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu! "
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176636-zPyFoYfFYZLo.jpg"
         },
         "genres": [
           "Comedy",
-          "Fantasy"
+          "Sci-Fi"
         ]
       }
     },
     {
-      "airingAt": 1782311400,
+      "airingAt": 1782399600,
       "media": {
-        "id": 194317,
+        "id": 211557,
         "title": {
-          "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season"
+          "romaji": "Furachi"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png"
         },
         "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
+          "Hentai"
         ]
       }
     },
     {
-      "airingAt": 1782312300,
+      "airingAt": 1782399600,
       "media": {
-        "id": 199588,
+        "id": 211557,
         "title": {
-          "romaji": "Otaku ni Yasashii Gal wa Inai!?"
+          "romaji": "Furachi"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png"
         },
         "genres": [
-          "Comedy",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782312960,
-      "media": {
-        "id": 205772,
-        "title": {
-          "romaji": "Candy Caries"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png"
-        },
-        "genres": [
-          "Comedy"
+          "Hentai"
         ]
       }
     }
