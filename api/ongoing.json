@@ -1,5 +1,5 @@
 {
-  "last_update": "24/6/2026, 18.48.15",
+  "last_update": "24/6/2026, 21.42.08",
   "data": [
     {
       "id": 21,
@@ -65,23 +65,6 @@
         "nodes": [
           {
             "name": "8-bit"
-          }
-        ]
-      }
-    },
-    {
-      "id": 180745,
-      "title": {
-        "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png"
-      },
-      "episodes": 16,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Lerche"
           }
         ]
       }
@@ -170,6 +153,23 @@
         "nodes": [
           {
             "name": "TMS Entertainment"
+          }
+        ]
+      }
+    },
+    {
+      "id": 186497,
+      "title": {
+        "romaji": "Koori no Jouheki"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg"
+      },
+      "episodes": null,
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio KAI"
           }
         ]
       }

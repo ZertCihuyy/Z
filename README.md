@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.48.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.42.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,21 +29,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gecko] Cat Tales - S01E37 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **41.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617544) • [🐱 Nyaa](https://nyaa.si/view/2124933) |
-| `[BlackRabbit] My Hero Academia (2016) - S04 [WEBDL-1080p][Opus 2.0]...` | **4852.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/617543) • [🐱 Nyaa](https://nekobt.to/torrents/11930409576455) |
-| `[Gecko] The Diary of Ochibi - S01 (オチビサン; Ochibi-san) [CTHP.WEB-DL ...` | **3481.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617542) • [🐱 Nyaa](https://nyaa.si/view/2124918) |
-| `[Onalrie] Quanzhi Fashi - S07E06 [1080p WEBRip AV1]` | **239.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/617541) • [🐱 Nyaa](https://nekobt.to/torrents/11929141068043) |
-| `[ToonsHub] The Angel Next Door Spoils Me Rotten S01E02 1080p LIV WE...` | **213.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617538) • [🐱 Nyaa](https://nyaa.si/view/2124916) |
-| `[ToonsHub] The Angel Next Door Spoils Me Rotten S01E03 1080p LIV WE...` | **185.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617539) • [🐱 Nyaa](https://nyaa.si/view/2124915) |
-| `[ToonsHub] The Angel Next Door Spoils Me Rotten S01E01 1080p LIV WE...` | **180.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617540) • [🐱 Nyaa](https://nyaa.si/view/2124914) |
-| `[MegaMTBB] Hakumei to Mikochi S1 (BD 1080p)` | **26112.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617536) • [🐱 Nyaa](https://nyaa.si/view/2124908) |
-| `[Tasokare] Days with My Stepsister S01 (BD 1080p Opus AV1) | Gimai ...` | **12132.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/617534) • [🐱 Nyaa](https://nekobt.to/torrents/11925942750478) |
-| `[Kawatare] Days with My Stepsister S01 (BD 1080p FLAC x265) | Gimai...` | **51305.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/617535) • [🐱 Nyaa](https://nekobt.to/torrents/11925940879108) |
-| `[Judas] One Piece - 1167 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **311.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617533) • [🐱 Nyaa](https://nyaa.si/view/2124900) |
-| `[ASW] Quanzhi Fashi S7 - 06 [1080p HEVC x265 10Bit][AAC]` | **327.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617532) • [🐱 Nyaa](https://nyaa.si/view/2124899) |
-| `[sandoe41] Saving 80,000 Gold in Another World [NCOP][1080P][BDRip]...` | **107.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617531) • [🐱 Nyaa](https://nyaa.si/view/2124898) |
-| `Walking the Way all alone S01E12 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **695.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617529) • [🐱 Nyaa](https://nyaa.si/view/2124897) |
-| `[ToonsHub] Walking the Way all alone S01E13 1080p BILI WEB-DL AAC2....` | **761.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617530) • [🐱 Nyaa](https://nyaa.si/view/2124896) |
+| `[Erai-raws] Kanojo Okarishimasu 5th Season - 12 [1080p CR WEBRip HE...` | **442.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617594) • [🐱 Nyaa](https://nyaa.si/view/2125004) |
+| `[ToonsHub] Reborn as a Vending Machine I Now Wander the Dungeon S03...` | **1686.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/617591) • [🐱 Nyaa](https://nekobt.to/torrents/11934830143748) |
+| `[VARYG] Reborn as a Vending Machine I Now Wander the Dungeon S03E12...` | **1428.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/617592) • [🐱 Nyaa](https://nekobt.to/torrents/11934824721920) |
+| `[ToonsHub] Reborn as a Vending Machine I Now Wander the Dungeon S03...` | **1431.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/617593) • [🐱 Nyaa](https://nekobt.to/torrents/11934789640968) |
+| `[SubsPlease] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samay...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617585) • [🐱 Nyaa](https://nyaa.si/view/2125000) |
+| `[Erai-raws] Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617590) • [🐱 Nyaa](https://nyaa.si/view/2124993) |
+| `[ASW] Kanojo, Okarishimasu - 60 [1080p HEVC x265 10Bit][AAC]` | **228.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617582) • [🐱 Nyaa](https://nyaa.si/view/2124992) |
+| `[Onalrie] Kanojo, Okarishimasu - S05E12 [1080p WEBRip AV1]` | **192.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/617584) • [🐱 Nyaa](https://nekobt.to/torrents/11934444763918) |
+| `[Judas] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom ...` | **213.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617583) • [🐱 Nyaa](https://nyaa.si/view/2124991) |
+| `[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Sea...` | **385.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617581) • [🐱 Nyaa](https://nyaa.si/view/2124988) |
+| `[VARYG] Rent a Girlfriend S05E12 1080p CR WEB-DL AAC2.0 H.264 (Kano...` | **1421.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/617575) • [🐱 Nyaa](https://nekobt.to/torrents/11934047550209) |
+| `Rent a Girlfriend S05E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1498.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617576) • [🐱 Nyaa](https://nekobt.to/torrents/11934017215495) |
+| `Classroom of the Elite S04E11 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1450.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/617577) • [🐱 Nyaa](https://nekobt.to/torrents/11933996545282) |
+| `[ToonsHub] Rent-a-Girlfriend S05E09 1080p CR WEB-DL MULTi AAC2.0 H....` | **1644.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/617578) • [🐱 Nyaa](https://nekobt.to/torrents/11933957354246) |
+| `[VARYG] Rent a Girlfriend S05E10 Childhood Home and Girlfriend 1080...` | **1489.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/617579) • [🐱 Nyaa](https://nekobt.to/torrents/11933941595648) |
 
 ---
 <div align="center">
