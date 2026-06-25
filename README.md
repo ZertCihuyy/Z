@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.46.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.25.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kozame] Odekake Kozame (Little Shark's Outings) - 71 [1080p] [A6CE...` | **21.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617717) • [🐱 Nyaa](https://nyaa.si/view/2125260) |
+| `[ToonsHub] Dr STONE SCIENCE FUTURE S04E37 1080p LIV WEB-DL DUAL AAC...` | **299.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617716) • [🐱 Nyaa](https://nyaa.si/view/2125257) |
+| `[Gecko] Koala's Diary - S01E38 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **33.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617715) • [🐱 Nyaa](https://nyaa.si/view/2125255) |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E03 (1080p WEB AAC x265)` | **350.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/617713) • [🐱 Nyaa](https://nekobt.to/torrents/11953551324937) |
+| `[Feibanyama] Witch Hat Atelier S01E13 [CR WebRip 1080p NVENC AAC Mu...` | **855.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617712) • [🐱 Nyaa](https://nyaa.si/view/2125249) |
 | `[Mo7tas] #Compass 2.0: Sentou Setsuri Kaiseki System [1080p] [Multi...` | **4300.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617711) • [🐱 Nyaa](https://nyaa.si/view/2125248) |
 | `[ToonsHub] The Beginning After the End S02E12 1080p NF WEB-DL AAC2....` | **835.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617710) • [🐱 Nyaa](https://nyaa.si/view/2125243) |
 | `[triple117] Love Stage!! (2014) 01-10 (JPBD Remux 1080p + HIDIVE EN...` | **65187.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/617709) • [🐱 Nyaa](https://nekobt.to/torrents/11951780081926) |
@@ -43,11 +48,6 @@
 | `[Gecko] Reborn as a Cat - S01E35 (为喵人生; Wei Miao Rensheng) [BILI.WE...` | **231.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617702) • [🐱 Nyaa](https://nyaa.si/view/2125189) |
 | `[ToonsHub] Reborn as a Cat S01E35 1080p BILI WEB-DL AAC2.0 H.265 (W...` | **229.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617703) • [🐱 Nyaa](https://nyaa.si/view/2125188) |
 | `[Mo7tas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. [1...` | **3686.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617701) • [🐱 Nyaa](https://nyaa.si/view/2125186) |
-| `Reborn as a Cat S01E33 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **218.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617700) • [🐱 Nyaa](https://nyaa.si/view/2125184) |
-| `One Piece EP093-130 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws...` | **36711.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/617698) • [🐱 Nyaa](https://nekobt.to/torrents/11943408448267) |
-| `One Piece EP093-130 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raw...` | **14592.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/617697) • [🐱 Nyaa](https://nekobt.to/torrents/11943075664387) |
-| `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E01 [...` | **379.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617696) • [🐱 Nyaa](https://nyaa.si/view/2125167) |
-| `One Piece EP093-130 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws ...` | **12488.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/617695) • [🐱 Nyaa](https://nekobt.to/torrents/11942949066241) |
 
 ---
 <div align="center">
