@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.25.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.25.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Kozame] Odekake Kozame (Little Shark's Outings) - 71 [1080p] [A6CE...` | **21.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617717) • [🐱 Nyaa](https://nyaa.si/view/2125260) |
-| `[ToonsHub] Dr STONE SCIENCE FUTURE S04E37 1080p LIV WEB-DL DUAL AAC...` | **299.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617716) • [🐱 Nyaa](https://nyaa.si/view/2125257) |
-| `[Gecko] Koala's Diary - S01E38 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **33.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617715) • [🐱 Nyaa](https://nyaa.si/view/2125255) |
-| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E03 (1080p WEB AAC x265)` | **350.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/617713) • [🐱 Nyaa](https://nekobt.to/torrents/11953551324937) |
-| `[Feibanyama] Witch Hat Atelier S01E13 [CR WebRip 1080p NVENC AAC Mu...` | **855.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617712) • [🐱 Nyaa](https://nyaa.si/view/2125249) |
-| `[Mo7tas] #Compass 2.0: Sentou Setsuri Kaiseki System [1080p] [Multi...` | **4300.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617711) • [🐱 Nyaa](https://nyaa.si/view/2125248) |
-| `[ToonsHub] The Beginning After the End S02E12 1080p NF WEB-DL AAC2....` | **835.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617710) • [🐱 Nyaa](https://nyaa.si/view/2125243) |
-| `[triple117] Love Stage!! (2014) 01-10 (JPBD Remux 1080p + HIDIVE EN...` | **65187.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/617709) • [🐱 Nyaa](https://nekobt.to/torrents/11951780081926) |
-| `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa Inai!? - 12...` | **398.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617708) • [🐱 Nyaa](https://nyaa.si/view/2125230) |
-| `[BlackRabbit] My Hero Academia (2016) - S07 [WEBDL-1080p][Opus 2.0]...` | **4629.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/617707) • [🐱 Nyaa](https://nekobt.to/torrents/11948905696008) |
-| `[Gecko] Cat Tales - S01E37 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617705) • [🐱 Nyaa](https://nyaa.si/view/2125194) |
-| `[Gecko] Candy Caries - S01E11 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617706) • [🐱 Nyaa](https://nyaa.si/view/2125193) |
-| `[Gecko] Reborn as a Cat - S01E35 (为喵人生; Wei Miao Rensheng) [BILI.WE...` | **231.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617702) • [🐱 Nyaa](https://nyaa.si/view/2125189) |
-| `[ToonsHub] Reborn as a Cat S01E35 1080p BILI WEB-DL AAC2.0 H.265 (W...` | **229.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617703) • [🐱 Nyaa](https://nyaa.si/view/2125188) |
-| `[Mo7tas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. [1...` | **3686.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617701) • [🐱 Nyaa](https://nyaa.si/view/2125186) |
+| `[ASW] Kujima Utaeba Ie Hororo - 12 [1080p HEVC x265 10Bit][AAC]` | **276.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617763) • [🐱 Nyaa](https://nyaa.si/view/2125332) |
+| `[Onalrie] Dr. Stone - S04E37 [1080p WEBRip AV1]` | **416.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/617768) • [🐱 Nyaa](https://nekobt.to/torrents/11957934525184) |
+| `Tamons B side S01E08 F-ACE and the Summer Vacation 1080p CR WEB-DL ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617764) • [🐱 Nyaa](https://nyaa.si/view/2125329) |
+| `From Overshadowed to Overpowered Second Reincarnation of a Talentle...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617765) • [🐱 Nyaa](https://nyaa.si/view/2125328) |
+| `[ToonsHub] Tamons B-side S01E08 1080p CR WEB-DL DUAL AAC2.0 H.264 (...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617766) • [🐱 Nyaa](https://nyaa.si/view/2125327) |
+| `[SubsPlease] Rakudai Kenja no Gakuin Musou - 01 (1080p) [EFD70185].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617767) • [🐱 Nyaa](https://nyaa.si/view/2125325) |
+| `KILL BLUE S01E09 The Impossible Aftermath of an Impossible Game 108...` | **894.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617760) • [🐱 Nyaa](https://nyaa.si/view/2125322) |
+| `[Onalrie] Himekishi wa Barbaroi no Yome - S01E12 [1080p WEBRip AV1]` | **207.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/617759) • [🐱 Nyaa](https://onalrie.app/torrent/432b74c2-f9ab-4e92-b4ab-0044ede3698d) |
+| `[FrixySubs] Kanan-sama wa Akumade Choroi - S01E12 [1080p CR WEB-DL ...` | **1377.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/617756) • [🐱 Nyaa](https://nekobt.to/torrents/11957281308680) |
+| `[ASW] Himekishi wa Barbaroi no Yome - 12 [1080p HEVC x265 10Bit][AAC]` | **273.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617749) • [🐱 Nyaa](https://nyaa.si/view/2125318) |
+| `[FrixySubs] Kanan-sama wa Akumade Choroi - S01E11 [1080p CR WEB-DL ...` | **1390.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/617757) • [🐱 Nyaa](https://nekobt.to/torrents/11957216589063) |
+| `[FrixySubs] Kanan-sama wa Akumade Choroi - S01E10 [1080p CR WEB-DL ...` | **1390.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617758) • [🐱 Nyaa](https://nekobt.to/torrents/11957167556364) |
+| `[Erai-raws] Himekishi wa Barbaroi no Yome - 12 [1080p CR WEBRip HEV...` | **437.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617750) • [🐱 Nyaa](https://nyaa.si/view/2125317) |
+| `[Ironclad] Hime Kishi wa Barbaroi no Yome - S01E12 [WEB.1080p.AV1] ...` | **261.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617751) • [🐱 Nyaa](https://nyaa.si/view/2125316) |
+| `Dr STONE S04E37 Ushers of an Exhilarating Future 1080p CR WEB-DL MU...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617752) • [🐱 Nyaa](https://nyaa.si/view/2125315) |
 
 ---
 <div align="center">
