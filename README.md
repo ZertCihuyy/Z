@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.31.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.30.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank...` | **435.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617829) • [🐱 Nyaa](https://nyaa.si/view/2125419) |
+| `[Erai-raws] Reincarnation no Kaben - 13 [1080p AMZN WEBRip HEVC EAC...` | **472.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617825) • [🐱 Nyaa](https://nyaa.si/view/2125415) |
+| `[DKB] Dr. Stone - Science Future - S04E37 [1080p][END][HEVC x265 10...` | **673.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617826) • [🐱 Nyaa](https://nyaa.si/view/2125414) |
+| `[DKB] Himekishi wa Barbaroi no Yome - S01E12 [1080p][END][HEVC x265...` | **343.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617827) • [🐱 Nyaa](https://nyaa.si/view/2125413) |
+| `[Onalrie] Awajima Hyakkei - S01E12 [1080p WEBRip AV1]` | **227.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/617824) • [🐱 Nyaa](https://nekobt.to/torrents/11960369126914) |
+| `[ASW] Awajima Hyakkei - 12 [1080p HEVC x265 10Bit][AAC]` | **289.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617821) • [🐱 Nyaa](https://nyaa.si/view/2125412) |
+| `[Judas] Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha ...` | **338.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617822) • [🐱 Nyaa](https://nyaa.si/view/2125411) |
+| `[ASW] Reincarnation no Kaben - 13 [1080p HEVC x265 10Bit][AAC]` | **375.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617823) • [🐱 Nyaa](https://nyaa.si/view/2125408) |
+| `[Ommex] Doraemon (2005) Episode 920 [ENG SUB][1080p x265 AAC]` | **808.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617818) • [🐱 Nyaa](https://nyaa.si/view/2125407) |
+| `[Trix] Awajima Hyakkei S01E12 [WEBRip 1080p AV1 Opus] (Multi Subs, ...` | **278.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617819) • [🐱 Nyaa](https://nyaa.si/view/2125406) |
+| `[Onalrie] Reincarnation no Kaben - S01E13 [1080p WEBRip AV1]` | **251.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617820) • [🐱 Nyaa](https://nekobt.to/torrents/11959879195401) |
 | `[Erai-raws] Koori no Jouheki - 13 [1080p NF WEBRip HEVC AAC][MultiS...` | **329.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617808) • [🐱 Nyaa](https://nyaa.si/view/2125404) |
 | `The Ramparts of Ice S01E13 1080p NF WEB-DL AAC2.0 AV1 (Multi-Subs) ...` | **185.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617809) • [🐱 Nyaa](https://nyaa.si/view/2125403) |
 | `[Judas] Dr Stone - Science Future - S04E37 [1080p][HEVC x265 10bit]...` | **674.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617810) • [🐱 Nyaa](https://nyaa.si/view/2125402) |
 | `[Judas] Himekishi wa Barbaroi no Yome (The Warrior Princess and the...` | **276.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617811) • [🐱 Nyaa](https://nyaa.si/view/2125401) |
-| `[ToonsHub] Petals of Reincarnation S01E13 1080p AMZN WEB-DL DDP2.0 ...` | **1228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617812) • [🐱 Nyaa](https://nyaa.si/view/2125400) |
-| `A Hundred Scenes of AWAJIMA S01E12 A Hundred Scenes of Awajima 1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617813) • [🐱 Nyaa](https://nyaa.si/view/2125399) |
-| `[ToonsHub] A Hundred Scenes of AWAJIMA S01E12 1080p CR WEB-DL AAC2....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617814) • [🐱 Nyaa](https://nyaa.si/view/2125398) |
-| `[SubsPlease] Awajima Hyakkei - 12 (1080p) [FE1C0B19].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617815) • [🐱 Nyaa](https://nyaa.si/view/2125395) |
-| `[Erai-raws] Awajima Hyakkei - 12 [1080p CR WEB-DL AVC AAC][MultiSub...` | **1401.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/617805) • [🐱 Nyaa](https://nekobt.to/torrents/11959465242886) |
-| `[ToonsHub] Petals of Reincarnation S01E13 1080p HIDIVE WEB-DL AAC2....` | **927.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/617806) • [🐱 Nyaa](https://nekobt.to/torrents/11959441067783) |
-| `Petals of Reincarnation S01E13 In the End of Reincarnation 1080p HI...` | **927.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617796) • [🐱 Nyaa](https://nyaa.si/view/2125386) |
-| `[Erai-raws] Reincarnation no Kaben - 13 [1080p AMZN WEB-DL AVC EAC3...` | **1228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617797) • [🐱 Nyaa](https://nyaa.si/view/2125385) |
-| `[SubsPlease] Reincarnation no Kaben - 13 (1080p) [767E0DB0].mkv` | **927.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617800) • [🐱 Nyaa](https://nyaa.si/view/2125381) |
-| `[Erai-raws] Reincarnation no Kaben - 13 [1080p HIDIVE WEB-DL AVC AA...` | **927.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617793) • [🐱 Nyaa](https://nyaa.si/view/2125375) |
-| `[ToonsHub] Petals of Reincarnation S01E13 1080p BILI WEB-DL AAC2.0 ...` | **313.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617794) • [🐱 Nyaa](https://nyaa.si/view/2125373) |
 
 ---
 <div align="center">
