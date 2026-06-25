@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.51.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.13.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] My Hero Academia (2016) - S07 [WEBDL-1080p][Opus 2.0]...` | **4629.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/617707) • [🐱 Nyaa](https://nekobt.to/torrents/11948905696008) |
+| `[Gecko] Cat Tales - S01E37 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617705) • [🐱 Nyaa](https://nyaa.si/view/2125194) |
+| `[Gecko] Candy Caries - S01E11 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617706) • [🐱 Nyaa](https://nyaa.si/view/2125193) |
+| `[Gecko] Reborn as a Cat - S01E35 (为喵人生; Wei Miao Rensheng) [BILI.WE...` | **231.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617702) • [🐱 Nyaa](https://nyaa.si/view/2125189) |
+| `[ToonsHub] Reborn as a Cat S01E35 1080p BILI WEB-DL AAC2.0 H.265 (W...` | **229.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617703) • [🐱 Nyaa](https://nyaa.si/view/2125188) |
+| `[Mo7tas] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. [1...` | **3686.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617701) • [🐱 Nyaa](https://nyaa.si/view/2125186) |
+| `Reborn as a Cat S01E33 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **218.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617700) • [🐱 Nyaa](https://nyaa.si/view/2125184) |
 | `One Piece EP093-130 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws...` | **36711.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/617698) • [🐱 Nyaa](https://nekobt.to/torrents/11943408448267) |
 | `One Piece EP093-130 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raw...` | **14592.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/617697) • [🐱 Nyaa](https://nekobt.to/torrents/11943075664387) |
 | `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E01 [...` | **379.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617696) • [🐱 Nyaa](https://nyaa.si/view/2125167) |
@@ -41,13 +48,6 @@
 | `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E12 (1080p CR WEB-DL ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617693) • [🐱 Nyaa](https://nyaa.si/view/2125160) |
 | `[FrixySubs] MARRIAGETOXIN - S01E12 [1080p CR WEB-DL H.264 AAC] [Nap...` | **1392.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/617692) • [🐱 Nyaa](https://nekobt.to/torrents/11939575758594) |
 | `[SubsPlease] Nigetsuri (01-12) (1080p) [Batch]` | **16588.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617691) • [🐱 Nyaa](https://nyaa.si/view/2125153) |
-| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E02 (1080p WEB AAC x265)` | **322.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/617690) • [🐱 Nyaa](https://nekobt.to/torrents/11939349840902) |
-| `[DKB] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - S02E12...` | **442.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617685) • [🐱 Nyaa](https://nyaa.si/view/2125144) |
-| `[DKB] Otaku ni Yasashii Gal wa Inai!? - S01E12 [1080p][END][HEVC x2...` | **265.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617686) • [🐱 Nyaa](https://nyaa.si/view/2125143) |
-| `[DKB] Kanojo, Okarishimasu - S05E12 [1080p][END][HEVC x265 10bit][M...` | **305.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617687) • [🐱 Nyaa](https://nyaa.si/view/2125142) |
-| `[DKB] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - S0...` | **623.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617682) • [🐱 Nyaa](https://nyaa.si/view/2125141) |
-| `[DKB] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - S04E16 [108...` | **235.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617683) • [🐱 Nyaa](https://nyaa.si/view/2125140) |
-| `[DB] Tu Bian Yingxiong X | To Be Hero X [Tri Audio 10bit BD1080p][H...` | **15667.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617684) • [🐱 Nyaa](https://nyaa.si/view/2125139) |
 
 ---
 <div align="center">
