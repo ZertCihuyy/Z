@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.17.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.56.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Reincarnation no Kaben - S01E13 [1080p][END][HEVC x265 10bit]...` | **404.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617846) • [🐱 Nyaa](https://nyaa.si/view/2125442) |
 | `[SubsPlease] Kirio Fanclub (01-12) (1080p) [Batch]` | **10547.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617843) • [🐱 Nyaa](https://nyaa.si/view/2125439) |
 | `[Yameii] Tamon's B-Side - S01E08 [English Dub] [CR WEB-DL 1080p H26...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617836) • [🐱 Nyaa](https://nyaa.si/view/2125435) |
 | `[Yameii] The Warrior Princess and the Barbaric King - S01E10 [Engli...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617837) • [🐱 Nyaa](https://nyaa.si/view/2125434) |
@@ -39,7 +40,6 @@
 | `[DKB] Dr. Stone - Science Future - S04E37 [1080p][END][HEVC x265 10...` | **673.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617826) • [🐱 Nyaa](https://nyaa.si/view/2125414) |
 | `[DKB] Himekishi wa Barbaroi no Yome - S01E12 [1080p][END][HEVC x265...` | **343.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617827) • [🐱 Nyaa](https://nyaa.si/view/2125413) |
 | `[Onalrie] Awajima Hyakkei - S01E12 [1080p WEBRip AV1]` | **227.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/617824) • [🐱 Nyaa](https://nekobt.to/torrents/11960369126914) |
-| `[ASW] Awajima Hyakkei - 12 [1080p HEVC x265 10Bit][AAC]` | **289.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617821) • [🐱 Nyaa](https://nyaa.si/view/2125412) |
 
 ---
 <div align="center">
