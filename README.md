@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.13.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.46.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Mo7tas] #Compass 2.0: Sentou Setsuri Kaiseki System [1080p] [Multi...` | **4300.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617711) • [🐱 Nyaa](https://nyaa.si/view/2125248) |
+| `[ToonsHub] The Beginning After the End S02E12 1080p NF WEB-DL AAC2....` | **835.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617710) • [🐱 Nyaa](https://nyaa.si/view/2125243) |
+| `[triple117] Love Stage!! (2014) 01-10 (JPBD Remux 1080p + HIDIVE EN...` | **65187.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/617709) • [🐱 Nyaa](https://nekobt.to/torrents/11951780081926) |
+| `[LoliHouse] 哪里有温柔对待阿宅的辣妹!? / Otaku ni Yasashii Gyaru wa Inai!? - 12...` | **398.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617708) • [🐱 Nyaa](https://nyaa.si/view/2125230) |
 | `[BlackRabbit] My Hero Academia (2016) - S07 [WEBDL-1080p][Opus 2.0]...` | **4629.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/617707) • [🐱 Nyaa](https://nekobt.to/torrents/11948905696008) |
 | `[Gecko] Cat Tales - S01E37 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617705) • [🐱 Nyaa](https://nyaa.si/view/2125194) |
 | `[Gecko] Candy Caries - S01E11 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617706) • [🐱 Nyaa](https://nyaa.si/view/2125193) |
@@ -44,10 +48,6 @@
 | `One Piece EP093-130 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raw...` | **14592.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/617697) • [🐱 Nyaa](https://nekobt.to/torrents/11943075664387) |
 | `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E01 [...` | **379.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617696) • [🐱 Nyaa](https://nyaa.si/view/2125167) |
 | `One Piece EP093-130 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws ...` | **12488.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/617695) • [🐱 Nyaa](https://nekobt.to/torrents/11942949066241) |
-| `[sam] Dr. STONE - Science Future - S04E36 (WEB 1080p HEVC x265 10-b...` | **3481.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617694) • [🐱 Nyaa](https://nyaa.si/view/2125161) |
-| `[Unfucked] Gals Can't Be Kind to Otaku!? - S01E12 (1080p CR WEB-DL ...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617693) • [🐱 Nyaa](https://nyaa.si/view/2125160) |
-| `[FrixySubs] MARRIAGETOXIN - S01E12 [1080p CR WEB-DL H.264 AAC] [Nap...` | **1392.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/617692) • [🐱 Nyaa](https://nekobt.to/torrents/11939575758594) |
-| `[SubsPlease] Nigetsuri (01-12) (1080p) [Batch]` | **16588.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617691) • [🐱 Nyaa](https://nyaa.si/view/2125153) |
 
 ---
 <div align="center">
