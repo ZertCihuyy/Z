@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.50.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.20.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] An Observation Log of My Fiancee Who Calls Herself a Vil...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617886) • [🐱 Nyaa](https://nyaa.si/view/2125520) |
-| `An Observation Log of My Fiancee Who Calls Herself a Villainess S01...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617885) • [🐱 Nyaa](https://nyaa.si/view/2125516) |
-| `[Yameii] An Observation Log of My Fiancée Who Calls Herself a Villa...` | **1383.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/617883) • [🐱 Nyaa](https://nekobt.to/torrents/11978108798478) |
-| `[FLE] Re ZERO Starting Life in Another World - S04E11 (WEB 1080p HE...` | **959.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617882) • [🐱 Nyaa](https://nyaa.si/view/2125511) |
-| `[LbE3L] The Beginning After the End S02E10 [1080p CR WEBRip AV1 Opu...` | **325.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/617881) • [🐱 Nyaa](https://nekobt.to/torrents/11976596171013) |
-| `[BlackRabbit] Demon Slayer - Kimetsu no Yaiba (2019) - S04 [Bluray-...` | **3509.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/617880) • [🐱 Nyaa](https://nekobt.to/torrents/11976312327942) |
-| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E04 (1080p WEB AAC x265)` | **283.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/617879) • [🐱 Nyaa](https://nekobt.to/torrents/11975779300871) |
-| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 26 (CA) [1080...` | **871.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617878) • [🐱 Nyaa](https://nyaa.si/view/2125506) |
-| `[Onalrie] Hitori no Shita - The Outcast - S06E26 [1080p WEBRip AV1]` | **262.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/617877) • [🐱 Nyaa](https://nekobt.to/torrents/11973908311558) |
-| `[Gecko] HEAD START AT BIRTH - S02 (0歳児スタートダッシュ物語; 0-saiji Start Das...` | **677.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617876) • [🐱 Nyaa](https://nyaa.si/view/2125503) |
-| `[Gecko] HEAD START AT BIRTH - S01 (0歳児スタートダッシュ物語; 0-saiji Start Das...` | **509.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617875) • [🐱 Nyaa](https://nyaa.si/view/2125502) |
-| `[Anime Land] Ne Zha 2 (2025) (UHD WEBRip 1080p HEVC HDR10 EAC3 Atmo...` | **5939.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617871) • [🐱 Nyaa](https://nyaa.si/view/2125500) |
-| `[ToonsHub] MAO S01E11 REPACK 1080p AMZN WEB-DL DDP2.0 H.264 (Multi-...` | **1228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617872) • [🐱 Nyaa](https://nyaa.si/view/2125499) |
-| `[ToonsHub] MAO S01E12 1080p AMZN WEB-DL DDP2.0 H.264 (Multi-Subs)` | **1024.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617873) • [🐱 Nyaa](https://nyaa.si/view/2125497) |
-| `[BlackRabbit] Nadia - The Secret of Blue Water (1990) - S01 [Bluray...` | **10451.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/617874) • [🐱 Nyaa](https://nekobt.to/torrents/11972127579392) |
+| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E14 1080p AMZN W...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617936) • [🐱 Nyaa](https://nyaa.si/view/2125606) |
+| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E14 1080p AMZN W...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617937) • [🐱 Nyaa](https://nyaa.si/view/2125605) |
+| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E14 1080p AMZN W...` | **654.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617938) • [🐱 Nyaa](https://nyaa.si/view/2125604) |
+| `[Erai-raws] Hokuto no Ken (2026) - 14 [1080p AMZN WEB-DL AVC EAC3][...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617941) • [🐱 Nyaa](https://nyaa.si/view/2125601) |
+| `[Trix] The Drops of God S01E12 [WEBRip 1080p AV1 Opus] (Multi Subs,...` | **217.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617942) • [🐱 Nyaa](https://nyaa.si/view/2125593) |
+| `[ASW] Tensei Shitara Slime Datta Ken S4 - 12 [1080p HEVC x265 10Bit...` | **265.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617943) • [🐱 Nyaa](https://nyaa.si/view/2125589) |
+| `[Kosaka] That Time I Got Reincarnated as a Slime - 84 (WEBRip 1080p...` | **239.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/617933) • [🐱 Nyaa](https://nekobt.to/torrents/11980785925646) |
+| `[Erai-raws] Tensei Shitara Slime Datta Ken S04E12 [1080p CR WEBRip ...` | **465.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/617934) • [🐱 Nyaa](https://nekobt.to/torrents/11980761223432) |
+| `[Judas] Tensei Shitara Slime Datta Ken (That Time I Got Reincarnate...` | **267.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617910) • [🐱 Nyaa](https://nyaa.si/view/2125585) |
+| `Snowball Earth S01E13 Drink Together 1080p DSNP WEB-DL MULTi AAC2.0...` | **778.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617911) • [🐱 Nyaa](https://nyaa.si/view/2125583) |
+| `Snowball Earth S01E13 Drink Together 1080p DSNP WEB-DL DUAL AAC2.0 ...` | **737.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617912) • [🐱 Nyaa](https://nyaa.si/view/2125582) |
+| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E12 [1080p WEBRip AV1]` | **218.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/617935) • [🐱 Nyaa](https://nekobt.to/torrents/11980551075340) |
+| `[ToonsHub] SNOWBALL EARTH S01E13 1080p CR WEB-DL MULTi AAC2.0 H.264...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617913) • [🐱 Nyaa](https://nyaa.si/view/2125580) |
+| `[Yameii] SNOWBALL EARTH - S01E13 [English Dub] [CR WEB-DL 1080p H26...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617914) • [🐱 Nyaa](https://nyaa.si/view/2125579) |
+| `[ToonsHub] The Drops of God S01E10 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617915) • [🐱 Nyaa](https://nyaa.si/view/2125578) |
 
 ---
 <div align="center">
