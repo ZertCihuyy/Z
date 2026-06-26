@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.10.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.11.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 11 [1080p WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617976) • [🐱 Nyaa](https://nyaa.si/view/2125662) |
+| `[Erai-raws] Snowball Earth - 13 [1080p CR WEBRip HEVC AAC][MultiSub...` | **280.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617977) • [🐱 Nyaa](https://nyaa.si/view/2125661) |
+| `Lupin III - TV Series [Dual Audio Only] (BDRip UNCENSORED 1080p x26...` | **58060.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617978) • [🐱 Nyaa](https://nyaa.si/view/2125660) |
+| `Snowball Earth S01E13 Drink Together 1080p NF WEB-DL DUAL AAC2.0 H ...` | **860.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617975) • [🐱 Nyaa](https://nyaa.si/view/2125659) |
+| `Lupin III - Part 2 (1977) (BDRip 1080p x265 HEVC OPUS 2.0)(Dual Aud...` | **26726.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617972) • [🐱 Nyaa](https://nyaa.si/view/2125658) |
+| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E12 [1080p][...` | **307.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617973) • [🐱 Nyaa](https://nyaa.si/view/2125657) |
+| `[DKB] Tensei shitara Slime Datta Ken - S04E12 [1080p][HEVC x265 10b...` | **348.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617974) • [🐱 Nyaa](https://nyaa.si/view/2125656) |
+| `[Erai-raws] Hokuto no Ken (2026) - 14 [1080p AMZN WEBRip HEVC EAC3]...` | **837.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617971) • [🐱 Nyaa](https://nyaa.si/view/2125655) |
+| `[Gecko] Roommates - S01 (戏精宿舍; Xi Jing Sushe) [BILI.WEB-DL 1080P HE...` | **2355.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617970) • [🐱 Nyaa](https://nyaa.si/view/2125654) |
+| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina ...` | **265.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617969) • [🐱 Nyaa](https://nyaa.si/view/2125649) |
 | `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 12 [1080p...` | **480.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617967) • [🐱 Nyaa](https://nyaa.si/view/2125645) |
 | `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E12 [WEB.1080p.AV1...` | **309.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617968) • [🐱 Nyaa](https://nyaa.si/view/2125644) |
 | `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S01E14 [108...` | **490.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617964) • [🐱 Nyaa](https://nyaa.si/view/2125635) |
 | `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E12 [108...` | **224.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/617966) • [🐱 Nyaa](https://nekobt.to/torrents/11982118672646) |
 | `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 12 [1080p HEVC ...` | **281.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617965) • [🐱 Nyaa](https://nyaa.si/view/2125633) |
-| `[Trix] Botan Kamiina Fully Blossoms When Drunk S01E12 [WEBRip 1080p...` | **248.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617963) • [🐱 Nyaa](https://nyaa.si/view/2125630) |
-| `[Erai-raws] Kami no Shizuku - 12 [1080p CR WEBRip HEVC AAC][MultiSu...` | **341.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/617960) • [🐱 Nyaa](https://nekobt.to/torrents/11981650184706) |
-| `[Onalrie] Kami no Shizuku - S01E12 [1080p WEBRip AV1]` | **159.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/617961) • [🐱 Nyaa](https://nekobt.to/torrents/11981594595086) |
-| `Beyond Twilight S01E12 1080p AMZN WEB-DL DDP2.0 H 264-VARYG (Hyakki...` | **128.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617959) • [🐱 Nyaa](https://nyaa.si/view/2125627) |
-| `[VARYG] Botan Kamiina Fully Blossoms When Drunk S01E12 1080p CR WEB...` | **1449.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/617958) • [🐱 Nyaa](https://nekobt.to/torrents/11981370849026) |
-| `[ToonsHub] Botan Kamiina Fully Blossoms When Drunk S01E12 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617948) • [🐱 Nyaa](https://nyaa.si/view/2125625) |
-| `[ASW] Kami no Shizuku - 12 [1080p HEVC x265 10Bit][AAC]` | **189.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617949) • [🐱 Nyaa](https://nyaa.si/view/2125624) |
-| `[SubsPlease] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 12 (1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617950) • [🐱 Nyaa](https://nyaa.si/view/2125623) |
-| `Botan Kamiina Fully Blossoms When Drunk S01E12 1080p BILI WEB-DL AA...` | **302.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617951) • [🐱 Nyaa](https://nyaa.si/view/2125621) |
-| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 12 [1080p...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617955) • [🐱 Nyaa](https://nyaa.si/view/2125616) |
 
 ---
 <div align="center">
