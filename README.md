@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.20.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.10.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,37 +9,45 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Jumat**
+### 📅 Jadwal Rilis Hari Ini: **Sabtu**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg" width="45" style="border-radius: 4px;"> | `05.10` | **[Hanakappa](https://anilist.co/anime/8336)** | *Comedy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg" width="45" style="border-radius: 4px;"> | `05.40` | **[Chiikawa](https://anilist.co/anime/140842)** | *Comedy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Tensei Shitara Slime Datta Ken 4th Season](https://anilist.co/anime/182205)** | *Action, Adventure, Comedy, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Kami no Shizuku](https://anilist.co/anime/202508)** | *Drama, Mystery, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Snowball Earth](https://anilist.co/anime/196144)** | *Action, Mecha, Sci-Fi* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg" width="45" style="border-radius: 4px;"> | `22.00` | **[Kamiina Botan, Yoeru Sugata wa Yuri no Hana](https://anilist.co/anime/187869)** | *Romance, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169228-y79xDpZ29Vv4.jpg" width="45" style="border-radius: 4px;"> | `23.00` | **[Hokuto no Ken: FIST OF THE NORTH STAR](https://anilist.co/anime/169228)** | *Action, Drama, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png" width="45" style="border-radius: 4px;"> | `05.30` | **[Ninjala](https://anilist.co/anime/142274)** | *Action, Comedy, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png" width="45" style="border-radius: 4px;"> | `07.26` | **[Rilakkuma](https://anilist.co/anime/183231)** | *Fantasy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198411-FuPLk3KBEoFH.png" width="45" style="border-radius: 4px;"> | `07.30` | **[Nezumi-kun no Chokki (TV)](https://anilist.co/anime/198411)** | *Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)** | *Action, Adventure, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199448-BuqzEdkuPSEm.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Guimi Zhi Zhu Specials](https://anilist.co/anime/199448)** | *Action, Drama, Fantasy, Mystery, Supernatural, Thriller* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg" width="45" style="border-radius: 4px;"> | `14.30` | **[Crayon Shin-chan](https://anilist.co/anime/966)** | *Comedy, Ecchi, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg" width="45" style="border-radius: 4px;"> | `15.00` | **[Doraemon (2005)](https://anilist.co/anime/8687)** | *Adventure, Comedy, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg" width="45" style="border-radius: 4px;"> | `15.30` | **[Honzuki no Gekokujou: Ryoushu no Youjo](https://anilist.co/anime/171110)** | *Drama, Fantasy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg" width="45" style="border-radius: 4px;"> | `16.00` | **[Meitantei Conan](https://anilist.co/anime/235)** | *Adventure, Comedy, Mystery, Psychological* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg" width="45" style="border-radius: 4px;"> | `16.26` | **[Mairimashita! Iruma-kun 4](https://anilist.co/anime/184492)** | *Comedy, Fantasy, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg" width="45" style="border-radius: 4px;"> | `17.00` | **[Guangyin Zhi Wai 2](https://anilist.co/anime/213356)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186863-AO4efoB8HuzA.png" width="45" style="border-radius: 4px;"> | `19.00` | **[Neko to Ryuu](https://anilist.co/anime/186863)** | *Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg" width="45" style="border-radius: 4px;"> | `19.30` | **[Yowa Yowa Sensei](https://anilist.co/anime/185211)** | *Comedy, Ecchi, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Kill Ao](https://anilist.co/anime/198113)** | *Action, Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg" width="45" style="border-radius: 4px;"> | `21.46` | **[MAO](https://anilist.co/anime/196012)** | *Drama, Mystery, Romance, Supernatural* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E14 1080p AMZN W...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617936) • [🐱 Nyaa](https://nyaa.si/view/2125606) |
-| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E14 1080p AMZN W...` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617937) • [🐱 Nyaa](https://nyaa.si/view/2125605) |
-| `[ToonsHub] Fist of the North Star HOKUTO NO KEN S01E14 1080p AMZN W...` | **654.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617938) • [🐱 Nyaa](https://nyaa.si/view/2125604) |
-| `[Erai-raws] Hokuto no Ken (2026) - 14 [1080p AMZN WEB-DL AVC EAC3][...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617941) • [🐱 Nyaa](https://nyaa.si/view/2125601) |
-| `[Trix] The Drops of God S01E12 [WEBRip 1080p AV1 Opus] (Multi Subs,...` | **217.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617942) • [🐱 Nyaa](https://nyaa.si/view/2125593) |
-| `[ASW] Tensei Shitara Slime Datta Ken S4 - 12 [1080p HEVC x265 10Bit...` | **265.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617943) • [🐱 Nyaa](https://nyaa.si/view/2125589) |
-| `[Kosaka] That Time I Got Reincarnated as a Slime - 84 (WEBRip 1080p...` | **239.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/617933) • [🐱 Nyaa](https://nekobt.to/torrents/11980785925646) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken S04E12 [1080p CR WEBRip ...` | **465.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/617934) • [🐱 Nyaa](https://nekobt.to/torrents/11980761223432) |
-| `[Judas] Tensei Shitara Slime Datta Ken (That Time I Got Reincarnate...` | **267.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617910) • [🐱 Nyaa](https://nyaa.si/view/2125585) |
-| `Snowball Earth S01E13 Drink Together 1080p DSNP WEB-DL MULTi AAC2.0...` | **778.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617911) • [🐱 Nyaa](https://nyaa.si/view/2125583) |
-| `Snowball Earth S01E13 Drink Together 1080p DSNP WEB-DL DUAL AAC2.0 ...` | **737.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617912) • [🐱 Nyaa](https://nyaa.si/view/2125582) |
-| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E12 [1080p WEBRip AV1]` | **218.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/617935) • [🐱 Nyaa](https://nekobt.to/torrents/11980551075340) |
-| `[ToonsHub] SNOWBALL EARTH S01E13 1080p CR WEB-DL MULTi AAC2.0 H.264...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617913) • [🐱 Nyaa](https://nyaa.si/view/2125580) |
-| `[Yameii] SNOWBALL EARTH - S01E13 [English Dub] [CR WEB-DL 1080p H26...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617914) • [🐱 Nyaa](https://nyaa.si/view/2125579) |
-| `[ToonsHub] The Drops of God S01E10 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617915) • [🐱 Nyaa](https://nyaa.si/view/2125578) |
+| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 12 [1080p...` | **480.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617967) • [🐱 Nyaa](https://nyaa.si/view/2125645) |
+| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E12 [WEB.1080p.AV1...` | **309.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617968) • [🐱 Nyaa](https://nyaa.si/view/2125644) |
+| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S01E14 [108...` | **490.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617964) • [🐱 Nyaa](https://nyaa.si/view/2125635) |
+| `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E12 [108...` | **224.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/617966) • [🐱 Nyaa](https://nekobt.to/torrents/11982118672646) |
+| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 12 [1080p HEVC ...` | **281.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617965) • [🐱 Nyaa](https://nyaa.si/view/2125633) |
+| `[Trix] Botan Kamiina Fully Blossoms When Drunk S01E12 [WEBRip 1080p...` | **248.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617963) • [🐱 Nyaa](https://nyaa.si/view/2125630) |
+| `[Erai-raws] Kami no Shizuku - 12 [1080p CR WEBRip HEVC AAC][MultiSu...` | **341.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/617960) • [🐱 Nyaa](https://nekobt.to/torrents/11981650184706) |
+| `[Onalrie] Kami no Shizuku - S01E12 [1080p WEBRip AV1]` | **159.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/617961) • [🐱 Nyaa](https://nekobt.to/torrents/11981594595086) |
+| `Beyond Twilight S01E12 1080p AMZN WEB-DL DDP2.0 H 264-VARYG (Hyakki...` | **128.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617959) • [🐱 Nyaa](https://nyaa.si/view/2125627) |
+| `[VARYG] Botan Kamiina Fully Blossoms When Drunk S01E12 1080p CR WEB...` | **1449.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/617958) • [🐱 Nyaa](https://nekobt.to/torrents/11981370849026) |
+| `[ToonsHub] Botan Kamiina Fully Blossoms When Drunk S01E12 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617948) • [🐱 Nyaa](https://nyaa.si/view/2125625) |
+| `[ASW] Kami no Shizuku - 12 [1080p HEVC x265 10Bit][AAC]` | **189.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617949) • [🐱 Nyaa](https://nyaa.si/view/2125624) |
+| `[SubsPlease] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 12 (1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617950) • [🐱 Nyaa](https://nyaa.si/view/2125623) |
+| `Botan Kamiina Fully Blossoms When Drunk S01E12 1080p BILI WEB-DL AA...` | **302.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617951) • [🐱 Nyaa](https://nyaa.si/view/2125621) |
+| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 12 [1080p...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617955) • [🐱 Nyaa](https://nyaa.si/view/2125616) |
 
 ---
 <div align="center">
