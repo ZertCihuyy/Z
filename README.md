@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.17.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.50.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Koala's Diary - S01E38 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **72.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617865) • [🐱 Nyaa](https://nyaa.si/view/2125484) |
+| `[HnY] BeyWheelz 06 - Judgment Bey Begins! (1080p).mkv` | **723.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617864) • [🐱 Nyaa](https://nyaa.si/view/2125481) |
+| `[Gecko] Kujima Why Sing, When You Can Warble - S01E12 (クジマ歌えば家ほろろ; ...` | **684.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617863) • [🐱 Nyaa](https://nyaa.si/view/2125479) |
+| `[ASW] Hitori no Shita - The Outcast S6 - 26 [1080p HEVC x265 10Bit]...` | **360.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617860) • [🐱 Nyaa](https://nyaa.si/view/2125478) |
+| `The Outcast S06E26 1080p CR WEB-DL AAC2.0 H 264-VARYG (Yi Ren Zhi X...` | **3072.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617861) • [🐱 Nyaa](https://nyaa.si/view/2125476) |
+| `[ToonsHub] The Outcast S06E26 1080p CR WEB-DL AAC2.0 H.264 (Multi-S...` | **3021.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/617858) • [🐱 Nyaa](https://nekobt.to/torrents/11967984563721) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 - 26 (1080p) [8BE4ED0...` | **2969.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617859) • [🐱 Nyaa](https://nyaa.si/view/2125472) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 26 (CA) [1080...` | **2662.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617857) • [🐱 Nyaa](https://nyaa.si/view/2125464) |
+| `[Ironclad] Hime Kishi wa Barbaroi no Yome - S01E12 [WEB.1080p.AV1] ...` | **272.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617852) • [🐱 Nyaa](https://nyaa.si/view/2125452) |
 | `[Sokudo] Dr. STONE - Science Future - S04E36 [1080p AV1][Dual Audio...` | **803.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617850) • [🐱 Nyaa](https://nyaa.si/view/2125451) |
 | `[Breeze] Dr. STONE - Science Future - S04E36 [1080p AV1][Dual Audio...` | **2252.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617851) • [🐱 Nyaa](https://nyaa.si/view/2125450) |
 | `[nnotaclue] Dr. STONE - S04E37 [WEB 1080p AV1 Opus 2.0 Dual-Audio E...` | **473.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/617849) • [🐱 Nyaa](https://nekobt.to/torrents/11965586678798) |
 | `[nnotaclue] Dr. STONE - S04E37 [WEB 1080p AV1 Opus 2.0 Multi-Audio ...` | **633.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/617848) • [🐱 Nyaa](https://nekobt.to/torrents/11965540573957) |
 | `[DKB] Reincarnation no Kaben - S01E13 [1080p][END][HEVC x265 10bit]...` | **404.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617846) • [🐱 Nyaa](https://nyaa.si/view/2125442) |
 | `[SubsPlease] Kirio Fanclub (01-12) (1080p) [Batch]` | **10547.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617843) • [🐱 Nyaa](https://nyaa.si/view/2125439) |
-| `[Yameii] Tamon's B-Side - S01E08 [English Dub] [CR WEB-DL 1080p H26...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617836) • [🐱 Nyaa](https://nyaa.si/view/2125435) |
-| `[Yameii] The Warrior Princess and the Barbaric King - S01E10 [Engli...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617837) • [🐱 Nyaa](https://nyaa.si/view/2125434) |
-| `[Yameii] Dr. Stone - S04E37 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617838) • [🐱 Nyaa](https://nyaa.si/view/2125433) |
-| `[kikuri] Otaku ni Yasashii Gal wa Inai!? (WEB 1080p HEVC AAC) | Gal...` | **6098.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/617842) • [🐱 Nyaa](https://nekobt.to/torrents/11962554679309) |
-| `[Erai-raws] Awajima Hyakkei - 12 [1080p CR WEBRip HEVC AAC][MultiSu...` | **477.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617835) • [🐱 Nyaa](https://nyaa.si/view/2125427) |
-| `[DKB] Koori no Jouheki - S01E13 [1080p][HEVC x265 10bit][Dual-Audio...` | **318.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617831) • [🐱 Nyaa](https://nyaa.si/view/2125425) |
-| `[SubsPlease] Ganbare! Nakamura-kun!! (01-13) (1080p) [Batch]` | **18022.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617832) • [🐱 Nyaa](https://nyaa.si/view/2125424) |
-| `Petals of Reincarnation S01E13 In the End of Reincarnation 1080p AM...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617830) • [🐱 Nyaa](https://nyaa.si/view/2125421) |
-| `[Erai-raws] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank...` | **435.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617829) • [🐱 Nyaa](https://nyaa.si/view/2125419) |
 
 ---
 <div align="center">
