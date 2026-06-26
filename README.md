@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.33.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.50.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Herself a Vil...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617886) • [🐱 Nyaa](https://nyaa.si/view/2125520) |
+| `An Observation Log of My Fiancee Who Calls Herself a Villainess S01...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617885) • [🐱 Nyaa](https://nyaa.si/view/2125516) |
+| `[Yameii] An Observation Log of My Fiancée Who Calls Herself a Villa...` | **1383.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/617883) • [🐱 Nyaa](https://nekobt.to/torrents/11978108798478) |
+| `[FLE] Re ZERO Starting Life in Another World - S04E11 (WEB 1080p HE...` | **959.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617882) • [🐱 Nyaa](https://nyaa.si/view/2125511) |
 | `[LbE3L] The Beginning After the End S02E10 [1080p CR WEBRip AV1 Opu...` | **325.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/617881) • [🐱 Nyaa](https://nekobt.to/torrents/11976596171013) |
 | `[BlackRabbit] Demon Slayer - Kimetsu no Yaiba (2019) - S04 [Bluray-...` | **3509.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/617880) • [🐱 Nyaa](https://nekobt.to/torrents/11976312327942) |
 | `[SubsNoJutsu] Wistoria - Wand and Sword - S01E04 (1080p WEB AAC x265)` | **283.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/617879) • [🐱 Nyaa](https://nekobt.to/torrents/11975779300871) |
@@ -36,10 +40,6 @@
 | `[ToonsHub] MAO S01E11 REPACK 1080p AMZN WEB-DL DDP2.0 H.264 (Multi-...` | **1228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617872) • [🐱 Nyaa](https://nyaa.si/view/2125499) |
 | `[ToonsHub] MAO S01E12 1080p AMZN WEB-DL DDP2.0 H.264 (Multi-Subs)` | **1024.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617873) • [🐱 Nyaa](https://nyaa.si/view/2125497) |
 | `[BlackRabbit] Nadia - The Secret of Blue Water (1990) - S01 [Bluray...` | **10451.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/617874) • [🐱 Nyaa](https://nekobt.to/torrents/11972127579392) |
-| `[SubsPlus+] Petals of Reincarnation - S01E13 (AMZN WEB-DL 1080p AVC...` | **1228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617869) • [🐱 Nyaa](https://nyaa.si/view/2125494) |
-| `[ToonsHub] Lord of Mysteries S00E18 City of Silver REPACK 1080p CR ...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617870) • [🐱 Nyaa](https://nyaa.si/view/2125493) |
-| `[SubsPlease] Haibara-kun no Tsuyokute Seishun New Game (01-12) (108...` | **16998.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617866) • [🐱 Nyaa](https://nyaa.si/view/2125487) |
-| `[Gecko] Koala's Diary - S01E38 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **72.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617865) • [🐱 Nyaa](https://nyaa.si/view/2125484) |
 
 ---
 <div align="center">
