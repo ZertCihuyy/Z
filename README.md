@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.11.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.41.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Worded] Sentenced to Be a Hero - Season 01 (S01) (WEB 1080p H.264 ...` | **20275.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617985) • [🐱 Nyaa](https://nyaa.si/view/2125678) |
+| `[SavI0r] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleto...` | **3174.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617982) • [🐱 Nyaa](https://nyaa.si/view/2125671) |
+| `[SavI0r] Tensai Ouji no Akaji Kokka Saisei Jutsu (The Genius Prince...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617983) • [🐱 Nyaa](https://nyaa.si/view/2125670) |
+| `[BlackRabbit] Strawberry 100% (2005) - S01 [Bluray-1080p][Opus 2.0]...` | **1314.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/617984) • [🐱 Nyaa](https://nekobt.to/torrents/11985020103949) |
+| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E14 [WEB.108...` | **743.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617981) • [🐱 Nyaa](https://nyaa.si/view/2125669) |
+| `[DB] Re:Zero kara Hajimeru Isekai Seikatsu 4th Season Part 1 | Re:Z...` | **5324.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617979) • [🐱 Nyaa](https://nyaa.si/view/2125668) |
 | `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 11 [1080p WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617976) • [🐱 Nyaa](https://nyaa.si/view/2125662) |
 | `[Erai-raws] Snowball Earth - 13 [1080p CR WEBRip HEVC AAC][MultiSub...` | **280.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617977) • [🐱 Nyaa](https://nyaa.si/view/2125661) |
 | `Lupin III - TV Series [Dual Audio Only] (BDRip UNCENSORED 1080p x26...` | **58060.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617978) • [🐱 Nyaa](https://nyaa.si/view/2125660) |
@@ -42,12 +48,6 @@
 | `[DKB] Tensei shitara Slime Datta Ken - S04E12 [1080p][HEVC x265 10b...` | **348.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617974) • [🐱 Nyaa](https://nyaa.si/view/2125656) |
 | `[Erai-raws] Hokuto no Ken (2026) - 14 [1080p AMZN WEBRip HEVC EAC3]...` | **837.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617971) • [🐱 Nyaa](https://nyaa.si/view/2125655) |
 | `[Gecko] Roommates - S01 (戏精宿舍; Xi Jing Sushe) [BILI.WEB-DL 1080P HE...` | **2355.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617970) • [🐱 Nyaa](https://nyaa.si/view/2125654) |
-| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina ...` | **265.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617969) • [🐱 Nyaa](https://nyaa.si/view/2125649) |
-| `[Erai-raws] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 12 [1080p...` | **480.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/617967) • [🐱 Nyaa](https://nyaa.si/view/2125645) |
-| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E12 [WEB.1080p.AV1...` | **309.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617968) • [🐱 Nyaa](https://nyaa.si/view/2125644) |
-| `[Judas] Hokuto no Ken (2026) (Fist of the North Star) - S01E14 [108...` | **490.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617964) • [🐱 Nyaa](https://nyaa.si/view/2125635) |
-| `[Onalrie] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E12 [108...` | **224.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/617966) • [🐱 Nyaa](https://nekobt.to/torrents/11982118672646) |
-| `[ASW] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 12 [1080p HEVC ...` | **281.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617965) • [🐱 Nyaa](https://nyaa.si/view/2125633) |
 
 ---
 <div align="center">
