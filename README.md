@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.32.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.33.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] The Beginning After the End S02E10 [1080p CR WEBRip AV1 Opu...` | **325.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/617881) • [🐱 Nyaa](https://nekobt.to/torrents/11976596171013) |
+| `[BlackRabbit] Demon Slayer - Kimetsu no Yaiba (2019) - S04 [Bluray-...` | **3509.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/617880) • [🐱 Nyaa](https://nekobt.to/torrents/11976312327942) |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E04 (1080p WEB AAC x265)` | **283.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/617879) • [🐱 Nyaa](https://nekobt.to/torrents/11975779300871) |
+| `[Erai-raws] Hitori no Shita: The Outcast 6th Season - 26 (CA) [1080...` | **871.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617878) • [🐱 Nyaa](https://nyaa.si/view/2125506) |
+| `[Onalrie] Hitori no Shita - The Outcast - S06E26 [1080p WEBRip AV1]` | **262.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/617877) • [🐱 Nyaa](https://nekobt.to/torrents/11973908311558) |
 | `[Gecko] HEAD START AT BIRTH - S02 (0歳児スタートダッシュ物語; 0-saiji Start Das...` | **677.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617876) • [🐱 Nyaa](https://nyaa.si/view/2125503) |
 | `[Gecko] HEAD START AT BIRTH - S01 (0歳児スタートダッシュ物語; 0-saiji Start Das...` | **509.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617875) • [🐱 Nyaa](https://nyaa.si/view/2125502) |
 | `[Anime Land] Ne Zha 2 (2025) (UHD WEBRip 1080p HEVC HDR10 EAC3 Atmo...` | **5939.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617871) • [🐱 Nyaa](https://nyaa.si/view/2125500) |
@@ -35,11 +40,6 @@
 | `[ToonsHub] Lord of Mysteries S00E18 City of Silver REPACK 1080p CR ...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617870) • [🐱 Nyaa](https://nyaa.si/view/2125493) |
 | `[SubsPlease] Haibara-kun no Tsuyokute Seishun New Game (01-12) (108...` | **16998.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617866) • [🐱 Nyaa](https://nyaa.si/view/2125487) |
 | `[Gecko] Koala's Diary - S01E38 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **72.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/617865) • [🐱 Nyaa](https://nyaa.si/view/2125484) |
-| `[HnY] BeyWheelz 06 - Judgment Bey Begins! (1080p).mkv` | **723.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617864) • [🐱 Nyaa](https://nyaa.si/view/2125481) |
-| `[Gecko] Kujima Why Sing, When You Can Warble - S01E12 (クジマ歌えば家ほろろ; ...` | **684.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617863) • [🐱 Nyaa](https://nyaa.si/view/2125479) |
-| `[ASW] Hitori no Shita - The Outcast S6 - 26 [1080p HEVC x265 10Bit]...` | **360.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617860) • [🐱 Nyaa](https://nyaa.si/view/2125478) |
-| `The Outcast S06E26 1080p CR WEB-DL AAC2.0 H 264-VARYG (Yi Ren Zhi X...` | **3072.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617861) • [🐱 Nyaa](https://nyaa.si/view/2125476) |
-| `[ToonsHub] The Outcast S06E26 1080p CR WEB-DL AAC2.0 H.264 (Multi-S...` | **3021.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/617858) • [🐱 Nyaa](https://nekobt.to/torrents/11967984563721) |
 
 ---
 <div align="center">
