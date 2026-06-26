@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.41.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.53.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] How dare you S02E03 1080p iQ WEB-DL AAC2.0 H.264 (Cheng ...` | **359.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617988) • [🐱 Nyaa](https://nyaa.si/view/2125683) |
+| `[ToonsHub] Way of Choices 2026 S01E03 1080p iQ WEB-DL AAC2.0 H.264 ...` | **468.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/617991) • [🐱 Nyaa](https://nekobt.to/torrents/11986872822284) |
+| `[AnoZu] A Playthrough of a Certain Dude's VRMMO Life S01 1080p CR W...` | **16791.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/617987) • [🐱 Nyaa](https://nekobt.to/torrents/11986724697861) |
+| `[SubVision] Mahou no Shimai LuluttoLilly - 12 (WEB 1080p x264 8Bit ...` | **750.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617986) • [🐱 Nyaa](https://nekobt.to/torrents/11986487620873) |
 | `[Worded] Sentenced to Be a Hero - Season 01 (S01) (WEB 1080p H.264 ...` | **20275.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617985) • [🐱 Nyaa](https://nyaa.si/view/2125678) |
 | `[SavI0r] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleto...` | **3174.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617982) • [🐱 Nyaa](https://nyaa.si/view/2125671) |
 | `[SavI0r] Tensai Ouji no Akaji Kokka Saisei Jutsu (The Genius Prince...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617983) • [🐱 Nyaa](https://nyaa.si/view/2125670) |
@@ -44,10 +48,6 @@
 | `Lupin III - TV Series [Dual Audio Only] (BDRip UNCENSORED 1080p x26...` | **58060.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617978) • [🐱 Nyaa](https://nyaa.si/view/2125660) |
 | `Snowball Earth S01E13 Drink Together 1080p NF WEB-DL DUAL AAC2.0 H ...` | **860.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617975) • [🐱 Nyaa](https://nyaa.si/view/2125659) |
 | `Lupin III - Part 2 (1977) (BDRip 1080p x265 HEVC OPUS 2.0)(Dual Aud...` | **26726.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617972) • [🐱 Nyaa](https://nyaa.si/view/2125658) |
-| `[DKB] Kamiina Botan, Yoeru Sugata wa Yuri no Hana - S01E12 [1080p][...` | **307.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617973) • [🐱 Nyaa](https://nyaa.si/view/2125657) |
-| `[DKB] Tensei shitara Slime Datta Ken - S04E12 [1080p][HEVC x265 10b...` | **348.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617974) • [🐱 Nyaa](https://nyaa.si/view/2125656) |
-| `[Erai-raws] Hokuto no Ken (2026) - 14 [1080p AMZN WEBRip HEVC EAC3]...` | **837.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617971) • [🐱 Nyaa](https://nyaa.si/view/2125655) |
-| `[Gecko] Roommates - S01 (戏精宿舍; Xi Jing Sushe) [BILI.WEB-DL 1080P HE...` | **2355.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617970) • [🐱 Nyaa](https://nyaa.si/view/2125654) |
 
 ---
 <div align="center">
