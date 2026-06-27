@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.09.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.31.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,45 +9,45 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Sabtu**
+### 📅 Jadwal Rilis Hari Ini: **Minggu**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png" width="45" style="border-radius: 4px;"> | `05.30` | **[Ninjala](https://anilist.co/anime/142274)** | *Action, Comedy, Sci-Fi* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png" width="45" style="border-radius: 4px;"> | `07.26` | **[Rilakkuma](https://anilist.co/anime/183231)** | *Fantasy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198411-FuPLk3KBEoFH.png" width="45" style="border-radius: 4px;"> | `07.30` | **[Nezumi-kun no Chokki (TV)](https://anilist.co/anime/198411)** | *Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)** | *Action, Adventure, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png" width="45" style="border-radius: 4px;"> | `05.00` | **[Odekake Kozame Season 2](https://anilist.co/anime/204269)** | *Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png" width="45" style="border-radius: 4px;"> | `05.00` | **[Shou 3 Ashibe QQ Goma-chan](https://anilist.co/anime/202386)** | *Comedy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png" width="45" style="border-radius: 4px;"> | `05.00` | **[Kumarba Season 3](https://anilist.co/anime/206950)** | *Action, Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg" width="45" style="border-radius: 4px;"> | `06.00` | **[Koupen-chan](https://anilist.co/anime/185646)** | *Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg" width="45" style="border-radius: 4px;"> | `06.30` | **[Meitantei Precure!](https://anilist.co/anime/202957)** | *Mahou Shoujo, Mystery* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg" width="45" style="border-radius: 4px;"> | `07.30` | **[Onegai AiPri](https://anilist.co/anime/206523)** | *Music* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg" width="45" style="border-radius: 4px;"> | `09.00` | **[Dou Po Cangqiong: Nian Fan 4](https://anilist.co/anime/196613)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)** | *Action, Fantasy* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199448-BuqzEdkuPSEm.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Guimi Zhi Zhu Specials](https://anilist.co/anime/199448)** | *Action, Drama, Fantasy, Mystery, Supernatural, Thriller* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg" width="45" style="border-radius: 4px;"> | `14.30` | **[Crayon Shin-chan](https://anilist.co/anime/966)** | *Comedy, Ecchi, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg" width="45" style="border-radius: 4px;"> | `15.00` | **[Doraemon (2005)](https://anilist.co/anime/8687)** | *Adventure, Comedy, Sci-Fi* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg" width="45" style="border-radius: 4px;"> | `15.30` | **[Honzuki no Gekokujou: Ryoushu no Youjo](https://anilist.co/anime/171110)** | *Drama, Fantasy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg" width="45" style="border-radius: 4px;"> | `16.00` | **[Meitantei Conan](https://anilist.co/anime/235)** | *Adventure, Comedy, Mystery, Psychological* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg" width="45" style="border-radius: 4px;"> | `16.26` | **[Mairimashita! Iruma-kun 4](https://anilist.co/anime/184492)** | *Comedy, Fantasy, Supernatural* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg" width="45" style="border-radius: 4px;"> | `17.00` | **[Guangyin Zhi Wai 2](https://anilist.co/anime/213356)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186863-AO4efoB8HuzA.png" width="45" style="border-radius: 4px;"> | `19.00` | **[Neko to Ryuu](https://anilist.co/anime/186863)** | *Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg" width="45" style="border-radius: 4px;"> | `19.30` | **[Yowa Yowa Sensei](https://anilist.co/anime/185211)** | *Comedy, Ecchi, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Kill Ao](https://anilist.co/anime/198113)** | *Action, Comedy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg" width="45" style="border-radius: 4px;"> | `21.46` | **[MAO](https://anilist.co/anime/196012)** | *Drama, Mystery, Romance, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg" width="45" style="border-radius: 4px;"> | `14.30` | **[Tsue to Tsurugi no Wistoria Season 2](https://anilist.co/anime/182300)** | *Action, Adventure, Drama, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg" width="45" style="border-radius: 4px;"> | `15.00` | **[Yozakura-san Chi no Daisakusen 2nd Season](https://anilist.co/anime/182578)** | *Action, Comedy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png" width="45" style="border-radius: 4px;"> | `15.30` | **[Diamond no Ace act II: Second Season](https://anilist.co/anime/177634)** | *Sports* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png" width="45" style="border-radius: 4px;"> | `16.00` | **[Holo no Graffiti](https://anilist.co/anime/118123)** | *Action, Adventure, Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg" width="45" style="border-radius: 4px;"> | `16.30` | **[Sazae-san](https://anilist.co/anime/2406)** | *Comedy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg" width="45" style="border-radius: 4px;"> | `21.16` | **[ONE PIECE](https://anilist.co/anime/21)** | *Action, Adventure, Comedy, Drama, Fantasy* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] MAO S01E13 1080p BILI WEB-DL AAC2.0 H.265 (Multi-Subs)` | **334.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618153) • [🐱 Nyaa](https://nyaa.si/view/2125944) |
-| `[Erai-raws] Kill Ao - 12 [1080p CR WEBRip HEVC AAC][MultiSub][1752F...` | **375.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618150) • [🐱 Nyaa](https://nyaa.si/view/2125940) |
-| `[Onalrie] Kill Ao - S01E12 [1080p WEBRip AV1]` | **229.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/618152) • [🐱 Nyaa](https://nekobt.to/torrents/12002430261001) |
-| `[ASW] Kill Ao - 12 [1080p HEVC x265 10Bit][AAC]` | **291.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618151) • [🐱 Nyaa](https://nyaa.si/view/2125937) |
-| `[Onalrie] Neko to Ryuu - S01E01 [1080p WEBRip AV1]` | **170.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/618149) • [🐱 Nyaa](https://nekobt.to/torrents/12001930926853) |
-| `[ASW] Neko to Ryuu - 01 [1080p HEVC x265 10Bit][AAC]` | **228.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/618147) • [🐱 Nyaa](https://nyaa.si/view/2125933) |
-| `[Erai-raws] Neko to Ryuu - 01 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **459.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618148) • [🐱 Nyaa](https://nyaa.si/view/2125932) |
-| `[ToonsHub] KILL BLUE S01E12 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1001.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618145) • [🐱 Nyaa](https://nekobt.to/torrents/12001670839812) |
-| `[ToonsHub] KILL BLUE S01E12 1080p CR WEB-DL AAC2.0 H.264 (Kill Ao, ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618130) • [🐱 Nyaa](https://nyaa.si/view/2125930) |
-| `[Yameii] KILL BLUE - S01E09 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618131) • [🐱 Nyaa](https://nyaa.si/view/2125929) |
-| `One Piece S01E1167 1080p NF WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **861.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618133) • [🐱 Nyaa](https://nyaa.si/view/2125927) |
-| `KILL BLUE S01E09 The Impossible Aftermath of an Impossible Game 108...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618134) • [🐱 Nyaa](https://nyaa.si/view/2125924) |
-| `KILL BLUE S01E12 Life Paths 1080p CR WEB-DL AAC2.0 H 264-VARYG (Kil...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618135) • [🐱 Nyaa](https://nyaa.si/view/2125923) |
-| `KILL BLUE S01E12 Life Paths 1080p NF WEB-DL AAC2.0 H 264-VARYG (Kil...` | **1001.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618136) • [🐱 Nyaa](https://nyaa.si/view/2125922) |
-| `[SubsPlease] Kill Ao - 12 (1080p) [9C22A8A0].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618137) • [🐱 Nyaa](https://nyaa.si/view/2125921) |
+| `[ToonsHub] Scum of the Brave S01E24 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1337.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/618210) • [🐱 Nyaa](https://nekobt.to/torrents/12004097256719) |
+| `[Erai-raws] Akane-banashi - 08 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **358.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/618211) • [🐱 Nyaa](https://nekobt.to/torrents/12004094547973) |
+| `[VARYG] Scum of the Brave S01E24 1080p CR WEB-DL AAC2.0 H.264 (Yuus...` | **1340.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618212) • [🐱 Nyaa](https://nekobt.to/torrents/12004033218052) |
+| `[Erai-raws] Yuusha no Kuzu - 24 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1341.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/618215) • [🐱 Nyaa](https://nekobt.to/torrents/12004009768710) |
+| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E14 [1080p WEB...` | **171.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/618216) • [🐱 Nyaa](https://nekobt.to/torrents/12004003444224) |
+| `[Yameii] NEEDY GIRL OVERDOSE - S01E09 [English Dub] [CR WEB-DL 1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618195) • [🐱 Nyaa](https://nyaa.si/view/2126022) |
+| `NEEDY GIRL OVERDOSE S01E09 Blue Monday 1080p CR WEB-DL DUAL AAC2.0 ...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618197) • [🐱 Nyaa](https://nyaa.si/view/2126017) |
+| `NEEDY GIRL OVERDOSE S01E13 EZ DO DANCE 1080p CR WEB-DL AAC2.0 H 264...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618198) • [🐱 Nyaa](https://nyaa.si/view/2126016) |
+| `Mistress Kanan is Devilishly Easy S01E10 Milchs Bratty Memories 108...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618200) • [🐱 Nyaa](https://nyaa.si/view/2126014) |
+| `[ToonsHub] NEEDY GIRL OVERDOSE S01E09 1080p CR WEB-DL DUAL AAC2.0 H...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618199) • [🐱 Nyaa](https://nyaa.si/view/2126015) |
+| `[ToonsHub] NEEDY GIRL OVERDOSE S01E13 1080p CR WEB-DL AAC2.0 H.264 ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618201) • [🐱 Nyaa](https://nyaa.si/view/2126013) |
+| `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S01E11 [1080...` | **430.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618202) • [🐱 Nyaa](https://nyaa.si/view/2126012) |
+| `[Erai-raws] Needy Girl Overdose - 13 [1080p CR WEB-DL AVC AAC][Mult...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618205) • [🐱 Nyaa](https://nyaa.si/view/2126008) |
+| `[SubsPlease] NEEDY GIRL OVERDOSE - 13 (1080p) [62196881].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618206) • [🐱 Nyaa](https://nyaa.si/view/2126007) |
+| `[Trix] Agents of the Four Seasons S01E14 [WEBRip 1080p AV1 Opus] (M...` | **195.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/618209) • [🐱 Nyaa](https://nyaa.si/view/2126004) |
 
 ---
 <div align="center">
