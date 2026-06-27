@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.50.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.09.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] MAO S01E13 1080p BILI WEB-DL AAC2.0 H.265 (Multi-Subs)` | **334.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618153) • [🐱 Nyaa](https://nyaa.si/view/2125944) |
+| `[Erai-raws] Kill Ao - 12 [1080p CR WEBRip HEVC AAC][MultiSub][1752F...` | **375.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618150) • [🐱 Nyaa](https://nyaa.si/view/2125940) |
+| `[Onalrie] Kill Ao - S01E12 [1080p WEBRip AV1]` | **229.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/618152) • [🐱 Nyaa](https://nekobt.to/torrents/12002430261001) |
+| `[ASW] Kill Ao - 12 [1080p HEVC x265 10Bit][AAC]` | **291.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618151) • [🐱 Nyaa](https://nyaa.si/view/2125937) |
+| `[Onalrie] Neko to Ryuu - S01E01 [1080p WEBRip AV1]` | **170.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/618149) • [🐱 Nyaa](https://nekobt.to/torrents/12001930926853) |
+| `[ASW] Neko to Ryuu - 01 [1080p HEVC x265 10Bit][AAC]` | **228.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/618147) • [🐱 Nyaa](https://nyaa.si/view/2125933) |
+| `[Erai-raws] Neko to Ryuu - 01 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **459.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618148) • [🐱 Nyaa](https://nyaa.si/view/2125932) |
 | `[ToonsHub] KILL BLUE S01E12 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1001.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618145) • [🐱 Nyaa](https://nekobt.to/torrents/12001670839812) |
 | `[ToonsHub] KILL BLUE S01E12 1080p CR WEB-DL AAC2.0 H.264 (Kill Ao, ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618130) • [🐱 Nyaa](https://nyaa.si/view/2125930) |
 | `[Yameii] KILL BLUE - S01E09 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618131) • [🐱 Nyaa](https://nyaa.si/view/2125929) |
@@ -41,13 +48,6 @@
 | `KILL BLUE S01E12 Life Paths 1080p CR WEB-DL AAC2.0 H 264-VARYG (Kil...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618135) • [🐱 Nyaa](https://nyaa.si/view/2125923) |
 | `KILL BLUE S01E12 Life Paths 1080p NF WEB-DL AAC2.0 H 264-VARYG (Kil...` | **1001.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618136) • [🐱 Nyaa](https://nyaa.si/view/2125922) |
 | `[SubsPlease] Kill Ao - 12 (1080p) [9C22A8A0].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618137) • [🐱 Nyaa](https://nyaa.si/view/2125921) |
-| `Yowayowa Sensei S01E12 A Weak and Wimpy Jump Rope Tournament 1080p ...` | **568.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618138) • [🐱 Nyaa](https://nyaa.si/view/2125920) |
-| `[Erai-raws] Kill Ao - 12 [1080p CR WEB-DL AVC AAC][MultiSub][C6ED5ECA]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618142) • [🐱 Nyaa](https://nyaa.si/view/2125915) |
-| `[ToonsHub] KILL BLUE S01E12 1080p BILI WEB-DL AAC2.0 H.265 (Kill Ao...` | **290.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618144) • [🐱 Nyaa](https://nyaa.si/view/2125913) |
-| `[Sristi] Another - 03 [1080p BD HEVC 10-bit OPUS]` | **475.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/618146) • [🐱 Nyaa](https://nekobt.to/torrents/12001488303375) |
-| `[SubsPlease] Neko to Ryuu - 01 (1080p) [B8EF4B26].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618126) • [🐱 Nyaa](https://nyaa.si/view/2125910) |
-| `[Dae] Oshi no Ko - S03E03 - (WEB 1080p HEVC AAC EAC3) [Dual-Audio] ...` | **1831.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/618129) • [🐱 Nyaa](https://nekobt.to/torrents/12001202698247) |
-| `[Dae] Oshi no Ko - S03E02v2 - (WEB 1080p HEVC AAC EAC3) [Dual-Audio...` | **1916.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/618123) • [🐱 Nyaa](https://nekobt.to/torrents/12001166292736) |
 
 ---
 <div align="center">

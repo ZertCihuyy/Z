@@ -1,5 +1,5 @@
 {
-  "last_update": "27/6/2026, 21.50.05",
+  "last_update": "27/6/2026, 23.09.16",
   "data": [
     {
       "id": 21,
@@ -158,18 +158,18 @@
       }
     },
     {
-      "id": 190143,
+      "id": 197754,
       "title": {
-        "romaji": "Shunkashuutou Daikousha: Haru no Mai"
+        "romaji": "LIAR GAME"
       },
       "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
       },
-      "episodes": 14,
+      "episodes": null,
       "studios": {
         "nodes": [
           {
-            "name": "WIT STUDIO"
+            "name": "MADHOUSE"
           }
         ]
       }
