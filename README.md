@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.36.36_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.51.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] Ascendance of a Bookworm - S04E09 [English Dub] [CR WEB-DL...` | **1397.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/618049) • [🐱 Nyaa](https://nekobt.to/torrents/11997070880520) |
+| `[ToonsHub] Ascendance of a Bookworm S04E12 1080p CR WEB-DL AAC2.0 H...` | **1435.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/618051) • [🐱 Nyaa](https://nekobt.to/torrents/11997045205514) |
+| `[ToonsHub] Ascendance of a Bookworm S04E09 1080p CR WEB-DL DUAL AAC...` | **1473.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618052) • [🐱 Nyaa](https://nekobt.to/torrents/11997043913481) |
+| `Ascendance of a Bookworm S04E09 Wilfrieds Day as High Bishop 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618041) • [🐱 Nyaa](https://nyaa.si/view/2125793) |
+| `Ascendance of a Bookworm S04E12 The Winter Social Season and Debut ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618042) • [🐱 Nyaa](https://nyaa.si/view/2125792) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 12 (1080p) [72AFFC4F].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618043) • [🐱 Nyaa](https://nyaa.si/view/2125791) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618047) • [🐱 Nyaa](https://nyaa.si/view/2125787) |
+| `[VARYG] KILL BLUE S01E10 DEATH OR KISS 1080p AMZN WEB-DL MULTi DDP2...` | **930.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/618039) • [🐱 Nyaa](https://nekobt.to/torrents/11996050729218) |
+| `[Sristi] Another - 01 [1080p BD HEVC 10-bit OPUS]` | **400.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618040) • [🐱 Nyaa](https://nekobt.to/torrents/11995817179910) |
+| `[Onalrie] Lord of Mysteries - Specials - S01E02 [1080p WEBRip AV1]` | **209.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/618038) • [🐱 Nyaa](https://onalrie.app/torrent/3e339731-2f17-40e3-8e2d-b07a65025d57) |
 | `[VARYG] Magical Sisters LuluttoLilly S01E12 1080p AMZN WEB-DL DDP2....` | **792.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/618036) • [🐱 Nyaa](https://nekobt.to/torrents/11995057745923) |
 | `[Onalrie] Rilakkuma - S01E13 [1080p WEBRip AV1]` | **22.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618037) • [🐱 Nyaa](https://nekobt.to/torrents/11995002193159) |
 | `[ALS] Love Live! Superstar!! 01-12 (1080p BD AAC x264)` | **8487.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618034) • [🐱 Nyaa](https://nekobt.to/torrents/11993892776459) |
 | `[NVN] Witch Hat Atelier - S01E13 [WEBRip HEVC 1080p] [Sub. Español]` | **2765.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/618035) • [🐱 Nyaa](https://nekobt.to/torrents/11993864002570) |
 | `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 11 [1080p][YT]` | **320.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618033) • [🐱 Nyaa](https://nyaa.si/view/2125768) |
-| `Zombie.Land.Saga.Yumeginga.Paradise.2025.1080p.BluRay.Dual-Audio.Op...` | **10444.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618032) • [🐱 Nyaa](https://nyaa.si/view/2125758) |
-| `[ToonsHub] Magical Sisters LuluttoLilly S01E12 1080p AMZN WEB-DL DD...` | **792.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618031) • [🐱 Nyaa](https://nyaa.si/view/2125755) |
-| `[ToonsHub] Lord of Mysteries S00E19 The Marked Hunt Part 1 1080p CR...` | **1661.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/618030) • [🐱 Nyaa](https://nekobt.to/torrents/11992092338446) |
-| `[VARYG] SNOWBALL EARTH S01E13 DRINK TOGETHER 1080p CR WEB-DL DUAL A...` | **1381.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618028) • [🐱 Nyaa](https://nekobt.to/torrents/11991327214850) |
-| `[Erai-raws] Lord of Mysteries - Special 02 (CA) [1080p CR WEB-DL AV...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618025) • [🐱 Nyaa](https://nyaa.si/view/2125740) |
-| `[Doomdos] - Shutline - [Batch] - [1080P] [UNCENSORED]` | **1843.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618029) • [🐱 Nyaa](https://nyaa.si/view/2125737) |
-| `[ToonsHub] The Drops of God S01E12 1080p CR WEB-DL AAC2.0 H.264 (Mu...` | **1430.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/618024) • [🐱 Nyaa](https://nekobt.to/torrents/11990964485889) |
-| `[ASW] Lord of Mysteries - Specials - 02 [1080p HEVC x265 10Bit][AAC]` | **295.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/618023) • [🐱 Nyaa](https://nyaa.si/view/2125733) |
-| `[ToonsHub] SNOWBALL EARTH S01E13 1080p CR WEB-DL DUAL AAC2.0 H.264 ...` | **1380.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/618020) • [🐱 Nyaa](https://nekobt.to/torrents/11990742148352) |
-| `[ToonsHub] The Drops of God S01E10 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1459.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/618021) • [🐱 Nyaa](https://nekobt.to/torrents/11990723471619) |
 
 ---
 <div align="center">
