@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.13.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.28.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Che...` | **256.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617993) • [🐱 Nyaa](https://nyaa.si/view/2125686) |
-| `[Piyoko] Onegai AiPri - 12 [WEB AMZN 1080p h264 AC3 2.0]` | **918.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617992) • [🐱 Nyaa](https://nyaa.si/view/2125684) |
-| `[ToonsHub] How dare you S02E03 1080p iQ WEB-DL AAC2.0 H.264 (Cheng ...` | **359.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617988) • [🐱 Nyaa](https://nyaa.si/view/2125683) |
-| `[ToonsHub] Way of Choices 2026 S01E03 1080p iQ WEB-DL AAC2.0 H.264 ...` | **468.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/617991) • [🐱 Nyaa](https://nekobt.to/torrents/11986872822284) |
-| `[AnoZu] A Playthrough of a Certain Dude's VRMMO Life S01 1080p CR W...` | **16791.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/617987) • [🐱 Nyaa](https://nekobt.to/torrents/11986724697861) |
-| `[SubVision] Mahou no Shimai LuluttoLilly - 12 (WEB 1080p x264 8Bit ...` | **750.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/617986) • [🐱 Nyaa](https://nekobt.to/torrents/11986487620873) |
-| `[Worded] Sentenced to Be a Hero - Season 01 (S01) (WEB 1080p H.264 ...` | **20275.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/617985) • [🐱 Nyaa](https://nyaa.si/view/2125678) |
-| `[SavI0r] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleto...` | **3174.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617982) • [🐱 Nyaa](https://nyaa.si/view/2125671) |
-| `[SavI0r] Tensai Ouji no Akaji Kokka Saisei Jutsu (The Genius Prince...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617983) • [🐱 Nyaa](https://nyaa.si/view/2125670) |
-| `[BlackRabbit] Strawberry 100% (2005) - S01 [Bluray-1080p][Opus 2.0]...` | **1314.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/617984) • [🐱 Nyaa](https://nekobt.to/torrents/11985020103949) |
-| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01E14 [WEB.108...` | **743.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/617981) • [🐱 Nyaa](https://nyaa.si/view/2125669) |
-| `[DB] Re:Zero kara Hajimeru Isekai Seikatsu 4th Season Part 1 | Re:Z...` | **5324.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617979) • [🐱 Nyaa](https://nyaa.si/view/2125668) |
-| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 11 [1080p WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617976) • [🐱 Nyaa](https://nyaa.si/view/2125662) |
-| `[Erai-raws] Snowball Earth - 13 [1080p CR WEBRip HEVC AAC][MultiSub...` | **280.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617977) • [🐱 Nyaa](https://nyaa.si/view/2125661) |
-| `Lupin III - TV Series [Dual Audio Only] (BDRip UNCENSORED 1080p x26...` | **58060.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617978) • [🐱 Nyaa](https://nyaa.si/view/2125660) |
+| `[ToonsHub] Lord of Mysteries S00E19 The Marked Hunt Part 1 1080p CR...` | **1661.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/618030) • [🐱 Nyaa](https://nekobt.to/torrents/11992092338446) |
+| `[VARYG] SNOWBALL EARTH S01E13 DRINK TOGETHER 1080p CR WEB-DL DUAL A...` | **1381.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618028) • [🐱 Nyaa](https://nekobt.to/torrents/11991327214850) |
+| `[Erai-raws] Lord of Mysteries - Special 02 (CA) [1080p CR WEB-DL AV...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618025) • [🐱 Nyaa](https://nyaa.si/view/2125740) |
+| `[Doomdos] - Shutline - [Batch] - [1080P] [UNCENSORED]` | **1843.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618029) • [🐱 Nyaa](https://nyaa.si/view/2125737) |
+| `[ToonsHub] The Drops of God S01E12 1080p CR WEB-DL AAC2.0 H.264 (Mu...` | **1430.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/618024) • [🐱 Nyaa](https://nekobt.to/torrents/11990964485889) |
+| `[ASW] Lord of Mysteries - Specials - 02 [1080p HEVC x265 10Bit][AAC]` | **295.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/618023) • [🐱 Nyaa](https://nyaa.si/view/2125733) |
+| `[ToonsHub] SNOWBALL EARTH S01E13 1080p CR WEB-DL DUAL AAC2.0 H.264 ...` | **1380.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/618020) • [🐱 Nyaa](https://nekobt.to/torrents/11990742148352) |
+| `[ToonsHub] The Drops of God S01E10 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1459.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/618021) • [🐱 Nyaa](https://nekobt.to/torrents/11990723471619) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E12 1080p CR ...` | **1445.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/618022) • [🐱 Nyaa](https://nekobt.to/torrents/11990637211392) |
+| `Lord of Mysteries S04E02 Lord of Mysteries Special The Marked Hunt ...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618016) • [🐱 Nyaa](https://nyaa.si/view/2125726) |
+| `[SubsPlease] Lord of Mysteries - Specials - 02 (1080p) [94F7C2CE].mkv` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618017) • [🐱 Nyaa](https://nyaa.si/view/2125723) |
+| `The Warrior Princess and the Barbaric King S01E09 MULTi AD 1080p CR...` | **1450.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618008) • [🐱 Nyaa](https://nekobt.to/torrents/11990023584768) |
+| `The Drops of God S01E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **1473.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/618009) • [🐱 Nyaa](https://nekobt.to/torrents/11990003399685) |
+| `That Time I Got Reincarnated as a Slime S04E09 MULTi AD 1080p CR WE...` | **1470.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618010) • [🐱 Nyaa](https://nekobt.to/torrents/11989982447375) |
+| `SNOWBALL EARTH S01E13 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H.264-Tsun...` | **716.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618012) • [🐱 Nyaa](https://nekobt.to/torrents/11989964174607) |
 
 ---
 <div align="center">
