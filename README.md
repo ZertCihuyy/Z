@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.53.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.13.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Che...` | **256.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617993) • [🐱 Nyaa](https://nyaa.si/view/2125686) |
+| `[Piyoko] Onegai AiPri - 12 [WEB AMZN 1080p h264 AC3 2.0]` | **918.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617992) • [🐱 Nyaa](https://nyaa.si/view/2125684) |
 | `[ToonsHub] How dare you S02E03 1080p iQ WEB-DL AAC2.0 H.264 (Cheng ...` | **359.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617988) • [🐱 Nyaa](https://nyaa.si/view/2125683) |
 | `[ToonsHub] Way of Choices 2026 S01E03 1080p iQ WEB-DL AAC2.0 H.264 ...` | **468.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/617991) • [🐱 Nyaa](https://nekobt.to/torrents/11986872822284) |
 | `[AnoZu] A Playthrough of a Certain Dude's VRMMO Life S01 1080p CR W...` | **16791.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/617987) • [🐱 Nyaa](https://nekobt.to/torrents/11986724697861) |
@@ -46,8 +48,6 @@
 | `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 11 [1080p WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/617976) • [🐱 Nyaa](https://nyaa.si/view/2125662) |
 | `[Erai-raws] Snowball Earth - 13 [1080p CR WEBRip HEVC AAC][MultiSub...` | **280.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/617977) • [🐱 Nyaa](https://nyaa.si/view/2125661) |
 | `Lupin III - TV Series [Dual Audio Only] (BDRip UNCENSORED 1080p x26...` | **58060.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/617978) • [🐱 Nyaa](https://nyaa.si/view/2125660) |
-| `Snowball Earth S01E13 Drink Together 1080p NF WEB-DL DUAL AAC2.0 H ...` | **860.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/617975) • [🐱 Nyaa](https://nyaa.si/view/2125659) |
-| `Lupin III - Part 2 (1977) (BDRip 1080p x265 HEVC OPUS 2.0)(Dual Aud...` | **26726.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/617972) • [🐱 Nyaa](https://nyaa.si/view/2125658) |
 
 ---
 <div align="center">
