@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.28.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.36.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] Magical Sisters LuluttoLilly S01E12 1080p AMZN WEB-DL DDP2....` | **792.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/618036) • [🐱 Nyaa](https://nekobt.to/torrents/11995057745923) |
+| `[Onalrie] Rilakkuma - S01E13 [1080p WEBRip AV1]` | **22.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618037) • [🐱 Nyaa](https://nekobt.to/torrents/11995002193159) |
+| `[ALS] Love Live! Superstar!! 01-12 (1080p BD AAC x264)` | **8487.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618034) • [🐱 Nyaa](https://nekobt.to/torrents/11993892776459) |
+| `[NVN] Witch Hat Atelier - S01E13 [WEBRip HEVC 1080p] [Sub. Español]` | **2765.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/618035) • [🐱 Nyaa](https://nekobt.to/torrents/11993864002570) |
+| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 11 [1080p][YT]` | **320.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618033) • [🐱 Nyaa](https://nyaa.si/view/2125768) |
+| `Zombie.Land.Saga.Yumeginga.Paradise.2025.1080p.BluRay.Dual-Audio.Op...` | **10444.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618032) • [🐱 Nyaa](https://nyaa.si/view/2125758) |
+| `[ToonsHub] Magical Sisters LuluttoLilly S01E12 1080p AMZN WEB-DL DD...` | **792.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618031) • [🐱 Nyaa](https://nyaa.si/view/2125755) |
 | `[ToonsHub] Lord of Mysteries S00E19 The Marked Hunt Part 1 1080p CR...` | **1661.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/618030) • [🐱 Nyaa](https://nekobt.to/torrents/11992092338446) |
 | `[VARYG] SNOWBALL EARTH S01E13 DRINK TOGETHER 1080p CR WEB-DL DUAL A...` | **1381.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618028) • [🐱 Nyaa](https://nekobt.to/torrents/11991327214850) |
 | `[Erai-raws] Lord of Mysteries - Special 02 (CA) [1080p CR WEB-DL AV...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618025) • [🐱 Nyaa](https://nyaa.si/view/2125740) |
@@ -41,13 +48,6 @@
 | `[ASW] Lord of Mysteries - Specials - 02 [1080p HEVC x265 10Bit][AAC]` | **295.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/618023) • [🐱 Nyaa](https://nyaa.si/view/2125733) |
 | `[ToonsHub] SNOWBALL EARTH S01E13 1080p CR WEB-DL DUAL AAC2.0 H.264 ...` | **1380.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/618020) • [🐱 Nyaa](https://nekobt.to/torrents/11990742148352) |
 | `[ToonsHub] The Drops of God S01E10 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1459.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/618021) • [🐱 Nyaa](https://nekobt.to/torrents/11990723471619) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E12 1080p CR ...` | **1445.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/618022) • [🐱 Nyaa](https://nekobt.to/torrents/11990637211392) |
-| `Lord of Mysteries S04E02 Lord of Mysteries Special The Marked Hunt ...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618016) • [🐱 Nyaa](https://nyaa.si/view/2125726) |
-| `[SubsPlease] Lord of Mysteries - Specials - 02 (1080p) [94F7C2CE].mkv` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618017) • [🐱 Nyaa](https://nyaa.si/view/2125723) |
-| `The Warrior Princess and the Barbaric King S01E09 MULTi AD 1080p CR...` | **1450.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618008) • [🐱 Nyaa](https://nekobt.to/torrents/11990023584768) |
-| `The Drops of God S01E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **1473.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/618009) • [🐱 Nyaa](https://nekobt.to/torrents/11990003399685) |
-| `That Time I Got Reincarnated as a Slime S04E09 MULTi AD 1080p CR WE...` | **1470.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618010) • [🐱 Nyaa](https://nekobt.to/torrents/11989982447375) |
-| `SNOWBALL EARTH S01E13 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H.264-Tsun...` | **716.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618012) • [🐱 Nyaa](https://nekobt.to/torrents/11989964174607) |
 
 ---
 <div align="center">
