@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.31.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.52.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Scum of the Brave S01E24 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1337.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/618210) • [🐱 Nyaa](https://nekobt.to/torrents/12004097256719) |
-| `[Erai-raws] Akane-banashi - 08 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **358.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/618211) • [🐱 Nyaa](https://nekobt.to/torrents/12004094547973) |
-| `[VARYG] Scum of the Brave S01E24 1080p CR WEB-DL AAC2.0 H.264 (Yuus...` | **1340.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618212) • [🐱 Nyaa](https://nekobt.to/torrents/12004033218052) |
-| `[Erai-raws] Yuusha no Kuzu - 24 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1341.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/618215) • [🐱 Nyaa](https://nekobt.to/torrents/12004009768710) |
-| `[Onalrie] Shunkashuutou Daikousha - Haru no Mai - S01E14 [1080p WEB...` | **171.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/618216) • [🐱 Nyaa](https://nekobt.to/torrents/12004003444224) |
-| `[Yameii] NEEDY GIRL OVERDOSE - S01E09 [English Dub] [CR WEB-DL 1080...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618195) • [🐱 Nyaa](https://nyaa.si/view/2126022) |
-| `NEEDY GIRL OVERDOSE S01E09 Blue Monday 1080p CR WEB-DL DUAL AAC2.0 ...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618197) • [🐱 Nyaa](https://nyaa.si/view/2126017) |
-| `NEEDY GIRL OVERDOSE S01E13 EZ DO DANCE 1080p CR WEB-DL AAC2.0 H 264...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618198) • [🐱 Nyaa](https://nyaa.si/view/2126016) |
-| `Mistress Kanan is Devilishly Easy S01E10 Milchs Bratty Memories 108...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618200) • [🐱 Nyaa](https://nyaa.si/view/2126014) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E09 1080p CR WEB-DL DUAL AAC2.0 H...` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618199) • [🐱 Nyaa](https://nyaa.si/view/2126015) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E13 1080p CR WEB-DL AAC2.0 H.264 ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618201) • [🐱 Nyaa](https://nyaa.si/view/2126013) |
-| `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S01E11 [1080...` | **430.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618202) • [🐱 Nyaa](https://nyaa.si/view/2126012) |
-| `[Erai-raws] Needy Girl Overdose - 13 [1080p CR WEB-DL AVC AAC][Mult...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618205) • [🐱 Nyaa](https://nyaa.si/view/2126008) |
-| `[SubsPlease] NEEDY GIRL OVERDOSE - 13 (1080p) [62196881].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618206) • [🐱 Nyaa](https://nyaa.si/view/2126007) |
-| `[Trix] Agents of the Four Seasons S01E14 [WEBRip 1080p AV1 Opus] (M...` | **195.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/618209) • [🐱 Nyaa](https://nyaa.si/view/2126004) |
+| `[SubsPlease] Mata Korosarete Shimatta no desu ne, Tantei-sama (01-1...` | **16896.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618246) • [🐱 Nyaa](https://nyaa.si/view/2126062) |
+| `[Onalrie] Yuusha no Kuzu - S01E24 [1080p WEBRip AV1]` | **190.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/618245) • [🐱 Nyaa](https://nekobt.to/torrents/12005105836547) |
+| `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 14 [1080p CR WEB...` | **411.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618244) • [🐱 Nyaa](https://nyaa.si/view/2126058) |
+| `[ASW] NEEDY GIRL OVERDOSE - 13 [1080p HEVC x265 10Bit][AAC]` | **420.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618239) • [🐱 Nyaa](https://nyaa.si/view/2126057) |
+| `[DKB] Yomi no Tsugai - S01E10 [1080p][HEVC x265 10bit][Multi-Audio]...` | **793.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618240) • [🐱 Nyaa](https://nyaa.si/view/2126056) |
+| `[Judas] NEEDY GIRL OVERDOSE - S01E13 [1080p][HEVC x265 10bit][Multi...` | **404.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618241) • [🐱 Nyaa](https://nyaa.si/view/2126055) |
+| `[ASW] Yuusha no Kuzu - 24 [1080p HEVC x265 10Bit][AAC]` | **213.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618242) • [🐱 Nyaa](https://nyaa.si/view/2126054) |
+| `[DKB] Yowayowa Sensei - S01E12 [1080p][END][HEVC x265 10bit][weekly]` | **258.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618234) • [🐱 Nyaa](https://nyaa.si/view/2126052) |
+| `[DKB] Mairimashita! Iruma-kun - S04E13 [1080p][HEVC x265 10bit][Dua...` | **571.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618235) • [🐱 Nyaa](https://nyaa.si/view/2126051) |
+| `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Era...` | **337.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618236) • [🐱 Nyaa](https://nyaa.si/view/2126050) |
+| `Agents of the Four Seasons Dance of Spring S01E09 United Front 1080...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618237) • [🐱 Nyaa](https://nyaa.si/view/2126049) |
+| `[Onalrie] NEEDY GIRL OVERDOSE - S01E13 [1080p WEBRip AV1]` | **318.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/618238) • [🐱 Nyaa](https://nekobt.to/torrents/12004560975360) |
+| `[VARYG] NEEDY GIRL OVERDOSE S01E09 Blue Monday 1080p CR WEB-DL MULT...` | **1580.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/618232) • [🐱 Nyaa](https://nekobt.to/torrents/12004478429698) |
+| `[Sristi] Another - 04 [1080p BD HEVC 10-bit OPUS]` | **418.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/618233) • [🐱 Nyaa](https://nekobt.to/torrents/12004162701068) |
+| `[Unfucked] NEEDY GIRL OVERDOSE - S01E09 (1080p CR WEB-DL AVC AAC 2....` | **1536.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618217) • [🐱 Nyaa](https://nyaa.si/view/2126046) |
 
 ---
 <div align="center">
