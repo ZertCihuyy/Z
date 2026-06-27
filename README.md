@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.44.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.45.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mao - 13 [1080p DSNP WEBRip HEVC AAC][MultiSub][64D236A5]` | **487.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618278) • [🐱 Nyaa](https://nyaa.si/view/2126140) |
+| `That Time I Got Reincarnated as a Slime S04E08 MULTi AD 1080p CR WE...` | **1471.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618279) • [🐱 Nyaa](https://nekobt.to/torrents/12009537792770) |
+| `Sailor Moon (German ver ) S02E43 1080p ADN WEB-DL AAC2.0 x264-Tsund...` | **563.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618280) • [🐱 Nyaa](https://nekobt.to/torrents/12009527737088) |
+| `Sailor Moon (German ver ) S02E01-42 1080p ADN WEB-DL AAC2.0 x264-Ts...` | **24742.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618281) • [🐱 Nyaa](https://nekobt.to/torrents/12009524564993) |
+| `[DKB] Needy Girl Overdose - S01E13 [1080p][END][HEVC x265 10bit][Mu...` | **472.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618275) • [🐱 Nyaa](https://nyaa.si/view/2126131) |
+| `Daemons of the Shadow Realm S01E10 MULTi AD 1080p CR WEB-DL AAC2.0 ...` | **1444.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/618277) • [🐱 Nyaa](https://nekobt.to/torrents/12009218391808) |
 | `[Erai-raws] Mao - 13 [1080p DSNP WEB-DL AVC AAC][MultiSub][A7FA33D6]` | **865.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618273) • [🐱 Nyaa](https://nyaa.si/view/2126122) |
 | `[Gecko] Odekake Kozame - S01E72 (おでかけ子ザメ; Odekake Kozame 2nd Season...` | **19.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/618270) • [🐱 Nyaa](https://nekobt.to/torrents/12008597790478) |
 | `[Erai-raws] Needy Girl Overdose - 13 [1080p CR WEBRip HEVC AAC][Mul...` | **530.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618267) • [🐱 Nyaa](https://nyaa.si/view/2126117) |
@@ -42,12 +48,6 @@
 | `[Sristi] Another - 06 [1080p BD HEVC 10-bit OPUS]` | **408.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618263) • [🐱 Nyaa](https://nekobt.to/torrents/12007752532229) |
 | `[Judas] Neko to Ryuu (The Cat and the Dragon) - S01E01 [1080p][HEVC...` | **311.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618260) • [🐱 Nyaa](https://nyaa.si/view/2126108) |
 | `[DKB] Kill Ao - S01E12 [1080p][END][HEVC x265 10bit][Multi-Subs][we...` | **383.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618261) • [🐱 Nyaa](https://nyaa.si/view/2126106) |
-| `[Sristi] Another - 05 [1080p BD HEVC 10-bit OPUS]` | **372.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/618258) • [🐱 Nyaa](https://nekobt.to/torrents/12006609655558) |
-| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E11 ...` | **561.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618256) • [🐱 Nyaa](https://nyaa.si/view/2126099) |
-| `[BlackRabbit] Aki-Sora - In a Dream (2010) - S01 [Bluray-1080p][Opu...` | **261.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/618257) • [🐱 Nyaa](https://nekobt.to/torrents/12006319034117) |
-| `[denisplay] Yowayowa Sensei (Season 1) [1080p] [AV1] (Weekly) [batc...` | **2662.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618251) • [🐱 Nyaa](https://nyaa.si/view/2126083) |
-| `[BlackRabbit] Haikyu!! (2014) - S01 [Bluray-1080p][Opus 2.0][Dual A...` | **3853.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/618255) • [🐱 Nyaa](https://nekobt.to/torrents/12006164366593) |
-| `[BlackRabbit] Aki-Sora - In a Dream (2010) - S00 [Bluray-1080p][Opu...` | **94.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618250) • [🐱 Nyaa](https://nekobt.to/torrents/12005606212362) |
 
 ---
 <div align="center">
