@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.11.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.31.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] MAO S01E13 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **865.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618262) • [🐱 Nyaa](https://nyaa.si/view/2126111) |
+| `[Sristi] Another - 06 [1080p BD HEVC 10-bit OPUS]` | **408.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618263) • [🐱 Nyaa](https://nekobt.to/torrents/12007752532229) |
+| `[Judas] Neko to Ryuu (The Cat and the Dragon) - S01E01 [1080p][HEVC...` | **311.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618260) • [🐱 Nyaa](https://nyaa.si/view/2126108) |
+| `[DKB] Kill Ao - S01E12 [1080p][END][HEVC x265 10bit][Multi-Subs][we...` | **383.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618261) • [🐱 Nyaa](https://nyaa.si/view/2126106) |
+| `[Sristi] Another - 05 [1080p BD HEVC 10-bit OPUS]` | **372.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/618258) • [🐱 Nyaa](https://nekobt.to/torrents/12006609655558) |
 | `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E11 ...` | **561.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618256) • [🐱 Nyaa](https://nyaa.si/view/2126099) |
 | `[BlackRabbit] Aki-Sora - In a Dream (2010) - S01 [Bluray-1080p][Opu...` | **261.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/618257) • [🐱 Nyaa](https://nekobt.to/torrents/12006319034117) |
 | `[denisplay] Yowayowa Sensei (Season 1) [1080p] [AV1] (Weekly) [batc...` | **2662.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618251) • [🐱 Nyaa](https://nyaa.si/view/2126083) |
@@ -43,11 +48,6 @@
 | `[Onalrie] Yuusha no Kuzu - S01E24 [1080p WEBRip AV1]` | **190.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/618245) • [🐱 Nyaa](https://nekobt.to/torrents/12005105836547) |
 | `[Erai-raws] Shunkashuutou Daikousha: Haru no Mai - 14 [1080p CR WEB...` | **411.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618244) • [🐱 Nyaa](https://nyaa.si/view/2126058) |
 | `[ASW] NEEDY GIRL OVERDOSE - 13 [1080p HEVC x265 10Bit][AAC]` | **420.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618239) • [🐱 Nyaa](https://nyaa.si/view/2126057) |
-| `[DKB] Yomi no Tsugai - S01E10 [1080p][HEVC x265 10bit][Multi-Audio]...` | **793.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618240) • [🐱 Nyaa](https://nyaa.si/view/2126056) |
-| `[Judas] NEEDY GIRL OVERDOSE - S01E13 [1080p][HEVC x265 10bit][Multi...` | **404.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618241) • [🐱 Nyaa](https://nyaa.si/view/2126055) |
-| `[ASW] Yuusha no Kuzu - 24 [1080p HEVC x265 10Bit][AAC]` | **213.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618242) • [🐱 Nyaa](https://nyaa.si/view/2126054) |
-| `[DKB] Yowayowa Sensei - S01E12 [1080p][END][HEVC x265 10bit][weekly]` | **258.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618234) • [🐱 Nyaa](https://nyaa.si/view/2126052) |
-| `[DKB] Mairimashita! Iruma-kun - S04E13 [1080p][HEVC x265 10bit][Dua...` | **571.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618235) • [🐱 Nyaa](https://nyaa.si/view/2126051) |
 
 ---
 <div align="center">
