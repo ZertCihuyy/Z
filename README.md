@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.56.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.33.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlease] Meitantei Precure! - 22 (1080p) [4CAF6266].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618283) • [🐱 Nyaa](https://nyaa.si/view/2126164) |
-| `[Erai-raws] Meitantei Precure - 22 [1080p CR WEB-DL AVC AAC][FDAC2352]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618288) • [🐱 Nyaa](https://nyaa.si/view/2126159) |
-| `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E08 (WEB 1080p H...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618282) • [🐱 Nyaa](https://nyaa.si/view/2126150) |
-| `[Erai-raws] Mao - 13 [1080p DSNP WEBRip HEVC AAC][MultiSub][64D236A5]` | **487.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618278) • [🐱 Nyaa](https://nyaa.si/view/2126140) |
-| `That Time I Got Reincarnated as a Slime S04E08 MULTi AD 1080p CR WE...` | **1471.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618279) • [🐱 Nyaa](https://nekobt.to/torrents/12009537792770) |
-| `Sailor Moon (German ver ) S02E43 1080p ADN WEB-DL AAC2.0 x264-Tsund...` | **563.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618280) • [🐱 Nyaa](https://nekobt.to/torrents/12009527737088) |
-| `Sailor Moon (German ver ) S02E01-42 1080p ADN WEB-DL AAC2.0 x264-Ts...` | **24742.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618281) • [🐱 Nyaa](https://nekobt.to/torrents/12009524564993) |
-| `[DKB] Needy Girl Overdose - S01E13 [1080p][END][HEVC x265 10bit][Mu...` | **472.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618275) • [🐱 Nyaa](https://nyaa.si/view/2126131) |
-| `Daemons of the Shadow Realm S01E10 MULTi AD 1080p CR WEB-DL AAC2.0 ...` | **1444.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/618277) • [🐱 Nyaa](https://nekobt.to/torrents/12009218391808) |
-| `[Erai-raws] Mao - 13 [1080p DSNP WEB-DL AVC AAC][MultiSub][A7FA33D6]` | **865.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618273) • [🐱 Nyaa](https://nyaa.si/view/2126122) |
-| `[Gecko] Odekake Kozame - S01E72 (おでかけ子ザメ; Odekake Kozame 2nd Season...` | **19.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/618270) • [🐱 Nyaa](https://nekobt.to/torrents/12008597790478) |
-| `[Erai-raws] Needy Girl Overdose - 13 [1080p CR WEBRip HEVC AAC][Mul...` | **530.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618267) • [🐱 Nyaa](https://nyaa.si/view/2126117) |
-| `MAO S01E13 Byouki 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **363.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618265) • [🐱 Nyaa](https://nyaa.si/view/2126115) |
-| `MAO S01E13 Byoki 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Maoyuu Maou ...` | **865.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618266) • [🐱 Nyaa](https://nyaa.si/view/2126114) |
-| `[ToonsHub] MAO S01E13 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **865.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618262) • [🐱 Nyaa](https://nyaa.si/view/2126111) |
+| `[BlackRabbit] Haikyu!! (2014) - S02 [Bluray-1080p][Opus 2.0][Dual A...` | **4431.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/618313) • [🐱 Nyaa](https://nekobt.to/torrents/12016102968326) |
+| `[Serenae] Meitantei Precure! - 22 Next Ep PV (1080p).mkv` | **11.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618309) • [🐱 Nyaa](https://nyaa.si/view/2126209) |
+| `[Serenae] Meitantei Precure! - 22 Fanart Corner (1080p).mkv` | **8.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618310) • [🐱 Nyaa](https://nyaa.si/view/2126208) |
+| `[Raze] Lord of Mysteries - Specials - 01 - 03 x265 10bit 1080p 150fps` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618311) • [🐱 Nyaa](https://nyaa.si/view/2126207) |
+| `[ToonsHub] NEEDY GIRL OVERDOSE S01E09 1080p CR WEB-DL MULTi AAC2.0 ...` | **1579.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618308) • [🐱 Nyaa](https://nekobt.to/torrents/12014889016835) |
+| `[Serenae] Meitantei Precure! - 22 (1080p).mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618306) • [🐱 Nyaa](https://nyaa.si/view/2126204) |
+| `KILL BLUE S01E12 SUBFRENCH 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1039.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/618301) • [🐱 Nyaa](https://nekobt.to/torrents/12014594401283) |
+| `Akane banashi S01E08 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1020.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/618302) • [🐱 Nyaa](https://nekobt.to/torrents/12014587670279) |
+| `Akane banashi S01E08 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **279.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/618303) • [🐱 Nyaa](https://nekobt.to/torrents/12014583010573) |
+| `Akane banashi S01E08 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **293.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618304) • [🐱 Nyaa](https://nekobt.to/torrents/12014579937793) |
+| `[ASW] Lord of Mysteries - Specials - 03 [1080p HEVC x265 10Bit][AAC]` | **248.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618300) • [🐱 Nyaa](https://nyaa.si/view/2126182) |
+| `[ToonsHub] The Other Side of Deep Space S01E26 1080p BILI WEB-DL AA...` | **459.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618299) • [🐱 Nyaa](https://nekobt.to/torrents/12013075323650) |
+| `[DKB] MAO - S01E13 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **450.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618298) • [🐱 Nyaa](https://nyaa.si/view/2126178) |
+| `[ASW] Meitantei Precure! - 22 [1080p HEVC x265 10Bit][AAC]` | **624.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618297) • [🐱 Nyaa](https://nyaa.si/view/2126177) |
+| `Lord of Mysteries S04E03 Lord of Mysteries Special The Marked Hunt ...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618289) • [🐱 Nyaa](https://nyaa.si/view/2126173) |
 
 ---
 <div align="center">
