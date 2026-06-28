@@ -1,162 +1,16 @@
 {
-  "last_update": "28/6/2026, 23.43.51",
-  "hari": "Minggu",
+  "last_update": "29/6/2026, 00.53.33",
+  "hari": "Senin",
   "data": [
     {
-      "airingAt": 1782597600,
+      "airingAt": 1782698400,
       "media": {
-        "id": 204269,
+        "id": 137653,
         "title": {
-          "romaji": "Odekake Kozame Season 2"
+          "romaji": "Xian Ni"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png"
-        },
-        "genres": [
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782597600,
-      "media": {
-        "id": 202386,
-        "title": {
-          "romaji": "Shou 3 Ashibe QQ Goma-chan"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png"
-        },
-        "genres": [
-          "Comedy",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782597600,
-      "media": {
-        "id": 206950,
-        "title": {
-          "romaji": "Kumarba Season 3"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png"
-        },
-        "genres": [
-          "Action",
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782601200,
-      "media": {
-        "id": 185646,
-        "title": {
-          "romaji": "Koupen-chan"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg"
-        },
-        "genres": [
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782603000,
-      "media": {
-        "id": 202957,
-        "title": {
-          "romaji": "Meitantei Precure!"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg"
-        },
-        "genres": [
-          "Mahou Shoujo",
-          "Mystery"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782606600,
-      "media": {
-        "id": 206523,
-        "title": {
-          "romaji": "Onegai AiPri"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg"
-        },
-        "genres": [
-          "Music"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782612000,
-      "media": {
-        "id": 196613,
-        "title": {
-          "romaji": "Dou Po Cangqiong: Nian Fan 4"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782612000,
-      "media": {
-        "id": 155723,
-        "title": {
-          "romaji": "Wushen Zhuzai: Da Wei Pian"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
-        },
-        "genres": [
-          "Action",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782612000,
-      "media": {
-        "id": 199448,
-        "title": {
-          "romaji": "Guimi Zhi Zhu Specials"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199448-BuqzEdkuPSEm.png"
-        },
-        "genres": [
-          "Action",
-          "Drama",
-          "Fantasy",
-          "Mystery",
-          "Supernatural",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782631800,
-      "media": {
-        "id": 182300,
-        "title": {
-          "romaji": "Tsue to Tsurugi no Wistoria Season 2"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png"
         },
         "genres": [
           "Action",
@@ -167,86 +21,33 @@
       }
     },
     {
-      "airingAt": 1782633600,
+      "airingAt": 1782738000,
       "media": {
-        "id": 182578,
+        "id": 206521,
         "title": {
-          "romaji": "Yozakura-san Chi no Daisakusen 2nd Season"
+          "romaji": "World Is Dancing"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206521-ecJuDgjth84C.png"
         },
         "genres": [
-          "Action",
-          "Comedy",
-          "Romance"
+          "Drama"
         ]
       }
     },
     {
-      "airingAt": 1782635400,
+      "airingAt": 1782745200,
       "media": {
-        "id": 177634,
+        "id": 197754,
         "title": {
-          "romaji": "Diamond no Ace act II: Second Season"
+          "romaji": "LIAR GAME"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
         },
         "genres": [
-          "Sports"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782637200,
-      "media": {
-        "id": 118123,
-        "title": {
-          "romaji": "Holo no Graffiti"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782639000,
-      "media": {
-        "id": 2406,
-        "title": {
-          "romaji": "Sazae-san"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782656160,
-      "media": {
-        "id": 21,
-        "title": {
-          "romaji": "ONE PIECE"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
           "Drama",
-          "Fantasy"
+          "Psychological"
         ]
       }
     }
