@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.48.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.48.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Haikyu!! (2014) - S03 [Bluray-1080p][Opus 2.0][Dual A...` | **2032.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/618364) • [🐱 Nyaa](https://nekobt.to/torrents/12021084995330) |
+| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 12 [1080p D...` | **472.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618362) • [🐱 Nyaa](https://nyaa.si/view/2126284) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 13 [1080p CR WEB...` | **407.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618363) • [🐱 Nyaa](https://nyaa.si/view/2126283) |
+| `[Judas] Dia no Ace (Ace of the Diamond) - S04E13 [1080p][HEVC x265 ...` | **208.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618361) • [🐱 Nyaa](https://nyaa.si/view/2126279) |
+| `[neoDESU] I May Be a Guild Receptionist, but I’ll Solo Any Boss to ...` | **3481.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618359) • [🐱 Nyaa](https://nyaa.si/view/2126275) |
+| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sword) - S02...` | **305.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618360) • [🐱 Nyaa](https://nyaa.si/view/2126274) |
+| `[ASW] Ace of Diamond Act II S2 - 13 [1080p HEVC x265 10Bit][AAC]` | **208.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618357) • [🐱 Nyaa](https://nyaa.si/view/2126273) |
+| `[Onalrie] Ace of Diamond Act II - S02E13 [1080p WEBRip AV1]` | **168.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618358) • [🐱 Nyaa](https://nekobt.to/torrents/12019113704454) |
 | `[Erai-raws] Yozakura-san Chi no Daisakusen S02E12 [1080p DSNP WEB-D...` | **928.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618356) • [🐱 Nyaa](https://nekobt.to/torrents/12019033410050) |
 | `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 12 [1080p CR W...` | **364.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618349) • [🐱 Nyaa](https://nyaa.si/view/2126267) |
 | `[ASW] Tsue to Tsurugi no Wistoria S2 - 12 [1080p HEVC x265 10Bit][AAC]` | **307.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618351) • [🐱 Nyaa](https://nyaa.si/view/2126265) |
@@ -40,14 +48,6 @@
 | `Wistoria Wand and Sword S02E09 The Page to Be Turned 1080p CR WEB-D...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618353) • [🐱 Nyaa](https://nyaa.si/view/2126263) |
 | `[Onalrie] Tsue to Tsurugi no Wistoria - S02E12 [1080p WEBRip AV1]` | **248.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618347) • [🐱 Nyaa](https://nekobt.to/torrents/12018742497289) |
 | `[ToonsHub] Ace of Diamond S04E13 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1386.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/618348) • [🐱 Nyaa](https://nekobt.to/torrents/12018735590144) |
-| `[SubsPlease] Ace of Diamond Act II S2 - 13 (1080p) [DA6B779F].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618340) • [🐱 Nyaa](https://nyaa.si/view/2126259) |
-| `Ace of the Diamond S04E13 An Endless Road 1080p CR WEB-DL AAC2.0 H ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618341) • [🐱 Nyaa](https://nyaa.si/view/2126258) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 13 [1080p CR WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618345) • [🐱 Nyaa](https://nyaa.si/view/2126252) |
-| `[ToonsHub] Wistoria Wand and Sword S02E09 1080p CR WEB-DL MULTi AAC...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618331) • [🐱 Nyaa](https://nyaa.si/view/2126250) |
-| `Wistoria Wand and Sword S02E12 A Story of a Dream With No End 1080p...` | **943.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618332) • [🐱 Nyaa](https://nyaa.si/view/2126249) |
-| `[ToonsHub] Wistoria Wand and Sword S02E10 1080p CR WEB-DL DUAL AAC2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618333) • [🐱 Nyaa](https://nyaa.si/view/2126248) |
-| `[Gecko] Action Monster Big Movie - S01E11 (开拍啦！怪兽大电影; Kai Pai La! G...` | **451.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618334) • [🐱 Nyaa](https://nyaa.si/view/2126247) |
-| `[ToonsHub] Wistoria Wand and Sword S02E12 1080p CR WEB-DL AAC2.0 H....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618335) • [🐱 Nyaa](https://nyaa.si/view/2126246) |
 
 ---
 <div align="center">
