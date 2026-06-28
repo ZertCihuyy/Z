@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.33.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.48.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[BlackRabbit] Haikyu!! (2014) - S02 [Bluray-1080p][Opus 2.0][Dual A...` | **4431.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/618313) • [🐱 Nyaa](https://nekobt.to/torrents/12016102968326) |
-| `[Serenae] Meitantei Precure! - 22 Next Ep PV (1080p).mkv` | **11.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618309) • [🐱 Nyaa](https://nyaa.si/view/2126209) |
-| `[Serenae] Meitantei Precure! - 22 Fanart Corner (1080p).mkv` | **8.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618310) • [🐱 Nyaa](https://nyaa.si/view/2126208) |
-| `[Raze] Lord of Mysteries - Specials - 01 - 03 x265 10bit 1080p 150fps` | **1945.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618311) • [🐱 Nyaa](https://nyaa.si/view/2126207) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E09 1080p CR WEB-DL MULTi AAC2.0 ...` | **1579.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618308) • [🐱 Nyaa](https://nekobt.to/torrents/12014889016835) |
-| `[Serenae] Meitantei Precure! - 22 (1080p).mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618306) • [🐱 Nyaa](https://nyaa.si/view/2126204) |
-| `KILL BLUE S01E12 SUBFRENCH 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1039.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/618301) • [🐱 Nyaa](https://nekobt.to/torrents/12014594401283) |
-| `Akane banashi S01E08 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1020.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/618302) • [🐱 Nyaa](https://nekobt.to/torrents/12014587670279) |
-| `Akane banashi S01E08 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **279.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/618303) • [🐱 Nyaa](https://nekobt.to/torrents/12014583010573) |
-| `Akane banashi S01E08 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **293.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618304) • [🐱 Nyaa](https://nekobt.to/torrents/12014579937793) |
-| `[ASW] Lord of Mysteries - Specials - 03 [1080p HEVC x265 10Bit][AAC]` | **248.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618300) • [🐱 Nyaa](https://nyaa.si/view/2126182) |
-| `[ToonsHub] The Other Side of Deep Space S01E26 1080p BILI WEB-DL AA...` | **459.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618299) • [🐱 Nyaa](https://nekobt.to/torrents/12013075323650) |
-| `[DKB] MAO - S01E13 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **450.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618298) • [🐱 Nyaa](https://nyaa.si/view/2126178) |
-| `[ASW] Meitantei Precure! - 22 [1080p HEVC x265 10Bit][AAC]` | **624.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618297) • [🐱 Nyaa](https://nyaa.si/view/2126177) |
-| `Lord of Mysteries S04E03 Lord of Mysteries Special The Marked Hunt ...` | **1126.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618289) • [🐱 Nyaa](https://nyaa.si/view/2126173) |
+| `[Erai-raws] Yozakura-san Chi no Daisakusen S02E12 [1080p DSNP WEB-D...` | **928.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618356) • [🐱 Nyaa](https://nekobt.to/torrents/12019033410050) |
+| `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 12 [1080p CR W...` | **364.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618349) • [🐱 Nyaa](https://nyaa.si/view/2126267) |
+| `[ASW] Tsue to Tsurugi no Wistoria S2 - 12 [1080p HEVC x265 10Bit][AAC]` | **307.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618351) • [🐱 Nyaa](https://nyaa.si/view/2126265) |
+| `[Erai-raws] Lord of Mysteries - Special 03 (CA) [1080p CR WEBRip HE...` | **461.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618352) • [🐱 Nyaa](https://nyaa.si/view/2126264) |
+| `Wistoria Wand and Sword S02E09 The Page to Be Turned 1080p CR WEB-D...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618353) • [🐱 Nyaa](https://nyaa.si/view/2126263) |
+| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E12 [1080p WEBRip AV1]` | **248.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618347) • [🐱 Nyaa](https://nekobt.to/torrents/12018742497289) |
+| `[ToonsHub] Ace of Diamond S04E13 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1386.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/618348) • [🐱 Nyaa](https://nekobt.to/torrents/12018735590144) |
+| `[SubsPlease] Ace of Diamond Act II S2 - 13 (1080p) [DA6B779F].mkv` | **1331.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618340) • [🐱 Nyaa](https://nyaa.si/view/2126259) |
+| `Ace of the Diamond S04E13 An Endless Road 1080p CR WEB-DL AAC2.0 H ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618341) • [🐱 Nyaa](https://nyaa.si/view/2126258) |
+| `[Erai-raws] Diamond no Ace: Act II Second Season - 13 [1080p CR WEB...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618345) • [🐱 Nyaa](https://nyaa.si/view/2126252) |
+| `[ToonsHub] Wistoria Wand and Sword S02E09 1080p CR WEB-DL MULTi AAC...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618331) • [🐱 Nyaa](https://nyaa.si/view/2126250) |
+| `Wistoria Wand and Sword S02E12 A Story of a Dream With No End 1080p...` | **943.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618332) • [🐱 Nyaa](https://nyaa.si/view/2126249) |
+| `[ToonsHub] Wistoria Wand and Sword S02E10 1080p CR WEB-DL DUAL AAC2...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618333) • [🐱 Nyaa](https://nyaa.si/view/2126248) |
+| `[Gecko] Action Monster Big Movie - S01E11 (开拍啦！怪兽大电影; Kai Pai La! G...` | **451.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618334) • [🐱 Nyaa](https://nyaa.si/view/2126247) |
+| `[ToonsHub] Wistoria Wand and Sword S02E12 1080p CR WEB-DL AAC2.0 H....` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618335) • [🐱 Nyaa](https://nyaa.si/view/2126246) |
 
 ---
 <div align="center">

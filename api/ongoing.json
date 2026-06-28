@@ -1,5 +1,5 @@
 {
-  "last_update": "28/6/2026, 13.33.24",
+  "last_update": "28/6/2026, 16.48.04",
   "data": [
     {
       "id": 21,
@@ -65,26 +65,6 @@
         "nodes": [
           {
             "name": "8-bit"
-          }
-        ]
-      }
-    },
-    {
-      "id": 182300,
-      "title": {
-        "romaji": "Tsue to Tsurugi no Wistoria Season 2"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg"
-      },
-      "episodes": 12,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Actas"
-          },
-          {
-            "name": "Bandai Namco Pictures"
           }
         ]
       }
@@ -170,6 +150,23 @@
         "nodes": [
           {
             "name": "MADHOUSE"
+          }
+        ]
+      }
+    },
+    {
+      "id": 184492,
+      "title": {
+        "romaji": "Mairimashita! Iruma-kun 4"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg"
+      },
+      "episodes": 24,
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Namco Pictures"
           }
         ]
       }
