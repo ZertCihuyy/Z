@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.53.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.37.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -21,21 +21,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Seigyoku] Mahou no Shimai LuluttoLilly - 01-12 (WEB 1080p Batch) |...` | **7872.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618433) • [🐱 Nyaa](https://nyaa.si/view/2126404) |
+| `[Sristi] Another - 07 [1080p BD HEVC 10-bit OPUS]` | **393.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/618438) • [🐱 Nyaa](https://nekobt.to/torrents/12027921760526) |
+| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E12 [1080p][HEVC x265 10b...` | **600.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618434) • [🐱 Nyaa](https://nyaa.si/view/2126403) |
+| `[DKB] Yozakura-san Chi no Daisakusen - S02E12 [1080p][END][HEVC x26...` | **558.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/618435) • [🐱 Nyaa](https://nyaa.si/view/2126402) |
+| `[DKB] Tsue to Tsurugi no Wistoria - S02E12 [1080p][END][HEVC x265 1...` | **407.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/618436) • [🐱 Nyaa](https://nyaa.si/view/2126401) |
+| `[Himejoshi]  ⯎ NEEDY GIRL OVERDOSE ⯎  S01E09 (WEB 1080p AV1) | 09 |...` | **1299.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/618413) • [🐱 Nyaa](https://nyaa.si/view/2126394) |
+| `[Trix] Botan Kamiina Fully Blossoms When Drunk S01 (Batch) [WEBRip ...` | **2467.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618414) • [🐱 Nyaa](https://nyaa.si/view/2126393) |
+| `Ichijyoma Mankitsu Gurashi S01 1080p AMZN WEB-DL AAC2.0 H 264-VARYG...` | **9130.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/618411) • [🐱 Nyaa](https://nyaa.si/view/2126385) |
+| `Magical Sisters LuluttoLilly S01 1080p AMZN WEB-DL DDP2.0 H 264-VAR...` | **8292.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618412) • [🐱 Nyaa](https://nyaa.si/view/2126383) |
 | `Mistress Kanan is Devilishly Easy S01E10 Milchs Bratty Memories 108...` | **1440.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618406) • [🐱 Nyaa](https://nyaa.si/view/2126379) |
 | `Mistress Kanan is Devilishly Easy S01E09 Lilims Test of Defeat 1080...` | **1443.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/618407) • [🐱 Nyaa](https://nyaa.si/view/2126378) |
 | `Mistress Kanan is Devilishly Easy S01E08 Kanan Returns To Her Famil...` | **1439.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618408) • [🐱 Nyaa](https://nyaa.si/view/2126377) |
 | `[ASW] One Piece - 1168 [1080p HEVC x265 10Bit][AAC]` | **380.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/618404) • [🐱 Nyaa](https://nyaa.si/view/2126371) |
 | `[Onalrie] One Piece - E1168 [1080p WEBRip AV1]` | **284.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618403) • [🐱 Nyaa](https://nekobt.to/torrents/12025834483715) |
 | `[One Pace] One Piece Fan Letter [1080p][59510B34].mkv` | **772.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/618405) • [🐱 Nyaa](https://nyaa.si/view/2126364) |
-| `[SubsNoJutsu] Witch Hat Atelier - S01E13 (1080p WEB AAC x265)` | **402.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618402) • [🐱 Nyaa](https://nekobt.to/torrents/12025443354371) |
-| `[SubsMix] The Classroom of a Black Cat and a Witch - 12 (S01E12) - ...` | **1405.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618398) • [🐱 Nyaa](https://nyaa.si/view/2126359) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 12 [1080p CR WEBRip HE...` | **593.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618399) • [🐱 Nyaa](https://nyaa.si/view/2126356) |
-| `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of a Black Ca...` | **418.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/618388) • [🐱 Nyaa](https://nyaa.si/view/2126352) |
-| `One Piece S01E1168 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **1354.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/618389) • [🐱 Nyaa](https://nyaa.si/view/2126349) |
-| `[ToonsHub] One Piece EP1168 1080p CR WEB-DL AAC2.0 H.264 (English-Sub)` | **1353.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/618390) • [🐱 Nyaa](https://nyaa.si/view/2126348) |
-| `[ASW] Kuroneko to Majo no Kyoushitsu - 12 [1080p HEVC x265 10Bit][AAC]` | **422.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/618391) • [🐱 Nyaa](https://nyaa.si/view/2126347) |
-| `[SubsPlease] One Piece - 1168 (1080p) [0A043BA1].mkv` | **1348.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618392) • [🐱 Nyaa](https://nyaa.si/view/2126346) |
-| `[Erai-raws] One Piece - 1168 [1080p CR WEB-DL AVC AAC][BF73B48B]` | **1354.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/618396) • [🐱 Nyaa](https://nyaa.si/view/2126342) |
 
 ---
 <div align="center">
