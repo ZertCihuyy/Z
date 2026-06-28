@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.45.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.56.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Meitantei Precure! - 22 (1080p) [4CAF6266].mkv` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618283) • [🐱 Nyaa](https://nyaa.si/view/2126164) |
+| `[Erai-raws] Meitantei Precure - 22 [1080p CR WEB-DL AVC AAC][FDAC2352]` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618288) • [🐱 Nyaa](https://nyaa.si/view/2126159) |
+| `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E08 (WEB 1080p H...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618282) • [🐱 Nyaa](https://nyaa.si/view/2126150) |
 | `[Erai-raws] Mao - 13 [1080p DSNP WEBRip HEVC AAC][MultiSub][64D236A5]` | **487.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618278) • [🐱 Nyaa](https://nyaa.si/view/2126140) |
 | `That Time I Got Reincarnated as a Slime S04E08 MULTi AD 1080p CR WE...` | **1471.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618279) • [🐱 Nyaa](https://nekobt.to/torrents/12009537792770) |
 | `Sailor Moon (German ver ) S02E43 1080p ADN WEB-DL AAC2.0 x264-Tsund...` | **563.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618280) • [🐱 Nyaa](https://nekobt.to/torrents/12009527737088) |
@@ -45,9 +48,6 @@
 | `MAO S01E13 Byouki 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **363.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618265) • [🐱 Nyaa](https://nyaa.si/view/2126115) |
 | `MAO S01E13 Byoki 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Maoyuu Maou ...` | **865.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618266) • [🐱 Nyaa](https://nyaa.si/view/2126114) |
 | `[ToonsHub] MAO S01E13 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **865.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618262) • [🐱 Nyaa](https://nyaa.si/view/2126111) |
-| `[Sristi] Another - 06 [1080p BD HEVC 10-bit OPUS]` | **408.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618263) • [🐱 Nyaa](https://nekobt.to/torrents/12007752532229) |
-| `[Judas] Neko to Ryuu (The Cat and the Dragon) - S01E01 [1080p][HEVC...` | **311.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618260) • [🐱 Nyaa](https://nyaa.si/view/2126108) |
-| `[DKB] Kill Ao - S01E12 [1080p][END][HEVC x265 10bit][Multi-Subs][we...` | **383.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618261) • [🐱 Nyaa](https://nyaa.si/view/2126106) |
 
 ---
 <div align="center">
