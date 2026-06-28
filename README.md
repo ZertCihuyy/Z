@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.24.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.43.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E12 1080p CR...` | **1405.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/618379) • [🐱 Nyaa](https://nekobt.to/torrents/12024208752901) |
-| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 12 (1080p) [99AEEEF5]...` | **1378.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/618371) • [🐱 Nyaa](https://nyaa.si/view/2126324) |
-| `The Classroom of a Black Cat and a Witch S01E12 1080p CR WEB-DL AAC...` | **1407.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/618372) • [🐱 Nyaa](https://nyaa.si/view/2126323) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 12 [1080p CR WEB-DL AV...` | **1388.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618377) • [🐱 Nyaa](https://nyaa.si/view/2126317) |
-| `[Piyoko] Onegai AiPri - 13 [WEB AMZN 1080p h264 AC3 2.0]` | **1195.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618378) • [🐱 Nyaa](https://nyaa.si/view/2126316) |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 89 [1080p] (GB_CN) | 牧神记` | **381.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618369) • [🐱 Nyaa](https://nyaa.si/view/2126303) |
-| `Wistoria Wand and Sword S02E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264...` | **1456.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618368) • [🐱 Nyaa](https://nekobt.to/torrents/12022664326415) |
-| `[FrixySubs] Dr. STONE - S04E36 [1080p CR WEB-DL H.264 AAC] [Napisy ...` | **1393.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618367) • [🐱 Nyaa](https://nekobt.to/torrents/12022404338184) |
-| `[ALS] Medalist 10 (1080p BD AAC x264)` | **786.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/618366) • [🐱 Nyaa](https://nekobt.to/torrents/12022178760195) |
-| `[GHOST] Full Metal Panic! (BD 1080p HEVC 10bit Dual Audio AC3) (Batch)` | **69324.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618365) • [🐱 Nyaa](https://nyaa.si/view/2126287) |
-| `[BlackRabbit] Haikyu!! (2014) - S03 [Bluray-1080p][Opus 2.0][Dual A...` | **2032.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/618364) • [🐱 Nyaa](https://nekobt.to/torrents/12021084995330) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 12 [1080p D...` | **472.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618362) • [🐱 Nyaa](https://nyaa.si/view/2126284) |
-| `[Erai-raws] Diamond no Ace: Act II Second Season - 13 [1080p CR WEB...` | **407.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618363) • [🐱 Nyaa](https://nyaa.si/view/2126283) |
-| `[Judas] Dia no Ace (Ace of the Diamond) - S04E13 [1080p][HEVC x265 ...` | **208.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618361) • [🐱 Nyaa](https://nyaa.si/view/2126279) |
-| `[neoDESU] I May Be a Guild Receptionist, but I’ll Solo Any Boss to ...` | **3481.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618359) • [🐱 Nyaa](https://nyaa.si/view/2126275) |
+| `[SubsNoJutsu] Witch Hat Atelier - S01E13 (1080p WEB AAC x265)` | **402.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618402) • [🐱 Nyaa](https://nekobt.to/torrents/12025443354371) |
+| `[SubsMix] The Classroom of a Black Cat and a Witch - 12 (S01E12) - ...` | **1405.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618398) • [🐱 Nyaa](https://nyaa.si/view/2126359) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 12 [1080p CR WEBRip HE...` | **593.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618399) • [🐱 Nyaa](https://nyaa.si/view/2126356) |
+| `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of a Black Ca...` | **418.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/618388) • [🐱 Nyaa](https://nyaa.si/view/2126352) |
+| `One Piece S01E1168 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **1354.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/618389) • [🐱 Nyaa](https://nyaa.si/view/2126349) |
+| `[ToonsHub] One Piece EP1168 1080p CR WEB-DL AAC2.0 H.264 (English-Sub)` | **1353.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/618390) • [🐱 Nyaa](https://nyaa.si/view/2126348) |
+| `[ASW] Kuroneko to Majo no Kyoushitsu - 12 [1080p HEVC x265 10Bit][AAC]` | **422.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/618391) • [🐱 Nyaa](https://nyaa.si/view/2126347) |
+| `[SubsPlease] One Piece - 1168 (1080p) [0A043BA1].mkv` | **1348.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618392) • [🐱 Nyaa](https://nyaa.si/view/2126346) |
+| `[Erai-raws] One Piece - 1168 [1080p CR WEB-DL AVC AAC][BF73B48B]` | **1354.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/618396) • [🐱 Nyaa](https://nyaa.si/view/2126342) |
+| `[ToonsHub] Wistoria Wand and Sword S02E12 1080p BILI WEB-DL AAC2.0 ...` | **348.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/618385) • [🐱 Nyaa](https://nekobt.to/torrents/12024982797319) |
+| `[Yameii] Wistoria: Wand and Sword - S02E10 [English Dub] [CR WEB-DL...` | **1391.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618386) • [🐱 Nyaa](https://nekobt.to/torrents/12024957018118) |
+| `[ToonsHub] One Piece EP1168 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **300.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618384) • [🐱 Nyaa](https://nyaa.si/view/2126337) |
+| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E12 [1080p WEBRip AV1]` | **268.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618387) • [🐱 Nyaa](https://nekobt.to/torrents/12024814531077) |
+| `[Isekai] Tensei Shitara Slime Datta Ken Movie 2 - Soukai no Namida-...` | **3087.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/618380) • [🐱 Nyaa](https://nyaa.si/view/2126333) |
+| `[ToonsHub] One Piece EP1168 1080p TVER WEB-DL AAC2.0 H.264` | **553.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618382) • [🐱 Nyaa](https://nekobt.to/torrents/12024398133764) |
 
 ---
 <div align="center">
