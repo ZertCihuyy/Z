@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.48.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.59.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FSP] Mushen Ji (Tales of Herding Gods) - 89 [1080p] (GB_CN) | 牧神记` | **381.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618369) • [🐱 Nyaa](https://nyaa.si/view/2126303) |
+| `Wistoria Wand and Sword S02E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264...` | **1456.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618368) • [🐱 Nyaa](https://nekobt.to/torrents/12022664326415) |
+| `[FrixySubs] Dr. STONE - S04E36 [1080p CR WEB-DL H.264 AAC] [Napisy ...` | **1393.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618367) • [🐱 Nyaa](https://nekobt.to/torrents/12022404338184) |
+| `[ALS] Medalist 10 (1080p BD AAC x264)` | **786.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/618366) • [🐱 Nyaa](https://nekobt.to/torrents/12022178760195) |
+| `[GHOST] Full Metal Panic! (BD 1080p HEVC 10bit Dual Audio AC3) (Batch)` | **69324.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618365) • [🐱 Nyaa](https://nyaa.si/view/2126287) |
 | `[BlackRabbit] Haikyu!! (2014) - S03 [Bluray-1080p][Opus 2.0][Dual A...` | **2032.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/618364) • [🐱 Nyaa](https://nekobt.to/torrents/12021084995330) |
 | `[Erai-raws] Yozakura-san Chi no Daisakusen 2nd Season - 12 [1080p D...` | **472.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618362) • [🐱 Nyaa](https://nyaa.si/view/2126284) |
 | `[Erai-raws] Diamond no Ace: Act II Second Season - 13 [1080p CR WEB...` | **407.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618363) • [🐱 Nyaa](https://nyaa.si/view/2126283) |
@@ -43,11 +48,6 @@
 | `[Onalrie] Ace of Diamond Act II - S02E13 [1080p WEBRip AV1]` | **168.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618358) • [🐱 Nyaa](https://nekobt.to/torrents/12019113704454) |
 | `[Erai-raws] Yozakura-san Chi no Daisakusen S02E12 [1080p DSNP WEB-D...` | **928.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618356) • [🐱 Nyaa](https://nekobt.to/torrents/12019033410050) |
 | `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 12 [1080p CR W...` | **364.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618349) • [🐱 Nyaa](https://nyaa.si/view/2126267) |
-| `[ASW] Tsue to Tsurugi no Wistoria S2 - 12 [1080p HEVC x265 10Bit][AAC]` | **307.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618351) • [🐱 Nyaa](https://nyaa.si/view/2126265) |
-| `[Erai-raws] Lord of Mysteries - Special 03 (CA) [1080p CR WEBRip HE...` | **461.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618352) • [🐱 Nyaa](https://nyaa.si/view/2126264) |
-| `Wistoria Wand and Sword S02E09 The Page to Be Turned 1080p CR WEB-D...` | **1740.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/618353) • [🐱 Nyaa](https://nyaa.si/view/2126263) |
-| `[Onalrie] Tsue to Tsurugi no Wistoria - S02E12 [1080p WEBRip AV1]` | **248.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618347) • [🐱 Nyaa](https://nekobt.to/torrents/12018742497289) |
-| `[ToonsHub] Ace of Diamond S04E13 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1386.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/618348) • [🐱 Nyaa](https://nekobt.to/torrents/12018735590144) |
 
 ---
 <div align="center">
