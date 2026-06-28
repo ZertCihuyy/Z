@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.37.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.45.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -21,6 +21,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anime Time] Wistoria Wand And Sword - S02E10 (Tsue to Tsurugi no W...` | **562.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/618439) • [🐱 Nyaa](https://nyaa.si/view/2126408) |
 | `[Seigyoku] Mahou no Shimai LuluttoLilly - 01-12 (WEB 1080p Batch) |...` | **7872.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618433) • [🐱 Nyaa](https://nyaa.si/view/2126404) |
 | `[Sristi] Another - 07 [1080p BD HEVC 10-bit OPUS]` | **393.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/618438) • [🐱 Nyaa](https://nekobt.to/torrents/12027921760526) |
 | `[DKB] Kuroneko to Majo no Kyoushitsu - S01E12 [1080p][HEVC x265 10b...` | **600.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618434) • [🐱 Nyaa](https://nyaa.si/view/2126403) |
@@ -35,7 +36,6 @@
 | `Mistress Kanan is Devilishly Easy S01E08 Kanan Returns To Her Famil...` | **1439.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618408) • [🐱 Nyaa](https://nyaa.si/view/2126377) |
 | `[ASW] One Piece - 1168 [1080p HEVC x265 10Bit][AAC]` | **380.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/618404) • [🐱 Nyaa](https://nyaa.si/view/2126371) |
 | `[Onalrie] One Piece - E1168 [1080p WEBRip AV1]` | **284.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618403) • [🐱 Nyaa](https://nekobt.to/torrents/12025834483715) |
-| `[One Pace] One Piece Fan Letter [1080p][59510B34].mkv` | **772.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/618405) • [🐱 Nyaa](https://nyaa.si/view/2126364) |
 
 ---
 <div align="center">
