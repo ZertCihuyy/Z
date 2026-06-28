@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.59.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.24.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E12 1080p CR...` | **1405.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/618379) • [🐱 Nyaa](https://nekobt.to/torrents/12024208752901) |
+| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 12 (1080p) [99AEEEF5]...` | **1378.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/618371) • [🐱 Nyaa](https://nyaa.si/view/2126324) |
+| `The Classroom of a Black Cat and a Witch S01E12 1080p CR WEB-DL AAC...` | **1407.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/618372) • [🐱 Nyaa](https://nyaa.si/view/2126323) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 12 [1080p CR WEB-DL AV...` | **1388.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618377) • [🐱 Nyaa](https://nyaa.si/view/2126317) |
+| `[Piyoko] Onegai AiPri - 13 [WEB AMZN 1080p h264 AC3 2.0]` | **1195.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618378) • [🐱 Nyaa](https://nyaa.si/view/2126316) |
 | `[FSP] Mushen Ji (Tales of Herding Gods) - 89 [1080p] (GB_CN) | 牧神记` | **381.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618369) • [🐱 Nyaa](https://nyaa.si/view/2126303) |
 | `Wistoria Wand and Sword S02E09 MULTi AD 1080p CR WEB-DL AAC2.0 x264...` | **1456.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618368) • [🐱 Nyaa](https://nekobt.to/torrents/12022664326415) |
 | `[FrixySubs] Dr. STONE - S04E36 [1080p CR WEB-DL H.264 AAC] [Napisy ...` | **1393.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618367) • [🐱 Nyaa](https://nekobt.to/torrents/12022404338184) |
@@ -43,11 +48,6 @@
 | `[Erai-raws] Diamond no Ace: Act II Second Season - 13 [1080p CR WEB...` | **407.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618363) • [🐱 Nyaa](https://nyaa.si/view/2126283) |
 | `[Judas] Dia no Ace (Ace of the Diamond) - S04E13 [1080p][HEVC x265 ...` | **208.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618361) • [🐱 Nyaa](https://nyaa.si/view/2126279) |
 | `[neoDESU] I May Be a Guild Receptionist, but I’ll Solo Any Boss to ...` | **3481.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618359) • [🐱 Nyaa](https://nyaa.si/view/2126275) |
-| `[Judas] Tsue to Tsurugi no Wistoria (Wistoria Wand and Sword) - S02...` | **305.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618360) • [🐱 Nyaa](https://nyaa.si/view/2126274) |
-| `[ASW] Ace of Diamond Act II S2 - 13 [1080p HEVC x265 10Bit][AAC]` | **208.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618357) • [🐱 Nyaa](https://nyaa.si/view/2126273) |
-| `[Onalrie] Ace of Diamond Act II - S02E13 [1080p WEBRip AV1]` | **168.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618358) • [🐱 Nyaa](https://nekobt.to/torrents/12019113704454) |
-| `[Erai-raws] Yozakura-san Chi no Daisakusen S02E12 [1080p DSNP WEB-D...` | **928.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618356) • [🐱 Nyaa](https://nekobt.to/torrents/12019033410050) |
-| `[Erai-raws] Tsue to Tsurugi no Wistoria 2nd Season - 12 [1080p CR W...` | **364.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618349) • [🐱 Nyaa](https://nyaa.si/view/2126267) |
 
 ---
 <div align="center">
