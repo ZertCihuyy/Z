@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.44.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.45.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E01 (1080p WEBRip AA...` | **652.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618545) • [🐱 Nyaa](https://nekobt.to/torrents/12052297316878) |
 | `[BlackRabbit] Samurai Girls (2010) - S01 [Bluray-1080p][Opus 2.0][D...` | **2985.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/618543) • [🐱 Nyaa](https://nekobt.to/torrents/12050968076811) |
 | `[HatSubs] One Piece 1168 (WEB 1080p) [80B8A6B6].mkv` | **1382.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618542) • [🐱 Nyaa](https://nyaa.si/view/2126620) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 72 [1080p] [3725...` | **25.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618540) • [🐱 Nyaa](https://nyaa.si/view/2126616) |
@@ -43,7 +44,6 @@
 | `[ASW] LIAR GAME - 13 [1080p HEVC x265 10Bit][AAC]` | **201.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618528) • [🐱 Nyaa](https://nyaa.si/view/2126590) |
 | `[Onalrie] LIAR GAME - S01E13 [1080p WEBRip AV1]` | **168.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/618527) • [🐱 Nyaa](https://nekobt.to/torrents/12047785811464) |
 | `LIAR GAME S01E10 Salvation 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **1616.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/618526) • [🐱 Nyaa](https://nyaa.si/view/2126588) |
-| `[ToonsHub] LIAR GAME S01E10 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1635.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618521) • [🐱 Nyaa](https://nekobt.to/torrents/12047330436359) |
 
 ---
 <div align="center">
