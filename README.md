@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.48.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.05.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kozame] Odekake Kozame (Little Shark's Outings) - 72 [1080p] [3725...` | **25.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618540) • [🐱 Nyaa](https://nyaa.si/view/2126616) |
+| `[DKB] World Is Dancing - S01E01 [1080p][HEVC x265 10bit][weekly]` | **501.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618541) • [🐱 Nyaa](https://nyaa.si/view/2126615) |
+| `[ToonsHub] Wistoria Wand and Sword S02E12 1080p CR WEB-DL AAC2.0 H....` | **1413.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618539) • [🐱 Nyaa](https://nekobt.to/torrents/12049987048456) |
+| `[Asakura] Seihantai na Kimi to Boku - 12  [1080p WEB AAC x264] [9E7...` | **1410.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/618537) • [🐱 Nyaa](https://nyaa.si/view/2126604) |
+| `[Asakura] Seihantai na Kimi to Boku - 11  [1080p WEB AAC x264] [903...` | **1402.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/618534) • [🐱 Nyaa](https://nyaa.si/view/2126603) |
+| `[SubsPlease] Ghost Concert - missing Songs (01-12) (1080p) [Batch]` | **16536.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618535) • [🐱 Nyaa](https://nyaa.si/view/2126601) |
 | `The World Is Dancing S01E01 Why Do People Dance 1080p AMZN WEB-DL D...` | **1095.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/618531) • [🐱 Nyaa](https://nyaa.si/view/2126593) |
 | `[Erai-raws] Liar Game - 13 [1080p CR WEBRip HEVC AAC][MultiSub][90E...` | **397.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/618530) • [🐱 Nyaa](https://nekobt.to/torrents/12048040843525) |
 | `[Judas] Liar Game - S01E13 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **195.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618529) • [🐱 Nyaa](https://nyaa.si/view/2126589) |
@@ -38,12 +44,6 @@
 | `[ToonsHub] LIAR GAME S01E10 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1635.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618521) • [🐱 Nyaa](https://nekobt.to/torrents/12047330436359) |
 | `[Yameii] LIAR GAME (2026) - S01E11 [English Dub] [CR WEB-DL 1080p H...` | **1395.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/618522) • [🐱 Nyaa](https://nekobt.to/torrents/12047308073231) |
 | `[Yameii] LIAR GAME (2026) - S01E10 [English Dub] [CR WEB-DL 1080p H...` | **1397.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/618523) • [🐱 Nyaa](https://nekobt.to/torrents/12047307661583) |
-| `LIAR GAME S01E11 Contraband Game 1080p CR WEB-DL DUAL AAC2.0 H 264-...` | **1451.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/618509) • [🐱 Nyaa](https://nyaa.si/view/2126579) |
-| `LIAR GAME S01E10 Salvation 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG ...` | **1450.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/618510) • [🐱 Nyaa](https://nyaa.si/view/2126578) |
-| `LIAR GAME S01E13 Fissures 1080p CR WEB-DL AAC2.0 H 264-VARYG (Multi...` | **1419.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/618511) • [🐱 Nyaa](https://nyaa.si/view/2126577) |
-| `[ToonsHub] LIAR GAME S01E11 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1471.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618512) • [🐱 Nyaa](https://nyaa.si/view/2126576) |
-| `[ToonsHub] LIAR GAME S01E10 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1471.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/618513) • [🐱 Nyaa](https://nyaa.si/view/2126575) |
-| `[ToonsHub] LIAR GAME S01E13 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1438.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618514) • [🐱 Nyaa](https://nyaa.si/view/2126574) |
 
 ---
 <div align="center">
