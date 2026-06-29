@@ -1,53 +1,184 @@
 {
-  "last_update": "29/6/2026, 22.04.12",
-  "hari": "Senin",
+  "last_update": "30/6/2026, 00.48.37",
+  "hari": "Selasa",
   "data": [
     {
-      "airingAt": 1782698400,
+      "airingAt": 1782772800,
       "media": {
-        "id": 137653,
+        "id": 140842,
         "title": {
-          "romaji": "Xian Ni"
+          "romaji": "Chiikawa"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782784800,
+      "media": {
+        "id": 155723,
+        "title": {
+          "romaji": "Wushen Zhuzai: Da Wei Pian"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
         },
         "genres": [
           "Action",
-          "Adventure",
-          "Drama",
           "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1782738000,
+      "airingAt": 1782784800,
       "media": {
-        "id": 206521,
+        "id": 137664,
         "title": {
-          "romaji": "World Is Dancing"
+          "romaji": "Cheng Huang Lu"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206521-ecJuDgjth84C.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137664-9MB4bb4ASiIN.png"
         },
         "genres": [
-          "Drama"
+          "Supernatural"
         ]
       }
     },
     {
-      "airingAt": 1782745200,
+      "airingAt": 1782784800,
       "media": {
-        "id": 197754,
+        "id": 213188,
         "title": {
-          "romaji": "LIAR GAME"
+          "romaji": "Jueshi Zhan Hun 2"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782788400,
+      "media": {
+        "id": 188753,
+        "title": {
+          "romaji": "Gekkan! Nanmono Anime"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188753-Rkuiizca4QFD.png"
+        },
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782792000,
+      "media": {
+        "id": 211270,
+        "title": {
+          "romaji": "Fei Ren Zai 3 Part 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png"
+        },
+        "genres": [
+          "Comedy",
+          "Slice of Life",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782824400,
+      "media": {
+        "id": 196219,
+        "title": {
+          "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-dMT6uXIrecXk.jpg"
         },
         "genres": [
           "Drama",
-          "Psychological"
+          "Fantasy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782828000,
+      "media": {
+        "id": 194393,
+        "title": {
+          "romaji": "Aishiteru Game wo Owarasetai"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782828000,
+      "media": {
+        "id": 199547,
+        "title": {
+          "romaji": "MARRIAGETOXIN"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782829800,
+      "media": {
+        "id": 186744,
+        "title": {
+          "romaji": "Replica Datte, Koi wo Suru."
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Romance",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782831600,
+      "media": {
+        "id": 158036,
+        "title": {
+          "romaji": "Hidarikiki no Eren"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg"
+        },
+        "genres": [
+          "Drama"
         ]
       }
     }
