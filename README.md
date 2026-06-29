@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.32.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.04.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -21,21 +21,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[nekotan] The Yakuza's Guide to Babysitting S01 (BD 1080p x265 10-b...` | **14994.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/618470) • [🐱 Nyaa](https://nekobt.to/torrents/12042328984065) |
-| `Isekai Office Worker The Other Worlds Books Depend on the Bean Coun...` | **1383.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618469) • [🐱 Nyaa](https://nekobt.to/torrents/12041975799053) |
-| `[SubsPlease] Kanan-sama wa Akumade Choroi (01-12) (1080p) [Batch]` | **16547.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/618465) • [🐱 Nyaa](https://nyaa.si/view/2126486) |
-| `[neoDESU] Sentenced to Be a Hero [Season 1] [BD 1080p AV1 OPUS AAC]...` | **3666.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618467) • [🐱 Nyaa](https://nyaa.si/view/2126484) |
-| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E05 (1080p WEB AAC x265)` | **494.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/618464) • [🐱 Nyaa](https://nekobt.to/torrents/12040072248334) |
-| `Azur Lane Slow Ahead S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **5986.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/618462) • [🐱 Nyaa](https://nyaa.si/view/2126463) |
-| `[ToonsHub] Star Detective Precure S01E22 1080p CR WEB-DL AAC2.0 H.2...` | **1416.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618459) • [🐱 Nyaa](https://nekobt.to/torrents/12037282105088) |
-| `Saga of Tanya the Evil S01 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **17001.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/618458) • [🐱 Nyaa](https://nekobt.to/torrents/12036783803910) |
-| `One Piece S01E1168 Ancient History-The Harley Passed Down by Elbaph...` | **398.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/618457) • [🐱 Nyaa](https://nyaa.si/view/2126456) |
-| `One Piece S01E1168 Ancient History-The Harley Passed Down by Elbaph...` | **1358.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/618452) • [🐱 Nyaa](https://nyaa.si/view/2126446) |
-| `One Piece S01E1161 A Dangerous Deal Loki of the Underworld and Luff...` | **474.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/618453) • [🐱 Nyaa](https://nyaa.si/view/2126444) |
-| `[DKB] Neko to Ryuu - S01E01 [1080p][HEVC x265 10bit][Multi-Subs][we...` | **267.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/618454) • [🐱 Nyaa](https://nyaa.si/view/2126443) |
-| `Log Horizon S02 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **35930.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618451) • [🐱 Nyaa](https://nekobt.to/torrents/12034833262350) |
-| `[ToonsHub] One Piece EP1168 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **325.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618450) • [🐱 Nyaa](https://nyaa.si/view/2126440) |
-| `[Erai-raws] Meitantei Precure - 22 [1080p CR WEBRip HEVC AAC][Multi...` | **697.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/618445) • [🐱 Nyaa](https://nekobt.to/torrents/12033846905862) |
+| `[SubsPlus+] The World Is Dancing - S01E01v2 (AMZN WEB-DL 1080p AVC ...` | **1095.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618497) • [🐱 Nyaa](https://nekobt.to/torrents/12046053352192) |
+| `[ToonsHub] The World is Dancing S01E01 1080p ADN WEB-DL AAC2.0 H.26...` | **570.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/618496) • [🐱 Nyaa](https://nyaa.si/view/2126543) |
+| `[ASW] World Is Dancing - 01 [1080p HEVC x265 10Bit][AAC]` | **468.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/618491) • [🐱 Nyaa](https://nyaa.si/view/2126542) |
+| `[Onalrie] World Is Dancing - S01E01 [1080p WEBRip AV1]` | **347.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/618495) • [🐱 Nyaa](https://nekobt.to/torrents/12045647866891) |
+| `[Erai-raws] World Is Dancing - 01 [1080p ADN WEB-DL AVC AAC][MultiS...` | **569.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/618492) • [🐱 Nyaa](https://nyaa.si/view/2126539) |
+| `[WBDP] Tensei Kizoku no Isekai Boukenroku / The Aristocrat's Otherw...` | **9402.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/618489) • [🐱 Nyaa](https://nyaa.si/view/2126536) |
+| `[SubsPlus+] The World Is Dancing - S01E01 (AMZN WEB-DL 1080p AVC EA...` | **1086.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/618486) • [🐱 Nyaa](https://nyaa.si/view/2126523) |
+| `[Mo7tas] Hachi-nan tte, Sore wa Nai deshou! [BD 1080p] [Multi langu...` | **2447.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618488) • [🐱 Nyaa](https://nyaa.si/view/2126520) |
+| `[SubsPlease] World Is Dancing - 01 (1080p) [A1D4D3C9].mkv` | **926.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/618480) • [🐱 Nyaa](https://nyaa.si/view/2126518) |
+| `[Erai-raws] World Is Dancing - 01 [1080p HIDIVE WEB-DL AVC AAC][7A2...` | **927.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618484) • [🐱 Nyaa](https://nyaa.si/view/2126510) |
+| `[ToonsHub] The World Is Dancing S01E01 1080p HIDIVE WEB-DL AAC2.0 H...` | **927.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/618485) • [🐱 Nyaa](https://nyaa.si/view/2126508) |
+| `[BlackRabbit] 365 Days to the Wedding (2024) - S01 [Bluray-1080p][O...` | **1816.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/618477) • [🐱 Nyaa](https://nekobt.to/torrents/12044211905030) |
+| `[ToonsHub] Agents of the Four Seasons Dance of Spring S01E11 1080p ...` | **1633.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618478) • [🐱 Nyaa](https://nekobt.to/torrents/12044078825742) |
+| `[ToonsHub] NEEDY GIRL OVERDOSE S01E09 1080p CR WEB-DL MULTi AAC2.0 ...` | **1579.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618476) • [🐱 Nyaa](https://nyaa.si/view/2126501) |
+| `[ToonsHub] NEEDY GIRL OVERDOSE S01E13 1080p CR WEB-DL AAC2.0 H.264 ...` | **1384.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618475) • [🐱 Nyaa](https://nekobt.to/torrents/12043991842572) |
 
 ---
 <div align="center">
