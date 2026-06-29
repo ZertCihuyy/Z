@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.19.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.37.07_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -21,6 +21,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Meitantei Precure - 22 [1080p CR WEBRip HEVC AAC][Multi...` | **697.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/618445) • [🐱 Nyaa](https://nekobt.to/torrents/12033846905862) |
+| `[Erai-raws] Meitantei Precure - 22 [1080p CR WEB-DL AVC AAC][MultiS...` | **1417.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/618446) • [🐱 Nyaa](https://nekobt.to/torrents/12033836030469) |
+| `[ak-Submarines] Girls und Panzer - das Finale 5 PV [WEB 1080p][0E82...` | **28.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618444) • [🐱 Nyaa](https://nyaa.si/view/2126432) |
 | `[DKB] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat...` | **289.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/618442) • [🐱 Nyaa](https://nyaa.si/view/2126423) |
 | `[BlackRabbit] Haikyu!! (2014) - S04 [Bluray-1080p][Opus 2.0][Dual A...` | **3879.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618441) • [🐱 Nyaa](https://nekobt.to/torrents/12030387495183) |
 | `[GetItTwisted] THE iDOLM@STER MOVIE: Beyond the Brilliant Future! (...` | **4493.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/618440) • [🐱 Nyaa](https://nyaa.si/view/2126418) |
@@ -33,9 +36,6 @@
 | `[Himejoshi]  ⯎ NEEDY GIRL OVERDOSE ⯎  S01E09 (WEB 1080p AV1) | 09 |...` | **1299.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/618413) • [🐱 Nyaa](https://nyaa.si/view/2126394) |
 | `[Trix] Botan Kamiina Fully Blossoms When Drunk S01 (Batch) [WEBRip ...` | **2467.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618414) • [🐱 Nyaa](https://nyaa.si/view/2126393) |
 | `Ichijyoma Mankitsu Gurashi S01 1080p AMZN WEB-DL AAC2.0 H 264-VARYG...` | **9130.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/618411) • [🐱 Nyaa](https://nyaa.si/view/2126385) |
-| `Magical Sisters LuluttoLilly S01 1080p AMZN WEB-DL DDP2.0 H 264-VAR...` | **8292.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618412) • [🐱 Nyaa](https://nyaa.si/view/2126383) |
-| `Mistress Kanan is Devilishly Easy S01E10 Milchs Bratty Memories 108...` | **1440.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618406) • [🐱 Nyaa](https://nyaa.si/view/2126379) |
-| `Mistress Kanan is Devilishly Easy S01E09 Lilims Test of Defeat 1080...` | **1443.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/618407) • [🐱 Nyaa](https://nyaa.si/view/2126378) |
 
 ---
 <div align="center">
