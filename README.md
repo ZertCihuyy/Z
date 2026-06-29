@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.05.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.44.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Samurai Girls (2010) - S01 [Bluray-1080p][Opus 2.0][D...` | **2985.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/618543) • [🐱 Nyaa](https://nekobt.to/torrents/12050968076811) |
+| `[HatSubs] One Piece 1168 (WEB 1080p) [80B8A6B6].mkv` | **1382.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618542) • [🐱 Nyaa](https://nyaa.si/view/2126620) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 72 [1080p] [3725...` | **25.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618540) • [🐱 Nyaa](https://nyaa.si/view/2126616) |
 | `[DKB] World Is Dancing - S01E01 [1080p][HEVC x265 10bit][weekly]` | **501.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618541) • [🐱 Nyaa](https://nyaa.si/view/2126615) |
 | `[ToonsHub] Wistoria Wand and Sword S02E12 1080p CR WEB-DL AAC2.0 H....` | **1413.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618539) • [🐱 Nyaa](https://nekobt.to/torrents/12049987048456) |
@@ -42,8 +44,6 @@
 | `[Onalrie] LIAR GAME - S01E13 [1080p WEBRip AV1]` | **168.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/618527) • [🐱 Nyaa](https://nekobt.to/torrents/12047785811464) |
 | `LIAR GAME S01E10 Salvation 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG...` | **1616.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/618526) • [🐱 Nyaa](https://nyaa.si/view/2126588) |
 | `[ToonsHub] LIAR GAME S01E10 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1635.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618521) • [🐱 Nyaa](https://nekobt.to/torrents/12047330436359) |
-| `[Yameii] LIAR GAME (2026) - S01E11 [English Dub] [CR WEB-DL 1080p H...` | **1395.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/618522) • [🐱 Nyaa](https://nekobt.to/torrents/12047308073231) |
-| `[Yameii] LIAR GAME (2026) - S01E10 [English Dub] [CR WEB-DL 1080p H...` | **1397.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/618523) • [🐱 Nyaa](https://nekobt.to/torrents/12047307661583) |
 
 ---
 <div align="center">
