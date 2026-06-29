@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.23.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.32.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -21,6 +21,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nekotan] The Yakuza's Guide to Babysitting S01 (BD 1080p x265 10-b...` | **14994.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/618470) • [🐱 Nyaa](https://nekobt.to/torrents/12042328984065) |
+| `Isekai Office Worker The Other Worlds Books Depend on the Bean Coun...` | **1383.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618469) • [🐱 Nyaa](https://nekobt.to/torrents/12041975799053) |
+| `[SubsPlease] Kanan-sama wa Akumade Choroi (01-12) (1080p) [Batch]` | **16547.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/618465) • [🐱 Nyaa](https://nyaa.si/view/2126486) |
+| `[neoDESU] Sentenced to Be a Hero [Season 1] [BD 1080p AV1 OPUS AAC]...` | **3666.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618467) • [🐱 Nyaa](https://nyaa.si/view/2126484) |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E05 (1080p WEB AAC x265)` | **494.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/618464) • [🐱 Nyaa](https://nekobt.to/torrents/12040072248334) |
 | `Azur Lane Slow Ahead S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **5986.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/618462) • [🐱 Nyaa](https://nyaa.si/view/2126463) |
 | `[ToonsHub] Star Detective Precure S01E22 1080p CR WEB-DL AAC2.0 H.2...` | **1416.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618459) • [🐱 Nyaa](https://nekobt.to/torrents/12037282105088) |
 | `Saga of Tanya the Evil S01 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **17001.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/618458) • [🐱 Nyaa](https://nekobt.to/torrents/12036783803910) |
@@ -31,11 +36,6 @@
 | `Log Horizon S02 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **35930.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618451) • [🐱 Nyaa](https://nekobt.to/torrents/12034833262350) |
 | `[ToonsHub] One Piece EP1168 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **325.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618450) • [🐱 Nyaa](https://nyaa.si/view/2126440) |
 | `[Erai-raws] Meitantei Precure - 22 [1080p CR WEBRip HEVC AAC][Multi...` | **697.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/618445) • [🐱 Nyaa](https://nekobt.to/torrents/12033846905862) |
-| `[Erai-raws] Meitantei Precure - 22 [1080p CR WEB-DL AVC AAC][MultiS...` | **1417.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/618446) • [🐱 Nyaa](https://nekobt.to/torrents/12033836030469) |
-| `[ak-Submarines] Girls und Panzer - das Finale 5 PV [WEB 1080p][0E82...` | **28.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618444) • [🐱 Nyaa](https://nyaa.si/view/2126432) |
-| `[DKB] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat...` | **289.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/618442) • [🐱 Nyaa](https://nyaa.si/view/2126423) |
-| `[BlackRabbit] Haikyu!! (2014) - S04 [Bluray-1080p][Opus 2.0][Dual A...` | **3879.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618441) • [🐱 Nyaa](https://nekobt.to/torrents/12030387495183) |
-| `[GetItTwisted] THE iDOLM@STER MOVIE: Beyond the Brilliant Future! (...` | **4493.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/618440) • [🐱 Nyaa](https://nyaa.si/view/2126418) |
 
 ---
 <div align="center">
