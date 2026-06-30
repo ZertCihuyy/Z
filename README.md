@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.10.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.34.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Samurai Girls (2010) - S02 [Bluray-1080p][Opus 2.0][D...` | **2619.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/618550) • [🐱 Nyaa](https://nekobt.to/torrents/12058595169288) |
+| `[Gecko] Nonhuman - S03E22 (非人哉; Fei Ren Zai 3rd Season Part 2) [BIL...` | **115.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618549) • [🐱 Nyaa](https://nekobt.to/torrents/12058243770638) |
 | `[Tasokare] mono S01 v2 (BD 1080p Opus AV1)` | **6615.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618547) • [🐱 Nyaa](https://nekobt.to/torrents/12053967601932) |
 | `[Kawatare] mono S01 v2 (BD 1080p FLAC x265)` | **19405.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618548) • [🐱 Nyaa](https://nekobt.to/torrents/12053966064394) |
 | `[SubsNoJutsu] Daemons of the Shadow Realm - S01E01 (1080p WEBRip AA...` | **652.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618545) • [🐱 Nyaa](https://nekobt.to/torrents/12052297316878) |
@@ -42,8 +44,6 @@
 | `[SubsPlease] Ghost Concert - missing Songs (01-12) (1080p) [Batch]` | **16536.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618535) • [🐱 Nyaa](https://nyaa.si/view/2126601) |
 | `The World Is Dancing S01E01 Why Do People Dance 1080p AMZN WEB-DL D...` | **1095.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/618531) • [🐱 Nyaa](https://nyaa.si/view/2126593) |
 | `[Erai-raws] Liar Game - 13 [1080p CR WEBRip HEVC AAC][MultiSub][90E...` | **397.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/618530) • [🐱 Nyaa](https://nekobt.to/torrents/12048040843525) |
-| `[Judas] Liar Game - S01E13 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **195.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618529) • [🐱 Nyaa](https://nyaa.si/view/2126589) |
-| `[ASW] LIAR GAME - 13 [1080p HEVC x265 10Bit][AAC]` | **201.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618528) • [🐱 Nyaa](https://nyaa.si/view/2126590) |
 
 ---
 <div align="center">
