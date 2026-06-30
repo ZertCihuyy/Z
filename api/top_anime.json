@@ -1,5 +1,5 @@
 {
-  "last_update": "30/6/2026, 15.21.29",
+  "last_update": "30/6/2026, 18.28.32",
   "data": [
     {
       "id": 154587,
@@ -97,6 +97,25 @@
       ]
     },
     {
+      "id": 189046,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg"
+      },
+      "averageScore": 90,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
       "id": 104578,
       "title": {
         "romaji": "Shingeki no Kyojin Season 3 Part 2"
@@ -110,25 +129,6 @@
         "Drama",
         "Fantasy",
         "Mystery"
-      ]
-    },
-    {
-      "id": 189046,
-      "title": {
-        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg"
-      },
-      "averageScore": 89,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Psychological",
-        "Romance",
-        "Thriller"
       ]
     },
     {

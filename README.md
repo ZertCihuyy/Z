@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.21.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.28.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CicakRumah] Koupen-chan - S01E65 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **99.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/618561) • [🐱 Nyaa](https://nyaa.si/view/2126706) |
+| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01 [WEB.1080p....` | **10104.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/618562) • [🐱 Nyaa](https://nyaa.si/view/2126705) |
+| `[ToonsHub] KILL BLUE S01E10 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (M...` | **986.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/618558) • [🐱 Nyaa](https://nekobt.to/torrents/12063441150476) |
+| `[neoDESU] You and I Are Polar Opposites [Season 1] [BD 1080p AV1 OP...` | **2938.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/618560) • [🐱 Nyaa](https://nyaa.si/view/2126695) |
+| `[ToonsHub] KILL BLUE S01E10 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Du...` | **892.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618559) • [🐱 Nyaa](https://nekobt.to/torrents/12063419882761) |
+| `Farewell My Dear Cramer S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-T...` | **17863.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/618556) • [🐱 Nyaa](https://nekobt.to/torrents/12062484477954) |
+| `KILL BLUE S01E10 DEATH OR KISS 1080p AMZN WEB-DL DUAL DDP2.0 H 264-...` | **892.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618555) • [🐱 Nyaa](https://nyaa.si/view/2126684) |
 | `[CicakRumah] Gekkan! Nanmono Anime - S01E15 (げっかん！なんものアニメ) [ABEMA.W...` | **32.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/618553) • [🐱 Nyaa](https://nyaa.si/view/2126683) |
 | `[Escanor] Inuyashiki Last Hero [JPBD 1080p HEVC OPUS 2.0]` | **4790.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/618552) • [🐱 Nyaa](https://nyaa.si/view/2126682) |
 | `[BlackRabbit] Samurai Girls (2010) - S00 [Bluray-1080p][Opus 2.0][AV1]` | **862.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618551) • [🐱 Nyaa](https://nekobt.to/torrents/12058840890127) |
@@ -37,13 +44,6 @@
 | `[Tasokare] mono S01 v2 (BD 1080p Opus AV1)` | **6615.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618547) • [🐱 Nyaa](https://nekobt.to/torrents/12053967601932) |
 | `[Kawatare] mono S01 v2 (BD 1080p FLAC x265)` | **19405.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618548) • [🐱 Nyaa](https://nekobt.to/torrents/12053966064394) |
 | `[SubsNoJutsu] Daemons of the Shadow Realm - S01E01 (1080p WEBRip AA...` | **652.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618545) • [🐱 Nyaa](https://nekobt.to/torrents/12052297316878) |
-| `[BlackRabbit] Samurai Girls (2010) - S01 [Bluray-1080p][Opus 2.0][D...` | **2985.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/618543) • [🐱 Nyaa](https://nekobt.to/torrents/12050968076811) |
-| `[HatSubs] One Piece 1168 (WEB 1080p) [80B8A6B6].mkv` | **1382.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618542) • [🐱 Nyaa](https://nyaa.si/view/2126620) |
-| `[Kozame] Odekake Kozame (Little Shark's Outings) - 72 [1080p] [3725...` | **25.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618540) • [🐱 Nyaa](https://nyaa.si/view/2126616) |
-| `[DKB] World Is Dancing - S01E01 [1080p][HEVC x265 10bit][weekly]` | **501.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618541) • [🐱 Nyaa](https://nyaa.si/view/2126615) |
-| `[ToonsHub] Wistoria Wand and Sword S02E12 1080p CR WEB-DL AAC2.0 H....` | **1413.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618539) • [🐱 Nyaa](https://nekobt.to/torrents/12049987048456) |
-| `[Asakura] Seihantai na Kimi to Boku - 12  [1080p WEB AAC x264] [9E7...` | **1410.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/618537) • [🐱 Nyaa](https://nyaa.si/view/2126604) |
-| `[Asakura] Seihantai na Kimi to Boku - 11  [1080p WEB AAC x264] [903...` | **1402.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/618534) • [🐱 Nyaa](https://nyaa.si/view/2126603) |
 
 ---
 <div align="center">
