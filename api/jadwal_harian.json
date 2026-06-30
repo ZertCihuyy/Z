@@ -1,63 +1,31 @@
 {
-  "last_update": "30/6/2026, 23.07.42",
-  "hari": "Selasa",
+  "last_update": "1/7/2026, 01.15.21",
+  "hari": "Rabu",
   "data": [
     {
-      "airingAt": 1782772800,
+      "airingAt": 1782860400,
       "media": {
-        "id": 140842,
+        "id": 204656,
         "title": {
-          "romaji": "Chiikawa"
+          "romaji": "mofusand"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg"
         },
         "genres": [
-          "Comedy",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1782784800,
+      "airingAt": 1782871200,
       "media": {
-        "id": 155723,
+        "id": 213297,
         "title": {
-          "romaji": "Wushen Zhuzai: Da Wei Pian"
+          "romaji": "Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
-        },
-        "genres": [
-          "Action",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782784800,
-      "media": {
-        "id": 137664,
-        "title": {
-          "romaji": "Cheng Huang Lu"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137664-9MB4bb4ASiIN.png"
-        },
-        "genres": [
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782784800,
-      "media": {
-        "id": 213188,
-        "title": {
-          "romaji": "Jueshi Zhan Hun 2"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg"
         },
         "genres": [
           "Action",
@@ -67,118 +35,84 @@
       }
     },
     {
-      "airingAt": 1782788400,
+      "airingAt": 1782903600,
       "media": {
-        "id": 188753,
+        "id": 188529,
         "title": {
-          "romaji": "Gekkan! Nanmono Anime"
+          "romaji": "Ugoku! Neko Mukashi Banashi"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188753-Rkuiizca4QFD.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg"
+        },
+        "genres": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782912600,
+      "media": {
+        "id": 192800,
+        "title": {
+          "romaji": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg"
         },
         "genres": [
           "Comedy",
-          "Slice of Life"
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1782792000,
+      "airingAt": 1782917760,
       "media": {
-        "id": 211270,
+        "id": 205772,
         "title": {
-          "romaji": "Fei Ren Zai 3 Part 2"
+          "romaji": "Candy Caries"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png"
         },
         "genres": [
-          "Comedy",
-          "Slice of Life",
-          "Supernatural"
+          "Comedy"
         ]
       }
     },
     {
-      "airingAt": 1782824400,
+      "airingAt": 1782918000,
       "media": {
-        "id": 196219,
+        "id": 197715,
         "title": {
-          "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu"
+          "romaji": "LV999 no Murabito"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-dMT6uXIrecXk.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782828000,
-      "media": {
-        "id": 194393,
-        "title": {
-          "romaji": "Aishiteru Game wo Owarasetai"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782828000,
-      "media": {
-        "id": 199547,
-        "title": {
-          "romaji": "MARRIAGETOXIN"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197715-KLFLxU24U1uL.png"
         },
         "genres": [
           "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1782919800,
+      "media": {
+        "id": 209669,
+        "title": {
+          "romaji": "Hanazakari no Kimitachi e 2nd Season"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209669-7GlPe2ra5f1i.jpg"
+        },
+        "genres": [
           "Comedy",
           "Drama",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782829800,
-      "media": {
-        "id": 186744,
-        "title": {
-          "romaji": "Replica Datte, Koi wo Suru."
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg"
-        },
-        "genres": [
-          "Drama",
           "Romance",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1782831600,
-      "media": {
-        "id": 158036,
-        "title": {
-          "romaji": "Hidarikiki no Eren"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg"
-        },
-        "genres": [
-          "Drama"
+          "Slice of Life"
         ]
       }
     }
