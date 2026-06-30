@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.25.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.07.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,21 +29,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Sristi] Another - 08 [1080p BD HEVC 10-bit OPUS]` | **618.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618570) • [🐱 Nyaa](https://nekobt.to/torrents/12066611336451) |
-| `[neoDESU] Sakamoto Days [Season 1] [BD 1080p AV1 OPUS] [Dual Audio]` | **7734.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618569) • [🐱 Nyaa](https://nyaa.si/view/2126736) |
-| `[AnoZu] Lord of Mysteries S00E20 The Marked Hunt 2 1080p CR WEB-DL ...` | **1132.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618568) • [🐱 Nyaa](https://nekobt.to/torrents/12066339331846) |
-| `[AnoZu] Lord of Mysteries S00E19 The Marked Hunt 1 1080p CR WEB-DL ...` | **1649.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/618567) • [🐱 Nyaa](https://nyaa.si/view/2126725) |
-| `[AnoZu] Lord of Mysteries S00E18 City of Silver 1080p CR WEB-DL DD+...` | **1538.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/618566) • [🐱 Nyaa](https://nekobt.to/torrents/12066084105989) |
-| `[LbE3L] LIAR GAME S01E10 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio ...` | **285.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/618565) • [🐱 Nyaa](https://nekobt.to/torrents/12065818058250) |
-| `[vLbE3L] Wistoria Wand and Sword S02E09 [1080p CR WEBRip VVC HE-AAC...` | **309.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618563) • [🐱 Nyaa](https://nekobt.to/torrents/12064996817666) |
-| `[LbE3L] Wistoria Wand and Sword S02E09 [1080p CR WEBRip AV1 Opus 2....` | **578.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618564) • [🐱 Nyaa](https://nekobt.to/torrents/12064964652041) |
-| `[CicakRumah] Koupen-chan - S01E65 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **99.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/618561) • [🐱 Nyaa](https://nyaa.si/view/2126706) |
-| `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01 [WEB.1080p....` | **10104.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/618562) • [🐱 Nyaa](https://nyaa.si/view/2126705) |
-| `[ToonsHub] KILL BLUE S01E10 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (M...` | **986.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/618558) • [🐱 Nyaa](https://nekobt.to/torrents/12063441150476) |
-| `[neoDESU] You and I Are Polar Opposites [Season 1] [BD 1080p AV1 OP...` | **2938.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/618560) • [🐱 Nyaa](https://nyaa.si/view/2126695) |
-| `[ToonsHub] KILL BLUE S01E10 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Du...` | **892.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618559) • [🐱 Nyaa](https://nekobt.to/torrents/12063419882761) |
-| `Farewell My Dear Cramer S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-T...` | **17863.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/618556) • [🐱 Nyaa](https://nekobt.to/torrents/12062484477954) |
-| `KILL BLUE S01E10 DEATH OR KISS 1080p AMZN WEB-DL DUAL DDP2.0 H 264-...` | **892.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618555) • [🐱 Nyaa](https://nyaa.si/view/2126684) |
+| `[ASW] Replica datte, Koi wo Suru. - 13 [1080p HEVC x265 10Bit][AAC]` | **168.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/618632) • [🐱 Nyaa](https://nyaa.si/view/2126838) |
+| `[Onalrie] MARRIAGETOXIN - S01E13 [1080p WEBRip AV1]` | **215.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/618631) • [🐱 Nyaa](https://nekobt.to/torrents/12069011204354) |
+| `[ASW] MARRIAGETOXIN - 13 [1080p HEVC x265 10Bit][AAC]` | **275.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/618628) • [🐱 Nyaa](https://nyaa.si/view/2126832) |
+| `[ASW] Aishiteru Game wo Owarasetai - 12 [1080p HEVC x265 10Bit][AAC]` | **163.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618629) • [🐱 Nyaa](https://nyaa.si/view/2126829) |
+| `[Judas] MARRIAGETOXIN - S01E13 [1080p][HEVC x265 10bit][Multi-Subs]...` | **276.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618630) • [🐱 Nyaa](https://nyaa.si/view/2126828) |
+| `[Trix] MARRIAGETOXIN S01E13 [WEBRip 1080p AV1 Opus] (Multi Subs, VO...` | **268.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/618623) • [🐱 Nyaa](https://nyaa.si/view/2126827) |
+| `[Onalrie] Aishiteru Game wo Owarasetai - S01E12 [1080p WEBRip AV1]` | **140.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/618627) • [🐱 Nyaa](https://nekobt.to/torrents/12068590747393) |
+| `[Unfucked] I Want to End This Love Game - S01E12 (1080p CR WEB-DL A...` | **1391.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/618625) • [🐱 Nyaa](https://nyaa.si/view/2126823) |
+| `[Unfucked] I Want to End This Love Game - S01E10 (1080p CR WEB-DL A...` | **1423.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/618626) • [🐱 Nyaa](https://nyaa.si/view/2126822) |
+| `MARRIAGETOXIN S01E10 Good-for-Nothing 1080p CR WEB-DL MULTi AAC2.0 ...` | **1685.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/618622) • [🐱 Nyaa](https://nyaa.si/view/2126820) |
+| `[Yameii] MARRIAGETOXIN - S01E11 [English Dub] [CR WEB-DL 1080p H264...` | **1397.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/618621) • [🐱 Nyaa](https://nekobt.to/torrents/12068127110666) |
+| `[ToonsHub] I Want to End this Love Game S01E09 1080p CR WEB-DL MULT...` | **1530.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618586) • [🐱 Nyaa](https://nyaa.si/view/2126801) |
+| `[ToonsHub] MARRIAGETOXIN S01E10 1080p CR WEB-DL MULTi AAC2.0 H.264 ...` | **1684.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/618587) • [🐱 Nyaa](https://nyaa.si/view/2126799) |
+| `I Want to End this Love Game S01E10 My Childhood Friend is Unstoppa...` | **1443.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/618588) • [🐱 Nyaa](https://nyaa.si/view/2126796) |
+| `[ToonsHub] MARRIAGETOXIN S01E11 1080p CR WEB-DL DUAL AAC2.0 H.264 (...` | **1450.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/618591) • [🐱 Nyaa](https://nyaa.si/view/2126793) |
 
 ---
 <div align="center">

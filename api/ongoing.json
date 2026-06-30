@@ -1,5 +1,5 @@
 {
-  "last_update": "30/6/2026, 20.25.28",
+  "last_update": "30/6/2026, 23.07.42",
   "data": [
     {
       "id": 21,
@@ -87,23 +87,6 @@
       }
     },
     {
-      "id": 199547,
-      "title": {
-        "romaji": "MARRIAGETOXIN"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg"
-      },
-      "episodes": 13,
-      "studios": {
-        "nodes": [
-          {
-            "name": "bones film"
-          }
-        ]
-      }
-    },
-    {
       "id": 186497,
       "title": {
         "romaji": "Koori no Jouheki"
@@ -116,23 +99,6 @@
         "nodes": [
           {
             "name": "Studio KAI"
-          }
-        ]
-      }
-    },
-    {
-      "id": 194393,
-      "title": {
-        "romaji": "Aishiteru Game wo Owarasetai"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
-      },
-      "episodes": 12,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Felix Film"
           }
         ]
       }
@@ -167,6 +133,40 @@
         "nodes": [
           {
             "name": "Bandai Namco Pictures"
+          }
+        ]
+      }
+    },
+    {
+      "id": 171110,
+      "title": {
+        "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg"
+      },
+      "episodes": null,
+      "studios": {
+        "nodes": [
+          {
+            "name": "WIT STUDIO"
+          }
+        ]
+      }
+    },
+    {
+      "id": 158871,
+      "title": {
+        "romaji": "Pocket Monsters (2023)"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg"
+      },
+      "episodes": null,
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
           }
         ]
       }
