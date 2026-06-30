@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.30.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.04.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sristi] Another - 09 [1080p BD HEVC 10-bit OPUS]` | **653.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618669) • [🐱 Nyaa](https://nekobt.to/torrents/12074416804610) |
+| `Above Myriads S01E06 1080p iQ WEB-DL AAC2.0 H 264-VARYG (Wan Ren Zh...` | **334.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/618668) • [🐱 Nyaa](https://nyaa.si/view/2126912) |
+| `[BlackRose] I Want to End This Love Game - S01E10 (WEB 1080p HEVC 1...` | **1661.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/618667) • [🐱 Nyaa](https://nekobt.to/torrents/12073830438158) |
 | `[kikuri] Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kirok...` | **31228.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618666) • [🐱 Nyaa](https://nekobt.to/torrents/12072947965452) |
 | `[Erai-raws] Marriagetoxin - 13 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **340.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618665) • [🐱 Nyaa](https://nyaa.si/view/2126906) |
 | `[SubsNoJutsu] Daemons of the Shadow Realm - S01E02 (1080p WEBRip AA...` | **722.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/618664) • [🐱 Nyaa](https://nekobt.to/torrents/12072203629824) |
@@ -37,9 +40,6 @@
 | `[CicakRumah] Koupen-chan Extra: Hanamaru Morning Radio - Episode 2 ...` | **4.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618654) • [🐱 Nyaa](https://nyaa.si/view/2126877) |
 | `[DKB] Aishiteru Game wo Owarasetai - S01E12 [1080p][END][HEVC x265 ...` | **208.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/618655) • [🐱 Nyaa](https://nyaa.si/view/2126876) |
 | `[Onalrie] Hidarikiki no Eren - S01E13 [1080p WEBRip AV1]` | **186.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/618653) • [🐱 Nyaa](https://nekobt.to/torrents/12070421357319) |
-| `[DKB] Marriagetoxin - S01E13 [1080p][END][HEVC x265 10bit][Multi-Su...` | **367.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618652) • [🐱 Nyaa](https://nyaa.si/view/2126868) |
-| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **381.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/618648) • [🐱 Nyaa](https://nyaa.si/view/2126864) |
-| `[Erai-raws] Aishiteru Game wo Owarasetai - 12 [1080p CR WEBRip HEVC...` | **357.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618649) • [🐱 Nyaa](https://nyaa.si/view/2126863) |
 
 ---
 <div align="center">
