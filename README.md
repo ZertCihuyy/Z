@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.34.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.21.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CicakRumah] Gekkan! Nanmono Anime - S01E15 (げっかん！なんものアニメ) [ABEMA.W...` | **32.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/618553) • [🐱 Nyaa](https://nyaa.si/view/2126683) |
+| `[Escanor] Inuyashiki Last Hero [JPBD 1080p HEVC OPUS 2.0]` | **4790.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/618552) • [🐱 Nyaa](https://nyaa.si/view/2126682) |
+| `[BlackRabbit] Samurai Girls (2010) - S00 [Bluray-1080p][Opus 2.0][AV1]` | **862.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618551) • [🐱 Nyaa](https://nekobt.to/torrents/12058840890127) |
 | `[BlackRabbit] Samurai Girls (2010) - S02 [Bluray-1080p][Opus 2.0][D...` | **2619.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/618550) • [🐱 Nyaa](https://nekobt.to/torrents/12058595169288) |
 | `[Gecko] Nonhuman - S03E22 (非人哉; Fei Ren Zai 3rd Season Part 2) [BIL...` | **115.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618549) • [🐱 Nyaa](https://nekobt.to/torrents/12058243770638) |
 | `[Tasokare] mono S01 v2 (BD 1080p Opus AV1)` | **6615.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618547) • [🐱 Nyaa](https://nekobt.to/torrents/12053967601932) |
@@ -41,9 +44,6 @@
 | `[ToonsHub] Wistoria Wand and Sword S02E12 1080p CR WEB-DL AAC2.0 H....` | **1413.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618539) • [🐱 Nyaa](https://nekobt.to/torrents/12049987048456) |
 | `[Asakura] Seihantai na Kimi to Boku - 12  [1080p WEB AAC x264] [9E7...` | **1410.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/618537) • [🐱 Nyaa](https://nyaa.si/view/2126604) |
 | `[Asakura] Seihantai na Kimi to Boku - 11  [1080p WEB AAC x264] [903...` | **1402.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/618534) • [🐱 Nyaa](https://nyaa.si/view/2126603) |
-| `[SubsPlease] Ghost Concert - missing Songs (01-12) (1080p) [Batch]` | **16536.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618535) • [🐱 Nyaa](https://nyaa.si/view/2126601) |
-| `The World Is Dancing S01E01 Why Do People Dance 1080p AMZN WEB-DL D...` | **1095.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/618531) • [🐱 Nyaa](https://nyaa.si/view/2126593) |
-| `[Erai-raws] Liar Game - 13 [1080p CR WEBRip HEVC AAC][MultiSub][90E...` | **397.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/618530) • [🐱 Nyaa](https://nekobt.to/torrents/12048040843525) |
 
 ---
 <div align="center">
