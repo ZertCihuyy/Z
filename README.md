@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.28.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.25.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -29,6 +29,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sristi] Another - 08 [1080p BD HEVC 10-bit OPUS]` | **618.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618570) • [🐱 Nyaa](https://nekobt.to/torrents/12066611336451) |
+| `[neoDESU] Sakamoto Days [Season 1] [BD 1080p AV1 OPUS] [Dual Audio]` | **7734.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618569) • [🐱 Nyaa](https://nyaa.si/view/2126736) |
+| `[AnoZu] Lord of Mysteries S00E20 The Marked Hunt 2 1080p CR WEB-DL ...` | **1132.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618568) • [🐱 Nyaa](https://nekobt.to/torrents/12066339331846) |
+| `[AnoZu] Lord of Mysteries S00E19 The Marked Hunt 1 1080p CR WEB-DL ...` | **1649.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/618567) • [🐱 Nyaa](https://nyaa.si/view/2126725) |
+| `[AnoZu] Lord of Mysteries S00E18 City of Silver 1080p CR WEB-DL DD+...` | **1538.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/618566) • [🐱 Nyaa](https://nekobt.to/torrents/12066084105989) |
+| `[LbE3L] LIAR GAME S01E10 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio ...` | **285.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/618565) • [🐱 Nyaa](https://nekobt.to/torrents/12065818058250) |
+| `[vLbE3L] Wistoria Wand and Sword S02E09 [1080p CR WEBRip VVC HE-AAC...` | **309.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618563) • [🐱 Nyaa](https://nekobt.to/torrents/12064996817666) |
+| `[LbE3L] Wistoria Wand and Sword S02E09 [1080p CR WEBRip AV1 Opus 2....` | **578.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618564) • [🐱 Nyaa](https://nekobt.to/torrents/12064964652041) |
 | `[CicakRumah] Koupen-chan - S01E65 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **99.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/618561) • [🐱 Nyaa](https://nyaa.si/view/2126706) |
 | `[Ironclad] Hokuto no Ken - FIST OF THE NORTH STAR - S01 [WEB.1080p....` | **10104.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/618562) • [🐱 Nyaa](https://nyaa.si/view/2126705) |
 | `[ToonsHub] KILL BLUE S01E10 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (M...` | **986.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/618558) • [🐱 Nyaa](https://nekobt.to/torrents/12063441150476) |
@@ -36,14 +44,6 @@
 | `[ToonsHub] KILL BLUE S01E10 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Du...` | **892.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618559) • [🐱 Nyaa](https://nekobt.to/torrents/12063419882761) |
 | `Farewell My Dear Cramer S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-T...` | **17863.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/618556) • [🐱 Nyaa](https://nekobt.to/torrents/12062484477954) |
 | `KILL BLUE S01E10 DEATH OR KISS 1080p AMZN WEB-DL DUAL DDP2.0 H 264-...` | **892.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618555) • [🐱 Nyaa](https://nyaa.si/view/2126684) |
-| `[CicakRumah] Gekkan! Nanmono Anime - S01E15 (げっかん！なんものアニメ) [ABEMA.W...` | **32.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/618553) • [🐱 Nyaa](https://nyaa.si/view/2126683) |
-| `[Escanor] Inuyashiki Last Hero [JPBD 1080p HEVC OPUS 2.0]` | **4790.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/618552) • [🐱 Nyaa](https://nyaa.si/view/2126682) |
-| `[BlackRabbit] Samurai Girls (2010) - S00 [Bluray-1080p][Opus 2.0][AV1]` | **862.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618551) • [🐱 Nyaa](https://nekobt.to/torrents/12058840890127) |
-| `[BlackRabbit] Samurai Girls (2010) - S02 [Bluray-1080p][Opus 2.0][D...` | **2619.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/618550) • [🐱 Nyaa](https://nekobt.to/torrents/12058595169288) |
-| `[Gecko] Nonhuman - S03E22 (非人哉; Fei Ren Zai 3rd Season Part 2) [BIL...` | **115.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618549) • [🐱 Nyaa](https://nekobt.to/torrents/12058243770638) |
-| `[Tasokare] mono S01 v2 (BD 1080p Opus AV1)` | **6615.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618547) • [🐱 Nyaa](https://nekobt.to/torrents/12053967601932) |
-| `[Kawatare] mono S01 v2 (BD 1080p FLAC x265)` | **19405.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618548) • [🐱 Nyaa](https://nekobt.to/torrents/12053966064394) |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E01 (1080p WEBRip AA...` | **652.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618545) • [🐱 Nyaa](https://nekobt.to/torrents/12052297316878) |
 
 ---
 <div align="center">
