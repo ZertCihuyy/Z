@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.15.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.30.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[kikuri] Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kirok...` | **31228.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618666) • [🐱 Nyaa](https://nekobt.to/torrents/12072947965452) |
+| `[Erai-raws] Marriagetoxin - 13 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **340.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618665) • [🐱 Nyaa](https://nyaa.si/view/2126906) |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E02 (1080p WEBRip AA...` | **722.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/618664) • [🐱 Nyaa](https://nekobt.to/torrents/12072203629824) |
+| `[Erai-raws] One Piece - 1168 [1080p CR WEBRip HEVC AAC][MultiSub][6...` | **594.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618660) • [🐱 Nyaa](https://nyaa.si/view/2126886) |
+| `[Erai-raws] One Piece - 1168 [1080p CR WEB-DL AVC AAC][MultiSub][9C...` | **1358.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/618663) • [🐱 Nyaa](https://nyaa.si/view/2126883) |
+| `[Erai-raws] Hidarikiki no Eren - 13 [1080p CR WEBRip HEVC AAC][Mult...` | **501.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/618659) • [🐱 Nyaa](https://nyaa.si/view/2126882) |
+| `KILL BLUE S01E11 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **331.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618657) • [🐱 Nyaa](https://nekobt.to/torrents/12071609131786) |
+| `KILL BLUE S01E11 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **204.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/618658) • [🐱 Nyaa](https://nekobt.to/torrents/12071604039177) |
+| `[Erai-raws] Replica datte Koi wo Suru - 13 [1080p CR WEBRip HEVC AA...` | **389.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/618656) • [🐱 Nyaa](https://nyaa.si/view/2126878) |
+| `[CicakRumah] Koupen-chan Extra: Hanamaru Morning Radio - Episode 2 ...` | **4.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618654) • [🐱 Nyaa](https://nyaa.si/view/2126877) |
+| `[DKB] Aishiteru Game wo Owarasetai - S01E12 [1080p][END][HEVC x265 ...` | **208.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/618655) • [🐱 Nyaa](https://nyaa.si/view/2126876) |
 | `[Onalrie] Hidarikiki no Eren - S01E13 [1080p WEBRip AV1]` | **186.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/618653) • [🐱 Nyaa](https://nekobt.to/torrents/12070421357319) |
 | `[DKB] Marriagetoxin - S01E13 [1080p][END][HEVC x265 10bit][Multi-Su...` | **367.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618652) • [🐱 Nyaa](https://nyaa.si/view/2126868) |
 | `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **381.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/618648) • [🐱 Nyaa](https://nyaa.si/view/2126864) |
 | `[Erai-raws] Aishiteru Game wo Owarasetai - 12 [1080p CR WEBRip HEVC...` | **357.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618649) • [🐱 Nyaa](https://nyaa.si/view/2126863) |
-| `Bureau of Paranormal Investigation (2020) S01 (WEBDL 1080p x264 AAC...` | **10487.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/618650) • [🐱 Nyaa](https://nyaa.si/view/2126861) |
-| `[ASW] Hidarikiki no Eren - 13 [1080p HEVC x265 10Bit][AAC]` | **313.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/618651) • [🐱 Nyaa](https://nyaa.si/view/2126860) |
-| `[Gecko] Rilakkuma - S01E13 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **47.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/618645) • [🐱 Nyaa](https://nekobt.to/torrents/12069819852558) |
-| `[Onalrie] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nag...` | **149.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618646) • [🐱 Nyaa](https://nekobt.to/torrents/12069656353037) |
-| `[anime4life.] Frieren - Beyond Journey's End Season 1 BD_1080p Dolb...` | **38939.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/618643) • [🐱 Nyaa](https://nyaa.si/view/2126855) |
-| `[Gecko] The World Is Dancing - S01E01 (ワールド イズ ダンシング; World Is Danc...` | **683.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/618644) • [🐱 Nyaa](https://nyaa.si/view/2126854) |
-| `Eren the Southpaw S01E13 Episode 13 To All The People Who Couldnt B...` | **1401.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/618633) • [🐱 Nyaa](https://nyaa.si/view/2126853) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime the Movie Tears ...` | **1334.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618634) • [🐱 Nyaa](https://nyaa.si/view/2126849) |
-| `[ToonsHub] Eren the Southpaw S01E13 1080p CR WEB-DL AAC2.0 H.264 (H...` | **1398.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/618635) • [🐱 Nyaa](https://nyaa.si/view/2126848) |
-| `[SubsPlease] Hidarikiki no Eren - 13 (1080p) [F3F376DE].mkv` | **1389.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/618636) • [🐱 Nyaa](https://nyaa.si/view/2126847) |
-| `[Onalrie] Replica datte, Koi wo Suru. - S01E13 [1080p WEBRip AV1]` | **146.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/618642) • [🐱 Nyaa](https://nekobt.to/torrents/12069299174919) |
 
 ---
 <div align="center">
