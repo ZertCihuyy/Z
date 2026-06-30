@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.04.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.37.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Headpatter] Tokyo Ravens Season 1 (BD 1080p x264 Hi10P Opus) [Dual...` | **35682.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618670) • [🐱 Nyaa](https://nyaa.si/view/2126932) |
+| `[Headpatter] Ghost in the Shell: Stand Alone Complex Season 3 (BD 1...` | **18366.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618671) • [🐱 Nyaa](https://nyaa.si/view/2126931) |
+| `[Headpatter] 18if Season 1 (BD 1080p x264 8-bit Opus) [Dual Audio]` | **27659.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/618672) • [🐱 Nyaa](https://nyaa.si/view/2126930) |
+| `[Eggs] Psycho-Pass: Providence (2023) (BD 1080p x264 8-bit E-AC3) [...` | **9515.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/618673) • [🐱 Nyaa](https://nyaa.si/view/2126925) |
 | `[Sristi] Another - 09 [1080p BD HEVC 10-bit OPUS]` | **653.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618669) • [🐱 Nyaa](https://nekobt.to/torrents/12074416804610) |
 | `Above Myriads S01E06 1080p iQ WEB-DL AAC2.0 H 264-VARYG (Wan Ren Zh...` | **334.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/618668) • [🐱 Nyaa](https://nyaa.si/view/2126912) |
 | `[BlackRose] I Want to End This Love Game - S01E10 (WEB 1080p HEVC 1...` | **1661.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/618667) • [🐱 Nyaa](https://nekobt.to/torrents/12073830438158) |
@@ -36,10 +40,6 @@
 | `[Erai-raws] Hidarikiki no Eren - 13 [1080p CR WEBRip HEVC AAC][Mult...` | **501.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/618659) • [🐱 Nyaa](https://nyaa.si/view/2126882) |
 | `KILL BLUE S01E11 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **331.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618657) • [🐱 Nyaa](https://nekobt.to/torrents/12071609131786) |
 | `KILL BLUE S01E11 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **204.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/618658) • [🐱 Nyaa](https://nekobt.to/torrents/12071604039177) |
-| `[Erai-raws] Replica datte Koi wo Suru - 13 [1080p CR WEBRip HEVC AA...` | **389.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/618656) • [🐱 Nyaa](https://nyaa.si/view/2126878) |
-| `[CicakRumah] Koupen-chan Extra: Hanamaru Morning Radio - Episode 2 ...` | **4.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618654) • [🐱 Nyaa](https://nyaa.si/view/2126877) |
-| `[DKB] Aishiteru Game wo Owarasetai - S01E12 [1080p][END][HEVC x265 ...` | **208.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/618655) • [🐱 Nyaa](https://nyaa.si/view/2126876) |
-| `[Onalrie] Hidarikiki no Eren - S01E13 [1080p WEBRip AV1]` | **186.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/618653) • [🐱 Nyaa](https://nekobt.to/torrents/12070421357319) |
 
 ---
 <div align="center">
