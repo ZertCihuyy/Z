@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.04.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.44.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[WrathMonth] The Most Heretical Last Boss Queen: From Villainess to...` | **563.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/618831) • [🐱 Nyaa](https://nyaa.si/view/2127189) |
 | `Witch Hat Atelier S01 1080p NF WEB-DL AAC2.0 H 264-VARYG (Tongari B...` | **11299.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618827) • [🐱 Nyaa](https://nyaa.si/view/2127184) |
 | `Witch Hat Atelier S01 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Ton...` | **21015.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/618828) • [🐱 Nyaa](https://nyaa.si/view/2127183) |
 | `Witch Hat Atelier S01 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Tong...` | **18471.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/618829) • [🐱 Nyaa](https://nyaa.si/view/2127182) |
@@ -47,7 +48,6 @@
 | `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 02 [1080p CR WEB...` | **417.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/618817) • [🐱 Nyaa](https://nyaa.si/view/2127163) |
 | `[Feibanyama] The Villager of Level 999 S01E02 [CR WebRip 1080p NVEN...` | **393.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/618818) • [🐱 Nyaa](https://nyaa.si/view/2127162) |
 | `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E12 (84) [1080p CR ...` | **1403.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618819) • [🐱 Nyaa](https://nekobt.to/torrents/12094593393676) |
-| `[Feibanyama] The Villager of Level 999 S01E01 [CR WebRip 1080p NVEN...` | **370.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/618816) • [🐱 Nyaa](https://nyaa.si/view/2127159) |
 
 ---
 <div align="center">
