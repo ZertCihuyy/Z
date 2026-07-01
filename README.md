@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.37.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.56.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Mo7tas] 16bit Sensation: Another Layer [BD 1080p] [Multi language ...` | **4096.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618674) • [🐱 Nyaa](https://nyaa.si/view/2126944) |
 | `[Headpatter] Tokyo Ravens Season 1 (BD 1080p x264 Hi10P Opus) [Dual...` | **35682.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618670) • [🐱 Nyaa](https://nyaa.si/view/2126932) |
 | `[Headpatter] Ghost in the Shell: Stand Alone Complex Season 3 (BD 1...` | **18366.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618671) • [🐱 Nyaa](https://nyaa.si/view/2126931) |
 | `[Headpatter] 18if Season 1 (BD 1080p x264 8-bit Opus) [Dual Audio]` | **27659.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/618672) • [🐱 Nyaa](https://nyaa.si/view/2126930) |
@@ -39,7 +40,6 @@
 | `[Erai-raws] One Piece - 1168 [1080p CR WEB-DL AVC AAC][MultiSub][9C...` | **1358.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/618663) • [🐱 Nyaa](https://nyaa.si/view/2126883) |
 | `[Erai-raws] Hidarikiki no Eren - 13 [1080p CR WEBRip HEVC AAC][Mult...` | **501.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/618659) • [🐱 Nyaa](https://nyaa.si/view/2126882) |
 | `KILL BLUE S01E11 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **331.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618657) • [🐱 Nyaa](https://nekobt.to/torrents/12071609131786) |
-| `KILL BLUE S01E11 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws...` | **204.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/618658) • [🐱 Nyaa](https://nekobt.to/torrents/12071604039177) |
 
 ---
 <div align="center">
