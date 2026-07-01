@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.25.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.04.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Witch Hat Atelier S01 1080p NF WEB-DL AAC2.0 H 264-VARYG (Tongari B...` | **11299.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618827) • [🐱 Nyaa](https://nyaa.si/view/2127184) |
+| `Witch Hat Atelier S01 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Ton...` | **21015.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/618828) • [🐱 Nyaa](https://nyaa.si/view/2127183) |
+| `Witch Hat Atelier S01 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Tong...` | **18471.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/618829) • [🐱 Nyaa](https://nyaa.si/view/2127182) |
+| `[AriesArtist] Mokku of the Oak Tree [樫の木モック] (1972) Episode 13 (1080p)` | **2831.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/618830) • [🐱 Nyaa](https://nyaa.si/view/2127181) |
+| `[Fuchs] Mushoku Tensei - S00E01 (BD 1080p HEVC Opus 2.0/5.1) [Dual-...` | **3429.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618825) • [🐱 Nyaa](https://nyaa.si/view/2127180) |
+| `[Fuchs] Mushoku Tensei - S01 (BD 1080p HEVC Opus 2.0/5.1) [Dual-Aud...` | **82155.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/618826) • [🐱 Nyaa](https://nyaa.si/view/2127179) |
+| `Citrus S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws mult...` | **17298.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618823) • [🐱 Nyaa](https://nyaa.si/view/2127173) |
+| `[Chihiro] Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (Mu...` | **2257.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/618824) • [🐱 Nyaa](https://nyaa.si/view/2127172) |
 | `[DKB] LV999 no Murabito - S01E02 [1080p][HEVC x265 10bit][Multi-Sub...` | **268.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/618822) • [🐱 Nyaa](https://nyaa.si/view/2127167) |
 | `Witch Hat Atelier S01 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **21395.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/618820) • [🐱 Nyaa](https://nyaa.si/view/2127164) |
 | `[maverickh] [Hacchi-CR] Angel Beats! (Specials) - S00 [BD 1080p x26...` | **3423.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618821) • [🐱 Nyaa](https://nekobt.to/torrents/12094845872905) |
@@ -40,14 +48,6 @@
 | `[Feibanyama] The Villager of Level 999 S01E02 [CR WebRip 1080p NVEN...` | **393.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/618818) • [🐱 Nyaa](https://nyaa.si/view/2127162) |
 | `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E12 (84) [1080p CR ...` | **1403.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618819) • [🐱 Nyaa](https://nekobt.to/torrents/12094593393676) |
 | `[Feibanyama] The Villager of Level 999 S01E01 [CR WebRip 1080p NVEN...` | **370.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/618816) • [🐱 Nyaa](https://nyaa.si/view/2127159) |
-| `[SubsPlease] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK ...` | **16548.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618812) • [🐱 Nyaa](https://nyaa.si/view/2127158) |
-| `[DKB] LV999 no Murabito - S01E01 [1080p][HEVC x265 10bit][Multi-Sub...` | **230.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618815) • [🐱 Nyaa](https://nyaa.si/view/2127154) |
-| `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E02 [...` | **286.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/618805) • [🐱 Nyaa](https://nyaa.si/view/2127153) |
-| `The Beginning After the End S02E10 The King Negotiates 1080p CR WEB...` | **1485.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/618806) • [🐱 Nyaa](https://nyaa.si/view/2127152) |
-| `[Erai-raws] Lv999 no Murabito - 02 [1080p CR WEBRip HEVC AAC][Multi...` | **415.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/618807) • [🐱 Nyaa](https://nyaa.si/view/2127151) |
-| `Petals of Reincarnation S01E08 Savior 1080p HIDI WEB-DL DUAL AAC2.0...` | **950.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/618808) • [🐱 Nyaa](https://nyaa.si/view/2127150) |
-| `Farming Life In Another World S02E10 Festivities and Fuushus Gratit...` | **954.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618809) • [🐱 Nyaa](https://nyaa.si/view/2127149) |
-| `The Most Heretical Last Boss Queen From Villainess to Savior S02E07...` | **947.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/618810) • [🐱 Nyaa](https://nyaa.si/view/2127148) |
 
 ---
 <div align="center">
