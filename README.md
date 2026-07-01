@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.16.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.25.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 01 [1080p CR WEB...` | **405.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618797) • [🐱 Nyaa](https://nyaa.si/view/2127142) |
-| `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E01 [108...` | **244.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/618798) • [🐱 Nyaa](https://nyaa.si/view/2127141) |
-| `[Judas] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagas...` | **228.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/618799) • [🐱 Nyaa](https://nyaa.si/view/2127140) |
-| `[ASW] Hanazakari no Kimitachi e S2 - 02 [1080p HEVC x265 10Bit][AAC]` | **216.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/618800) • [🐱 Nyaa](https://nyaa.si/view/2127139) |
-| `[ASW] Hanazakari no Kimitachi e S2 - 01 [1080p HEVC x265 10Bit][AAC]` | **222.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618801) • [🐱 Nyaa](https://nyaa.si/view/2127138) |
-| `[Onalrie] Lv999 no Murabito - S01E01 [1080p WEBRip AV1]` | **180.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618796) • [🐱 Nyaa](https://nekobt.to/torrents/12092966120970) |
-| `[Onalrie] Hanazakari no Kimitachi e - S02E02 [1080p WEBRip AV1]` | **178.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/618794) • [🐱 Nyaa](https://nekobt.to/torrents/12092572376580) |
-| `[Erai-raws] Lv999 no Murabito - 01 [1080p CR WEBRip HEVC AAC][Multi...` | **374.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/618791) • [🐱 Nyaa](https://nyaa.si/view/2127135) |
-| `[maverickh] [Hacchi-CR] Angel Beats! - S01 [BD 1080p x264 FLAC]` | **14387.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/618795) • [🐱 Nyaa](https://nekobt.to/torrents/12092481755656) |
-| `[ASW] Lv999 no Murabito - 02 [1080p HEVC x265 10Bit][AAC]` | **236.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/618792) • [🐱 Nyaa](https://nyaa.si/view/2127134) |
-| `[ToonsHub] Petals of Reincarnation S01E08 1080p HIDIVE WEB-DL DUAL ...` | **950.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/618787) • [🐱 Nyaa](https://nekobt.to/torrents/12092366254087) |
-| `[ToonsHub] Farming Life In Another World S02E10 1080p HIDIVE WEB-DL...` | **954.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/618788) • [🐱 Nyaa](https://nekobt.to/torrents/12092365813254) |
-| `[ToonsHub] Kirio Fan Club S01E04 1080p HIDIVE WEB-DL DUAL AAC2.0 H....` | **905.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618789) • [🐱 Nyaa](https://nekobt.to/torrents/12092364025094) |
-| `[ToonsHub] Yowayowa Sensei S01E02 1080p HIDIVE WEB-DL DUAL AAC2.0 H...` | **943.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618784) • [🐱 Nyaa](https://nyaa.si/view/2127130) |
-| `[ToonsHub] The Most Heretical Last Boss Queen From Villainess to Sa...` | **948.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/618785) • [🐱 Nyaa](https://nyaa.si/view/2127129) |
+| `[DKB] LV999 no Murabito - S01E02 [1080p][HEVC x265 10bit][Multi-Sub...` | **268.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/618822) • [🐱 Nyaa](https://nyaa.si/view/2127167) |
+| `Witch Hat Atelier S01 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **21395.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/618820) • [🐱 Nyaa](https://nyaa.si/view/2127164) |
+| `[maverickh] [Hacchi-CR] Angel Beats! (Specials) - S00 [BD 1080p x26...` | **3423.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618821) • [🐱 Nyaa](https://nekobt.to/torrents/12094845872905) |
+| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 02 [1080p CR WEB...` | **417.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/618817) • [🐱 Nyaa](https://nyaa.si/view/2127163) |
+| `[Feibanyama] The Villager of Level 999 S01E02 [CR WebRip 1080p NVEN...` | **393.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/618818) • [🐱 Nyaa](https://nyaa.si/view/2127162) |
+| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E12 (84) [1080p CR ...` | **1403.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618819) • [🐱 Nyaa](https://nekobt.to/torrents/12094593393676) |
+| `[Feibanyama] The Villager of Level 999 S01E01 [CR WebRip 1080p NVEN...` | **370.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/618816) • [🐱 Nyaa](https://nyaa.si/view/2127159) |
+| `[SubsPlease] Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK ...` | **16548.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618812) • [🐱 Nyaa](https://nyaa.si/view/2127158) |
+| `[DKB] LV999 no Murabito - S01E01 [1080p][HEVC x265 10bit][Multi-Sub...` | **230.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618815) • [🐱 Nyaa](https://nyaa.si/view/2127154) |
+| `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E02 [...` | **286.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/618805) • [🐱 Nyaa](https://nyaa.si/view/2127153) |
+| `The Beginning After the End S02E10 The King Negotiates 1080p CR WEB...` | **1485.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/618806) • [🐱 Nyaa](https://nyaa.si/view/2127152) |
+| `[Erai-raws] Lv999 no Murabito - 02 [1080p CR WEBRip HEVC AAC][Multi...` | **415.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/618807) • [🐱 Nyaa](https://nyaa.si/view/2127151) |
+| `Petals of Reincarnation S01E08 Savior 1080p HIDI WEB-DL DUAL AAC2.0...` | **950.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/618808) • [🐱 Nyaa](https://nyaa.si/view/2127150) |
+| `Farming Life In Another World S02E10 Festivities and Fuushus Gratit...` | **954.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618809) • [🐱 Nyaa](https://nyaa.si/view/2127149) |
+| `The Most Heretical Last Boss Queen From Villainess to Savior S02E07...` | **947.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/618810) • [🐱 Nyaa](https://nyaa.si/view/2127148) |
 
 ---
 <div align="center">
