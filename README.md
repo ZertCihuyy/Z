@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.26.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.07.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[maverickh] [Aenianos] Puella Magi Madoka Magica (Madoka Magica the...` | **3396.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618714) • [🐱 Nyaa](https://nekobt.to/torrents/12088901386248) |
-| `[Yameii] Rent-a-Girlfriend - S05E11 [English Dub] [CR WEB-DL 1080p ...` | **1431.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/618710) • [🐱 Nyaa](https://nyaa.si/view/2127017) |
-| `[maverickh] [Aenianos] Puella Magi Madoka Magica (Madoka Magica the...` | **3732.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/618715) • [🐱 Nyaa](https://nekobt.to/torrents/12088753859336) |
-| `[ToonsHub] Rent-a-Girlfriend S05E11 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1509.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618711) • [🐱 Nyaa](https://nyaa.si/view/2127016) |
-| `Rent a Girlfriend S05E11 Moving and Girlfriend 1080p CR WEB-DL DUAL...` | **1488.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618712) • [🐱 Nyaa](https://nyaa.si/view/2127015) |
-| `[VARYG] Classroom of the Elite S04E15 Power and Will 1080p CR WEB-D...` | **1439.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/618709) • [🐱 Nyaa](https://nekobt.to/torrents/12088346392580) |
-| `[Yameii] Classroom of the Elite - S04E15 [English Dub] [CR WEB-DL 1...` | **1382.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/618705) • [🐱 Nyaa](https://nyaa.si/view/2127006) |
-| `[ToonsHub] Classroom of the Elite S04E15 1080p CR WEB-DL DUAL AAC2....` | **1436.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/618706) • [🐱 Nyaa](https://nyaa.si/view/2127005) |
-| `[Mo7tas] Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu ...` | **2808.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/618708) • [🐱 Nyaa](https://nyaa.si/view/2127003) |
-| `[SubsPlease] Isekai Nonbiri Nouka S2 (01-12) (1080p) [Batch]` | **11197.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/618702) • [🐱 Nyaa](https://nyaa.si/view/2126992) |
-| `[Gecko] Cat Tales - S01E38 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **42.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618700) • [🐱 Nyaa](https://nyaa.si/view/2126987) |
-| `[cappybara] MARRIAGETOXIN S01 [WEB 1080p HEVC AAC]` | **28054.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/618698) • [🐱 Nyaa](https://nekobt.to/torrents/12086705054478) |
-| `[BlackRabbit] 2.5 Dimensional Seduction (2024) - S01 [Bluray-1080p]...` | **6160.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/618697) • [🐱 Nyaa](https://nekobt.to/torrents/12085981404429) |
-| `[SubsPlease] Tongari Boushi no Atelier (01-13) (1080p) [Batch]` | **17903.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/618693) • [🐱 Nyaa](https://nyaa.si/view/2126979) |
-| `[BlackRabbit] Princess Connect! Re-Dive (2020) - S02 [Bluray-1080p]...` | **3211.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618696) • [🐱 Nyaa](https://nekobt.to/torrents/12085374407939) |
+| `[Gecko] Candy Caries - S01E12 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **45.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/618744) • [🐱 Nyaa](https://nekobt.to/torrents/12091452256515) |
+| `[ToonsHub] Hana-Kimi S02E02 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1410.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/618747) • [🐱 Nyaa](https://nekobt.to/torrents/12091438606849) |
+| `[Erai-raws] Lv999 no Murabito - 01 [1080p CR WEB-DL AVC AAC][MultiS...` | **1400.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/618748) • [🐱 Nyaa](https://nekobt.to/torrents/12091438093824) |
+| `[ToonsHub] Hana-Kimi S02E01 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1410.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618749) • [🐱 Nyaa](https://nekobt.to/torrents/12091436390401) |
+| `[ToonsHub] The Villager of Level 999 S01E02 1080p CR WEB-DL AAC2.0 ...` | **1399.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/618740) • [🐱 Nyaa](https://nyaa.si/view/2127071) |
+| `[ToonsHub] The Villager of Level 999 S01E01 1080p CR WEB-DL AAC2.0 ...` | **1401.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618741) • [🐱 Nyaa](https://nyaa.si/view/2127070) |
+| `[ToonsHub] Candy Caries S01E12 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **150.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618742) • [🐱 Nyaa](https://nyaa.si/view/2127069) |
+| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 02 [10...` | **505.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/618743) • [🐱 Nyaa](https://nyaa.si/view/2127065) |
+| `[Onalrie] All Works Maid - S01E02 [1080p WEBRip AV1]` | **201.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/618736) • [🐱 Nyaa](https://nekobt.to/torrents/12090678964490) |
+| `[ASW] All Works Maid - 02 [1080p HEVC x265 10Bit][AAC]` | **244.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/618734) • [🐱 Nyaa](https://nyaa.si/view/2127064) |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E03 (1080p WEBRip AA...` | **575.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618737) • [🐱 Nyaa](https://nekobt.to/torrents/12090588872719) |
+| `[ToonsHub] LV999 no Murabito S01E02 1080p ABEMA WEB-DL AAC2.0 H.264` | **716.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618738) • [🐱 Nyaa](https://nekobt.to/torrents/12090541522958) |
+| `[ToonsHub] LV999 no Murabito S01E01 1080p ABEMA WEB-DL AAC2.0 H.264` | **716.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618739) • [🐱 Nyaa](https://nekobt.to/torrents/12090510507791) |
+| `Rent a Girlfriend S05E10 Childhood Home and Girlfriend 1080p CR WEB...` | **1625.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/618735) • [🐱 Nyaa](https://nyaa.si/view/2127061) |
+| `[ToonsHub] Heroine Saint No Im an All-Works Maid And Proud of It S0...` | **1366.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/618724) • [🐱 Nyaa](https://nyaa.si/view/2127059) |
 
 ---
 <div align="center">
