@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.56.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.41.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[yolerejiju] The Fragrant Flower Blooms with Dignity Season 1 (S01)...` | **35141.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/618690) • [🐱 Nyaa](https://nyaa.si/view/2126971) |
+| `[BlackRabbit] Princess Connect! Re-Dive (2020) - S01 [Bluray-1080p]...` | **2727.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618688) • [🐱 Nyaa](https://nekobt.to/torrents/12081208386823) |
+| `[LoliHouse] 最强的职业不是勇者也不是贤者好像是鉴定士(暂定)的样子？ / Kanteishi (Kari) [01-12 ...` | **5968.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/618687) • [🐱 Nyaa](https://nyaa.si/view/2126968) |
+| `[Kakumei Subs] Honzuki no Gekokujou S04E12 [1080p WEB HEVC AAC] [Su...` | **2086.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/618689) • [🐱 Nyaa](https://nekobt.to/torrents/12081111183104) |
+| `[derpie] MARRIAGETOXIN - S01E13 (WEB 1080p HEVC AAC) | Marriage Toxin` | **1328.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/618685) • [🐱 Nyaa](https://nyaa.si/view/2126963) |
+| `[derpie] MARRIAGETOXIN - S01E11 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1799.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/618686) • [🐱 Nyaa](https://nyaa.si/view/2126962) |
+| `[ASW] Quanzhi Fashi S7 - 07 [1080p HEVC x265 10Bit][AAC]` | **347.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618682) • [🐱 Nyaa](https://nyaa.si/view/2126961) |
+| `[Judas] Aishiteru Game o Owarasetai (I Want to End This Love Game) ...` | **175.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/618684) • [🐱 Nyaa](https://nyaa.si/view/2126959) |
+| `Walking the Way all alone S01E13 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **850.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618680) • [🐱 Nyaa](https://nyaa.si/view/2126957) |
+| `[ToonsHub] Walking the Way all alone S01E14 1080p BILI WEB-DL AAC2....` | **727.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/618681) • [🐱 Nyaa](https://nyaa.si/view/2126956) |
+| `[ToonsHub] Full-Time Magister S07E07 1080p CR WEB-DL AAC2.0 H.264 (...` | **1144.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/618679) • [🐱 Nyaa](https://nekobt.to/torrents/12079032759307) |
+| `Versatile Mage S07E07 Shadow in the Tomb 1080p CR WEB-DL AAC2.0 H 2...` | **1125.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/618675) • [🐱 Nyaa](https://nyaa.si/view/2126951) |
+| `[SubsPlease] Quanzhi Fashi S7 - 07 (1080p) [2F984EE9].mkv` | **1098.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/618676) • [🐱 Nyaa](https://nyaa.si/view/2126950) |
 | `[Mo7tas] 16bit Sensation: Another Layer [BD 1080p] [Multi language ...` | **4096.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618674) • [🐱 Nyaa](https://nyaa.si/view/2126944) |
 | `[Headpatter] Tokyo Ravens Season 1 (BD 1080p x264 Hi10P Opus) [Dual...` | **35682.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618670) • [🐱 Nyaa](https://nyaa.si/view/2126932) |
-| `[Headpatter] Ghost in the Shell: Stand Alone Complex Season 3 (BD 1...` | **18366.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618671) • [🐱 Nyaa](https://nyaa.si/view/2126931) |
-| `[Headpatter] 18if Season 1 (BD 1080p x264 8-bit Opus) [Dual Audio]` | **27659.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/618672) • [🐱 Nyaa](https://nyaa.si/view/2126930) |
-| `[Eggs] Psycho-Pass: Providence (2023) (BD 1080p x264 8-bit E-AC3) [...` | **9515.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/618673) • [🐱 Nyaa](https://nyaa.si/view/2126925) |
-| `[Sristi] Another - 09 [1080p BD HEVC 10-bit OPUS]` | **653.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618669) • [🐱 Nyaa](https://nekobt.to/torrents/12074416804610) |
-| `Above Myriads S01E06 1080p iQ WEB-DL AAC2.0 H 264-VARYG (Wan Ren Zh...` | **334.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/618668) • [🐱 Nyaa](https://nyaa.si/view/2126912) |
-| `[BlackRose] I Want to End This Love Game - S01E10 (WEB 1080p HEVC 1...` | **1661.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/618667) • [🐱 Nyaa](https://nekobt.to/torrents/12073830438158) |
-| `[kikuri] Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kirok...` | **31228.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618666) • [🐱 Nyaa](https://nekobt.to/torrents/12072947965452) |
-| `[Erai-raws] Marriagetoxin - 13 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **340.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/618665) • [🐱 Nyaa](https://nyaa.si/view/2126906) |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E02 (1080p WEBRip AA...` | **722.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/618664) • [🐱 Nyaa](https://nekobt.to/torrents/12072203629824) |
-| `[Erai-raws] One Piece - 1168 [1080p CR WEBRip HEVC AAC][MultiSub][6...` | **594.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/618660) • [🐱 Nyaa](https://nyaa.si/view/2126886) |
-| `[Erai-raws] One Piece - 1168 [1080p CR WEB-DL AVC AAC][MultiSub][9C...` | **1358.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/618663) • [🐱 Nyaa](https://nyaa.si/view/2126883) |
-| `[Erai-raws] Hidarikiki no Eren - 13 [1080p CR WEBRip HEVC AAC][Mult...` | **501.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/618659) • [🐱 Nyaa](https://nyaa.si/view/2126882) |
-| `KILL BLUE S01E11 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Ra...` | **331.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/618657) • [🐱 Nyaa](https://nekobt.to/torrents/12071609131786) |
 
 ---
 <div align="center">
