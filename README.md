@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.41.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.33.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] 2.5 Dimensional Seduction (2024) - S01 [Bluray-1080p]...` | **6160.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/618697) • [🐱 Nyaa](https://nekobt.to/torrents/12085981404429) |
+| `[SubsPlease] Tongari Boushi no Atelier (01-13) (1080p) [Batch]` | **17903.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/618693) • [🐱 Nyaa](https://nyaa.si/view/2126979) |
+| `[BlackRabbit] Princess Connect! Re-Dive (2020) - S02 [Bluray-1080p]...` | **3211.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618696) • [🐱 Nyaa](https://nekobt.to/torrents/12085374407939) |
+| `[maverickh] [Aenianos] Puella Magi Madoka Magica - S01 [BD 1080p FLAC]` | **9852.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618692) • [🐱 Nyaa](https://nekobt.to/torrents/12084933996290) |
+| `[Onalrie] Quanzhi Fashi - S07E07 [1080p WEBRip AV1]` | **250.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/618691) • [🐱 Nyaa](https://nekobt.to/torrents/12084150630403) |
 | `[yolerejiju] The Fragrant Flower Blooms with Dignity Season 1 (S01)...` | **35141.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/618690) • [🐱 Nyaa](https://nyaa.si/view/2126971) |
 | `[BlackRabbit] Princess Connect! Re-Dive (2020) - S01 [Bluray-1080p]...` | **2727.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618688) • [🐱 Nyaa](https://nekobt.to/torrents/12081208386823) |
 | `[LoliHouse] 最强的职业不是勇者也不是贤者好像是鉴定士(暂定)的样子？ / Kanteishi (Kari) [01-12 ...` | **5968.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/618687) • [🐱 Nyaa](https://nyaa.si/view/2126968) |
@@ -35,11 +40,6 @@
 | `[Judas] Aishiteru Game o Owarasetai (I Want to End This Love Game) ...` | **175.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/618684) • [🐱 Nyaa](https://nyaa.si/view/2126959) |
 | `Walking the Way all alone S01E13 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **850.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618680) • [🐱 Nyaa](https://nyaa.si/view/2126957) |
 | `[ToonsHub] Walking the Way all alone S01E14 1080p BILI WEB-DL AAC2....` | **727.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/618681) • [🐱 Nyaa](https://nyaa.si/view/2126956) |
-| `[ToonsHub] Full-Time Magister S07E07 1080p CR WEB-DL AAC2.0 H.264 (...` | **1144.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/618679) • [🐱 Nyaa](https://nekobt.to/torrents/12079032759307) |
-| `Versatile Mage S07E07 Shadow in the Tomb 1080p CR WEB-DL AAC2.0 H 2...` | **1125.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/618675) • [🐱 Nyaa](https://nyaa.si/view/2126951) |
-| `[SubsPlease] Quanzhi Fashi S7 - 07 (1080p) [2F984EE9].mkv` | **1098.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/618676) • [🐱 Nyaa](https://nyaa.si/view/2126950) |
-| `[Mo7tas] 16bit Sensation: Another Layer [BD 1080p] [Multi language ...` | **4096.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618674) • [🐱 Nyaa](https://nyaa.si/view/2126944) |
-| `[Headpatter] Tokyo Ravens Season 1 (BD 1080p x264 Hi10P Opus) [Dual...` | **35682.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618670) • [🐱 Nyaa](https://nyaa.si/view/2126932) |
 
 ---
 <div align="center">
