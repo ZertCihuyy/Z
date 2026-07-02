@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.33.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.57.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] The Beginning After the End S02E11 [1080p CR WEBRip AV1 Opu...` | **268.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618853) • [🐱 Nyaa](https://nekobt.to/torrents/12109656510208) |
+| `[vLbE3L] Witch Hat Atelier S01E10 [1080p CUSTOM WEBRip VVC HE-AACv2...` | **262.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/618854) • [🐱 Nyaa](https://nekobt.to/torrents/12109593040652) |
+| `[LbE3L] Witch Hat Atelier S01E10 [1080p CUSTOM WEBRip AV1 (Muxed) O...` | **410.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618855) • [🐱 Nyaa](https://nekobt.to/torrents/12109552439303) |
+| `Undead Unluck S00E01 REPACK MULTi 1080p DSNP WEB-DL AAC2.0 H.264-Ts...` | **2204.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/618852) • [🐱 Nyaa](https://nekobt.to/torrents/12109509022221) |
+| `[Gecko] Koala's Diary - S01E39 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **37.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/618850) • [🐱 Nyaa](https://nekobt.to/torrents/12108991672587) |
+| `Undead Unluck S00E01 MULTi 1080p DSNP WEB-DL AAC2.0 H.264-Tsundere-...` | **2160.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/618849) • [🐱 Nyaa](https://nyaa.si/view/2127250) |
+| `[BlackRabbit] So I'm a Spider, So What! (2021) - S01 [Bluray-1080p]...` | **5521.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618847) • [🐱 Nyaa](https://nekobt.to/torrents/12107498690562) |
 | `Undead Unluck S00E01 Undead Unluck Winter Arc 1080p DSNP WEB-DL DUA...` | **2045.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/618845) • [🐱 Nyaa](https://nyaa.si/view/2127242) |
 | `[maverickh] [AVA] Angel Beats! - S01 [BD 1080p H264]` | **13398.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/618844) • [🐱 Nyaa](https://nekobt.to/torrents/12103646361089) |
 | `[ToonsHub] Undead Unluck S00E01 Winter Arc 1080p HULU WEB-DL AAC2.0...` | **2001.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/618843) • [🐱 Nyaa](https://nyaa.si/view/2127238) |
@@ -41,13 +48,6 @@
 | `[Gecko] Reborn as a Cat - S01E36 (为喵人生; Wei Miao Rensheng) [BILI.WE...` | **233.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618838) • [🐱 Nyaa](https://nekobt.to/torrents/12101564847110) |
 | `[ToonsHub] Reborn as a Cat S01E36 1080p BILI WEB-DL AAC2.0 H.265 (E...` | **231.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618839) • [🐱 Nyaa](https://nekobt.to/torrents/12101540119303) |
 | `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E11 [1080p AV1][Dual Audi...` | **361.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618836) • [🐱 Nyaa](https://nyaa.si/view/2127219) |
-| `[NOGRP] Urusei Yatsura Season 1-4 (BD 1080p x264 Hi10P FLAC) | Thos...` | **274025.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618835) • [🐱 Nyaa](https://nyaa.si/view/2127210) |
-| `[WrathMonth] The Most Heretical Last Boss Queen: From Villainess to...` | **563.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/618831) • [🐱 Nyaa](https://nyaa.si/view/2127189) |
-| `Witch Hat Atelier S01 1080p NF WEB-DL AAC2.0 H 264-VARYG (Tongari B...` | **11299.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618827) • [🐱 Nyaa](https://nyaa.si/view/2127184) |
-| `Witch Hat Atelier S01 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Ton...` | **21015.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/618828) • [🐱 Nyaa](https://nyaa.si/view/2127183) |
-| `Witch Hat Atelier S01 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Tong...` | **18471.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/618829) • [🐱 Nyaa](https://nyaa.si/view/2127182) |
-| `[AriesArtist] Mokku of the Oak Tree [樫の木モック] (1972) Episode 13 (1080p)` | **2831.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/618830) • [🐱 Nyaa](https://nyaa.si/view/2127181) |
-| `[Fuchs] Mushoku Tensei - S00E01 (BD 1080p HEVC Opus 2.0/5.1) [Dual-...` | **3429.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618825) • [🐱 Nyaa](https://nyaa.si/view/2127180) |
 
 ---
 <div align="center">
