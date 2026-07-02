@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.03.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.33.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] BanG Dream! Yume∞Mita - S01E03 [1080p][HEVC x265 10bit][Multi...` | **394.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/618970) • [🐱 Nyaa](https://nyaa.si/view/2127499) |
+| `[VARYG] The Exiled Heavy Knight Knows How to Game the System S01E01...` | **1036.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/618969) • [🐱 Nyaa](https://nekobt.to/torrents/12117850651148) |
+| `[Judas] Otome Kaiju Caramelise (Kaiju Girl Caramelise) - S01E01 [10...` | **327.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/618968) • [🐱 Nyaa](https://nyaa.si/view/2127497) |
+| `[Ironclad] Dara-San of the Reiwa Era - S01E01 (WEB 1080p AV1) | Rei...` | **248.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618967) • [🐱 Nyaa](https://nekobt.to/torrents/12117302253568) |
 | `[nekotan] Bungo Stray Dogs Wan! S01 (BD 1080p x265 10-bit Opus) [Du...` | **6779.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/618966) • [🐱 Nyaa](https://nekobt.to/torrents/12117059375371) |
 | `[Trix] Go For It, Nakamura-kun!! S01 (Batch) [WEBRip 1080p AV1 Opus...` | **3934.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618963) • [🐱 Nyaa](https://nyaa.si/view/2127489) |
 | `[Trix] The Ramparts of Ice S01 (Batch) 1080p NF WEB-DL AAC2.0 AV1 (...` | **2233.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618964) • [🐱 Nyaa](https://nyaa.si/view/2127488) |
@@ -44,10 +48,6 @@
 | `[ASW] Otome Kaijuu Carameliser - 01 [1080p HEVC x265 10Bit][AAC]` | **264.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618952) • [🐱 Nyaa](https://nyaa.si/view/2127475) |
 | `[DKB] BanG Dream! Yume∞Mita - S01E02 [1080p][HEVC x265 10bit][Multi...` | **369.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618953) • [🐱 Nyaa](https://nyaa.si/view/2127474) |
 | `[DKB] BanG Dream! Yume∞Mita - S01E01 [1080p][HEVC x265 10bit][Multi...` | **458.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/618954) • [🐱 Nyaa](https://nyaa.si/view/2127472) |
-| `[DKB] Bungo Stray Dogs WAN! - S02E01 [1080p][HEVC x265 10bit][Multi...` | **147.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618955) • [🐱 Nyaa](https://nyaa.si/view/2127471) |
-| `[geckyzz] Chainsmoker Cat - S01E01 (ヤニねこ; Yani Neko) [UNCENSORED, O...` | **411.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/618950) • [🐱 Nyaa](https://nekobt.to/torrents/12115241399047) |
-| `[Judas] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Che...` | **267.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/618942) • [🐱 Nyaa](https://nyaa.si/view/2127468) |
-| `[ToonsHub] KAIJU GIRL CARAMELISE S01E01 1080p CR WEB-DL AAC2.0 H.26...` | **1426.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/618943) • [🐱 Nyaa](https://nyaa.si/view/2127466) |
 
 ---
 <div align="center">
