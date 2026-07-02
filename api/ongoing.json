@@ -1,5 +1,5 @@
 {
-  "last_update": "2/7/2026, 21.23.50",
+  "last_update": "2/7/2026, 23.20.25",
   "data": [
     {
       "id": 21,
@@ -87,23 +87,6 @@
       }
     },
     {
-      "id": 186497,
-      "title": {
-        "romaji": "Koori no Jouheki"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg"
-      },
-      "episodes": 14,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Studio KAI"
-          }
-        ]
-      }
-    },
-    {
       "id": 197754,
       "title": {
         "romaji": "LIAR GAME"
@@ -167,6 +150,23 @@
         "nodes": [
           {
             "name": "OLM"
+          }
+        ]
+      }
+    },
+    {
+      "id": 196974,
+      "title": {
+        "romaji": "Kuroneko to Majo no Kyoushitsu"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png"
+      },
+      "episodes": null,
+      "studios": {
+        "nodes": [
+          {
+            "name": "LIDENFILMS"
           }
         ]
       }
