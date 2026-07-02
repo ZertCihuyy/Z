@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.51.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.04.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Undead Unluck S00E01 Undead Unluck Winter Arc 1080p DSNP WEB-DL DUA...` | **2045.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/618845) • [🐱 Nyaa](https://nyaa.si/view/2127242) |
+| `[maverickh] [AVA] Angel Beats! - S01 [BD 1080p H264]` | **13398.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/618844) • [🐱 Nyaa](https://nekobt.to/torrents/12103646361089) |
+| `[ToonsHub] Undead Unluck S00E01 Winter Arc 1080p HULU WEB-DL AAC2.0...` | **2001.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/618843) • [🐱 Nyaa](https://nyaa.si/view/2127238) |
+| `[Gecko] Cat Tales - S01E38 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/618842) • [🐱 Nyaa](https://nyaa.si/view/2127236) |
+| `[Gecko] Candy Caries - S01E12 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/618840) • [🐱 Nyaa](https://nyaa.si/view/2127235) |
+| `[Gecko] Reborn as a Cat - S01E36 (为喵人生; Wei Miao Rensheng) [BILI.WE...` | **233.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618838) • [🐱 Nyaa](https://nekobt.to/torrents/12101564847110) |
+| `[ToonsHub] Reborn as a Cat S01E36 1080p BILI WEB-DL AAC2.0 H.265 (E...` | **231.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618839) • [🐱 Nyaa](https://nekobt.to/torrents/12101540119303) |
+| `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E11 [1080p AV1][Dual Audi...` | **361.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618836) • [🐱 Nyaa](https://nyaa.si/view/2127219) |
 | `[NOGRP] Urusei Yatsura Season 1-4 (BD 1080p x264 Hi10P FLAC) | Thos...` | **274025.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/618835) • [🐱 Nyaa](https://nyaa.si/view/2127210) |
 | `[WrathMonth] The Most Heretical Last Boss Queen: From Villainess to...` | **563.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/618831) • [🐱 Nyaa](https://nyaa.si/view/2127189) |
 | `Witch Hat Atelier S01 1080p NF WEB-DL AAC2.0 H 264-VARYG (Tongari B...` | **11299.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618827) • [🐱 Nyaa](https://nyaa.si/view/2127184) |
@@ -40,14 +48,6 @@
 | `Witch Hat Atelier S01 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Tong...` | **18471.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/618829) • [🐱 Nyaa](https://nyaa.si/view/2127182) |
 | `[AriesArtist] Mokku of the Oak Tree [樫の木モック] (1972) Episode 13 (1080p)` | **2831.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/618830) • [🐱 Nyaa](https://nyaa.si/view/2127181) |
 | `[Fuchs] Mushoku Tensei - S00E01 (BD 1080p HEVC Opus 2.0/5.1) [Dual-...` | **3429.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618825) • [🐱 Nyaa](https://nyaa.si/view/2127180) |
-| `[Fuchs] Mushoku Tensei - S01 (BD 1080p HEVC Opus 2.0/5.1) [Dual-Aud...` | **82155.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/618826) • [🐱 Nyaa](https://nyaa.si/view/2127179) |
-| `Citrus S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws mult...` | **17298.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618823) • [🐱 Nyaa](https://nyaa.si/view/2127173) |
-| `[Chihiro] Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (Mu...` | **2257.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/618824) • [🐱 Nyaa](https://nyaa.si/view/2127172) |
-| `[DKB] LV999 no Murabito - S01E02 [1080p][HEVC x265 10bit][Multi-Sub...` | **268.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/618822) • [🐱 Nyaa](https://nyaa.si/view/2127167) |
-| `Witch Hat Atelier S01 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **21395.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/618820) • [🐱 Nyaa](https://nyaa.si/view/2127164) |
-| `[maverickh] [Hacchi-CR] Angel Beats! (Specials) - S00 [BD 1080p x26...` | **3423.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/618821) • [🐱 Nyaa](https://nekobt.to/torrents/12094845872905) |
-| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 02 [1080p CR WEB...` | **417.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/618817) • [🐱 Nyaa](https://nyaa.si/view/2127163) |
-| `[Feibanyama] The Villager of Level 999 S01E02 [CR WebRip 1080p NVEN...` | **393.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/618818) • [🐱 Nyaa](https://nyaa.si/view/2127162) |
 
 ---
 <div align="center">
