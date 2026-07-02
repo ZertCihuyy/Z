@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.57.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.23.50_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[LbE3L] The Beginning After the End S02E11 [1080p CR WEBRip AV1 Opu...` | **268.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618853) • [🐱 Nyaa](https://nekobt.to/torrents/12109656510208) |
-| `[vLbE3L] Witch Hat Atelier S01E10 [1080p CUSTOM WEBRip VVC HE-AACv2...` | **262.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/618854) • [🐱 Nyaa](https://nekobt.to/torrents/12109593040652) |
-| `[LbE3L] Witch Hat Atelier S01E10 [1080p CUSTOM WEBRip AV1 (Muxed) O...` | **410.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618855) • [🐱 Nyaa](https://nekobt.to/torrents/12109552439303) |
-| `Undead Unluck S00E01 REPACK MULTi 1080p DSNP WEB-DL AAC2.0 H.264-Ts...` | **2204.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/618852) • [🐱 Nyaa](https://nekobt.to/torrents/12109509022221) |
-| `[Gecko] Koala's Diary - S01E39 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **37.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/618850) • [🐱 Nyaa](https://nekobt.to/torrents/12108991672587) |
-| `Undead Unluck S00E01 MULTi 1080p DSNP WEB-DL AAC2.0 H.264-Tsundere-...` | **2160.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/618849) • [🐱 Nyaa](https://nyaa.si/view/2127250) |
-| `[BlackRabbit] So I'm a Spider, So What! (2021) - S01 [Bluray-1080p]...` | **5521.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618847) • [🐱 Nyaa](https://nekobt.to/torrents/12107498690562) |
-| `Undead Unluck S00E01 Undead Unluck Winter Arc 1080p DSNP WEB-DL DUA...` | **2045.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/618845) • [🐱 Nyaa](https://nyaa.si/view/2127242) |
-| `[maverickh] [AVA] Angel Beats! - S01 [BD 1080p H264]` | **13398.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/618844) • [🐱 Nyaa](https://nekobt.to/torrents/12103646361089) |
-| `[ToonsHub] Undead Unluck S00E01 Winter Arc 1080p HULU WEB-DL AAC2.0...` | **2001.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/618843) • [🐱 Nyaa](https://nyaa.si/view/2127238) |
-| `[Gecko] Cat Tales - S01E38 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/618842) • [🐱 Nyaa](https://nyaa.si/view/2127236) |
-| `[Gecko] Candy Caries - S01E12 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/618840) • [🐱 Nyaa](https://nyaa.si/view/2127235) |
-| `[Gecko] Reborn as a Cat - S01E36 (为喵人生; Wei Miao Rensheng) [BILI.WE...` | **233.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618838) • [🐱 Nyaa](https://nekobt.to/torrents/12101564847110) |
-| `[ToonsHub] Reborn as a Cat S01E36 1080p BILI WEB-DL AAC2.0 H.265 (E...` | **231.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618839) • [🐱 Nyaa](https://nekobt.to/torrents/12101540119303) |
-| `[Sokudo] Jidouhanbaiki ni Umarekawatta S03E11 [1080p AV1][Dual Audi...` | **361.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/618836) • [🐱 Nyaa](https://nyaa.si/view/2127219) |
+| `[SubsPlease] BanG Dream! Yumemita - 03 (1080p) [3931E49D].mkv` | **1379.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/618877) • [🐱 Nyaa](https://nyaa.si/view/2127374) |
+| `[SubsPlease] BanG Dream! Yumemita - 02 (1080p) [276A1525].mkv` | **1379.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/618880) • [🐱 Nyaa](https://nyaa.si/view/2127369) |
+| `BanG Dream YUMEMITA S01E01 1080p CR WEB-DL AAC2.0 H 264-VARYG (BanG...` | **1386.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/618883) • [🐱 Nyaa](https://nyaa.si/view/2127364) |
+| `BanG Dream YUMEMITA S01E03 Suit yourself 1080p CR WEB-DL AAC2.0 H 2...` | **1386.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/618884) • [🐱 Nyaa](https://nyaa.si/view/2127363) |
+| `BanG Dream YUMEMITA S01E02 Smooch 1080p CR WEB-DL AAC2.0 H 264-VARY...` | **1389.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/618885) • [🐱 Nyaa](https://nyaa.si/view/2127362) |
+| `[SubsPlease] BanG Dream! Yumemita - 01 (1080p) [9F3939CD].mkv` | **1380.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/618886) • [🐱 Nyaa](https://nyaa.si/view/2127361) |
+| `[ToonsHub] BanG Dream YUMEMITA S01E02 1080p CR WEB-DL AAC2.0 H.264 ...` | **1385.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/618887) • [🐱 Nyaa](https://nyaa.si/view/2127360) |
+| `[ToonsHub] BanG Dream YUMEMITA S01E03 1080p CR WEB-DL AAC2.0 H.264 ...` | **1385.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618888) • [🐱 Nyaa](https://nyaa.si/view/2127359) |
+| `[ToonsHub] BanG Dream YUMEMITA S01E01 1080p CR WEB-DL AAC2.0 H.264 ...` | **1386.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/618890) • [🐱 Nyaa](https://nyaa.si/view/2127357) |
+| `[Onalrie] Bungou Stray Dogs Wan! - S02E01 [1080p WEBRip AV1]` | **109.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618876) • [🐱 Nyaa](https://onalrie.app/torrent/75bf377f-51ff-4ad3-8444-fce717bdc3a9) |
+| `[ASW] Reiwa no Dara-san - 01 [1080p HEVC x265 10Bit][AAC]` | **217.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/618875) • [🐱 Nyaa](https://nyaa.si/view/2127351) |
+| `[triple117] Cherry Magic! Thirty Years of Virginity Can Make You a ...` | **97877.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/618873) • [🐱 Nyaa](https://nekobt.to/torrents/12111092271373) |
+| `[Onalrie] Reiwa no Dara-san - S01E01 [1080p WEBRip AV1]` | **173.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/618874) • [🐱 Nyaa](https://nekobt.to/torrents/12110955885827) |
+| `[ASW] Bungou Stray Dogs Wan! S2 - 01 [1080p HEVC x265 10Bit][AAC]` | **140.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/618871) • [🐱 Nyaa](https://nyaa.si/view/2127345) |
+| `[Bird] Ganzo! Bandori-chan - 39 (1080p) [4DACAA5D]` | **10.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618872) • [🐱 Nyaa](https://nyaa.si/view/2127336) |
 
 ---
 <div align="center">
