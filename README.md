@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.39.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.18.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Bai Ri Cheng Wang - S01E02 [1080p WEBRip AV1]` | **125.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619028) • [🐱 Nyaa](https://nekobt.to/torrents/12129673986573) |
+| `[ASW] Bai Ri Cheng Wang - 02 [1080p HEVC x265 10Bit][AAC]` | **166.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/619027) • [🐱 Nyaa](https://nyaa.si/view/2127622) |
+| `[SubsPlease] Bai Ri Cheng Wang - 02 (1080p) [CD5D80AF].mkv` | **770.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/619023) • [🐱 Nyaa](https://nyaa.si/view/2127617) |
+| `[Dae] Oshi no Ko - S03E04 - (WEB 1080p HEVC AAC EAC3) [Dual-Audio] ...` | **2227.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/619026) • [🐱 Nyaa](https://nekobt.to/torrents/12128883583756) |
+| `[ToonsHub] The Warrior Princess and the Barbaric King S01E11 1080p ...` | **1460.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619021) • [🐱 Nyaa](https://nyaa.si/view/2127613) |
+| `[nekotan] To LOVE-Ru Darkness S00E07-E12 OVA (BD 1080p x265 10-bit ...` | **6753.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/619022) • [🐱 Nyaa](https://nekobt.to/torrents/12128608321547) |
 | `Undead Unluck S00E01 Undead Unluck Winter Arc REPACK 1080p DSNP WEB...` | **2046.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/619019) • [🐱 Nyaa](https://nyaa.si/view/2127609) |
 | `Undead Unluck S00E01 Undead Unluck Winter Arc 1080p DSNP WEB-DL MUL...` | **2177.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/619020) • [🐱 Nyaa](https://nyaa.si/view/2127608) |
 | `[Erai-raws] Crowned in a Hundred Days - 02 (CA) [1080p CR WEBRip HE...` | **216.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/619017) • [🐱 Nyaa](https://nekobt.to/torrents/12125561497870) |
@@ -42,12 +48,6 @@
 | `[ASW] Bai Ri Cheng Wang - 01 [1080p HEVC x265 10Bit][AAC]` | **153.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/619013) • [🐱 Nyaa](https://nyaa.si/view/2127584) |
 | `[Gecko] Koala's Diary - S01E39 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **75.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618990) • [🐱 Nyaa](https://nyaa.si/view/2127578) |
 | `[ToonsHub] Crowned in a Hundred Days S01E02 1080p CR WEB-DL AAC2.0 ...` | **772.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618991) • [🐱 Nyaa](https://nyaa.si/view/2127577) |
-| `[ToonsHub] Crowned in a Hundred Days S01E04 1080p BILI WEB-DL AAC2....` | **128.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/618992) • [🐱 Nyaa](https://nyaa.si/view/2127576) |
-| `[ToonsHub] Crowned in a Hundred Days S01E01 1080p CR WEB-DL AAC2.0 ...` | **702.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/618993) • [🐱 Nyaa](https://nyaa.si/view/2127575) |
-| `[ToonsHub] Crowned in a Hundred Days S01E03 1080p BILI WEB-DL AAC2....` | **146.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/618994) • [🐱 Nyaa](https://nyaa.si/view/2127574) |
-| `[ToonsHub] Crowned in a Hundred Days S01E02 1080p BILI WEB-DL AAC2....` | **164.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618995) • [🐱 Nyaa](https://nyaa.si/view/2127573) |
-| `[Gecko] Crowned in a Hundred Days - S01E04 (百日成王; Bai Ri Cheng Wang...` | **131.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/618996) • [🐱 Nyaa](https://nyaa.si/view/2127572) |
-| `[Gecko] Crowned in a Hundred Days - S01E03 (百日成王; Bai Ri Cheng Wang...` | **150.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618997) • [🐱 Nyaa](https://nyaa.si/view/2127569) |
 
 ---
 <div align="center">
