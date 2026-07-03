@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.47.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.10.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Yani Neko - S01E01 [WEB.1080p.AV1] | Chainsmoker Cat (Mu...` | **486.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618975) • [🐱 Nyaa](https://nyaa.si/view/2127507) |
 | `[DKB] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat...` | **295.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/618974) • [🐱 Nyaa](https://nyaa.si/view/2127503) |
 | `[ToonsHub] BanG Dream YumeMita S01E03 1080p AMZN WEB-DL DDP2.0 H.26...` | **1138.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618971) • [🐱 Nyaa](https://nyaa.si/view/2127502) |
 | `[ToonsHub] BanG Dream YumeMita S01E02 1080p AMZN WEB-DL DDP2.0 H.26...` | **1097.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/618972) • [🐱 Nyaa](https://nyaa.si/view/2127501) |
@@ -47,7 +48,6 @@
 | `[Trix] MARRIAGETOXIN S01 (Batch) [WEBRip 1080p AV1 Opus] (Multi Sub...` | **3795.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/618965) • [🐱 Nyaa](https://nyaa.si/view/2127487) |
 | `[Ommex] Doraemon Movie 08 - Nobita and the Dinosaur Knights (1987) ...` | **3551.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/618960) • [🐱 Nyaa](https://nyaa.si/view/2127481) |
 | `[CFN] Detective Conan - Episode 50 (Remastered) [1080p BD-Encode x2...` | **574.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/618962) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2091528) |
-| `[Onalrie] KAIJU GIRL CARAMELISE - S01E01 [1080p WEBRip AV1] (Otome ...` | **174.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/618961) • [🐱 Nyaa](https://nekobt.to/torrents/12116100649486) |
 
 ---
 <div align="center">
