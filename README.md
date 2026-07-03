@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.17.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.36.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Feibanyama] From Overshadowed to Overpowered Second Reincarnation ...` | **405.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/619138) • [🐱 Nyaa](https://nyaa.si/view/2127860) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **379.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/619136) • [🐱 Nyaa](https://nyaa.si/view/2127843) |
 | `[DB] Guimi Zhi Zhu Specials | Lord of Mysteries Specials [10bit 108...` | **1014.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619133) • [🐱 Nyaa](https://nyaa.si/view/2127841) |
 | `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E13 [WEB.1080p.AV1...` | **415.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/619134) • [🐱 Nyaa](https://nyaa.si/view/2127840) |
@@ -47,7 +48,6 @@
 | `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **293.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619125) • [🐱 Nyaa](https://nyaa.si/view/2127799) |
 | `[ASW] Uchi no Otouto-domo ga Sumimasen - 01 [1080p HEVC x265 10Bit]...` | **166.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619126) • [🐱 Nyaa](https://nyaa.si/view/2127798) |
 | `[SubsNoJutsu] Daemons of the Shadow Realm - S01E05 (1080p WEBRip AA...` | **570.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/619118) • [🐱 Nyaa](https://nekobt.to/torrents/12136750984963) |
-| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E01 [1080p WEBRip AV1]` | **151.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/619119) • [🐱 Nyaa](https://nekobt.to/torrents/12136744909834) |
 
 ---
 <div align="center">
