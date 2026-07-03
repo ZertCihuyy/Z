@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.18.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.27.07_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] Dr. STONE - S04E37 [1080p CR WEB-DL H.264 AAC] [Napisy ...` | **1390.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619038) • [🐱 Nyaa](https://nekobt.to/torrents/12132201291010) |
+| `[Bird] Nikke Nichi! Non Non Zenshou Kichi - 04 (1080p) [7CED7511]` | **53.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/619037) • [🐱 Nyaa](https://nyaa.si/view/2127637) |
+| `[FrixySubs] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru - S...` | **1324.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619036) • [🐱 Nyaa](https://nekobt.to/torrents/12131620182785) |
+| `[BlackRabbit] Frieren - Beyond Journey's End (2023) - S01 [Bluray-1...` | **6455.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/619034) • [🐱 Nyaa](https://nekobt.to/torrents/12130972378378) |
+| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni ...` | **16573.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/619030) • [🐱 Nyaa](https://nyaa.si/view/2127628) |
 | `[Onalrie] Bai Ri Cheng Wang - S01E02 [1080p WEBRip AV1]` | **125.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619028) • [🐱 Nyaa](https://nekobt.to/torrents/12129673986573) |
 | `[ASW] Bai Ri Cheng Wang - 02 [1080p HEVC x265 10Bit][AAC]` | **166.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/619027) • [🐱 Nyaa](https://nyaa.si/view/2127622) |
 | `[SubsPlease] Bai Ri Cheng Wang - 02 (1080p) [CD5D80AF].mkv` | **770.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/619023) • [🐱 Nyaa](https://nyaa.si/view/2127617) |
@@ -43,11 +48,6 @@
 | `Undead Unluck S00E01 Undead Unluck Winter Arc 1080p DSNP WEB-DL MUL...` | **2177.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/619020) • [🐱 Nyaa](https://nyaa.si/view/2127608) |
 | `[Erai-raws] Crowned in a Hundred Days - 02 (CA) [1080p CR WEBRip HE...` | **216.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/619017) • [🐱 Nyaa](https://nekobt.to/torrents/12125561497870) |
 | `[Ommex] Doraemon (2005) Episode 921 [ENG SUB][1080p x265 AAC]` | **322.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619016) • [🐱 Nyaa](https://nyaa.si/view/2127587) |
-| `[Erai-raws] Crowned in a Hundred Days - 01 (CA) [1080p CR WEBRip HE...` | **203.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619015) • [🐱 Nyaa](https://nyaa.si/view/2127585) |
-| `[Onalrie] Bai Ri Cheng Wang - S01E01 [1080p WEBRip AV1]` | **108.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/619014) • [🐱 Nyaa](https://nekobt.to/torrents/12125080545030) |
-| `[ASW] Bai Ri Cheng Wang - 01 [1080p HEVC x265 10Bit][AAC]` | **153.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/619013) • [🐱 Nyaa](https://nyaa.si/view/2127584) |
-| `[Gecko] Koala's Diary - S01E39 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **75.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618990) • [🐱 Nyaa](https://nyaa.si/view/2127578) |
-| `[ToonsHub] Crowned in a Hundred Days S01E02 1080p CR WEB-DL AAC2.0 ...` | **772.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618991) • [🐱 Nyaa](https://nyaa.si/view/2127577) |
 
 ---
 <div align="center">
