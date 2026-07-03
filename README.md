@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.02.36_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.50.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Frieren - Beyond Journey's End (2023) - S02 [WEBDL-10...` | **3184.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/619131) • [🐱 Nyaa](https://nekobt.to/torrents/12138606150150) |
+| `[BlackRabbit] My Deer Friend Nokotan (2024) - S01 [Bluray-1080p][Op...` | **3505.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619130) • [🐱 Nyaa](https://nekobt.to/torrents/12137432190219) |
+| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni ...` | **16562.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619129) • [🐱 Nyaa](https://nyaa.si/view/2127805) |
 | `[Judas] Kore Kaite Shine (Draw This, Then Die!) - S01E01 [1080p][HE...` | **396.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619122) • [🐱 Nyaa](https://nyaa.si/view/2127802) |
 | `[Onalrie] Hell Mode - S02E01 [1080p WEBRip AV1]` | **262.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/619127) • [🐱 Nyaa](https://nekobt.to/torrents/12137227242766) |
 | `[ASW] Hell Mode S2 - 01 [1080p HEVC x265 10Bit][AAC]` | **366.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/619123) • [🐱 Nyaa](https://nyaa.si/view/2127801) |
@@ -45,9 +48,6 @@
 | `[Onalrie] Kore Kaite Shine - S01E01 [1080p WEBRip AV1]` | **269.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/619116) • [🐱 Nyaa](https://nekobt.to/torrents/12136403047945) |
 | `[ASW] Kore Kaite Shine - 01 [1080p HEVC x265 10Bit][AAC]` | **337.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/619105) • [🐱 Nyaa](https://nyaa.si/view/2127782) |
 | `Hell Mode S02E01 OFF TO ACADEMY CITY 1080p HIDI WEB-DL AAC2.0 H 264...` | **986.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/619106) • [🐱 Nyaa](https://nyaa.si/view/2127780) |
-| `[ASW] Kami no Shizuku - 13 [1080p HEVC x265 10Bit][AAC]` | **285.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619107) • [🐱 Nyaa](https://nyaa.si/view/2127779) |
-| `[ToonsHub] KAMUI Hes Behind You S01E01 1080p UNCENSORED OV WEB-DL A...` | **574.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/619108) • [🐱 Nyaa](https://nyaa.si/view/2127777) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 13 [1080p C...` | **553.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/619109) • [🐱 Nyaa](https://nyaa.si/view/2127775) |
 
 ---
 <div align="center">
