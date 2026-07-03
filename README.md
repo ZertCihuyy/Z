@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.10.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.10.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Otome Kaijuu Caraméliser - S01E01 [1080p][HEVC x265 10bit][Mu...` | **345.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/618989) • [🐱 Nyaa](https://nyaa.si/view/2127544) |
+| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E10v2 [1080p ...` | **1383.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618986) • [🐱 Nyaa](https://nekobt.to/torrents/12124029196294) |
+| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E08v2 [1080p ...` | **1405.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618987) • [🐱 Nyaa](https://nekobt.to/torrents/12124020899586) |
+| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E02v2 [1080p ...` | **1389.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618988) • [🐱 Nyaa](https://nekobt.to/torrents/12123811362053) |
+| `[Erai-raws] Koori no Jouheki - 14 [1080p NF WEBRip HEVC AAC][MultiS...` | **206.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618985) • [🐱 Nyaa](https://nyaa.si/view/2127539) |
+| `[Erai-raws] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank...` | **417.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/618983) • [🐱 Nyaa](https://nyaa.si/view/2127528) |
+| `[Erai-raws] Yani Neko - 01 [1080p NF WEB-DL AVC AAC][MultiSub][5ABA...` | **874.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/618984) • [🐱 Nyaa](https://nyaa.si/view/2127527) |
+| `[Yameii] The Warrior Princess and the Barbaric King - S01E11 [Engli...` | **1383.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/618981) • [🐱 Nyaa](https://nekobt.to/torrents/12123025798662) |
+| `[Erai-raws] Koori no Jouheki - 14 [1080p NF WEB-DL AVC AAC][MultiSu...` | **897.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/618979) • [🐱 Nyaa](https://nyaa.si/view/2127524) |
+| `[DKB] Yani Neko - S01E01 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **521.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618978) • [🐱 Nyaa](https://nyaa.si/view/2127518) |
+| `[DKB] Koori no Jouheki - S01E14 [1080p][END][HEVC x265 10bit][Dual-...` | **222.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/618977) • [🐱 Nyaa](https://nyaa.si/view/2127510) |
+| `Cerberus S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws (V...` | **18278.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/618976) • [🐱 Nyaa](https://nyaa.si/view/2127509) |
 | `[Ironclad] Yani Neko - S01E01 [WEB.1080p.AV1] | Chainsmoker Cat (Mu...` | **486.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618975) • [🐱 Nyaa](https://nyaa.si/view/2127507) |
 | `[DKB] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat...` | **295.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/618974) • [🐱 Nyaa](https://nyaa.si/view/2127503) |
 | `[ToonsHub] BanG Dream YumeMita S01E03 1080p AMZN WEB-DL DDP2.0 H.26...` | **1138.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618971) • [🐱 Nyaa](https://nyaa.si/view/2127502) |
-| `[ToonsHub] BanG Dream YumeMita S01E02 1080p AMZN WEB-DL DDP2.0 H.26...` | **1097.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/618972) • [🐱 Nyaa](https://nyaa.si/view/2127501) |
-| `[ToonsHub] BanG Dream YumeMita S01E01 1080p AMZN WEB-DL DDP2.0 H.26...` | **1228.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618973) • [🐱 Nyaa](https://nyaa.si/view/2127500) |
-| `[DKB] BanG Dream! Yume∞Mita - S01E03 [1080p][HEVC x265 10bit][Multi...` | **394.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/618970) • [🐱 Nyaa](https://nyaa.si/view/2127499) |
-| `[VARYG] The Exiled Heavy Knight Knows How to Game the System S01E01...` | **1036.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/618969) • [🐱 Nyaa](https://nekobt.to/torrents/12117850651148) |
-| `[Judas] Otome Kaiju Caramelise (Kaiju Girl Caramelise) - S01E01 [10...` | **327.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/618968) • [🐱 Nyaa](https://nyaa.si/view/2127497) |
-| `[Ironclad] Dara-San of the Reiwa Era - S01E01 (WEB 1080p AV1) | Rei...` | **248.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/618967) • [🐱 Nyaa](https://nekobt.to/torrents/12117302253568) |
-| `[nekotan] Bungo Stray Dogs Wan! S01 (BD 1080p x265 10-bit Opus) [Du...` | **6779.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/618966) • [🐱 Nyaa](https://nekobt.to/torrents/12117059375371) |
-| `[Trix] Go For It, Nakamura-kun!! S01 (Batch) [WEBRip 1080p AV1 Opus...` | **3934.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/618963) • [🐱 Nyaa](https://nyaa.si/view/2127489) |
-| `[Trix] The Ramparts of Ice S01 (Batch) 1080p NF WEB-DL AAC2.0 AV1 (...` | **2233.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/618964) • [🐱 Nyaa](https://nyaa.si/view/2127488) |
-| `[Trix] MARRIAGETOXIN S01 (Batch) [WEBRip 1080p AV1 Opus] (Multi Sub...` | **3795.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/618965) • [🐱 Nyaa](https://nyaa.si/view/2127487) |
-| `[Ommex] Doraemon Movie 08 - Nobita and the Dinosaur Knights (1987) ...` | **3551.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/618960) • [🐱 Nyaa](https://nyaa.si/view/2127481) |
-| `[CFN] Detective Conan - Episode 50 (Remastered) [1080p BD-Encode x2...` | **574.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/618962) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2091528) |
 
 ---
 <div align="center">
