@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.50.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.13.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **379.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/619136) • [🐱 Nyaa](https://nyaa.si/view/2127843) |
+| `[DB] Guimi Zhi Zhu Specials | Lord of Mysteries Specials [10bit 108...` | **1014.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619133) • [🐱 Nyaa](https://nyaa.si/view/2127841) |
+| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E13 [WEB.1080p.AV1...` | **415.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/619134) • [🐱 Nyaa](https://nyaa.si/view/2127840) |
+| `[Erai-raws] Kami no Shizuku - 13 [1080p CR WEBRip HEVC AAC][MultiSu...` | **450.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/619132) • [🐱 Nyaa](https://nyaa.si/view/2127839) |
 | `[BlackRabbit] Frieren - Beyond Journey's End (2023) - S02 [WEBDL-10...` | **3184.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/619131) • [🐱 Nyaa](https://nekobt.to/torrents/12138606150150) |
 | `[BlackRabbit] My Deer Friend Nokotan (2024) - S01 [Bluray-1080p][Op...` | **3505.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619130) • [🐱 Nyaa](https://nekobt.to/torrents/12137432190219) |
 | `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni ...` | **16562.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619129) • [🐱 Nyaa](https://nyaa.si/view/2127805) |
@@ -44,10 +48,6 @@
 | `[ASW] Uchi no Otouto-domo ga Sumimasen - 01 [1080p HEVC x265 10Bit]...` | **166.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619126) • [🐱 Nyaa](https://nyaa.si/view/2127798) |
 | `[SubsNoJutsu] Daemons of the Shadow Realm - S01E05 (1080p WEBRip AA...` | **570.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/619118) • [🐱 Nyaa](https://nekobt.to/torrents/12136750984963) |
 | `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E01 [1080p WEBRip AV1]` | **151.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/619119) • [🐱 Nyaa](https://nekobt.to/torrents/12136744909834) |
-| `[Ironclad] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - S01E01 [WE...` | **249.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/619117) • [🐱 Nyaa](https://nyaa.si/view/2127785) |
-| `[Onalrie] Kore Kaite Shine - S01E01 [1080p WEBRip AV1]` | **269.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/619116) • [🐱 Nyaa](https://nekobt.to/torrents/12136403047945) |
-| `[ASW] Kore Kaite Shine - 01 [1080p HEVC x265 10Bit][AAC]` | **337.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/619105) • [🐱 Nyaa](https://nyaa.si/view/2127782) |
-| `Hell Mode S02E01 OFF TO ACADEMY CITY 1080p HIDI WEB-DL AAC2.0 H 264...` | **986.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/619106) • [🐱 Nyaa](https://nyaa.si/view/2127780) |
 
 ---
 <div align="center">
