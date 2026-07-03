@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.10.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.39.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[DKB] Otome Kaijuu Caraméliser - S01E01 [1080p][HEVC x265 10bit][Mu...` | **345.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/618989) • [🐱 Nyaa](https://nyaa.si/view/2127544) |
-| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E10v2 [1080p ...` | **1383.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/618986) • [🐱 Nyaa](https://nekobt.to/torrents/12124029196294) |
-| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E08v2 [1080p ...` | **1405.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/618987) • [🐱 Nyaa](https://nekobt.to/torrents/12124020899586) |
-| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E02v2 [1080p ...` | **1389.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/618988) • [🐱 Nyaa](https://nekobt.to/torrents/12123811362053) |
-| `[Erai-raws] Koori no Jouheki - 14 [1080p NF WEBRip HEVC AAC][MultiS...` | **206.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/618985) • [🐱 Nyaa](https://nyaa.si/view/2127539) |
-| `[Erai-raws] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank...` | **417.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/618983) • [🐱 Nyaa](https://nyaa.si/view/2127528) |
-| `[Erai-raws] Yani Neko - 01 [1080p NF WEB-DL AVC AAC][MultiSub][5ABA...` | **874.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/618984) • [🐱 Nyaa](https://nyaa.si/view/2127527) |
-| `[Yameii] The Warrior Princess and the Barbaric King - S01E11 [Engli...` | **1383.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/618981) • [🐱 Nyaa](https://nekobt.to/torrents/12123025798662) |
-| `[Erai-raws] Koori no Jouheki - 14 [1080p NF WEB-DL AVC AAC][MultiSu...` | **897.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/618979) • [🐱 Nyaa](https://nyaa.si/view/2127524) |
-| `[DKB] Yani Neko - S01E01 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **521.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/618978) • [🐱 Nyaa](https://nyaa.si/view/2127518) |
-| `[DKB] Koori no Jouheki - S01E14 [1080p][END][HEVC x265 10bit][Dual-...` | **222.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/618977) • [🐱 Nyaa](https://nyaa.si/view/2127510) |
-| `Cerberus S01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws (V...` | **18278.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/618976) • [🐱 Nyaa](https://nyaa.si/view/2127509) |
-| `[Ironclad] Yani Neko - S01E01 [WEB.1080p.AV1] | Chainsmoker Cat (Mu...` | **486.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618975) • [🐱 Nyaa](https://nyaa.si/view/2127507) |
-| `[DKB] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat...` | **295.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/618974) • [🐱 Nyaa](https://nyaa.si/view/2127503) |
-| `[ToonsHub] BanG Dream YumeMita S01E03 1080p AMZN WEB-DL DDP2.0 H.26...` | **1138.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/618971) • [🐱 Nyaa](https://nyaa.si/view/2127502) |
+| `Undead Unluck S00E01 Undead Unluck Winter Arc REPACK 1080p DSNP WEB...` | **2046.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/619019) • [🐱 Nyaa](https://nyaa.si/view/2127609) |
+| `Undead Unluck S00E01 Undead Unluck Winter Arc 1080p DSNP WEB-DL MUL...` | **2177.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/619020) • [🐱 Nyaa](https://nyaa.si/view/2127608) |
+| `[Erai-raws] Crowned in a Hundred Days - 02 (CA) [1080p CR WEBRip HE...` | **216.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/619017) • [🐱 Nyaa](https://nekobt.to/torrents/12125561497870) |
+| `[Ommex] Doraemon (2005) Episode 921 [ENG SUB][1080p x265 AAC]` | **322.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619016) • [🐱 Nyaa](https://nyaa.si/view/2127587) |
+| `[Erai-raws] Crowned in a Hundred Days - 01 (CA) [1080p CR WEBRip HE...` | **203.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619015) • [🐱 Nyaa](https://nyaa.si/view/2127585) |
+| `[Onalrie] Bai Ri Cheng Wang - S01E01 [1080p WEBRip AV1]` | **108.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/619014) • [🐱 Nyaa](https://nekobt.to/torrents/12125080545030) |
+| `[ASW] Bai Ri Cheng Wang - 01 [1080p HEVC x265 10Bit][AAC]` | **153.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/619013) • [🐱 Nyaa](https://nyaa.si/view/2127584) |
+| `[Gecko] Koala's Diary - S01E39 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **75.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/618990) • [🐱 Nyaa](https://nyaa.si/view/2127578) |
+| `[ToonsHub] Crowned in a Hundred Days S01E02 1080p CR WEB-DL AAC2.0 ...` | **772.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/618991) • [🐱 Nyaa](https://nyaa.si/view/2127577) |
+| `[ToonsHub] Crowned in a Hundred Days S01E04 1080p BILI WEB-DL AAC2....` | **128.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/618992) • [🐱 Nyaa](https://nyaa.si/view/2127576) |
+| `[ToonsHub] Crowned in a Hundred Days S01E01 1080p CR WEB-DL AAC2.0 ...` | **702.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/618993) • [🐱 Nyaa](https://nyaa.si/view/2127575) |
+| `[ToonsHub] Crowned in a Hundred Days S01E03 1080p BILI WEB-DL AAC2....` | **146.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/618994) • [🐱 Nyaa](https://nyaa.si/view/2127574) |
+| `[ToonsHub] Crowned in a Hundred Days S01E02 1080p BILI WEB-DL AAC2....` | **164.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/618995) • [🐱 Nyaa](https://nyaa.si/view/2127573) |
+| `[Gecko] Crowned in a Hundred Days - S01E04 (百日成王; Bai Ri Cheng Wang...` | **131.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/618996) • [🐱 Nyaa](https://nyaa.si/view/2127572) |
+| `[Gecko] Crowned in a Hundred Days - S01E03 (百日成王; Bai Ri Cheng Wang...` | **150.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/618997) • [🐱 Nyaa](https://nyaa.si/view/2127569) |
 
 ---
 <div align="center">
