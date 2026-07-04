@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.56.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.07.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Trix] Mistress Kanan is Devilishly Easy S01 v2 (Batch) [WEBRip 108...` | **4138.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/619415) • [🐱 Nyaa](https://nyaa.si/view/2128406) |
+| `[Onalrie] Saijo no Osewa - S01E01 [1080p WEBRip AV1]` | **179.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/619417) • [🐱 Nyaa](https://nekobt.to/torrents/12162078252558) |
+| `[ASW] Saijo no Osewa - 01 [1080p HEVC x265 10Bit][AAC]` | **196.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/619416) • [🐱 Nyaa](https://nyaa.si/view/2128404) |
+| `[Onalrie] Kimiai - S01E01 [1080p WEBRip AV1]` | **180.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/619414) • [🐱 Nyaa](https://nekobt.to/torrents/12161748000775) |
+| `Cardfight!! Vanguard 15th Anniversary Remastered S01E12 (WEBDL 1080...` | **775.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/619413) • [🐱 Nyaa](https://nyaa.si/view/2128402) |
+| `[Onalrie] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance...` | **633.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619411) • [🐱 Nyaa](https://nekobt.to/torrents/12161357656330) |
+| `[TSPlease] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **1389.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/619410) • [🐱 Nyaa](https://nyaa.si/view/2128401) |
+| `[Nitsy] BanG Dream! Yume∞Mita - S01E02 (1080p WEB AAC x264).mkv` | **1386.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/619412) • [🐱 Nyaa](https://nekobt.to/torrents/12161222750214) |
 | `[ASW] Grow Up Show - Himawari no Circus-dan - 01 [1080p HEVC x265 1...` | **318.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/619406) • [🐱 Nyaa](https://nyaa.si/view/2128394) |
 | `[ToonsHub] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **229.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/619407) • [🐱 Nyaa](https://nyaa.si/view/2128393) |
 | `[ASW] Tenmaku no Jaadugar - 02 [1080p HEVC x265 10Bit][AAC]` | **864.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619408) • [🐱 Nyaa](https://nyaa.si/view/2128391) |
@@ -40,14 +48,6 @@
 | `[ToonsHub] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **229.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/619405) • [🐱 Nyaa](https://nekobt.to/torrents/12160648346114) |
 | `[LoliHouse] 『你们先走我断后』，于是10年后我成为了传说 / Koko wa Ore ni Makasete Saki n...` | **568.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619404) • [🐱 Nyaa](https://nyaa.si/view/2128374) |
 | `[Onalrie] Oni no Hanayome - S01E01 [1080p WEBRip AV1]` | **152.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/619403) • [🐱 Nyaa](https://nekobt.to/torrents/12160503270914) |
-| `[Judas] Black Torch - S01E01 [1080p][HEVC x265 10bit][Dual-Audio][M...` | **475.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/619397) • [🐱 Nyaa](https://nyaa.si/view/2128373) |
-| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 01 [1080p AMZN...` | **693.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/619398) • [🐱 Nyaa](https://nyaa.si/view/2128371) |
-| `[DKB] Neko to Ryuu - S01E02 [1080p][HEVC x265 10bit][Multi-Subs][we...` | **257.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/619401) • [🐱 Nyaa](https://nyaa.si/view/2128368) |
-| `[DKB] Yomi no Tsugai - S01E11 [1080p][HEVC x265 10bit][Multi-Audio]...` | **648.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/619402) • [🐱 Nyaa](https://nyaa.si/view/2128367) |
-| `[Erai-raws] Yomi no Tsugai - 13 [1080p CR WEBRip HEVC AAC][MultiSub...` | **549.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/619395) • [🐱 Nyaa](https://nekobt.to/torrents/12160262544909) |
-| `[Onalrie] Grow Up Show - Himawari no Circus-dan - S01E02 [1080p WEB...` | **292.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619396) • [🐱 Nyaa](https://nekobt.to/torrents/12160178868482) |
-| `Magilumiere Magical Girls Inc S02E01 A Legitimate Job Admired by Ev...` | **990.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/619390) • [🐱 Nyaa](https://nyaa.si/view/2128365) |
-| `Magilumiere Magical Girls Inc S02E01 A Legitimate Job Admired by Ev...` | **729.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/619391) • [🐱 Nyaa](https://nyaa.si/view/2128364) |
 
 ---
 <div align="center">
