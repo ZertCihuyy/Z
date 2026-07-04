@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.28.06_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.34.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Soldado-Subs] Soar High! Isami (Tobe! Isami) - 07 (S01E07) (AMZN 1...` | **2530.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619363) • [🐱 Nyaa](https://nekobt.to/torrents/12158919548684) |
-| `[Onalrie] Tenmaku no Jaadugar - S01E02 [1080p WEBRip AV1]` | **292.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619364) • [🐱 Nyaa](https://nekobt.to/torrents/12158892221197) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E10 1080p CR WEB-DL MULTi AAC2.0 ...` | **1611.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619336) • [🐱 Nyaa](https://nyaa.si/view/2128328) |
-| `[Erai-raws] Akane-banashi - 09 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **339.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/619337) • [🐱 Nyaa](https://nyaa.si/view/2128325) |
-| `[Erai-raws] Akane-banashi - 09 (REPACK) [1080p NF WEB-DL AVC AAC][M...` | **918.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/619338) • [🐱 Nyaa](https://nyaa.si/view/2128324) |
-| `[SubsPlease] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengea...` | **2770.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/619339) • [🐱 Nyaa](https://nyaa.si/view/2128323) |
-| `[SubsPlease] Kimiai - 01 (1080p) [410EF7F3].mkv` | **1330.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/619341) • [🐱 Nyaa](https://nyaa.si/view/2128320) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E10 1080p CR WEB-DL DUAL AAC2.0 H...` | **1540.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/619342) • [🐱 Nyaa](https://nyaa.si/view/2128317) |
-| `Daemons of the Shadow Realm S01E11 MULTi AD 1080p CR WEB-DL AAC2.0 ...` | **1449.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619365) • [🐱 Nyaa](https://nekobt.to/torrents/12158761477129) |
-| `[Yameii] NEEDY GIRL OVERDOSE - S01E10 [English Dub] [CR WEB-DL 1080...` | **1500.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/619343) • [🐱 Nyaa](https://nyaa.si/view/2128316) |
-| `[ToonsHub] The Dukes Son Claims He Wont Love Me But Showers Me with...` | **1377.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/619345) • [🐱 Nyaa](https://nyaa.si/view/2128312) |
-| `Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance S01E01 Kuze...` | **2790.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619347) • [🐱 Nyaa](https://nyaa.si/view/2128309) |
-| `[ToonsHub] The Ogres Bride S01E01 1080p CR WEB-DL AAC2.0 H.264 (Oni...` | **1407.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619349) • [🐱 Nyaa](https://nyaa.si/view/2128305) |
-| `NEEDY GIRL OVERDOSE S01E10 Antichrist Superstar 1080p CR WEB-DL DUA...` | **1541.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/619350) • [🐱 Nyaa](https://nyaa.si/view/2128304) |
-| `[ToonsHub] Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance ...` | **2789.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619351) • [🐱 Nyaa](https://nyaa.si/view/2128303) |
+| `[DKB] Black Torch - S01E01 [1080p][HEVC x265 10bit][Dual Audio][Mul...` | **463.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/619377) • [🐱 Nyaa](https://nyaa.si/view/2128359) |
+| `[ToonsHub] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **1389.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/619378) • [🐱 Nyaa](https://nyaa.si/view/2128356) |
+| `[Judas] Mushoku Tensei (Jobless Reincarnation) - S03E02 [1080p][HEV...` | **453.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/619379) • [🐱 Nyaa](https://nyaa.si/view/2128355) |
+| `[DKB] Yomi no Tsugai - S01E13 [1080p][HEVC x265 10bit][Multi-Subs][...` | **498.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/619380) • [🐱 Nyaa](https://nyaa.si/view/2128354) |
+| `[Judas] Mushoku Tensei (Jobless Reincarnation) - S03E01 [1080p][HEV...` | **483.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/619381) • [🐱 Nyaa](https://nyaa.si/view/2128353) |
+| `[DKB] Mairimashita! Iruma-kun - S04E14 [1080p][HEVC x265 10bit][Dua...` | **617.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/619383) • [🐱 Nyaa](https://nyaa.si/view/2128351) |
+| `[SubsPlease] Saijo no Osewa - 01 (1080p) [79559860].mkv` | **1382.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/619384) • [🐱 Nyaa](https://nyaa.si/view/2128350) |
+| `Rich Girl Caretaker Im Secretly the Caregiver of the Most Popular G...` | **1390.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/619385) • [🐱 Nyaa](https://nyaa.si/view/2128349) |
+| `[Onalrie] Grow Up Show - Himawari no Circus-dan - S01E01 [1080p WEB...` | **239.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/619389) • [🐱 Nyaa](https://nekobt.to/torrents/12159709227278) |
+| `Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! / 3...` | **97905.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619374) • [🐱 Nyaa](https://nyaa.si/view/2128343) |
+| `[ASW] Tenmaku no Jaadugar - 01 [1080p HEVC x265 10Bit][AAC]` | **813.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/619375) • [🐱 Nyaa](https://nyaa.si/view/2128341) |
+| `[Onalrie] Tenmaku no Jaadugar - S01E01 [1080p WEBRip AV1]` | **323.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/619372) • [🐱 Nyaa](https://nekobt.to/torrents/12159323853325) |
+| `[VARYG] NEEDY GIRL OVERDOSE S01E10 Antichrist Superstar 1080p CR WE...` | **1612.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/619373) • [🐱 Nyaa](https://nekobt.to/torrents/12159289815823) |
+| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 02 [1080...` | **533.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619376) • [🐱 Nyaa](https://nyaa.si/view/2128339) |
+| `Agents of the Four Seasons Dance of Spring S01E10 Afterimage 1080p ...` | **1636.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/619366) • [🐱 Nyaa](https://nyaa.si/view/2128338) |
 
 ---
 <div align="center">
