@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.18.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.23.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 12 [1080p][YT]` | **460.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/619154) • [🐱 Nyaa](https://nyaa.si/view/2127912) |
+| `[ToonsHub] Jiang Ye S01E12 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **596.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/619153) • [🐱 Nyaa](https://nyaa.si/view/2127909) |
+| `[Some-Stuffs] Pocket Monsters (2023) 142 (1080p HEVC 10-bit) [B7F32...` | **1058.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/619151) • [🐱 Nyaa](https://nyaa.si/view/2127908) |
+| `[Some-Stuffs] Pocket Monsters (2023) 142 (1080p) [1182CC7F]` | **526.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/619152) • [🐱 Nyaa](https://nyaa.si/view/2127907) |
+| `[ASW] Rilakkuma - 14 [1080p HEVC x265 10Bit][AAC]` | **35.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619150) • [🐱 Nyaa](https://nyaa.si/view/2127890) |
 | `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E09 (WEB 1080p H...` | **1612.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/619149) • [🐱 Nyaa](https://nekobt.to/torrents/12144115564559) |
 | `RILAKKUMA S01E14 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Dual-Audi...` | **94.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/619140) • [🐱 Nyaa](https://nyaa.si/view/2127887) |
 | `[ToonsHub] RILAKKUMA S01E14 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **90.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/619141) • [🐱 Nyaa](https://nyaa.si/view/2127886) |
@@ -43,11 +48,6 @@
 | `[Feibanyama] From Overshadowed to Overpowered Second Reincarnation ...` | **405.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/619138) • [🐱 Nyaa](https://nyaa.si/view/2127860) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **379.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/619136) • [🐱 Nyaa](https://nyaa.si/view/2127843) |
 | `[DB] Guimi Zhi Zhu Specials | Lord of Mysteries Specials [10bit 108...` | **1014.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619133) • [🐱 Nyaa](https://nyaa.si/view/2127841) |
-| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E13 [WEB.1080p.AV1...` | **415.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/619134) • [🐱 Nyaa](https://nyaa.si/view/2127840) |
-| `[Erai-raws] Kami no Shizuku - 13 [1080p CR WEBRip HEVC AAC][MultiSu...` | **450.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/619132) • [🐱 Nyaa](https://nyaa.si/view/2127839) |
-| `[BlackRabbit] Frieren - Beyond Journey's End (2023) - S02 [WEBDL-10...` | **3184.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/619131) • [🐱 Nyaa](https://nekobt.to/torrents/12138606150150) |
-| `[BlackRabbit] My Deer Friend Nokotan (2024) - S01 [Bluray-1080p][Op...` | **3505.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619130) • [🐱 Nyaa](https://nekobt.to/torrents/12137432190219) |
-| `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni ...` | **16562.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619129) • [🐱 Nyaa](https://nyaa.si/view/2127805) |
 
 ---
 <div align="center">
