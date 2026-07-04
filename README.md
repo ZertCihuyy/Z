@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.23.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.10.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Daemons of the Shadow Realm S01E01 1080p NF WEB-DL MULTi...` | **1117.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/619161) • [🐱 Nyaa](https://nyaa.si/view/2127959) |
+| `Draw This Then Die S01E01 1080p NF WEB-DL DUAL AAC2.0 H 264-VARYG (...` | **862.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/619159) • [🐱 Nyaa](https://nyaa.si/view/2127958) |
+| `Draw This Then Die S01E01 1080p NF WEB-DL MULTi AAC2.0 H 264-VARYG ...` | **927.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619160) • [🐱 Nyaa](https://nyaa.si/view/2127957) |
+| `[Onalrie] Rilakkuma - S01E14 [1080p WEBRip AV1]` | **30.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/619158) • [🐱 Nyaa](https://nekobt.to/torrents/12149090224645) |
+| `KonoSuba.God's.Blessing.On.This.Wonderful.World.S01.v2.1080p.BluRay...` | **19015.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/619157) • [🐱 Nyaa](https://nyaa.si/view/2127950) |
 | `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 12 [1080p][YT]` | **460.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/619154) • [🐱 Nyaa](https://nyaa.si/view/2127912) |
 | `[ToonsHub] Jiang Ye S01E12 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **596.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/619153) • [🐱 Nyaa](https://nyaa.si/view/2127909) |
 | `[Some-Stuffs] Pocket Monsters (2023) 142 (1080p HEVC 10-bit) [B7F32...` | **1058.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/619151) • [🐱 Nyaa](https://nyaa.si/view/2127908) |
@@ -43,11 +48,6 @@
 | `[ToonsHub] RILAKKUMA S01E14 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **90.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/619141) • [🐱 Nyaa](https://nyaa.si/view/2127886) |
 | `[DKB] Ryoumin 0-Nin Start no Henkyou Ryoushu-sama - S01E01 [1080p][...` | **269.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/619142) • [🐱 Nyaa](https://nyaa.si/view/2127884) |
 | `[SubsPlease] Rilakkuma - 14 (1080p) [4FBE1F85].mkv` | **93.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619145) • [🐱 Nyaa](https://nyaa.si/view/2127876) |
-| `[Erai-raws] Rilakkuma - 14 [1080p CR WEB-DL AVC AAC][MultiSub][7A48...` | **88.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619148) • [🐱 Nyaa](https://nyaa.si/view/2127872) |
-| `[Chihiro] Himekishi wa Barbaroi no Yome - 11 [1080p HEVC AAC][B65B6...` | **1092.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619139) • [🐱 Nyaa](https://nyaa.si/view/2127862) |
-| `[Feibanyama] From Overshadowed to Overpowered Second Reincarnation ...` | **405.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/619138) • [🐱 Nyaa](https://nyaa.si/view/2127860) |
-| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **379.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/619136) • [🐱 Nyaa](https://nyaa.si/view/2127843) |
-| `[DB] Guimi Zhi Zhu Specials | Lord of Mysteries Specials [10bit 108...` | **1014.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619133) • [🐱 Nyaa](https://nyaa.si/view/2127841) |
 
 ---
 <div align="center">
