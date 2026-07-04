@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.36.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.18.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E09 (WEB 1080p H...` | **1612.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/619149) • [🐱 Nyaa](https://nekobt.to/torrents/12144115564559) |
+| `RILAKKUMA S01E14 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Dual-Audi...` | **94.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/619140) • [🐱 Nyaa](https://nyaa.si/view/2127887) |
+| `[ToonsHub] RILAKKUMA S01E14 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **90.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/619141) • [🐱 Nyaa](https://nyaa.si/view/2127886) |
+| `[DKB] Ryoumin 0-Nin Start no Henkyou Ryoushu-sama - S01E01 [1080p][...` | **269.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/619142) • [🐱 Nyaa](https://nyaa.si/view/2127884) |
+| `[SubsPlease] Rilakkuma - 14 (1080p) [4FBE1F85].mkv` | **93.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619145) • [🐱 Nyaa](https://nyaa.si/view/2127876) |
+| `[Erai-raws] Rilakkuma - 14 [1080p CR WEB-DL AVC AAC][MultiSub][7A48...` | **88.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619148) • [🐱 Nyaa](https://nyaa.si/view/2127872) |
+| `[Chihiro] Himekishi wa Barbaroi no Yome - 11 [1080p HEVC AAC][B65B6...` | **1092.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619139) • [🐱 Nyaa](https://nyaa.si/view/2127862) |
 | `[Feibanyama] From Overshadowed to Overpowered Second Reincarnation ...` | **405.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/619138) • [🐱 Nyaa](https://nyaa.si/view/2127860) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **379.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/619136) • [🐱 Nyaa](https://nyaa.si/view/2127843) |
 | `[DB] Guimi Zhi Zhu Specials | Lord of Mysteries Specials [10bit 108...` | **1014.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619133) • [🐱 Nyaa](https://nyaa.si/view/2127841) |
@@ -41,13 +48,6 @@
 | `[BlackRabbit] Frieren - Beyond Journey's End (2023) - S02 [WEBDL-10...` | **3184.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/619131) • [🐱 Nyaa](https://nekobt.to/torrents/12138606150150) |
 | `[BlackRabbit] My Deer Friend Nokotan (2024) - S01 [Bluray-1080p][Op...` | **3505.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619130) • [🐱 Nyaa](https://nekobt.to/torrents/12137432190219) |
 | `[SubsPlease] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni ...` | **16562.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619129) • [🐱 Nyaa](https://nyaa.si/view/2127805) |
-| `[Judas] Kore Kaite Shine (Draw This, Then Die!) - S01E01 [1080p][HE...` | **396.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619122) • [🐱 Nyaa](https://nyaa.si/view/2127802) |
-| `[Onalrie] Hell Mode - S02E01 [1080p WEBRip AV1]` | **262.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/619127) • [🐱 Nyaa](https://nekobt.to/torrents/12137227242766) |
-| `[ASW] Hell Mode S2 - 01 [1080p HEVC x265 10Bit][AAC]` | **366.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/619123) • [🐱 Nyaa](https://nyaa.si/view/2127801) |
-| `[DKB] Tensei shitara Slime Datta Ken - S04E13 [1080p][HEVC x265 10b...` | **456.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/619124) • [🐱 Nyaa](https://nyaa.si/view/2127800) |
-| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **293.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619125) • [🐱 Nyaa](https://nyaa.si/view/2127799) |
-| `[ASW] Uchi no Otouto-domo ga Sumimasen - 01 [1080p HEVC x265 10Bit]...` | **166.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619126) • [🐱 Nyaa](https://nyaa.si/view/2127798) |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E05 (1080p WEBRip AA...` | **570.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/619118) • [🐱 Nyaa](https://nekobt.to/torrents/12136750984963) |
 
 ---
 <div align="center">
