@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.53.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.44.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] Mushoku Tensei Jobless Reincarnation S03E02 Howl Mad Dog 10...` | **867.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/619216) • [🐱 Nyaa](https://nekobt.to/torrents/12153731048714) |
-| `Mushoku Tensei Jobless Reincarnation S03E01 Rage Mad Dog 1080p NF W...` | **866.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619198) • [🐱 Nyaa](https://nyaa.si/view/2128057) |
-| `[Yameii] Skeleton Knight in Another World - S02E01 [English Dub] [C...` | **1397.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/619199) • [🐱 Nyaa](https://nyaa.si/view/2128056) |
-| `[ToonsHub] Skeleton Knight in Another World S02E01 1080p CR WEB-DL ...` | **1434.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/619200) • [🐱 Nyaa](https://nyaa.si/view/2128055) |
-| `[SubsPlease] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 -...` | **1390.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/619202) • [🐱 Nyaa](https://nyaa.si/view/2128053) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E02 1080p NF WEB...` | **867.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/619203) • [🐱 Nyaa](https://nyaa.si/view/2128052) |
-| `[SubsPlease] Mushoku Tensei S3 - 02 (1080p) [C05F84ED].mkv` | **1379.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/619204) • [🐱 Nyaa](https://nyaa.si/view/2128051) |
-| `Skeleton Knight in Another World S02E01 Duel to the Death Silver Kn...` | **1435.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/619206) • [🐱 Nyaa](https://nyaa.si/view/2128049) |
-| `Mushoku Tensei Jobless Reincarnation S03E02 Howl Mad Dog 1080p CR W...` | **1389.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619207) • [🐱 Nyaa](https://nyaa.si/view/2128048) |
-| `Ascendance of a Bookworm S04E10 First Material Gathering 1080p CR W...` | **1484.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/619208) • [🐱 Nyaa](https://nyaa.si/view/2128047) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E02 1080p CR WEB...` | **1389.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/619209) • [🐱 Nyaa](https://nyaa.si/view/2128046) |
-| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School) - S04E14 ...` | **591.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/619211) • [🐱 Nyaa](https://nyaa.si/view/2128042) |
-| `[ToonsHub] Skeleton Knight in Another World S02E01 1080p BILI WEB-D...` | **413.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/619214) • [🐱 Nyaa](https://nyaa.si/view/2128036) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E02 1080p BILI W...` | **265.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/619215) • [🐱 Nyaa](https://nyaa.si/view/2128035) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E01 1080p NF WEB...` | **866.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619196) • [🐱 Nyaa](https://nekobt.to/torrents/12153490171661) |
+| `[Yameii] BLACK TORCH - S01E01 [English Dub] [CR WEB-DL 1080p H264 A...` | **1385.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/619234) • [🐱 Nyaa](https://nekobt.to/torrents/12155127267586) |
+| `BLACK TORCH S01E01 The Future Is in Our Hands 1080p CR WEB-DL DUAL ...` | **1426.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/619224) • [🐱 Nyaa](https://nyaa.si/view/2128110) |
+| `[ToonsHub] BLACK TORCH S01E01 1080p AMZN WEB-DL DDP2.0 H.264 (Multi...` | **937.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619225) • [🐱 Nyaa](https://nyaa.si/view/2128109) |
+| `[ToonsHub] BLACK TORCH S01E01 1080p CR WEB-DL DUAL AAC2.0 H.264 (Du...` | **1033.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/619227) • [🐱 Nyaa](https://nyaa.si/view/2128106) |
+| `[SubsPlease] Black Torch - 01 (1080p) [9700C311].mkv` | **1381.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/619228) • [🐱 Nyaa](https://nyaa.si/view/2128105) |
+| `[ToonsHub] The Cat And The Dragon S01E02 1080p MW WEB-DL AAC2.0 H.2...` | **522.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/619231) • [🐱 Nyaa](https://nyaa.si/view/2128102) |
+| `[ToonsHub] One Piece EP1168 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **843.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619232) • [🐱 Nyaa](https://nyaa.si/view/2128093) |
+| `[ASW] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 - 01 [10...` | **428.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/619233) • [🐱 Nyaa](https://nyaa.si/view/2128092) |
+| `One Piece S01E1168 1080p NF WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **843.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619221) • [🐱 Nyaa](https://nyaa.si/view/2128091) |
+| `[Onalrie] Mushoku Tensei - S03E02 [1080p WEBRip AV1]` | **180.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/619223) • [🐱 Nyaa](https://nekobt.to/torrents/12154772730884) |
+| `[ASW] Mushoku Tensei S3 - 02 [1080p HEVC x265 10Bit][AAC]` | **341.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619222) • [🐱 Nyaa](https://nyaa.si/view/2128090) |
+| `[Onalrie] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E0...` | **305.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/619220) • [🐱 Nyaa](https://nekobt.to/torrents/12154435730438) |
+| `HELL MODE S02E01 1080p ADN WEB-DL AAC2.0 H 264-VARYG (Hello!! Kinir...` | **600.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/619219) • [🐱 Nyaa](https://nyaa.si/view/2128078) |
+| `[Onalrie] Mushoku Tensei - S03E01 [1080p WEBRip AV1]` | **200.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/619218) • [🐱 Nyaa](https://nekobt.to/torrents/12153988009487) |
+| `[ASW] Mushoku Tensei S3 - 01 [1080p HEVC x265 10Bit][AAC]` | **368.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/619217) • [🐱 Nyaa](https://nyaa.si/view/2128063) |
 
 ---
 <div align="center">
