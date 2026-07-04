@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.44.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.53.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Yameii] BLACK TORCH - S01E01 [English Dub] [CR WEB-DL 1080p H264 A...` | **1385.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/619234) • [🐱 Nyaa](https://nekobt.to/torrents/12155127267586) |
-| `BLACK TORCH S01E01 The Future Is in Our Hands 1080p CR WEB-DL DUAL ...` | **1426.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/619224) • [🐱 Nyaa](https://nyaa.si/view/2128110) |
-| `[ToonsHub] BLACK TORCH S01E01 1080p AMZN WEB-DL DDP2.0 H.264 (Multi...` | **937.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619225) • [🐱 Nyaa](https://nyaa.si/view/2128109) |
-| `[ToonsHub] BLACK TORCH S01E01 1080p CR WEB-DL DUAL AAC2.0 H.264 (Du...` | **1033.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/619227) • [🐱 Nyaa](https://nyaa.si/view/2128106) |
-| `[SubsPlease] Black Torch - 01 (1080p) [9700C311].mkv` | **1381.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/619228) • [🐱 Nyaa](https://nyaa.si/view/2128105) |
-| `[ToonsHub] The Cat And The Dragon S01E02 1080p MW WEB-DL AAC2.0 H.2...` | **522.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/619231) • [🐱 Nyaa](https://nyaa.si/view/2128102) |
-| `[ToonsHub] One Piece EP1168 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **843.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619232) • [🐱 Nyaa](https://nyaa.si/view/2128093) |
-| `[ASW] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 - 01 [10...` | **428.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/619233) • [🐱 Nyaa](https://nyaa.si/view/2128092) |
-| `One Piece S01E1168 1080p NF WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **843.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619221) • [🐱 Nyaa](https://nyaa.si/view/2128091) |
-| `[Onalrie] Mushoku Tensei - S03E02 [1080p WEBRip AV1]` | **180.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/619223) • [🐱 Nyaa](https://nekobt.to/torrents/12154772730884) |
-| `[ASW] Mushoku Tensei S3 - 02 [1080p HEVC x265 10Bit][AAC]` | **341.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619222) • [🐱 Nyaa](https://nyaa.si/view/2128090) |
-| `[Onalrie] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E0...` | **305.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/619220) • [🐱 Nyaa](https://nekobt.to/torrents/12154435730438) |
-| `HELL MODE S02E01 1080p ADN WEB-DL AAC2.0 H 264-VARYG (Hello!! Kinir...` | **600.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/619219) • [🐱 Nyaa](https://nyaa.si/view/2128078) |
-| `[Onalrie] Mushoku Tensei - S03E01 [1080p WEBRip AV1]` | **200.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/619218) • [🐱 Nyaa](https://nekobt.to/torrents/12153988009487) |
-| `[ASW] Mushoku Tensei S3 - 01 [1080p HEVC x265 10Bit][AAC]` | **368.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/619217) • [🐱 Nyaa](https://nyaa.si/view/2128063) |
+| `[Onalrie] Neko to Ryuu - S01E02 [1080p WEBRip AV1]` | **184.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/619260) • [🐱 Nyaa](https://nekobt.to/torrents/12156490350349) |
+| `[Yameii] KILL BLUE - S01E10 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1383.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/619255) • [🐱 Nyaa](https://nyaa.si/view/2128158) |
+| `KILL BLUE S01E10 DEATH OR KISS 1080p CR WEB-DL DUAL AAC2.0 H 264-VA...` | **1436.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619257) • [🐱 Nyaa](https://nyaa.si/view/2128154) |
+| `[ToonsHub] Dr Stone S04E37 1080p AMZN WEB-DL DDP2.0 H.264 (English-...` | **924.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/619258) • [🐱 Nyaa](https://nyaa.si/view/2128147) |
+| `[ASW] Neko to Ryuu - 02 [1080p HEVC x265 10Bit][AAC]` | **224.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/619259) • [🐱 Nyaa](https://nyaa.si/view/2128146) |
+| `Recommendations from Iwamoto Senpai S01E01 Black Snow 1080p CR WEB-...` | **1390.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/619248) • [🐱 Nyaa](https://nyaa.si/view/2128145) |
+| `[Onalrie] Black Torch - S01E01 [1080p WEBRip AV1]` | **274.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/619254) • [🐱 Nyaa](https://nekobt.to/torrents/12156130885897) |
+| `BLACK TORCH S01E01 The Future Is in Our Hands 1080p CR WEB-DL MULTi...` | **1655.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/619249) • [🐱 Nyaa](https://nyaa.si/view/2128144) |
+| `[SubsPlease] Iwamoto-senpai no Suisen - 01 (1080p) [69A479FE].mkv` | **1379.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/619250) • [🐱 Nyaa](https://nyaa.si/view/2128143) |
+| `[ASW] Black Torch - 01 [1080p HEVC x265 10Bit][AAC]` | **380.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619253) • [🐱 Nyaa](https://nyaa.si/view/2128140) |
+| `[ToonsHub] Recommendations from Iwamoto-Senpai S01E01 1080p CR WEB-...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619244) • [🐱 Nyaa](https://nyaa.si/view/2128139) |
+| `[SubsPlease] Iwamoto-senpai no Suisene - 01 (1080p) [69A479FE].mkv` | **1379.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/619245) • [🐱 Nyaa](https://nyaa.si/view/2128138) |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E06 (1080p WEBRip AA...` | **606.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/619243) • [🐱 Nyaa](https://nekobt.to/torrents/12155737286404) |
+| `[ToonsHub] The Cat and the Dragon S01E02 1080p CR WEB-DL AAC2.0 H.2...` | **1387.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/619235) • [🐱 Nyaa](https://nyaa.si/view/2128130) |
+| `The Cat and the Dragon S01E02 The Mother Cat and the Girl 1080p CR ...` | **1390.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/619236) • [🐱 Nyaa](https://nyaa.si/view/2128129) |
 
 ---
 <div align="center">
