@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.07.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.12.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] Grow Up Show - S01E01 [English Dub] [CR WEB-DL 1080p H264 ...` | **1386.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/619423) • [🐱 Nyaa](https://nyaa.si/view/2128420) |
+| `[ASW] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance - 0...` | **875.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/619425) • [🐱 Nyaa](https://nyaa.si/view/2128417) |
+| `[Nitsy] BanG Dream! Yume∞Mita - S01E01 (1080p WEB AAC x264)` | **1386.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/619421) • [🐱 Nyaa](https://nyaa.si/view/2128416) |
+| `MAO S01E14 The Iron Mask 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Mult...` | **881.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619422) • [🐱 Nyaa](https://nyaa.si/view/2128415) |
+| `[ASW] Kimiai - 01 [1080p HEVC x265 10Bit][AAC]` | **231.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/619419) • [🐱 Nyaa](https://nyaa.si/view/2128414) |
+| `[ToonsHub] MAO S01E14 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **881.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619420) • [🐱 Nyaa](https://nyaa.si/view/2128413) |
+| `[Unfucked] NEEDY GIRL OVERDOSE - S01E10 (1080p CR WEB-DL AVC AAC 2....` | **1538.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/619418) • [🐱 Nyaa](https://nyaa.si/view/2128412) |
 | `[Trix] Mistress Kanan is Devilishly Easy S01 v2 (Batch) [WEBRip 108...` | **4138.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/619415) • [🐱 Nyaa](https://nyaa.si/view/2128406) |
 | `[Onalrie] Saijo no Osewa - S01E01 [1080p WEBRip AV1]` | **179.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/619417) • [🐱 Nyaa](https://nekobt.to/torrents/12162078252558) |
 | `[ASW] Saijo no Osewa - 01 [1080p HEVC x265 10Bit][AAC]` | **196.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/619416) • [🐱 Nyaa](https://nyaa.si/view/2128404) |
@@ -41,13 +48,6 @@
 | `[Onalrie] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance...` | **633.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619411) • [🐱 Nyaa](https://nekobt.to/torrents/12161357656330) |
 | `[TSPlease] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **1389.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/619410) • [🐱 Nyaa](https://nyaa.si/view/2128401) |
 | `[Nitsy] BanG Dream! Yume∞Mita - S01E02 (1080p WEB AAC x264).mkv` | **1386.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/619412) • [🐱 Nyaa](https://nekobt.to/torrents/12161222750214) |
-| `[ASW] Grow Up Show - Himawari no Circus-dan - 01 [1080p HEVC x265 1...` | **318.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/619406) • [🐱 Nyaa](https://nyaa.si/view/2128394) |
-| `[ToonsHub] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **229.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/619407) • [🐱 Nyaa](https://nyaa.si/view/2128393) |
-| `[ASW] Tenmaku no Jaadugar - 02 [1080p HEVC x265 10Bit][AAC]` | **864.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619408) • [🐱 Nyaa](https://nyaa.si/view/2128391) |
-| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 01 [1080p AMZN...` | **296.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/619409) • [🐱 Nyaa](https://nyaa.si/view/2128388) |
-| `[ToonsHub] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **229.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/619405) • [🐱 Nyaa](https://nekobt.to/torrents/12160648346114) |
-| `[LoliHouse] 『你们先走我断后』，于是10年后我成为了传说 / Koko wa Ore ni Makasete Saki n...` | **568.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619404) • [🐱 Nyaa](https://nyaa.si/view/2128374) |
-| `[Onalrie] Oni no Hanayome - S01E01 [1080p WEBRip AV1]` | **152.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/619403) • [🐱 Nyaa](https://nekobt.to/torrents/12160503270914) |
 
 ---
 <div align="center">
