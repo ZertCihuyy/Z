@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.34.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.56.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[DKB] Black Torch - S01E01 [1080p][HEVC x265 10bit][Dual Audio][Mul...` | **463.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/619377) • [🐱 Nyaa](https://nyaa.si/view/2128359) |
-| `[ToonsHub] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **1389.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/619378) • [🐱 Nyaa](https://nyaa.si/view/2128356) |
-| `[Judas] Mushoku Tensei (Jobless Reincarnation) - S03E02 [1080p][HEV...` | **453.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/619379) • [🐱 Nyaa](https://nyaa.si/view/2128355) |
-| `[DKB] Yomi no Tsugai - S01E13 [1080p][HEVC x265 10bit][Multi-Subs][...` | **498.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/619380) • [🐱 Nyaa](https://nyaa.si/view/2128354) |
-| `[Judas] Mushoku Tensei (Jobless Reincarnation) - S03E01 [1080p][HEV...` | **483.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/619381) • [🐱 Nyaa](https://nyaa.si/view/2128353) |
-| `[DKB] Mairimashita! Iruma-kun - S04E14 [1080p][HEVC x265 10bit][Dua...` | **617.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/619383) • [🐱 Nyaa](https://nyaa.si/view/2128351) |
-| `[SubsPlease] Saijo no Osewa - 01 (1080p) [79559860].mkv` | **1382.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/619384) • [🐱 Nyaa](https://nyaa.si/view/2128350) |
-| `Rich Girl Caretaker Im Secretly the Caregiver of the Most Popular G...` | **1390.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/619385) • [🐱 Nyaa](https://nyaa.si/view/2128349) |
-| `[Onalrie] Grow Up Show - Himawari no Circus-dan - S01E01 [1080p WEB...` | **239.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/619389) • [🐱 Nyaa](https://nekobt.to/torrents/12159709227278) |
-| `Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! / 3...` | **97905.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619374) • [🐱 Nyaa](https://nyaa.si/view/2128343) |
-| `[ASW] Tenmaku no Jaadugar - 01 [1080p HEVC x265 10Bit][AAC]` | **813.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/619375) • [🐱 Nyaa](https://nyaa.si/view/2128341) |
-| `[Onalrie] Tenmaku no Jaadugar - S01E01 [1080p WEBRip AV1]` | **323.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/619372) • [🐱 Nyaa](https://nekobt.to/torrents/12159323853325) |
-| `[VARYG] NEEDY GIRL OVERDOSE S01E10 Antichrist Superstar 1080p CR WE...` | **1612.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/619373) • [🐱 Nyaa](https://nekobt.to/torrents/12159289815823) |
-| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 02 [1080...` | **533.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619376) • [🐱 Nyaa](https://nyaa.si/view/2128339) |
-| `Agents of the Four Seasons Dance of Spring S01E10 Afterimage 1080p ...` | **1636.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/619366) • [🐱 Nyaa](https://nyaa.si/view/2128338) |
+| `[ASW] Grow Up Show - Himawari no Circus-dan - 01 [1080p HEVC x265 1...` | **318.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/619406) • [🐱 Nyaa](https://nyaa.si/view/2128394) |
+| `[ToonsHub] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **229.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/619407) • [🐱 Nyaa](https://nyaa.si/view/2128393) |
+| `[ASW] Tenmaku no Jaadugar - 02 [1080p HEVC x265 10Bit][AAC]` | **864.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619408) • [🐱 Nyaa](https://nyaa.si/view/2128391) |
+| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 01 [1080p AMZN...` | **296.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/619409) • [🐱 Nyaa](https://nyaa.si/view/2128388) |
+| `[ToonsHub] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **229.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/619405) • [🐱 Nyaa](https://nekobt.to/torrents/12160648346114) |
+| `[LoliHouse] 『你们先走我断后』，于是10年后我成为了传说 / Koko wa Ore ni Makasete Saki n...` | **568.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619404) • [🐱 Nyaa](https://nyaa.si/view/2128374) |
+| `[Onalrie] Oni no Hanayome - S01E01 [1080p WEBRip AV1]` | **152.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/619403) • [🐱 Nyaa](https://nekobt.to/torrents/12160503270914) |
+| `[Judas] Black Torch - S01E01 [1080p][HEVC x265 10bit][Dual-Audio][M...` | **475.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/619397) • [🐱 Nyaa](https://nyaa.si/view/2128373) |
+| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 01 [1080p AMZN...` | **693.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/619398) • [🐱 Nyaa](https://nyaa.si/view/2128371) |
+| `[DKB] Neko to Ryuu - S01E02 [1080p][HEVC x265 10bit][Multi-Subs][we...` | **257.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/619401) • [🐱 Nyaa](https://nyaa.si/view/2128368) |
+| `[DKB] Yomi no Tsugai - S01E11 [1080p][HEVC x265 10bit][Multi-Audio]...` | **648.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/619402) • [🐱 Nyaa](https://nyaa.si/view/2128367) |
+| `[Erai-raws] Yomi no Tsugai - 13 [1080p CR WEBRip HEVC AAC][MultiSub...` | **549.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/619395) • [🐱 Nyaa](https://nekobt.to/torrents/12160262544909) |
+| `[Onalrie] Grow Up Show - Himawari no Circus-dan - S01E02 [1080p WEB...` | **292.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619396) • [🐱 Nyaa](https://nekobt.to/torrents/12160178868482) |
+| `Magilumiere Magical Girls Inc S02E01 A Legitimate Job Admired by Ev...` | **990.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/619390) • [🐱 Nyaa](https://nyaa.si/view/2128365) |
+| `Magilumiere Magical Girls Inc S02E01 A Legitimate Job Admired by Ev...` | **729.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/619391) • [🐱 Nyaa](https://nyaa.si/view/2128364) |
 
 ---
 <div align="center">
