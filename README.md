@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.26.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.53.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 46 (S04E10)...` | **1361.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619172) • [🐱 Nyaa](https://nyaa.si/view/2127986) |
-| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E01 [WEB.1080p.AV1] | K...` | **419.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/619171) • [🐱 Nyaa](https://nyaa.si/view/2127982) |
-| `[VARYG] Ascendance of a Bookworm S04E10 First Material Gathering 10...` | **1452.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/619169) • [🐱 Nyaa](https://nekobt.to/torrents/12151873543939) |
-| `[ToonsHub] Ascendance of a Bookworm S04E10 1080p CR WEB-DL DUAL AAC...` | **1472.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/619170) • [🐱 Nyaa](https://nekobt.to/torrents/12151868365572) |
-| `[Yameii] Ascendance of a Bookworm - S04E10 [English Dub] [CR WEB-DL...` | **1396.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/619166) • [🐱 Nyaa](https://nyaa.si/view/2127978) |
-| `[Ñ] Ao no Exorcist T2 - 08 [BD 1080p] [7BCF3CED]` | **678.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/619168) • [🐱 Nyaa](https://nyaa.si/view/2127976) |
-| `[BlackRabbit] I'm Quitting Heroing (2022) - S00 [Bluray-1080p][Opus...` | **143.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/619165) • [🐱 Nyaa](https://nekobt.to/torrents/12151241453832) |
-| `[VARYG] KILL BLUE S01E11 The First Hitman Summit 1080p AMZN WEB-DL ...` | **931.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619163) • [🐱 Nyaa](https://nekobt.to/torrents/12150880171015) |
-| `[BlackRabbit] I'm Quitting Heroing (2022) - S01 [Bluray-1080p][Opus...` | **2157.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/619164) • [🐱 Nyaa](https://nekobt.to/torrents/12150772111118) |
-| `Daemons of the Shadow Realm S01E01 Asa and Yuru 1080p NF WEB-DL MUL...` | **1117.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/619162) • [🐱 Nyaa](https://nyaa.si/view/2127961) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E01 1080p NF WEB-DL MULTi...` | **1117.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/619161) • [🐱 Nyaa](https://nyaa.si/view/2127959) |
-| `Draw This Then Die S01E01 1080p NF WEB-DL DUAL AAC2.0 H 264-VARYG (...` | **862.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/619159) • [🐱 Nyaa](https://nyaa.si/view/2127958) |
-| `Draw This Then Die S01E01 1080p NF WEB-DL MULTi AAC2.0 H 264-VARYG ...` | **927.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619160) • [🐱 Nyaa](https://nyaa.si/view/2127957) |
-| `[Onalrie] Rilakkuma - S01E14 [1080p WEBRip AV1]` | **30.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/619158) • [🐱 Nyaa](https://nekobt.to/torrents/12149090224645) |
-| `KonoSuba.God's.Blessing.On.This.Wonderful.World.S01.v2.1080p.BluRay...` | **19015.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/619157) • [🐱 Nyaa](https://nyaa.si/view/2127950) |
+| `[VARYG] Mushoku Tensei Jobless Reincarnation S03E02 Howl Mad Dog 10...` | **867.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/619216) • [🐱 Nyaa](https://nekobt.to/torrents/12153731048714) |
+| `Mushoku Tensei Jobless Reincarnation S03E01 Rage Mad Dog 1080p NF W...` | **866.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619198) • [🐱 Nyaa](https://nyaa.si/view/2128057) |
+| `[Yameii] Skeleton Knight in Another World - S02E01 [English Dub] [C...` | **1397.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/619199) • [🐱 Nyaa](https://nyaa.si/view/2128056) |
+| `[ToonsHub] Skeleton Knight in Another World S02E01 1080p CR WEB-DL ...` | **1434.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/619200) • [🐱 Nyaa](https://nyaa.si/view/2128055) |
+| `[SubsPlease] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 -...` | **1390.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/619202) • [🐱 Nyaa](https://nyaa.si/view/2128053) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E02 1080p NF WEB...` | **867.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/619203) • [🐱 Nyaa](https://nyaa.si/view/2128052) |
+| `[SubsPlease] Mushoku Tensei S3 - 02 (1080p) [C05F84ED].mkv` | **1379.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/619204) • [🐱 Nyaa](https://nyaa.si/view/2128051) |
+| `Skeleton Knight in Another World S02E01 Duel to the Death Silver Kn...` | **1435.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/619206) • [🐱 Nyaa](https://nyaa.si/view/2128049) |
+| `Mushoku Tensei Jobless Reincarnation S03E02 Howl Mad Dog 1080p CR W...` | **1389.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619207) • [🐱 Nyaa](https://nyaa.si/view/2128048) |
+| `Ascendance of a Bookworm S04E10 First Material Gathering 1080p CR W...` | **1484.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/619208) • [🐱 Nyaa](https://nyaa.si/view/2128047) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E02 1080p CR WEB...` | **1389.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/619209) • [🐱 Nyaa](https://nyaa.si/view/2128046) |
+| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School) - S04E14 ...` | **591.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/619211) • [🐱 Nyaa](https://nyaa.si/view/2128042) |
+| `[ToonsHub] Skeleton Knight in Another World S02E01 1080p BILI WEB-D...` | **413.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/619214) • [🐱 Nyaa](https://nyaa.si/view/2128036) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E02 1080p BILI W...` | **265.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/619215) • [🐱 Nyaa](https://nyaa.si/view/2128035) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E01 1080p NF WEB...` | **866.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619196) • [🐱 Nyaa](https://nekobt.to/torrents/12153490171661) |
 
 ---
 <div align="center">
