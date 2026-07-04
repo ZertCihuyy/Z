@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.10.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.26.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 46 (S04E10)...` | **1361.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619172) • [🐱 Nyaa](https://nyaa.si/view/2127986) |
+| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E01 [WEB.1080p.AV1] | K...` | **419.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/619171) • [🐱 Nyaa](https://nyaa.si/view/2127982) |
+| `[VARYG] Ascendance of a Bookworm S04E10 First Material Gathering 10...` | **1452.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/619169) • [🐱 Nyaa](https://nekobt.to/torrents/12151873543939) |
+| `[ToonsHub] Ascendance of a Bookworm S04E10 1080p CR WEB-DL DUAL AAC...` | **1472.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/619170) • [🐱 Nyaa](https://nekobt.to/torrents/12151868365572) |
+| `[Yameii] Ascendance of a Bookworm - S04E10 [English Dub] [CR WEB-DL...` | **1396.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/619166) • [🐱 Nyaa](https://nyaa.si/view/2127978) |
+| `[Ñ] Ao no Exorcist T2 - 08 [BD 1080p] [7BCF3CED]` | **678.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/619168) • [🐱 Nyaa](https://nyaa.si/view/2127976) |
+| `[BlackRabbit] I'm Quitting Heroing (2022) - S00 [Bluray-1080p][Opus...` | **143.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/619165) • [🐱 Nyaa](https://nekobt.to/torrents/12151241453832) |
+| `[VARYG] KILL BLUE S01E11 The First Hitman Summit 1080p AMZN WEB-DL ...` | **931.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619163) • [🐱 Nyaa](https://nekobt.to/torrents/12150880171015) |
+| `[BlackRabbit] I'm Quitting Heroing (2022) - S01 [Bluray-1080p][Opus...` | **2157.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/619164) • [🐱 Nyaa](https://nekobt.to/torrents/12150772111118) |
+| `Daemons of the Shadow Realm S01E01 Asa and Yuru 1080p NF WEB-DL MUL...` | **1117.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/619162) • [🐱 Nyaa](https://nyaa.si/view/2127961) |
 | `[ToonsHub] Daemons of the Shadow Realm S01E01 1080p NF WEB-DL MULTi...` | **1117.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/619161) • [🐱 Nyaa](https://nyaa.si/view/2127959) |
 | `Draw This Then Die S01E01 1080p NF WEB-DL DUAL AAC2.0 H 264-VARYG (...` | **862.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/619159) • [🐱 Nyaa](https://nyaa.si/view/2127958) |
 | `Draw This Then Die S01E01 1080p NF WEB-DL MULTi AAC2.0 H 264-VARYG ...` | **927.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619160) • [🐱 Nyaa](https://nyaa.si/view/2127957) |
 | `[Onalrie] Rilakkuma - S01E14 [1080p WEBRip AV1]` | **30.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/619158) • [🐱 Nyaa](https://nekobt.to/torrents/12149090224645) |
 | `KonoSuba.God's.Blessing.On.This.Wonderful.World.S01.v2.1080p.BluRay...` | **19015.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/619157) • [🐱 Nyaa](https://nyaa.si/view/2127950) |
-| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 12 [1080p][YT]` | **460.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/619154) • [🐱 Nyaa](https://nyaa.si/view/2127912) |
-| `[ToonsHub] Jiang Ye S01E12 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **596.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/619153) • [🐱 Nyaa](https://nyaa.si/view/2127909) |
-| `[Some-Stuffs] Pocket Monsters (2023) 142 (1080p HEVC 10-bit) [B7F32...` | **1058.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/619151) • [🐱 Nyaa](https://nyaa.si/view/2127908) |
-| `[Some-Stuffs] Pocket Monsters (2023) 142 (1080p) [1182CC7F]` | **526.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/619152) • [🐱 Nyaa](https://nyaa.si/view/2127907) |
-| `[ASW] Rilakkuma - 14 [1080p HEVC x265 10Bit][AAC]` | **35.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619150) • [🐱 Nyaa](https://nyaa.si/view/2127890) |
-| `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E09 (WEB 1080p H...` | **1612.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/619149) • [🐱 Nyaa](https://nekobt.to/torrents/12144115564559) |
-| `RILAKKUMA S01E14 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Dual-Audi...` | **94.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/619140) • [🐱 Nyaa](https://nyaa.si/view/2127887) |
-| `[ToonsHub] RILAKKUMA S01E14 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **90.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/619141) • [🐱 Nyaa](https://nyaa.si/view/2127886) |
-| `[DKB] Ryoumin 0-Nin Start no Henkyou Ryoushu-sama - S01E01 [1080p][...` | **269.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/619142) • [🐱 Nyaa](https://nyaa.si/view/2127884) |
-| `[SubsPlease] Rilakkuma - 14 (1080p) [4FBE1F85].mkv` | **93.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619145) • [🐱 Nyaa](https://nyaa.si/view/2127876) |
 
 ---
 <div align="center">
