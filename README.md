@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.17.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.48.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Sparks of Tomorrow S01E01 1080p NF WEB-DL MULTi AAC2.0 H...` | **1216.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/619622) • [🐱 Nyaa](https://nekobt.to/torrents/12178126016781) |
-| `[ToonsHub] Sparks of Tomorrow S01E01 1080p NF WEB-DL DUAL AAC2.0 H....` | **911.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/619616) • [🐱 Nyaa](https://nyaa.si/view/2128720) |
-| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1385.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/619617) • [🐱 Nyaa](https://nyaa.si/view/2128718) |
-| `[SubsPlease] Hyakkano - 25 (1080p) [17F5B72C].mkv` | **1374.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/619618) • [🐱 Nyaa](https://nyaa.si/view/2128717) |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1383.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619621) • [🐱 Nyaa](https://nyaa.si/view/2128714) |
-| `[ASW] Sekai Saikyou no Kouei - 01 [1080p HEVC x265 10Bit][AAC]` | **156.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619614) • [🐱 Nyaa](https://nyaa.si/view/2128707) |
-| `[Onalrie] Sekai Saikyou no Kouei - S01E01 [1080p WEBRip AV1]` | **132.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619615) • [🐱 Nyaa](https://nekobt.to/torrents/12177710617101) |
-| `You and I Are Polar Opposites S02E01 1080p NF WEB-DL AAC2.0 H 264-V...` | **882.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/619613) • [🐱 Nyaa](https://nyaa.si/view/2128704) |
-| `[ToonsHub] The Worlds Strongest Rearguard S01E01 1080p CR WEB-DL AA...` | **1389.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619605) • [🐱 Nyaa](https://nyaa.si/view/2128703) |
-| `The Worlds Strongest Rearguard S01E01 Novice Seekers of the Labyrin...` | **214.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/619606) • [🐱 Nyaa](https://nyaa.si/view/2128699) |
-| `The Worlds Strongest Rearguard S01E01 A Novice Seeker in Labyrinth ...` | **1391.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619607) • [🐱 Nyaa](https://nyaa.si/view/2128698) |
-| `[ALS] Medalist 11 (1080p BD AAC x264)` | **748.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/619612) • [🐱 Nyaa](https://nekobt.to/torrents/12177160095756) |
-| `[SubsPlease] Sekai Saikyou no Kouei - 01 (1080p) [818327AF].mkv` | **1379.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/619608) • [🐱 Nyaa](https://nyaa.si/view/2128697) |
-| `[ToonsHub] The Worlds Strongest Rearguard S01E01 1080p BILI WEB-DL ...` | **215.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/619610) • [🐱 Nyaa](https://nyaa.si/view/2128694) |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E08 (1080p WEBRip AA...` | **494.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619604) • [🐱 Nyaa](https://nekobt.to/torrents/12176986230284) |
+| `[Erai-raws] Let's Go Kaiki-gumi - 01 [1080p CR WEB-DL AVC AAC][Mult...` | **1394.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/619646) • [🐱 Nyaa](https://nekobt.to/torrents/12179562415108) |
+| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E13 [1080p WEBRip AV1]` | **260.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/619647) • [🐱 Nyaa](https://nekobt.to/torrents/12179560978179) |
+| `Goodbye Lara S01E01 Mermaid Princess Lara 1080p CR WEB-DL DUAL AAC2...` | **1456.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/619639) • [🐱 Nyaa](https://nyaa.si/view/2128767) |
+| `[SubsPlease] Sayonara Lara - 01 (1080p) [B35CE9B2].mkv` | **1394.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619640) • [🐱 Nyaa](https://nyaa.si/view/2128766) |
+| `[ToonsHub] Goodbye Lara S01E01 1080p CR WEB-DL DUAL AAC2.0 H.264 (S...` | **1477.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/619641) • [🐱 Nyaa](https://nyaa.si/view/2128765) |
+| `[HuangSubs] Slay the Gods Season 2 E01-04 (1080p) | (斩神之凡尘神域 第2季, Z...` | **1061.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619644) • [🐱 Nyaa](https://nyaa.si/view/2128761) |
+| `[FrixySubs] Mushoku Tensei - S03E01 [1080p CR WEB-DL H.264 AAC] [Na...` | **1366.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619648) • [🐱 Nyaa](https://nekobt.to/torrents/12179379587845) |
+| `[BlackRabbit] Yu Yu Hakusho (1992) - S02 [Bluray-1080p][Opus 2.0][D...` | **10297.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/619649) • [🐱 Nyaa](https://nekobt.to/torrents/12179358810116) |
+| `[HuangSubs] The Last Dynasty (1080p) | (谷围南亭, Gu Wei Nan Ting, The ...` | **2495.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/619645) • [🐱 Nyaa](https://nyaa.si/view/2128754) |
+| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E13 1080p CR...` | **1407.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/619631) • [🐱 Nyaa](https://nyaa.si/view/2128752) |
+| `The Classroom of a Black Cat and a Witch S01E13 Memories of Arcturu...` | **1409.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/619632) • [🐱 Nyaa](https://nyaa.si/view/2128750) |
+| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 13 (1080p) [A0AB9CBD]...` | **1380.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/619633) • [🐱 Nyaa](https://nyaa.si/view/2128749) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 13 [1080p CR WEB-DL AV...` | **1391.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/619637) • [🐱 Nyaa](https://nyaa.si/view/2128741) |
+| `[ASW] Hyakkano - 25 [1080p HEVC x265 10Bit][AAC]` | **457.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/619625) • [🐱 Nyaa](https://nyaa.si/view/2128734) |
+| `Sparks of Tomorrow S01E01 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsunder...` | **987.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/619627) • [🐱 Nyaa](https://nekobt.to/torrents/12178767079173) |
 
 ---
 <div align="center">
