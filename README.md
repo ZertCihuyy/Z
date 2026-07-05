@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.20.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.17.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E07 (1080p WEBRip AA...` | **538.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/619603) • [🐱 Nyaa](https://nekobt.to/torrents/12176235099917) |
-| `[GetItTwisted] Atelier Ryza: Ever Darkness & the Secret Hideout The...` | **19039.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/619602) • [🐱 Nyaa](https://nyaa.si/view/2128678) |
-| `Magilumiere Magical Girls Inc S02E01 MULTi 1080p AMZN WEB-DL DDP2.0...` | **306.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/619600) • [🐱 Nyaa](https://nekobt.to/torrents/12175942654988) |
-| `Magilumiere Magical Girls Inc S02E01 MULTi 1080p AMZN WEB-DL DDP2.0...` | **729.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/619601) • [🐱 Nyaa](https://nekobt.to/torrents/12175935759105) |
-| `[SubsPlus+] Hell Mode - S02E01 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **599.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/619598) • [🐱 Nyaa](https://nyaa.si/view/2128673) |
-| `[BlackRabbit] Yu Yu Hakusho (1992) - S01 [Bluray-1080p][Opus 2.0][D...` | **6206.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/619599) • [🐱 Nyaa](https://nekobt.to/torrents/12175149635077) |
-| `[Gecko] Please Excuse My Younger Brothers - S01E01 (うちの弟どもがすみません; U...` | **704.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619595) • [🐱 Nyaa](https://nekobt.to/torrents/12174581667846) |
-| `[ASW] Tetsunabe no Jan! - 01 [1080p HEVC x265 10Bit][AAC]` | **270.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/619594) • [🐱 Nyaa](https://nyaa.si/view/2128665) |
-| `[Onalrie] Tetsunabe no Jan! - S01E01 [1080p WEBRip AV1]` | **214.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/619596) • [🐱 Nyaa](https://nekobt.to/torrents/12174388634887) |
-| `[ASW] Let's Go Kaiki-gumi - 01 [1080p HEVC x265 10Bit][AAC]` | **245.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/619591) • [🐱 Nyaa](https://nyaa.si/view/2128662) |
-| `[Onalrie] Seihantai na Kimi to Boku - S02E01 [1080p WEBRip AV1]` | **212.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/619593) • [🐱 Nyaa](https://nekobt.to/torrents/12173980061955) |
-| `[ASW] Seihantai na Kimi to Boku - 13 [1080p HEVC x265 10Bit][AAC]` | **243.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619592) • [🐱 Nyaa](https://nyaa.si/view/2128661) |
-| `[Onalrie] Let's Go Kaiki-gumi - S01E01 [1080p WEBRip AV1]` | **165.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/619590) • [🐱 Nyaa](https://nekobt.to/torrents/12173568885766) |
-| `Wistoria Wand and Sword S02E10 Hoping Blooming Thundering 1080p CR ...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619581) • [🐱 Nyaa](https://nyaa.si/view/2128659) |
-| `Iron Wok Jan S01E01 Flames and Meetings 1080p CR WEB-DL AAC2.0 H 26...` | **1406.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619582) • [🐱 Nyaa](https://nyaa.si/view/2128658) |
+| `[ToonsHub] Sparks of Tomorrow S01E01 1080p NF WEB-DL MULTi AAC2.0 H...` | **1216.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/619622) • [🐱 Nyaa](https://nekobt.to/torrents/12178126016781) |
+| `[ToonsHub] Sparks of Tomorrow S01E01 1080p NF WEB-DL DUAL AAC2.0 H....` | **911.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/619616) • [🐱 Nyaa](https://nyaa.si/view/2128720) |
+| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1385.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/619617) • [🐱 Nyaa](https://nyaa.si/view/2128718) |
+| `[SubsPlease] Hyakkano - 25 (1080p) [17F5B72C].mkv` | **1374.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/619618) • [🐱 Nyaa](https://nyaa.si/view/2128717) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1383.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619621) • [🐱 Nyaa](https://nyaa.si/view/2128714) |
+| `[ASW] Sekai Saikyou no Kouei - 01 [1080p HEVC x265 10Bit][AAC]` | **156.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619614) • [🐱 Nyaa](https://nyaa.si/view/2128707) |
+| `[Onalrie] Sekai Saikyou no Kouei - S01E01 [1080p WEBRip AV1]` | **132.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619615) • [🐱 Nyaa](https://nekobt.to/torrents/12177710617101) |
+| `You and I Are Polar Opposites S02E01 1080p NF WEB-DL AAC2.0 H 264-V...` | **882.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/619613) • [🐱 Nyaa](https://nyaa.si/view/2128704) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E01 1080p CR WEB-DL AA...` | **1389.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619605) • [🐱 Nyaa](https://nyaa.si/view/2128703) |
+| `The Worlds Strongest Rearguard S01E01 Novice Seekers of the Labyrin...` | **214.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/619606) • [🐱 Nyaa](https://nyaa.si/view/2128699) |
+| `The Worlds Strongest Rearguard S01E01 A Novice Seeker in Labyrinth ...` | **1391.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619607) • [🐱 Nyaa](https://nyaa.si/view/2128698) |
+| `[ALS] Medalist 11 (1080p BD AAC x264)` | **748.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/619612) • [🐱 Nyaa](https://nekobt.to/torrents/12177160095756) |
+| `[SubsPlease] Sekai Saikyou no Kouei - 01 (1080p) [818327AF].mkv` | **1379.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/619608) • [🐱 Nyaa](https://nyaa.si/view/2128697) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E01 1080p BILI WEB-DL ...` | **215.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/619610) • [🐱 Nyaa](https://nyaa.si/view/2128694) |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E08 (1080p WEBRip AA...` | **494.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619604) • [🐱 Nyaa](https://nekobt.to/torrents/12176986230284) |
 
 ---
 <div align="center">
