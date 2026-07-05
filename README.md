@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.15.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.16.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Naruto Spin-Off - Rock Lee & His Ninja Pals (2012) (BDRip 1080p x26...` | **14043.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/619438) • [🐱 Nyaa](https://nyaa.si/view/2128445) |
+| `[Erai-raws] Mao - 14 [1080p DSNP WEBRip HEVC AAC][MultiSub][BFA53C8F]` | **333.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/619437) • [🐱 Nyaa](https://nyaa.si/view/2128437) |
 | `[Anime Time] Black Torch - S01E01 [1080p][HEVC 10bit x265][AAC][Dua...` | **565.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/619434) • [🐱 Nyaa](https://nyaa.si/view/2128434) |
 | `[Ironclad] Yomi no Tsugai - S01E13 [WEB.1080p.AV1] | Daemons of the...` | **535.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/619435) • [🐱 Nyaa](https://nyaa.si/view/2128433) |
 | `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E12 ...` | **589.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/619436) • [🐱 Nyaa](https://nyaa.si/view/2128432) |
@@ -46,8 +48,6 @@
 | `[ASW] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance - 0...` | **875.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/619425) • [🐱 Nyaa](https://nyaa.si/view/2128417) |
 | `[Nitsy] BanG Dream! Yume∞Mita - S01E01 (1080p WEB AAC x264)` | **1386.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/619421) • [🐱 Nyaa](https://nyaa.si/view/2128416) |
 | `MAO S01E14 The Iron Mask 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Mult...` | **881.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619422) • [🐱 Nyaa](https://nyaa.si/view/2128415) |
-| `[ASW] Kimiai - 01 [1080p HEVC x265 10Bit][AAC]` | **231.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/619419) • [🐱 Nyaa](https://nyaa.si/view/2128414) |
-| `[ToonsHub] MAO S01E14 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **881.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619420) • [🐱 Nyaa](https://nyaa.si/view/2128413) |
 
 ---
 <div align="center">
