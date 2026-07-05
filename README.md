@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.41.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.31.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Digimon Beatbreak - S01E37 [1080p][HEVC x265 10bit][Eng-Sub...` | **453.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/619545) • [🐱 Nyaa](https://nyaa.si/view/2128585) |
-| `[Serenae] Meitantei Precure! - 23 Next Ep PV (1080p).mkv` | **26.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/619536) • [🐱 Nyaa](https://nyaa.si/view/2128580) |
-| `[Serenae] Meitantei Precure! - 23 Fanart Corner (1080p).mkv` | **8.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/619537) • [🐱 Nyaa](https://nyaa.si/view/2128579) |
-| `[Erai-raws] Otome Kaijuu Carameliser - 01 [1080p CR WEBRip HEVC AAC...` | **635.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/619538) • [🐱 Nyaa](https://nyaa.si/view/2128578) |
-| `[Erai-raws] Saijo no Osewa - 01 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1388.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/619541) • [🐱 Nyaa](https://nyaa.si/view/2128575) |
-| `[Erai-raws] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga ...` | **1337.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/619544) • [🐱 Nyaa](https://nyaa.si/view/2128572) |
-| `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **2788.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/619528) • [🐱 Nyaa](https://nyaa.si/view/2128567) |
-| `[ASW] Digimon Beatbreak - 37 [1080p HEVC x265 10Bit][AAC]` | **453.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619529) • [🐱 Nyaa](https://nyaa.si/view/2128566) |
-| `[Erai-raws] Oni no Hanayome - 01 [1080p CR WEB-DL AVC AAC][MultiSub...` | **1406.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/619531) • [🐱 Nyaa](https://nyaa.si/view/2128564) |
-| `[DKB] MAO - S01E14 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **314.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/619533) • [🐱 Nyaa](https://nyaa.si/view/2128562) |
-| `[Serenae] Meitantei Precure! - 23 (1080p).mkv` | **1402.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/619534) • [🐱 Nyaa](https://nyaa.si/view/2128561) |
-| `[Erai-raws] Grow Up Show: Himawari no Circus-dan - 01 [1080p CR WEB...` | **1389.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/619523) • [🐱 Nyaa](https://nekobt.to/torrents/12168577675264) |
-| `[Erai-raws] Tenmaku no Jaadugar - 02 [1080p CR WEB-DL AVC AAC][Mult...` | **1395.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/619493) • [🐱 Nyaa](https://nyaa.si/view/2128554) |
-| `[Erai-raws] Tenmaku no Jaadugar - 01 [1080p CR WEB-DL AVC AAC][Mult...` | **1400.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/619496) • [🐱 Nyaa](https://nyaa.si/view/2128551) |
-| `[Erai-raws] Iwamoto-senpai no Suisen - 01 [1080p CR WEB-DL AVC AAC]...` | **1387.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/619499) • [🐱 Nyaa](https://nyaa.si/view/2128548) |
+| `Digimon Beatbreak S01E30 Wings to Protect You 1080p CR WEB-DL DUAL ...` | **1411.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/619558) • [🐱 Nyaa](https://nyaa.si/view/2128615) |
+| `Digimon Beatbreak S01E29 Dangerous Fandom 1080p CR WEB-DL DUAL AAC2...` | **1414.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619559) • [🐱 Nyaa](https://nyaa.si/view/2128614) |
+| `Digimon Beatbreak S01E28 GIFT 1080p CR WEB-DL DUAL AAC2.0 H 264-VAR...` | **1411.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/619560) • [🐱 Nyaa](https://nyaa.si/view/2128613) |
+| `Digimon Beatbreak S01E27 Wandering Love 1080p CR WEB-DL DUAL AAC2.0...` | **1412.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/619561) • [🐱 Nyaa](https://nyaa.si/view/2128612) |
+| `Digimon Beatbreak S01E26 THE TASTE OF GUILT 1080p CR WEB-DL DUAL AA...` | **1431.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/619562) • [🐱 Nyaa](https://nyaa.si/view/2128611) |
+| `[Onalrie] Meitantei Precure! - S01E23 [1080p WEBRip AV1]` | **489.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/619557) • [🐱 Nyaa](https://nekobt.to/torrents/12172165522948) |
+| `[A2p] Solo Leveling -Beyond the System- Concept PV (WEB 1080p` | **73.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/619556) • [🐱 Nyaa](https://nyaa.si/view/2128610) |
+| `[Onalrie] Digimon Beatbreak - S01E37 [1080p WEBRip AV1]` | **335.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/619555) • [🐱 Nyaa](https://nekobt.to/torrents/12171675410958) |
+| `[ToonsHub] Digimon Beatbreak S01E30 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1409.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/619550) • [🐱 Nyaa](https://nekobt.to/torrents/12171585935364) |
+| `[ToonsHub] Digimon Beatbreak S01E29 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1412.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/619551) • [🐱 Nyaa](https://nekobt.to/torrents/12171582979341) |
+| `[ToonsHub] Digimon Beatbreak S01E28 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1411.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/619552) • [🐱 Nyaa](https://nekobt.to/torrents/12171561406977) |
+| `[ToonsHub] Digimon Beatbreak S01E27 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1410.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619553) • [🐱 Nyaa](https://nekobt.to/torrents/12171559851776) |
+| `[Gecko] Action Monster Big Movie - S01E12 (开拍啦！怪兽大电影; Kai Pai La! G...` | **534.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/619554) • [🐱 Nyaa](https://nyaa.si/view/2128602) |
+| `[ToonsHub] Digimon Beatbreak S01E26 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1412.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619549) • [🐱 Nyaa](https://nyaa.si/view/2128599) |
+| `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **196.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/619547) • [🐱 Nyaa](https://nyaa.si/view/2128591) |
 
 ---
 <div align="center">
