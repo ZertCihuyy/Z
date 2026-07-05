@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.52.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.20.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E07 (1080p WEBRip AA...` | **538.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/619603) • [🐱 Nyaa](https://nekobt.to/torrents/12176235099917) |
+| `[GetItTwisted] Atelier Ryza: Ever Darkness & the Secret Hideout The...` | **19039.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/619602) • [🐱 Nyaa](https://nyaa.si/view/2128678) |
+| `Magilumiere Magical Girls Inc S02E01 MULTi 1080p AMZN WEB-DL DDP2.0...` | **306.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/619600) • [🐱 Nyaa](https://nekobt.to/torrents/12175942654988) |
+| `Magilumiere Magical Girls Inc S02E01 MULTi 1080p AMZN WEB-DL DDP2.0...` | **729.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/619601) • [🐱 Nyaa](https://nekobt.to/torrents/12175935759105) |
+| `[SubsPlus+] Hell Mode - S02E01 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **599.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/619598) • [🐱 Nyaa](https://nyaa.si/view/2128673) |
+| `[BlackRabbit] Yu Yu Hakusho (1992) - S01 [Bluray-1080p][Opus 2.0][D...` | **6206.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/619599) • [🐱 Nyaa](https://nekobt.to/torrents/12175149635077) |
 | `[Gecko] Please Excuse My Younger Brothers - S01E01 (うちの弟どもがすみません; U...` | **704.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619595) • [🐱 Nyaa](https://nekobt.to/torrents/12174581667846) |
 | `[ASW] Tetsunabe no Jan! - 01 [1080p HEVC x265 10Bit][AAC]` | **270.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/619594) • [🐱 Nyaa](https://nyaa.si/view/2128665) |
 | `[Onalrie] Tetsunabe no Jan! - S01E01 [1080p WEBRip AV1]` | **214.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/619596) • [🐱 Nyaa](https://nekobt.to/torrents/12174388634887) |
@@ -42,12 +48,6 @@
 | `[Onalrie] Let's Go Kaiki-gumi - S01E01 [1080p WEBRip AV1]` | **165.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/619590) • [🐱 Nyaa](https://nekobt.to/torrents/12173568885766) |
 | `Wistoria Wand and Sword S02E10 Hoping Blooming Thundering 1080p CR ...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619581) • [🐱 Nyaa](https://nyaa.si/view/2128659) |
 | `Iron Wok Jan S01E01 Flames and Meetings 1080p CR WEB-DL AAC2.0 H 26...` | **1406.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619582) • [🐱 Nyaa](https://nyaa.si/view/2128658) |
-| `[ToonsHub] Iron Wok Jan S01E01 1080p CR WEB-DL AAC2.0 H.264 (Tetsun...` | **1424.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/619583) • [🐱 Nyaa](https://nyaa.si/view/2128657) |
-| `[SubsPlease] Tetsunabe no Jan! - 01 (1080p) [81AD8AB4].mkv` | **1374.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/619584) • [🐱 Nyaa](https://nyaa.si/view/2128656) |
-| `[A2p] Solo Leveling -Beyond the System- Concept PV (WEB 1080p) v2` | **127.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/619588) • [🐱 Nyaa](https://nyaa.si/view/2128651) |
-| `[Trix] You and I Are Polar Opposites S02E01 [WEBRip 1080p AV1 Opus]...` | **269.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/619589) • [🐱 Nyaa](https://nyaa.si/view/2128649) |
-| `[ToonsHub] Wistoria Wand and Sword S02E10 1080p CR WEB-DL MULTi AAC...` | **1642.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/619576) • [🐱 Nyaa](https://nekobt.to/torrents/12173163155460) |
-| `[ToonsHub] Wistoria Wand and Sword S02E11 1080p CR WEB-DL DUAL AAC2...` | **1442.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/619577) • [🐱 Nyaa](https://nekobt.to/torrents/12173144749828) |
 
 ---
 <div align="center">
