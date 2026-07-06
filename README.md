@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.28.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.19.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[nekotan] Turn a Gundam S01 (BD 1080p x264 10-bit Opus) | ∀ Gundam` | **113561.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619886) • [🐱 Nyaa](https://nyaa.si/view/2129194) |
-| `[ASW] LIAR GAME - 14 [1080p HEVC x265 10Bit][AAC]` | **244.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/619887) • [🐱 Nyaa](https://nyaa.si/view/2129193) |
-| `[Onalrie] LIAR GAME - S01E14 [1080p WEBRip AV1]` | **170.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619889) • [🐱 Nyaa](https://nekobt.to/torrents/12202768556800) |
-| `[Judas] Liar Game - S01E14 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **247.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/619888) • [🐱 Nyaa](https://nyaa.si/view/2129192) |
-| `LIAR GAME S01E11 Contraband Game 1080p CR WEB-DL MULTi AAC2.0 H 264...` | **1615.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/619881) • [🐱 Nyaa](https://nyaa.si/view/2129189) |
-| `[ASW] Grand Blue S3 - 01 [1080p HEVC x265 10Bit][AAC]` | **288.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/619882) • [🐱 Nyaa](https://nyaa.si/view/2129188) |
-| `[Onalrie] Grand Blue - S03E01 [1080p WEBRip AV1]` | **240.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/619885) • [🐱 Nyaa](https://nekobt.to/torrents/12202429911296) |
-| `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **181.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/619883) • [🐱 Nyaa](https://nyaa.si/view/2129183) |
-| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E01 [1080p]...` | **212.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/619884) • [🐱 Nyaa](https://nyaa.si/view/2129182) |
-| `[ASW] Tenkosaki - 01 [1080p HEVC x265 10Bit][AAC]` | **189.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/619872) • [🐱 Nyaa](https://nyaa.si/view/2129181) |
-| `[ToonsHub] LIAR GAME S01E14 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1437.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/619873) • [🐱 Nyaa](https://nyaa.si/view/2129180) |
-| `[ToonsHub] Grand Blue Dreaming S03E01 1080p AMZN WEB-DL DDP2.0 H.26...` | **781.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/619867) • [🐱 Nyaa](https://nekobt.to/torrents/12202053978381) |
-| `[VARYG] LIAR GAME S01E14 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1416.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/619868) • [🐱 Nyaa](https://nekobt.to/torrents/12202046107394) |
-| `[SubsPlease] LIAR GAME - 14 (1080p) [FD0609F4].mkv` | **1389.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/619874) • [🐱 Nyaa](https://nyaa.si/view/2129177) |
-| `[Erai-raws] Liar Game - 14 [1080p CR WEB-DL AVC AAC][MultiSub][D12C...` | **1400.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/619878) • [🐱 Nyaa](https://nyaa.si/view/2129171) |
+| `[Erai-raws] Liar Game - 14 [1080p CR WEBRip HEVC AAC][MultiSub][950...` | **501.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619910) • [🐱 Nyaa](https://nyaa.si/view/2129226) |
+| `[DKB] Grand Blue - S03E01 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **289.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/619907) • [🐱 Nyaa](https://nyaa.si/view/2129224) |
+| `[DKB] World Is Dancing - S01E02 [1080p][HEVC x265 10bit][weekly]` | **444.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/619908) • [🐱 Nyaa](https://nyaa.si/view/2129223) |
+| `[SubsFromSteam] Fugou Keiji Balance - UNLIMITED [BD 1080p x265 Main...` | **7405.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/619909) • [🐱 Nyaa](https://nyaa.si/view/2129222) |
+| `[Freehold] Undead Unluck S01 [WEBRip 1080p HEVC Opus AAC Dual-Audio]` | **37029.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/619906) • [🐱 Nyaa](https://nyaa.si/view/2129219) |
+| `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E01 [W...` | **950.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619900) • [🐱 Nyaa](https://nyaa.si/view/2129218) |
+| `[SubsPlease] LasTame S2 (01-12) (1080p) [Batch]` | **11099.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/619901) • [🐱 Nyaa](https://nyaa.si/view/2129217) |
+| `[Erai-raws] Grand Blue Season 3 - 01 [1080p CR WEBRip HEVC AAC][Mul...` | **498.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/619904) • [🐱 Nyaa](https://nyaa.si/view/2129212) |
+| `[Erai-raws] Bang Dream Yumemita - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **435.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619892) • [🐱 Nyaa](https://nyaa.si/view/2129211) |
+| `[Erai-raws] Bang Dream Yumemita - 02 [1080p CR WEBRip HEVC AAC][Mul...` | **401.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/619893) • [🐱 Nyaa](https://nyaa.si/view/2129210) |
+| `[Erai-raws] Bang Dream Yumemita - 01 [1080p CR WEBRip HEVC AAC][Mul...` | **495.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/619894) • [🐱 Nyaa](https://nyaa.si/view/2129209) |
+| `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **567.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/619895) • [🐱 Nyaa](https://nyaa.si/view/2129208) |
+| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **281.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/619896) • [🐱 Nyaa](https://nyaa.si/view/2129207) |
+| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **337.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/619897) • [🐱 Nyaa](https://nyaa.si/view/2129206) |
+| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo ...` | **268.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619898) • [🐱 Nyaa](https://nyaa.si/view/2129205) |
 
 ---
 <div align="center">
