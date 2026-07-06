@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.04.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.37.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Sristi] Another - 10 [1080p BD HEVC 10-bit OPUS]` | **622.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/619769) • [🐱 Nyaa](https://nekobt.to/torrents/12196679484680) |
-| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **600.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/619768) • [🐱 Nyaa](https://nyaa.si/view/2128995) |
-| `[FrixySubs] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru - S...` | **1325.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/619766) • [🐱 Nyaa](https://nekobt.to/torrents/12194493721858) |
-| `[ToonsHub] Star Detective Precure S01E23 1080p CR WEB-DL AAC2.0 H.2...` | **1414.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619763) • [🐱 Nyaa](https://nyaa.si/view/2128992) |
-| `[ToonsHub] ONE PIECE HEROINES (2026) 1080p BILI WEB-DL AAC2.0 H.265...` | **325.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/619765) • [🐱 Nyaa](https://nyaa.si/view/2128990) |
-| `[BlackRabbit] Yu Yu Hakusho (1992) - S04 [Bluray-1080p][Opus 2.0][D...` | **4187.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/619762) • [🐱 Nyaa](https://nekobt.to/torrents/12193806696962) |
-| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E10 (WEB ...` | **1462.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/619761) • [🐱 Nyaa](https://nekobt.to/torrents/12192382226433) |
-| `[FoundYears] The Warrior Princess and the Barbaric King - S01E11 (C...` | **1443.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619758) • [🐱 Nyaa](https://nekobt.to/torrents/12192293949696) |
-| `[FoundYears] The Warrior Princess and the Barbaric King - S01E10 (C...` | **1447.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/619759) • [🐱 Nyaa](https://nekobt.to/torrents/12192185188879) |
-| `[BlackRabbit] Yu Yu Hakusho (1992) - S03 [Bluray-1080p][Opus 2.0][D...` | **6320.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619760) • [🐱 Nyaa](https://nekobt.to/torrents/12192157300737) |
-| `[Kozame] Odekake Kozame (Little Shark's Outings) - 73 [1080p] [9265...` | **24.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619756) • [🐱 Nyaa](https://nyaa.si/view/2128947) |
-| `[Erai-raws] Black Torch - 01 [1080p CR WEBRip HEVC AAC][MultiSub][A...` | **485.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/619753) • [🐱 Nyaa](https://nyaa.si/view/2128941) |
-| `[Yameii] Goodbye, Lara - S01E01 [English Dub] [CR WEB-DL 1080p H264...` | **1400.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/619754) • [🐱 Nyaa](https://nyaa.si/view/2128940) |
-| `[Erai-raws] Meitantei Precure - 23 [1080p CR WEBRip HEVC AAC][Multi...` | **679.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/619749) • [🐱 Nyaa](https://nyaa.si/view/2128935) |
-| `[Erai-raws] Meitantei Precure - 23 [1080p CR WEB-DL AVC AAC][MultiS...` | **1415.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619752) • [🐱 Nyaa](https://nyaa.si/view/2128932) |
+| `[Onalrie] World Is Dancing - S01E02 [1080p WEBRip AV1]` | **306.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/619825) • [🐱 Nyaa](https://nekobt.to/torrents/12200510811396) |
+| `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E13 108...` | **244.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619821) • [🐱 Nyaa](https://nyaa.si/view/2129094) |
+| `[ASW] World Is Dancing - 02 [1080p HEVC x265 10Bit][AAC]` | **406.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/619822) • [🐱 Nyaa](https://nyaa.si/view/2129093) |
+| `The World Is Dancing S01E02 You Have a Body 1080p AMZN WEB-DL DDP2....` | **955.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/619823) • [🐱 Nyaa](https://nyaa.si/view/2129092) |
+| `[HuangSubs] Dragon Prince Yuan (1080p) | (元尊, Yuan Zun)` | **10901.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/619824) • [🐱 Nyaa](https://nyaa.si/view/2129091) |
+| `[Onalrie] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E01 [10...` | **135.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/619818) • [🐱 Nyaa](https://nekobt.to/torrents/12200039606531) |
+| `The World Is Dancing S01E02 You Have a Body 1080p HIDI WEB-DL AAC2....` | **923.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/619810) • [🐱 Nyaa](https://nyaa.si/view/2129086) |
+| `[SubsPlus+] The World Is Dancing - S01E02 (AMZN WEB-DL 1080p AVC AA...` | **956.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/619811) • [🐱 Nyaa](https://nyaa.si/view/2129085) |
+| `[ASW] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 01 [1080p HEVC...` | **152.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/619812) • [🐱 Nyaa](https://nyaa.si/view/2129083) |
+| `[Erai-raws] World Is Dancing - 02 [1080p HIDIVE WEB-DL AVC AAC][A2E...` | **923.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/619815) • [🐱 Nyaa](https://nyaa.si/view/2129080) |
+| `[ToonsHub] The World is Dancing S01E02 1080p ADN WEB-DL AAC2.0 H.26...` | **569.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/619808) • [🐱 Nyaa](https://nekobt.to/torrents/12199743686919) |
+| `[SubsPlease] World Is Dancing - 02 (1080p) [8C8428C9].mkv` | **923.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/619804) • [🐱 Nyaa](https://nyaa.si/view/2129077) |
+| `[Onalrie] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shi...` | **168.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619809) • [🐱 Nyaa](https://nekobt.to/torrents/12199731462406) |
+| `[ToonsHub] The World Is Dancing S01E02 1080p HIDIVE WEB-DL AAC2.0 H...` | **923.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/619806) • [🐱 Nyaa](https://nyaa.si/view/2129075) |
+| `[MicroHatSubs] One Piece 1094-1099 (BD 1080p AV1)` | **3595.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/619816) • [🐱 Nyaa](https://nyaa.si/view/2129066) |
 
 ---
 <div align="center">
