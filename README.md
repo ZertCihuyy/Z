@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.25.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.02.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,21 +28,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E10 (WEB ...` | **1462.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/619761) • [🐱 Nyaa](https://nekobt.to/torrents/12192382226433) |
+| `[FoundYears] The Warrior Princess and the Barbaric King - S01E11 (C...` | **1443.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619758) • [🐱 Nyaa](https://nekobt.to/torrents/12192293949696) |
+| `[FoundYears] The Warrior Princess and the Barbaric King - S01E10 (C...` | **1447.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/619759) • [🐱 Nyaa](https://nekobt.to/torrents/12192185188879) |
+| `[BlackRabbit] Yu Yu Hakusho (1992) - S03 [Bluray-1080p][Opus 2.0][D...` | **6320.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619760) • [🐱 Nyaa](https://nekobt.to/torrents/12192157300737) |
+| `[Kozame] Odekake Kozame (Little Shark's Outings) - 73 [1080p] [9265...` | **24.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619756) • [🐱 Nyaa](https://nyaa.si/view/2128947) |
+| `[Erai-raws] Black Torch - 01 [1080p CR WEBRip HEVC AAC][MultiSub][A...` | **485.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/619753) • [🐱 Nyaa](https://nyaa.si/view/2128941) |
+| `[Yameii] Goodbye, Lara - S01E01 [English Dub] [CR WEB-DL 1080p H264...` | **1400.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/619754) • [🐱 Nyaa](https://nyaa.si/view/2128940) |
+| `[Erai-raws] Meitantei Precure - 23 [1080p CR WEBRip HEVC AAC][Multi...` | **679.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/619749) • [🐱 Nyaa](https://nyaa.si/view/2128935) |
+| `[Erai-raws] Meitantei Precure - 23 [1080p CR WEB-DL AVC AAC][MultiS...` | **1415.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619752) • [🐱 Nyaa](https://nyaa.si/view/2128932) |
+| `[Erai-raws] Digimon Beatbreak - 37 [1080p CR WEBRip HEVC AAC][Multi...` | **540.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/619748) • [🐱 Nyaa](https://nyaa.si/view/2128928) |
 | `[denisplay] Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kan...` | **2296.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/619744) • [🐱 Nyaa](https://nyaa.si/view/2128925) |
 | `[Anime Time] Wistoria Wand And Sword - S02E11 (Tsue to Tsurugi no W...` | **593.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619740) • [🐱 Nyaa](https://nyaa.si/view/2128922) |
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 01 [1080p] [AV1] (Weekly)` | **113.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619741) • [🐱 Nyaa](https://nyaa.si/view/2128921) |
 | `[Erai-raws] Tetsunabe no Jan - 01 [1080p CR WEBRip HEVC AAC][MultiS...` | **457.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619734) • [🐱 Nyaa](https://nyaa.si/view/2128918) |
 | `[denisplay] Kuroneko to Majo no Kyoushitsu 01 - 13 [1080p] [AV1] [i...` | **4412.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/619735) • [🐱 Nyaa](https://nyaa.si/view/2128917) |
-| `[Erai-raws] Sekai Saikyou no Kouei - 01 [1080p CR WEBRip HEVC AAC][...` | **331.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/619738) • [🐱 Nyaa](https://nyaa.si/view/2128914) |
-| `[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 01 [1080p CR WEB...` | **439.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/619739) • [🐱 Nyaa](https://nyaa.si/view/2128913) |
-| `[Nitsy] BanG Dream! Yume∞Mita - S01E03 (1080p WEB AAC x264)` | **1386.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/619733) • [🐱 Nyaa](https://nekobt.to/torrents/12186704356110) |
-| `[FrixySubs] Mushoku Tensei - S03E02 [1080p CR WEB-DL H.264 AAC] [Na...` | **1373.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/619732) • [🐱 Nyaa](https://nekobt.to/torrents/12185874524429) |
-| `[DKB] Azur Lane Bisoku Zenshin! - S02E01 [1080p][HEVC x265 10bit][M...` | **130.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619731) • [🐱 Nyaa](https://nyaa.si/view/2128904) |
-| `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E01 [1080p][HEV...` | **585.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/619729) • [🐱 Nyaa](https://nyaa.si/view/2128901) |
-| `[Erai-raws] Sayonara Lara - 01 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **438.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619730) • [🐱 Nyaa](https://nyaa.si/view/2128900) |
-| `[DSubs] Pokémon Horizons - 137 (Localized Names) (WEBDL-1080p v2) ...` | **653.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/619728) • [🐱 Nyaa](https://nekobt.to/torrents/12184903232009) |
-| `[Erai-raws] Let's Go Kaiki-gumi - 01 [1080p CR WEBRip HEVC AAC][Mul...` | **671.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/619727) • [🐱 Nyaa](https://nyaa.si/view/2128898) |
-| `High School DxD HerO Remaster (BDRip 1080p x265 AAC Multi) Ryūjin 竜神` | **12237.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/619726) • [🐱 Nyaa](https://nyaa.si/view/2128896) |
 
 ---
 <div align="center">
