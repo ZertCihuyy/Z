@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.39.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.46.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sam] Dr. STONE - Science Future - S04E37 (WEB 1080p HEVC x265 10-b...` | **3318.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619935) • [🐱 Nyaa](https://nyaa.si/view/2129256) |
 | `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **253.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/619930) • [🐱 Nyaa](https://nyaa.si/view/2129255) |
 | `Horimiya.BD.1080p.x265.OPUS.DUAL` | **5563.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619931) • [🐱 Nyaa](https://nyaa.si/view/2129254) |
 | `[Unfucked] The Frontier Lord Begins with Zero Subjects - S01E01 (10...` | **1475.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/619932) • [🐱 Nyaa](https://nyaa.si/view/2129253) |
@@ -45,7 +46,6 @@
 | `[Judas] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanoj...` | **517.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/619929) • [🐱 Nyaa](https://nyaa.si/view/2129242) |
 | `[Unfucked] Oh Boy, Was I Wrong About Her - S01E01 (1080p CR WEB-DL ...` | **1432.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/619921) • [🐱 Nyaa](https://nyaa.si/view/2129239) |
 | `[Unfucked] Love Unseen Beneath the Clear Night Sky - S01E01 (1080p ...` | **1403.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619922) • [🐱 Nyaa](https://nyaa.si/view/2129238) |
-| `[BlackRabbit] Fate+Grand Order - Absolute Demonic Front - Babylonia...` | **163.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/619918) • [🐱 Nyaa](https://nekobt.to/torrents/12206407062537) |
 
 ---
 <div align="center">
