@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.19.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.11.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Fate+Grand Order - Absolute Demonic Front - Babylonia...` | **163.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/619918) • [🐱 Nyaa](https://nekobt.to/torrents/12206407062537) |
+| `[Sristi] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi ...` | **1412.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/619917) • [🐱 Nyaa](https://nekobt.to/torrents/12205974367240) |
+| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **757.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/619916) • [🐱 Nyaa](https://nyaa.si/view/2129236) |
+| `[SubsPlease] Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Na...` | **16590.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/619912) • [🐱 Nyaa](https://nyaa.si/view/2129233) |
+| `[BlackRabbit] Fate+Grand Order - Absolute Demonic Front - Babylonia...` | **5161.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/619915) • [🐱 Nyaa](https://nekobt.to/torrents/12205054042886) |
 | `[Erai-raws] Liar Game - 14 [1080p CR WEBRip HEVC AAC][MultiSub][950...` | **501.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619910) • [🐱 Nyaa](https://nyaa.si/view/2129226) |
 | `[DKB] Grand Blue - S03E01 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **289.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/619907) • [🐱 Nyaa](https://nyaa.si/view/2129224) |
 | `[DKB] World Is Dancing - S01E02 [1080p][HEVC x265 10bit][weekly]` | **444.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/619908) • [🐱 Nyaa](https://nyaa.si/view/2129223) |
@@ -41,11 +46,6 @@
 | `[Erai-raws] Grand Blue Season 3 - 01 [1080p CR WEBRip HEVC AAC][Mul...` | **498.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/619904) • [🐱 Nyaa](https://nyaa.si/view/2129212) |
 | `[Erai-raws] Bang Dream Yumemita - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **435.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619892) • [🐱 Nyaa](https://nyaa.si/view/2129211) |
 | `[Erai-raws] Bang Dream Yumemita - 02 [1080p CR WEBRip HEVC AAC][Mul...` | **401.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/619893) • [🐱 Nyaa](https://nyaa.si/view/2129210) |
-| `[Erai-raws] Bang Dream Yumemita - 01 [1080p CR WEBRip HEVC AAC][Mul...` | **495.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/619894) • [🐱 Nyaa](https://nyaa.si/view/2129209) |
-| `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **567.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/619895) • [🐱 Nyaa](https://nyaa.si/view/2129208) |
-| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **281.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/619896) • [🐱 Nyaa](https://nyaa.si/view/2129207) |
-| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **337.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/619897) • [🐱 Nyaa](https://nyaa.si/view/2129206) |
-| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo ...` | **268.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619898) • [🐱 Nyaa](https://nyaa.si/view/2129205) |
 
 ---
 <div align="center">
