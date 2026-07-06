@@ -1,5 +1,5 @@
 {
-  "last_update": "6/7/2026, 13.02.23",
+  "last_update": "6/7/2026, 18.04.39",
   "data": [
     {
       "id": 21,
@@ -155,18 +155,18 @@
       }
     },
     {
-      "id": 185542,
+      "id": 210031,
       "title": {
-        "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II"
+        "romaji": "Seihantai na Kimi to Boku 2nd Season"
       },
       "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg"
       },
-      "episodes": 12,
+      "episodes": 13,
       "studios": {
         "nodes": [
           {
-            "name": "Aura Studio"
+            "name": "Lapin Track"
           }
         ]
       }

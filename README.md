@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.02.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.04.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sristi] Another - 10 [1080p BD HEVC 10-bit OPUS]` | **622.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/619769) • [🐱 Nyaa](https://nekobt.to/torrents/12196679484680) |
+| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **600.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/619768) • [🐱 Nyaa](https://nyaa.si/view/2128995) |
+| `[FrixySubs] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru - S...` | **1325.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/619766) • [🐱 Nyaa](https://nekobt.to/torrents/12194493721858) |
+| `[ToonsHub] Star Detective Precure S01E23 1080p CR WEB-DL AAC2.0 H.2...` | **1414.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619763) • [🐱 Nyaa](https://nyaa.si/view/2128992) |
+| `[ToonsHub] ONE PIECE HEROINES (2026) 1080p BILI WEB-DL AAC2.0 H.265...` | **325.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/619765) • [🐱 Nyaa](https://nyaa.si/view/2128990) |
+| `[BlackRabbit] Yu Yu Hakusho (1992) - S04 [Bluray-1080p][Opus 2.0][D...` | **4187.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/619762) • [🐱 Nyaa](https://nekobt.to/torrents/12193806696962) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime - S04E10 (WEB ...` | **1462.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/619761) • [🐱 Nyaa](https://nekobt.to/torrents/12192382226433) |
 | `[FoundYears] The Warrior Princess and the Barbaric King - S01E11 (C...` | **1443.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619758) • [🐱 Nyaa](https://nekobt.to/torrents/12192293949696) |
 | `[FoundYears] The Warrior Princess and the Barbaric King - S01E10 (C...` | **1447.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/619759) • [🐱 Nyaa](https://nekobt.to/torrents/12192185188879) |
@@ -37,12 +43,6 @@
 | `[Yameii] Goodbye, Lara - S01E01 [English Dub] [CR WEB-DL 1080p H264...` | **1400.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/619754) • [🐱 Nyaa](https://nyaa.si/view/2128940) |
 | `[Erai-raws] Meitantei Precure - 23 [1080p CR WEBRip HEVC AAC][Multi...` | **679.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/619749) • [🐱 Nyaa](https://nyaa.si/view/2128935) |
 | `[Erai-raws] Meitantei Precure - 23 [1080p CR WEB-DL AVC AAC][MultiS...` | **1415.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/619752) • [🐱 Nyaa](https://nyaa.si/view/2128932) |
-| `[Erai-raws] Digimon Beatbreak - 37 [1080p CR WEBRip HEVC AAC][Multi...` | **540.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/619748) • [🐱 Nyaa](https://nyaa.si/view/2128928) |
-| `[denisplay] Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kan...` | **2296.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/619744) • [🐱 Nyaa](https://nyaa.si/view/2128925) |
-| `[Anime Time] Wistoria Wand And Sword - S02E11 (Tsue to Tsurugi no W...` | **593.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619740) • [🐱 Nyaa](https://nyaa.si/view/2128922) |
-| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 01 [1080p] [AV1] (Weekly)` | **113.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619741) • [🐱 Nyaa](https://nyaa.si/view/2128921) |
-| `[Erai-raws] Tetsunabe no Jan - 01 [1080p CR WEBRip HEVC AAC][MultiS...` | **457.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/619734) • [🐱 Nyaa](https://nyaa.si/view/2128918) |
-| `[denisplay] Kuroneko to Majo no Kyoushitsu 01 - 13 [1080p] [AV1] [i...` | **4412.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/619735) • [🐱 Nyaa](https://nyaa.si/view/2128917) |
 
 ---
 <div align="center">
