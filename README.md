@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.25.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.54.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] JUJUTSU KAISEN (2020) - S00 [Bluray-1080p][Opus 5.1][...` | **954.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620116) • [🐱 Nyaa](https://nekobt.to/torrents/12229033572617) |
+| `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **291.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/620115) • [🐱 Nyaa](https://nyaa.si/view/2129589) |
+| `[Erai-raws] Sora wa Akai Kawa no Hotori - 01 [1080p CR WEBRip HEVC ...` | **489.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/620111) • [🐱 Nyaa](https://nyaa.si/view/2129588) |
+| `[ToonsHub] KILL BLUE S01E11 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (K...` | **987.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/620112) • [🐱 Nyaa](https://nyaa.si/view/2129587) |
+| `[Breeze] Mushoku Tensei S03E02 v0 [1080p AV1] Jobless Reincarnation...` | **828.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/620113) • [🐱 Nyaa](https://nyaa.si/view/2129586) |
+| `[Breeze] Mushoku Tensei S03E01 [1080p AV1] Jobless Reincarnation (w...` | **873.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620114) • [🐱 Nyaa](https://nyaa.si/view/2129585) |
 | `[Erai-raws] One Piece - Heroines [1080p CR WEBRip HEVC AAC][MultiSu...` | **430.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/620106) • [🐱 Nyaa](https://nyaa.si/view/2129583) |
 | `[Erai-raws] One Piece - Heroines [1080p CR WEB-DL AVC AAC][MultiSub...` | **1367.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/620109) • [🐱 Nyaa](https://nyaa.si/view/2129580) |
 | `[DKB] Tefuda ga Oome no Victoria - S01E01 [1080p][HEVC x265 10bit][...` | **277.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/620110) • [🐱 Nyaa](https://nyaa.si/view/2129579) |
@@ -42,12 +48,6 @@
 | `[BlackRabbit] JUJUTSU KAISEN (2020) - S02 [Bluray-1080p][Opus 2.0][...` | **5938.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/620102) • [🐱 Nyaa](https://nekobt.to/torrents/12227163414276) |
 | `[Erai-raws] Crowned in a Hundred Days - 03 (CA) [1080p CR WEBRip HE...` | **195.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620103) • [🐱 Nyaa](https://nekobt.to/torrents/12227156390659) |
 | `[ASW] Sora wa Akai Kawa no Hotori - 01 [1080p HEVC x265 10Bit][AAC]` | **308.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/620098) • [🐱 Nyaa](https://nyaa.si/view/2129569) |
-| `[Onalrie] Bai Ri Cheng Wang - S01E04 [1080p WEBRip AV1]` | **88.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/620100) • [🐱 Nyaa](https://nekobt.to/torrents/12226734225665) |
-| `[ASW] Bai Ri Cheng Wang - 04 [1080p HEVC x265 10Bit][AAC]` | **117.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/620099) • [🐱 Nyaa](https://nyaa.si/view/2129568) |
-| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E01 [1080p WEBRip AV1]` | **231.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/620097) • [🐱 Nyaa](https://nekobt.to/torrents/12226580392448) |
-| `[Erai-raws] Koukaku Kidoutai (2026) - 01 [1080p AMZN WEBRip HEVC EA...` | **1222.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620096) • [🐱 Nyaa](https://nyaa.si/view/2129549) |
-| `[ASW] Bai Ri Cheng Wang - 03 [1080p HEVC x265 10Bit][AAC]` | **146.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/620093) • [🐱 Nyaa](https://nyaa.si/view/2129547) |
-| `[Onalrie] Bai Ri Cheng Wang - S01E03 [1080p WEBRip AV1]` | **107.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/620092) • [🐱 Nyaa](https://nekobt.to/torrents/12226152161027) |
 
 ---
 <div align="center">
