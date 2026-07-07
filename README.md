@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.54.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.06.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[denisplay] Otome Kaijuu Carameliser - 01 [1080p] [AV1] (Weekly) (K...` | **212.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620119) • [🐱 Nyaa](https://nyaa.si/view/2129602) |
+| `[denisplay] Ichijouma Mankitsu Gurashi! (Season 1) [1080p] [AV1] [b...` | **2707.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/620122) • [🐱 Nyaa](https://nyaa.si/view/2129599) |
+| `[Sokudo] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Campi...` | **168.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620125) • [🐱 Nyaa](https://nyaa.si/view/2129595) |
+| `ChaO 2025 1080p AMZN WEB-DL H264-SCOPE` | **3951.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/620117) • [🐱 Nyaa](https://nyaa.si/view/2129594) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 01 [1080p CR WE...` | **859.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620118) • [🐱 Nyaa](https://nyaa.si/view/2129593) |
 | `[BlackRabbit] JUJUTSU KAISEN (2020) - S00 [Bluray-1080p][Opus 5.1][...` | **954.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620116) • [🐱 Nyaa](https://nekobt.to/torrents/12229033572617) |
 | `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **291.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/620115) • [🐱 Nyaa](https://nyaa.si/view/2129589) |
 | `[Erai-raws] Sora wa Akai Kawa no Hotori - 01 [1080p CR WEBRip HEVC ...` | **489.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/620111) • [🐱 Nyaa](https://nyaa.si/view/2129588) |
@@ -43,11 +48,6 @@
 | `[Erai-raws] One Piece - Heroines [1080p CR WEB-DL AVC AAC][MultiSub...` | **1367.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/620109) • [🐱 Nyaa](https://nyaa.si/view/2129580) |
 | `[DKB] Tefuda ga Oome no Victoria - S01E01 [1080p][HEVC x265 10bit][...` | **277.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/620110) • [🐱 Nyaa](https://nyaa.si/view/2129579) |
 | `[Judas] Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai (Yo...` | **477.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/620105) • [🐱 Nyaa](https://nyaa.si/view/2129578) |
-| `[izu] Given ~ 10th mix (2025) [WEB 1080p] [D736AFDD].mkv` | **1126.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/620104) • [🐱 Nyaa](https://nyaa.si/view/2129576) |
-| `[Erai-raws] Crowned in a Hundred Days - 04 (CA) [1080p CR WEBRip HE...` | **155.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/620101) • [🐱 Nyaa](https://nekobt.to/torrents/12227216974850) |
-| `[BlackRabbit] JUJUTSU KAISEN (2020) - S02 [Bluray-1080p][Opus 2.0][...` | **5938.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/620102) • [🐱 Nyaa](https://nekobt.to/torrents/12227163414276) |
-| `[Erai-raws] Crowned in a Hundred Days - 03 (CA) [1080p CR WEBRip HE...` | **195.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620103) • [🐱 Nyaa](https://nekobt.to/torrents/12227156390659) |
-| `[ASW] Sora wa Akai Kawa no Hotori - 01 [1080p HEVC x265 10Bit][AAC]` | **308.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/620098) • [🐱 Nyaa](https://nyaa.si/view/2129569) |
 
 ---
 <div align="center">
