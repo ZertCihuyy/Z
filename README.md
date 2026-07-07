@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.12.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.27.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Flaming Dodgeball Girl Danko S01E01 1080p AMZN WEB-DL DD...` | **1000.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619971) • [🐱 Nyaa](https://nyaa.si/view/2129342) |
-| `[Erai-raws] Crowned in a Hundred Days - 04 (CA) [1080p CR WEB-DL AV...` | **377.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619974) • [🐱 Nyaa](https://nyaa.si/view/2129339) |
-| `[Yameii] An Observation Log of My Fiancée Who Calls Herself a Villa...` | **1386.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/619969) • [🐱 Nyaa](https://nyaa.si/view/2129336) |
-| `[Yameii] That Time I Got Reincarnated as a Slime - S04E11 [English ...` | **1401.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/619970) • [🐱 Nyaa](https://nyaa.si/view/2129335) |
-| `KILL BLUE S01E11 The First Hitman Summit 1080p AMZN WEB-DL DUAL DDP...` | **893.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/619965) • [🐱 Nyaa](https://nyaa.si/view/2129314) |
-| `[Sristi] Another - 11 [1080p BD HEVC 10-bit OPUS]` | **336.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/619964) • [🐱 Nyaa](https://nekobt.to/torrents/12216443848197) |
-| `[BlackRabbit] JUJUTSU KAISEN (2020) - S01 [Bluray-1080p][Opus 2.0][...` | **5592.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619961) • [🐱 Nyaa](https://nekobt.to/torrents/12214384604162) |
-| `An Observation Log of My Fiancee Who Calls Herself a Villainess S01...` | **1441.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/619956) • [🐱 Nyaa](https://nyaa.si/view/2129309) |
-| `That Time I Got Reincarnated as a Slime S04E11 Milims Friend 1080p ...` | **1455.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/619957) • [🐱 Nyaa](https://nyaa.si/view/2129308) |
-| `The Warrior Princess and the Barbaric King S01E11 Discovery is the ...` | **1440.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/619958) • [🐱 Nyaa](https://nyaa.si/view/2129307) |
-| `The Warrior Princess and the Barbaric King S01E10 Steam Veils the F...` | **1444.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/619959) • [🐱 Nyaa](https://nyaa.si/view/2129306) |
-| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 01 (1080p) [W3B4LL1N]` | **568.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/619960) • [🐱 Nyaa](https://nyaa.si/view/2129305) |
-| `[ToonsHub] Crowned in a Hundred Days S01E03 1080p CR WEB-DL AAC2.0 ...` | **756.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619954) • [🐱 Nyaa](https://nyaa.si/view/2129301) |
-| `[ToonsHub] Crowned in a Hundred Days S01E04 1080p CR WEB-DL AAC2.0 ...` | **676.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/619955) • [🐱 Nyaa](https://nyaa.si/view/2129300) |
-| `Crowned in a Hundred Days S01E04 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **678.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/619946) • [🐱 Nyaa](https://nyaa.si/view/2129299) |
+| `[Onalrie] Kimi ga Shinu made Koi wo Shitai - S01E01 [1080p WEBRip AV1]` | **137.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/619993) • [🐱 Nyaa](https://nekobt.to/torrents/12221448059905) |
+| `I Want to Love You Till Your Dying Day S01E01 1080p CR WEB-DL AAC2....` | **1402.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/619988) • [🐱 Nyaa](https://nyaa.si/view/2129385) |
+| `[SubsPlease] Kimi ga Shinu made Koi wo Shitai - 01 (1080p) [0EA1E14...` | **1374.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619989) • [🐱 Nyaa](https://nyaa.si/view/2129382) |
+| `[ToonsHub] I Want to Love You Till Your Dying Day S01E01 1080p CR W...` | **1422.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/619990) • [🐱 Nyaa](https://nyaa.si/view/2129381) |
+| `[ASW] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - 01 [...` | **410.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619984) • [🐱 Nyaa](https://nyaa.si/view/2129373) |
+| `[Gecko] Rilakkuma - S01E14 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **46.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619985) • [🐱 Nyaa](https://nyaa.si/view/2129372) |
+| `[Onalrie] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - ...` | **354.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/619987) • [🐱 Nyaa](https://nekobt.to/torrents/12220600936971) |
+| `[TSPlease] Young Ladies Dont Play Fighting Games S01E01 1080p CR WE...` | **1434.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619986) • [🐱 Nyaa](https://nyaa.si/view/2129366) |
+| `[ToonsHub] KILL BLUE S01E11 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Ki...` | **893.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/619983) • [🐱 Nyaa](https://nyaa.si/view/2129356) |
+| `[Gecko] The World Is Dancing - S01E02 (ワールド イズ ダンシング; World Is Danc...` | **700.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/619982) • [🐱 Nyaa](https://nekobt.to/torrents/12220289351168) |
+| `[ToonsHub] Young Ladies Dont Play Fighting Games S01E01 1080p CR WE...` | **1434.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619981) • [🐱 Nyaa](https://nyaa.si/view/2129354) |
+| `[VARYG] Young Ladies Dont Play Fighting Games S01E01 Im Done With F...` | **1415.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/619980) • [🐱 Nyaa](https://nekobt.to/torrents/12220082327819) |
+| `[SubsPlease] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai...` | **1385.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619976) • [🐱 Nyaa](https://nyaa.si/view/2129352) |
+| `[TSPlease] Iron Wok Jan S01E01 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1424.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/619979) • [🐱 Nyaa](https://nyaa.si/view/2129347) |
+| `[ToonsHub] Way of Choices 2026 S01E25 1080p iQ WEB-DL AAC2.0 H.264 ...` | **469.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/619975) • [🐱 Nyaa](https://nyaa.si/view/2129346) |
 
 ---
 <div align="center">
