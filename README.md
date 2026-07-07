@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.46.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.53.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E11 1080p CR ...` | **1437.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619945) • [🐱 Nyaa](https://nyaa.si/view/2129282) |
+| `[CenturyZeta] BLACK TORCH - 01 (1080p)` | **1396.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619943) • [🐱 Nyaa](https://nyaa.si/view/2129280) |
+| `[HuangSubs] Martial Universe Season 4-6 (1080p) | (武动乾坤, Wu Dong Qi...` | **14201.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/619944) • [🐱 Nyaa](https://nyaa.si/view/2129277) |
+| `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **382.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619942) • [🐱 Nyaa](https://nyaa.si/view/2129276) |
+| `[ToonsHub] An Observation Log of My Fiancee Who Calls Herself a Vil...` | **1463.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/619941) • [🐱 Nyaa](https://nyaa.si/view/2129275) |
+| `[Chihiro] Himekishi wa Barbaroi no Yome - 12 [1080p HEVC AAC][CE6E3...` | **817.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/619939) • [🐱 Nyaa](https://nyaa.si/view/2129268) |
+| `[CrappySubs] Sparks of Tomorrow - S01E01 (NF WEB 1080p H.264 AAC) [...` | **916.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/619940) • [🐱 Nyaa](https://nekobt.to/torrents/12210939252493) |
+| `[AnoZu] An Observation Log of My Fiancée Who Calls Herself a Villai...` | **1456.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/619937) • [🐱 Nyaa](https://nyaa.si/view/2129264) |
+| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **235.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/619936) • [🐱 Nyaa](https://nyaa.si/view/2129263) |
 | `[sam] Dr. STONE - Science Future - S04E37 (WEB 1080p HEVC x265 10-b...` | **3318.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/619935) • [🐱 Nyaa](https://nyaa.si/view/2129256) |
 | `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **253.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/619930) • [🐱 Nyaa](https://nyaa.si/view/2129255) |
 | `Horimiya.BD.1080p.x265.OPUS.DUAL` | **5563.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619931) • [🐱 Nyaa](https://nyaa.si/view/2129254) |
 | `[Unfucked] The Frontier Lord Begins with Zero Subjects - S01E01 (10...` | **1475.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/619932) • [🐱 Nyaa](https://nyaa.si/view/2129253) |
 | `[Judas] Dr Stone - Science Future (Season 04 pt3) [1080p][HEVC x265...` | **6081.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/619933) • [🐱 Nyaa](https://nyaa.si/view/2129250) |
 | `[Judas] Yuusha no Kuzu (Scum of the Brave) (Season 1 pt.2) [1080p][...` | **4947.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/619934) • [🐱 Nyaa](https://nyaa.si/view/2129249) |
-| `[Judas] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi t...` | **210.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619923) • [🐱 Nyaa](https://nyaa.si/view/2129248) |
-| `[Judas] One Piece - HEROINES [1080p][HEVC x265 10bit][Multi-Subs] (...` | **354.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/619924) • [🐱 Nyaa](https://nyaa.si/view/2129247) |
-| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **280.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619925) • [🐱 Nyaa](https://nyaa.si/view/2129246) |
-| `[Judas] Grand Blue Dreaming - S03E01 [1080p][HEVC x265 10bit][Multi...` | **317.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/619926) • [🐱 Nyaa](https://nyaa.si/view/2129245) |
-| `[Judas] Saikyou Degarashi Ouji no An`yaku Teii Arasoi: Munou o Enji...` | **172.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/619927) • [🐱 Nyaa](https://nyaa.si/view/2129244) |
-| `[Judas] Sekai Saikyou no Kouei Meikyuukoku no Shinjin Tansakusha (T...` | **176.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/619928) • [🐱 Nyaa](https://nyaa.si/view/2129243) |
-| `[Judas] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanoj...` | **517.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/619929) • [🐱 Nyaa](https://nyaa.si/view/2129242) |
-| `[Unfucked] Oh Boy, Was I Wrong About Her - S01E01 (1080p CR WEB-DL ...` | **1432.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/619921) • [🐱 Nyaa](https://nyaa.si/view/2129239) |
-| `[Unfucked] Love Unseen Beneath the Clear Night Sky - S01E01 (1080p ...` | **1403.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/619922) • [🐱 Nyaa](https://nyaa.si/view/2129238) |
 
 ---
 <div align="center">
