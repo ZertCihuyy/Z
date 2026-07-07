@@ -1,5 +1,5 @@
 {
-  "last_update": "7/7/2026, 14.45.23",
+  "last_update": "7/7/2026, 18.12.57",
   "data": [
     {
       "id": 21,
@@ -138,23 +138,6 @@
       }
     },
     {
-      "id": 171110,
-      "title": {
-        "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg"
-      },
-      "episodes": null,
-      "studios": {
-        "nodes": [
-          {
-            "name": "WIT STUDIO"
-          }
-        ]
-      }
-    },
-    {
       "id": 210031,
       "title": {
         "romaji": "Seihantai na Kimi to Boku 2nd Season"
@@ -167,6 +150,23 @@
         "nodes": [
           {
             "name": "Lapin Track"
+          }
+        ]
+      }
+    },
+    {
+      "id": 171110,
+      "title": {
+        "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg"
+      },
+      "episodes": null,
+      "studios": {
+        "nodes": [
+          {
+            "name": "WIT STUDIO"
           }
         ]
       }

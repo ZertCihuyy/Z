@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.45.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.12.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Flaming Dodgeball Girl Danko S01E01 1080p AMZN WEB-DL DD...` | **1000.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619971) • [🐱 Nyaa](https://nyaa.si/view/2129342) |
+| `[Erai-raws] Crowned in a Hundred Days - 04 (CA) [1080p CR WEB-DL AV...` | **377.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619974) • [🐱 Nyaa](https://nyaa.si/view/2129339) |
+| `[Yameii] An Observation Log of My Fiancée Who Calls Herself a Villa...` | **1386.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/619969) • [🐱 Nyaa](https://nyaa.si/view/2129336) |
+| `[Yameii] That Time I Got Reincarnated as a Slime - S04E11 [English ...` | **1401.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/619970) • [🐱 Nyaa](https://nyaa.si/view/2129335) |
+| `KILL BLUE S01E11 The First Hitman Summit 1080p AMZN WEB-DL DUAL DDP...` | **893.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/619965) • [🐱 Nyaa](https://nyaa.si/view/2129314) |
+| `[Sristi] Another - 11 [1080p BD HEVC 10-bit OPUS]` | **336.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/619964) • [🐱 Nyaa](https://nekobt.to/torrents/12216443848197) |
 | `[BlackRabbit] JUJUTSU KAISEN (2020) - S01 [Bluray-1080p][Opus 2.0][...` | **5592.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/619961) • [🐱 Nyaa](https://nekobt.to/torrents/12214384604162) |
 | `An Observation Log of My Fiancee Who Calls Herself a Villainess S01...` | **1441.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/619956) • [🐱 Nyaa](https://nyaa.si/view/2129309) |
 | `That Time I Got Reincarnated as a Slime S04E11 Milims Friend 1080p ...` | **1455.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/619957) • [🐱 Nyaa](https://nyaa.si/view/2129308) |
@@ -40,12 +46,6 @@
 | `[ToonsHub] Crowned in a Hundred Days S01E03 1080p CR WEB-DL AAC2.0 ...` | **756.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/619954) • [🐱 Nyaa](https://nyaa.si/view/2129301) |
 | `[ToonsHub] Crowned in a Hundred Days S01E04 1080p CR WEB-DL AAC2.0 ...` | **676.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/619955) • [🐱 Nyaa](https://nyaa.si/view/2129300) |
 | `Crowned in a Hundred Days S01E04 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **678.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/619946) • [🐱 Nyaa](https://nyaa.si/view/2129299) |
-| `Crowned in a Hundred Days S01E03 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **758.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/619947) • [🐱 Nyaa](https://nyaa.si/view/2129298) |
-| `[Gecko] Crowned in a Hundred Days - S01E05 (百日成王; Bai Ri Cheng Wang...` | **146.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/619948) • [🐱 Nyaa](https://nyaa.si/view/2129293) |
-| `[Gecko] Nonhuman - S03E23 (非人哉; Fei Ren Zai 3rd Season Part 2) [BIL...` | **110.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/619949) • [🐱 Nyaa](https://nyaa.si/view/2129292) |
-| `[ToonsHub] Crowned in a Hundred Days S01E05 1080p BILI WEB-DL AAC2....` | **141.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/619950) • [🐱 Nyaa](https://nyaa.si/view/2129288) |
-| `[Erai-raws] Crowned in a Hundred Days - 03 (CA) [1080p CR WEB-DL AV...` | **624.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/619953) • [🐱 Nyaa](https://nyaa.si/view/2129285) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E11 1080p CR ...` | **1437.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/619945) • [🐱 Nyaa](https://nyaa.si/view/2129282) |
 
 ---
 <div align="center">
