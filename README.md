@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.27.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.04.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Kimi ga Shinu made Koi wo Shitai - S01E01 [1080p WEBRip AV1]` | **137.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/619993) • [🐱 Nyaa](https://nekobt.to/torrents/12221448059905) |
-| `I Want to Love You Till Your Dying Day S01E01 1080p CR WEB-DL AAC2....` | **1402.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/619988) • [🐱 Nyaa](https://nyaa.si/view/2129385) |
-| `[SubsPlease] Kimi ga Shinu made Koi wo Shitai - 01 (1080p) [0EA1E14...` | **1374.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/619989) • [🐱 Nyaa](https://nyaa.si/view/2129382) |
-| `[ToonsHub] I Want to Love You Till Your Dying Day S01E01 1080p CR W...` | **1422.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/619990) • [🐱 Nyaa](https://nyaa.si/view/2129381) |
-| `[ASW] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - 01 [...` | **410.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/619984) • [🐱 Nyaa](https://nyaa.si/view/2129373) |
-| `[Gecko] Rilakkuma - S01E14 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **46.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/619985) • [🐱 Nyaa](https://nyaa.si/view/2129372) |
-| `[Onalrie] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - ...` | **354.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/619987) • [🐱 Nyaa](https://nekobt.to/torrents/12220600936971) |
-| `[TSPlease] Young Ladies Dont Play Fighting Games S01E01 1080p CR WE...` | **1434.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619986) • [🐱 Nyaa](https://nyaa.si/view/2129366) |
-| `[ToonsHub] KILL BLUE S01E11 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Ki...` | **893.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/619983) • [🐱 Nyaa](https://nyaa.si/view/2129356) |
-| `[Gecko] The World Is Dancing - S01E02 (ワールド イズ ダンシング; World Is Danc...` | **700.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/619982) • [🐱 Nyaa](https://nekobt.to/torrents/12220289351168) |
-| `[ToonsHub] Young Ladies Dont Play Fighting Games S01E01 1080p CR WE...` | **1434.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/619981) • [🐱 Nyaa](https://nyaa.si/view/2129354) |
-| `[VARYG] Young Ladies Dont Play Fighting Games S01E01 Im Done With F...` | **1415.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/619980) • [🐱 Nyaa](https://nekobt.to/torrents/12220082327819) |
-| `[SubsPlease] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai...` | **1385.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/619976) • [🐱 Nyaa](https://nyaa.si/view/2129352) |
-| `[TSPlease] Iron Wok Jan S01E01 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1424.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/619979) • [🐱 Nyaa](https://nyaa.si/view/2129347) |
-| `[ToonsHub] Way of Choices 2026 S01E25 1080p iQ WEB-DL AAC2.0 H.264 ...` | **469.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/619975) • [🐱 Nyaa](https://nyaa.si/view/2129346) |
+| `[Onalrie] Yoroi Shin Den Samurai Troopers - S02E01 [1080p WEBRip AV1]` | **372.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620065) • [🐱 Nyaa](https://nekobt.to/torrents/12224072030988) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **559.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620064) • [🐱 Nyaa](https://nekobt.to/torrents/12223762450957) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 01 [1080p CR WEB-DL AVC AA...` | **1389.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/620058) • [🐱 Nyaa](https://nyaa.si/view/2129486) |
+| `[ToonsHub] Above Myriads S01E07 1080p iQ WEB-DL AAC2.0 H.264 (Wan R...` | **325.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/620060) • [🐱 Nyaa](https://nyaa.si/view/2129484) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 01 [1080p CR WE...` | **1405.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620062) • [🐱 Nyaa](https://nyaa.si/view/2129482) |
+| `[GuodongSubs][Fox Spirit Matchmaker][Hu Yao Xiao Hong Niang][1080P]...` | **1258.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/620063) • [🐱 Nyaa](https://nyaa.si/view/2129481) |
+| `[Gecko] Saved by the Ice Cold Prince's Embrace - S01E01 (身代わり令嬢を救った...` | **100.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/620055) • [🐱 Nyaa](https://nekobt.to/torrents/12223486871305) |
+| `MARRIAGETOXIN S01E11 Offering 1080p CR WEB-DL MULTi AAC2.0 H 264-VA...` | **1684.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/620043) • [🐱 Nyaa](https://nyaa.si/view/2129472) |
+| `Yoroi Shinden Samurai Troopers S01E13 A New Chapter 1080p CR WEB-DL...` | **1410.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620044) • [🐱 Nyaa](https://nyaa.si/view/2129470) |
+| `Victoria of Many Faces S01E01 1080p CR WEB-DL AAC2.0 H 264-VARYG (T...` | **1392.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/620045) • [🐱 Nyaa](https://nyaa.si/view/2129468) |
+| `[ToonsHub] Victoria of Many Faces S01E01 1080p CR WEB-DL AAC2.0 H.2...` | **1391.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/620046) • [🐱 Nyaa](https://nyaa.si/view/2129467) |
+| `[ToonsHub] Yoroi-Shinden Samurai Troopers S01E13 1080p CR WEB-DL AA...` | **1406.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/620047) • [🐱 Nyaa](https://nyaa.si/view/2129465) |
+| `[SubsPlease] Tefuda ga Oome no Victoria - 01 (1080p) [15419E28].mkv` | **1381.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620048) • [🐱 Nyaa](https://nyaa.si/view/2129463) |
+| `[SubsPlease] Yoroi Shin Den Samurai Troopers - 13 (1080p) [B244A0EE...` | **1397.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/620049) • [🐱 Nyaa](https://nyaa.si/view/2129461) |
+| `[ToonsHub] Victoria of Many Faces S01E01 1080p BILI WEB-DL AAC2.0 H...` | **271.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/620038) • [🐱 Nyaa](https://nekobt.to/torrents/12223193143555) |
 
 ---
 <div align="center">
