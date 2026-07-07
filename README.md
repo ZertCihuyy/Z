@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.21.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.25.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] One Piece - Heroines [1080p CR WEBRip HEVC AAC][MultiSu...` | **430.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/620106) • [🐱 Nyaa](https://nyaa.si/view/2129583) |
+| `[Erai-raws] One Piece - Heroines [1080p CR WEB-DL AVC AAC][MultiSub...` | **1367.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/620109) • [🐱 Nyaa](https://nyaa.si/view/2129580) |
+| `[DKB] Tefuda ga Oome no Victoria - S01E01 [1080p][HEVC x265 10bit][...` | **277.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/620110) • [🐱 Nyaa](https://nyaa.si/view/2129579) |
+| `[Judas] Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai (Yo...` | **477.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/620105) • [🐱 Nyaa](https://nyaa.si/view/2129578) |
+| `[izu] Given ~ 10th mix (2025) [WEB 1080p] [D736AFDD].mkv` | **1126.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/620104) • [🐱 Nyaa](https://nyaa.si/view/2129576) |
+| `[Erai-raws] Crowned in a Hundred Days - 04 (CA) [1080p CR WEBRip HE...` | **155.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/620101) • [🐱 Nyaa](https://nekobt.to/torrents/12227216974850) |
+| `[BlackRabbit] JUJUTSU KAISEN (2020) - S02 [Bluray-1080p][Opus 2.0][...` | **5938.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/620102) • [🐱 Nyaa](https://nekobt.to/torrents/12227163414276) |
+| `[Erai-raws] Crowned in a Hundred Days - 03 (CA) [1080p CR WEBRip HE...` | **195.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620103) • [🐱 Nyaa](https://nekobt.to/torrents/12227156390659) |
+| `[ASW] Sora wa Akai Kawa no Hotori - 01 [1080p HEVC x265 10Bit][AAC]` | **308.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/620098) • [🐱 Nyaa](https://nyaa.si/view/2129569) |
+| `[Onalrie] Bai Ri Cheng Wang - S01E04 [1080p WEBRip AV1]` | **88.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/620100) • [🐱 Nyaa](https://nekobt.to/torrents/12226734225665) |
+| `[ASW] Bai Ri Cheng Wang - 04 [1080p HEVC x265 10Bit][AAC]` | **117.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/620099) • [🐱 Nyaa](https://nyaa.si/view/2129568) |
+| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E01 [1080p WEBRip AV1]` | **231.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/620097) • [🐱 Nyaa](https://nekobt.to/torrents/12226580392448) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 01 [1080p AMZN WEBRip HEVC EA...` | **1222.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620096) • [🐱 Nyaa](https://nyaa.si/view/2129549) |
+| `[ASW] Bai Ri Cheng Wang - 03 [1080p HEVC x265 10Bit][AAC]` | **146.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/620093) • [🐱 Nyaa](https://nyaa.si/view/2129547) |
 | `[Onalrie] Bai Ri Cheng Wang - S01E03 [1080p WEBRip AV1]` | **107.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/620092) • [🐱 Nyaa](https://nekobt.to/torrents/12226152161027) |
-| `[DKB] The Ghost in the Shell - S01E01 [1080p][HEVC x265 10bit][Dual...` | **1189.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/620087) • [🐱 Nyaa](https://nyaa.si/view/2129543) |
-| `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E01 [1080p][HEVC x265 1...` | **249.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620088) • [🐱 Nyaa](https://nyaa.si/view/2129542) |
-| `[SubsPlease] Bai Ri Cheng Wang - 04 (1080p) [7B3E2BC9].mkv` | **673.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/620089) • [🐱 Nyaa](https://nyaa.si/view/2129541) |
-| `[nekotan] Kimi ni Todoke From Me to You S02 (BD 1080p x264 10-bit O...` | **14981.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/620085) • [🐱 Nyaa](https://nekobt.to/torrents/12225843854351) |
-| `[nekotan] Kimi ni Todoke From Me to You S01 (BD 1080p x264 10-bit O...` | **31793.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/620086) • [🐱 Nyaa](https://nekobt.to/torrents/12225828363022) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 01 [1080p CR WEB-DL AVC A...` | **1335.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620075) • [🐱 Nyaa](https://nyaa.si/view/2129533) |
-| `[SubsPlease] Bai Ri Cheng Wang - 03 (1080p) [579E3C47].mkv` | **752.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/620076) • [🐱 Nyaa](https://nyaa.si/view/2129532) |
-| `[yolerejiju] BNA: Brand New Animal Season 1 (S01) (BD 1080p x265 Op...` | **40882.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/620079) • [🐱 Nyaa](https://nyaa.si/view/2129528) |
-| `Red River S01E01 A Goodbye Kiss A Hello Kiss 1080p CR WEB-DL AAC2.0...` | **1338.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/620080) • [🐱 Nyaa](https://nyaa.si/view/2129526) |
-| `[ToonsHub] Red River S01E01 1080p CR WEB-DL AAC2.0 H.264 (Sora wa A...` | **1336.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620081) • [🐱 Nyaa](https://nyaa.si/view/2129524) |
-| `[SubsPlease] Sora wa Akai Kawa no Hotori - 01 (1080p) [61764D47].mkv` | **1327.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/620082) • [🐱 Nyaa](https://nyaa.si/view/2129523) |
-| `[Erai-raws] Tefuda ga Oome no Victoria - 01 [1080p CR WEBRip HEVC A...` | **431.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/620070) • [🐱 Nyaa](https://nyaa.si/view/2129512) |
-| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **403.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/620071) • [🐱 Nyaa](https://nyaa.si/view/2129511) |
-| `[FrixySubs] BLACK TORCH - S01E01 [1080p CR WEB-DL H.264 AAC] [Napis...` | **995.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620072) • [🐱 Nyaa](https://nekobt.to/torrents/12225036528910) |
 
 ---
 <div align="center">
