@@ -1,16 +1,192 @@
 {
-  "last_update": "7/7/2026, 23.04.33",
-  "hari": "Selasa",
+  "last_update": "8/7/2026, 01.21.09",
+  "hari": "Rabu",
   "data": [
     {
-      "airingAt": 1783377600,
+      "airingAt": 1783461960,
       "media": {
-        "id": 140842,
+        "id": 193883,
         "title": {
-          "romaji": "Chiikawa"
+          "romaji": "Chibi Godzilla no Gyakushuu 3"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783465200,
+      "media": {
+        "id": 204656,
+        "title": {
+          "romaji": "mofusand"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg"
+        },
+        "genres": [
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783472400,
+      "media": {
+        "id": 211232,
+        "title": {
+          "romaji": "Majo no Tani no Yoru"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211232-Bthde3cpWCtq.png"
+        },
+        "genres": [
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783476000,
+      "media": {
+        "id": 213297,
+        "title": {
+          "romaji": "Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783479600,
+      "media": {
+        "id": 213703,
+        "title": {
+          "romaji": "Jiaonang Jihua: Qiji"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213703-ghO1AqW0bdaN.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Sci-Fi"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783498500,
+      "media": {
+        "id": 163793,
+        "title": {
+          "romaji": "Cheongchun Blossom: Uriui Bom"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg"
+        },
+        "genres": [
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783508400,
+      "media": {
+        "id": 188529,
+        "title": {
+          "romaji": "Ugoku! Neko Mukashi Banashi"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg"
+        },
+        "genres": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783513800,
+      "media": {
+        "id": 135865,
+        "title": {
+          "romaji": "Youjo Senki II"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png"
+        },
+        "genres": [
+          "Action",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783515600,
+      "media": {
+        "id": 198946,
+        "title": {
+          "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg"
+        },
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783517400,
+      "media": {
+        "id": 192800,
+        "title": {
+          "romaji": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783521000,
+      "media": {
+        "id": 159309,
+        "title": {
+          "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg"
+        },
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Mecha",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783521000,
+      "media": {
+        "id": 196356,
+        "title": {
+          "romaji": "Ibitte Konai Gibo to Gishi"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg"
         },
         "genres": [
           "Comedy",
@@ -19,204 +195,53 @@
       }
     },
     {
-      "airingAt": 1783389600,
+      "airingAt": 1783521900,
       "media": {
-        "id": 155723,
+        "id": 194829,
         "title": {
-          "romaji": "Wushen Zhuzai: Da Wei Pian"
+          "romaji": "Katainaka no Ossan, Kensei ni Naru II"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
-        },
-        "genres": [
-          "Action",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783389600,
-      "media": {
-        "id": 137664,
-        "title": {
-          "romaji": "Cheng Huang Lu"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137664-9MB4bb4ASiIN.png"
-        },
-        "genres": [
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783389600,
-      "media": {
-        "id": 213188,
-        "title": {
-          "romaji": "Jueshi Zhan Hun 2"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg"
         },
         "genres": [
           "Action",
           "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783396800,
-      "media": {
-        "id": 211270,
-        "title": {
-          "romaji": "Fei Ren Zai 3 Part 2"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png"
-        },
-        "genres": [
           "Comedy",
-          "Slice of Life",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783396800,
-      "media": {
-        "id": 213484,
-        "title": {
-          "romaji": "Bai Ri Cheng Wang"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
           "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1783423800,
+      "airingAt": 1783522560,
       "media": {
-        "id": 128757,
+        "id": 205772,
         "title": {
-          "romaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai"
+          "romaji": "Candy Caries"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png"
         },
         "genres": [
-          "Drama"
+          "Comedy"
         ]
       }
     },
     {
-      "airingAt": 1783427400,
+      "airingAt": 1783522800,
       "media": {
-        "id": 187260,
+        "id": 197715,
         "title": {
-          "romaji": "Kimi ga Shinu made Koi wo Shitai"
+          "romaji": "LV999 no Murabito"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783429200,
-      "media": {
-        "id": 196219,
-        "title": {
-          "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783432800,
-      "media": {
-        "id": 177699,
-        "title": {
-          "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png"
-        },
-        "genres": [
-          "Action",
-          "Psychological",
-          "Sci-Fi"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783434600,
-      "media": {
-        "id": 209800,
-        "title": {
-          "romaji": "Yoroi Shinden Samurai Troopers Part 2"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197715-KLFLxU24U1uL.png"
         },
         "genres": [
           "Action",
           "Adventure",
-          "Sci-Fi"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783436400,
-      "media": {
-        "id": 198709,
-        "title": {
-          "romaji": "Tefuda ga Oome no Victoria"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg"
-        },
-        "genres": [
-          "Action",
-          "Drama",
-          "Fantasy",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783442100,
-      "media": {
-        "id": 207809,
-        "title": {
-          "romaji": "Sora wa Akai Kawa no Hotori"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Fantasy",
-          "Romance"
+          "Comedy",
+          "Fantasy"
         ]
       }
     }
