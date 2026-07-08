@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.23.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.42.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Dogulwang - 01 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **728.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/620340) • [🐱 Nyaa](https://nyaa.si/view/2129979) |
+| `[SubsPlease] Yuusha no Rokkotsu de (01-12) (1080p) [Batch]` | **15974.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/620337) • [🐱 Nyaa](https://nyaa.si/view/2129978) |
 | `[SubsPlease] Tadaima, Ojamasaremasu! (01-12) (1080p) [Batch]` | **16001.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/620334) • [🐱 Nyaa](https://nyaa.si/view/2129972) |
 | `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 01 [108...` | **470.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/620332) • [🐱 Nyaa](https://nyaa.si/view/2129969) |
 | `[Sristi] Another - 12 [1080p BD HEVC 10-bit OPUS]` | **733.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/620330) • [🐱 Nyaa](https://nekobt.to/torrents/12249167471113) |
@@ -46,8 +48,6 @@
 | `Clevatess S02E01 Solsein the Divine Academy 1080p CR WEB-DL MULTi A...` | **1521.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620319) • [🐱 Nyaa](https://nyaa.si/view/2129958) |
 | `[ASW] Toukutsu Ou - 01 [1080p HEVC x265 10Bit][AAC]` | **323.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/620320) • [🐱 Nyaa](https://nyaa.si/view/2129957) |
 | `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E03 [108...` | **245.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620321) • [🐱 Nyaa](https://nyaa.si/view/2129956) |
-| `[Erai-raws] Thunder 3 - 01 [1080p NF WEB-DL AVC AAC][MultiSub][A8E7...` | **848.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/620322) • [🐱 Nyaa](https://nyaa.si/view/2129955) |
-| `[Onalrie] Toukutsu Ou - S01E01 [1080p WEBRip AV1]` | **202.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620327) • [🐱 Nyaa](https://nekobt.to/torrents/12248190907144) |
 
 ---
 <div align="center">
