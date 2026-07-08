@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.42.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.46.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Dogulwang - 01 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **702.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/620342) • [🐱 Nyaa](https://nekobt.to/torrents/12252261382921) |
+| `[Gecko] Candy Caries - S01E13 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **68.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/620341) • [🐱 Nyaa](https://nyaa.si/view/2129983) |
 | `[Erai-raws] Dogulwang - 01 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **728.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/620340) • [🐱 Nyaa](https://nyaa.si/view/2129979) |
 | `[SubsPlease] Yuusha no Rokkotsu de (01-12) (1080p) [Batch]` | **15974.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/620337) • [🐱 Nyaa](https://nyaa.si/view/2129978) |
 | `[SubsPlease] Tadaima, Ojamasaremasu! (01-12) (1080p) [Batch]` | **16001.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/620334) • [🐱 Nyaa](https://nyaa.si/view/2129972) |
@@ -46,8 +48,6 @@
 | `[Ironclad] Clevatess II - S02E01 [WEB.1080p.AV1] | Clevatess (Multi...` | **778.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/620317) • [🐱 Nyaa](https://nyaa.si/view/2129961) |
 | `Petals of Reincarnation S01E08 Savior 1080p AMZN WEB-DL DUAL DDP2.0...` | **1362.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/620318) • [🐱 Nyaa](https://nyaa.si/view/2129960) |
 | `Clevatess S02E01 Solsein the Divine Academy 1080p CR WEB-DL MULTi A...` | **1521.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620319) • [🐱 Nyaa](https://nyaa.si/view/2129958) |
-| `[ASW] Toukutsu Ou - 01 [1080p HEVC x265 10Bit][AAC]` | **323.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/620320) • [🐱 Nyaa](https://nyaa.si/view/2129957) |
-| `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E03 [108...` | **245.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620321) • [🐱 Nyaa](https://nyaa.si/view/2129956) |
 
 ---
 <div align="center">
