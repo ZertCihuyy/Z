@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.48.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.23.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Tadaima, Ojamasaremasu! (01-12) (1080p) [Batch]` | **16001.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/620334) • [🐱 Nyaa](https://nyaa.si/view/2129972) |
+| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 01 [108...` | **470.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/620332) • [🐱 Nyaa](https://nyaa.si/view/2129969) |
+| `[Sristi] Another - 12 [1080p BD HEVC 10-bit OPUS]` | **733.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/620330) • [🐱 Nyaa](https://nekobt.to/torrents/12249167471113) |
+| `[SubsNoJutsu] Tomb Raider King - S01E01 (1080p WEB-DL AAC x264) [EA...` | **1351.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/620331) • [🐱 Nyaa](https://nekobt.to/torrents/12249016844033) |
+| `[Erai-raws] Lv999 no Murabito - 03 [1080p CR WEBRip HEVC AAC][Multi...` | **415.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620329) • [🐱 Nyaa](https://nyaa.si/view/2129965) |
 | `[ToonsHub] Candy Caries S01E13 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **186.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/620328) • [🐱 Nyaa](https://nyaa.si/view/2129964) |
 | `[VARYG] Thunder 3 S01E01 SMALL THREE 1080p NF WEB-DL DUAL AAC2.0 H....` | **857.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/620325) • [🐱 Nyaa](https://nekobt.to/torrents/12248436175367) |
 | `[VARYG] Thunder 3 S01E01 SMALL THREE 1080p NF WEB-DL MULTi AAC2.0 H...` | **1144.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/620326) • [🐱 Nyaa](https://nekobt.to/torrents/12248412731401) |
@@ -43,11 +48,6 @@
 | `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E03 [108...` | **245.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620321) • [🐱 Nyaa](https://nyaa.si/view/2129956) |
 | `[Erai-raws] Thunder 3 - 01 [1080p NF WEB-DL AVC AAC][MultiSub][A8E7...` | **848.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/620322) • [🐱 Nyaa](https://nyaa.si/view/2129955) |
 | `[Onalrie] Toukutsu Ou - S01E01 [1080p WEBRip AV1]` | **202.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620327) • [🐱 Nyaa](https://nekobt.to/torrents/12248190907144) |
-| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E01 [1080...` | **323.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/620323) • [🐱 Nyaa](https://nyaa.si/view/2129953) |
-| `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E03 [...` | **349.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/620324) • [🐱 Nyaa](https://nyaa.si/view/2129952) |
-| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 03 [10...` | **568.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/620309) • [🐱 Nyaa](https://nyaa.si/view/2129948) |
-| `[Erai-raws] Youjo Senki II - 01 [1080p CR WEBRip HEVC AAC][MultiSub...` | **586.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/620310) • [🐱 Nyaa](https://nyaa.si/view/2129947) |
-| `[Erai-raws] Dogulwang - 01 (KA) [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1353.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/620313) • [🐱 Nyaa](https://nyaa.si/view/2129944) |
 
 ---
 <div align="center">
