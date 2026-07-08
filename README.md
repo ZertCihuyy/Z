@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.32.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.14.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[RUBaDUB] Yandere Dark Elf (Complete) (1080p) (Dual Audio)` | **10465.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/620145) • [🐱 Nyaa](https://nyaa.si/view/2129685) |
+| `[FrixySubs] Super no Ura de Yani Suu Futari (Pre-Cut) - S00E08 [108...` | **924.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/620143) • [🐱 Nyaa](https://nekobt.to/torrents/12239044413953) |
+| `[Onalrie] Quanzhi Fashi - S07E08 [1080p WEBRip AV1]` | **427.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/620144) • [🐱 Nyaa](https://nekobt.to/torrents/12238953880330) |
+| `[BlackRabbit] Re-Monster (2024) - S01 [Bluray-1080p][Opus 2.0][Dual...` | **2390.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620142) • [🐱 Nyaa](https://nekobt.to/torrents/12237733531402) |
 | `[BlackRabbit] Kubo Won't Let Me Be Invisible (2023) - S01 [Bluray-1...` | **1342.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/620141) • [🐱 Nyaa](https://nekobt.to/torrents/12236390881028) |
 | `[BlackRose] I Want to End This Love Game - S01E11 (WEB 1080p HEVC 1...` | **1589.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/620140) • [🐱 Nyaa](https://nekobt.to/torrents/12235415184137) |
 | `[Freehold] Undead Unluck S00E01 Winter Arc REPACK [WEB-DL 1080p H26...` | **2067.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/620138) • [🐱 Nyaa](https://nyaa.si/view/2129672) |
@@ -44,10 +48,6 @@
 | `Versatile Mage S07E08 Corpse Generals and Corpse Officials 1080p CR...` | **1144.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/620131) • [🐱 Nyaa](https://nyaa.si/view/2129647) |
 | `[SubsPlease] Quanzhi Fashi S7 - 08 (1080p) [D239F011].mkv` | **1117.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620132) • [🐱 Nyaa](https://nyaa.si/view/2129645) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime - S04E11 (WEB ...` | **1462.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/620128) • [🐱 Nyaa](https://nekobt.to/torrents/12233217319693) |
-| `[sgt] This Monster Wants to Eat Me - S01E08 (WEB 1080p HEVC EAC3) |...` | **2085.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/620127) • [🐱 Nyaa](https://nyaa.si/view/2129620) |
-| `[denisplay] Otome Kaijuu Carameliser - 01 [1080p] [AV1] (Weekly) (K...` | **212.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620119) • [🐱 Nyaa](https://nyaa.si/view/2129602) |
-| `[denisplay] Ichijouma Mankitsu Gurashi! (Season 1) [1080p] [AV1] [b...` | **2707.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/620122) • [🐱 Nyaa](https://nyaa.si/view/2129599) |
-| `[Sokudo] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Campi...` | **168.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620125) • [🐱 Nyaa](https://nyaa.si/view/2129595) |
 
 ---
 <div align="center">
