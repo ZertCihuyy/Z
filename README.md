@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.07.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.35.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Clevatess - S02E01 [1080p WEBRip AV1]` | **200.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/620166) • [🐱 Nyaa](https://onalrie.app/torrent/b63a1f48-3ed3-4392-bc26-95060d297faf) |
-| `[ToonsHub] Classroom of the Elite S04E16 1080p CR WEB-DL DUAL AAC2....` | **1449.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620162) • [🐱 Nyaa](https://nyaa.si/view/2129734) |
-| `[Yameii] Classroom of the Elite - S04E16 [English Dub] [CR WEB-DL 1...` | **1394.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/620163) • [🐱 Nyaa](https://nyaa.si/view/2129733) |
-| `Classroom of the Elite S04E16 For a Desired Future 1080p CR WEB-DL ...` | **1451.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/620164) • [🐱 Nyaa](https://nyaa.si/view/2129732) |
-| `[HuangSubs] The Demon Hunter S1 Special Arc, S2 Special Arc, S2, S3...` | **21431.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/620165) • [🐱 Nyaa](https://nyaa.si/view/2129728) |
-| `[Ironclad] THE GHOST IN THE SHELL - S01E01 [WEB.1080p.AV1] | THE GH...` | **895.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/620161) • [🐱 Nyaa](https://nyaa.si/view/2129727) |
-| `[VARYG] Clevatess S02E01 Solsein the Divine Academy 1080p CR WEB-DL...` | **1424.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/620159) • [🐱 Nyaa](https://nekobt.to/torrents/12242629815821) |
-| `[Yameii] Clevatess - S02E01 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1385.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/620160) • [🐱 Nyaa](https://nekobt.to/torrents/12242604511244) |
-| `[ToonsHub] Clevatess S02E01 1080p BILI WEB-DL AAC2.0 H.265 (Clevate...` | **333.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620153) • [🐱 Nyaa](https://nyaa.si/view/2129713) |
-| `[ToonsHub] Clevatess S02E01 1080p CR WEB-DL DUAL AAC2.0 H.264 (Clev...` | **1422.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/620154) • [🐱 Nyaa](https://nyaa.si/view/2129712) |
-| `[SubsPlease] Clevatess S2 - 01 (1080p) [6855D1F4].mkv` | **1380.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620155) • [🐱 Nyaa](https://nyaa.si/view/2129710) |
-| `[ToonsHub] Cat Tales S01E39 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **63.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/620158) • [🐱 Nyaa](https://nyaa.si/view/2129701) |
-| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **281.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/620152) • [🐱 Nyaa](https://nekobt.to/torrents/12242118121742) |
-| `[vLbE3L] THE GHOST IN THE SHELL S01E01 [1080p AMZN WEBRip VVC xHE-A...` | **356.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/620151) • [🐱 Nyaa](https://nekobt.to/torrents/12241745569286) |
-| `[Gecko] Cat Tales - S01E39 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **45.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/620150) • [🐱 Nyaa](https://nyaa.si/view/2129695) |
+| `From Old Country Bumpkin to Master Swordsman S02E01 MULTi 1080p AMZ...` | **290.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/620217) • [🐱 Nyaa](https://nekobt.to/torrents/12245637558022) |
+| `From Old Country Bumpkin to Master Swordsman S02E01 MULTi 1080p AMZ...` | **621.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/620218) • [🐱 Nyaa](https://nekobt.to/torrents/12245620477700) |
+| `From Old Country Bumpkin to Master Swordsman S02E01 MULTi 1080p AMZ...` | **261.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/620219) • [🐱 Nyaa](https://nekobt.to/torrents/12245614483973) |
+| `[Reza] THE GHOST IN THE SHELL (2026) - S01E01.mkv [WEBRip HEVC 1080...` | **5816.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/620212) • [🐱 Nyaa](https://nyaa.si/view/2129810) |
+| `[ToonsHub] From Old Country Bumpkin to Master Swordsman S02E01 1080...` | **885.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/620213) • [🐱 Nyaa](https://nyaa.si/view/2129809) |
+| `[ToonsHub] From Old Country Bumpkin to Master Swordsman S02E01 1080...` | **621.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/620214) • [🐱 Nyaa](https://nyaa.si/view/2129808) |
+| `[nekotan] That Time I Got Reincarnated as a Slime S03 (BD 1080p x26...` | **49884.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/620220) • [🐱 Nyaa](https://nekobt.to/torrents/12245555659011) |
+| `[ToonsHub] From Old Country Bumpkin to Master Swordsman S02E01 1080...` | **290.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620215) • [🐱 Nyaa](https://nyaa.si/view/2129807) |
+| `[ASW] All Works Maid - 03 [1080p HEVC x265 10Bit][AAC]` | **259.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/620216) • [🐱 Nyaa](https://nyaa.si/view/2129805) |
+| `[Onalrie] All Works Maid - S01E03 [1080p WEBRip AV1]` | **204.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/620222) • [🐱 Nyaa](https://onalrie.app/torrent/e0243531-c761-4077-9d8e-76a9401fb873) |
+| `[ToonsHub] LV999 no Murabito S01E03 1080p ABEMA WEB-DL AAC2.0 H.264` | **716.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/620221) • [🐱 Nyaa](https://nekobt.to/torrents/12245396865036) |
+| `[VARYG] Reborn as a Vending Machine I Now Wander the Dungeon S03E11...` | **1571.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/620210) • [🐱 Nyaa](https://nekobt.to/torrents/12245359344395) |
+| `[VARYG] Rent a Girlfriend S05E11 Moving and Girlfriend 1080p CR WEB...` | **1622.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/620211) • [🐱 Nyaa](https://nekobt.to/torrents/12245337159938) |
+| `[Unfucked] Clevatess - S02E01 (1080p CR WEB-DL AVC AAC 2.0) [Multi-...` | **1420.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/620209) • [🐱 Nyaa](https://nyaa.si/view/2129797) |
+| `Heroine Saint No Im an All Works Maid And Proud of It S01E03 1080p ...` | **1398.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/620198) • [🐱 Nyaa](https://nyaa.si/view/2129796) |
 
 ---
 <div align="center">
