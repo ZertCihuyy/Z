@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.19.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.07.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Clevatess - S02E01 [1080p WEBRip AV1]` | **200.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/620166) • [🐱 Nyaa](https://onalrie.app/torrent/b63a1f48-3ed3-4392-bc26-95060d297faf) |
+| `[ToonsHub] Classroom of the Elite S04E16 1080p CR WEB-DL DUAL AAC2....` | **1449.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620162) • [🐱 Nyaa](https://nyaa.si/view/2129734) |
+| `[Yameii] Classroom of the Elite - S04E16 [English Dub] [CR WEB-DL 1...` | **1394.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/620163) • [🐱 Nyaa](https://nyaa.si/view/2129733) |
+| `Classroom of the Elite S04E16 For a Desired Future 1080p CR WEB-DL ...` | **1451.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/620164) • [🐱 Nyaa](https://nyaa.si/view/2129732) |
+| `[HuangSubs] The Demon Hunter S1 Special Arc, S2 Special Arc, S2, S3...` | **21431.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/620165) • [🐱 Nyaa](https://nyaa.si/view/2129728) |
+| `[Ironclad] THE GHOST IN THE SHELL - S01E01 [WEB.1080p.AV1] | THE GH...` | **895.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/620161) • [🐱 Nyaa](https://nyaa.si/view/2129727) |
+| `[VARYG] Clevatess S02E01 Solsein the Divine Academy 1080p CR WEB-DL...` | **1424.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/620159) • [🐱 Nyaa](https://nekobt.to/torrents/12242629815821) |
+| `[Yameii] Clevatess - S02E01 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1385.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/620160) • [🐱 Nyaa](https://nekobt.to/torrents/12242604511244) |
+| `[ToonsHub] Clevatess S02E01 1080p BILI WEB-DL AAC2.0 H.265 (Clevate...` | **333.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620153) • [🐱 Nyaa](https://nyaa.si/view/2129713) |
+| `[ToonsHub] Clevatess S02E01 1080p CR WEB-DL DUAL AAC2.0 H.264 (Clev...` | **1422.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/620154) • [🐱 Nyaa](https://nyaa.si/view/2129712) |
+| `[SubsPlease] Clevatess S2 - 01 (1080p) [6855D1F4].mkv` | **1380.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620155) • [🐱 Nyaa](https://nyaa.si/view/2129710) |
+| `[ToonsHub] Cat Tales S01E39 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **63.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/620158) • [🐱 Nyaa](https://nyaa.si/view/2129701) |
+| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **281.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/620152) • [🐱 Nyaa](https://nekobt.to/torrents/12242118121742) |
 | `[vLbE3L] THE GHOST IN THE SHELL S01E01 [1080p AMZN WEBRip VVC xHE-A...` | **356.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/620151) • [🐱 Nyaa](https://nekobt.to/torrents/12241745569286) |
 | `[Gecko] Cat Tales - S01E39 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **45.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/620150) • [🐱 Nyaa](https://nyaa.si/view/2129695) |
-| `[LbE3L] THE GHOST IN THE SHELL S01E01 [1080p AMZN WEB-DL AV1 (Muxed...` | **733.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/620148) • [🐱 Nyaa](https://nekobt.to/torrents/12241642131464) |
-| `[LbE3L] LIAR GAME S01E11 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio ...` | **284.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/620149) • [🐱 Nyaa](https://nekobt.to/torrents/12241609163534) |
-| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E01 (1080p WEBRip EAC3 x2...` | **1222.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/620147) • [🐱 Nyaa](https://nekobt.to/torrents/12240238556935) |
-| `[FrixySubs] BLACK TORCH - S01E01v2 [1080p CR WEB-DL H.264 AAC] [Nap...` | **995.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620146) • [🐱 Nyaa](https://nekobt.to/torrents/12239951119629) |
-| `[RUBaDUB] Yandere Dark Elf (Complete) (1080p) (Dual Audio)` | **10465.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/620145) • [🐱 Nyaa](https://nyaa.si/view/2129685) |
-| `[FrixySubs] Super no Ura de Yani Suu Futari (Pre-Cut) - S00E08 [108...` | **924.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/620143) • [🐱 Nyaa](https://nekobt.to/torrents/12239044413953) |
-| `[Onalrie] Quanzhi Fashi - S07E08 [1080p WEBRip AV1]` | **427.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/620144) • [🐱 Nyaa](https://nekobt.to/torrents/12238953880330) |
-| `[BlackRabbit] Re-Monster (2024) - S01 [Bluray-1080p][Opus 2.0][Dual...` | **2390.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620142) • [🐱 Nyaa](https://nekobt.to/torrents/12237733531402) |
-| `[BlackRabbit] Kubo Won't Let Me Be Invisible (2023) - S01 [Bluray-1...` | **1342.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/620141) • [🐱 Nyaa](https://nekobt.to/torrents/12236390881028) |
-| `[BlackRose] I Want to End This Love Game - S01E11 (WEB 1080p HEVC 1...` | **1589.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/620140) • [🐱 Nyaa](https://nekobt.to/torrents/12235415184137) |
-| `[Freehold] Undead Unluck S00E01 Winter Arc REPACK [WEB-DL 1080p H26...` | **2067.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/620138) • [🐱 Nyaa](https://nyaa.si/view/2129672) |
-| `[ASW] Quanzhi Fashi S7 - 08 [1080p HEVC x265 10Bit][AAC]` | **628.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/620139) • [🐱 Nyaa](https://nyaa.si/view/2129671) |
-| `[RUBaDUB] Rock Is a Lady`s Modesty (Complete) (1080p) (Dual Audio)` | **11586.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620137) • [🐱 Nyaa](https://nyaa.si/view/2129670) |
 
 ---
 <div align="center">
