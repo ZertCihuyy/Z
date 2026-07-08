@@ -1,5 +1,5 @@
 {
-  "last_update": "8/7/2026, 16.14.40",
+  "last_update": "8/7/2026, 18.19.10",
   "data": [
     {
       "id": 21,
@@ -155,18 +155,18 @@
       }
     },
     {
-      "id": 207141,
+      "id": 187260,
       "title": {
-        "romaji": "Yani Neko"
+        "romaji": "Kimi ga Shinu made Koi wo Shitai"
       },
       "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207141-h5q5KJPd6vaX.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg"
       },
-      "episodes": null,
+      "episodes": 13,
       "studios": {
         "nodes": [
           {
-            "name": "Bibury Animation Studios"
+            "name": "ROLL2"
           }
         ]
       }

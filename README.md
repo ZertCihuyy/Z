@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.14.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.19.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[vLbE3L] THE GHOST IN THE SHELL S01E01 [1080p AMZN WEBRip VVC xHE-A...` | **356.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/620151) • [🐱 Nyaa](https://nekobt.to/torrents/12241745569286) |
+| `[Gecko] Cat Tales - S01E39 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **45.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/620150) • [🐱 Nyaa](https://nyaa.si/view/2129695) |
+| `[LbE3L] THE GHOST IN THE SHELL S01E01 [1080p AMZN WEB-DL AV1 (Muxed...` | **733.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/620148) • [🐱 Nyaa](https://nekobt.to/torrents/12241642131464) |
+| `[LbE3L] LIAR GAME S01E11 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio ...` | **284.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/620149) • [🐱 Nyaa](https://nekobt.to/torrents/12241609163534) |
+| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E01 (1080p WEBRip EAC3 x2...` | **1222.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/620147) • [🐱 Nyaa](https://nekobt.to/torrents/12240238556935) |
+| `[FrixySubs] BLACK TORCH - S01E01v2 [1080p CR WEB-DL H.264 AAC] [Nap...` | **995.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620146) • [🐱 Nyaa](https://nekobt.to/torrents/12239951119629) |
 | `[RUBaDUB] Yandere Dark Elf (Complete) (1080p) (Dual Audio)` | **10465.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/620145) • [🐱 Nyaa](https://nyaa.si/view/2129685) |
 | `[FrixySubs] Super no Ura de Yani Suu Futari (Pre-Cut) - S00E08 [108...` | **924.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/620143) • [🐱 Nyaa](https://nekobt.to/torrents/12239044413953) |
 | `[Onalrie] Quanzhi Fashi - S07E08 [1080p WEBRip AV1]` | **427.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/620144) • [🐱 Nyaa](https://nekobt.to/torrents/12238953880330) |
@@ -42,12 +48,6 @@
 | `[Freehold] Undead Unluck S00E01 Winter Arc REPACK [WEB-DL 1080p H26...` | **2067.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/620138) • [🐱 Nyaa](https://nyaa.si/view/2129672) |
 | `[ASW] Quanzhi Fashi S7 - 08 [1080p HEVC x265 10Bit][AAC]` | **628.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/620139) • [🐱 Nyaa](https://nyaa.si/view/2129671) |
 | `[RUBaDUB] Rock Is a Lady`s Modesty (Complete) (1080p) (Dual Audio)` | **11586.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620137) • [🐱 Nyaa](https://nyaa.si/view/2129670) |
-| `Walking the Way all alone S01E14 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **796.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/620136) • [🐱 Nyaa](https://nyaa.si/view/2129667) |
-| `[ToonsHub] Walking the Way all alone S01E15 1080p BILI WEB-DL AAC2....` | **840.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620135) • [🐱 Nyaa](https://nekobt.to/torrents/12234255406592) |
-| `[ToonsHub] Full-Time Magister S07E08 1080p CR WEB-DL AAC2.0 H.264 (...` | **1163.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/620130) • [🐱 Nyaa](https://nyaa.si/view/2129650) |
-| `Versatile Mage S07E08 Corpse Generals and Corpse Officials 1080p CR...` | **1144.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/620131) • [🐱 Nyaa](https://nyaa.si/view/2129647) |
-| `[SubsPlease] Quanzhi Fashi S7 - 08 (1080p) [D239F011].mkv` | **1117.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620132) • [🐱 Nyaa](https://nyaa.si/view/2129645) |
-| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E11 (WEB ...` | **1462.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/620128) • [🐱 Nyaa](https://nekobt.to/torrents/12233217319693) |
 
 ---
 <div align="center">
