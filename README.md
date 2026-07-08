@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.12.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.48.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Walking the Way all alone S01E14 1080p BILI WEB-DL AAC2.0 H 264-VAR...` | **796.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/620136) • [🐱 Nyaa](https://nyaa.si/view/2129667) |
+| `[ToonsHub] Walking the Way all alone S01E15 1080p BILI WEB-DL AAC2....` | **840.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620135) • [🐱 Nyaa](https://nekobt.to/torrents/12234255406592) |
+| `[ToonsHub] Full-Time Magister S07E08 1080p CR WEB-DL AAC2.0 H.264 (...` | **1163.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/620130) • [🐱 Nyaa](https://nyaa.si/view/2129650) |
+| `Versatile Mage S07E08 Corpse Generals and Corpse Officials 1080p CR...` | **1144.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/620131) • [🐱 Nyaa](https://nyaa.si/view/2129647) |
+| `[SubsPlease] Quanzhi Fashi S7 - 08 (1080p) [D239F011].mkv` | **1117.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620132) • [🐱 Nyaa](https://nyaa.si/view/2129645) |
+| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E11 (WEB ...` | **1462.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/620128) • [🐱 Nyaa](https://nekobt.to/torrents/12233217319693) |
+| `[sgt] This Monster Wants to Eat Me - S01E08 (WEB 1080p HEVC EAC3) |...` | **2085.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/620127) • [🐱 Nyaa](https://nyaa.si/view/2129620) |
 | `[denisplay] Otome Kaijuu Carameliser - 01 [1080p] [AV1] (Weekly) (K...` | **212.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620119) • [🐱 Nyaa](https://nyaa.si/view/2129602) |
 | `[denisplay] Ichijouma Mankitsu Gurashi! (Season 1) [1080p] [AV1] [b...` | **2707.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/620122) • [🐱 Nyaa](https://nyaa.si/view/2129599) |
 | `[Sokudo] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Campi...` | **168.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620125) • [🐱 Nyaa](https://nyaa.si/view/2129595) |
@@ -41,13 +48,6 @@
 | `[BlackRabbit] JUJUTSU KAISEN (2020) - S00 [Bluray-1080p][Opus 5.1][...` | **954.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620116) • [🐱 Nyaa](https://nekobt.to/torrents/12229033572617) |
 | `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **291.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/620115) • [🐱 Nyaa](https://nyaa.si/view/2129589) |
 | `[Erai-raws] Sora wa Akai Kawa no Hotori - 01 [1080p CR WEBRip HEVC ...` | **489.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/620111) • [🐱 Nyaa](https://nyaa.si/view/2129588) |
-| `[ToonsHub] KILL BLUE S01E11 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (K...` | **987.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/620112) • [🐱 Nyaa](https://nyaa.si/view/2129587) |
-| `[Breeze] Mushoku Tensei S03E02 v0 [1080p AV1] Jobless Reincarnation...` | **828.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/620113) • [🐱 Nyaa](https://nyaa.si/view/2129586) |
-| `[Breeze] Mushoku Tensei S03E01 [1080p AV1] Jobless Reincarnation (w...` | **873.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620114) • [🐱 Nyaa](https://nyaa.si/view/2129585) |
-| `[Erai-raws] One Piece - Heroines [1080p CR WEBRip HEVC AAC][MultiSu...` | **430.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/620106) • [🐱 Nyaa](https://nyaa.si/view/2129583) |
-| `[Erai-raws] One Piece - Heroines [1080p CR WEB-DL AVC AAC][MultiSub...` | **1367.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/620109) • [🐱 Nyaa](https://nyaa.si/view/2129580) |
-| `[DKB] Tefuda ga Oome no Victoria - S01E01 [1080p][HEVC x265 10bit][...` | **277.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/620110) • [🐱 Nyaa](https://nyaa.si/view/2129579) |
-| `[Judas] Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai (Yo...` | **477.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/620105) • [🐱 Nyaa](https://nyaa.si/view/2129578) |
 
 ---
 <div align="center">
