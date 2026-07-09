@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.31.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.14.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[derpie] MARRIAGETOXIN - S01E12 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1726.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/620364) • [🐱 Nyaa](https://nekobt.to/torrents/12259932334604) |
+| `[RUBaDUB] Possibly the Greatest Alchemist of All Time  (S1 Complete...` | **15080.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/620363) • [🐱 Nyaa](https://nyaa.si/view/2130060) |
+| `Reborn as a Cat S01E34 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **215.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620362) • [🐱 Nyaa](https://nyaa.si/view/2130059) |
+| `[BlackRabbit] Cherry Magic! Thirty Years of Virginity Can Make You ...` | **1424.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/620361) • [🐱 Nyaa](https://nekobt.to/torrents/12258022843394) |
 | `[Gecko] Candy Caries - S01E13 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **88.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620358) • [🐱 Nyaa](https://nyaa.si/view/2130048) |
 | `[Gecko] The Chronicles of City God - S01E06 (城隍录; Cheng Huang Lu; C...` | **104.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620355) • [🐱 Nyaa](https://nyaa.si/view/2130038) |
 | `[Gecko] The Chronicles of City God - S01E05 (城隍录; Cheng Huang Lu; C...` | **89.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620356) • [🐱 Nyaa](https://nyaa.si/view/2130037) |
@@ -44,10 +48,6 @@
 | `[Erai-raws] Thunder 3 - 01 [1080p NF WEBRip HEVC AAC][MultiSub][CAC...` | **628.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620349) • [🐱 Nyaa](https://nyaa.si/view/2130006) |
 | `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 01 [1080p AMZN ...` | **321.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/620348) • [🐱 Nyaa](https://nyaa.si/view/2130000) |
 | `[Ironclad] Katainaka no Ossan II - S02E01 [WEB.1080p.AV1] | From Ol...` | **375.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620347) • [🐱 Nyaa](https://nyaa.si/view/2129999) |
-| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 03 [1080p CR WEB...` | **450.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620346) • [🐱 Nyaa](https://nyaa.si/view/2129992) |
-| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E01 [1080p][HEVC x265...` | **327.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620343) • [🐱 Nyaa](https://nyaa.si/view/2129991) |
-| `[Prozac] You and I Are Polar Opposites (2026) - S01 (CR WEB-DL 1080...` | **17621.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620344) • [🐱 Nyaa](https://nyaa.si/view/2129990) |
-| `[DKB] LV999 no Murabito - S01E03 [1080p][HEVC x265 10bit][Multi-Sub...` | **254.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620345) • [🐱 Nyaa](https://nyaa.si/view/2129989) |
 
 ---
 <div align="center">
