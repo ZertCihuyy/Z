@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.14.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.20.50_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **425.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/620369) • [🐱 Nyaa](https://nyaa.si/view/2130093) |
+| `[Gecko] Koala's Diary - S01E40 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **49.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/620370) • [🐱 Nyaa](https://nyaa.si/view/2130092) |
+| `[ToonsHub] Koalas Diary S01E40 1080p LNTV WEB-DL AAC2.0 H.264 (Koal...` | **71.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/620371) • [🐱 Nyaa](https://nyaa.si/view/2130091) |
+| `[geckyzz] Perfect Addiction - S01E01 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **198.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/620372) • [🐱 Nyaa](https://nyaa.si/view/2130090) |
+| `[Gecko] Cat Tales - S01E39 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/620368) • [🐱 Nyaa](https://nekobt.to/torrents/12263699294731) |
+| `[BlackRabbit] JUJUTSU KAISEN (2020) - S03 [WEBDL-1080p][Opus 2.0][AV1]` | **2972.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620367) • [🐱 Nyaa](https://nekobt.to/torrents/12262177098253) |
+| `[ToonsHub] KAMUI Hes Behind You S01E01 1080p UNCENSORED WEB-DL AAC2...` | **308.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/620366) • [🐱 Nyaa](https://nyaa.si/view/2130082) |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E10 (1080p WEBRip AA...` | **689.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620365) • [🐱 Nyaa](https://nekobt.to/torrents/12261435408653) |
 | `[derpie] MARRIAGETOXIN - S01E12 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1726.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/620364) • [🐱 Nyaa](https://nekobt.to/torrents/12259932334604) |
 | `[RUBaDUB] Possibly the Greatest Alchemist of All Time  (S1 Complete...` | **15080.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/620363) • [🐱 Nyaa](https://nyaa.si/view/2130060) |
 | `Reborn as a Cat S01E34 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **215.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620362) • [🐱 Nyaa](https://nyaa.si/view/2130059) |
@@ -40,14 +48,6 @@
 | `[Gecko] Candy Caries - S01E13 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **88.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620358) • [🐱 Nyaa](https://nyaa.si/view/2130048) |
 | `[Gecko] The Chronicles of City God - S01E06 (城隍录; Cheng Huang Lu; C...` | **104.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620355) • [🐱 Nyaa](https://nyaa.si/view/2130038) |
 | `[Gecko] The Chronicles of City God - S01E05 (城隍录; Cheng Huang Lu; C...` | **89.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620356) • [🐱 Nyaa](https://nyaa.si/view/2130037) |
-| `[Gecko] The Chronicles of City God - S01E04 (城隍录; Cheng Huang Lu; C...` | **99.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620357) • [🐱 Nyaa](https://nyaa.si/view/2130035) |
-| `Saiyuki S04 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VO...` | **16164.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/620353) • [🐱 Nyaa](https://nyaa.si/view/2130022) |
-| `Saiyuki Reload Zeroin S01 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Ts...` | **7158.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/620350) • [🐱 Nyaa](https://nekobt.to/torrents/12254936113926) |
-| `Saiyuki Gaiden S01 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-...` | **2726.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/620351) • [🐱 Nyaa](https://nekobt.to/torrents/12254884723978) |
-| `Sailor Moon Crystal S03 MULTi 1080p ADN WEB-DL AAC2.0 x264-Tsundere...` | **8204.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/620352) • [🐱 Nyaa](https://nekobt.to/torrents/12254846058507) |
-| `[Erai-raws] Thunder 3 - 01 [1080p NF WEBRip HEVC AAC][MultiSub][CAC...` | **628.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620349) • [🐱 Nyaa](https://nyaa.si/view/2130006) |
-| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 01 [1080p AMZN ...` | **321.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/620348) • [🐱 Nyaa](https://nyaa.si/view/2130000) |
-| `[Ironclad] Katainaka no Ossan II - S02E01 [WEB.1080p.AV1] | From Ol...` | **375.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620347) • [🐱 Nyaa](https://nyaa.si/view/2129999) |
 
 ---
 <div align="center">

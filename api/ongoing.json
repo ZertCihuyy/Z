@@ -1,5 +1,5 @@
 {
-  "last_update": "9/7/2026, 15.14.16",
+  "last_update": "9/7/2026, 18.20.50",
   "data": [
     {
       "id": 21,
@@ -138,23 +138,6 @@
       }
     },
     {
-      "id": 184492,
-      "title": {
-        "romaji": "Mairimashita! Iruma-kun 4"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg"
-      },
-      "episodes": 24,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Bandai Namco Pictures"
-          }
-        ]
-      }
-    },
-    {
       "id": 210031,
       "title": {
         "romaji": "Seihantai na Kimi to Boku 2nd Season"
@@ -167,6 +150,23 @@
         "nodes": [
           {
             "name": "Lapin Track"
+          }
+        ]
+      }
+    },
+    {
+      "id": 187260,
+      "title": {
+        "romaji": "Kimi ga Shinu made Koi wo Shitai"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg"
+      },
+      "episodes": 13,
+      "studios": {
+        "nodes": [
+          {
+            "name": "ROLL2"
           }
         ]
       }
