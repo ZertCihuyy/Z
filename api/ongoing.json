@@ -1,5 +1,5 @@
 {
-  "last_update": "9/7/2026, 21.05.51",
+  "last_update": "9/7/2026, 23.42.26",
   "data": [
     {
       "id": 21,
@@ -104,6 +104,23 @@
       }
     },
     {
+      "id": 196187,
+      "title": {
+        "romaji": "Super no Ura de Yani Suu Futari"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg"
+      },
+      "episodes": null,
+      "studios": {
+        "nodes": [
+          {
+            "name": "Asahi Production"
+          }
+        ]
+      }
+    },
+    {
       "id": 135865,
       "title": {
         "romaji": "Youjo Senki II"
@@ -150,23 +167,6 @@
         "nodes": [
           {
             "name": "Lapin Track"
-          }
-        ]
-      }
-    },
-    {
-      "id": 187260,
-      "title": {
-        "romaji": "Kimi ga Shinu made Koi wo Shitai"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg"
-      },
-      "episodes": 13,
-      "studios": {
-        "nodes": [
-          {
-            "name": "ROLL2"
           }
         ]
       }

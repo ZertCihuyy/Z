@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.05.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.42.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Reiwa no Dara-san - 02 [1080p CR WEBRip HEVC AAC][Multi...` | **488.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620404) • [🐱 Nyaa](https://nekobt.to/torrents/12266171510024) |
-| `[HuangSubs] The Demon Hunter Season 3 01-15 (1080p) | (沧元图 第三季, Can...` | **5234.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/620403) • [🐱 Nyaa](https://nyaa.si/view/2130144) |
-| `[BlackRabbit] Fate+Apocrypha (2017) - S01 [Bluray-1080p][Opus 2.0][...` | **3986.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/620405) • [🐱 Nyaa](https://nekobt.to/torrents/12265998193409) |
-| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep01 (1080...` | **944.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/620401) • [🐱 Nyaa](https://nekobt.to/torrents/12265920954882) |
-| `[ASW] Reiwa no Dara-san - 02 [1080p HEVC x265 10Bit][AAC]` | **207.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/620398) • [🐱 Nyaa](https://nyaa.si/view/2130143) |
-| `[Judas] Reiwa no Dara-san (Dara-san of Reiwa) - S01E02 [1080p][HEVC...` | **214.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/620399) • [🐱 Nyaa](https://nyaa.si/view/2130142) |
-| `[Onalrie] Bungou Stray Dogs Wan! - S02E02 [1080p WEBRip AV1]` | **115.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/620402) • [🐱 Nyaa](https://nekobt.to/torrents/12265796391428) |
-| `[ASW] Bungou Stray Dogs Wan! S2 - 02 [1080p HEVC x265 10Bit][AAC]` | **155.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620400) • [🐱 Nyaa](https://nyaa.si/view/2130141) |
-| `[ToonsHub] GANSO BanG Dream Chan S01E40 1080p AMZN WEB-DL DDP2.0 H....` | **63.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/620395) • [🐱 Nyaa](https://nyaa.si/view/2130140) |
-| `[Onalrie] Reiwa no Dara-san - S01E02 [1080p WEBRip AV1]` | **166.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/620397) • [🐱 Nyaa](https://nekobt.to/torrents/12265629806340) |
-| `[ToonsHub] Bungo Stray Dogs WAN S02E02 1080p AMZN WEB-DL DDP2.0 H.2...` | **438.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/620396) • [🐱 Nyaa](https://nyaa.si/view/2130137) |
-| `[VARYG] Bungo Stray Dogs WAN S02E02 1080p CR WEB-DL AAC2.0 H.264 (B...` | **688.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/620394) • [🐱 Nyaa](https://nekobt.to/torrents/12265379319555) |
-| `[ToonsHub] Bungo Stray Dogs WAN S02E02 1080p CR WEB-DL AAC2.0 H.264...` | **688.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/620383) • [🐱 Nyaa](https://nyaa.si/view/2130133) |
-| `[SubsPlease] Bungou Stray Dogs Wan! S2 - 02 (1080p) [FE1D50E4].mkv` | **683.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/620384) • [🐱 Nyaa](https://nyaa.si/view/2130131) |
-| `[Erai-raws] Bungou Stray Dogs Wan 2 - 02 [1080p CR WEB-DL AVC AAC][...` | **688.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/620389) • [🐱 Nyaa](https://nyaa.si/view/2130125) |
+| `[Onalrie] Rakudai Kenja no Gakuin Musou - S01E03 [1080p WEBRip AV1]` | **214.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/620457) • [🐱 Nyaa](https://nekobt.to/torrents/12268867293441) |
+| `The Ramparts of Ice S01 1080p DSNP WEB-DL DUAL DDP2.0 H.264-ppkhoa` | **11230.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/620458) • [🐱 Nyaa](https://nekobt.to/torrents/12268834836484) |
+| `[DKB] BanG Dream! Yume∞Mita - S01E04 [1080p][HEVC x265 10bit][Multi...` | **361.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/620453) • [🐱 Nyaa](https://nyaa.si/view/2130241) |
+| `[DKB] Bungo Stray Dogs WAN! - S02E02 [1080p][HEVC x265 10bit][Multi...` | **160.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/620454) • [🐱 Nyaa](https://nyaa.si/view/2130239) |
+| `[ASW] Mebius Dust - 01 [1080p HEVC x265 10Bit][AAC]` | **310.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/620455) • [🐱 Nyaa](https://nyaa.si/view/2130238) |
+| `[ASW] Rakudai Kenja no Gakuin Musou - 03 [1080p HEVC x265 10Bit][AAC]` | **295.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/620456) • [🐱 Nyaa](https://nyaa.si/view/2130237) |
+| `Chainsmoker Cat S01E02 SUBFRENCH 1080p NF WEB-DL AAC2.0 x264-Tsunde...` | **901.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620452) • [🐱 Nyaa](https://nekobt.to/torrents/12268529092108) |
+| `[Erai-raws] Rakudai Kenja no Gakuin Musou - 03 [1080p CR WEBRip HEV...` | **518.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/620447) • [🐱 Nyaa](https://nyaa.si/view/2130235) |
+| `[geckyzz] Chainsmoker Cat - S01E02 (ヤニねこ; Yani Neko) [UNCENSORED, O...` | **480.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/620448) • [🐱 Nyaa](https://nyaa.si/view/2130234) |
+| `[ToonsHub] Chainsmoker Cat S01E02 1080p NF WEB-DL AAC2.0 H.264 (Yan...` | **866.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/620449) • [🐱 Nyaa](https://nyaa.si/view/2130233) |
+| `Chainsmoker Cat S01E02 1080p NF WEB-DL AAC2.0 H 264-VARYG (Yani Nek...` | **866.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/620450) • [🐱 Nyaa](https://nyaa.si/view/2130232) |
+| `[Judas] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Che...` | **294.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/620451) • [🐱 Nyaa](https://nyaa.si/view/2130229) |
+| `[Onalrie] Mebius Dust - S01E01 [1080p WEBRip AV1]` | **218.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620446) • [🐱 Nyaa](https://nekobt.to/torrents/12268283261707) |
+| `[Erai-raws] Bang Dream Yumemita - 04 [1080p CR WEBRip HEVC AAC][Mul...` | **405.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/620439) • [🐱 Nyaa](https://nyaa.si/view/2130210) |
+| `[Erai-raws] Mebius Dust - 01 [1080p CR WEB-DL AVC AAC][MultiSub][24...` | **1390.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/620442) • [🐱 Nyaa](https://nyaa.si/view/2130207) |
 
 ---
 <div align="center">
