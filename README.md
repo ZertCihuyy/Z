@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.29.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.25.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E12 (1080p WEBRip AA...` | **517.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/620497) • [🐱 Nyaa](https://nekobt.to/torrents/12270524342791) |
-| `[DKB] Yani Neko - S01E02 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **514.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/620494) • [🐱 Nyaa](https://nyaa.si/view/2130301) |
-| `[Onalrie] Otome Kaijuu Carameliser - S01E02 [1080p WEBRip AV1]` | **267.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/620498) • [🐱 Nyaa](https://nekobt.to/torrents/12270448704516) |
-| `[VARYG] The Exiled Heavy Knight Knows How to Game the System S01E02...` | **1406.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620489) • [🐱 Nyaa](https://nekobt.to/torrents/12270254934534) |
-| `[ToonsHub] Smoking Behind the Supermarket with You S01E01 1080p CR ...` | **1444.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620490) • [🐱 Nyaa](https://nekobt.to/torrents/12270252719108) |
-| `[SubsPlease] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Mus...` | **1378.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/620495) • [🐱 Nyaa](https://nyaa.si/view/2130294) |
-| `[VARYG] Smoking Behind the Supermarket with You S01E01 1080p CR WEB...` | **1422.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/620491) • [🐱 Nyaa](https://nekobt.to/torrents/12270250735365) |
-| `[SubsPlease] Super no Ura de Yani Suu Futari - 01 (1080p) [B9F7B295...` | **1395.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/620496) • [🐱 Nyaa](https://nyaa.si/view/2130291) |
-| `[Erai-raws] Super no Ura de Yani Suu Futari - 01 [1080p CR WEB-DL A...` | **1404.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/620477) • [🐱 Nyaa](https://nyaa.si/view/2130289) |
-| `[ToonsHub] Smoking Behind the Supermarket with You S02E01 1080p CR ...` | **1444.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620480) • [🐱 Nyaa](https://nyaa.si/view/2130286) |
-| `[ToonsHub] The Exiled Heavy Knight Knows How to Game the System S01...` | **1427.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620481) • [🐱 Nyaa](https://nyaa.si/view/2130285) |
-| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **1387.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/620486) • [🐱 Nyaa](https://nyaa.si/view/2130277) |
-| `[ToonsHub] The Exiled Heavy Knight Knows How to Game the System S01...` | **877.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/620487) • [🐱 Nyaa](https://nyaa.si/view/2130276) |
-| `[Judas] Mebius Dust - S01E01 [1080p][HEVC x265 10bit][Multi-Subs] (...` | **323.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/620488) • [🐱 Nyaa](https://nyaa.si/view/2130275) |
-| `Smoking Behind the Supermarket With You S01E01 Smoke 1 1080p NF WEB...` | **902.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/620466) • [🐱 Nyaa](https://nyaa.si/view/2130273) |
+| `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **1135.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620516) • [🐱 Nyaa](https://nyaa.si/view/2130323) |
+| `Angel's Egg (1985) (BDRip 1080p x265 HEVC OPUS)(Dual Audio)[MICO XD]` | **2774.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/620517) • [🐱 Nyaa](https://nyaa.si/view/2130322) |
+| `[VARYG] KAIJU GIRL CARAMELISE S01E02 1080p BILI WEB-DL AAC2.0 H.264...` | **398.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/620513) • [🐱 Nyaa](https://nekobt.to/torrents/12271915214603) |
+| `[VARYG] The Frontier Lord Begins with Zero Subjects S01E01 1080p BI...` | **300.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620514) • [🐱 Nyaa](https://nekobt.to/torrents/12271901326601) |
+| `[ToonsHub] Star Blazers Space Battleship Yamato 3199 EP22 1080p CR ...` | **1415.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/620508) • [🐱 Nyaa](https://nyaa.si/view/2130319) |
+| `[ToonsHub] Star Blazers Space Battleship Yamato 3199 EP21 1080p CR ...` | **1416.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/620509) • [🐱 Nyaa](https://nyaa.si/view/2130318) |
+| `[ToonsHub] Star Blazers Space Battleship Yamato 3199 EP20 1080p CR ...` | **1419.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/620510) • [🐱 Nyaa](https://nyaa.si/view/2130317) |
+| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **1053.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/620511) • [🐱 Nyaa](https://nyaa.si/view/2130316) |
+| `[ToonsHub] Star Blazers Space Battleship Yamato 3199 EP19 1080p CR ...` | **1417.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/620512) • [🐱 Nyaa](https://nyaa.si/view/2130315) |
+| `[Onalrie] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou ...` | **829.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/620515) • [🐱 Nyaa](https://nekobt.to/torrents/12271718487816) |
+| `[jaaj] Clannad S01+S02+OVA (2007) (BD 1080p AV1 OPUS)` | **11886.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/620507) • [🐱 Nyaa](https://nekobt.to/torrents/12271626297864) |
+| `[ToonsHub] KAIJU GIRL CARAMELISE S01E02 1080p BILI WEB-DL AAC2.0 H....` | **371.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/620506) • [🐱 Nyaa](https://nyaa.si/view/2130311) |
+| `[BlackRabbit] Trapped in a Dating Sim - The World of Otome Games Is...` | **2187.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/620505) • [🐱 Nyaa](https://nekobt.to/torrents/12271131972102) |
+| `[ASW] Super no Ura de Yani Suu Futari - 01 [1080p HEVC x265 10Bit][...` | **185.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/620504) • [🐱 Nyaa](https://nyaa.si/view/2130310) |
+| `[Erai-raws] Yani Neko - 02 [1080p NF WEBRip HEVC AAC][MultiSub][0CD...` | **614.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/620501) • [🐱 Nyaa](https://nyaa.si/view/2130309) |
 
 ---
 <div align="center">
