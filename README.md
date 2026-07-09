@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.20.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.05.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **425.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/620369) • [🐱 Nyaa](https://nyaa.si/view/2130093) |
-| `[Gecko] Koala's Diary - S01E40 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **49.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/620370) • [🐱 Nyaa](https://nyaa.si/view/2130092) |
-| `[ToonsHub] Koalas Diary S01E40 1080p LNTV WEB-DL AAC2.0 H.264 (Koal...` | **71.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/620371) • [🐱 Nyaa](https://nyaa.si/view/2130091) |
-| `[geckyzz] Perfect Addiction - S01E01 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **198.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/620372) • [🐱 Nyaa](https://nyaa.si/view/2130090) |
-| `[Gecko] Cat Tales - S01E39 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/620368) • [🐱 Nyaa](https://nekobt.to/torrents/12263699294731) |
-| `[BlackRabbit] JUJUTSU KAISEN (2020) - S03 [WEBDL-1080p][Opus 2.0][AV1]` | **2972.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620367) • [🐱 Nyaa](https://nekobt.to/torrents/12262177098253) |
-| `[ToonsHub] KAMUI Hes Behind You S01E01 1080p UNCENSORED WEB-DL AAC2...` | **308.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/620366) • [🐱 Nyaa](https://nyaa.si/view/2130082) |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E10 (1080p WEBRip AA...` | **689.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620365) • [🐱 Nyaa](https://nekobt.to/torrents/12261435408653) |
-| `[derpie] MARRIAGETOXIN - S01E12 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1726.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/620364) • [🐱 Nyaa](https://nekobt.to/torrents/12259932334604) |
-| `[RUBaDUB] Possibly the Greatest Alchemist of All Time  (S1 Complete...` | **15080.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/620363) • [🐱 Nyaa](https://nyaa.si/view/2130060) |
-| `Reborn as a Cat S01E34 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **215.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620362) • [🐱 Nyaa](https://nyaa.si/view/2130059) |
-| `[BlackRabbit] Cherry Magic! Thirty Years of Virginity Can Make You ...` | **1424.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/620361) • [🐱 Nyaa](https://nekobt.to/torrents/12258022843394) |
-| `[Gecko] Candy Caries - S01E13 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **88.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620358) • [🐱 Nyaa](https://nyaa.si/view/2130048) |
-| `[Gecko] The Chronicles of City God - S01E06 (城隍录; Cheng Huang Lu; C...` | **104.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620355) • [🐱 Nyaa](https://nyaa.si/view/2130038) |
-| `[Gecko] The Chronicles of City God - S01E05 (城隍录; Cheng Huang Lu; C...` | **89.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620356) • [🐱 Nyaa](https://nyaa.si/view/2130037) |
+| `[Erai-raws] Reiwa no Dara-san - 02 [1080p CR WEBRip HEVC AAC][Multi...` | **488.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620404) • [🐱 Nyaa](https://nekobt.to/torrents/12266171510024) |
+| `[HuangSubs] The Demon Hunter Season 3 01-15 (1080p) | (沧元图 第三季, Can...` | **5234.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/620403) • [🐱 Nyaa](https://nyaa.si/view/2130144) |
+| `[BlackRabbit] Fate+Apocrypha (2017) - S01 [Bluray-1080p][Opus 2.0][...` | **3986.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/620405) • [🐱 Nyaa](https://nekobt.to/torrents/12265998193409) |
+| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep01 (1080...` | **944.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/620401) • [🐱 Nyaa](https://nekobt.to/torrents/12265920954882) |
+| `[ASW] Reiwa no Dara-san - 02 [1080p HEVC x265 10Bit][AAC]` | **207.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/620398) • [🐱 Nyaa](https://nyaa.si/view/2130143) |
+| `[Judas] Reiwa no Dara-san (Dara-san of Reiwa) - S01E02 [1080p][HEVC...` | **214.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/620399) • [🐱 Nyaa](https://nyaa.si/view/2130142) |
+| `[Onalrie] Bungou Stray Dogs Wan! - S02E02 [1080p WEBRip AV1]` | **115.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/620402) • [🐱 Nyaa](https://nekobt.to/torrents/12265796391428) |
+| `[ASW] Bungou Stray Dogs Wan! S2 - 02 [1080p HEVC x265 10Bit][AAC]` | **155.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620400) • [🐱 Nyaa](https://nyaa.si/view/2130141) |
+| `[ToonsHub] GANSO BanG Dream Chan S01E40 1080p AMZN WEB-DL DDP2.0 H....` | **63.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/620395) • [🐱 Nyaa](https://nyaa.si/view/2130140) |
+| `[Onalrie] Reiwa no Dara-san - S01E02 [1080p WEBRip AV1]` | **166.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/620397) • [🐱 Nyaa](https://nekobt.to/torrents/12265629806340) |
+| `[ToonsHub] Bungo Stray Dogs WAN S02E02 1080p AMZN WEB-DL DDP2.0 H.2...` | **438.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/620396) • [🐱 Nyaa](https://nyaa.si/view/2130137) |
+| `[VARYG] Bungo Stray Dogs WAN S02E02 1080p CR WEB-DL AAC2.0 H.264 (B...` | **688.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/620394) • [🐱 Nyaa](https://nekobt.to/torrents/12265379319555) |
+| `[ToonsHub] Bungo Stray Dogs WAN S02E02 1080p CR WEB-DL AAC2.0 H.264...` | **688.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/620383) • [🐱 Nyaa](https://nyaa.si/view/2130133) |
+| `[SubsPlease] Bungou Stray Dogs Wan! S2 - 02 (1080p) [FE1D50E4].mkv` | **683.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/620384) • [🐱 Nyaa](https://nyaa.si/view/2130131) |
+| `[Erai-raws] Bungou Stray Dogs Wan 2 - 02 [1080p CR WEB-DL AVC AAC][...` | **688.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/620389) • [🐱 Nyaa](https://nyaa.si/view/2130125) |
 
 ---
 <div align="center">
