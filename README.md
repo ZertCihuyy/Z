@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.46.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.15.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 01 [1080p AMZN ...` | **321.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/620348) • [🐱 Nyaa](https://nyaa.si/view/2130000) |
+| `[Ironclad] Katainaka no Ossan II - S02E01 [WEB.1080p.AV1] | From Ol...` | **375.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620347) • [🐱 Nyaa](https://nyaa.si/view/2129999) |
+| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 03 [1080p CR WEB...` | **450.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620346) • [🐱 Nyaa](https://nyaa.si/view/2129992) |
+| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E01 [1080p][HEVC x265...` | **327.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620343) • [🐱 Nyaa](https://nyaa.si/view/2129991) |
+| `[Prozac] You and I Are Polar Opposites (2026) - S01 (CR WEB-DL 1080...` | **17621.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620344) • [🐱 Nyaa](https://nyaa.si/view/2129990) |
+| `[DKB] LV999 no Murabito - S01E03 [1080p][HEVC x265 10bit][Multi-Sub...` | **254.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620345) • [🐱 Nyaa](https://nyaa.si/view/2129989) |
 | `[Erai-raws] Dogulwang - 01 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **702.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/620342) • [🐱 Nyaa](https://nekobt.to/torrents/12252261382921) |
 | `[Gecko] Candy Caries - S01E13 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **68.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/620341) • [🐱 Nyaa](https://nyaa.si/view/2129983) |
 | `[Erai-raws] Dogulwang - 01 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **728.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/620340) • [🐱 Nyaa](https://nyaa.si/view/2129979) |
@@ -42,12 +48,6 @@
 | `[Sristi] Another - 12 [1080p BD HEVC 10-bit OPUS]` | **733.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/620330) • [🐱 Nyaa](https://nekobt.to/torrents/12249167471113) |
 | `[SubsNoJutsu] Tomb Raider King - S01E01 (1080p WEB-DL AAC x264) [EA...` | **1351.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/620331) • [🐱 Nyaa](https://nekobt.to/torrents/12249016844033) |
 | `[Erai-raws] Lv999 no Murabito - 03 [1080p CR WEBRip HEVC AAC][Multi...` | **415.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620329) • [🐱 Nyaa](https://nyaa.si/view/2129965) |
-| `[ToonsHub] Candy Caries S01E13 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **186.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/620328) • [🐱 Nyaa](https://nyaa.si/view/2129964) |
-| `[VARYG] Thunder 3 S01E01 SMALL THREE 1080p NF WEB-DL DUAL AAC2.0 H....` | **857.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/620325) • [🐱 Nyaa](https://nekobt.to/torrents/12248436175367) |
-| `[VARYG] Thunder 3 S01E01 SMALL THREE 1080p NF WEB-DL MULTi AAC2.0 H...` | **1144.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/620326) • [🐱 Nyaa](https://nekobt.to/torrents/12248412731401) |
-| `[Ironclad] Clevatess II - S02E01 [WEB.1080p.AV1] | Clevatess (Multi...` | **778.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/620317) • [🐱 Nyaa](https://nyaa.si/view/2129961) |
-| `Petals of Reincarnation S01E08 Savior 1080p AMZN WEB-DL DUAL DDP2.0...` | **1362.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/620318) • [🐱 Nyaa](https://nyaa.si/view/2129960) |
-| `Clevatess S02E01 Solsein the Divine Academy 1080p CR WEB-DL MULTi A...` | **1521.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620319) • [🐱 Nyaa](https://nyaa.si/view/2129958) |
 
 ---
 <div align="center">
