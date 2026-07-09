@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.15.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.31.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Candy Caries - S01E13 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **88.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620358) • [🐱 Nyaa](https://nyaa.si/view/2130048) |
+| `[Gecko] The Chronicles of City God - S01E06 (城隍录; Cheng Huang Lu; C...` | **104.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620355) • [🐱 Nyaa](https://nyaa.si/view/2130038) |
+| `[Gecko] The Chronicles of City God - S01E05 (城隍录; Cheng Huang Lu; C...` | **89.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620356) • [🐱 Nyaa](https://nyaa.si/view/2130037) |
+| `[Gecko] The Chronicles of City God - S01E04 (城隍录; Cheng Huang Lu; C...` | **99.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620357) • [🐱 Nyaa](https://nyaa.si/view/2130035) |
+| `Saiyuki S04 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VO...` | **16164.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/620353) • [🐱 Nyaa](https://nyaa.si/view/2130022) |
+| `Saiyuki Reload Zeroin S01 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Ts...` | **7158.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/620350) • [🐱 Nyaa](https://nekobt.to/torrents/12254936113926) |
+| `Saiyuki Gaiden S01 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-...` | **2726.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/620351) • [🐱 Nyaa](https://nekobt.to/torrents/12254884723978) |
+| `Sailor Moon Crystal S03 MULTi 1080p ADN WEB-DL AAC2.0 x264-Tsundere...` | **8204.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/620352) • [🐱 Nyaa](https://nekobt.to/torrents/12254846058507) |
+| `[Erai-raws] Thunder 3 - 01 [1080p NF WEBRip HEVC AAC][MultiSub][CAC...` | **628.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620349) • [🐱 Nyaa](https://nyaa.si/view/2130006) |
 | `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 01 [1080p AMZN ...` | **321.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/620348) • [🐱 Nyaa](https://nyaa.si/view/2130000) |
 | `[Ironclad] Katainaka no Ossan II - S02E01 [WEB.1080p.AV1] | From Ol...` | **375.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620347) • [🐱 Nyaa](https://nyaa.si/view/2129999) |
 | `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 03 [1080p CR WEB...` | **450.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620346) • [🐱 Nyaa](https://nyaa.si/view/2129992) |
 | `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E01 [1080p][HEVC x265...` | **327.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620343) • [🐱 Nyaa](https://nyaa.si/view/2129991) |
 | `[Prozac] You and I Are Polar Opposites (2026) - S01 (CR WEB-DL 1080...` | **17621.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620344) • [🐱 Nyaa](https://nyaa.si/view/2129990) |
 | `[DKB] LV999 no Murabito - S01E03 [1080p][HEVC x265 10bit][Multi-Sub...` | **254.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620345) • [🐱 Nyaa](https://nyaa.si/view/2129989) |
-| `[Erai-raws] Dogulwang - 01 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **702.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/620342) • [🐱 Nyaa](https://nekobt.to/torrents/12252261382921) |
-| `[Gecko] Candy Caries - S01E13 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **68.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/620341) • [🐱 Nyaa](https://nyaa.si/view/2129983) |
-| `[Erai-raws] Dogulwang - 01 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **728.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/620340) • [🐱 Nyaa](https://nyaa.si/view/2129979) |
-| `[SubsPlease] Yuusha no Rokkotsu de (01-12) (1080p) [Batch]` | **15974.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/620337) • [🐱 Nyaa](https://nyaa.si/view/2129978) |
-| `[SubsPlease] Tadaima, Ojamasaremasu! (01-12) (1080p) [Batch]` | **16001.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/620334) • [🐱 Nyaa](https://nyaa.si/view/2129972) |
-| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 01 [108...` | **470.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/620332) • [🐱 Nyaa](https://nyaa.si/view/2129969) |
-| `[Sristi] Another - 12 [1080p BD HEVC 10-bit OPUS]` | **733.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/620330) • [🐱 Nyaa](https://nekobt.to/torrents/12249167471113) |
-| `[SubsNoJutsu] Tomb Raider King - S01E01 (1080p WEB-DL AAC x264) [EA...` | **1351.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/620331) • [🐱 Nyaa](https://nekobt.to/torrents/12249016844033) |
-| `[Erai-raws] Lv999 no Murabito - 03 [1080p CR WEBRip HEVC AAC][Multi...` | **415.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620329) • [🐱 Nyaa](https://nyaa.si/view/2129965) |
 
 ---
 <div align="center">
