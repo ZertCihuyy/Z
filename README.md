@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.01.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.37.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AnoZu] ONE PIECE HEROINES 2026 REPACK 1080p CR WEB-DL DDP 2.0 H.264` | **1390.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620548) • [🐱 Nyaa](https://nyaa.si/view/2130363) |
+| `[Erai-raws] Yamato yo Towa ni: Rebel 3199 - 22 [1080p CR WEB-DL AVC...` | **1417.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620547) • [🐱 Nyaa](https://nyaa.si/view/2130357) |
+| `[Erai-raws] Yamato yo Towa ni: Rebel 3199 - 21 [1080p CR WEB-DL AVC...` | **1418.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/620540) • [🐱 Nyaa](https://nekobt.to/torrents/12274604482049) |
+| `[Erai-raws] Yamato yo Towa ni: Rebel 3199 - 20 [1080p CR WEB-DL AVC...` | **1422.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620543) • [🐱 Nyaa](https://nekobt.to/torrents/12274568675599) |
+| `[Erai-raws] Yamato yo Towa ni: Rebel 3199 - 19 [1080p CR WEB-DL AVC...` | **1419.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/620537) • [🐱 Nyaa](https://nyaa.si/view/2130348) |
+| `[Nitsy] BanG Dream! Yume∞Mita - S01E04 (1080p WEB AAC x264)` | **1397.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/620544) • [🐱 Nyaa](https://nekobt.to/torrents/12274482367758) |
+| `[Erai-raws] Otome Kaijuu Carameliser - 02 [1080p CR WEBRip HEVC AAC...` | **562.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/620534) • [🐱 Nyaa](https://nyaa.si/view/2130347) |
 | `[Erai-raws] Super no Ura de Yani Suu Futari - 01 [1080p CR WEBRip H...` | **352.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620529) • [🐱 Nyaa](https://nyaa.si/view/2130343) |
 | `[SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 (01...` | **22082.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620530) • [🐱 Nyaa](https://nyaa.si/view/2130342) |
 | `[Ironclad] Reiwa no Dara-san - S01E02 [WEB.1080p.AV1] | Dara-San of...` | **228.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620532) • [🐱 Nyaa](https://nyaa.si/view/2130340) |
@@ -39,13 +46,6 @@
 | `[DKB] Super no Ura de Yani Suu Futari - S01E01 [1080p][HEVC x265 10...` | **208.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/620523) • [🐱 Nyaa](https://nyaa.si/view/2130332) |
 | `[denisplay] Otome Kaijuu Carameliser - 02 [1080p] [AV1] (Weekly) (K...` | **353.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620524) • [🐱 Nyaa](https://nyaa.si/view/2130331) |
 | `[DKB] Otome Kaijuu Caraméliser - S01E02 [1080p][HEVC x265 10bit][Mu...` | **509.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/620527) • [🐱 Nyaa](https://nyaa.si/view/2130328) |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E13 (1080p WEBRip AA...` | **549.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/620521) • [🐱 Nyaa](https://nekobt.to/torrents/12272376920586) |
-| `[SubsPlease] Yamato yo Towa ni - Rebel 3199 (19-22) (1080p) [Batch]` | **5645.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/620518) • [🐱 Nyaa](https://nyaa.si/view/2130326) |
-| `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **1135.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620516) • [🐱 Nyaa](https://nyaa.si/view/2130323) |
-| `Angel's Egg (1985) (BDRip 1080p x265 HEVC OPUS)(Dual Audio)[MICO XD]` | **2774.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/620517) • [🐱 Nyaa](https://nyaa.si/view/2130322) |
-| `[VARYG] KAIJU GIRL CARAMELISE S01E02 1080p BILI WEB-DL AAC2.0 H.264...` | **398.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/620513) • [🐱 Nyaa](https://nekobt.to/torrents/12271915214603) |
-| `[VARYG] The Frontier Lord Begins with Zero Subjects S01E01 1080p BI...` | **300.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620514) • [🐱 Nyaa](https://nekobt.to/torrents/12271901326601) |
-| `[ToonsHub] Star Blazers Space Battleship Yamato 3199 EP22 1080p CR ...` | **1415.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/620508) • [🐱 Nyaa](https://nyaa.si/view/2130319) |
 
 ---
 <div align="center">
