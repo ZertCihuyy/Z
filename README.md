@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.37.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.16.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Yani Neko - S01E02 [WEB.1080p.AV1] | Chainsmoker Cat (Mu...` | **521.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/620554) • [🐱 Nyaa](https://nyaa.si/view/2130382) |
+| `[ASW] Bananya At-Home Party - 01 [1080p HEVC x265 10Bit][AAC]` | **91.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620555) • [🐱 Nyaa](https://nyaa.si/view/2130381) |
+| `[ToonsHub] Bananya S04E01 1080p CR WEB-DL AAC2.0 H.264 (Bananya At-...` | **472.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/620550) • [🐱 Nyaa](https://nyaa.si/view/2130369) |
+| `[SubsPlease] Bananya At-Home Party - 01 (1080p) [4B27AC75].mkv` | **470.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/620551) • [🐱 Nyaa](https://nyaa.si/view/2130368) |
+| `[BlackRose] The Ghost in the Shell (2026) - S01E01 (WEB 1080p HEVC ...` | **7229.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/620549) • [🐱 Nyaa](https://nekobt.to/torrents/12275656951040) |
 | `[AnoZu] ONE PIECE HEROINES 2026 REPACK 1080p CR WEB-DL DDP 2.0 H.264` | **1390.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620548) • [🐱 Nyaa](https://nyaa.si/view/2130363) |
 | `[Erai-raws] Yamato yo Towa ni: Rebel 3199 - 22 [1080p CR WEB-DL AVC...` | **1417.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620547) • [🐱 Nyaa](https://nyaa.si/view/2130357) |
 | `[Erai-raws] Yamato yo Towa ni: Rebel 3199 - 21 [1080p CR WEB-DL AVC...` | **1418.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/620540) • [🐱 Nyaa](https://nekobt.to/torrents/12274604482049) |
@@ -41,11 +46,6 @@
 | `[Erai-raws] Super no Ura de Yani Suu Futari - 01 [1080p CR WEBRip H...` | **352.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620529) • [🐱 Nyaa](https://nyaa.si/view/2130343) |
 | `[SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 (01...` | **22082.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620530) • [🐱 Nyaa](https://nyaa.si/view/2130342) |
 | `[Ironclad] Reiwa no Dara-san - S01E02 [WEB.1080p.AV1] | Dara-San of...` | **228.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620532) • [🐱 Nyaa](https://nyaa.si/view/2130340) |
-| `[DB] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-...` | **5538.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620528) • [🐱 Nyaa](https://nyaa.si/view/2130338) |
-| `[ClaudeDidIt] Wash it All Away (Kirei ni Shitemoraemasu ka) 1080p B...` | **4144.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620522) • [🐱 Nyaa](https://nyaa.si/view/2130333) |
-| `[DKB] Super no Ura de Yani Suu Futari - S01E01 [1080p][HEVC x265 10...` | **208.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/620523) • [🐱 Nyaa](https://nyaa.si/view/2130332) |
-| `[denisplay] Otome Kaijuu Carameliser - 02 [1080p] [AV1] (Weekly) (K...` | **353.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620524) • [🐱 Nyaa](https://nyaa.si/view/2130331) |
-| `[DKB] Otome Kaijuu Caraméliser - S01E02 [1080p][HEVC x265 10bit][Mu...` | **509.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/620527) • [🐱 Nyaa](https://nyaa.si/view/2130328) |
 
 ---
 <div align="center">
