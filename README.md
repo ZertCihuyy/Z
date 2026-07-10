@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.36.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.41.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AnoZu] Clevatess S02E01 REPACK 1080p CR WEB-DL Dual-Audio DDP 2.0 ...` | **1436.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/620752) • [🐱 Nyaa](https://nyaa.si/view/2130759) |
 | `[BlackRabbit] The Rising of the Shield Hero (2019) - S03 [Bluray-10...` | **2964.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/620751) • [🐱 Nyaa](https://nekobt.to/torrents/12295181475595) |
 | `[ToonsHub] The Drops of God S01E12 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1466.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/620749) • [🐱 Nyaa](https://nyaa.si/view/2130753) |
 | `[Yameii] The Drops of God - S01E12 [English Dub] [CR WEB-DL 1080p H...` | **625.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/620750) • [🐱 Nyaa](https://nyaa.si/view/2130752) |
@@ -47,7 +48,6 @@
 | `[SubsNoJutsu] Lord of Mysteries - S01E01 (1080p WEBRip EAC3 x265) [...` | **888.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/620727) • [🐱 Nyaa](https://nekobt.to/torrents/12293213536523) |
 | `[Erai-raws] Kore Kaite Shine - 02 [1080p CR WEBRip HEVC AAC][MultiS...` | **503.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/620725) • [🐱 Nyaa](https://nyaa.si/view/2130729) |
 | `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E02 [1080p WEBRip AV1]` | **158.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620724) • [🐱 Nyaa](https://onalrie.app/torrent/a02ff75d-ec69-4813-bc44-2b131a84cb24) |
-| `[SubsNoJutsu] Lord of Mysteries - S01E01 (1080p WEBRip EAC3 x265) [...` | **888.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/620722) • [🐱 Nyaa](https://nekobt.to/torrents/12292210512141) |
 
 ---
 <div align="center">
