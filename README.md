@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.16.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.40.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -14,7 +14,7 @@
 | :---: | :---: | --- | --- |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg" width="45" style="border-radius: 4px;"> | `05.10` | **[Hanakappa](https://anilist.co/anime/8336)** | *Comedy* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg" width="45" style="border-radius: 4px;"> | `05.40` | **[Chiikawa](https://anilist.co/anime/140842)** | *Comedy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213750-5hVyApOz4YXe.png" width="45" style="border-radius: 4px;"> | `07.00` | **[Bananya At-Home Party](https://anilist.co/anime/213750)** | *Adventure, Comedy, Fantasy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213750-5hVyApOz4YXe.png" width="45" style="border-radius: 4px;"> | `07.00` | **[Bananya: At-Home Party](https://anilist.co/anime/213750)** | *Adventure, Comedy, Fantasy, Slice of Life* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png" width="45" style="border-radius: 4px;"> | `11.00` | **[Bai Ri Cheng Wang](https://anilist.co/anime/213484)** | *Action, Adventure, Fantasy* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png" width="45" style="border-radius: 4px;"> | `20.30` | **[Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.](https://anilist.co/anime/199748)** | *Action, Adventure, Fantasy* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg" width="45" style="border-radius: 4px;"> | `20.30` | **[Ryoumin 0-Nin Start no Henkyou Ryoushu-sama](https://anilist.co/anime/196218)** | *Action, Comedy, Drama, Fantasy, Romance, Slice of Life* |
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Ironclad] Yani Neko - S01E02 [WEB.1080p.AV1] | Chainsmoker Cat (Mu...` | **521.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/620554) • [🐱 Nyaa](https://nyaa.si/view/2130382) |
-| `[ASW] Bananya At-Home Party - 01 [1080p HEVC x265 10Bit][AAC]` | **91.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620555) • [🐱 Nyaa](https://nyaa.si/view/2130381) |
-| `[ToonsHub] Bananya S04E01 1080p CR WEB-DL AAC2.0 H.264 (Bananya At-...` | **472.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/620550) • [🐱 Nyaa](https://nyaa.si/view/2130369) |
-| `[SubsPlease] Bananya At-Home Party - 01 (1080p) [4B27AC75].mkv` | **470.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/620551) • [🐱 Nyaa](https://nyaa.si/view/2130368) |
-| `[BlackRose] The Ghost in the Shell (2026) - S01E01 (WEB 1080p HEVC ...` | **7229.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/620549) • [🐱 Nyaa](https://nekobt.to/torrents/12275656951040) |
-| `[AnoZu] ONE PIECE HEROINES 2026 REPACK 1080p CR WEB-DL DDP 2.0 H.264` | **1390.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620548) • [🐱 Nyaa](https://nyaa.si/view/2130363) |
-| `[Erai-raws] Yamato yo Towa ni: Rebel 3199 - 22 [1080p CR WEB-DL AVC...` | **1417.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620547) • [🐱 Nyaa](https://nyaa.si/view/2130357) |
-| `[Erai-raws] Yamato yo Towa ni: Rebel 3199 - 21 [1080p CR WEB-DL AVC...` | **1418.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/620540) • [🐱 Nyaa](https://nekobt.to/torrents/12274604482049) |
-| `[Erai-raws] Yamato yo Towa ni: Rebel 3199 - 20 [1080p CR WEB-DL AVC...` | **1422.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620543) • [🐱 Nyaa](https://nekobt.to/torrents/12274568675599) |
-| `[Erai-raws] Yamato yo Towa ni: Rebel 3199 - 19 [1080p CR WEB-DL AVC...` | **1419.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/620537) • [🐱 Nyaa](https://nyaa.si/view/2130348) |
-| `[Nitsy] BanG Dream! Yume∞Mita - S01E04 (1080p WEB AAC x264)` | **1397.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/620544) • [🐱 Nyaa](https://nekobt.to/torrents/12274482367758) |
-| `[Erai-raws] Otome Kaijuu Carameliser - 02 [1080p CR WEBRip HEVC AAC...` | **562.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/620534) • [🐱 Nyaa](https://nyaa.si/view/2130347) |
-| `[Erai-raws] Super no Ura de Yani Suu Futari - 01 [1080p CR WEBRip H...` | **352.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620529) • [🐱 Nyaa](https://nyaa.si/view/2130343) |
-| `[SubsPlease] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 (01...` | **22082.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620530) • [🐱 Nyaa](https://nyaa.si/view/2130342) |
-| `[Ironclad] Reiwa no Dara-san - S01E02 [WEB.1080p.AV1] | Dara-San of...` | **228.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620532) • [🐱 Nyaa](https://nyaa.si/view/2130340) |
+| `[vLbE3L] NIPPON SANGOKU S01 [1080p AMZN WEBRip VVC HE-AACv2] [Multi...` | **4260.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/620581) • [🐱 Nyaa](https://nekobt.to/torrents/12280372524551) |
+| `[LbE3L] NIPPON SANGOKU S01 [1080p AMZN WEB-DL AV1 (Muxed) Opus 2.0]...` | **7346.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620582) • [🐱 Nyaa](https://nekobt.to/torrents/12280323888905) |
+| `[ASW] Bai Ri Cheng Wang - 05 [1080p HEVC x265 10Bit][AAC]` | **144.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/620580) • [🐱 Nyaa](https://nyaa.si/view/2130436) |
+| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E01 (いびってこ...` | **683.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/620577) • [🐱 Nyaa](https://nyaa.si/view/2130432) |
+| `[Gecko] Koala's Diary - S01E40 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **81.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/620578) • [🐱 Nyaa](https://nyaa.si/view/2130429) |
+| `[Gecko] Crowned in a Hundred Days - S01E06 (百日成王; Bai Ri Cheng Wang...` | **160.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620579) • [🐱 Nyaa](https://nyaa.si/view/2130427) |
+| `[VARYG] Crowned in a Hundred Days S01E06 1080p CR WEB-DL AAC2.0 H.2...` | **719.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/620573) • [🐱 Nyaa](https://nekobt.to/torrents/12279531252491) |
+| `[ToonsHub] Crowned in a Hundred Days S01E06 1080p CR WEB-DL AAC2.0 ...` | **718.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/620574) • [🐱 Nyaa](https://nekobt.to/torrents/12279506996737) |
+| `[ToonsHub] Crowned in a Hundred Days S01E05 1080p CR WEB-DL AAC2.0 ...` | **542.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620575) • [🐱 Nyaa](https://nekobt.to/torrents/12279505970698) |
+| `[VARYG] Crowned in a Hundred Days S01E05 1080p CR WEB-DL AAC2.0 H.2...` | **543.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/620576) • [🐱 Nyaa](https://nekobt.to/torrents/12279500571401) |
+| `[SubsPlease] Bai Ri Cheng Wang - 05 (1080p) [877F6E3C].mkv` | **541.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/620566) • [🐱 Nyaa](https://nyaa.si/view/2130410) |
+| `[ToonsHub] Crowned in a Hundred Days S01E06 1080p BILI WEB-DL AAC2....` | **157.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/620567) • [🐱 Nyaa](https://nyaa.si/view/2130409) |
+| `[Erai-raws] Crowned in a Hundred Days - 05 (CA) [1080p CR WEB-DL AV...` | **412.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/620572) • [🐱 Nyaa](https://nyaa.si/view/2130403) |
+| `[Gecko] BanG Dream! YUME∞MITA - S01E04 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **693.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620565) • [🐱 Nyaa](https://nyaa.si/view/2130401) |
+| `[DSubs] Pokémon Horizons - 138 (Localized Names) (WEBDL-1080p) [46...` | **674.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620564) • [🐱 Nyaa](https://nekobt.to/torrents/12278974114564) |
 
 ---
 <div align="center">
