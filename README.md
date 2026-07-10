@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.50.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.56.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Chainsmoker Cat S01E02 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsund...` | **601.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/620591) • [🐱 Nyaa](https://nekobt.to/torrents/12286185552651) |
+| `Chainsmoker Cat S01E02 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsunder...` | **213.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/620592) • [🐱 Nyaa](https://nekobt.to/torrents/12286181594895) |
+| `[Doomdos] - Sword Art Online: Unanswered//butterfly - [1080P VP9 5....` | **13849.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620590) • [🐱 Nyaa](https://nyaa.si/view/2130520) |
 | `[SubsNoJutsu] Goodbye, Lara - S01E01 (1080p WEBRip AAC x265) [B15DA...` | **438.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/620589) • [🐱 Nyaa](https://nekobt.to/torrents/12283011205130) |
 | `[RUBaDUB] 2.5 Dimensional Seduction (S1 Complete) (1080p) (Dual Audio)` | **31280.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620588) • [🐱 Nyaa](https://nyaa.si/view/2130512) |
 | `[Onalrie] Bananya At-Home Party - S01E01 [1080p WEBRip AV1]` | **76.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/620587) • [🐱 Nyaa](https://onalrie.app/torrent/f978a720-81fe-4c77-b88a-5125447e666a) |
@@ -43,9 +46,6 @@
 | `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E01 (いびってこ...` | **683.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/620577) • [🐱 Nyaa](https://nyaa.si/view/2130432) |
 | `[Gecko] Koala's Diary - S01E40 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **81.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/620578) • [🐱 Nyaa](https://nyaa.si/view/2130429) |
 | `[Gecko] Crowned in a Hundred Days - S01E06 (百日成王; Bai Ri Cheng Wang...` | **160.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620579) • [🐱 Nyaa](https://nyaa.si/view/2130427) |
-| `[VARYG] Crowned in a Hundred Days S01E06 1080p CR WEB-DL AAC2.0 H.2...` | **719.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/620573) • [🐱 Nyaa](https://nekobt.to/torrents/12279531252491) |
-| `[ToonsHub] Crowned in a Hundred Days S01E06 1080p CR WEB-DL AAC2.0 ...` | **718.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/620574) • [🐱 Nyaa](https://nekobt.to/torrents/12279506996737) |
-| `[ToonsHub] Crowned in a Hundred Days S01E05 1080p CR WEB-DL AAC2.0 ...` | **542.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620575) • [🐱 Nyaa](https://nekobt.to/torrents/12279505970698) |
 
 ---
 <div align="center">
