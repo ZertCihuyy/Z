@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.40.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.50.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Goodbye, Lara - S01E01 (1080p WEBRip AAC x265) [B15DA...` | **438.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/620589) • [🐱 Nyaa](https://nekobt.to/torrents/12283011205130) |
+| `[RUBaDUB] 2.5 Dimensional Seduction (S1 Complete) (1080p) (Dual Audio)` | **31280.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620588) • [🐱 Nyaa](https://nyaa.si/view/2130512) |
+| `[Onalrie] Bananya At-Home Party - S01E01 [1080p WEBRip AV1]` | **76.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/620587) • [🐱 Nyaa](https://onalrie.app/torrent/f978a720-81fe-4c77-b88a-5125447e666a) |
+| `[Onalrie] Bai Ri Cheng Wang - S01E05 [1080p WEBRip AV1]` | **113.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620586) • [🐱 Nyaa](https://nekobt.to/torrents/12282754181645) |
+| `[SweetSpot] Log Horizon S2 [BD 1080p HEVC AAC]` | **25123.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/620585) • [🐱 Nyaa](https://nekobt.to/torrents/12281952186114) |
+| `[CrappySubs] Daemons of the Shadow Realm - S01E13 (CR WEB 1080p H.2...` | **1396.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/620584) • [🐱 Nyaa](https://nekobt.to/torrents/12280896719880) |
 | `[vLbE3L] NIPPON SANGOKU S01 [1080p AMZN WEBRip VVC HE-AACv2] [Multi...` | **4260.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/620581) • [🐱 Nyaa](https://nekobt.to/torrents/12280372524551) |
 | `[LbE3L] NIPPON SANGOKU S01 [1080p AMZN WEB-DL AV1 (Muxed) Opus 2.0]...` | **7346.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620582) • [🐱 Nyaa](https://nekobt.to/torrents/12280323888905) |
 | `[ASW] Bai Ri Cheng Wang - 05 [1080p HEVC x265 10Bit][AAC]` | **144.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/620580) • [🐱 Nyaa](https://nyaa.si/view/2130436) |
@@ -40,12 +46,6 @@
 | `[VARYG] Crowned in a Hundred Days S01E06 1080p CR WEB-DL AAC2.0 H.2...` | **719.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/620573) • [🐱 Nyaa](https://nekobt.to/torrents/12279531252491) |
 | `[ToonsHub] Crowned in a Hundred Days S01E06 1080p CR WEB-DL AAC2.0 ...` | **718.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/620574) • [🐱 Nyaa](https://nekobt.to/torrents/12279506996737) |
 | `[ToonsHub] Crowned in a Hundred Days S01E05 1080p CR WEB-DL AAC2.0 ...` | **542.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620575) • [🐱 Nyaa](https://nekobt.to/torrents/12279505970698) |
-| `[VARYG] Crowned in a Hundred Days S01E05 1080p CR WEB-DL AAC2.0 H.2...` | **543.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/620576) • [🐱 Nyaa](https://nekobt.to/torrents/12279500571401) |
-| `[SubsPlease] Bai Ri Cheng Wang - 05 (1080p) [877F6E3C].mkv` | **541.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/620566) • [🐱 Nyaa](https://nyaa.si/view/2130410) |
-| `[ToonsHub] Crowned in a Hundred Days S01E06 1080p BILI WEB-DL AAC2....` | **157.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/620567) • [🐱 Nyaa](https://nyaa.si/view/2130409) |
-| `[Erai-raws] Crowned in a Hundred Days - 05 (CA) [1080p CR WEB-DL AV...` | **412.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/620572) • [🐱 Nyaa](https://nyaa.si/view/2130403) |
-| `[Gecko] BanG Dream! YUME∞MITA - S01E04 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **693.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620565) • [🐱 Nyaa](https://nyaa.si/view/2130401) |
-| `[DSubs] Pokémon Horizons - 138 (Localized Names) (WEBDL-1080p) [46...` | **674.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620564) • [🐱 Nyaa](https://nekobt.to/torrents/12278974114564) |
 
 ---
 <div align="center">
