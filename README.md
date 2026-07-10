@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.27.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.36.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] The Rising of the Shield Hero (2019) - S03 [Bluray-10...` | **2964.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/620751) • [🐱 Nyaa](https://nekobt.to/torrents/12295181475595) |
+| `[ToonsHub] The Drops of God S01E12 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1466.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/620749) • [🐱 Nyaa](https://nyaa.si/view/2130753) |
+| `[Yameii] The Drops of God - S01E12 [English Dub] [CR WEB-DL 1080p H...` | **625.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/620750) • [🐱 Nyaa](https://nyaa.si/view/2130752) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E12 REPACK 10...` | **1456.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/620747) • [🐱 Nyaa](https://nyaa.si/view/2130749) |
 | `[ToonsHub] That Time I Got Reincarnated as a Slime S04E12 1080p CR ...` | **1040.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/620745) • [🐱 Nyaa](https://nyaa.si/view/2130738) |
 | `[Gecko] Chibi Godzilla Raids Again - S01E106 (ちびゴジラの逆襲; Chibi Godzi...` | **22.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/620746) • [🐱 Nyaa](https://nyaa.si/view/2130736) |
 | `[Yameii] That Time I Got Reincarnated as a Slime - S04E12 [English ...` | **1003.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/620743) • [🐱 Nyaa](https://nyaa.si/view/2130735) |
@@ -44,10 +48,6 @@
 | `[Erai-raws] Kore Kaite Shine - 02 [1080p CR WEBRip HEVC AAC][MultiS...` | **503.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/620725) • [🐱 Nyaa](https://nyaa.si/view/2130729) |
 | `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E02 [1080p WEBRip AV1]` | **158.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620724) • [🐱 Nyaa](https://onalrie.app/torrent/a02ff75d-ec69-4813-bc44-2b131a84cb24) |
 | `[SubsNoJutsu] Lord of Mysteries - S01E01 (1080p WEBRip EAC3 x265) [...` | **888.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/620722) • [🐱 Nyaa](https://nekobt.to/torrents/12292210512141) |
-| `[BlackRabbit] The Rising of the Shield Hero (2019) - S01 [Bluray-10...` | **5384.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620723) • [🐱 Nyaa](https://nekobt.to/torrents/12292208355852) |
-| `[Erai-raws] Kami no Shizuku - 14 [1080p CR WEBRip HEVC AAC][MultiSu...` | **380.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/620713) • [🐱 Nyaa](https://nyaa.si/view/2130726) |
-| `[Mo7tas] Nana Maru San Batsu [BD 1080p] [Multi language subs]` | **2346.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/620714) • [🐱 Nyaa](https://nyaa.si/view/2130725) |
-| `[Erai-raws] Bungou Stray Dogs Wan 2 - 02 [1080p CR WEBRip HEVC AAC]...` | **301.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620715) • [🐱 Nyaa](https://nyaa.si/view/2130724) |
 
 ---
 <div align="center">
