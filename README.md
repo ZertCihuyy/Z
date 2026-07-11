@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.03.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.20.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E15 1080p BILI WEB-...` | **439.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/620828) • [🐱 Nyaa](https://nyaa.si/view/2130969) |
+| `Welcome to Demon School Iruma kun S04E15 Like Master Like Familiar ...` | **476.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/620829) • [🐱 Nyaa](https://nyaa.si/view/2130968) |
+| `Chitose Is in the Ramune Bottle (2025) [WEBRip] [1080p] [HEVC] [10b...` | **4598.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620830) • [🐱 Nyaa](https://nyaa.si/view/2130967) |
+| `[Onalrie] Honzuki no Gekokujou - S04E13 [1080p WEBRip AV1]` | **259.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/620827) • [🐱 Nyaa](https://nekobt.to/torrents/12307869506319) |
+| `Welcome to Demon School Iruma kun S04E15 The Laws of the Netherworl...` | **1607.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/620822) • [🐱 Nyaa](https://nyaa.si/view/2130963) |
+| `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Er...` | **392.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/620823) • [🐱 Nyaa](https://nyaa.si/view/2130962) |
+| `[Yameii] Welcome to Demon School! Iruma-kun - S04E15 [English Dub] ...` | **1462.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/620824) • [🐱 Nyaa](https://nyaa.si/view/2130961) |
+| `[ASW] Honzuki no Gekokujou S4 - 13 [1080p HEVC x265 10Bit][AAC]` | **383.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/620825) • [🐱 Nyaa](https://nyaa.si/view/2130959) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E15 1080p CR WEB-DL...` | **1605.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/620819) • [🐱 Nyaa](https://nekobt.to/torrents/12307511321612) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E15 1080p CR WEB-DL...` | **1502.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/620820) • [🐱 Nyaa](https://nekobt.to/torrents/12307509213704) |
+| `[SubsPlease] Mairimashita! Iruma-kun S4 - 15 (1080p) [5E35B7E7].mkv` | **1457.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/620811) • [🐱 Nyaa](https://nyaa.si/view/2130950) |
+| `Welcome to Demon School Iruma kun S04E15 1080p CR WEB-DL DUAL AAC2....` | **1504.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/620812) • [🐱 Nyaa](https://nyaa.si/view/2130949) |
+| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 15 [1080p CR WEB-DL...` | **1468.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620817) • [🐱 Nyaa](https://nyaa.si/view/2130943) |
+| `[ToonsHub] Way of Choices 2026 S01E26 1080p iQ WEB-DL AAC2.0 H.264 ...` | **610.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/620810) • [🐱 Nyaa](https://nyaa.si/view/2130939) |
 | `[Yameii] Ascendance of a Bookworm - S04E12 [English Dub] [CR WEB-DL...` | **1392.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/620806) • [🐱 Nyaa](https://nekobt.to/torrents/12306750268428) |
-| `[Yameii] Ascendance of a Bookworm - S04E11 [English Dub] [CR WEB-DL...` | **1394.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620807) • [🐱 Nyaa](https://nekobt.to/torrents/12306749876235) |
-| `Ascendance of a Bookworm S04E11 The Gathering of Gutenberg 1080p CR...` | **1450.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/620794) • [🐱 Nyaa](https://nyaa.si/view/2130934) |
-| `Ascendance of a Bookworm S04E13 Winter Material Gathering 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/620795) • [🐱 Nyaa](https://nyaa.si/view/2130933) |
-| `Ascendance of a Bookworm S04E12 The Winter Social Season and Debut ...` | **1448.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620796) • [🐱 Nyaa](https://nyaa.si/view/2130932) |
-| `[ToonsHub] Ascendance of a Bookworm S04E11 1080p CR WEB-DL DUAL AAC...` | **1471.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/620798) • [🐱 Nyaa](https://nyaa.si/view/2130930) |
-| `[ToonsHub] Ascendance of a Bookworm S04E12 1080p CR WEB-DL DUAL AAC...` | **1468.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/620797) • [🐱 Nyaa](https://nyaa.si/view/2130931) |
-| `[ToonsHub] Ascendance of a Bookworm S04E13 1080p CR WEB-DL AAC2.0 H...` | **1438.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/620799) • [🐱 Nyaa](https://nyaa.si/view/2130929) |
-| `[SubsPlease] Honzuki no Gekokujou S4 - 13 (1080p) [A4FE0990].mkv` | **1389.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/620800) • [🐱 Nyaa](https://nyaa.si/view/2130923) |
-| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1399.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/620805) • [🐱 Nyaa](https://nyaa.si/view/2130918) |
-| `[SubsNoJutsu] Lord of Mysteries - S01E02 (1080p WEBRip AAC x265) [6...` | **886.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/620808) • [🐱 Nyaa](https://nekobt.to/torrents/12306561847558) |
-| `[FoundYears] The Warrior Princess and the Barbaric King - S01E12 (C...` | **1446.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/620793) • [🐱 Nyaa](https://nekobt.to/torrents/12305773782275) |
-| `[VARYG] KILL BLUE S01E12 Life Paths 1080p AMZN WEB-DL MULTi DDP2.0 ...` | **854.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/620790) • [🐱 Nyaa](https://nekobt.to/torrents/12305708249090) |
-| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E12 (WEB ...` | **1453.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620791) • [🐱 Nyaa](https://nekobt.to/torrents/12305687831040) |
-| `[Sristi] Mirai Nikki - 01 v2 [BD 1080p][HEVC][FLAC]` | **1741.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/620792) • [🐱 Nyaa](https://nekobt.to/torrents/12305517939468) |
 
 ---
 <div align="center">
