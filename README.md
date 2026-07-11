@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.57.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.58.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E14 (1080p WEBRip AA...` | **469.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621096) • [🐱 Nyaa](https://nekobt.to/torrents/12318587457035) |
+| `Magilumiere Magical Girls Inc S02E02 No Logical Means of Exterminat...` | **1073.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/621091) • [🐱 Nyaa](https://nyaa.si/view/2131420) |
+| `[Yameii] Hanaori-san Still Wants to Fight in the Next Life - S01E01...` | **1401.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/621092) • [🐱 Nyaa](https://nyaa.si/view/2131419) |
+| `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E01 [...` | **605.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621094) • [🐱 Nyaa](https://nyaa.si/view/2131417) |
+| `HELL MODE S02E02 1080p ADN WEB-DL AAC2.0 H 264-VARYG (Hello!! Kinir...` | **564.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621090) • [🐱 Nyaa](https://nyaa.si/view/2131416) |
+| `[Erai-raws] Grow Up Show: Himawari no Circus-dan - 02 [1080p CR WEB...` | **453.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/621088) • [🐱 Nyaa](https://nyaa.si/view/2131414) |
+| `[sam] Grand Blue Dreaming - S03E01 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1740.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/621089) • [🐱 Nyaa](https://nyaa.si/view/2131413) |
 | `[Erai-raws] Akane-banashi - 10 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **377.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621083) • [🐱 Nyaa](https://nyaa.si/view/2131409) |
 | `[SubsPlease] Otaku ni Yasashii Gal wa Inai (01-12) (1080p) [Batch]` | **16178.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621085) • [🐱 Nyaa](https://nyaa.si/view/2131405) |
 | `Hanaori san Still Wants to Fight in the Next Life S01E01 When Ryuse...` | **1506.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621081) • [🐱 Nyaa](https://nyaa.si/view/2131395) |
@@ -41,13 +48,6 @@
 | `[neoDESU] Don't Toy with Me, Miss Nagatoro [Season 2] [BD 1080p HEV...` | **2860.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621078) • [🐱 Nyaa](https://nyaa.si/view/2131392) |
 | `[Anime Time] Black Torch - S01E02 [1080p][HEVC 10bit x265][AAC][Dua...` | **571.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621079) • [🐱 Nyaa](https://nyaa.si/view/2131391) |
 | `[Judas] Reincarnation no Kaben (Petals of Reincarnation) (Season 01...` | **5591.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621071) • [🐱 Nyaa](https://nyaa.si/view/2131387) |
-| `[Judas] Shunkashuutou Daikousha Haru no Mai (Agents of the Four Sea...` | **5500.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/621072) • [🐱 Nyaa](https://nyaa.si/view/2131386) |
-| `[Judas] Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Saret...` | **1887.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/621073) • [🐱 Nyaa](https://nyaa.si/view/2131385) |
-| `[Judas] Megami Isekai Tensei Nani ni Naritai Desuka Ore Yuusha no R...` | **6732.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/621074) • [🐱 Nyaa](https://nyaa.si/view/2131384) |
-| `[Judas] Mata Korosarete Shimatta no Desu ne, Tantei-sama (Killed Ag...` | **3096.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621075) • [🐱 Nyaa](https://nyaa.si/view/2131383) |
-| `[Onalrie] Yomi no Tsugai - S01E14 Rev. 2 [1080p WEBRip AV1]` | **283.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/621077) • [🐱 Nyaa](https://nekobt.to/torrents/12316554555917) |
-| `[Erai-raws] Saijo no Osewa - 02 [1080p CR WEBRip HEVC AAC][MultiSub...` | **425.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/621076) • [🐱 Nyaa](https://nyaa.si/view/2131382) |
-| `[BlackRabbit] Saga of Tanya the Evil (2017) - S00 [Bluray-1080p][Op...` | **867.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/621070) • [🐱 Nyaa](https://nekobt.to/torrents/12316406862597) |
 
 ---
 <div align="center">
