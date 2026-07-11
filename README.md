@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.39.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.29.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sristi] Mirai Nikki - 01 [BD 1080p][HEVC][FLAC]` | **1737.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/620789) • [🐱 Nyaa](https://nekobt.to/torrents/12305138645255) |
+| `The Drops of God S01E12 Take the Distant Path 1080p CR WEB-DL DUAL ...` | **1445.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/620783) • [🐱 Nyaa](https://nyaa.si/view/2130874) |
+| `That Time I Got Reincarnated as a Slime S04E12 Tempest Evolves 1080...` | **1457.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/620784) • [🐱 Nyaa](https://nyaa.si/view/2130873) |
+| `[Onalrie] Rilakkuma - S01E15 [1080p WEBRip AV1]` | **26.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/620788) • [🐱 Nyaa](https://nekobt.to/torrents/12304812154631) |
+| `RILAKKUMA S01E13 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Multi-Au...` | **118.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/620785) • [🐱 Nyaa](https://nyaa.si/view/2130872) |
+| `[RUBaDUB] Kaiju No. 8 (S1 Complete) (1080p) (Dual Audio)` | **15115.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/620786) • [🐱 Nyaa](https://nyaa.si/view/2130871) |
+| `One Piece Heroines 2026 1080p NF WEB-DL AAC2.0 H 264-VARYG (One Pie...` | **854.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620787) • [🐱 Nyaa](https://nyaa.si/view/2130870) |
+| `[VARYG] Daemons of the Shadow Realm S01E02 Right and Left 1080p NF ...` | **1116.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620782) • [🐱 Nyaa](https://nekobt.to/torrents/12304658884879) |
+| `[ToonsHub] One Piece Heroines (2026) 1080p NF WEB-DL AAC2.0 H.264 (...` | **854.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620780) • [🐱 Nyaa](https://nyaa.si/view/2130868) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E02 1080p NF WEB-DL MULTi...` | **1116.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620781) • [🐱 Nyaa](https://nyaa.si/view/2130867) |
+| `[nekotan] The Fruit of Grisaia S00E07 (BD 1080p x264 10-bit Opus) |...` | **97.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620778) • [🐱 Nyaa](https://nekobt.to/torrents/12304386865414) |
+| `[nekotan] The Fruit of Grisaia S00E07 (BD 1080p x264 10-bit Opus) |...` | **1298.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/620779) • [🐱 Nyaa](https://nekobt.to/torrents/12304386083342) |
 | `KonoSuba.God's.Blessing.On.This.Wonderful.World.S02.v2.1080p.BluRay...` | **19006.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/620777) • [🐱 Nyaa](https://nyaa.si/view/2130863) |
 | `[Judas] Kimi wo Aisuru Ki wa nai to Itta Jiki Koushaku-sama ga Naze...` | **887.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620776) • [🐱 Nyaa](https://nyaa.si/view/2130860) |
 | `Chainsmoker.Cat.S01E02.1080p.AMZN.Web.DL.H.264-Humble.mkv` | **1632.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/620774) • [🐱 Nyaa](https://nekobt.to/torrents/12302975464707) |
-| `Chainsmoker.Cat.S01E01.1080p.AMZN.Web.DL.H.264-Humble.mkv` | **1122.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/620775) • [🐱 Nyaa](https://nekobt.to/torrents/12302947034890) |
-| `[BlackRabbit] The Rising of the Shield Hero (2019) - S04 [WEBDL-108...` | **3064.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/620773) • [🐱 Nyaa](https://nekobt.to/torrents/12302724160514) |
-| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 13 [1080p][YT]` | **370.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/620768) • [🐱 Nyaa](https://nyaa.si/view/2130833) |
-| `[ToonsHub] Jiang Ye S01E13 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **472.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620769) • [🐱 Nyaa](https://nyaa.si/view/2130831) |
-| `[Gecko] Please Excuse My Younger Brothers - S01E02 (うちの弟どもがすみません; U...` | **709.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/620767) • [🐱 Nyaa](https://nekobt.to/torrents/12301391867150) |
-| `[HuangSubs] My Heroic Husband Season 1-2 (1080p) | (赘婿, My Heroic H...` | **17588.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620770) • [🐱 Nyaa](https://nyaa.si/view/2130828) |
-| `[Feibanyama] From Overshadowed to Overpowered Second Reincarnation ...` | **975.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/620766) • [🐱 Nyaa](https://nyaa.si/view/2130823) |
-| `[RandomBytes] The Summer Hikaru Died Season 1 v3 (BD 1080p HEVC 10-...` | **30299.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/620765) • [🐱 Nyaa](https://nyaa.si/view/2130822) |
-| `[ASW] Rilakkuma - 15 [1080p HEVC x265 10Bit][AAC]` | **30.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620761) • [🐱 Nyaa](https://nyaa.si/view/2130808) |
-| `[Erai-raws] Rilakkuma - 15 [1080p CR WEBRip HEVC AAC][MultiSub][92E...` | **35.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/620762) • [🐱 Nyaa](https://nyaa.si/view/2130806) |
-| `[ToonsHub] RILAKKUMA S01E15 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **91.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/620763) • [🐱 Nyaa](https://nyaa.si/view/2130805) |
-| `[VARYG] RILAKKUMA S01E15 1080p CR WEB-DL DUAL AAC2.0 H.264 (Multi-S...` | **95.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620760) • [🐱 Nyaa](https://nekobt.to/torrents/12298818857220) |
 
 ---
 <div align="center">
