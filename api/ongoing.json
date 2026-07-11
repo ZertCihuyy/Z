@@ -1,5 +1,5 @@
 {
-  "last_update": "11/7/2026, 15.29.36",
+  "last_update": "11/7/2026, 17.03.40",
   "data": [
     {
       "id": 21,
@@ -155,18 +155,18 @@
       }
     },
     {
-      "id": 197754,
+      "id": 210031,
       "title": {
-        "romaji": "LIAR GAME"
+        "romaji": "Seihantai na Kimi to Boku 2nd Season"
       },
       "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg"
       },
-      "episodes": null,
+      "episodes": 13,
       "studios": {
         "nodes": [
           {
-            "name": "MADHOUSE"
+            "name": "Lapin Track"
           }
         ]
       }

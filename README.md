@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.29.36_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.03.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Sristi] Mirai Nikki - 01 [BD 1080p][HEVC][FLAC]` | **1737.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/620789) • [🐱 Nyaa](https://nekobt.to/torrents/12305138645255) |
-| `The Drops of God S01E12 Take the Distant Path 1080p CR WEB-DL DUAL ...` | **1445.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/620783) • [🐱 Nyaa](https://nyaa.si/view/2130874) |
-| `That Time I Got Reincarnated as a Slime S04E12 Tempest Evolves 1080...` | **1457.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/620784) • [🐱 Nyaa](https://nyaa.si/view/2130873) |
-| `[Onalrie] Rilakkuma - S01E15 [1080p WEBRip AV1]` | **26.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/620788) • [🐱 Nyaa](https://nekobt.to/torrents/12304812154631) |
-| `RILAKKUMA S01E13 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Multi-Au...` | **118.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/620785) • [🐱 Nyaa](https://nyaa.si/view/2130872) |
-| `[RUBaDUB] Kaiju No. 8 (S1 Complete) (1080p) (Dual Audio)` | **15115.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/620786) • [🐱 Nyaa](https://nyaa.si/view/2130871) |
-| `One Piece Heroines 2026 1080p NF WEB-DL AAC2.0 H 264-VARYG (One Pie...` | **854.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620787) • [🐱 Nyaa](https://nyaa.si/view/2130870) |
-| `[VARYG] Daemons of the Shadow Realm S01E02 Right and Left 1080p NF ...` | **1116.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620782) • [🐱 Nyaa](https://nekobt.to/torrents/12304658884879) |
-| `[ToonsHub] One Piece Heroines (2026) 1080p NF WEB-DL AAC2.0 H.264 (...` | **854.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620780) • [🐱 Nyaa](https://nyaa.si/view/2130868) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E02 1080p NF WEB-DL MULTi...` | **1116.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620781) • [🐱 Nyaa](https://nyaa.si/view/2130867) |
-| `[nekotan] The Fruit of Grisaia S00E07 (BD 1080p x264 10-bit Opus) |...` | **97.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620778) • [🐱 Nyaa](https://nekobt.to/torrents/12304386865414) |
-| `[nekotan] The Fruit of Grisaia S00E07 (BD 1080p x264 10-bit Opus) |...` | **1298.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/620779) • [🐱 Nyaa](https://nekobt.to/torrents/12304386083342) |
-| `KonoSuba.God's.Blessing.On.This.Wonderful.World.S02.v2.1080p.BluRay...` | **19006.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/620777) • [🐱 Nyaa](https://nyaa.si/view/2130863) |
-| `[Judas] Kimi wo Aisuru Ki wa nai to Itta Jiki Koushaku-sama ga Naze...` | **887.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620776) • [🐱 Nyaa](https://nyaa.si/view/2130860) |
-| `Chainsmoker.Cat.S01E02.1080p.AMZN.Web.DL.H.264-Humble.mkv` | **1632.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/620774) • [🐱 Nyaa](https://nekobt.to/torrents/12302975464707) |
+| `[Yameii] Ascendance of a Bookworm - S04E12 [English Dub] [CR WEB-DL...` | **1392.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/620806) • [🐱 Nyaa](https://nekobt.to/torrents/12306750268428) |
+| `[Yameii] Ascendance of a Bookworm - S04E11 [English Dub] [CR WEB-DL...` | **1394.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/620807) • [🐱 Nyaa](https://nekobt.to/torrents/12306749876235) |
+| `Ascendance of a Bookworm S04E11 The Gathering of Gutenberg 1080p CR...` | **1450.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/620794) • [🐱 Nyaa](https://nyaa.si/view/2130934) |
+| `Ascendance of a Bookworm S04E13 Winter Material Gathering 1080p CR ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/620795) • [🐱 Nyaa](https://nyaa.si/view/2130933) |
+| `Ascendance of a Bookworm S04E12 The Winter Social Season and Debut ...` | **1448.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/620796) • [🐱 Nyaa](https://nyaa.si/view/2130932) |
+| `[ToonsHub] Ascendance of a Bookworm S04E11 1080p CR WEB-DL DUAL AAC...` | **1471.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/620798) • [🐱 Nyaa](https://nyaa.si/view/2130930) |
+| `[ToonsHub] Ascendance of a Bookworm S04E12 1080p CR WEB-DL DUAL AAC...` | **1468.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/620797) • [🐱 Nyaa](https://nyaa.si/view/2130931) |
+| `[ToonsHub] Ascendance of a Bookworm S04E13 1080p CR WEB-DL AAC2.0 H...` | **1438.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/620799) • [🐱 Nyaa](https://nyaa.si/view/2130929) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 13 (1080p) [A4FE0990].mkv` | **1389.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/620800) • [🐱 Nyaa](https://nyaa.si/view/2130923) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1399.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/620805) • [🐱 Nyaa](https://nyaa.si/view/2130918) |
+| `[SubsNoJutsu] Lord of Mysteries - S01E02 (1080p WEBRip AAC x265) [6...` | **886.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/620808) • [🐱 Nyaa](https://nekobt.to/torrents/12306561847558) |
+| `[FoundYears] The Warrior Princess and the Barbaric King - S01E12 (C...` | **1446.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/620793) • [🐱 Nyaa](https://nekobt.to/torrents/12305773782275) |
+| `[VARYG] KILL BLUE S01E12 Life Paths 1080p AMZN WEB-DL MULTi DDP2.0 ...` | **854.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/620790) • [🐱 Nyaa](https://nekobt.to/torrents/12305708249090) |
+| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E12 (WEB ...` | **1453.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620791) • [🐱 Nyaa](https://nekobt.to/torrents/12305687831040) |
+| `[Sristi] Mirai Nikki - 01 v2 [BD 1080p][HEVC][FLAC]` | **1741.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/620792) • [🐱 Nyaa](https://nekobt.to/torrents/12305517939468) |
 
 ---
 <div align="center">

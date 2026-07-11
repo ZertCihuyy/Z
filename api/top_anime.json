@@ -1,5 +1,5 @@
 {
-  "last_update": "11/7/2026, 15.29.36",
+  "last_update": "11/7/2026, 17.03.40",
   "data": [
     {
       "id": 154587,
@@ -82,21 +82,6 @@
       ]
     },
     {
-      "id": 182469,
-      "title": {
-        "romaji": "ONE PIECE FAN LETTER"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182469-JQ808NBPxmgn.jpg"
-      },
-      "averageScore": 90,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ]
-    },
-    {
       "id": 189046,
       "title": {
         "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
@@ -113,6 +98,21 @@
         "Psychological",
         "Romance",
         "Thriller"
+      ]
+    },
+    {
+      "id": 182469,
+      "title": {
+        "romaji": "ONE PIECE FAN LETTER"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182469-JQ808NBPxmgn.jpg"
+      },
+      "averageScore": 90,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ]
     },
     {
