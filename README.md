@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.40.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.10.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] RILAKKUMA S01E15 1080p CR WEB-DL DUAL AAC2.0 H.264 (Multi-S...` | **95.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620760) • [🐱 Nyaa](https://nekobt.to/torrents/12298818857220) |
+| `[SubsPlease] Rilakkuma - 15 (1080p) [B9937B0B].mkv` | **93.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/620755) • [🐱 Nyaa](https://nyaa.si/view/2130797) |
+| `[Erai-raws] Rilakkuma - 15 [1080p CR WEB-DL AVC AAC][MultiSub][0EFF...` | **89.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/620759) • [🐱 Nyaa](https://nyaa.si/view/2130791) |
+| `All.You.Need.Is.Kill.2026.1080p.BluRay.DUAL.DDP5.1.x264-ATELiER` | **10543.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/620753) • [🐱 Nyaa](https://nyaa.si/view/2130772) |
 | `[AnoZu] Clevatess S02E01 REPACK 1080p CR WEB-DL Dual-Audio DDP 2.0 ...` | **1436.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/620752) • [🐱 Nyaa](https://nyaa.si/view/2130759) |
 | `[BlackRabbit] The Rising of the Shield Hero (2019) - S03 [Bluray-10...` | **2964.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/620751) • [🐱 Nyaa](https://nekobt.to/torrents/12295181475595) |
 | `[ToonsHub] The Drops of God S01E12 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1466.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/620749) • [🐱 Nyaa](https://nyaa.si/view/2130753) |
@@ -44,10 +48,6 @@
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **296.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/620741) • [🐱 Nyaa](https://nyaa.si/view/2130733) |
 | `[Ironclad] Ushiro no Shoumen Kamui-san - S01E02 [WEB.1080p.AV1] | K...` | **416.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/620742) • [🐱 Nyaa](https://nyaa.si/view/2130732) |
 | `[BlackRabbit] The Rising of the Shield Hero (2019) - S02 [Bluray-10...` | **2741.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/620736) • [🐱 Nyaa](https://nekobt.to/torrents/12293405177088) |
-| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 02 [1080p CR WEBRip ...` | **307.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/620726) • [🐱 Nyaa](https://nyaa.si/view/2130731) |
-| `[SubsNoJutsu] Lord of Mysteries - S01E01 (1080p WEBRip EAC3 x265) [...` | **888.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/620727) • [🐱 Nyaa](https://nekobt.to/torrents/12293213536523) |
-| `[Erai-raws] Kore Kaite Shine - 02 [1080p CR WEBRip HEVC AAC][MultiS...` | **503.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/620725) • [🐱 Nyaa](https://nyaa.si/view/2130729) |
-| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E02 [1080p WEBRip AV1]` | **158.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620724) • [🐱 Nyaa](https://onalrie.app/torrent/a02ff75d-ec69-4813-bc44-2b131a84cb24) |
 
 ---
 <div align="center">
