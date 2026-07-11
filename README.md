@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.37.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.53.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Rich Girl Caretaker S01E02 1080p CR WEB-DL AAC2.0 H.264 ...` | **1391.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621034) • [🐱 Nyaa](https://nekobt.to/torrents/12314777637385) |
-| `[Ironclad] Daemons of the Shadow Realm - S01E14 (WEB 1080p AV1) | Y...` | **426.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621035) • [🐱 Nyaa](https://nekobt.to/torrents/12314758227467) |
-| `Rich Girl Caretaker Im Secretly the Caregiver of the Most Popular G...` | **1391.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621026) • [🐱 Nyaa](https://nyaa.si/view/2131329) |
-| `[SubsPlease] Yomi no Tsugai - 14v2 (1080p) [983D7BB5].mkv` | **1378.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621027) • [🐱 Nyaa](https://nyaa.si/view/2131327) |
-| `[SubsPlease] Saijo no Osewa - 02 (1080p) [F6EDB700].mkv` | **1381.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/621028) • [🐱 Nyaa](https://nyaa.si/view/2131326) |
-| `[Erai-raws] Saijo no Osewa - 02 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1391.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/621032) • [🐱 Nyaa](https://nyaa.si/view/2131320) |
-| `[VARYG] Magilumiere Magical Girls Inc S02E02 No Logical Means of Ex...` | **1073.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/621020) • [🐱 Nyaa](https://nekobt.to/torrents/12314487896586) |
-| `[VARYG] Magilumiere Magical Girls Inc S02E02 No Logical Means of Ex...` | **812.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/621021) • [🐱 Nyaa](https://nekobt.to/torrents/12314467761677) |
-| `[Onalrie] Kimiai - S01E02 [1080p WEBRip AV1]` | **180.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621022) • [🐱 Nyaa](https://nekobt.to/torrents/12314453131017) |
-| `NEEDY GIRL OVERDOSE S01E11 Canon a 3 Violinis con Basso c-Gigue 108...` | **1488.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/621017) • [🐱 Nyaa](https://nyaa.si/view/2131317) |
-| `[CrappySubs] Daemons of the Shadow Realm - S01E14 (CR WEB 1080p H.2...` | **1393.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621023) • [🐱 Nyaa](https://nekobt.to/torrents/12314427192579) |
-| `[ASW] Kimiai - 02 [1080p HEVC x265 10Bit][AAC]` | **224.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/621019) • [🐱 Nyaa](https://nyaa.si/view/2131314) |
-| `[Tasokare] Sentenced to Be a Hero S01 v2 (BD 1080p Opus AV1) | Yuus...` | **21874.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/621024) • [🐱 Nyaa](https://nekobt.to/torrents/12314359391752) |
-| `[Kawatare] Sentenced to Be a Hero S01 v2 (BD 1080p FLAC x265) | Yuu...` | **66893.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/621025) • [🐱 Nyaa](https://nekobt.to/torrents/12314354443534) |
-| `[Erai-raws] Detective Conan - 1206 [1080p CR WEBRip HEVC AAC][Multi...` | **342.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621013) • [🐱 Nyaa](https://nekobt.to/torrents/12314176444935) |
+| `[DKB] Yomi no Tsugai - S01E14 [1080p][HEVC x265 10bit][Multi-Subs][...` | **457.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/621056) • [🐱 Nyaa](https://nyaa.si/view/2131364) |
+| `[DKB] Yomi no Tsugai - S01E12 [1080p][HEVC x265 10bit][Multi-Audio]...` | **671.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/621057) • [🐱 Nyaa](https://nyaa.si/view/2131363) |
+| `Cardfight!! Vanguard 15th Anniversary Remastered S01E13 (WEBDL 1080...` | **775.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/621058) • [🐱 Nyaa](https://nyaa.si/view/2131362) |
+| `Cardfight!! Vanguard 15th Anniversary Remastered S01E12 (WEBDL 1080...` | **775.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/621059) • [🐱 Nyaa](https://nyaa.si/view/2131361) |
+| `[Erai-raws] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga ...` | **388.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621060) • [🐱 Nyaa](https://nyaa.si/view/2131359) |
+| `[ASW] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 01 [1080p HEV...` | **275.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/621049) • [🐱 Nyaa](https://nyaa.si/view/2131353) |
+| `Rich Girl Caretaker Im Secretly the Caregiver of the Most Popular G...` | **288.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/621050) • [🐱 Nyaa](https://nyaa.si/view/2131352) |
+| `[ToonsHub] Rich Girl Caretaker S01E02 1080p BILI WEB-DL AAC2.0 H.26...` | **286.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/621051) • [🐱 Nyaa](https://nyaa.si/view/2131348) |
+| `[Onalrie] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance...` | **285.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621055) • [🐱 Nyaa](https://nekobt.to/torrents/12315475690241) |
+| `[Judas] Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance (M...` | **368.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621052) • [🐱 Nyaa](https://nyaa.si/view/2131347) |
+| `[ASW] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance - 0...` | **363.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/621039) • [🐱 Nyaa](https://nyaa.si/view/2131346) |
+| `[TSPlease] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **1391.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/621040) • [🐱 Nyaa](https://nyaa.si/view/2131345) |
+| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E01...` | **1505.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/621041) • [🐱 Nyaa](https://nyaa.si/view/2131344) |
+| `[Judas] Hokuto no Ken (2026) (Fist of the North Star)  (Season 01) ...` | **6505.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621042) • [🐱 Nyaa](https://nyaa.si/view/2131343) |
+| `[Judas] Dorohedoro (Season 02) [1080p][HEVC x265 10bit][Dual-Audio]...` | **4906.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/621043) • [🐱 Nyaa](https://nyaa.si/view/2131342) |
 
 ---
 <div align="center">
