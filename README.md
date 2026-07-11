@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.11.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.17.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Iwamoto-senpai no Suisen - 02 [1080p CR WEB-DL AVC AAC]...` | **1384.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/620880) • [🐱 Nyaa](https://nekobt.to/torrents/12310747679497) |
-| `[Onalrie] Black Torch - S01E02 [1080p WEBRip AV1]` | **279.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/620881) • [🐱 Nyaa](https://nekobt.to/torrents/12310633745416) |
-| `[HuangSubs] Perfect World Season 1-5 + Embers of Fire Movie (1080p)...` | **94790.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620876) • [🐱 Nyaa](https://nyaa.si/view/2131096) |
-| `[ASW] Black Torch - 02 [1080p HEVC x265 10Bit][AAC]` | **343.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620877) • [🐱 Nyaa](https://nyaa.si/view/2131095) |
-| `[Tasokare] Sentenced to Be a Hero S01 (BD 1080p Opus AV1) | Yuusha-...` | **21874.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/620874) • [🐱 Nyaa](https://nekobt.to/torrents/12310406738950) |
-| `[Kawatare] Sentenced to Be a Hero S01 (BD 1080p FLAC x265) | Yuusha...` | **66893.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/620875) • [🐱 Nyaa](https://nekobt.to/torrents/12310405333510) |
-| `[ToonsHub] The Cat and the Dragon S01E03 1080p CR WEB-DL AAC2.0 H.2...` | **1406.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620864) • [🐱 Nyaa](https://nyaa.si/view/2131090) |
-| `[Judas] Kimi wo Aisuru Ki wa nai to Itta Jiki Koushaku-sama ga Naze...` | **211.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/620865) • [🐱 Nyaa](https://nyaa.si/view/2131088) |
-| `The Cat and the Dragon S01E03 The Kittens and the Winged Uncle 1080...` | **1406.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/620866) • [🐱 Nyaa](https://nyaa.si/view/2131087) |
-| `BLACK TORCH S01E02 The Choice Is Yours 1080p CR WEB-DL MULTi AAC2.0...` | **1675.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620867) • [🐱 Nyaa](https://nyaa.si/view/2131086) |
-| `[SubsPlease] Neko to Ryuu - 03 (1080p) [F9673836].mkv` | **1379.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/620868) • [🐱 Nyaa](https://nyaa.si/view/2131085) |
-| `[Erai-raws] Neko to Ryuu - 03 [1080p CR WEB-DL AVC AAC][MultiSub][C...` | **1387.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/620872) • [🐱 Nyaa](https://nyaa.si/view/2131080) |
-| `[VARYG] BLACK TORCH S01E02 The Choice Is Yours 1080p CR WEB-DL DUAL...` | **1447.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/620863) • [🐱 Nyaa](https://nekobt.to/torrents/12309920104966) |
-| `[Yameii] BLACK TORCH - S01E02 [English Dub] [CR WEB-DL 1080p H264 A...` | **1389.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620852) • [🐱 Nyaa](https://nyaa.si/view/2131065) |
-| `[ToonsHub] BLACK TORCH S01E02 1080p CR WEB-DL DUAL AAC2.0 H.264 (Du...` | **1034.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620853) • [🐱 Nyaa](https://nyaa.si/view/2131064) |
+| `[HuangSubs] Perfect World Season 6 235-276 (1080p) | (完美世界 第六季, Wan...` | **12121.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620900) • [🐱 Nyaa](https://nyaa.si/view/2131142) |
+| `[FuyuPOP] Yani Neko - Ep02 (1080p x265 AAC WEB)` | **629.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620903) • [🐱 Nyaa](https://nekobt.to/torrents/12311791928329) |
+| `[Ironclad] Honzuki no Gekokujou - S04E13 [WEB.1080p.AV1] | Ascendan...` | **388.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/620901) • [🐱 Nyaa](https://nyaa.si/view/2131137) |
+| `Daemons of the Shadow Realm S01E14 Family and Friends 1080p NF WEB-...` | **863.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/620902) • [🐱 Nyaa](https://nyaa.si/view/2131136) |
+| `[Onalrie] Iwamoto-senpai no Suisen - S01E02 [1080p WEBRip AV1]` | **177.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/620899) • [🐱 Nyaa](https://onalrie.app/torrent/2de7f2e1-b5d0-411d-bdca-cf09fea1b475) |
+| `[CenturyZeta] Yanineko Mini Anime 01-10 (1080p) (Yani Neko).torrent` | **75.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620894) • [🐱 Nyaa](https://nyaa.si/view/2131127) |
+| `[Judas] Super no Ura de Yani Suu Futari (Smoking Behind the Superma...` | **187.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620895) • [🐱 Nyaa](https://nyaa.si/view/2131126) |
+| `[ASW] Iwamoto-senpai no Suisen - 02 [1080p HEVC x265 10Bit][AAC]` | **236.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/620896) • [🐱 Nyaa](https://nyaa.si/view/2131125) |
+| `[Lazyleido-Mini] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Veng...` | **1067.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620897) • [🐱 Nyaa](https://nyaa.si/view/2131124) |
+| `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **4016.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/620898) • [🐱 Nyaa](https://nyaa.si/view/2131123) |
+| `[Yameii] KILL BLUE - S01E11 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1382.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/620889) • [🐱 Nyaa](https://nyaa.si/view/2131122) |
+| `KILL BLUE S01E11 The First Hitman Summit 1080p CR WEB-DL DUAL AAC2....` | **1436.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/620891) • [🐱 Nyaa](https://nyaa.si/view/2131119) |
+| `[WOR] KAMUI - He's behind you S01E01 [WebEncode 1080p HEVC AAC] mul...` | **1516.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/620892) • [🐱 Nyaa](https://nyaa.si/view/2131117) |
+| `[Onalrie] Neko to Ryuu - S01E03 [1080p WEBRip AV1]` | **201.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620893) • [🐱 Nyaa](https://nekobt.to/torrents/12311149842959) |
+| `[Judas] Neko to Ryuu (The Cat and the Dragon) - S01E03 [1080p][HEVC...` | **257.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/620882) • [🐱 Nyaa](https://nyaa.si/view/2131112) |
 
 ---
 <div align="center">
