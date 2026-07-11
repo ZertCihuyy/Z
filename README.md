@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.17.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.26.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] Daemons of the Shadow Realm S01E14 Family and Friends 1080p...` | **1407.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620909) • [🐱 Nyaa](https://nekobt.to/torrents/12312651926787) |
+| `[ToonsHub] Akane-Banashi S01E10 1080p NF WEB-DL MULTi AAC2.0 H.264 ...` | **1047.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/620910) • [🐱 Nyaa](https://nekobt.to/torrents/12312643536642) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E14 1080p CR WEB-DL AAC2....` | **1406.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/620911) • [🐱 Nyaa](https://nekobt.to/torrents/12312635064844) |
+| `[VARYG] Akane Banashi S01E10 Jugemu 1080p NF WEB-DL MULTi AAC2.0 H....` | **1049.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620912) • [🐱 Nyaa](https://nekobt.to/torrents/12312633432839) |
+| `[ToonsHub] Grow Up Show Sunflower Circus S01E02 1080p CR WEB-DL DUA...` | **1420.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/620913) • [🐱 Nyaa](https://nekobt.to/torrents/12312630740228) |
+| `[ToonsHub] Jaadugar A Witch in Mongolia S01E03 1080p CR WEB-DL AAC2...` | **1395.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620914) • [🐱 Nyaa](https://nekobt.to/torrents/12312627962639) |
+| `[VARYG] Jaadugar A Witch in Mongolia S01E03 An Undying Flame 1080p ...` | **1397.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/620915) • [🐱 Nyaa](https://nekobt.to/torrents/12312620188430) |
+| `[VARYG] Akane Banashi S01E10 Jugemu 1080p NF WEB-DL DUAL AAC2.0 H.2...` | **926.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/620916) • [🐱 Nyaa](https://nekobt.to/torrents/12312613621760) |
+| `[ToonsHub] Akane-Banashi S01E10 1080p NF WEB-DL DUAL AAC2.0 H.264 (...` | **926.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/620917) • [🐱 Nyaa](https://nekobt.to/torrents/12312601491200) |
+| `[Erai-raws] Yomi no Tsugai - 14 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1390.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/620922) • [🐱 Nyaa](https://nekobt.to/torrents/12312593625867) |
+| `[Erai-raws] Tenmaku no Jaadugar - 03 [1080p CR WEB-DL AVC AAC][Mult...` | **1394.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/620923) • [🐱 Nyaa](https://nekobt.to/torrents/12312592023311) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E14 1080p BILI WEB-DL AAC...` | **367.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/620924) • [🐱 Nyaa](https://nekobt.to/torrents/12312589560838) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E14 1080p NF WEB-DL AAC2....` | **863.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/620906) • [🐱 Nyaa](https://nekobt.to/torrents/12312389291789) |
 | `[HuangSubs] Perfect World Season 6 235-276 (1080p) | (完美世界 第六季, Wan...` | **12121.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620900) • [🐱 Nyaa](https://nyaa.si/view/2131142) |
 | `[FuyuPOP] Yani Neko - Ep02 (1080p x265 AAC WEB)` | **629.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620903) • [🐱 Nyaa](https://nekobt.to/torrents/12311791928329) |
-| `[Ironclad] Honzuki no Gekokujou - S04E13 [WEB.1080p.AV1] | Ascendan...` | **388.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/620901) • [🐱 Nyaa](https://nyaa.si/view/2131137) |
-| `Daemons of the Shadow Realm S01E14 Family and Friends 1080p NF WEB-...` | **863.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/620902) • [🐱 Nyaa](https://nyaa.si/view/2131136) |
-| `[Onalrie] Iwamoto-senpai no Suisen - S01E02 [1080p WEBRip AV1]` | **177.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/620899) • [🐱 Nyaa](https://onalrie.app/torrent/2de7f2e1-b5d0-411d-bdca-cf09fea1b475) |
-| `[CenturyZeta] Yanineko Mini Anime 01-10 (1080p) (Yani Neko).torrent` | **75.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/620894) • [🐱 Nyaa](https://nyaa.si/view/2131127) |
-| `[Judas] Super no Ura de Yani Suu Futari (Smoking Behind the Superma...` | **187.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/620895) • [🐱 Nyaa](https://nyaa.si/view/2131126) |
-| `[ASW] Iwamoto-senpai no Suisen - 02 [1080p HEVC x265 10Bit][AAC]` | **236.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/620896) • [🐱 Nyaa](https://nyaa.si/view/2131125) |
-| `[Lazyleido-Mini] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Veng...` | **1067.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620897) • [🐱 Nyaa](https://nyaa.si/view/2131124) |
-| `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **4016.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/620898) • [🐱 Nyaa](https://nyaa.si/view/2131123) |
-| `[Yameii] KILL BLUE - S01E11 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1382.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/620889) • [🐱 Nyaa](https://nyaa.si/view/2131122) |
-| `KILL BLUE S01E11 The First Hitman Summit 1080p CR WEB-DL DUAL AAC2....` | **1436.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/620891) • [🐱 Nyaa](https://nyaa.si/view/2131119) |
-| `[WOR] KAMUI - He's behind you S01E01 [WebEncode 1080p HEVC AAC] mul...` | **1516.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/620892) • [🐱 Nyaa](https://nyaa.si/view/2131117) |
-| `[Onalrie] Neko to Ryuu - S01E03 [1080p WEBRip AV1]` | **201.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/620893) • [🐱 Nyaa](https://nekobt.to/torrents/12311149842959) |
-| `[Judas] Neko to Ryuu (The Cat and the Dragon) - S01E03 [1080p][HEVC...` | **257.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/620882) • [🐱 Nyaa](https://nyaa.si/view/2131112) |
 
 ---
 <div align="center">
