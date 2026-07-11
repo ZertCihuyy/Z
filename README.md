@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.29.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.39.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `KonoSuba.God's.Blessing.On.This.Wonderful.World.S02.v2.1080p.BluRay...` | **19006.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/620777) • [🐱 Nyaa](https://nyaa.si/view/2130863) |
+| `[Judas] Kimi wo Aisuru Ki wa nai to Itta Jiki Koushaku-sama ga Naze...` | **887.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/620776) • [🐱 Nyaa](https://nyaa.si/view/2130860) |
+| `Chainsmoker.Cat.S01E02.1080p.AMZN.Web.DL.H.264-Humble.mkv` | **1632.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/620774) • [🐱 Nyaa](https://nekobt.to/torrents/12302975464707) |
+| `Chainsmoker.Cat.S01E01.1080p.AMZN.Web.DL.H.264-Humble.mkv` | **1122.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/620775) • [🐱 Nyaa](https://nekobt.to/torrents/12302947034890) |
+| `[BlackRabbit] The Rising of the Shield Hero (2019) - S04 [WEBDL-108...` | **3064.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/620773) • [🐱 Nyaa](https://nekobt.to/torrents/12302724160514) |
 | `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 13 [1080p][YT]` | **370.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/620768) • [🐱 Nyaa](https://nyaa.si/view/2130833) |
 | `[ToonsHub] Jiang Ye S01E13 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **472.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/620769) • [🐱 Nyaa](https://nyaa.si/view/2130831) |
 | `[Gecko] Please Excuse My Younger Brothers - S01E02 (うちの弟どもがすみません; U...` | **709.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/620767) • [🐱 Nyaa](https://nekobt.to/torrents/12301391867150) |
@@ -43,11 +48,6 @@
 | `[Erai-raws] Rilakkuma - 15 [1080p CR WEBRip HEVC AAC][MultiSub][92E...` | **35.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/620762) • [🐱 Nyaa](https://nyaa.si/view/2130806) |
 | `[ToonsHub] RILAKKUMA S01E15 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **91.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/620763) • [🐱 Nyaa](https://nyaa.si/view/2130805) |
 | `[VARYG] RILAKKUMA S01E15 1080p CR WEB-DL DUAL AAC2.0 H.264 (Multi-S...` | **95.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/620760) • [🐱 Nyaa](https://nekobt.to/torrents/12298818857220) |
-| `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **256.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/620764) • [🐱 Nyaa](https://nyaa.si/view/2130804) |
-| `[SubsPlease] Rilakkuma - 15 (1080p) [B9937B0B].mkv` | **93.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/620755) • [🐱 Nyaa](https://nyaa.si/view/2130797) |
-| `[Erai-raws] Rilakkuma - 15 [1080p CR WEB-DL AVC AAC][MultiSub][0EFF...` | **89.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/620759) • [🐱 Nyaa](https://nyaa.si/view/2130791) |
-| `All.You.Need.Is.Kill.2026.1080p.BluRay.DUAL.DDP5.1.x264-ATELiER` | **10543.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/620753) • [🐱 Nyaa](https://nyaa.si/view/2130772) |
-| `[AnoZu] Clevatess S02E01 REPACK 1080p CR WEB-DL Dual-Audio DDP 2.0 ...` | **1436.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/620752) • [🐱 Nyaa](https://nyaa.si/view/2130759) |
 
 ---
 <div align="center">
