@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.30.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.11.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Detective Conan - E1206 [1080p WEBRip AV1]` | **169.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/620850) • [🐱 Nyaa](https://nekobt.to/torrents/12309061202945) |
-| `[ASW] Detective Conan - 1206 [1080p HEVC x265 10Bit][AAC]` | **180.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/620849) • [🐱 Nyaa](https://nyaa.si/view/2131041) |
-| `[SubsNoJutsu] Lord of Mysteries - S01E03 (1080p WEBRip EAC3 x265) [...` | **807.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/620847) • [🐱 Nyaa](https://nekobt.to/torrents/12308767218945) |
-| `[Onalrie] Mairimashita! Iruma-kun - S04E15 [1080p WEBRip AV1]` | **355.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620848) • [🐱 Nyaa](https://nekobt.to/torrents/12308752633345) |
-| `[ToonsHub] KAMUI Hes Behind You S00E01 1080p AMZN WEB-DL DDP2.0 H.2...` | **427.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620843) • [🐱 Nyaa](https://nekobt.to/torrents/12308587681536) |
-| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School) - S04E15 ...` | **536.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/620846) • [🐱 Nyaa](https://nyaa.si/view/2131019) |
-| `Detective Conan S01E1206 The Man Who Came Falling Down 1080p CR WEB...` | **1441.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/620835) • [🐱 Nyaa](https://nyaa.si/view/2131018) |
-| `[vLbE3L] The Ramparts of Ice S01 [1080p NF WEBRip VVC HE-AACv2] [Ja...` | **1445.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/620844) • [🐱 Nyaa](https://nekobt.to/torrents/12308523218944) |
-| `RILAKKUMA S01E15 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Multi-Au...` | **101.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620836) • [🐱 Nyaa](https://nyaa.si/view/2131017) |
-| `[LbE3L] The Ramparts of Ice S01 [1080p NF WEB-DL AV1 (Muxed) HE-AAC...` | **6937.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/620845) • [🐱 Nyaa](https://nekobt.to/torrents/12308487329540) |
-| `[ToonsHub] Detective Conan EP1206 1080p CR WEB-DL AAC2.0 H.264 (Mei...` | **1438.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/620837) • [🐱 Nyaa](https://nyaa.si/view/2131016) |
-| `Ascendance of a Bookworm S04E11 The Gathering of Gutenberg 1080p CR...` | **1483.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/620838) • [🐱 Nyaa](https://nyaa.si/view/2131015) |
-| `[SubsPlease] Detective Conan - 1206 (1080p) [370DCB51].mkv` | **1432.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/620839) • [🐱 Nyaa](https://nyaa.si/view/2131013) |
-| `[VARYG] RILAKKUMA S01E14 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **115.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620834) • [🐱 Nyaa](https://nekobt.to/torrents/12308394507522) |
-| `[ToonsHub] KAMUI Hes Behind You S01E01 REPACK 1080p UNCENSORED AMZN...` | **650.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/620842) • [🐱 Nyaa](https://nyaa.si/view/2131005) |
+| `[Erai-raws] Iwamoto-senpai no Suisen - 02 [1080p CR WEB-DL AVC AAC]...` | **1384.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/620880) • [🐱 Nyaa](https://nekobt.to/torrents/12310747679497) |
+| `[Onalrie] Black Torch - S01E02 [1080p WEBRip AV1]` | **279.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/620881) • [🐱 Nyaa](https://nekobt.to/torrents/12310633745416) |
+| `[HuangSubs] Perfect World Season 1-5 + Embers of Fire Movie (1080p)...` | **94790.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/620876) • [🐱 Nyaa](https://nyaa.si/view/2131096) |
+| `[ASW] Black Torch - 02 [1080p HEVC x265 10Bit][AAC]` | **343.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/620877) • [🐱 Nyaa](https://nyaa.si/view/2131095) |
+| `[Tasokare] Sentenced to Be a Hero S01 (BD 1080p Opus AV1) | Yuusha-...` | **21874.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/620874) • [🐱 Nyaa](https://nekobt.to/torrents/12310406738950) |
+| `[Kawatare] Sentenced to Be a Hero S01 (BD 1080p FLAC x265) | Yuusha...` | **66893.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/620875) • [🐱 Nyaa](https://nekobt.to/torrents/12310405333510) |
+| `[ToonsHub] The Cat and the Dragon S01E03 1080p CR WEB-DL AAC2.0 H.2...` | **1406.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/620864) • [🐱 Nyaa](https://nyaa.si/view/2131090) |
+| `[Judas] Kimi wo Aisuru Ki wa nai to Itta Jiki Koushaku-sama ga Naze...` | **211.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/620865) • [🐱 Nyaa](https://nyaa.si/view/2131088) |
+| `The Cat and the Dragon S01E03 The Kittens and the Winged Uncle 1080...` | **1406.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/620866) • [🐱 Nyaa](https://nyaa.si/view/2131087) |
+| `BLACK TORCH S01E02 The Choice Is Yours 1080p CR WEB-DL MULTi AAC2.0...` | **1675.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/620867) • [🐱 Nyaa](https://nyaa.si/view/2131086) |
+| `[SubsPlease] Neko to Ryuu - 03 (1080p) [F9673836].mkv` | **1379.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/620868) • [🐱 Nyaa](https://nyaa.si/view/2131085) |
+| `[Erai-raws] Neko to Ryuu - 03 [1080p CR WEB-DL AVC AAC][MultiSub][C...` | **1387.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/620872) • [🐱 Nyaa](https://nyaa.si/view/2131080) |
+| `[VARYG] BLACK TORCH S01E02 The Choice Is Yours 1080p CR WEB-DL DUAL...` | **1447.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/620863) • [🐱 Nyaa](https://nekobt.to/torrents/12309920104966) |
+| `[Yameii] BLACK TORCH - S01E02 [English Dub] [CR WEB-DL 1080p H264 A...` | **1389.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620852) • [🐱 Nyaa](https://nyaa.si/view/2131065) |
+| `[ToonsHub] BLACK TORCH S01E02 1080p CR WEB-DL DUAL AAC2.0 H.264 (Du...` | **1034.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/620853) • [🐱 Nyaa](https://nyaa.si/view/2131064) |
 
 ---
 <div align="center">
