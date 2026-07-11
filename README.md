@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.56.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.57.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Akane-banashi - 10 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **377.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621083) • [🐱 Nyaa](https://nyaa.si/view/2131409) |
+| `[SubsPlease] Otaku ni Yasashii Gal wa Inai (01-12) (1080p) [Batch]` | **16178.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621085) • [🐱 Nyaa](https://nyaa.si/view/2131405) |
+| `Hanaori san Still Wants to Fight in the Next Life S01E01 When Ryuse...` | **1506.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621081) • [🐱 Nyaa](https://nyaa.si/view/2131395) |
+| `[Judas] Black Torch - S01E02 [1080p][HEVC x265 10bit][Dual-Audio][M...` | **391.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/621082) • [🐱 Nyaa](https://nyaa.si/view/2131394) |
 | `[Onalrie] Saijo no Osewa - S01E02 [1080p WEBRip AV1]` | **206.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621080) • [🐱 Nyaa](https://nekobt.to/torrents/12317065995014) |
 | `[neoDESU] Don't Toy with Me, Miss Nagatoro [Season 2] [BD 1080p HEV...` | **2860.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621078) • [🐱 Nyaa](https://nyaa.si/view/2131392) |
 | `[Anime Time] Black Torch - S01E02 [1080p][HEVC 10bit x265][AAC][Dua...` | **571.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621079) • [🐱 Nyaa](https://nyaa.si/view/2131391) |
@@ -44,10 +48,6 @@
 | `[Onalrie] Yomi no Tsugai - S01E14 Rev. 2 [1080p WEBRip AV1]` | **283.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/621077) • [🐱 Nyaa](https://nekobt.to/torrents/12316554555917) |
 | `[Erai-raws] Saijo no Osewa - 02 [1080p CR WEBRip HEVC AAC][MultiSub...` | **425.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/621076) • [🐱 Nyaa](https://nyaa.si/view/2131382) |
 | `[BlackRabbit] Saga of Tanya the Evil (2017) - S00 [Bluray-1080p][Op...` | **867.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/621070) • [🐱 Nyaa](https://nekobt.to/torrents/12316406862597) |
-| `[Judas] Kami no Niwatsuki Kusunoki-tei (Kusunoki`s Garden of Gods) ...` | **3157.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621066) • [🐱 Nyaa](https://nyaa.si/view/2131381) |
-| `[Judas] Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina ...` | **2675.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621067) • [🐱 Nyaa](https://nyaa.si/view/2131380) |
-| `[Judas] Isekai Nonbiri Nouka (Farming Life in Another World) (Seaso...` | **3314.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/621068) • [🐱 Nyaa](https://nyaa.si/view/2131379) |
-| `[Judas] Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa T...` | **2885.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621069) • [🐱 Nyaa](https://nyaa.si/view/2131376) |
 
 ---
 <div align="center">
