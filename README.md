@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.40.36_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.53.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 02 [1080p CR WEBRip HE...` | **176.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621317) • [🐱 Nyaa](https://nyaa.si/view/2131857) |
+| `[FrixySubs] Super no Ura de Yani Suu Futari - S01E01 [1080p CR WEB-...` | **1411.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621318) • [🐱 Nyaa](https://nekobt.to/torrents/12337709091599) |
+| `[Erai-raws] Sayonara Lara - 02 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **485.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/621316) • [🐱 Nyaa](https://nyaa.si/view/2131851) |
+| `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E01 [WEB.108...` | **324.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621313) • [🐱 Nyaa](https://nyaa.si/view/2131850) |
 | `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 14 [1080p CR WEBRip HE...` | **492.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/621310) • [🐱 Nyaa](https://nyaa.si/view/2131848) |
 | `[Onalrie] Azur Lane - Bisoku Zenshin! - S02E02 [1080p WEBRip AV1]` | **102.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621312) • [🐱 Nyaa](https://nekobt.to/torrents/12336937652738) |
 | `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E03 [1080p][HEV...` | **430.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/621311) • [🐱 Nyaa](https://nyaa.si/view/2131845) |
@@ -41,10 +45,6 @@
 | `[DKB] Seihantai na Kimi to Boku - S02E02 [1080p][HEVC x265 10bit][M...` | **212.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621308) • [🐱 Nyaa](https://nyaa.si/view/2131833) |
 | `[Kotobuki] Tenmaku no Jaadugar 01 [1080p HEVC Multisub] | Jaadugar:...` | **297.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621300) • [🐱 Nyaa](https://nyaa.si/view/2131829) |
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 02 [1080p] [AV1] (Weekly)` | **99.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621301) • [🐱 Nyaa](https://nyaa.si/view/2131828) |
-| `[ASW] One Piece - 1169 [1080p HEVC x265 10Bit][AAC]` | **330.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621298) • [🐱 Nyaa](https://nyaa.si/view/2131825) |
-| `[Onalrie] Futsutsuka na Akujo dewa Gozaimasu ga - S01E01 [1080p WEB...` | **225.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/621299) • [🐱 Nyaa](https://nekobt.to/torrents/12336138628362) |
-| `[ASW] Azur Lane - Bisoku Zenshin! S2 - 02 [1080p HEVC x265 10Bit][AAC]` | **132.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/621296) • [🐱 Nyaa](https://nyaa.si/view/2131816) |
-| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 03 [1080...` | **480.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621297) • [🐱 Nyaa](https://nyaa.si/view/2131815) |
 
 ---
 <div align="center">
