@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.56.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.58.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E02 [1080p][HEV...` | **628.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/621328) • [🐱 Nyaa](https://nyaa.si/view/2131871) |
+| `[CrappySubs] Sparks of Tomorrow - S01E02 (NF WEB 1080p H.264 AAC) [...` | **913.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621327) • [🐱 Nyaa](https://nekobt.to/torrents/12339343748353) |
 | `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 01 [1080p CR WE...` | **625.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621325) • [🐱 Nyaa](https://nyaa.si/view/2131867) |
 | `Mushoku Tensei Jobless Reincarnation S03E03 1080p NF WEB-DL AAC2.0 ...` | **867.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621326) • [🐱 Nyaa](https://nyaa.si/view/2131866) |
 | `One Piece - 1169 [H3LL][1080p][x264][10bit][AAC][Multi-Subs].mkv` | **1049.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/621324) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2094076) |
@@ -43,8 +45,6 @@
 | `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E01 [WEB.108...` | **324.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621313) • [🐱 Nyaa](https://nyaa.si/view/2131850) |
 | `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 14 [1080p CR WEBRip HE...` | **492.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/621310) • [🐱 Nyaa](https://nyaa.si/view/2131848) |
 | `[Onalrie] Azur Lane - Bisoku Zenshin! - S02E02 [1080p WEBRip AV1]` | **102.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621312) • [🐱 Nyaa](https://nekobt.to/torrents/12336937652738) |
-| `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E03 [1080p][HEV...` | **430.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/621311) • [🐱 Nyaa](https://nyaa.si/view/2131845) |
-| `[Onalrie] One Piece - E1169 [1080p WEBRip AV1]` | **277.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/621309) • [🐱 Nyaa](https://nekobt.to/torrents/12336734177803) |
 
 ---
 <div align="center">
