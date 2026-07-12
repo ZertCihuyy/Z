@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.58.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.42.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Clevatess (2025) - S01 [Bluray-1080p][Opus 2.0][Dual ...` | **2938.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/621129) • [🐱 Nyaa](https://nekobt.to/torrents/12324978194696) |
+| `[Serenae] Meitantei Precure! - 24 Next Ep PV (1080p).mkv` | **23.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/621126) • [🐱 Nyaa](https://nyaa.si/view/2131532) |
+| `[Serenae] Meitantei Precure! - 24 Fanart Corner (1080p).mkv` | **10.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/621127) • [🐱 Nyaa](https://nyaa.si/view/2131531) |
+| `Digimon.Beatbreak.S01E38.1080p.CR.WEBRip.10bits.x265-Rapta` | **221.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/621124) • [🐱 Nyaa](https://nyaa.si/view/2131530) |
+| `[Serenae] Meitantei Precure! - 24 (1080p).mkv` | **1404.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621121) • [🐱 Nyaa](https://nyaa.si/view/2131529) |
+| `[Judas] Digimon Beatbreak - S01E38 [1080p][HEVC x265 10bit][Eng-Sub...` | **378.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/621123) • [🐱 Nyaa](https://nyaa.si/view/2131524) |
+| `[ASW] Digimon Beatbreak - 38 [1080p HEVC x265 10Bit][AAC]` | **380.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/621120) • [🐱 Nyaa](https://nyaa.si/view/2131519) |
 | `[VARYG] Digimon Beatbreak S01E38 1080p CR WEB-DL AAC2.0 H.264` | **1377.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/621118) • [🐱 Nyaa](https://nekobt.to/torrents/12322840850432) |
 | `[ToonsHub] Digimon Beatbreak S01E38 1080p CR WEB-DL AAC2.0 H.264 (E...` | **1376.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621119) • [🐱 Nyaa](https://nekobt.to/torrents/12322822302470) |
 | `[SubsPlease] Digimon Beatbreak - 38 (1080p) [82D199E1].mkv` | **1372.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/621111) • [🐱 Nyaa](https://nyaa.si/view/2131513) |
@@ -41,13 +48,6 @@
 | `[Erai-raws] Oni no Hanayome - 02 [1080p CR WEBRip HEVC AAC][MultiSu...` | **333.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/621109) • [🐱 Nyaa](https://nekobt.to/torrents/12322578643716) |
 | `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **440.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621110) • [🐱 Nyaa](https://nekobt.to/torrents/12322565540611) |
 | `[ASW] Meitantei Precure! - 24 [1080p HEVC x265 10Bit][AAC]` | **569.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/621108) • [🐱 Nyaa](https://nyaa.si/view/2131504) |
-| `[SubsPlease] Meitantei Precure! - 24 (1080p) [A084C875].mkv` | **1404.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/621102) • [🐱 Nyaa](https://nyaa.si/view/2131496) |
-| `[Erai-raws] Meitantei Precure - 24 [1080p CR WEB-DL AVC AAC][068DA821]` | **1410.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621106) • [🐱 Nyaa](https://nyaa.si/view/2131492) |
-| `[Fuchs] Mushoku Tensei - S02 (BD 1080p HEVC Opus 2.0) [Dual-Audio] ...` | **71847.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/621100) • [🐱 Nyaa](https://nyaa.si/view/2131440) |
-| `[Fuchs] Mushoku Tensei - S00E02 (BD 1080p HEVC Opus 2.0) [Dual-Audi...` | **2693.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/621101) • [🐱 Nyaa](https://nyaa.si/view/2131439) |
-| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 02 [1080p AMZN...` | **307.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621097) • [🐱 Nyaa](https://nyaa.si/view/2131425) |
-| `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **261.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/621098) • [🐱 Nyaa](https://nyaa.si/view/2131424) |
-| `[DKB] Hanaori-san wa Tensei shitemo Kenka ga Shitai - S01E01 [1080p...` | **280.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621099) • [🐱 Nyaa](https://nyaa.si/view/2131423) |
 
 ---
 <div align="center">
