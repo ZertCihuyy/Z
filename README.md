@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.41.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.16.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Hotori.Simply.Wishing.for.Hope.2005.1080p.BluRay.FLAC2.0.x264` | **1837.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621179) • [🐱 Nyaa](https://nyaa.si/view/2131622) |
-| `REPACK.Bishoujo.Senshi.Sailor.Moon.Crystal.Season.III.2016.S03.MULT...` | **29250.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621180) • [🐱 Nyaa](https://nyaa.si/view/2131620) |
-| `[CenturyZeta] Yanineko Mini Anime - 11 (1080p) (Yani Neko)` | **5.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/621177) • [🐱 Nyaa](https://nyaa.si/view/2131613) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E01 1080p DSNP WEB-DL...` | **869.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621175) • [🐱 Nyaa](https://nyaa.si/view/2131612) |
-| `[FSP DN] A Record of a Mortal’s Journey to Immortality - 182 (1080p...` | **519.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/621176) • [🐱 Nyaa](https://nyaa.si/view/2131611) |
-| `[Onalrie] Tetsunabe no Jan! - S01E02 [1080p WEBRip AV1]` | **222.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/621174) • [🐱 Nyaa](https://nekobt.to/torrents/12329545160964) |
-| `[ASW] Tetsunabe no Jan! - 02 [1080p HEVC x265 10Bit][AAC]` | **264.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621172) • [🐱 Nyaa](https://nyaa.si/view/2131607) |
-| `[Onalrie] Let's Go Kaiki-gumi - S01E02 [1080p WEBRip AV1]` | **169.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621173) • [🐱 Nyaa](https://nekobt.to/torrents/12329069637635) |
-| `[ASW] Let's Go Kaiki-gumi - 02 [1080p HEVC x265 10Bit][AAC]` | **272.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/621169) • [🐱 Nyaa](https://nyaa.si/view/2131606) |
-| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **179.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621170) • [🐱 Nyaa](https://nyaa.si/view/2131605) |
-| `[TSPlease] Iron Wok Jan S01E02 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1424.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621171) • [🐱 Nyaa](https://nyaa.si/view/2131604) |
-| `[ASW] Seihantai na Kimi to Boku - 14 [1080p HEVC x265 10Bit][AAC]` | **179.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/621167) • [🐱 Nyaa](https://nyaa.si/view/2131603) |
-| `[Onalrie] Seihantai na Kimi to Boku - S02E02 [1080p WEBRip AV1]` | **162.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/621168) • [🐱 Nyaa](https://nekobt.to/torrents/12328556422402) |
-| `[VARYG] You and I Are Polar Opposites S02E02 1080p NF WEB-DL AAC2.0...` | **880.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/621166) • [🐱 Nyaa](https://nekobt.to/torrents/12328457465358) |
-| `Wistoria Wand and Sword S02E11 A Roar of Ice and Lightning 1080p CR...` | **1707.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621156) • [🐱 Nyaa](https://nyaa.si/view/2131601) |
+| `[ToonsHub] Sparks of Tomorrow S01E02 1080p NF WEB-DL MULTi AAC2.0 H...` | **1216.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621214) • [🐱 Nyaa](https://nekobt.to/torrents/12332993103113) |
+| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1405.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/621200) • [🐱 Nyaa](https://nyaa.si/view/2131673) |
+| `Sparks of Tomorrow S01E02 The Mysteries of the Catalog 1080p NF WEB...` | **911.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621201) • [🐱 Nyaa](https://nyaa.si/view/2131671) |
+| `[ToonsHub] Sparks of Tomorrow S01E02 1080p NF WEB-DL DUAL AAC2.0 H....` | **911.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621202) • [🐱 Nyaa](https://nyaa.si/view/2131670) |
+| `Sparks of Tomorrow S01E02 The Mysteries of the Catalog 1080p NF WEB...` | **1216.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621203) • [🐱 Nyaa](https://nyaa.si/view/2131669) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1423.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621204) • [🐱 Nyaa](https://nyaa.si/view/2131668) |
+| `[Erai-raws] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no K...` | **1384.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621208) • [🐱 Nyaa](https://nyaa.si/view/2131662) |
+| `[SubsPlease] Hyakkano - 26 (1080p) [BBCBAF3F].mkv` | **1374.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/621209) • [🐱 Nyaa](https://nyaa.si/view/2131661) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **349.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621210) • [🐱 Nyaa](https://nyaa.si/view/2131660) |
+| `[Judas] Sekai Saikyou no Kouei Meikyuukoku no Shinjin Tansakusha (T...` | **191.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621213) • [🐱 Nyaa](https://nyaa.si/view/2131656) |
+| `[Onalrie] Sekai Saikyou no Kouei - S01E02 [1080p WEBRip AV1]` | **161.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621198) • [🐱 Nyaa](https://nekobt.to/torrents/12332716194059) |
+| `[ASW] Sekai Saikyou no Kouei - 02 [1080p HEVC x265 10Bit][AAC]` | **192.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/621196) • [🐱 Nyaa](https://nyaa.si/view/2131654) |
+| `[FSP] Mushen Ji (Tales of Herding Gods) - 91 [1080p] (GB_CN) | 牧神记` | **355.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/621197) • [🐱 Nyaa](https://nyaa.si/view/2131653) |
+| `[BlackRabbit] Fate+Zero (2011) - S01 [Bluray-1080p][Opus 2.0][Dual ...` | **4357.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621199) • [🐱 Nyaa](https://nekobt.to/torrents/12332516838410) |
+| `[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 02 [1080p CR WEB...` | **358.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/621189) • [🐱 Nyaa](https://nyaa.si/view/2131649) |
 
 ---
 <div align="center">
