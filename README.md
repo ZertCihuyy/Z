@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.44.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.40.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 14 [1080p CR WEBRip HE...` | **492.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/621310) • [🐱 Nyaa](https://nyaa.si/view/2131848) |
+| `[Onalrie] Azur Lane - Bisoku Zenshin! - S02E02 [1080p WEBRip AV1]` | **102.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621312) • [🐱 Nyaa](https://nekobt.to/torrents/12336937652738) |
+| `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E03 [1080p][HEV...` | **430.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/621311) • [🐱 Nyaa](https://nyaa.si/view/2131845) |
+| `[Onalrie] One Piece - E1169 [1080p WEBRip AV1]` | **277.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/621309) • [🐱 Nyaa](https://nekobt.to/torrents/12336734177803) |
+| `Agents of the Four Seasons Dance of Spring S01E11 Impatience 1080p ...` | **1635.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/621304) • [🐱 Nyaa](https://nyaa.si/view/2131844) |
+| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E14 [1080p][HEVC x265 10b...` | **409.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621305) • [🐱 Nyaa](https://nyaa.si/view/2131843) |
+| `[DKB] Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo - S0...` | **372.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/621306) • [🐱 Nyaa](https://nyaa.si/view/2131840) |
+| `[DKB] Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - S...` | **213.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/621307) • [🐱 Nyaa](https://nyaa.si/view/2131834) |
+| `[DKB] Seihantai na Kimi to Boku - S02E02 [1080p][HEVC x265 10bit][M...` | **212.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621308) • [🐱 Nyaa](https://nyaa.si/view/2131833) |
+| `[Kotobuki] Tenmaku no Jaadugar 01 [1080p HEVC Multisub] | Jaadugar:...` | **297.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621300) • [🐱 Nyaa](https://nyaa.si/view/2131829) |
+| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 02 [1080p] [AV1] (Weekly)` | **99.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621301) • [🐱 Nyaa](https://nyaa.si/view/2131828) |
 | `[ASW] One Piece - 1169 [1080p HEVC x265 10Bit][AAC]` | **330.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621298) • [🐱 Nyaa](https://nyaa.si/view/2131825) |
 | `[Onalrie] Futsutsuka na Akujo dewa Gozaimasu ga - S01E01 [1080p WEB...` | **225.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/621299) • [🐱 Nyaa](https://nekobt.to/torrents/12336138628362) |
 | `[ASW] Azur Lane - Bisoku Zenshin! S2 - 02 [1080p HEVC x265 10Bit][AAC]` | **132.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/621296) • [🐱 Nyaa](https://nyaa.si/view/2131816) |
 | `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 03 [1080...` | **480.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621297) • [🐱 Nyaa](https://nyaa.si/view/2131815) |
-| `[ASW] Futsutsuka na Akujo dewa Gozaimasu ga - 01 [1080p HEVC x265 1...` | **315.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/621291) • [🐱 Nyaa](https://nyaa.si/view/2131812) |
-| `[PMR] Sentenced to Be a Hero S01 (BD 1080p x265 Opus) [Dual Audio] ...` | **65705.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621292) • [🐱 Nyaa](https://nyaa.si/view/2131811) |
-| `[Onalrie] Sayonara Lara - S01E02 [1080p WEBRip AV1]` | **208.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621295) • [🐱 Nyaa](https://nekobt.to/torrents/12335577941773) |
-| `[ASW] Sayonara Lara - 02 [1080p HEVC x265 10Bit][AAC]` | **255.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/621293) • [🐱 Nyaa](https://nyaa.si/view/2131810) |
-| `Anime AzurLane Slow Ahead S02E02 The Power of Healing is Important ...` | **503.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/621294) • [🐱 Nyaa](https://nyaa.si/view/2131805) |
-| `[TSPlease] Though I Am an Inept Villainess S01E01 1080p CR WEB-DL A...` | **1437.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/621289) • [🐱 Nyaa](https://nekobt.to/torrents/12335485323784) |
-| `[ToonsHub] Azur Lane Slow Ahead S02E02 1080p CR WEB-DL AAC2.0 H.264...` | **501.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/621281) • [🐱 Nyaa](https://nyaa.si/view/2131785) |
-| `[SubsPlease] Azur Lane - Bisoku Zenshin! S2 - 02 (1080p) [7BAF593C]...` | **499.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621283) • [🐱 Nyaa](https://nyaa.si/view/2131782) |
-| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 02 [1080p CR WEB-DL AV...` | **502.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621285) • [🐱 Nyaa](https://nyaa.si/view/2131780) |
-| `[Judas] Mushoku Tensei (Jobless Reincarnation) - S03E03 [1080p][HEV...` | **326.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/621288) • [🐱 Nyaa](https://nyaa.si/view/2131776) |
-| `[nekotan] Welcome to the Outcast's Restaurant! S01 (BD 1080p x265 1...` | **13480.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621290) • [🐱 Nyaa](https://nekobt.to/torrents/12335258738952) |
 
 ---
 <div align="center">
