@@ -1,5 +1,5 @@
 {
-  "last_update": "12/7/2026, 15.55.08",
+  "last_update": "12/7/2026, 17.37.14",
   "data": [
     {
       "id": 21,
@@ -155,18 +155,18 @@
       }
     },
     {
-      "id": 210031,
+      "id": 187538,
       "title": {
-        "romaji": "Seihantai na Kimi to Boku 2nd Season"
+        "romaji": "BLACK TORCH"
       },
       "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg"
       },
-      "episodes": 13,
+      "episodes": null,
       "studios": {
         "nodes": [
           {
-            "name": "Lapin Track"
+            "name": "100studio"
           }
         ]
       }

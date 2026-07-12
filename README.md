@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.55.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.37.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `You and I Are Polar Opposites S02E02 Dilemma of a Winters Night 108...` | **1435.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/621143) • [🐱 Nyaa](https://nyaa.si/view/2131588) |
-| `Lets go KAIKIGUMI S01E02 Mystery 2 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **1415.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/621144) • [🐱 Nyaa](https://nyaa.si/view/2131587) |
-| `Wistoria Wand and Sword S02E12 A Story of a Dream with No End 1080p...` | **1448.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621145) • [🐱 Nyaa](https://nyaa.si/view/2131586) |
-| `[Yameii] Wistoria: Wand and Sword - S02E12 [English Dub] [CR WEB-DL...` | **1391.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/621146) • [🐱 Nyaa](https://nyaa.si/view/2131583) |
-| `[SubsPlease] Seihantai na Kimi to Boku - 14 (1080p) [D664C25A].mkv` | **1404.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621148) • [🐱 Nyaa](https://nyaa.si/view/2131579) |
-| `[ToonsHub] Wistoria Wand and Sword S02E12 1080p CR WEB-DL DUAL AAC2...` | **1446.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621133) • [🐱 Nyaa](https://nekobt.to/torrents/12327822776846) |
-| `[ToonsHub] You and I Are Polar Opposites S02E02 1080p CR WEB-DL AAC...` | **1416.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/621134) • [🐱 Nyaa](https://nekobt.to/torrents/12327820930828) |
-| `[Erai-raws] Let's Go Kaiki-gumi - 02 [1080p CR WEB-DL AVC AAC][Mult...` | **1395.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621137) • [🐱 Nyaa](https://nekobt.to/torrents/12327805782794) |
-| `[ToonsHub] You and I Are Polar Opposites S02E02 1080p NF WEB-DL AAC...` | **880.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621138) • [🐱 Nyaa](https://nekobt.to/torrents/12327803933452) |
-| `[Erai-raws] Seihantai na Kimi to Boku S02E02 [1080p CR WEB-DL AVC A...` | **1416.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/621141) • [🐱 Nyaa](https://nekobt.to/torrents/12327797718539) |
-| `[ToonsHub] You and I Are Polar Opposites S02E02 1080p BILI WEB-DL A...` | **203.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/621131) • [🐱 Nyaa](https://nyaa.si/view/2131560) |
-| `[Onalrie] Digimon Beatbreak - S01E38 [1080p WEBRip AV1]` | **279.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621142) • [🐱 Nyaa](https://nekobt.to/torrents/12327631956746) |
-| `[Onalrie] Meitantei Precure! - S01E24 [1080p WEBRip AV1]` | **471.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/621130) • [🐱 Nyaa](https://nekobt.to/torrents/12327261019648) |
-| `[BlackRabbit] Clevatess (2025) - S01 [Bluray-1080p][Opus 2.0][Dual ...` | **2938.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/621129) • [🐱 Nyaa](https://nekobt.to/torrents/12324978194696) |
-| `[Serenae] Meitantei Precure! - 24 Next Ep PV (1080p).mkv` | **23.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/621126) • [🐱 Nyaa](https://nyaa.si/view/2131532) |
+| `[Onalrie] Tetsunabe no Jan! - S01E02 [1080p WEBRip AV1]` | **222.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/621174) • [🐱 Nyaa](https://nekobt.to/torrents/12329545160964) |
+| `[ASW] Tetsunabe no Jan! - 02 [1080p HEVC x265 10Bit][AAC]` | **264.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621172) • [🐱 Nyaa](https://nyaa.si/view/2131607) |
+| `[Onalrie] Let's Go Kaiki-gumi - S01E02 [1080p WEBRip AV1]` | **169.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621173) • [🐱 Nyaa](https://nekobt.to/torrents/12329069637635) |
+| `[ASW] Let's Go Kaiki-gumi - 02 [1080p HEVC x265 10Bit][AAC]` | **272.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/621169) • [🐱 Nyaa](https://nyaa.si/view/2131606) |
+| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **179.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621170) • [🐱 Nyaa](https://nyaa.si/view/2131605) |
+| `[TSPlease] Iron Wok Jan S01E02 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1424.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621171) • [🐱 Nyaa](https://nyaa.si/view/2131604) |
+| `[ASW] Seihantai na Kimi to Boku - 14 [1080p HEVC x265 10Bit][AAC]` | **179.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/621167) • [🐱 Nyaa](https://nyaa.si/view/2131603) |
+| `[Onalrie] Seihantai na Kimi to Boku - S02E02 [1080p WEBRip AV1]` | **162.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/621168) • [🐱 Nyaa](https://nekobt.to/torrents/12328556422402) |
+| `[VARYG] You and I Are Polar Opposites S02E02 1080p NF WEB-DL AAC2.0...` | **880.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/621166) • [🐱 Nyaa](https://nekobt.to/torrents/12328457465358) |
+| `Wistoria Wand and Sword S02E11 A Roar of Ice and Lightning 1080p CR...` | **1707.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621156) • [🐱 Nyaa](https://nyaa.si/view/2131601) |
+| `[ToonsHub] Iron Wok Jan S01E02 1080p CR WEB-DL AAC2.0 H.264 (Tetsun...` | **1424.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621157) • [🐱 Nyaa](https://nyaa.si/view/2131600) |
+| `Iron Wok Jan S01E02 Theyre Like Gunpowder 1080p CR WEB-DL AAC2.0 H ...` | **1405.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/621158) • [🐱 Nyaa](https://nyaa.si/view/2131597) |
+| `[SubsPlease] Tetsunabe no Jan! - 02 (1080p) [89F64472].mkv` | **1375.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621159) • [🐱 Nyaa](https://nyaa.si/view/2131596) |
+| `[Erai-raws] Tetsunabe no Jan - 02 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1384.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/621163) • [🐱 Nyaa](https://nyaa.si/view/2131592) |
+| `[DB] Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Swor...` | **5365.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/621165) • [🐱 Nyaa](https://nyaa.si/view/2131590) |
 
 ---
 <div align="center">
