@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.58.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.59.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **1154.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/621331) • [🐱 Nyaa](https://nyaa.si/view/2131873) |
+| `[SubsNoJutsu] Goodbye, Lara - S01E02 (1080p WEBRip AAC x265) [3AB8E...` | **485.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621330) • [🐱 Nyaa](https://nekobt.to/torrents/12340246045450) |
+| `Welcome To Demon School! Iruma-Kun S01-S03 1080p BDRip AV1 10bit FL...` | **108227.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621329) • [🐱 Nyaa](https://nyaa.si/view/2131872) |
 | `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E02 [1080p][HEV...` | **628.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/621328) • [🐱 Nyaa](https://nyaa.si/view/2131871) |
 | `[CrappySubs] Sparks of Tomorrow - S01E02 (NF WEB 1080p H.264 AAC) [...` | **913.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621327) • [🐱 Nyaa](https://nekobt.to/torrents/12339343748353) |
 | `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 01 [1080p CR WE...` | **625.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621325) • [🐱 Nyaa](https://nyaa.si/view/2131867) |
@@ -42,9 +45,6 @@
 | `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 02 [1080p CR WEBRip HE...` | **176.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621317) • [🐱 Nyaa](https://nyaa.si/view/2131857) |
 | `[FrixySubs] Super no Ura de Yani Suu Futari - S01E01 [1080p CR WEB-...` | **1411.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621318) • [🐱 Nyaa](https://nekobt.to/torrents/12337709091599) |
 | `[Erai-raws] Sayonara Lara - 02 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **485.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/621316) • [🐱 Nyaa](https://nyaa.si/view/2131851) |
-| `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E01 [WEB.108...` | **324.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621313) • [🐱 Nyaa](https://nyaa.si/view/2131850) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 14 [1080p CR WEBRip HE...` | **492.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/621310) • [🐱 Nyaa](https://nyaa.si/view/2131848) |
-| `[Onalrie] Azur Lane - Bisoku Zenshin! - S02E02 [1080p WEBRip AV1]` | **102.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621312) • [🐱 Nyaa](https://nekobt.to/torrents/12336937652738) |
 
 ---
 <div align="center">
