@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.53.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.56.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 01 [1080p CR WE...` | **625.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621325) • [🐱 Nyaa](https://nyaa.si/view/2131867) |
+| `Mushoku Tensei Jobless Reincarnation S03E03 1080p NF WEB-DL AAC2.0 ...` | **867.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621326) • [🐱 Nyaa](https://nyaa.si/view/2131866) |
+| `One Piece - 1169 [H3LL][1080p][x264][10bit][AAC][Multi-Subs].mkv` | **1049.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/621324) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2094076) |
+| `[kikuri] Oshi no Ko 3rd Season (BD 1080p HEVC Opus) | Oshi no Ko S03` | **16586.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/621323) • [🐱 Nyaa](https://nekobt.to/torrents/12338449921283) |
+| `Digimon Beatbreak S01E38 Hollow Thirst REPACK 1080p CR WEB-DL AAC2....` | **1378.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/621322) • [🐱 Nyaa](https://nyaa.si/view/2131861) |
+| `[Anime Time] Wistoria Wand And Sword - S02E12 (Tsue to Tsurugi no W...` | **563.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/621320) • [🐱 Nyaa](https://nyaa.si/view/2131860) |
+| `[DKB] Azur Lane: Bisoku Zenshin! - S02E02 [1080p][HEVC x265 10bit][...` | **129.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/621321) • [🐱 Nyaa](https://nyaa.si/view/2131859) |
 | `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 02 [1080p CR WEBRip HE...` | **176.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621317) • [🐱 Nyaa](https://nyaa.si/view/2131857) |
 | `[FrixySubs] Super no Ura de Yani Suu Futari - S01E01 [1080p CR WEB-...` | **1411.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621318) • [🐱 Nyaa](https://nekobt.to/torrents/12337709091599) |
 | `[Erai-raws] Sayonara Lara - 02 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **485.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/621316) • [🐱 Nyaa](https://nyaa.si/view/2131851) |
@@ -38,13 +45,6 @@
 | `[Onalrie] Azur Lane - Bisoku Zenshin! - S02E02 [1080p WEBRip AV1]` | **102.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621312) • [🐱 Nyaa](https://nekobt.to/torrents/12336937652738) |
 | `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E03 [1080p][HEV...` | **430.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/621311) • [🐱 Nyaa](https://nyaa.si/view/2131845) |
 | `[Onalrie] One Piece - E1169 [1080p WEBRip AV1]` | **277.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/621309) • [🐱 Nyaa](https://nekobt.to/torrents/12336734177803) |
-| `Agents of the Four Seasons Dance of Spring S01E11 Impatience 1080p ...` | **1635.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/621304) • [🐱 Nyaa](https://nyaa.si/view/2131844) |
-| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E14 [1080p][HEVC x265 10b...` | **409.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621305) • [🐱 Nyaa](https://nyaa.si/view/2131843) |
-| `[DKB] Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo - S0...` | **372.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/621306) • [🐱 Nyaa](https://nyaa.si/view/2131840) |
-| `[DKB] Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - S...` | **213.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/621307) • [🐱 Nyaa](https://nyaa.si/view/2131834) |
-| `[DKB] Seihantai na Kimi to Boku - S02E02 [1080p][HEVC x265 10bit][M...` | **212.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621308) • [🐱 Nyaa](https://nyaa.si/view/2131833) |
-| `[Kotobuki] Tenmaku no Jaadugar 01 [1080p HEVC Multisub] | Jaadugar:...` | **297.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621300) • [🐱 Nyaa](https://nyaa.si/view/2131829) |
-| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 02 [1080p] [AV1] (Weekly)` | **99.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621301) • [🐱 Nyaa](https://nyaa.si/view/2131828) |
 
 ---
 <div align="center">
