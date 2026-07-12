@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.58.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.03.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 02 [1080p AMZN...` | **307.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621097) • [🐱 Nyaa](https://nyaa.si/view/2131425) |
+| `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **261.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/621098) • [🐱 Nyaa](https://nyaa.si/view/2131424) |
+| `[DKB] Hanaori-san wa Tensei shitemo Kenka ga Shitai - S01E01 [1080p...` | **280.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621099) • [🐱 Nyaa](https://nyaa.si/view/2131423) |
 | `[SubsNoJutsu] Daemons of the Shadow Realm - S01E14 (1080p WEBRip AA...` | **469.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621096) • [🐱 Nyaa](https://nekobt.to/torrents/12318587457035) |
 | `Magilumiere Magical Girls Inc S02E02 No Logical Means of Exterminat...` | **1073.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/621091) • [🐱 Nyaa](https://nyaa.si/view/2131420) |
 | `[Yameii] Hanaori-san Still Wants to Fight in the Next Life - S01E01...` | **1401.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/621092) • [🐱 Nyaa](https://nyaa.si/view/2131419) |
@@ -45,9 +48,6 @@
 | `Hanaori san Still Wants to Fight in the Next Life S01E01 When Ryuse...` | **1506.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621081) • [🐱 Nyaa](https://nyaa.si/view/2131395) |
 | `[Judas] Black Torch - S01E02 [1080p][HEVC x265 10bit][Dual-Audio][M...` | **391.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/621082) • [🐱 Nyaa](https://nyaa.si/view/2131394) |
 | `[Onalrie] Saijo no Osewa - S01E02 [1080p WEBRip AV1]` | **206.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621080) • [🐱 Nyaa](https://nekobt.to/torrents/12317065995014) |
-| `[neoDESU] Don't Toy with Me, Miss Nagatoro [Season 2] [BD 1080p HEV...` | **2860.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621078) • [🐱 Nyaa](https://nyaa.si/view/2131392) |
-| `[Anime Time] Black Torch - S01E02 [1080p][HEVC 10bit x265][AAC][Dua...` | **571.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621079) • [🐱 Nyaa](https://nyaa.si/view/2131391) |
-| `[Judas] Reincarnation no Kaben (Petals of Reincarnation) (Season 01...` | **5591.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621071) • [🐱 Nyaa](https://nyaa.si/view/2131387) |
 
 ---
 <div align="center">
