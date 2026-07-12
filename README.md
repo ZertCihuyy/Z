@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.44.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.41.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Hotori.Simply.Wishing.for.Hope.2005.1080p.BluRay.FLAC2.0.x264` | **1837.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621179) • [🐱 Nyaa](https://nyaa.si/view/2131622) |
+| `REPACK.Bishoujo.Senshi.Sailor.Moon.Crystal.Season.III.2016.S03.MULT...` | **29250.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621180) • [🐱 Nyaa](https://nyaa.si/view/2131620) |
 | `[CenturyZeta] Yanineko Mini Anime - 11 (1080p) (Yani Neko)` | **5.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/621177) • [🐱 Nyaa](https://nyaa.si/view/2131613) |
 | `[ToonsHub] Though I Am an Inept Villainess S01E01 1080p DSNP WEB-DL...` | **869.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621175) • [🐱 Nyaa](https://nyaa.si/view/2131612) |
 | `[FSP DN] A Record of a Mortal’s Journey to Immortality - 182 (1080p...` | **519.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/621176) • [🐱 Nyaa](https://nyaa.si/view/2131611) |
@@ -46,8 +48,6 @@
 | `[Onalrie] Seihantai na Kimi to Boku - S02E02 [1080p WEBRip AV1]` | **162.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/621168) • [🐱 Nyaa](https://nekobt.to/torrents/12328556422402) |
 | `[VARYG] You and I Are Polar Opposites S02E02 1080p NF WEB-DL AAC2.0...` | **880.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/621166) • [🐱 Nyaa](https://nekobt.to/torrents/12328457465358) |
 | `Wistoria Wand and Sword S02E11 A Roar of Ice and Lightning 1080p CR...` | **1707.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621156) • [🐱 Nyaa](https://nyaa.si/view/2131601) |
-| `[ToonsHub] Iron Wok Jan S01E02 1080p CR WEB-DL AAC2.0 H.264 (Tetsun...` | **1424.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621157) • [🐱 Nyaa](https://nyaa.si/view/2131600) |
-| `Iron Wok Jan S01E02 Theyre Like Gunpowder 1080p CR WEB-DL AAC2.0 H ...` | **1405.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/621158) • [🐱 Nyaa](https://nyaa.si/view/2131597) |
 
 ---
 <div align="center">
