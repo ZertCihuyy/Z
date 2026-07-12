@@ -1,16 +1,168 @@
 {
-  "last_update": "12/7/2026, 23.36.37",
-  "hari": "Minggu",
+  "last_update": "13/7/2026, 00.44.03",
+  "hari": "Senin",
   "data": [
     {
-      "airingAt": 1783791480,
+      "airingAt": 1783880400,
       "media": {
-        "id": 201514,
+        "id": 213359,
         "title": {
-          "romaji": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita"
+          "romaji": "Yami Shibai 17"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201514-BHAeWhSbcBrT.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213359-VDIZoZHMA0LI.jpg"
+        },
+        "genres": [
+          "Horror",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783908000,
+      "media": {
+        "id": 137653,
+        "title": {
+          "romaji": "Xian Ni"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783943820,
+      "media": {
+        "id": 169582,
+        "title": {
+          "romaji": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783944000,
+      "media": {
+        "id": 202269,
+        "title": {
+          "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita."
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783947600,
+      "media": {
+        "id": 185542,
+        "title": {
+          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783947600,
+      "media": {
+        "id": 206521,
+        "title": {
+          "romaji": "World Is Dancing"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206521-ecJuDgjth84C.png"
+        },
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783949400,
+      "media": {
+        "id": 199408,
+        "title": {
+          "romaji": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199408-ocRWG4pRWl8f.png"
+        },
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783951200,
+      "media": {
+        "id": 195833,
+        "title": {
+          "romaji": "Honoo no Toukyuujyo Dodge Danko"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195833-h7x6i3NQWROA.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783951200,
+      "media": {
+        "id": 209504,
+        "title": {
+          "romaji": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209504-yRxHWxKuNGtg.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783953000,
+      "media": {
+        "id": 169583,
+        "title": {
+          "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg"
         },
         "genres": [
           "Comedy",
@@ -19,227 +171,35 @@
       }
     },
     {
-      "airingAt": 1783807200,
+      "airingAt": 1783954800,
       "media": {
-        "id": 204269,
+        "id": 197754,
         "title": {
-          "romaji": "Odekake Kozame Season 2"
+          "romaji": "LIAR GAME"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
         },
         "genres": [
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783807200,
-      "media": {
-        "id": 202386,
-        "title": {
-          "romaji": "Shou 3 Ashibe QQ Goma-chan"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png"
-        },
-        "genres": [
-          "Comedy",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783807200,
-      "media": {
-        "id": 208824,
-        "title": {
-          "romaji": "Plannosaurus Gachi Koseibutsu-bu"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208824-JeKq65nNiFhA.png"
-        },
-        "genres": []
-      }
-    },
-    {
-      "airingAt": 1783807200,
-      "media": {
-        "id": 206950,
-        "title": {
-          "romaji": "Kumarba Season 3"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png"
-        },
-        "genres": [
-          "Action",
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783810800,
-      "media": {
-        "id": 185646,
-        "title": {
-          "romaji": "Koupen-chan"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg"
-        },
-        "genres": [
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783812600,
-      "media": {
-        "id": 202957,
-        "title": {
-          "romaji": "Meitantei Precure!"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg"
-        },
-        "genres": [
-          "Mahou Shoujo",
-          "Mystery"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783814400,
-      "media": {
-        "id": 188388,
-        "title": {
-          "romaji": "DIGIMON BEATBREAK"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Sci-Fi"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783816200,
-      "media": {
-        "id": 206523,
-        "title": {
-          "romaji": "Onegai AiPri"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg"
-        },
-        "genres": [
-          "Music"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783821600,
-      "media": {
-        "id": 196613,
-        "title": {
-          "romaji": "Dou Po Cangqiong: Nian Fan 4"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783821600,
-      "media": {
-        "id": 155723,
-        "title": {
-          "romaji": "Wushen Zhuzai: Da Wei Pian"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
-        },
-        "genres": [
-          "Action",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783841400,
-      "media": {
-        "id": 200230,
-        "title": {
-          "romaji": "Let's Go Kaikigumi"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200230-YuzdgbXSgi38.png"
-        },
-        "genres": [
-          "Comedy",
-          "Horror",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783843200,
-      "media": {
-        "id": 210031,
-        "title": {
-          "romaji": "Seihantai na Kimi to Boku 2nd Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg"
-        },
-        "genres": [
-          "Comedy",
           "Drama",
-          "Romance",
-          "Slice of Life"
+          "Psychological"
         ]
       }
     },
     {
-      "airingAt": 1783845000,
+      "airingAt": 1783954800,
       "media": {
-        "id": 204060,
+        "id": 199111,
         "title": {
-          "romaji": "Tetsunabe no Jan!"
+          "romaji": "Grand Blue Season 3"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204060-bKhovD8jAlW8.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199111-gBSuBG61ElcW.jpg"
         },
         "genres": [
-          "Action",
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783846800,
-      "media": {
-        "id": 118123,
-        "title": {
-          "romaji": "Holo no Graffiti"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy"
+          "Comedy",
+          "Slice of Life",
+          "Sports"
         ]
       }
     }
