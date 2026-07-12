@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.37.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.44.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CenturyZeta] Yanineko Mini Anime - 11 (1080p) (Yani Neko)` | **5.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/621177) • [🐱 Nyaa](https://nyaa.si/view/2131613) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E01 1080p DSNP WEB-DL...` | **869.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621175) • [🐱 Nyaa](https://nyaa.si/view/2131612) |
+| `[FSP DN] A Record of a Mortal’s Journey to Immortality - 182 (1080p...` | **519.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/621176) • [🐱 Nyaa](https://nyaa.si/view/2131611) |
 | `[Onalrie] Tetsunabe no Jan! - S01E02 [1080p WEBRip AV1]` | **222.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/621174) • [🐱 Nyaa](https://nekobt.to/torrents/12329545160964) |
 | `[ASW] Tetsunabe no Jan! - 02 [1080p HEVC x265 10Bit][AAC]` | **264.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621172) • [🐱 Nyaa](https://nyaa.si/view/2131607) |
 | `[Onalrie] Let's Go Kaiki-gumi - S01E02 [1080p WEBRip AV1]` | **169.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621173) • [🐱 Nyaa](https://nekobt.to/torrents/12329069637635) |
@@ -45,9 +48,6 @@
 | `Wistoria Wand and Sword S02E11 A Roar of Ice and Lightning 1080p CR...` | **1707.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621156) • [🐱 Nyaa](https://nyaa.si/view/2131601) |
 | `[ToonsHub] Iron Wok Jan S01E02 1080p CR WEB-DL AAC2.0 H.264 (Tetsun...` | **1424.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621157) • [🐱 Nyaa](https://nyaa.si/view/2131600) |
 | `Iron Wok Jan S01E02 Theyre Like Gunpowder 1080p CR WEB-DL AAC2.0 H ...` | **1405.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/621158) • [🐱 Nyaa](https://nyaa.si/view/2131597) |
-| `[SubsPlease] Tetsunabe no Jan! - 02 (1080p) [89F64472].mkv` | **1375.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621159) • [🐱 Nyaa](https://nyaa.si/view/2131596) |
-| `[Erai-raws] Tetsunabe no Jan - 02 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1384.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/621163) • [🐱 Nyaa](https://nyaa.si/view/2131592) |
-| `[DB] Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Swor...` | **5365.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/621165) • [🐱 Nyaa](https://nyaa.si/view/2131590) |
 
 ---
 <div align="center">
