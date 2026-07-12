@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.16.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.34.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Sparks of Tomorrow S01E02 1080p NF WEB-DL MULTi AAC2.0 H...` | **1216.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621214) • [🐱 Nyaa](https://nekobt.to/torrents/12332993103113) |
-| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1405.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/621200) • [🐱 Nyaa](https://nyaa.si/view/2131673) |
-| `Sparks of Tomorrow S01E02 The Mysteries of the Catalog 1080p NF WEB...` | **911.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621201) • [🐱 Nyaa](https://nyaa.si/view/2131671) |
-| `[ToonsHub] Sparks of Tomorrow S01E02 1080p NF WEB-DL DUAL AAC2.0 H....` | **911.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621202) • [🐱 Nyaa](https://nyaa.si/view/2131670) |
-| `Sparks of Tomorrow S01E02 The Mysteries of the Catalog 1080p NF WEB...` | **1216.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621203) • [🐱 Nyaa](https://nyaa.si/view/2131669) |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1423.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621204) • [🐱 Nyaa](https://nyaa.si/view/2131668) |
-| `[Erai-raws] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no K...` | **1384.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621208) • [🐱 Nyaa](https://nyaa.si/view/2131662) |
-| `[SubsPlease] Hyakkano - 26 (1080p) [BBCBAF3F].mkv` | **1374.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/621209) • [🐱 Nyaa](https://nyaa.si/view/2131661) |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **349.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621210) • [🐱 Nyaa](https://nyaa.si/view/2131660) |
-| `[Judas] Sekai Saikyou no Kouei Meikyuukoku no Shinjin Tansakusha (T...` | **191.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621213) • [🐱 Nyaa](https://nyaa.si/view/2131656) |
-| `[Onalrie] Sekai Saikyou no Kouei - S01E02 [1080p WEBRip AV1]` | **161.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621198) • [🐱 Nyaa](https://nekobt.to/torrents/12332716194059) |
-| `[ASW] Sekai Saikyou no Kouei - 02 [1080p HEVC x265 10Bit][AAC]` | **192.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/621196) • [🐱 Nyaa](https://nyaa.si/view/2131654) |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 91 [1080p] (GB_CN) | 牧神记` | **355.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/621197) • [🐱 Nyaa](https://nyaa.si/view/2131653) |
-| `[BlackRabbit] Fate+Zero (2011) - S01 [Bluray-1080p][Opus 2.0][Dual ...` | **4357.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621199) • [🐱 Nyaa](https://nekobt.to/torrents/12332516838410) |
-| `[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 02 [1080p CR WEB...` | **358.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/621189) • [🐱 Nyaa](https://nyaa.si/view/2131649) |
+| `[Erai-raws] Sayonara Lara - 02 [1080p CR WEB-DL AVC AAC][MultiSub][...` | **1410.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621247) • [🐱 Nyaa](https://nekobt.to/torrents/12334249631232) |
+| `[HuangSubs] Throne of Seal - Director's Cut - The Final Battle (1080p)` | **4350.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/621240) • [🐱 Nyaa](https://nyaa.si/view/2131718) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E01 1080p NF WEB-DL A...` | **873.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621241) • [🐱 Nyaa](https://nyaa.si/view/2131712) |
+| `[CFN] Detective Conan - Episode 035 [Remastered] [Funimation Dub] [...` | **240.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/621248) • [🐱 Nyaa](https://nekobt.to/torrents/12333965781519) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E03 1080p CR WEB...` | **1391.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/621232) • [🐱 Nyaa](https://nekobt.to/torrents/12333847218700) |
+| `[SubsPlease] Mushoku Tensei S3 - 03 (1080p) [8488B15C].mkv` | **1381.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621242) • [🐱 Nyaa](https://nyaa.si/view/2131705) |
+| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E14 1080p CR...` | **1405.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621233) • [🐱 Nyaa](https://nekobt.to/torrents/12333833936398) |
+| `[VARYG] The Classroom of a Black Cat and a Witch S01E14 Maids at th...` | **1408.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/621234) • [🐱 Nyaa](https://nekobt.to/torrents/12333827817737) |
+| `[VARYG] Mushoku Tensei Jobless Reincarnation S03E03 Life Back at Ho...` | **1392.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/621235) • [🐱 Nyaa](https://nekobt.to/torrents/12333826067981) |
+| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 14 (1080p) [CCD7A518]...` | **1378.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621243) • [🐱 Nyaa](https://nyaa.si/view/2131702) |
+| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 03 [1080...` | **1391.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621223) • [🐱 Nyaa](https://nyaa.si/view/2131692) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E03 1080p NF WEB...` | **867.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621222) • [🐱 Nyaa](https://nyaa.si/view/2131693) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 14 [1080p CR WEB-DL AV...` | **1389.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/621225) • [🐱 Nyaa](https://nyaa.si/view/2131689) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E03 1080p BILI W...` | **269.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621227) • [🐱 Nyaa](https://nyaa.si/view/2131686) |
+| `[Onalrie] Hyakkano - S03E02 [1080p WEBRip AV1]` | **314.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621237) • [🐱 Nyaa](https://nekobt.to/torrents/12333738220040) |
 
 ---
 <div align="center">
