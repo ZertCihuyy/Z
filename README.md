@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.01.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.11.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **295.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621521) • [🐱 Nyaa](https://nyaa.si/view/2132238) |
+| `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p N...` | **3347.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/621522) • [🐱 Nyaa](https://nyaa.si/view/2132237) |
+| `[DKB] Grand Blue - S03E02 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **302.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621520) • [🐱 Nyaa](https://nyaa.si/view/2132236) |
 | `[Yameii] The Klutzy Class Monitor and the Girl with the Short Skirt...` | **1384.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621518) • [🐱 Nyaa](https://nyaa.si/view/2132232) |
 | `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p C...` | **5254.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/621517) • [🐱 Nyaa](https://nekobt.to/torrents/12360920000771) |
 | `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **231.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621514) • [🐱 Nyaa](https://nyaa.si/view/2132227) |
@@ -43,9 +46,6 @@
 | `[Judas] Grand Blue Dreaming - S03E02 [1080p][HEVC x265 10bit][Multi...` | **284.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621505) • [🐱 Nyaa](https://nyaa.si/view/2132217) |
 | `[BlackRabbit] Oshi no Ko (2023) - S03 [Bluray-1080p][Opus 2.0][AV1]` | **2706.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621507) • [🐱 Nyaa](https://nekobt.to/torrents/12359680255497) |
 | `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E02 [W...` | **845.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/621506) • [🐱 Nyaa](https://nyaa.si/view/2132215) |
-| `[Onalrie] Grand Blue - S03E02 [1080p WEBRip AV1]` | **250.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/621504) • [🐱 Nyaa](https://nekobt.to/torrents/12359533011723) |
-| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E02 [1080p]...` | **209.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621501) • [🐱 Nyaa](https://nyaa.si/view/2132208) |
-| `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E02 [1...` | **378.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621502) • [🐱 Nyaa](https://nyaa.si/view/2132207) |
 
 ---
 <div align="center">
