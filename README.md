@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.42.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.07.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Love Unseen Beneath the Clear Night Sky S01E02 Fuyutsuki Koharu 108...` | **1430.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621356) • [🐱 Nyaa](https://nyaa.si/view/2131982) |
+| `[ToonsHub] Love Unseen Beneath the Clear Night Sky S01E02 1080p CR ...` | **1429.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621357) • [🐱 Nyaa](https://nyaa.si/view/2131981) |
+| `[SubsPlease] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo ...` | **1405.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/621358) • [🐱 Nyaa](https://nyaa.si/view/2131980) |
+| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **1411.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/621363) • [🐱 Nyaa](https://nyaa.si/view/2131971) |
+| `[ToonsHub] Love Unseen Beneath the Clear Night Sky S01E02 1080p BIL...` | **214.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/621364) • [🐱 Nyaa](https://nyaa.si/view/2131970) |
+| `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E14 108...` | **234.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621355) • [🐱 Nyaa](https://nyaa.si/view/2131967) |
+| `[LbE3L] BLACK TORCH S01E01–E02 [1080p CR WEBRip AV1 Opus 2.0 Multi-...` | **974.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621354) • [🐱 Nyaa](https://nekobt.to/torrents/12352351934981) |
+| `[Kotobuki] Tenmaku no Jaadugar 02 [1080p HEVC Multisub] | Jaadugar:...` | **300.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621353) • [🐱 Nyaa](https://nyaa.si/view/2131952) |
 | `[sandoe41] Saving 80,000 Gold in Another World for My Retirement [S...` | **21961.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/621352) • [🐱 Nyaa](https://nyaa.si/view/2131942) |
 | `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **404.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621349) • [🐱 Nyaa](https://nyaa.si/view/2131908) |
 | `[BlackRose] The Ghost in the Shell (2026) - S01E01v2 (WEB 1080p HEV...` | **4585.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621348) • [🐱 Nyaa](https://nekobt.to/torrents/12344376825866) |
@@ -37,14 +45,6 @@
 | `[ToonsHub] One Piece EP1169 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **295.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621347) • [🐱 Nyaa](https://nyaa.si/view/2131899) |
 | `[Erai-raws] Meitantei Precure - 24 [1080p CR WEBRip HEVC AAC][Multi...` | **639.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621339) • [🐱 Nyaa](https://nyaa.si/view/2131898) |
 | `[Erai-raws] Meitantei Precure - 24 [1080p CR WEB-DL AVC AAC][MultiS...` | **1417.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621340) • [🐱 Nyaa](https://nyaa.si/view/2131897) |
-| `[FSP] Douluo Dalu II - Soul Land 2 - 161 [1080p]` | **426.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621343) • [🐱 Nyaa](https://nyaa.si/view/2131893) |
-| `[ToonsHub] Star Detective Precure S01E24 1080p CR WEB-DL AAC2.0 H.2...` | **1415.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621338) • [🐱 Nyaa](https://nyaa.si/view/2131892) |
-| `[Breeze] Mushoku Tensei S03E03 v0 [1080p AV1] Jobless Reincarnation...` | **769.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/621336) • [🐱 Nyaa](https://nyaa.si/view/2131891) |
-| `[ToonsHub] LOCA (2025) 1080p YT WEB-DL AAC2.0 H.264 (English-Sub)` | **241.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/621335) • [🐱 Nyaa](https://nyaa.si/view/2131890) |
-| `[One Pace][1011-1012] Wano 61 [1080p][1EF3F26C].mkv` | **1296.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/621337) • [🐱 Nyaa](https://nyaa.si/view/2131887) |
-| `[nekotan] Weathering with You 2019 (BD 1080p x265 10-bit Opus) [Dua...` | **19548.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/621333) • [🐱 Nyaa](https://nyaa.si/view/2131880) |
-| `[Reza] Smoking Behind the Supermarket with You - S01E01 [WEBRip 108...` | **1074.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621332) • [🐱 Nyaa](https://nyaa.si/view/2131876) |
-| `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **1154.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/621331) • [🐱 Nyaa](https://nyaa.si/view/2131873) |
 
 ---
 <div align="center">
