@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.01.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.50.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **1397.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621497) • [🐱 Nyaa](https://nekobt.to/torrents/12358501113869) |
-| `[Onalrie] Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach. - S01E01 ...` | **437.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621498) • [🐱 Nyaa](https://onalrie.app/torrent/bf9d24bc-fbfc-42a7-b86d-5569ef2941d5) |
-| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **327.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621489) • [🐱 Nyaa](https://nyaa.si/view/2132193) |
-| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **746.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/621490) • [🐱 Nyaa](https://nyaa.si/view/2132192) |
-| `[Erai-raws] Grand Blue Season 3 - 02 [1080p CR WEBRip HEVC AAC][Mul...` | **507.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/621491) • [🐱 Nyaa](https://nyaa.si/view/2132191) |
-| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 02 [1080...` | **262.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/621492) • [🐱 Nyaa](https://nyaa.si/view/2132190) |
-| `[ASW] LIAR GAME - 15 [1080p HEVC x265 10Bit][AAC]` | **206.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621493) • [🐱 Nyaa](https://nyaa.si/view/2132188) |
-| `[ASW] Grand Blue S3 - 02 [1080p HEVC x265 10Bit][AAC]` | **302.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/621494) • [🐱 Nyaa](https://nyaa.si/view/2132187) |
-| `[ToonsHub] Grand Blue Dreaming S03E02 1080p AMZN WEB-DL DDP2.0 H.26...` | **784.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/621486) • [🐱 Nyaa](https://nyaa.si/view/2132183) |
-| `[BlackRabbit] Oshi no Ko (2023) - S02 [Bluray-1080p][Opus 2.0][Dual...` | **2846.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621488) • [🐱 Nyaa](https://nekobt.to/torrents/12358028023554) |
-| `[Judas] Liar Game - S01E15 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **208.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/621487) • [🐱 Nyaa](https://nyaa.si/view/2132182) |
-| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **568.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621480) • [🐱 Nyaa](https://nyaa.si/view/2132180) |
-| `[SubsPlease] Kujima Utaeba Ie Hororo (01-12) (1080p) [Batch]` | **16509.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621482) • [🐱 Nyaa](https://nyaa.si/view/2132178) |
-| `[ASW] Tenkosaki - 02 [1080p HEVC x265 10Bit][AAC]` | **170.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621485) • [🐱 Nyaa](https://nyaa.si/view/2132174) |
-| `[Judas] Replica Datte, Koi o Suru (Even a Replica Can Fall in Love)...` | **3459.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621476) • [🐱 Nyaa](https://nyaa.si/view/2132173) |
+| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **656.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621508) • [🐱 Nyaa](https://nyaa.si/view/2132221) |
+| `[DKB] World Is Dancing - S01E03 [1080p][HEVC x265 10bit][weekly]` | **425.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/621509) • [🐱 Nyaa](https://nyaa.si/view/2132220) |
+| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **208.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/621510) • [🐱 Nyaa](https://nyaa.si/view/2132219) |
+| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **564.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621511) • [🐱 Nyaa](https://nyaa.si/view/2132218) |
+| `[Onalrie] LIAR GAME - S01E15 [1080p WEBRip AV1]` | **162.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621512) • [🐱 Nyaa](https://nekobt.to/torrents/12359976283911) |
+| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **311.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/621513) • [🐱 Nyaa](https://nekobt.to/torrents/12359873619982) |
+| `[Judas] Grand Blue Dreaming - S03E02 [1080p][HEVC x265 10bit][Multi...` | **284.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621505) • [🐱 Nyaa](https://nyaa.si/view/2132217) |
+| `[BlackRabbit] Oshi no Ko (2023) - S03 [Bluray-1080p][Opus 2.0][AV1]` | **2706.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621507) • [🐱 Nyaa](https://nekobt.to/torrents/12359680255497) |
+| `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E02 [W...` | **845.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/621506) • [🐱 Nyaa](https://nyaa.si/view/2132215) |
+| `[Onalrie] Grand Blue - S03E02 [1080p WEBRip AV1]` | **250.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/621504) • [🐱 Nyaa](https://nekobt.to/torrents/12359533011723) |
+| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E02 [1080p]...` | **209.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621501) • [🐱 Nyaa](https://nyaa.si/view/2132208) |
+| `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E02 [1...` | **378.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621502) • [🐱 Nyaa](https://nyaa.si/view/2132207) |
+| `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **181.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/621503) • [🐱 Nyaa](https://nyaa.si/view/2132206) |
+| `[Onalrie] Tenkosaki - S01E02 [1080p WEBRip AV1]` | **172.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/621500) • [🐱 Nyaa](https://nekobt.to/torrents/12358945839363) |
+| `[Erai-raws] Liar Game - 15 [1080p CR WEBRip HEVC AAC][MultiSub][49D...` | **445.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621499) • [🐱 Nyaa](https://nyaa.si/view/2132197) |
 
 ---
 <div align="center">
