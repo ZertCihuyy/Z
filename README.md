@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.39.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.42.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sandoe41] Saving 80,000 Gold in Another World for My Retirement [S...` | **21961.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/621352) • [🐱 Nyaa](https://nyaa.si/view/2131942) |
 | `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **404.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621349) • [🐱 Nyaa](https://nyaa.si/view/2131908) |
 | `[BlackRose] The Ghost in the Shell (2026) - S01E01v2 (WEB 1080p HEV...` | **4585.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621348) • [🐱 Nyaa](https://nekobt.to/torrents/12344376825866) |
 | `[HuangSubs] Shrouding the Heavens Episodes 1-169 + The Imperial Pat...` | **59766.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621346) • [🐱 Nyaa](https://nyaa.si/view/2131900) |
@@ -44,7 +45,6 @@
 | `[nekotan] Weathering with You 2019 (BD 1080p x265 10-bit Opus) [Dua...` | **19548.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/621333) • [🐱 Nyaa](https://nyaa.si/view/2131880) |
 | `[Reza] Smoking Behind the Supermarket with You - S01E01 [WEBRip 108...` | **1074.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621332) • [🐱 Nyaa](https://nyaa.si/view/2131876) |
 | `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **1154.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/621331) • [🐱 Nyaa](https://nyaa.si/view/2131873) |
-| `[SubsNoJutsu] Goodbye, Lara - S01E02 (1080p WEBRip AAC x265) [3AB8E...` | **485.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621330) • [🐱 Nyaa](https://nekobt.to/torrents/12340246045450) |
 
 ---
 <div align="center">
