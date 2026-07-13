@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.50.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.01.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] The Klutzy Class Monitor and the Girl with the Short Skirt...` | **1384.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621518) • [🐱 Nyaa](https://nyaa.si/view/2132232) |
+| `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p C...` | **5254.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/621517) • [🐱 Nyaa](https://nekobt.to/torrents/12360920000771) |
+| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **231.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621514) • [🐱 Nyaa](https://nyaa.si/view/2132227) |
 | `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **656.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621508) • [🐱 Nyaa](https://nyaa.si/view/2132221) |
 | `[DKB] World Is Dancing - S01E03 [1080p][HEVC x265 10bit][weekly]` | **425.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/621509) • [🐱 Nyaa](https://nyaa.si/view/2132220) |
 | `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **208.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/621510) • [🐱 Nyaa](https://nyaa.si/view/2132219) |
@@ -43,9 +46,6 @@
 | `[Onalrie] Grand Blue - S03E02 [1080p WEBRip AV1]` | **250.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/621504) • [🐱 Nyaa](https://nekobt.to/torrents/12359533011723) |
 | `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E02 [1080p]...` | **209.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621501) • [🐱 Nyaa](https://nyaa.si/view/2132208) |
 | `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E02 [1...` | **378.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621502) • [🐱 Nyaa](https://nyaa.si/view/2132207) |
-| `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **181.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/621503) • [🐱 Nyaa](https://nyaa.si/view/2132206) |
-| `[Onalrie] Tenkosaki - S01E02 [1080p WEBRip AV1]` | **172.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/621500) • [🐱 Nyaa](https://nekobt.to/torrents/12358945839363) |
-| `[Erai-raws] Liar Game - 15 [1080p CR WEBRip HEVC AAC][MultiSub][49D...` | **445.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621499) • [🐱 Nyaa](https://nyaa.si/view/2132197) |
 
 ---
 <div align="center">
