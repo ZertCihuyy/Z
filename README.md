@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.07.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.58.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Love Unseen Beneath the Clear Night Sky S01E02 Fuyutsuki Koharu 108...` | **1430.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621356) • [🐱 Nyaa](https://nyaa.si/view/2131982) |
-| `[ToonsHub] Love Unseen Beneath the Clear Night Sky S01E02 1080p CR ...` | **1429.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621357) • [🐱 Nyaa](https://nyaa.si/view/2131981) |
-| `[SubsPlease] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo ...` | **1405.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/621358) • [🐱 Nyaa](https://nyaa.si/view/2131980) |
-| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **1411.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/621363) • [🐱 Nyaa](https://nyaa.si/view/2131971) |
-| `[ToonsHub] Love Unseen Beneath the Clear Night Sky S01E02 1080p BIL...` | **214.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/621364) • [🐱 Nyaa](https://nyaa.si/view/2131970) |
-| `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E14 108...` | **234.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621355) • [🐱 Nyaa](https://nyaa.si/view/2131967) |
-| `[LbE3L] BLACK TORCH S01E01–E02 [1080p CR WEBRip AV1 Opus 2.0 Multi-...` | **974.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621354) • [🐱 Nyaa](https://nekobt.to/torrents/12352351934981) |
-| `[Kotobuki] Tenmaku no Jaadugar 02 [1080p HEVC Multisub] | Jaadugar:...` | **300.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621353) • [🐱 Nyaa](https://nyaa.si/view/2131952) |
-| `[sandoe41] Saving 80,000 Gold in Another World for My Retirement [S...` | **21961.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/621352) • [🐱 Nyaa](https://nyaa.si/view/2131942) |
-| `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **404.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621349) • [🐱 Nyaa](https://nyaa.si/view/2131908) |
-| `[BlackRose] The Ghost in the Shell (2026) - S01E01v2 (WEB 1080p HEV...` | **4585.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621348) • [🐱 Nyaa](https://nekobt.to/torrents/12344376825866) |
-| `[HuangSubs] Shrouding the Heavens Episodes 1-169 + The Imperial Pat...` | **59766.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621346) • [🐱 Nyaa](https://nyaa.si/view/2131900) |
-| `[ToonsHub] One Piece EP1169 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **295.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621347) • [🐱 Nyaa](https://nyaa.si/view/2131899) |
-| `[Erai-raws] Meitantei Precure - 24 [1080p CR WEBRip HEVC AAC][Multi...` | **639.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621339) • [🐱 Nyaa](https://nyaa.si/view/2131898) |
-| `[Erai-raws] Meitantei Precure - 24 [1080p CR WEB-DL AVC AAC][MultiS...` | **1417.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621340) • [🐱 Nyaa](https://nyaa.si/view/2131897) |
+| `[Onalrie] Suterare Seijo no Isekai Gohan Tabi - S01E02 [1080p WEBRi...` | **164.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/621446) • [🐱 Nyaa](https://onalrie.app/torrent/00938187-47ce-4874-a0b7-0f9c77573aff) |
+| `[Unfucked] Oh Boy, Was I Wrong About Her - S01E02 (1080p CR WEB-DL ...` | **1413.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/621437) • [🐱 Nyaa](https://nyaa.si/view/2132116) |
+| `[ToonsHub] Grand Blue Dreaming S03E02 1080p CR WEB-DL AAC2.0 H.264 ...` | **1409.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/621438) • [🐱 Nyaa](https://nyaa.si/view/2132115) |
+| `Grand Blue Dreaming S03E02 Homecoming 1080p CR WEB-DL AAC2.0 H 264-...` | **1411.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621439) • [🐱 Nyaa](https://nyaa.si/view/2132113) |
+| `[SubsPlease] Grand Blue S3 - 02 (1080p) [ED95BBF7].mkv` | **1403.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621440) • [🐱 Nyaa](https://nyaa.si/view/2132112) |
+| `[Erai-raws] Grand Blue Season 3 - 02 [1080p CR WEB-DL AVC AAC][Mult...` | **1409.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/621445) • [🐱 Nyaa](https://nyaa.si/view/2132102) |
+| `[ToonsHub] The Klutzy Class Monitor and the Girl with the Short Ski...` | **1458.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/621433) • [🐱 Nyaa](https://nyaa.si/view/2132099) |
+| `The Klutzy Class Monitor and the Girl with the Short Skirt S01E12 1...` | **1440.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/621434) • [🐱 Nyaa](https://nyaa.si/view/2132096) |
+| `[Onalrie] World Is Dancing - S01E03 [1080p WEBRip AV1]` | **278.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621436) • [🐱 Nyaa](https://nekobt.to/torrents/12356055359247) |
+| `Oh Boy Was I Wrong About Her S01E02 I Really Suck at Girl Talk 1080...` | **1412.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/621435) • [🐱 Nyaa](https://nyaa.si/view/2132095) |
+| `[ToonsHub] Oh Boy Was I Wrong About Her S01E02 1080p CR WEB-DL AAC2...` | **1433.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621423) • [🐱 Nyaa](https://nyaa.si/view/2132094) |
+| `[SubsPlease] Tenkosaki - 02 (1080p) [7F8ACBE1].mkv` | **1383.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/621425) • [🐱 Nyaa](https://nyaa.si/view/2132092) |
+| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **1392.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/621430) • [🐱 Nyaa](https://nyaa.si/view/2132084) |
+| `[ToonsHub] The Forsaken Saintess and Her Foodie Road Trip in Anothe...` | **567.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621431) • [🐱 Nyaa](https://nyaa.si/view/2132080) |
+| `[ToonsHub] The Forsaken Saintess and Her Foodie Road Trip in Anothe...` | **568.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/621432) • [🐱 Nyaa](https://nyaa.si/view/2132079) |
 
 ---
 <div align="center">
