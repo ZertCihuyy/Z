@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.59.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.04.50_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nekotan] Weathering with You 2019 (BD 1080p x265 10-bit Opus) [Dua...` | **19548.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/621333) • [🐱 Nyaa](https://nyaa.si/view/2131880) |
+| `[Reza] Smoking Behind the Supermarket with You - S01E01 [WEBRip 108...` | **1074.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621332) • [🐱 Nyaa](https://nyaa.si/view/2131876) |
 | `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **1154.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/621331) • [🐱 Nyaa](https://nyaa.si/view/2131873) |
 | `[SubsNoJutsu] Goodbye, Lara - S01E02 (1080p WEBRip AAC x265) [3AB8E...` | **485.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621330) • [🐱 Nyaa](https://nekobt.to/torrents/12340246045450) |
 | `Welcome To Demon School! Iruma-Kun S01-S03 1080p BDRip AV1 10bit FL...` | **108227.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621329) • [🐱 Nyaa](https://nyaa.si/view/2131872) |
@@ -43,8 +45,6 @@
 | `[Anime Time] Wistoria Wand And Sword - S02E12 (Tsue to Tsurugi no W...` | **563.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/621320) • [🐱 Nyaa](https://nyaa.si/view/2131860) |
 | `[DKB] Azur Lane: Bisoku Zenshin! - S02E02 [1080p][HEVC x265 10bit][...` | **129.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/621321) • [🐱 Nyaa](https://nyaa.si/view/2131859) |
 | `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 02 [1080p CR WEBRip HE...` | **176.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621317) • [🐱 Nyaa](https://nyaa.si/view/2131857) |
-| `[FrixySubs] Super no Ura de Yani Suu Futari - S01E01 [1080p CR WEB-...` | **1411.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621318) • [🐱 Nyaa](https://nekobt.to/torrents/12337709091599) |
-| `[Erai-raws] Sayonara Lara - 02 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **485.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/621316) • [🐱 Nyaa](https://nyaa.si/view/2131851) |
 
 ---
 <div align="center">
