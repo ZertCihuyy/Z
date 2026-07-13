@@ -1,103 +1,99 @@
 {
-  "last_update": "13/7/2026, 22.58.00",
-  "hari": "Senin",
+  "last_update": "14/7/2026, 01.01.57",
+  "hari": "Selasa",
   "data": [
     {
-      "airingAt": 1783880400,
+      "airingAt": 1783982400,
       "media": {
-        "id": 213359,
+        "id": 140842,
         "title": {
-          "romaji": "Yami Shibai 17"
+          "romaji": "Chiikawa"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213359-VDIZoZHMA0LI.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg"
         },
         "genres": [
-          "Horror",
+          "Comedy",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783994400,
+      "media": {
+        "id": 155723,
+        "title": {
+          "romaji": "Wushen Zhuzai: Da Wei Pian"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
+        },
+        "genres": [
+          "Action",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1783994400,
+      "media": {
+        "id": 213188,
+        "title": {
+          "romaji": "Jueshi Zhan Hun 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784001600,
+      "media": {
+        "id": 211270,
+        "title": {
+          "romaji": "Fei Ren Zai 3 Part 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png"
+        },
+        "genres": [
+          "Comedy",
+          "Slice of Life",
           "Supernatural"
         ]
       }
     },
     {
-      "airingAt": 1783908000,
+      "airingAt": 1784001600,
       "media": {
-        "id": 137653,
+        "id": 213484,
         "title": {
-          "romaji": "Xian Ni"
+          "romaji": "Bai Ri Cheng Wang"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png"
         },
         "genres": [
           "Action",
           "Adventure",
-          "Drama",
           "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1783943820,
+      "airingAt": 1784028600,
       "media": {
-        "id": 169582,
+        "id": 128757,
         "title": {
-          "romaji": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru"
+          "romaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png"
-        },
-        "genres": [
-          "Action",
-          "Comedy",
-          "Drama",
-          "Fantasy",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783944000,
-      "media": {
-        "id": 202269,
-        "title": {
-          "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita."
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783947600,
-      "media": {
-        "id": 185542,
-        "title": {
-          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783947600,
-      "media": {
-        "id": 206521,
-        "title": {
-          "romaji": "World Is Dancing"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206521-ecJuDgjth84C.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png"
         },
         "genres": [
           "Drama"
@@ -105,101 +101,123 @@
       }
     },
     {
-      "airingAt": 1783949400,
+      "airingAt": 1784032200,
       "media": {
-        "id": 199408,
+        "id": 187260,
         "title": {
-          "romaji": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu"
+          "romaji": "Kimi ga Shinu made Koi wo Shitai"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199408-ocRWG4pRWl8f.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg"
         },
         "genres": [
           "Drama",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783951200,
-      "media": {
-        "id": 195833,
-        "title": {
-          "romaji": "Honoo no Toukyuujyo Dodge Danko"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195833-h7x6i3NQWROA.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Sports"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783951200,
-      "media": {
-        "id": 209504,
-        "title": {
-          "romaji": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209504-yRxHWxKuNGtg.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1783953000,
-      "media": {
-        "id": 169583,
-        "title": {
-          "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg"
-        },
-        "genres": [
-          "Comedy",
+          "Fantasy",
           "Romance"
         ]
       }
     },
     {
-      "airingAt": 1783954800,
+      "airingAt": 1784033700,
       "media": {
-        "id": 197754,
+        "id": 213665,
         "title": {
-          "romaji": "LIAR GAME"
+          "romaji": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png"
         },
         "genres": [
-          "Drama",
-          "Psychological"
+          "Fantasy",
+          "Romance"
         ]
       }
     },
     {
-      "airingAt": 1783954800,
+      "airingAt": 1784034000,
       "media": {
-        "id": 199111,
+        "id": 196219,
         "title": {
-          "romaji": "Grand Blue Season 3"
+          "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199111-gBSuBG61ElcW.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg"
         },
         "genres": [
-          "Comedy",
-          "Slice of Life",
-          "Sports"
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784037600,
+      "media": {
+        "id": 177699,
+        "title": {
+          "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png"
+        },
+        "genres": [
+          "Action",
+          "Psychological",
+          "Sci-Fi"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784039400,
+      "media": {
+        "id": 209800,
+        "title": {
+          "romaji": "Yoroi Shinden Samurai Troopers Part 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784041200,
+      "media": {
+        "id": 198709,
+        "title": {
+          "romaji": "Tefuda ga Oome no Victoria"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg"
+        },
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784046900,
+      "media": {
+        "id": 207809,
+        "title": {
+          "romaji": "Sora wa Akai Kawa no Hotori"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Romance"
         ]
       }
     }
