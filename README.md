@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.10.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.36.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p N...` | **901.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621555) • [🐱 Nyaa](https://nyaa.si/view/2132314) |
+| `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **370.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621554) • [🐱 Nyaa](https://nyaa.si/view/2132306) |
+| `[BlackRose] The Dangers in My Heart - S00E01 - Bonus Dangers (BD 10...` | **758.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621552) • [🐱 Nyaa](https://nyaa.si/view/2132304) |
+| `[BlackRose] The Dangers in My Heart Season 2 (BD 1080p HEVC 10-bit ...` | **17411.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621553) • [🐱 Nyaa](https://nyaa.si/view/2132303) |
+| `[Judas] One Piece - 1169 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **303.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621551) • [🐱 Nyaa](https://nyaa.si/view/2132289) |
 | `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **567.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621549) • [🐱 Nyaa](https://nyaa.si/view/2132284) |
 | `[Judas] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom ...` | **3783.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/621550) • [🐱 Nyaa](https://nyaa.si/view/2132277) |
 | `[Judas] Witch Hat Atelier (Tongari Boushi no Atelier) (Season 01) [...` | **5134.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/621541) • [🐱 Nyaa](https://nyaa.si/view/2132275) |
@@ -41,11 +46,6 @@
 | `[Judas] Himekishi wa Barbaroi no Yome (The Warrior Princess and the...` | **3412.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621545) • [🐱 Nyaa](https://nyaa.si/view/2132265) |
 | `[Judas] ReZero kara Hajimeru Isekai Seikatsu (ReZero - Starting Lif...` | **3304.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621547) • [🐱 Nyaa](https://nyaa.si/view/2132261) |
 | `[Judas] Replica Datte, Koi o Suru (Even a Replica Can Fall in Love)...` | **3730.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621548) • [🐱 Nyaa](https://nyaa.si/view/2132260) |
-| `[Gecko] The Adventures of a Demon King's Daughter - S01 (마왕의 딸로 태어났...` | **2885.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/621531) • [🐱 Nyaa](https://nyaa.si/view/2132257) |
-| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 02 [1080p] [AV1] V2` | **99.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621532) • [🐱 Nyaa](https://nyaa.si/view/2132256) |
-| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 01 [1080p] [AV1] V2` | **113.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621535) • [🐱 Nyaa](https://nyaa.si/view/2132253) |
-| `[denisplay] Kuroneko to Majo no Kyoushitsu 01 - 14 [1080p] [AV1] [i...` | **4742.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/621538) • [🐱 Nyaa](https://nyaa.si/view/2132250) |
-| `[Erai-raws] One Piece - 1169 [1080p CR WEBRip HEVC AAC][MultiSub][F...` | **521.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621527) • [🐱 Nyaa](https://nyaa.si/view/2132247) |
 
 ---
 <div align="center">
