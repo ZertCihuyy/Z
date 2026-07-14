@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.57.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.22.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRabbit] Oshi no Ko (2023) - S00 [WEBDL-1080p][Opus 2.0][AV1]` | **212.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621568) • [🐱 Nyaa](https://nekobt.to/torrents/12371655291147) |
+| `[HatSubs] One Piece 1169 (WEB 1080p) [F26FB573].mkv` | **1374.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621567) • [🐱 Nyaa](https://nyaa.si/view/2132364) |
 | `[SweetSpot] Mobile Suit Gundam 00 - 01-51 [BD 1080p HEVC AAC]` | **51644.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621566) • [🐱 Nyaa](https://nekobt.to/torrents/12369561540867) |
 | `[Gecko] Crowned in a Hundred Days - S01E07 (百日成王; Bai Ri Cheng Wang...` | **152.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621565) • [🐱 Nyaa](https://nyaa.si/view/2132349) |
 | `[BlackRabbit] Oshi no Ko (2023) - S01 [Bluray-1080p][Opus 5.1][Dual...` | **2972.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621564) • [🐱 Nyaa](https://nekobt.to/torrents/12368429689096) |
@@ -44,8 +46,6 @@
 | `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **370.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621554) • [🐱 Nyaa](https://nyaa.si/view/2132306) |
 | `[BlackRose] The Dangers in My Heart - S00E01 - Bonus Dangers (BD 10...` | **758.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621552) • [🐱 Nyaa](https://nyaa.si/view/2132304) |
 | `[BlackRose] The Dangers in My Heart Season 2 (BD 1080p HEVC 10-bit ...` | **17411.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621553) • [🐱 Nyaa](https://nyaa.si/view/2132303) |
-| `[Judas] One Piece - 1169 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **303.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621551) • [🐱 Nyaa](https://nyaa.si/view/2132289) |
-| `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **567.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621549) • [🐱 Nyaa](https://nyaa.si/view/2132284) |
 
 ---
 <div align="center">
