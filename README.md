@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.22.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.18.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Lazier] Black Torch - S01E01v2 (WEB 1080p HEVC AAC) [Dual Audio]` | **2150.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621572) • [🐱 Nyaa](https://nekobt.to/torrents/12373408504576) |
+| `[Kotobuki] Tenmaku no Jaadugar 03 [1080p HEVC Multisub] | Jaadugar:...` | **304.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/621571) • [🐱 Nyaa](https://nyaa.si/view/2132371) |
+| `[SubsNoJutsu] Lord of Mysteries - S01E04 (1080p WEBRip AAC x265) [4...` | **859.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621570) • [🐱 Nyaa](https://nekobt.to/torrents/12372142436098) |
 | `[BlackRabbit] Oshi no Ko (2023) - S00 [WEBDL-1080p][Opus 2.0][AV1]` | **212.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621568) • [🐱 Nyaa](https://nekobt.to/torrents/12371655291147) |
 | `[HatSubs] One Piece 1169 (WEB 1080p) [F26FB573].mkv` | **1374.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621567) • [🐱 Nyaa](https://nyaa.si/view/2132364) |
 | `[SweetSpot] Mobile Suit Gundam 00 - 01-51 [BD 1080p HEVC AAC]` | **51644.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621566) • [🐱 Nyaa](https://nekobt.to/torrents/12369561540867) |
@@ -43,9 +46,6 @@
 | `[Erai-raws] Crowned in a Hundred Days - 07 (CA) [1080p CR WEB-DL AV...` | **417.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/621561) • [🐱 Nyaa](https://nyaa.si/view/2132321) |
 | `[Blazing] Honoo no Toukyuujo - Dodge Danko - 02 (1080p) [Z3NRY0KU]` | **566.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621562) • [🐱 Nyaa](https://nyaa.si/view/2132320) |
 | `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p N...` | **901.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621555) • [🐱 Nyaa](https://nyaa.si/view/2132314) |
-| `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **370.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621554) • [🐱 Nyaa](https://nyaa.si/view/2132306) |
-| `[BlackRose] The Dangers in My Heart - S00E01 - Bonus Dangers (BD 10...` | **758.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621552) • [🐱 Nyaa](https://nyaa.si/view/2132304) |
-| `[BlackRose] The Dangers in My Heart Season 2 (BD 1080p HEVC 10-bit ...` | **17411.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621553) • [🐱 Nyaa](https://nyaa.si/view/2132303) |
 
 ---
 <div align="center">
