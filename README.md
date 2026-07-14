@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.01.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.46.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **551.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621620) • [🐱 Nyaa](https://nekobt.to/torrents/12376776098830) |
-| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 02 [1080p CR WEBRip ...` | **420.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/621621) • [🐱 Nyaa](https://nekobt.to/torrents/12376769674253) |
-| `[Erai-raws] Crowned in a Hundred Days - 07 (CA) [1080p CR WEBRip HE...` | **173.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621622) • [🐱 Nyaa](https://nekobt.to/torrents/12376766348545) |
-| `[ToonsHub] Isekai Office Worker The Other Worlds Books Depend on th...` | **1437.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/621606) • [🐱 Nyaa](https://nyaa.si/view/2132458) |
-| `[ToonsHub] The Oblivious Saint Cant Contain Her Power S01E03 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621607) • [🐱 Nyaa](https://nyaa.si/view/2132457) |
-| `[Yameii] Isekai Office Worker: The Other World's Books Depend on th...` | **1383.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/621608) • [🐱 Nyaa](https://nyaa.si/view/2132456) |
-| `Isekai Office Worker The Other Worlds Books Depend on the Bean Coun...` | **1439.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/621610) • [🐱 Nyaa](https://nyaa.si/view/2132454) |
-| `[SubsPlease] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare ...` | **1434.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/621611) • [🐱 Nyaa](https://nyaa.si/view/2132453) |
-| `The Oblivious Saint Cant Contain Her Power S01E03 Episode 3 Founder...` | **1462.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621613) • [🐱 Nyaa](https://nyaa.si/view/2132449) |
-| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **1442.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621617) • [🐱 Nyaa](https://nyaa.si/view/2132445) |
-| `[Judas] Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai (Yo...` | **388.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/621618) • [🐱 Nyaa](https://nyaa.si/view/2132443) |
-| `[ASW] Kimi ga Shinu made Koi wo Shitai - 02 [1080p HEVC x265 10Bit]...` | **203.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621619) • [🐱 Nyaa](https://nyaa.si/view/2132442) |
-| `[ToonsHub] Saved by the Ice Cold Princes Embrace S01E02 1080p AMZN ...` | **287.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/621603) • [🐱 Nyaa](https://nyaa.si/view/2132438) |
-| `[Gecko] Saved by the Ice Cold Prince's Embrace - S01E02 (身代わり令嬢を救った...` | **73.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/621604) • [🐱 Nyaa](https://nyaa.si/view/2132437) |
-| `[Onalrie] Kimi ga Shinu made Koi wo Shitai - S01E02 [1080p WEBRip AV1]` | **163.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621605) • [🐱 Nyaa](https://nekobt.to/torrents/12376286493965) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 02 [1080p AMZN WEBRip HEVC EA...` | **614.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/621667) • [🐱 Nyaa](https://nekobt.to/torrents/12378702618120) |
+| `Labyrinth - Meikyuu no Shiori 2026 1080p WEB-DL DUAL AUDIO H264-NGP` | **1979.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/621666) • [🐱 Nyaa](https://nyaa.si/view/2132530) |
+| `[Onalrie] Yani Neko - S01E01 [1080p WEBRip AV1]` | **381.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621665) • [🐱 Nyaa](https://nekobt.to/torrents/12378394918667) |
+| `[ToonsHub] MARRIAGETOXIN S01E12 1080p CR WEB-DL MULTi AAC2.0 H.264 ...` | **1683.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621664) • [🐱 Nyaa](https://nyaa.si/view/2132526) |
+| `[VARYG] MARRIAGETOXIN S01E12 Heart and Soul 1080p CR WEB-DL MULTi A...` | **1685.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/621661) • [🐱 Nyaa](https://nekobt.to/torrents/12378188448001) |
+| `[ToonsHub] Yoroi-Shinden Samurai Troopers S01E14 1080p CR WEB-DL AA...` | **1406.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/621662) • [🐱 Nyaa](https://nekobt.to/torrents/12378162866432) |
+| `[ToonsHub] Victoria of Many Faces S01E02 1080p CR WEB-DL AAC2.0 H.2...` | **1386.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621663) • [🐱 Nyaa](https://nekobt.to/torrents/12378159386375) |
+| `Yoroi Shinden Samurai Troopers S01E14 Miracle 1080p CR WEB-DL AAC2....` | **1407.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/621644) • [🐱 Nyaa](https://nyaa.si/view/2132518) |
+| `[SubsPlease] Yoroi Shin Den Samurai Troopers - 14 (1080p) [311D53A9...` | **1397.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/621645) • [🐱 Nyaa](https://nyaa.si/view/2132517) |
+| `Victoria of Many Faces S01E02 No One Should Feel Sorry for Me 1080p...` | **1387.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/621646) • [🐱 Nyaa](https://nyaa.si/view/2132515) |
+| `[SubsPlease] Tefuda ga Oome no Victoria - 02 (1080p) [5ADF072B].mkv` | **1376.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/621648) • [🐱 Nyaa](https://nyaa.si/view/2132512) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 02 [1080p CR WEB-DL AVC AA...` | **1385.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/621655) • [🐱 Nyaa](https://nyaa.si/view/2132503) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 02 [1080p CR WE...` | **1406.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/621656) • [🐱 Nyaa](https://nyaa.si/view/2132502) |
+| `[ToonsHub] Victoria of Many Faces S01E02 1080p BILI WEB-DL AAC2.0 H...` | **249.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621658) • [🐱 Nyaa](https://nyaa.si/view/2132496) |
+| `[ToonsHub] I Want to End this Love Game S01E11 1080p CR WEB-DL MULT...` | **1532.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/621659) • [🐱 Nyaa](https://nyaa.si/view/2132495) |
 
 ---
 <div align="center">
