@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.19.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.40.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **216.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/621673) • [🐱 Nyaa](https://nyaa.si/view/2132559) |
-| `[Onalrie] Tefuda ga Oome no Victoria - S01E02 [1080p WEBRip AV1]` | **187.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621672) • [🐱 Nyaa](https://nekobt.to/torrents/12379420698380) |
-| `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E02 [...` | **561.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/621670) • [🐱 Nyaa](https://nyaa.si/view/2132552) |
-| `[ASW] Yoroi Shin Den Samurai Troopers - 14 [1080p HEVC x265 10Bit][...` | **643.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621671) • [🐱 Nyaa](https://nyaa.si/view/2132548) |
-| `[Onalrie] Yoroi Shin Den Samurai Troopers - S02E02 [1080p WEBRip AV1]` | **352.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/621669) • [🐱 Nyaa](https://nekobt.to/torrents/12379007468553) |
-| `[ASW] Tefuda ga Oome no Victoria - 02 [1080p HEVC x265 10Bit][AAC]` | **224.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621668) • [🐱 Nyaa](https://nyaa.si/view/2132541) |
-| `[Erai-raws] Koukaku Kidoutai (2026) - 02 [1080p AMZN WEBRip HEVC EA...` | **614.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/621667) • [🐱 Nyaa](https://nekobt.to/torrents/12378702618120) |
-| `Labyrinth - Meikyuu no Shiori 2026 1080p WEB-DL DUAL AUDIO H264-NGP` | **1979.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/621666) • [🐱 Nyaa](https://nyaa.si/view/2132530) |
-| `[Onalrie] Yani Neko - S01E01 [1080p WEBRip AV1]` | **381.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621665) • [🐱 Nyaa](https://nekobt.to/torrents/12378394918667) |
-| `[ToonsHub] MARRIAGETOXIN S01E12 1080p CR WEB-DL MULTi AAC2.0 H.264 ...` | **1683.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621664) • [🐱 Nyaa](https://nyaa.si/view/2132526) |
-| `[VARYG] MARRIAGETOXIN S01E12 Heart and Soul 1080p CR WEB-DL MULTi A...` | **1685.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/621661) • [🐱 Nyaa](https://nekobt.to/torrents/12378188448001) |
-| `[ToonsHub] Yoroi-Shinden Samurai Troopers S01E14 1080p CR WEB-DL AA...` | **1406.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/621662) • [🐱 Nyaa](https://nekobt.to/torrents/12378162866432) |
-| `[ToonsHub] Victoria of Many Faces S01E02 1080p CR WEB-DL AAC2.0 H.2...` | **1386.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621663) • [🐱 Nyaa](https://nekobt.to/torrents/12378159386375) |
-| `Yoroi Shinden Samurai Troopers S01E14 Miracle 1080p CR WEB-DL AAC2....` | **1407.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/621644) • [🐱 Nyaa](https://nyaa.si/view/2132518) |
-| `[SubsPlease] Yoroi Shin Den Samurai Troopers - 14 (1080p) [311D53A9...` | **1397.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/621645) • [🐱 Nyaa](https://nyaa.si/view/2132517) |
+| `[Onalrie] Bai Ri Cheng Wang - S01E07 [1080p WEBRip AV1]` | **101.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621710) • [🐱 Nyaa](https://onalrie.app/torrent/d5fd4b90-9a61-4e9a-bd04-14646a6ca49b) |
+| `Wistoria Wand and Sword S02E11 MULTi 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1421.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/621700) • [🐱 Nyaa](https://nekobt.to/torrents/12381097283584) |
+| `[ToonsHub] The Dangers in My Heart The Movie (2026) 1080p HIDIVE WE...` | **3865.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/621690) • [🐱 Nyaa](https://nyaa.si/view/2132609) |
+| `The Drops of God S01E11 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **1450.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621701) • [🐱 Nyaa](https://nekobt.to/torrents/12381066177295) |
+| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E02 [1080p WEBRip AV1]` | **191.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621702) • [🐱 Nyaa](https://nekobt.to/torrents/12381043781890) |
+| `Sparks of Tomorrow S01E02 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere...` | **330.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621703) • [🐱 Nyaa](https://nekobt.to/torrents/12381016317454) |
+| `That Time I Got Reincarnated as a Slime S04E11 MULTi AD 1080p CR WE...` | **1467.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/621704) • [🐱 Nyaa](https://nekobt.to/torrents/12380997646861) |
+| `THE GHOST IN THE SHELL S01E02 MULTi 1080p AMZN WEB-DL DDP2.0 H.265-...` | **741.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/621705) • [🐱 Nyaa](https://nekobt.to/torrents/12380968200205) |
+| `[DKB] The Ghost in the Shell - S01E02 [1080p][HEVC x265 10bit][Dual...` | **1002.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/621691) • [🐱 Nyaa](https://nyaa.si/view/2132604) |
+| `THE GHOST IN THE SHELL S01E02 MULTi 1080p AMZN WEB-DL DDP2.0 H.264-...` | **1733.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/621706) • [🐱 Nyaa](https://nekobt.to/torrents/12380932827148) |
+| `THE GHOST IN THE SHELL S01E02 MULTi 1080p AMZN WEB-DL DDP2.0 AV1-Ts...` | **541.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/621707) • [🐱 Nyaa](https://nekobt.to/torrents/12380893189390) |
+| `Sparks of Tomorrow S01E02 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsunder...` | **989.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621708) • [🐱 Nyaa](https://nekobt.to/torrents/12380834853132) |
+| `Sparks of Tomorrow S01E02 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsunde...` | **638.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/621709) • [🐱 Nyaa](https://nekobt.to/torrents/12380804910602) |
+| `Magilumiere Magical Girls Inc S02E02 MULTi 1080p AMZN WEB-DL DDP2.0...` | **303.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/621682) • [🐱 Nyaa](https://nekobt.to/torrents/12380780309257) |
+| `Magilumiere Magical Girls Inc S02E02 MULTi 1080p AMZN WEB-DL DDP2.0...` | **812.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/621683) • [🐱 Nyaa](https://nekobt.to/torrents/12380750373378) |
 
 ---
 <div align="center">
