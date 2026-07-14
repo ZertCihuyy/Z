@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.18.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.56.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] GROW UP SHOW -Sunflower Circus- - S01E02 (グロウアップショウ ～ひまわりのサ...` | **704.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/621580) • [🐱 Nyaa](https://nekobt.to/torrents/12374878450697) |
+| `[ToonsHub] Young Ladies Dont Play Fighting Games S01E02 1080p CR WE...` | **1432.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621581) • [🐱 Nyaa](https://nekobt.to/torrents/12374857300999) |
+| `[VARYG] Young Ladies Dont Play Fighting Games S01E02 Good Game 1080...` | **1412.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621582) • [🐱 Nyaa](https://nekobt.to/torrents/12374856968203) |
+| `[vLbE3L] Wistoria Wand and Sword S02E10–E11 [1080p CR WEBRip VVC HE...` | **581.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/621583) • [🐱 Nyaa](https://nekobt.to/torrents/12374828179723) |
+| `[SubsPlease] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai...` | **1385.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621574) • [🐱 Nyaa](https://nyaa.si/view/2132395) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **1393.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621578) • [🐱 Nyaa](https://nyaa.si/view/2132388) |
+| `[LbE3L] Wistoria Wand and Sword S02E10–E11 [1080p CR WEBRip AV1 Opu...` | **1052.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/621584) • [🐱 Nyaa](https://nekobt.to/torrents/12374780003846) |
+| `[Onalrie] Shibou Yuugi de Meshi wo Kuu. 44 Cloudy Beach - S01E01 Re...` | **437.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621585) • [🐱 Nyaa](https://onalrie.app/torrent/789d11ec-1cb4-4c30-b915-35a749b94c37) |
+| `[Gecko] Rilakkuma - S01E15 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **46.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621573) • [🐱 Nyaa](https://nyaa.si/view/2132384) |
 | `[Lazier] Black Torch - S01E01v2 (WEB 1080p HEVC AAC) [Dual Audio]` | **2150.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621572) • [🐱 Nyaa](https://nekobt.to/torrents/12373408504576) |
 | `[Kotobuki] Tenmaku no Jaadugar 03 [1080p HEVC Multisub] | Jaadugar:...` | **304.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/621571) • [🐱 Nyaa](https://nyaa.si/view/2132371) |
 | `[SubsNoJutsu] Lord of Mysteries - S01E04 (1080p WEBRip AAC x265) [4...` | **859.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621570) • [🐱 Nyaa](https://nekobt.to/torrents/12372142436098) |
 | `[BlackRabbit] Oshi no Ko (2023) - S00 [WEBDL-1080p][Opus 2.0][AV1]` | **212.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621568) • [🐱 Nyaa](https://nekobt.to/torrents/12371655291147) |
 | `[HatSubs] One Piece 1169 (WEB 1080p) [F26FB573].mkv` | **1374.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621567) • [🐱 Nyaa](https://nyaa.si/view/2132364) |
 | `[SweetSpot] Mobile Suit Gundam 00 - 01-51 [BD 1080p HEVC AAC]` | **51644.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621566) • [🐱 Nyaa](https://nekobt.to/torrents/12369561540867) |
-| `[Gecko] Crowned in a Hundred Days - S01E07 (百日成王; Bai Ri Cheng Wang...` | **152.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621565) • [🐱 Nyaa](https://nyaa.si/view/2132349) |
-| `[BlackRabbit] Oshi no Ko (2023) - S01 [Bluray-1080p][Opus 5.1][Dual...` | **2972.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621564) • [🐱 Nyaa](https://nekobt.to/torrents/12368429689096) |
-| `[VARYG] Crowned in a Hundred Days S01E07 1080p CR WEB-DL AAC2.0 H.2...` | **684.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/621563) • [🐱 Nyaa](https://nekobt.to/torrents/12368011460879) |
-| `[ToonsHub] Crowned in a Hundred Days S01E07 1080p CR WEB-DL AAC2.0 ...` | **681.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621556) • [🐱 Nyaa](https://nyaa.si/view/2132330) |
-| `[Gecko] Nonhuman - S03E24 (非人哉; Fei Ren Zai 3rd Season Part 2) [BIL...` | **110.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/621557) • [🐱 Nyaa](https://nyaa.si/view/2132328) |
-| `[ToonsHub] Crowned in a Hundred Days S01E07 1080p BILI WEB-DL AAC2....` | **149.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/621560) • [🐱 Nyaa](https://nyaa.si/view/2132322) |
-| `[Erai-raws] Crowned in a Hundred Days - 07 (CA) [1080p CR WEB-DL AV...` | **417.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/621561) • [🐱 Nyaa](https://nyaa.si/view/2132321) |
-| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 02 (1080p) [Z3NRY0KU]` | **566.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621562) • [🐱 Nyaa](https://nyaa.si/view/2132320) |
-| `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p N...` | **901.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621555) • [🐱 Nyaa](https://nyaa.si/view/2132314) |
 
 ---
 <div align="center">
