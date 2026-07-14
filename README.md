@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.13.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.13.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] The Warrior Princess and the Barbaric King - S01 (WEB 10...` | **3935.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621736) • [🐱 Nyaa](https://nekobt.to/torrents/12385364403464) |
 | `[ToonsHub] Above Myriads S01E08 1080p iQ WEB-DL AAC2.0 H.264 (Wan R...` | **361.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621734) • [🐱 Nyaa](https://nyaa.si/view/2132649) |
 | `[Ironclad] Red River (2026) - S01E02 (WEB 1080p AV1) | Sora wa Akai...` | **241.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/621733) • [🐱 Nyaa](https://nekobt.to/torrents/12384377609226) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 74 [1080p] [BCA6...` | **20.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621731) • [🐱 Nyaa](https://nyaa.si/view/2132645) |
@@ -47,7 +48,6 @@
 | `SHIBOYUGI Playing Death Games to Put Food on the Table 44 Cloudy Be...` | **3356.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/621723) • [🐱 Nyaa](https://nyaa.si/view/2132625) |
 | `SHIBOYUGI Playing Death Games to Put Food on the Table 44 Cloudy Be...` | **6267.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621724) • [🐱 Nyaa](https://nyaa.si/view/2132624) |
 | `The Dangers in My Heart The Movie 2026 1080p ADN WEB-DL DUAL DDP5.1...` | **2886.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/621721) • [🐱 Nyaa](https://nyaa.si/view/2132621) |
-| `[SubsPlease] Boku no Kokoro no Yabai Yatsu Movie (1080p) [9A6FA95C]...` | **3769.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/621718) • [🐱 Nyaa](https://nyaa.si/view/2132620) |
 
 ---
 <div align="center">
