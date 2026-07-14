@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.40.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.56.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `The Dangers in My Heart The Movie 2026 1080p ADN WEB-DL DUAL DDP5.1...` | **2886.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/621721) • [🐱 Nyaa](https://nyaa.si/view/2132621) |
+| `[SubsPlease] Boku no Kokoro no Yabai Yatsu Movie (1080p) [9A6FA95C]...` | **3769.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/621718) • [🐱 Nyaa](https://nyaa.si/view/2132620) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 02 [1080p CR WE...` | **646.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/621711) • [🐱 Nyaa](https://nyaa.si/view/2132617) |
+| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E02 (1080p WEB EAC3 x265)...` | **561.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/621717) • [🐱 Nyaa](https://nekobt.to/torrents/12381427953925) |
+| `[Erai-raws] Sora wa Akai Kawa no Hotori - 02 [1080p CR WEBRip HEVC ...` | **421.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621712) • [🐱 Nyaa](https://nyaa.si/view/2132616) |
 | `[Onalrie] Bai Ri Cheng Wang - S01E07 [1080p WEBRip AV1]` | **101.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621710) • [🐱 Nyaa](https://onalrie.app/torrent/d5fd4b90-9a61-4e9a-bd04-14646a6ca49b) |
+| `[DKB] Tefuda ga Oome no Victoria - S01E02 [1080p][HEVC x265 10bit][...` | **238.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/621713) • [🐱 Nyaa](https://nyaa.si/view/2132614) |
+| `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E02 [1080p][HEVC x265 1...` | **289.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621714) • [🐱 Nyaa](https://nyaa.si/view/2132613) |
+| `[ASW] Sora wa Akai Kawa no Hotori - 02 [1080p HEVC x265 10Bit][AAC]` | **247.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621715) • [🐱 Nyaa](https://nyaa.si/view/2132612) |
+| `[ASW] Bai Ri Cheng Wang - 07 [1080p HEVC x265 10Bit][AAC]` | **130.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621716) • [🐱 Nyaa](https://nyaa.si/view/2132611) |
 | `Wistoria Wand and Sword S02E11 MULTi 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1421.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/621700) • [🐱 Nyaa](https://nekobt.to/torrents/12381097283584) |
 | `[ToonsHub] The Dangers in My Heart The Movie (2026) 1080p HIDIVE WE...` | **3865.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/621690) • [🐱 Nyaa](https://nyaa.si/view/2132609) |
 | `The Drops of God S01E11 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **1450.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621701) • [🐱 Nyaa](https://nekobt.to/torrents/12381066177295) |
 | `[Onalrie] Sora wa Akai Kawa no Hotori - S01E02 [1080p WEBRip AV1]` | **191.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621702) • [🐱 Nyaa](https://nekobt.to/torrents/12381043781890) |
 | `Sparks of Tomorrow S01E02 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere...` | **330.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621703) • [🐱 Nyaa](https://nekobt.to/torrents/12381016317454) |
-| `That Time I Got Reincarnated as a Slime S04E11 MULTi AD 1080p CR WE...` | **1467.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/621704) • [🐱 Nyaa](https://nekobt.to/torrents/12380997646861) |
-| `THE GHOST IN THE SHELL S01E02 MULTi 1080p AMZN WEB-DL DDP2.0 H.265-...` | **741.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/621705) • [🐱 Nyaa](https://nekobt.to/torrents/12380968200205) |
-| `[DKB] The Ghost in the Shell - S01E02 [1080p][HEVC x265 10bit][Dual...` | **1002.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/621691) • [🐱 Nyaa](https://nyaa.si/view/2132604) |
-| `THE GHOST IN THE SHELL S01E02 MULTi 1080p AMZN WEB-DL DDP2.0 H.264-...` | **1733.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/621706) • [🐱 Nyaa](https://nekobt.to/torrents/12380932827148) |
-| `THE GHOST IN THE SHELL S01E02 MULTi 1080p AMZN WEB-DL DDP2.0 AV1-Ts...` | **541.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/621707) • [🐱 Nyaa](https://nekobt.to/torrents/12380893189390) |
-| `Sparks of Tomorrow S01E02 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsunder...` | **989.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621708) • [🐱 Nyaa](https://nekobt.to/torrents/12380834853132) |
-| `Sparks of Tomorrow S01E02 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsunde...` | **638.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/621709) • [🐱 Nyaa](https://nekobt.to/torrents/12380804910602) |
-| `Magilumiere Magical Girls Inc S02E02 MULTi 1080p AMZN WEB-DL DDP2.0...` | **303.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/621682) • [🐱 Nyaa](https://nekobt.to/torrents/12380780309257) |
-| `Magilumiere Magical Girls Inc S02E02 MULTi 1080p AMZN WEB-DL DDP2.0...` | **812.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/621683) • [🐱 Nyaa](https://nekobt.to/torrents/12380750373378) |
 
 ---
 <div align="center">
