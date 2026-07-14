@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.56.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.06.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Trix] Sparks of Tomorrow S01E02 1080p NF WEB-DL AAC2.0 AV1 (Dual-A...` | **252.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/621727) • [🐱 Nyaa](https://nyaa.si/view/2132637) |
+| `[Ironclad] THE GHOST IN THE SHELL - S01E02 [WEB.1080p.AV1] | THE GH...` | **961.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621725) • [🐱 Nyaa](https://nyaa.si/view/2132634) |
+| `[Reza] THE GHOST IN THE SHELL (2026) - S01E02 [WEBRip HEVC 1080p EA...` | **4630.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621726) • [🐱 Nyaa](https://nyaa.si/view/2132631) |
+| `SHIBOYUGI Playing Death Games to Put Food on the Table 44 Cloudy Be...` | **3938.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/621722) • [🐱 Nyaa](https://nyaa.si/view/2132626) |
+| `SHIBOYUGI Playing Death Games to Put Food on the Table 44 Cloudy Be...` | **3356.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/621723) • [🐱 Nyaa](https://nyaa.si/view/2132625) |
+| `SHIBOYUGI Playing Death Games to Put Food on the Table 44 Cloudy Be...` | **6267.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621724) • [🐱 Nyaa](https://nyaa.si/view/2132624) |
 | `The Dangers in My Heart The Movie 2026 1080p ADN WEB-DL DUAL DDP5.1...` | **2886.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/621721) • [🐱 Nyaa](https://nyaa.si/view/2132621) |
 | `[SubsPlease] Boku no Kokoro no Yabai Yatsu Movie (1080p) [9A6FA95C]...` | **3769.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/621718) • [🐱 Nyaa](https://nyaa.si/view/2132620) |
 | `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 02 [1080p CR WE...` | **646.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/621711) • [🐱 Nyaa](https://nyaa.si/view/2132617) |
@@ -42,12 +48,6 @@
 | `[DKB] Tefuda ga Oome no Victoria - S01E02 [1080p][HEVC x265 10bit][...` | **238.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/621713) • [🐱 Nyaa](https://nyaa.si/view/2132614) |
 | `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E02 [1080p][HEVC x265 1...` | **289.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621714) • [🐱 Nyaa](https://nyaa.si/view/2132613) |
 | `[ASW] Sora wa Akai Kawa no Hotori - 02 [1080p HEVC x265 10Bit][AAC]` | **247.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621715) • [🐱 Nyaa](https://nyaa.si/view/2132612) |
-| `[ASW] Bai Ri Cheng Wang - 07 [1080p HEVC x265 10Bit][AAC]` | **130.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621716) • [🐱 Nyaa](https://nyaa.si/view/2132611) |
-| `Wistoria Wand and Sword S02E11 MULTi 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1421.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/621700) • [🐱 Nyaa](https://nekobt.to/torrents/12381097283584) |
-| `[ToonsHub] The Dangers in My Heart The Movie (2026) 1080p HIDIVE WE...` | **3865.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/621690) • [🐱 Nyaa](https://nyaa.si/view/2132609) |
-| `The Drops of God S01E11 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **1450.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621701) • [🐱 Nyaa](https://nekobt.to/torrents/12381066177295) |
-| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E02 [1080p WEBRip AV1]` | **191.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621702) • [🐱 Nyaa](https://nekobt.to/torrents/12381043781890) |
-| `Sparks of Tomorrow S01E02 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere...` | **330.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621703) • [🐱 Nyaa](https://nekobt.to/torrents/12381016317454) |
 
 ---
 <div align="center">
