@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.56.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.01.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gecko] GROW UP SHOW -Sunflower Circus- - S01E02 (グロウアップショウ ～ひまわりのサ...` | **704.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/621580) • [🐱 Nyaa](https://nekobt.to/torrents/12374878450697) |
-| `[ToonsHub] Young Ladies Dont Play Fighting Games S01E02 1080p CR WE...` | **1432.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621581) • [🐱 Nyaa](https://nekobt.to/torrents/12374857300999) |
-| `[VARYG] Young Ladies Dont Play Fighting Games S01E02 Good Game 1080...` | **1412.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621582) • [🐱 Nyaa](https://nekobt.to/torrents/12374856968203) |
-| `[vLbE3L] Wistoria Wand and Sword S02E10–E11 [1080p CR WEBRip VVC HE...` | **581.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/621583) • [🐱 Nyaa](https://nekobt.to/torrents/12374828179723) |
-| `[SubsPlease] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai...` | **1385.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621574) • [🐱 Nyaa](https://nyaa.si/view/2132395) |
-| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **1393.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621578) • [🐱 Nyaa](https://nyaa.si/view/2132388) |
-| `[LbE3L] Wistoria Wand and Sword S02E10–E11 [1080p CR WEBRip AV1 Opu...` | **1052.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/621584) • [🐱 Nyaa](https://nekobt.to/torrents/12374780003846) |
-| `[Onalrie] Shibou Yuugi de Meshi wo Kuu. 44 Cloudy Beach - S01E01 Re...` | **437.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621585) • [🐱 Nyaa](https://onalrie.app/torrent/789d11ec-1cb4-4c30-b915-35a749b94c37) |
-| `[Gecko] Rilakkuma - S01E15 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **46.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621573) • [🐱 Nyaa](https://nyaa.si/view/2132384) |
-| `[Lazier] Black Torch - S01E01v2 (WEB 1080p HEVC AAC) [Dual Audio]` | **2150.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621572) • [🐱 Nyaa](https://nekobt.to/torrents/12373408504576) |
-| `[Kotobuki] Tenmaku no Jaadugar 03 [1080p HEVC Multisub] | Jaadugar:...` | **304.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/621571) • [🐱 Nyaa](https://nyaa.si/view/2132371) |
-| `[SubsNoJutsu] Lord of Mysteries - S01E04 (1080p WEBRip AAC x265) [4...` | **859.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621570) • [🐱 Nyaa](https://nekobt.to/torrents/12372142436098) |
-| `[BlackRabbit] Oshi no Ko (2023) - S00 [WEBDL-1080p][Opus 2.0][AV1]` | **212.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621568) • [🐱 Nyaa](https://nekobt.to/torrents/12371655291147) |
-| `[HatSubs] One Piece 1169 (WEB 1080p) [F26FB573].mkv` | **1374.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621567) • [🐱 Nyaa](https://nyaa.si/view/2132364) |
-| `[SweetSpot] Mobile Suit Gundam 00 - 01-51 [BD 1080p HEVC AAC]` | **51644.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621566) • [🐱 Nyaa](https://nekobt.to/torrents/12369561540867) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **551.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621620) • [🐱 Nyaa](https://nekobt.to/torrents/12376776098830) |
+| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 02 [1080p CR WEBRip ...` | **420.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/621621) • [🐱 Nyaa](https://nekobt.to/torrents/12376769674253) |
+| `[Erai-raws] Crowned in a Hundred Days - 07 (CA) [1080p CR WEBRip HE...` | **173.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621622) • [🐱 Nyaa](https://nekobt.to/torrents/12376766348545) |
+| `[ToonsHub] Isekai Office Worker The Other Worlds Books Depend on th...` | **1437.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/621606) • [🐱 Nyaa](https://nyaa.si/view/2132458) |
+| `[ToonsHub] The Oblivious Saint Cant Contain Her Power S01E03 1080p ...` | **1433.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621607) • [🐱 Nyaa](https://nyaa.si/view/2132457) |
+| `[Yameii] Isekai Office Worker: The Other World's Books Depend on th...` | **1383.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/621608) • [🐱 Nyaa](https://nyaa.si/view/2132456) |
+| `Isekai Office Worker The Other Worlds Books Depend on the Bean Coun...` | **1439.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/621610) • [🐱 Nyaa](https://nyaa.si/view/2132454) |
+| `[SubsPlease] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare ...` | **1434.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/621611) • [🐱 Nyaa](https://nyaa.si/view/2132453) |
+| `The Oblivious Saint Cant Contain Her Power S01E03 Episode 3 Founder...` | **1462.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621613) • [🐱 Nyaa](https://nyaa.si/view/2132449) |
+| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **1442.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621617) • [🐱 Nyaa](https://nyaa.si/view/2132445) |
+| `[Judas] Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai (Yo...` | **388.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/621618) • [🐱 Nyaa](https://nyaa.si/view/2132443) |
+| `[ASW] Kimi ga Shinu made Koi wo Shitai - 02 [1080p HEVC x265 10Bit]...` | **203.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621619) • [🐱 Nyaa](https://nyaa.si/view/2132442) |
+| `[ToonsHub] Saved by the Ice Cold Princes Embrace S01E02 1080p AMZN ...` | **287.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/621603) • [🐱 Nyaa](https://nyaa.si/view/2132438) |
+| `[Gecko] Saved by the Ice Cold Prince's Embrace - S01E02 (身代わり令嬢を救った...` | **73.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/621604) • [🐱 Nyaa](https://nyaa.si/view/2132437) |
+| `[Onalrie] Kimi ga Shinu made Koi wo Shitai - S01E02 [1080p WEBRip AV1]` | **163.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621605) • [🐱 Nyaa](https://nekobt.to/torrents/12376286493965) |
 
 ---
 <div align="center">
