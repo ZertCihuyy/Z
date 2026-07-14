@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.06.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.13.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Above Myriads S01E08 1080p iQ WEB-DL AAC2.0 H.264 (Wan R...` | **361.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621734) • [🐱 Nyaa](https://nyaa.si/view/2132649) |
+| `[Ironclad] Red River (2026) - S01E02 (WEB 1080p AV1) | Sora wa Akai...` | **241.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/621733) • [🐱 Nyaa](https://nekobt.to/torrents/12384377609226) |
+| `[Kozame] Odekake Kozame (Little Shark's Outings) - 74 [1080p] [BCA6...` | **20.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621731) • [🐱 Nyaa](https://nyaa.si/view/2132645) |
+| `[Unfucked] I Want to End This Love Game - S01E12 (1080p CR WEB-DL A...` | **1424.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621732) • [🐱 Nyaa](https://nyaa.si/view/2132641) |
+| `[ASW] Boku no Kokoro no Yabai Yatsu Movie [1080p HEVC x265 10Bit][AAC]` | **714.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/621728) • [🐱 Nyaa](https://nyaa.si/view/2132639) |
+| `[derpie] MARRIAGETOXIN - S01E13 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1361.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621729) • [🐱 Nyaa](https://nekobt.to/torrents/12383531478534) |
+| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep02 (1080...` | **751.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621730) • [🐱 Nyaa](https://nekobt.to/torrents/12383449752323) |
 | `[Trix] Sparks of Tomorrow S01E02 1080p NF WEB-DL AAC2.0 AV1 (Dual-A...` | **252.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/621727) • [🐱 Nyaa](https://nyaa.si/view/2132637) |
 | `[Ironclad] THE GHOST IN THE SHELL - S01E02 [WEB.1080p.AV1] | THE GH...` | **961.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621725) • [🐱 Nyaa](https://nyaa.si/view/2132634) |
 | `[Reza] THE GHOST IN THE SHELL (2026) - S01E02 [WEBRip HEVC 1080p EA...` | **4630.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621726) • [🐱 Nyaa](https://nyaa.si/view/2132631) |
@@ -41,13 +48,6 @@
 | `SHIBOYUGI Playing Death Games to Put Food on the Table 44 Cloudy Be...` | **6267.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621724) • [🐱 Nyaa](https://nyaa.si/view/2132624) |
 | `The Dangers in My Heart The Movie 2026 1080p ADN WEB-DL DUAL DDP5.1...` | **2886.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/621721) • [🐱 Nyaa](https://nyaa.si/view/2132621) |
 | `[SubsPlease] Boku no Kokoro no Yabai Yatsu Movie (1080p) [9A6FA95C]...` | **3769.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/621718) • [🐱 Nyaa](https://nyaa.si/view/2132620) |
-| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 02 [1080p CR WE...` | **646.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/621711) • [🐱 Nyaa](https://nyaa.si/view/2132617) |
-| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E02 (1080p WEB EAC3 x265)...` | **561.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/621717) • [🐱 Nyaa](https://nekobt.to/torrents/12381427953925) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 02 [1080p CR WEBRip HEVC ...` | **421.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/621712) • [🐱 Nyaa](https://nyaa.si/view/2132616) |
-| `[Onalrie] Bai Ri Cheng Wang - S01E07 [1080p WEBRip AV1]` | **101.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621710) • [🐱 Nyaa](https://onalrie.app/torrent/d5fd4b90-9a61-4e9a-bd04-14646a6ca49b) |
-| `[DKB] Tefuda ga Oome no Victoria - S01E02 [1080p][HEVC x265 10bit][...` | **238.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/621713) • [🐱 Nyaa](https://nyaa.si/view/2132614) |
-| `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E02 [1080p][HEVC x265 1...` | **289.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621714) • [🐱 Nyaa](https://nyaa.si/view/2132613) |
-| `[ASW] Sora wa Akai Kawa no Hotori - 02 [1080p HEVC x265 10Bit][AAC]` | **247.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621715) • [🐱 Nyaa](https://nyaa.si/view/2132612) |
 
 ---
 <div align="center">
