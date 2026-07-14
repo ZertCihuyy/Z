@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.36.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.57.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SweetSpot] Mobile Suit Gundam 00 - 01-51 [BD 1080p HEVC AAC]` | **51644.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621566) • [🐱 Nyaa](https://nekobt.to/torrents/12369561540867) |
+| `[Gecko] Crowned in a Hundred Days - S01E07 (百日成王; Bai Ri Cheng Wang...` | **152.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621565) • [🐱 Nyaa](https://nyaa.si/view/2132349) |
+| `[BlackRabbit] Oshi no Ko (2023) - S01 [Bluray-1080p][Opus 5.1][Dual...` | **2972.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621564) • [🐱 Nyaa](https://nekobt.to/torrents/12368429689096) |
+| `[VARYG] Crowned in a Hundred Days S01E07 1080p CR WEB-DL AAC2.0 H.2...` | **684.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/621563) • [🐱 Nyaa](https://nekobt.to/torrents/12368011460879) |
+| `[ToonsHub] Crowned in a Hundred Days S01E07 1080p CR WEB-DL AAC2.0 ...` | **681.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621556) • [🐱 Nyaa](https://nyaa.si/view/2132330) |
+| `[Gecko] Nonhuman - S03E24 (非人哉; Fei Ren Zai 3rd Season Part 2) [BIL...` | **110.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/621557) • [🐱 Nyaa](https://nyaa.si/view/2132328) |
+| `[ToonsHub] Crowned in a Hundred Days S01E07 1080p BILI WEB-DL AAC2....` | **149.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/621560) • [🐱 Nyaa](https://nyaa.si/view/2132322) |
+| `[Erai-raws] Crowned in a Hundred Days - 07 (CA) [1080p CR WEB-DL AV...` | **417.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/621561) • [🐱 Nyaa](https://nyaa.si/view/2132321) |
+| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 02 (1080p) [Z3NRY0KU]` | **566.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621562) • [🐱 Nyaa](https://nyaa.si/view/2132320) |
 | `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p N...` | **901.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/621555) • [🐱 Nyaa](https://nyaa.si/view/2132314) |
 | `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **370.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621554) • [🐱 Nyaa](https://nyaa.si/view/2132306) |
 | `[BlackRose] The Dangers in My Heart - S00E01 - Bonus Dangers (BD 10...` | **758.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621552) • [🐱 Nyaa](https://nyaa.si/view/2132304) |
 | `[BlackRose] The Dangers in My Heart Season 2 (BD 1080p HEVC 10-bit ...` | **17411.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621553) • [🐱 Nyaa](https://nyaa.si/view/2132303) |
 | `[Judas] One Piece - 1169 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **303.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621551) • [🐱 Nyaa](https://nyaa.si/view/2132289) |
 | `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **567.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621549) • [🐱 Nyaa](https://nyaa.si/view/2132284) |
-| `[Judas] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom ...` | **3783.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/621550) • [🐱 Nyaa](https://nyaa.si/view/2132277) |
-| `[Judas] Witch Hat Atelier (Tongari Boushi no Atelier) (Season 01) [...` | **5134.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/621541) • [🐱 Nyaa](https://nyaa.si/view/2132275) |
-| `[Judas] Otaku ni Yasashii Gal wa Inai! (Gals Can`t Be Kind to Otaku...` | **3630.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/621542) • [🐱 Nyaa](https://nyaa.si/view/2132273) |
-| `[Judas] Hidarikiki no Eren (Eren the Southpaw) (Season 01) [1080p][...` | **5989.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621543) • [🐱 Nyaa](https://nyaa.si/view/2132268) |
-| `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p C...` | **1451.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621544) • [🐱 Nyaa](https://nyaa.si/view/2132266) |
-| `[Judas] Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru (The Beg...` | **4223.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621546) • [🐱 Nyaa](https://nyaa.si/view/2132262) |
-| `[Judas] Himekishi wa Barbaroi no Yome (The Warrior Princess and the...` | **3412.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621545) • [🐱 Nyaa](https://nyaa.si/view/2132265) |
-| `[Judas] ReZero kara Hajimeru Isekai Seikatsu (ReZero - Starting Lif...` | **3304.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621547) • [🐱 Nyaa](https://nyaa.si/view/2132261) |
-| `[Judas] Replica Datte, Koi o Suru (Even a Replica Can Fall in Love)...` | **3730.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621548) • [🐱 Nyaa](https://nyaa.si/view/2132260) |
 
 ---
 <div align="center">
