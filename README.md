@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.14.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.10.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **567.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621549) • [🐱 Nyaa](https://nyaa.si/view/2132284) |
+| `[Judas] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom ...` | **3783.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/621550) • [🐱 Nyaa](https://nyaa.si/view/2132277) |
+| `[Judas] Witch Hat Atelier (Tongari Boushi no Atelier) (Season 01) [...` | **5134.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/621541) • [🐱 Nyaa](https://nyaa.si/view/2132275) |
+| `[Judas] Otaku ni Yasashii Gal wa Inai! (Gals Can`t Be Kind to Otaku...` | **3630.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/621542) • [🐱 Nyaa](https://nyaa.si/view/2132273) |
+| `[Judas] Hidarikiki no Eren (Eren the Southpaw) (Season 01) [1080p][...` | **5989.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621543) • [🐱 Nyaa](https://nyaa.si/view/2132268) |
+| `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p C...` | **1451.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621544) • [🐱 Nyaa](https://nyaa.si/view/2132266) |
+| `[Judas] Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru (The Beg...` | **4223.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621546) • [🐱 Nyaa](https://nyaa.si/view/2132262) |
+| `[Judas] Himekishi wa Barbaroi no Yome (The Warrior Princess and the...` | **3412.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621545) • [🐱 Nyaa](https://nyaa.si/view/2132265) |
+| `[Judas] ReZero kara Hajimeru Isekai Seikatsu (ReZero - Starting Lif...` | **3304.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621547) • [🐱 Nyaa](https://nyaa.si/view/2132261) |
+| `[Judas] Replica Datte, Koi o Suru (Even a Replica Can Fall in Love)...` | **3730.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621548) • [🐱 Nyaa](https://nyaa.si/view/2132260) |
 | `[Gecko] The Adventures of a Demon King's Daughter - S01 (마왕의 딸로 태어났...` | **2885.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/621531) • [🐱 Nyaa](https://nyaa.si/view/2132257) |
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 02 [1080p] [AV1] V2` | **99.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621532) • [🐱 Nyaa](https://nyaa.si/view/2132256) |
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 01 [1080p] [AV1] V2` | **113.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/621535) • [🐱 Nyaa](https://nyaa.si/view/2132253) |
 | `[denisplay] Kuroneko to Majo no Kyoushitsu 01 - 14 [1080p] [AV1] [i...` | **4742.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/621538) • [🐱 Nyaa](https://nyaa.si/view/2132250) |
 | `[Erai-raws] One Piece - 1169 [1080p CR WEBRip HEVC AAC][MultiSub][F...` | **521.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/621527) • [🐱 Nyaa](https://nyaa.si/view/2132247) |
-| `[Erai-raws] One Piece - 1169 [1080p CR WEB-DL AVC AAC][MultiSub][53...` | **1383.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/621530) • [🐱 Nyaa](https://nyaa.si/view/2132244) |
-| `[Erai-raws] Digimon Beatbreak - 38 [1080p CR WEBRip HEVC AAC][Multi...` | **481.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/621523) • [🐱 Nyaa](https://nyaa.si/view/2132242) |
-| `[Erai-raws] Digimon Beatbreak - 38 (REPACK) [1080p CR WEB-DL AVC AA...` | **1382.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/621526) • [🐱 Nyaa](https://nyaa.si/view/2132239) |
-| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **295.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621521) • [🐱 Nyaa](https://nyaa.si/view/2132238) |
-| `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p N...` | **3347.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/621522) • [🐱 Nyaa](https://nyaa.si/view/2132237) |
-| `[DKB] Grand Blue - S03E02 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **302.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621520) • [🐱 Nyaa](https://nyaa.si/view/2132236) |
-| `[Yameii] The Klutzy Class Monitor and the Girl with the Short Skirt...` | **1384.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621518) • [🐱 Nyaa](https://nyaa.si/view/2132232) |
-| `[Erai-raws] Shibou Yuugi de Meshi wo Kuu - 44-Cloudy Beach [1080p C...` | **5254.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/621517) • [🐱 Nyaa](https://nekobt.to/torrents/12360920000771) |
-| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **231.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621514) • [🐱 Nyaa](https://nyaa.si/view/2132227) |
-| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **656.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621508) • [🐱 Nyaa](https://nyaa.si/view/2132221) |
 
 ---
 <div align="center">
