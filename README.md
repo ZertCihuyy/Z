@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.52.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.04.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sokudo] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Campi...` | **170.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622008) • [🐱 Nyaa](https://nyaa.si/view/2133129) |
+| `[Doomdos] - Hana-Kimi Season 2 - 16 [1080p IQ WEB-DL]` | **295.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622009) • [🐱 Nyaa](https://nyaa.si/view/2133127) |
+| `[Doomdos] - Hana-Kimi Season 2 - 15 [1080p IQ WEB-DL]` | **312.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/622010) • [🐱 Nyaa](https://nyaa.si/view/2133124) |
+| `[Doomdos] - Hana-Kimi Season 2 - 14 [1080p IQ WEB-DL]` | **302.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/622005) • [🐱 Nyaa](https://nyaa.si/view/2133123) |
+| `[Onalrie] Thunder 3 - S01E02 [1080p WEBRip AV1]` | **353.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622007) • [🐱 Nyaa](https://nekobt.to/torrents/12405302547722) |
+| `[Doomdos] - Hana-Kimi Season 2 - 13 [1080p IQ WEB-DL]` | **294.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/622006) • [🐱 Nyaa](https://nyaa.si/view/2133118) |
+| `[Doomdos] - Hell Mode- The Hardcore Gamer Dominates in Another Worl...` | **286.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622002) • [🐱 Nyaa](https://nyaa.si/view/2133117) |
+| `[HatSubs] One Piece 1156-1168 (WEB 1080p)` | **18150.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/622004) • [🐱 Nyaa](https://nekobt.to/torrents/12405035481096) |
+| `[Doomdos] - Hell Mode- The Hardcore Gamer Dominates in Another Worl...` | **335.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622003) • [🐱 Nyaa](https://nyaa.si/view/2133116) |
+| `[DKB] LV999 no Murabito - S01E04 [1080p][HEVC x265 10bit][Multi-Sub...` | **395.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/622001) • [🐱 Nyaa](https://nyaa.si/view/2133112) |
+| `[Erai-raws] Thunder 3 - 02 [1080p NF WEB-DL AVC AAC][MultiSub][2FF5...` | **849.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/622000) • [🐱 Nyaa](https://nekobt.to/torrents/12404619750920) |
 | `[Ironclad] Katainaka no Ossan II - S02E02 [WEB.1080p.AV1] | From Ol...` | **382.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621994) • [🐱 Nyaa](https://nyaa.si/view/2133109) |
 | `[Doomdos] - Chainsmoker Cat - 2 [1080p IQ WEB-DL]` | **356.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/621995) • [🐱 Nyaa](https://nyaa.si/view/2133108) |
 | `[Doomdos] - Chainsmoker Cat - 1 [1080p IQ WEB-DL]` | **350.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/621996) • [🐱 Nyaa](https://nyaa.si/view/2133107) |
 | `[Doomdos] - The Frontier Lord Begins with Zero Subjects - 2 [1080p ...` | **263.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/621997) • [🐱 Nyaa](https://nyaa.si/view/2133106) |
-| `[Doomdos] - The Frontier Lord Begins with Zero Subjects - 1 [1080p ...` | **273.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/621998) • [🐱 Nyaa](https://nyaa.si/view/2133105) |
-| `[SubsNoJutsu] Lord of Mysteries - S01E05 (1080p WEBRip EAC3 x265) [...` | **824.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621993) • [🐱 Nyaa](https://nekobt.to/torrents/12403832557829) |
-| `[Piyoko] Onegai AiPri - 15 [WEB AMZN 1080p h264 AC3 2.0]` | **1004.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/621999) • [🐱 Nyaa](https://nyaa.si/view/2133104) |
-| `My Stepmother and Stepsisters Arent Wicked S01E02 The Kounokura Fam...` | **733.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/621988) • [🐱 Nyaa](https://nyaa.si/view/2133103) |
-| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 04 [1080p CR WEB...` | **410.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/621989) • [🐱 Nyaa](https://nyaa.si/view/2133102) |
-| `[Doomdos] - The Exiled Heavy Knight Knows How to Game the System - ...` | **492.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/621992) • [🐱 Nyaa](https://nyaa.si/view/2133098) |
-| `[Doomdos] - The Exiled Heavy Knight Knows How to Game the System - ...` | **497.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/621981) • [🐱 Nyaa](https://nyaa.si/view/2133094) |
-| `[Doomdos] - Recommendations from Iwamoto-Senpai - 2 [1080p IQ WEB-DL]` | **288.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/621982) • [🐱 Nyaa](https://nyaa.si/view/2133093) |
-| `[Doomdos] - Recommendations from Iwamoto-Senpai - 1 [1080p IQ WEB-DL]` | **309.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621983) • [🐱 Nyaa](https://nyaa.si/view/2133092) |
-| `[Erai-raws] Lv999 no Murabito - 04 [1080p CR WEBRip HEVC AAC][Multi...` | **539.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/621984) • [🐱 Nyaa](https://nyaa.si/view/2133091) |
-| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 02 [108...` | **402.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/621985) • [🐱 Nyaa](https://nyaa.si/view/2133090) |
 
 ---
 <div align="center">
