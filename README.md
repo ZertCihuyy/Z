@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.11.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.52.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Saga of Tanya the Evil S02E02 1080p AMZN WEB-DL DDP2.0 H...` | **712.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/621827) • [🐱 Nyaa](https://nyaa.si/view/2132847) |
-| `[Erai-raws] Clevatess II - 02 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **471.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621821) • [🐱 Nyaa](https://nyaa.si/view/2132845) |
-| `[ToonsHub] Saga of Tanya the Evil S02E02 1080p CR WEB-DL AAC2.0 H.2...` | **1386.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621822) • [🐱 Nyaa](https://nyaa.si/view/2132844) |
-| `Saga of Tanya the Evil S02E02 1080p CR WEB-DL AAC2.0 H 264-VARYG (Y...` | **1387.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621823) • [🐱 Nyaa](https://nyaa.si/view/2132840) |
-| `[SubsPlease] Youjo Senki S2 - 02 (1080p) [9A361F78].mkv` | **1377.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/621824) • [🐱 Nyaa](https://nyaa.si/view/2132839) |
-| `[Erai-raws] Youjo Senki II - 02 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1385.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621820) • [🐱 Nyaa](https://nekobt.to/torrents/12398757502469) |
-| `[ToonsHub] Clevatess S02E02 1080p CR WEB-DL MULTi AAC2.0 H.264 (Cle...` | **1684.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621817) • [🐱 Nyaa](https://nyaa.si/view/2132825) |
-| `[ToonsHub] Rent-a-Girlfriend S05E12 1080p CR WEB-DL MULTi AAC2.0 H....` | **1606.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621816) • [🐱 Nyaa](https://nekobt.to/torrents/12398478952975) |
-| `[ToonsHub] Perfect Addiction S01E02 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **193.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/621812) • [🐱 Nyaa](https://nyaa.si/view/2132823) |
-| `[geckyzz] Perfect Addiction - S01E02 (パーフェクトアディクション) [YTB.WEB-DL 10...` | **36.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/621813) • [🐱 Nyaa](https://nyaa.si/view/2132822) |
-| `[geckyzz] Perfect Addiction - S01E02 (パーフェクトアディクション) [OVEIL.WEB-DL ...` | **72.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/621814) • [🐱 Nyaa](https://nyaa.si/view/2132821) |
-| `Clevatess S02E02 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Clevates...` | **1556.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621815) • [🐱 Nyaa](https://nyaa.si/view/2132820) |
-| `[Onalrie] Clevatess - S02E02 [1080p WEBRip AV1]` | **195.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/621811) • [🐱 Nyaa](https://nekobt.to/torrents/12398254051334) |
-| `[ASW] Clevatess S2 - 02 [1080p HEVC x265 10Bit][AAC]` | **340.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/621810) • [🐱 Nyaa](https://nyaa.si/view/2132814) |
-| `[ToonsHub] Clevatess S02E02 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1423.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/621809) • [🐱 Nyaa](https://nekobt.to/torrents/12397473900545) |
+| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1393.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/621862) • [🐱 Nyaa](https://nyaa.si/view/2132932) |
+| `[ToonsHub] Trapped in a Dating Sim The World of Otome Games is Toug...` | **1390.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/621863) • [🐱 Nyaa](https://nyaa.si/view/2132931) |
+| `[SubsPlease] Otome Game Sekai wa Mob ni Kibishii Sekai desu S2 - 02...` | **1382.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/621864) • [🐱 Nyaa](https://nyaa.si/view/2132930) |
+| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 02 [108...` | **1390.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/621859) • [🐱 Nyaa](https://nekobt.to/torrents/12400604626185) |
+| `[ToonsHub] Trapped in a Dating Sim The World of Otome Games Is Toug...` | **310.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/621860) • [🐱 Nyaa](https://nekobt.to/torrents/12400602236418) |
+| `[Judas] Youjo Senki (Saga of Tanya the Evil) - S02E02 [1080p][HEVC ...` | **264.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621867) • [🐱 Nyaa](https://nyaa.si/view/2132917) |
+| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 04 [10...` | **542.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/621846) • [🐱 Nyaa](https://nyaa.si/view/2132916) |
+| `[ToonsHub] From Old Country Bumpkin to Master Swordsman S02E02 1080...` | **289.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/621847) • [🐱 Nyaa](https://nyaa.si/view/2132915) |
+| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 02 [1080p AMZN ...` | **591.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/621850) • [🐱 Nyaa](https://nyaa.si/view/2132912) |
+| `[Onalrie] All Works Maid - S01E04 [1080p WEBRip AV1]` | **196.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621861) • [🐱 Nyaa](https://nekobt.to/torrents/12400429880846) |
+| `From Old Country Bumpkin to Master Swordsman S02E02 The Old Country...` | **892.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/621851) • [🐱 Nyaa](https://nyaa.si/view/2132910) |
+| `[ToonsHub] From Old Country Bumpkin to Master Swordsman S02E02 1080...` | **892.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621852) • [🐱 Nyaa](https://nyaa.si/view/2132909) |
+| `From Old Country Bumpkin to Master Swordsman S02E02 The Old Country...` | **628.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621853) • [🐱 Nyaa](https://nyaa.si/view/2132908) |
+| `[ToonsHub] From Old Country Bumpkin to Master Swordsman S02E02 1080...` | **628.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621854) • [🐱 Nyaa](https://nyaa.si/view/2132907) |
+| `[DKB] Youjo Senki - S02E02 [1080p][HEVC x265 10bit][Multi-Subs][wee...` | **338.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621855) • [🐱 Nyaa](https://nyaa.si/view/2132905) |
 
 ---
 <div align="center">
