@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.30.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.29.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Quanzhi Fashi - S07E09 [1080p WEBRip AV1]` | **248.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/621760) • [🐱 Nyaa](https://nekobt.to/torrents/12393196054283) |
-| `Mission Yozakura Family S02 DUB 1080p DSNP WEB-DL AAC2.0 H 264-VARY...` | **9586.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621758) • [🐱 Nyaa](https://nyaa.si/view/2132721) |
-| `[SubsPlus+] The Dangers in My Heart The Movie (2026) (ADN WEB-DL 10...` | **2886.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621757) • [🐱 Nyaa](https://nyaa.si/view/2132720) |
-| `[BlackRose] The Ghost in the Shell (2026) - S01E02 (WEB 1080p HEVC ...` | **4449.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621754) • [🐱 Nyaa](https://nyaa.si/view/2132711) |
-| `[sandoe41] Saving 80,000 Gold in Another World for My Retirement [E...` | **1795.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/621755) • [🐱 Nyaa](https://nyaa.si/view/2132710) |
-| `[ASW] Quanzhi Fashi S7 - 09 [1080p HEVC x265 10Bit][AAC]` | **387.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621753) • [🐱 Nyaa](https://nyaa.si/view/2132709) |
-| `[VARYG] Walking the Way all alone S01E15 1080p BILI WEB-DL AAC2.0 H...` | **994.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/621752) • [🐱 Nyaa](https://nekobt.to/torrents/12389213270026) |
-| `[ToonsHub] Walking the Way all alone S01E16 1080p BILI WEB-DL AAC2....` | **604.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/621751) • [🐱 Nyaa](https://nyaa.si/view/2132705) |
-| `Versatile Mage S07E09 Fall of the Outer City 1080p CR WEB-DL AAC2.0...` | **1163.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/621745) • [🐱 Nyaa](https://nyaa.si/view/2132703) |
-| `[ToonsHub] Full-Time Magister S07E09 1080p CR WEB-DL AAC2.0 H.264 (...` | **1184.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/621746) • [🐱 Nyaa](https://nyaa.si/view/2132702) |
-| `[SubsPlease] Quanzhi Fashi S7 - 09 (1080p) [FD9E77B9].mkv` | **1139.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/621747) • [🐱 Nyaa](https://nyaa.si/view/2132701) |
-| `[Yameii] SHIBOYUGI: Playing Death Games to Put Food on the Table - ...` | **5251.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621742) • [🐱 Nyaa](https://nekobt.to/torrents/12386171532038) |
-| `[AnoZu] KAMUI: He's Behind You S00E02 1080p AMZN WEB-DL DDP 2.0 H.264` | **488.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621741) • [🐱 Nyaa](https://nekobt.to/torrents/12385731628814) |
-| `[Judas] Gekijouban Psycho-Pass: Providence [BD 1080p][HEVC x265 10b...` | **2104.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621737) • [🐱 Nyaa](https://nyaa.si/view/2132665) |
-| `[Judas] Gekijouban Boku no Kokoro no Yabai Yatsu (The Dangers in My...` | **862.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/621738) • [🐱 Nyaa](https://nyaa.si/view/2132663) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 4 [1080p IQ WEB-DL]` | **332.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621773) • [🐱 Nyaa](https://nyaa.si/view/2132765) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 3 [1080p IQ WEB-DL]` | **321.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621774) • [🐱 Nyaa](https://nyaa.si/view/2132764) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 2 [1080p IQ WEB-DL]` | **387.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621775) • [🐱 Nyaa](https://nyaa.si/view/2132763) |
+| `[Doomdos] - 【Exclusive】In Search of Gods - 1 [1080p IQ WEB-DL]` | **402.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/621772) • [🐱 Nyaa](https://nyaa.si/view/2132760) |
+| `[Doomdos] - Supreme Alchemy - 183 [1080p IQ WEB-DL]` | **174.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621768) • [🐱 Nyaa](https://nyaa.si/view/2132757) |
+| `[Doomdos] - Against the Gods 2nd Season - 45 [1080p IQ WEB-DL]` | **404.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/621769) • [🐱 Nyaa](https://nyaa.si/view/2132756) |
+| `[Doomdos] - Urban Miracle Doctor - 193 [1080p IQ WEB-DL]` | **183.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/621770) • [🐱 Nyaa](https://nyaa.si/view/2132755) |
+| `[Doomdos] - Super Heroic Spirit Season 2 - 6 [1080p IQ WEB-DL]` | **137.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/621771) • [🐱 Nyaa](https://nyaa.si/view/2132754) |
+| `[Doomdos] - Super Heroic Spirit Season 2 - 5 [1080p IQ WEB-DL]` | **149.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/621762) • [🐱 Nyaa](https://nyaa.si/view/2132753) |
+| `[Doomdos] - Super Heroic Spirit Season 2 - 4 [1080p IQ WEB-DL]` | **161.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/621763) • [🐱 Nyaa](https://nyaa.si/view/2132752) |
+| `[Doomdos] - Super Heroic Spirit Season 2 - 3 [1080p IQ WEB-DL]` | **174.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/621764) • [🐱 Nyaa](https://nyaa.si/view/2132750) |
+| `[Doomdos] - Super Heroic Spirit Season 2 - 2 [1080p IQ WEB-DL]` | **148.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/621765) • [🐱 Nyaa](https://nyaa.si/view/2132749) |
+| `[Doomdos] - Super Heroic Spirit Season 2 - 1 [1080p IQ WEB-DL]` | **188.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/621766) • [🐱 Nyaa](https://nyaa.si/view/2132748) |
+| `[Doomdos] - Ascendants of the Nine Suns - 37 [1080p IQ WEB-DL]` | **151.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/621767) • [🐱 Nyaa](https://nyaa.si/view/2132747) |
+| `[Doomdos] - Lingwu Continent - 195 [1080p IQ WEB-DL]` | **202.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/621761) • [🐱 Nyaa](https://nyaa.si/view/2132746) |
 
 ---
 <div align="center">

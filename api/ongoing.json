@@ -1,5 +1,5 @@
 {
-  "last_update": "15/7/2026, 15.30.50",
+  "last_update": "15/7/2026, 17.29.02",
   "data": [
     {
       "id": 21,
@@ -19,23 +19,6 @@
       }
     },
     {
-      "id": 189046,
-      "title": {
-        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg"
-      },
-      "episodes": 19,
-      "studios": {
-        "nodes": [
-          {
-            "name": "WHITE FOX"
-          }
-        ]
-      }
-    },
-    {
       "id": 178789,
       "title": {
         "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu"
@@ -48,6 +31,23 @@
         "nodes": [
           {
             "name": "Studio Bind"
+          }
+        ]
+      }
+    },
+    {
+      "id": 189046,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg"
+      },
+      "episodes": 19,
+      "studios": {
+        "nodes": [
+          {
+            "name": "WHITE FOX"
           }
         ]
       }
