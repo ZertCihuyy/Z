@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.21.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.38.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] The Most Heretical Last Boss Queen From Villainess to Sa...` | **949.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/621935) • [🐱 Nyaa](https://nekobt.to/torrents/12402187930112) |
-| `[ToonsHub] Farming Life In Another World S02E12 1080p HIDIVE WEB-DL...` | **957.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/621936) • [🐱 Nyaa](https://nekobt.to/torrents/12402186898691) |
-| `[Ironclad] Clevatess - S02E02 (WEB 1080p AV1) | Clevatess II (Multi...` | **601.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/621937) • [🐱 Nyaa](https://nekobt.to/torrents/12402186453775) |
-| `Yowayowa Sensei S01E04 A Weak and Wimpy School Camp 1080p HIDI WEB-...` | **945.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621921) • [🐱 Nyaa](https://nyaa.si/view/2133032) |
-| `The Beginning After the End S02E12 The King Enrolls 1080p CR WEB-DL...` | **1486.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621922) • [🐱 Nyaa](https://nyaa.si/view/2133031) |
-| `[ASW] Lv999 no Murabito - 04 [1080p HEVC x265 10Bit][AAC]` | **334.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/621923) • [🐱 Nyaa](https://nyaa.si/view/2133030) |
-| `Petals of Reincarnation S01E09 All Begins and Ends at the Seed 1080...` | **1333.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/621924) • [🐱 Nyaa](https://nyaa.si/view/2133029) |
-| `[Doomdos] - Grand Blue Dreaming3 - 2 [1080p IQ WEB-DL]` | **282.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/621925) • [🐱 Nyaa](https://nyaa.si/view/2133028) |
-| `[Judas] Katainaka no Ossan, Kensei ni Naru (From Old Country Bumpki...` | **257.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/621926) • [🐱 Nyaa](https://nyaa.si/view/2133027) |
-| `[ASW] Hanazakari no Kimitachi e S2 - 04 [1080p HEVC x265 10Bit][AAC]` | **226.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/621927) • [🐱 Nyaa](https://nyaa.si/view/2133026) |
-| `Thunder 3 S01E02 MULTIVERSE 1080p NF WEB-DL DUAL AAC2.0 H 264-VARYG...` | **856.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/621928) • [🐱 Nyaa](https://nyaa.si/view/2133025) |
-| `Thunder 3 S01E02 MULTIVERSE 1080p NF WEB-DL MULTi AAC2.0 H 264-VARY...` | **1144.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/621929) • [🐱 Nyaa](https://nyaa.si/view/2133024) |
-| `[ToonsHub] Petals of Reincarnation S01E10 1080p HIDIVE WEB-DL DUAL ...` | **949.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621930) • [🐱 Nyaa](https://nyaa.si/view/2133023) |
-| `[ToonsHub] Kirio Fan Club S01E06 1080p HIDIVE WEB-DL DUAL AAC2.0 H....` | **877.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/621931) • [🐱 Nyaa](https://nyaa.si/view/2133022) |
-| `Petals of Reincarnation S01E10 The Faceless Man 1080p HIDI WEB-DL D...` | **950.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/621932) • [🐱 Nyaa](https://nyaa.si/view/2133021) |
+| `[ASW] Toukutsu Ou - 02 [1080p HEVC x265 10Bit][AAC]` | **434.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/621971) • [🐱 Nyaa](https://nyaa.si/view/2133087) |
+| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E02 [1080p][HEVC x265...` | **320.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/621972) • [🐱 Nyaa](https://nyaa.si/view/2133086) |
+| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E02 [1080...` | **319.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/621973) • [🐱 Nyaa](https://nyaa.si/view/2133085) |
+| `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E04 [...` | **335.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/621974) • [🐱 Nyaa](https://nyaa.si/view/2133084) |
+| `[Gecko] Candy Caries - S01E14 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **45.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621975) • [🐱 Nyaa](https://nyaa.si/view/2133083) |
+| `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E04 [108...` | **362.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/621976) • [🐱 Nyaa](https://nyaa.si/view/2133082) |
+| `[Onalrie] Toukutsu Ou - S01E02 [1080p WEBRip AV1]` | **267.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/621980) • [🐱 Nyaa](https://nekobt.to/torrents/12403013657865) |
+| `[Doomdos] - BLACK TORCH - 2 [1080p IQ WEB-DL]` | **305.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/621977) • [🐱 Nyaa](https://nyaa.si/view/2133081) |
+| `[Doomdos] - BLACK TORCH - 1 [1080p IQ WEB-DL]` | **313.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/621978) • [🐱 Nyaa](https://nyaa.si/view/2133080) |
+| `[ToonsHub] Candy Caries S01E14 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **150.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/621966) • [🐱 Nyaa](https://nekobt.to/torrents/12402921113858) |
+| `[Doomdos] - The World's Strongest Rearguard - 2 [1080p IQ WEB-DL]` | **197.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/621979) • [🐱 Nyaa](https://nyaa.si/view/2133077) |
+| `[Doomdos] - The World's Strongest Rearguard - 1 [1080p IQ WEB-DL]` | **163.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621961) • [🐱 Nyaa](https://nyaa.si/view/2133076) |
+| `[Doomdos] - The Cat and the Dragon - 3 [1080p IQ WEB-DL]` | **296.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621962) • [🐱 Nyaa](https://nyaa.si/view/2133074) |
+| `[Doomdos] - The Cat and the Dragon - 2 [1080p IQ WEB-DL]` | **275.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/621963) • [🐱 Nyaa](https://nyaa.si/view/2133073) |
+| `Thunder 3 S01E02 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (R...` | **929.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/621967) • [🐱 Nyaa](https://nekobt.to/torrents/12402712861444) |
 
 ---
 <div align="center">
