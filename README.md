@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.36.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.59.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Mission Yozakura Family S02 DUB 1080p DSNP WEB-DL AAC2.0 H 264-VARY...` | **9586.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621758) • [🐱 Nyaa](https://nyaa.si/view/2132721) |
+| `[SubsPlus+] The Dangers in My Heart The Movie (2026) (ADN WEB-DL 10...` | **2886.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621757) • [🐱 Nyaa](https://nyaa.si/view/2132720) |
+| `[BlackRose] The Ghost in the Shell (2026) - S01E02 (WEB 1080p HEVC ...` | **4449.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621754) • [🐱 Nyaa](https://nyaa.si/view/2132711) |
+| `[sandoe41] Saving 80,000 Gold in Another World for My Retirement [E...` | **1795.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/621755) • [🐱 Nyaa](https://nyaa.si/view/2132710) |
 | `[ASW] Quanzhi Fashi S7 - 09 [1080p HEVC x265 10Bit][AAC]` | **387.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621753) • [🐱 Nyaa](https://nyaa.si/view/2132709) |
 | `[VARYG] Walking the Way all alone S01E15 1080p BILI WEB-DL AAC2.0 H...` | **994.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/621752) • [🐱 Nyaa](https://nekobt.to/torrents/12389213270026) |
 | `[ToonsHub] Walking the Way all alone S01E16 1080p BILI WEB-DL AAC2....` | **604.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/621751) • [🐱 Nyaa](https://nyaa.si/view/2132705) |
@@ -44,10 +48,6 @@
 | `[Judas] Gekijouban Psycho-Pass: Providence [BD 1080p][HEVC x265 10b...` | **2104.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621737) • [🐱 Nyaa](https://nyaa.si/view/2132665) |
 | `[Judas] Gekijouban Boku no Kokoro no Yabai Yatsu (The Dangers in My...` | **862.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/621738) • [🐱 Nyaa](https://nyaa.si/view/2132663) |
 | `[Ironclad] The Warrior Princess and the Barbaric King - S01 (WEB 10...` | **3935.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621736) • [🐱 Nyaa](https://nekobt.to/torrents/12385364403464) |
-| `[Reza] THE GHOST IN THE SHELL (2026) - S01E02v2 [WEBRip HEVC 1080p ...` | **4632.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/621740) • [🐱 Nyaa](https://nyaa.si/view/2132652) |
-| `[ToonsHub] Above Myriads S01E08 1080p iQ WEB-DL AAC2.0 H.264 (Wan R...` | **361.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621734) • [🐱 Nyaa](https://nyaa.si/view/2132649) |
-| `[Ironclad] Red River (2026) - S01E02 (WEB 1080p AV1) | Sora wa Akai...` | **241.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/621733) • [🐱 Nyaa](https://nekobt.to/torrents/12384377609226) |
-| `[Kozame] Odekake Kozame (Little Shark's Outings) - 74 [1080p] [BCA6...` | **20.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621731) • [🐱 Nyaa](https://nyaa.si/view/2132645) |
 
 ---
 <div align="center">
