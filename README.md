@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.59.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.30.50_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Quanzhi Fashi - S07E09 [1080p WEBRip AV1]` | **248.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/621760) • [🐱 Nyaa](https://nekobt.to/torrents/12393196054283) |
 | `Mission Yozakura Family S02 DUB 1080p DSNP WEB-DL AAC2.0 H 264-VARY...` | **9586.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621758) • [🐱 Nyaa](https://nyaa.si/view/2132721) |
 | `[SubsPlus+] The Dangers in My Heart The Movie (2026) (ADN WEB-DL 10...` | **2886.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621757) • [🐱 Nyaa](https://nyaa.si/view/2132720) |
 | `[BlackRose] The Ghost in the Shell (2026) - S01E02 (WEB 1080p HEVC ...` | **4449.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/621754) • [🐱 Nyaa](https://nyaa.si/view/2132711) |
@@ -47,7 +48,6 @@
 | `[AnoZu] KAMUI: He's Behind You S00E02 1080p AMZN WEB-DL DDP 2.0 H.264` | **488.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621741) • [🐱 Nyaa](https://nekobt.to/torrents/12385731628814) |
 | `[Judas] Gekijouban Psycho-Pass: Providence [BD 1080p][HEVC x265 10b...` | **2104.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621737) • [🐱 Nyaa](https://nyaa.si/view/2132665) |
 | `[Judas] Gekijouban Boku no Kokoro no Yabai Yatsu (The Dangers in My...` | **862.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/621738) • [🐱 Nyaa](https://nyaa.si/view/2132663) |
-| `[Ironclad] The Warrior Princess and the Barbaric King - S01 (WEB 10...` | **3935.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621736) • [🐱 Nyaa](https://nekobt.to/torrents/12385364403464) |
 
 ---
 <div align="center">
