@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.03.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.11.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[vLbE3L] THE GHOST IN THE SHELL S01E02 [1080p AMZN WEBRip VVC xHE-A...` | **308.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/621798) • [🐱 Nyaa](https://nekobt.to/torrents/12397030499334) |
-| `[LbE3L] THE GHOST IN THE SHELL S01E02 [1080p AMZN WEB-DL AV1 (Muxed...` | **658.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/621797) • [🐱 Nyaa](https://nekobt.to/torrents/12396988517125) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 19 [1080p IQ WEB-DL]` | **327.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/621793) • [🐱 Nyaa](https://nyaa.si/view/2132787) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 18 [1080p IQ WEB-DL]` | **387.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/621794) • [🐱 Nyaa](https://nyaa.si/view/2132786) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 17 [1080p IQ WEB-DL]` | **351.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/621795) • [🐱 Nyaa](https://nyaa.si/view/2132784) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 16 [1080p IQ WEB-DL]` | **340.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/621796) • [🐱 Nyaa](https://nyaa.si/view/2132782) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 15 [1080p IQ WEB-DL]` | **359.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/621788) • [🐱 Nyaa](https://nyaa.si/view/2132781) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 14 [1080p IQ WEB-DL]` | **338.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/621789) • [🐱 Nyaa](https://nyaa.si/view/2132780) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 13 [1080p IQ WEB-DL]` | **366.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/621790) • [🐱 Nyaa](https://nyaa.si/view/2132779) |
-| `[Gecko] Cat Tales - S01E40 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **28.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/621791) • [🐱 Nyaa](https://nyaa.si/view/2132778) |
-| `[ToonsHub] Cat Tales S01E40 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **56.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621792) • [🐱 Nyaa](https://nyaa.si/view/2132777) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 12 [1080p IQ WEB-DL]` | **382.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/621783) • [🐱 Nyaa](https://nyaa.si/view/2132775) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 11 [1080p IQ WEB-DL]` | **419.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621784) • [🐱 Nyaa](https://nyaa.si/view/2132774) |
-| `[vLbE3L] Witch Hat Atelier S01E12 [1080p CUSTOM WEBRip VVC HE-AACv2...` | **305.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/621787) • [🐱 Nyaa](https://nekobt.to/torrents/12396253704706) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 10 [1080p IQ WEB-DL]` | **331.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/621785) • [🐱 Nyaa](https://nyaa.si/view/2132773) |
+| `[ToonsHub] Saga of Tanya the Evil S02E02 1080p AMZN WEB-DL DDP2.0 H...` | **712.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/621827) • [🐱 Nyaa](https://nyaa.si/view/2132847) |
+| `[Erai-raws] Clevatess II - 02 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **471.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621821) • [🐱 Nyaa](https://nyaa.si/view/2132845) |
+| `[ToonsHub] Saga of Tanya the Evil S02E02 1080p CR WEB-DL AAC2.0 H.2...` | **1386.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/621822) • [🐱 Nyaa](https://nyaa.si/view/2132844) |
+| `Saga of Tanya the Evil S02E02 1080p CR WEB-DL AAC2.0 H 264-VARYG (Y...` | **1387.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621823) • [🐱 Nyaa](https://nyaa.si/view/2132840) |
+| `[SubsPlease] Youjo Senki S2 - 02 (1080p) [9A361F78].mkv` | **1377.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/621824) • [🐱 Nyaa](https://nyaa.si/view/2132839) |
+| `[Erai-raws] Youjo Senki II - 02 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1385.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/621820) • [🐱 Nyaa](https://nekobt.to/torrents/12398757502469) |
+| `[ToonsHub] Clevatess S02E02 1080p CR WEB-DL MULTi AAC2.0 H.264 (Cle...` | **1684.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/621817) • [🐱 Nyaa](https://nyaa.si/view/2132825) |
+| `[ToonsHub] Rent-a-Girlfriend S05E12 1080p CR WEB-DL MULTi AAC2.0 H....` | **1606.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/621816) • [🐱 Nyaa](https://nekobt.to/torrents/12398478952975) |
+| `[ToonsHub] Perfect Addiction S01E02 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **193.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/621812) • [🐱 Nyaa](https://nyaa.si/view/2132823) |
+| `[geckyzz] Perfect Addiction - S01E02 (パーフェクトアディクション) [YTB.WEB-DL 10...` | **36.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/621813) • [🐱 Nyaa](https://nyaa.si/view/2132822) |
+| `[geckyzz] Perfect Addiction - S01E02 (パーフェクトアディクション) [OVEIL.WEB-DL ...` | **72.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/621814) • [🐱 Nyaa](https://nyaa.si/view/2132821) |
+| `Clevatess S02E02 1080p CR WEB-DL MULTi AAC2.0 H 264-VARYG (Clevates...` | **1556.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621815) • [🐱 Nyaa](https://nyaa.si/view/2132820) |
+| `[Onalrie] Clevatess - S02E02 [1080p WEBRip AV1]` | **195.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/621811) • [🐱 Nyaa](https://nekobt.to/torrents/12398254051334) |
+| `[ASW] Clevatess S2 - 02 [1080p HEVC x265 10Bit][AAC]` | **340.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/621810) • [🐱 Nyaa](https://nyaa.si/view/2132814) |
+| `[ToonsHub] Clevatess S02E02 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1423.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/621809) • [🐱 Nyaa](https://nekobt.to/torrents/12397473900545) |
 
 ---
 <div align="center">
