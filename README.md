@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.08.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.36.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Quanzhi Fashi S7 - 09 [1080p HEVC x265 10Bit][AAC]` | **387.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/621753) • [🐱 Nyaa](https://nyaa.si/view/2132709) |
+| `[VARYG] Walking the Way all alone S01E15 1080p BILI WEB-DL AAC2.0 H...` | **994.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/621752) • [🐱 Nyaa](https://nekobt.to/torrents/12389213270026) |
+| `[ToonsHub] Walking the Way all alone S01E16 1080p BILI WEB-DL AAC2....` | **604.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/621751) • [🐱 Nyaa](https://nyaa.si/view/2132705) |
+| `Versatile Mage S07E09 Fall of the Outer City 1080p CR WEB-DL AAC2.0...` | **1163.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/621745) • [🐱 Nyaa](https://nyaa.si/view/2132703) |
+| `[ToonsHub] Full-Time Magister S07E09 1080p CR WEB-DL AAC2.0 H.264 (...` | **1184.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/621746) • [🐱 Nyaa](https://nyaa.si/view/2132702) |
+| `[SubsPlease] Quanzhi Fashi S7 - 09 (1080p) [FD9E77B9].mkv` | **1139.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/621747) • [🐱 Nyaa](https://nyaa.si/view/2132701) |
 | `[Yameii] SHIBOYUGI: Playing Death Games to Put Food on the Table - ...` | **5251.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621742) • [🐱 Nyaa](https://nekobt.to/torrents/12386171532038) |
 | `[AnoZu] KAMUI: He's Behind You S00E02 1080p AMZN WEB-DL DDP 2.0 H.264` | **488.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621741) • [🐱 Nyaa](https://nekobt.to/torrents/12385731628814) |
 | `[Judas] Gekijouban Psycho-Pass: Providence [BD 1080p][HEVC x265 10b...` | **2104.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621737) • [🐱 Nyaa](https://nyaa.si/view/2132665) |
@@ -42,12 +48,6 @@
 | `[ToonsHub] Above Myriads S01E08 1080p iQ WEB-DL AAC2.0 H.264 (Wan R...` | **361.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621734) • [🐱 Nyaa](https://nyaa.si/view/2132649) |
 | `[Ironclad] Red River (2026) - S01E02 (WEB 1080p AV1) | Sora wa Akai...` | **241.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/621733) • [🐱 Nyaa](https://nekobt.to/torrents/12384377609226) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 74 [1080p] [BCA6...` | **20.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621731) • [🐱 Nyaa](https://nyaa.si/view/2132645) |
-| `[Unfucked] I Want to End This Love Game - S01E12 (1080p CR WEB-DL A...` | **1424.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/621732) • [🐱 Nyaa](https://nyaa.si/view/2132641) |
-| `[ASW] Boku no Kokoro no Yabai Yatsu Movie [1080p HEVC x265 10Bit][AAC]` | **714.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/621728) • [🐱 Nyaa](https://nyaa.si/view/2132639) |
-| `[derpie] MARRIAGETOXIN - S01E13 (WEB 1080p HEVC AAC) [Dual Audio] |...` | **1361.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/621729) • [🐱 Nyaa](https://nekobt.to/torrents/12383531478534) |
-| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep02 (1080...` | **751.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621730) • [🐱 Nyaa](https://nekobt.to/torrents/12383449752323) |
-| `[Trix] Sparks of Tomorrow S01E02 1080p NF WEB-DL AAC2.0 AV1 (Dual-A...` | **252.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/621727) • [🐱 Nyaa](https://nyaa.si/view/2132637) |
-| `[Ironclad] THE GHOST IN THE SHELL - S01E02 [WEB.1080p.AV1] | THE GH...` | **961.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621725) • [🐱 Nyaa](https://nyaa.si/view/2132634) |
 
 ---
 <div align="center">
