@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.04.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.14.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Dogulwang - 02 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **568.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622011) • [🐱 Nyaa](https://nyaa.si/view/2133138) |
+| `[Erai-raws] Dogulwang - 02 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **586.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622012) • [🐱 Nyaa](https://nyaa.si/view/2133137) |
+| `[SubsPlease] Himekishi wa Barbaroi no Yome (01-12) (1080p) [Batch]` | **16553.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/622013) • [🐱 Nyaa](https://nyaa.si/view/2133136) |
 | `[Sokudo] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Campi...` | **170.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622008) • [🐱 Nyaa](https://nyaa.si/view/2133129) |
 | `[Doomdos] - Hana-Kimi Season 2 - 16 [1080p IQ WEB-DL]` | **295.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622009) • [🐱 Nyaa](https://nyaa.si/view/2133127) |
 | `[Doomdos] - Hana-Kimi Season 2 - 15 [1080p IQ WEB-DL]` | **312.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/622010) • [🐱 Nyaa](https://nyaa.si/view/2133124) |
@@ -43,9 +46,6 @@
 | `[DKB] LV999 no Murabito - S01E04 [1080p][HEVC x265 10bit][Multi-Sub...` | **395.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/622001) • [🐱 Nyaa](https://nyaa.si/view/2133112) |
 | `[Erai-raws] Thunder 3 - 02 [1080p NF WEB-DL AVC AAC][MultiSub][2FF5...` | **849.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/622000) • [🐱 Nyaa](https://nekobt.to/torrents/12404619750920) |
 | `[Ironclad] Katainaka no Ossan II - S02E02 [WEB.1080p.AV1] | From Ol...` | **382.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621994) • [🐱 Nyaa](https://nyaa.si/view/2133109) |
-| `[Doomdos] - Chainsmoker Cat - 2 [1080p IQ WEB-DL]` | **356.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/621995) • [🐱 Nyaa](https://nyaa.si/view/2133108) |
-| `[Doomdos] - Chainsmoker Cat - 1 [1080p IQ WEB-DL]` | **350.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/621996) • [🐱 Nyaa](https://nyaa.si/view/2133107) |
-| `[Doomdos] - The Frontier Lord Begins with Zero Subjects - 2 [1080p ...` | **263.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/621997) • [🐱 Nyaa](https://nyaa.si/view/2133106) |
 
 ---
 <div align="center">
