@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.29.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.03.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Doomdos] - [Exclusive]In Search of Gods - 4 [1080p IQ WEB-DL]` | **332.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621773) • [🐱 Nyaa](https://nyaa.si/view/2132765) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 3 [1080p IQ WEB-DL]` | **321.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621774) • [🐱 Nyaa](https://nyaa.si/view/2132764) |
-| `[Doomdos] - [Exclusive]In Search of Gods - 2 [1080p IQ WEB-DL]` | **387.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/621775) • [🐱 Nyaa](https://nyaa.si/view/2132763) |
-| `[Doomdos] - 【Exclusive】In Search of Gods - 1 [1080p IQ WEB-DL]` | **402.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/621772) • [🐱 Nyaa](https://nyaa.si/view/2132760) |
-| `[Doomdos] - Supreme Alchemy - 183 [1080p IQ WEB-DL]` | **174.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621768) • [🐱 Nyaa](https://nyaa.si/view/2132757) |
-| `[Doomdos] - Against the Gods 2nd Season - 45 [1080p IQ WEB-DL]` | **404.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/621769) • [🐱 Nyaa](https://nyaa.si/view/2132756) |
-| `[Doomdos] - Urban Miracle Doctor - 193 [1080p IQ WEB-DL]` | **183.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/621770) • [🐱 Nyaa](https://nyaa.si/view/2132755) |
-| `[Doomdos] - Super Heroic Spirit Season 2 - 6 [1080p IQ WEB-DL]` | **137.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/621771) • [🐱 Nyaa](https://nyaa.si/view/2132754) |
-| `[Doomdos] - Super Heroic Spirit Season 2 - 5 [1080p IQ WEB-DL]` | **149.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/621762) • [🐱 Nyaa](https://nyaa.si/view/2132753) |
-| `[Doomdos] - Super Heroic Spirit Season 2 - 4 [1080p IQ WEB-DL]` | **161.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/621763) • [🐱 Nyaa](https://nyaa.si/view/2132752) |
-| `[Doomdos] - Super Heroic Spirit Season 2 - 3 [1080p IQ WEB-DL]` | **174.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/621764) • [🐱 Nyaa](https://nyaa.si/view/2132750) |
-| `[Doomdos] - Super Heroic Spirit Season 2 - 2 [1080p IQ WEB-DL]` | **148.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/621765) • [🐱 Nyaa](https://nyaa.si/view/2132749) |
-| `[Doomdos] - Super Heroic Spirit Season 2 - 1 [1080p IQ WEB-DL]` | **188.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/621766) • [🐱 Nyaa](https://nyaa.si/view/2132748) |
-| `[Doomdos] - Ascendants of the Nine Suns - 37 [1080p IQ WEB-DL]` | **151.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/621767) • [🐱 Nyaa](https://nyaa.si/view/2132747) |
-| `[Doomdos] - Lingwu Continent - 195 [1080p IQ WEB-DL]` | **202.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/621761) • [🐱 Nyaa](https://nyaa.si/view/2132746) |
+| `[vLbE3L] THE GHOST IN THE SHELL S01E02 [1080p AMZN WEBRip VVC xHE-A...` | **308.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/621798) • [🐱 Nyaa](https://nekobt.to/torrents/12397030499334) |
+| `[LbE3L] THE GHOST IN THE SHELL S01E02 [1080p AMZN WEB-DL AV1 (Muxed...` | **658.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/621797) • [🐱 Nyaa](https://nekobt.to/torrents/12396988517125) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 19 [1080p IQ WEB-DL]` | **327.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/621793) • [🐱 Nyaa](https://nyaa.si/view/2132787) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 18 [1080p IQ WEB-DL]` | **387.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/621794) • [🐱 Nyaa](https://nyaa.si/view/2132786) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 17 [1080p IQ WEB-DL]` | **351.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/621795) • [🐱 Nyaa](https://nyaa.si/view/2132784) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 16 [1080p IQ WEB-DL]` | **340.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/621796) • [🐱 Nyaa](https://nyaa.si/view/2132782) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 15 [1080p IQ WEB-DL]` | **359.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/621788) • [🐱 Nyaa](https://nyaa.si/view/2132781) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 14 [1080p IQ WEB-DL]` | **338.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/621789) • [🐱 Nyaa](https://nyaa.si/view/2132780) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 13 [1080p IQ WEB-DL]` | **366.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/621790) • [🐱 Nyaa](https://nyaa.si/view/2132779) |
+| `[Gecko] Cat Tales - S01E40 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **28.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/621791) • [🐱 Nyaa](https://nyaa.si/view/2132778) |
+| `[ToonsHub] Cat Tales S01E40 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **56.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/621792) • [🐱 Nyaa](https://nyaa.si/view/2132777) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 12 [1080p IQ WEB-DL]` | **382.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/621783) • [🐱 Nyaa](https://nyaa.si/view/2132775) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 11 [1080p IQ WEB-DL]` | **419.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621784) • [🐱 Nyaa](https://nyaa.si/view/2132774) |
+| `[vLbE3L] Witch Hat Atelier S01E12 [1080p CUSTOM WEBRip VVC HE-AACv2...` | **305.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/621787) • [🐱 Nyaa](https://nekobt.to/torrents/12396253704706) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 10 [1080p IQ WEB-DL]` | **331.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/621785) • [🐱 Nyaa](https://nyaa.si/view/2132773) |
 
 ---
 <div align="center">
