@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.13.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.08.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,7 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] SHIBOYUGI: Playing Death Games to Put Food on the Table - ...` | **5251.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/621742) • [🐱 Nyaa](https://nekobt.to/torrents/12386171532038) |
+| `[AnoZu] KAMUI: He's Behind You S00E02 1080p AMZN WEB-DL DDP 2.0 H.264` | **488.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/621741) • [🐱 Nyaa](https://nekobt.to/torrents/12385731628814) |
+| `[Judas] Gekijouban Psycho-Pass: Providence [BD 1080p][HEVC x265 10b...` | **2104.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/621737) • [🐱 Nyaa](https://nyaa.si/view/2132665) |
+| `[Judas] Gekijouban Boku no Kokoro no Yabai Yatsu (The Dangers in My...` | **862.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/621738) • [🐱 Nyaa](https://nyaa.si/view/2132663) |
 | `[Ironclad] The Warrior Princess and the Barbaric King - S01 (WEB 10...` | **3935.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/621736) • [🐱 Nyaa](https://nekobt.to/torrents/12385364403464) |
+| `[Reza] THE GHOST IN THE SHELL (2026) - S01E02v2 [WEBRip HEVC 1080p ...` | **4632.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/621740) • [🐱 Nyaa](https://nyaa.si/view/2132652) |
 | `[ToonsHub] Above Myriads S01E08 1080p iQ WEB-DL AAC2.0 H.264 (Wan R...` | **361.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/621734) • [🐱 Nyaa](https://nyaa.si/view/2132649) |
 | `[Ironclad] Red River (2026) - S01E02 (WEB 1080p AV1) | Sora wa Akai...` | **241.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/621733) • [🐱 Nyaa](https://nekobt.to/torrents/12384377609226) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 74 [1080p] [BCA6...` | **20.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/621731) • [🐱 Nyaa](https://nyaa.si/view/2132645) |
@@ -43,11 +48,6 @@
 | `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep02 (1080...` | **751.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/621730) • [🐱 Nyaa](https://nekobt.to/torrents/12383449752323) |
 | `[Trix] Sparks of Tomorrow S01E02 1080p NF WEB-DL AAC2.0 AV1 (Dual-A...` | **252.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/621727) • [🐱 Nyaa](https://nyaa.si/view/2132637) |
 | `[Ironclad] THE GHOST IN THE SHELL - S01E02 [WEB.1080p.AV1] | THE GH...` | **961.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/621725) • [🐱 Nyaa](https://nyaa.si/view/2132634) |
-| `[Reza] THE GHOST IN THE SHELL (2026) - S01E02 [WEBRip HEVC 1080p EA...` | **4630.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/621726) • [🐱 Nyaa](https://nyaa.si/view/2132631) |
-| `SHIBOYUGI Playing Death Games to Put Food on the Table 44 Cloudy Be...` | **3938.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/621722) • [🐱 Nyaa](https://nyaa.si/view/2132626) |
-| `SHIBOYUGI Playing Death Games to Put Food on the Table 44 Cloudy Be...` | **3356.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/621723) • [🐱 Nyaa](https://nyaa.si/view/2132625) |
-| `SHIBOYUGI Playing Death Games to Put Food on the Table 44 Cloudy Be...` | **6267.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/621724) • [🐱 Nyaa](https://nyaa.si/view/2132624) |
-| `The Dangers in My Heart The Movie 2026 1080p ADN WEB-DL DUAL DDP5.1...` | **2886.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/621721) • [🐱 Nyaa](https://nyaa.si/view/2132621) |
 
 ---
 <div align="center">
