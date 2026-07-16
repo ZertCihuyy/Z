@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.35.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.03.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `KILL BLUE S01E12 Life Paths 1080p NF WEB-DL AAC2.0 H 264-VARYG (Kil...` | **877.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/622044) • [🐱 Nyaa](https://nyaa.si/view/2133307) |
+| `[neoDESU] The Angel Next Door Spoils Me Rotten [Season 1] [BD 1080p...` | **3226.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/622045) • [🐱 Nyaa](https://nyaa.si/view/2133306) |
+| `[RUBaDUB] The 100 Girlfriends Who Really Love You (S1 Complete) (10...` | **10847.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/622043) • [🐱 Nyaa](https://nyaa.si/view/2133296) |
+| `[neoDESU] The Angel Next Door Spoils Me Rotten [Season 1] [BD 1080p...` | **2299.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/622041) • [🐱 Nyaa](https://nyaa.si/view/2133294) |
+| `[BlackRose] I Want to End This Love Game Season 1 (WEB 1080p HEVC 1...` | **19099.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/622042) • [🐱 Nyaa](https://nekobt.to/torrents/12414836915470) |
+| `Soukou Musume Senki (LBX Girls) (2021) S01 (Bluray 1080p x265 AAC) ...` | **12456.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/622040) • [🐱 Nyaa](https://nyaa.si/view/2133277) |
 | `[CenturyZeta] Youjo Shenki 2 - 02 (1080p) (Youjo Senki)` | **7.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622038) • [🐱 Nyaa](https://nyaa.si/view/2133256) |
 | `[CenturyZeta] Youjo Shenki 2 - 01 (1080p) (Youjo Senki)` | **7.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622039) • [🐱 Nyaa](https://nyaa.si/view/2133255) |
 | `Mary.and.The.Witch's.Flower.2017.1080p.NF.WEB-DL.DDP5.1.DUAL.AUDIO....` | **1805.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/622037) • [🐱 Nyaa](https://nyaa.si/view/2133233) |
@@ -40,12 +46,6 @@
 | `The Angel Next Door Spoils Me Rotten S01 1080p CR WEB-DL DUAL AAC2....` | **17103.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622034) • [🐱 Nyaa](https://nyaa.si/view/2133193) |
 | `[Gecko] Cat Tales - S01E40 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622031) • [🐱 Nyaa](https://nekobt.to/torrents/12412202624780) |
 | `[Gecko] Candy Caries - S01E14 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **90.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622029) • [🐱 Nyaa](https://nyaa.si/view/2133179) |
-| `[Doomdos] - Supreme Alchemy - 184 [1080p IQ WEB-DL]` | **175.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622027) • [🐱 Nyaa](https://nyaa.si/view/2133178) |
-| `[Doomdos] - Against the Gods 2nd Season - 46 [1080p IQ WEB-DL]` | **421.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622028) • [🐱 Nyaa](https://nyaa.si/view/2133177) |
-| `[ToonsHub] The Angel Next Door Spoils Me Rotten S01 1080p CR WEB-DL...` | **17074.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/622026) • [🐱 Nyaa](https://nyaa.si/view/2133176) |
-| `Reborn as a Cat S01E35 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **241.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622025) • [🐱 Nyaa](https://nyaa.si/view/2133170) |
-| `[Kotobuki] Clevatess II 03 [1080p AVC Multidub] | Clevatess II: Maj...` | **384.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622023) • [🐱 Nyaa](https://nyaa.si/view/2133160) |
-| `[ToonsHub] Starlight Scramble S01E02 1080p OV WEB-DL AAC2.0 H.264 (...` | **481.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622020) • [🐱 Nyaa](https://nyaa.si/view/2133157) |
 
 ---
 <div align="center">
