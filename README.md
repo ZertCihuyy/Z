@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.12.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.52.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Bungo Stray Dogs WAN S02E03 1080p CR WEB-DL AAC2.0 H.264...` | **688.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/622066) • [🐱 Nyaa](https://nekobt.to/torrents/12420114411015) |
+| `Dara san of the Reiwa Era S01E03 The Laws of Forbidden Ground 1080p...` | **1409.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/622057) • [🐱 Nyaa](https://nyaa.si/view/2133410) |
+| `[ToonsHub] Dara-san of the Reiwa Era S01E03 1080p CR WEB-DL AAC2.0 ...` | **1429.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622058) • [🐱 Nyaa](https://nyaa.si/view/2133409) |
+| `[SubsPlease] Reiwa no Dara-san - 03 (1080p) [B8887D1C].mkv` | **1381.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/622059) • [🐱 Nyaa](https://nyaa.si/view/2133406) |
+| `[Erai-raws] Reiwa no Dara-san - 03 [1080p CR WEB-DL AVC AAC][MultiS...` | **1391.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/622064) • [🐱 Nyaa](https://nyaa.si/view/2133400) |
+| `[Gecko] Koala's Diary - S01E41 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **41.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/622065) • [🐱 Nyaa](https://nyaa.si/view/2133398) |
+| `[ToonsHub] Blades of the Guardians S02E07 1080p ADN WEB-DL AAC2.0 H...` | **710.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/622052) • [🐱 Nyaa](https://nyaa.si/view/2133384) |
+| `[ToonsHub] Blades of the Guardians S02E06 1080p ADN WEB-DL AAC2.0 H...` | **684.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/622053) • [🐱 Nyaa](https://nyaa.si/view/2133383) |
+| `[ToonsHub] Blades of the Guardians S02E05 1080p ADN WEB-DL AAC2.0 H...` | **728.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622054) • [🐱 Nyaa](https://nyaa.si/view/2133382) |
+| `[ToonsHub] Blades of the Guardians S02E04 1080p ADN WEB-DL AAC2.0 H...` | **606.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622055) • [🐱 Nyaa](https://nyaa.si/view/2133381) |
+| `[ToonsHub] Blades of the Guardians S02E03 1080p ADN WEB-DL AAC2.0 H...` | **481.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/622050) • [🐱 Nyaa](https://nekobt.to/torrents/12419120595459) |
+| `[ToonsHub] Blades of the Guardians S02E02 1080p ADN WEB-DL AAC2.0 H...` | **682.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622048) • [🐱 Nyaa](https://nyaa.si/view/2133379) |
+| `[Animorphs] Blue Box - S01E20 [BD 1080p x265 FLAC] [Dual-Audio] (Ao...` | **4214.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/622049) • [🐱 Nyaa](https://nyaa.si/view/2133378) |
+| `[ToonsHub] Koalas Diary S01E41 1080p LNTV WEB-DL AAC2.0 H.264 (Koal...` | **67.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/622047) • [🐱 Nyaa](https://nyaa.si/view/2133376) |
 | `[Kotobuki] Koukaku Kidoutai (2026) 02 [1080p HEVC Multisub] | The G...` | **288.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/622046) • [🐱 Nyaa](https://nyaa.si/view/2133310) |
-| `KILL BLUE S01E12 Life Paths 1080p NF WEB-DL AAC2.0 H 264-VARYG (Kil...` | **877.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/622044) • [🐱 Nyaa](https://nyaa.si/view/2133307) |
-| `[neoDESU] The Angel Next Door Spoils Me Rotten [Season 1] [BD 1080p...` | **3226.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/622045) • [🐱 Nyaa](https://nyaa.si/view/2133306) |
-| `[RUBaDUB] The 100 Girlfriends Who Really Love You (S1 Complete) (10...` | **10847.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/622043) • [🐱 Nyaa](https://nyaa.si/view/2133296) |
-| `[neoDESU] The Angel Next Door Spoils Me Rotten [Season 1] [BD 1080p...` | **2299.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/622041) • [🐱 Nyaa](https://nyaa.si/view/2133294) |
-| `[BlackRose] I Want to End This Love Game Season 1 (WEB 1080p HEVC 1...` | **19099.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/622042) • [🐱 Nyaa](https://nekobt.to/torrents/12414836915470) |
-| `Soukou Musume Senki (LBX Girls) (2021) S01 (Bluray 1080p x265 AAC) ...` | **12456.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/622040) • [🐱 Nyaa](https://nyaa.si/view/2133277) |
-| `[CenturyZeta] Youjo Shenki 2 - 02 (1080p) (Youjo Senki)` | **7.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622038) • [🐱 Nyaa](https://nyaa.si/view/2133256) |
-| `[CenturyZeta] Youjo Shenki 2 - 01 (1080p) (Youjo Senki)` | **7.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622039) • [🐱 Nyaa](https://nyaa.si/view/2133255) |
-| `Mary.and.The.Witch's.Flower.2017.1080p.NF.WEB-DL.DDP5.1.DUAL.AUDIO....` | **1805.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/622037) • [🐱 Nyaa](https://nyaa.si/view/2133233) |
-| `[AI-Raws] Nobody's Boy Remi 家なき子 BDRip 1080p MKV` | **53958.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/622036) • [🐱 Nyaa](https://nyaa.si/view/2133207) |
-| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E02 (いびってこ...` | **678.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/622033) • [🐱 Nyaa](https://nyaa.si/view/2133198) |
-| `[geckyzz] Perfect Addiction - S01E02 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **198.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/622032) • [🐱 Nyaa](https://nekobt.to/torrents/12412465302528) |
-| `The Angel Next Door Spoils Me Rotten S01 1080p CR WEB-DL DUAL AAC2....` | **17103.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622034) • [🐱 Nyaa](https://nyaa.si/view/2133193) |
-| `[Gecko] Cat Tales - S01E40 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622031) • [🐱 Nyaa](https://nekobt.to/torrents/12412202624780) |
 
 ---
 <div align="center">
