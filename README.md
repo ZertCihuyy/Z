@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.14.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.35.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CenturyZeta] Youjo Shenki 2 - 02 (1080p) (Youjo Senki)` | **7.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622038) • [🐱 Nyaa](https://nyaa.si/view/2133256) |
+| `[CenturyZeta] Youjo Shenki 2 - 01 (1080p) (Youjo Senki)` | **7.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622039) • [🐱 Nyaa](https://nyaa.si/view/2133255) |
+| `Mary.and.The.Witch's.Flower.2017.1080p.NF.WEB-DL.DDP5.1.DUAL.AUDIO....` | **1805.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/622037) • [🐱 Nyaa](https://nyaa.si/view/2133233) |
+| `[AI-Raws] Nobody's Boy Remi 家なき子 BDRip 1080p MKV` | **53958.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/622036) • [🐱 Nyaa](https://nyaa.si/view/2133207) |
+| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E02 (いびってこ...` | **678.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/622033) • [🐱 Nyaa](https://nyaa.si/view/2133198) |
+| `[geckyzz] Perfect Addiction - S01E02 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **198.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/622032) • [🐱 Nyaa](https://nekobt.to/torrents/12412465302528) |
+| `The Angel Next Door Spoils Me Rotten S01 1080p CR WEB-DL DUAL AAC2....` | **17103.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622034) • [🐱 Nyaa](https://nyaa.si/view/2133193) |
 | `[Gecko] Cat Tales - S01E40 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622031) • [🐱 Nyaa](https://nekobt.to/torrents/12412202624780) |
 | `[Gecko] Candy Caries - S01E14 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **90.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622029) • [🐱 Nyaa](https://nyaa.si/view/2133179) |
 | `[Doomdos] - Supreme Alchemy - 184 [1080p IQ WEB-DL]` | **175.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622027) • [🐱 Nyaa](https://nyaa.si/view/2133178) |
@@ -39,13 +46,6 @@
 | `Reborn as a Cat S01E35 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **241.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622025) • [🐱 Nyaa](https://nyaa.si/view/2133170) |
 | `[Kotobuki] Clevatess II 03 [1080p AVC Multidub] | Clevatess II: Maj...` | **384.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622023) • [🐱 Nyaa](https://nyaa.si/view/2133160) |
 | `[ToonsHub] Starlight Scramble S01E02 1080p OV WEB-DL AAC2.0 H.264 (...` | **481.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622020) • [🐱 Nyaa](https://nyaa.si/view/2133157) |
-| `[ToonsHub] Starlight Scramble S01E01 1080p OV WEB-DL AAC2.0 H.264 (...` | **538.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622021) • [🐱 Nyaa](https://nyaa.si/view/2133156) |
-| `[Breeze] Mushoku Tensei S03E02 [1080p AV1] Jobless Reincarnation (w...` | **828.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622022) • [🐱 Nyaa](https://nyaa.si/view/2133155) |
-| `[Erai-raws] Thunder 3 - 02 [1080p NF WEBRip HEVC AAC][MultiSub][EA6...` | **631.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/622019) • [🐱 Nyaa](https://nekobt.to/torrents/12408080530947) |
-| `[SubsPlease] Reincarnation no Kaben (01-13) (1080p) [Batch]` | **12057.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/622016) • [🐱 Nyaa](https://nyaa.si/view/2133142) |
-| `[Erai-raws] Dogulwang - 02 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **568.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622011) • [🐱 Nyaa](https://nyaa.si/view/2133138) |
-| `[Erai-raws] Dogulwang - 02 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **586.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622012) • [🐱 Nyaa](https://nyaa.si/view/2133137) |
-| `[SubsPlease] Himekishi wa Barbaroi no Yome (01-12) (1080p) [Batch]` | **16553.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/622013) • [🐱 Nyaa](https://nyaa.si/view/2133136) |
 
 ---
 <div align="center">
