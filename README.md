@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.56.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.14.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Cat Tales - S01E40 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622031) • [🐱 Nyaa](https://nekobt.to/torrents/12412202624780) |
+| `[Gecko] Candy Caries - S01E14 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **90.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622029) • [🐱 Nyaa](https://nyaa.si/view/2133179) |
+| `[Doomdos] - Supreme Alchemy - 184 [1080p IQ WEB-DL]` | **175.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622027) • [🐱 Nyaa](https://nyaa.si/view/2133178) |
+| `[Doomdos] - Against the Gods 2nd Season - 46 [1080p IQ WEB-DL]` | **421.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622028) • [🐱 Nyaa](https://nyaa.si/view/2133177) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S01 1080p CR WEB-DL...` | **17074.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/622026) • [🐱 Nyaa](https://nyaa.si/view/2133176) |
+| `Reborn as a Cat S01E35 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Wei Mi...` | **241.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622025) • [🐱 Nyaa](https://nyaa.si/view/2133170) |
+| `[Kotobuki] Clevatess II 03 [1080p AVC Multidub] | Clevatess II: Maj...` | **384.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622023) • [🐱 Nyaa](https://nyaa.si/view/2133160) |
 | `[ToonsHub] Starlight Scramble S01E02 1080p OV WEB-DL AAC2.0 H.264 (...` | **481.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622020) • [🐱 Nyaa](https://nyaa.si/view/2133157) |
 | `[ToonsHub] Starlight Scramble S01E01 1080p OV WEB-DL AAC2.0 H.264 (...` | **538.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622021) • [🐱 Nyaa](https://nyaa.si/view/2133156) |
 | `[Breeze] Mushoku Tensei S03E02 [1080p AV1] Jobless Reincarnation (w...` | **828.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622022) • [🐱 Nyaa](https://nyaa.si/view/2133155) |
@@ -39,13 +46,6 @@
 | `[Erai-raws] Dogulwang - 02 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **568.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622011) • [🐱 Nyaa](https://nyaa.si/view/2133138) |
 | `[Erai-raws] Dogulwang - 02 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **586.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622012) • [🐱 Nyaa](https://nyaa.si/view/2133137) |
 | `[SubsPlease] Himekishi wa Barbaroi no Yome (01-12) (1080p) [Batch]` | **16553.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/622013) • [🐱 Nyaa](https://nyaa.si/view/2133136) |
-| `[Sokudo] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Campi...` | **170.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622008) • [🐱 Nyaa](https://nyaa.si/view/2133129) |
-| `[Doomdos] - Hana-Kimi Season 2 - 16 [1080p IQ WEB-DL]` | **295.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622009) • [🐱 Nyaa](https://nyaa.si/view/2133127) |
-| `[Doomdos] - Hana-Kimi Season 2 - 15 [1080p IQ WEB-DL]` | **312.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/622010) • [🐱 Nyaa](https://nyaa.si/view/2133124) |
-| `[Doomdos] - Hana-Kimi Season 2 - 14 [1080p IQ WEB-DL]` | **302.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/622005) • [🐱 Nyaa](https://nyaa.si/view/2133123) |
-| `[Onalrie] Thunder 3 - S01E02 [1080p WEBRip AV1]` | **353.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622007) • [🐱 Nyaa](https://nekobt.to/torrents/12405302547722) |
-| `[Doomdos] - Hana-Kimi Season 2 - 13 [1080p IQ WEB-DL]` | **294.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/622006) • [🐱 Nyaa](https://nyaa.si/view/2133118) |
-| `[Doomdos] - Hell Mode- The Hardcore Gamer Dominates in Another Worl...` | **286.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622002) • [🐱 Nyaa](https://nyaa.si/view/2133117) |
 
 ---
 <div align="center">
