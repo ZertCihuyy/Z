@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.15.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.56.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Starlight Scramble S01E02 1080p OV WEB-DL AAC2.0 H.264 (...` | **481.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622020) • [🐱 Nyaa](https://nyaa.si/view/2133157) |
+| `[ToonsHub] Starlight Scramble S01E01 1080p OV WEB-DL AAC2.0 H.264 (...` | **538.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622021) • [🐱 Nyaa](https://nyaa.si/view/2133156) |
+| `[Breeze] Mushoku Tensei S03E02 [1080p AV1] Jobless Reincarnation (w...` | **828.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622022) • [🐱 Nyaa](https://nyaa.si/view/2133155) |
+| `[Erai-raws] Thunder 3 - 02 [1080p NF WEBRip HEVC AAC][MultiSub][EA6...` | **631.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/622019) • [🐱 Nyaa](https://nekobt.to/torrents/12408080530947) |
+| `[SubsPlease] Reincarnation no Kaben (01-13) (1080p) [Batch]` | **12057.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/622016) • [🐱 Nyaa](https://nyaa.si/view/2133142) |
 | `[Erai-raws] Dogulwang - 02 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **568.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622011) • [🐱 Nyaa](https://nyaa.si/view/2133138) |
 | `[Erai-raws] Dogulwang - 02 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **586.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622012) • [🐱 Nyaa](https://nyaa.si/view/2133137) |
 | `[SubsPlease] Himekishi wa Barbaroi no Yome (01-12) (1080p) [Batch]` | **16553.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/622013) • [🐱 Nyaa](https://nyaa.si/view/2133136) |
@@ -41,11 +46,6 @@
 | `[Onalrie] Thunder 3 - S01E02 [1080p WEBRip AV1]` | **353.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622007) • [🐱 Nyaa](https://nekobt.to/torrents/12405302547722) |
 | `[Doomdos] - Hana-Kimi Season 2 - 13 [1080p IQ WEB-DL]` | **294.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/622006) • [🐱 Nyaa](https://nyaa.si/view/2133118) |
 | `[Doomdos] - Hell Mode- The Hardcore Gamer Dominates in Another Worl...` | **286.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622002) • [🐱 Nyaa](https://nyaa.si/view/2133117) |
-| `[HatSubs] One Piece 1156-1168 (WEB 1080p)` | **18150.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/622004) • [🐱 Nyaa](https://nekobt.to/torrents/12405035481096) |
-| `[Doomdos] - Hell Mode- The Hardcore Gamer Dominates in Another Worl...` | **335.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622003) • [🐱 Nyaa](https://nyaa.si/view/2133116) |
-| `[DKB] LV999 no Murabito - S01E04 [1080p][HEVC x265 10bit][Multi-Sub...` | **395.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/622001) • [🐱 Nyaa](https://nyaa.si/view/2133112) |
-| `[Erai-raws] Thunder 3 - 02 [1080p NF WEB-DL AVC AAC][MultiSub][2FF5...` | **849.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/622000) • [🐱 Nyaa](https://nekobt.to/torrents/12404619750920) |
-| `[Ironclad] Katainaka no Ossan II - S02E02 [WEB.1080p.AV1] | From Ol...` | **382.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/621994) • [🐱 Nyaa](https://nyaa.si/view/2133109) |
 
 ---
 <div align="center">
