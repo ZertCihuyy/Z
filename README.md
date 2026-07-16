@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.39.36_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.39.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Super no Ura de Yani Suu Futari - S01E02 [WEB.1080p.AV1]...` | **274.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622233) • [🐱 Nyaa](https://nyaa.si/view/2133662) |
+| `[denisplay] Otome Kaijuu Carameliser - 03 [1080p] [AV1] (Weekly) (K...` | **434.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/622230) • [🐱 Nyaa](https://nyaa.si/view/2133659) |
 | `[DKB] Super no Ura de Yani Suu Futari - S01E02 [1080p][HEVC x265 10...` | **195.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/622229) • [🐱 Nyaa](https://nyaa.si/view/2133652) |
 | `[sam] The Ghost in the Shell (2026) - S01E01 (WEB 1080p HEVC x265 1...` | **5423.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/622227) • [🐱 Nyaa](https://nyaa.si/view/2133651) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E03 (1080p AAC x265 B...` | **637.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/622228) • [🐱 Nyaa](https://nekobt.to/torrents/12428444062474) |
@@ -46,8 +48,6 @@
 | `[Reza] Smoking Behind the Supermarket with You - S01E01v2 [WEBRip 1...` | **1099.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/622216) • [🐱 Nyaa](https://nyaa.si/view/2133641) |
 | `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **783.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/622217) • [🐱 Nyaa](https://nyaa.si/view/2133640) |
 | `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **721.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/622218) • [🐱 Nyaa](https://nyaa.si/view/2133639) |
-| `[Reza] Smoking Behind the Supermarket with You - S01E02 [WEBRip 108...` | **1073.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/622215) • [🐱 Nyaa](https://nyaa.si/view/2133638) |
-| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 13 [1080p WEB...` | **1410.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/622214) • [🐱 Nyaa](https://nyaa.si/view/2133637) |
 
 ---
 <div align="center">
