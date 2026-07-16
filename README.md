@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.06.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.42.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Rakudai Kenja no Gakuin Musou - 04 [1080p CR WEB-DL AVC...` | **1387.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/622102) • [🐱 Nyaa](https://nekobt.to/torrents/12422261018370) |
-| `[CW] Ayaka A Story of Bonds and Wounds S01 [Dual Audio][WEB 1080p][...` | **16896.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/622098) • [🐱 Nyaa](https://nyaa.si/view/2133472) |
-| `[BlackRabbit] Black Jack (1993) - S02 [Bluray-1080p][Opus 2.0][AV1]` | **668.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/622103) • [🐱 Nyaa](https://nekobt.to/torrents/12422158264321) |
-| `[ASW] BanG Dream! Yumemita - 05 [1080p HEVC x265 10Bit][AAC]` | **399.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622099) • [🐱 Nyaa](https://nyaa.si/view/2133471) |
-| `Classroom of the Elite S04E14 The Extraordinary Prodigy 1080p CR WE...` | **1569.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/622097) • [🐱 Nyaa](https://nyaa.si/view/2133469) |
-| `BanG Dream YUMEMITA S01E05 Help 1080p CR WEB-DL AAC2.0 H 264-VARYG ...` | **1383.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/622086) • [🐱 Nyaa](https://nyaa.si/view/2133457) |
-| `[ToonsHub] BanG Dream YUMEMITA S01E05 1080p CR WEB-DL AAC2.0 H.264 ...` | **1382.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/622087) • [🐱 Nyaa](https://nyaa.si/view/2133455) |
-| `[SubsPlease] BanG Dream! Yumemita - 05 (1080p) [BCA9A38E].mkv` | **1376.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/622088) • [🐱 Nyaa](https://nyaa.si/view/2133454) |
-| `[Erai-raws] Bang Dream Yumemita - 05 [1080p CR WEB-DL AVC AAC][Mult...` | **1383.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/622093) • [🐱 Nyaa](https://nyaa.si/view/2133448) |
-| `Bungo Stray Dogs WAN S02E01 THE REAL RETURNS-Atsushis Sweet Recipe-...` | **704.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/622094) • [🐱 Nyaa](https://nyaa.si/view/2133446) |
-| `[ToonsHub] Bungo Stray Dogs WAN S02E01 1080p CR WEB-DL DUAL AAC2.0 ...` | **703.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/622095) • [🐱 Nyaa](https://nyaa.si/view/2133445) |
-| `[FrixySubs] BLACK TORCH - S01E02 [1080p CR WEB-DL H.264 AAC] [Napis...` | **986.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622096) • [🐱 Nyaa](https://nekobt.to/torrents/12421238578945) |
-| `[Kosaka] Dara-san of the Reiwa Era - S01E03 (WEBRip 1080p AV1 OPUS)...` | **180.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/622085) • [🐱 Nyaa](https://nekobt.to/torrents/12421191226125) |
-| `[Erai-raws] Reiwa no Dara-san - 03 [1080p CR WEBRip HEVC AAC][Multi...` | **508.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/622083) • [🐱 Nyaa](https://nyaa.si/view/2133444) |
-| `[Bird] Ganzo! Bandori-chan - 41 (1080p) [F59E965F]` | **11.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/622084) • [🐱 Nyaa](https://nyaa.si/view/2133442) |
+| `Chainsmoker Cat S01E01 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-R...` | **958.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/622148) • [🐱 Nyaa](https://nekobt.to/torrents/12423632984320) |
+| `Chainsmoker Cat S01E01 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-...` | **272.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/622149) • [🐱 Nyaa](https://nekobt.to/torrents/12423628635144) |
+| `Chainsmoker Cat S01E01 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Ra...` | **223.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/622150) • [🐱 Nyaa](https://nekobt.to/torrents/12423625501192) |
+| `[ToonsHub] The Exiled Heavy Knight Knows How to Game the System S01...` | **1437.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622146) • [🐱 Nyaa](https://nyaa.si/view/2133549) |
+| `[ToonsHub] The Exiled Heavy Knight Knows How to Game the System S01...` | **1522.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/622138) • [🐱 Nyaa](https://nekobt.to/torrents/12423431351302) |
+| `[Onalrie] Rakudai Kenja no Gakuin Musou - S01E04 [1080p WEBRip AV1]` | **187.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/622139) • [🐱 Nyaa](https://nekobt.to/torrents/12423350531333) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E02 (1080p AAC x265 B...` | **617.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/622140) • [🐱 Nyaa](https://nekobt.to/torrents/12423336001796) |
+| `[ASW] Mebius Dust - 02 [1080p HEVC x265 10Bit][AAC]` | **356.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/622147) • [🐱 Nyaa](https://nyaa.si/view/2133544) |
+| `[ToonsHub] Chainsmoker Cat S01E01 1080p NF WEB-DL MULTi AAC2.0 H.26...` | **1103.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/622130) • [🐱 Nyaa](https://nyaa.si/view/2133542) |
+| `[geckyzz] Chainsmoker Cat - S01E03 (ヤニねこ; Yani Neko) [UNCENSORED, O...` | **480.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622131) • [🐱 Nyaa](https://nyaa.si/view/2133541) |
+| `[Erai-raws] Yani Neko - 03 [1080p NF WEB-DL AVC AAC][MultiSub][29D6...` | **880.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/622132) • [🐱 Nyaa](https://nyaa.si/view/2133540) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E01 (1080p AAC x265 B...` | **630.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/622141) • [🐱 Nyaa](https://nekobt.to/torrents/12423302041103) |
+| `The Exiled Heavy Knight Knows How to Game the System S01E01 Im Elym...` | **1403.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622133) • [🐱 Nyaa](https://nyaa.si/view/2133539) |
+| `The Warrior Princess and the Barbaric King S01E12 MULTi AD 1080p CR...` | **1450.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622142) • [🐱 Nyaa](https://nekobt.to/torrents/12423272663301) |
+| `Chainsmoker Cat S01E03 SUBFRENCH 1080p NF WEB-DL AAC2.0 x264-Tsunde...` | **901.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/622143) • [🐱 Nyaa](https://nekobt.to/torrents/12423262947844) |
 
 ---
 <div align="center">
