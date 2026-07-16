@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.03.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.12.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kotobuki] Koukaku Kidoutai (2026) 02 [1080p HEVC Multisub] | The G...` | **288.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/622046) • [🐱 Nyaa](https://nyaa.si/view/2133310) |
 | `KILL BLUE S01E12 Life Paths 1080p NF WEB-DL AAC2.0 H 264-VARYG (Kil...` | **877.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/622044) • [🐱 Nyaa](https://nyaa.si/view/2133307) |
 | `[neoDESU] The Angel Next Door Spoils Me Rotten [Season 1] [BD 1080p...` | **3226.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/622045) • [🐱 Nyaa](https://nyaa.si/view/2133306) |
 | `[RUBaDUB] The 100 Girlfriends Who Really Love You (S1 Complete) (10...` | **10847.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/622043) • [🐱 Nyaa](https://nyaa.si/view/2133296) |
@@ -45,7 +46,6 @@
 | `[geckyzz] Perfect Addiction - S01E02 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **198.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/622032) • [🐱 Nyaa](https://nekobt.to/torrents/12412465302528) |
 | `The Angel Next Door Spoils Me Rotten S01 1080p CR WEB-DL DUAL AAC2....` | **17103.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622034) • [🐱 Nyaa](https://nyaa.si/view/2133193) |
 | `[Gecko] Cat Tales - S01E40 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622031) • [🐱 Nyaa](https://nekobt.to/torrents/12412202624780) |
-| `[Gecko] Candy Caries - S01E14 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **90.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622029) • [🐱 Nyaa](https://nyaa.si/view/2133179) |
 
 ---
 <div align="center">
