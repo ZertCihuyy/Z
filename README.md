@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.58.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.16.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Tomb Raider King - S01E02 (1080p WEBRip AAC x265) [AF...` | **586.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622260) • [🐱 Nyaa](https://nekobt.to/torrents/12438038719245) |
+| `[DB] [Oshi no Ko] 3rd Season | [Oshi No Ko] Season 3 [Dual Audio 10...` | **5561.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/622259) • [🐱 Nyaa](https://nyaa.si/view/2133723) |
+| `[Sristi] Mirai Nikki - 02 [BD 1080p][HEVC][FLAC]` | **1769.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/622258) • [🐱 Nyaa](https://nekobt.to/torrents/12437356298759) |
+| `[Doomdos] - Chainsmoker Cat - 3 [1080p IQ WEB-DL]` | **370.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/622257) • [🐱 Nyaa](https://nyaa.si/view/2133718) |
+| `[Onalrie] Crowned in a Hundred Days - S01E08 (CA) [1080p WEBRip AV1]` | **133.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/622256) • [🐱 Nyaa](https://nekobt.to/torrents/12437310796038) |
+| `[Doomdos] - The Exiled Heavy Knight Knows How to Game the System - ...` | **430.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/622255) • [🐱 Nyaa](https://nyaa.si/view/2133717) |
 | `[ASW] Bai Ri Cheng Wang - 08 [1080p HEVC x265 10Bit][AAC]` | **174.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/622254) • [🐱 Nyaa](https://nyaa.si/view/2133710) |
 | `[Gecko] Koala's Diary - S01E41 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **78.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622246) • [🐱 Nyaa](https://nyaa.si/view/2133707) |
 | `Crowned in a Hundred Days S01E08 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **716.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/622247) • [🐱 Nyaa](https://nyaa.si/view/2133706) |
@@ -42,12 +48,6 @@
 | `[ToonsHub] Crowned in a Hundred Days S01E08 1080p BILI WEB-DL AAC2....` | **163.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/622244) • [🐱 Nyaa](https://nekobt.to/torrents/12434237233160) |
 | `[Erai-raws] Crowned in a Hundred Days - 08 (CA) [1080p CR WEB-DL AV...` | **659.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/622245) • [🐱 Nyaa](https://nekobt.to/torrents/12434235949313) |
 | `[Gecko] BanG Dream! YUME∞MITA - S01E05 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **691.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622242) • [🐱 Nyaa](https://nyaa.si/view/2133687) |
-| `[Mo7tas] Machikado Mazoku (Season 1 + 2) [BD 1080p] [Multi language...` | **7629.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622240) • [🐱 Nyaa](https://nyaa.si/view/2133684) |
-| `[Doomdos] - Urban Miracle Doctor - 194 [1080p IQ WEB-DL]` | **187.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/622237) • [🐱 Nyaa](https://nyaa.si/view/2133678) |
-| `[Doomdos] - Lingwu Continent - 198 [1080p IQ WEB-DL]` | **206.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/622238) • [🐱 Nyaa](https://nyaa.si/view/2133677) |
-| `[Doomdos] - The Great Ruler - 82 [1080p IQ WEB-DL]` | **416.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/622239) • [🐱 Nyaa](https://nyaa.si/view/2133676) |
-| `[Nitsy] BanG Dream! Yume∞Mita - S01E05 (1080p WEB AAC x264)` | **1395.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622236) • [🐱 Nyaa](https://nekobt.to/torrents/12431846049543) |
-| `[Yameii] Skeleton Knight in Another World - S02E02 [English Dub] [C...` | **1394.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622234) • [🐱 Nyaa](https://nyaa.si/view/2133675) |
 
 ---
 <div align="center">
