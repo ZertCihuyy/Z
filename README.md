@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.06.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.36.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] LIAR GAME S01E12 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio ...` | **279.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622264) • [🐱 Nyaa](https://nekobt.to/torrents/12441594021903) |
+| `[ALS] Medalist 12 (1080p BD AAC x264)` | **878.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/622263) • [🐱 Nyaa](https://nekobt.to/torrents/12441350715150) |
 | `[Mo7tas] Sinbad [BD 1080p] [Multi language subs]` | **1485.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622262) • [🐱 Nyaa](https://nyaa.si/view/2133735) |
 | `[Erai-raws] Crowned in a Hundred Days - 08 (CA) [1080p CR WEBRip HE...` | **223.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/622261) • [🐱 Nyaa](https://nyaa.si/view/2133731) |
 | `[SubsNoJutsu] Tomb Raider King - S01E02 (1080p WEBRip AAC x265) [AF...` | **586.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622260) • [🐱 Nyaa](https://nekobt.to/torrents/12438038719245) |
@@ -46,8 +48,6 @@
 | `Crowned in a Hundred Days S01E08 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **716.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/622247) • [🐱 Nyaa](https://nyaa.si/view/2133706) |
 | `[Gecko] Crowned in a Hundred Days - S01E08 (百日成王; Bai Ri Cheng Wang...` | **166.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/622248) • [🐱 Nyaa](https://nyaa.si/view/2133705) |
 | `[ToonsHub] Crowned in a Hundred Days S01E08 1080p CR WEB-DL AAC2.0 ...` | **714.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/622249) • [🐱 Nyaa](https://nyaa.si/view/2133701) |
-| `[SubsPlease] Bai Ri Cheng Wang - 08 (1080p) [56E53908].mkv` | **712.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622250) • [🐱 Nyaa](https://nyaa.si/view/2133695) |
-| `[ToonsHub] Crowned in a Hundred Days S01E08 1080p BILI WEB-DL AAC2....` | **163.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/622244) • [🐱 Nyaa](https://nekobt.to/torrents/12434237233160) |
 
 ---
 <div align="center">
