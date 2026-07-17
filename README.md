@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.00.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.07.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sam] Grand Blue Dreaming - S03E02 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1786.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622409) • [🐱 Nyaa](https://nyaa.si/view/2133956) |
 | `[sam] Gekkan Shoujo Nozaki-kun Season 1 (S01) (BD 1080p HEVC x265 1...` | **46732.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622407) • [🐱 Nyaa](https://nyaa.si/view/2133951) |
 | `[Erai-raws] Kami no Shizuku - 15 [1080p CR WEBRip HEVC AAC][MultiSu...` | **454.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622408) • [🐱 Nyaa](https://nyaa.si/view/2133950) |
 | `[Ironclad] Ushiro no Shoumen Kamui-san - S01E03 [WEB.1080p.AV1] | K...` | **365.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622403) • [🐱 Nyaa](https://nyaa.si/view/2133949) |
@@ -47,7 +48,6 @@
 | `[Onalrie] Hell Mode - S02E03 [1080p WEBRip AV1]` | **244.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622397) • [🐱 Nyaa](https://onalrie.app/torrent/90cac2c6-056c-42d2-b016-d7b3e94b3cfd) |
 | `[Erai-raws] Kore Kaite Shine - 03 [1080p CR WEBRip HEVC AAC][MultiS...` | **506.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/622393) • [🐱 Nyaa](https://nyaa.si/view/2133932) |
 | `[SubsPlease] Snowball Earth (01-13) (1080p) [Batch]` | **17410.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/622394) • [🐱 Nyaa](https://nyaa.si/view/2133931) |
-| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E15 [WEB.1080p.AV1...` | **290.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/622391) • [🐱 Nyaa](https://nyaa.si/view/2133927) |
 
 ---
 <div align="center">
