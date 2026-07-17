@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.12.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.28.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Koala's Diary - S01E41 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **78.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622246) • [🐱 Nyaa](https://nyaa.si/view/2133707) |
+| `Crowned in a Hundred Days S01E08 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **716.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/622247) • [🐱 Nyaa](https://nyaa.si/view/2133706) |
+| `[Gecko] Crowned in a Hundred Days - S01E08 (百日成王; Bai Ri Cheng Wang...` | **166.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/622248) • [🐱 Nyaa](https://nyaa.si/view/2133705) |
+| `[ToonsHub] Crowned in a Hundred Days S01E08 1080p CR WEB-DL AAC2.0 ...` | **714.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/622249) • [🐱 Nyaa](https://nyaa.si/view/2133701) |
+| `[SubsPlease] Bai Ri Cheng Wang - 08 (1080p) [56E53908].mkv` | **712.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622250) • [🐱 Nyaa](https://nyaa.si/view/2133695) |
+| `[ToonsHub] Crowned in a Hundred Days S01E08 1080p BILI WEB-DL AAC2....` | **163.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/622244) • [🐱 Nyaa](https://nekobt.to/torrents/12434237233160) |
+| `[Erai-raws] Crowned in a Hundred Days - 08 (CA) [1080p CR WEB-DL AV...` | **659.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/622245) • [🐱 Nyaa](https://nekobt.to/torrents/12434235949313) |
+| `[Gecko] BanG Dream! YUME∞MITA - S01E05 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **691.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622242) • [🐱 Nyaa](https://nyaa.si/view/2133687) |
+| `[Mo7tas] Machikado Mazoku (Season 1 + 2) [BD 1080p] [Multi language...` | **7629.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622240) • [🐱 Nyaa](https://nyaa.si/view/2133684) |
+| `[Doomdos] - Urban Miracle Doctor - 194 [1080p IQ WEB-DL]` | **187.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/622237) • [🐱 Nyaa](https://nyaa.si/view/2133678) |
+| `[Doomdos] - Lingwu Continent - 198 [1080p IQ WEB-DL]` | **206.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/622238) • [🐱 Nyaa](https://nyaa.si/view/2133677) |
+| `[Doomdos] - The Great Ruler - 82 [1080p IQ WEB-DL]` | **416.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/622239) • [🐱 Nyaa](https://nyaa.si/view/2133676) |
+| `[Nitsy] BanG Dream! Yume∞Mita - S01E05 (1080p WEB AAC x264)` | **1395.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622236) • [🐱 Nyaa](https://nekobt.to/torrents/12431846049543) |
 | `[Yameii] Skeleton Knight in Another World - S02E02 [English Dub] [C...` | **1394.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622234) • [🐱 Nyaa](https://nyaa.si/view/2133675) |
 | `[Ironclad] Super no Ura de Yani Suu Futari - S01E02 [WEB.1080p.AV1]...` | **274.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622233) • [🐱 Nyaa](https://nyaa.si/view/2133662) |
-| `[denisplay] Otome Kaijuu Carameliser - 03 [1080p] [AV1] (Weekly) (K...` | **434.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/622230) • [🐱 Nyaa](https://nyaa.si/view/2133659) |
-| `[DKB] Super no Ura de Yani Suu Futari - S01E02 [1080p][HEVC x265 10...` | **195.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/622229) • [🐱 Nyaa](https://nyaa.si/view/2133652) |
-| `[sam] The Ghost in the Shell (2026) - S01E01 (WEB 1080p HEVC x265 1...` | **5423.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/622227) • [🐱 Nyaa](https://nyaa.si/view/2133651) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E03 (1080p AAC x265 B...` | **637.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/622228) • [🐱 Nyaa](https://nekobt.to/torrents/12428444062474) |
-| `[Erai-raws] Bungou Stray Dogs Wan 2 - 03 [1080p CR WEBRip HEVC AAC]...` | **282.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622225) • [🐱 Nyaa](https://nyaa.si/view/2133649) |
-| `[Erai-raws] Super no Ura de Yani Suu Futari - 02 [1080p CR WEBRip H...` | **339.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/622226) • [🐱 Nyaa](https://nyaa.si/view/2133648) |
-| `[DKB] Otome Kaijuu Caraméliser - S01E03 [1080p][HEVC x265 10bit][Mu...` | **613.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/622222) • [🐱 Nyaa](https://nyaa.si/view/2133647) |
-| `[Serenae] Meitantei Precure! - 13-24 Batch (1080p)` | **18490.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/622223) • [🐱 Nyaa](https://nyaa.si/view/2133646) |
-| `[Ironclad] Yani Neko - S01E03 [WEB.1080p.AV1] | Chainsmoker Cat (Mu...` | **546.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622220) • [🐱 Nyaa](https://nyaa.si/view/2133644) |
-| `[Reza] Smoking Behind the Supermarket with You - S01E02v2 [WEBRip 1...` | **1096.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/622221) • [🐱 Nyaa](https://nyaa.si/view/2133643) |
-| `[VARYG] Smoking Behind the Supermarket with You S01E02 Cheering Up ...` | **1403.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/622219) • [🐱 Nyaa](https://nekobt.to/torrents/12427350285580) |
-| `[Reza] Smoking Behind the Supermarket with You - S01E01v2 [WEBRip 1...` | **1099.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/622216) • [🐱 Nyaa](https://nyaa.si/view/2133641) |
-| `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **783.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/622217) • [🐱 Nyaa](https://nyaa.si/view/2133640) |
 
 ---
 <div align="center">
