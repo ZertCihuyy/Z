@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.28.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.58.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Bai Ri Cheng Wang - 08 [1080p HEVC x265 10Bit][AAC]` | **174.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/622254) • [🐱 Nyaa](https://nyaa.si/view/2133710) |
 | `[Gecko] Koala's Diary - S01E41 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **78.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622246) • [🐱 Nyaa](https://nyaa.si/view/2133707) |
 | `Crowned in a Hundred Days S01E08 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **716.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/622247) • [🐱 Nyaa](https://nyaa.si/view/2133706) |
 | `[Gecko] Crowned in a Hundred Days - S01E08 (百日成王; Bai Ri Cheng Wang...` | **166.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/622248) • [🐱 Nyaa](https://nyaa.si/view/2133705) |
@@ -47,7 +48,6 @@
 | `[Doomdos] - The Great Ruler - 82 [1080p IQ WEB-DL]` | **416.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/622239) • [🐱 Nyaa](https://nyaa.si/view/2133676) |
 | `[Nitsy] BanG Dream! Yume∞Mita - S01E05 (1080p WEB AAC x264)` | **1395.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622236) • [🐱 Nyaa](https://nekobt.to/torrents/12431846049543) |
 | `[Yameii] Skeleton Knight in Another World - S02E02 [English Dub] [C...` | **1394.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622234) • [🐱 Nyaa](https://nyaa.si/view/2133675) |
-| `[Ironclad] Super no Ura de Yani Suu Futari - S01E02 [WEB.1080p.AV1]...` | **274.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622233) • [🐱 Nyaa](https://nyaa.si/view/2133662) |
 
 ---
 <div align="center">
