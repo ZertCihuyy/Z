@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.16.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.56.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - S01E03 [108...` | **181.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/622285) • [🐱 Nyaa](https://nekobt.to/torrents/12443568626691) |
-| `[ToonsHub] I Became a Legend after My 10 Year-Long Last Stand S01E0...` | **1426.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/622277) • [🐱 Nyaa](https://nyaa.si/view/2133781) |
-| `I Became a Legend after My 10 Year Long Last Stand S01E03 1080p CR ...` | **1407.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/622278) • [🐱 Nyaa](https://nyaa.si/view/2133780) |
-| `[SubsPlease] Kokoore - 03 (1080p) [8B3E137A].mkv` | **1376.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/622279) • [🐱 Nyaa](https://nyaa.si/view/2133779) |
-| `[Erai-raws] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen...` | **1386.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622284) • [🐱 Nyaa](https://nyaa.si/view/2133772) |
-| `[Doomdos] - The Frontier Lord Begins with Zero Subjects - 3 [1080p ...` | **256.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622276) • [🐱 Nyaa](https://nyaa.si/view/2133770) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E03 1080p...` | **1424.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/622266) • [🐱 Nyaa](https://nyaa.si/view/2133768) |
-| `The Frontier Lord Begins with Zero Subjects S01E03 The Frontier Lor...` | **1402.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622267) • [🐱 Nyaa](https://nyaa.si/view/2133767) |
-| `[SubsPlease] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 03 (1080...` | **1376.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/622268) • [🐱 Nyaa](https://nyaa.si/view/2133766) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E03 1080p...` | **840.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622269) • [🐱 Nyaa](https://nyaa.si/view/2133765) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E03 1080p...` | **238.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/622272) • [🐱 Nyaa](https://nyaa.si/view/2133758) |
-| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 03 [1080p...` | **1385.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/622275) • [🐱 Nyaa](https://nyaa.si/view/2133755) |
-| `[LbE3L] LIAR GAME S01E12 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio ...` | **279.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622264) • [🐱 Nyaa](https://nekobt.to/torrents/12441594021903) |
-| `[ALS] Medalist 12 (1080p BD AAC x264)` | **878.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/622263) • [🐱 Nyaa](https://nekobt.to/torrents/12441350715150) |
-| `[Mo7tas] Sinbad [BD 1080p] [Multi language subs]` | **1485.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622262) • [🐱 Nyaa](https://nyaa.si/view/2133735) |
+| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E15 [1080p WEBRip AV1]` | **206.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/622331) • [🐱 Nyaa](https://nekobt.to/torrents/12445068989444) |
+| `[VARYG] That Time I Got Reincarnated as a Slime S04E12 Tempest Evol...` | **1723.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/622332) • [🐱 Nyaa](https://nekobt.to/torrents/12445025109763) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E04 (1080p AAC x265 B...` | **619.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622333) • [🐱 Nyaa](https://nekobt.to/torrents/12444951658761) |
+| `SNOWBALL EARTH S01E13 DRINK TOGETHER REPACK 1080p CR WEB-DL MULTi A...` | **1475.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/622311) • [🐱 Nyaa](https://nyaa.si/view/2133845) |
+| `[LoliHouse] 『你们先走我断后』，于是10年后我成为了传说 / Koko wa Ore ni Makasete Saki n...` | **644.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/622312) • [🐱 Nyaa](https://nyaa.si/view/2133843) |
+| `The Drops of God S01E13 You Remind Me of My First Love 1080p CR WEB...` | **1435.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/622313) • [🐱 Nyaa](https://nyaa.si/view/2133841) |
+| `The Drops of God S01E15 Wine Served With Mystery 1080p CR WEB-DL AA...` | **1387.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/622314) • [🐱 Nyaa](https://nyaa.si/view/2133840) |
+| `[Yameii] The Drops of God - S01E13 [English Dub] [CR WEB-DL 1080p H...` | **1380.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/622315) • [🐱 Nyaa](https://nyaa.si/view/2133839) |
+| `[ToonsHub] The Drops of God S01E13 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1417.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/622317) • [🐱 Nyaa](https://nyaa.si/view/2133837) |
+| `[ToonsHub] The Drops of God S01E15 1080p CR WEB-DL AAC2.0 H.264 (Ka...` | **1385.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/622318) • [🐱 Nyaa](https://nyaa.si/view/2133836) |
+| `Draw This Then Die S01E03 1080p NF WEB-DL DUAL AAC2.0 H 264-VARYG (...` | **862.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/622319) • [🐱 Nyaa](https://nyaa.si/view/2133835) |
+| `[Doomdos] - That Time I Got Reincarnated as a Slime Season 4 - 87 [...` | **295.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622320) • [🐱 Nyaa](https://nyaa.si/view/2133834) |
+| `Draw This Then Die S01E03 1080p NF WEB-DL MULTi AAC2.0 H 264-VARYG ...` | **926.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/622321) • [🐱 Nyaa](https://nyaa.si/view/2133833) |
+| `[SubsPlease] Kami no Shizuku - 15 (1080p) [2778DDA2].mkv` | **1375.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/622322) • [🐱 Nyaa](https://nyaa.si/view/2133832) |
+| `[ToonsHub] Draw This Then Die S01E03 1080p NF WEB-DL DUAL AAC2.0 H....` | **862.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622324) • [🐱 Nyaa](https://nyaa.si/view/2133828) |
 
 ---
 <div align="center">
