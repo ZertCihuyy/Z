@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.16.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.06.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Mo7tas] Sinbad [BD 1080p] [Multi language subs]` | **1485.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622262) • [🐱 Nyaa](https://nyaa.si/view/2133735) |
+| `[Erai-raws] Crowned in a Hundred Days - 08 (CA) [1080p CR WEBRip HE...` | **223.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/622261) • [🐱 Nyaa](https://nyaa.si/view/2133731) |
 | `[SubsNoJutsu] Tomb Raider King - S01E02 (1080p WEBRip AAC x265) [AF...` | **586.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622260) • [🐱 Nyaa](https://nekobt.to/torrents/12438038719245) |
 | `[DB] [Oshi no Ko] 3rd Season | [Oshi No Ko] Season 3 [Dual Audio 10...` | **5561.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/622259) • [🐱 Nyaa](https://nyaa.si/view/2133723) |
 | `[Sristi] Mirai Nikki - 02 [BD 1080p][HEVC][FLAC]` | **1769.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/622258) • [🐱 Nyaa](https://nekobt.to/torrents/12437356298759) |
@@ -46,8 +48,6 @@
 | `[ToonsHub] Crowned in a Hundred Days S01E08 1080p CR WEB-DL AAC2.0 ...` | **714.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/622249) • [🐱 Nyaa](https://nyaa.si/view/2133701) |
 | `[SubsPlease] Bai Ri Cheng Wang - 08 (1080p) [56E53908].mkv` | **712.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622250) • [🐱 Nyaa](https://nyaa.si/view/2133695) |
 | `[ToonsHub] Crowned in a Hundred Days S01E08 1080p BILI WEB-DL AAC2....` | **163.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/622244) • [🐱 Nyaa](https://nekobt.to/torrents/12434237233160) |
-| `[Erai-raws] Crowned in a Hundred Days - 08 (CA) [1080p CR WEB-DL AV...` | **659.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/622245) • [🐱 Nyaa](https://nekobt.to/torrents/12434235949313) |
-| `[Gecko] BanG Dream! YUME∞MITA - S01E05 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **691.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622242) • [🐱 Nyaa](https://nyaa.si/view/2133687) |
 
 ---
 <div align="center">
