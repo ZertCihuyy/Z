@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.34.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.48.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 03 [1080p CR WEBRip ...` | **313.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/622400) • [🐱 Nyaa](https://nyaa.si/view/2133943) |
+| `[anime4life.] Inuyasha Complete Series + The Final Act BD_1080p DTS...` | **327436.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622398) • [🐱 Nyaa](https://nyaa.si/view/2133941) |
+| `Beyblade X S01E27-E51 1080p DSNP WEB-DL MULTi AAC2.0 H 264-VARYG (M...` | **23737.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/622399) • [🐱 Nyaa](https://nyaa.si/view/2133937) |
+| `[Onalrie] Hell Mode - S02E03 [1080p WEBRip AV1]` | **244.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622397) • [🐱 Nyaa](https://onalrie.app/torrent/90cac2c6-056c-42d2-b016-d7b3e94b3cfd) |
+| `[Erai-raws] Kore Kaite Shine - 03 [1080p CR WEBRip HEVC AAC][MultiS...` | **506.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/622393) • [🐱 Nyaa](https://nyaa.si/view/2133932) |
+| `[SubsPlease] Snowball Earth (01-13) (1080p) [Batch]` | **17410.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/622394) • [🐱 Nyaa](https://nyaa.si/view/2133931) |
 | `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E15 [WEB.1080p.AV1...` | **290.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/622391) • [🐱 Nyaa](https://nyaa.si/view/2133927) |
 | `[ASW] Hell Mode S2 - 03 [1080p HEVC x265 10Bit][AAC]` | **360.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622392) • [🐱 Nyaa](https://nyaa.si/view/2133926) |
 | `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E03 [1080p WEBRip AV1]` | **166.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622390) • [🐱 Nyaa](https://nekobt.to/torrents/12447064638222) |
@@ -42,12 +48,6 @@
 | `[Trix] The Drops of God S01E15 [WEBRip 1080p AV1 Opus] (Multi Subs,...` | **262.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622385) • [🐱 Nyaa](https://nyaa.si/view/2133920) |
 | `[Erai-raws] Nige Jouzu no Wakagimi 2nd Season - 01 [1080p CR WEBRip...` | **746.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622386) • [🐱 Nyaa](https://nyaa.si/view/2133919) |
 | `[Onalrie] Nige Jouzu no Wakagimi - S02E01 [1080p WEBRip AV1]` | **335.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/622384) • [🐱 Nyaa](https://nekobt.to/torrents/12446599467017) |
-| `[ASW] Nige Jouzu no Wakagimi S2 - 01 [1080p HEVC x265 10Bit][AAC]` | **577.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622380) • [🐱 Nyaa](https://nyaa.si/view/2133912) |
-| `[Unfucked] The Elusive Samurai - S02E01 (1080p CR WEB-DL AVC AAC 2....` | **1409.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/622381) • [🐱 Nyaa](https://nyaa.si/view/2133910) |
-| `[Unfucked] The Frontier Lord Begins with Zero Subjects - S01E03 (10...` | **1383.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/622382) • [🐱 Nyaa](https://nyaa.si/view/2133909) |
-| `[ASW] Kore Kaite Shine - 03 [1080p HEVC x265 10Bit][AAC]` | **318.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/622383) • [🐱 Nyaa](https://nyaa.si/view/2133908) |
-| `[Judas] Kore Kaite Shine (Draw This, Then Die!) - S01E03 [1080p][HE...` | **318.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622379) • [🐱 Nyaa](https://nyaa.si/view/2133906) |
-| `[Onalrie] Kore Kaite Shine - S01E03 [1080p WEBRip AV1]` | **269.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/622378) • [🐱 Nyaa](https://nekobt.to/torrents/12446068780296) |
 
 ---
 <div align="center">
