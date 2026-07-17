@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.48.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.00.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sam] Gekkan Shoujo Nozaki-kun Season 1 (S01) (BD 1080p HEVC x265 1...` | **46732.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622407) • [🐱 Nyaa](https://nyaa.si/view/2133951) |
+| `[Erai-raws] Kami no Shizuku - 15 [1080p CR WEBRip HEVC AAC][MultiSu...` | **454.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622408) • [🐱 Nyaa](https://nyaa.si/view/2133950) |
+| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E03 [WEB.1080p.AV1] | K...` | **365.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622403) • [🐱 Nyaa](https://nyaa.si/view/2133949) |
+| `[Gecko] Chibi Godzilla Raids Again - S01E107 (ちびゴジラの逆襲; Chibi Godzi...` | **17.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/622404) • [🐱 Nyaa](https://nyaa.si/view/2133948) |
+| `[DKB] Nige Jouzu no Wakagimi - S02E01 [1080p][HEVC x265 10bit][Mult...` | **644.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/622405) • [🐱 Nyaa](https://nyaa.si/view/2133947) |
+| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **330.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/622406) • [🐱 Nyaa](https://nyaa.si/view/2133946) |
+| `[DKB] Ryoumin 0-Nin Start no Henkyou Ryoushu-sama - S01E03 [1080p][...` | **259.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622401) • [🐱 Nyaa](https://nyaa.si/view/2133945) |
+| `[DKB] Tensei shitara Slime Datta Ken - S04E15 [1080p][HEVC x265 10b...` | **366.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622402) • [🐱 Nyaa](https://nyaa.si/view/2133944) |
 | `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 03 [1080p CR WEBRip ...` | **313.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/622400) • [🐱 Nyaa](https://nyaa.si/view/2133943) |
 | `[anime4life.] Inuyasha Complete Series + The Final Act BD_1080p DTS...` | **327436.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622398) • [🐱 Nyaa](https://nyaa.si/view/2133941) |
 | `Beyblade X S01E27-E51 1080p DSNP WEB-DL MULTi AAC2.0 H 264-VARYG (M...` | **23737.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/622399) • [🐱 Nyaa](https://nyaa.si/view/2133937) |
@@ -40,14 +48,6 @@
 | `[Erai-raws] Kore Kaite Shine - 03 [1080p CR WEBRip HEVC AAC][MultiS...` | **506.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/622393) • [🐱 Nyaa](https://nyaa.si/view/2133932) |
 | `[SubsPlease] Snowball Earth (01-13) (1080p) [Batch]` | **17410.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/622394) • [🐱 Nyaa](https://nyaa.si/view/2133931) |
 | `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E15 [WEB.1080p.AV1...` | **290.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/622391) • [🐱 Nyaa](https://nyaa.si/view/2133927) |
-| `[ASW] Hell Mode S2 - 03 [1080p HEVC x265 10Bit][AAC]` | **360.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622392) • [🐱 Nyaa](https://nyaa.si/view/2133926) |
-| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E03 [1080p WEBRip AV1]` | **166.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622390) • [🐱 Nyaa](https://nekobt.to/torrents/12447064638222) |
-| `[ASW] Uchi no Otouto-domo ga Sumimasen - 03 [1080p HEVC x265 10Bit]...` | **174.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/622387) • [🐱 Nyaa](https://nyaa.si/view/2133925) |
-| `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **331.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/622388) • [🐱 Nyaa](https://nyaa.si/view/2133924) |
-| `[Breeze] Mushoku Tensei S03E03 [1080p AV1] Jobless Reincarnation (w...` | **769.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/622389) • [🐱 Nyaa](https://nyaa.si/view/2133923) |
-| `[Trix] The Drops of God S01E15 [WEBRip 1080p AV1 Opus] (Multi Subs,...` | **262.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622385) • [🐱 Nyaa](https://nyaa.si/view/2133920) |
-| `[Erai-raws] Nige Jouzu no Wakagimi 2nd Season - 01 [1080p CR WEBRip...` | **746.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622386) • [🐱 Nyaa](https://nyaa.si/view/2133919) |
-| `[Onalrie] Nige Jouzu no Wakagimi - S02E01 [1080p WEBRip AV1]` | **335.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/622384) • [🐱 Nyaa](https://nekobt.to/torrents/12446599467017) |
 
 ---
 <div align="center">
