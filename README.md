@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.39.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.12.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] Skeleton Knight in Another World - S02E02 [English Dub] [C...` | **1394.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622234) • [🐱 Nyaa](https://nyaa.si/view/2133675) |
 | `[Ironclad] Super no Ura de Yani Suu Futari - S01E02 [WEB.1080p.AV1]...` | **274.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622233) • [🐱 Nyaa](https://nyaa.si/view/2133662) |
 | `[denisplay] Otome Kaijuu Carameliser - 03 [1080p] [AV1] (Weekly) (K...` | **434.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/622230) • [🐱 Nyaa](https://nyaa.si/view/2133659) |
 | `[DKB] Super no Ura de Yani Suu Futari - S01E02 [1080p][HEVC x265 10...` | **195.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/622229) • [🐱 Nyaa](https://nyaa.si/view/2133652) |
@@ -47,7 +48,6 @@
 | `[VARYG] Smoking Behind the Supermarket with You S01E02 Cheering Up ...` | **1403.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/622219) • [🐱 Nyaa](https://nekobt.to/torrents/12427350285580) |
 | `[Reza] Smoking Behind the Supermarket with You - S01E01v2 [WEBRip 1...` | **1099.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/622216) • [🐱 Nyaa](https://nyaa.si/view/2133641) |
 | `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **783.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/622217) • [🐱 Nyaa](https://nyaa.si/view/2133640) |
-| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **721.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/622218) • [🐱 Nyaa](https://nyaa.si/view/2133639) |
 
 ---
 <div align="center">
