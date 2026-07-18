@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.55.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.37.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Detective Conan EP1207 1080p CR WEB-DL AAC2.0 H.264 (Mei...` | **1427.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/622491) • [🐱 Nyaa](https://nyaa.si/view/2134186) |
-| `Detective Conan S01E1207 The J League Starting Whistle 1080p CR WEB...` | **1430.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/622492) • [🐱 Nyaa](https://nyaa.si/view/2134185) |
-| `[CookieCrumbs] My Hero Academia S02 (1080p Bluray AV1, Dual-Audio O...` | **12524.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/622501) • [🐱 Nyaa](https://nekobt.to/torrents/12463298897156) |
-| `Ascendance of a Bookworm S04E12 The Winter Social Season and Debut ...` | **1483.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/622493) • [🐱 Nyaa](https://nyaa.si/view/2134181) |
-| `[SubsPlease] Detective Conan - 1207 (1080p) [52488AD1].mkv` | **1421.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/622496) • [🐱 Nyaa](https://nyaa.si/view/2134178) |
-| `[Erai-raws] Detective Conan - 1207 [1080p CR WEB-DL AVC AAC][0A12F52E]` | **1431.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622497) • [🐱 Nyaa](https://nyaa.si/view/2134177) |
-| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **302.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/622500) • [🐱 Nyaa](https://nyaa.si/view/2134170) |
-| `[BlackRose] Rich Girl Caretaker - S01E02 (WEB 1080p HEVC 10-bit EAC...` | **1385.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/622488) • [🐱 Nyaa](https://nekobt.to/torrents/12463139407370) |
-| `[Onalrie] Mairimashita Iruma-kun - S04E16 [1080p WEBRip AV1]` | **393.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/622489) • [🐱 Nyaa](https://nekobt.to/torrents/12463068753932) |
-| `[BlackRose] Rich Girl Caretaker - S01E01 (WEB 1080p HEVC 10-bit EAC...` | **1318.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/622490) • [🐱 Nyaa](https://nekobt.to/torrents/12463061269259) |
-| `[ASW] Mairimashita! Iruma-kun S4 - 16 [1080p HEVC x265 10Bit][AAC]` | **534.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/622486) • [🐱 Nyaa](https://nyaa.si/view/2134168) |
-| `Welcome to Demon School Iruma kun S04E16 The Misfits Wild Party 108...` | **485.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/622484) • [🐱 Nyaa](https://nyaa.si/view/2134141) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E16 1080p BILI WEB-...` | **451.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/622485) • [🐱 Nyaa](https://nyaa.si/view/2134140) |
-| `[BlackRose] Rich Girl Caretaker - S01E01 (WEB 1080p HEVC 10-bit EAC...` | **1318.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/622483) • [🐱 Nyaa](https://nekobt.to/torrents/12462657271303) |
-| `Welcome to Demon School Iruma kun S04E16 A Misfit Casual Gathering-...` | **1626.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/622480) • [🐱 Nyaa](https://nyaa.si/view/2134138) |
+| `[SubsPlease] Neko to Ryuu - 04 (1080p) [BBFBB912].mkv` | **1382.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/622526) • [🐱 Nyaa](https://nyaa.si/view/2134232) |
+| `[Erai-raws] Neko to Ryuu - 04 [1080p CR WEB-DL AVC AAC][MultiSub][D...` | **1391.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622530) • [🐱 Nyaa](https://nyaa.si/view/2134227) |
+| `[Doomdos] - The Cat and the Dragon - 4 [1080p IQ WEB-DL]` | **274.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/622532) • [🐱 Nyaa](https://nyaa.si/view/2134224) |
+| `[Erai-raws] Detective Conan - 1207 [1080p CR WEBRip HEVC AAC][Multi...` | **390.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/622525) • [🐱 Nyaa](https://nekobt.to/torrents/12464897900559) |
+| `BLACK TORCH S01E03 WHATS MY NAME 1080p CR WEB-DL DUAL AAC2.0 H 264-...` | **1427.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622522) • [🐱 Nyaa](https://nyaa.si/view/2134220) |
+| `[Yameii] BLACK TORCH - S01E03 [English Dub] [CR WEB-DL 1080p H264 A...` | **1388.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622523) • [🐱 Nyaa](https://nyaa.si/view/2134219) |
+| `[ToonsHub] One Piece EP1168 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **843.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622524) • [🐱 Nyaa](https://nyaa.si/view/2134217) |
+| `[ToonsHub] KILL BLUE S01E12 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (K...` | **911.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/622509) • [🐱 Nyaa](https://nyaa.si/view/2134216) |
+| `[ToonsHub] BLACK TORCH S01E03 1080p CR WEB-DL DUAL AAC2.0 H.264 (Du...` | **1061.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/622510) • [🐱 Nyaa](https://nyaa.si/view/2134214) |
+| `[ToonsHub] BLACK TORCH S01E03 1080p AMZN WEB-DL DDP2.0 H.264 (Multi...` | **967.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/622511) • [🐱 Nyaa](https://nyaa.si/view/2134212) |
+| `[SubsPlease] Black Torch - 03 (1080p) [3FF9E46C].mkv` | **1382.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/622512) • [🐱 Nyaa](https://nyaa.si/view/2134211) |
+| `The Worlds Strongest Rearguard S01E02 The First Challenge 1080p BIL...` | **266.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/622513) • [🐱 Nyaa](https://nyaa.si/view/2134210) |
+| `[ToonsHub] KILL BLUE S01E12 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Ki...` | **816.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/622516) • [🐱 Nyaa](https://nyaa.si/view/2134206) |
+| `[ToonsHub] The Cat And The Dragon S01E04 1080p MW WEB-DL AAC2.0 H.2...` | **488.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622517) • [🐱 Nyaa](https://nyaa.si/view/2134205) |
+| `[Erai-raws] Black Torch - 03 [1080p CR WEB-DL AVC AAC][MultiSub][F0...` | **1392.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622520) • [🐱 Nyaa](https://nyaa.si/view/2134201) |
 
 ---
 <div align="center">
