@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.59.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.41.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Ascendance of a Bookworm S04E14 1080p CR WEB-DL AAC2.0 H...` | **1397.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622457) • [🐱 Nyaa](https://nyaa.si/view/2134103) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 14 (1080p) [352F43FE].mkv` | **1388.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/622458) • [🐱 Nyaa](https://nyaa.si/view/2134101) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1398.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/622463) • [🐱 Nyaa](https://nyaa.si/view/2134094) |
+| `[Doomdos] - The Elusive Samurai S2 - 1 [1080p IQ WEB-DL]` | **422.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/622464) • [🐱 Nyaa](https://nyaa.si/view/2134093) |
+| `[Gecko] Bananya - S00E01 - At-Home Party (ばなにゃ; Bananya: At-Home Pa...` | **233.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/622456) • [🐱 Nyaa](https://nyaa.si/view/2134089) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E06 (1080p AAC x265 B...` | **621.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/622455) • [🐱 Nyaa](https://nekobt.to/torrents/12460084056591) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E05 (1080p AAC x265 B...` | **617.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/622454) • [🐱 Nyaa](https://nekobt.to/torrents/12459874338826) |
 | `[DKB] Digimon Beatbreak - S01E38 [1080p][HEVC x265 10bit][Multi-Sub...` | **444.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/622452) • [🐱 Nyaa](https://nyaa.si/view/2134086) |
 | `[DKB] Digimon Beatbreak - S01E37 [1080p][HEVC x265 10bit][Multi-Sub...` | **518.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622453) • [🐱 Nyaa](https://nyaa.si/view/2134085) |
@@ -42,12 +48,6 @@
 | `[HuangSubs] The Demon Hunter Season 3 - 16 (1080p HEVC AAC)` | **320.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/622447) • [🐱 Nyaa](https://nyaa.si/view/2134076) |
 | `[ToonsHub] Daemons of the Shadow Realm S01E03 1080p NF WEB-DL MULTi...` | **1114.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622444) • [🐱 Nyaa](https://nyaa.si/view/2134072) |
 | `Daemons of the Shadow Realm S01E03 Dera and Hana 1080p NF WEB-DL MU...` | **1114.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622445) • [🐱 Nyaa](https://nyaa.si/view/2134071) |
-| `[Onalrie] Rilakkuma - S01E16 [1080p WEBRip AV1]` | **21.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/622443) • [🐱 Nyaa](https://nekobt.to/torrents/12458728706564) |
-| `The Drops of God S01E12 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1421.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622441) • [🐱 Nyaa](https://nekobt.to/torrents/12458173345293) |
-| `That Time I Got Reincarnated as a Slime S04E12 MULTi 1080p CR WEB-D...` | **1434.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/622442) • [🐱 Nyaa](https://nekobt.to/torrents/12458167539214) |
-| `[ToonsHub] LIAR GAME S01E11 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1635.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/622439) • [🐱 Nyaa](https://nyaa.si/view/2134060) |
-| `[BlackRabbit] Neon Genesis Evangelion (1995) - S01 [Bluray-1080p][O...` | **8393.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/622440) • [🐱 Nyaa](https://nekobt.to/torrents/12457555607311) |
-| `You.and.I.Are.Polar.Opposites.S01.1080p.BluRay.Dual-Audio.Opus.2.0....` | **17923.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/622437) • [🐱 Nyaa](https://nyaa.si/view/2134048) |
 
 ---
 <div align="center">
