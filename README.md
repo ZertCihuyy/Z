@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.56.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.57.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anime Time] Black Torch - S01E03 [1080p][HEVC 10bit x265][AAC][Dua...` | **571.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/622757) • [🐱 Nyaa](https://nyaa.si/view/2134546) |
+| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E13 ...` | **572.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622758) • [🐱 Nyaa](https://nyaa.si/view/2134545) |
+| `[sam] The Ghost in the Shell (2026) - S01E02 (WEB 1080p HEVC x265 1...` | **4538.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622753) • [🐱 Nyaa](https://nyaa.si/view/2134542) |
+| `[Erai-raws] Tenmaku no Jaadugar - 04 [1080p CR WEBRip HEVC AAC][Mul...` | **761.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/622754) • [🐱 Nyaa](https://nyaa.si/view/2134541) |
+| `[ASW] Kimiai - 03 [1080p HEVC x265 10Bit][AAC]` | **247.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/622755) • [🐱 Nyaa](https://nyaa.si/view/2134540) |
+| `[ASW] Oni no Hanayome - 03 [1080p HEVC x265 10Bit][AAC]` | **224.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/622756) • [🐱 Nyaa](https://nyaa.si/view/2134539) |
+| `[Gecko] Odekake Kozame - S01E75 (おでかけ子ザメ; Odekake Kozame 2nd Season...` | **18.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/622747) • [🐱 Nyaa](https://nyaa.si/view/2134538) |
+| `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **230.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/622748) • [🐱 Nyaa](https://nyaa.si/view/2134536) |
+| `[Onalrie] Mao - S01E15 [1080p WEBRip AV1]` | **204.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/622752) • [🐱 Nyaa](https://onalrie.app/torrent/3734dfa7-53ca-47d7-8345-1fe208bdcc42) |
+| `[Erai-raws] Mao - 16 [1080p DSNP WEB-DL AVC AAC][MultiSub][8BECFEC7]` | **1021.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/622751) • [🐱 Nyaa](https://nyaa.si/view/2134533) |
 | `[ToonsHub] MAO S01E16 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1020.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/622744) • [🐱 Nyaa](https://nyaa.si/view/2134532) |
 | `[ToonsHub] The Elusive Samurai S02E01 1080p iQ WEB-DL AAC2.0 H.264 ...` | **422.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622745) • [🐱 Nyaa](https://nyaa.si/view/2134531) |
 | `[ToonsHub] MAO S01E15 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **902.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622746) • [🐱 Nyaa](https://nyaa.si/view/2134529) |
 | `[ASW] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance - 0...` | **331.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/622737) • [🐱 Nyaa](https://nyaa.si/view/2134528) |
 | `MAO S01E15 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **902.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622738) • [🐱 Nyaa](https://nyaa.si/view/2134527) |
-| `[Erai-raws] Mao - 15 [1080p DSNP WEB-DL AVC AAC][MultiSub][B83DDBAA]` | **902.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/622741) • [🐱 Nyaa](https://nyaa.si/view/2134524) |
-| `[ASW] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 02 [1080p HEV...` | **290.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/622742) • [🐱 Nyaa](https://nyaa.si/view/2134523) |
-| `[DKB] Shibou Yuugi de Meshi wo Kuu. - S01E12 [1080p][HEVC x265 10bi...` | **913.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/622735) • [🐱 Nyaa](https://nyaa.si/view/2134522) |
-| `[Erai-raws] Oni no Hanayome - 03 [1080p CR WEBRip HEVC AAC][MultiSu...` | **330.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/622736) • [🐱 Nyaa](https://nyaa.si/view/2134521) |
-| `[DKB] Hanaori-san wa Tensei shitemo Kenka ga Shitai - S01E02 [1080p...` | **281.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/622734) • [🐱 Nyaa](https://nyaa.si/view/2134519) |
-| `[Judas] Hanaori-san wa Tensei Shite mo Kenka ga Shitai (Hanaori-san...` | **305.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/622733) • [🐱 Nyaa](https://nyaa.si/view/2134515) |
-| `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **409.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/622731) • [🐱 Nyaa](https://nyaa.si/view/2134510) |
-| `[Unfucked] Grow Up Show: Sunflower Circus - S01E03 (1080p CR WEB-DL...` | **1419.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/622727) • [🐱 Nyaa](https://nyaa.si/view/2134508) |
-| `[Unfucked] NEEDY GIRL OVERDOSE - S01E12 (1080p CR WEB-DL AVC AAC 2....` | **1420.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/622728) • [🐱 Nyaa](https://nyaa.si/view/2134507) |
-| `[Onalrie] Saijo no Osewa - S01E03 [1080p WEBRip AV1]` | **221.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/622730) • [🐱 Nyaa](https://onalrie.app/torrent/ca340b1c-0496-4b4f-be79-93e1714a348f) |
 
 ---
 <div align="center">
