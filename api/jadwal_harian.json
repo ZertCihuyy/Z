@@ -1,257 +1,240 @@
 {
-  "last_update": "18/7/2026, 23.37.22",
-  "hari": "Sabtu",
+  "last_update": "19/7/2026, 00.41.28",
+  "hari": "Minggu",
   "data": [
     {
-      "airingAt": 1784327400,
+      "airingAt": 1784396280,
       "media": {
-        "id": 142274,
+        "id": 201514,
         "title": {
-          "romaji": "Ninjala"
+          "romaji": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201514-BHAeWhSbcBrT.png"
         },
         "genres": [
-          "Action",
           "Comedy",
-          "Sci-Fi"
-        ]
-      }
-    },
-    {
-      "airingAt": 1784331000,
-      "media": {
-        "id": 212308,
-        "title": {
-          "romaji": "Pan no Akachan (TV)"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg"
-        },
-        "genres": [
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1784334360,
-      "media": {
-        "id": 183231,
-        "title": {
-          "romaji": "Rilakkuma"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
-        },
-        "genres": [
-          "Fantasy",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1784340000,
-      "media": {
-        "id": 137683,
-        "title": {
-          "romaji": "Douluo Dalu 2: Jueshi Tangmen"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
           "Romance"
         ]
       }
     },
     {
-      "airingAt": 1784359800,
+      "airingAt": 1784401200,
       "media": {
-        "id": 966,
+        "id": 214067,
         "title": {
-          "romaji": "Crayon Shin-chan"
+          "romaji": "20001-nen Chikyuu no Tabi"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214067-695OvCTmT3ZB.png"
         },
         "genres": [
-          "Comedy",
-          "Ecchi",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1784361600,
-      "media": {
-        "id": 8687,
-        "title": {
-          "romaji": "Doraemon (2005)"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg"
-        },
-        "genres": [
-          "Adventure",
+          "Action",
           "Comedy",
           "Sci-Fi"
         ]
       }
     },
     {
-      "airingAt": 1784363400,
+      "airingAt": 1784401200,
       "media": {
-        "id": 171110,
+        "id": 214070,
         "title": {
-          "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo"
+          "romaji": "Sazin no Nakade"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214070-DvLRZXO5xGo6.png"
+        },
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784401200,
+      "media": {
+        "id": 194029,
+        "title": {
+          "romaji": "FOXING: Kitsuné-tsuki"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194029-qZMrDjw2Fj82.png"
+        },
+        "genres": [
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784401200,
+      "media": {
+        "id": 214068,
+        "title": {
+          "romaji": "Moshi, Korekara Umarerunonara"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214068-th35W8qQmycd.png"
         },
         "genres": [
           "Drama",
-          "Fantasy",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784412000,
+      "media": {
+        "id": 204269,
+        "title": {
+          "romaji": "Odekake Kozame Season 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png"
+        },
+        "genres": [
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1784365200,
+      "airingAt": 1784412000,
       "media": {
-        "id": 235,
+        "id": 202386,
         "title": {
-          "romaji": "Meitantei Conan"
+          "romaji": "Shou 3 Ashibe QQ Goma-chan"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png"
         },
         "genres": [
-          "Adventure",
           "Comedy",
-          "Mystery",
-          "Psychological"
+          "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1784366760,
+      "airingAt": 1784412000,
       "media": {
-        "id": 184492,
+        "id": 208824,
         "title": {
-          "romaji": "Mairimashita! Iruma-kun 4"
+          "romaji": "Plannosaurus Gachi Koseibutsu-bu"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208824-JeKq65nNiFhA.png"
+        },
+        "genres": []
+      }
+    },
+    {
+      "airingAt": 1784412000,
+      "media": {
+        "id": 206950,
+        "title": {
+          "romaji": "Kumarba Season 3"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png"
         },
         "genres": [
-          "Comedy",
-          "Fantasy",
-          "Supernatural"
+          "Action",
+          "Comedy"
         ]
       }
     },
     {
-      "airingAt": 1784368800,
+      "airingAt": 1784415600,
       "media": {
-        "id": 213356,
+        "id": 185646,
         "title": {
-          "romaji": "Guangyin Zhi Wai 2"
+          "romaji": "Koupen-chan"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg"
+        },
+        "genres": [
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784417400,
+      "media": {
+        "id": 202957,
+        "title": {
+          "romaji": "Meitantei Precure!"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg"
+        },
+        "genres": [
+          "Mahou Shoujo",
+          "Mystery"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784419200,
+      "media": {
+        "id": 188388,
+        "title": {
+          "romaji": "DIGIMON BEATBREAK"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg"
         },
         "genres": [
           "Action",
           "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784421000,
+      "media": {
+        "id": 206523,
+        "title": {
+          "romaji": "Onegai AiPri"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg"
+        },
+        "genres": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "airingAt": 1784426400,
+      "media": {
+        "id": 155723,
+        "title": {
+          "romaji": "Wushen Zhuzai: Da Wei Pian"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
+        },
+        "genres": [
+          "Action",
           "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1784376000,
+      "airingAt": 1784446200,
       "media": {
-        "id": 186863,
+        "id": 200230,
         "title": {
-          "romaji": "Neko to Ryuu"
+          "romaji": "Let's Go Kaikigumi"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186863-AO4efoB8HuzA.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200230-YuzdgbXSgi38.png"
         },
         "genres": [
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1784379600,
-      "media": {
-        "id": 187538,
-        "title": {
-          "romaji": "BLACK TORCH"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Sci-Fi",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1784381400,
-      "media": {
-        "id": 206249,
-        "title": {
-          "romaji": "Iwamoto-senpai no Suisen"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206249-1AUSry416wGz.png"
-        },
-        "genres": [
-          "Action",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1784385000,
-      "media": {
-        "id": 190569,
-        "title": {
-          "romaji": "Tenmaku no Jaadugar"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190569-KnCQLI3Z8hPX.jpg"
-        },
-        "genres": [
-          "Drama"
-        ]
-      }
-    },
-    {
-      "airingAt": 1784385000,
-      "media": {
-        "id": 195600,
-        "title": {
-          "romaji": "Yomi no Tsugai"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
           "Comedy",
-          "Fantasy",
+          "Horror",
           "Supernatural"
         ]
       }
