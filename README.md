@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.38.36_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.37.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] KILL BLUE S01E12 Life Paths 1080p NF DUAL WEB-DL AAC2.0 H.2...` | **899.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/622565) • [🐱 Nyaa](https://nekobt.to/torrents/12466791311885) |
-| `[ToonsHub] MAO S01E15 1080p BILI WEB-DL AAC2.0 H.265 (Multi-Subs)` | **284.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/622564) • [🐱 Nyaa](https://nyaa.si/view/2134281) |
-| `Daemons of the Shadow Realm S01E15 Yuru and Danji 1080p NF WEB-DL A...` | **861.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/622561) • [🐱 Nyaa](https://nyaa.si/view/2134279) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E15 1080p NF WEB-DL AAC2....` | **861.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/622562) • [🐱 Nyaa](https://nyaa.si/view/2134277) |
-| `[Erai-raws] Neko to Ryuu - 04 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **396.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/622563) • [🐱 Nyaa](https://nyaa.si/view/2134270) |
-| `[ASW] Iwamoto-senpai no Suisen - 03 [1080p HEVC x265 10Bit][AAC]` | **249.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/622555) • [🐱 Nyaa](https://nyaa.si/view/2134269) |
-| `[Onalrie] Iwamoto-senpai no Suisen - S01E03 [1080p WEBRip AV1]` | **205.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622560) • [🐱 Nyaa](https://nekobt.to/torrents/12466178465283) |
-| `KILL BLUE S01E12 Life Paths 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG...` | **1442.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/622556) • [🐱 Nyaa](https://nyaa.si/view/2134267) |
-| `[Judas] Neko to Ryuu (The Cat and the Dragon) - S01E04 [1080p][HEVC...` | **202.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/622557) • [🐱 Nyaa](https://nyaa.si/view/2134266) |
-| `[Yameii] KILL BLUE - S01E12 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1389.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/622558) • [🐱 Nyaa](https://nyaa.si/view/2134265) |
-| `[Erai-raws] Black Torch - 03 [1080p CR WEBRip HEVC AAC][MultiSub][F...` | **425.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/622552) • [🐱 Nyaa](https://nyaa.si/view/2134257) |
-| `[Doomdos] - Recommendations from Iwamoto-Senpai - 3 [1080p IQ WEB-DL]` | **287.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/622553) • [🐱 Nyaa](https://nyaa.si/view/2134256) |
-| `[ASW] Neko to Ryuu - 04 [1080p HEVC x265 10Bit][AAC]` | **204.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/622554) • [🐱 Nyaa](https://nyaa.si/view/2134255) |
-| `Recommendations from Iwamoto Senpai S01E03 The Lad Who Loved Insect...` | **1392.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/622542) • [🐱 Nyaa](https://nyaa.si/view/2134253) |
-| `[Onalrie] Neko to Ryuu - S01E04 [1080p WEBRip AV1]` | **178.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622551) • [🐱 Nyaa](https://nekobt.to/torrents/12465641992449) |
+| `[Yameii] Daemons of the Shadow Realm - S01E13 [English Dub] [CR WEB...` | **1384.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622603) • [🐱 Nyaa](https://nekobt.to/torrents/12467712472835) |
+| `[VARYG] Daemons of the Shadow Realm S01E13 Daikyo and Shokyo 1080p ...` | **1440.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622605) • [🐱 Nyaa](https://nekobt.to/torrents/12467601797899) |
+| `[VARYG] Grow Up Show S01E03 I Dont Want To Show My Scars 1080p CR W...` | **1442.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/622606) • [🐱 Nyaa](https://nekobt.to/torrents/12467601795073) |
+| `[VARYG] Daemons of the Shadow Realm S01E15 Yuru and Danji 1080p CR ...` | **1408.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/622607) • [🐱 Nyaa](https://nekobt.to/torrents/12467594784770) |
+| `[Yameii] Jaadugar: A Witch in Mongolia - S01E02 [English Dub] [CR W...` | **1392.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/622608) • [🐱 Nyaa](https://nekobt.to/torrents/12467582147330) |
+| `[Yameii] Jaadugar: A Witch in Mongolia - S01E01 [English Dub] [CR W...` | **1396.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622609) • [🐱 Nyaa](https://nekobt.to/torrents/12467580407297) |
+| `[Yameii] Grow Up Show: Sunflower Circus - S01E03 [English Dub] [CR ...` | **1385.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622610) • [🐱 Nyaa](https://nekobt.to/torrents/12467578794247) |
+| `[Erai-raws] Akane-banashi - 11 (REPACK) [1080p NF WEB-DL AVC AAC][M...` | **930.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/622571) • [🐱 Nyaa](https://nyaa.si/view/2134339) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E13 1080p CR WEB-DL DUAL ...` | **1438.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/622575) • [🐱 Nyaa](https://nyaa.si/view/2134333) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E15 1080p CR WEB-DL AAC2....` | **1407.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/622576) • [🐱 Nyaa](https://nyaa.si/view/2134332) |
+| `[ToonsHub] Jaadugar A Witch in Mongolia S01E02 1080p CR WEB-DL DUAL...` | **1428.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622578) • [🐱 Nyaa](https://nyaa.si/view/2134330) |
+| `[Erai-raws] Grow Up Show: Himawari no Circus-dan - 03 [1080p CR WEB...` | **1390.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/622580) • [🐱 Nyaa](https://nyaa.si/view/2134328) |
+| `Akane Banashi S01E11 Answer 1080p NF WEB-DL MULTi AAC2.0 H 264-VARY...` | **1101.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/622581) • [🐱 Nyaa](https://nyaa.si/view/2134326) |
+| `[ToonsHub] Akane-Banashi S01E11 1080p NF WEB-DL MULTi AAC2.0 H.264 ...` | **1101.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/622582) • [🐱 Nyaa](https://nyaa.si/view/2134323) |
+| `[SubsPlease] Grow Up Show - Himawari no Circus-dan - 03 (1080p) [3A...` | **1380.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/622583) • [🐱 Nyaa](https://nyaa.si/view/2134322) |
 
 ---
 <div align="center">
