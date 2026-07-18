@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.53.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.55.50_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Hanaori-san wa Tensei Shite mo Kenka ga Shitai (Hanaori-san...` | **305.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/622733) • [🐱 Nyaa](https://nyaa.si/view/2134515) |
+| `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **409.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/622731) • [🐱 Nyaa](https://nyaa.si/view/2134510) |
+| `[Unfucked] Grow Up Show: Sunflower Circus - S01E03 (1080p CR WEB-DL...` | **1419.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/622727) • [🐱 Nyaa](https://nyaa.si/view/2134508) |
+| `[Unfucked] NEEDY GIRL OVERDOSE - S01E12 (1080p CR WEB-DL AVC AAC 2....` | **1420.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/622728) • [🐱 Nyaa](https://nyaa.si/view/2134507) |
+| `[Onalrie] Saijo no Osewa - S01E03 [1080p WEBRip AV1]` | **221.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/622730) • [🐱 Nyaa](https://onalrie.app/torrent/ca340b1c-0496-4b4f-be79-93e1714a348f) |
+| `[DKB] Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance - S0...` | **372.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/622729) • [🐱 Nyaa](https://nyaa.si/view/2134506) |
 | `[Onalrie] Hanaori-san wa Tensei shitemo Kenka ga Shitai - S01E02 [1...` | **235.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/622725) • [🐱 Nyaa](https://nekobt.to/torrents/12470704050703) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime - S04E13 (WEB ...` | **1484.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/622722) • [🐱 Nyaa](https://nyaa.si/view/2134496) |
 | `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Era...` | **293.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/622723) • [🐱 Nyaa](https://nyaa.si/view/2134494) |
@@ -42,12 +48,6 @@
 | `[Ironclad] Yomi no Tsugai - S01E15 [WEB.1080p.AV1] | Daemons of the...` | **420.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/622717) • [🐱 Nyaa](https://nyaa.si/view/2134490) |
 | `[ToonsHub] Rich Girl Caretaker S01E03 1080p BILI WEB-DL AAC2.0 H.26...` | **283.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/622718) • [🐱 Nyaa](https://nyaa.si/view/2134489) |
 | `[ASW] Saijo no Osewa - 03 [1080p HEVC x265 10Bit][AAC]` | **230.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/622719) • [🐱 Nyaa](https://nyaa.si/view/2134485) |
-| `[Chihiro] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - ...` | **937.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/622720) • [🐱 Nyaa](https://nyaa.si/view/2134481) |
-| `[TSPlease] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **1478.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622708) • [🐱 Nyaa](https://nyaa.si/view/2134479) |
-| `[CrappySubs] Daemons of the Shadow Realm - S01E15 (CR WEB 1080p H.2...` | **1552.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/622714) • [🐱 Nyaa](https://nekobt.to/torrents/12470009240077) |
-| `[Judas] Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance (M...` | **339.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622709) • [🐱 Nyaa](https://nyaa.si/view/2134478) |
-| `[Onalrie] Kimiai - S01E03 [1080p WEBRip AV1]` | **199.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/622715) • [🐱 Nyaa](https://nekobt.to/torrents/12469996065031) |
-| `[Erai-raws] Grow Up Show: Himawari no Circus-dan - 03 [1080p CR WEB...` | **393.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/622710) • [🐱 Nyaa](https://nyaa.si/view/2134477) |
 
 ---
 <div align="center">
