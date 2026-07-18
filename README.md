@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.52.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.59.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E05 (1080p AAC x265 B...` | **617.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/622454) • [🐱 Nyaa](https://nekobt.to/torrents/12459874338826) |
+| `[DKB] Digimon Beatbreak - S01E38 [1080p][HEVC x265 10bit][Multi-Sub...` | **444.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/622452) • [🐱 Nyaa](https://nyaa.si/view/2134086) |
+| `[DKB] Digimon Beatbreak - S01E37 [1080p][HEVC x265 10bit][Multi-Sub...` | **518.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622453) • [🐱 Nyaa](https://nyaa.si/view/2134085) |
+| `[HuangSubs] Shrouding the Heavens - 171 (1080p)` | **237.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/622449) • [🐱 Nyaa](https://nyaa.si/view/2134080) |
+| `[HuangSubs] Shrouding the Heavens - 170 (1080p)` | **244.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/622451) • [🐱 Nyaa](https://nyaa.si/view/2134078) |
+| `[HuangSubs] Slay the Gods Season 2 - 06 (1080p)` | **316.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622446) • [🐱 Nyaa](https://nyaa.si/view/2134077) |
+| `[HuangSubs] The Demon Hunter Season 3 - 16 (1080p HEVC AAC)` | **320.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/622447) • [🐱 Nyaa](https://nyaa.si/view/2134076) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E03 1080p NF WEB-DL MULTi...` | **1114.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622444) • [🐱 Nyaa](https://nyaa.si/view/2134072) |
+| `Daemons of the Shadow Realm S01E03 Dera and Hana 1080p NF WEB-DL MU...` | **1114.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622445) • [🐱 Nyaa](https://nyaa.si/view/2134071) |
+| `[Onalrie] Rilakkuma - S01E16 [1080p WEBRip AV1]` | **21.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/622443) • [🐱 Nyaa](https://nekobt.to/torrents/12458728706564) |
+| `The Drops of God S01E12 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1421.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622441) • [🐱 Nyaa](https://nekobt.to/torrents/12458173345293) |
+| `That Time I Got Reincarnated as a Slime S04E12 MULTi 1080p CR WEB-D...` | **1434.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/622442) • [🐱 Nyaa](https://nekobt.to/torrents/12458167539214) |
 | `[ToonsHub] LIAR GAME S01E11 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1635.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/622439) • [🐱 Nyaa](https://nyaa.si/view/2134060) |
 | `[BlackRabbit] Neon Genesis Evangelion (1995) - S01 [Bluray-1080p][O...` | **8393.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/622440) • [🐱 Nyaa](https://nekobt.to/torrents/12457555607311) |
 | `You.and.I.Are.Polar.Opposites.S01.1080p.BluRay.Dual-Audio.Opus.2.0....` | **17923.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/622437) • [🐱 Nyaa](https://nyaa.si/view/2134048) |
-| `[CW] Dolls Frontline S01 [Dual Audio][HDTV 1080p][AAC+AAC][AVC][Mul...` | **17785.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/622436) • [🐱 Nyaa](https://nyaa.si/view/2134030) |
-| `[VARYG] RILAKKUMA S01E16 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **99.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622435) • [🐱 Nyaa](https://nekobt.to/torrents/12456383507974) |
-| `[ToonsHub] Jiang Ye S01E14 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **525.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622433) • [🐱 Nyaa](https://nyaa.si/view/2134027) |
-| `[ToonsHub] LIAR GAME S01E10 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1635.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/622434) • [🐱 Nyaa](https://nyaa.si/view/2134026) |
-| `[ToonsHub] LIAR GAME S01E11 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1635.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/622431) • [🐱 Nyaa](https://nyaa.si/view/2134025) |
-| `[ToonsHub] Reborn as a Vending Machine I Now Wander the Dungeon S03...` | **1692.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622432) • [🐱 Nyaa](https://nyaa.si/view/2134024) |
-| `[ToonsHub] A Good Day to Ascend S01E03 1080p iQ WEB-DL AAC2.0 H.264...` | **377.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622423) • [🐱 Nyaa](https://nyaa.si/view/2134006) |
-| `[ToonsHub] A Good Day to Ascend S01E02 1080p iQ WEB-DL AAC2.0 H.264...` | **373.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622424) • [🐱 Nyaa](https://nyaa.si/view/2134005) |
-| `[ToonsHub] KAMUI Hes Behind You S00E02 1080p AMZN WEB-DL DDP2.0 H.2...` | **488.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622425) • [🐱 Nyaa](https://nyaa.si/view/2134004) |
-| `[ToonsHub] A Good Day to Ascend S01E01 1080p iQ WEB-DL AAC2.0 H.264...` | **484.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/622426) • [🐱 Nyaa](https://nyaa.si/view/2134003) |
-| `[ToonsHub] KAMUI Hes Behind You S01E02 REPACK 1080p UNCENSORED AMZN...` | **598.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622427) • [🐱 Nyaa](https://nyaa.si/view/2134002) |
-| `[Some-Stuffs] Pocket Monsters (2023) 143 (1080p HEVC 10-bit) [FA881...` | **996.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/622428) • [🐱 Nyaa](https://nyaa.si/view/2134001) |
 
 ---
 <div align="center">
