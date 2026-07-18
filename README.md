@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.10.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.33.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] A Good Day to Ascend S01E03 1080p iQ WEB-DL AAC2.0 H.264...` | **377.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622423) • [🐱 Nyaa](https://nyaa.si/view/2134006) |
+| `[ToonsHub] A Good Day to Ascend S01E02 1080p iQ WEB-DL AAC2.0 H.264...` | **373.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622424) • [🐱 Nyaa](https://nyaa.si/view/2134005) |
+| `[ToonsHub] KAMUI Hes Behind You S00E02 1080p AMZN WEB-DL DDP2.0 H.2...` | **488.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622425) • [🐱 Nyaa](https://nyaa.si/view/2134004) |
+| `[ToonsHub] A Good Day to Ascend S01E01 1080p iQ WEB-DL AAC2.0 H.264...` | **484.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/622426) • [🐱 Nyaa](https://nyaa.si/view/2134003) |
+| `[ToonsHub] KAMUI Hes Behind You S01E02 REPACK 1080p UNCENSORED AMZN...` | **598.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622427) • [🐱 Nyaa](https://nyaa.si/view/2134002) |
+| `[Some-Stuffs] Pocket Monsters (2023) 143 (1080p HEVC 10-bit) [FA881...` | **996.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/622428) • [🐱 Nyaa](https://nyaa.si/view/2134001) |
+| `[Some-Stuffs] Pocket Monsters (2023) 143 (1080p) [80BA1AE1]` | **491.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622429) • [🐱 Nyaa](https://nyaa.si/view/2134000) |
+| `[Erai-raws] Rilakkuma - 16 [1080p CR WEBRip HEVC AAC][MultiSub][E71...` | **41.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/622421) • [🐱 Nyaa](https://nyaa.si/view/2133998) |
+| `[ASW] Rilakkuma - 16 [1080p HEVC x265 10Bit][AAC]` | **32.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/622422) • [🐱 Nyaa](https://nyaa.si/view/2133996) |
+| `[ToonsHub] RILAKKUMA S01E16 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **91.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/622415) • [🐱 Nyaa](https://nyaa.si/view/2133995) |
+| `RILAKKUMA S01E16 1080p CR WEB-DL DUAL AAC2.0 H 264-VARYG (Dual-Audi...` | **93.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/622416) • [🐱 Nyaa](https://nyaa.si/view/2133994) |
+| `[SubsPlease] Rilakkuma - 16 (1080p) [52BDCF89].mkv` | **93.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/622417) • [🐱 Nyaa](https://nyaa.si/view/2133991) |
+| `[Erai-raws] Rilakkuma - 16 [1080p CR WEB-DL AVC AAC][MultiSub][FD09...` | **89.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622412) • [🐱 Nyaa](https://nyaa.si/view/2133982) |
 | `[Trix] Nige Jouzu no Wakagimi S02E01 [WEBRip 1080p AV1 Opus] (Multi...` | **514.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/622410) • [🐱 Nyaa](https://nyaa.si/view/2133963) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **382.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/622411) • [🐱 Nyaa](https://nyaa.si/view/2133962) |
-| `[sam] Grand Blue Dreaming - S03E02 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1786.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622409) • [🐱 Nyaa](https://nyaa.si/view/2133956) |
-| `[sam] Gekkan Shoujo Nozaki-kun Season 1 (S01) (BD 1080p HEVC x265 1...` | **46732.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622407) • [🐱 Nyaa](https://nyaa.si/view/2133951) |
-| `[Erai-raws] Kami no Shizuku - 15 [1080p CR WEBRip HEVC AAC][MultiSu...` | **454.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622408) • [🐱 Nyaa](https://nyaa.si/view/2133950) |
-| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E03 [WEB.1080p.AV1] | K...` | **365.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622403) • [🐱 Nyaa](https://nyaa.si/view/2133949) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E107 (ちびゴジラの逆襲; Chibi Godzi...` | **17.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/622404) • [🐱 Nyaa](https://nyaa.si/view/2133948) |
-| `[DKB] Nige Jouzu no Wakagimi - S02E01 [1080p][HEVC x265 10bit][Mult...` | **644.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/622405) • [🐱 Nyaa](https://nyaa.si/view/2133947) |
-| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **330.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/622406) • [🐱 Nyaa](https://nyaa.si/view/2133946) |
-| `[DKB] Ryoumin 0-Nin Start no Henkyou Ryoushu-sama - S01E03 [1080p][...` | **259.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622401) • [🐱 Nyaa](https://nyaa.si/view/2133945) |
-| `[DKB] Tensei shitara Slime Datta Ken - S04E15 [1080p][HEVC x265 10b...` | **366.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622402) • [🐱 Nyaa](https://nyaa.si/view/2133944) |
-| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 03 [1080p CR WEBRip ...` | **313.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/622400) • [🐱 Nyaa](https://nyaa.si/view/2133943) |
-| `[anime4life.] Inuyasha Complete Series + The Final Act BD_1080p DTS...` | **327436.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622398) • [🐱 Nyaa](https://nyaa.si/view/2133941) |
-| `Beyblade X S01E27-E51 1080p DSNP WEB-DL MULTi AAC2.0 H 264-VARYG (M...` | **23737.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/622399) • [🐱 Nyaa](https://nyaa.si/view/2133937) |
-| `[Onalrie] Hell Mode - S02E03 [1080p WEBRip AV1]` | **244.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622397) • [🐱 Nyaa](https://onalrie.app/torrent/90cac2c6-056c-42d2-b016-d7b3e94b3cfd) |
 
 ---
 <div align="center">
