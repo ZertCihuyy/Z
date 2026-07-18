@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.37.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.39.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlease] Neko to Ryuu - 04 (1080p) [BBFBB912].mkv` | **1382.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/622526) • [🐱 Nyaa](https://nyaa.si/view/2134232) |
-| `[Erai-raws] Neko to Ryuu - 04 [1080p CR WEB-DL AVC AAC][MultiSub][D...` | **1391.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622530) • [🐱 Nyaa](https://nyaa.si/view/2134227) |
-| `[Doomdos] - The Cat and the Dragon - 4 [1080p IQ WEB-DL]` | **274.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/622532) • [🐱 Nyaa](https://nyaa.si/view/2134224) |
-| `[Erai-raws] Detective Conan - 1207 [1080p CR WEBRip HEVC AAC][Multi...` | **390.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/622525) • [🐱 Nyaa](https://nekobt.to/torrents/12464897900559) |
-| `BLACK TORCH S01E03 WHATS MY NAME 1080p CR WEB-DL DUAL AAC2.0 H 264-...` | **1427.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622522) • [🐱 Nyaa](https://nyaa.si/view/2134220) |
-| `[Yameii] BLACK TORCH - S01E03 [English Dub] [CR WEB-DL 1080p H264 A...` | **1388.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622523) • [🐱 Nyaa](https://nyaa.si/view/2134219) |
-| `[ToonsHub] One Piece EP1168 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **843.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622524) • [🐱 Nyaa](https://nyaa.si/view/2134217) |
-| `[ToonsHub] KILL BLUE S01E12 1080p AMZN WEB-DL MULTi DDP2.0 H.264 (K...` | **911.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/622509) • [🐱 Nyaa](https://nyaa.si/view/2134216) |
-| `[ToonsHub] BLACK TORCH S01E03 1080p CR WEB-DL DUAL AAC2.0 H.264 (Du...` | **1061.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/622510) • [🐱 Nyaa](https://nyaa.si/view/2134214) |
-| `[ToonsHub] BLACK TORCH S01E03 1080p AMZN WEB-DL DDP2.0 H.264 (Multi...` | **967.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/622511) • [🐱 Nyaa](https://nyaa.si/view/2134212) |
-| `[SubsPlease] Black Torch - 03 (1080p) [3FF9E46C].mkv` | **1382.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/622512) • [🐱 Nyaa](https://nyaa.si/view/2134211) |
-| `The Worlds Strongest Rearguard S01E02 The First Challenge 1080p BIL...` | **266.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/622513) • [🐱 Nyaa](https://nyaa.si/view/2134210) |
-| `[ToonsHub] KILL BLUE S01E12 1080p AMZN WEB-DL DUAL DDP2.0 H.264 (Ki...` | **816.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/622516) • [🐱 Nyaa](https://nyaa.si/view/2134206) |
-| `[ToonsHub] The Cat And The Dragon S01E04 1080p MW WEB-DL AAC2.0 H.2...` | **488.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/622517) • [🐱 Nyaa](https://nyaa.si/view/2134205) |
-| `[Erai-raws] Black Torch - 03 [1080p CR WEB-DL AVC AAC][MultiSub][F0...` | **1392.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622520) • [🐱 Nyaa](https://nyaa.si/view/2134201) |
+| `[Erai-raws] Black Torch - 03 [1080p CR WEBRip HEVC AAC][MultiSub][F...` | **425.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/622552) • [🐱 Nyaa](https://nyaa.si/view/2134257) |
+| `[Doomdos] - Recommendations from Iwamoto-Senpai - 3 [1080p IQ WEB-DL]` | **287.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/622553) • [🐱 Nyaa](https://nyaa.si/view/2134256) |
+| `[ASW] Neko to Ryuu - 04 [1080p HEVC x265 10Bit][AAC]` | **204.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/622554) • [🐱 Nyaa](https://nyaa.si/view/2134255) |
+| `Recommendations from Iwamoto Senpai S01E03 The Lad Who Loved Insect...` | **1392.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/622542) • [🐱 Nyaa](https://nyaa.si/view/2134253) |
+| `[Onalrie] Neko to Ryuu - S01E04 [1080p WEBRip AV1]` | **178.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622551) • [🐱 Nyaa](https://nekobt.to/torrents/12465641992449) |
+| `[SubsPlease] Iwamoto-senpai no Suisen - 03 (1080p) [27EEC971].mkv` | **1381.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/622543) • [🐱 Nyaa](https://nyaa.si/view/2134251) |
+| `[ToonsHub] Recommendations from Iwamoto-Senpai S01E03 1080p CR WEB-...` | **1391.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622545) • [🐱 Nyaa](https://nyaa.si/view/2134248) |
+| `[Erai-raws] Iwamoto-senpai no Suisen - 03 [1080p CR WEB-DL AVC AAC]...` | **1390.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/622548) • [🐱 Nyaa](https://nyaa.si/view/2134244) |
+| `[ASW] Black Torch - 03 [1080p HEVC x265 10Bit][AAC]` | **334.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/622539) • [🐱 Nyaa](https://nyaa.si/view/2134241) |
+| `[Ironclad] Honzuki no Gekokujou - S04E14 [WEB.1080p.AV1] | Ascendan...` | **257.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/622540) • [🐱 Nyaa](https://nyaa.si/view/2134239) |
+| `[Onalrie] Black Torch - S01E03 [1080p WEBRip AV1]` | **268.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622538) • [🐱 Nyaa](https://onalrie.app/torrent/027b004d-8eec-4eb2-b974-b83003b0fd6b) |
+| `[VARYG] The Cat and the Dragon S01E04 The Black Cat and the Prince ...` | **1410.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/622535) • [🐱 Nyaa](https://nekobt.to/torrents/12465208349957) |
+| `[Doomdos] - BLACK TORCH - 3 [1080p IQ WEB-DL]` | **309.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622541) • [🐱 Nyaa](https://nyaa.si/view/2134237) |
+| `[VARYG] BLACK TORCH S01E03 WHATS MY NAME 1080p CR WEB-DL MULTi AAC2...` | **1655.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/622536) • [🐱 Nyaa](https://nekobt.to/torrents/12465183592715) |
+| `[ToonsHub] The Cat and the Dragon S01E04 1080p CR WEB-DL AAC2.0 H.2...` | **1410.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/622537) • [🐱 Nyaa](https://nekobt.to/torrents/12465173377802) |
 
 ---
 <div align="center">
