@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.41.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.38.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Grow Up Show - Himawari no Circus-dan - S01E03 [1080p WEB...` | **233.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/622658) • [🐱 Nyaa](https://nekobt.to/torrents/12468812556297) |
-| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 02 [10...` | **1402.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/622661) • [🐱 Nyaa](https://nekobt.to/torrents/12468803554050) |
-| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E02...` | **298.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622662) • [🐱 Nyaa](https://nekobt.to/torrents/12468799920129) |
-| `[ToonsHub] Magilumiere Magical Girls Inc S02E03 1080p AMZN WEB-DL M...` | **980.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/622663) • [🐱 Nyaa](https://nekobt.to/torrents/12468761126408) |
-| `[ToonsHub] NEEDY GIRL OVERDOSE S01E12 1080p CR WEB-DL MULTi AAC2.0 ...` | **1487.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/622664) • [🐱 Nyaa](https://nekobt.to/torrents/12468759544320) |
-| `[ToonsHub] Magilumiere Magical Girls Inc S02E03 1080p AMZN WEB-DL D...` | **263.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/622665) • [🐱 Nyaa](https://nekobt.to/torrents/12468742200838) |
-| `[ToonsHub] Magilumiere Magical Girls Inc S02E03 1080p AMZN WEB-DL D...` | **719.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/622666) • [🐱 Nyaa](https://nekobt.to/torrents/12468741676805) |
-| `[Erai-raws] Yomi no Tsugai - 15 [1080p CR WEBRip HEVC AAC][MultiSub...` | **430.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622632) • [🐱 Nyaa](https://nyaa.si/view/2134411) |
-| `[Judas] Yomi no Tsugai (Daemons of the Shadow Realm) - S01E13 [1080...` | **477.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/622633) • [🐱 Nyaa](https://nyaa.si/view/2134410) |
-| `[jaaj] Angel Beats! S01+OVA (2010) (BD 1080p AV1 OPUS)` | **4406.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/622667) • [🐱 Nyaa](https://nekobt.to/torrents/12468498120972) |
-| `[ASW] Yomi no Tsugai - 15 [1080p HEVC x265 10Bit][AAC]` | **335.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/622634) • [🐱 Nyaa](https://nyaa.si/view/2134407) |
-| `Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance S01E03 Kuze...` | **1391.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/622635) • [🐱 Nyaa](https://nyaa.si/view/2134406) |
-| `NEEDY GIRL OVERDOSE S01E12 INTERNET YAMERO 1080p CR WEB-DL DUAL AAC...` | **1421.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622636) • [🐱 Nyaa](https://nyaa.si/view/2134405) |
-| `[Onalrie] Yomi no Tsugai - S01E15 [1080p WEBRip AV1]` | **262.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/622668) • [🐱 Nyaa](https://nekobt.to/torrents/12468454429198) |
-| `The Ogres Bride S01E03 Decision 1080p CR WEB-DL AAC2.0 H 264-VARYG ...` | **1427.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/622637) • [🐱 Nyaa](https://nyaa.si/view/2134404) |
+| `[DKB] Neko to Ryuu - S01E04 [1080p][HEVC x265 10bit][Multi-Subs][we...` | **238.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/622696) • [🐱 Nyaa](https://nyaa.si/view/2134468) |
+| `[DKB] Black Torch - S01E03 [1080p][HEVC x265 10bit][Dual Audio][Mul...` | **403.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/622698) • [🐱 Nyaa](https://nyaa.si/view/2134466) |
+| `[DKB] Mairimashita! Iruma-kun - S04E16 [1080p][HEVC x265 10bit][Dua...` | **587.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622699) • [🐱 Nyaa](https://nyaa.si/view/2134465) |
+| `[neoDESU] The Fragrant Flower Blooms with Dignity [Season 1] [BD 10...` | **3470.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/622700) • [🐱 Nyaa](https://nyaa.si/view/2134464) |
+| `[Onalrie] Oni no Hanayome - S01E03 [1080p WEBRip AV1]` | **161.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/622695) • [🐱 Nyaa](https://onalrie.app/torrent/03f876de-77d2-48b5-8efa-a02884e359c3) |
+| `[ToonsHub] Rich Girl Caretaker S01E03 1080p CR WEB-DL AAC2.0 H.264 ...` | **1478.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622689) • [🐱 Nyaa](https://nekobt.to/torrents/12469474428685) |
+| `[VARYG] Rich Girl Caretaker Im Secretly the Caregiver of the Most P...` | **1478.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/622692) • [🐱 Nyaa](https://nekobt.to/torrents/12469439603723) |
+| `[Erai-raws] Saijo no Osewa - 03 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1478.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/622693) • [🐱 Nyaa](https://nekobt.to/torrents/12469437632008) |
+| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E02...` | **1502.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/622684) • [🐱 Nyaa](https://nyaa.si/view/2134453) |
+| `Hanaori san Still Wants to Fight in the Next Life S01E02 The Witche...` | **1504.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/622685) • [🐱 Nyaa](https://nyaa.si/view/2134452) |
+| `[Onalrie] Mahou Shoujo Lyrical Nanoha Exceeds - Gun Blaze Vengeance...` | **262.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622694) • [🐱 Nyaa](https://nekobt.to/torrents/12469270730250) |
+| `[ASW] Grow Up Show - Himawari no Circus-dan - 03 [1080p HEVC x265 1...` | **296.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622687) • [🐱 Nyaa](https://nyaa.si/view/2134450) |
+| `[Judas] Kimi wo Aisuru Ki wa nai to Itta Jiki Koushaku-sama ga Naze...` | **232.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/622688) • [🐱 Nyaa](https://nyaa.si/view/2134449) |
+| `[Trix] Tenmaku no Jaadugar S01E04 [WEBRip 1080p AV1 Opus] (Multi Su...` | **490.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622683) • [🐱 Nyaa](https://nekobt.to/torrents/12469150319113) |
+| `Magilumiere Magical Girls Inc S02E03 Havent Seen Delusion Like This...` | **719.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/622669) • [🐱 Nyaa](https://nyaa.si/view/2134443) |
 
 ---
 <div align="center">
