@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.41.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.49.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] One Piece S01E1169 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **859.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/622475) • [🐱 Nyaa](https://nekobt.to/torrents/12462381832195) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E16 1080p CR WEB-DL...` | **1621.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/622476) • [🐱 Nyaa](https://nekobt.to/torrents/12462380137474) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E16 1080p CR WEB-DL...` | **1517.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/622477) • [🐱 Nyaa](https://nekobt.to/torrents/12462378914566) |
+| `[Yameii] Welcome to Demon School! Iruma-kun - S04E16 [English Dub] ...` | **1461.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622478) • [🐱 Nyaa](https://nekobt.to/torrents/12462335161354) |
+| `[SubsPlease] Mairimashita! Iruma-kun S4 - 16 (1080p) [45673CBF].mkv` | **1456.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622468) • [🐱 Nyaa](https://nyaa.si/view/2134125) |
+| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 16 [1080p CR WEB-DL...` | **1467.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/622473) • [🐱 Nyaa](https://nyaa.si/view/2134120) |
+| `[ASW] Honzuki no Gekokujou S4 - 14 [1080p HEVC x265 10Bit][AAC]` | **235.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/622474) • [🐱 Nyaa](https://nyaa.si/view/2134119) |
+| `[Onalrie] Honzuki no Gekokujou - S04E14 [1080p WEBRip AV1]` | **191.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/622466) • [🐱 Nyaa](https://nekobt.to/torrents/12461996674319) |
+| `[VARYG] Ascendance of a Bookworm S04E14 Hasses Punishment 1080p CR ...` | **1399.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/622465) • [🐱 Nyaa](https://nekobt.to/torrents/12461555467014) |
 | `[ToonsHub] Ascendance of a Bookworm S04E14 1080p CR WEB-DL AAC2.0 H...` | **1397.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622457) • [🐱 Nyaa](https://nyaa.si/view/2134103) |
 | `[SubsPlease] Honzuki no Gekokujou S4 - 14 (1080p) [352F43FE].mkv` | **1388.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/622458) • [🐱 Nyaa](https://nyaa.si/view/2134101) |
 | `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1398.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/622463) • [🐱 Nyaa](https://nyaa.si/view/2134094) |
 | `[Doomdos] - The Elusive Samurai S2 - 1 [1080p IQ WEB-DL]` | **422.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/622464) • [🐱 Nyaa](https://nyaa.si/view/2134093) |
 | `[Gecko] Bananya - S00E01 - At-Home Party (ばなにゃ; Bananya: At-Home Pa...` | **233.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/622456) • [🐱 Nyaa](https://nyaa.si/view/2134089) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E06 (1080p AAC x265 B...` | **621.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/622455) • [🐱 Nyaa](https://nekobt.to/torrents/12460084056591) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E05 (1080p AAC x265 B...` | **617.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/622454) • [🐱 Nyaa](https://nekobt.to/torrents/12459874338826) |
-| `[DKB] Digimon Beatbreak - S01E38 [1080p][HEVC x265 10bit][Multi-Sub...` | **444.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/622452) • [🐱 Nyaa](https://nyaa.si/view/2134086) |
-| `[DKB] Digimon Beatbreak - S01E37 [1080p][HEVC x265 10bit][Multi-Sub...` | **518.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622453) • [🐱 Nyaa](https://nyaa.si/view/2134085) |
-| `[HuangSubs] Shrouding the Heavens - 171 (1080p)` | **237.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/622449) • [🐱 Nyaa](https://nyaa.si/view/2134080) |
-| `[HuangSubs] Shrouding the Heavens - 170 (1080p)` | **244.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/622451) • [🐱 Nyaa](https://nyaa.si/view/2134078) |
-| `[HuangSubs] Slay the Gods Season 2 - 06 (1080p)` | **316.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622446) • [🐱 Nyaa](https://nyaa.si/view/2134077) |
-| `[HuangSubs] The Demon Hunter Season 3 - 16 (1080p HEVC AAC)` | **320.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/622447) • [🐱 Nyaa](https://nyaa.si/view/2134076) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E03 1080p NF WEB-DL MULTi...` | **1114.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622444) • [🐱 Nyaa](https://nyaa.si/view/2134072) |
-| `Daemons of the Shadow Realm S01E03 Dera and Hana 1080p NF WEB-DL MU...` | **1114.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/622445) • [🐱 Nyaa](https://nyaa.si/view/2134071) |
 
 ---
 <div align="center">
