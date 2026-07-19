@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.57.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.39.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Wistoria Wand and Sword S02E12 1080p CR WEB-DL MULTi AAC...` | **1708.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/622805) • [🐱 Nyaa](https://nyaa.si/view/2134767) |
-| `Though I Am an Inept Villainess S01E02 Will I Be Living Here 1080p ...` | **803.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/622806) • [🐱 Nyaa](https://nyaa.si/view/2134764) |
-| `You and I Are Polar Opposites S02E01 Christmas Eve 1080p CR WEB-DL ...` | **1470.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622807) • [🐱 Nyaa](https://nyaa.si/view/2134763) |
-| `[ToonsHub] Lets go KAIKIGUMI S01E03 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1435.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622808) • [🐱 Nyaa](https://nyaa.si/view/2134762) |
-| `[ToonsHub] You and I Are Polar Opposites S02E03 1080p CR WEB-DL AAC...` | **1419.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622810) • [🐱 Nyaa](https://nyaa.si/view/2134760) |
-| `[ToonsHub] You and I Are Polar Opposites S02E01 1080p CR WEB-DL DUA...` | **1451.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/622809) • [🐱 Nyaa](https://nyaa.si/view/2134761) |
-| `You and I Are Polar Opposites S02E03 The Year Thats Passed and the ...` | **1438.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/622811) • [🐱 Nyaa](https://nyaa.si/view/2134759) |
-| `[SubsPlease] Seihantai na Kimi to Boku - 15 (1080p) [E2A9B4EB].mkv` | **1406.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/622813) • [🐱 Nyaa](https://nyaa.si/view/2134757) |
-| `[Erai-raws] Let's Go Kaiki-gumi - 03 [1080p CR WEB-DL AVC AAC][Mult...` | **1396.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/622815) • [🐱 Nyaa](https://nyaa.si/view/2134755) |
-| `[ToonsHub] You and I Are Polar Opposites S02E03 1080p NF WEB-DL AAC...` | **883.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/622817) • [🐱 Nyaa](https://nyaa.si/view/2134753) |
-| `Lets go KAIKIGUMI S01E03 Mystery 3 1080p CR WEB-DL AAC2.0 H 264-VAR...` | **1417.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/622818) • [🐱 Nyaa](https://nyaa.si/view/2134752) |
-| `[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 03 [1080p CR WEB...` | **1419.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/622821) • [🐱 Nyaa](https://nyaa.si/view/2134749) |
-| `[SubsPlease] Let's Go Kaiki-gumi - 03 (1080p) [DB8B7082].mkv` | **1385.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/622822) • [🐱 Nyaa](https://nyaa.si/view/2134748) |
-| `[ToonsHub] You and I Are Polar Opposites S02E03 1080p BILI WEB-DL A...` | **233.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/622823) • [🐱 Nyaa](https://nyaa.si/view/2134747) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E02 1080p DSNP WEB-DL...` | **803.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/622827) • [🐱 Nyaa](https://nyaa.si/view/2134741) |
+| `[TSPlease] Iron Wok Jan S01E03 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1424.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622849) • [🐱 Nyaa](https://nyaa.si/view/2134812) |
+| `[ASW] Tetsunabe no Jan! - 03 [1080p HEVC x265 10Bit][AAC]` | **288.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622847) • [🐱 Nyaa](https://nyaa.si/view/2134808) |
+| `[Onalrie] Tetsunabe no Jan - S01E03 [1080p WEBRip AV1]` | **243.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622848) • [🐱 Nyaa](https://nekobt.to/torrents/12483750722311) |
+| `[ASW] Let's Go Kaiki-gumi - 03 [1080p HEVC x265 10Bit][AAC]` | **234.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622845) • [🐱 Nyaa](https://nyaa.si/view/2134799) |
+| `[ASW] Seihantai na Kimi to Boku - 15 [1080p HEVC x265 10Bit][AAC]` | **206.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622846) • [🐱 Nyaa](https://nyaa.si/view/2134798) |
+| `[Trix] You and I Are Polar Opposites S02E03 [WEBRip 1080p AV1 Opus]...` | **205.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622843) • [🐱 Nyaa](https://nekobt.to/torrents/12483425284364) |
+| `[Onalrie] Seihantai na Kimi to Boku - S02E03 [1080p WEBRip AV1]` | **204.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622844) • [🐱 Nyaa](https://nekobt.to/torrents/12483403224327) |
+| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **204.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622835) • [🐱 Nyaa](https://nyaa.si/view/2134795) |
+| `Iron Wok Jan S01E03 A Losers Cry of Victory 1080p CR WEB-DL AAC2.0 ...` | **1405.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/622836) • [🐱 Nyaa](https://nyaa.si/view/2134790) |
+| `You and I Are Polar Opposites S02E03 1080p NF WEB-DL AAC2.0 H 264-V...` | **883.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/622837) • [🐱 Nyaa](https://nyaa.si/view/2134789) |
+| `[ToonsHub] Iron Wok Jan S01E03 1080p CR WEB-DL AAC2.0 H.264 (Tetsun...` | **1424.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622838) • [🐱 Nyaa](https://nyaa.si/view/2134787) |
+| `Wistoria Wand and Sword S02E12 A Story of a Dream with No End 1080p...` | **1710.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622839) • [🐱 Nyaa](https://nyaa.si/view/2134786) |
+| `[Erai-raws] Tetsunabe no Jan - 03 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1384.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/622833) • [🐱 Nyaa](https://nekobt.to/torrents/12483112678412) |
+| `[SubsPlease] Tetsunabe no Jan! - 03 (1080p) [70D152EC].mkv` | **1374.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/622840) • [🐱 Nyaa](https://nyaa.si/view/2134779) |
+| `[Onalrie] Let's Go Kaiki-gumi - S01E03 [1080p WEBRip AV1]` | **173.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622834) • [🐱 Nyaa](https://nekobt.to/torrents/12483084201482) |
 
 ---
 <div align="center">
