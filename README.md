@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.17.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.27.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] Mushoku Tensei Jobless Reincarnation S03E04 A King-Class Wa...` | **1392.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622921) • [🐱 Nyaa](https://nekobt.to/torrents/12488738488846) |
-| `[VARYG] The Classroom of a Black Cat and a Witch S01E15 Astreas Tro...` | **1410.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/622922) • [🐱 Nyaa](https://nekobt.to/torrents/12488728716297) |
-| `[VARYG] Mushoku Tensei Jobless Reincarnation S03E04 King-Class Wate...` | **865.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/622925) • [🐱 Nyaa](https://nekobt.to/torrents/12488642768899) |
-| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 04 [1080...` | **1390.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/622926) • [🐱 Nyaa](https://nekobt.to/torrents/12488635944194) |
-| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E15 1080p CR...` | **1408.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/622905) • [🐱 Nyaa](https://nyaa.si/view/2134925) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E04 1080p CR WEB...` | **1391.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622907) • [🐱 Nyaa](https://nyaa.si/view/2134923) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E04 1080p NF WEB...` | **865.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/622908) • [🐱 Nyaa](https://nyaa.si/view/2134921) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 15 [1080p CR WEB-DL AV...` | **1390.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622911) • [🐱 Nyaa](https://nyaa.si/view/2134917) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E04 1080p BILI W...` | **324.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/622912) • [🐱 Nyaa](https://nyaa.si/view/2134915) |
-| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 15 (1080p) [21FA5502]...` | **1380.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/622914) • [🐱 Nyaa](https://nyaa.si/view/2134912) |
-| `[Onalrie] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kan...` | **290.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622927) • [🐱 Nyaa](https://nekobt.to/torrents/12488605150721) |
-| `[Judas] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanoj...` | **301.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/622917) • [🐱 Nyaa](https://nyaa.si/view/2134909) |
-| `[Erai-raws] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no K...` | **367.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/622918) • [🐱 Nyaa](https://nyaa.si/view/2134907) |
-| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 03 [1080p NF...` | **901.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/622919) • [🐱 Nyaa](https://nyaa.si/view/2134906) |
-| `[ToonsHub] One Piece EP1170 1080p TVER WEB-DL AAC2.0 H.264` | **552.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/622928) • [🐱 Nyaa](https://nekobt.to/torrents/12488402468364) |
+| `[ToonsHub] One Piece EP1170 1080p CR WEB-DL AAC2.0 H.264 (English-Sub)` | **992.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/622953) • [🐱 Nyaa](https://nyaa.si/view/2134984) |
+| `[Erai-raws] One Piece - 1170 [1080p CR WEB-DL AVC AAC][D1BAE4C5]` | **993.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/622956) • [🐱 Nyaa](https://nyaa.si/view/2134980) |
+| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E15 [1080p WEBRip AV1]` | **372.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/622962) • [🐱 Nyaa](https://nekobt.to/torrents/12489518891274) |
+| `Though I Am an Inept Villainess S01E02 Will I Be Living Here 1080p ...` | **1413.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/622957) • [🐱 Nyaa](https://nyaa.si/view/2134977) |
+| `[ToonsHub] One Piece EP1170 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **320.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622946) • [🐱 Nyaa](https://nekobt.to/torrents/12489357538575) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E02 1080p CR WEB-DL A...` | **1434.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/622947) • [🐱 Nyaa](https://nekobt.to/torrents/12489356037897) |
+| `[SubsPlease] Futsutsuka na Akujo dewa Gozaimasu ga - 02 (1080p) [FC...` | **1387.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622958) • [🐱 Nyaa](https://nyaa.si/view/2134970) |
+| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **293.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/622959) • [🐱 Nyaa](https://nyaa.si/view/2134969) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E02 1080p BILI WEB-DL...` | **257.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/622948) • [🐱 Nyaa](https://nekobt.to/torrents/12489320237838) |
+| `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 02 [1080p CR WE...` | **1394.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/622951) • [🐱 Nyaa](https://nekobt.to/torrents/12489308796421) |
+| `[Onalrie] Nijuuseiki Denki Mokuroku Eureka Evrika - S01E03 [1080p W...` | **458.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/622952) • [🐱 Nyaa](https://nekobt.to/torrents/12489142394125) |
+| `[Yameii] Goodbye, Lara - S01E03 [English Dub] [CR WEB-DL 1080p H264...` | **1404.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/622935) • [🐱 Nyaa](https://nyaa.si/view/2134958) |
+| `[ToonsHub] Goodbye Lara S01E03 1080p CR WEB-DL DUAL AAC2.0 H.264 (S...` | **1481.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/622937) • [🐱 Nyaa](https://nyaa.si/view/2134955) |
+| `Goodbye Lara S01E03 Look Away and You Lose 1080p CR WEB-DL DUAL AAC...` | **1462.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/622938) • [🐱 Nyaa](https://nyaa.si/view/2134953) |
+| `[SubsPlease] Sayonara Lara - 03 (1080p) [BDA70D82].mkv` | **1397.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/622939) • [🐱 Nyaa](https://nyaa.si/view/2134952) |
 
 ---
 <div align="center">
