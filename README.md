@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.39.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.55.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Inka-Subs] Desert Rose - The Snow Apocalypse (1993) [BD 1080p HEVC...` | **7307.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/623020) • [🐱 Nyaa](https://nyaa.si/view/2135066) |
+| `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E04 [1080p][HEV...` | **498.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/623021) • [🐱 Nyaa](https://nyaa.si/view/2135064) |
+| `[BlackRabbit] Photo Kano (2013) - S01 [Bluray-1080p][Opus 2.0][AV1]` | **1844.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623017) • [🐱 Nyaa](https://nekobt.to/torrents/12492681551630) |
+| `Agents of the Four Seasons Dance of Spring S01E12 Assault 1080p CR ...` | **1636.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/623016) • [🐱 Nyaa](https://nyaa.si/view/2135063) |
+| `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 02 [1080p CR WE...` | **527.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/623014) • [🐱 Nyaa](https://nyaa.si/view/2135058) |
+| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 03 [1080p NF...` | **695.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623015) • [🐱 Nyaa](https://nyaa.si/view/2135057) |
+| `[HorribleSubs] 100% Pascal-sensei (1080p)` | **9935.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/623007) • [🐱 Nyaa](https://nyaa.si/view/2135056) |
+| `[SubsPlease] Awajima Hyakkei (01-12) (1080p) [Batch]` | **16691.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623008) • [🐱 Nyaa](https://nyaa.si/view/2135052) |
+| `[CFN] Detective Conan - Episode 032 [Remastered] [Funimation Dub] [...` | **426.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623012) • [🐱 Nyaa](https://nekobt.to/torrents/12491876024325) |
+| `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E02 [WEB.108...` | **244.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623011) • [🐱 Nyaa](https://nyaa.si/view/2135049) |
 | `[Onalrie] Kabushikigaisha Magilumiere - S02E01 [1080p WEBRip AV1]` | **206.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/623005) • [🐱 Nyaa](https://nekobt.to/torrents/12491692584712) |
 | `[TSPlease] Though I Am an Inept Villainess S01E02 1080p CR WEB-DL A...` | **1441.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623004) • [🐱 Nyaa](https://nekobt.to/torrents/12491573175047) |
 | `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E03 [1080p][HEV...` | **596.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623001) • [🐱 Nyaa](https://nyaa.si/view/2135046) |
 | `[DKB] Kuroneko to Majo no Kyoushitsu - S01E15 [1080p][HEVC x265 10b...` | **615.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623002) • [🐱 Nyaa](https://nyaa.si/view/2135045) |
 | `One Piece S01E1170 1080p CR WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **1384.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/623003) • [🐱 Nyaa](https://nyaa.si/view/2135040) |
-| `[Onalrie] Kabushikigaisha Magilumiere - S02E02 [1080p WEBRip AV1]` | **200.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/623000) • [🐱 Nyaa](https://nekobt.to/torrents/12491301889794) |
-| `[ASW] One Piece - 1170 [1080p HEVC x265 10Bit][AAC]` | **427.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622998) • [🐱 Nyaa](https://nyaa.si/view/2135036) |
-| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 14 [1080p WEB...` | **1408.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/622999) • [🐱 Nyaa](https://nyaa.si/view/2135035) |
-| `[TSPlease] Though I Am an Inept Villainess S01E02 1080p CR WEB-DL A...` | **1435.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622996) • [🐱 Nyaa](https://nekobt.to/torrents/12491072393479) |
-| `[Onalrie] Azur Lane Bisoku Zenshin - Ni - S01E03 [1080p WEBRip AV1]` | **104.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/622997) • [🐱 Nyaa](https://onalrie.app/torrent/7d282a9f-0339-4f7c-b954-8bd4878f4738) |
-| `[Onalrie] One Piece - E1170 [1080p WEBRip AV1]` | **350.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/622995) • [🐱 Nyaa](https://nekobt.to/torrents/12490790594817) |
-| `[ASW] Azur Lane - Bisoku Zenshin! S2 - 03 [1080p HEVC x265 10Bit][AAC]` | **112.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/622992) • [🐱 Nyaa](https://nyaa.si/view/2135032) |
-| `[ASW] Futsutsuka na Akujo dewa Gozaimasu ga - 02 [1080p HEVC x265 1...` | **266.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/622993) • [🐱 Nyaa](https://nyaa.si/view/2135031) |
-| `[VARYG] Magilumiere Magical Girls Inc S02E03 Havent Seen Delusion L...` | **980.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622990) • [🐱 Nyaa](https://nekobt.to/torrents/12490521291014) |
-| `[ASW] Sayonara Lara - 03 [1080p HEVC x265 10Bit][AAC]` | **266.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/622994) • [🐱 Nyaa](https://nyaa.si/view/2135030) |
 
 ---
 <div align="center">
