@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.55.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.56.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 04 [1080...` | **569.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/623026) • [🐱 Nyaa](https://nyaa.si/view/2135074) |
+| `[FLE] Re ZERO Starting Life in Another World - S04E01-E11 (WEB 1080...` | **13212.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/623022) • [🐱 Nyaa](https://nyaa.si/view/2135071) |
+| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 03 [1080p CR WEBRip HE...` | **178.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/623023) • [🐱 Nyaa](https://nyaa.si/view/2135070) |
+| `Digimon Beatbreak S01E39 Lip Service REPACK 1080p CR WEB-DL AAC2.0 ...` | **1378.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623024) • [🐱 Nyaa](https://nyaa.si/view/2135069) |
+| `[Erai-raws] Sayonara Lara - 03 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **513.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623025) • [🐱 Nyaa](https://nyaa.si/view/2135068) |
 | `[Inka-Subs] Desert Rose - The Snow Apocalypse (1993) [BD 1080p HEVC...` | **7307.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/623020) • [🐱 Nyaa](https://nyaa.si/view/2135066) |
 | `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E04 [1080p][HEV...` | **498.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/623021) • [🐱 Nyaa](https://nyaa.si/view/2135064) |
 | `[BlackRabbit] Photo Kano (2013) - S01 [Bluray-1080p][Opus 2.0][AV1]` | **1844.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623017) • [🐱 Nyaa](https://nekobt.to/torrents/12492681551630) |
@@ -40,11 +45,6 @@
 | `[SubsPlease] Awajima Hyakkei (01-12) (1080p) [Batch]` | **16691.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623008) • [🐱 Nyaa](https://nyaa.si/view/2135052) |
 | `[CFN] Detective Conan - Episode 032 [Remastered] [Funimation Dub] [...` | **426.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623012) • [🐱 Nyaa](https://nekobt.to/torrents/12491876024325) |
 | `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E02 [WEB.108...` | **244.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623011) • [🐱 Nyaa](https://nyaa.si/view/2135049) |
-| `[Onalrie] Kabushikigaisha Magilumiere - S02E01 [1080p WEBRip AV1]` | **206.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/623005) • [🐱 Nyaa](https://nekobt.to/torrents/12491692584712) |
-| `[TSPlease] Though I Am an Inept Villainess S01E02 1080p CR WEB-DL A...` | **1441.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623004) • [🐱 Nyaa](https://nekobt.to/torrents/12491573175047) |
-| `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E03 [1080p][HEV...` | **596.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623001) • [🐱 Nyaa](https://nyaa.si/view/2135046) |
-| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E15 [1080p][HEVC x265 10b...` | **615.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623002) • [🐱 Nyaa](https://nyaa.si/view/2135045) |
-| `One Piece S01E1170 1080p CR WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **1384.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/623003) • [🐱 Nyaa](https://nyaa.si/view/2135040) |
 
 ---
 <div align="center">
