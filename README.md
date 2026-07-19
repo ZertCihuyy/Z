@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.59.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.03.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] One Piece - E1170 Rev. 2 [1080p WEBRip AV1]` | **353.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/623040) • [🐱 Nyaa](https://nekobt.to/torrents/12495772908558) |
+| `[CrappySubs] Sparks of Tomorrow - S01E03 (NF WEB 1080p H.264 AAC) [...` | **910.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/623039) • [🐱 Nyaa](https://nekobt.to/torrents/12495567240194) |
+| `[WOR] KAMUI - He's behind you S01E02 [WebEncode 1080p HEVC EAC3] mu...` | **1154.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/623038) • [🐱 Nyaa](https://nyaa.si/view/2135098) |
+| `[Erai-raws] One Piece - 1170 [1080p CR WEB-DL AVC AAC][MultiSub][BC...` | **1386.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/623034) • [🐱 Nyaa](https://nyaa.si/view/2135092) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 15 [1080p CR WEBRip HE...` | **722.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/623035) • [🐱 Nyaa](https://nyaa.si/view/2135091) |
+| `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E02 [1080p][...` | **581.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/623036) • [🐱 Nyaa](https://nyaa.si/view/2135090) |
+| `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E01 [1080p][...` | **568.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/623037) • [🐱 Nyaa](https://nyaa.si/view/2135089) |
 | `[Onalrie] Mushoku Tensei III - Isekai Ittara Honki Dasu - S03E04 [1...` | **227.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/623031) • [🐱 Nyaa](https://nekobt.to/torrents/12494517151242) |
 | `[Erai-raws] Digimon Beatbreak - 39 [1080p CR WEBRip HEVC AAC][Multi...` | **433.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/623027) • [🐱 Nyaa](https://nyaa.si/view/2135088) |
 | `[Erai-raws] Digimon Beatbreak - 39 (REPACK) [1080p CR WEB-DL AVC AA...` | **1379.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623030) • [🐱 Nyaa](https://nyaa.si/view/2135085) |
@@ -38,13 +45,6 @@
 | `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 03 [1080p CR WEBRip HE...` | **178.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/623023) • [🐱 Nyaa](https://nyaa.si/view/2135070) |
 | `Digimon Beatbreak S01E39 Lip Service REPACK 1080p CR WEB-DL AAC2.0 ...` | **1378.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623024) • [🐱 Nyaa](https://nyaa.si/view/2135069) |
 | `[Erai-raws] Sayonara Lara - 03 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **513.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623025) • [🐱 Nyaa](https://nyaa.si/view/2135068) |
-| `[Inka-Subs] Desert Rose - The Snow Apocalypse (1993) [BD 1080p HEVC...` | **7307.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/623020) • [🐱 Nyaa](https://nyaa.si/view/2135066) |
-| `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E04 [1080p][HEV...` | **498.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/623021) • [🐱 Nyaa](https://nyaa.si/view/2135064) |
-| `[BlackRabbit] Photo Kano (2013) - S01 [Bluray-1080p][Opus 2.0][AV1]` | **1844.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623017) • [🐱 Nyaa](https://nekobt.to/torrents/12492681551630) |
-| `Agents of the Four Seasons Dance of Spring S01E12 Assault 1080p CR ...` | **1636.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/623016) • [🐱 Nyaa](https://nyaa.si/view/2135063) |
-| `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 02 [1080p CR WE...` | **527.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/623014) • [🐱 Nyaa](https://nyaa.si/view/2135058) |
-| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 03 [1080p NF...` | **695.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623015) • [🐱 Nyaa](https://nyaa.si/view/2135057) |
-| `[HorribleSubs] 100% Pascal-sensei (1080p)` | **9935.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/623007) • [🐱 Nyaa](https://nyaa.si/view/2135056) |
 
 ---
 <div align="center">
