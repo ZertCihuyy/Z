@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.02.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.55.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 02 [10...` | **482.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/622760) • [🐱 Nyaa](https://nyaa.si/view/2134551) |
-| `[Onalrie] Mao - S01E16 [1080p WEBRip AV1]` | **244.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622759) • [🐱 Nyaa](https://onalrie.app/torrent/cb1fc033-caff-4a47-8615-eb0e388416f2) |
-| `[Anime Time] Black Torch - S01E03 [1080p][HEVC 10bit x265][AAC][Dua...` | **571.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/622757) • [🐱 Nyaa](https://nyaa.si/view/2134546) |
-| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E13 ...` | **572.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622758) • [🐱 Nyaa](https://nyaa.si/view/2134545) |
-| `[sam] The Ghost in the Shell (2026) - S01E02 (WEB 1080p HEVC x265 1...` | **4538.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622753) • [🐱 Nyaa](https://nyaa.si/view/2134542) |
-| `[Erai-raws] Tenmaku no Jaadugar - 04 [1080p CR WEBRip HEVC AAC][Mul...` | **761.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/622754) • [🐱 Nyaa](https://nyaa.si/view/2134541) |
-| `[ASW] Kimiai - 03 [1080p HEVC x265 10Bit][AAC]` | **247.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/622755) • [🐱 Nyaa](https://nyaa.si/view/2134540) |
-| `[ASW] Oni no Hanayome - 03 [1080p HEVC x265 10Bit][AAC]` | **224.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/622756) • [🐱 Nyaa](https://nyaa.si/view/2134539) |
-| `[Gecko] Odekake Kozame - S01E75 (おでかけ子ザメ; Odekake Kozame 2nd Season...` | **18.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/622747) • [🐱 Nyaa](https://nyaa.si/view/2134538) |
-| `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **230.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/622748) • [🐱 Nyaa](https://nyaa.si/view/2134536) |
-| `[Onalrie] Mao - S01E15 [1080p WEBRip AV1]` | **204.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/622752) • [🐱 Nyaa](https://onalrie.app/torrent/3734dfa7-53ca-47d7-8345-1fe208bdcc42) |
-| `[Erai-raws] Mao - 16 [1080p DSNP WEB-DL AVC AAC][MultiSub][8BECFEC7]` | **1021.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/622751) • [🐱 Nyaa](https://nyaa.si/view/2134533) |
-| `[ToonsHub] MAO S01E16 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1020.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/622744) • [🐱 Nyaa](https://nyaa.si/view/2134532) |
-| `[ToonsHub] The Elusive Samurai S02E01 1080p iQ WEB-DL AAC2.0 H.264 ...` | **422.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622745) • [🐱 Nyaa](https://nyaa.si/view/2134531) |
-| `[ToonsHub] MAO S01E15 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **902.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622746) • [🐱 Nyaa](https://nyaa.si/view/2134529) |
+| `[Serenae] Meitantei Precure! - 25 Fanart Corner (1080p).mkv` | **9.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622787) • [🐱 Nyaa](https://nyaa.si/view/2134669) |
+| `[Serenae] Meitantei Precure! - 25 (1080p).mkv` | **1399.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/622788) • [🐱 Nyaa](https://nyaa.si/view/2134666) |
+| `Cardfight!! Vanguard 15th Anniversary Remastered S01E14 (WEBDL 1080...` | **775.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/622786) • [🐱 Nyaa](https://nyaa.si/view/2134664) |
+| `Digimon Beatbreak S01E39 1080p CR WEB-DL AAC2.0 H 264-VARYG` | **1373.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/622777) • [🐱 Nyaa](https://nyaa.si/view/2134661) |
+| `[SubVision] World Is Dancing - 02 (WEB 1080p x264 8Bit AAC)` | **967.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/622785) • [🐱 Nyaa](https://nekobt.to/torrents/12477687744002) |
+| `[ToonsHub] Digimon Beatbreak S01E39 1080p CR WEB-DL AAC2.0 H.264 (E...` | **1373.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/622778) • [🐱 Nyaa](https://nyaa.si/view/2134658) |
+| `[SubsPlease] Digimon Beatbreak - 39 (1080p) [6B128773].mkv` | **1368.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/622779) • [🐱 Nyaa](https://nyaa.si/view/2134657) |
+| `[Erai-raws] Digimon Beatbreak - 39 [1080p CR WEB-DL AVC AAC][133139E2]` | **1375.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/622783) • [🐱 Nyaa](https://nyaa.si/view/2134653) |
+| `[ASW] Meitantei Precure! - 25 [1080p HEVC x265 10Bit][AAC]` | **629.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/622776) • [🐱 Nyaa](https://nyaa.si/view/2134639) |
+| `[Itsuki Gang] The Quintessential Quintuplets - S02E01 (BD 1080p HEV...` | **1373.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/622775) • [🐱 Nyaa](https://nyaa.si/view/2134637) |
+| `[BlackRose] Rich Girl Caretaker - S01E03 (WEB 1080p HEVC 10-bit EAC...` | **1267.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/622774) • [🐱 Nyaa](https://nekobt.to/torrents/12476493559053) |
+| `[Doomdos] - Urban Miracle Doctor - 195 [1080p IQ WEB-DL]` | **190.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622769) • [🐱 Nyaa](https://nyaa.si/view/2134626) |
+| `[SubsPlease] Meitantei Precure! - 25 (1080p) [E0674F68].mkv` | **1403.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/622770) • [🐱 Nyaa](https://nyaa.si/view/2134623) |
+| `[Erai-raws] Meitantei Precure - 25 [1080p CR WEB-DL AVC AAC][F9C712C9]` | **1409.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/622768) • [🐱 Nyaa](https://nekobt.to/torrents/12476173856264) |
+| `[Doomdos] - [Exclusive]In Search of Gods - 20 [1080p IQ WEB-DL]` | **332.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/622773) • [🐱 Nyaa](https://nyaa.si/view/2134616) |
 
 ---
 <div align="center">
