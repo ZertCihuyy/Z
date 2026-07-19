@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.56.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.59.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Mushoku Tensei III - Isekai Ittara Honki Dasu - S03E04 [1...` | **227.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/623031) • [🐱 Nyaa](https://nekobt.to/torrents/12494517151242) |
+| `[Erai-raws] Digimon Beatbreak - 39 [1080p CR WEBRip HEVC AAC][Multi...` | **433.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/623027) • [🐱 Nyaa](https://nyaa.si/view/2135088) |
+| `[Erai-raws] Digimon Beatbreak - 39 (REPACK) [1080p CR WEB-DL AVC AA...` | **1379.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623030) • [🐱 Nyaa](https://nyaa.si/view/2135085) |
 | `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 04 [1080...` | **569.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/623026) • [🐱 Nyaa](https://nyaa.si/view/2135074) |
 | `[FLE] Re ZERO Starting Life in Another World - S04E01-E11 (WEB 1080...` | **13212.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/623022) • [🐱 Nyaa](https://nyaa.si/view/2135071) |
 | `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 03 [1080p CR WEBRip HE...` | **178.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/623023) • [🐱 Nyaa](https://nyaa.si/view/2135070) |
@@ -42,9 +45,6 @@
 | `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 02 [1080p CR WE...` | **527.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/623014) • [🐱 Nyaa](https://nyaa.si/view/2135058) |
 | `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 03 [1080p NF...` | **695.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623015) • [🐱 Nyaa](https://nyaa.si/view/2135057) |
 | `[HorribleSubs] 100% Pascal-sensei (1080p)` | **9935.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/623007) • [🐱 Nyaa](https://nyaa.si/view/2135056) |
-| `[SubsPlease] Awajima Hyakkei (01-12) (1080p) [Batch]` | **16691.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623008) • [🐱 Nyaa](https://nyaa.si/view/2135052) |
-| `[CFN] Detective Conan - Episode 032 [Remastered] [Funimation Dub] [...` | **426.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623012) • [🐱 Nyaa](https://nekobt.to/torrents/12491876024325) |
-| `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E02 [WEB.108...` | **244.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623011) • [🐱 Nyaa](https://nyaa.si/view/2135049) |
 
 ---
 <div align="center">
