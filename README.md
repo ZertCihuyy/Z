@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.57.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.02.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 02 [10...` | **482.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/622760) • [🐱 Nyaa](https://nyaa.si/view/2134551) |
+| `[Onalrie] Mao - S01E16 [1080p WEBRip AV1]` | **244.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622759) • [🐱 Nyaa](https://onalrie.app/torrent/cb1fc033-caff-4a47-8615-eb0e388416f2) |
 | `[Anime Time] Black Torch - S01E03 [1080p][HEVC 10bit x265][AAC][Dua...` | **571.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/622757) • [🐱 Nyaa](https://nyaa.si/view/2134546) |
 | `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E13 ...` | **572.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/622758) • [🐱 Nyaa](https://nyaa.si/view/2134545) |
 | `[sam] The Ghost in the Shell (2026) - S01E02 (WEB 1080p HEVC x265 1...` | **4538.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622753) • [🐱 Nyaa](https://nyaa.si/view/2134542) |
@@ -46,8 +48,6 @@
 | `[ToonsHub] MAO S01E16 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1020.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/622744) • [🐱 Nyaa](https://nyaa.si/view/2134532) |
 | `[ToonsHub] The Elusive Samurai S02E01 1080p iQ WEB-DL AAC2.0 H.264 ...` | **422.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/622745) • [🐱 Nyaa](https://nyaa.si/view/2134531) |
 | `[ToonsHub] MAO S01E15 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **902.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622746) • [🐱 Nyaa](https://nyaa.si/view/2134529) |
-| `[ASW] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance - 0...` | **331.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/622737) • [🐱 Nyaa](https://nyaa.si/view/2134528) |
-| `MAO S01E15 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **902.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/622738) • [🐱 Nyaa](https://nyaa.si/view/2134527) |
 
 ---
 <div align="center">
