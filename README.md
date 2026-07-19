@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.43.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.39.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AnoZu] Hanaori-san Still Wants to Fight in the Next Life S01E02 RE...` | **1452.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/622859) • [🐱 Nyaa](https://nekobt.to/torrents/12485976927748) |
+| `[AnoZu] Hanaori-san Still Wants to Fight in the Next Life S01E01 RE...` | **1457.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/622860) • [🐱 Nyaa](https://nekobt.to/torrents/12485972450830) |
+| `[LbE3L] BLACK TORCH S01E03 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audi...` | **471.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/622861) • [🐱 Nyaa](https://nekobt.to/torrents/12485761089295) |
+| `Mushoku Tensei Jobless Reincarnation S03E02 Howl Mad Dog 1080p CR W...` | **1441.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/622858) • [🐱 Nyaa](https://nyaa.si/view/2134827) |
 | `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E02 1080p CR WEB...` | **1421.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/622857) • [🐱 Nyaa](https://nekobt.to/torrents/12485486776585) |
 | `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E01 1080p CR WEB...` | **1414.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/622853) • [🐱 Nyaa](https://nyaa.si/view/2134824) |
 | `Mushoku Tensei Jobless Reincarnation S03E01 Burn Bright Mad Dog 108...` | **1434.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/622854) • [🐱 Nyaa](https://nyaa.si/view/2134823) |
@@ -44,10 +48,6 @@
 | `[ASW] Tetsunabe no Jan! - 03 [1080p HEVC x265 10Bit][AAC]` | **288.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622847) • [🐱 Nyaa](https://nyaa.si/view/2134808) |
 | `[Onalrie] Tetsunabe no Jan - S01E03 [1080p WEBRip AV1]` | **243.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622848) • [🐱 Nyaa](https://nekobt.to/torrents/12483750722311) |
 | `[ASW] Let's Go Kaiki-gumi - 03 [1080p HEVC x265 10Bit][AAC]` | **234.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/622845) • [🐱 Nyaa](https://nyaa.si/view/2134799) |
-| `[ASW] Seihantai na Kimi to Boku - 15 [1080p HEVC x265 10Bit][AAC]` | **206.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622846) • [🐱 Nyaa](https://nyaa.si/view/2134798) |
-| `[Trix] You and I Are Polar Opposites S02E03 [WEBRip 1080p AV1 Opus]...` | **205.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622843) • [🐱 Nyaa](https://nekobt.to/torrents/12483425284364) |
-| `[Onalrie] Seihantai na Kimi to Boku - S02E03 [1080p WEBRip AV1]` | **204.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622844) • [🐱 Nyaa](https://nekobt.to/torrents/12483403224327) |
-| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **204.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622835) • [🐱 Nyaa](https://nyaa.si/view/2134795) |
 
 ---
 <div align="center">
