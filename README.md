@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.39.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.43.07_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E02 1080p CR WEB...` | **1421.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/622857) • [🐱 Nyaa](https://nekobt.to/torrents/12485486776585) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E01 1080p CR WEB...` | **1414.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/622853) • [🐱 Nyaa](https://nyaa.si/view/2134824) |
+| `Mushoku Tensei Jobless Reincarnation S03E01 Burn Bright Mad Dog 108...` | **1434.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/622854) • [🐱 Nyaa](https://nyaa.si/view/2134823) |
+| `[MicroHatSubs] One Piece 978-988 (BD 1080p)` | **14705.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/622855) • [🐱 Nyaa](https://nyaa.si/view/2134822) |
+| `[HatSubs] One Piece 978-988 (BD 1080p 10-bit)` | **30074.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/622856) • [🐱 Nyaa](https://nyaa.si/view/2134821) |
+| `[ALS] Medalist 01-13 (1080p BD AAC x264)` | **10483.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/622852) • [🐱 Nyaa](https://nekobt.to/torrents/12484756960256) |
+| `[FrixySubs] Though I Am an Inept Villainess - S01E01 [1080p CR WEB-...` | **1395.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/622851) • [🐱 Nyaa](https://nekobt.to/torrents/12484688374274) |
 | `[TSPlease] Iron Wok Jan S01E03 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1424.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622849) • [🐱 Nyaa](https://nyaa.si/view/2134812) |
 | `[ASW] Tetsunabe no Jan! - 03 [1080p HEVC x265 10Bit][AAC]` | **288.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/622847) • [🐱 Nyaa](https://nyaa.si/view/2134808) |
 | `[Onalrie] Tetsunabe no Jan - S01E03 [1080p WEBRip AV1]` | **243.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/622848) • [🐱 Nyaa](https://nekobt.to/torrents/12483750722311) |
@@ -41,13 +48,6 @@
 | `[Trix] You and I Are Polar Opposites S02E03 [WEBRip 1080p AV1 Opus]...` | **205.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/622843) • [🐱 Nyaa](https://nekobt.to/torrents/12483425284364) |
 | `[Onalrie] Seihantai na Kimi to Boku - S02E03 [1080p WEBRip AV1]` | **204.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/622844) • [🐱 Nyaa](https://nekobt.to/torrents/12483403224327) |
 | `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **204.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/622835) • [🐱 Nyaa](https://nyaa.si/view/2134795) |
-| `Iron Wok Jan S01E03 A Losers Cry of Victory 1080p CR WEB-DL AAC2.0 ...` | **1405.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/622836) • [🐱 Nyaa](https://nyaa.si/view/2134790) |
-| `You and I Are Polar Opposites S02E03 1080p NF WEB-DL AAC2.0 H 264-V...` | **883.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/622837) • [🐱 Nyaa](https://nyaa.si/view/2134789) |
-| `[ToonsHub] Iron Wok Jan S01E03 1080p CR WEB-DL AAC2.0 H.264 (Tetsun...` | **1424.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/622838) • [🐱 Nyaa](https://nyaa.si/view/2134787) |
-| `Wistoria Wand and Sword S02E12 A Story of a Dream with No End 1080p...` | **1710.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/622839) • [🐱 Nyaa](https://nyaa.si/view/2134786) |
-| `[Erai-raws] Tetsunabe no Jan - 03 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1384.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/622833) • [🐱 Nyaa](https://nekobt.to/torrents/12483112678412) |
-| `[SubsPlease] Tetsunabe no Jan! - 03 (1080p) [70D152EC].mkv` | **1374.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/622840) • [🐱 Nyaa](https://nyaa.si/view/2134779) |
-| `[Onalrie] Let's Go Kaiki-gumi - S01E03 [1080p WEBRip AV1]` | **173.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/622834) • [🐱 Nyaa](https://nekobt.to/torrents/12483084201482) |
 
 ---
 <div align="center">
