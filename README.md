@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.25.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.44.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Piyoko] Onegai AiPri - 16 [WEB AMZN 1080p h264 AC3 2.0]` | **985.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623207) • [🐱 Nyaa](https://nyaa.si/view/2135457) |
 | `One Piece S01E1169 The Legend Lurking in Elbaph-The Identity of the...` | **1400.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623206) • [🐱 Nyaa](https://nyaa.si/view/2135448) |
 | `[Judas] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi t...` | **200.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/623204) • [🐱 Nyaa](https://nyaa.si/view/2135439) |
 | `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E03 [1...` | **377.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/623202) • [🐱 Nyaa](https://nyaa.si/view/2135437) |
@@ -47,7 +48,6 @@
 | `[Erai-raws] Grand Blue Season 3 - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **452.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/623193) • [🐱 Nyaa](https://nyaa.si/view/2135411) |
 | `[ASW] LIAR GAME - 16 [1080p HEVC x265 10Bit][AAC]` | **192.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/623189) • [🐱 Nyaa](https://nyaa.si/view/2135407) |
 | `[Doomdos] - Grand Blue Dreaming3 - 3 [1080p IQ WEB-DL]` | **270.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623190) • [🐱 Nyaa](https://nyaa.si/view/2135405) |
-| `[Onalrie] World Is Dancing - S01E04 [1080p WEBRip AV1]` | **302.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623192) • [🐱 Nyaa](https://onalrie.app/torrent/7c3246d8-04dd-4488-a8b6-6312ba474831) |
 
 ---
 <div align="center">
