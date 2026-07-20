@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.41.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.41.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Grand Blue - S03E03 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **263.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623211) • [🐱 Nyaa](https://nyaa.si/view/2135464) |
+| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **286.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/623212) • [🐱 Nyaa](https://nyaa.si/view/2135463) |
+| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **725.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/623210) • [🐱 Nyaa](https://nyaa.si/view/2135462) |
 | `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E03 [1080p]...` | **212.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623208) • [🐱 Nyaa](https://nyaa.si/view/2135459) |
 | `[DKB] World Is Dancing - S01E04 [1080p][HEVC x265 10bit][weekly]` | **437.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623209) • [🐱 Nyaa](https://nyaa.si/view/2135458) |
 | `[Piyoko] Onegai AiPri - 16 [WEB AMZN 1080p h264 AC3 2.0]` | **985.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623207) • [🐱 Nyaa](https://nyaa.si/view/2135457) |
@@ -45,9 +48,6 @@
 | `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **404.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623199) • [🐱 Nyaa](https://nyaa.si/view/2135429) |
 | `[Onalrie] Liar Game - S01E16 [1080p WEBRip AV1]` | **166.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623198) • [🐱 Nyaa](https://onalrie.app/torrent/147d7036-f285-4cb8-ae6e-6292e5a644b0) |
 | `[Judas] Liar Game - S01E16 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **199.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/623195) • [🐱 Nyaa](https://nyaa.si/view/2135424) |
-| `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E03 [W...` | **381.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/623196) • [🐱 Nyaa](https://nyaa.si/view/2135423) |
-| `[Onalrie] Grand Blue - S03E03 [1080p WEBRip AV1]` | **236.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623194) • [🐱 Nyaa](https://onalrie.app/torrent/b9c65fe8-436d-4a27-82aa-7e8ce460efee) |
-| `[Erai-raws] Grand Blue Season 3 - 03 [1080p CR WEBRip HEVC AAC][Mul...` | **452.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/623193) • [🐱 Nyaa](https://nyaa.si/view/2135411) |
 
 ---
 <div align="center">
