@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.55.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.14.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] Love Unseen Beneath the Clear Night Sky 2026 S01E03 The Yel...` | **1428.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/623082) • [🐱 Nyaa](https://nekobt.to/torrents/12508481518084) |
-| `[ToonsHub] Love Unseen Beneath the Clear Night Sky 2026 S01E03 1080...` | **1424.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623074) • [🐱 Nyaa](https://nyaa.si/view/2135222) |
-| `[SubsPlease] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo ...` | **1401.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/623075) • [🐱 Nyaa](https://nyaa.si/view/2135220) |
-| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **1407.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623080) • [🐱 Nyaa](https://nyaa.si/view/2135213) |
-| `[ToonsHub] Love Unseen Beneath the Clear Night Sky 2026 S01E03 1080...` | **215.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/623081) • [🐱 Nyaa](https://nyaa.si/view/2135211) |
-| `[ToonsHub] One Piece EP1170 REPACK 1080p CR WEB-DL AAC2.0 H.264 (Mu...` | **1383.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/623073) • [🐱 Nyaa](https://nekobt.to/torrents/12508290514186) |
-| `[BlackRabbit] We Never Learn - BOKUBEN (2019) - S00 [Bluray-1080p][...` | **137.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/623072) • [🐱 Nyaa](https://nekobt.to/torrents/12506801298178) |
-| `[FLE] Witch Hat Atelier - S01 (WEB 1080p HEVC E-AC-3) [Dual Audio] ...` | **31128.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623071) • [🐱 Nyaa](https://nyaa.si/view/2135194) |
-| `[ToonsHub] One Piece EP1170 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **346.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623070) • [🐱 Nyaa](https://nyaa.si/view/2135192) |
-| `[Kotobuki] Tenmaku no Jaadugar 04 [1080p HEVC Multisub] | Jaadugar:...` | **289.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/623068) • [🐱 Nyaa](https://nyaa.si/view/2135191) |
-| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 03 [1080p] [AV1] (Weekly)` | **102.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623065) • [🐱 Nyaa](https://nyaa.si/view/2135185) |
-| `[BlackRabbit] We Never Learn - BOKUBEN (2019) - S02 [WEBDL-1080p][O...` | **2037.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/623064) • [🐱 Nyaa](https://nekobt.to/torrents/12504095170822) |
-| `Wistoria Wand and Sword S02E12 MULTi 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1424.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/623062) • [🐱 Nyaa](https://nekobt.to/torrents/12503930193669) |
-| `BLACK TORCH S01E03 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1453.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/623063) • [🐱 Nyaa](https://nekobt.to/torrents/12503915165184) |
-| `[Onalrie] Meitantei Precure - S01E25 [1080p WEBRip AV1]` | **503.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623061) • [🐱 Nyaa](https://nekobt.to/torrents/12503127996932) |
+| `[SubsPlease] Tenkosaki - 03 (1080p) [61ABF132].mkv` | **1376.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/623136) • [🐱 Nyaa](https://nyaa.si/view/2135328) |
+| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **1386.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/623140) • [🐱 Nyaa](https://nyaa.si/view/2135322) |
+| `A Livid Ladys Guide to Getting Even How I Crushed My Homeland with ...` | **1410.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/623118) • [🐱 Nyaa](https://nyaa.si/view/2135313) |
+| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **892.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/623119) • [🐱 Nyaa](https://nyaa.si/view/2135312) |
+| `[SubsPlease] Suterare Seijo no Isekai Gohan Tabi - 03 (1080p) [5658...` | **887.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/623120) • [🐱 Nyaa](https://nyaa.si/view/2135311) |
+| `[ToonsHub] A Livid Ladys Guide to Getting Even How I Crushed My Hom...` | **1430.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/623121) • [🐱 Nyaa](https://nyaa.si/view/2135310) |
+| `[ToonsHub] The Forsaken Saintess and Her Foodie Roadtrip in Another...` | **890.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/623123) • [🐱 Nyaa](https://nyaa.si/view/2135308) |
+| `[Erai-raws] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Ca...` | **891.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623125) • [🐱 Nyaa](https://nyaa.si/view/2135304) |
+| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **1390.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623130) • [🐱 Nyaa](https://nyaa.si/view/2135296) |
+| `[SubsPlease] Buchigire Reijou wa Houfuku wo Chikaimashita - 03 (108...` | **1382.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623131) • [🐱 Nyaa](https://nyaa.si/view/2135294) |
+| `[ToonsHub] The Forsaken Saintess and her Foodie Roadtrip in Another...` | **298.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623133) • [🐱 Nyaa](https://nyaa.si/view/2135289) |
+| `[ASW] World Is Dancing - 04 [1080p HEVC x265 10Bit][AAC]` | **409.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/623135) • [🐱 Nyaa](https://nyaa.si/view/2135286) |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E15 (1080p WEBRip AA...` | **429.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/623117) • [🐱 Nyaa](https://nekobt.to/torrents/12510163858958) |
+| `[Onalrie] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E03 [10...` | **162.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/623116) • [🐱 Nyaa](https://nekobt.to/torrents/12509947201547) |
+| `[ASW] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 - 03 [10...` | **379.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/623113) • [🐱 Nyaa](https://nyaa.si/view/2135277) |
 
 ---
 <div align="center">
