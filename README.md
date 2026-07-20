@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.08.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.30.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Meitantei Precure - S01E25 [1080p WEBRip AV1]` | **503.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623061) • [🐱 Nyaa](https://nekobt.to/torrents/12503127996932) |
+| `MAO S01E16 Hakubi 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **395.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623058) • [🐱 Nyaa](https://nyaa.si/view/2135157) |
+| `MAO S01E16 Hakubi 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **1020.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623059) • [🐱 Nyaa](https://nyaa.si/view/2135156) |
+| `[BlackRabbit] We Never Learn - BOKUBEN (2019) - S01 [Bluray-1080p][...` | **1735.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/623060) • [🐱 Nyaa](https://nekobt.to/torrents/12501498264328) |
+| `[FSP] Mushen Ji (Tales of Herding Gods) - 92 [1080p] (GB_CN) | 牧神记` | **467.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/623056) • [🐱 Nyaa](https://nyaa.si/view/2135154) |
 | `[Erai-raws] Meitantei Precure - 25 [1080p CR WEBRip HEVC AAC][Multi...` | **707.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/623051) • [🐱 Nyaa](https://nyaa.si/view/2135145) |
 | `[Erai-raws] Meitantei Precure - 25 [1080p CR WEB-DL AVC AAC][MultiS...` | **1415.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/623052) • [🐱 Nyaa](https://nyaa.si/view/2135144) |
 | `[Doomdos] - Lingwu Continent - 199 [1080p IQ WEB-DL]` | **201.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/623055) • [🐱 Nyaa](https://nyaa.si/view/2135141) |
@@ -40,11 +45,6 @@
 | `[Judas] Mushoku Tensei (Jobless Reincarnation) - S03E04 [1080p][HEV...` | **520.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/623043) • [🐱 Nyaa](https://nyaa.si/view/2135115) |
 | `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E02 1080p CR WEB-D...` | **1455.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/623044) • [🐱 Nyaa](https://nyaa.si/view/2135111) |
 | `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E01 1080p CR WEB-D...` | **1449.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/623045) • [🐱 Nyaa](https://nyaa.si/view/2135110) |
-| `[Judas] One Piece - 1170 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **393.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623041) • [🐱 Nyaa](https://nyaa.si/view/2135109) |
-| `[Erai-raws] One Piece - 1170 [1080p CR WEBRip HEVC AAC][MultiSub][E...` | **463.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/623042) • [🐱 Nyaa](https://nyaa.si/view/2135107) |
-| `[Onalrie] One Piece - E1170 Rev. 2 [1080p WEBRip AV1]` | **353.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/623040) • [🐱 Nyaa](https://nekobt.to/torrents/12495772908558) |
-| `[CrappySubs] Sparks of Tomorrow - S01E03 (NF WEB 1080p H.264 AAC) [...` | **910.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/623039) • [🐱 Nyaa](https://nekobt.to/torrents/12495567240194) |
-| `[WOR] KAMUI - He's behind you S01E02 [WebEncode 1080p HEVC EAC3] mu...` | **1154.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/623038) • [🐱 Nyaa](https://nyaa.si/view/2135098) |
 
 ---
 <div align="center">
