@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.30.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.55.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] Love Unseen Beneath the Clear Night Sky 2026 S01E03 The Yel...` | **1428.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/623082) • [🐱 Nyaa](https://nekobt.to/torrents/12508481518084) |
+| `[ToonsHub] Love Unseen Beneath the Clear Night Sky 2026 S01E03 1080...` | **1424.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623074) • [🐱 Nyaa](https://nyaa.si/view/2135222) |
+| `[SubsPlease] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo ...` | **1401.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/623075) • [🐱 Nyaa](https://nyaa.si/view/2135220) |
+| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **1407.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623080) • [🐱 Nyaa](https://nyaa.si/view/2135213) |
+| `[ToonsHub] Love Unseen Beneath the Clear Night Sky 2026 S01E03 1080...` | **215.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/623081) • [🐱 Nyaa](https://nyaa.si/view/2135211) |
+| `[ToonsHub] One Piece EP1170 REPACK 1080p CR WEB-DL AAC2.0 H.264 (Mu...` | **1383.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/623073) • [🐱 Nyaa](https://nekobt.to/torrents/12508290514186) |
+| `[BlackRabbit] We Never Learn - BOKUBEN (2019) - S00 [Bluray-1080p][...` | **137.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/623072) • [🐱 Nyaa](https://nekobt.to/torrents/12506801298178) |
+| `[FLE] Witch Hat Atelier - S01 (WEB 1080p HEVC E-AC-3) [Dual Audio] ...` | **31128.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623071) • [🐱 Nyaa](https://nyaa.si/view/2135194) |
 | `[ToonsHub] One Piece EP1170 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **346.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623070) • [🐱 Nyaa](https://nyaa.si/view/2135192) |
 | `[Kotobuki] Tenmaku no Jaadugar 04 [1080p HEVC Multisub] | Jaadugar:...` | **289.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/623068) • [🐱 Nyaa](https://nyaa.si/view/2135191) |
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 03 [1080p] [AV1] (Weekly)` | **102.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623065) • [🐱 Nyaa](https://nyaa.si/view/2135185) |
@@ -37,14 +45,6 @@
 | `Wistoria Wand and Sword S02E12 MULTi 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1424.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/623062) • [🐱 Nyaa](https://nekobt.to/torrents/12503930193669) |
 | `BLACK TORCH S01E03 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1453.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/623063) • [🐱 Nyaa](https://nekobt.to/torrents/12503915165184) |
 | `[Onalrie] Meitantei Precure - S01E25 [1080p WEBRip AV1]` | **503.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623061) • [🐱 Nyaa](https://nekobt.to/torrents/12503127996932) |
-| `MAO S01E16 Hakubi 1080p BILI WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **395.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623058) • [🐱 Nyaa](https://nyaa.si/view/2135157) |
-| `MAO S01E16 Hakubi 1080p DSNP WEB-DL AAC2.0 H 264-VARYG (Multi-Subs)` | **1020.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623059) • [🐱 Nyaa](https://nyaa.si/view/2135156) |
-| `[BlackRabbit] We Never Learn - BOKUBEN (2019) - S01 [Bluray-1080p][...` | **1735.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/623060) • [🐱 Nyaa](https://nekobt.to/torrents/12501498264328) |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 92 [1080p] (GB_CN) | 牧神记` | **467.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/623056) • [🐱 Nyaa](https://nyaa.si/view/2135154) |
-| `[Erai-raws] Meitantei Precure - 25 [1080p CR WEBRip HEVC AAC][Multi...` | **707.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/623051) • [🐱 Nyaa](https://nyaa.si/view/2135145) |
-| `[Erai-raws] Meitantei Precure - 25 [1080p CR WEB-DL AVC AAC][MultiS...` | **1415.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/623052) • [🐱 Nyaa](https://nyaa.si/view/2135144) |
-| `[Doomdos] - Lingwu Continent - 199 [1080p IQ WEB-DL]` | **201.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/623055) • [🐱 Nyaa](https://nyaa.si/view/2135141) |
-| `[ALS] Assault Lily: Bouquet 01-12 (1080p BD AAC x264)` | **4536.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623050) • [🐱 Nyaa](https://nekobt.to/torrents/12498323369479) |
 
 ---
 <div align="center">
