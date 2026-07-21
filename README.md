@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.21.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.03.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E07 (1080p AAC x265 B...` | **628.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/623242) • [🐱 Nyaa](https://nekobt.to/torrents/12528026488846) |
+| `[SubsNoJutsu] Goodbye, Lara - S01E03 (1080p WEBRip AAC x265) [0867C...` | **513.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623239) • [🐱 Nyaa](https://nekobt.to/torrents/12527629827593) |
+| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **285.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/623240) • [🐱 Nyaa](https://nekobt.to/torrents/12527603757839) |
+| `[BlackRabbit] Nyan Koi! (2009) - S01 [Bluray-1080p][Opus 2.0][AV1]` | **2306.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/623241) • [🐱 Nyaa](https://nekobt.to/torrents/12527597329410) |
+| `[BlackRabbit] Isekai Onsen Paradise (2024) - S01 [WEBDL-1080p][Opus...` | **587.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/623237) • [🐱 Nyaa](https://nekobt.to/torrents/12527527611662) |
+| `[BlackRabbit] Neon Genesis Evangelion (1995) - S01 v2 [Bluray-1080p...` | **8446.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/623238) • [🐱 Nyaa](https://nekobt.to/torrents/12527389827844) |
+| `[Onalrie] Crowned in a Hundred Days - S01E09 (CA) [1080p WEBRip AV1]` | **105.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/623236) • [🐱 Nyaa](https://onalrie.app/torrent/97ecb4ea-352b-4bd2-ac0a-bbecdded1c28) |
 | `[Doomdos] - Ascendants of the Nine Suns - 38 [1080p IQ WEB-DL]` | **157.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623232) • [🐱 Nyaa](https://nyaa.si/view/2135533) |
 | `[ToonsHub] Flaming Dodgeball Girl Danko S01E03 1080p AMZN WEB-DL DD...` | **1040.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623233) • [🐱 Nyaa](https://nyaa.si/view/2135529) |
 | `[Breeze] Mushoku Tensei S03E04 [1080p AV1] | Jobless Reincarnation ...` | **834.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623230) • [🐱 Nyaa](https://nyaa.si/view/2135526) |
@@ -41,13 +48,6 @@
 | `[Breeze] Mushoku Tensei S03E01 [1080p AV1 Dual Audio] | Jobless Rei...` | **939.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623229) • [🐱 Nyaa](https://nyaa.si/view/2135523) |
 | `[ASW] Bai Ri Cheng Wang - 09 [1080p HEVC x265 10Bit][AAC]` | **129.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/623226) • [🐱 Nyaa](https://nyaa.si/view/2135520) |
 | `[Erai-raws] Crowned in a Hundred Days - 09 (CA) [1080p CR WEBRip HE...` | **171.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623227) • [🐱 Nyaa](https://nyaa.si/view/2135519) |
-| `[Gecko] Crowned in a Hundred Days - S01E09 (百日成王; Bai Ri Cheng Wang...` | **143.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623218) • [🐱 Nyaa](https://nyaa.si/view/2135517) |
-| `Crowned in a Hundred Days S01E09 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **647.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623219) • [🐱 Nyaa](https://nyaa.si/view/2135514) |
-| `[ToonsHub] Crowned in a Hundred Days S01E09 1080p CR WEB-DL AAC2.0 ...` | **645.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623220) • [🐱 Nyaa](https://nyaa.si/view/2135513) |
-| `[SubsPlease] Bai Ri Cheng Wang - 09 (1080p) [E6124004].mkv` | **643.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/623221) • [🐱 Nyaa](https://nyaa.si/view/2135510) |
-| `[ToonsHub] Crowned in a Hundred Days S01E09 1080p BILI WEB-DL AAC2....` | **138.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623223) • [🐱 Nyaa](https://nyaa.si/view/2135506) |
-| `[Erai-raws] Crowned in a Hundred Days - 09 (CA) [1080p CR WEB-DL AV...` | **404.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623225) • [🐱 Nyaa](https://nyaa.si/view/2135504) |
-| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 03 (1080p) [M4XH0N3Y]` | **568.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/623235) • [🐱 Nyaa](https://nyaa.si/view/2135497) |
 
 ---
 <div align="center">
