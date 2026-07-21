@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.06.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.13.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E03 (1080p WEB EAC3 x265)...` | **596.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623390) • [🐱 Nyaa](https://nekobt.to/torrents/12539657656331) |
+| `[FrixySubs] Oh Boy, Was I Wrong About Her - S01E03 [1080p CR WEB-DL...` | **1386.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/623389) • [🐱 Nyaa](https://nekobt.to/torrents/12539364267526) |
 | `[ToonsHub] The Quintessential Quintuplets S00E04 The Quintuplets In...` | **1446.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623385) • [🐱 Nyaa](https://nekobt.to/torrents/12539081186570) |
 | `[ToonsHub] The Quintessential Quintuplets S00E05 The Quintuplets In...` | **1447.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623386) • [🐱 Nyaa](https://nekobt.to/torrents/12539072978182) |
 | `[ToonsHub] The Quintessential Quintuplets S00E03 A Not-so Coinciden...` | **1448.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623387) • [🐱 Nyaa](https://nekobt.to/torrents/12539054741513) |
@@ -46,8 +48,6 @@
 | `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep03 (1080...` | **841.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623377) • [🐱 Nyaa](https://nekobt.to/torrents/12538379894282) |
 | `[Yameii] Isekai Office Worker: The Other World's Books Depend on th...` | **1383.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623371) • [🐱 Nyaa](https://nyaa.si/view/2135794) |
 | `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E14 (86) [1080p CR ...` | **1400.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/623373) • [🐱 Nyaa](https://nekobt.to/torrents/12537124607232) |
-| `Though I Am an Inept Villainess S01E01 Though I Am an Inept Villain...` | **886.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/623368) • [🐱 Nyaa](https://nyaa.si/view/2135789) |
-| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E03 [WEB.1080p.AV1] | R...` | **234.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623369) • [🐱 Nyaa](https://nyaa.si/view/2135788) |
 
 ---
 <div align="center">
