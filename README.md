@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.33.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.21.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - Ascendants of the Nine Suns - 38 [1080p IQ WEB-DL]` | **157.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623232) • [🐱 Nyaa](https://nyaa.si/view/2135533) |
+| `[ToonsHub] Flaming Dodgeball Girl Danko S01E03 1080p AMZN WEB-DL DD...` | **1040.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623233) • [🐱 Nyaa](https://nyaa.si/view/2135529) |
+| `[Breeze] Mushoku Tensei S03E04 [1080p AV1] | Jobless Reincarnation ...` | **834.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623230) • [🐱 Nyaa](https://nyaa.si/view/2135526) |
+| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 03 (1080p) [N0PH0N3Y]` | **568.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623231) • [🐱 Nyaa](https://nyaa.si/view/2135525) |
+| `[Breeze] Mushoku Tensei S03E02 [1080p AV1 Dual Audio] | Jobless Rei...` | **894.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/623228) • [🐱 Nyaa](https://nyaa.si/view/2135524) |
+| `[Breeze] Mushoku Tensei S03E01 [1080p AV1 Dual Audio] | Jobless Rei...` | **939.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623229) • [🐱 Nyaa](https://nyaa.si/view/2135523) |
+| `[ASW] Bai Ri Cheng Wang - 09 [1080p HEVC x265 10Bit][AAC]` | **129.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/623226) • [🐱 Nyaa](https://nyaa.si/view/2135520) |
+| `[Erai-raws] Crowned in a Hundred Days - 09 (CA) [1080p CR WEBRip HE...` | **171.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623227) • [🐱 Nyaa](https://nyaa.si/view/2135519) |
 | `[Gecko] Crowned in a Hundred Days - S01E09 (百日成王; Bai Ri Cheng Wang...` | **143.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623218) • [🐱 Nyaa](https://nyaa.si/view/2135517) |
 | `Crowned in a Hundred Days S01E09 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **647.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623219) • [🐱 Nyaa](https://nyaa.si/view/2135514) |
 | `[ToonsHub] Crowned in a Hundred Days S01E09 1080p CR WEB-DL AAC2.0 ...` | **645.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623220) • [🐱 Nyaa](https://nyaa.si/view/2135513) |
 | `[SubsPlease] Bai Ri Cheng Wang - 09 (1080p) [E6124004].mkv` | **643.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/623221) • [🐱 Nyaa](https://nyaa.si/view/2135510) |
 | `[ToonsHub] Crowned in a Hundred Days S01E09 1080p BILI WEB-DL AAC2....` | **138.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623223) • [🐱 Nyaa](https://nyaa.si/view/2135506) |
 | `[Erai-raws] Crowned in a Hundred Days - 09 (CA) [1080p CR WEB-DL AV...` | **404.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623225) • [🐱 Nyaa](https://nyaa.si/view/2135504) |
-| `[sgt] This Monster Wants to Eat Me - S01E09 (WEB 1080p HEVC EAC3) |...` | **2131.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/623215) • [🐱 Nyaa](https://nyaa.si/view/2135488) |
-| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **250.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623213) • [🐱 Nyaa](https://nyaa.si/view/2135478) |
-| `[DKB] Grand Blue - S03E03 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **263.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623211) • [🐱 Nyaa](https://nyaa.si/view/2135464) |
-| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **286.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/623212) • [🐱 Nyaa](https://nyaa.si/view/2135463) |
-| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **725.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/623210) • [🐱 Nyaa](https://nyaa.si/view/2135462) |
-| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E03 [1080p]...` | **212.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623208) • [🐱 Nyaa](https://nyaa.si/view/2135459) |
-| `[DKB] World Is Dancing - S01E04 [1080p][HEVC x265 10bit][weekly]` | **437.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623209) • [🐱 Nyaa](https://nyaa.si/view/2135458) |
-| `[Piyoko] Onegai AiPri - 16 [WEB AMZN 1080p h264 AC3 2.0]` | **985.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623207) • [🐱 Nyaa](https://nyaa.si/view/2135457) |
-| `One Piece S01E1169 The Legend Lurking in Elbaph-The Identity of the...` | **1400.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623206) • [🐱 Nyaa](https://nyaa.si/view/2135448) |
+| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 03 (1080p) [M4XH0N3Y]` | **568.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/623235) • [🐱 Nyaa](https://nyaa.si/view/2135497) |
 
 ---
 <div align="center">
