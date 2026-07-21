@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.49.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.06.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] The Quintessential Quintuplets S00E04 The Quintuplets In...` | **1446.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623385) • [🐱 Nyaa](https://nekobt.to/torrents/12539081186570) |
+| `[ToonsHub] The Quintessential Quintuplets S00E05 The Quintuplets In...` | **1447.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623386) • [🐱 Nyaa](https://nekobt.to/torrents/12539072978182) |
+| `[ToonsHub] The Quintessential Quintuplets S00E03 A Not-so Coinciden...` | **1448.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623387) • [🐱 Nyaa](https://nekobt.to/torrents/12539054741513) |
+| `[ToonsHub] The Quintessential Quintuplets S00E02 A Not-so Coinciden...` | **1443.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623388) • [🐱 Nyaa](https://nekobt.to/torrents/12539041436936) |
+| `The Quintessential Quintuplets S04E02 No Coincidences in This Summe...` | **1448.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623379) • [🐱 Nyaa](https://nyaa.si/view/2135808) |
+| `The Quintessential Quintuplets S04E03 Operation Quintuplets Part 1 ...` | **1449.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/623380) • [🐱 Nyaa](https://nyaa.si/view/2135806) |
+| `The Quintessential Quintuplets S04E04 Operation Quintuplets Part 2 ...` | **1448.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/623381) • [🐱 Nyaa](https://nyaa.si/view/2135805) |
+| `The Quintessential Quintuplets S04E01 No Coincidences in This Summe...` | **1443.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623382) • [🐱 Nyaa](https://nyaa.si/view/2135804) |
+| `[DB] Jigokuraku 2nd Season | Hell's Paradise Season 2 [Dual Audio 1...` | **8553.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/623383) • [🐱 Nyaa](https://nyaa.si/view/2135803) |
+| `[Feibanyama] From Overshadowed to Overpowered Second Reincarnation ...` | **324.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623384) • [🐱 Nyaa](https://nyaa.si/view/2135800) |
+| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep03 (1080...` | **841.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623377) • [🐱 Nyaa](https://nekobt.to/torrents/12538379894282) |
 | `[Yameii] Isekai Office Worker: The Other World's Books Depend on th...` | **1383.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623371) • [🐱 Nyaa](https://nyaa.si/view/2135794) |
 | `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E14 (86) [1080p CR ...` | **1400.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/623373) • [🐱 Nyaa](https://nekobt.to/torrents/12537124607232) |
 | `Though I Am an Inept Villainess S01E01 Though I Am an Inept Villain...` | **886.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/623368) • [🐱 Nyaa](https://nyaa.si/view/2135789) |
 | `[Ironclad] Sora wa Akai Kawa no Hotori - S01E03 [WEB.1080p.AV1] | R...` | **234.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623369) • [🐱 Nyaa](https://nyaa.si/view/2135788) |
-| `Though I Am an Inept Villainess S01E01 Though I Am an Inept Villain...` | **895.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/623370) • [🐱 Nyaa](https://nyaa.si/view/2135787) |
-| `[ToonsHub] Grand Blue Dreaming S03E03 1080p AMZN WEB-DL DDP2.0 H.26...` | **733.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/623366) • [🐱 Nyaa](https://nyaa.si/view/2135783) |
-| `[HatSubs] One Piece 1170 (WEB 1080p) [803A61D5].mkv` | **1381.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623367) • [🐱 Nyaa](https://nyaa.si/view/2135782) |
-| `[Sokudo] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Campi...` | **201.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/623365) • [🐱 Nyaa](https://nyaa.si/view/2135781) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 03 [1080p CR WEBRip HEVC ...` | **408.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623363) • [🐱 Nyaa](https://nekobt.to/torrents/12536118082063) |
-| `[Erai-raws] Koukaku Kidoutai (2026) - 03 [1080p AMZN WEBRip HEVC EA...` | **645.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623357) • [🐱 Nyaa](https://nyaa.si/view/2135778) |
-| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 03 [1080p CR WE...` | **603.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/623359) • [🐱 Nyaa](https://nyaa.si/view/2135776) |
-| `[ToonsHub] Mission Yozakura Family S02E01-E12 1080p DSNP WEB-DL DUA...` | **10078.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/623360) • [🐱 Nyaa](https://nyaa.si/view/2135775) |
-| `[Erai-raws] Tefuda ga Oome no Victoria - 03 [1080p CR WEBRip HEVC A...` | **424.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623361) • [🐱 Nyaa](https://nyaa.si/view/2135773) |
-| `[AnoZu] Mission: Yozakura Family S02 Part 1 1080p DSNP WEB-DL Dual-...` | **10125.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/623362) • [🐱 Nyaa](https://nyaa.si/view/2135772) |
-| `[Aoi-Project] Mato Seihei no Slave - Saison 2 VOSTFR [BD CUSTOM 108...` | **19278.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/623364) • [🐱 Nyaa](https://nekobt.to/torrents/12535958290189) |
 
 ---
 <div align="center">
