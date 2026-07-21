@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.41.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.11.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **250.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623213) • [🐱 Nyaa](https://nyaa.si/view/2135478) |
 | `[DKB] Grand Blue - S03E03 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **263.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623211) • [🐱 Nyaa](https://nyaa.si/view/2135464) |
 | `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **286.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/623212) • [🐱 Nyaa](https://nyaa.si/view/2135463) |
 | `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **725.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/623210) • [🐱 Nyaa](https://nyaa.si/view/2135462) |
@@ -47,7 +48,6 @@
 | `[Judas] Grand Blue Dreaming - S03E03 [1080p][HEVC x265 10bit][Multi...` | **244.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623201) • [🐱 Nyaa](https://nyaa.si/view/2135431) |
 | `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **404.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623199) • [🐱 Nyaa](https://nyaa.si/view/2135429) |
 | `[Onalrie] Liar Game - S01E16 [1080p WEBRip AV1]` | **166.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623198) • [🐱 Nyaa](https://onalrie.app/torrent/147d7036-f285-4cb8-ae6e-6292e5a644b0) |
-| `[Judas] Liar Game - S01E16 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **199.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/623195) • [🐱 Nyaa](https://nyaa.si/view/2135424) |
 
 ---
 <div align="center">
