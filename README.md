@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.46.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.38.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[DKB] Tefuda ga Oome no Victoria - S01E03 [1080p][HEVC x265 10bit][...` | **269.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/623343) • [🐱 Nyaa](https://nyaa.si/view/2135756) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 03 [1080p CR WEB-DL AVC A...` | **1341.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623345) • [🐱 Nyaa](https://nyaa.si/view/2135754) |
-| `[SubsPlease] Sora wa Akai Kawa no Hotori - 03 (1080p) [8424085D].mkv` | **1333.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/623346) • [🐱 Nyaa](https://nyaa.si/view/2135753) |
-| `Red River 2026 S01E03 I Cant Go Back I Wont Go Back 1080p CR WEB-DL...` | **1344.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/623348) • [🐱 Nyaa](https://nyaa.si/view/2135751) |
-| `[ToonsHub] Red River S01E03 1080p CR WEB-DL AAC2.0 H.264 (Sora wa A...` | **1342.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/623350) • [🐱 Nyaa](https://nyaa.si/view/2135749) |
-| `[DKB] The Ghost in the Shell - S01E03 [1080p][HEVC x265 10bit][Dual...` | **1039.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/623341) • [🐱 Nyaa](https://nyaa.si/view/2135743) |
-| `[Ironclad] THE GHOST IN THE SHELL - S01E03 [WEB.1080p.AV1] | THE GH...` | **670.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/623342) • [🐱 Nyaa](https://nyaa.si/view/2135742) |
-| `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E03 [...` | **596.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/623340) • [🐱 Nyaa](https://nyaa.si/view/2135738) |
-| `[Tasokare] Mobile Suit Gundam: Hathaway 2021 (BD 1080p Opus AV1) | ...` | **4056.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/623338) • [🐱 Nyaa](https://nyaa.si/view/2135733) |
-| `[Kawatare] Mobile Suit Gundam: Hathaway 2021 (BD 1080p DD+ Atmos x2...` | **15381.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/623339) • [🐱 Nyaa](https://nyaa.si/view/2135732) |
-| `[Onalrie] Koukaku Kidoutai (2026) - S01E03 [1080p WEBRip AV1]` | **403.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/623336) • [🐱 Nyaa](https://nekobt.to/torrents/12534346035724) |
-| `[ASW] Yoroi Shin Den Samurai Troopers - 15 [1080p HEVC x265 10Bit][...` | **599.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623333) • [🐱 Nyaa](https://nyaa.si/view/2135726) |
-| `[Onalrie] Tefuda ga Oome no Victoria - S01E03 [1080p WEBRip AV1]` | **210.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623335) • [🐱 Nyaa](https://onalrie.app/torrent/003aecba-e051-4c80-9e83-01618c383864) |
-| `[ASW] Tefuda ga Oome no Victoria - 03 [1080p HEVC x265 10Bit][AAC]` | **249.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/623334) • [🐱 Nyaa](https://nyaa.si/view/2135724) |
-| `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **240.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/623332) • [🐱 Nyaa](https://nyaa.si/view/2135717) |
+| `Though I Am an Inept Villainess S01E01 Though I Am an Inept Villain...` | **886.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/623368) • [🐱 Nyaa](https://nyaa.si/view/2135789) |
+| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E03 [WEB.1080p.AV1] | R...` | **234.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623369) • [🐱 Nyaa](https://nyaa.si/view/2135788) |
+| `Though I Am an Inept Villainess S01E01 Though I Am an Inept Villain...` | **895.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/623370) • [🐱 Nyaa](https://nyaa.si/view/2135787) |
+| `[ToonsHub] Grand Blue Dreaming S03E03 1080p AMZN WEB-DL DDP2.0 H.26...` | **733.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/623366) • [🐱 Nyaa](https://nyaa.si/view/2135783) |
+| `[HatSubs] One Piece 1170 (WEB 1080p) [803A61D5].mkv` | **1381.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623367) • [🐱 Nyaa](https://nyaa.si/view/2135782) |
+| `[Sokudo] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Campi...` | **201.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/623365) • [🐱 Nyaa](https://nyaa.si/view/2135781) |
+| `[Erai-raws] Sora wa Akai Kawa no Hotori - 03 [1080p CR WEBRip HEVC ...` | **408.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623363) • [🐱 Nyaa](https://nekobt.to/torrents/12536118082063) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 03 [1080p AMZN WEBRip HEVC EA...` | **645.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623357) • [🐱 Nyaa](https://nyaa.si/view/2135778) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 03 [1080p CR WE...` | **603.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/623359) • [🐱 Nyaa](https://nyaa.si/view/2135776) |
+| `[ToonsHub] Mission Yozakura Family S02E01-E12 1080p DSNP WEB-DL DUA...` | **10078.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/623360) • [🐱 Nyaa](https://nyaa.si/view/2135775) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 03 [1080p CR WEBRip HEVC A...` | **424.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623361) • [🐱 Nyaa](https://nyaa.si/view/2135773) |
+| `[AnoZu] Mission: Yozakura Family S02 Part 1 1080p DSNP WEB-DL Dual-...` | **10125.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/623362) • [🐱 Nyaa](https://nyaa.si/view/2135772) |
+| `[Aoi-Project] Mato Seihei no Slave - Saison 2 VOSTFR [BD CUSTOM 108...` | **19278.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/623364) • [🐱 Nyaa](https://nekobt.to/torrents/12535958290189) |
+| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E03 [1080p WEBRip AV1]` | **209.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/623356) • [🐱 Nyaa](https://nekobt.to/torrents/12535831391488) |
+| `[ASW] Sora wa Akai Kawa no Hotori - 03 [1080p HEVC x265 10Bit][AAC]` | **246.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623354) • [🐱 Nyaa](https://nyaa.si/view/2135769) |
 
 ---
 <div align="center">
