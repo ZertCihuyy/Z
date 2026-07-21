@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.38.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.49.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] Isekai Office Worker: The Other World's Books Depend on th...` | **1383.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623371) • [🐱 Nyaa](https://nyaa.si/view/2135794) |
+| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E14 (86) [1080p CR ...` | **1400.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/623373) • [🐱 Nyaa](https://nekobt.to/torrents/12537124607232) |
 | `Though I Am an Inept Villainess S01E01 Though I Am an Inept Villain...` | **886.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/623368) • [🐱 Nyaa](https://nyaa.si/view/2135789) |
 | `[Ironclad] Sora wa Akai Kawa no Hotori - S01E03 [WEB.1080p.AV1] | R...` | **234.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623369) • [🐱 Nyaa](https://nyaa.si/view/2135788) |
 | `Though I Am an Inept Villainess S01E01 Though I Am an Inept Villain...` | **895.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/623370) • [🐱 Nyaa](https://nyaa.si/view/2135787) |
@@ -46,8 +48,6 @@
 | `[Erai-raws] Tefuda ga Oome no Victoria - 03 [1080p CR WEBRip HEVC A...` | **424.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623361) • [🐱 Nyaa](https://nyaa.si/view/2135773) |
 | `[AnoZu] Mission: Yozakura Family S02 Part 1 1080p DSNP WEB-DL Dual-...` | **10125.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/623362) • [🐱 Nyaa](https://nyaa.si/view/2135772) |
 | `[Aoi-Project] Mato Seihei no Slave - Saison 2 VOSTFR [BD CUSTOM 108...` | **19278.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/623364) • [🐱 Nyaa](https://nekobt.to/torrents/12535958290189) |
-| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E03 [1080p WEBRip AV1]` | **209.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/623356) • [🐱 Nyaa](https://nekobt.to/torrents/12535831391488) |
-| `[ASW] Sora wa Akai Kawa no Hotori - 03 [1080p HEVC x265 10Bit][AAC]` | **246.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623354) • [🐱 Nyaa](https://nyaa.si/view/2135769) |
 
 ---
 <div align="center">
