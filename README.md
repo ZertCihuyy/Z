@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.03.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.01.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Young Ladies Dont Play Fighting Games S01E03 Late-Night Locals 1080...` | **1414.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623248) • [🐱 Nyaa](https://nyaa.si/view/2135564) |
+| `[ToonsHub] Young Ladies Dont Play Fighting Games S01E03 1080p CR WE...` | **1395.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/623249) • [🐱 Nyaa](https://nyaa.si/view/2135563) |
+| `[SubsPlease] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai...` | **1387.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623250) • [🐱 Nyaa](https://nyaa.si/view/2135560) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **1395.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623255) • [🐱 Nyaa](https://nyaa.si/view/2135555) |
+| `[Gecko] Rilakkuma - S01E16 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **46.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/623247) • [🐱 Nyaa](https://nyaa.si/view/2135550) |
+| `[vLbE3L] Wistoria Wand and Sword S02E12 [1080p CR WEBRip VVC HE-AAC...` | **267.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/623245) • [🐱 Nyaa](https://nekobt.to/torrents/12529145821441) |
+| `[LbE3L] Wistoria Wand and Sword S02E12 [1080p CR WEBRip AV1 Opus 2....` | **459.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623246) • [🐱 Nyaa](https://nekobt.to/torrents/12529104539917) |
+| `[SubsNoJutsu] Lord of Mysteries - S01E06 (1080p WEBRip AAC x265) [F...` | **880.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/623244) • [🐱 Nyaa](https://nekobt.to/torrents/12528539557391) |
+| `[ToonsHub] Above Myriads S01E09 1080p iQ WEB-DL AAC2.0 H.264 (Wan R...` | **359.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/623243) • [🐱 Nyaa](https://nyaa.si/view/2135547) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E07 (1080p AAC x265 B...` | **628.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/623242) • [🐱 Nyaa](https://nekobt.to/torrents/12528026488846) |
 | `[SubsNoJutsu] Goodbye, Lara - S01E03 (1080p WEBRip AAC x265) [0867C...` | **513.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623239) • [🐱 Nyaa](https://nekobt.to/torrents/12527629827593) |
 | `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **285.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/623240) • [🐱 Nyaa](https://nekobt.to/torrents/12527603757839) |
 | `[BlackRabbit] Nyan Koi! (2009) - S01 [Bluray-1080p][Opus 2.0][AV1]` | **2306.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/623241) • [🐱 Nyaa](https://nekobt.to/torrents/12527597329410) |
 | `[BlackRabbit] Isekai Onsen Paradise (2024) - S01 [WEBDL-1080p][Opus...` | **587.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/623237) • [🐱 Nyaa](https://nekobt.to/torrents/12527527611662) |
 | `[BlackRabbit] Neon Genesis Evangelion (1995) - S01 v2 [Bluray-1080p...` | **8446.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/623238) • [🐱 Nyaa](https://nekobt.to/torrents/12527389827844) |
-| `[Onalrie] Crowned in a Hundred Days - S01E09 (CA) [1080p WEBRip AV1]` | **105.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/623236) • [🐱 Nyaa](https://onalrie.app/torrent/97ecb4ea-352b-4bd2-ac0a-bbecdded1c28) |
-| `[Doomdos] - Ascendants of the Nine Suns - 38 [1080p IQ WEB-DL]` | **157.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623232) • [🐱 Nyaa](https://nyaa.si/view/2135533) |
-| `[ToonsHub] Flaming Dodgeball Girl Danko S01E03 1080p AMZN WEB-DL DD...` | **1040.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623233) • [🐱 Nyaa](https://nyaa.si/view/2135529) |
-| `[Breeze] Mushoku Tensei S03E04 [1080p AV1] | Jobless Reincarnation ...` | **834.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623230) • [🐱 Nyaa](https://nyaa.si/view/2135526) |
-| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 03 (1080p) [N0PH0N3Y]` | **568.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623231) • [🐱 Nyaa](https://nyaa.si/view/2135525) |
-| `[Breeze] Mushoku Tensei S03E02 [1080p AV1 Dual Audio] | Jobless Rei...` | **894.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/623228) • [🐱 Nyaa](https://nyaa.si/view/2135524) |
-| `[Breeze] Mushoku Tensei S03E01 [1080p AV1 Dual Audio] | Jobless Rei...` | **939.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623229) • [🐱 Nyaa](https://nyaa.si/view/2135523) |
-| `[ASW] Bai Ri Cheng Wang - 09 [1080p HEVC x265 10Bit][AAC]` | **129.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/623226) • [🐱 Nyaa](https://nyaa.si/view/2135520) |
-| `[Erai-raws] Crowned in a Hundred Days - 09 (CA) [1080p CR WEBRip HE...` | **171.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623227) • [🐱 Nyaa](https://nyaa.si/view/2135519) |
 
 ---
 <div align="center">
