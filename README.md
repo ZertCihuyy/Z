@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.11.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.33.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Crowned in a Hundred Days - S01E09 (百日成王; Bai Ri Cheng Wang...` | **143.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623218) • [🐱 Nyaa](https://nyaa.si/view/2135517) |
+| `Crowned in a Hundred Days S01E09 1080p CR WEB-DL AAC2.0 H 264-VARYG...` | **647.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623219) • [🐱 Nyaa](https://nyaa.si/view/2135514) |
+| `[ToonsHub] Crowned in a Hundred Days S01E09 1080p CR WEB-DL AAC2.0 ...` | **645.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623220) • [🐱 Nyaa](https://nyaa.si/view/2135513) |
+| `[SubsPlease] Bai Ri Cheng Wang - 09 (1080p) [E6124004].mkv` | **643.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/623221) • [🐱 Nyaa](https://nyaa.si/view/2135510) |
+| `[ToonsHub] Crowned in a Hundred Days S01E09 1080p BILI WEB-DL AAC2....` | **138.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623223) • [🐱 Nyaa](https://nyaa.si/view/2135506) |
+| `[Erai-raws] Crowned in a Hundred Days - 09 (CA) [1080p CR WEB-DL AV...` | **404.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623225) • [🐱 Nyaa](https://nyaa.si/view/2135504) |
+| `[sgt] This Monster Wants to Eat Me - S01E09 (WEB 1080p HEVC EAC3) |...` | **2131.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/623215) • [🐱 Nyaa](https://nyaa.si/view/2135488) |
 | `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **250.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623213) • [🐱 Nyaa](https://nyaa.si/view/2135478) |
 | `[DKB] Grand Blue - S03E03 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **263.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623211) • [🐱 Nyaa](https://nyaa.si/view/2135464) |
 | `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **286.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/623212) • [🐱 Nyaa](https://nyaa.si/view/2135463) |
@@ -41,13 +48,6 @@
 | `[DKB] World Is Dancing - S01E04 [1080p][HEVC x265 10bit][weekly]` | **437.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623209) • [🐱 Nyaa](https://nyaa.si/view/2135458) |
 | `[Piyoko] Onegai AiPri - 16 [WEB AMZN 1080p h264 AC3 2.0]` | **985.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623207) • [🐱 Nyaa](https://nyaa.si/view/2135457) |
 | `One Piece S01E1169 The Legend Lurking in Elbaph-The Identity of the...` | **1400.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623206) • [🐱 Nyaa](https://nyaa.si/view/2135448) |
-| `[Judas] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi t...` | **200.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/623204) • [🐱 Nyaa](https://nyaa.si/view/2135439) |
-| `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E03 [1...` | **377.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/623202) • [🐱 Nyaa](https://nyaa.si/view/2135437) |
-| `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **172.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/623203) • [🐱 Nyaa](https://nyaa.si/view/2135436) |
-| `[Erai-raws] Liar Game - 16 [1080p CR WEBRip HEVC AAC][MultiSub][02A...` | **399.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/623200) • [🐱 Nyaa](https://nyaa.si/view/2135433) |
-| `[Judas] Grand Blue Dreaming - S03E03 [1080p][HEVC x265 10bit][Multi...` | **244.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623201) • [🐱 Nyaa](https://nyaa.si/view/2135431) |
-| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **404.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623199) • [🐱 Nyaa](https://nyaa.si/view/2135429) |
-| `[Onalrie] Liar Game - S01E16 [1080p WEBRip AV1]` | **166.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623198) • [🐱 Nyaa](https://onalrie.app/torrent/147d7036-f285-4cb8-ae6e-6292e5a644b0) |
 
 ---
 <div align="center">
