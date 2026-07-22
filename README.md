@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.27.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.32.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton...` | **416.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/623602) • [🐱 Nyaa](https://nyaa.si/view/2136206) |
+| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E15 (87) [1080p CR ...` | **1403.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623601) • [🐱 Nyaa](https://nekobt.to/torrents/12562442559746) |
+| `[Erai-raws] Thunder 3 - 03 [1080p NF WEBRip HEVC AAC][MultiSub][F1C...` | **668.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623599) • [🐱 Nyaa](https://nyaa.si/view/2136205) |
+| `The Twelve Kingdoms 1080p BDRip x265.Opus 5.1` | **41758.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/623600) • [🐱 Nyaa](https://nyaa.si/view/2136203) |
+| `Mermaid Melody Pichi Pichi Pitch 14-26 - [1080p WEB-DL AAC 2.0 x264]` | **15849.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623598) • [🐱 Nyaa](https://nekobt.to/torrents/12561723694341) |
 | `[Salieri] Fate Strange Fake S1 +Whispers of Dawn - BD (1080p) (HDR)...` | **50119.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623597) • [🐱 Nyaa](https://nyaa.si/view/2136202) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E09 (1080p AAC x265 B...` | **629.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/623596) • [🐱 Nyaa](https://nekobt.to/torrents/12561435953921) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 75 [1080p] [9758...` | **20.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/623595) • [🐱 Nyaa](https://nyaa.si/view/2136200) |
@@ -41,11 +46,6 @@
 | `[ToonsHub] Candy Caries S01E15 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **157.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623590) • [🐱 Nyaa](https://nyaa.si/view/2136195) |
 | `[DKB] LV999 no Murabito - S01E05 [1080p][HEVC x265 10bit][Multi-Sub...` | **328.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623585) • [🐱 Nyaa](https://nyaa.si/view/2136192) |
 | `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E03 [1080p][HEVC x265...` | **438.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/623586) • [🐱 Nyaa](https://nyaa.si/view/2136191) |
-| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E03 [1080...` | **255.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/623587) • [🐱 Nyaa](https://nyaa.si/view/2136190) |
-| `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E05 [...` | **496.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/623588) • [🐱 Nyaa](https://nyaa.si/view/2136189) |
-| `[Yameii] Tomb Raider King - S01E01 [English Dub] [CR WEB-DL 1080p H...` | **1349.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623589) • [🐱 Nyaa](https://nyaa.si/view/2136188) |
-| `[ToonsHub] Hana-Kimi S02E02 1080p CR WEB-DL MULTi AAC2.0 H.264 (Han...` | **1559.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623581) • [🐱 Nyaa](https://nyaa.si/view/2136186) |
-| `[ToonsHub] Hana-Kimi S02E01 1080p CR WEB-DL MULTi AAC2.0 H.264 (Han...` | **1560.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623582) • [🐱 Nyaa](https://nyaa.si/view/2136185) |
 
 ---
 <div align="center">
