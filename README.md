@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.52.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.13.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sam] The Ghost in the Shell (2026) - S01E03 (WEB 1080p HEVC x265 1...` | **4495.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/623591) • [🐱 Nyaa](https://nyaa.si/view/2136198) |
+| `[Erai-raws] Dogulwang - 03 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **548.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/623592) • [🐱 Nyaa](https://nyaa.si/view/2136196) |
+| `[ToonsHub] Candy Caries S01E15 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **157.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623590) • [🐱 Nyaa](https://nyaa.si/view/2136195) |
+| `[DKB] LV999 no Murabito - S01E05 [1080p][HEVC x265 10bit][Multi-Sub...` | **328.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623585) • [🐱 Nyaa](https://nyaa.si/view/2136192) |
+| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E03 [1080p][HEVC x265...` | **438.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/623586) • [🐱 Nyaa](https://nyaa.si/view/2136191) |
+| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E03 [1080...` | **255.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/623587) • [🐱 Nyaa](https://nyaa.si/view/2136190) |
+| `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E05 [...` | **496.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/623588) • [🐱 Nyaa](https://nyaa.si/view/2136189) |
+| `[Yameii] Tomb Raider King - S01E01 [English Dub] [CR WEB-DL 1080p H...` | **1349.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623589) • [🐱 Nyaa](https://nyaa.si/view/2136188) |
 | `[ToonsHub] Hana-Kimi S02E02 1080p CR WEB-DL MULTi AAC2.0 H.264 (Han...` | **1559.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623581) • [🐱 Nyaa](https://nyaa.si/view/2136186) |
 | `[ToonsHub] Hana-Kimi S02E01 1080p CR WEB-DL MULTi AAC2.0 H.264 (Han...` | **1560.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623582) • [🐱 Nyaa](https://nyaa.si/view/2136185) |
 | `[ToonsHub] Tomb Raider King S01E01 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1385.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/623583) • [🐱 Nyaa](https://nyaa.si/view/2136183) |
@@ -38,14 +46,6 @@
 | `Hana Kimi S01E01 Please Be My Friend 1080p CR WEB-DL MULTi AAC2.0 H...` | **1726.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623580) • [🐱 Nyaa](https://nyaa.si/view/2136180) |
 | `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 05 [1080p CR WEB...` | **392.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/623577) • [🐱 Nyaa](https://nyaa.si/view/2136178) |
 | `[nekotan] The Garden of Sinners S01E01 Chapter 1: Thanatos. (Overlo...` | **3476.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/623578) • [🐱 Nyaa](https://nekobt.to/torrents/12558621599244) |
-| `[Judas] Katainaka no Ossan, Kensei ni Naru (From Old Country Bumpki...` | **338.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623575) • [🐱 Nyaa](https://nyaa.si/view/2136176) |
-| `[Onalrie] Dogulwang - S01E03 (JA) [1080p WEBRip AV1]` | **269.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/623576) • [🐱 Nyaa](https://nekobt.to/torrents/12558461799683) |
-| `[Erai-raws] Lv999 no Murabito - 05 [1080p CR WEBRip HEVC AAC][Multi...` | **450.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/623574) • [🐱 Nyaa](https://nekobt.to/torrents/12558352486414) |
-| `Kirio Fan Club S01E07 School Trip Magic 1080p HIDI WEB-DL DUAL AAC2...` | **892.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/623573) • [🐱 Nyaa](https://nyaa.si/view/2136174) |
-| `[Onalrie] Dogulwang - S01E03 (KA) [1080p WEBRip AV1]` | **264.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623572) • [🐱 Nyaa](https://onalrie.app/torrent/3dbe49e9-69df-4eac-976c-c022efa73cc7) |
-| `[ASW] Toukutsu Ou - 03 [1080p HEVC x265 10Bit][AAC]` | **403.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/623571) • [🐱 Nyaa](https://nyaa.si/view/2136171) |
-| `[Gecko] Candy Caries - S01E15 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **44.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623568) • [🐱 Nyaa](https://nekobt.to/torrents/12557783334410) |
-| `[Ironclad] Katainaka no Ossan II - S02E03 [WEB.1080p.AV1] | From Ol...` | **418.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/623567) • [🐱 Nyaa](https://nyaa.si/view/2136168) |
 
 ---
 <div align="center">
