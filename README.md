@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.16.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.25.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Cat Tales - S01E41 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **43.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623417) • [🐱 Nyaa](https://nyaa.si/view/2135907) |
+| `[ToonsHub] Cat Tales S01E41 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **56.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/623418) • [🐱 Nyaa](https://nyaa.si/view/2135906) |
+| `[BlackRabbit] Komi Can't Communicate (2021) - S01 [WEBDL-1080p][Opu...` | **5868.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623416) • [🐱 Nyaa](https://nekobt.to/torrents/12550955551493) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E08 (1080p AAC x265 B...` | **632.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/623415) • [🐱 Nyaa](https://nekobt.to/torrents/12550691532034) |
 | `MARRIAGETOXIN S01E13 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1451.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/623414) • [🐱 Nyaa](https://nekobt.to/torrents/12548961310216) |
 | `[Kotobuki] Koukaku Kidoutai (2026) 03 [1080p HEVC Multisub] | The G...` | **287.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623413) • [🐱 Nyaa](https://nyaa.si/view/2135873) |
 | `[ASW] Quanzhi Fashi S7 - 10 [1080p HEVC x265 10Bit][AAC]` | **484.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623412) • [🐱 Nyaa](https://nyaa.si/view/2135863) |
@@ -44,10 +48,6 @@
 | `[Reza] THE GHOST IN THE SHELL (2026) - S01E03 [WEBRip HEVC 1080p EA...` | **5825.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/623399) • [🐱 Nyaa](https://nyaa.si/view/2135837) |
 | `[SubsPlease] Dr. Stone S3 (01-22) (1080p) [Batch]` | **30760.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/623400) • [🐱 Nyaa](https://nyaa.si/view/2135836) |
 | `[Yameii] The Quintessential Quintuplets - S00E05 [English Dub] [CR ...` | **1412.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623395) • [🐱 Nyaa](https://nekobt.to/torrents/12540824633607) |
-| `[Yameii] The Quintessential Quintuplets - S00E04 [English Dub] [CR ...` | **1410.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/623396) • [🐱 Nyaa](https://nekobt.to/torrents/12540818555142) |
-| `[Yameii] The Quintessential Quintuplets - S00E03 [English Dub] [CR ...` | **1411.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/623397) • [🐱 Nyaa](https://nekobt.to/torrents/12540817654531) |
-| `[Yameii] The Quintessential Quintuplets - S00E02 [English Dub] [CR ...` | **1407.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/623398) • [🐱 Nyaa](https://nekobt.to/torrents/12540816863749) |
-| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E03 (1080p WEB EAC3 x265)...` | **596.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623390) • [🐱 Nyaa](https://nekobt.to/torrents/12539657656331) |
 
 ---
 <div align="center">
