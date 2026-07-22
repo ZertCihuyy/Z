@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.48.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.33.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kotobuki] Koukaku Kidoutai (2026) 03 [1080p HEVC Multisub] | The G...` | **287.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623413) • [🐱 Nyaa](https://nyaa.si/view/2135873) |
 | `[ASW] Quanzhi Fashi S7 - 10 [1080p HEVC x265 10Bit][AAC]` | **484.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623412) • [🐱 Nyaa](https://nyaa.si/view/2135863) |
 | `[VARYG] Walking the Way all alone S01E16 1080p BILI WEB-DL AAC2.0 H...` | **659.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623411) • [🐱 Nyaa](https://nekobt.to/torrents/12543928953101) |
 | `Versatile Mage S07E10 Race Against Time 1080p CR WEB-DL AAC2.0 H 26...` | **1160.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623406) • [🐱 Nyaa](https://nyaa.si/view/2135855) |
@@ -47,7 +48,6 @@
 | `[Yameii] The Quintessential Quintuplets - S00E02 [English Dub] [CR ...` | **1407.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/623398) • [🐱 Nyaa](https://nekobt.to/torrents/12540816863749) |
 | `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E03 (1080p WEB EAC3 x265)...` | **596.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623390) • [🐱 Nyaa](https://nekobt.to/torrents/12539657656331) |
 | `[FrixySubs] Oh Boy, Was I Wrong About Her - S01E03 [1080p CR WEB-DL...` | **1386.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/623389) • [🐱 Nyaa](https://nekobt.to/torrents/12539364267526) |
-| `[ToonsHub] The Quintessential Quintuplets S00E04 The Quintuplets In...` | **1446.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623385) • [🐱 Nyaa](https://nekobt.to/torrents/12539081186570) |
 
 ---
 <div align="center">
