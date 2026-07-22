@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.17.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.56.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Ironclad] Clevatess II - S02E03 [WEB.1080p.AV1] | Clevatess (Multi...` | **587.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623471) • [🐱 Nyaa](https://nyaa.si/view/2136029) |
-| `[Judas] Youjo Senki (Saga of Tanya the Evil) - S02E03 [1080p][HEVC ...` | **255.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/623472) • [🐱 Nyaa](https://nyaa.si/view/2136027) |
-| `[Doomdos] - My Stepmother and Stepsisters Aren't Wicked - 3 [1080p ...` | **253.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/623473) • [🐱 Nyaa](https://nyaa.si/view/2136022) |
-| `[Erai-raws] Youjo Senki II - 03 [1080p CR WEBRip HEVC AAC][MultiSub...` | **513.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/623469) • [🐱 Nyaa](https://nyaa.si/view/2136020) |
-| `[Erai-raws] Clevatess II - 03 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **584.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/623470) • [🐱 Nyaa](https://nyaa.si/view/2136019) |
-| `[VARYG] Heroine Saint No Im an All Works Maid And Proud of It S01E0...` | **1403.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/623465) • [🐱 Nyaa](https://nekobt.to/torrents/12554639654917) |
-| `[ToonsHub] My Stepmother and Stepsisters Arent Wicked S01E03 1080p ...` | **663.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/623466) • [🐱 Nyaa](https://nekobt.to/torrents/12554610249730) |
-| `[ToonsHub] Heroine Saint No Im an All-Works Maid And Proud of It S0...` | **1424.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/623467) • [🐱 Nyaa](https://nekobt.to/torrents/12554589435137) |
-| `[SubsPlease] All Works Maid - 05 (1080p) [9E5A2EE0].mkv` | **1375.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/623457) • [🐱 Nyaa](https://nyaa.si/view/2136010) |
-| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 05 [10...` | **1384.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/623462) • [🐱 Nyaa](https://nyaa.si/view/2136002) |
-| `[DKB] Clevatess: Majuu no Ou to Itsuwari no Yuusha Denshou - S02E03...` | **561.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/623463) • [🐱 Nyaa](https://nyaa.si/view/2135998) |
-| `[Kosaka] Saga of Tanya the Evil - S02E03 (WEBRip 1080p AV1 OPUS) [M...` | **289.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623468) • [🐱 Nyaa](https://nekobt.to/torrents/12554379051264) |
-| `[Judas] Majuu no Ou to Akago to Shikabane no Yuusha (Clevatess) - S...` | **409.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623464) • [🐱 Nyaa](https://nyaa.si/view/2135993) |
-| `[ASW] Youjo Senki S2 - 03 [1080p HEVC x265 10Bit][AAC]` | **268.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623454) • [🐱 Nyaa](https://nyaa.si/view/2135990) |
-| `[Onalrie] Youjo Senki - S02E03 [1080p WEBRip AV1]` | **214.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/623456) • [🐱 Nyaa](https://nekobt.to/torrents/12554204237837) |
+| `[ToonsHub] Thunder 3 S01E03 1080p NF WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1099.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623530) • [🐱 Nyaa](https://nyaa.si/view/2136121) |
+| `[Onalrie] Katainaka no Ossan, Kensei ni Naru - S02E03 [1080p WEBRip...` | **230.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/623532) • [🐱 Nyaa](https://nekobt.to/torrents/12556464587266) |
+| `[Erai-raws] Thunder 3 - 03 [1080p NF WEB-DL AVC AAC][MultiSub][E3FB...` | **848.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/623531) • [🐱 Nyaa](https://nyaa.si/view/2136120) |
+| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 03 [108...` | **380.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/623529) • [🐱 Nyaa](https://nekobt.to/torrents/12556399653390) |
+| `[ToonsHub] Thunder 3 S01E03 1080p NF WEB-DL DUAL AAC2.0 H.264 (Dual...` | **856.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/623526) • [🐱 Nyaa](https://nyaa.si/view/2136118) |
+| `[Judas] Otomege Sekai wa Mob ni Kibishii Sekai Desu (Trapped in a D...` | **236.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/623527) • [🐱 Nyaa](https://nyaa.si/view/2136108) |
+| `[Onalrie] Otome Game Sekai wa Mob ni Kibishii Sekai Desu - S02E03 [...` | **203.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/623525) • [🐱 Nyaa](https://nekobt.to/torrents/12556076002305) |
+| `[ASW] Otome Game Sekai wa Mob ni Kibishii Sekai desu S2 - 03 [1080p...` | **237.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/623528) • [🐱 Nyaa](https://nyaa.si/view/2136106) |
+| `The Villager of Level 999 S01E05 Assigned Roles 1080p CR WEB-DL AAC...` | **1414.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623503) • [🐱 Nyaa](https://nyaa.si/view/2136105) |
+| `Hana Kimi S02E03 How Did You Know 1080p CR WEB-DL DUAL AAC2.0 H 264...` | **1463.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/623504) • [🐱 Nyaa](https://nyaa.si/view/2136104) |
+| `Hana Kimi S02E05 I Cant Not Think About It 1080p CR WEB-DL AAC2.0 H...` | **1430.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/623505) • [🐱 Nyaa](https://nyaa.si/view/2136103) |
+| `Kirio Fan Club S01E06 Secrets 1080p HIDI WEB-DL DUAL AAC2.0 H 264-V...` | **879.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/623506) • [🐱 Nyaa](https://nyaa.si/view/2136102) |
+| `[Yameii] Hana-Kimi - S02E03 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1407.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/623507) • [🐱 Nyaa](https://nyaa.si/view/2136099) |
+| `[ToonsHub] Hana-Kimi S02E05 1080p CR WEB-DL AAC2.0 H.264 (Hanazakar...` | **1428.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623508) • [🐱 Nyaa](https://nyaa.si/view/2136097) |
+| `Farming Life In Another World S02E12 1080p AMZN WEB-DL DUAL DDP2.0 ...` | **956.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623509) • [🐱 Nyaa](https://nyaa.si/view/2136096) |
 
 ---
 <div align="center">
