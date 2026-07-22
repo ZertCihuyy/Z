@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.13.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.27.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Salieri] Fate Strange Fake S1 +Whispers of Dawn - BD (1080p) (HDR)...` | **50119.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623597) • [🐱 Nyaa](https://nyaa.si/view/2136202) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E09 (1080p AAC x265 B...` | **629.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/623596) • [🐱 Nyaa](https://nekobt.to/torrents/12561435953921) |
+| `[Kozame] Odekake Kozame (Little Shark's Outings) - 75 [1080p] [9758...` | **20.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/623595) • [🐱 Nyaa](https://nyaa.si/view/2136200) |
+| `[Erai-raws] Dogulwang - 03 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **533.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/623593) • [🐱 Nyaa](https://nekobt.to/torrents/12560894309638) |
+| `[BlackRabbit] World's End Harem (2021) - S01 [Bluray-1080p][Opus 2....` | **2018.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/623594) • [🐱 Nyaa](https://nekobt.to/torrents/12560672562189) |
 | `[sam] The Ghost in the Shell (2026) - S01E03 (WEB 1080p HEVC x265 1...` | **4495.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/623591) • [🐱 Nyaa](https://nyaa.si/view/2136198) |
 | `[Erai-raws] Dogulwang - 03 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **548.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/623592) • [🐱 Nyaa](https://nyaa.si/view/2136196) |
 | `[ToonsHub] Candy Caries S01E15 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **157.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623590) • [🐱 Nyaa](https://nyaa.si/view/2136195) |
@@ -41,11 +46,6 @@
 | `[Yameii] Tomb Raider King - S01E01 [English Dub] [CR WEB-DL 1080p H...` | **1349.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623589) • [🐱 Nyaa](https://nyaa.si/view/2136188) |
 | `[ToonsHub] Hana-Kimi S02E02 1080p CR WEB-DL MULTi AAC2.0 H.264 (Han...` | **1559.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623581) • [🐱 Nyaa](https://nyaa.si/view/2136186) |
 | `[ToonsHub] Hana-Kimi S02E01 1080p CR WEB-DL MULTi AAC2.0 H.264 (Han...` | **1560.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623582) • [🐱 Nyaa](https://nyaa.si/view/2136185) |
-| `[ToonsHub] Tomb Raider King S01E01 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1385.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/623583) • [🐱 Nyaa](https://nyaa.si/view/2136183) |
-| `Hana Kimi S01E02 I Want to Be with You 1080p CR WEB-DL MULTi AAC2.0...` | **1727.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/623579) • [🐱 Nyaa](https://nyaa.si/view/2136182) |
-| `Hana Kimi S01E01 Please Be My Friend 1080p CR WEB-DL MULTi AAC2.0 H...` | **1726.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623580) • [🐱 Nyaa](https://nyaa.si/view/2136180) |
-| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 05 [1080p CR WEB...` | **392.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/623577) • [🐱 Nyaa](https://nyaa.si/view/2136178) |
-| `[nekotan] The Garden of Sinners S01E01 Chapter 1: Thanatos. (Overlo...` | **3476.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/623578) • [🐱 Nyaa](https://nekobt.to/torrents/12558621599244) |
 
 ---
 <div align="center">
