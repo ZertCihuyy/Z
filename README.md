@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.10.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.48.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Quanzhi Fashi S7 - 10 [1080p HEVC x265 10Bit][AAC]` | **484.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623412) • [🐱 Nyaa](https://nyaa.si/view/2135863) |
+| `[VARYG] Walking the Way all alone S01E16 1080p BILI WEB-DL AAC2.0 H...` | **659.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623411) • [🐱 Nyaa](https://nekobt.to/torrents/12543928953101) |
+| `Versatile Mage S07E10 Race Against Time 1080p CR WEB-DL AAC2.0 H 26...` | **1160.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623406) • [🐱 Nyaa](https://nyaa.si/view/2135855) |
+| `[ToonsHub] Full-Time Magister S07E10 1080p CR WEB-DL AAC2.0 H.264 (...` | **1180.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623407) • [🐱 Nyaa](https://nyaa.si/view/2135852) |
+| `[SubsPlease] Quanzhi Fashi S7 - 10 (1080p) [B41C1702].mkv` | **1133.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/623408) • [🐱 Nyaa](https://nyaa.si/view/2135850) |
+| `[Reza] THE GHOST IN THE SHELL (2026) - S01E03v2 [WEBRip HEVC 1080p ...` | **5829.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/623404) • [🐱 Nyaa](https://nyaa.si/view/2135840) |
+| `[Reza] THE GHOST IN THE SHELL (2026) - S01E03 [WEBRip HEVC 1080p EA...` | **5825.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/623399) • [🐱 Nyaa](https://nyaa.si/view/2135837) |
+| `[SubsPlease] Dr. Stone S3 (01-22) (1080p) [Batch]` | **30760.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/623400) • [🐱 Nyaa](https://nyaa.si/view/2135836) |
 | `[Yameii] The Quintessential Quintuplets - S00E05 [English Dub] [CR ...` | **1412.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623395) • [🐱 Nyaa](https://nekobt.to/torrents/12540824633607) |
 | `[Yameii] The Quintessential Quintuplets - S00E04 [English Dub] [CR ...` | **1410.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/623396) • [🐱 Nyaa](https://nekobt.to/torrents/12540818555142) |
 | `[Yameii] The Quintessential Quintuplets - S00E03 [English Dub] [CR ...` | **1411.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/623397) • [🐱 Nyaa](https://nekobt.to/torrents/12540817654531) |
@@ -40,14 +48,6 @@
 | `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E03 (1080p WEB EAC3 x265)...` | **596.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623390) • [🐱 Nyaa](https://nekobt.to/torrents/12539657656331) |
 | `[FrixySubs] Oh Boy, Was I Wrong About Her - S01E03 [1080p CR WEB-DL...` | **1386.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/623389) • [🐱 Nyaa](https://nekobt.to/torrents/12539364267526) |
 | `[ToonsHub] The Quintessential Quintuplets S00E04 The Quintuplets In...` | **1446.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623385) • [🐱 Nyaa](https://nekobt.to/torrents/12539081186570) |
-| `[ToonsHub] The Quintessential Quintuplets S00E05 The Quintuplets In...` | **1447.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623386) • [🐱 Nyaa](https://nekobt.to/torrents/12539072978182) |
-| `[ToonsHub] The Quintessential Quintuplets S00E03 A Not-so Coinciden...` | **1448.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623387) • [🐱 Nyaa](https://nekobt.to/torrents/12539054741513) |
-| `[ToonsHub] The Quintessential Quintuplets S00E02 A Not-so Coinciden...` | **1443.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623388) • [🐱 Nyaa](https://nekobt.to/torrents/12539041436936) |
-| `The Quintessential Quintuplets S04E02 No Coincidences in This Summe...` | **1448.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623379) • [🐱 Nyaa](https://nyaa.si/view/2135808) |
-| `The Quintessential Quintuplets S04E03 Operation Quintuplets Part 1 ...` | **1449.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/623380) • [🐱 Nyaa](https://nyaa.si/view/2135806) |
-| `The Quintessential Quintuplets S04E04 Operation Quintuplets Part 2 ...` | **1448.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/623381) • [🐱 Nyaa](https://nyaa.si/view/2135805) |
-| `The Quintessential Quintuplets S04E01 No Coincidences in This Summe...` | **1443.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623382) • [🐱 Nyaa](https://nyaa.si/view/2135804) |
-| `[DB] Jigokuraku 2nd Season | Hell's Paradise Season 2 [Dual Audio 1...` | **8553.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/623383) • [🐱 Nyaa](https://nyaa.si/view/2135803) |
 
 ---
 <div align="center">
