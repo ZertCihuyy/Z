@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.13.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.10.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] The Quintessential Quintuplets - S00E05 [English Dub] [CR ...` | **1412.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623395) • [🐱 Nyaa](https://nekobt.to/torrents/12540824633607) |
+| `[Yameii] The Quintessential Quintuplets - S00E04 [English Dub] [CR ...` | **1410.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/623396) • [🐱 Nyaa](https://nekobt.to/torrents/12540818555142) |
+| `[Yameii] The Quintessential Quintuplets - S00E03 [English Dub] [CR ...` | **1411.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/623397) • [🐱 Nyaa](https://nekobt.to/torrents/12540817654531) |
+| `[Yameii] The Quintessential Quintuplets - S00E02 [English Dub] [CR ...` | **1407.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/623398) • [🐱 Nyaa](https://nekobt.to/torrents/12540816863749) |
 | `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E03 (1080p WEB EAC3 x265)...` | **596.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623390) • [🐱 Nyaa](https://nekobt.to/torrents/12539657656331) |
 | `[FrixySubs] Oh Boy, Was I Wrong About Her - S01E03 [1080p CR WEB-DL...` | **1386.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/623389) • [🐱 Nyaa](https://nekobt.to/torrents/12539364267526) |
 | `[ToonsHub] The Quintessential Quintuplets S00E04 The Quintuplets In...` | **1446.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/623385) • [🐱 Nyaa](https://nekobt.to/torrents/12539081186570) |
@@ -44,10 +48,6 @@
 | `The Quintessential Quintuplets S04E04 Operation Quintuplets Part 2 ...` | **1448.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/623381) • [🐱 Nyaa](https://nyaa.si/view/2135805) |
 | `The Quintessential Quintuplets S04E01 No Coincidences in This Summe...` | **1443.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623382) • [🐱 Nyaa](https://nyaa.si/view/2135804) |
 | `[DB] Jigokuraku 2nd Season | Hell's Paradise Season 2 [Dual Audio 1...` | **8553.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/623383) • [🐱 Nyaa](https://nyaa.si/view/2135803) |
-| `[Feibanyama] From Overshadowed to Overpowered Second Reincarnation ...` | **324.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623384) • [🐱 Nyaa](https://nyaa.si/view/2135800) |
-| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep03 (1080...` | **841.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623377) • [🐱 Nyaa](https://nekobt.to/torrents/12538379894282) |
-| `[Yameii] Isekai Office Worker: The Other World's Books Depend on th...` | **1383.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623371) • [🐱 Nyaa](https://nyaa.si/view/2135794) |
-| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E14 (86) [1080p CR ...` | **1400.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/623373) • [🐱 Nyaa](https://nekobt.to/torrents/12537124607232) |
 
 ---
 <div align="center">
