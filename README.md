@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.32.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.14.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ak-Submarines] Girls und Panzer - MLLSD - 11 [WEB 1080p][C450169D]` | **380.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623604) • [🐱 Nyaa](https://nyaa.si/view/2136224) |
+| `KILL BLUE S01E12 Life Paths 1080p AMZN WEB-DL DUAL DDP2.0 H.264-VAR...` | **816.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/623603) • [🐱 Nyaa](https://nyaa.si/view/2136210) |
 | `[Judas] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton...` | **416.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/623602) • [🐱 Nyaa](https://nyaa.si/view/2136206) |
 | `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E15 (87) [1080p CR ...` | **1403.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623601) • [🐱 Nyaa](https://nekobt.to/torrents/12562442559746) |
 | `[Erai-raws] Thunder 3 - 03 [1080p NF WEBRip HEVC AAC][MultiSub][F1C...` | **668.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623599) • [🐱 Nyaa](https://nyaa.si/view/2136205) |
@@ -44,8 +46,6 @@
 | `[sam] The Ghost in the Shell (2026) - S01E03 (WEB 1080p HEVC x265 1...` | **4495.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/623591) • [🐱 Nyaa](https://nyaa.si/view/2136198) |
 | `[Erai-raws] Dogulwang - 03 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **548.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/623592) • [🐱 Nyaa](https://nyaa.si/view/2136196) |
 | `[ToonsHub] Candy Caries S01E15 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **157.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623590) • [🐱 Nyaa](https://nyaa.si/view/2136195) |
-| `[DKB] LV999 no Murabito - S01E05 [1080p][HEVC x265 10bit][Multi-Sub...` | **328.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623585) • [🐱 Nyaa](https://nyaa.si/view/2136192) |
-| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E03 [1080p][HEVC x265...` | **438.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/623586) • [🐱 Nyaa](https://nyaa.si/view/2136191) |
 
 ---
 <div align="center">
