@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.20.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.00.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Tomb Raider King - S01E03 (1080p WEBRip AAC x265) [CC...` | **548.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/623625) • [🐱 Nyaa](https://nekobt.to/torrents/12571500132864) |
+| `[LbE3L] KILL BLUE S01 [1080p AMZN WEBRip AV1 Opus 2.0] [Multi-Audio...` | **4266.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623624) • [🐱 Nyaa](https://nekobt.to/torrents/12571257535243) |
 | `Thunder 3 S01E03 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (R...` | **928.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623619) • [🐱 Nyaa](https://nekobt.to/torrents/12569367170309) |
 | `Thunder 3 S01E03 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raws (...` | **397.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/623620) • [🐱 Nyaa](https://nekobt.to/torrents/12569361941002) |
 | `Thunder 3 S01E03 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws (RE...` | **375.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623621) • [🐱 Nyaa](https://nekobt.to/torrents/12569359991812) |
@@ -44,8 +46,6 @@
 | `[geckyzz] Perfect Addiction - S01E03 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **197.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623612) • [🐱 Nyaa](https://nekobt.to/torrents/12566669400590) |
 | `[Gecko] Cat Tales - S01E41 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623609) • [🐱 Nyaa](https://nyaa.si/view/2136251) |
 | `[Gecko] Candy Caries - S01E15 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623610) • [🐱 Nyaa](https://nyaa.si/view/2136250) |
-| `[Doomdos] - Supreme Alchemy - 185 [1080p IQ WEB-DL]` | **171.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/623608) • [🐱 Nyaa](https://nyaa.si/view/2136243) |
-| `Reborn as a Cat S01E36 1080p BILI WEB-DL AAC2.0 H.264-VARYG (Wei Mi...` | **234.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623605) • [🐱 Nyaa](https://nyaa.si/view/2136242) |
 
 ---
 <div align="center">
