@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.33.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.14.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Bungou Stray Dogs Wan 2 - 04 [1080p CR WEBRip HEVC AAC]...` | **284.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623670) • [🐱 Nyaa](https://nyaa.si/view/2136378) |
-| `BanG Dream YUMEMITA S01E06 Destiny 1080p CR WEB-DL AAC2.0 H.264-VAR...` | **1385.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/623660) • [🐱 Nyaa](https://nyaa.si/view/2136377) |
-| `[ToonsHub] BanG Dream YUMEMITA S01E06 1080p CR WEB-DL AAC2.0 H.264 ...` | **1383.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623661) • [🐱 Nyaa](https://nyaa.si/view/2136375) |
-| `[SubsPlease] BanG Dream! Yumemita - 06 (1080p) [A6D898A5].mkv` | **1377.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/623662) • [🐱 Nyaa](https://nyaa.si/view/2136373) |
-| `[BlackRabbit] Is This a Zombie! (2011) - S02 [Bluray-1080p][Opus 2....` | **2188.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/623669) • [🐱 Nyaa](https://nekobt.to/torrents/12576174158350) |
-| `[Erai-raws] Bang Dream Yumemita - 06 [1080p CR WEB-DL AVC AAC][Mult...` | **1384.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/623667) • [🐱 Nyaa](https://nyaa.si/view/2136368) |
-| `[Erai-raws] Reiwa no Dara-san - 04 [1080p CR WEBRip HEVC AAC][Multi...` | **576.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/623668) • [🐱 Nyaa](https://nyaa.si/view/2136366) |
-| `[FrixySubs] Tomo-chan is a Girl S01 [1080p BD HEVC FLAC] [Napisy PL]` | **15184.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/623659) • [🐱 Nyaa](https://nekobt.to/torrents/12576007168007) |
-| `[Kosaka] Dara-san of the Reiwa Era - S01E04 (WEBRip 1080p AV1 OPUS)...` | **178.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/623657) • [🐱 Nyaa](https://nekobt.to/torrents/12575727965953) |
-| `[Onalrie] Bungou Stray Dogs Wan - S02E04 [1080p WEBRip AV1]` | **120.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/623658) • [🐱 Nyaa](https://nekobt.to/torrents/12575660618253) |
-| `[ASW] Bungou Stray Dogs Wan! S2 - 04 [1080p HEVC x265 10Bit][AAC]` | **149.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623655) • [🐱 Nyaa](https://nyaa.si/view/2136359) |
-| `[ASW] Reiwa no Dara-san - 04 [1080p HEVC x265 10Bit][AAC]` | **206.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623656) • [🐱 Nyaa](https://nyaa.si/view/2136358) |
-| `[Onalrie] Reiwa no Dara-san - S01E04 [1080p WEBRip AV1]` | **156.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623654) • [🐱 Nyaa](https://nekobt.to/torrents/12575458584076) |
-| `[Bird] Ganzo! Bandori-chan - 42 (1080p) [8DD2F79C]` | **12.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623652) • [🐱 Nyaa](https://nyaa.si/view/2136357) |
-| `[ToonsHub] GANSO BanG Dream Chan S01E42 1080p AMZN WEB-DL DDP2.0 H....` | **57.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/623653) • [🐱 Nyaa](https://nyaa.si/view/2136356) |
+| `The Exiled Heavy Knight Knows How to Game the System S01E02 Menacin...` | **956.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/623705) • [🐱 Nyaa](https://nyaa.si/view/2136452) |
+| `[Erai-raws] Mebius Dust - 03 [1080p CR WEBRip HEVC AAC][MultiSub][1...` | **433.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/623706) • [🐱 Nyaa](https://nyaa.si/view/2136451) |
+| `[ToonsHub] Chainsmoker Cat S01E02 1080p NF WEB-DL MULTi AAC2.0 H.26...` | **1123.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623707) • [🐱 Nyaa](https://nyaa.si/view/2136449) |
+| `[geckyzz] Chainsmoker Cat - S01E04 (ヤニねこ; Yani Neko) [UNCENSORED, O...` | **439.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/623708) • [🐱 Nyaa](https://nyaa.si/view/2136448) |
+| `[Erai-raws] Yani Neko - 04 [1080p NF WEB-DL AVC AAC][MultiSub][3733...` | **879.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/623709) • [🐱 Nyaa](https://nyaa.si/view/2136446) |
+| `[Erai-raws] Bang Dream Yumemita - 06 [1080p CR WEBRip HEVC AAC][Mul...` | **401.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/623702) • [🐱 Nyaa](https://nekobt.to/torrents/12577913400068) |
+| `Smoking Behind the Supermarket With You S01E03 Smoke 3 1080p NF WEB...` | **901.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623698) • [🐱 Nyaa](https://nyaa.si/view/2136422) |
+| `Smoking Behind the Supermarket With You S01E03 Smoke 3 1080p NF WEB...` | **946.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/623699) • [🐱 Nyaa](https://nyaa.si/view/2136421) |
+| `[DKB] BanG Dream! Yume∞Mita - S01E06 [1080p][HEVC x265 10bit][Multi...` | **358.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623700) • [🐱 Nyaa](https://nyaa.si/view/2136420) |
+| `[DKB] Bungo Stray Dogs WAN! - S02E04 [1080p][HEVC x265 10bit][Multi...` | **145.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/623701) • [🐱 Nyaa](https://nyaa.si/view/2136419) |
+| `[Onalrie] Mebius Dust - S01E03 [1080p WEBRip AV1]` | **224.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/623703) • [🐱 Nyaa](https://nekobt.to/torrents/12577787041032) |
+| `[BlackRabbit] Is This a Zombie! (2011) - S00 [Bluray-1080p][Opus 2....` | **688.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/623704) • [🐱 Nyaa](https://nekobt.to/torrents/12577766135299) |
+| `[Judas] Reiwa no Dara-san (Dara-san of Reiwa) - S01E04 [1080p][HEVC...` | **218.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/623696) • [🐱 Nyaa](https://nyaa.si/view/2136416) |
+| `[ToonsHub] Smoking Behind the Supermarket With You S01E03 1080p NF ...` | **901.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/623697) • [🐱 Nyaa](https://nyaa.si/view/2136415) |
+| `[FrixySubs] Mushoku Tensei - S03E04 [1080p CR WEB-DL H.264 AAC] [Na...` | **1385.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/623695) • [🐱 Nyaa](https://nekobt.to/torrents/12577325239815) |
 
 ---
 <div align="center">
