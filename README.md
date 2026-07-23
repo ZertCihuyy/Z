@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.24.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.36.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Smoking Behind the Supermarket with You S01E03 Smoking Behind the S...` | **1397.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/623787) • [🐱 Nyaa](https://nyaa.si/view/2136543) |
-| `Hana Kimi S02E01 Definitely Weird 1080p CR WEB-DL MULTi AAC2.0 H.26...` | **1563.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/623788) • [🐱 Nyaa](https://nyaa.si/view/2136542) |
-| `Smoking Behind the Supermarket with You S01E01 Smoking Behind the S...` | **1439.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/623789) • [🐱 Nyaa](https://nyaa.si/view/2136541) |
-| `[Judas] Super no Ura de Yani Suu Futari (Smoking Behind the Superma...` | **158.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623790) • [🐱 Nyaa](https://nyaa.si/view/2136540) |
-| `[Erai-raws] Otome Kaijuu Carameliser - 04 [1080p CR WEBRip HEVC AAC...` | **580.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/623786) • [🐱 Nyaa](https://nekobt.to/torrents/12580841946371) |
-| `[ASW] Super no Ura de Yani Suu Futari - 03 [1080p HEVC x265 10Bit][...` | **153.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/623783) • [🐱 Nyaa](https://nyaa.si/view/2136538) |
-| `[Judas] Otome Kaiju Caramelise (Kaiju Girl Caramelise) - S01E04 [10...` | **420.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/623784) • [🐱 Nyaa](https://nyaa.si/view/2136537) |
-| `[Onalrie] Super no Ura de Yani Suu Futari - S01E03 [1080p WEBRip AV1]` | **170.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/623785) • [🐱 Nyaa](https://nekobt.to/torrents/12580405912589) |
-| `[ASW] Otome Kaijuu Carameliser - 04 [1080p HEVC x265 10Bit][AAC]` | **414.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/623782) • [🐱 Nyaa](https://nyaa.si/view/2136535) |
-| `[Onalrie] Otome Kaijuu Carameliser - S01E04 [1080p WEBRip AV1]` | **275.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623781) • [🐱 Nyaa](https://onalrie.app/torrent/2c4cc159-685d-40a9-99cf-1f2f7abca4b6) |
-| `[VARYG] The Exiled Heavy Knight Knows How to Game the System S01E02...` | **1440.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/623777) • [🐱 Nyaa](https://nekobt.to/torrents/12579998733320) |
-| `[Yameii] The Exiled Heavy Knight Knows How to Game the System - S01...` | **1385.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/623778) • [🐱 Nyaa](https://nekobt.to/torrents/12579998647566) |
-| `[ToonsHub] KAIJU GIRL CARAMELISE S01E01 1080p CR WEB-DL MULTi AAC2....` | **1544.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/623780) • [🐱 Nyaa](https://nekobt.to/torrents/12579983750658) |
-| `[ToonsHub] Smoking Behind the Supermarket with You S01E01 1080p CR ...` | **1435.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/623769) • [🐱 Nyaa](https://nyaa.si/view/2136527) |
-| `[SubsPlease] Super no Ura de Yani Suu Futari - 03 (1080p) [D86F954D...` | **1386.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/623770) • [🐱 Nyaa](https://nyaa.si/view/2136526) |
+| `[Reza] Smoking Behind the Supermarket with You - S01E03 [WEBRip 108...` | **1027.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623806) • [🐱 Nyaa](https://nyaa.si/view/2136574) |
+| `[ToonsHub] Kamisama Kiss S00E05 The God Becomes a Bride 1080p CR WE...` | **1740.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/623808) • [🐱 Nyaa](https://nyaa.si/view/2136572) |
+| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **959.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623809) • [🐱 Nyaa](https://nyaa.si/view/2136571) |
+| `[CFN] Detective Conan - Episode 010 [Remastered] [Funimation Dub] [...` | **409.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623804) • [🐱 Nyaa](https://nekobt.to/torrents/12581907937025) |
+| `[BlackRabbit] Arifureta - From Commonplace to World's Strongest (20...` | **2098.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623805) • [🐱 Nyaa](https://nekobt.to/torrents/12581844003074) |
+| `[Ironclad] Yani Neko - S01E04 [WEB.1080p.AV1] | Chainsmoker Cat (Mu...` | **448.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/623803) • [🐱 Nyaa](https://nyaa.si/view/2136559) |
+| `KAIJU GIRL CARAMELISE S01E04 1080p BILI WEB-DL AAC2.0 H.264-VARYG (...` | **408.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/623791) • [🐱 Nyaa](https://nyaa.si/view/2136555) |
+| `[jaaj] Tamako Market S01 (2013) (BD 1080p AV1 OPUS)` | **2911.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623802) • [🐱 Nyaa](https://nekobt.to/torrents/12581299275277) |
+| `[ToonsHub] MARRIAGETOXIN S01E13 1080p CR WEB-DL MULTi AAC2.0 H.264 ...` | **1670.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623792) • [🐱 Nyaa](https://nyaa.si/view/2136554) |
+| `[ToonsHub] I Want to End this Love Game S01E12 1080p CR WEB-DL MULT...` | **1531.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/623793) • [🐱 Nyaa](https://nyaa.si/view/2136553) |
+| `KAIJU GIRL CARAMELISE S01E01 The Kaiju Girl Appears in Tokyo 1080p ...` | **1546.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/623794) • [🐱 Nyaa](https://nyaa.si/view/2136552) |
+| `[ToonsHub] The Beginning After the End S02E12 1080p CR WEB-DL MULTi...` | **1514.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623795) • [🐱 Nyaa](https://nyaa.si/view/2136551) |
+| `Hana Kimi S02E02 Please Make Me Stronger 1080p CR WEB-DL MULTi AAC2...` | **1562.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/623796) • [🐱 Nyaa](https://nyaa.si/view/2136550) |
+| `MARRIAGETOXIN S01E13 Thanks Man 1080p BILI WEB-DL AAC2.0 H.264-VARY...` | **307.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/623797) • [🐱 Nyaa](https://nyaa.si/view/2136548) |
+| `Marriagetoxin S01E13 Thanks Man 1080p NF WEB-DL AAC2.0 H.264-VARYG ...` | **863.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/623798) • [🐱 Nyaa](https://nyaa.si/view/2136547) |
 
 ---
 <div align="center">
