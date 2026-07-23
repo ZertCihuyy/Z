@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.14.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.40.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Pokémon Horizons: The Series - Episode 124 - 136 [English Dub][1080...` | **5852.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623613) • [🐱 Nyaa](https://nyaa.si/view/2136262) |
+| `[geckyzz] Perfect Addiction - S01E03 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **197.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623612) • [🐱 Nyaa](https://nekobt.to/torrents/12566669400590) |
+| `[Gecko] Cat Tales - S01E41 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623609) • [🐱 Nyaa](https://nyaa.si/view/2136251) |
+| `[Gecko] Candy Caries - S01E15 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623610) • [🐱 Nyaa](https://nyaa.si/view/2136250) |
+| `[Doomdos] - Supreme Alchemy - 185 [1080p IQ WEB-DL]` | **171.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/623608) • [🐱 Nyaa](https://nyaa.si/view/2136243) |
+| `Reborn as a Cat S01E36 1080p BILI WEB-DL AAC2.0 H.264-VARYG (Wei Mi...` | **234.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623605) • [🐱 Nyaa](https://nyaa.si/view/2136242) |
+| `[Doomdos] - Against the Gods 2nd Season - 47 [1080p IQ WEB-DL]` | **390.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623607) • [🐱 Nyaa](https://nyaa.si/view/2136229) |
 | `[ak-Submarines] Girls und Panzer - MLLSD - 11 [WEB 1080p][C450169D]` | **380.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/623604) • [🐱 Nyaa](https://nyaa.si/view/2136224) |
 | `KILL BLUE S01E12 Life Paths 1080p AMZN WEB-DL DUAL DDP2.0 H.264-VAR...` | **816.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/623603) • [🐱 Nyaa](https://nyaa.si/view/2136210) |
 | `[Judas] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton...` | **416.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/623602) • [🐱 Nyaa](https://nyaa.si/view/2136206) |
@@ -39,13 +46,6 @@
 | `The Twelve Kingdoms 1080p BDRip x265.Opus 5.1` | **41758.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/623600) • [🐱 Nyaa](https://nyaa.si/view/2136203) |
 | `Mermaid Melody Pichi Pichi Pitch 14-26 - [1080p WEB-DL AAC 2.0 x264]` | **15849.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623598) • [🐱 Nyaa](https://nekobt.to/torrents/12561723694341) |
 | `[Salieri] Fate Strange Fake S1 +Whispers of Dawn - BD (1080p) (HDR)...` | **50119.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623597) • [🐱 Nyaa](https://nyaa.si/view/2136202) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E09 (1080p AAC x265 B...` | **629.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/623596) • [🐱 Nyaa](https://nekobt.to/torrents/12561435953921) |
-| `[Kozame] Odekake Kozame (Little Shark's Outings) - 75 [1080p] [9758...` | **20.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/623595) • [🐱 Nyaa](https://nyaa.si/view/2136200) |
-| `[Erai-raws] Dogulwang - 03 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **533.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/623593) • [🐱 Nyaa](https://nekobt.to/torrents/12560894309638) |
-| `[BlackRabbit] World's End Harem (2021) - S01 [Bluray-1080p][Opus 2....` | **2018.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/623594) • [🐱 Nyaa](https://nekobt.to/torrents/12560672562189) |
-| `[sam] The Ghost in the Shell (2026) - S01E03 (WEB 1080p HEVC x265 1...` | **4495.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/623591) • [🐱 Nyaa](https://nyaa.si/view/2136198) |
-| `[Erai-raws] Dogulwang - 03 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **548.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/623592) • [🐱 Nyaa](https://nyaa.si/view/2136196) |
-| `[ToonsHub] Candy Caries S01E15 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **157.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623590) • [🐱 Nyaa](https://nyaa.si/view/2136195) |
 
 ---
 <div align="center">
