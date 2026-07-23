@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.02.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.33.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Blades of the Guardians S02E08 1080p ADN WEB-DL AAC2.0 H...` | **635.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/623629) • [🐱 Nyaa](https://nyaa.si/view/2136314) |
-| `[ToonsHub] Koalas Diary S01E42 1080p LNTV WEB-DL AAC2.0 H.264 (Koal...` | **65.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/623627) • [🐱 Nyaa](https://nyaa.si/view/2136305) |
-| `[Gecko] Koala's Diary - S01E42 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **26.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/623628) • [🐱 Nyaa](https://nyaa.si/view/2136304) |
-| `[SubsNoJutsu] Tomb Raider King - S01E03 (1080p WEBRip AAC x265) [CC...` | **548.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/623625) • [🐱 Nyaa](https://nekobt.to/torrents/12571500132864) |
-| `[LbE3L] KILL BLUE S01 [1080p AMZN WEBRip AV1 Opus 2.0] [Multi-Audio...` | **4266.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623624) • [🐱 Nyaa](https://nekobt.to/torrents/12571257535243) |
-| `Thunder 3 S01E03 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (R...` | **928.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623619) • [🐱 Nyaa](https://nekobt.to/torrents/12569367170309) |
-| `Thunder 3 S01E03 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raws (...` | **397.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/623620) • [🐱 Nyaa](https://nekobt.to/torrents/12569361941002) |
-| `Thunder 3 S01E03 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws (RE...` | **375.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623621) • [🐱 Nyaa](https://nekobt.to/torrents/12569359991812) |
-| `Clevatess S02E03 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **1450.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/623622) • [🐱 Nyaa](https://nekobt.to/torrents/12569351093260) |
-| `Classroom of the Elite S04E15 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1447.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/623623) • [🐱 Nyaa](https://nekobt.to/torrents/12569335049483) |
-| `[CenturyZeta] Youjo Shenki 2 - 03 (1080p) (Youjo Senki)` | **4.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/623617) • [🐱 Nyaa](https://nyaa.si/view/2136268) |
-| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E03 (いびってこ...` | **676.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623618) • [🐱 Nyaa](https://nyaa.si/view/2136267) |
-| `[BlackRabbit] Is This a Zombie! (2011) - S01 [Bluray-1080p][Opus 2....` | **2777.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623616) • [🐱 Nyaa](https://nekobt.to/torrents/12568211936515) |
-| `[RUBaDUB] Dungeon People (Complete) (1080p) (Dual Audio)` | **10146.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623615) • [🐱 Nyaa](https://nyaa.si/view/2136263) |
-| `Pokémon Horizons: The Series - Episode 124 - 136 [English Dub][1080...` | **5852.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623613) • [🐱 Nyaa](https://nyaa.si/view/2136262) |
+| `[Erai-raws] Bungou Stray Dogs Wan 2 - 04 [1080p CR WEBRip HEVC AAC]...` | **284.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623670) • [🐱 Nyaa](https://nyaa.si/view/2136378) |
+| `BanG Dream YUMEMITA S01E06 Destiny 1080p CR WEB-DL AAC2.0 H.264-VAR...` | **1385.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/623660) • [🐱 Nyaa](https://nyaa.si/view/2136377) |
+| `[ToonsHub] BanG Dream YUMEMITA S01E06 1080p CR WEB-DL AAC2.0 H.264 ...` | **1383.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623661) • [🐱 Nyaa](https://nyaa.si/view/2136375) |
+| `[SubsPlease] BanG Dream! Yumemita - 06 (1080p) [A6D898A5].mkv` | **1377.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/623662) • [🐱 Nyaa](https://nyaa.si/view/2136373) |
+| `[BlackRabbit] Is This a Zombie! (2011) - S02 [Bluray-1080p][Opus 2....` | **2188.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/623669) • [🐱 Nyaa](https://nekobt.to/torrents/12576174158350) |
+| `[Erai-raws] Bang Dream Yumemita - 06 [1080p CR WEB-DL AVC AAC][Mult...` | **1384.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/623667) • [🐱 Nyaa](https://nyaa.si/view/2136368) |
+| `[Erai-raws] Reiwa no Dara-san - 04 [1080p CR WEBRip HEVC AAC][Multi...` | **576.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/623668) • [🐱 Nyaa](https://nyaa.si/view/2136366) |
+| `[FrixySubs] Tomo-chan is a Girl S01 [1080p BD HEVC FLAC] [Napisy PL]` | **15184.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/623659) • [🐱 Nyaa](https://nekobt.to/torrents/12576007168007) |
+| `[Kosaka] Dara-san of the Reiwa Era - S01E04 (WEBRip 1080p AV1 OPUS)...` | **178.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/623657) • [🐱 Nyaa](https://nekobt.to/torrents/12575727965953) |
+| `[Onalrie] Bungou Stray Dogs Wan - S02E04 [1080p WEBRip AV1]` | **120.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/623658) • [🐱 Nyaa](https://nekobt.to/torrents/12575660618253) |
+| `[ASW] Bungou Stray Dogs Wan! S2 - 04 [1080p HEVC x265 10Bit][AAC]` | **149.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/623655) • [🐱 Nyaa](https://nyaa.si/view/2136359) |
+| `[ASW] Reiwa no Dara-san - 04 [1080p HEVC x265 10Bit][AAC]` | **206.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623656) • [🐱 Nyaa](https://nyaa.si/view/2136358) |
+| `[Onalrie] Reiwa no Dara-san - S01E04 [1080p WEBRip AV1]` | **156.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623654) • [🐱 Nyaa](https://nekobt.to/torrents/12575458584076) |
+| `[Bird] Ganzo! Bandori-chan - 42 (1080p) [8DD2F79C]` | **12.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623652) • [🐱 Nyaa](https://nyaa.si/view/2136357) |
+| `[ToonsHub] GANSO BanG Dream Chan S01E42 1080p AMZN WEB-DL DDP2.0 H....` | **57.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/623653) • [🐱 Nyaa](https://nyaa.si/view/2136356) |
 
 ---
 <div align="center">
