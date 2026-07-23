@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.36.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.44.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Kokoore - 02v2 (1080p) [E2496665].mkv` | **1377.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/623825) • [🐱 Nyaa](https://nyaa.si/view/2136584) |
+| `[Erai-raws] Super no Ura de Yani Suu Futari - 03 [1080p CR WEBRip H...` | **323.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/623828) • [🐱 Nyaa](https://nyaa.si/view/2136581) |
+| `Kamisama Kiss S03E05 The God Brings Them Back 1080p CR WEB-DL AAC2....` | **1761.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623821) • [🐱 Nyaa](https://nyaa.si/view/2136579) |
+| `[DKB] Otome Kaijuu Caraméliser - S01E04 [1080p][HEVC x265 10bit][Mu...` | **536.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/623822) • [🐱 Nyaa](https://nyaa.si/view/2136578) |
+| `[SubsPlease] Dr. Stone S4 (01-24) (1080p) [Batch]` | **33557.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/623823) • [🐱 Nyaa](https://nyaa.si/view/2136577) |
+| `[ToonsHub] Kamisama Kiss S00E06 The God Brings Them Back 1080p CR W...` | **1759.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623820) • [🐱 Nyaa](https://nekobt.to/torrents/12582230950923) |
 | `[Reza] Smoking Behind the Supermarket with You - S01E03 [WEBRip 108...` | **1027.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623806) • [🐱 Nyaa](https://nyaa.si/view/2136574) |
 | `[ToonsHub] Kamisama Kiss S00E05 The God Becomes a Bride 1080p CR WE...` | **1740.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/623808) • [🐱 Nyaa](https://nyaa.si/view/2136572) |
 | `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **959.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623809) • [🐱 Nyaa](https://nyaa.si/view/2136571) |
-| `[CFN] Detective Conan - Episode 010 [Remastered] [Funimation Dub] [...` | **409.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623804) • [🐱 Nyaa](https://nekobt.to/torrents/12581907937025) |
-| `[BlackRabbit] Arifureta - From Commonplace to World's Strongest (20...` | **2098.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623805) • [🐱 Nyaa](https://nekobt.to/torrents/12581844003074) |
-| `[Ironclad] Yani Neko - S01E04 [WEB.1080p.AV1] | Chainsmoker Cat (Mu...` | **448.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/623803) • [🐱 Nyaa](https://nyaa.si/view/2136559) |
-| `KAIJU GIRL CARAMELISE S01E04 1080p BILI WEB-DL AAC2.0 H.264-VARYG (...` | **408.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/623791) • [🐱 Nyaa](https://nyaa.si/view/2136555) |
-| `[jaaj] Tamako Market S01 (2013) (BD 1080p AV1 OPUS)` | **2911.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/623802) • [🐱 Nyaa](https://nekobt.to/torrents/12581299275277) |
-| `[ToonsHub] MARRIAGETOXIN S01E13 1080p CR WEB-DL MULTi AAC2.0 H.264 ...` | **1670.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623792) • [🐱 Nyaa](https://nyaa.si/view/2136554) |
-| `[ToonsHub] I Want to End this Love Game S01E12 1080p CR WEB-DL MULT...` | **1531.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/623793) • [🐱 Nyaa](https://nyaa.si/view/2136553) |
-| `KAIJU GIRL CARAMELISE S01E01 The Kaiju Girl Appears in Tokyo 1080p ...` | **1546.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/623794) • [🐱 Nyaa](https://nyaa.si/view/2136552) |
-| `[ToonsHub] The Beginning After the End S02E12 1080p CR WEB-DL MULTi...` | **1514.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623795) • [🐱 Nyaa](https://nyaa.si/view/2136551) |
-| `Hana Kimi S02E02 Please Make Me Stronger 1080p CR WEB-DL MULTi AAC2...` | **1562.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/623796) • [🐱 Nyaa](https://nyaa.si/view/2136550) |
-| `MARRIAGETOXIN S01E13 Thanks Man 1080p BILI WEB-DL AAC2.0 H.264-VARY...` | **307.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/623797) • [🐱 Nyaa](https://nyaa.si/view/2136548) |
-| `Marriagetoxin S01E13 Thanks Man 1080p NF WEB-DL AAC2.0 H.264-VARYG ...` | **863.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/623798) • [🐱 Nyaa](https://nyaa.si/view/2136547) |
+| `[ToonsHub] Kamisama Kiss S00E04 The Fox Falls in Love 1080p CR WEB-...` | **1666.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/623810) • [🐱 Nyaa](https://nyaa.si/view/2136570) |
+| `[ToonsHub] Kamisama Kiss S00E03 God Leaps into the Past 1080p CR WE...` | **1752.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/623811) • [🐱 Nyaa](https://nyaa.si/view/2136569) |
+| `[ToonsHub] Kamisama Kiss S00E01-E02 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1671.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/623812) • [🐱 Nyaa](https://nyaa.si/view/2136568) |
+| `Kamisama Kiss S03E01 The God Gets Dumped-The God Goes to a Hot Spri...` | **1673.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/623813) • [🐱 Nyaa](https://nyaa.si/view/2136567) |
+| `Kamisama Kiss S03E03 The Fox Falls in Love 1080p CR WEB-DL AAC2.0 H...` | **1668.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623814) • [🐱 Nyaa](https://nyaa.si/view/2136566) |
+| `Kamisama Kiss S03E04 The God Becomes a Bride 1080p CR WEB-DL AAC2.0...` | **1741.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623815) • [🐱 Nyaa](https://nyaa.si/view/2136564) |
 
 ---
 <div align="center">
