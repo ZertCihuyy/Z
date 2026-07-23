@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.00.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.02.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Blades of the Guardians S02E08 1080p ADN WEB-DL AAC2.0 H...` | **635.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/623629) • [🐱 Nyaa](https://nyaa.si/view/2136314) |
+| `[ToonsHub] Koalas Diary S01E42 1080p LNTV WEB-DL AAC2.0 H.264 (Koal...` | **65.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/623627) • [🐱 Nyaa](https://nyaa.si/view/2136305) |
+| `[Gecko] Koala's Diary - S01E42 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **26.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/623628) • [🐱 Nyaa](https://nyaa.si/view/2136304) |
 | `[SubsNoJutsu] Tomb Raider King - S01E03 (1080p WEBRip AAC x265) [CC...` | **548.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/623625) • [🐱 Nyaa](https://nekobt.to/torrents/12571500132864) |
 | `[LbE3L] KILL BLUE S01 [1080p AMZN WEBRip AV1 Opus 2.0] [Multi-Audio...` | **4266.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623624) • [🐱 Nyaa](https://nekobt.to/torrents/12571257535243) |
 | `Thunder 3 S01E03 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (R...` | **928.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/623619) • [🐱 Nyaa](https://nekobt.to/torrents/12569367170309) |
@@ -43,9 +46,6 @@
 | `[BlackRabbit] Is This a Zombie! (2011) - S01 [Bluray-1080p][Opus 2....` | **2777.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623616) • [🐱 Nyaa](https://nekobt.to/torrents/12568211936515) |
 | `[RUBaDUB] Dungeon People (Complete) (1080p) (Dual Audio)` | **10146.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623615) • [🐱 Nyaa](https://nyaa.si/view/2136263) |
 | `Pokémon Horizons: The Series - Episode 124 - 136 [English Dub][1080...` | **5852.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623613) • [🐱 Nyaa](https://nyaa.si/view/2136262) |
-| `[geckyzz] Perfect Addiction - S01E03 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **197.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623612) • [🐱 Nyaa](https://nekobt.to/torrents/12566669400590) |
-| `[Gecko] Cat Tales - S01E41 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623609) • [🐱 Nyaa](https://nyaa.si/view/2136251) |
-| `[Gecko] Candy Caries - S01E15 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623610) • [🐱 Nyaa](https://nyaa.si/view/2136250) |
 
 ---
 <div align="center">
