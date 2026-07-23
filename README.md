@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.44.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.41.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Super no Ura de Yani Suu Futari - S01E03 [WEB.1080p.AV1]...` | **235.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623835) • [🐱 Nyaa](https://nyaa.si/view/2136599) |
+| `[ASW] Quanzhi Fashi S7 - 09v2 [1080p HEVC x265 10Bit][AAC]` | **387.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623836) • [🐱 Nyaa](https://nyaa.si/view/2136598) |
+| `[ToonsHub] I Became a Legend after My 10 Year-Long Last Stand S01E0...` | **1427.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623834) • [🐱 Nyaa](https://nekobt.to/torrents/12583850855688) |
+| `[ASW] Kokoore - 02v2 [1080p HEVC x265 10Bit][AAC]` | **235.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/623833) • [🐱 Nyaa](https://nyaa.si/view/2136591) |
+| `[SubsPlease] Quanzhi Fashi S7 - 09v2 (1080p) [D3DF9CBF].mkv` | **1139.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/623829) • [🐱 Nyaa](https://nyaa.si/view/2136587) |
 | `[SubsPlease] Kokoore - 02v2 (1080p) [E2496665].mkv` | **1377.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/623825) • [🐱 Nyaa](https://nyaa.si/view/2136584) |
 | `[Erai-raws] Super no Ura de Yani Suu Futari - 03 [1080p CR WEBRip H...` | **323.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/623828) • [🐱 Nyaa](https://nyaa.si/view/2136581) |
 | `Kamisama Kiss S03E05 The God Brings Them Back 1080p CR WEB-DL AAC2....` | **1761.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623821) • [🐱 Nyaa](https://nyaa.si/view/2136579) |
@@ -41,11 +46,6 @@
 | `[ToonsHub] Kamisama Kiss S00E05 The God Becomes a Bride 1080p CR WE...` | **1740.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/623808) • [🐱 Nyaa](https://nyaa.si/view/2136572) |
 | `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **959.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623809) • [🐱 Nyaa](https://nyaa.si/view/2136571) |
 | `[ToonsHub] Kamisama Kiss S00E04 The Fox Falls in Love 1080p CR WEB-...` | **1666.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/623810) • [🐱 Nyaa](https://nyaa.si/view/2136570) |
-| `[ToonsHub] Kamisama Kiss S00E03 God Leaps into the Past 1080p CR WE...` | **1752.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/623811) • [🐱 Nyaa](https://nyaa.si/view/2136569) |
-| `[ToonsHub] Kamisama Kiss S00E01-E02 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1671.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/623812) • [🐱 Nyaa](https://nyaa.si/view/2136568) |
-| `Kamisama Kiss S03E01 The God Gets Dumped-The God Goes to a Hot Spri...` | **1673.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/623813) • [🐱 Nyaa](https://nyaa.si/view/2136567) |
-| `Kamisama Kiss S03E03 The Fox Falls in Love 1080p CR WEB-DL AAC2.0 H...` | **1668.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/623814) • [🐱 Nyaa](https://nyaa.si/view/2136566) |
-| `Kamisama Kiss S03E04 The God Becomes a Bride 1080p CR WEB-DL AAC2.0...` | **1741.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623815) • [🐱 Nyaa](https://nyaa.si/view/2136564) |
 
 ---
 <div align="center">
