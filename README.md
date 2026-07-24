@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.48.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.23.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Chibi Godzilla Raids Again - S01E108 (ちびゴジラの逆襲; Chibi Godzi...` | **22.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624034) • [🐱 Nyaa](https://nyaa.si/view/2136922) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E11 (1080p AAC x265 B...` | **616.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/624033) • [🐱 Nyaa](https://nekobt.to/torrents/12603779909382) |
+| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **431.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/624032) • [🐱 Nyaa](https://nyaa.si/view/2136915) |
+| `[Onalrie] Hell Mode - S02E04 Rev. 2 [1080p WEBRip AV1]` | **269.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/624031) • [🐱 Nyaa](https://nekobt.to/torrents/12602996243722) |
+| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 04 [1080p CR WEBRip ...` | **318.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/624029) • [🐱 Nyaa](https://nyaa.si/view/2136912) |
+| `[Erai-raws] Kore Kaite Shine - 04 [1080p CR WEBRip HEVC AAC][MultiS...` | **551.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/624030) • [🐱 Nyaa](https://nyaa.si/view/2136911) |
+| `[LoliHouse] 『你们先走我断后』，于是10年后我成为了传说 / Koko wa Ore ni Makasete Saki n...` | **492.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/624025) • [🐱 Nyaa](https://nyaa.si/view/2136909) |
+| `[DKB] Nige Jouzu no Wakagimi - S02E02 [1080p][HEVC x265 10bit][Mult...` | **665.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/624026) • [🐱 Nyaa](https://nyaa.si/view/2136907) |
+| `[BlackRabbit] In the Land of Leadale (2022) - S01 [Bluray-1080p][Op...` | **2010.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624028) • [🐱 Nyaa](https://nekobt.to/torrents/12602494380042) |
+| `[GHOST][1080p] Waiting in the Summer [BD HEVC 10bit Dual Audio AC3]` | **12035.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624027) • [🐱 Nyaa](https://nyaa.si/view/2136905) |
 | `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **380.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/624024) • [🐱 Nyaa](https://nyaa.si/view/2136903) |
 | `[Onalrie] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai ...` | **269.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/624023) • [🐱 Nyaa](https://nekobt.to/torrents/12602208685583) |
 | `[ASW] Hell Mode S2 - 04 [1080p HEVC x265 10Bit][AAC]` | **407.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624021) • [🐱 Nyaa](https://nyaa.si/view/2136901) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime - S04E14 (WEB ...` | **1506.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/624022) • [🐱 Nyaa](https://nyaa.si/view/2136898) |
 | `HELL MODE S02E04 AN ORDER FROM THE PRINCE 1080p HIDI WEB-DL AAC2.0 ...` | **926.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/624018) • [🐱 Nyaa](https://nyaa.si/view/2136897) |
-| `[SubsPlus+] Hell Mode - S02E04 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **562.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/624019) • [🐱 Nyaa](https://nyaa.si/view/2136896) |
-| `[Ironclad] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - S01E04 [WE...` | **189.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/624020) • [🐱 Nyaa](https://nyaa.si/view/2136895) |
-| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E04 [1080p WEBRip AV1]` | **171.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/624017) • [🐱 Nyaa](https://nekobt.to/torrents/12601573936395) |
-| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **563.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624006) • [🐱 Nyaa](https://nyaa.si/view/2136892) |
-| `[ASW] Nige Jouzu no Wakagimi S2 - 02 [1080p HEVC x265 10Bit][AAC]` | **589.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/624007) • [🐱 Nyaa](https://nyaa.si/view/2136891) |
-| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **926.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/624008) • [🐱 Nyaa](https://nyaa.si/view/2136890) |
-| `[DKB] Tensei shitara Slime Datta Ken - S04E16 [1080p][HEVC x265 10b...` | **468.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624009) • [🐱 Nyaa](https://nyaa.si/view/2136889) |
-| `[ASW] Uchi no Otouto-domo ga Sumimasen - 04 [1080p HEVC x265 10Bit]...` | **178.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/624012) • [🐱 Nyaa](https://nyaa.si/view/2136886) |
-| `[Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Iseka...` | **926.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/624013) • [🐱 Nyaa](https://nyaa.si/view/2136885) |
-| `[SubsPlease] Hell Mode S2 - 04 (1080p) [737601C6].mkv` | **926.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624014) • [🐱 Nyaa](https://nyaa.si/view/2136884) |
 
 ---
 <div align="center">
