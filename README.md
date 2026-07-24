@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.34.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.19.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Crowned in a Hundred Days - S01E10 (CA) [1080p WEBRip AV1]` | **129.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623871) • [🐱 Nyaa](https://nekobt.to/torrents/12591841223175) |
+| `[Erai-raws] Crowned in a Hundred Days - 10 (CA) [1080p CR WEBRip HE...` | **218.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/623870) • [🐱 Nyaa](https://nyaa.si/view/2136678) |
+| `[BlackRabbit] Arifureta - From Commonplace to World's Strongest (20...` | **1728.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623868) • [🐱 Nyaa](https://nekobt.to/torrents/12589615331599) |
+| `[ASW] Bai Ri Cheng Wang - 10 [1080p HEVC x265 10Bit][AAC]` | **171.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/623866) • [🐱 Nyaa](https://nyaa.si/view/2136650) |
+| `[Doomdos] - The Great Ruler - 83 [1080p IQ WEB-DL]` | **399.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623867) • [🐱 Nyaa](https://nyaa.si/view/2136648) |
 | `[ToonsHub] Crowned in a Hundred Days S01E10 1080p CR WEB-DL AAC2.0 ...` | **626.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/623863) • [🐱 Nyaa](https://nekobt.to/torrents/12589124051211) |
 | `[Gecko] Crowned in a Hundred Days - S01E10 (百日成王; Bai Ri Cheng Wang...` | **156.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623864) • [🐱 Nyaa](https://nekobt.to/torrents/12589114132746) |
 | `Crowned in a Hundred Days S01E10 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **629.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623855) • [🐱 Nyaa](https://nyaa.si/view/2136644) |
@@ -41,11 +46,6 @@
 | `[Doomdos] - Lingwu Continent - 200 [1080p IQ WEB-DL]` | **210.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/623853) • [🐱 Nyaa](https://nyaa.si/view/2136632) |
 | `[Yameii] Assassination Classroom the Movie: Our Time (2026) [Englis...` | **5055.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/623850) • [🐱 Nyaa](https://nyaa.si/view/2136629) |
 | `[ASW] Ansatsu Kyoushitsu Movie - Minna no Jikan [1080p HEVC x265 10...` | **921.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623852) • [🐱 Nyaa](https://nyaa.si/view/2136627) |
-| `[Lazyleido-Mini] DIGIMON BEATBREAK - 36 (S01E36) - (WEB 1080p AV1 1...` | **697.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/623848) • [🐱 Nyaa](https://nyaa.si/view/2136626) |
-| `[Lazyleido] DIGIMON BEATBREAK - 36 (S01E36) - (WEB 1080p HEVC x265 ...` | **1813.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623849) • [🐱 Nyaa](https://nyaa.si/view/2136625) |
-| `[Nitsy] BanG Dream! Yume∞Mita - S01E06 (1080p WEB AAC x264)` | **1395.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623847) • [🐱 Nyaa](https://nekobt.to/torrents/12587019120904) |
-| `[Lazyleido-Mini] DIGIMON BEATBREAK - 35 (S01E35) - (WEB 1080p AV1 1...` | **612.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/623845) • [🐱 Nyaa](https://nyaa.si/view/2136623) |
-| `[Lazyleido] DIGIMON BEATBREAK - 35 (S01E35) - (WEB 1080p HEVC x265 ...` | **1479.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/623846) • [🐱 Nyaa](https://nyaa.si/view/2136622) |
 
 ---
 <div align="center">
