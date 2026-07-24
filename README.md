@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.41.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.11.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Capybara Bathhouse - S01 (水豚汤馆; Shui Tun Tang Guan) [WETV.W...` | **547.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/623843) • [🐱 Nyaa](https://nyaa.si/view/2136620) |
+| `Assassination Classroom the Movie Our Time 2026 1080p CR WEB-DL DUA...` | **5176.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623841) • [🐱 Nyaa](https://nyaa.si/view/2136618) |
+| `[SubsPlease] Ansatsu Kyoushitsu Movie - Minna no Jikan (1080p) [2C7...` | **5021.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/623842) • [🐱 Nyaa](https://nyaa.si/view/2136617) |
+| `[ToonsHub] Assassination Classroom the Movie: Our Time (2026) 1080p...` | **5176.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623839) • [🐱 Nyaa](https://nyaa.si/view/2136615) |
+| `[sgt] I Want to Love You Till Your Dying Day - S01E01 (WEB 1080p HE...` | **1857.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/623837) • [🐱 Nyaa](https://nyaa.si/view/2136605) |
 | `[Ironclad] Super no Ura de Yani Suu Futari - S01E03 [WEB.1080p.AV1]...` | **235.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/623835) • [🐱 Nyaa](https://nyaa.si/view/2136599) |
 | `[ASW] Quanzhi Fashi S7 - 09v2 [1080p HEVC x265 10Bit][AAC]` | **387.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/623836) • [🐱 Nyaa](https://nyaa.si/view/2136598) |
 | `[ToonsHub] I Became a Legend after My 10 Year-Long Last Stand S01E0...` | **1427.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623834) • [🐱 Nyaa](https://nekobt.to/torrents/12583850855688) |
@@ -41,11 +46,6 @@
 | `Kamisama Kiss S03E05 The God Brings Them Back 1080p CR WEB-DL AAC2....` | **1761.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/623821) • [🐱 Nyaa](https://nyaa.si/view/2136579) |
 | `[DKB] Otome Kaijuu Caraméliser - S01E04 [1080p][HEVC x265 10bit][Mu...` | **536.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/623822) • [🐱 Nyaa](https://nyaa.si/view/2136578) |
 | `[SubsPlease] Dr. Stone S4 (01-24) (1080p) [Batch]` | **33557.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/623823) • [🐱 Nyaa](https://nyaa.si/view/2136577) |
-| `[ToonsHub] Kamisama Kiss S00E06 The God Brings Them Back 1080p CR W...` | **1759.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623820) • [🐱 Nyaa](https://nekobt.to/torrents/12582230950923) |
-| `[Reza] Smoking Behind the Supermarket with You - S01E03 [WEBRip 108...` | **1027.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/623806) • [🐱 Nyaa](https://nyaa.si/view/2136574) |
-| `[ToonsHub] Kamisama Kiss S00E05 The God Becomes a Bride 1080p CR WE...` | **1740.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/623808) • [🐱 Nyaa](https://nyaa.si/view/2136572) |
-| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **959.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/623809) • [🐱 Nyaa](https://nyaa.si/view/2136571) |
-| `[ToonsHub] Kamisama Kiss S00E04 The Fox Falls in Love 1080p CR WEB-...` | **1666.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/623810) • [🐱 Nyaa](https://nyaa.si/view/2136570) |
 
 ---
 <div align="center">
