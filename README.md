@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.43.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.47.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **261.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624040) • [🐱 Nyaa](https://nyaa.si/view/2136948) |
+| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E04 [WEB.1080p.AV1] | K...` | **435.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624039) • [🐱 Nyaa](https://nyaa.si/view/2136934) |
 | `[Jonesyy] Cardcaptor Sakura [(70/70) + 2 Películas + OVAs][1440x108...` | **24581.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624038) • [🐱 Nyaa](https://nyaa.si/view/2136929) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E12 (1080p AAC x265 B...` | **622.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/624037) • [🐱 Nyaa](https://nekobt.to/torrents/12604818711310) |
 | `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E16 [WEB.1080p.AV1...` | **315.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624035) • [🐱 Nyaa](https://nyaa.si/view/2136924) |
@@ -46,8 +48,6 @@
 | `[LoliHouse] 『你们先走我断后』，于是10年后我成为了传说 / Koko wa Ore ni Makasete Saki n...` | **492.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/624025) • [🐱 Nyaa](https://nyaa.si/view/2136909) |
 | `[DKB] Nige Jouzu no Wakagimi - S02E02 [1080p][HEVC x265 10bit][Mult...` | **665.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/624026) • [🐱 Nyaa](https://nyaa.si/view/2136907) |
 | `[BlackRabbit] In the Land of Leadale (2022) - S01 [Bluray-1080p][Op...` | **2010.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624028) • [🐱 Nyaa](https://nekobt.to/torrents/12602494380042) |
-| `[GHOST][1080p] Waiting in the Summer [BD HEVC 10bit Dual Audio AC3]` | **12035.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624027) • [🐱 Nyaa](https://nyaa.si/view/2136905) |
-| `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **380.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/624024) • [🐱 Nyaa](https://nyaa.si/view/2136903) |
 
 ---
 <div align="center">
