@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.19.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.56.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Eyeshield21 アイシールド21 [1080p] [H264] [English sub]` | **179541.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/623873) • [🐱 Nyaa](https://nyaa.si/view/2136683) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E10 (1080p AAC x265 B...` | **632.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623872) • [🐱 Nyaa](https://nekobt.to/torrents/12593074554113) |
 | `[Onalrie] Crowned in a Hundred Days - S01E10 (CA) [1080p WEBRip AV1]` | **129.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623871) • [🐱 Nyaa](https://nekobt.to/torrents/12591841223175) |
 | `[Erai-raws] Crowned in a Hundred Days - 10 (CA) [1080p CR WEBRip HE...` | **218.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/623870) • [🐱 Nyaa](https://nyaa.si/view/2136678) |
 | `[BlackRabbit] Arifureta - From Commonplace to World's Strongest (20...` | **1728.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623868) • [🐱 Nyaa](https://nekobt.to/torrents/12589615331599) |
@@ -44,8 +46,6 @@
 | `[Erai-raws] Crowned in a Hundred Days - 10 (CA) [1080p CR WEB-DL AV...` | **555.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/623862) • [🐱 Nyaa](https://nyaa.si/view/2136635) |
 | `[Doomdos] - Urban Miracle Doctor - 197 [1080p IQ WEB-DL]` | **193.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623854) • [🐱 Nyaa](https://nyaa.si/view/2136634) |
 | `[Doomdos] - Lingwu Continent - 200 [1080p IQ WEB-DL]` | **210.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/623853) • [🐱 Nyaa](https://nyaa.si/view/2136632) |
-| `[Yameii] Assassination Classroom the Movie: Our Time (2026) [Englis...` | **5055.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/623850) • [🐱 Nyaa](https://nyaa.si/view/2136629) |
-| `[ASW] Ansatsu Kyoushitsu Movie - Minna no Jikan [1080p HEVC x265 10...` | **921.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623852) • [🐱 Nyaa](https://nyaa.si/view/2136627) |
 
 ---
 <div align="center">
