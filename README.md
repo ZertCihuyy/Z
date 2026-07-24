@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.55.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.34.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Akinasu] Bad Girl - S01 [BD 1080p HEVC 10-bit FLAC][Dual-Audio][Mu...` | **24472.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623887) • [🐱 Nyaa](https://nyaa.si/view/2136733) |
-| `[RUBaDUB] DAN DA DAN (S1 Complete) (1080p) (Dual Audio)` | **19163.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/623888) • [🐱 Nyaa](https://nyaa.si/view/2136732) |
-| `The Frontier Lord Begins with Zero Subjects S01E04 The Frontier Lor...` | **1404.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623889) • [🐱 Nyaa](https://nyaa.si/view/2136731) |
-| `The Frontier Lord Begins with Zero Subjects S01E02 The Frontier Lor...` | **311.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623890) • [🐱 Nyaa](https://nyaa.si/view/2136730) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E04 1080p...` | **928.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/623880) • [🐱 Nyaa](https://nekobt.to/torrents/12597848985861) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E04 1080p...` | **1425.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623881) • [🐱 Nyaa](https://nekobt.to/torrents/12597847924489) |
-| `[SubsPlease] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 04 (1080...` | **1378.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/623891) • [🐱 Nyaa](https://nyaa.si/view/2136726) |
-| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 04 [1080p...` | **1387.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/623884) • [🐱 Nyaa](https://nekobt.to/torrents/12597823963906) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E04 1080p...` | **243.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623885) • [🐱 Nyaa](https://nekobt.to/torrents/12597823344129) |
-| `[BlackRabbit] Arifureta - From Commonplace to World's Strongest (20...` | **2354.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/623886) • [🐱 Nyaa](https://nekobt.to/torrents/12597661708552) |
-| `[Gecko] BanG Dream! YUME∞MITA - S01E06 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **694.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623878) • [🐱 Nyaa](https://nyaa.si/view/2136704) |
-| `[Gecko] Koala's Diary - S01E42 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **77.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623879) • [🐱 Nyaa](https://nyaa.si/view/2136703) |
-| `[Bird] Yu-Gi-Oh! CARD GAME - THE CHRONICLES (2025) - 16 (1080p) [BC...` | **82.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623877) • [🐱 Nyaa](https://nyaa.si/view/2136698) |
-| `[denisplay] Otome Kaijuu Carameliser - 04 [1080p] [AV1] (Weekly) (K...` | **356.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/623874) • [🐱 Nyaa](https://nyaa.si/view/2136695) |
-| `Eyeshield21 アイシールド21 [1080p] [H264] [English sub]` | **179541.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/623873) • [🐱 Nyaa](https://nyaa.si/view/2136683) |
+| `That Time I Got Reincarnated as a Slime S04E14 The Black Numbers 10...` | **1454.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/623920) • [🐱 Nyaa](https://nyaa.si/view/2136790) |
+| `That Time I Got Reincarnated as a Slime S04E16 1080p CR WEB-DL AAC2...` | **1408.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623921) • [🐱 Nyaa](https://nyaa.si/view/2136789) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E13 1080p CR ...` | **1656.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623922) • [🐱 Nyaa](https://nyaa.si/view/2136788) |
+| `[Yameii] That Time I Got Reincarnated as a Slime - S04E14 [English ...` | **1398.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/623923) • [🐱 Nyaa](https://nyaa.si/view/2136787) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E14 1080p CR ...` | **1452.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/623924) • [🐱 Nyaa](https://nyaa.si/view/2136786) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E16 1080p CR ...` | **1407.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/623925) • [🐱 Nyaa](https://nyaa.si/view/2136785) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E16 1080p BIL...` | **298.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/623926) • [🐱 Nyaa](https://nyaa.si/view/2136783) |
+| `[VARYG] That Time I Got Reincarnated as a Slime S04E16 Gran the Daw...` | **1010.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/623917) • [🐱 Nyaa](https://nekobt.to/torrents/12599251792386) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E16 1080p NF ...` | **1010.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/623927) • [🐱 Nyaa](https://nyaa.si/view/2136782) |
+| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 16 (1080p) [AF40AF...` | **1397.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623928) • [🐱 Nyaa](https://nyaa.si/view/2136779) |
+| `[Judas] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga ...` | **213.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/623931) • [🐱 Nyaa](https://nyaa.si/view/2136773) |
+| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 16 [1080p C...` | **1407.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/623932) • [🐱 Nyaa](https://nyaa.si/view/2136768) |
+| `[ToonsHub] Flaming Dodgeball Girl Danko S01E01 REPACK 1080p AMZN WE...` | **1001.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623915) • [🐱 Nyaa](https://nyaa.si/view/2136763) |
+| `[Onalrie] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen g...` | **200.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/623914) • [🐱 Nyaa](https://onalrie.app/torrent/6308f8f7-b6ab-4fe3-8b3b-c201dd33d769) |
+| `[ASW] Kokoore - 04 [1080p HEVC x265 10Bit][AAC]` | **214.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/623912) • [🐱 Nyaa](https://nyaa.si/view/2136759) |
 
 ---
 <div align="center">
