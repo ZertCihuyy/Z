@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.56.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.48.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Bird] Yu-Gi-Oh! CARD GAME - THE CHRONICLES (2025) - 16 (1080p) [BC...` | **82.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623877) • [🐱 Nyaa](https://nyaa.si/view/2136698) |
+| `[denisplay] Otome Kaijuu Carameliser - 04 [1080p] [AV1] (Weekly) (K...` | **356.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/623874) • [🐱 Nyaa](https://nyaa.si/view/2136695) |
 | `Eyeshield21 アイシールド21 [1080p] [H264] [English sub]` | **179541.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/623873) • [🐱 Nyaa](https://nyaa.si/view/2136683) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E10 (1080p AAC x265 B...` | **632.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623872) • [🐱 Nyaa](https://nekobt.to/torrents/12593074554113) |
 | `[Onalrie] Crowned in a Hundred Days - S01E10 (CA) [1080p WEBRip AV1]` | **129.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623871) • [🐱 Nyaa](https://nekobt.to/torrents/12591841223175) |
@@ -44,8 +46,6 @@
 | `[SubsPlease] Bai Ri Cheng Wang - 10 (1080p) [B29F05B9].mkv` | **624.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623856) • [🐱 Nyaa](https://nyaa.si/view/2136643) |
 | `[ToonsHub] Crowned in a Hundred Days S01E10 1080p BILI WEB-DL AAC2....` | **153.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623859) • [🐱 Nyaa](https://nyaa.si/view/2136640) |
 | `[Erai-raws] Crowned in a Hundred Days - 10 (CA) [1080p CR WEB-DL AV...` | **555.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/623862) • [🐱 Nyaa](https://nyaa.si/view/2136635) |
-| `[Doomdos] - Urban Miracle Doctor - 197 [1080p IQ WEB-DL]` | **193.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623854) • [🐱 Nyaa](https://nyaa.si/view/2136634) |
-| `[Doomdos] - Lingwu Continent - 200 [1080p IQ WEB-DL]` | **210.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/623853) • [🐱 Nyaa](https://nyaa.si/view/2136632) |
 
 ---
 <div align="center">
