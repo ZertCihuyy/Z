@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.11.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.48.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `HELL MODE S02E04 AN ORDER FROM THE PRINCE 1080p AMZN WEB-DL DDP2.0 ...` | **1144.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/623998) • [🐱 Nyaa](https://nyaa.si/view/2136878) |
-| `[Kosaka] That Time I Got Reincarnated as a Slime - 88 (WEBRip 1080p...` | **288.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/624001) • [🐱 Nyaa](https://nekobt.to/torrents/12600978909194) |
-| `[Judas] Kore Kaite Shine (Draw This, Then Die!) - S01E04 [1080p][HE...` | **355.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/623999) • [🐱 Nyaa](https://nyaa.si/view/2136877) |
-| `[ToonsHub] KAMUI Hes behind you S01E04 1080p UNCENSORED OV WEB-DL A...` | **572.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/624000) • [🐱 Nyaa](https://nyaa.si/view/2136876) |
-| `[Unfucked] The Elusive Samurai - S02E02 (1080p CR WEB-DL AVC AAC 2....` | **1407.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/623985) • [🐱 Nyaa](https://nyaa.si/view/2136875) |
-| `Please Excuse My Younger Brothers S01E04 Unable to Be Honest 1080p ...` | **1420.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/623986) • [🐱 Nyaa](https://nyaa.si/view/2136874) |
-| `[Onalrie] Kore Kaite Shine - S01E04 [1080p WEBRip AV1]` | **296.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623997) • [🐱 Nyaa](https://onalrie.app/torrent/a181de39-44d2-4088-809f-57f3b3d78b74) |
-| `[Akinasu] Bad Girl - S01 v3 [BD 1080p HEVC 10-bit FLAC][Dual-Audio]...` | **24472.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623987) • [🐱 Nyaa](https://nyaa.si/view/2136873) |
-| `[ASW] Kore Kaite Shine - 04 [1080p HEVC x265 10Bit][AAC]` | **361.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/623988) • [🐱 Nyaa](https://nyaa.si/view/2136870) |
-| `[ToonsHub] Please Excuse My Younger Brothers S01E04 1080p CR WEB-DL...` | **1419.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/623989) • [🐱 Nyaa](https://nyaa.si/view/2136868) |
-| `[ASW] Kami no Shizuku - 16 [1080p HEVC x265 10Bit][AAC]` | **312.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/623990) • [🐱 Nyaa](https://nyaa.si/view/2136866) |
-| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 04 [1080p CR WEB-DL ...` | **1401.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623993) • [🐱 Nyaa](https://nyaa.si/view/2136861) |
-| `[SubsPlease] Uchi no Otouto-domo ga Sumimasen - 04 (1080p) [1E466C4...` | **1390.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/623994) • [🐱 Nyaa](https://nyaa.si/view/2136859) |
-| `[Trix] Nige Jouzu no Wakagimi S02E02 [WEBRip 1080p AV1 Opus] (Multi...` | **545.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/623982) • [🐱 Nyaa](https://nekobt.to/torrents/12600543129605) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 16 [1080p C...` | **563.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/623976) • [🐱 Nyaa](https://nyaa.si/view/2136852) |
+| `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **380.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/624024) • [🐱 Nyaa](https://nyaa.si/view/2136903) |
+| `[Onalrie] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai ...` | **269.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/624023) • [🐱 Nyaa](https://nekobt.to/torrents/12602208685583) |
+| `[ASW] Hell Mode S2 - 04 [1080p HEVC x265 10Bit][AAC]` | **407.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624021) • [🐱 Nyaa](https://nyaa.si/view/2136901) |
+| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E14 (WEB ...` | **1506.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/624022) • [🐱 Nyaa](https://nyaa.si/view/2136898) |
+| `HELL MODE S02E04 AN ORDER FROM THE PRINCE 1080p HIDI WEB-DL AAC2.0 ...` | **926.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/624018) • [🐱 Nyaa](https://nyaa.si/view/2136897) |
+| `[SubsPlus+] Hell Mode - S02E04 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **562.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/624019) • [🐱 Nyaa](https://nyaa.si/view/2136896) |
+| `[Ironclad] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - S01E04 [WE...` | **189.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/624020) • [🐱 Nyaa](https://nyaa.si/view/2136895) |
+| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E04 [1080p WEBRip AV1]` | **171.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/624017) • [🐱 Nyaa](https://nekobt.to/torrents/12601573936395) |
+| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **563.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624006) • [🐱 Nyaa](https://nyaa.si/view/2136892) |
+| `[ASW] Nige Jouzu no Wakagimi S2 - 02 [1080p HEVC x265 10Bit][AAC]` | **589.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/624007) • [🐱 Nyaa](https://nyaa.si/view/2136891) |
+| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **926.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/624008) • [🐱 Nyaa](https://nyaa.si/view/2136890) |
+| `[DKB] Tensei shitara Slime Datta Ken - S04E16 [1080p][HEVC x265 10b...` | **468.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624009) • [🐱 Nyaa](https://nyaa.si/view/2136889) |
+| `[ASW] Uchi no Otouto-domo ga Sumimasen - 04 [1080p HEVC x265 10Bit]...` | **178.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/624012) • [🐱 Nyaa](https://nyaa.si/view/2136886) |
+| `[Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Iseka...` | **926.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/624013) • [🐱 Nyaa](https://nyaa.si/view/2136885) |
+| `[SubsPlease] Hell Mode S2 - 04 (1080p) [737601C6].mkv` | **926.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624014) • [🐱 Nyaa](https://nyaa.si/view/2136884) |
 
 ---
 <div align="center">
