@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.48.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.55.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Akinasu] Bad Girl - S01 [BD 1080p HEVC 10-bit FLAC][Dual-Audio][Mu...` | **24472.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623887) • [🐱 Nyaa](https://nyaa.si/view/2136733) |
+| `[RUBaDUB] DAN DA DAN (S1 Complete) (1080p) (Dual Audio)` | **19163.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/623888) • [🐱 Nyaa](https://nyaa.si/view/2136732) |
+| `The Frontier Lord Begins with Zero Subjects S01E04 The Frontier Lor...` | **1404.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/623889) • [🐱 Nyaa](https://nyaa.si/view/2136731) |
+| `The Frontier Lord Begins with Zero Subjects S01E02 The Frontier Lor...` | **311.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/623890) • [🐱 Nyaa](https://nyaa.si/view/2136730) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E04 1080p...` | **928.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/623880) • [🐱 Nyaa](https://nekobt.to/torrents/12597848985861) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E04 1080p...` | **1425.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623881) • [🐱 Nyaa](https://nekobt.to/torrents/12597847924489) |
+| `[SubsPlease] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 04 (1080...` | **1378.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/623891) • [🐱 Nyaa](https://nyaa.si/view/2136726) |
+| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 04 [1080p...` | **1387.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/623884) • [🐱 Nyaa](https://nekobt.to/torrents/12597823963906) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E04 1080p...` | **243.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/623885) • [🐱 Nyaa](https://nekobt.to/torrents/12597823344129) |
+| `[BlackRabbit] Arifureta - From Commonplace to World's Strongest (20...` | **2354.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/623886) • [🐱 Nyaa](https://nekobt.to/torrents/12597661708552) |
+| `[Gecko] BanG Dream! YUME∞MITA - S01E06 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **694.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623878) • [🐱 Nyaa](https://nyaa.si/view/2136704) |
+| `[Gecko] Koala's Diary - S01E42 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **77.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/623879) • [🐱 Nyaa](https://nyaa.si/view/2136703) |
 | `[Bird] Yu-Gi-Oh! CARD GAME - THE CHRONICLES (2025) - 16 (1080p) [BC...` | **82.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/623877) • [🐱 Nyaa](https://nyaa.si/view/2136698) |
 | `[denisplay] Otome Kaijuu Carameliser - 04 [1080p] [AV1] (Weekly) (K...` | **356.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/623874) • [🐱 Nyaa](https://nyaa.si/view/2136695) |
 | `Eyeshield21 アイシールド21 [1080p] [H264] [English sub]` | **179541.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/623873) • [🐱 Nyaa](https://nyaa.si/view/2136683) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E10 (1080p AAC x265 B...` | **632.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/623872) • [🐱 Nyaa](https://nekobt.to/torrents/12593074554113) |
-| `[Onalrie] Crowned in a Hundred Days - S01E10 (CA) [1080p WEBRip AV1]` | **129.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623871) • [🐱 Nyaa](https://nekobt.to/torrents/12591841223175) |
-| `[Erai-raws] Crowned in a Hundred Days - 10 (CA) [1080p CR WEBRip HE...` | **218.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/623870) • [🐱 Nyaa](https://nyaa.si/view/2136678) |
-| `[BlackRabbit] Arifureta - From Commonplace to World's Strongest (20...` | **1728.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/623868) • [🐱 Nyaa](https://nekobt.to/torrents/12589615331599) |
-| `[ASW] Bai Ri Cheng Wang - 10 [1080p HEVC x265 10Bit][AAC]` | **171.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/623866) • [🐱 Nyaa](https://nyaa.si/view/2136650) |
-| `[Doomdos] - The Great Ruler - 83 [1080p IQ WEB-DL]` | **399.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623867) • [🐱 Nyaa](https://nyaa.si/view/2136648) |
-| `[ToonsHub] Crowned in a Hundred Days S01E10 1080p CR WEB-DL AAC2.0 ...` | **626.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/623863) • [🐱 Nyaa](https://nekobt.to/torrents/12589124051211) |
-| `[Gecko] Crowned in a Hundred Days - S01E10 (百日成王; Bai Ri Cheng Wang...` | **156.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/623864) • [🐱 Nyaa](https://nekobt.to/torrents/12589114132746) |
-| `Crowned in a Hundred Days S01E10 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **629.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/623855) • [🐱 Nyaa](https://nyaa.si/view/2136644) |
-| `[SubsPlease] Bai Ri Cheng Wang - 10 (1080p) [B29F05B9].mkv` | **624.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/623856) • [🐱 Nyaa](https://nyaa.si/view/2136643) |
-| `[ToonsHub] Crowned in a Hundred Days S01E10 1080p BILI WEB-DL AAC2....` | **153.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/623859) • [🐱 Nyaa](https://nyaa.si/view/2136640) |
-| `[Erai-raws] Crowned in a Hundred Days - 10 (CA) [1080p CR WEB-DL AV...` | **555.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/623862) • [🐱 Nyaa](https://nyaa.si/view/2136635) |
 
 ---
 <div align="center">
