@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.58.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.19.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CenturyZeta] Koutetsujou no Kabaneri Mumei Ranman (1080p)` | **79.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/624079) • [🐱 Nyaa](https://nyaa.si/view/2137011) |
+| `[nekotan] Pompo The Cinéphile 2021 (BD 1080p x265 10-bit Opus) [Dua...` | **8192.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624077) • [🐱 Nyaa](https://nyaa.si/view/2137010) |
+| `[Onalrie] Rilakkuma - S01E17 [1080p WEBRip AV1]` | **23.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/624078) • [🐱 Nyaa](https://nekobt.to/torrents/12614426096899) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E01 (1080p AAC x265 B...` | **614.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/624076) • [🐱 Nyaa](https://nekobt.to/torrents/12614287096578) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E04 1080p NF WEB-DL MULTi...` | **1115.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624074) • [🐱 Nyaa](https://nyaa.si/view/2137009) |
+| `Daemons of the Shadow Realm S01E04 Jin and Yuru 1080p NF WEB-DL MUL...` | **1115.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/624075) • [🐱 Nyaa](https://nyaa.si/view/2137008) |
+| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 15 [1080p][YT]` | **320.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/624073) • [🐱 Nyaa](https://nyaa.si/view/2137007) |
+| `[RUBaDUB] DAN DA DAN (S2 Complete) (1080p) (Dual Audio)` | **20198.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/624071) • [🐱 Nyaa](https://nyaa.si/view/2137006) |
+| `[Doomdos] - Legend of Emperors_Ji Fa Arc - 1 [1080p IQ WEB-DL]` | **1177.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624072) • [🐱 Nyaa](https://nyaa.si/view/2137005) |
 | `[Doomdos] -  开心锤锤Story：校园武神 - 59 [1080p IQ WEB-DL]` | **31.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/624070) • [🐱 Nyaa](https://nyaa.si/view/2137004) |
 | `Oshi.no.Ko.S03.1080p.BluRay.Dual-Audio.Opus.2.0.x265-YURASUKA (3rd ...` | **19024.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624067) • [🐱 Nyaa](https://nyaa.si/view/2137002) |
 | `[Doomdos] - 启运丹田：开局签到至尊丹田 - 2 [1080p IQ WEB-DL]` | **167.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/624068) • [🐱 Nyaa](https://nyaa.si/view/2136999) |
 | `[Doomdos] - 苍绝剑尊 - 1 [1080p IQ WEB-DL]` | **55.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624069) • [🐱 Nyaa](https://nyaa.si/view/2136997) |
 | `[Doomdos] - 启运丹田：开局签到至尊丹田 - 1 [1080p IQ WEB-DL]` | **183.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624065) • [🐱 Nyaa](https://nyaa.si/view/2136996) |
 | `[Judas] Gekijouban Ansatsu Kyoushitsu Minna no Jikan (Assassination...` | **1082.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/624066) • [🐱 Nyaa](https://nyaa.si/view/2136995) |
-| `RILAKKUMA S01E17 1080p CR WEB-DL MULTi AAC2.0 H.264-VARYG (Multi-Au...` | **100.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624063) • [🐱 Nyaa](https://nyaa.si/view/2136994) |
-| `[ToonsHub] Jiang Ye S01E15 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **405.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/624064) • [🐱 Nyaa](https://nyaa.si/view/2136993) |
-| `[Doomdos] - Daqian Town - 2 [1080p IQ WEB-DL]` | **99.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/624062) • [🐱 Nyaa](https://nyaa.si/view/2136992) |
-| `[Doomdos] - Daqian Town - 1 [1080p IQ WEB-DL]` | **126.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624059) • [🐱 Nyaa](https://nyaa.si/view/2136990) |
-| `[SavI0r] Shijou Saikyou no Daimaou, Murabito A ni Tensei suru v3 [B...` | **3076.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/624060) • [🐱 Nyaa](https://nyaa.si/view/2136988) |
-| `[GrainInTheSneed] THE GHOST IN THE SHELL (2026) - S01E03 (WEBRip 10...` | **8291.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/624061) • [🐱 Nyaa](https://nyaa.si/view/2136987) |
-| `[Chika] Soul Eater (2008) - 01-13 [BD 1080p HEVC Opus]` | **34472.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/624058) • [🐱 Nyaa](https://nyaa.si/view/2136985) |
-| `[SubsPlus+] Yowayowa Sensei S01 (ADN WEB-DL 1080p AVC AAC) (Uncenso...` | **6780.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624057) • [🐱 Nyaa](https://nyaa.si/view/2136982) |
-| `[ToonsHub] A Good Day to Ascend S01E04 1080p iQ WEB-DL AAC2.0 H.264...` | **468.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624056) • [🐱 Nyaa](https://nyaa.si/view/2136979) |
 
 ---
 <div align="center">
