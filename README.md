@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.35.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.33.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Lazier] Bleach Thousand-Year Blood War - 41 (WEB 1080p EAC3) | Ble...` | **1474.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624351) • [🐱 Nyaa](https://nyaa.si/view/2137406) |
+| `[Onalrie] Saijo no Osewa - S01E04 [1080p WEBRip AV1]` | **187.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624355) • [🐱 Nyaa](https://nekobt.to/torrents/12625990334221) |
+| `[SubsPlease] Dr. Stone S4 (25-37) (1080p) [Batch]` | **18174.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/624352) • [🐱 Nyaa](https://nyaa.si/view/2137401) |
+| `[ASW] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance - 0...` | **489.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624349) • [🐱 Nyaa](https://nyaa.si/view/2137397) |
+| `[Ironclad] Yomi no Tsugai - S01E16 [WEB.1080p.AV1] | Daemons of the...` | **335.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/624350) • [🐱 Nyaa](https://nyaa.si/view/2137396) |
+| `[Onalrie] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - S01E03 [...` | **225.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624348) • [🐱 Nyaa](https://nekobt.to/torrents/12625636044551) |
+| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 03 [10...` | **443.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/624346) • [🐱 Nyaa](https://nyaa.si/view/2137395) |
+| `[DKB] Bleach - Sennen Kessen-hen - 41 [1080p][HEVC x265 10bit][Mult...` | **806.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/624347) • [🐱 Nyaa](https://nyaa.si/view/2137394) |
 | `[Onalrie] Kabushikigaisha Magilumiere - S02E04 [1080p WEBRip AV1]` | **217.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/624345) • [🐱 Nyaa](https://nekobt.to/torrents/12625248795650) |
 | `Rich Girl Caretaker Im Secretly the Caregiver of the Most Popular G...` | **232.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/624339) • [🐱 Nyaa](https://nyaa.si/view/2137393) |
 | `[DKB] Black Torch - S01E04 [1080p][HEVC x265 10bit][Dual Audio][Mul...` | **396.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624340) • [🐱 Nyaa](https://nyaa.si/view/2137391) |
@@ -40,14 +48,6 @@
 | `[ASW] Kimiai - 04 [1080p HEVC x265 10Bit][AAC]` | **200.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/624342) • [🐱 Nyaa](https://nyaa.si/view/2137389) |
 | `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Era...` | **376.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/624343) • [🐱 Nyaa](https://nyaa.si/view/2137388) |
 | `[ToonsHub] Rich Girl Caretaker S01E04 1080p BILI WEB-DL AAC2.0 H.26...` | **240.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/624344) • [🐱 Nyaa](https://nyaa.si/view/2137387) |
-| `[Erai-raws] Grow Up Show: Himawari no Circus-dan - 04 [1080p CR WEB...` | **393.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/624336) • [🐱 Nyaa](https://nyaa.si/view/2137386) |
-| `[ASW] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 03 [1080p HEV...` | **263.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/624337) • [🐱 Nyaa](https://nyaa.si/view/2137385) |
-| `[Onalrie] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga Na...` | **177.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/624338) • [🐱 Nyaa](https://nekobt.to/torrents/12624858279425) |
-| `[Judas] Kimi wo Aisuru Ki wa nai to Itta Jiki Koushaku-sama ga Naze...` | **191.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624334) • [🐱 Nyaa](https://nyaa.si/view/2137383) |
-| `[TSPlease] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **1386.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/624335) • [🐱 Nyaa](https://nyaa.si/view/2137382) |
-| `[ASW] Saijo no Osewa - 04 [1080p HEVC x265 10Bit][AAC]` | **194.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/624326) • [🐱 Nyaa](https://nyaa.si/view/2137381) |
-| `[Onalrie] Mahou Shoujo Lyrical Nanoha Exceeds Gun Blaze Vengeance -...` | **297.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/624332) • [🐱 Nyaa](https://nekobt.to/torrents/12624506501636) |
-| `[SubsPlease] Kamisama Kiss Specials (01-05) (1080p) [Batch]` | **8548.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624327) • [🐱 Nyaa](https://nyaa.si/view/2137380) |
 
 ---
 <div align="center">
