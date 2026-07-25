@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.04.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.08.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ppkhoa] Akane-banashi S01 1080p DSNP WEB-DL DDP2.0 H.264 (Multi-Subs)` | **10623.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/624247) • [🐱 Nyaa](https://nekobt.to/torrents/12623152714758) |
-| `[Onalrie] Tenmaku no Jaadugar - S01E05 [1080p WEBRip AV1]` | **304.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/624248) • [🐱 Nyaa](https://nekobt.to/torrents/12623029740037) |
-| `[Unfucked] Grow Up Show: Sunflower Circus - S01E04 (1080p CR WEB-DL...` | **1415.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/624246) • [🐱 Nyaa](https://nyaa.si/view/2137268) |
-| `[Trix] Grow Up Show S01E04 [WEBRip 1080p AV1 Opus] (Dual Audio, Mul...` | **287.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/624244) • [🐱 Nyaa](https://nyaa.si/view/2137266) |
-| `[Erai-raws] Akane-banashi - 12v2 (REPACK) [1080p NF WEB-DL AVC AAC]...` | **922.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624238) • [🐱 Nyaa](https://nekobt.to/torrents/12622571825412) |
-| `[Erai-raws] Akane-banashi - 12 (REPACK) [1080p NF WEB-DL AVC AAC][M...` | **262.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/624245) • [🐱 Nyaa](https://nyaa.si/view/2137263) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E13 1080p CR WEB-DL MULTi...` | **1732.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/624239) • [🐱 Nyaa](https://nekobt.to/torrents/12622461320453) |
-| `[Yameii] Daemons of the Shadow Realm - S01E14 [English Dub] [CR WEB...` | **1386.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/624240) • [🐱 Nyaa](https://nekobt.to/torrents/12622454680327) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E16 1080p CR WEB-DL AAC2....` | **1405.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/624241) • [🐱 Nyaa](https://nekobt.to/torrents/12622439545860) |
-| `[ToonsHub] Jaadugar A Witch in Mongolia S01E03 1080p CR WEB-DL DUAL...` | **1428.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/624242) • [🐱 Nyaa](https://nekobt.to/torrents/12622435055363) |
-| `[ToonsHub] Jaadugar A Witch in Mongolia S01E05 1080p CR WEB-DL AAC2...` | **1394.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/624243) • [🐱 Nyaa](https://nekobt.to/torrents/12622434251267) |
-| `[Erai-raws] Iwamoto-senpai no Suisen - 04 [1080p CR WEBRip HEVC AAC...` | **475.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/624202) • [🐱 Nyaa](https://nyaa.si/view/2137256) |
-| `Grow Up Show S01E04 I Just Cant Bring Myself To Be Honest 1080p CR ...` | **1438.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/624203) • [🐱 Nyaa](https://nyaa.si/view/2137255) |
-| `Daemons of the Shadow Realm S01E16 Kagemori and Shingo 1080p CR WEB...` | **1406.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624204) • [🐱 Nyaa](https://nyaa.si/view/2137254) |
-| `Daemons of the Shadow Realm S01E14 Family and Friends 1080p CR WEB-...` | **1439.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624208) • [🐱 Nyaa](https://nyaa.si/view/2137248) |
+| `[Erai-raws] Akane-banashi - 12 (REPACK) [1080p NF WEBRip HEVC AAC][...` | **413.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/624314) • [🐱 Nyaa](https://nekobt.to/torrents/12623999309568) |
+| `[Yameii] Hanaori-san Still Wants to Fight in the Next Life - S01E03...` | **1402.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624287) • [🐱 Nyaa](https://nyaa.si/view/2137356) |
+| `Hanaori san Still Wants to Fight in the Next Life S01E03 Midnight R...` | **1441.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/624286) • [🐱 Nyaa](https://nyaa.si/view/2137357) |
+| `[Onalrie] Grow Up Show Himawari no Circus-dan - S01E04 [1080p WEBRi...` | **221.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/624315) • [🐱 Nyaa](https://nekobt.to/torrents/12623757083144) |
+| `[CrappySubs] Daemons of the Shadow Realm (Yomi no Tsugai) - S01E16 ...` | **1410.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624316) • [🐱 Nyaa](https://nekobt.to/torrents/12623745617159) |
+| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E03...` | **1440.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/624290) • [🐱 Nyaa](https://nyaa.si/view/2137349) |
+| `[Erai-raws] Saijo no Osewa - 04 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1387.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/624292) • [🐱 Nyaa](https://nyaa.si/view/2137347) |
+| `NEEDY GIRL OVERDOSE S01E13 EZ DO DANCE 1080p CR WEB-DL MULTi AAC2.0...` | **1483.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/624293) • [🐱 Nyaa](https://nyaa.si/view/2137346) |
+| `[ASW] Tenmaku no Jaadugar - 05 [1080p HEVC x265 10Bit][AAC]` | **837.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624294) • [🐱 Nyaa](https://nyaa.si/view/2137345) |
+| `[SubsPlease] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 03 (10...` | **1399.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/624295) • [🐱 Nyaa](https://nyaa.si/view/2137342) |
+| `[Doomdos] - Magical Girl Lyrical Nanoha Exceeds Gun Blaze Vengeance...` | **337.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/624296) • [🐱 Nyaa](https://nyaa.si/view/2137341) |
+| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 03 [10...` | **1406.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/624300) • [🐱 Nyaa](https://nyaa.si/view/2137337) |
+| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E03...` | **282.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624304) • [🐱 Nyaa](https://nyaa.si/view/2137333) |
+| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 04 [1080p AMZN...` | **835.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/624305) • [🐱 Nyaa](https://nyaa.si/view/2137331) |
+| `[Ironclad] Honzuki no Gekokujou - S04E15 [WEB.1080p.AV1] | Ascendan...` | **259.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/624307) • [🐱 Nyaa](https://nyaa.si/view/2137329) |
 
 ---
 <div align="center">
