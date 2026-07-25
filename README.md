@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.09.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.36.07_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Yameii] Ascendance of a Bookworm - S04E13 [English Dub] [CR WEB-DL...` | **1395.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624090) • [🐱 Nyaa](https://nyaa.si/view/2137034) |
-| `Ascendance of a Bookworm S04E13 Winter Material Gathering 1080p CR ...` | **1451.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/624091) • [🐱 Nyaa](https://nyaa.si/view/2137033) |
-| `Ascendance of a Bookworm S04E15 Night of Fruhtrane 1080p CR WEB-DL ...` | **1413.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/624092) • [🐱 Nyaa](https://nyaa.si/view/2137032) |
-| `[ToonsHub] Ascendance of a Bookworm S04E13 1080p CR WEB-DL DUAL AAC...` | **1471.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/624093) • [🐱 Nyaa](https://nyaa.si/view/2137030) |
-| `[ToonsHub] Ascendance of a Bookworm S04E15 1080p CR WEB-DL AAC2.0 H...` | **1435.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/624094) • [🐱 Nyaa](https://nyaa.si/view/2137029) |
-| `[SubsPlease] Honzuki no Gekokujou S4 - 15 (1080p) [B5E7B82B].mkv` | **1386.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/624084) • [🐱 Nyaa](https://nyaa.si/view/2137025) |
-| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1396.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/624089) • [🐱 Nyaa](https://nyaa.si/view/2137020) |
-| `[Tasokare] A Whisker Away 2020 (BD 1080p Opus AV1) | Nakitai Watash...` | **3278.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/624081) • [🐱 Nyaa](https://nyaa.si/view/2137016) |
-| `[Kawatare] A Whisker Away 2020 (BD 1080p DD+ x265) | Nakitai Watash...` | **11932.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/624082) • [🐱 Nyaa](https://nyaa.si/view/2137015) |
-| `[BlackRabbit] Dragon Ball DAIMA (2024) - S01 [Bluray-1080p][Opus 2....` | **5641.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/624080) • [🐱 Nyaa](https://nekobt.to/torrents/12615376093953) |
-| `[CenturyZeta] Koutetsujou no Kabaneri Mumei Ranman (1080p)` | **79.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/624079) • [🐱 Nyaa](https://nyaa.si/view/2137011) |
-| `[nekotan] Pompo The Cinéphile 2021 (BD 1080p x265 10-bit Opus) [Dua...` | **8192.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624077) • [🐱 Nyaa](https://nyaa.si/view/2137010) |
-| `[Onalrie] Rilakkuma - S01E17 [1080p WEBRip AV1]` | **23.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/624078) • [🐱 Nyaa](https://nekobt.to/torrents/12614426096899) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E01 (1080p AAC x265 B...` | **614.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/624076) • [🐱 Nyaa](https://nekobt.to/torrents/12614287096578) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E04 1080p NF WEB-DL MULTi...` | **1115.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624074) • [🐱 Nyaa](https://nyaa.si/view/2137009) |
+| `[ASW] Mairimashita! Iruma-kun S4 - 17 [1080p HEVC x265 10Bit][AAC]` | **433.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/624117) • [🐱 Nyaa](https://nyaa.si/view/2137082) |
+| `[ToonsHub] One Piece EP1170 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **860.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/624114) • [🐱 Nyaa](https://nyaa.si/view/2137079) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E17 1080p BILI WEB-...` | **404.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/624115) • [🐱 Nyaa](https://nyaa.si/view/2137078) |
+| `[ToonsHub] One Piece EP1169 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **859.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/624116) • [🐱 Nyaa](https://nyaa.si/view/2137076) |
+| `[VARYG] Welcome to Demon School Iruma kun S04E17 The Great Heroes G...` | **1626.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/624113) • [🐱 Nyaa](https://nekobt.to/torrents/12617385025033) |
+| `One Piece S01E1170 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **860.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/624099) • [🐱 Nyaa](https://nyaa.si/view/2137072) |
+| `Welcome to Demon School Iruma kun S04E17 The Great Heroes Gather 10...` | **1523.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/624100) • [🐱 Nyaa](https://nyaa.si/view/2137071) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E17 1080p CR WEB-DL...` | **1624.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/624101) • [🐱 Nyaa](https://nyaa.si/view/2137067) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E17 1080p CR WEB-DL...` | **1521.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624102) • [🐱 Nyaa](https://nyaa.si/view/2137066) |
+| `[Yameii] Welcome to Demon School! Iruma-kun - S04E17 [English Dub] ...` | **1465.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624103) • [🐱 Nyaa](https://nyaa.si/view/2137063) |
+| `[Lazyleido-Mini] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Veng...` | **604.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/624104) • [🐱 Nyaa](https://nyaa.si/view/2137060) |
+| `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **1390.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624105) • [🐱 Nyaa](https://nyaa.si/view/2137059) |
+| `[SubsPlease] Mairimashita! Iruma-kun S4 - 17 (1080p) [E1F0C707].mkv` | **1459.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/624107) • [🐱 Nyaa](https://nyaa.si/view/2137057) |
+| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 17 [1080p CR WEB-DL...` | **1471.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/624112) • [🐱 Nyaa](https://nyaa.si/view/2137052) |
+| `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Er...` | **284.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/624095) • [🐱 Nyaa](https://nyaa.si/view/2137051) |
 
 ---
 <div align="center">
