@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.15.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.58.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] -  开心锤锤Story：校园武神 - 59 [1080p IQ WEB-DL]` | **31.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/624070) • [🐱 Nyaa](https://nyaa.si/view/2137004) |
+| `Oshi.no.Ko.S03.1080p.BluRay.Dual-Audio.Opus.2.0.x265-YURASUKA (3rd ...` | **19024.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624067) • [🐱 Nyaa](https://nyaa.si/view/2137002) |
+| `[Doomdos] - 启运丹田：开局签到至尊丹田 - 2 [1080p IQ WEB-DL]` | **167.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/624068) • [🐱 Nyaa](https://nyaa.si/view/2136999) |
+| `[Doomdos] - 苍绝剑尊 - 1 [1080p IQ WEB-DL]` | **55.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624069) • [🐱 Nyaa](https://nyaa.si/view/2136997) |
+| `[Doomdos] - 启运丹田：开局签到至尊丹田 - 1 [1080p IQ WEB-DL]` | **183.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624065) • [🐱 Nyaa](https://nyaa.si/view/2136996) |
+| `[Judas] Gekijouban Ansatsu Kyoushitsu Minna no Jikan (Assassination...` | **1082.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/624066) • [🐱 Nyaa](https://nyaa.si/view/2136995) |
+| `RILAKKUMA S01E17 1080p CR WEB-DL MULTi AAC2.0 H.264-VARYG (Multi-Au...` | **100.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624063) • [🐱 Nyaa](https://nyaa.si/view/2136994) |
+| `[ToonsHub] Jiang Ye S01E15 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **405.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/624064) • [🐱 Nyaa](https://nyaa.si/view/2136993) |
+| `[Doomdos] - Daqian Town - 2 [1080p IQ WEB-DL]` | **99.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/624062) • [🐱 Nyaa](https://nyaa.si/view/2136992) |
+| `[Doomdos] - Daqian Town - 1 [1080p IQ WEB-DL]` | **126.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624059) • [🐱 Nyaa](https://nyaa.si/view/2136990) |
+| `[SavI0r] Shijou Saikyou no Daimaou, Murabito A ni Tensei suru v3 [B...` | **3076.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/624060) • [🐱 Nyaa](https://nyaa.si/view/2136988) |
+| `[GrainInTheSneed] THE GHOST IN THE SHELL (2026) - S01E03 (WEBRip 10...` | **8291.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/624061) • [🐱 Nyaa](https://nyaa.si/view/2136987) |
+| `[Chika] Soul Eater (2008) - 01-13 [BD 1080p HEVC Opus]` | **34472.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/624058) • [🐱 Nyaa](https://nyaa.si/view/2136985) |
 | `[SubsPlus+] Yowayowa Sensei S01 (ADN WEB-DL 1080p AVC AAC) (Uncenso...` | **6780.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624057) • [🐱 Nyaa](https://nyaa.si/view/2136982) |
 | `[ToonsHub] A Good Day to Ascend S01E04 1080p iQ WEB-DL AAC2.0 H.264...` | **468.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624056) • [🐱 Nyaa](https://nyaa.si/view/2136979) |
-| `[Doomdos] - A Good Day to Ascend - 4 [1080p IQ WEB-DL]` | **469.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624054) • [🐱 Nyaa](https://nyaa.si/view/2136973) |
-| `[ASW] Rilakkuma - 17 [1080p HEVC x265 10Bit][AAC]` | **31.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/624055) • [🐱 Nyaa](https://nyaa.si/view/2136971) |
-| `RILAKKUMA S01E17 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **96.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/624045) • [🐱 Nyaa](https://nyaa.si/view/2136970) |
-| `[Erai-raws] Rilakkuma - 17 [1080p CR WEBRip HEVC AAC][MultiSub][C94...` | **39.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/624046) • [🐱 Nyaa](https://nyaa.si/view/2136969) |
-| `[ToonsHub] RILAKKUMA S01E17 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **93.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/624047) • [🐱 Nyaa](https://nyaa.si/view/2136968) |
-| `[SubsPlease] Rilakkuma - 17 (1080p) [985C248D].mkv` | **93.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/624048) • [🐱 Nyaa](https://nyaa.si/view/2136964) |
-| `[Erai-raws] Rilakkuma - 17 [1080p CR WEB-DL AVC AAC][MultiSub][B465...` | **88.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624053) • [🐱 Nyaa](https://nyaa.si/view/2136958) |
-| `[Itsuki Gang] The Quintessential Quintuplets - S02E04 (BD 1080p HEV...` | **1580.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/624042) • [🐱 Nyaa](https://nyaa.si/view/2136953) |
-| `[Itsuki Gang] The Quintessential Quintuplets - S02E03 (BD 1080p HEV...` | **1542.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624043) • [🐱 Nyaa](https://nyaa.si/view/2136952) |
-| `[Itsuki Gang] The Quintessential Quintuplets - S02E02 (BD 1080p HEV...` | **1449.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/624044) • [🐱 Nyaa](https://nyaa.si/view/2136951) |
-| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **261.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624040) • [🐱 Nyaa](https://nyaa.si/view/2136948) |
-| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E04 [WEB.1080p.AV1] | K...` | **435.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624039) • [🐱 Nyaa](https://nyaa.si/view/2136934) |
-| `[Jonesyy] Cardcaptor Sakura [(70/70) + 2 Películas + OVAs][1440x108...` | **24581.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624038) • [🐱 Nyaa](https://nyaa.si/view/2136929) |
 
 ---
 <div align="center">
