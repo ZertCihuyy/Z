@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.46.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.39.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Detective Conan - 1208 [1080p CR WEBRip HEVC AAC][Multi...` | **402.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/624135) • [🐱 Nyaa](https://nyaa.si/view/2137105) |
-| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **543.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624136) • [🐱 Nyaa](https://nyaa.si/view/2137104) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 17 [1080p CR WEBRip...` | **549.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624137) • [🐱 Nyaa](https://nyaa.si/view/2137103) |
-| `[Queen Medusa] A Will Eternal S04 E01 (166) [1080p HEVC 10bit DDP2....` | **391.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/624138) • [🐱 Nyaa](https://nyaa.si/view/2137100) |
-| `[Onalrie] Detective Conan - E1208 [1080p WEBRip AV1]` | **194.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624134) • [🐱 Nyaa](https://nekobt.to/torrents/12618750999555) |
-| `[ASW] Detective Conan - 1208 [1080p HEVC x265 10Bit][AAC]` | **199.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/624133) • [🐱 Nyaa](https://nyaa.si/view/2137098) |
-| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School) - S04E17 ...` | **485.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/624129) • [🐱 Nyaa](https://nyaa.si/view/2137094) |
-| `[vLbE3L] Witch Hat Atelier S01E13 [1080p CUSTOM WEBRip VVC HE-AACv2...` | **329.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/624131) • [🐱 Nyaa](https://nekobt.to/torrents/12618445223682) |
-| `Detective Conan S01E1208 Welcome to the Stone Age Village 1080p CR ...` | **1431.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/624130) • [🐱 Nyaa](https://nyaa.si/view/2137093) |
-| `[Onalrie] Mairimashita Iruma-kun - S04E17 [1080p WEBRip AV1]` | **339.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624125) • [🐱 Nyaa](https://nekobt.to/torrents/12618403094533) |
-| `[LbE3L] Witch Hat Atelier S01E13 [1080p CUSTOM WEBRip AV1 (Muxed) O...` | **611.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/624126) • [🐱 Nyaa](https://nekobt.to/torrents/12618402802433) |
-| `[ToonsHub] Detective Conan EP1208 1080p NF WEB-DL AAC2.0 H.264 (Mul...` | **813.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/624127) • [🐱 Nyaa](https://nekobt.to/torrents/12618380780804) |
-| `[ToonsHub] Detective Conan EP1207 1080p NF WEB-DL AAC2.0 H.264 (Mul...` | **827.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624128) • [🐱 Nyaa](https://nekobt.to/torrents/12618377671171) |
-| `[ToonsHub] Detective Conan EP1208 1080p CR WEB-DL AAC2.0 H.264 (Mei...` | **1429.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624118) • [🐱 Nyaa](https://nyaa.si/view/2137089) |
-| `[SubsPlease] Detective Conan - 1208 (1080p) [8B300125].mkv` | **1425.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/624120) • [🐱 Nyaa](https://nyaa.si/view/2137087) |
+| `[Erai-raws] Black Torch - 04 [1080p CR WEBRip HEVC AAC][MultiSub][0...` | **424.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624176) • [🐱 Nyaa](https://nyaa.si/view/2137161) |
+| `[Judas] Neko to Ryuu (The Cat and the Dragon) - S01E05 [1080p][HEVC...` | **212.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/624177) • [🐱 Nyaa](https://nyaa.si/view/2137160) |
+| `[ASW] Neko to Ryuu - 05 [1080p HEVC x265 10Bit][AAC]` | **213.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/624178) • [🐱 Nyaa](https://nyaa.si/view/2137159) |
+| `[ToonsHub] Recommendations from Iwamoto-Senpai S01E04 1080p CR WEB-...` | **1390.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/624166) • [🐱 Nyaa](https://nyaa.si/view/2137156) |
+| `Recommendations from Iwamoto Senpai S01E04 The Legend of the Dead a...` | **1391.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624167) • [🐱 Nyaa](https://nyaa.si/view/2137155) |
+| `[SubsPlease] Iwamoto-senpai no Suisen - 04 (1080p) [31A7CDD6].mkv` | **1380.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624168) • [🐱 Nyaa](https://nyaa.si/view/2137154) |
+| `[Erai-raws] Iwamoto-senpai no Suisen - 04 [1080p CR WEB-DL AVC AAC]...` | **1389.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/624173) • [🐱 Nyaa](https://nyaa.si/view/2137148) |
+| `[Onalrie] Neko to Ryuu - S01E05 [1080p WEBRip AV1]` | **201.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/624175) • [🐱 Nyaa](https://nekobt.to/torrents/12620375468038) |
+| `Welcome to Demon School Iruma kun S04E17 A Gathering Of Heroes 1080...` | **442.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/624174) • [🐱 Nyaa](https://nyaa.si/view/2137145) |
+| `[ASW] Black Torch - 04 [1080p HEVC x265 10Bit][AAC]` | **336.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624159) • [🐱 Nyaa](https://nyaa.si/view/2137141) |
+| `The Cat and the Dragon S01E05 The White Cat and the Girl 1080p CR W...` | **1411.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/624160) • [🐱 Nyaa](https://nyaa.si/view/2137140) |
+| `BLACK TORCH S01E04 Two Is Not Enough 1080p CR WEB-DL MULTi AAC2.0 H...` | **1659.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624161) • [🐱 Nyaa](https://nyaa.si/view/2137139) |
+| `[ToonsHub] The Cat and the Dragon S01E05 1080p CR WEB-DL AAC2.0 H.2...` | **1409.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/624162) • [🐱 Nyaa](https://nyaa.si/view/2137137) |
+| `[SubsPlease] Neko to Ryuu - 05 (1080p) [E270CDF0].mkv` | **1382.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/624163) • [🐱 Nyaa](https://nyaa.si/view/2137135) |
+| `[Erai-raws] Neko to Ryuu - 05 [1080p CR WEB-DL AVC AAC][MultiSub][5...` | **1391.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624157) • [🐱 Nyaa](https://nekobt.to/torrents/12619944002569) |
 
 ---
 <div align="center">
