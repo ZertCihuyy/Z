@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.37.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.38.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Odekake Kozame - S01E76 (おでかけ子ザメ; Odekake Kozame 2nd Season...` | **23.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/624389) • [🐱 Nyaa](https://nyaa.si/view/2137461) |
+| `[Erai-raws] Saijo no Osewa - 04 [1080p CR WEBRip HEVC AAC][MultiSub...` | **335.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624390) • [🐱 Nyaa](https://nyaa.si/view/2137460) |
+| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 04 [1080p AMZN...` | **338.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/624391) • [🐱 Nyaa](https://nyaa.si/view/2137459) |
+| `MAO S01E17 Maogui 1080p DSNP WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **931.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624388) • [🐱 Nyaa](https://nyaa.si/view/2137457) |
 | `Magilumiere Magical Girls Inc S02E04 MULTi 1080p AMZN WEB-DL DDP2.0...` | **326.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/624362) • [🐱 Nyaa](https://nekobt.to/torrents/12627255585281) |
 | `Magilumiere Magical Girls Inc S02E04 MULTi 1080p AMZN WEB-DL DDP2.0...` | **872.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624363) • [🐱 Nyaa](https://nekobt.to/torrents/12627250043136) |
 | `Magilumiere Magical Girls Inc S02E04 MULTi 1080p AMZN WEB-DL DDP2.0...` | **246.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/624364) • [🐱 Nyaa](https://nekobt.to/torrents/12627242277132) |
@@ -44,10 +48,6 @@
 | `Daemons of the Shadow Realm S01E03 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **312.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/624370) • [🐱 Nyaa](https://nekobt.to/torrents/12627220968450) |
 | `Daemons of the Shadow Realm S01E02 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **972.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624371) • [🐱 Nyaa](https://nekobt.to/torrents/12627217876740) |
 | `Daemons of the Shadow Realm S01E02 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **399.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/624372) • [🐱 Nyaa](https://nekobt.to/torrents/12627211958281) |
-| `Daemons of the Shadow Realm S01E02 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **379.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624373) • [🐱 Nyaa](https://nekobt.to/torrents/12627209657096) |
-| `Daemons of the Shadow Realm S01E01 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **971.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624374) • [🐱 Nyaa](https://nekobt.to/torrents/12627205884682) |
-| `[ToonsHub] MAO S01E17 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **931.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624361) • [🐱 Nyaa](https://nyaa.si/view/2137431) |
-| `Daemons of the Shadow Realm S01E13 Daikyo and Shokyo 1080p CR WEB-D...` | **1603.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/624356) • [🐱 Nyaa](https://nyaa.si/view/2137417) |
 
 ---
 <div align="center">
