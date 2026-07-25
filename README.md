@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.47.06_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.15.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlus+] Yowayowa Sensei S01 (ADN WEB-DL 1080p AVC AAC) (Uncenso...` | **6780.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624057) • [🐱 Nyaa](https://nyaa.si/view/2136982) |
+| `[ToonsHub] A Good Day to Ascend S01E04 1080p iQ WEB-DL AAC2.0 H.264...` | **468.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624056) • [🐱 Nyaa](https://nyaa.si/view/2136979) |
+| `[Doomdos] - A Good Day to Ascend - 4 [1080p IQ WEB-DL]` | **469.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624054) • [🐱 Nyaa](https://nyaa.si/view/2136973) |
+| `[ASW] Rilakkuma - 17 [1080p HEVC x265 10Bit][AAC]` | **31.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/624055) • [🐱 Nyaa](https://nyaa.si/view/2136971) |
+| `RILAKKUMA S01E17 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **96.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/624045) • [🐱 Nyaa](https://nyaa.si/view/2136970) |
+| `[Erai-raws] Rilakkuma - 17 [1080p CR WEBRip HEVC AAC][MultiSub][C94...` | **39.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/624046) • [🐱 Nyaa](https://nyaa.si/view/2136969) |
+| `[ToonsHub] RILAKKUMA S01E17 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **93.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/624047) • [🐱 Nyaa](https://nyaa.si/view/2136968) |
+| `[SubsPlease] Rilakkuma - 17 (1080p) [985C248D].mkv` | **93.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/624048) • [🐱 Nyaa](https://nyaa.si/view/2136964) |
+| `[Erai-raws] Rilakkuma - 17 [1080p CR WEB-DL AVC AAC][MultiSub][B465...` | **88.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624053) • [🐱 Nyaa](https://nyaa.si/view/2136958) |
+| `[Itsuki Gang] The Quintessential Quintuplets - S02E04 (BD 1080p HEV...` | **1580.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/624042) • [🐱 Nyaa](https://nyaa.si/view/2136953) |
+| `[Itsuki Gang] The Quintessential Quintuplets - S02E03 (BD 1080p HEV...` | **1542.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624043) • [🐱 Nyaa](https://nyaa.si/view/2136952) |
+| `[Itsuki Gang] The Quintessential Quintuplets - S02E02 (BD 1080p HEV...` | **1449.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/624044) • [🐱 Nyaa](https://nyaa.si/view/2136951) |
 | `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **261.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624040) • [🐱 Nyaa](https://nyaa.si/view/2136948) |
 | `[Ironclad] Ushiro no Shoumen Kamui-san - S01E04 [WEB.1080p.AV1] | K...` | **435.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624039) • [🐱 Nyaa](https://nyaa.si/view/2136934) |
 | `[Jonesyy] Cardcaptor Sakura [(70/70) + 2 Películas + OVAs][1440x108...` | **24581.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624038) • [🐱 Nyaa](https://nyaa.si/view/2136929) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E12 (1080p AAC x265 B...` | **622.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/624037) • [🐱 Nyaa](https://nekobt.to/torrents/12604818711310) |
-| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E16 [WEB.1080p.AV1...` | **315.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624035) • [🐱 Nyaa](https://nyaa.si/view/2136924) |
-| `[Erai-raws] Nige Jouzu no Wakagimi 2nd Season - 02 [1080p CR WEBRip...` | **746.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/624036) • [🐱 Nyaa](https://nyaa.si/view/2136923) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E108 (ちびゴジラの逆襲; Chibi Godzi...` | **22.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624034) • [🐱 Nyaa](https://nyaa.si/view/2136922) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S01E11 (1080p AAC x265 B...` | **616.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/624033) • [🐱 Nyaa](https://nekobt.to/torrents/12603779909382) |
-| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **431.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/624032) • [🐱 Nyaa](https://nyaa.si/view/2136915) |
-| `[Onalrie] Hell Mode - S02E04 Rev. 2 [1080p WEBRip AV1]` | **269.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/624031) • [🐱 Nyaa](https://nekobt.to/torrents/12602996243722) |
-| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 04 [1080p CR WEBRip ...` | **318.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/624029) • [🐱 Nyaa](https://nyaa.si/view/2136912) |
-| `[Erai-raws] Kore Kaite Shine - 04 [1080p CR WEBRip HEVC AAC][MultiS...` | **551.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/624030) • [🐱 Nyaa](https://nyaa.si/view/2136911) |
-| `[LoliHouse] 『你们先走我断后』，于是10年后我成为了传说 / Koko wa Ore ni Makasete Saki n...` | **492.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/624025) • [🐱 Nyaa](https://nyaa.si/view/2136909) |
-| `[DKB] Nige Jouzu no Wakagimi - S02E02 [1080p][HEVC x265 10bit][Mult...` | **665.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/624026) • [🐱 Nyaa](https://nyaa.si/view/2136907) |
-| `[BlackRabbit] In the Land of Leadale (2022) - S01 [Bluray-1080p][Op...` | **2010.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624028) • [🐱 Nyaa](https://nekobt.to/torrents/12602494380042) |
 
 ---
 <div align="center">
