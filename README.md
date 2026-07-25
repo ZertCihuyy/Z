@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.36.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.46.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ASW] Mairimashita! Iruma-kun S4 - 17 [1080p HEVC x265 10Bit][AAC]` | **433.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/624117) • [🐱 Nyaa](https://nyaa.si/view/2137082) |
-| `[ToonsHub] One Piece EP1170 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **860.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/624114) • [🐱 Nyaa](https://nyaa.si/view/2137079) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E17 1080p BILI WEB-...` | **404.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/624115) • [🐱 Nyaa](https://nyaa.si/view/2137078) |
-| `[ToonsHub] One Piece EP1169 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **859.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/624116) • [🐱 Nyaa](https://nyaa.si/view/2137076) |
-| `[VARYG] Welcome to Demon School Iruma kun S04E17 The Great Heroes G...` | **1626.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/624113) • [🐱 Nyaa](https://nekobt.to/torrents/12617385025033) |
-| `One Piece S01E1170 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **860.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/624099) • [🐱 Nyaa](https://nyaa.si/view/2137072) |
-| `Welcome to Demon School Iruma kun S04E17 The Great Heroes Gather 10...` | **1523.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/624100) • [🐱 Nyaa](https://nyaa.si/view/2137071) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E17 1080p CR WEB-DL...` | **1624.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/624101) • [🐱 Nyaa](https://nyaa.si/view/2137067) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E17 1080p CR WEB-DL...` | **1521.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624102) • [🐱 Nyaa](https://nyaa.si/view/2137066) |
-| `[Yameii] Welcome to Demon School! Iruma-kun - S04E17 [English Dub] ...` | **1465.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624103) • [🐱 Nyaa](https://nyaa.si/view/2137063) |
-| `[Lazyleido-Mini] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Veng...` | **604.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/624104) • [🐱 Nyaa](https://nyaa.si/view/2137060) |
-| `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **1390.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624105) • [🐱 Nyaa](https://nyaa.si/view/2137059) |
-| `[SubsPlease] Mairimashita! Iruma-kun S4 - 17 (1080p) [E1F0C707].mkv` | **1459.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/624107) • [🐱 Nyaa](https://nyaa.si/view/2137057) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 17 [1080p CR WEB-DL...` | **1471.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/624112) • [🐱 Nyaa](https://nyaa.si/view/2137052) |
-| `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Er...` | **284.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/624095) • [🐱 Nyaa](https://nyaa.si/view/2137051) |
+| `[Erai-raws] Detective Conan - 1208 [1080p CR WEBRip HEVC AAC][Multi...` | **402.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/624135) • [🐱 Nyaa](https://nyaa.si/view/2137105) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **543.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624136) • [🐱 Nyaa](https://nyaa.si/view/2137104) |
+| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 17 [1080p CR WEBRip...` | **549.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624137) • [🐱 Nyaa](https://nyaa.si/view/2137103) |
+| `[Queen Medusa] A Will Eternal S04 E01 (166) [1080p HEVC 10bit DDP2....` | **391.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/624138) • [🐱 Nyaa](https://nyaa.si/view/2137100) |
+| `[Onalrie] Detective Conan - E1208 [1080p WEBRip AV1]` | **194.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624134) • [🐱 Nyaa](https://nekobt.to/torrents/12618750999555) |
+| `[ASW] Detective Conan - 1208 [1080p HEVC x265 10Bit][AAC]` | **199.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/624133) • [🐱 Nyaa](https://nyaa.si/view/2137098) |
+| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School) - S04E17 ...` | **485.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/624129) • [🐱 Nyaa](https://nyaa.si/view/2137094) |
+| `[vLbE3L] Witch Hat Atelier S01E13 [1080p CUSTOM WEBRip VVC HE-AACv2...` | **329.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/624131) • [🐱 Nyaa](https://nekobt.to/torrents/12618445223682) |
+| `Detective Conan S01E1208 Welcome to the Stone Age Village 1080p CR ...` | **1431.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/624130) • [🐱 Nyaa](https://nyaa.si/view/2137093) |
+| `[Onalrie] Mairimashita Iruma-kun - S04E17 [1080p WEBRip AV1]` | **339.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624125) • [🐱 Nyaa](https://nekobt.to/torrents/12618403094533) |
+| `[LbE3L] Witch Hat Atelier S01E13 [1080p CUSTOM WEBRip AV1 (Muxed) O...` | **611.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/624126) • [🐱 Nyaa](https://nekobt.to/torrents/12618402802433) |
+| `[ToonsHub] Detective Conan EP1208 1080p NF WEB-DL AAC2.0 H.264 (Mul...` | **813.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/624127) • [🐱 Nyaa](https://nekobt.to/torrents/12618380780804) |
+| `[ToonsHub] Detective Conan EP1207 1080p NF WEB-DL AAC2.0 H.264 (Mul...` | **827.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624128) • [🐱 Nyaa](https://nekobt.to/torrents/12618377671171) |
+| `[ToonsHub] Detective Conan EP1208 1080p CR WEB-DL AAC2.0 H.264 (Mei...` | **1429.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624118) • [🐱 Nyaa](https://nyaa.si/view/2137089) |
+| `[SubsPlease] Detective Conan - 1208 (1080p) [8B300125].mkv` | **1425.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/624120) • [🐱 Nyaa](https://nyaa.si/view/2137087) |
 
 ---
 <div align="center">
