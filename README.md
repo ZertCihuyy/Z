@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.38.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.44.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **673.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624397) • [🐱 Nyaa](https://nyaa.si/view/2137475) |
+| `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **203.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624392) • [🐱 Nyaa](https://nyaa.si/view/2137472) |
+| `[DKB] Hanaori-san wa Tensei shitemo Kenka ga Shitai - S01E03 [1080p...` | **264.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/624393) • [🐱 Nyaa](https://nyaa.si/view/2137471) |
+| `[DKB] Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance - S0...` | **595.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/624394) • [🐱 Nyaa](https://nyaa.si/view/2137470) |
+| `[DKB] Yomi no Tsugai - S01E16 [1080p][HEVC x265 10bit][Multi-Subs][...` | **478.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/624395) • [🐱 Nyaa](https://nyaa.si/view/2137469) |
+| `[FrixySubs] Youjo Senki - S02E02 [1080p CR WEB-DL H.264 AAC] [Napis...` | **1372.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/624396) • [🐱 Nyaa](https://nekobt.to/torrents/12628675407117) |
 | `[Gecko] Odekake Kozame - S01E76 (おでかけ子ザメ; Odekake Kozame 2nd Season...` | **23.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/624389) • [🐱 Nyaa](https://nyaa.si/view/2137461) |
 | `[Erai-raws] Saijo no Osewa - 04 [1080p CR WEBRip HEVC AAC][MultiSub...` | **335.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624390) • [🐱 Nyaa](https://nyaa.si/view/2137460) |
 | `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 04 [1080p AMZN...` | **338.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/624391) • [🐱 Nyaa](https://nyaa.si/view/2137459) |
@@ -42,12 +48,6 @@
 | `Magilumiere Magical Girls Inc S02E04 MULTi 1080p AMZN WEB-DL DDP2.0...` | **246.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/624364) • [🐱 Nyaa](https://nekobt.to/torrents/12627242277132) |
 | `Daemons of the Shadow Realm S01E04 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **971.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624365) • [🐱 Nyaa](https://nekobt.to/torrents/12627240332043) |
 | `Daemons of the Shadow Realm S01E04 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **371.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/624366) • [🐱 Nyaa](https://nekobt.to/torrents/12627234899727) |
-| `Daemons of the Shadow Realm S01E04 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **348.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/624367) • [🐱 Nyaa](https://nekobt.to/torrents/12627232254474) |
-| `Daemons of the Shadow Realm S01E03 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **969.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624368) • [🐱 Nyaa](https://nekobt.to/torrents/12627229122304) |
-| `Daemons of the Shadow Realm S01E03 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **347.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/624369) • [🐱 Nyaa](https://nekobt.to/torrents/12627223037199) |
-| `Daemons of the Shadow Realm S01E03 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **312.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/624370) • [🐱 Nyaa](https://nekobt.to/torrents/12627220968450) |
-| `Daemons of the Shadow Realm S01E02 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **972.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624371) • [🐱 Nyaa](https://nekobt.to/torrents/12627217876740) |
-| `Daemons of the Shadow Realm S01E02 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **399.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/624372) • [🐱 Nyaa](https://nekobt.to/torrents/12627211958281) |
 
 ---
 <div align="center">
