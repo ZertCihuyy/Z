@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.00.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.45.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Digimon Beatbreak - S01E40 [1080p WEBRip AV1]` | **270.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/624439) • [🐱 Nyaa](https://nekobt.to/torrents/12636544946191) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E03 1080p DSNP WEB-DL...` | **757.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/624435) • [🐱 Nyaa](https://nekobt.to/torrents/12636157768457) |
+| `[Onalrie] Meitantei Precure - S01E26 [1080p WEBRip AV1]` | **532.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624436) • [🐱 Nyaa](https://nekobt.to/torrents/12636133936139) |
+| `[CenturyZeta] Yanineko Mini Anime - 13 (1080p) (Yani Neko)` | **15.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/624434) • [🐱 Nyaa](https://nyaa.si/view/2137591) |
+| `Bleach - Thousand Year Blood War - 41 (v2)[H3LL][1080p][x264][10bit...` | **2031.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/624437) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2097347) |
+| `[RUBaDUB] All You Need Is Kill (Movie) (1080p) (Dual Audio)` | **4064.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/624433) • [🐱 Nyaa](https://nyaa.si/view/2137589) |
 | `[Judas] Digimon Beatbreak - S01E40 [1080p][HEVC x265 10bit][Eng-Sub...` | **339.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624431) • [🐱 Nyaa](https://nyaa.si/view/2137584) |
 | `[ASW] Digimon Beatbreak - 40 [1080p HEVC x265 10Bit][AAC]` | **337.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/624430) • [🐱 Nyaa](https://nyaa.si/view/2137579) |
 | `[RUBaDUB] Bad Girl (Complete) (1080p) (Dual Audio)` | **7457.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624428) • [🐱 Nyaa](https://nyaa.si/view/2137577) |
@@ -42,12 +48,6 @@
 | `[SubsPlease] Digimon Beatbreak - 40 (1080p) [2FB310E1].mkv` | **1370.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624425) • [🐱 Nyaa](https://nyaa.si/view/2137558) |
 | `[Erai-raws] Digimon Beatbreak - 40 [1080p CR WEB-DL AVC AAC][9EA7FDD4]` | **1376.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/624422) • [🐱 Nyaa](https://nekobt.to/torrents/12632383401224) |
 | `[Serenae] Meitantei Precure! - 26 Fanart Corner (1080p).mkv` | **8.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/624417) • [🐱 Nyaa](https://nyaa.si/view/2137552) |
-| `[Serenae] Meitantei Precure! - 26 (1080p).mkv` | **1399.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/624418) • [🐱 Nyaa](https://nyaa.si/view/2137551) |
-| `[ASW] Meitantei Precure! - 26 [1080p HEVC x265 10Bit][AAC]` | **679.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/624416) • [🐱 Nyaa](https://nyaa.si/view/2137548) |
-| `[Doomdos] - Urban Miracle Doctor - 198 [1080p IQ WEB-DL]` | **187.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624415) • [🐱 Nyaa](https://nyaa.si/view/2137545) |
-| `[SubsPlease] Meitantei Precure! - 26 (1080p) [5BDAB206].mkv` | **1402.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/624409) • [🐱 Nyaa](https://nyaa.si/view/2137539) |
-| `[Erai-raws] Meitantei Precure - 26 [1080p CR WEB-DL AVC AAC][58C872AB]` | **1408.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/624414) • [🐱 Nyaa](https://nyaa.si/view/2137534) |
-| `[Kakumei Subs] Honzuki no Gekokujou S04E13 [1080p WEB HEVC AAC] [Su...` | **2416.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/624408) • [🐱 Nyaa](https://nekobt.to/torrents/12630720360456) |
 
 ---
 <div align="center">
