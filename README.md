@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.45.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.04.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Digimon Beatbreak - S01E40 [1080p WEBRip AV1]` | **270.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/624439) • [🐱 Nyaa](https://nekobt.to/torrents/12636544946191) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E03 1080p DSNP WEB-DL...` | **757.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/624435) • [🐱 Nyaa](https://nekobt.to/torrents/12636157768457) |
-| `[Onalrie] Meitantei Precure - S01E26 [1080p WEBRip AV1]` | **532.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624436) • [🐱 Nyaa](https://nekobt.to/torrents/12636133936139) |
-| `[CenturyZeta] Yanineko Mini Anime - 13 (1080p) (Yani Neko)` | **15.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/624434) • [🐱 Nyaa](https://nyaa.si/view/2137591) |
-| `Bleach - Thousand Year Blood War - 41 (v2)[H3LL][1080p][x264][10bit...` | **2031.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/624437) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2097347) |
-| `[RUBaDUB] All You Need Is Kill (Movie) (1080p) (Dual Audio)` | **4064.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/624433) • [🐱 Nyaa](https://nyaa.si/view/2137589) |
-| `[Judas] Digimon Beatbreak - S01E40 [1080p][HEVC x265 10bit][Eng-Sub...` | **339.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624431) • [🐱 Nyaa](https://nyaa.si/view/2137584) |
-| `[ASW] Digimon Beatbreak - 40 [1080p HEVC x265 10Bit][AAC]` | **337.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/624430) • [🐱 Nyaa](https://nyaa.si/view/2137579) |
-| `[RUBaDUB] Bad Girl (Complete) (1080p) (Dual Audio)` | **7457.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624428) • [🐱 Nyaa](https://nyaa.si/view/2137577) |
-| `[DKB] MAO - S01E17 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **356.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/624429) • [🐱 Nyaa](https://nyaa.si/view/2137576) |
-| `Digimon Beatbreak S01E40 1080p CR WEB-DL AAC2.0 H.264-VARYG` | **1375.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/624423) • [🐱 Nyaa](https://nyaa.si/view/2137570) |
-| `[ToonsHub] Digimon Beatbreak S01E40 1080p CR WEB-DL AAC2.0 H.264 (E...` | **1375.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624424) • [🐱 Nyaa](https://nyaa.si/view/2137569) |
-| `[SubsPlease] Digimon Beatbreak - 40 (1080p) [2FB310E1].mkv` | **1370.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624425) • [🐱 Nyaa](https://nyaa.si/view/2137558) |
-| `[Erai-raws] Digimon Beatbreak - 40 [1080p CR WEB-DL AVC AAC][9EA7FDD4]` | **1376.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/624422) • [🐱 Nyaa](https://nekobt.to/torrents/12632383401224) |
-| `[Serenae] Meitantei Precure! - 26 Fanart Corner (1080p).mkv` | **8.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/624417) • [🐱 Nyaa](https://nyaa.si/view/2137552) |
+| `[Kylian] I Want to Love You Till Your Dying Day S01E01 VOSTFR 1080p...` | **1369.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/624481) • [🐱 Nyaa](https://nekobt.to/torrents/12638581029384) |
+| `[Onalrie] Seihantai na Kimi to Boku - S02E04 [1080p WEBRip AV1]` | **181.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/624482) • [🐱 Nyaa](https://nekobt.to/torrents/12638482061327) |
+| `[ASW] Let's Go Kaiki-gumi - 04 [1080p HEVC x265 10Bit][AAC]` | **305.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/624479) • [🐱 Nyaa](https://nyaa.si/view/2137662) |
+| `[TSPlease] Iron Wok Jan S01E04 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1426.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624480) • [🐱 Nyaa](https://nyaa.si/view/2137661) |
+| `[ASW] Seihantai na Kimi to Boku - 16 [1080p HEVC x265 10Bit][AAC]` | **192.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624477) • [🐱 Nyaa](https://nyaa.si/view/2137660) |
+| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **196.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624478) • [🐱 Nyaa](https://nyaa.si/view/2137659) |
+| `[Onalrie] Let's Go Kaiki-gumi - S01E04 [1080p WEBRip AV1]` | **214.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/624476) • [🐱 Nyaa](https://nekobt.to/torrents/12638099109633) |
+| `Iron Wok Jan S01E04 He Who Masters Poison 1080p CR WEB-DL AAC2.0 H....` | **1404.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/624467) • [🐱 Nyaa](https://nyaa.si/view/2137658) |
+| `[ToonsHub] Iron Wok Jan S01E04 1080p CR WEB-DL AAC2.0 H.264 (Tetsun...` | **1426.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624468) • [🐱 Nyaa](https://nyaa.si/view/2137657) |
+| `You and I Are Polar Opposites S02E04 1080p NF WEB-DL AAC2.0 H.264-V...` | **883.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624469) • [🐱 Nyaa](https://nyaa.si/view/2137656) |
+| `[SubsPlease] Tetsunabe no Jan! - 04 (1080p) [0922EA5C].mkv` | **1375.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/624470) • [🐱 Nyaa](https://nyaa.si/view/2137654) |
+| `[Erai-raws] Tetsunabe no Jan - 04 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1386.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/624474) • [🐱 Nyaa](https://nyaa.si/view/2137649) |
+| `[Trix] You and I Are Polar Opposites S02E04 [WEBRip 1080p AV1 Opus]...` | **187.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/624466) • [🐱 Nyaa](https://nekobt.to/torrents/12637776429824) |
+| `[Yameii] You and I Are Polar Opposites - S02E02 [English Dub] [CR W...` | **1413.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/624454) • [🐱 Nyaa](https://nyaa.si/view/2137644) |
+| `You and I Are Polar Opposites S02E02 Dilemma of a Winters Night 108...` | **1469.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/624455) • [🐱 Nyaa](https://nyaa.si/view/2137642) |
 
 ---
 <div align="center">
