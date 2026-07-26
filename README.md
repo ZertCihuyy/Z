@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.04.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.36.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Tetsunabe no Jan - S01E04 [1080p WEBRip AV1]` | **213.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624484) • [🐱 Nyaa](https://nekobt.to/torrents/12638817723138) |
+| `[ASW] Tetsunabe no Jan! - 04 [1080p HEVC x265 10Bit][AAC]` | **237.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624483) • [🐱 Nyaa](https://nyaa.si/view/2137664) |
 | `[Kylian] I Want to Love You Till Your Dying Day S01E01 VOSTFR 1080p...` | **1369.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/624481) • [🐱 Nyaa](https://nekobt.to/torrents/12638581029384) |
 | `[Onalrie] Seihantai na Kimi to Boku - S02E04 [1080p WEBRip AV1]` | **181.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/624482) • [🐱 Nyaa](https://nekobt.to/torrents/12638482061327) |
 | `[ASW] Let's Go Kaiki-gumi - 04 [1080p HEVC x265 10Bit][AAC]` | **305.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/624479) • [🐱 Nyaa](https://nyaa.si/view/2137662) |
@@ -46,8 +48,6 @@
 | `[SubsPlease] Tetsunabe no Jan! - 04 (1080p) [0922EA5C].mkv` | **1375.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/624470) • [🐱 Nyaa](https://nyaa.si/view/2137654) |
 | `[Erai-raws] Tetsunabe no Jan - 04 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1386.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/624474) • [🐱 Nyaa](https://nyaa.si/view/2137649) |
 | `[Trix] You and I Are Polar Opposites S02E04 [WEBRip 1080p AV1 Opus]...` | **187.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/624466) • [🐱 Nyaa](https://nekobt.to/torrents/12637776429824) |
-| `[Yameii] You and I Are Polar Opposites - S02E02 [English Dub] [CR W...` | **1413.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/624454) • [🐱 Nyaa](https://nyaa.si/view/2137644) |
-| `You and I Are Polar Opposites S02E02 Dilemma of a Winters Night 108...` | **1469.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/624455) • [🐱 Nyaa](https://nyaa.si/view/2137642) |
 
 ---
 <div align="center">
