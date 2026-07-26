@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.31.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.42.07_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FoundYears] Though I Am an Inept Villainess - S01E01 (CR WEB-DL 10...` | **1509.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/624672) • [🐱 Nyaa](https://nyaa.si/view/2137983) |
+| `[Erai-raws] One Piece - 1171 [1080p CR WEBRip HEVC AAC][MultiSub][B...` | **646.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/624671) • [🐱 Nyaa](https://nyaa.si/view/2137981) |
+| `[Erai-raws] One Piece - 1171 [1080p CR WEB-DL AVC AAC][MultiSub][21...` | **1387.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624668) • [🐱 Nyaa](https://nyaa.si/view/2137979) |
 | `[sam] Grand Blue Dreaming - S03E03 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1738.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/624666) • [🐱 Nyaa](https://nyaa.si/view/2137974) |
 | `[BlackRabbit] Dragon Ball Super (2015) - S02 [Bluray-1080p][Opus 2....` | **3057.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/624665) • [🐱 Nyaa](https://nekobt.to/torrents/12648852055564) |
 | `[Erai-raws] Digimon Beatbreak - 40 [1080p CR WEBRip HEVC AAC][Multi...` | **405.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/624660) • [🐱 Nyaa](https://nekobt.to/torrents/12648738397699) |
@@ -42,9 +45,6 @@
 | `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **304.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624658) • [🐱 Nyaa](https://nyaa.si/view/2137957) |
 | `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E03 [1080p][...` | **597.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/624659) • [🐱 Nyaa](https://nyaa.si/view/2137956) |
 | `[RUBaDUB] A Time Slip of 10000 Years: Prime Rose (Movie) (1080p) (D...` | **5778.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/624653) • [🐱 Nyaa](https://nyaa.si/view/2137954) |
-| `Digimon Beatbreak S01E40 Unfading Night REPACK 1080p CR WEB-DL AAC2...` | **1380.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/624650) • [🐱 Nyaa](https://nyaa.si/view/2137951) |
-| `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E03 [WEB.108...` | **210.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624651) • [🐱 Nyaa](https://nyaa.si/view/2137950) |
-| `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E05 [1080p][HEV...` | **468.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/624652) • [🐱 Nyaa](https://nyaa.si/view/2137948) |
 
 ---
 <div align="center">
