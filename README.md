@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.44.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.18.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Tetsunabe no Jan - S01E04 [1080p WEBRip AV1]` | **213.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624484) • [🐱 Nyaa](https://nekobt.to/torrents/12638817723138) |
-| `[ASW] Tetsunabe no Jan! - 04 [1080p HEVC x265 10Bit][AAC]` | **237.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624483) • [🐱 Nyaa](https://nyaa.si/view/2137664) |
-| `[Kylian] I Want to Love You Till Your Dying Day S01E01 VOSTFR 1080p...` | **1369.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/624481) • [🐱 Nyaa](https://nekobt.to/torrents/12638581029384) |
-| `[Onalrie] Seihantai na Kimi to Boku - S02E04 [1080p WEBRip AV1]` | **181.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/624482) • [🐱 Nyaa](https://nekobt.to/torrents/12638482061327) |
-| `[ASW] Let's Go Kaiki-gumi - 04 [1080p HEVC x265 10Bit][AAC]` | **305.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/624479) • [🐱 Nyaa](https://nyaa.si/view/2137662) |
-| `[TSPlease] Iron Wok Jan S01E04 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1426.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624480) • [🐱 Nyaa](https://nyaa.si/view/2137661) |
-| `[ASW] Seihantai na Kimi to Boku - 16 [1080p HEVC x265 10Bit][AAC]` | **192.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624477) • [🐱 Nyaa](https://nyaa.si/view/2137660) |
-| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **196.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624478) • [🐱 Nyaa](https://nyaa.si/view/2137659) |
-| `[Onalrie] Let's Go Kaiki-gumi - S01E04 [1080p WEBRip AV1]` | **214.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/624476) • [🐱 Nyaa](https://nekobt.to/torrents/12638099109633) |
-| `Iron Wok Jan S01E04 He Who Masters Poison 1080p CR WEB-DL AAC2.0 H....` | **1404.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/624467) • [🐱 Nyaa](https://nyaa.si/view/2137658) |
-| `[ToonsHub] Iron Wok Jan S01E04 1080p CR WEB-DL AAC2.0 H.264 (Tetsun...` | **1426.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624468) • [🐱 Nyaa](https://nyaa.si/view/2137657) |
-| `You and I Are Polar Opposites S02E04 1080p NF WEB-DL AAC2.0 H.264-V...` | **883.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624469) • [🐱 Nyaa](https://nyaa.si/view/2137656) |
-| `[SubsPlease] Tetsunabe no Jan! - 04 (1080p) [0922EA5C].mkv` | **1375.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/624470) • [🐱 Nyaa](https://nyaa.si/view/2137654) |
-| `[Erai-raws] Tetsunabe no Jan - 04 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1386.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/624474) • [🐱 Nyaa](https://nyaa.si/view/2137649) |
-| `[Trix] You and I Are Polar Opposites S02E04 [WEBRip 1080p AV1 Opus]...` | **187.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/624466) • [🐱 Nyaa](https://nekobt.to/torrents/12637776429824) |
+| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E03...` | **1506.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/624505) • [🐱 Nyaa](https://nyaa.si/view/2137738) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1533.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624506) • [🐱 Nyaa](https://nyaa.si/view/2137737) |
+| `[ToonsHub] Sparks of Tomorrow S01E04 1080p NF WEB-DL MULTi AAC2.0 H...` | **1219.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624507) • [🐱 Nyaa](https://nyaa.si/view/2137736) |
+| `[Yameii] The 100 Girlfriends Who Really, Really, Really, Really, RE...` | **1380.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/624508) • [🐱 Nyaa](https://nyaa.si/view/2137735) |
+| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1437.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/624509) • [🐱 Nyaa](https://nyaa.si/view/2137734) |
+| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1417.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624510) • [🐱 Nyaa](https://nyaa.si/view/2137733) |
+| `Sparks of Tomorrow S01E04 The Steadfast Girl 1080p NF WEB-DL DUAL A...` | **912.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/624511) • [🐱 Nyaa](https://nyaa.si/view/2137732) |
+| `[ToonsHub] Sparks of Tomorrow S01E04 1080p NF WEB-DL DUAL AAC2.0 H....` | **912.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/624512) • [🐱 Nyaa](https://nyaa.si/view/2137731) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1434.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/624513) • [🐱 Nyaa](https://nyaa.si/view/2137730) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E02 1080p CR WEB...` | **1569.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/624504) • [🐱 Nyaa](https://nekobt.to/torrents/12642475281164) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E01 1080p CR WEB...` | **1562.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/624501) • [🐱 Nyaa](https://nyaa.si/view/2137714) |
+| `[neoDESU] Pseudo Harem [Season 1] [BD 1080p AV1 OPUS] Giji Harem` | **2021.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624502) • [🐱 Nyaa](https://nyaa.si/view/2137713) |
+| `[Judas] Sekai Saikyou no Kouei Meikyuukoku no Shinjin Tansakusha (T...` | **140.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624503) • [🐱 Nyaa](https://nyaa.si/view/2137712) |
+| `[Onalrie] Sekai Saikyou no Kouei - S01E04 [1080p WEBRip AV1]` | **139.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/624500) • [🐱 Nyaa](https://nekobt.to/torrents/12642201061125) |
+| `[ASW] Sekai Saikyou no Kouei - 04 [1080p HEVC x265 10Bit][AAC]` | **141.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/624499) • [🐱 Nyaa](https://nyaa.si/view/2137709) |
 
 ---
 <div align="center">
