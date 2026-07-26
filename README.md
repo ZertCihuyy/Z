@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.45.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.18.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ASW] One Piece - 1171 [1080p HEVC x265 10Bit][AAC]` | **435.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/624629) • [🐱 Nyaa](https://nyaa.si/view/2137922) |
-| `[Onalrie] Futsutsuka na Akujo dewa Gozaimasu ga - S01E03 [1080p WEB...` | **170.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624631) • [🐱 Nyaa](https://nekobt.to/torrents/12645676146950) |
-| `[ASW] Azur Lane - Bisoku Zenshin! S2 - 04 [1080p HEVC x265 10Bit][AAC]` | **146.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/624624) • [🐱 Nyaa](https://nyaa.si/view/2137919) |
-| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 05 [1080...` | **524.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/624625) • [🐱 Nyaa](https://nyaa.si/view/2137918) |
-| `BLEACH: Thousand-Year Blood War - The Calamity [E41 E42 E43] [1080p...` | **319.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/624626) • [🐱 Nyaa](https://nyaa.si/view/2137917) |
-| `[Onalrie] Nijuuseiki Denki Mokuroku Eureka Evrika - S01E04 [1080p W...` | **382.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624621) • [🐱 Nyaa](https://nekobt.to/torrents/12645304367369) |
-| `[Freehold] Miss Kobayashi's Dragon Maid: A lonely dragon wants to b...` | **8984.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624628) • [🐱 Nyaa](https://nyaa.si/view/2137913) |
-| `[ASW] Sayonara Lara - 04 [1080p HEVC x265 10Bit][AAC]` | **217.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624610) • [🐱 Nyaa](https://nyaa.si/view/2137912) |
-| `[ASW] Futsutsuka na Akujo dewa Gozaimasu ga - 03 [1080p HEVC x265 1...` | **220.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/624611) • [🐱 Nyaa](https://nyaa.si/view/2137911) |
-| `Anime AzurLane Slow Ahead S02E04 Fight for the Prize 1080p CR WEB-D...` | **503.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/624612) • [🐱 Nyaa](https://nyaa.si/view/2137910) |
-| `[ToonsHub] Azur Lane Slow Ahead S02E04 1080p CR WEB-DL AAC2.0 H.264...` | **500.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/624613) • [🐱 Nyaa](https://nyaa.si/view/2137909) |
-| `[SubsPlease] Azur Lane - Bisoku Zenshin! S2 - 04 (1080p) [389F0C37]...` | **498.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624616) • [🐱 Nyaa](https://nyaa.si/view/2137904) |
-| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 04 [1080p CR WEB-DL AV...` | **501.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624617) • [🐱 Nyaa](https://nyaa.si/view/2137902) |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E16 (1080p WEBRip AA...` | **396.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624622) • [🐱 Nyaa](https://nekobt.to/torrents/12645047196164) |
-| `[Judas] Mushoku Tensei (Jobless Reincarnation) - S03E05 [1080p][HEV...` | **373.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/624620) • [🐱 Nyaa](https://nyaa.si/view/2137899) |
+| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 04 [1080p NF...` | **598.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/624648) • [🐱 Nyaa](https://nyaa.si/view/2137945) |
+| `Agents of the Four Seasons Dance of Spring S01E13 Recapture 1080p C...` | **1638.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/624649) • [🐱 Nyaa](https://nyaa.si/view/2137944) |
+| `[TSPlease] Though I Am an Inept Villainess S01E03 (REPACK) 1080p CR...` | **1439.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/624646) • [🐱 Nyaa](https://nyaa.si/view/2137942) |
+| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E16 [1080p][HEVC x265 10b...` | **399.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/624647) • [🐱 Nyaa](https://nyaa.si/view/2137941) |
+| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 04 [1080p] [AV1] (Weekly)` | **109.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/624643) • [🐱 Nyaa](https://nyaa.si/view/2137938) |
+| `[Onalrie] Azur Lane Bisoku Zenshin - Ni - S01E04 [1080p WEBRip AV1]` | **108.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/624642) • [🐱 Nyaa](https://onalrie.app/torrent/4793459d-bd49-4725-9d3f-ecb2bfb4580d) |
+| `[Onalrie] One Piece - E1171 [1080p WEBRip AV1]` | **349.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/624641) • [🐱 Nyaa](https://nekobt.to/torrents/12646176804107) |
+| `[DKB] Digimon Beatbreak - S01E40 [1080p][HEVC x265 10bit][Multi-Sub...` | **395.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624634) • [🐱 Nyaa](https://nyaa.si/view/2137930) |
+| `[DKB] Digimon Beatbreak - S01E39 [1080p][HEVC x265 10bit][Multi-Sub...` | **418.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/624635) • [🐱 Nyaa](https://nyaa.si/view/2137929) |
+| `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E04 [1080p][HEV...` | **534.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/624636) • [🐱 Nyaa](https://nyaa.si/view/2137928) |
+| `[DKB] Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo - S0...` | **588.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/624637) • [🐱 Nyaa](https://nyaa.si/view/2137927) |
+| `[DKB] Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - S...` | **159.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624638) • [🐱 Nyaa](https://nyaa.si/view/2137926) |
+| `[DKB] Seihantai na Kimi to Boku - S02E04 [1080p][HEVC x265 10bit][M...` | **226.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/624639) • [🐱 Nyaa](https://nyaa.si/view/2137925) |
+| `[SubsMix] Bocchi the Rock! - Season 01 (S01) V3 (BD 1080p HEVC Opus...` | **19884.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624632) • [🐱 Nyaa](https://nyaa.si/view/2137924) |
+| `[GyroSubs] One Piece 843-854 (BD 1080p 10-bit Opus)` | **16577.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624633) • [🐱 Nyaa](https://nyaa.si/view/2137923) |
 
 ---
 <div align="center">
