@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.18.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.40.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E03...` | **1506.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/624505) • [🐱 Nyaa](https://nyaa.si/view/2137738) |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1533.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624506) • [🐱 Nyaa](https://nyaa.si/view/2137737) |
-| `[ToonsHub] Sparks of Tomorrow S01E04 1080p NF WEB-DL MULTi AAC2.0 H...` | **1219.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624507) • [🐱 Nyaa](https://nyaa.si/view/2137736) |
-| `[Yameii] The 100 Girlfriends Who Really, Really, Really, Really, RE...` | **1380.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/624508) • [🐱 Nyaa](https://nyaa.si/view/2137735) |
-| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1437.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/624509) • [🐱 Nyaa](https://nyaa.si/view/2137734) |
-| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1417.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/624510) • [🐱 Nyaa](https://nyaa.si/view/2137733) |
-| `Sparks of Tomorrow S01E04 The Steadfast Girl 1080p NF WEB-DL DUAL A...` | **912.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/624511) • [🐱 Nyaa](https://nyaa.si/view/2137732) |
-| `[ToonsHub] Sparks of Tomorrow S01E04 1080p NF WEB-DL DUAL AAC2.0 H....` | **912.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/624512) • [🐱 Nyaa](https://nyaa.si/view/2137731) |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1434.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/624513) • [🐱 Nyaa](https://nyaa.si/view/2137730) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E02 1080p CR WEB...` | **1569.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/624504) • [🐱 Nyaa](https://nekobt.to/torrents/12642475281164) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E01 1080p CR WEB...` | **1562.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/624501) • [🐱 Nyaa](https://nyaa.si/view/2137714) |
-| `[neoDESU] Pseudo Harem [Season 1] [BD 1080p AV1 OPUS] Giji Harem` | **2021.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624502) • [🐱 Nyaa](https://nyaa.si/view/2137713) |
-| `[Judas] Sekai Saikyou no Kouei Meikyuukoku no Shinjin Tansakusha (T...` | **140.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624503) • [🐱 Nyaa](https://nyaa.si/view/2137712) |
-| `[Onalrie] Sekai Saikyou no Kouei - S01E04 [1080p WEBRip AV1]` | **139.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/624500) • [🐱 Nyaa](https://nekobt.to/torrents/12642201061125) |
-| `[ASW] Sekai Saikyou no Kouei - 04 [1080p HEVC x265 10Bit][AAC]` | **141.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/624499) • [🐱 Nyaa](https://nyaa.si/view/2137709) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E03 1080p NF WEB-DL A...` | **874.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/624553) • [🐱 Nyaa](https://nekobt.to/torrents/12643687829509) |
+| `Sparks of Tomorrow S01E04 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsunder...` | **984.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624554) • [🐱 Nyaa](https://nekobt.to/torrents/12643667893768) |
+| `Sparks of Tomorrow S01E04 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsunde...` | **527.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/624555) • [🐱 Nyaa](https://nekobt.to/torrents/12643663867917) |
+| `Sparks of Tomorrow S01E04 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere...` | **302.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/624556) • [🐱 Nyaa](https://nekobt.to/torrents/12643661026308) |
+| `Mushoku Tensei Jobless Reincarnation S03E03 Life Back at Home 1080p...` | **1441.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624531) • [🐱 Nyaa](https://nyaa.si/view/2137789) |
+| `[FrixySubs] KAIJU GIRL CARAMELISE - S01E02 [1080p CR WEB-DL H.264 A...` | **1435.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624557) • [🐱 Nyaa](https://nekobt.to/torrents/12643601471495) |
+| `[Judas] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanoj...` | **563.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624532) • [🐱 Nyaa](https://nyaa.si/view/2137786) |
+| `Mushoku Tensei Jobless Reincarnation S03E05 Celebrations 1080p CR W...` | **1409.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/624534) • [🐱 Nyaa](https://nyaa.si/view/2137784) |
+| `The Classroom of a Black Cat and a Witch S01E16 Io Taurus Gets to W...` | **1410.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/624533) • [🐱 Nyaa](https://nyaa.si/view/2137785) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E03 1080p CR WEB...` | **1422.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624535) • [🐱 Nyaa](https://nyaa.si/view/2137778) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E05 1080p CR WEB...` | **1391.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/624536) • [🐱 Nyaa](https://nyaa.si/view/2137777) |
+| `Mushoku Tensei Jobless Reincarnation S03E05 Party 1080p NF WEB-DL A...` | **867.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/624538) • [🐱 Nyaa](https://nyaa.si/view/2137775) |
+| `[ToonsHub] The Classroom of a Black Cat and a Witch S01E16 1080p CR...` | **1407.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/624539) • [🐱 Nyaa](https://nyaa.si/view/2137774) |
+| `[SubsPlease] Mushoku Tensei S3 - 05 (1080p) [59135EFA].mkv` | **1381.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/624541) • [🐱 Nyaa](https://nyaa.si/view/2137772) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E05 1080p NF WEB...` | **867.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624544) • [🐱 Nyaa](https://nyaa.si/view/2137767) |
 
 ---
 <div align="center">
