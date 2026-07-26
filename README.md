@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.18.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.30.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Digimon Beatbreak S01E40 Unfading Night REPACK 1080p CR WEB-DL AAC2...` | **1380.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/624650) • [🐱 Nyaa](https://nyaa.si/view/2137951) |
+| `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E03 [WEB.108...` | **210.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624651) • [🐱 Nyaa](https://nyaa.si/view/2137950) |
+| `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E05 [1080p][HEV...` | **468.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/624652) • [🐱 Nyaa](https://nyaa.si/view/2137948) |
 | `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 04 [1080p NF...` | **598.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/624648) • [🐱 Nyaa](https://nyaa.si/view/2137945) |
 | `Agents of the Four Seasons Dance of Spring S01E13 Recapture 1080p C...` | **1638.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/624649) • [🐱 Nyaa](https://nyaa.si/view/2137944) |
 | `[TSPlease] Though I Am an Inept Villainess S01E03 (REPACK) 1080p CR...` | **1439.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/624646) • [🐱 Nyaa](https://nyaa.si/view/2137942) |
@@ -42,9 +45,6 @@
 | `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E04 [1080p][HEV...` | **534.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/624636) • [🐱 Nyaa](https://nyaa.si/view/2137928) |
 | `[DKB] Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo - S0...` | **588.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/624637) • [🐱 Nyaa](https://nyaa.si/view/2137927) |
 | `[DKB] Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - S...` | **159.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624638) • [🐱 Nyaa](https://nyaa.si/view/2137926) |
-| `[DKB] Seihantai na Kimi to Boku - S02E04 [1080p][HEVC x265 10bit][M...` | **226.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/624639) • [🐱 Nyaa](https://nyaa.si/view/2137925) |
-| `[SubsMix] Bocchi the Rock! - Season 01 (S01) V3 (BD 1080p HEVC Opus...` | **19884.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624632) • [🐱 Nyaa](https://nyaa.si/view/2137924) |
-| `[GyroSubs] One Piece 843-854 (BD 1080p 10-bit Opus)` | **16577.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624633) • [🐱 Nyaa](https://nyaa.si/view/2137923) |
 
 ---
 <div align="center">
