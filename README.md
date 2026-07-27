@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.48.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.07.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E02 (108...` | **171.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624860) • [🐱 Nyaa](https://nekobt.to/torrents/12672646107653) |
+| `[SubsPlease] Aishiteru Game wo Owarasetai (01-12) (1080p) [Batch]` | **16615.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/624857) • [🐱 Nyaa](https://nyaa.si/view/2138378) |
+| `[CW] 009 Re-Cyborg (2012) [BD 1080p REMUX][TrueHD 5.1][Dual Audio][...` | **35627.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624856) • [🐱 Nyaa](https://nyaa.si/view/2138375) |
+| `[sam] The Story of Saiunkoku - S01E07 (WEB 1080p HEVC x265 10-bit A...` | **3924.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/624854) • [🐱 Nyaa](https://nyaa.si/view/2138374) |
+| `[HatSubs] One Piece 1171 (WEB 1080p) [E291BFED].mkv` | **1380.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624855) • [🐱 Nyaa](https://nyaa.si/view/2138373) |
+| `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E01 (108...` | **187.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/624852) • [🐱 Nyaa](https://nekobt.to/torrents/12671942951173) |
+| `[BlackRabbit] Dragon Ball Super (2015) - S04 [Bluray-1080p][Opus 2....` | **6514.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624853) • [🐱 Nyaa](https://nekobt.to/torrents/12671868452610) |
 | `[Onalrie] World Is Dancing - S01E05 [1080p WEBRip AV1]` | **322.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624851) • [🐱 Nyaa](https://nekobt.to/torrents/12671457878796) |
 | `[CW] 009 Re-Cyborg (2012) [BD 1080p REMUX][TrueHD 5.1][Dual Audio][...` | **35627.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/624850) • [🐱 Nyaa](https://nyaa.si/view/2138370) |
 | `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **463.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624839) • [🐱 Nyaa](https://nyaa.si/view/2138369) |
@@ -38,13 +45,6 @@
 | `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **530.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624842) • [🐱 Nyaa](https://nyaa.si/view/2138366) |
 | `[kikuri] Yojouhan Shinwa Taikei (BD 1080p HEVC Opus) | The Tatami G...` | **14128.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624849) • [🐱 Nyaa](https://nekobt.to/torrents/12670888471563) |
 | `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **306.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/624843) • [🐱 Nyaa](https://nyaa.si/view/2138365) |
-| `[Erai-raws] Liar Game - 17 [1080p CR WEBRip HEVC AAC][MultiSub][C27...` | **461.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624844) • [🐱 Nyaa](https://nyaa.si/view/2138364) |
-| `[Erai-raws] Grand Blue Season 3 - 04 [1080p CR WEBRip HEVC AAC][Mul...` | **536.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624845) • [🐱 Nyaa](https://nyaa.si/view/2138363) |
-| `[Erai-raws] World Is Dancing - 05 [1080p HIDIVE WEB-DL AVC AAC][955...` | **924.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/624848) • [🐱 Nyaa](https://nyaa.si/view/2138360) |
-| `Mushoku Tensei Jobless Reincarnation S03E02 Howl Mad Dog 1080p CR W...` | **1571.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/624838) • [🐱 Nyaa](https://nyaa.si/view/2138355) |
-| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **212.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624836) • [🐱 Nyaa](https://nyaa.si/view/2138350) |
-| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1536.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624834) • [🐱 Nyaa](https://nyaa.si/view/2138346) |
-| `You and I Are Polar Opposites S02E01 Christmas Eve 1080p CR WEB-DL ...` | **1538.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/624831) • [🐱 Nyaa](https://nyaa.si/view/2138345) |
 
 ---
 <div align="center">
