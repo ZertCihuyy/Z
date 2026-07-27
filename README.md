@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.29.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.25.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E16 108...` | **201.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/624698) • [🐱 Nyaa](https://nyaa.si/view/2138098) |
-| `[LbE3L] The Beginning After the End S01 [1080p CUSTOM WEBRip AV1 (M...` | **3484.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/624697) • [🐱 Nyaa](https://nekobt.to/torrents/12662642347011) |
-| `[LbE3L] The Beginning After the End S02 [1080p CR WEBRip AV1 Opus 2...` | **4368.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/624696) • [🐱 Nyaa](https://nekobt.to/torrents/12662553796107) |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **512.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/624695) • [🐱 Nyaa](https://nyaa.si/view/2138073) |
-| `[Onalrie] Meitantei Precure - S01E26 [1080p WEBRip AV1]` | **538.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/624693) • [🐱 Nyaa](https://nekobt.to/torrents/12658526568974) |
-| `[Late] Bleach TYBW 41 [Web, 1080p, x264, EAC3, ASS]` | **2919.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/624691) • [🐱 Nyaa](https://nyaa.si/view/2138056) |
-| `[Ommex] Chimpui (1989) Episodes 1-7 + Specials [ENG SUB][1080p HEVC...` | **5039.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624690) • [🐱 Nyaa](https://nyaa.si/view/2138047) |
-| `[Mo7tas] Sinbad: Mahiru no Yoru to Fushigi no Mon [BD 1080p] [Multi...` | **640.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/624688) • [🐱 Nyaa](https://nyaa.si/view/2138043) |
-| `One Piece S01E1170 Get the Key Luffy vs Scopper Gaban REPACK 1080p ...` | **1402.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/624685) • [🐱 Nyaa](https://nyaa.si/view/2138041) |
-| `One Piece S01E1169 The Legend Lurking in Elbaph-The Identity of the...` | **335.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624686) • [🐱 Nyaa](https://nyaa.si/view/2138040) |
-| `[Erai-raws] Meitantei Precure - 26 [1080p CR WEBRip HEVC AAC][Multi...` | **777.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624681) • [🐱 Nyaa](https://nyaa.si/view/2138036) |
-| `[Erai-raws] Meitantei Precure - 26 [1080p CR WEB-DL AVC AAC][MultiS...` | **1415.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624682) • [🐱 Nyaa](https://nyaa.si/view/2138035) |
-| `[Judas] One Piece - 1171 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **394.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624680) • [🐱 Nyaa](https://nyaa.si/view/2138031) |
-| `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **914.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/624679) • [🐱 Nyaa](https://nekobt.to/torrents/12653598802948) |
-| `[ToonsHub] One Piece EP1171 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **374.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624678) • [🐱 Nyaa](https://nyaa.si/view/2138026) |
+| `[ToonsHub] Oh Boy Was I Wrong About Her S01E04 1080p CR WEB-DL AAC2...` | **1428.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/624765) • [🐱 Nyaa](https://nyaa.si/view/2138220) |
+| `Oh Boy Was I Wrong About Her S01E04 Small Hands Broad Shoulders 108...` | **1407.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/624766) • [🐱 Nyaa](https://nyaa.si/view/2138219) |
+| `[Onalrie] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu - S02E0...` | **253.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/624773) • [🐱 Nyaa](https://nekobt.to/torrents/12665592828429) |
+| `[SubsPlease] Tenkosaki - 04 (1080p) [ABE27688].mkv` | **1380.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/624767) • [🐱 Nyaa](https://nyaa.si/view/2138217) |
+| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **1389.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/624772) • [🐱 Nyaa](https://nyaa.si/view/2138211) |
+| `[BlackRabbit] Dragon Ball Super (2015) - S03 [Bluray-1080p][Opus 2....` | **4346.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/624764) • [🐱 Nyaa](https://nekobt.to/torrents/12665454249484) |
+| `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **424.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/624762) • [🐱 Nyaa](https://nyaa.si/view/2138204) |
+| `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **567.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/624763) • [🐱 Nyaa](https://nyaa.si/view/2138202) |
+| `[VARYG] A Livid Ladys Guide to Getting Even How I Crushed My Homela...` | **1411.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/624760) • [🐱 Nyaa](https://nekobt.to/torrents/12665202977028) |
+| `[Onalrie] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E04 [10...` | **179.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/624761) • [🐱 Nyaa](https://nekobt.to/torrents/12665202255883) |
+| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **883.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/624742) • [🐱 Nyaa](https://nyaa.si/view/2138196) |
+| `[ToonsHub] A Livid Ladys Guide to Getting Even How I Crushed My Hom...` | **1431.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/624743) • [🐱 Nyaa](https://nyaa.si/view/2138195) |
+| `[ToonsHub] The Forsaken Saintess and Her Foodie Roadtrip in Another...` | **882.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/624744) • [🐱 Nyaa](https://nyaa.si/view/2138194) |
+| `[SubsPlease] Suterare Seijo no Isekai Gohan Tabi - 04 (1080p) [3C7A...` | **879.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/624747) • [🐱 Nyaa](https://nyaa.si/view/2138188) |
+| `[Erai-raws] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Ca...` | **883.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/624750) • [🐱 Nyaa](https://nyaa.si/view/2138183) |
 
 ---
 <div align="center">
