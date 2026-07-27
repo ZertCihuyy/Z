@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.37.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.48.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] World Is Dancing - S01E05 [1080p WEBRip AV1]` | **322.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624851) • [🐱 Nyaa](https://nekobt.to/torrents/12671457878796) |
+| `[CW] 009 Re-Cyborg (2012) [BD 1080p REMUX][TrueHD 5.1][Dual Audio][...` | **35627.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/624850) • [🐱 Nyaa](https://nyaa.si/view/2138370) |
+| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **463.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624839) • [🐱 Nyaa](https://nyaa.si/view/2138369) |
+| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **781.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624840) • [🐱 Nyaa](https://nyaa.si/view/2138368) |
+| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 04 [1080...` | **303.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/624841) • [🐱 Nyaa](https://nyaa.si/view/2138367) |
+| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **530.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624842) • [🐱 Nyaa](https://nyaa.si/view/2138366) |
+| `[kikuri] Yojouhan Shinwa Taikei (BD 1080p HEVC Opus) | The Tatami G...` | **14128.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624849) • [🐱 Nyaa](https://nekobt.to/torrents/12670888471563) |
+| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **306.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/624843) • [🐱 Nyaa](https://nyaa.si/view/2138365) |
+| `[Erai-raws] Liar Game - 17 [1080p CR WEBRip HEVC AAC][MultiSub][C27...` | **461.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624844) • [🐱 Nyaa](https://nyaa.si/view/2138364) |
+| `[Erai-raws] Grand Blue Season 3 - 04 [1080p CR WEBRip HEVC AAC][Mul...` | **536.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624845) • [🐱 Nyaa](https://nyaa.si/view/2138363) |
+| `[Erai-raws] World Is Dancing - 05 [1080p HIDIVE WEB-DL AVC AAC][955...` | **924.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/624848) • [🐱 Nyaa](https://nyaa.si/view/2138360) |
 | `Mushoku Tensei Jobless Reincarnation S03E02 Howl Mad Dog 1080p CR W...` | **1571.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/624838) • [🐱 Nyaa](https://nyaa.si/view/2138355) |
 | `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **212.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624836) • [🐱 Nyaa](https://nyaa.si/view/2138350) |
 | `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1536.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624834) • [🐱 Nyaa](https://nyaa.si/view/2138346) |
 | `You and I Are Polar Opposites S02E01 Christmas Eve 1080p CR WEB-DL ...` | **1538.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/624831) • [🐱 Nyaa](https://nyaa.si/view/2138345) |
-| `Mushoku Tensei Jobless Reincarnation S03E01 Burn Bright Mad Dog 108...` | **1564.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/624832) • [🐱 Nyaa](https://nyaa.si/view/2138344) |
-| `[Mo7tas] Zankyou no Terror [BD 1080p] [Multi language subs]` | **3390.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624833) • [🐱 Nyaa](https://nyaa.si/view/2138342) |
-| `[VARYG] The Forsaken Saintess and Her Foodie Roadtrip in Another Wo...` | **567.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/624830) • [🐱 Nyaa](https://nekobt.to/torrents/12669388096773) |
-| `RUBaDUB] Absolute Duo (Complete) (1080p) (Dual Audio)` | **12233.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624829) • [🐱 Nyaa](https://nyaa.si/view/2138340) |
-| `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E04 [W...` | **324.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/624824) • [🐱 Nyaa](https://nyaa.si/view/2138339) |
-| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **354.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/624825) • [🐱 Nyaa](https://nyaa.si/view/2138338) |
-| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **686.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624826) • [🐱 Nyaa](https://nyaa.si/view/2138337) |
-| `[DKB] World Is Dancing - S01E05 [1080p][HEVC x265 10bit][weekly]` | **431.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624827) • [🐱 Nyaa](https://nyaa.si/view/2138336) |
-| `[DKB] Grand Blue - S03E04 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **309.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/624828) • [🐱 Nyaa](https://nyaa.si/view/2138335) |
-| `[GetItTwisted] Bodacious Space Pirates S01 [BD 1080p AVC Opus Dual-...` | **33190.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/624823) • [🐱 Nyaa](https://nyaa.si/view/2138319) |
-| `[Judas] Liar Game - S01E17 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **234.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624821) • [🐱 Nyaa](https://nyaa.si/view/2138313) |
 
 ---
 <div align="center">
