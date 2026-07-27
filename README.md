@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.56.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.37.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Mushoku Tensei Jobless Reincarnation S03E02 Howl Mad Dog 1080p CR W...` | **1571.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/624838) • [🐱 Nyaa](https://nyaa.si/view/2138355) |
+| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **212.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624836) • [🐱 Nyaa](https://nyaa.si/view/2138350) |
+| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1536.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/624834) • [🐱 Nyaa](https://nyaa.si/view/2138346) |
+| `You and I Are Polar Opposites S02E01 Christmas Eve 1080p CR WEB-DL ...` | **1538.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/624831) • [🐱 Nyaa](https://nyaa.si/view/2138345) |
+| `Mushoku Tensei Jobless Reincarnation S03E01 Burn Bright Mad Dog 108...` | **1564.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/624832) • [🐱 Nyaa](https://nyaa.si/view/2138344) |
+| `[Mo7tas] Zankyou no Terror [BD 1080p] [Multi language subs]` | **3390.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624833) • [🐱 Nyaa](https://nyaa.si/view/2138342) |
+| `[VARYG] The Forsaken Saintess and Her Foodie Roadtrip in Another Wo...` | **567.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/624830) • [🐱 Nyaa](https://nekobt.to/torrents/12669388096773) |
+| `RUBaDUB] Absolute Duo (Complete) (1080p) (Dual Audio)` | **12233.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624829) • [🐱 Nyaa](https://nyaa.si/view/2138340) |
 | `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E04 [W...` | **324.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/624824) • [🐱 Nyaa](https://nyaa.si/view/2138339) |
 | `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **354.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/624825) • [🐱 Nyaa](https://nyaa.si/view/2138338) |
 | `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **686.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624826) • [🐱 Nyaa](https://nyaa.si/view/2138337) |
@@ -37,14 +45,6 @@
 | `[DKB] Grand Blue - S03E04 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **309.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/624828) • [🐱 Nyaa](https://nyaa.si/view/2138335) |
 | `[GetItTwisted] Bodacious Space Pirates S01 [BD 1080p AVC Opus Dual-...` | **33190.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/624823) • [🐱 Nyaa](https://nyaa.si/view/2138319) |
 | `[Judas] Liar Game - S01E17 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **234.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624821) • [🐱 Nyaa](https://nyaa.si/view/2138313) |
-| `[SubsMix] The Ogre's Bride - 04 (S01E04) - (WEB 1080p AVC x264 AAC ...` | **1425.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/624822) • [🐱 Nyaa](https://nyaa.si/view/2138311) |
-| `[Onalrie] Liar Game - S01E17 [1080p WEBRip AV1]` | **178.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624820) • [🐱 Nyaa](https://nekobt.to/torrents/12667463136778) |
-| `[ASW] LIAR GAME - 17 [1080p HEVC x265 10Bit][AAC]` | **235.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/624815) • [🐱 Nyaa](https://nyaa.si/view/2138301) |
-| `[Onalrie] Grand Blue - S03E04 [1080p WEBRip AV1]` | **245.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624818) • [🐱 Nyaa](https://nekobt.to/torrents/12667124870402) |
-| `[Judas] Grand Blue Dreaming - S03E04 [1080p][HEVC x265 10bit][Multi...` | **281.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/624816) • [🐱 Nyaa](https://nyaa.si/view/2138300) |
-| `[ASW] Grand Blue S3 - 04 [1080p HEVC x265 10Bit][AAC]` | **297.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/624817) • [🐱 Nyaa](https://nyaa.si/view/2138294) |
-| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E04 [1080p]...` | **234.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/624812) • [🐱 Nyaa](https://nyaa.si/view/2138293) |
-| `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E04 [1...` | **354.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/624813) • [🐱 Nyaa](https://nyaa.si/view/2138292) |
 
 ---
 <div align="center">
