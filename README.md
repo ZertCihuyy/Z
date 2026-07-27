@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.55.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.29.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E16 108...` | **201.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/624698) • [🐱 Nyaa](https://nyaa.si/view/2138098) |
+| `[LbE3L] The Beginning After the End S01 [1080p CUSTOM WEBRip AV1 (M...` | **3484.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/624697) • [🐱 Nyaa](https://nekobt.to/torrents/12662642347011) |
+| `[LbE3L] The Beginning After the End S02 [1080p CR WEBRip AV1 Opus 2...` | **4368.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/624696) • [🐱 Nyaa](https://nekobt.to/torrents/12662553796107) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **512.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/624695) • [🐱 Nyaa](https://nyaa.si/view/2138073) |
 | `[Onalrie] Meitantei Precure - S01E26 [1080p WEBRip AV1]` | **538.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/624693) • [🐱 Nyaa](https://nekobt.to/torrents/12658526568974) |
 | `[Late] Bleach TYBW 41 [Web, 1080p, x264, EAC3, ASS]` | **2919.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/624691) • [🐱 Nyaa](https://nyaa.si/view/2138056) |
 | `[Ommex] Chimpui (1989) Episodes 1-7 + Specials [ENG SUB][1080p HEVC...` | **5039.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624690) • [🐱 Nyaa](https://nyaa.si/view/2138047) |
@@ -41,10 +45,6 @@
 | `[Judas] One Piece - 1171 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **394.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624680) • [🐱 Nyaa](https://nyaa.si/view/2138031) |
 | `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **914.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/624679) • [🐱 Nyaa](https://nekobt.to/torrents/12653598802948) |
 | `[ToonsHub] One Piece EP1171 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **374.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624678) • [🐱 Nyaa](https://nyaa.si/view/2138026) |
-| `[ToonsHub] Star Detective Precure S01E26 1080p CR WEB-DL AAC2.0 H.2...` | **1412.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/624676) • [🐱 Nyaa](https://nyaa.si/view/2138023) |
-| `[Yameii] Mushoku Tensei: Jobless Reincarnation - S03E03 [English Du...` | **1386.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/624674) • [🐱 Nyaa](https://nyaa.si/view/2137997) |
-| `[sandoe41] Saving 80,000 Gold in Another World for My Retirement [S...` | **21961.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/624673) • [🐱 Nyaa](https://nyaa.si/view/2137984) |
-| `[FoundYears] Though I Am an Inept Villainess - S01E01 (CR WEB-DL 10...` | **1509.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/624672) • [🐱 Nyaa](https://nyaa.si/view/2137983) |
 
 ---
 <div align="center">
