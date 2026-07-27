@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.18.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.56.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E04 [W...` | **324.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/624824) • [🐱 Nyaa](https://nyaa.si/view/2138339) |
+| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **354.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/624825) • [🐱 Nyaa](https://nyaa.si/view/2138338) |
+| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **686.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/624826) • [🐱 Nyaa](https://nyaa.si/view/2138337) |
+| `[DKB] World Is Dancing - S01E05 [1080p][HEVC x265 10bit][weekly]` | **431.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624827) • [🐱 Nyaa](https://nyaa.si/view/2138336) |
+| `[DKB] Grand Blue - S03E04 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **309.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/624828) • [🐱 Nyaa](https://nyaa.si/view/2138335) |
+| `[GetItTwisted] Bodacious Space Pirates S01 [BD 1080p AVC Opus Dual-...` | **33190.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/624823) • [🐱 Nyaa](https://nyaa.si/view/2138319) |
+| `[Judas] Liar Game - S01E17 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **234.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624821) • [🐱 Nyaa](https://nyaa.si/view/2138313) |
+| `[SubsMix] The Ogre's Bride - 04 (S01E04) - (WEB 1080p AVC x264 AAC ...` | **1425.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/624822) • [🐱 Nyaa](https://nyaa.si/view/2138311) |
 | `[Onalrie] Liar Game - S01E17 [1080p WEBRip AV1]` | **178.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624820) • [🐱 Nyaa](https://nekobt.to/torrents/12667463136778) |
 | `[ASW] LIAR GAME - 17 [1080p HEVC x265 10Bit][AAC]` | **235.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/624815) • [🐱 Nyaa](https://nyaa.si/view/2138301) |
 | `[Onalrie] Grand Blue - S03E04 [1080p WEBRip AV1]` | **245.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624818) • [🐱 Nyaa](https://nekobt.to/torrents/12667124870402) |
@@ -37,14 +45,6 @@
 | `[ASW] Grand Blue S3 - 04 [1080p HEVC x265 10Bit][AAC]` | **297.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/624817) • [🐱 Nyaa](https://nyaa.si/view/2138294) |
 | `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E04 [1080p]...` | **234.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/624812) • [🐱 Nyaa](https://nyaa.si/view/2138293) |
 | `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E04 [1...` | **354.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/624813) • [🐱 Nyaa](https://nyaa.si/view/2138292) |
-| `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **184.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/624814) • [🐱 Nyaa](https://nyaa.si/view/2138291) |
-| `[Onalrie] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi...` | **209.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624811) • [🐱 Nyaa](https://onalrie.app/torrent/1ddf0a46-bcb8-45cf-bd17-e95ace43c514) |
-| `[ASW] Tenkosaki - 04 [1080p HEVC x265 10Bit][AAC]` | **239.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/624791) • [🐱 Nyaa](https://nyaa.si/view/2138286) |
-| `[ToonsHub] LIAR GAME S01E14 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1635.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/624792) • [🐱 Nyaa](https://nyaa.si/view/2138285) |
-| `LIAR GAME S01E15 Secret Plan 1080p CR WEB-DL DUAL AAC2.0 H.264-VARY...` | **1451.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/624793) • [🐱 Nyaa](https://nyaa.si/view/2138284) |
-| `LIAR GAME S01E17 Tip-Off 1080p CR WEB-DL AAC2.0 H.264-VARYG (Multi-...` | **1415.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/624794) • [🐱 Nyaa](https://nyaa.si/view/2138283) |
-| `[Yameii] LIAR GAME (2026) - S01E15 [English Dub] [CR WEB-DL 1080p H...` | **1397.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/624795) • [🐱 Nyaa](https://nyaa.si/view/2138282) |
-| `[ToonsHub] Grand Blue Dreaming S03E04 1080p AMZN WEB-DL DDP2.0 H.26...` | **847.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/624797) • [🐱 Nyaa](https://nyaa.si/view/2138280) |
 
 ---
 <div align="center">
