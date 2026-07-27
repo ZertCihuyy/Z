@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.25.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.55.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Meitantei Precure - S01E26 [1080p WEBRip AV1]` | **538.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/624693) • [🐱 Nyaa](https://nekobt.to/torrents/12658526568974) |
+| `[Late] Bleach TYBW 41 [Web, 1080p, x264, EAC3, ASS]` | **2919.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/624691) • [🐱 Nyaa](https://nyaa.si/view/2138056) |
 | `[Ommex] Chimpui (1989) Episodes 1-7 + Specials [ENG SUB][1080p HEVC...` | **5039.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624690) • [🐱 Nyaa](https://nyaa.si/view/2138047) |
 | `[Mo7tas] Sinbad: Mahiru no Yoru to Fushigi no Mon [BD 1080p] [Multi...` | **640.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/624688) • [🐱 Nyaa](https://nyaa.si/view/2138043) |
 | `One Piece S01E1170 Get the Key Luffy vs Scopper Gaban REPACK 1080p ...` | **1402.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/624685) • [🐱 Nyaa](https://nyaa.si/view/2138041) |
@@ -43,8 +45,6 @@
 | `[Yameii] Mushoku Tensei: Jobless Reincarnation - S03E03 [English Du...` | **1386.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/624674) • [🐱 Nyaa](https://nyaa.si/view/2137997) |
 | `[sandoe41] Saving 80,000 Gold in Another World for My Retirement [S...` | **21961.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/624673) • [🐱 Nyaa](https://nyaa.si/view/2137984) |
 | `[FoundYears] Though I Am an Inept Villainess - S01E01 (CR WEB-DL 10...` | **1509.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/624672) • [🐱 Nyaa](https://nyaa.si/view/2137983) |
-| `[Erai-raws] One Piece - 1171 [1080p CR WEBRip HEVC AAC][MultiSub][B...` | **646.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/624671) • [🐱 Nyaa](https://nyaa.si/view/2137981) |
-| `[Erai-raws] One Piece - 1171 [1080p CR WEB-DL AVC AAC][MultiSub][21...` | **1387.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624668) • [🐱 Nyaa](https://nyaa.si/view/2137979) |
 
 ---
 <div align="center">
