@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.44.06_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.21.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] Mushoku Tensei: Jobless Reincarnation - S03E03 [English Du...` | **1386.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/624674) • [🐱 Nyaa](https://nyaa.si/view/2137997) |
 | `[sandoe41] Saving 80,000 Gold in Another World for My Retirement [S...` | **21961.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/624673) • [🐱 Nyaa](https://nyaa.si/view/2137984) |
 | `[FoundYears] Though I Am an Inept Villainess - S01E01 (CR WEB-DL 10...` | **1509.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/624672) • [🐱 Nyaa](https://nyaa.si/view/2137983) |
 | `[Erai-raws] One Piece - 1171 [1080p CR WEBRip HEVC AAC][MultiSub][B...` | **646.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/624671) • [🐱 Nyaa](https://nyaa.si/view/2137981) |
@@ -44,7 +45,6 @@
 | `[Erai-raws] Sayonara Lara - 04 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **465.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/624656) • [🐱 Nyaa](https://nyaa.si/view/2137964) |
 | `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 03 [1080p CR WE...` | **450.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624657) • [🐱 Nyaa](https://nyaa.si/view/2137963) |
 | `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **304.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624658) • [🐱 Nyaa](https://nyaa.si/view/2137957) |
-| `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E03 [1080p][...` | **597.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/624659) • [🐱 Nyaa](https://nyaa.si/view/2137956) |
 
 ---
 <div align="center">
