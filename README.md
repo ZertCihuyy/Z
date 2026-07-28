@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.47.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.18.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E04 [WEB.1080p.AV1] | R...` | **342.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/625015) • [🐱 Nyaa](https://nyaa.si/view/2138730) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E02 1080p NF WEB-DL D...` | **895.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625011) • [🐱 Nyaa](https://nyaa.si/view/2138729) |
+| `[Erai-raws] Sora wa Akai Kawa no Hotori - 04 [1080p CR WEBRip HEVC ...` | **515.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/625012) • [🐱 Nyaa](https://nyaa.si/view/2138728) |
+| `Kimetsu no Yaiba Movie: Mugenjou-hen - Akaza Sairai / Demon Slayer ...` | **6708.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/625014) • [🐱 Nyaa](https://nyaa.si/view/2138726) |
+| `Though I Am an Inept Villainess S01E02 Will I Be Living Here 1080p ...` | **895.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/625010) • [🐱 Nyaa](https://nyaa.si/view/2138722) |
+| `[ASW] Sora wa Akai Kawa no Hotori - 04 [1080p HEVC x265 10Bit][AAC]` | **344.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625008) • [🐱 Nyaa](https://nyaa.si/view/2138718) |
+| `Demon.Slayer.Kimetsu.no.Yaiba.Infinity.Castle.2025.1080p.BDRip.AAC5...` | **2336.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625009) • [🐱 Nyaa](https://nyaa.si/view/2138717) |
 | `[Erai-raws] Koukaku Kidoutai (2026) - 04 [1080p AMZN WEBRip HEVC EA...` | **564.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/625006) • [🐱 Nyaa](https://nyaa.si/view/2138716) |
 | `[Onalrie] Sora wa Akai Kawa no Hotori - S01E04 [1080p WEBRip AV1]` | **276.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/625007) • [🐱 Nyaa](https://nekobt.to/torrents/12690792987147) |
 | `[Unfucked] Demon Slayer: Infinity Castle I (1080p CR WEB-DL AVC AAC...` | **9268.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625004) • [🐱 Nyaa](https://nyaa.si/view/2138712) |
@@ -41,13 +48,6 @@
 | `[Ironclad] THE GHOST IN THE SHELL - S01E04 [WEB.1080p.AV1] | THE GH...` | **568.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/625000) • [🐱 Nyaa](https://nyaa.si/view/2138708) |
 | `Red River 2026 S01E04 Ishtar Incarnate 1080p CR WEB-DL AAC2.0 H.264...` | **1342.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/625001) • [🐱 Nyaa](https://nyaa.si/view/2138707) |
 | `[Erai-raws] Tefuda ga Oome no Victoria - 04 [1080p CR WEBRip HEVC A...` | **373.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624986) • [🐱 Nyaa](https://nyaa.si/view/2138703) |
-| `[DKB] Tefuda ga Oome no Victoria - S01E04 [1080p][HEVC x265 10bit][...` | **231.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/624987) • [🐱 Nyaa](https://nyaa.si/view/2138702) |
-| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **872.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/624988) • [🐱 Nyaa](https://nyaa.si/view/2138701) |
-| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **424.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624989) • [🐱 Nyaa](https://nyaa.si/view/2138700) |
-| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 04 [1080p CR WEBRip ...` | **457.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624990) • [🐱 Nyaa](https://nyaa.si/view/2138699) |
-| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 04 [1080p CR WE...` | **614.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624991) • [🐱 Nyaa](https://nyaa.si/view/2138698) |
-| `[ToonsHub] Red River S01E04 1080p CR WEB-DL AAC2.0 H.264 (Sora wa A...` | **1340.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/624992) • [🐱 Nyaa](https://nyaa.si/view/2138697) |
-| `[Erai-raws] Crowned in a Hundred Days - 11 (CA) [1080p CR WEBRip HE...` | **178.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/624993) • [🐱 Nyaa](https://nyaa.si/view/2138696) |
 
 ---
 <div align="center">
