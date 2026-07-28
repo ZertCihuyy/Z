@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.09.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.27.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Rilakkuma - S01E17 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **46.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/624890) • [🐱 Nyaa](https://nekobt.to/torrents/12684167810062) |
+| `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E03 (108...` | **158.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624889) • [🐱 Nyaa](https://nekobt.to/torrents/12682695878919) |
 | `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **307.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/624888) • [🐱 Nyaa](https://nekobt.to/torrents/12682066598404) |
 | `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **303.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/624886) • [🐱 Nyaa](https://nyaa.si/view/2138500) |
 | `[Onalrie] Crowned in a Hundred Days - S01E11 (CA) [1080p WEBRip AV1]` | **105.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624885) • [🐱 Nyaa](https://nekobt.to/torrents/12680714203142) |
@@ -43,8 +45,6 @@
 | `[Blazing] Honoo no Toukyuujo - Dodge Danko - 04 (1080p) [23XTR3M3]` | **1162.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624875) • [🐱 Nyaa](https://nyaa.si/view/2138454) |
 | `[VARYG] Crowned in a Hundred Days S01E11 1080p CR WEB-DL AAC2.0 H.2...` | **652.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624873) • [🐱 Nyaa](https://nekobt.to/torrents/12677607926793) |
 | `[ToonsHub] Crowned in a Hundred Days S01E11 1080p CR WEB-DL AAC2.0 ...` | **650.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/624874) • [🐱 Nyaa](https://nekobt.to/torrents/12677587480578) |
-| `[Gecko] Crowned in a Hundred Days - S01E11 (百日成王; Bai Ri Cheng Wang...` | **134.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624868) • [🐱 Nyaa](https://nyaa.si/view/2138450) |
-| `[SubsPlease] Bai Ri Cheng Wang - 11 (1080p) [5C75A759].mkv` | **648.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624869) • [🐱 Nyaa](https://nyaa.si/view/2138449) |
 
 ---
 <div align="center">
