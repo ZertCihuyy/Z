@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.40.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.42.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Kimetsu no Yaiba Movie 1 - Mugenjou-hen - Akaza Sairai [1080p...` | **2869.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625020) • [🐱 Nyaa](https://nyaa.si/view/2138758) |
+| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E04 (1080p WEB EAC3 x265)...` | **502.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625021) • [🐱 Nyaa](https://nekobt.to/torrents/12693888979982) |
+| `Demon Slayer: Kimetsu no Yaiba Infinity Castle - Part 1: Akaza Retu...` | **9104.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625018) • [🐱 Nyaa](https://nyaa.si/view/2138757) |
+| `[Trix] Kimetsu no Yaiba Infinity Castle I (Movie) [WEB-DL 1080p AV1...` | **1859.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/625019) • [🐱 Nyaa](https://nyaa.si/view/2138754) |
 | `[FrixySubs] Oh Boy Was I Wrong About Her - S01E04 [1080p CR WEB-DL ...` | **1388.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/625016) • [🐱 Nyaa](https://nekobt.to/torrents/12693026660864) |
 | `[Ironclad] Sora wa Akai Kawa no Hotori - S01E04 [WEB.1080p.AV1] | R...` | **342.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/625015) • [🐱 Nyaa](https://nyaa.si/view/2138730) |
 | `[ToonsHub] Though I Am an Inept Villainess S01E02 1080p NF WEB-DL D...` | **895.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625011) • [🐱 Nyaa](https://nyaa.si/view/2138729) |
@@ -44,10 +48,6 @@
 | `[Erai-raws] Koukaku Kidoutai (2026) - 04 [1080p AMZN WEBRip HEVC EA...` | **564.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/625006) • [🐱 Nyaa](https://nyaa.si/view/2138716) |
 | `[Onalrie] Sora wa Akai Kawa no Hotori - S01E04 [1080p WEBRip AV1]` | **276.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/625007) • [🐱 Nyaa](https://nekobt.to/torrents/12690792987147) |
 | `[Unfucked] Demon Slayer: Infinity Castle I (1080p CR WEB-DL AVC AAC...` | **9268.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625004) • [🐱 Nyaa](https://nyaa.si/view/2138712) |
-| `[Breeze] Mushoku Tensei S03E03 [1080p AV1 Dual Audio] | Jobless Rei...` | **834.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/625005) • [🐱 Nyaa](https://nyaa.si/view/2138709) |
-| `[Onalrie] Koukaku Kidoutai (2026) - S01E04 [1080p WEBRip AV1]` | **315.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/625003) • [🐱 Nyaa](https://nekobt.to/torrents/12690420578829) |
-| `[Ironclad] THE GHOST IN THE SHELL - S01E04 [WEB.1080p.AV1] | THE GH...` | **568.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/625000) • [🐱 Nyaa](https://nyaa.si/view/2138708) |
-| `Red River 2026 S01E04 Ishtar Incarnate 1080p CR WEB-DL AAC2.0 H.264...` | **1342.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/625001) • [🐱 Nyaa](https://nyaa.si/view/2138707) |
 
 ---
 <div align="center">
