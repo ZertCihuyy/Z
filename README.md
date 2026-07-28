@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.07.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.11.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Xyrin Empire - S01 (希灵纪元; Xiling Jiyuan; モブ皇帝) [MW.WEB-DL 1...` | **8559.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624865) • [🐱 Nyaa](https://nyaa.si/view/2138394) |
+| `[SubsPlease] MARRIAGETOXIN (01-13) (1080p) [Batch]` | **18123.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624862) • [🐱 Nyaa](https://nyaa.si/view/2138383) |
 | `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E02 (108...` | **171.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624860) • [🐱 Nyaa](https://nekobt.to/torrents/12672646107653) |
 | `[SubsPlease] Aishiteru Game wo Owarasetai (01-12) (1080p) [Batch]` | **16615.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/624857) • [🐱 Nyaa](https://nyaa.si/view/2138378) |
 | `[CW] 009 Re-Cyborg (2012) [BD 1080p REMUX][TrueHD 5.1][Dual Audio][...` | **35627.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624856) • [🐱 Nyaa](https://nyaa.si/view/2138375) |
@@ -43,8 +45,6 @@
 | `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **781.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624840) • [🐱 Nyaa](https://nyaa.si/view/2138368) |
 | `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 04 [1080...` | **303.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/624841) • [🐱 Nyaa](https://nyaa.si/view/2138367) |
 | `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **530.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624842) • [🐱 Nyaa](https://nyaa.si/view/2138366) |
-| `[kikuri] Yojouhan Shinwa Taikei (BD 1080p HEVC Opus) | The Tatami G...` | **14128.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/624849) • [🐱 Nyaa](https://nekobt.to/torrents/12670888471563) |
-| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **306.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/624843) • [🐱 Nyaa](https://nyaa.si/view/2138365) |
 
 ---
 <div align="center">
