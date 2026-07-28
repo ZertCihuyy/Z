@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.18.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.40.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] Oh Boy Was I Wrong About Her - S01E04 [1080p CR WEB-DL ...` | **1388.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/625016) • [🐱 Nyaa](https://nekobt.to/torrents/12693026660864) |
 | `[Ironclad] Sora wa Akai Kawa no Hotori - S01E04 [WEB.1080p.AV1] | R...` | **342.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/625015) • [🐱 Nyaa](https://nyaa.si/view/2138730) |
 | `[ToonsHub] Though I Am an Inept Villainess S01E02 1080p NF WEB-DL D...` | **895.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625011) • [🐱 Nyaa](https://nyaa.si/view/2138729) |
 | `[Erai-raws] Sora wa Akai Kawa no Hotori - 04 [1080p CR WEBRip HEVC ...` | **515.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/625012) • [🐱 Nyaa](https://nyaa.si/view/2138728) |
@@ -47,7 +48,6 @@
 | `[Onalrie] Koukaku Kidoutai (2026) - S01E04 [1080p WEBRip AV1]` | **315.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/625003) • [🐱 Nyaa](https://nekobt.to/torrents/12690420578829) |
 | `[Ironclad] THE GHOST IN THE SHELL - S01E04 [WEB.1080p.AV1] | THE GH...` | **568.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/625000) • [🐱 Nyaa](https://nyaa.si/view/2138708) |
 | `Red River 2026 S01E04 Ishtar Incarnate 1080p CR WEB-DL AAC2.0 H.264...` | **1342.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/625001) • [🐱 Nyaa](https://nyaa.si/view/2138707) |
-| `[Erai-raws] Tefuda ga Oome no Victoria - 04 [1080p CR WEBRip HEVC A...` | **373.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624986) • [🐱 Nyaa](https://nyaa.si/view/2138703) |
 
 ---
 <div align="center">
