@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.10.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.47.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Demon Slayer Kimetsu no Yaiba Infinity Castle I 2025 1080p NF WEB-D...` | **7183.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/624977) • [🐱 Nyaa](https://nyaa.si/view/2138673) |
-| `Demon Slayer Kimetsu no Yaiba Infinity Castle I 2025 1080p NF WEB-D...` | **5765.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624978) • [🐱 Nyaa](https://nyaa.si/view/2138671) |
-| `Demon Slayer Kimetsu no Yaiba Infinity Castle I 2025 1080p CR WEB-D...` | **12278.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624979) • [🐱 Nyaa](https://nyaa.si/view/2138670) |
-| `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E04 [...` | **503.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/624980) • [🐱 Nyaa](https://nyaa.si/view/2138669) |
-| `Demon Slayer Kimetsu no Yaiba Infinity Castle I 2025 1080p CR WEB-D...` | **9291.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/624975) • [🐱 Nyaa](https://nyaa.si/view/2138667) |
-| `[SubsPlease] Kimetsu no Yaiba Movie 1 - Mugenjou-hen - Akaza Sairai...` | **8985.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624971) • [🐱 Nyaa](https://nyaa.si/view/2138662) |
-| `[ASW] Yoroi Shin Den Samurai Troopers - 16 [1080p HEVC x265 10Bit][...` | **630.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/624972) • [🐱 Nyaa](https://nyaa.si/view/2138661) |
-| `[ToonsHub] Demon Slayer Kimetsu no Yaiba Infinity Castle 2025 1080p...` | **12299.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624974) • [🐱 Nyaa](https://nyaa.si/view/2138657) |
-| `[ASW] Tefuda ga Oome no Victoria - 04 [1080p HEVC x265 10Bit][AAC]` | **217.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/624967) • [🐱 Nyaa](https://nyaa.si/view/2138655) |
-| `[Onalrie] Yoroi-Shinden Samurai Troopers - S02E04 [1080p WEBRip AV1]` | **362.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/624970) • [🐱 Nyaa](https://nekobt.to/torrents/12688646587139) |
-| `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **209.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/624969) • [🐱 Nyaa](https://nyaa.si/view/2138647) |
-| `THE GHOST IN THE SHELL S01E04 MULTi 1080p AMZN WEB-DL DDP2.0 H.265-...` | **700.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/624964) • [🐱 Nyaa](https://nekobt.to/torrents/12688250793231) |
-| `THE GHOST IN THE SHELL S01E04 MULTi 1080p AMZN WEB-DL DDP2.0 H.264-...` | **1734.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624965) • [🐱 Nyaa](https://nekobt.to/torrents/12688239056391) |
-| `THE GHOST IN THE SHELL S01E04 MULTi 1080p AMZN WEB-DL DDP2.0 AV1-Ts...` | **500.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/624966) • [🐱 Nyaa](https://nekobt.to/torrents/12688226300686) |
-| `[Onalrie] Tefuda ga Oome no Victoria - S01E04 [1080p WEBRip AV1]` | **185.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/624961) • [🐱 Nyaa](https://nekobt.to/torrents/12688186011142) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 04 [1080p AMZN WEBRip HEVC EA...` | **564.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/625006) • [🐱 Nyaa](https://nyaa.si/view/2138716) |
+| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E04 [1080p WEBRip AV1]` | **276.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/625007) • [🐱 Nyaa](https://nekobt.to/torrents/12690792987147) |
+| `[Unfucked] Demon Slayer: Infinity Castle I (1080p CR WEB-DL AVC AAC...` | **9268.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625004) • [🐱 Nyaa](https://nyaa.si/view/2138712) |
+| `[Breeze] Mushoku Tensei S03E03 [1080p AV1 Dual Audio] | Jobless Rei...` | **834.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/625005) • [🐱 Nyaa](https://nyaa.si/view/2138709) |
+| `[Onalrie] Koukaku Kidoutai (2026) - S01E04 [1080p WEBRip AV1]` | **315.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/625003) • [🐱 Nyaa](https://nekobt.to/torrents/12690420578829) |
+| `[Ironclad] THE GHOST IN THE SHELL - S01E04 [WEB.1080p.AV1] | THE GH...` | **568.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/625000) • [🐱 Nyaa](https://nyaa.si/view/2138708) |
+| `Red River 2026 S01E04 Ishtar Incarnate 1080p CR WEB-DL AAC2.0 H.264...` | **1342.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/625001) • [🐱 Nyaa](https://nyaa.si/view/2138707) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 04 [1080p CR WEBRip HEVC A...` | **373.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624986) • [🐱 Nyaa](https://nyaa.si/view/2138703) |
+| `[DKB] Tefuda ga Oome no Victoria - S01E04 [1080p][HEVC x265 10bit][...` | **231.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/624987) • [🐱 Nyaa](https://nyaa.si/view/2138702) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **872.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/624988) • [🐱 Nyaa](https://nyaa.si/view/2138701) |
+| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **424.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/624989) • [🐱 Nyaa](https://nyaa.si/view/2138700) |
+| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 04 [1080p CR WEBRip ...` | **457.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624990) • [🐱 Nyaa](https://nyaa.si/view/2138699) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 04 [1080p CR WE...` | **614.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624991) • [🐱 Nyaa](https://nyaa.si/view/2138698) |
+| `[ToonsHub] Red River S01E04 1080p CR WEB-DL AAC2.0 H.264 (Sora wa A...` | **1340.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/624992) • [🐱 Nyaa](https://nyaa.si/view/2138697) |
+| `[Erai-raws] Crowned in a Hundred Days - 11 (CA) [1080p CR WEBRip HE...` | **178.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/624993) • [🐱 Nyaa](https://nyaa.si/view/2138696) |
 
 ---
 <div align="center">
