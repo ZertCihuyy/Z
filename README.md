@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.13.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.09.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **307.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/624888) • [🐱 Nyaa](https://nekobt.to/torrents/12682066598404) |
+| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **303.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/624886) • [🐱 Nyaa](https://nyaa.si/view/2138500) |
+| `[Onalrie] Crowned in a Hundred Days - S01E11 (CA) [1080p WEBRip AV1]` | **105.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624885) • [🐱 Nyaa](https://nekobt.to/torrents/12680714203142) |
+| `[Breeze] Mushoku Tensei S03E05 [1080p AV1] | Jobless Reincarnation ...` | **820.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/624883) • [🐱 Nyaa](https://nyaa.si/view/2138496) |
+| `[Ironclad] Gaikotsu Kishi-sama - S02E04 [WEB.1080p.AV1] | Skeleton ...` | **359.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624884) • [🐱 Nyaa](https://nyaa.si/view/2138495) |
 | `[GetItTwisted] Bodacious Space Pirates the Movie: Abyss of Hyperspa...` | **5665.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/624882) • [🐱 Nyaa](https://nyaa.si/view/2138485) |
 | `[VARYG] You and I Are Polar Opposites S02E03 The Year Thats Passed ...` | **1436.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/624881) • [🐱 Nyaa](https://nekobt.to/torrents/12678869109252) |
 | `[ToonsHub] You and I Are Polar Opposites S02E03 REPACK 1080p CR WEB...` | **1436.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624880) • [🐱 Nyaa](https://nyaa.si/view/2138459) |
@@ -40,11 +45,6 @@
 | `[ToonsHub] Crowned in a Hundred Days S01E11 1080p CR WEB-DL AAC2.0 ...` | **650.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/624874) • [🐱 Nyaa](https://nekobt.to/torrents/12677587480578) |
 | `[Gecko] Crowned in a Hundred Days - S01E11 (百日成王; Bai Ri Cheng Wang...` | **134.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624868) • [🐱 Nyaa](https://nyaa.si/view/2138450) |
 | `[SubsPlease] Bai Ri Cheng Wang - 11 (1080p) [5C75A759].mkv` | **648.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624869) • [🐱 Nyaa](https://nyaa.si/view/2138449) |
-| `[ToonsHub] Crowned in a Hundred Days S01E11 1080p BILI WEB-DL AAC2....` | **132.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/624872) • [🐱 Nyaa](https://nyaa.si/view/2138444) |
-| `[Queen Medusa] A Will Eternal S04 E02 (167) [1080p HEVC 10bit DDP2....` | **404.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/624867) • [🐱 Nyaa](https://nyaa.si/view/2138439) |
-| `[Gecko] Xyrin Empire - S01 (希灵纪元; Xiling Jiyuan; モブ皇帝) [MW.WEB-DL 1...` | **8559.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624865) • [🐱 Nyaa](https://nyaa.si/view/2138394) |
-| `[SubsPlease] MARRIAGETOXIN (01-13) (1080p) [Batch]` | **18123.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624862) • [🐱 Nyaa](https://nyaa.si/view/2138383) |
-| `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E02 (108...` | **171.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624860) • [🐱 Nyaa](https://nekobt.to/torrents/12672646107653) |
 
 ---
 <div align="center">
