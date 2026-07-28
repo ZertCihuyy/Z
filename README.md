@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.27.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.12.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gecko] Rilakkuma - S01E17 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **46.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/624890) • [🐱 Nyaa](https://nekobt.to/torrents/12684167810062) |
-| `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E03 (108...` | **158.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624889) • [🐱 Nyaa](https://nekobt.to/torrents/12682695878919) |
-| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **307.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/624888) • [🐱 Nyaa](https://nekobt.to/torrents/12682066598404) |
-| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **303.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/624886) • [🐱 Nyaa](https://nyaa.si/view/2138500) |
-| `[Onalrie] Crowned in a Hundred Days - S01E11 (CA) [1080p WEBRip AV1]` | **105.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/624885) • [🐱 Nyaa](https://nekobt.to/torrents/12680714203142) |
-| `[Breeze] Mushoku Tensei S03E05 [1080p AV1] | Jobless Reincarnation ...` | **820.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/624883) • [🐱 Nyaa](https://nyaa.si/view/2138496) |
-| `[Ironclad] Gaikotsu Kishi-sama - S02E04 [WEB.1080p.AV1] | Skeleton ...` | **359.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624884) • [🐱 Nyaa](https://nyaa.si/view/2138495) |
-| `[GetItTwisted] Bodacious Space Pirates the Movie: Abyss of Hyperspa...` | **5665.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/624882) • [🐱 Nyaa](https://nyaa.si/view/2138485) |
-| `[VARYG] You and I Are Polar Opposites S02E03 The Year Thats Passed ...` | **1436.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/624881) • [🐱 Nyaa](https://nekobt.to/torrents/12678869109252) |
-| `[ToonsHub] You and I Are Polar Opposites S02E03 REPACK 1080p CR WEB...` | **1436.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624880) • [🐱 Nyaa](https://nyaa.si/view/2138459) |
-| `[Erai-raws] Crowned in a Hundred Days - 11 (CA) [1080p CR WEB-DL AV...` | **504.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/624878) • [🐱 Nyaa](https://nyaa.si/view/2138456) |
-| `[ASW] Bai Ri Cheng Wang - 11 [1080p HEVC x265 10Bit][AAC]` | **134.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624879) • [🐱 Nyaa](https://nyaa.si/view/2138455) |
-| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 04 (1080p) [23XTR3M3]` | **1162.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624875) • [🐱 Nyaa](https://nyaa.si/view/2138454) |
-| `[VARYG] Crowned in a Hundred Days S01E11 1080p CR WEB-DL AAC2.0 H.2...` | **652.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624873) • [🐱 Nyaa](https://nekobt.to/torrents/12677607926793) |
-| `[ToonsHub] Crowned in a Hundred Days S01E11 1080p CR WEB-DL AAC2.0 ...` | **650.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/624874) • [🐱 Nyaa](https://nekobt.to/torrents/12677587480578) |
+| `[ToonsHub] Saved by the Ice Cold Princes Embrace S01E04 1080p AMZN ...` | **299.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/624913) • [🐱 Nyaa](https://nekobt.to/torrents/12685948713990) |
+| `[Onalrie] Kimi ga Shinu made Koi wo Shitai - S01E04 [1080p WEBRip AV1]` | **162.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/624914) • [🐱 Nyaa](https://nekobt.to/torrents/12685893455109) |
+| `[LoliHouse] 无职转生 3期  Mushoku Tensei S3 - 05 [WebRip 1080p HEVC-10bi...` | **567.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624915) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2097933) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **456.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624916) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2097932) |
+| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **467.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624912) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2097931) |
+| `[ToonsHub] I Want to Love You Till Your Dying Day S01E04 1080p CR W...` | **1426.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624906) • [🐱 Nyaa](https://nyaa.si/view/2138553) |
+| `I Want to Love You Till Your Dying Day S01E04 Accomplices 1080p CR ...` | **1407.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/624907) • [🐱 Nyaa](https://nyaa.si/view/2138552) |
+| `[SubsPlease] Kimi ga Shinu made Koi wo Shitai - 04 (1080p) [F06DFED...` | **1379.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/624908) • [🐱 Nyaa](https://nyaa.si/view/2138549) |
+| `[Judas] Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai (Yo...` | **505.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/624911) • [🐱 Nyaa](https://nyaa.si/view/2138543) |
+| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 04 [1080p CR WEB-DL ...` | **1386.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/624905) • [🐱 Nyaa](https://nekobt.to/torrents/12685378385673) |
+| `[ASW] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - 04 [...` | **485.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624902) • [🐱 Nyaa](https://nyaa.si/view/2138539) |
+| `[Onalrie] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai - ...` | **302.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/624901) • [🐱 Nyaa](https://nekobt.to/torrents/12685051588360) |
+| `[VARYG] Young Ladies Dont Play Fighting Games S01E04 Late-Night Stu...` | **1412.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624900) • [🐱 Nyaa](https://nekobt.to/torrents/12684637014539) |
+| `[Gecko] GROW UP SHOW -Sunflower Circus- - S01E04 (グロウアップショウ ～ひまわりのサ...` | **706.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624891) • [🐱 Nyaa](https://nyaa.si/view/2138527) |
+| `[Gecko] The World Is Dancing - S01E05 (ワールド イズ ダンシング; World Is Danc...` | **669.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/624892) • [🐱 Nyaa](https://nyaa.si/view/2138526) |
 
 ---
 <div align="center">
