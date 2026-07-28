@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.39.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.13.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[GetItTwisted] Bodacious Space Pirates the Movie: Abyss of Hyperspa...` | **5665.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/624882) • [🐱 Nyaa](https://nyaa.si/view/2138485) |
+| `[VARYG] You and I Are Polar Opposites S02E03 The Year Thats Passed ...` | **1436.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/624881) • [🐱 Nyaa](https://nekobt.to/torrents/12678869109252) |
+| `[ToonsHub] You and I Are Polar Opposites S02E03 REPACK 1080p CR WEB...` | **1436.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624880) • [🐱 Nyaa](https://nyaa.si/view/2138459) |
+| `[Erai-raws] Crowned in a Hundred Days - 11 (CA) [1080p CR WEB-DL AV...` | **504.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/624878) • [🐱 Nyaa](https://nyaa.si/view/2138456) |
+| `[ASW] Bai Ri Cheng Wang - 11 [1080p HEVC x265 10Bit][AAC]` | **134.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/624879) • [🐱 Nyaa](https://nyaa.si/view/2138455) |
+| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 04 (1080p) [23XTR3M3]` | **1162.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/624875) • [🐱 Nyaa](https://nyaa.si/view/2138454) |
+| `[VARYG] Crowned in a Hundred Days S01E11 1080p CR WEB-DL AAC2.0 H.2...` | **652.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624873) • [🐱 Nyaa](https://nekobt.to/torrents/12677607926793) |
+| `[ToonsHub] Crowned in a Hundred Days S01E11 1080p CR WEB-DL AAC2.0 ...` | **650.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/624874) • [🐱 Nyaa](https://nekobt.to/torrents/12677587480578) |
+| `[Gecko] Crowned in a Hundred Days - S01E11 (百日成王; Bai Ri Cheng Wang...` | **134.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/624868) • [🐱 Nyaa](https://nyaa.si/view/2138450) |
+| `[SubsPlease] Bai Ri Cheng Wang - 11 (1080p) [5C75A759].mkv` | **648.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/624869) • [🐱 Nyaa](https://nyaa.si/view/2138449) |
+| `[ToonsHub] Crowned in a Hundred Days S01E11 1080p BILI WEB-DL AAC2....` | **132.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/624872) • [🐱 Nyaa](https://nyaa.si/view/2138444) |
 | `[Queen Medusa] A Will Eternal S04 E02 (167) [1080p HEVC 10bit DDP2....` | **404.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/624867) • [🐱 Nyaa](https://nyaa.si/view/2138439) |
 | `[Gecko] Xyrin Empire - S01 (希灵纪元; Xiling Jiyuan; モブ皇帝) [MW.WEB-DL 1...` | **8559.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624865) • [🐱 Nyaa](https://nyaa.si/view/2138394) |
 | `[SubsPlease] MARRIAGETOXIN (01-13) (1080p) [Batch]` | **18123.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/624862) • [🐱 Nyaa](https://nyaa.si/view/2138383) |
 | `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E02 (108...` | **171.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/624860) • [🐱 Nyaa](https://nekobt.to/torrents/12672646107653) |
-| `[SubsPlease] Aishiteru Game wo Owarasetai (01-12) (1080p) [Batch]` | **16615.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/624857) • [🐱 Nyaa](https://nyaa.si/view/2138378) |
-| `[CW] 009 Re-Cyborg (2012) [BD 1080p REMUX][TrueHD 5.1][Dual Audio][...` | **35627.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624856) • [🐱 Nyaa](https://nyaa.si/view/2138375) |
-| `[sam] The Story of Saiunkoku - S01E07 (WEB 1080p HEVC x265 10-bit A...` | **3924.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/624854) • [🐱 Nyaa](https://nyaa.si/view/2138374) |
-| `[HatSubs] One Piece 1171 (WEB 1080p) [E291BFED].mkv` | **1380.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/624855) • [🐱 Nyaa](https://nyaa.si/view/2138373) |
-| `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E01 (108...` | **187.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/624852) • [🐱 Nyaa](https://nekobt.to/torrents/12671942951173) |
-| `[BlackRabbit] Dragon Ball Super (2015) - S04 [Bluray-1080p][Opus 2....` | **6514.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624853) • [🐱 Nyaa](https://nekobt.to/torrents/12671868452610) |
-| `[Onalrie] World Is Dancing - S01E05 [1080p WEBRip AV1]` | **322.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/624851) • [🐱 Nyaa](https://nekobt.to/torrents/12671457878796) |
-| `[CW] 009 Re-Cyborg (2012) [BD 1080p REMUX][TrueHD 5.1][Dual Audio][...` | **35627.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/624850) • [🐱 Nyaa](https://nyaa.si/view/2138370) |
-| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **463.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624839) • [🐱 Nyaa](https://nyaa.si/view/2138369) |
-| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **781.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/624840) • [🐱 Nyaa](https://nyaa.si/view/2138368) |
-| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 04 [1080...` | **303.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/624841) • [🐱 Nyaa](https://nyaa.si/view/2138367) |
 
 ---
 <div align="center">
