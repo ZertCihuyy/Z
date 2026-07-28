@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.12.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.36.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Saved by the Ice Cold Princes Embrace S01E04 1080p AMZN ...` | **299.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/624913) • [🐱 Nyaa](https://nekobt.to/torrents/12685948713990) |
-| `[Onalrie] Kimi ga Shinu made Koi wo Shitai - S01E04 [1080p WEBRip AV1]` | **162.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/624914) • [🐱 Nyaa](https://nekobt.to/torrents/12685893455109) |
-| `[LoliHouse] 无职转生 3期  Mushoku Tensei S3 - 05 [WebRip 1080p HEVC-10bi...` | **567.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624915) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2097933) |
-| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **456.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624916) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2097932) |
-| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **467.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/624912) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2097931) |
-| `[ToonsHub] I Want to Love You Till Your Dying Day S01E04 1080p CR W...` | **1426.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624906) • [🐱 Nyaa](https://nyaa.si/view/2138553) |
-| `I Want to Love You Till Your Dying Day S01E04 Accomplices 1080p CR ...` | **1407.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/624907) • [🐱 Nyaa](https://nyaa.si/view/2138552) |
-| `[SubsPlease] Kimi ga Shinu made Koi wo Shitai - 04 (1080p) [F06DFED...` | **1379.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/624908) • [🐱 Nyaa](https://nyaa.si/view/2138549) |
-| `[Judas] Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai (Yo...` | **505.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/624911) • [🐱 Nyaa](https://nyaa.si/view/2138543) |
-| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 04 [1080p CR WEB-DL ...` | **1386.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/624905) • [🐱 Nyaa](https://nekobt.to/torrents/12685378385673) |
-| `[ASW] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - 04 [...` | **485.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/624902) • [🐱 Nyaa](https://nyaa.si/view/2138539) |
-| `[Onalrie] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai - ...` | **302.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/624901) • [🐱 Nyaa](https://nekobt.to/torrents/12685051588360) |
-| `[VARYG] Young Ladies Dont Play Fighting Games S01E04 Late-Night Stu...` | **1412.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/624900) • [🐱 Nyaa](https://nekobt.to/torrents/12684637014539) |
-| `[Gecko] GROW UP SHOW -Sunflower Circus- - S01E04 (グロウアップショウ ～ひまわりのサ...` | **706.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/624891) • [🐱 Nyaa](https://nyaa.si/view/2138527) |
-| `[Gecko] The World Is Dancing - S01E05 (ワールド イズ ダンシング; World Is Danc...` | **669.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/624892) • [🐱 Nyaa](https://nyaa.si/view/2138526) |
+| `[Onalrie] Tefuda ga Oome no Victoria - S01E04 [1080p WEBRip AV1]` | **185.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/624961) • [🐱 Nyaa](https://nekobt.to/torrents/12688186011142) |
+| `[ToonsHub] Demon Slayer Kimetsu no Yaiba Infinity Castle (2025) 108...` | **5765.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/624960) • [🐱 Nyaa](https://nyaa.si/view/2138635) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 04 [1080p CR WE...` | **1404.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/624941) • [🐱 Nyaa](https://nyaa.si/view/2138630) |
+| `[ToonsHub] Demon Slayer Kimetsu no Yaiba Infinity Castle 2025 1080p...` | **9310.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624942) • [🐱 Nyaa](https://nyaa.si/view/2138629) |
+| `[ToonsHub] Yoroi-Shinden Samurai Troopers S01E16 1080p CR WEB-DL AA...` | **1404.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/624943) • [🐱 Nyaa](https://nyaa.si/view/2138627) |
+| `[ToonsHub] Victoria of Many Faces S01E04 1080p CR WEB-DL AAC2.0 H.2...` | **1386.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/624944) • [🐱 Nyaa](https://nyaa.si/view/2138626) |
+| `Yoroi Shinden Samurai Troopers S01E16 Offense and Defense 1080p CR ...` | **1406.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/624945) • [🐱 Nyaa](https://nyaa.si/view/2138624) |
+| `Victoria of Many Faces S01E04 Are You Going to Arrest Me 1080p CR W...` | **1387.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/624946) • [🐱 Nyaa](https://nyaa.si/view/2138621) |
+| `[ToonsHub] Demon Slayer Kimetsu no Yaiba Infinity Castle (2025) 108...` | **3051.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/624947) • [🐱 Nyaa](https://nyaa.si/view/2138620) |
+| `[SubsPlease] Tefuda ga Oome no Victoria - 04 (1080p) [F188F6D4].mkv` | **1376.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/624948) • [🐱 Nyaa](https://nyaa.si/view/2138619) |
+| `[SubsPlease] Yoroi Shin Den Samurai Troopers - 16 (1080p) [3F5FBE52...` | **1395.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/624952) • [🐱 Nyaa](https://nyaa.si/view/2138611) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 04 [1080p CR WEB-DL AVC AA...` | **1385.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/624954) • [🐱 Nyaa](https://nyaa.si/view/2138608) |
+| `[ToonsHub] Victoria of Many Faces S01E04 1080p BILI WEB-DL AAC2.0 H...` | **231.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/624955) • [🐱 Nyaa](https://nyaa.si/view/2138607) |
+| `[VARYG] THE GHOST IN THE SHELL S01E04 EPISODE 04 ROBOT RONDO 1080p ...` | **2010.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/624934) • [🐱 Nyaa](https://nekobt.to/torrents/12687291017999) |
+| `[ToonsHub] THE GHOST IN THE SHELL S01E04 1080p AMZN WEB-DL MULTi DD...` | **2010.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/624935) • [🐱 Nyaa](https://nekobt.to/torrents/12687272045572) |
 
 ---
 <div align="center">
