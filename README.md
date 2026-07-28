@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.42.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.43.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Kimetsu no Yaiba: Mugenjou Hen - Movie 01 [1080p CR WEB...` | **9057.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625025) • [🐱 Nyaa](https://nyaa.si/view/2138770) |
+| `[Reza] THE GHOST IN THE SHELL (2026) - S01E04 [WEBRip HEVC 1080p EA...` | **5753.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/625026) • [🐱 Nyaa](https://nyaa.si/view/2138769) |
 | `[ASW] Kimetsu no Yaiba Movie 1 - Mugenjou-hen - Akaza Sairai [1080p...` | **2869.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625020) • [🐱 Nyaa](https://nyaa.si/view/2138758) |
 | `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E04 (1080p WEB EAC3 x265)...` | **502.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625021) • [🐱 Nyaa](https://nekobt.to/torrents/12693888979982) |
 | `Demon Slayer: Kimetsu no Yaiba Infinity Castle - Part 1: Akaza Retu...` | **9104.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625018) • [🐱 Nyaa](https://nyaa.si/view/2138757) |
@@ -46,8 +48,6 @@
 | `[ASW] Sora wa Akai Kawa no Hotori - 04 [1080p HEVC x265 10Bit][AAC]` | **344.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625008) • [🐱 Nyaa](https://nyaa.si/view/2138718) |
 | `Demon.Slayer.Kimetsu.no.Yaiba.Infinity.Castle.2025.1080p.BDRip.AAC5...` | **2336.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625009) • [🐱 Nyaa](https://nyaa.si/view/2138717) |
 | `[Erai-raws] Koukaku Kidoutai (2026) - 04 [1080p AMZN WEBRip HEVC EA...` | **564.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/625006) • [🐱 Nyaa](https://nyaa.si/view/2138716) |
-| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E04 [1080p WEBRip AV1]` | **276.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/625007) • [🐱 Nyaa](https://nekobt.to/torrents/12690792987147) |
-| `[Unfucked] Demon Slayer: Infinity Castle I (1080p CR WEB-DL AVC AAC...` | **9268.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625004) • [🐱 Nyaa](https://nyaa.si/view/2138712) |
 
 ---
 <div align="center">
