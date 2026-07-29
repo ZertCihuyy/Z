@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.30.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.57.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -16,6 +16,7 @@
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211220-fkWS8gCM2rA5.png" width="45" style="border-radius: 4px;"> | `08.00` | **[Li Xiongmao](https://anilist.co/anime/211220)** | *Adventure* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211220-fkWS8gCM2rA5.png" width="45" style="border-radius: 4px;"> | `08.00` | **[Li Xiongmao](https://anilist.co/anime/211220)** | *Adventure* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211220-fkWS8gCM2rA5.png" width="45" style="border-radius: 4px;"> | `08.00` | **[Li Xiongmao](https://anilist.co/anime/211220)** | *Adventure* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199409-X1BoggxZulkT.jpg" width="45" style="border-radius: 4px;"> | `09.00` | **[Yi Nian Yongheng 4](https://anilist.co/anime/199409)** | *Action, Comedy, Fantasy* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213703-ghO1AqW0bdaN.jpg" width="45" style="border-radius: 4px;"> | `10.00` | **[Jiaonang Jihua: Qiji](https://anilist.co/anime/213703)** | *Fantasy, Sci-Fi* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg" width="45" style="border-radius: 4px;"> | `15.15` | **[Cheongchun Blossom: Uriui Bom](https://anilist.co/anime/163793)** | *Romance* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg" width="45" style="border-radius: 4px;"> | `18.00` | **[Ugoku! Neko Mukashi Banashi](https://anilist.co/anime/188529)** | *Comedy* |
@@ -26,28 +27,27 @@
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Otomege Sekai wa Mob ni Kibishii Sekai desu 2](https://anilist.co/anime/159309)** | *Action, Fantasy, Mecha, Romance* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Ibitte Konai Gibo to Gishi](https://anilist.co/anime/196356)** | *Comedy, Slice of Life* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg" width="45" style="border-radius: 4px;"> | `21.46` | **[Katainaka no Ossan, Kensei ni Naru II](https://anilist.co/anime/194829)** | *Action, Adventure, Comedy, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png" width="45" style="border-radius: 4px;"> | `21.56` | **[Candy Caries](https://anilist.co/anime/205772)** | *Comedy* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Clevatess S02E04 The Dark Tower 1080p CR WEB-DL DUAL AAC2.0 H.264-V...` | **1443.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/625085) • [🐱 Nyaa](https://nyaa.si/view/2138880) |
-| `[ToonsHub] Clevatess S02E04 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1425.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/625082) • [🐱 Nyaa](https://nekobt.to/torrents/12707094719237) |
-| `[Yameii] Clevatess - S02E04 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1386.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/625083) • [🐱 Nyaa](https://nekobt.to/torrents/12707090278671) |
-| `[SubsPlease] Clevatess S2 - 04 (1080p) [22125AA9].mkv` | **1381.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/625071) • [🐱 Nyaa](https://nyaa.si/view/2138876) |
-| `[Erai-raws] Clevatess II - 04 [1080p CR WEB-DL AVC AAC][MultiSub][F...` | **1389.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/625076) • [🐱 Nyaa](https://nyaa.si/view/2138869) |
-| `[ToonsHub] Clevatess S02E04 1080p BILI WEB-DL AAC2.0 H.265 (Clevate...` | **232.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/625077) • [🐱 Nyaa](https://nyaa.si/view/2138867) |
-| `[Doomdos] - Demon Slayer: Kimetsu no Yaiba Infinity Castle - Movie ...` | **2106.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/625078) • [🐱 Nyaa](https://nyaa.si/view/2138866) |
-| `[Shridhuu] GuAn - 一斩苍穹 - E01 [1080p AVC SDR 8Bits EAC3 2.0 + AAC 2.0]` | **417.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625081) • [🐱 Nyaa](https://nyaa.si/view/2138863) |
-| `[AnimeAlpha] Demon Slayer Kimetsu no Yaiba Infinity Castle 2025 [10...` | **622.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625068) • [🐱 Nyaa](https://nyaa.si/view/2138859) |
-| `[Gecko] Cat Tales - S01E42 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **25.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625069) • [🐱 Nyaa](https://nyaa.si/view/2138858) |
-| `[ToonsHub] Cat Tales S01E42 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **58.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/625070) • [🐱 Nyaa](https://nyaa.si/view/2138857) |
-| `[Shridhuu] Beyond Time's Gaze - 光阴之外 - E30 [1080p AVC SDR 8Bits EAC...` | **464.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/625065) • [🐱 Nyaa](https://nyaa.si/view/2138855) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E02 (1080p AAC x265 B...` | **618.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/625064) • [🐱 Nyaa](https://nekobt.to/torrents/12705538826761) |
-| `[Erai-raws] Kimetsu no Yaiba: Mugenjou Hen - Movie 01 [1080p CR WEB...` | **3634.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625063) • [🐱 Nyaa](https://nyaa.si/view/2138848) |
-| `[Mo7tas] Tonari no Totoro [BD 1080p] [Multi language subs]` | **1155.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/625062) • [🐱 Nyaa](https://nyaa.si/view/2138835) |
+| `Heroine Saint No Im an All Works Maid And Proud of It S01E06 1080p ...` | **1366.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/625109) • [🐱 Nyaa](https://nyaa.si/view/2138943) |
+| `[Doomdos] - My Stepmother and Stepsisters Aren't Wicked - 4 [1080p ...` | **271.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/625110) • [🐱 Nyaa](https://nyaa.si/view/2138942) |
+| `[ToonsHub] My Stepmother and Stepsisters Arent Wicked S01E04 1080p ...` | **732.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/625111) • [🐱 Nyaa](https://nyaa.si/view/2138941) |
+| `[ToonsHub] Heroine Saint No Im an All-Works Maid And Proud of It S0...` | **1387.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625112) • [🐱 Nyaa](https://nyaa.si/view/2138940) |
+| `[SubsPlease] All Works Maid - 06 (1080p) [36FD59F5].mkv` | **1338.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/625113) • [🐱 Nyaa](https://nyaa.si/view/2138937) |
+| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 06 [10...` | **1347.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625118) • [🐱 Nyaa](https://nyaa.si/view/2138929) |
+| `[Judas] Youjo Senki (Saga of Tanya the Evil) - S02E04 [1080p][HEVC ...` | **270.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625119) • [🐱 Nyaa](https://nyaa.si/view/2138927) |
+| `[ASW] Youjo Senki S2 - 04 [1080p HEVC x265 10Bit][AAC]` | **281.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/625108) • [🐱 Nyaa](https://nyaa.si/view/2138924) |
+| `[ToonsHub] Saga of Tanya the Evil S02E04 1080p AMZN WEB-DL DDP2.0 H...` | **689.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/625107) • [🐱 Nyaa](https://nyaa.si/view/2138919) |
+| `Saga of Tanya the Evil S02E04 Operation Iron Hammer 1080p CR WEB-DL...` | **1392.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/625102) • [🐱 Nyaa](https://nyaa.si/view/2138916) |
+| `[ToonsHub] Saga of Tanya the Evil S02E04 1080p CR WEB-DL AAC2.0 H.2...` | **1389.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/625103) • [🐱 Nyaa](https://nyaa.si/view/2138915) |
+| `[SubsPlease] Youjo Senki S2 - 04 (1080p) [6F9D19E3].mkv` | **1380.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/625104) • [🐱 Nyaa](https://nyaa.si/view/2138913) |
+| `[Erai-raws] Youjo Senki II - 04 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1389.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/625101) • [🐱 Nyaa](https://nekobt.to/torrents/12708415363595) |
+| `[geckyzz] Perfect Addiction - S01E04 (パーフェクトアディクション) [YTB.WEB-DL 10...` | **33.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/625098) • [🐱 Nyaa](https://nyaa.si/view/2138904) |
+| `[ToonsHub] Perfect Addiction S01E04 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **178.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/625090) • [🐱 Nyaa](https://nyaa.si/view/2138903) |
 
 ---
 <div align="center">

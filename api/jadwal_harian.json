@@ -1,5 +1,5 @@
 {
-  "last_update": "29/7/2026, 19.30.22",
+  "last_update": "29/7/2026, 21.57.40",
   "hari": "Rabu",
   "data": [
     {
@@ -59,6 +59,23 @@
         },
         "genres": [
           "Adventure"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785290400,
+      "media": {
+        "id": 199409,
+        "title": {
+          "romaji": "Yi Nian Yongheng 4"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199409-X1BoggxZulkT.jpg"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy"
         ]
       }
     },
@@ -222,21 +239,6 @@
           "Adventure",
           "Comedy",
           "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785336960,
-      "media": {
-        "id": 205772,
-        "title": {
-          "romaji": "Candy Caries"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png"
-        },
-        "genres": [
-          "Comedy"
         ]
       }
     }
