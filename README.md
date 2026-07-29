@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.40.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.44.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[triple117] Demon Slayer - Kimetsu no Yaiba - The Movie - Infinity ...` | **9537.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/625271) • [🐱 Nyaa](https://nyaa.si/view/2139136) |
+| `[FrixySubs] Though I Am an Inept Villainess - S01E02 [1080p CR WEB-...` | **1396.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/625270) • [🐱 Nyaa](https://nekobt.to/torrents/12716921183232) |
 | `[Erai-raws] Dogulwang - 04 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **451.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625267) • [🐱 Nyaa](https://nyaa.si/view/2139131) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 76 [1080p] [4BF8...` | **24.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/625268) • [🐱 Nyaa](https://nyaa.si/view/2139130) |
 | `[ToonsHub] Trapped in a Dating Sim The World of Otome Games is Toug...` | **1616.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/625266) • [🐱 Nyaa](https://nyaa.si/view/2139129) |
@@ -46,8 +48,6 @@
 | `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 15 [1080p WEB...` | **1415.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/625257) • [🐱 Nyaa](https://nyaa.si/view/2139118) |
 | `[Onalrie] Thunder 3 - S01E04 [1080p WEBRip AV1]` | **250.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625258) • [🐱 Nyaa](https://nekobt.to/torrents/12714496297737) |
 | `[Erai-raws] Thunder 3 - 04 [1080p NF WEBRip HEVC AAC][MultiSub][18C...` | **496.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625256) • [🐱 Nyaa](https://nyaa.si/view/2139117) |
-| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 04 [1080p AMZN ...` | **347.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/625254) • [🐱 Nyaa](https://nyaa.si/view/2139114) |
-| `[Onalrie] Katainaka no Ossan, Kensei ni Naru - S02E04 [1080p WEBRip...` | **216.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625255) • [🐱 Nyaa](https://nekobt.to/torrents/12714020499456) |
 
 ---
 <div align="center">
