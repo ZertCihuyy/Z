@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.32.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.31.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Mo7tas] Tonari no Totoro [BD 1080p] [Multi language subs]` | **1155.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/625062) • [🐱 Nyaa](https://nyaa.si/view/2138835) |
+| `[Kotobuki] Koukaku Kidoutai (2026) 04 [1080p HEVC Multisub] | The G...` | **278.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/625061) • [🐱 Nyaa](https://nyaa.si/view/2138833) |
+| `[Doomdos] - BLEACH_ Thousand-Year Blood War - The Calamity - 41 [10...` | **392.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/625059) • [🐱 Nyaa](https://nyaa.si/view/2138832) |
+| `[Doomdos] - Grand Blue Dreaming3 - 4 [1080p IQ WEB-DL]` | **294.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625060) • [🐱 Nyaa](https://nyaa.si/view/2138831) |
 | `[ToonsHub] Raised by Demons Panda Li S01E03 1080p iQ WEB-DL AAC2.0 ...` | **332.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625056) • [🐱 Nyaa](https://nyaa.si/view/2138826) |
 | `[ToonsHub] Raised by Demons Panda Li S01E02 1080p iQ WEB-DL AAC2.0 ...` | **366.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625052) • [🐱 Nyaa](https://nyaa.si/view/2138825) |
 | `[Doomdos] - 苍绝剑尊 - 120 [1080p IQ WEB-DL]` | **55.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625053) • [🐱 Nyaa](https://nyaa.si/view/2138824) |
@@ -44,10 +48,6 @@
 | `[Doomdos] - One Piece - 1171 [1080p IQ WEB-DL]` | **321.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/625042) • [🐱 Nyaa](https://nyaa.si/view/2138814) |
 | `[ToonsHub] Full-Time Magister S07E11 1080p CR WEB-DL AAC2.0 H.264 (...` | **1202.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/625043) • [🐱 Nyaa](https://nyaa.si/view/2138813) |
 | `Versatile Mage S07E11 Battle of Death Street 1080p CR WEB-DL AAC2.0...` | **1182.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/625044) • [🐱 Nyaa](https://nyaa.si/view/2138812) |
-| `[SubsPlease] Quanzhi Fashi S7 - 11 (1080p) [F9D672F1].mkv` | **1154.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/625045) • [🐱 Nyaa](https://nyaa.si/view/2138811) |
-| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep04 (1080...` | **786.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/625041) • [🐱 Nyaa](https://nekobt.to/torrents/12697947236614) |
-| `[Doomdos] - Urban Miracle Doctor - 199 [1080p IQ WEB-DL]` | **194.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/625039) • [🐱 Nyaa](https://nyaa.si/view/2138801) |
-| `[Doomdos] - Super Heroic Spirit Season 2 - 10 [1080p IQ WEB-DL]` | **161.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/625035) • [🐱 Nyaa](https://nyaa.si/view/2138800) |
 
 ---
 <div align="center">
