@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.43.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.11.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FuyuPOP] Yani Neko - Ep04 (1080p x265 AAC WEB)` | **574.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625031) • [🐱 Nyaa](https://nekobt.to/torrents/12696774442756) |
+| `[Yuruchara] Gunma-chan S1 (English Dub) (WEB 1080p Batch) | Gunmachan` | **6974.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625027) • [🐱 Nyaa](https://nyaa.si/view/2138778) |
 | `[Erai-raws] Kimetsu no Yaiba: Mugenjou Hen - Movie 01 [1080p CR WEB...` | **9057.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625025) • [🐱 Nyaa](https://nyaa.si/view/2138770) |
 | `[Reza] THE GHOST IN THE SHELL (2026) - S01E04 [WEBRip HEVC 1080p EA...` | **5753.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/625026) • [🐱 Nyaa](https://nyaa.si/view/2138769) |
 | `[ASW] Kimetsu no Yaiba Movie 1 - Mugenjou-hen - Akaza Sairai [1080p...` | **2869.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625020) • [🐱 Nyaa](https://nyaa.si/view/2138758) |
@@ -46,8 +48,6 @@
 | `Kimetsu no Yaiba Movie: Mugenjou-hen - Akaza Sairai / Demon Slayer ...` | **6708.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/625014) • [🐱 Nyaa](https://nyaa.si/view/2138726) |
 | `Though I Am an Inept Villainess S01E02 Will I Be Living Here 1080p ...` | **895.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/625010) • [🐱 Nyaa](https://nyaa.si/view/2138722) |
 | `[ASW] Sora wa Akai Kawa no Hotori - 04 [1080p HEVC x265 10Bit][AAC]` | **344.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625008) • [🐱 Nyaa](https://nyaa.si/view/2138718) |
-| `Demon.Slayer.Kimetsu.no.Yaiba.Infinity.Castle.2025.1080p.BDRip.AAC5...` | **2336.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625009) • [🐱 Nyaa](https://nyaa.si/view/2138717) |
-| `[Erai-raws] Koukaku Kidoutai (2026) - 04 [1080p AMZN WEBRip HEVC EA...` | **564.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/625006) • [🐱 Nyaa](https://nyaa.si/view/2138716) |
 
 ---
 <div align="center">
