@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.56.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.35.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Otomege Sekai wa Mob ni Kibishii Sekai Desu - S02E04 [108...` | **210.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/625223) • [🐱 Nyaa](https://nekobt.to/torrents/12712117480714) |
-| `[ToonsHub] Tomb Raider King S01E01 1080p CR WEB-DL MULTi AAC2.0 H.2...` | **1607.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/625210) • [🐱 Nyaa](https://nyaa.si/view/2139076) |
-| `[Yameii] Tomb Raider King - S01E02 [English Dub] [CR WEB-DL 1080p H...` | **1347.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/625211) • [🐱 Nyaa](https://nyaa.si/view/2139075) |
-| `[Ommex] Doraemon (2005) Episode 925 [ENG SUB][1080p x265 AAC]` | **582.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/625212) • [🐱 Nyaa](https://nyaa.si/view/2139074) |
-| `[ToonsHub] Tomb Raider King S01E02 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1383.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/625213) • [🐱 Nyaa](https://nyaa.si/view/2139073) |
-| `Tomb Raider King S01E02 Those Who Seek to Own Relics 1080p CR WEB-D...` | **1385.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625214) • [🐱 Nyaa](https://nyaa.si/view/2139072) |
-| `[Doomdos] - Hana-Kimi Season 2 - 18 [1080p IQ WEB-DL]` | **307.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/625216) • [🐱 Nyaa](https://nyaa.si/view/2139070) |
-| `[ToonsHub] Tomb Raider King S01E04 1080p CR WEB-DL AAC2.0 H.264 (Do...` | **1370.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/625217) • [🐱 Nyaa](https://nyaa.si/view/2139069) |
-| `[ToonsHub] Tomb Raider King S01E04 1080p CR WEB-DL AAC2.0 H.264 (Do...` | **1351.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/625218) • [🐱 Nyaa](https://nyaa.si/view/2139068) |
-| `[SubsPlease] Toukutsu Ou - 04 (1080p) [0744D901].mkv` | **1343.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/625219) • [🐱 Nyaa](https://nyaa.si/view/2139067) |
-| `Tomb Raider King S01E04 The One Who Stole the Future 1080p CR WEB-D...` | **1353.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/625222) • [🐱 Nyaa](https://nyaa.si/view/2139061) |
-| `[VARYG] Kirio Fan Club S01E08 Steamy Spicy Red-hot Night 1080p HIDI...` | **910.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/625200) • [🐱 Nyaa](https://nekobt.to/torrents/12711907509249) |
-| `[VARYG] The Most Heretical Last Boss Queen From Villainess to Savio...` | **948.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625203) • [🐱 Nyaa](https://nekobt.to/torrents/12711886132224) |
-| `[ToonsHub] Tomb Raider King S01E04 1080p BILI WEB-DL AAC2.0 H.265 (...` | **286.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625205) • [🐱 Nyaa](https://nekobt.to/torrents/12711884757519) |
-| `[Erai-raws] Dogulwang - 04 (JA) [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1353.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625206) • [🐱 Nyaa](https://nekobt.to/torrents/12711882295815) |
+| `[BlackRabbit] Sentenced to Be a Hero (2026) - S01 [Bluray-1080p][Op...` | **2624.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625253) • [🐱 Nyaa](https://nekobt.to/torrents/12713709734415) |
+| `[Onalrie] Dogulwang - S01E04 (JA) [1080p WEBRip AV1]` | **237.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/625251) • [🐱 Nyaa](https://nekobt.to/torrents/12713647358475) |
+| `[Ironclad] Katainaka no Ossan II - S02E04 [WEB.1080p.AV1] | From Ol...` | **373.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/625250) • [🐱 Nyaa](https://nyaa.si/view/2139113) |
+| `Clevatess S02E04 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **1451.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/625252) • [🐱 Nyaa](https://nekobt.to/torrents/12713420859396) |
+| `Hana Kimi S02E03 How Did You Know 1080p CR WEB-DL MULTi AAC2.0 H.26...` | **1562.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625241) • [🐱 Nyaa](https://nyaa.si/view/2139111) |
+| `[Onalrie] Dogulwang - S01E04 (KA) [1080p WEBRip AV1]` | **236.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/625242) • [🐱 Nyaa](https://nekobt.to/torrents/12713252035847) |
+| `Tomb Raider King S01E01 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **1413.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/625243) • [🐱 Nyaa](https://nekobt.to/torrents/12713160557056) |
+| `Thunder 3 S01E04 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (R...` | **923.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/625244) • [🐱 Nyaa](https://nekobt.to/torrents/12713152196867) |
+| `Thunder 3 S01E04 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raws (...` | **320.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/625245) • [🐱 Nyaa](https://nekobt.to/torrents/12713147418123) |
+| `Thunder 3 S01E04 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws (RE...` | **299.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/625246) • [🐱 Nyaa](https://nekobt.to/torrents/12713145505538) |
+| `From Old Country Bumpkin to Master Swordsman S02E04 MULTi 1080p AMZ...` | **311.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625247) • [🐱 Nyaa](https://nekobt.to/torrents/12713139886346) |
+| `From Old Country Bumpkin to Master Swordsman S02E04 MULTi 1080p AMZ...` | **712.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625248) • [🐱 Nyaa](https://nekobt.to/torrents/12713133515786) |
+| `From Old Country Bumpkin to Master Swordsman S02E04 MULTi 1080p AMZ...` | **265.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/625249) • [🐱 Nyaa](https://nekobt.to/torrents/12713128380941) |
+| `Classroom of the Elite S04E16 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1460.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625240) • [🐱 Nyaa](https://nekobt.to/torrents/12713118000129) |
+| `[Onalrie] Lv999 no Murabito - S01E06 [1080p WEBRip AV1]` | **190.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/625239) • [🐱 Nyaa](https://nekobt.to/torrents/12712850898188) |
 
 ---
 <div align="center">
