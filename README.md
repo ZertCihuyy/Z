@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.31.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.18.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Kimetsu no Yaiba: Mugenjou Hen - Movie 01 [1080p CR WEB...` | **3634.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625063) • [🐱 Nyaa](https://nyaa.si/view/2138848) |
 | `[Mo7tas] Tonari no Totoro [BD 1080p] [Multi language subs]` | **1155.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/625062) • [🐱 Nyaa](https://nyaa.si/view/2138835) |
 | `[Kotobuki] Koukaku Kidoutai (2026) 04 [1080p HEVC Multisub] | The G...` | **278.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/625061) • [🐱 Nyaa](https://nyaa.si/view/2138833) |
 | `[Doomdos] - BLEACH_ Thousand-Year Blood War - The Calamity - 41 [10...` | **392.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/625059) • [🐱 Nyaa](https://nyaa.si/view/2138832) |
@@ -47,7 +48,6 @@
 | `[Judas] Gekijouban Kimetsu no Yaiba Mugen-jou Hen (Demon Slayer Inf...` | **2767.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/625049) • [🐱 Nyaa](https://nyaa.si/view/2138818) |
 | `[Doomdos] - One Piece - 1171 [1080p IQ WEB-DL]` | **321.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/625042) • [🐱 Nyaa](https://nyaa.si/view/2138814) |
 | `[ToonsHub] Full-Time Magister S07E11 1080p CR WEB-DL AAC2.0 H.264 (...` | **1202.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/625043) • [🐱 Nyaa](https://nyaa.si/view/2138813) |
-| `Versatile Mage S07E11 Battle of Death Street 1080p CR WEB-DL AAC2.0...` | **1182.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/625044) • [🐱 Nyaa](https://nyaa.si/view/2138812) |
 
 ---
 <div align="center">
