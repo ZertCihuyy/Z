@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.11.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.32.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[FuyuPOP] Yani Neko - Ep04 (1080p x265 AAC WEB)` | **574.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625031) • [🐱 Nyaa](https://nekobt.to/torrents/12696774442756) |
-| `[Yuruchara] Gunma-chan S1 (English Dub) (WEB 1080p Batch) | Gunmachan` | **6974.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625027) • [🐱 Nyaa](https://nyaa.si/view/2138778) |
-| `[Erai-raws] Kimetsu no Yaiba: Mugenjou Hen - Movie 01 [1080p CR WEB...` | **9057.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625025) • [🐱 Nyaa](https://nyaa.si/view/2138770) |
-| `[Reza] THE GHOST IN THE SHELL (2026) - S01E04 [WEBRip HEVC 1080p EA...` | **5753.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/625026) • [🐱 Nyaa](https://nyaa.si/view/2138769) |
-| `[ASW] Kimetsu no Yaiba Movie 1 - Mugenjou-hen - Akaza Sairai [1080p...` | **2869.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625020) • [🐱 Nyaa](https://nyaa.si/view/2138758) |
-| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E04 (1080p WEB EAC3 x265)...` | **502.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625021) • [🐱 Nyaa](https://nekobt.to/torrents/12693888979982) |
-| `Demon Slayer: Kimetsu no Yaiba Infinity Castle - Part 1: Akaza Retu...` | **9104.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625018) • [🐱 Nyaa](https://nyaa.si/view/2138757) |
-| `[Trix] Kimetsu no Yaiba Infinity Castle I (Movie) [WEB-DL 1080p AV1...` | **1859.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/625019) • [🐱 Nyaa](https://nyaa.si/view/2138754) |
-| `[FrixySubs] Oh Boy Was I Wrong About Her - S01E04 [1080p CR WEB-DL ...` | **1388.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/625016) • [🐱 Nyaa](https://nekobt.to/torrents/12693026660864) |
-| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E04 [WEB.1080p.AV1] | R...` | **342.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/625015) • [🐱 Nyaa](https://nyaa.si/view/2138730) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E02 1080p NF WEB-DL D...` | **895.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625011) • [🐱 Nyaa](https://nyaa.si/view/2138729) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 04 [1080p CR WEBRip HEVC ...` | **515.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/625012) • [🐱 Nyaa](https://nyaa.si/view/2138728) |
-| `Kimetsu no Yaiba Movie: Mugenjou-hen - Akaza Sairai / Demon Slayer ...` | **6708.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/625014) • [🐱 Nyaa](https://nyaa.si/view/2138726) |
-| `Though I Am an Inept Villainess S01E02 Will I Be Living Here 1080p ...` | **895.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/625010) • [🐱 Nyaa](https://nyaa.si/view/2138722) |
-| `[ASW] Sora wa Akai Kawa no Hotori - 04 [1080p HEVC x265 10Bit][AAC]` | **344.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625008) • [🐱 Nyaa](https://nyaa.si/view/2138718) |
+| `[ToonsHub] Raised by Demons Panda Li S01E03 1080p iQ WEB-DL AAC2.0 ...` | **332.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625056) • [🐱 Nyaa](https://nyaa.si/view/2138826) |
+| `[ToonsHub] Raised by Demons Panda Li S01E02 1080p iQ WEB-DL AAC2.0 ...` | **366.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625052) • [🐱 Nyaa](https://nyaa.si/view/2138825) |
+| `[Doomdos] - 苍绝剑尊 - 120 [1080p IQ WEB-DL]` | **55.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625053) • [🐱 Nyaa](https://nyaa.si/view/2138824) |
+| `[ToonsHub] Raised by Demons Panda Li S01E01 1080p iQ WEB-DL AAC2.0 ...` | **635.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625054) • [🐱 Nyaa](https://nyaa.si/view/2138823) |
+| `[SubsPlus+] Petals of Reincarnation S01 (AMZN WEB-DL 1080p AVC EAC3...` | **18201.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/625055) • [🐱 Nyaa](https://nyaa.si/view/2138822) |
+| `[SubsPlus+] Kirio Fan Club S01 (ABEMA WEB-DL 1080p AVC EAC3) | Kiri...` | **8633.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625050) • [🐱 Nyaa](https://nyaa.si/view/2138821) |
+| `[ASW] Quanzhi Fashi S7 - 11 [1080p HEVC x265 10Bit][AAC]` | **501.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/625051) • [🐱 Nyaa](https://nyaa.si/view/2138820) |
+| `[Judas] Gekijouban Kimetsu no Yaiba Mugen-jou Hen (Demon Slayer Inf...` | **2767.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/625049) • [🐱 Nyaa](https://nyaa.si/view/2138818) |
+| `[Doomdos] - One Piece - 1171 [1080p IQ WEB-DL]` | **321.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/625042) • [🐱 Nyaa](https://nyaa.si/view/2138814) |
+| `[ToonsHub] Full-Time Magister S07E11 1080p CR WEB-DL AAC2.0 H.264 (...` | **1202.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/625043) • [🐱 Nyaa](https://nyaa.si/view/2138813) |
+| `Versatile Mage S07E11 Battle of Death Street 1080p CR WEB-DL AAC2.0...` | **1182.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/625044) • [🐱 Nyaa](https://nyaa.si/view/2138812) |
+| `[SubsPlease] Quanzhi Fashi S7 - 11 (1080p) [F9D672F1].mkv` | **1154.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/625045) • [🐱 Nyaa](https://nyaa.si/view/2138811) |
+| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep04 (1080...` | **786.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/625041) • [🐱 Nyaa](https://nekobt.to/torrents/12697947236614) |
+| `[Doomdos] - Urban Miracle Doctor - 199 [1080p IQ WEB-DL]` | **194.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/625039) • [🐱 Nyaa](https://nyaa.si/view/2138801) |
+| `[Doomdos] - Super Heroic Spirit Season 2 - 10 [1080p IQ WEB-DL]` | **161.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/625035) • [🐱 Nyaa](https://nyaa.si/view/2138800) |
 
 ---
 <div align="center">
