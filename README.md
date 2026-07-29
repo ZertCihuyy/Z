@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.18.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.30.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Clevatess S02E04 The Dark Tower 1080p CR WEB-DL DUAL AAC2.0 H.264-V...` | **1443.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/625085) • [🐱 Nyaa](https://nyaa.si/view/2138880) |
+| `[ToonsHub] Clevatess S02E04 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1425.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/625082) • [🐱 Nyaa](https://nekobt.to/torrents/12707094719237) |
+| `[Yameii] Clevatess - S02E04 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1386.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/625083) • [🐱 Nyaa](https://nekobt.to/torrents/12707090278671) |
+| `[SubsPlease] Clevatess S2 - 04 (1080p) [22125AA9].mkv` | **1381.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/625071) • [🐱 Nyaa](https://nyaa.si/view/2138876) |
+| `[Erai-raws] Clevatess II - 04 [1080p CR WEB-DL AVC AAC][MultiSub][F...` | **1389.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/625076) • [🐱 Nyaa](https://nyaa.si/view/2138869) |
+| `[ToonsHub] Clevatess S02E04 1080p BILI WEB-DL AAC2.0 H.265 (Clevate...` | **232.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/625077) • [🐱 Nyaa](https://nyaa.si/view/2138867) |
+| `[Doomdos] - Demon Slayer: Kimetsu no Yaiba Infinity Castle - Movie ...` | **2106.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/625078) • [🐱 Nyaa](https://nyaa.si/view/2138866) |
+| `[Shridhuu] GuAn - 一斩苍穹 - E01 [1080p AVC SDR 8Bits EAC3 2.0 + AAC 2.0]` | **417.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625081) • [🐱 Nyaa](https://nyaa.si/view/2138863) |
+| `[AnimeAlpha] Demon Slayer Kimetsu no Yaiba Infinity Castle 2025 [10...` | **622.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625068) • [🐱 Nyaa](https://nyaa.si/view/2138859) |
+| `[Gecko] Cat Tales - S01E42 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **25.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625069) • [🐱 Nyaa](https://nyaa.si/view/2138858) |
+| `[ToonsHub] Cat Tales S01E42 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **58.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/625070) • [🐱 Nyaa](https://nyaa.si/view/2138857) |
+| `[Shridhuu] Beyond Time's Gaze - 光阴之外 - E30 [1080p AVC SDR 8Bits EAC...` | **464.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/625065) • [🐱 Nyaa](https://nyaa.si/view/2138855) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E02 (1080p AAC x265 B...` | **618.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/625064) • [🐱 Nyaa](https://nekobt.to/torrents/12705538826761) |
 | `[Erai-raws] Kimetsu no Yaiba: Mugenjou Hen - Movie 01 [1080p CR WEB...` | **3634.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625063) • [🐱 Nyaa](https://nyaa.si/view/2138848) |
 | `[Mo7tas] Tonari no Totoro [BD 1080p] [Multi language subs]` | **1155.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/625062) • [🐱 Nyaa](https://nyaa.si/view/2138835) |
-| `[Kotobuki] Koukaku Kidoutai (2026) 04 [1080p HEVC Multisub] | The G...` | **278.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/625061) • [🐱 Nyaa](https://nyaa.si/view/2138833) |
-| `[Doomdos] - BLEACH_ Thousand-Year Blood War - The Calamity - 41 [10...` | **392.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/625059) • [🐱 Nyaa](https://nyaa.si/view/2138832) |
-| `[Doomdos] - Grand Blue Dreaming3 - 4 [1080p IQ WEB-DL]` | **294.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625060) • [🐱 Nyaa](https://nyaa.si/view/2138831) |
-| `[ToonsHub] Raised by Demons Panda Li S01E03 1080p iQ WEB-DL AAC2.0 ...` | **332.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625056) • [🐱 Nyaa](https://nyaa.si/view/2138826) |
-| `[ToonsHub] Raised by Demons Panda Li S01E02 1080p iQ WEB-DL AAC2.0 ...` | **366.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625052) • [🐱 Nyaa](https://nyaa.si/view/2138825) |
-| `[Doomdos] - 苍绝剑尊 - 120 [1080p IQ WEB-DL]` | **55.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625053) • [🐱 Nyaa](https://nyaa.si/view/2138824) |
-| `[ToonsHub] Raised by Demons Panda Li S01E01 1080p iQ WEB-DL AAC2.0 ...` | **635.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625054) • [🐱 Nyaa](https://nyaa.si/view/2138823) |
-| `[SubsPlus+] Petals of Reincarnation S01 (AMZN WEB-DL 1080p AVC EAC3...` | **18201.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/625055) • [🐱 Nyaa](https://nyaa.si/view/2138822) |
-| `[SubsPlus+] Kirio Fan Club S01 (ABEMA WEB-DL 1080p AVC EAC3) | Kiri...` | **8633.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625050) • [🐱 Nyaa](https://nyaa.si/view/2138821) |
-| `[ASW] Quanzhi Fashi S7 - 11 [1080p HEVC x265 10Bit][AAC]` | **501.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/625051) • [🐱 Nyaa](https://nyaa.si/view/2138820) |
-| `[Judas] Gekijouban Kimetsu no Yaiba Mugen-jou Hen (Demon Slayer Inf...` | **2767.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/625049) • [🐱 Nyaa](https://nyaa.si/view/2138818) |
-| `[Doomdos] - One Piece - 1171 [1080p IQ WEB-DL]` | **321.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/625042) • [🐱 Nyaa](https://nyaa.si/view/2138814) |
-| `[ToonsHub] Full-Time Magister S07E11 1080p CR WEB-DL AAC2.0 H.264 (...` | **1202.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/625043) • [🐱 Nyaa](https://nyaa.si/view/2138813) |
 
 ---
 <div align="center">
