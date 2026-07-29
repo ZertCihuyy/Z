@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.35.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.38.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1521.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/625263) • [🐱 Nyaa](https://nyaa.si/view/2139127) |
+| `[Erai-raws] Dogulwang - 04 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **445.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625264) • [🐱 Nyaa](https://nyaa.si/view/2139126) |
+| `[sam] The Ghost in the Shell (2026) - S01E04 (WEB 1080p HEVC x265 1...` | **4752.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/625262) • [🐱 Nyaa](https://nyaa.si/view/2139125) |
+| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E04 [1080...` | **333.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/625259) • [🐱 Nyaa](https://nyaa.si/view/2139122) |
+| `[DKB] LV999 no Murabito - S01E06 [1080p][HEVC x265 10bit][Multi-Sub...` | **218.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/625260) • [🐱 Nyaa](https://nyaa.si/view/2139120) |
+| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E04 [1080p][HEVC x265...` | **346.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/625261) • [🐱 Nyaa](https://nyaa.si/view/2139119) |
+| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 15 [1080p WEB...` | **1415.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/625257) • [🐱 Nyaa](https://nyaa.si/view/2139118) |
+| `[Onalrie] Thunder 3 - S01E04 [1080p WEBRip AV1]` | **250.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625258) • [🐱 Nyaa](https://nekobt.to/torrents/12714496297737) |
+| `[Erai-raws] Thunder 3 - 04 [1080p NF WEBRip HEVC AAC][MultiSub][18C...` | **496.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625256) • [🐱 Nyaa](https://nyaa.si/view/2139117) |
+| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 04 [1080p AMZN ...` | **347.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/625254) • [🐱 Nyaa](https://nyaa.si/view/2139114) |
+| `[Onalrie] Katainaka no Ossan, Kensei ni Naru - S02E04 [1080p WEBRip...` | **216.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625255) • [🐱 Nyaa](https://nekobt.to/torrents/12714020499456) |
 | `[BlackRabbit] Sentenced to Be a Hero (2026) - S01 [Bluray-1080p][Op...` | **2624.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625253) • [🐱 Nyaa](https://nekobt.to/torrents/12713709734415) |
 | `[Onalrie] Dogulwang - S01E04 (JA) [1080p WEBRip AV1]` | **237.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/625251) • [🐱 Nyaa](https://nekobt.to/torrents/12713647358475) |
 | `[Ironclad] Katainaka no Ossan II - S02E04 [WEB.1080p.AV1] | From Ol...` | **373.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/625250) • [🐱 Nyaa](https://nyaa.si/view/2139113) |
 | `Clevatess S02E04 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **1451.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/625252) • [🐱 Nyaa](https://nekobt.to/torrents/12713420859396) |
-| `Hana Kimi S02E03 How Did You Know 1080p CR WEB-DL MULTi AAC2.0 H.26...` | **1562.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625241) • [🐱 Nyaa](https://nyaa.si/view/2139111) |
-| `[Onalrie] Dogulwang - S01E04 (KA) [1080p WEBRip AV1]` | **236.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/625242) • [🐱 Nyaa](https://nekobt.to/torrents/12713252035847) |
-| `Tomb Raider King S01E01 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsunde...` | **1413.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/625243) • [🐱 Nyaa](https://nekobt.to/torrents/12713160557056) |
-| `Thunder 3 S01E04 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (R...` | **923.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/625244) • [🐱 Nyaa](https://nekobt.to/torrents/12713152196867) |
-| `Thunder 3 S01E04 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raws (...` | **320.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/625245) • [🐱 Nyaa](https://nekobt.to/torrents/12713147418123) |
-| `Thunder 3 S01E04 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws (RE...` | **299.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/625246) • [🐱 Nyaa](https://nekobt.to/torrents/12713145505538) |
-| `From Old Country Bumpkin to Master Swordsman S02E04 MULTi 1080p AMZ...` | **311.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625247) • [🐱 Nyaa](https://nekobt.to/torrents/12713139886346) |
-| `From Old Country Bumpkin to Master Swordsman S02E04 MULTi 1080p AMZ...` | **712.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625248) • [🐱 Nyaa](https://nekobt.to/torrents/12713133515786) |
-| `From Old Country Bumpkin to Master Swordsman S02E04 MULTi 1080p AMZ...` | **265.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/625249) • [🐱 Nyaa](https://nekobt.to/torrents/12713128380941) |
-| `Classroom of the Elite S04E16 MULTi AD 1080p CR WEB-DL AAC2.0 x264-...` | **1460.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625240) • [🐱 Nyaa](https://nekobt.to/torrents/12713118000129) |
-| `[Onalrie] Lv999 no Murabito - S01E06 [1080p WEBRip AV1]` | **190.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/625239) • [🐱 Nyaa](https://nekobt.to/torrents/12712850898188) |
 
 ---
 <div align="center">
