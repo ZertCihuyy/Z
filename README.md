@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.04.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.22.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[geckyzz] Perfect Addiction - S01E04 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **198.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/625276) • [🐱 Nyaa](https://nyaa.si/view/2139185) |
+| `[Anitsu] Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega (...` | **6670.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/625277) • [🐱 Nyaa](https://nyaa.si/view/2139184) |
+| `[Anitsu] Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega (...` | **21518.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/625278) • [🐱 Nyaa](https://nyaa.si/view/2139183) |
+| `[Gecko] Cat Tales - S01E42 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/625275) • [🐱 Nyaa](https://nyaa.si/view/2139181) |
+| `[Kotobuki] Tenmaku no Jaadugar 05 [1080p HEVC Multisub] | Jaadugar:...` | **288.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625272) • [🐱 Nyaa](https://nyaa.si/view/2139177) |
+| `[Gecko] Candy Caries - S01E16 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/625273) • [🐱 Nyaa](https://nyaa.si/view/2139175) |
 | `[triple117] Demon Slayer - Kimetsu no Yaiba - The Movie - Infinity ...` | **9537.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/625271) • [🐱 Nyaa](https://nyaa.si/view/2139136) |
 | `[FrixySubs] Though I Am an Inept Villainess - S01E02 [1080p CR WEB-...` | **1396.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/625270) • [🐱 Nyaa](https://nekobt.to/torrents/12716921183232) |
 | `[Erai-raws] Dogulwang - 04 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **451.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625267) • [🐱 Nyaa](https://nyaa.si/view/2139131) |
@@ -42,12 +48,6 @@
 | `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1521.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/625263) • [🐱 Nyaa](https://nyaa.si/view/2139127) |
 | `[Erai-raws] Dogulwang - 04 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **445.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625264) • [🐱 Nyaa](https://nyaa.si/view/2139126) |
 | `[sam] The Ghost in the Shell (2026) - S01E04 (WEB 1080p HEVC x265 1...` | **4752.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/625262) • [🐱 Nyaa](https://nyaa.si/view/2139125) |
-| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E04 [1080...` | **333.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/625259) • [🐱 Nyaa](https://nyaa.si/view/2139122) |
-| `[DKB] LV999 no Murabito - S01E06 [1080p][HEVC x265 10bit][Multi-Sub...` | **218.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/625260) • [🐱 Nyaa](https://nyaa.si/view/2139120) |
-| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E04 [1080p][HEVC x265...` | **346.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/625261) • [🐱 Nyaa](https://nyaa.si/view/2139119) |
-| `[Asakura] Tensei Shitara Slime Datta Ken 4th Season - 15 [1080p WEB...` | **1415.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/625257) • [🐱 Nyaa](https://nyaa.si/view/2139118) |
-| `[Onalrie] Thunder 3 - S01E04 [1080p WEBRip AV1]` | **250.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625258) • [🐱 Nyaa](https://nekobt.to/torrents/12714496297737) |
-| `[Erai-raws] Thunder 3 - 04 [1080p NF WEBRip HEVC AAC][MultiSub][18C...` | **496.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625256) • [🐱 Nyaa](https://nyaa.si/view/2139117) |
 
 ---
 <div align="center">
