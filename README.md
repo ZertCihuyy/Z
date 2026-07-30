@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.54.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.01.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[CenturyZeta] Youjo Shenki 2 - 04 (1080p) (Youjo Senki)` | **4.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625297) • [🐱 Nyaa](https://nyaa.si/view/2139260) |
-| `[vLbE3L] THE GHOST IN THE SHELL S01E04 [1080p AMZN WEBRip VVC xHE-A...` | **282.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625295) • [🐱 Nyaa](https://nekobt.to/torrents/12728077906185) |
-| `[SubsPlease] Replica datte, Koi wo Suru. (01-13) (1080p) [Batch]` | **18017.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/625292) • [🐱 Nyaa](https://nyaa.si/view/2139237) |
-| `[LbE3L] THE GHOST IN THE SHELL S01E04 [1080p AMZN WEB-DL AV1 (Muxed...` | **617.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625296) • [🐱 Nyaa](https://nekobt.to/torrents/12728035475214) |
-| `[Shridhuu] Beyond Time's Gaze - 光阴之外 - E31 [1080p AVC SDR 8Bits EAC...` | **457.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/625289) • [🐱 Nyaa](https://nyaa.si/view/2139230) |
-| `[GetItTwisted] Bodacious Space Pirates S01 v2 [BD 1080p AVC Opus Du...` | **33190.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/625288) • [🐱 Nyaa](https://nyaa.si/view/2139220) |
-| `[SubsNoJutsu] Tomb Raider King - S01E04 (1080p WEBRip AAC x265) [AD...` | **445.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/625287) • [🐱 Nyaa](https://nekobt.to/torrents/12726510597384) |
-| `[SubsPlease] Hidarikiki no Eren (01-13) (1080p) [Batch]` | **18146.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625284) • [🐱 Nyaa](https://nyaa.si/view/2139219) |
-| `Tomb Raider King S01E01 Once Again from the End 1080p CR WEB-DL MUL...` | **1513.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/625282) • [🐱 Nyaa](https://nyaa.si/view/2139216) |
-| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E04 (いびってこ...` | **675.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/625279) • [🐱 Nyaa](https://nyaa.si/view/2139189) |
-| `[geckyzz] Perfect Addiction - S01E04 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **198.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/625276) • [🐱 Nyaa](https://nyaa.si/view/2139185) |
-| `[Anitsu] Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega (...` | **6670.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/625277) • [🐱 Nyaa](https://nyaa.si/view/2139184) |
-| `[Anitsu] Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega (...` | **21518.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/625278) • [🐱 Nyaa](https://nyaa.si/view/2139183) |
-| `[Gecko] Cat Tales - S01E42 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/625275) • [🐱 Nyaa](https://nyaa.si/view/2139181) |
-| `[Kotobuki] Tenmaku no Jaadugar 05 [1080p HEVC Multisub] | Jaadugar:...` | **288.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625272) • [🐱 Nyaa](https://nyaa.si/view/2139177) |
+| `Smoking Behind the Supermarket With You S01E04 Smoke 4 1080p NF WEB...` | **901.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/625361) • [🐱 Nyaa](https://nyaa.si/view/2139369) |
+| `Smoking Behind the Supermarket With You S01E04 Smoke 4 1080p NF WEB...` | **946.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/625362) • [🐱 Nyaa](https://nyaa.si/view/2139368) |
+| `[ToonsHub] Smoking Behind the Supermarket With You S01E04 1080p NF ...` | **901.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/625360) • [🐱 Nyaa](https://nekobt.to/torrents/12732387736834) |
+| `[Erai-raws] Bang Dream Yumemita - 07 [1080p CR WEBRip HEVC AAC][Mul...` | **701.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/625359) • [🐱 Nyaa](https://nyaa.si/view/2139364) |
+| `[Onalrie] Bang Dream Yumemita - S01E07 [1080p WEBRip AV1]` | **460.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/625356) • [🐱 Nyaa](https://nekobt.to/torrents/12732109999626) |
+| `[ToonsHub] Tamons B-side S01E13 1080p CR WEB-DL DUAL AAC2.0 H.264 (...` | **1461.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/625357) • [🐱 Nyaa](https://nekobt.to/torrents/12732015366406) |
+| `[Ironclad] Dara-San of the Reiwa Era - S01E05 (WEB 1080p AV1) | Rei...` | **209.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/625358) • [🐱 Nyaa](https://nekobt.to/torrents/12732012177923) |
+| `[Yameii] Tamon's B-Side - S01E13 [English Dub] [CR WEB-DL 1080p H26...` | **1385.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/625337) • [🐱 Nyaa](https://nyaa.si/view/2139350) |
+| `Tamons B side S01E13 Ive Made Up My Mind 1080p CR WEB-DL DUAL AAC2....` | **1441.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625339) • [🐱 Nyaa](https://nyaa.si/view/2139347) |
+| `Mebius Dust S01E04 Overheat 1080p CR WEB-DL AAC2.0 H.264-VARYG (Mul...` | **1409.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/625340) • [🐱 Nyaa](https://nyaa.si/view/2139346) |
+| `From Overshadowed to Overpowered Second Reincarnation of a Talentle...` | **1405.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/625341) • [🐱 Nyaa](https://nyaa.si/view/2139345) |
+| `[ASW] BanG Dream! Yumemita - 07 [1080p HEVC x265 10Bit][AAC]` | **588.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/625342) • [🐱 Nyaa](https://nyaa.si/view/2139344) |
+| `[SubsPlease] Rakudai Kenja no Gakuin Musou - 06 (1080p) [56AA996B].mkv` | **1378.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/625343) • [🐱 Nyaa](https://nyaa.si/view/2139343) |
+| `[Erai-raws] Rakudai Kenja no Gakuin Musou - 06 [1080p CR WEB-DL AVC...` | **1386.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/625351) • [🐱 Nyaa](https://nyaa.si/view/2139335) |
+| `[Erai-raws] Mebius Dust - 04 [1080p CR WEB-DL AVC AAC][MultiSub][78...` | **1388.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625350) • [🐱 Nyaa](https://nyaa.si/view/2139336) |
 
 ---
 <div align="center">
