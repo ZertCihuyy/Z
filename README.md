@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.14.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.45.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Tomb Raider King - S01E04 (1080p WEBRip AAC x265) [AD...` | **445.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/625287) • [🐱 Nyaa](https://nekobt.to/torrents/12726510597384) |
+| `[SubsPlease] Hidarikiki no Eren (01-13) (1080p) [Batch]` | **18146.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625284) • [🐱 Nyaa](https://nyaa.si/view/2139219) |
+| `Tomb Raider King S01E01 Once Again from the End 1080p CR WEB-DL MUL...` | **1513.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/625282) • [🐱 Nyaa](https://nyaa.si/view/2139216) |
 | `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E04 (いびってこ...` | **675.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/625279) • [🐱 Nyaa](https://nyaa.si/view/2139189) |
 | `[geckyzz] Perfect Addiction - S01E04 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **198.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/625276) • [🐱 Nyaa](https://nyaa.si/view/2139185) |
 | `[Anitsu] Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega (...` | **6670.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/625277) • [🐱 Nyaa](https://nyaa.si/view/2139184) |
@@ -45,9 +48,6 @@
 | `[Erai-raws] Dogulwang - 04 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **451.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625267) • [🐱 Nyaa](https://nyaa.si/view/2139131) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 76 [1080p] [4BF8...` | **24.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/625268) • [🐱 Nyaa](https://nyaa.si/view/2139130) |
 | `[ToonsHub] Trapped in a Dating Sim The World of Otome Games is Toug...` | **1616.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/625266) • [🐱 Nyaa](https://nyaa.si/view/2139129) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E03 (1080p AAC x265 B...` | **615.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/625265) • [🐱 Nyaa](https://nekobt.to/torrents/12715811656460) |
-| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1521.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/625263) • [🐱 Nyaa](https://nyaa.si/view/2139127) |
-| `[Erai-raws] Dogulwang - 04 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **445.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625264) • [🐱 Nyaa](https://nyaa.si/view/2139126) |
 
 ---
 <div align="center">
