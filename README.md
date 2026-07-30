@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.22.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.14.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E04 (いびってこ...` | **675.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/625279) • [🐱 Nyaa](https://nyaa.si/view/2139189) |
 | `[geckyzz] Perfect Addiction - S01E04 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **198.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/625276) • [🐱 Nyaa](https://nyaa.si/view/2139185) |
 | `[Anitsu] Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega (...` | **6670.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/625277) • [🐱 Nyaa](https://nyaa.si/view/2139184) |
 | `[Anitsu] Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega (...` | **21518.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/625278) • [🐱 Nyaa](https://nyaa.si/view/2139183) |
@@ -47,7 +48,6 @@
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E03 (1080p AAC x265 B...` | **615.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/625265) • [🐱 Nyaa](https://nekobt.to/torrents/12715811656460) |
 | `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1521.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/625263) • [🐱 Nyaa](https://nyaa.si/view/2139127) |
 | `[Erai-raws] Dogulwang - 04 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **445.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625264) • [🐱 Nyaa](https://nyaa.si/view/2139126) |
-| `[sam] The Ghost in the Shell (2026) - S01E04 (WEB 1080p HEVC x265 1...` | **4752.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/625262) • [🐱 Nyaa](https://nyaa.si/view/2139125) |
 
 ---
 <div align="center">
