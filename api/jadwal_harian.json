@@ -1,131 +1,168 @@
 {
-  "last_update": "30/7/2026, 23.01.08",
-  "hari": "Kamis",
+  "last_update": "31/7/2026, 22.02.54",
+  "hari": "Jumat",
   "data": [
     {
-      "airingAt": 1785403800,
+      "airingAt": 1785451200,
       "media": {
-        "id": 209541,
+        "id": 140842,
         "title": {
-          "romaji": "PetitCure: Precure Fairies Season 3"
+          "romaji": "Chiikawa"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg"
         },
         "genres": [
-          "Fantasy",
+          "Comedy",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1785409200,
+      "airingAt": 1785466800,
       "media": {
-        "id": 194389,
+        "id": 188753,
         "title": {
-          "romaji": "Koala Enikki"
+          "romaji": "Gekkan! Nanmono Anime"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188753-Rkuiizca4QFD.png"
         },
         "genres": [
+          "Comedy",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1785414600,
+      "airingAt": 1785470400,
       "media": {
-        "id": 203880,
+        "id": 213484,
         "title": {
-          "romaji": "Reiwa no Dara-san"
+          "romaji": "Bai Ri Cheng Wang"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203880-lnruKftb27Nr.png"
-        },
-        "genres": [
-          "Comedy",
-          "Horror",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785415200,
-      "media": {
-        "id": 201667,
-        "title": {
-          "romaji": "Bungou Stray Dogs Wan! 2"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Slice of Life",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785416400,
-      "media": {
-        "id": 187166,
-        "title": {
-          "romaji": "Ganso! Bandori-chan"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png"
-        },
-        "genres": [
-          "Comedy",
-          "Music"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785420000,
-      "media": {
-        "id": 198376,
-        "title": {
-          "romaji": "BanG Dream! Yume∞Mita"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198376-sc5qcFv0RSH9.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Music",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785421800,
-      "media": {
-        "id": 108992,
-        "title": {
-          "romaji": "Mebius Dust"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png"
         },
         "genres": [
           "Action",
-          "Supernatural"
+          "Adventure",
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1785423360,
+      "airingAt": 1785491700,
       "media": {
-        "id": 196187,
+        "id": 158871,
         "title": {
-          "romaji": "Super no Ura de Yani Suu Futari"
+          "romaji": "Pocket Monsters (2023)"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785504600,
+      "media": {
+        "id": 199748,
+        "title": {
+          "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita."
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785504600,
+      "media": {
+        "id": 196218,
+        "title": {
+          "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785508200,
+      "media": {
+        "id": 202508,
+        "title": {
+          "romaji": "Kami no Shizuku"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785508200,
+      "media": {
+        "id": 188525,
+        "title": {
+          "romaji": "Kore Kaite Shine"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-uWhw4rQcqOyF.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785508200,
+      "media": {
+        "id": 182616,
+        "title": {
+          "romaji": "Nige Jouzu no Wakagimi 2nd Season"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-ZOCgArw9cgqI.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785510000,
+      "media": {
+        "id": 203490,
+        "title": {
+          "romaji": "Uchi no Otouto-domo ga Sumimasen"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg"
         },
         "genres": [
           "Comedy",
@@ -135,114 +172,68 @@
       }
     },
     {
-      "airingAt": 1785423600,
+      "airingAt": 1785510000,
       "media": {
-        "id": 208829,
+        "id": 213908,
         "title": {
-          "romaji": "Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation"
+          "romaji": "Rusuban"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208829-I72LfY7BgEZA.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213908-ZBUHQxLVUzSW.jpg"
+        },
+        "genres": [
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785513600,
+      "media": {
+        "id": 209983,
+        "title": {
+          "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
         },
         "genres": [
           "Action",
           "Adventure",
-          "Comedy"
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1785423600,
+      "airingAt": 1785515400,
       "media": {
-        "id": 204560,
+        "id": 207674,
         "title": {
-          "romaji": "Phantom Alchemia: Sylvia no Dokidoki Sakusei Toshi Keikaku"
+          "romaji": "Ushiro no Shoumen Kamui-san"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204560-p9A5TzVb3mB1.png"
-        },
-        "genres": [
-          "Fantasy",
-          "Hentai"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785423600,
-      "media": {
-        "id": 164239,
-        "title": {
-          "romaji": "so_low"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164239-4RhY0BZyGWf2.png"
-        },
-        "genres": [
-          "Hentai"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785423600,
-      "media": {
-        "id": 212272,
-        "title": {
-          "romaji": "Deco x Deco THE ANIMATION"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212272-VcnUqLIAarAD.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg"
         },
         "genres": [
           "Comedy",
-          "Hentai",
-          "Romance"
+          "Ecchi",
+          "Supernatural"
         ]
       }
     },
     {
-      "airingAt": 1785423600,
+      "airingAt": 1785516120,
       "media": {
-        "id": 212272,
+        "id": 213831,
         "title": {
-          "romaji": "Deco x Deco THE ANIMATION"
+          "romaji": "Snack HAZAMA"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212272-VcnUqLIAarAD.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213831-jrH7JR6feW1q.png"
         },
         "genres": [
           "Comedy",
-          "Hentai",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785423600,
-      "media": {
-        "id": 212617,
-        "title": {
-          "romaji": "Inaka ni wa Kore Kurai Shika Goraku ga nai"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212617-hHf09tkVkiGz.png"
-        },
-        "genres": [
-          "Hentai"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785423600,
-      "media": {
-        "id": 212617,
-        "title": {
-          "romaji": "Inaka ni wa Kore Kurai Shika Goraku ga nai"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212617-hHf09tkVkiGz.png"
-        },
-        "genres": [
-          "Hentai"
+          "Ecchi",
+          "Supernatural"
         ]
       }
     }
