@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.36.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.43.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] The Drops of God S01E17 REPACK 1080p CR WEB-DL AAC2.0 H....` | **1449.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/625657) • [🐱 Nyaa](https://nyaa.si/view/2139857) |
 | `[Yameii] Tamon's B-Side - S01E12 v2 [English Dub] [CR WEB-DL 1080p ...` | **1386.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/625655) • [🐱 Nyaa](https://nyaa.si/view/2139856) |
 | `[ASW] Tensei shitara Slime Datta Ken Movie 2 - Soukai no Namida-hen...` | **1553.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/625653) • [🐱 Nyaa](https://nyaa.si/view/2139854) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E05 (1080p AAC x265 B...` | **617.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625652) • [🐱 Nyaa](https://nekobt.to/torrents/12760368395278) |
@@ -47,7 +48,6 @@
 | `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 05 [1080p CR WEBRip ...` | **331.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625643) • [🐱 Nyaa](https://nyaa.si/view/2139838) |
 | `[SavI0r] Ishuukan Friends. (One Week Friends) 01-12 [BD][1080p][AV1...` | **1659.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625641) • [🐱 Nyaa](https://nekobt.to/torrents/12757995525387) |
 | `[SavI0r] Kuromukuro [BD][1080p][AV1][OPUS][Dual Audio]` | **7593.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/625638) • [🐱 Nyaa](https://nyaa.si/view/2139837) |
-| `[SavI0r-Pro] Princess Principal + Movies + OVAs v2 [BD][1080p][AV1]...` | **16697.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/625639) • [🐱 Nyaa](https://nyaa.si/view/2139835) |
 
 ---
 <div align="center">
