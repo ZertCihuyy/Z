@@ -1,200 +1,168 @@
 {
-  "last_update": "31/7/2026, 23.57.32",
-  "hari": "Jumat",
+  "last_update": "1/8/2026, 01.25.35",
+  "hari": "Sabtu",
   "data": [
     {
-      "airingAt": 1785451200,
+      "airingAt": 1785540600,
       "media": {
-        "id": 140842,
+        "id": 212308,
         "title": {
-          "romaji": "Chiikawa"
+          "romaji": "Pan no Akachan (TV)"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg"
         },
         "genres": [
-          "Comedy",
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785543960,
+      "media": {
+        "id": 183231,
+        "title": {
+          "romaji": "Rilakkuma"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
+        },
+        "genres": [
+          "Fantasy",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1785466800,
+      "airingAt": 1785546000,
       "media": {
-        "id": 188753,
+        "id": 214260,
         "title": {
-          "romaji": "Gekkan! Nanmono Anime"
+          "romaji": "Zeri Feisheng"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188753-Rkuiizca4QFD.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214260-m2fg5OwduwSt.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785549600,
+      "media": {
+        "id": 137683,
+        "title": {
+          "romaji": "Douluo Dalu 2: Jueshi Tangmen"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785569400,
+      "media": {
+        "id": 966,
+        "title": {
+          "romaji": "Crayon Shin-chan"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg"
         },
         "genres": [
           "Comedy",
+          "Ecchi",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1785470400,
+      "airingAt": 1785571200,
       "media": {
-        "id": 213484,
+        "id": 8687,
         "title": {
-          "romaji": "Bai Ri Cheng Wang"
+          "romaji": "Doraemon (2005)"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg"
         },
         "genres": [
-          "Action",
           "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785491700,
-      "media": {
-        "id": 158871,
-        "title": {
-          "romaji": "Pocket Monsters (2023)"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785504600,
-      "media": {
-        "id": 199748,
-        "title": {
-          "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita."
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785504600,
-      "media": {
-        "id": 196218,
-        "title": {
-          "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg"
-        },
-        "genres": [
-          "Action",
           "Comedy",
+          "Sci-Fi"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785573000,
+      "media": {
+        "id": 171110,
+        "title": {
+          "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg"
+        },
+        "genres": [
           "Drama",
           "Fantasy",
-          "Romance",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1785508200,
+      "airingAt": 1785574800,
       "media": {
-        "id": 202508,
+        "id": 235,
         "title": {
-          "romaji": "Kami no Shizuku"
+          "romaji": "Meitantei Conan"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg"
         },
         "genres": [
-          "Drama",
+          "Adventure",
+          "Comedy",
           "Mystery",
-          "Slice of Life"
+          "Psychological"
         ]
       }
     },
     {
-      "airingAt": 1785508200,
+      "airingAt": 1785576360,
       "media": {
-        "id": 188525,
+        "id": 184492,
         "title": {
-          "romaji": "Kore Kaite Shine"
+          "romaji": "Mairimashita! Iruma-kun 4"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-uWhw4rQcqOyF.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg"
         },
         "genres": [
           "Comedy",
-          "Slice of Life"
+          "Fantasy",
+          "Supernatural"
         ]
       }
     },
     {
-      "airingAt": 1785508200,
+      "airingAt": 1785578400,
       "media": {
-        "id": 182616,
+        "id": 213356,
         "title": {
-          "romaji": "Nige Jouzu no Wakagimi 2nd Season"
+          "romaji": "Guangyin Zhi Wai 2"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-ZOCgArw9cgqI.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785510000,
-      "media": {
-        "id": 203490,
-        "title": {
-          "romaji": "Uchi no Otouto-domo ga Sumimasen"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785510000,
-      "media": {
-        "id": 213908,
-        "title": {
-          "romaji": "Rusuban"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213908-ZBUHQxLVUzSW.jpg"
-        },
-        "genres": [
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1785513600,
-      "media": {
-        "id": 209983,
-        "title": {
-          "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg"
         },
         "genres": [
           "Action",
@@ -204,36 +172,85 @@
       }
     },
     {
-      "airingAt": 1785515400,
+      "airingAt": 1785585600,
       "media": {
-        "id": 207674,
+        "id": 186863,
         "title": {
-          "romaji": "Ushiro no Shoumen Kamui-san"
+          "romaji": "Neko to Ryuu"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186863-AO4efoB8HuzA.png"
         },
         "genres": [
-          "Comedy",
-          "Ecchi",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785589200,
+      "media": {
+        "id": 187538,
+        "title": {
+          "romaji": "BLACK TORCH"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi",
           "Supernatural"
         ]
       }
     },
     {
-      "airingAt": 1785516120,
+      "airingAt": 1785591000,
       "media": {
-        "id": 213831,
+        "id": 206249,
         "title": {
-          "romaji": "Snack HAZAMA"
+          "romaji": "Iwamoto-senpai no Suisen"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213831-jrH7JR6feW1q.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206249-1AUSry416wGz.png"
         },
         "genres": [
-          "Comedy",
-          "Ecchi",
+          "Action",
           "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785592800,
+      "media": {
+        "id": 185874,
+        "title": {
+          "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1785594600,
+      "media": {
+        "id": 190569,
+        "title": {
+          "romaji": "Tenmaku no Jaadugar"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190569-KnCQLI3Z8hPX.jpg"
+        },
+        "genres": [
+          "Drama"
         ]
       }
     }
