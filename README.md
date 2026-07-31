@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.03.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.29.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Nige Jouzu no Wakagimi - S02E03 [1080p][HEVC x265 10bit][Mult...` | **689.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625647) • [🐱 Nyaa](https://nyaa.si/view/2139851) |
+| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **362.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/625648) • [🐱 Nyaa](https://nyaa.si/view/2139850) |
+| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E15 (WEB ...` | **1491.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625649) • [🐱 Nyaa](https://nyaa.si/view/2139849) |
+| `[Erai-raws] Kami no Shizuku - 17 [1080p CR WEBRip HEVC AAC][MultiSu...` | **674.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/625650) • [🐱 Nyaa](https://nyaa.si/view/2139848) |
+| `[Gecko] Chibi Godzilla Raids Again - S01E109 (ちびゴジラの逆襲; Chibi Godzi...` | **26.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/625646) • [🐱 Nyaa](https://nekobt.to/torrents/12758809816077) |
+| `[ASW] Kami no Shizuku - 17 [1080p HEVC x265 10Bit][AAC]` | **395.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625645) • [🐱 Nyaa](https://nyaa.si/view/2139845) |
 | `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 05 [1080p CR WEBRip ...` | **331.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625643) • [🐱 Nyaa](https://nyaa.si/view/2139838) |
 | `[SavI0r] Ishuukan Friends. (One Week Friends) 01-12 [BD][1080p][AV1...` | **1659.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625641) • [🐱 Nyaa](https://nekobt.to/torrents/12757995525387) |
 | `[SavI0r] Kuromukuro [BD][1080p][AV1][OPUS][Dual Audio]` | **7593.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/625638) • [🐱 Nyaa](https://nyaa.si/view/2139837) |
@@ -42,12 +48,6 @@
 | `[ASW] Nige Jouzu no Wakagimi S2 - 03 [1080p HEVC x265 10Bit][AAC]` | **645.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/625632) • [🐱 Nyaa](https://nyaa.si/view/2139826) |
 | `[Erai-raws] Kore Kaite Shine - 05 [1080p CR WEBRip HEVC AAC][MultiS...` | **487.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625633) • [🐱 Nyaa](https://nyaa.si/view/2139825) |
 | `HELL MODE S02E05 THE SOVEREIGN OF SPIRITS PROPHECY 1080p HIDI WEB-D...` | **925.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625634) • [🐱 Nyaa](https://nyaa.si/view/2139824) |
-| `Draw This Then Die S01E05 1080p NF WEB-DL MULTi AAC2.0 H.264-VARYG ...` | **924.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625635) • [🐱 Nyaa](https://nyaa.si/view/2139823) |
-| `[SubsPlease] Tensei shitara Slime Datta Ken Movie 2 - Soukai no Nam...` | **6068.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/625636) • [🐱 Nyaa](https://nyaa.si/view/2139822) |
-| `[Ironclad] KAMUI: He's Behind You - S01E05 (WEB 1080p AV1) | Ushiro...` | **310.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625630) • [🐱 Nyaa](https://nekobt.to/torrents/12757183901698) |
-| `[SubsPlease] Kami no Shizuku - 17 (1080p) [A3771D03].mkv` | **1399.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/625621) • [🐱 Nyaa](https://nyaa.si/view/2139820) |
-| `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **246.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/625631) • [🐱 Nyaa](https://nekobt.to/torrents/12757064061965) |
-| `The Drops of God S01E17 A Voice Strict But Gentle 1080p CR WEB-DL A...` | **1428.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/625624) • [🐱 Nyaa](https://nyaa.si/view/2139815) |
 
 ---
 <div align="center">
