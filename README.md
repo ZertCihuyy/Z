@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.25.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.03.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 05 [1080p CR WEBRip ...` | **331.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625643) • [🐱 Nyaa](https://nyaa.si/view/2139838) |
+| `[SavI0r] Ishuukan Friends. (One Week Friends) 01-12 [BD][1080p][AV1...` | **1659.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625641) • [🐱 Nyaa](https://nekobt.to/torrents/12757995525387) |
+| `[SavI0r] Kuromukuro [BD][1080p][AV1][OPUS][Dual Audio]` | **7593.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/625638) • [🐱 Nyaa](https://nyaa.si/view/2139837) |
+| `[SavI0r-Pro] Princess Principal + Movies + OVAs v2 [BD][1080p][AV1]...` | **16697.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/625639) • [🐱 Nyaa](https://nyaa.si/view/2139835) |
+| `[SavI0r] Princess Principal + Movies + OVAs v2 [BD][1080p][AV1][OPU...` | **5404.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625640) • [🐱 Nyaa](https://nyaa.si/view/2139834) |
+| `[Onalrie] Kami no Shizuku - S01E17 [1080p WEBRip AV1]` | **268.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/625642) • [🐱 Nyaa](https://nekobt.to/torrents/12757856211713) |
+| `[ASW] Nige Jouzu no Wakagimi S2 - 03 [1080p HEVC x265 10Bit][AAC]` | **645.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/625632) • [🐱 Nyaa](https://nyaa.si/view/2139826) |
+| `[Erai-raws] Kore Kaite Shine - 05 [1080p CR WEBRip HEVC AAC][MultiS...` | **487.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625633) • [🐱 Nyaa](https://nyaa.si/view/2139825) |
+| `HELL MODE S02E05 THE SOVEREIGN OF SPIRITS PROPHECY 1080p HIDI WEB-D...` | **925.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625634) • [🐱 Nyaa](https://nyaa.si/view/2139824) |
+| `Draw This Then Die S01E05 1080p NF WEB-DL MULTi AAC2.0 H.264-VARYG ...` | **924.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625635) • [🐱 Nyaa](https://nyaa.si/view/2139823) |
+| `[SubsPlease] Tensei shitara Slime Datta Ken Movie 2 - Soukai no Nam...` | **6068.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/625636) • [🐱 Nyaa](https://nyaa.si/view/2139822) |
+| `[Ironclad] KAMUI: He's Behind You - S01E05 (WEB 1080p AV1) | Ushiro...` | **310.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625630) • [🐱 Nyaa](https://nekobt.to/torrents/12757183901698) |
 | `[SubsPlease] Kami no Shizuku - 17 (1080p) [A3771D03].mkv` | **1399.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/625621) • [🐱 Nyaa](https://nyaa.si/view/2139820) |
-| `[Erai-raws] Nige Jouzu no Wakagimi 2nd Season - 03 [1080p CR WEBRip...` | **821.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/625617) • [🐱 Nyaa](https://nyaa.si/view/2139809) |
-| `[SubsPlease] Nige Jouzu no Wakagimi S2 - 03 (1080p) [2A929C77].mkv` | **1380.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625618) • [🐱 Nyaa](https://nyaa.si/view/2139806) |
-| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E05 [1080p WEBRip AV1]` | **172.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625616) • [🐱 Nyaa](https://nekobt.to/torrents/12756596553729) |
-| `[Trix] Nige Jouzu no Wakagimi S02E03 [WEBRip 1080p AV1 Opus] (Multi...` | **569.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/625613) • [🐱 Nyaa](https://nyaa.si/view/2139803) |
-| `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **320.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/625614) • [🐱 Nyaa](https://nyaa.si/view/2139802) |
-| `[ASW] Hell Mode S2 - 05 [1080p HEVC x265 10Bit][AAC]` | **349.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/625615) • [🐱 Nyaa](https://nyaa.si/view/2139800) |
-| `The Drops of God S01E17 HARDSUB SUBFRENCH 1080p CR WEB-DL AAC2.0 x2...` | **1405.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/625611) • [🐱 Nyaa](https://nekobt.to/torrents/12756253679369) |
-| `[ASW] Uchi no Otouto-domo ga Sumimasen - 05 [1080p HEVC x265 10Bit]...` | **185.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/625610) • [🐱 Nyaa](https://nyaa.si/view/2139798) |
-| `[Onalrie] Nige Jouzu no Wakagimi - S02E03 [1080p WEBRip AV1]` | **382.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/625612) • [🐱 Nyaa](https://nekobt.to/torrents/12756226852868) |
-| `[Trix] The Drops of God S01E17 [WEBRip 1080p AV1 Opus] (Multi Subs,...` | **330.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/625608) • [🐱 Nyaa](https://nyaa.si/view/2139794) |
-| `[Gecko] BanG Dream! YUME∞MITA - S01E07 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **687.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625609) • [🐱 Nyaa](https://nyaa.si/view/2139791) |
-| `[ToonsHub] From Overshadowed to Overpowered Second Reincarnation of...` | **1425.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625605) • [🐱 Nyaa](https://nekobt.to/torrents/12755796111886) |
-| `[Onalrie] Kore Kaite Shine - S01E05 [1080p WEBRip AV1]` | **285.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/625606) • [🐱 Nyaa](https://nekobt.to/torrents/12755717945857) |
-| `[Unfucked] The Elusive Samurai - S02E03 (1080p CR WEB-DL AVC AAC 2....` | **1410.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/625607) • [🐱 Nyaa](https://nyaa.si/view/2139787) |
+| `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **246.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/625631) • [🐱 Nyaa](https://nekobt.to/torrents/12757064061965) |
+| `The Drops of God S01E17 A Voice Strict But Gentle 1080p CR WEB-DL A...` | **1428.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/625624) • [🐱 Nyaa](https://nyaa.si/view/2139815) |
 
 ---
 <div align="center">
