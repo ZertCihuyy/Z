@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.02.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.57.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 05 [1080p...` | **389.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625544) • [🐱 Nyaa](https://nyaa.si/view/2139678) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken: Soukai no Namida-hen - ...` | **2020.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625545) • [🐱 Nyaa](https://nyaa.si/view/2139677) |
-| `[Onalrie] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen g...` | **187.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/625543) • [🐱 Nyaa](https://nekobt.to/torrents/12753685894668) |
-| `[ASW] Kokoore - 05 [1080p HEVC x265 10Bit][AAC]` | **201.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/625542) • [🐱 Nyaa](https://nyaa.si/view/2139669) |
-| `[Judas] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **219.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/625538) • [🐱 Nyaa](https://nyaa.si/view/2139665) |
-| `[Onalrie] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - S01E05 [108...` | **195.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/625541) • [🐱 Nyaa](https://nekobt.to/torrents/12753298612493) |
-| `[Doomdos] - The Frontier Lord Begins with Zero Subjects - 5 [1080p ...` | **247.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/625539) • [🐱 Nyaa](https://nyaa.si/view/2139664) |
-| `[ASW] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 05 [1080p HEVC ...` | **226.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/625540) • [🐱 Nyaa](https://nyaa.si/view/2139663) |
-| `[VARYG] I Became a Legend after My 10 Year Long Last Stand S01E05 A...` | **1407.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/625536) • [🐱 Nyaa](https://nekobt.to/torrents/12753195734283) |
-| `[ToonsHub] I Became a Legend after My 10 Year-Long Last Stand S01E0...` | **1428.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/625537) • [🐱 Nyaa](https://nekobt.to/torrents/12753172502794) |
-| `[SubsPlease] Kokoore - 05 (1080p) [C3BCF2E4].mkv` | **1380.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/625526) • [🐱 Nyaa](https://nyaa.si/view/2139659) |
-| `[Erai-raws] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen...` | **1390.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/625530) • [🐱 Nyaa](https://nyaa.si/view/2139653) |
-| `[Shridhuu] GuAn - 一斩苍穹 - E02 [1080p AVC SDR 8Bits DDP2.0 +AAC2.0]` | **402.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/625532) • [🐱 Nyaa](https://nyaa.si/view/2139651) |
-| `[Unfucked] The Frontier Lord Begins with Zero Subjects - S01E05 (10...` | **1387.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/625535) • [🐱 Nyaa](https://nyaa.si/view/2139648) |
-| `[VARYG] The Frontier Lord Begins with Zero Subjects S01E05 The Fron...` | **1409.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/625525) • [🐱 Nyaa](https://nekobt.to/torrents/12752875411715) |
+| `[SubsPlus+] Hell Mode - S02E05 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **662.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/625577) • [🐱 Nyaa](https://nyaa.si/view/2139786) |
+| `Please Excuse My Younger Brothers S01E05 Shut Away Angel 1080p CR W...` | **1420.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625578) • [🐱 Nyaa](https://nyaa.si/view/2139785) |
+| `[Judas] Kore Kaite Shine (Draw This, Then Die!) - S01E05 [1080p][HE...` | **311.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/625579) • [🐱 Nyaa](https://nyaa.si/view/2139784) |
+| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **663.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/625581) • [🐱 Nyaa](https://nyaa.si/view/2139782) |
+| `[ToonsHub] Please Excuse My Younger Brothers S01E05 1080p CR WEB-DL...` | **1396.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/625582) • [🐱 Nyaa](https://nyaa.si/view/2139781) |
+| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **924.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/625583) • [🐱 Nyaa](https://nyaa.si/view/2139780) |
+| `[Doomdos] - Primeval Overlord - 4 [1080p IQ WEB-DL]` | **216.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/625584) • [🐱 Nyaa](https://nyaa.si/view/2139779) |
+| `[DKB] Ryoumin 0-Nin Start no Henkyou Ryoushu-sama - S01E05 [1080p][...` | **254.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/625585) • [🐱 Nyaa](https://nyaa.si/view/2139778) |
+| `[SubsPlease] Hell Mode S2 - 05 (1080p) [3DED5312].mkv` | **924.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/625586) • [🐱 Nyaa](https://nyaa.si/view/2139777) |
+| `[Doomdos] - Primeval Overlord - 3 [1080p IQ WEB-DL]` | **208.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625591) • [🐱 Nyaa](https://nyaa.si/view/2139772) |
+| `[Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Iseka...` | **924.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/625592) • [🐱 Nyaa](https://nyaa.si/view/2139771) |
+| `[CicakRumah] False Memory (2020) [YTB.WEB-DL 1080P AVC, Opus D-AUD,...` | **227.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625595) • [🐱 Nyaa](https://nyaa.si/view/2139765) |
+| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 05 [1080p CR WEB-DL ...` | **1402.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625594) • [🐱 Nyaa](https://nyaa.si/view/2139766) |
+| `[SubsPlease] Uchi no Otouto-domo ga Sumimasen - 05 (1080p) [8B3C3D3...` | **1390.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/625596) • [🐱 Nyaa](https://nyaa.si/view/2139763) |
+| `[ToonsHub] KAMUI Hes Behind You S01E05 1080p UNCENSORED OV WEB-DL A...` | **426.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/625599) • [🐱 Nyaa](https://nyaa.si/view/2139757) |
 
 ---
 <div align="center">
