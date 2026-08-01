@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.06.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.13.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Detective Conan S01E1209 Whos the Target 1080p CR WEB-DL AAC2.0 H.2...` | **1392.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625718) • [🐱 Nyaa](https://nyaa.si/view/2140059) |
+| `[ToonsHub] Detective Conan EP1209 1080p CR WEB-DL AAC2.0 H.264 (Mei...` | **1389.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/625719) • [🐱 Nyaa](https://nyaa.si/view/2140058) |
+| `[SubsPlease] Detective Conan - 1209 (1080p) [E049C382].mkv` | **1385.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/625721) • [🐱 Nyaa](https://nyaa.si/view/2140055) |
+| `[Erai-raws] Detective Conan - 1209 [1080p CR WEB-DL AVC AAC][23B502EA]` | **1393.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/625725) • [🐱 Nyaa](https://nyaa.si/view/2140050) |
+| `[Onalrie] Mairimashita Iruma-kun - S04E18 [1080p WEBRip AV1]` | **394.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625717) • [🐱 Nyaa](https://nekobt.to/torrents/12772810267151) |
+| `[ASW] Mairimashita! Iruma-kun S4 - 18 [1080p HEVC x265 10Bit][AAC]` | **543.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/625716) • [🐱 Nyaa](https://nyaa.si/view/2140049) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E18 1080p BILI WEB-...` | **464.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/625715) • [🐱 Nyaa](https://nyaa.si/view/2140046) |
 | `Welcome to Demon School Iruma kun S04E18 Give the Youth All the Nut...` | **1608.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625713) • [🐱 Nyaa](https://nyaa.si/view/2140044) |
 | `Welcome to Demon School Iruma kun S04E18 1080p CR WEB-DL DUAL AAC2....` | **1505.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625714) • [🐱 Nyaa](https://nyaa.si/view/2140043) |
 | `[ToonsHub] Welcome to Demon School Iruma-kun S04E18 1080p CR WEB-DL...` | **1606.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/625702) • [🐱 Nyaa](https://nyaa.si/view/2140042) |
@@ -41,13 +48,6 @@
 | `[Yameii] Welcome to Demon School! Iruma-kun - S04E18 [English Dub] ...` | **1464.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/625705) • [🐱 Nyaa](https://nyaa.si/view/2140037) |
 | `[SubsPlease] Mairimashita! Iruma-kun S4 - 18 (1080p) [1ACEFA88].mkv` | **1458.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625707) • [🐱 Nyaa](https://nyaa.si/view/2140033) |
 | `[Erai-raws] Mairimashita Iruma-kun 4th Season - 18 [1080p CR WEB-DL...` | **1469.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/625712) • [🐱 Nyaa](https://nyaa.si/view/2140028) |
-| `[Onalrie] Honzuki no Gekokujou Shisho ni Naru Tame ni wa Shudan wo ...` | **221.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/625701) • [🐱 Nyaa](https://nekobt.to/torrents/12771766561036) |
-| `[ASW] Honzuki no Gekokujou S4 - 16 [1080p HEVC x265 10Bit][AAC]` | **264.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/625699) • [🐱 Nyaa](https://nyaa.si/view/2140022) |
-| `[ToonsHub] One Piece EP1171 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **861.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625700) • [🐱 Nyaa](https://nyaa.si/view/2140021) |
-| `[ToonsHub] Ascendance of a Bookworm S04E16 1080p CR WEB-DL AAC2.0 H...` | **1437.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625687) • [🐱 Nyaa](https://nyaa.si/view/2140020) |
-| `[ToonsHub] Ascendance of a Bookworm S04E14 1080p CR WEB-DL DUAL AAC...` | **1427.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625688) • [🐱 Nyaa](https://nyaa.si/view/2140019) |
-| `Ascendance of a Bookworm S04E14 Hasses Punishment 1080p CR WEB-DL D...` | **1448.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/625689) • [🐱 Nyaa](https://nyaa.si/view/2140018) |
-| `Ascendance of a Bookworm S04E16 New Dress and Printing Press 1080p ...` | **1418.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/625690) • [🐱 Nyaa](https://nyaa.si/view/2140017) |
 
 ---
 <div align="center">
