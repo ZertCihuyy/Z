@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.11.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.14.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Bleach S17E42 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H.264-Tsundere-Raw...` | **1079.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/625773) • [🐱 Nyaa](https://nekobt.to/torrents/12776016492804) |
-| `BLACK TORCH S01E05 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1455.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625774) • [🐱 Nyaa](https://nekobt.to/torrents/12776005149191) |
-| `[VARYG] BLEACH Thousand Year Blood War S01E42 SON OF DARKNESS 1080p...` | **1079.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/625775) • [🐱 Nyaa](https://nekobt.to/torrents/12775990368010) |
-| `[ASW] Iwamoto-senpai no Suisen - 05 [1080p HEVC x265 10Bit][AAC]` | **285.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/625770) • [🐱 Nyaa](https://nyaa.si/view/2140168) |
-| `[Onalrie] Iwamoto-senpai no Suisen - S01E05 [1080p WEBRip AV1]` | **222.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/625776) • [🐱 Nyaa](https://nekobt.to/torrents/12775867858447) |
-| `[ToonsHub] BLEACH Thousand-Year Blood War S01E42 1080p DSNP WEB-DL ...` | **1079.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/625768) • [🐱 Nyaa](https://nekobt.to/torrents/12775749021190) |
-| `[Doomdos] - Recommendations from Iwamoto-Senpai - 5 [1080p IQ WEB-DL]` | **304.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625771) • [🐱 Nyaa](https://nyaa.si/view/2140165) |
-| `[ToonsHub] BLEACH Thousand-Year Blood War S01E42 1080p HULU WEB-DL ...` | **1092.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/625769) • [🐱 Nyaa](https://nekobt.to/torrents/12775733885705) |
-| `[Shridhuu] Beyond Time's Gaze - 光阴之外 -  E32 [1080p AVC SDR 8Bits EA...` | **443.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/625763) • [🐱 Nyaa](https://nyaa.si/view/2140159) |
-| `[Onalrie] Neko to Ryuu - S01E06 [1080p WEBRip AV1]` | **206.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/625761) • [🐱 Nyaa](https://nekobt.to/torrents/12775427650830) |
-| `[ASW] Neko to Ryuu - 06 [1080p HEVC x265 10Bit][AAC]` | **251.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/625766) • [🐱 Nyaa](https://nyaa.si/view/2140155) |
-| `[Judas] Black Torch - S01E05 [1080p][HEVC x265 10bit][Dual-Audio][M...` | **408.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/625767) • [🐱 Nyaa](https://nyaa.si/view/2140154) |
-| `[VARYG] Recommendations from Iwamoto Senpai S01E05 Deicidal Flame 1...` | **1391.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/625762) • [🐱 Nyaa](https://nekobt.to/torrents/12775386092035) |
-| `[Doomdos] - BLACK TORCH - 5 [1080p IQ WEB-DL]` | **323.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625752) • [🐱 Nyaa](https://nyaa.si/view/2140151) |
-| `[ToonsHub] Recommendations from Iwamoto-Senpai S01E05 1080p CR WEB-...` | **1389.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625753) • [🐱 Nyaa](https://nyaa.si/view/2140150) |
+| `[Erai-raws] Yomi no Tsugai - 17 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1387.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/625796) • [🐱 Nyaa](https://nekobt.to/torrents/12777086546441) |
+| `[Erai-raws] Tenmaku no Jaadugar - 06 [1080p CR WEB-DL AVC AAC][Mult...` | **1392.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/625799) • [🐱 Nyaa](https://nekobt.to/torrents/12777078501122) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E17 1080p BILI WEB-DL AAC...` | **334.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/625800) • [🐱 Nyaa](https://nekobt.to/torrents/12777074065932) |
+| `[Lazyleido-Mini] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Veng...` | **687.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/625790) • [🐱 Nyaa](https://nyaa.si/view/2140212) |
+| `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **1747.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625791) • [🐱 Nyaa](https://nyaa.si/view/2140211) |
+| `[ToonsHub] MAO S01E18 1080p AMZN WEB-DL DDP2.0 H.264 (Multi-Subs)` | **870.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/625792) • [🐱 Nyaa](https://nyaa.si/view/2140210) |
+| `[Judas] Neko to Ryuu (The Cat and the Dragon) - S01E06 [1080p][HEVC...` | **251.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625793) • [🐱 Nyaa](https://nyaa.si/view/2140209) |
+| `[ToonsHub] MAO S01E18 1080p BILI WEB-DL AAC2.0 H.265 (Multi-Subs)` | **276.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/625789) • [🐱 Nyaa](https://nekobt.to/torrents/12776857246733) |
+| `[Doomdos] - BLEACH_ Thousand-Year Blood War - The Calamity - 42 [10...` | **390.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/625788) • [🐱 Nyaa](https://nyaa.si/view/2140195) |
+| `Daemons of the Shadow Realm S01E17 Crybaby and Naughty Child 1080p ...` | **861.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/625777) • [🐱 Nyaa](https://nyaa.si/view/2140188) |
+| `[Anime Land] Kimetsu no Yaiba Movie Infinity Castle (BDRip 1080p AV...` | **7659.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/625778) • [🐱 Nyaa](https://nyaa.si/view/2140187) |
+| `[Judas] Mairimashita! Iruma-kun (Welcome to Demon School) - S04E18 ...` | **561.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/625779) • [🐱 Nyaa](https://nyaa.si/view/2140186) |
+| `BLEACH Thousand Year Blood War S01E42 SON OF DARKNESS 1080p AMZN WE...` | **1536.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/625780) • [🐱 Nyaa](https://nyaa.si/view/2140185) |
+| `BLEACH Thousand Year Blood War S01E42 1080p NF WEB-DL AAC2.0 H.264-...` | **900.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/625781) • [🐱 Nyaa](https://nyaa.si/view/2140184) |
+| `[ToonsHub] BLEACH Thousand-Year Blood War S01E42 1080p AMZN WEB-DL ...` | **1536.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/625782) • [🐱 Nyaa](https://nyaa.si/view/2140183) |
 
 ---
 <div align="center">
