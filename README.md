@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.13.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.59.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Detective Conan S01E1209 Whos the Target 1080p CR WEB-DL AAC2.0 H.2...` | **1392.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625718) • [🐱 Nyaa](https://nyaa.si/view/2140059) |
-| `[ToonsHub] Detective Conan EP1209 1080p CR WEB-DL AAC2.0 H.264 (Mei...` | **1389.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/625719) • [🐱 Nyaa](https://nyaa.si/view/2140058) |
-| `[SubsPlease] Detective Conan - 1209 (1080p) [E049C382].mkv` | **1385.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/625721) • [🐱 Nyaa](https://nyaa.si/view/2140055) |
-| `[Erai-raws] Detective Conan - 1209 [1080p CR WEB-DL AVC AAC][23B502EA]` | **1393.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/625725) • [🐱 Nyaa](https://nyaa.si/view/2140050) |
-| `[Onalrie] Mairimashita Iruma-kun - S04E18 [1080p WEBRip AV1]` | **394.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625717) • [🐱 Nyaa](https://nekobt.to/torrents/12772810267151) |
-| `[ASW] Mairimashita! Iruma-kun S4 - 18 [1080p HEVC x265 10Bit][AAC]` | **543.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/625716) • [🐱 Nyaa](https://nyaa.si/view/2140049) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E18 1080p BILI WEB-...` | **464.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/625715) • [🐱 Nyaa](https://nyaa.si/view/2140046) |
-| `Welcome to Demon School Iruma kun S04E18 Give the Youth All the Nut...` | **1608.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625713) • [🐱 Nyaa](https://nyaa.si/view/2140044) |
-| `Welcome to Demon School Iruma kun S04E18 1080p CR WEB-DL DUAL AAC2....` | **1505.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625714) • [🐱 Nyaa](https://nyaa.si/view/2140043) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E18 1080p CR WEB-DL...` | **1606.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/625702) • [🐱 Nyaa](https://nyaa.si/view/2140042) |
-| `One Piece S01E1171 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **861.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625703) • [🐱 Nyaa](https://nyaa.si/view/2140041) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E18 1080p CR WEB-DL...` | **1503.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625704) • [🐱 Nyaa](https://nyaa.si/view/2140040) |
-| `[Yameii] Welcome to Demon School! Iruma-kun - S04E18 [English Dub] ...` | **1464.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/625705) • [🐱 Nyaa](https://nyaa.si/view/2140037) |
-| `[SubsPlease] Mairimashita! Iruma-kun S4 - 18 (1080p) [1ACEFA88].mkv` | **1458.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625707) • [🐱 Nyaa](https://nyaa.si/view/2140033) |
-| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 18 [1080p CR WEB-DL...` | **1469.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/625712) • [🐱 Nyaa](https://nyaa.si/view/2140028) |
+| `[ASW] Black Torch - 05 [1080p HEVC x265 10Bit][AAC]` | **377.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/625750) • [🐱 Nyaa](https://nyaa.si/view/2140137) |
+| `[Onalrie] Black Torch - S01E05 [1080p WEBRip AV1]` | **301.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625751) • [🐱 Nyaa](https://nekobt.to/torrents/12775012245768) |
+| `[ToonsHub] The Cat and the Dragon S01E06 1080p CR WEB-DL AAC2.0 H.2...` | **1406.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/625742) • [🐱 Nyaa](https://nyaa.si/view/2140134) |
+| `The Cat and the Dragon S01E06 The Evening of Foxtails 1080p CR WEB-...` | **1408.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625743) • [🐱 Nyaa](https://nyaa.si/view/2140133) |
+| `[SubsPlease] Neko to Ryuu - 06 (1080p) [119E9BD4].mkv` | **1380.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/625744) • [🐱 Nyaa](https://nyaa.si/view/2140130) |
+| `[Erai-raws] Neko to Ryuu - 06 [1080p CR WEB-DL AVC AAC][MultiSub][6...` | **1388.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625749) • [🐱 Nyaa](https://nyaa.si/view/2140123) |
+| `[Doomdos] - The Great Ruler - 73 [1080p IQ WEB-DL]` | **326.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/625734) • [🐱 Nyaa](https://nyaa.si/view/2140122) |
+| `[Yameii] BLACK TORCH - S01E05 [English Dub] [CR WEB-DL 1080p H264 A...` | **1390.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625735) • [🐱 Nyaa](https://nyaa.si/view/2140121) |
+| `[ToonsHub] BLACK TORCH S01E05 1080p CR WEB-DL DUAL AAC2.0 H.264 (Du...` | **1034.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625737) • [🐱 Nyaa](https://nyaa.si/view/2140118) |
+| `BLACK TORCH S01E05 Young Gunz 1080p CR WEB-DL DUAL AAC2.0 H.264-VAR...` | **1430.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/625738) • [🐱 Nyaa](https://nyaa.si/view/2140117) |
+| `[ToonsHub] BLACK TORCH S01E05 1080p AMZN WEB-DL DDP2.0 H.264 (Multi...` | **939.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625729) • [🐱 Nyaa](https://nekobt.to/torrents/12774331417603) |
+| `[SubsPlease] Black Torch - 05 (1080p) [8FFBEBF8].mkv` | **1385.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/625739) • [🐱 Nyaa](https://nyaa.si/view/2140113) |
+| `[ToonsHub] The Cat And The Dragon S01E06 1080p MW WEB-DL AAC2.0 H.2...` | **550.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625730) • [🐱 Nyaa](https://nekobt.to/torrents/12774316997378) |
+| `[Erai-raws] Black Torch - 05 [1080p CR WEB-DL AVC AAC][MultiSub][B5...` | **1394.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/625733) • [🐱 Nyaa](https://nekobt.to/torrents/12774310928142) |
+| `[Onalrie] Detective Conan - E1209 [1080p WEBRip AV1]` | **165.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/625727) • [🐱 Nyaa](https://nekobt.to/torrents/12773555997187) |
 
 ---
 <div align="center">
