@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.43.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.18.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Rilakkuma - 18 [1080p HEVC x265 10Bit][AAC]` | **56.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625661) • [🐱 Nyaa](https://nyaa.si/view/2139928) |
+| `[ToonsHub] RILAKKUMA S01E18 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **92.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/625662) • [🐱 Nyaa](https://nyaa.si/view/2139925) |
+| `RILAKKUMA S01E18 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **93.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/625663) • [🐱 Nyaa](https://nyaa.si/view/2139922) |
+| `[Piyoko] Onegai AiPri - 17 [WEB AMZN 1080p h264 AC3 2.0]` | **915.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/625664) • [🐱 Nyaa](https://nyaa.si/view/2139916) |
+| `[SubsPlease] Rilakkuma - 18 (1080p) [D736EBFD].mkv` | **92.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/625665) • [🐱 Nyaa](https://nyaa.si/view/2139912) |
+| `[Erai-raws] Rilakkuma - 18 [1080p CR WEB-DL AVC AAC][MultiSub][5342...` | **88.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/625660) • [🐱 Nyaa](https://nekobt.to/torrents/12763243576322) |
 | `[ToonsHub] The Drops of God S01E17 REPACK 1080p CR WEB-DL AAC2.0 H....` | **1449.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/625657) • [🐱 Nyaa](https://nyaa.si/view/2139857) |
 | `[Yameii] Tamon's B-Side - S01E12 v2 [English Dub] [CR WEB-DL 1080p ...` | **1386.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/625655) • [🐱 Nyaa](https://nyaa.si/view/2139856) |
 | `[ASW] Tensei shitara Slime Datta Ken Movie 2 - Soukai no Namida-hen...` | **1553.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/625653) • [🐱 Nyaa](https://nyaa.si/view/2139854) |
@@ -42,12 +48,6 @@
 | `[DKB] Nige Jouzu no Wakagimi - S02E03 [1080p][HEVC x265 10bit][Mult...` | **689.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625647) • [🐱 Nyaa](https://nyaa.si/view/2139851) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **362.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/625648) • [🐱 Nyaa](https://nyaa.si/view/2139850) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime - S04E15 (WEB ...` | **1491.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625649) • [🐱 Nyaa](https://nyaa.si/view/2139849) |
-| `[Erai-raws] Kami no Shizuku - 17 [1080p CR WEBRip HEVC AAC][MultiSu...` | **674.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/625650) • [🐱 Nyaa](https://nyaa.si/view/2139848) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E109 (ちびゴジラの逆襲; Chibi Godzi...` | **26.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/625646) • [🐱 Nyaa](https://nekobt.to/torrents/12758809816077) |
-| `[ASW] Kami no Shizuku - 17 [1080p HEVC x265 10Bit][AAC]` | **395.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625645) • [🐱 Nyaa](https://nyaa.si/view/2139845) |
-| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 05 [1080p CR WEBRip ...` | **331.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625643) • [🐱 Nyaa](https://nyaa.si/view/2139838) |
-| `[SavI0r] Ishuukan Friends. (One Week Friends) 01-12 [BD][1080p][AV1...` | **1659.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625641) • [🐱 Nyaa](https://nekobt.to/torrents/12757995525387) |
-| `[SavI0r] Kuromukuro [BD][1080p][AV1][OPUS][Dual Audio]` | **7593.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/625638) • [🐱 Nyaa](https://nyaa.si/view/2139837) |
 
 ---
 <div align="center">
