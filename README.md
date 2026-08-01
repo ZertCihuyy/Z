@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.18.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.54.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[qx] Touhou Gensou Mangekyou OVA 20 [BDRip 1080p x264] [a rough ver...` | **540.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/625682) • [🐱 Nyaa](https://nyaa.si/view/2139991) |
+| `[VARYG] RILAKKUMA S01E18 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **97.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/625681) • [🐱 Nyaa](https://nekobt.to/torrents/12766044050954) |
+| `[ToonsHub] Jiang Ye S01E16 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **493.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625680) • [🐱 Nyaa](https://nyaa.si/view/2139988) |
+| `[Some-Stuffs] Pocket Monsters (2023) 144 (1080p HEVC 10-bit) [F3C7D...` | **949.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625678) • [🐱 Nyaa](https://nyaa.si/view/2139982) |
+| `[Some-Stuffs] Pocket Monsters (2023) 144 (1080p) [A3102427]` | **459.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625679) • [🐱 Nyaa](https://nyaa.si/view/2139981) |
+| `[Gecko] Please Excuse My Younger Brothers - S01E05 (うちの弟どもがすみません; U...` | **706.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/625677) • [🐱 Nyaa](https://nekobt.to/torrents/12765340822025) |
+| `[ScaredofAniplex] Demon Slayer: Kimetsu no Yaiba Infinity Castle (2...` | **14117.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/625675) • [🐱 Nyaa](https://nyaa.si/view/2139969) |
+| `[Doomdos] - Super Heroic Spirit Season 2 - 11 [1080p IQ WEB-DL]` | **156.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/625676) • [🐱 Nyaa](https://nyaa.si/view/2139963) |
+| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 16 [1080p][YT]` | **302.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625674) • [🐱 Nyaa](https://nyaa.si/view/2139961) |
+| `[Sokudo] Bleach Thousand-Year Blood War S17E41 [1080p WEBRip EAC3 A...` | **463.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/625671) • [🐱 Nyaa](https://nyaa.si/view/2139949) |
+| `[Breeze] Bleach Thousand-Year Blood War S17E41 [1080p WEBRip EAC3 A...` | **942.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/625672) • [🐱 Nyaa](https://nyaa.si/view/2139948) |
+| `[ToonsHub] A Good Day to Ascend S01E05 1080p iQ WEB-DL AAC2.0 H.264...` | **417.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/625673) • [🐱 Nyaa](https://nyaa.si/view/2139945) |
+| `[Doomdos] - A Good Day to Ascend - 5 [1080p IQ WEB-DL]` | **417.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625669) • [🐱 Nyaa](https://nyaa.si/view/2139936) |
+| `[Erai-raws] Rilakkuma - 18 [1080p CR WEBRip HEVC AAC][MultiSub][8F9...` | **68.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/625670) • [🐱 Nyaa](https://nyaa.si/view/2139932) |
 | `[ASW] Rilakkuma - 18 [1080p HEVC x265 10Bit][AAC]` | **56.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625661) • [🐱 Nyaa](https://nyaa.si/view/2139928) |
-| `[ToonsHub] RILAKKUMA S01E18 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **92.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/625662) • [🐱 Nyaa](https://nyaa.si/view/2139925) |
-| `RILAKKUMA S01E18 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **93.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/625663) • [🐱 Nyaa](https://nyaa.si/view/2139922) |
-| `[Piyoko] Onegai AiPri - 17 [WEB AMZN 1080p h264 AC3 2.0]` | **915.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/625664) • [🐱 Nyaa](https://nyaa.si/view/2139916) |
-| `[SubsPlease] Rilakkuma - 18 (1080p) [D736EBFD].mkv` | **92.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/625665) • [🐱 Nyaa](https://nyaa.si/view/2139912) |
-| `[Erai-raws] Rilakkuma - 18 [1080p CR WEB-DL AVC AAC][MultiSub][5342...` | **88.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/625660) • [🐱 Nyaa](https://nekobt.to/torrents/12763243576322) |
-| `[ToonsHub] The Drops of God S01E17 REPACK 1080p CR WEB-DL AAC2.0 H....` | **1449.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/625657) • [🐱 Nyaa](https://nyaa.si/view/2139857) |
-| `[Yameii] Tamon's B-Side - S01E12 v2 [English Dub] [CR WEB-DL 1080p ...` | **1386.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/625655) • [🐱 Nyaa](https://nyaa.si/view/2139856) |
-| `[ASW] Tensei shitara Slime Datta Ken Movie 2 - Soukai no Namida-hen...` | **1553.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/625653) • [🐱 Nyaa](https://nyaa.si/view/2139854) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E05 (1080p AAC x265 B...` | **617.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625652) • [🐱 Nyaa](https://nekobt.to/torrents/12760368395278) |
-| `[Sokudo] Suterare Seijo no Isekai Gohan Tabi S01E04 [1080p AV1] Ise...` | **171.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/625654) • [🐱 Nyaa](https://nyaa.si/view/2139853) |
-| `Akane-banashi.S01.1080p.WEBRip.Dual-Audio.AAC.10bit.x265-deadinside` | **27061.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/625651) • [🐱 Nyaa](https://nekobt.to/torrents/12760084069637) |
-| `[DKB] Nige Jouzu no Wakagimi - S02E03 [1080p][HEVC x265 10bit][Mult...` | **689.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625647) • [🐱 Nyaa](https://nyaa.si/view/2139851) |
-| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **362.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/625648) • [🐱 Nyaa](https://nyaa.si/view/2139850) |
-| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E15 (WEB ...` | **1491.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625649) • [🐱 Nyaa](https://nyaa.si/view/2139849) |
 
 ---
 <div align="center">
