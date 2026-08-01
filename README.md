@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.29.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.06.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Daemons of the Shadow Realm S01E05 Hare and Tortoise 1080p NF WEB-D...` | **1114.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/625684) • [🐱 Nyaa](https://nyaa.si/view/2140000) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E05 1080p NF WEB-DL MULTi...` | **1114.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/625685) • [🐱 Nyaa](https://nyaa.si/view/2139999) |
-| `From.Bureaucrat.to.Villainess.Dad's.Been.Reincarnated.S01.1080p.Blu...` | **17107.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/625683) • [🐱 Nyaa](https://nekobt.to/torrents/12768740313857) |
-| `[qx] Touhou Gensou Mangekyou OVA 20 [BDRip 1080p x264] [a rough ver...` | **540.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/625682) • [🐱 Nyaa](https://nyaa.si/view/2139991) |
-| `[VARYG] RILAKKUMA S01E18 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **97.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/625681) • [🐱 Nyaa](https://nekobt.to/torrents/12766044050954) |
-| `[ToonsHub] Jiang Ye S01E16 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **493.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625680) • [🐱 Nyaa](https://nyaa.si/view/2139988) |
-| `[Some-Stuffs] Pocket Monsters (2023) 144 (1080p HEVC 10-bit) [F3C7D...` | **949.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625678) • [🐱 Nyaa](https://nyaa.si/view/2139982) |
-| `[Some-Stuffs] Pocket Monsters (2023) 144 (1080p) [A3102427]` | **459.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625679) • [🐱 Nyaa](https://nyaa.si/view/2139981) |
-| `[Gecko] Please Excuse My Younger Brothers - S01E05 (うちの弟どもがすみません; U...` | **706.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/625677) • [🐱 Nyaa](https://nekobt.to/torrents/12765340822025) |
-| `[ScaredofAniplex] Demon Slayer: Kimetsu no Yaiba Infinity Castle (2...` | **14117.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/625675) • [🐱 Nyaa](https://nyaa.si/view/2139969) |
-| `[Doomdos] - Super Heroic Spirit Season 2 - 11 [1080p IQ WEB-DL]` | **156.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/625676) • [🐱 Nyaa](https://nyaa.si/view/2139963) |
-| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 16 [1080p][YT]` | **302.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/625674) • [🐱 Nyaa](https://nyaa.si/view/2139961) |
-| `[Sokudo] Bleach Thousand-Year Blood War S17E41 [1080p WEBRip EAC3 A...` | **463.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/625671) • [🐱 Nyaa](https://nyaa.si/view/2139949) |
-| `[Breeze] Bleach Thousand-Year Blood War S17E41 [1080p WEBRip EAC3 A...` | **942.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/625672) • [🐱 Nyaa](https://nyaa.si/view/2139948) |
-| `[ToonsHub] A Good Day to Ascend S01E05 1080p iQ WEB-DL AAC2.0 H.264...` | **417.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/625673) • [🐱 Nyaa](https://nyaa.si/view/2139945) |
+| `Welcome to Demon School Iruma kun S04E18 Give the Youth All the Nut...` | **1608.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/625713) • [🐱 Nyaa](https://nyaa.si/view/2140044) |
+| `Welcome to Demon School Iruma kun S04E18 1080p CR WEB-DL DUAL AAC2....` | **1505.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625714) • [🐱 Nyaa](https://nyaa.si/view/2140043) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E18 1080p CR WEB-DL...` | **1606.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/625702) • [🐱 Nyaa](https://nyaa.si/view/2140042) |
+| `One Piece S01E1171 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **861.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625703) • [🐱 Nyaa](https://nyaa.si/view/2140041) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E18 1080p CR WEB-DL...` | **1503.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625704) • [🐱 Nyaa](https://nyaa.si/view/2140040) |
+| `[Yameii] Welcome to Demon School! Iruma-kun - S04E18 [English Dub] ...` | **1464.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/625705) • [🐱 Nyaa](https://nyaa.si/view/2140037) |
+| `[SubsPlease] Mairimashita! Iruma-kun S4 - 18 (1080p) [1ACEFA88].mkv` | **1458.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625707) • [🐱 Nyaa](https://nyaa.si/view/2140033) |
+| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 18 [1080p CR WEB-DL...` | **1469.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/625712) • [🐱 Nyaa](https://nyaa.si/view/2140028) |
+| `[Onalrie] Honzuki no Gekokujou Shisho ni Naru Tame ni wa Shudan wo ...` | **221.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/625701) • [🐱 Nyaa](https://nekobt.to/torrents/12771766561036) |
+| `[ASW] Honzuki no Gekokujou S4 - 16 [1080p HEVC x265 10Bit][AAC]` | **264.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/625699) • [🐱 Nyaa](https://nyaa.si/view/2140022) |
+| `[ToonsHub] One Piece EP1171 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **861.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625700) • [🐱 Nyaa](https://nyaa.si/view/2140021) |
+| `[ToonsHub] Ascendance of a Bookworm S04E16 1080p CR WEB-DL AAC2.0 H...` | **1437.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625687) • [🐱 Nyaa](https://nyaa.si/view/2140020) |
+| `[ToonsHub] Ascendance of a Bookworm S04E14 1080p CR WEB-DL DUAL AAC...` | **1427.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625688) • [🐱 Nyaa](https://nyaa.si/view/2140019) |
+| `Ascendance of a Bookworm S04E14 Hasses Punishment 1080p CR WEB-DL D...` | **1448.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/625689) • [🐱 Nyaa](https://nyaa.si/view/2140018) |
+| `Ascendance of a Bookworm S04E16 New Dress and Printing Press 1080p ...` | **1418.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/625690) • [🐱 Nyaa](https://nyaa.si/view/2140017) |
 
 ---
 <div align="center">
