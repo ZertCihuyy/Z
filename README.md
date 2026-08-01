@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.03.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.11.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] MAO S01E18 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **856.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625940) • [🐱 Nyaa](https://nyaa.si/view/2140425) |
+| `[ASW] Kimiai - 05 [1080p HEVC x265 10Bit][AAC]` | **260.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/625941) • [🐱 Nyaa](https://nyaa.si/view/2140424) |
+| `[SubsPlease] Kill Ao (01-12) (1080p) [Batch]` | **16554.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/625942) • [🐱 Nyaa](https://nyaa.si/view/2140423) |
+| `[ASW] Saijo no Osewa - 05 [1080p HEVC x265 10Bit][AAC]` | **214.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/625939) • [🐱 Nyaa](https://nyaa.si/view/2140420) |
 | `Delicious.in.Dungeon.S01.1080p.BluRay.Multi-Audio.Opus.5.1.AV1-FALI...` | **16262.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/625937) • [🐱 Nyaa](https://nyaa.si/view/2140417) |
 | `[Judas] Bleach - Thousand Year Blood War - S17E42 [1080p][HEVC x265...` | **561.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/625938) • [🐱 Nyaa](https://nyaa.si/view/2140413) |
 | `[Judas] Hanaori-san wa Tensei Shite mo Kenka ga Shitai (Hanaori-san...` | **270.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/625934) • [🐱 Nyaa](https://nyaa.si/view/2140412) |
@@ -44,10 +48,6 @@
 | `Bleach - Thousand Year Blood War - 42 [H3LL][1080p][x264][10bit][AA...` | **1745.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625930) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2098762) |
 | `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **252.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/625926) • [🐱 Nyaa](https://nyaa.si/view/2140408) |
 | `[DKB] Hanaori-san wa Tensei shitemo Kenka ga Shitai - S01E04 [1080p...` | **256.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/625927) • [🐱 Nyaa](https://nyaa.si/view/2140407) |
-| `[Onalrie] Kabushikigaisha Magilumiere - S02E05 [1080p WEBRip AV1]` | **218.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/625929) • [🐱 Nyaa](https://nekobt.to/torrents/12780442604047) |
-| `[Ironclad] Yomi no Tsugai - S01E17 [WEB.1080p.AV1] | Daemons of the...` | **382.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/625925) • [🐱 Nyaa](https://nyaa.si/view/2140399) |
-| `[Onalrie] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - S01E04 [...` | **219.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/625924) • [🐱 Nyaa](https://nekobt.to/torrents/12780060225282) |
-| `[ASW] Grow Up Show - Himawari no Circus-dan - 05 [1080p HEVC x265 1...` | **271.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/625922) • [🐱 Nyaa](https://nyaa.si/view/2140396) |
 
 ---
 <div align="center">
