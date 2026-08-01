@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.25.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.31.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `The Ogres Bride S01E05 My Rival is a Capable Secretary 1080p CR WEB...` | **1428.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625841) • [🐱 Nyaa](https://nyaa.si/view/2140329) |
-| `The Dukes Son Claims He Wont Love Me Yet Showers Me with Adoration ...` | **1353.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/625842) • [🐱 Nyaa](https://nyaa.si/view/2140328) |
-| `Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance S01E05 Chan...` | **1393.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/625843) • [🐱 Nyaa](https://nyaa.si/view/2140325) |
-| `[Onalrie] Yomi no Tsugai - S01E17 [1080p WEBRip AV1]` | **269.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/625867) • [🐱 Nyaa](https://nekobt.to/torrents/12778100708878) |
-| `[Erai-raws] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga ...` | **1333.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/625846) • [🐱 Nyaa](https://nyaa.si/view/2140322) |
-| `[SubsPlease] Oni no Hanayome - 05 (1080p) [755E8277].mkv` | **1399.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625847) • [🐱 Nyaa](https://nyaa.si/view/2140319) |
-| `[SubsPlease] Kimiai - 05 (1080p) [FA54D059].mkv` | **1326.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625848) • [🐱 Nyaa](https://nyaa.si/view/2140318) |
-| `[ToonsHub] Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance ...` | **1389.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/625850) • [🐱 Nyaa](https://nyaa.si/view/2140316) |
-| `[ToonsHub] The Dukes Son Claims He Wont Love Me Yet Showers Me with...` | **1373.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625852) • [🐱 Nyaa](https://nyaa.si/view/2140314) |
-| `[ToonsHub] The Ogres Bride S01E05 1080p CR WEB-DL AAC2.0 H.264 (Oni...` | **1426.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/625851) • [🐱 Nyaa](https://nyaa.si/view/2140315) |
-| `[Erai-raws] Oni no Hanayome - 05 [1080p CR WEB-DL AVC AAC][MultiSub...` | **1409.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/625858) • [🐱 Nyaa](https://nyaa.si/view/2140306) |
-| `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **1389.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/625860) • [🐱 Nyaa](https://nyaa.si/view/2140304) |
-| `[SubsPlease] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengea...` | **1382.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/625862) • [🐱 Nyaa](https://nyaa.si/view/2140300) |
-| `[Lazier] Bleach Thousand-Year Blood War - 42 (WEB 1080p EAC3) | Ble...` | **1552.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/625866) • [🐱 Nyaa](https://nyaa.si/view/2140293) |
-| `[Unfucked] Grow Up Show: Sunflower Circus - S01E05 (1080p CR WEB-DL...` | **1417.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/625836) • [🐱 Nyaa](https://nyaa.si/view/2140286) |
+| `[Onalrie] Mahou Shoujo Lyrical Nanoha Exceeds Gun Blaze Vengeance -...` | **227.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/625913) • [🐱 Nyaa](https://nekobt.to/torrents/12779248087045) |
+| `[DKB] Yomi no Tsugai - S01E17 [1080p][HEVC x265 10bit][Multi-Subs][...` | **478.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625900) • [🐱 Nyaa](https://nyaa.si/view/2140384) |
+| `Rich Girl Caretaker Im Secretly the Caregiver of the Most Popular G...` | **1452.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/625901) • [🐱 Nyaa](https://nyaa.si/view/2140383) |
+| `[SubsPlease] Saijo no Osewa - 05 (1080p) [2E6856E3].mkv` | **1439.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/625902) • [🐱 Nyaa](https://nyaa.si/view/2140382) |
+| `[Erai-raws] Saijo no Osewa - 05 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1449.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/625906) • [🐱 Nyaa](https://nyaa.si/view/2140377) |
+| `[ToonsHub] Rich Girl Caretaker S01E05 1080p CR WEB-DL AAC2.0 H.264 ...` | **1448.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/625908) • [🐱 Nyaa](https://nyaa.si/view/2140374) |
+| `[DKB] Yomi no Tsugai - S01E14 [1080p][HEVC x265 10bit][Multi-Audio]...` | **555.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/625909) • [🐱 Nyaa](https://nyaa.si/view/2140373) |
+| `[ASW] Tenmaku no Jaadugar - 06 [1080p HEVC x265 10Bit][AAC]` | **861.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/625910) • [🐱 Nyaa](https://nyaa.si/view/2140372) |
+| `[Judas] Kimi wo Aisuru Ki wa nai to Itta Jiki Koushaku-sama ga Naze...` | **250.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/625911) • [🐱 Nyaa](https://nyaa.si/view/2140371) |
+| `[Onalrie] Oni no Hanayome - S01E05 [1080p WEBRip AV1]` | **161.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/625899) • [🐱 Nyaa](https://nekobt.to/torrents/12778837635080) |
+| `[Judas] Gekijouban Tensei Shitara Slime Datta Ken Soukai no Namida ...` | **1896.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/625897) • [🐱 Nyaa](https://nyaa.si/view/2140369) |
+| `[Erai-raws] Grow Up Show: Himawari no Circus-dan - 05 [1080p CR WEB...` | **361.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/625898) • [🐱 Nyaa](https://nyaa.si/view/2140368) |
+| `[Erai-raws] Yomi no Tsugai - 17 [1080p CR WEBRip HEVC AAC][MultiSub...` | **462.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625891) • [🐱 Nyaa](https://nekobt.to/torrents/12778602195463) |
+| `[Erai-raws] Kabushikigaisha Magilumiere S02E05 [1080p AMZN WEB-DL A...` | **738.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/625894) • [🐱 Nyaa](https://nekobt.to/torrents/12778578618632) |
+| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E04...` | **1500.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/625895) • [🐱 Nyaa](https://nekobt.to/torrents/12778558038275) |
 
 ---
 <div align="center">
