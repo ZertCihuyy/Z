@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.54.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.29.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Daemons of the Shadow Realm S01E05 Hare and Tortoise 1080p NF WEB-D...` | **1114.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/625684) • [🐱 Nyaa](https://nyaa.si/view/2140000) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E05 1080p NF WEB-DL MULTi...` | **1114.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/625685) • [🐱 Nyaa](https://nyaa.si/view/2139999) |
+| `From.Bureaucrat.to.Villainess.Dad's.Been.Reincarnated.S01.1080p.Blu...` | **17107.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/625683) • [🐱 Nyaa](https://nekobt.to/torrents/12768740313857) |
 | `[qx] Touhou Gensou Mangekyou OVA 20 [BDRip 1080p x264] [a rough ver...` | **540.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/625682) • [🐱 Nyaa](https://nyaa.si/view/2139991) |
 | `[VARYG] RILAKKUMA S01E18 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **97.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/625681) • [🐱 Nyaa](https://nekobt.to/torrents/12766044050954) |
 | `[ToonsHub] Jiang Ye S01E16 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **493.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/625680) • [🐱 Nyaa](https://nyaa.si/view/2139988) |
@@ -45,9 +48,6 @@
 | `[Sokudo] Bleach Thousand-Year Blood War S17E41 [1080p WEBRip EAC3 A...` | **463.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/625671) • [🐱 Nyaa](https://nyaa.si/view/2139949) |
 | `[Breeze] Bleach Thousand-Year Blood War S17E41 [1080p WEBRip EAC3 A...` | **942.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/625672) • [🐱 Nyaa](https://nyaa.si/view/2139948) |
 | `[ToonsHub] A Good Day to Ascend S01E05 1080p iQ WEB-DL AAC2.0 H.264...` | **417.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/625673) • [🐱 Nyaa](https://nyaa.si/view/2139945) |
-| `[Doomdos] - A Good Day to Ascend - 5 [1080p IQ WEB-DL]` | **417.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/625669) • [🐱 Nyaa](https://nyaa.si/view/2139936) |
-| `[Erai-raws] Rilakkuma - 18 [1080p CR WEBRip HEVC AAC][MultiSub][8F9...` | **68.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/625670) • [🐱 Nyaa](https://nyaa.si/view/2139932) |
-| `[ASW] Rilakkuma - 18 [1080p HEVC x265 10Bit][AAC]` | **56.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/625661) • [🐱 Nyaa](https://nyaa.si/view/2139928) |
 
 ---
 <div align="center">
