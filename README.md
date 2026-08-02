@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.50.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.06.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Magilumiere Magical Girls Inc S02E05 Cant Keep Acting Like a Rookie...` | **1035.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/626058) • [🐱 Nyaa](https://nyaa.si/view/2140757) |
+| `[Trix] You and I Are Polar Opposites S02E05 [WEBRip 1080p AV1 Opus]...` | **194.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/626057) • [🐱 Nyaa](https://nekobt.to/torrents/12794854779400) |
 | `Magilumiere Magical Girls Inc S02E05 Cant Keep Acting Like a Rookie...` | **775.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626055) • [🐱 Nyaa](https://nyaa.si/view/2140754) |
 | `[ToonsHub] Though I Am an Inept Villainess S01E04 1080p DSNP WEB-DL...` | **887.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626056) • [🐱 Nyaa](https://nyaa.si/view/2140753) |
 | `[Onalrie] Tetsunabe no Jan - S01E05 [1080p WEBRip AV1]` | **279.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/626054) • [🐱 Nyaa](https://nekobt.to/torrents/12793633705730) |
@@ -46,8 +48,6 @@
 | `[Onalrie] Let's Go Kaiki-gumi - S01E05 [1080p WEBRip AV1]` | **190.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626048) • [🐱 Nyaa](https://nekobt.to/torrents/12792778595850) |
 | `You and I Are Polar Opposites S02E05 1080p NF WEB-DL AAC2.0 H.264-V...` | **884.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626039) • [🐱 Nyaa](https://nyaa.si/view/2140734) |
 | `[SubsPlease] Tetsunabe no Jan! - 05 (1080p) [3C6BFE06].mkv` | **1372.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/626040) • [🐱 Nyaa](https://nyaa.si/view/2140733) |
-| `[Erai-raws] Tetsunabe no Jan - 05 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1383.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626044) • [🐱 Nyaa](https://nyaa.si/view/2140727) |
-| `[Yameii] You and I Are Polar Opposites - S02E03 [English Dub] [CR W...` | **1413.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/626017) • [🐱 Nyaa](https://nyaa.si/view/2140719) |
 
 ---
 <div align="center">
