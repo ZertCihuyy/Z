@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.01.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.50.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Magilumiere Magical Girls Inc S02E05 Cant Keep Acting Like a Rookie...` | **775.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626055) • [🐱 Nyaa](https://nyaa.si/view/2140754) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E04 1080p DSNP WEB-DL...` | **887.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626056) • [🐱 Nyaa](https://nyaa.si/view/2140753) |
+| `[Onalrie] Tetsunabe no Jan - S01E05 [1080p WEBRip AV1]` | **279.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/626054) • [🐱 Nyaa](https://nekobt.to/torrents/12793633705730) |
+| `[ASW] Tetsunabe no Jan! - 05 [1080p HEVC x265 10Bit][AAC]` | **331.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/626052) • [🐱 Nyaa](https://nyaa.si/view/2140750) |
+| `You and I Are Polar Opposites S02E02 Dilemma of a Winters Night 108...` | **1535.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/626053) • [🐱 Nyaa](https://nyaa.si/view/2140749) |
+| `[Onalrie] Seihantai na Kimi to Boku - S02E05 [1080p WEBRip AV1]` | **192.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626051) • [🐱 Nyaa](https://nekobt.to/torrents/12793183813383) |
+| `[ASW] Let's Go Kaiki-gumi - 05 [1080p HEVC x265 10Bit][AAC]` | **279.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/626050) • [🐱 Nyaa](https://nyaa.si/view/2140747) |
+| `[ASW] Seihantai na Kimi to Boku - 17 [1080p HEVC x265 10Bit][AAC]` | **194.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626049) • [🐱 Nyaa](https://nyaa.si/view/2140739) |
+| `[VARYG] Iron Wok Jan S01E05 The Magic of Bliss 1080p CR WEB-DL AAC2...` | **1402.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626046) • [🐱 Nyaa](https://nekobt.to/torrents/12792856077833) |
+| `[ToonsHub] Iron Wok Jan S01E05 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1422.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/626047) • [🐱 Nyaa](https://nekobt.to/torrents/12792841186319) |
+| `[Onalrie] Let's Go Kaiki-gumi - S01E05 [1080p WEBRip AV1]` | **190.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626048) • [🐱 Nyaa](https://nekobt.to/torrents/12792778595850) |
+| `You and I Are Polar Opposites S02E05 1080p NF WEB-DL AAC2.0 H.264-V...` | **884.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626039) • [🐱 Nyaa](https://nyaa.si/view/2140734) |
+| `[SubsPlease] Tetsunabe no Jan! - 05 (1080p) [3C6BFE06].mkv` | **1372.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/626040) • [🐱 Nyaa](https://nyaa.si/view/2140733) |
+| `[Erai-raws] Tetsunabe no Jan - 05 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1383.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626044) • [🐱 Nyaa](https://nyaa.si/view/2140727) |
 | `[Yameii] You and I Are Polar Opposites - S02E03 [English Dub] [CR W...` | **1413.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/626017) • [🐱 Nyaa](https://nyaa.si/view/2140719) |
-| `[ToonsHub] You and I Are Polar Opposites S02E03 1080p CR WEB-DL DUA...` | **1452.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/626019) • [🐱 Nyaa](https://nyaa.si/view/2140717) |
-| `[ToonsHub] Lets go KAIKIGUMI S01E05 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1434.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626020) • [🐱 Nyaa](https://nyaa.si/view/2140716) |
-| `You and I Are Polar Opposites S02E03 The Year Thats Passed and the ...` | **1471.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/626021) • [🐱 Nyaa](https://nyaa.si/view/2140715) |
-| `[ToonsHub] You and I Are Polar Opposites S02E05 1080p CR WEB-DL AAC...` | **1413.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626022) • [🐱 Nyaa](https://nyaa.si/view/2140714) |
-| `You and I Are Polar Opposites S02E05 Valentines Day 1080p CR WEB-DL...` | **1432.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/626023) • [🐱 Nyaa](https://nyaa.si/view/2140713) |
-| `Lets go KAIKIGUMI S01E05 Mystery 5 1080p CR WEB-DL AAC2.0 H.264-VAR...` | **1415.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/626024) • [🐱 Nyaa](https://nyaa.si/view/2140709) |
-| `[SubsPlease] Seihantai na Kimi to Boku - 17 (1080p) [83C19098].mkv` | **1402.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626027) • [🐱 Nyaa](https://nyaa.si/view/2140704) |
-| `[ToonsHub] You and I Are Polar Opposites S02E05 1080p NF WEB-DL AAC...` | **884.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626028) • [🐱 Nyaa](https://nyaa.si/view/2140702) |
-| `[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 05 [1080p CR WEB...` | **1415.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/626030) • [🐱 Nyaa](https://nyaa.si/view/2140700) |
-| `[Erai-raws] Let's Go Kaiki-gumi - 05 [1080p CR WEB-DL AVC AAC][Mult...` | **1396.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/626034) • [🐱 Nyaa](https://nyaa.si/view/2140696) |
-| `[SubsPlease] Let's Go Kaiki-gumi - 05 (1080p) [A878E510].mkv` | **1385.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/626035) • [🐱 Nyaa](https://nyaa.si/view/2140695) |
-| `[ToonsHub] You and I Are Polar Opposites S02E05 1080p BILI WEB-DL A...` | **219.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/626036) • [🐱 Nyaa](https://nyaa.si/view/2140694) |
-| `Though I Am an Inept Villainess S01E04 My Miracle Comet 1080p DSNP ...` | **887.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626016) • [🐱 Nyaa](https://nyaa.si/view/2140681) |
-| `[Onalrie] Digimon Beatbreak - S01E41 [1080p WEBRip AV1]` | **383.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/626015) • [🐱 Nyaa](https://nekobt.to/torrents/12791426421254) |
 
 ---
 <div align="center">
