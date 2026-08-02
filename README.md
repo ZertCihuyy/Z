@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.56.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.09.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Sekai Saikyou no Kouei - S01E05 [1080p WEBRip AV1]` | **185.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/626087) • [🐱 Nyaa](https://nekobt.to/torrents/12797181524237) |
-| `[FrixySubs] Lord of Mysteries S00E02 - Specials - Polowanie na nazn...` | **1617.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626088) • [🐱 Nyaa](https://nekobt.to/torrents/12797122232578) |
-| `[ASW] Sekai Saikyou no Kouei - 05 [1080p HEVC x265 10Bit][AAC]` | **206.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/626086) • [🐱 Nyaa](https://nyaa.si/view/2140826) |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E17 (1080p WEBRip AA...` | **462.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/626085) • [🐱 Nyaa](https://nekobt.to/torrents/12796800392204) |
-| `[Doomdos] - The World's Strongest Rearguard - 5 [1080p IQ WEB-DL]` | **201.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/626083) • [🐱 Nyaa](https://nyaa.si/view/2140823) |
-| `[GM-Team][国漫][记忆管理局][The Memory Bureau][2026][01-03][AVC][GB][1080P]` | **1178.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626084) • [🐱 Nyaa](https://nyaa.si/view/2140821) |
-| `The Worlds Strongest Rearguard S01E05 The Black Treasure Chest and ...` | **1390.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/626072) • [🐱 Nyaa](https://nyaa.si/view/2140817) |
-| `[ToonsHub] The Worlds Strongest Rearguard S01E05 1080p CR WEB-DL AA...` | **1388.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626073) • [🐱 Nyaa](https://nyaa.si/view/2140814) |
-| `[SubsPlease] Sekai Saikyou no Kouei - 05 (1080p) [861AE4B5].mkv` | **1377.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/626074) • [🐱 Nyaa](https://nyaa.si/view/2140813) |
-| `[ToonsHub] The Worlds Strongest Rearguard S01E05 1080p BILI WEB-DL ...` | **262.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/626079) • [🐱 Nyaa](https://nyaa.si/view/2140805) |
-| `[Erai-raws] Sekai Saikyou no Kouei - 05 [1080p CR WEB-DL AVC AAC][M...` | **1388.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/626080) • [🐱 Nyaa](https://nyaa.si/view/2140804) |
-| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **750.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/626081) • [🐱 Nyaa](https://nyaa.si/view/2140803) |
-| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **904.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626082) • [🐱 Nyaa](https://nyaa.si/view/2140802) |
-| `[ToonsHub] False Memory S01E03 1080p BSITE WEB-DL AAC2.0 H.264 (Jiy...` | **422.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/626068) • [🐱 Nyaa](https://nyaa.si/view/2140787) |
-| `[ToonsHub] False Memory S01E02 REPACK 1080p BSITE WEB-DL AAC2.0 H.2...` | **363.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/626070) • [🐱 Nyaa](https://nyaa.si/view/2140785) |
+| `[SubsPlease] Mushoku Tensei S3 - 06 (1080p) [FB09F4CC].mkv` | **1383.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/626116) • [🐱 Nyaa](https://nyaa.si/view/2140895) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E06 1080p NF WEB...` | **866.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/626117) • [🐱 Nyaa](https://nyaa.si/view/2140891) |
+| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 06 [1080...` | **1393.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/626118) • [🐱 Nyaa](https://nyaa.si/view/2140890) |
+| `[ToonsHub] My Hero Academia S00E24 I Am a Hero Too 1080p NF WEB-DL ...` | **222.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626120) • [🐱 Nyaa](https://nyaa.si/view/2140888) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 17 [1080p CR WEB-DL AV...` | **1389.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/626124) • [🐱 Nyaa](https://nyaa.si/view/2140883) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E06 1080p BILI W...` | **301.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/626123) • [🐱 Nyaa](https://nyaa.si/view/2140884) |
+| `[SubsPlease] Kuroneko to Majo no Kyoushitsu - 17 (1080p) [FE361295]...` | **1379.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/626125) • [🐱 Nyaa](https://nyaa.si/view/2140881) |
+| `Sparks of Tomorrow S01E05 Proof of Love 1080p NF WEB-DL DUAL AAC2.0...` | **909.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/626130) • [🐱 Nyaa](https://nyaa.si/view/2140874) |
+| `Sparks of Tomorrow S01E05 Proof of Love 1080p NF WEB-DL MULTi AAC2....` | **1215.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/626131) • [🐱 Nyaa](https://nyaa.si/view/2140873) |
+| `HELL MODE S02E05 1080p ADN WEB-DL AAC2.0 H.264-VARYG (Hell Mode: Ya...` | **665.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626132) • [🐱 Nyaa](https://nyaa.si/view/2140872) |
+| `HELL MODE S02E04 1080p ADN WEB-DL AAC2.0 H.264-VARYG (Hell Mode: Ya...` | **565.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/626133) • [🐱 Nyaa](https://nyaa.si/view/2140871) |
+| `[DKB] Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - S...` | **223.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/626113) • [🐱 Nyaa](https://nyaa.si/view/2140862) |
+| `[DKB] Seihantai na Kimi to Boku - S02E05 [1080p][HEVC x265 10bit][M...` | **221.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/626114) • [🐱 Nyaa](https://nyaa.si/view/2140861) |
+| `[Erai-raws] Seihantai na Kimi to Boku S02E05 [1080p CR WEBRip HEVC ...` | **381.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626109) • [🐱 Nyaa](https://nekobt.to/torrents/12797773879301) |
+| `[Erai-raws] Let's Go Kaiki-gumi - 05 [1080p CR WEBRip HEVC AAC][Mul...` | **706.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/626110) • [🐱 Nyaa](https://nekobt.to/torrents/12797763388937) |
 
 ---
 <div align="center">
