@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.58.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.41.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Serenae] Meitantei Precure! - 27 (1080p).mkv` | **1401.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/625986) • [🐱 Nyaa](https://nyaa.si/view/2140548) |
-| `[VARYG] Digimon Beatbreak S01E41 1080p CR WEB-DL AAC2.0 H.264` | **1373.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/625985) • [🐱 Nyaa](https://nekobt.to/torrents/12787351312900) |
-| `[ToonsHub] Digimon Beatbreak S01E41 1080p CR WEB-DL AAC2.0 H.264 (E...` | **1372.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/625977) • [🐱 Nyaa](https://nyaa.si/view/2140539) |
-| `[ASW] Meitantei Precure! - 27 [1080p HEVC x265 10Bit][AAC]` | **595.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/625978) • [🐱 Nyaa](https://nyaa.si/view/2140538) |
-| `[SubsPlease] Digimon Beatbreak - 41 (1080p) [FDAEAF3B].mkv` | **1367.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625979) • [🐱 Nyaa](https://nyaa.si/view/2140537) |
-| `[Erai-raws] Digimon Beatbreak - 41 [1080p CR WEB-DL AVC AAC][99D9E70D]` | **1374.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/625984) • [🐱 Nyaa](https://nyaa.si/view/2140531) |
-| `[BlackRose] Rich Girl Caretaker - S01E05 (WEB 1080p HEVC 10-bit EAC...` | **1445.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625976) • [🐱 Nyaa](https://nekobt.to/torrents/12787127424525) |
-| `[Erai-raws] Oni no Hanayome - 05 [1080p CR WEBRip HEVC AAC][MultiSu...` | **338.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/625971) • [🐱 Nyaa](https://nekobt.to/torrents/12786822680845) |
-| `[Erai-raws] Saijo no Osewa - 05 [1080p CR WEBRip HEVC AAC][MultiSub...` | **353.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/625972) • [🐱 Nyaa](https://nekobt.to/torrents/12786817029132) |
-| `[Erai-raws] Tenmaku no Jaadugar - 06 [1080p CR WEBRip HEVC AAC][Mul...` | **856.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/625973) • [🐱 Nyaa](https://nekobt.to/torrents/12786812790540) |
-| `[Erai-raws] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga ...` | **453.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625974) • [🐱 Nyaa](https://nekobt.to/torrents/12786797513483) |
-| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 04 [10...` | **461.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625975) • [🐱 Nyaa](https://nekobt.to/torrents/12786794018827) |
-| `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **364.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625969) • [🐱 Nyaa](https://nyaa.si/view/2140517) |
-| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 05 [1080p AMZN...` | **300.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/625970) • [🐱 Nyaa](https://nyaa.si/view/2140516) |
-| `[Doomdos] - Primeval Overlord - 5 [1080p IQ WEB-DL]` | **206.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/625968) • [🐱 Nyaa](https://nyaa.si/view/2140504) |
+| `[Shridhuu] A Good Day to Ascend - 择日飞升 (Zeri Feisheng) - E05 [1080p...` | **477.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/626012) • [🐱 Nyaa](https://nyaa.si/view/2140633) |
+| `[DKB] MAO - S01E18 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **319.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/626004) • [🐱 Nyaa](https://nyaa.si/view/2140626) |
+| `Digimon.Beatbreak.S01E41.1080p.CR.WEBRip.10bits.x265-Rapta` | **316.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/626005) • [🐱 Nyaa](https://nyaa.si/view/2140625) |
+| `[Sokudo] Bleach Thousand-Year Blood War S17E42 [1080p WEBRip EAC3 A...` | **483.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626006) • [🐱 Nyaa](https://nyaa.si/view/2140624) |
+| `[Breeze] Bleach Thousand-Year Blood War S17E42 [1080p WEBRip EAC3 A...` | **948.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/626007) • [🐱 Nyaa](https://nyaa.si/view/2140623) |
+| `Digimon.Beatbreak.S01E40.1080p.CR.WEBRip.10bits.x265-Rapta` | **207.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/626008) • [🐱 Nyaa](https://nyaa.si/view/2140621) |
+| `[BlackRose] Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) (...` | **14126.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626003) • [🐱 Nyaa](https://nyaa.si/view/2140615) |
+| `[AEOG] Dragon Ball (Complete) (1080p) (Dual Audio)` | **206200.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626002) • [🐱 Nyaa](https://nyaa.si/view/2140610) |
+| `[Doomdos] - 记忆管理局 - 第3话 - [1080p]` | **423.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/625995) • [🐱 Nyaa](https://nyaa.si/view/2140609) |
+| `[Doomdos] - 记忆管理局 - 第2话 - [1080p]` | **364.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625997) • [🐱 Nyaa](https://nyaa.si/view/2140607) |
+| `[Doomdos] - 记忆管理局 - 第1话 - [1080p]` | **391.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/625999) • [🐱 Nyaa](https://nyaa.si/view/2140605) |
+| `[Judas] Digimon Beatbreak - S01E41 [1080p][HEVC x265 10bit][Eng-Sub...` | **524.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626000) • [🐱 Nyaa](https://nyaa.si/view/2140603) |
+| `[ToonsHub] False Memory S01E02 1080p BSITE WEB-DL AAC2.0 H.264 (Mul...` | **205.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/625990) • [🐱 Nyaa](https://nyaa.si/view/2140585) |
+| `[ToonsHub] False Memory S01E01 1080p BSITE WEB-DL AAC2.0 H.264 (Jiy...` | **221.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/625991) • [🐱 Nyaa](https://nyaa.si/view/2140581) |
+| `[Prejudice-Studio] 记忆管理局 The Memory Bureau - 03 [Bilibili WEB-DL 10...` | **423.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/625992) • [🐱 Nyaa](https://nyaa.si/view/2140580) |
 
 ---
 <div align="center">
