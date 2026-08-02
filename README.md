@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.06.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.56.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Magilumiere Magical Girls Inc S02E05 Cant Keep Acting Like a Rookie...` | **1035.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/626058) • [🐱 Nyaa](https://nyaa.si/view/2140757) |
-| `[Trix] You and I Are Polar Opposites S02E05 [WEBRip 1080p AV1 Opus]...` | **194.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/626057) • [🐱 Nyaa](https://nekobt.to/torrents/12794854779400) |
-| `Magilumiere Magical Girls Inc S02E05 Cant Keep Acting Like a Rookie...` | **775.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626055) • [🐱 Nyaa](https://nyaa.si/view/2140754) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E04 1080p DSNP WEB-DL...` | **887.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626056) • [🐱 Nyaa](https://nyaa.si/view/2140753) |
-| `[Onalrie] Tetsunabe no Jan - S01E05 [1080p WEBRip AV1]` | **279.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/626054) • [🐱 Nyaa](https://nekobt.to/torrents/12793633705730) |
-| `[ASW] Tetsunabe no Jan! - 05 [1080p HEVC x265 10Bit][AAC]` | **331.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/626052) • [🐱 Nyaa](https://nyaa.si/view/2140750) |
-| `You and I Are Polar Opposites S02E02 Dilemma of a Winters Night 108...` | **1535.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/626053) • [🐱 Nyaa](https://nyaa.si/view/2140749) |
-| `[Onalrie] Seihantai na Kimi to Boku - S02E05 [1080p WEBRip AV1]` | **192.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626051) • [🐱 Nyaa](https://nekobt.to/torrents/12793183813383) |
-| `[ASW] Let's Go Kaiki-gumi - 05 [1080p HEVC x265 10Bit][AAC]` | **279.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/626050) • [🐱 Nyaa](https://nyaa.si/view/2140747) |
-| `[ASW] Seihantai na Kimi to Boku - 17 [1080p HEVC x265 10Bit][AAC]` | **194.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626049) • [🐱 Nyaa](https://nyaa.si/view/2140739) |
-| `[VARYG] Iron Wok Jan S01E05 The Magic of Bliss 1080p CR WEB-DL AAC2...` | **1402.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626046) • [🐱 Nyaa](https://nekobt.to/torrents/12792856077833) |
-| `[ToonsHub] Iron Wok Jan S01E05 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1422.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/626047) • [🐱 Nyaa](https://nekobt.to/torrents/12792841186319) |
-| `[Onalrie] Let's Go Kaiki-gumi - S01E05 [1080p WEBRip AV1]` | **190.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626048) • [🐱 Nyaa](https://nekobt.to/torrents/12792778595850) |
-| `You and I Are Polar Opposites S02E05 1080p NF WEB-DL AAC2.0 H.264-V...` | **884.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626039) • [🐱 Nyaa](https://nyaa.si/view/2140734) |
-| `[SubsPlease] Tetsunabe no Jan! - 05 (1080p) [3C6BFE06].mkv` | **1372.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/626040) • [🐱 Nyaa](https://nyaa.si/view/2140733) |
+| `[Onalrie] Sekai Saikyou no Kouei - S01E05 [1080p WEBRip AV1]` | **185.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/626087) • [🐱 Nyaa](https://nekobt.to/torrents/12797181524237) |
+| `[FrixySubs] Lord of Mysteries S00E02 - Specials - Polowanie na nazn...` | **1617.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626088) • [🐱 Nyaa](https://nekobt.to/torrents/12797122232578) |
+| `[ASW] Sekai Saikyou no Kouei - 05 [1080p HEVC x265 10Bit][AAC]` | **206.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/626086) • [🐱 Nyaa](https://nyaa.si/view/2140826) |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E17 (1080p WEBRip AA...` | **462.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/626085) • [🐱 Nyaa](https://nekobt.to/torrents/12796800392204) |
+| `[Doomdos] - The World's Strongest Rearguard - 5 [1080p IQ WEB-DL]` | **201.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/626083) • [🐱 Nyaa](https://nyaa.si/view/2140823) |
+| `[GM-Team][国漫][记忆管理局][The Memory Bureau][2026][01-03][AVC][GB][1080P]` | **1178.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626084) • [🐱 Nyaa](https://nyaa.si/view/2140821) |
+| `The Worlds Strongest Rearguard S01E05 The Black Treasure Chest and ...` | **1390.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/626072) • [🐱 Nyaa](https://nyaa.si/view/2140817) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E05 1080p CR WEB-DL AA...` | **1388.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626073) • [🐱 Nyaa](https://nyaa.si/view/2140814) |
+| `[SubsPlease] Sekai Saikyou no Kouei - 05 (1080p) [861AE4B5].mkv` | **1377.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/626074) • [🐱 Nyaa](https://nyaa.si/view/2140813) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E05 1080p BILI WEB-DL ...` | **262.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/626079) • [🐱 Nyaa](https://nyaa.si/view/2140805) |
+| `[Erai-raws] Sekai Saikyou no Kouei - 05 [1080p CR WEB-DL AVC AAC][M...` | **1388.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/626080) • [🐱 Nyaa](https://nyaa.si/view/2140804) |
+| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **750.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/626081) • [🐱 Nyaa](https://nyaa.si/view/2140803) |
+| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **904.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626082) • [🐱 Nyaa](https://nyaa.si/view/2140802) |
+| `[ToonsHub] False Memory S01E03 1080p BSITE WEB-DL AAC2.0 H.264 (Jiy...` | **422.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/626068) • [🐱 Nyaa](https://nyaa.si/view/2140787) |
+| `[ToonsHub] False Memory S01E02 REPACK 1080p BSITE WEB-DL AAC2.0 H.2...` | **363.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/626070) • [🐱 Nyaa](https://nyaa.si/view/2140785) |
 
 ---
 <div align="center">
