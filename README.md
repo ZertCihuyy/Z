@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.13.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.14.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Draw This Then Die S01E05 1080p CR WEB-DL MULTi AAC2.0 H...` | **1431.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625952) • [🐱 Nyaa](https://nyaa.si/view/2140462) |
+| `[VARYG] MAO S01E18 Natsuno 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **856.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625950) • [🐱 Nyaa](https://nekobt.to/torrents/12783935300876) |
+| `MAO S01E18 Natsuno 1080p BILI WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **297.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/625948) • [🐱 Nyaa](https://nyaa.si/view/2140438) |
+| `Magilumiere Magical Girls Inc S02E04 How Exceptional His Magical Gi...` | **1133.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/625949) • [🐱 Nyaa](https://nyaa.si/view/2140437) |
+| `[AnoZu] Zombie Land Saga: Yumeginga Paradise 2025 REPACK 1080p CR W...` | **7310.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/625947) • [🐱 Nyaa](https://nyaa.si/view/2140433) |
 | `[FuyuPOP] Yani Neko - Ep05 (1080p x265 AAC WEB).mkv` | **681.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625945) • [🐱 Nyaa](https://nekobt.to/torrents/12782786038276) |
 | `[Knight-Subs] Bleach Thousand-Year Blood War - E42v2 - Son of Darkn...` | **1537.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625946) • [🐱 Nyaa](https://nekobt.to/torrents/12782710295048) |
 | `[ToonsHub] MAO S01E18 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **856.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625940) • [🐱 Nyaa](https://nyaa.si/view/2140425) |
@@ -43,11 +48,6 @@
 | `[Judas] Bleach - Thousand Year Blood War - S17E42 [1080p][HEVC x265...` | **561.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/625938) • [🐱 Nyaa](https://nyaa.si/view/2140413) |
 | `[Judas] Hanaori-san wa Tensei Shite mo Kenka ga Shitai (Hanaori-san...` | **270.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/625934) • [🐱 Nyaa](https://nyaa.si/view/2140412) |
 | `[ASW] Oni no Hanayome - 05 [1080p HEVC x265 10Bit][AAC]` | **227.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/625935) • [🐱 Nyaa](https://nyaa.si/view/2140411) |
-| `[HnY] BeyWheelz 07 - The Law of the Dominators (1080p).mkv` | **720.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/625936) • [🐱 Nyaa](https://nyaa.si/view/2140410) |
-| `[Onalrie] Saijo no Osewa - S01E05 [1080p WEBRip AV1]` | **197.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/625932) • [🐱 Nyaa](https://nekobt.to/torrents/12780831231234) |
-| `[Knight-Subs] Bleach Thousand-Year Blood War - E42 - Son of Darknes...` | **1537.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625933) • [🐱 Nyaa](https://nekobt.to/torrents/12780737331723) |
-| `[ASW] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 04 [1080p HEV...` | **255.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/625931) • [🐱 Nyaa](https://nyaa.si/view/2140409) |
-| `Bleach - Thousand Year Blood War - 42 [H3LL][1080p][x264][10bit][AA...` | **1745.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625930) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2098762) |
 
 ---
 <div align="center">
