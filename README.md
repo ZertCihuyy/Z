@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.14.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.58.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Draw This Then Die S01E05 1080p CR WEB-DL MULTi AAC2.0 H...` | **1431.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/625952) • [🐱 Nyaa](https://nyaa.si/view/2140462) |
-| `[VARYG] MAO S01E18 Natsuno 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **856.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625950) • [🐱 Nyaa](https://nekobt.to/torrents/12783935300876) |
-| `MAO S01E18 Natsuno 1080p BILI WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **297.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/625948) • [🐱 Nyaa](https://nyaa.si/view/2140438) |
-| `Magilumiere Magical Girls Inc S02E04 How Exceptional His Magical Gi...` | **1133.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/625949) • [🐱 Nyaa](https://nyaa.si/view/2140437) |
-| `[AnoZu] Zombie Land Saga: Yumeginga Paradise 2025 REPACK 1080p CR W...` | **7310.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/625947) • [🐱 Nyaa](https://nyaa.si/view/2140433) |
-| `[FuyuPOP] Yani Neko - Ep05 (1080p x265 AAC WEB).mkv` | **681.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/625945) • [🐱 Nyaa](https://nekobt.to/torrents/12782786038276) |
-| `[Knight-Subs] Bleach Thousand-Year Blood War - E42v2 - Son of Darkn...` | **1537.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/625946) • [🐱 Nyaa](https://nekobt.to/torrents/12782710295048) |
-| `[ToonsHub] MAO S01E18 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **856.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625940) • [🐱 Nyaa](https://nyaa.si/view/2140425) |
-| `[ASW] Kimiai - 05 [1080p HEVC x265 10Bit][AAC]` | **260.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/625941) • [🐱 Nyaa](https://nyaa.si/view/2140424) |
-| `[SubsPlease] Kill Ao (01-12) (1080p) [Batch]` | **16554.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/625942) • [🐱 Nyaa](https://nyaa.si/view/2140423) |
-| `[ASW] Saijo no Osewa - 05 [1080p HEVC x265 10Bit][AAC]` | **214.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/625939) • [🐱 Nyaa](https://nyaa.si/view/2140420) |
-| `Delicious.in.Dungeon.S01.1080p.BluRay.Multi-Audio.Opus.5.1.AV1-FALI...` | **16262.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/625937) • [🐱 Nyaa](https://nyaa.si/view/2140417) |
-| `[Judas] Bleach - Thousand Year Blood War - S17E42 [1080p][HEVC x265...` | **561.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/625938) • [🐱 Nyaa](https://nyaa.si/view/2140413) |
-| `[Judas] Hanaori-san wa Tensei Shite mo Kenka ga Shitai (Hanaori-san...` | **270.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/625934) • [🐱 Nyaa](https://nyaa.si/view/2140412) |
-| `[ASW] Oni no Hanayome - 05 [1080p HEVC x265 10Bit][AAC]` | **227.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/625935) • [🐱 Nyaa](https://nyaa.si/view/2140411) |
+| `[Serenae] Meitantei Precure! - 27 (1080p).mkv` | **1401.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/625986) • [🐱 Nyaa](https://nyaa.si/view/2140548) |
+| `[VARYG] Digimon Beatbreak S01E41 1080p CR WEB-DL AAC2.0 H.264` | **1373.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/625985) • [🐱 Nyaa](https://nekobt.to/torrents/12787351312900) |
+| `[ToonsHub] Digimon Beatbreak S01E41 1080p CR WEB-DL AAC2.0 H.264 (E...` | **1372.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/625977) • [🐱 Nyaa](https://nyaa.si/view/2140539) |
+| `[ASW] Meitantei Precure! - 27 [1080p HEVC x265 10Bit][AAC]` | **595.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/625978) • [🐱 Nyaa](https://nyaa.si/view/2140538) |
+| `[SubsPlease] Digimon Beatbreak - 41 (1080p) [FDAEAF3B].mkv` | **1367.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/625979) • [🐱 Nyaa](https://nyaa.si/view/2140537) |
+| `[Erai-raws] Digimon Beatbreak - 41 [1080p CR WEB-DL AVC AAC][99D9E70D]` | **1374.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/625984) • [🐱 Nyaa](https://nyaa.si/view/2140531) |
+| `[BlackRose] Rich Girl Caretaker - S01E05 (WEB 1080p HEVC 10-bit EAC...` | **1445.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/625976) • [🐱 Nyaa](https://nekobt.to/torrents/12787127424525) |
+| `[Erai-raws] Oni no Hanayome - 05 [1080p CR WEBRip HEVC AAC][MultiSu...` | **338.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/625971) • [🐱 Nyaa](https://nekobt.to/torrents/12786822680845) |
+| `[Erai-raws] Saijo no Osewa - 05 [1080p CR WEBRip HEVC AAC][MultiSub...` | **353.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/625972) • [🐱 Nyaa](https://nekobt.to/torrents/12786817029132) |
+| `[Erai-raws] Tenmaku no Jaadugar - 06 [1080p CR WEBRip HEVC AAC][Mul...` | **856.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/625973) • [🐱 Nyaa](https://nekobt.to/torrents/12786812790540) |
+| `[Erai-raws] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga ...` | **453.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/625974) • [🐱 Nyaa](https://nekobt.to/torrents/12786797513483) |
+| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 04 [10...` | **461.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/625975) • [🐱 Nyaa](https://nekobt.to/torrents/12786794018827) |
+| `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **364.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/625969) • [🐱 Nyaa](https://nyaa.si/view/2140517) |
+| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 05 [1080p AMZN...` | **300.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/625970) • [🐱 Nyaa](https://nyaa.si/view/2140516) |
+| `[Doomdos] - Primeval Overlord - 5 [1080p IQ WEB-DL]` | **206.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/625968) • [🐱 Nyaa](https://nyaa.si/view/2140504) |
 
 ---
 <div align="center">
