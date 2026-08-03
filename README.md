@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.15.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.33.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E04 1080p CR WEB-D...` | **1457.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626479) • [🐱 Nyaa](https://nyaa.si/view/2141540) |
+| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **379.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/626480) • [🐱 Nyaa](https://nekobt.to/torrents/12826040057862) |
+| `[CFN] Detective Conan - Episode 001 [Remastered] [Funimation Dub] [...` | **306.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/626478) • [🐱 Nyaa](https://nekobt.to/torrents/12825979920135) |
+| `[DKB] Grand Blue - S03E05 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **317.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/626477) • [🐱 Nyaa](https://nyaa.si/view/2141538) |
+| `[kikuri] Bocchi the Rock! (BD 1080p HEVC Opus) | BOCCHI THE ROCK! S01` | **24335.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626475) • [🐱 Nyaa](https://nekobt.to/torrents/12825684354307) |
+| `[FrixySubs] Lord of Mysteries S00E03 - Specials - Polowanie na nazn...` | **1105.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/626476) • [🐱 Nyaa](https://nekobt.to/torrents/12825572906508) |
+| `[FrixySubs] Mushoku Tensei - S03E06 [1080p CR WEB-DL H.264 AAC] [Na...` | **1387.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626473) • [🐱 Nyaa](https://nekobt.to/torrents/12825279560709) |
+| `[HatSubs] One Piece 1172 (WEB 1080p) [451AF1F0].mkv` | **1380.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/626472) • [🐱 Nyaa](https://nyaa.si/view/2141524) |
 | `One Piece S01E1172 Monsters Appear in Elbaph-What I Fear Most REPAC...` | **1382.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/626470) • [🐱 Nyaa](https://nyaa.si/view/2141520) |
 | `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **278.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626471) • [🐱 Nyaa](https://nyaa.si/view/2141514) |
 | `[VARYG] One Piece S01E1171 The Heinous Sinner-Loki of the Underworl...` | **441.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/626468) • [🐱 Nyaa](https://nekobt.to/torrents/12824689855746) |
@@ -40,14 +48,6 @@
 | `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **740.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/626465) • [🐱 Nyaa](https://nyaa.si/view/2141502) |
 | `Little Witch Academia (2013) [BD 1080p HEVC Opus] [C3188CE4] [Thank...` | **3538.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626466) • [🐱 Nyaa](https://nyaa.si/view/2141501) |
 | `Level.1.Demon.Lord.and.One.Room.Hero.S01.REPACK.1080p.BluRay.Dual-A...` | **9353.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626463) • [🐱 Nyaa](https://nekobt.to/torrents/12823835194888) |
-| `[Ommex] Doraemon: Nobita's Wedding Eve - The Night Before a Wedding...` | **1031.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/626461) • [🐱 Nyaa](https://nyaa.si/view/2141496) |
-| `[Erai-raws] Liar Game - 18 [1080p CR WEBRip HEVC AAC][MultiSub][BC9...` | **424.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626460) • [🐱 Nyaa](https://nyaa.si/view/2141494) |
-| `[Freehold] Miss Kobayashi's Dragon Maid: A lonely dragon wants to b...` | **8992.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/626449) • [🐱 Nyaa](https://nyaa.si/view/2141492) |
-| `[Erai-raws] Grand Blue Season 3 - 05 [1080p CR WEBRip HEVC AAC][Mul...` | **519.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/626450) • [🐱 Nyaa](https://nyaa.si/view/2141491) |
-| `[ASW] LIAR GAME - 18 [1080p HEVC x265 10Bit][AAC]` | **201.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/626451) • [🐱 Nyaa](https://nyaa.si/view/2141490) |
-| `[denisplay] Otome Kaijuu Carameliser - 05 [1080p] [AV1] (Weekly) (K...` | **353.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/626452) • [🐱 Nyaa](https://nyaa.si/view/2141488) |
-| `[DKB] World Is Dancing - S01E06 [1080p][HEVC x265 10bit][weekly]` | **391.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/626455) • [🐱 Nyaa](https://nyaa.si/view/2141485) |
-| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E05 [1080p]...` | **266.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/626456) • [🐱 Nyaa](https://nyaa.si/view/2141484) |
 
 ---
 <div align="center">
