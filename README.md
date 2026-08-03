@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.41.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.50.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Fuchs] Mushoku Tensei - S03E04 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1432.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/626485) • [🐱 Nyaa](https://nyaa.si/view/2141554) |
+| `[Fuchs] Mushoku Tensei - S03E03 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1445.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626486) • [🐱 Nyaa](https://nyaa.si/view/2141553) |
+| `[Fuchs] Mushoku Tensei - S03E02 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1428.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626487) • [🐱 Nyaa](https://nyaa.si/view/2141552) |
+| `[Fuchs] Mushoku Tensei - S03E01 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1423.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/626488) • [🐱 Nyaa](https://nyaa.si/view/2141551) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 77 [1080p] [C15B...` | **26.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/626481) • [🐱 Nyaa](https://nyaa.si/view/2141543) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E06 (1080p AAC x265 B...` | **631.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626484) • [🐱 Nyaa](https://nekobt.to/torrents/12826982757383) |
 | `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **863.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/626482) • [🐱 Nyaa](https://nyaa.si/view/2141542) |
@@ -44,10 +48,6 @@
 | `[kikuri] Bocchi the Rock! (BD 1080p HEVC Opus) | BOCCHI THE ROCK! S01` | **24335.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626475) • [🐱 Nyaa](https://nekobt.to/torrents/12825684354307) |
 | `[FrixySubs] Lord of Mysteries S00E03 - Specials - Polowanie na nazn...` | **1105.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/626476) • [🐱 Nyaa](https://nekobt.to/torrents/12825572906508) |
 | `[FrixySubs] Mushoku Tensei - S03E06 [1080p CR WEB-DL H.264 AAC] [Na...` | **1387.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626473) • [🐱 Nyaa](https://nekobt.to/torrents/12825279560709) |
-| `[HatSubs] One Piece 1172 (WEB 1080p) [451AF1F0].mkv` | **1380.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/626472) • [🐱 Nyaa](https://nyaa.si/view/2141524) |
-| `One Piece S01E1172 Monsters Appear in Elbaph-What I Fear Most REPAC...` | **1382.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/626470) • [🐱 Nyaa](https://nyaa.si/view/2141520) |
-| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **278.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626471) • [🐱 Nyaa](https://nyaa.si/view/2141514) |
-| `[VARYG] One Piece S01E1171 The Heinous Sinner-Loki of the Underworl...` | **441.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/626468) • [🐱 Nyaa](https://nekobt.to/torrents/12824689855746) |
 
 ---
 <div align="center">
