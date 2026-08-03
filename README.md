@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.30.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.02.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **711.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626299) • [🐱 Nyaa](https://nyaa.si/view/2141249) |
-| `[RedBird] NEEDY GIRL OVERDOSE - S01 [1080p HEVC x265 10bit] (Multi-...` | **9340.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626297) • [🐱 Nyaa](https://nyaa.si/view/2141245) |
-| `[SubsNoJutsu] Goodbye, Lara - S01E05 (1080p WEBRip AAC x265) [5E133...` | **487.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626298) • [🐱 Nyaa](https://nekobt.to/torrents/12815932437771) |
-| `[CenturyZeta] Yanineko Mini Anime - 01-13 (1080p) (Yani Neko)` | **119.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/626296) • [🐱 Nyaa](https://nyaa.si/view/2141242) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 03 [Bilibili WEB-DL 1080P A...` | **445.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626293) • [🐱 Nyaa](https://nyaa.si/view/2141222) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 02 [Bilibili WEB-DL 1080P A...` | **384.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/626294) • [🐱 Nyaa](https://nyaa.si/view/2141221) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 01 [Bilibili WEB-DL 1080P A...` | **416.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626295) • [🐱 Nyaa](https://nyaa.si/view/2141220) |
-| `Though I Am an Inept Villainess S01E01 MULTi AD 1080p CR WEB-DL AAC...` | **1461.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/626288) • [🐱 Nyaa](https://nekobt.to/torrents/12813590222336) |
-| `[Onalrie] Meitantei Precure - S01E27 [1080p WEBRip AV1]` | **490.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626289) • [🐱 Nyaa](https://nekobt.to/torrents/12813582590735) |
-| `Magilumiere Magical Girls Inc S02E05 MULTi 1080p AMZN WEB-DL DDP2.0...` | **292.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/626290) • [🐱 Nyaa](https://nekobt.to/torrents/12813578731020) |
-| `Magilumiere Magical Girls Inc S02E05 MULTi 1080p AMZN WEB-DL DDP2.0...` | **774.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/626291) • [🐱 Nyaa](https://nekobt.to/torrents/12813570754315) |
-| `Magilumiere Magical Girls Inc S02E05 MULTi 1080p AMZN WEB-DL DDP2.0...` | **226.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626292) • [🐱 Nyaa](https://nekobt.to/torrents/12813562752266) |
-| `[Shridhuu] Beyond Time's Gaze - 光阴之外 (Guangyin Zhi Wai) - EP33 [108...` | **466.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/626286) • [🐱 Nyaa](https://nyaa.si/view/2141212) |
-| `[Erai-raws] Meitantei Precure - 27 [1080p CR WEBRip HEVC AAC][Multi...` | **668.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/626281) • [🐱 Nyaa](https://nyaa.si/view/2141203) |
-| `[Erai-raws] Meitantei Precure - 27 [1080p CR WEB-DL AVC AAC][MultiS...` | **1417.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626284) • [🐱 Nyaa](https://nyaa.si/view/2141200) |
+| `[ToonsHub] The World is Dancing S01E06 1080p ADN WEB-DL AAC2.0 H.26...` | **708.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/626336) • [🐱 Nyaa](https://nyaa.si/view/2141325) |
+| `[SubsPlease] World Is Dancing - 06 (1080p) [50DE468A].mkv` | **925.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626337) • [🐱 Nyaa](https://nyaa.si/view/2141324) |
+| `[ToonsHub] The World Is Dancing S01E06 1080p HIDIVE WEB-DL AAC2.0 H...` | **925.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/626340) • [🐱 Nyaa](https://nyaa.si/view/2141321) |
+| `[LbE3L] BLACK TORCH S01E05 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audi...` | **498.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626335) • [🐱 Nyaa](https://nekobt.to/torrents/12818927958279) |
+| `[Doomdos] - Skeleton Knight in Another World Season 2 - 5 [1080p IQ...` | **338.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/626332) • [🐱 Nyaa](https://nyaa.si/view/2141319) |
+| `Skeleton Knight in Another World S02E05 Terror Shadows of Undeath L...` | **1452.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/626333) • [🐱 Nyaa](https://nyaa.si/view/2141317) |
+| `The Insipid Princes Furtive Grab for the Throne S01E05 The Knights ...` | **1408.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/626334) • [🐱 Nyaa](https://nyaa.si/view/2141316) |
+| `[Onalrie] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shi...` | **202.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/626327) • [🐱 Nyaa](https://nekobt.to/torrents/12818719522562) |
+| `[ToonsHub] Skeleton Knight in Another World S02E05 1080p CR WEB-DL ...` | **1450.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/626328) • [🐱 Nyaa](https://nekobt.to/torrents/12818621970176) |
+| `[ToonsHub] The Insipid Princes Furtive Grab for the Throne S01E05 1...` | **1428.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/626329) • [🐱 Nyaa](https://nekobt.to/torrents/12818613536770) |
+| `[Yameii] Skeleton Knight in Another World - S02E05 [English Dub] [C...` | **1397.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/626330) • [🐱 Nyaa](https://nekobt.to/torrents/12818604322822) |
+| `[ASW] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **220.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/626314) • [🐱 Nyaa](https://nyaa.si/view/2141306) |
+| `[SubsPlease] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 -...` | **1390.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/626315) • [🐱 Nyaa](https://nyaa.si/view/2141303) |
+| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 05 [1080...` | **1388.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/626321) • [🐱 Nyaa](https://nyaa.si/view/2141296) |
+| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **1399.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/626323) • [🐱 Nyaa](https://nyaa.si/view/2141294) |
 
 ---
 <div align="center">
