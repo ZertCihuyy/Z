@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.15.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.07.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] One Piece S01E1171 The Heinous Sinner-Loki of the Underworl...` | **1403.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626275) • [🐱 Nyaa](https://nekobt.to/torrents/12809413992969) |
+| `[ToonsHub] One Piece EP1172 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **391.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/626274) • [🐱 Nyaa](https://nyaa.si/view/2141157) |
+| `[CicakRumah] False Memory (2020) [v2, BSITE.WEB-DL 1080P HEVC, AAC ...` | **482.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626273) • [🐱 Nyaa](https://nyaa.si/view/2141156) |
+| `[Doomdos] - Lingwu Continent - 203 [1080p IQ WEB-DL]` | **201.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/626272) • [🐱 Nyaa](https://nyaa.si/view/2141154) |
+| `[Doomdos] - To Be Winner - 3 [1080p IQ WEB-DL]` | **335.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/626268) • [🐱 Nyaa](https://nyaa.si/view/2141152) |
+| `[Yameii] My Hero Academia - S00E24 [English Dub] [CR WEB-DL 1080p H...` | **361.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/626269) • [🐱 Nyaa](https://nyaa.si/view/2141151) |
+| `[ToonsHub] Star Detective Precure S01E27 1080p CR WEB-DL AAC2.0 H.2...` | **1415.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/626267) • [🐱 Nyaa](https://nekobt.to/torrents/12807973594883) |
+| `[Doomdos] - To Be Winner - 2 [1080p IQ WEB-DL]` | **315.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/626265) • [🐱 Nyaa](https://nyaa.si/view/2141145) |
+| `[Doomdos] - To Be Winner - 1 [1080p IQ WEB-DL]` | **347.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/626266) • [🐱 Nyaa](https://nyaa.si/view/2141143) |
 | `[DKB] Azur Lane: Bisoku Zenshin! - S02E05 [1080p][HEVC x265 10bit][...` | **131.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/626260) • [🐱 Nyaa](https://nyaa.si/view/2141078) |
 | `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **368.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/626261) • [🐱 Nyaa](https://nyaa.si/view/2141075) |
 | `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E05 [1080p][HEV...` | **568.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626262) • [🐱 Nyaa](https://nyaa.si/view/2141074) |
 | `[GalaxyCauldron] Bleach Thousand-Year Blood War - 42 (1080p WEB-DL ...` | **1536.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/626259) • [🐱 Nyaa](https://nekobt.to/torrents/12805055738893) |
 | `[FoundYears] The Warrior Princess and the Barbaric King Season 1 (1...` | **10106.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/626258) • [🐱 Nyaa](https://nyaa.si/view/2141069) |
 | `[SubVision] World Is Dancing - 04 (WEB 1080p x264 8Bit AAC)` | **1013.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/626257) • [🐱 Nyaa](https://nekobt.to/torrents/12804179241740) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 17 [1080p CR WEBRip HE...` | **569.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/626256) • [🐱 Nyaa](https://nyaa.si/view/2141061) |
-| `[Trix] Sparks of Tomorrow S01E05 1080p NF WEB-DL AAC2.0 AV1 (Dual-A...` | **253.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626255) • [🐱 Nyaa](https://nyaa.si/view/2141054) |
-| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 05 [1080p CR WEBRip HE...` | **191.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/626251) • [🐱 Nyaa](https://nyaa.si/view/2141049) |
-| `[Erai-raws] Sayonara Lara - 05 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **488.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626252) • [🐱 Nyaa](https://nyaa.si/view/2141048) |
-| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 06 [1080...` | **555.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626253) • [🐱 Nyaa](https://nyaa.si/view/2141047) |
-| `[VARYG] Digimon Beatbreak S01E41 A Golden Tomorrow REPACK 1080p CR ...` | **1378.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626250) • [🐱 Nyaa](https://nekobt.to/torrents/12802919185678) |
-| `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E04 [1080p][...` | **579.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/626249) • [🐱 Nyaa](https://nyaa.si/view/2141043) |
-| `Sparks of Tomorrow S01E05 MULTi AD 1080p NF WEB-DL AAC2.0 x264-Tsun...` | **1043.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/626245) • [🐱 Nyaa](https://nekobt.to/torrents/12802472996876) |
-| `Sparks of Tomorrow S01E05 MULTi AD 1080p NF WEB-DL AAC2.0 H.265-Tsu...` | **610.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/626246) • [🐱 Nyaa](https://nekobt.to/torrents/12802463373833) |
 
 ---
 <div align="center">
