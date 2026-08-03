@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.02.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.40.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] The World is Dancing S01E06 1080p ADN WEB-DL AAC2.0 H.26...` | **708.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/626336) • [🐱 Nyaa](https://nyaa.si/view/2141325) |
-| `[SubsPlease] World Is Dancing - 06 (1080p) [50DE468A].mkv` | **925.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626337) • [🐱 Nyaa](https://nyaa.si/view/2141324) |
-| `[ToonsHub] The World Is Dancing S01E06 1080p HIDIVE WEB-DL AAC2.0 H...` | **925.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/626340) • [🐱 Nyaa](https://nyaa.si/view/2141321) |
-| `[LbE3L] BLACK TORCH S01E05 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audi...` | **498.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626335) • [🐱 Nyaa](https://nekobt.to/torrents/12818927958279) |
-| `[Doomdos] - Skeleton Knight in Another World Season 2 - 5 [1080p IQ...` | **338.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/626332) • [🐱 Nyaa](https://nyaa.si/view/2141319) |
-| `Skeleton Knight in Another World S02E05 Terror Shadows of Undeath L...` | **1452.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/626333) • [🐱 Nyaa](https://nyaa.si/view/2141317) |
-| `The Insipid Princes Furtive Grab for the Throne S01E05 The Knights ...` | **1408.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/626334) • [🐱 Nyaa](https://nyaa.si/view/2141316) |
-| `[Onalrie] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shi...` | **202.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/626327) • [🐱 Nyaa](https://nekobt.to/torrents/12818719522562) |
-| `[ToonsHub] Skeleton Knight in Another World S02E05 1080p CR WEB-DL ...` | **1450.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/626328) • [🐱 Nyaa](https://nekobt.to/torrents/12818621970176) |
-| `[ToonsHub] The Insipid Princes Furtive Grab for the Throne S01E05 1...` | **1428.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/626329) • [🐱 Nyaa](https://nekobt.to/torrents/12818613536770) |
-| `[Yameii] Skeleton Knight in Another World - S02E05 [English Dub] [C...` | **1397.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/626330) • [🐱 Nyaa](https://nekobt.to/torrents/12818604322822) |
-| `[ASW] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **220.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/626314) • [🐱 Nyaa](https://nyaa.si/view/2141306) |
-| `[SubsPlease] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 -...` | **1390.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/626315) • [🐱 Nyaa](https://nyaa.si/view/2141303) |
-| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 05 [1080...` | **1388.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/626321) • [🐱 Nyaa](https://nyaa.si/view/2141296) |
-| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **1399.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/626323) • [🐱 Nyaa](https://nyaa.si/view/2141294) |
+| `[Doomdos] - Grand Blue Dreaming 3 - 5 [1080p IQ WEB-DL]` | **279.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/626424) • [🐱 Nyaa](https://nyaa.si/view/2141455) |
+| `[Onalrie] Grand Blue - S03E05 [1080p WEBRip AV1]` | **277.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/626426) • [🐱 Nyaa](https://nekobt.to/torrents/12821745904900) |
+| `[ToonsHub] Grand Blue Dreaming S03E05 1080p BILI WEB-DL AAC2.0 H.26...` | **322.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/626417) • [🐱 Nyaa](https://nekobt.to/torrents/12821521091855) |
+| `[ToonsHub] The Forsaken Saintess and her Foodie Roadtrip in Another...` | **315.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626418) • [🐱 Nyaa](https://nekobt.to/torrents/12821518592270) |
+| `[ToonsHub] Skeleton Knight in Another World S02E05 1080p BILI WEB-D...` | **395.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/626419) • [🐱 Nyaa](https://nekobt.to/torrents/12821511163905) |
+| `[ToonsHub] Love Unseen Beneath the Clear Night Sky 2026 S01E05 1080...` | **249.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/626420) • [🐱 Nyaa](https://nekobt.to/torrents/12821508838915) |
+| `[ToonsHub] LIAR GAME S01E15 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1636.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/626421) • [🐱 Nyaa](https://nekobt.to/torrents/12821479452160) |
+| `[ToonsHub] Grand Blue Dreaming S03E05 1080p AMZN WEB-DL DDP2.0 H.26...` | **765.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/626422) • [🐱 Nyaa](https://nekobt.to/torrents/12821474407680) |
+| `LIAR GAME S01E16 Turbulence 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG...` | **1452.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/626400) • [🐱 Nyaa](https://nyaa.si/view/2141440) |
+| `[Trix] Grand Blue Dreaming S03E05 [WEBRip 1080p AV1 Opus] (Multi Su...` | **309.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/626401) • [🐱 Nyaa](https://nyaa.si/view/2141439) |
+| `[ASW] Suterare Seijo no Isekai Gohan Tabi - 05 [1080p HEVC x265 10B...` | **257.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626402) • [🐱 Nyaa](https://nyaa.si/view/2141438) |
+| `LIAR GAME S01E18 Caution 1080p CR WEB-DL AAC2.0 H.264-VARYG (Multi-...` | **1418.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/626403) • [🐱 Nyaa](https://nyaa.si/view/2141437) |
+| `[Unfucked] Oh Boy, Was I Wrong About Her - S01E05 (1080p CR WEB-DL ...` | **1410.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/626404) • [🐱 Nyaa](https://nyaa.si/view/2141436) |
+| `[ToonsHub] LIAR GAME S01E16 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1472.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/626405) • [🐱 Nyaa](https://nyaa.si/view/2141434) |
+| `[ToonsHub] LIAR GAME S01E18 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1439.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626406) • [🐱 Nyaa](https://nyaa.si/view/2141433) |
 
 ---
 <div align="center">
