@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.47.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.30.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **711.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626299) • [🐱 Nyaa](https://nyaa.si/view/2141249) |
+| `[RedBird] NEEDY GIRL OVERDOSE - S01 [1080p HEVC x265 10bit] (Multi-...` | **9340.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626297) • [🐱 Nyaa](https://nyaa.si/view/2141245) |
+| `[SubsNoJutsu] Goodbye, Lara - S01E05 (1080p WEBRip AAC x265) [5E133...` | **487.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626298) • [🐱 Nyaa](https://nekobt.to/torrents/12815932437771) |
+| `[CenturyZeta] Yanineko Mini Anime - 01-13 (1080p) (Yani Neko)` | **119.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/626296) • [🐱 Nyaa](https://nyaa.si/view/2141242) |
+| `[Prejudice-Studio] 记忆管理局 False Memory - 03 [Bilibili WEB-DL 1080P A...` | **445.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626293) • [🐱 Nyaa](https://nyaa.si/view/2141222) |
+| `[Prejudice-Studio] 记忆管理局 False Memory - 02 [Bilibili WEB-DL 1080P A...` | **384.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/626294) • [🐱 Nyaa](https://nyaa.si/view/2141221) |
+| `[Prejudice-Studio] 记忆管理局 False Memory - 01 [Bilibili WEB-DL 1080P A...` | **416.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626295) • [🐱 Nyaa](https://nyaa.si/view/2141220) |
 | `Though I Am an Inept Villainess S01E01 MULTi AD 1080p CR WEB-DL AAC...` | **1461.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/626288) • [🐱 Nyaa](https://nekobt.to/torrents/12813590222336) |
 | `[Onalrie] Meitantei Precure - S01E27 [1080p WEBRip AV1]` | **490.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626289) • [🐱 Nyaa](https://nekobt.to/torrents/12813582590735) |
 | `Magilumiere Magical Girls Inc S02E05 MULTi 1080p AMZN WEB-DL DDP2.0...` | **292.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/626290) • [🐱 Nyaa](https://nekobt.to/torrents/12813578731020) |
@@ -38,13 +45,6 @@
 | `[Shridhuu] Beyond Time's Gaze - 光阴之外 (Guangyin Zhi Wai) - EP33 [108...` | **466.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/626286) • [🐱 Nyaa](https://nyaa.si/view/2141212) |
 | `[Erai-raws] Meitantei Precure - 27 [1080p CR WEBRip HEVC AAC][Multi...` | **668.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/626281) • [🐱 Nyaa](https://nyaa.si/view/2141203) |
 | `[Erai-raws] Meitantei Precure - 27 [1080p CR WEB-DL AVC AAC][MultiS...` | **1417.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626284) • [🐱 Nyaa](https://nyaa.si/view/2141200) |
-| `[Doomdos] - UNDER THE GATE - 4 [1080p IQ WEB-DL]` | **126.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/626277) • [🐱 Nyaa](https://nyaa.si/view/2141192) |
-| `[Doomdos] - UNDER THE GATE - 3 [1080p IQ WEB-DL]` | **117.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/626278) • [🐱 Nyaa](https://nyaa.si/view/2141191) |
-| `[Doomdos] - UNDER THE GATE - 2 [1080p IQ WEB-DL]` | **129.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626279) • [🐱 Nyaa](https://nyaa.si/view/2141190) |
-| `[Doomdos] - UNDER THE GATE - 1 [1080p IQ WEB-DL]` | **129.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/626280) • [🐱 Nyaa](https://nyaa.si/view/2141189) |
-| `[Nii-sama] Blend S [1080p BD HEVC]` | **10687.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/626276) • [🐱 Nyaa](https://nyaa.si/view/2141162) |
-| `[VARYG] One Piece S01E1171 The Heinous Sinner-Loki of the Underworl...` | **1403.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626275) • [🐱 Nyaa](https://nekobt.to/torrents/12809413992969) |
-| `[ToonsHub] One Piece EP1172 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **391.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/626274) • [🐱 Nyaa](https://nyaa.si/view/2141157) |
 
 ---
 <div align="center">
