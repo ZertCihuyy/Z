@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.33.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.41.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kozame] Odekake Kozame (Little Shark's Outings) - 77 [1080p] [C15B...` | **26.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/626481) • [🐱 Nyaa](https://nyaa.si/view/2141543) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E06 (1080p AAC x265 B...` | **631.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626484) • [🐱 Nyaa](https://nekobt.to/torrents/12826982757383) |
+| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **863.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/626482) • [🐱 Nyaa](https://nyaa.si/view/2141542) |
+| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **367.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/626483) • [🐱 Nyaa](https://nyaa.si/view/2141541) |
 | `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E04 1080p CR WEB-D...` | **1457.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626479) • [🐱 Nyaa](https://nyaa.si/view/2141540) |
 | `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **379.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/626480) • [🐱 Nyaa](https://nekobt.to/torrents/12826040057862) |
 | `[CFN] Detective Conan - Episode 001 [Remastered] [Funimation Dub] [...` | **306.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/626478) • [🐱 Nyaa](https://nekobt.to/torrents/12825979920135) |
@@ -44,10 +48,6 @@
 | `One Piece S01E1172 Monsters Appear in Elbaph-What I Fear Most REPAC...` | **1382.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/626470) • [🐱 Nyaa](https://nyaa.si/view/2141520) |
 | `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **278.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626471) • [🐱 Nyaa](https://nyaa.si/view/2141514) |
 | `[VARYG] One Piece S01E1171 The Heinous Sinner-Loki of the Underworl...` | **441.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/626468) • [🐱 Nyaa](https://nekobt.to/torrents/12824689855746) |
-| `[VARYG] One Piece S01E1170 Get the Key Luffy vs Scopper Gaban 1080p...` | **425.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626469) • [🐱 Nyaa](https://nekobt.to/torrents/12824616357897) |
-| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **740.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/626465) • [🐱 Nyaa](https://nyaa.si/view/2141502) |
-| `Little Witch Academia (2013) [BD 1080p HEVC Opus] [C3188CE4] [Thank...` | **3538.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626466) • [🐱 Nyaa](https://nyaa.si/view/2141501) |
-| `Level.1.Demon.Lord.and.One.Room.Hero.S01.REPACK.1080p.BluRay.Dual-A...` | **9353.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626463) • [🐱 Nyaa](https://nekobt.to/torrents/12823835194888) |
 
 ---
 <div align="center">
