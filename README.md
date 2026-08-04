@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.36.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.43.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Koori no Jouheki - S01E07 [1080p WEBRip AV1]` | **194.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626682) • [🐱 Nyaa](https://nekobt.to/torrents/12850103523336) |
+| `[Onalrie] Koori no Jouheki - S01E08 [1080p WEBRip AV1]` | **207.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/626681) • [🐱 Nyaa](https://nekobt.to/torrents/12849700978695) |
 | `[Onalrie] Koori no Jouheki - S01E02 [1080p WEBRip AV1]` | **215.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/626679) • [🐱 Nyaa](https://nekobt.to/torrents/12849248804097) |
 | `[Onalrie] Koori no Jouheki - S01E03 [1080p WEBRip AV1]` | **210.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626678) • [🐱 Nyaa](https://nekobt.to/torrents/12848834925061) |
 | `[SubsPlease] Ace of Diamond Act II S2 (01-13) (1080p) [Batch]` | **17902.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626675) • [🐱 Nyaa](https://nyaa.si/view/2141970) |
@@ -46,8 +48,6 @@
 | `[ToonsHub] Though I Am an Inept Villainess S01E03 1080p NF WEB-DL D...` | **896.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626666) • [🐱 Nyaa](https://nekobt.to/torrents/12846884083204) |
 | `[Ironclad] Sora wa Akai Kawa no Hotori - S01E05 [WEB.1080p.AV1] | R...` | **216.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626665) • [🐱 Nyaa](https://nyaa.si/view/2141954) |
 | `Though I Am an Inept Villainess S01E03 Shoulders Back Look Forward ...` | **896.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626664) • [🐱 Nyaa](https://nyaa.si/view/2141953) |
-| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 05 [1080p CR WE...` | **738.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/626661) • [🐱 Nyaa](https://nyaa.si/view/2141947) |
-| `[Erai-raws] Tefuda ga Oome no Victoria - 05 [1080p CR WEBRip HEVC A...` | **386.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/626662) • [🐱 Nyaa](https://nyaa.si/view/2141946) |
 
 ---
 <div align="center">
