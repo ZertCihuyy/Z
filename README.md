@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.45.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.28.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Rilakkuma - S01E18 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **44.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/626545) • [🐱 Nyaa](https://nyaa.si/view/2141724) |
+| `[SubsPlease] Yowayowa Sensei (01-12) (1080p) [Batch]` | **11054.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/626549) • [🐱 Nyaa](https://nyaa.si/view/2141717) |
+| `My Hero Academia S00E24 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **369.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/626533) • [🐱 Nyaa](https://nekobt.to/torrents/12837440438789) |
 | `[Onalrie] Crowned in a Hundred Days - S01E13 (CA) [1080p WEBRip AV1]` | **152.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/626524) • [🐱 Nyaa](https://nekobt.to/torrents/12835866739727) |
 | `[TechMod] Kamikaze Kaitou Jeanne [JPBD 1080p]` | **37192.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/626521) • [🐱 Nyaa](https://nyaa.si/view/2141676) |
 | `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **979.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/626522) • [🐱 Nyaa](https://nyaa.si/view/2141675) |
@@ -45,9 +48,6 @@
 | `[ASW] Bai Ri Cheng Wang - 13 [1080p HEVC x265 10Bit][AAC]` | **186.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/626507) • [🐱 Nyaa](https://nyaa.si/view/2141620) |
 | `[ToonsHub] Crowned in a Hundred Days S01E13 1080p CR WEB-DL AAC2.0 ...` | **744.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626497) • [🐱 Nyaa](https://nyaa.si/view/2141618) |
 | `Crowned in a Hundred Days S01E13 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **746.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/626498) • [🐱 Nyaa](https://nyaa.si/view/2141617) |
-| `[Gecko] Crowned in a Hundred Days - S01E13 (百日成王; Bai Ri Cheng Wang...` | **193.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/626499) • [🐱 Nyaa](https://nyaa.si/view/2141612) |
-| `[SubsPlease] Bai Ri Cheng Wang - 13 (1080p) [FD842033].mkv` | **741.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/626500) • [🐱 Nyaa](https://nyaa.si/view/2141611) |
-| `[ToonsHub] Crowned in a Hundred Days S01E13 1080p BILI WEB-DL AAC2....` | **190.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/626504) • [🐱 Nyaa](https://nyaa.si/view/2141607) |
 
 ---
 <div align="center">
