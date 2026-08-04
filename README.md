@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.28.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.17.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gecko] Rilakkuma - S01E18 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **44.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/626545) • [🐱 Nyaa](https://nyaa.si/view/2141724) |
-| `[SubsPlease] Yowayowa Sensei (01-12) (1080p) [Batch]` | **11054.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/626549) • [🐱 Nyaa](https://nyaa.si/view/2141717) |
-| `My Hero Academia S00E24 MULTi 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **369.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/626533) • [🐱 Nyaa](https://nekobt.to/torrents/12837440438789) |
-| `[Onalrie] Crowned in a Hundred Days - S01E13 (CA) [1080p WEBRip AV1]` | **152.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/626524) • [🐱 Nyaa](https://nekobt.to/torrents/12835866739727) |
-| `[TechMod] Kamikaze Kaitou Jeanne [JPBD 1080p]` | **37192.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/626521) • [🐱 Nyaa](https://nyaa.si/view/2141676) |
-| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **979.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/626522) • [🐱 Nyaa](https://nyaa.si/view/2141675) |
-| `Another World 2025 1080p AMZN WEB-DL H264-SCOPE` | **6950.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/626523) • [🐱 Nyaa](https://nyaa.si/view/2141674) |
-| `Another World 2025.1080p AMZN WEB-DL DDP5.1 H 264-SCOPE` | **6950.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/626520) • [🐱 Nyaa](https://nyaa.si/view/2141668) |
-| `[Queen Medusa] Demon Slayer Infinity Castle Part 1 (Kimetsu no Yaib...` | **2247.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/626517) • [🐱 Nyaa](https://nyaa.si/view/2141649) |
-| `[Breeze] Mushoku Tensei S03E06 [1080p AV1] | Jobless Reincarnation ...` | **858.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/626510) • [🐱 Nyaa](https://nyaa.si/view/2141632) |
-| `[Tasokare] Fate/Strange Fake: Whispers of Dawn 2023 (BD 1080p Opus ...` | **2641.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/626511) • [🐱 Nyaa](https://nyaa.si/view/2141629) |
-| `[Kawatare] Fate/Strange Fake: Whispers of Dawn 2023 (BD 1080p FLAC ...` | **9884.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626512) • [🐱 Nyaa](https://nyaa.si/view/2141628) |
-| `[ASW] Bai Ri Cheng Wang - 13 [1080p HEVC x265 10Bit][AAC]` | **186.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/626507) • [🐱 Nyaa](https://nyaa.si/view/2141620) |
-| `[ToonsHub] Crowned in a Hundred Days S01E13 1080p CR WEB-DL AAC2.0 ...` | **744.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626497) • [🐱 Nyaa](https://nyaa.si/view/2141618) |
-| `Crowned in a Hundred Days S01E13 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **746.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/626498) • [🐱 Nyaa](https://nyaa.si/view/2141617) |
+| `[ToonsHub] Saved by the Ice Cold Princes Embrace S01E05 1080p AMZN ...` | **291.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/626584) • [🐱 Nyaa](https://nekobt.to/torrents/12840773148418) |
+| `[ASW] Kimi ga Shinu made Koi wo Shitai - 05 [1080p HEVC x265 10Bit]...` | **205.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/626583) • [🐱 Nyaa](https://nyaa.si/view/2141793) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E08 (1080p AAC x265 B...` | **626.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/626582) • [🐱 Nyaa](https://nekobt.to/torrents/12840379019265) |
+| `[SubsPlease] Kimi ga Shinu made Koi wo Shitai - 05 (1080p) [F055ED9...` | **1381.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/626579) • [🐱 Nyaa](https://nyaa.si/view/2141786) |
+| `[ToonsHub] I Want to Love You Till Your Dying Day S01E05 1080p CR W...` | **1389.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/626575) • [🐱 Nyaa](https://nekobt.to/torrents/12840223100417) |
+| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 05 [1080p CR WEB-DL ...` | **1388.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/626572) • [🐱 Nyaa](https://nyaa.si/view/2141778) |
+| `[Onalrie] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai - ...` | **247.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/626578) • [🐱 Nyaa](https://nekobt.to/torrents/12840008808207) |
+| `[Judas] Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai (Yo...` | **288.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/626574) • [🐱 Nyaa](https://nyaa.si/view/2141772) |
+| `[FrixySubs] BLACK TORCH - S01E03 [1080p CR WEB-DL H.264 AAC] [Napis...` | **1026.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626570) • [🐱 Nyaa](https://nekobt.to/torrents/12839833867535) |
+| `[ASW] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - 05 [...` | **288.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/626569) • [🐱 Nyaa](https://nyaa.si/view/2141765) |
+| `[Gecko] The World Is Dancing - S01E06 (ワールド イズ ダンシング; World Is Danc...` | **675.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/626566) • [🐱 Nyaa](https://nyaa.si/view/2141745) |
+| `[VARYG] Young Ladies Dont Play Fighting Games S01E05 The Night Befo...` | **1415.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626561) • [🐱 Nyaa](https://nekobt.to/torrents/12839397579277) |
+| `[ToonsHub] Young Ladies Dont Play Fighting Games S01E05 1080p CR WE...` | **1433.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/626562) • [🐱 Nyaa](https://nekobt.to/torrents/12839381657868) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E07 (1080p AAC x265 B...` | **639.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/626563) • [🐱 Nyaa](https://nekobt.to/torrents/12839337552651) |
+| `[Gecko] GROW UP SHOW -Sunflower Circus- - S01E05 (グロウアップショウ ～ひまわりのサ...` | **708.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/626551) • [🐱 Nyaa](https://nyaa.si/view/2141740) |
 
 ---
 <div align="center">
