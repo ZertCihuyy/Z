@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.47.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.15.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Koori no Jouheki - S01E01 [1080p WEBRip AV1]` | **230.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/626673) • [🐱 Nyaa](https://nekobt.to/torrents/12848031112462) |
+| `[kikuri] Gunsmith Cats S01 (BD 1080p HEVC Opus)` | **20362.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626671) • [🐱 Nyaa](https://nyaa.si/view/2141966) |
+| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E09 (1080p AAC x265 B...` | **624.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626672) • [🐱 Nyaa](https://nekobt.to/torrents/12847696033541) |
+| `Yoroi Shinden Samurai Troopers S01E17 Flash 1080p CR WEB-DL AAC2.0 ...` | **1404.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/626667) • [🐱 Nyaa](https://nyaa.si/view/2141964) |
+| `Red River 2026 S01E05 A Sword to Fight 1080p CR WEB-DL AAC2.0 H.264...` | **1340.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626668) • [🐱 Nyaa](https://nyaa.si/view/2141963) |
+| `[Erai-raws] Sora wa Akai Kawa no Hotori - 05 [1080p CR WEBRip HEVC ...` | **370.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626669) • [🐱 Nyaa](https://nyaa.si/view/2141962) |
 | `[ToonsHub] Though I Am an Inept Villainess S01E03 1080p NF WEB-DL D...` | **896.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626666) • [🐱 Nyaa](https://nekobt.to/torrents/12846884083204) |
 | `[Ironclad] Sora wa Akai Kawa no Hotori - S01E05 [WEB.1080p.AV1] | R...` | **216.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626665) • [🐱 Nyaa](https://nyaa.si/view/2141954) |
 | `Though I Am an Inept Villainess S01E03 Shoulders Back Look Forward ...` | **896.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626664) • [🐱 Nyaa](https://nyaa.si/view/2141953) |
@@ -42,12 +48,6 @@
 | `[Onalrie] Sora wa Akai Kawa no Hotori - S01E05 [1080p WEBRip AV1]` | **190.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626660) • [🐱 Nyaa](https://nekobt.to/torrents/12845433595138) |
 | `[ASW] Sora wa Akai Kawa no Hotori - 05 [1080p HEVC x265 10Bit][AAC]` | **214.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626658) • [🐱 Nyaa](https://nyaa.si/view/2141933) |
 | `[Ironclad] THE GHOST IN THE SHELL - S01E05 [WEB.1080p.AV1] | THE GH...` | **747.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626649) • [🐱 Nyaa](https://nyaa.si/view/2141923) |
-| `[DKB] Tefuda ga Oome no Victoria - S01E05 [1080p][HEVC x265 10bit][...` | **246.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/626650) • [🐱 Nyaa](https://nyaa.si/view/2141922) |
-| `[ToonsHub] Red River S01E05 1080p CR WEB-DL AAC2.0 H.264 (Sora wa A...` | **1339.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/626651) • [🐱 Nyaa](https://nyaa.si/view/2141921) |
-| `[SubsPlease] Sora wa Akai Kawa no Hotori - 05 (1080p) [5124FEFF].mkv` | **1330.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/626652) • [🐱 Nyaa](https://nyaa.si/view/2141920) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 05 [1080p CR WEB-DL AVC A...` | **1338.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/626657) • [🐱 Nyaa](https://nyaa.si/view/2141912) |
-| `[Ommex] Doraemon (2005) Episode 926 [ENG SUB][1080p x265 AAC]` | **480.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/626645) • [🐱 Nyaa](https://nyaa.si/view/2141910) |
-| `[Judas] One Piece - 1172 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **431.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626646) • [🐱 Nyaa](https://nyaa.si/view/2141908) |
 
 ---
 <div align="center">
