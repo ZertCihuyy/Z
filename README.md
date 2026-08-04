@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.56.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.54.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Breeze] Mushoku Tensei S03E06 [1080p AV1] | Jobless Reincarnation ...` | **858.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/626510) • [🐱 Nyaa](https://nyaa.si/view/2141632) |
+| `[Tasokare] Fate/Strange Fake: Whispers of Dawn 2023 (BD 1080p Opus ...` | **2641.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/626511) • [🐱 Nyaa](https://nyaa.si/view/2141629) |
+| `[Kawatare] Fate/Strange Fake: Whispers of Dawn 2023 (BD 1080p FLAC ...` | **9884.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626512) • [🐱 Nyaa](https://nyaa.si/view/2141628) |
+| `[ASW] Bai Ri Cheng Wang - 13 [1080p HEVC x265 10Bit][AAC]` | **186.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/626507) • [🐱 Nyaa](https://nyaa.si/view/2141620) |
+| `[ToonsHub] Crowned in a Hundred Days S01E13 1080p CR WEB-DL AAC2.0 ...` | **744.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626497) • [🐱 Nyaa](https://nyaa.si/view/2141618) |
+| `Crowned in a Hundred Days S01E13 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **746.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/626498) • [🐱 Nyaa](https://nyaa.si/view/2141617) |
+| `[Gecko] Crowned in a Hundred Days - S01E13 (百日成王; Bai Ri Cheng Wang...` | **193.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/626499) • [🐱 Nyaa](https://nyaa.si/view/2141612) |
+| `[SubsPlease] Bai Ri Cheng Wang - 13 (1080p) [FD842033].mkv` | **741.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/626500) • [🐱 Nyaa](https://nyaa.si/view/2141611) |
+| `[ToonsHub] Crowned in a Hundred Days S01E13 1080p BILI WEB-DL AAC2....` | **190.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/626504) • [🐱 Nyaa](https://nyaa.si/view/2141607) |
+| `[Erai-raws] Crowned in a Hundred Days - 13 (CA) [1080p CR WEB-DL AV...` | **583.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/626506) • [🐱 Nyaa](https://nyaa.si/view/2141605) |
+| `[Kakumei Subs] Honzuki no Gekokujou S04E15 [1080p WEB HEVC AAC] [Su...` | **2470.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/626496) • [🐱 Nyaa](https://nekobt.to/torrents/12831784042246) |
 | `[Doomdos] - Ascendants of the Nine Suns - 40 [1080p IQ WEB-DL]` | **170.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/626494) • [🐱 Nyaa](https://nyaa.si/view/2141579) |
 | `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **497.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/626495) • [🐱 Nyaa](https://nyaa.si/view/2141576) |
 | `[WBDP] Masamune-kun no Revenge / Masamune-kun's Revenge (Complete) ...` | **25993.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626493) • [🐱 Nyaa](https://nyaa.si/view/2141573) |
 | `[AnoZu] X 1996 1080p CR WEB-DL DDP 2.0 H.264 | X: The Movie` | **5743.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/626492) • [🐱 Nyaa](https://nyaa.si/view/2141570) |
-| `[AI-Raws] Vampire Hunter D(2001) BDRip 1080p MKV` | **12953.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/626490) • [🐱 Nyaa](https://nyaa.si/view/2141562) |
-| `[AI-Raws] Vampire Hunter D(1985) BDRip 1080p MKV` | **4701.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/626491) • [🐱 Nyaa](https://nyaa.si/view/2141561) |
-| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 05 (1080p) [H455H4KU]` | **1125.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626489) • [🐱 Nyaa](https://nyaa.si/view/2141556) |
-| `[Fuchs] Mushoku Tensei - S03E04 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1432.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/626485) • [🐱 Nyaa](https://nyaa.si/view/2141554) |
-| `[Fuchs] Mushoku Tensei - S03E03 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1445.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626486) • [🐱 Nyaa](https://nyaa.si/view/2141553) |
-| `[Fuchs] Mushoku Tensei - S03E02 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1428.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626487) • [🐱 Nyaa](https://nyaa.si/view/2141552) |
-| `[Fuchs] Mushoku Tensei - S03E01 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1423.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/626488) • [🐱 Nyaa](https://nyaa.si/view/2141551) |
-| `[Kozame] Odekake Kozame (Little Shark's Outings) - 77 [1080p] [C15B...` | **26.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/626481) • [🐱 Nyaa](https://nyaa.si/view/2141543) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E06 (1080p AAC x265 B...` | **631.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626484) • [🐱 Nyaa](https://nekobt.to/torrents/12826982757383) |
-| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **863.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/626482) • [🐱 Nyaa](https://nyaa.si/view/2141542) |
-| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **367.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/626483) • [🐱 Nyaa](https://nyaa.si/view/2141541) |
 
 ---
 <div align="center">
