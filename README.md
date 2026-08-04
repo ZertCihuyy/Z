@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.54.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.45.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Crowned in a Hundred Days - S01E13 (CA) [1080p WEBRip AV1]` | **152.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/626524) • [🐱 Nyaa](https://nekobt.to/torrents/12835866739727) |
+| `[TechMod] Kamikaze Kaitou Jeanne [JPBD 1080p]` | **37192.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/626521) • [🐱 Nyaa](https://nyaa.si/view/2141676) |
+| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **979.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/626522) • [🐱 Nyaa](https://nyaa.si/view/2141675) |
+| `Another World 2025 1080p AMZN WEB-DL H264-SCOPE` | **6950.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/626523) • [🐱 Nyaa](https://nyaa.si/view/2141674) |
+| `Another World 2025.1080p AMZN WEB-DL DDP5.1 H 264-SCOPE` | **6950.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/626520) • [🐱 Nyaa](https://nyaa.si/view/2141668) |
+| `[Queen Medusa] Demon Slayer Infinity Castle Part 1 (Kimetsu no Yaib...` | **2247.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/626517) • [🐱 Nyaa](https://nyaa.si/view/2141649) |
 | `[Breeze] Mushoku Tensei S03E06 [1080p AV1] | Jobless Reincarnation ...` | **858.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/626510) • [🐱 Nyaa](https://nyaa.si/view/2141632) |
 | `[Tasokare] Fate/Strange Fake: Whispers of Dawn 2023 (BD 1080p Opus ...` | **2641.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/626511) • [🐱 Nyaa](https://nyaa.si/view/2141629) |
 | `[Kawatare] Fate/Strange Fake: Whispers of Dawn 2023 (BD 1080p FLAC ...` | **9884.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626512) • [🐱 Nyaa](https://nyaa.si/view/2141628) |
@@ -42,12 +48,6 @@
 | `[Gecko] Crowned in a Hundred Days - S01E13 (百日成王; Bai Ri Cheng Wang...` | **193.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/626499) • [🐱 Nyaa](https://nyaa.si/view/2141612) |
 | `[SubsPlease] Bai Ri Cheng Wang - 13 (1080p) [FD842033].mkv` | **741.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/626500) • [🐱 Nyaa](https://nyaa.si/view/2141611) |
 | `[ToonsHub] Crowned in a Hundred Days S01E13 1080p BILI WEB-DL AAC2....` | **190.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/626504) • [🐱 Nyaa](https://nyaa.si/view/2141607) |
-| `[Erai-raws] Crowned in a Hundred Days - 13 (CA) [1080p CR WEB-DL AV...` | **583.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/626506) • [🐱 Nyaa](https://nyaa.si/view/2141605) |
-| `[Kakumei Subs] Honzuki no Gekokujou S04E15 [1080p WEB HEVC AAC] [Su...` | **2470.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/626496) • [🐱 Nyaa](https://nekobt.to/torrents/12831784042246) |
-| `[Doomdos] - Ascendants of the Nine Suns - 40 [1080p IQ WEB-DL]` | **170.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/626494) • [🐱 Nyaa](https://nyaa.si/view/2141579) |
-| `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **497.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/626495) • [🐱 Nyaa](https://nyaa.si/view/2141576) |
-| `[WBDP] Masamune-kun no Revenge / Masamune-kun's Revenge (Complete) ...` | **25993.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626493) • [🐱 Nyaa](https://nyaa.si/view/2141573) |
-| `[AnoZu] X 1996 1080p CR WEB-DL DDP 2.0 H.264 | X: The Movie` | **5743.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/626492) • [🐱 Nyaa](https://nyaa.si/view/2141570) |
 
 ---
 <div align="center">
