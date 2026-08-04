@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.50.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.56.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - Ascendants of the Nine Suns - 40 [1080p IQ WEB-DL]` | **170.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/626494) • [🐱 Nyaa](https://nyaa.si/view/2141579) |
+| `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **497.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/626495) • [🐱 Nyaa](https://nyaa.si/view/2141576) |
+| `[WBDP] Masamune-kun no Revenge / Masamune-kun's Revenge (Complete) ...` | **25993.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626493) • [🐱 Nyaa](https://nyaa.si/view/2141573) |
+| `[AnoZu] X 1996 1080p CR WEB-DL DDP 2.0 H.264 | X: The Movie` | **5743.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/626492) • [🐱 Nyaa](https://nyaa.si/view/2141570) |
+| `[AI-Raws] Vampire Hunter D(2001) BDRip 1080p MKV` | **12953.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/626490) • [🐱 Nyaa](https://nyaa.si/view/2141562) |
+| `[AI-Raws] Vampire Hunter D(1985) BDRip 1080p MKV` | **4701.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/626491) • [🐱 Nyaa](https://nyaa.si/view/2141561) |
+| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 05 (1080p) [H455H4KU]` | **1125.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626489) • [🐱 Nyaa](https://nyaa.si/view/2141556) |
 | `[Fuchs] Mushoku Tensei - S03E04 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1432.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/626485) • [🐱 Nyaa](https://nyaa.si/view/2141554) |
 | `[Fuchs] Mushoku Tensei - S03E03 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1445.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626486) • [🐱 Nyaa](https://nyaa.si/view/2141553) |
 | `[Fuchs] Mushoku Tensei - S03E02 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1428.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626487) • [🐱 Nyaa](https://nyaa.si/view/2141552) |
@@ -41,13 +48,6 @@
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E06 (1080p AAC x265 B...` | **631.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626484) • [🐱 Nyaa](https://nekobt.to/torrents/12826982757383) |
 | `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **863.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/626482) • [🐱 Nyaa](https://nyaa.si/view/2141542) |
 | `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **367.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/626483) • [🐱 Nyaa](https://nyaa.si/view/2141541) |
-| `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E04 1080p CR WEB-D...` | **1457.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626479) • [🐱 Nyaa](https://nyaa.si/view/2141540) |
-| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **379.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/626480) • [🐱 Nyaa](https://nekobt.to/torrents/12826040057862) |
-| `[CFN] Detective Conan - Episode 001 [Remastered] [Funimation Dub] [...` | **306.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/626478) • [🐱 Nyaa](https://nekobt.to/torrents/12825979920135) |
-| `[DKB] Grand Blue - S03E05 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **317.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/626477) • [🐱 Nyaa](https://nyaa.si/view/2141538) |
-| `[kikuri] Bocchi the Rock! (BD 1080p HEVC Opus) | BOCCHI THE ROCK! S01` | **24335.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626475) • [🐱 Nyaa](https://nekobt.to/torrents/12825684354307) |
-| `[FrixySubs] Lord of Mysteries S00E03 - Specials - Polowanie na nazn...` | **1105.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/626476) • [🐱 Nyaa](https://nekobt.to/torrents/12825572906508) |
-| `[FrixySubs] Mushoku Tensei - S03E06 [1080p CR WEB-DL H.264 AAC] [Na...` | **1387.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626473) • [🐱 Nyaa](https://nekobt.to/torrents/12825279560709) |
 
 ---
 <div align="center">
