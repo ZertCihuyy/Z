@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.15.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.36.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Koori no Jouheki - S01E02 [1080p WEBRip AV1]` | **215.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/626679) • [🐱 Nyaa](https://nekobt.to/torrents/12849248804097) |
+| `[Onalrie] Koori no Jouheki - S01E03 [1080p WEBRip AV1]` | **210.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626678) • [🐱 Nyaa](https://nekobt.to/torrents/12848834925061) |
+| `[SubsPlease] Ace of Diamond Act II S2 (01-13) (1080p) [Batch]` | **17902.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626675) • [🐱 Nyaa](https://nyaa.si/view/2141970) |
+| `[Onalrie] Koori no Jouheki - S01E04 [1080p WEBRip AV1]` | **199.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/626674) • [🐱 Nyaa](https://nekobt.to/torrents/12848428015621) |
 | `[Onalrie] Koori no Jouheki - S01E01 [1080p WEBRip AV1]` | **230.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/626673) • [🐱 Nyaa](https://nekobt.to/torrents/12848031112462) |
 | `[kikuri] Gunsmith Cats S01 (BD 1080p HEVC Opus)` | **20362.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626671) • [🐱 Nyaa](https://nyaa.si/view/2141966) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E09 (1080p AAC x265 B...` | **624.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626672) • [🐱 Nyaa](https://nekobt.to/torrents/12847696033541) |
@@ -44,10 +48,6 @@
 | `Though I Am an Inept Villainess S01E03 Shoulders Back Look Forward ...` | **896.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626664) • [🐱 Nyaa](https://nyaa.si/view/2141953) |
 | `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 05 [1080p CR WE...` | **738.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/626661) • [🐱 Nyaa](https://nyaa.si/view/2141947) |
 | `[Erai-raws] Tefuda ga Oome no Victoria - 05 [1080p CR WEBRip HEVC A...` | **386.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/626662) • [🐱 Nyaa](https://nyaa.si/view/2141946) |
-| `[Erai-raws] Koukaku Kidoutai (2026) - 05 [1080p AMZN WEBRip HEVC EA...` | **724.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626663) • [🐱 Nyaa](https://nyaa.si/view/2141945) |
-| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E05 [1080p WEBRip AV1]` | **190.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626660) • [🐱 Nyaa](https://nekobt.to/torrents/12845433595138) |
-| `[ASW] Sora wa Akai Kawa no Hotori - 05 [1080p HEVC x265 10Bit][AAC]` | **214.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626658) • [🐱 Nyaa](https://nyaa.si/view/2141933) |
-| `[Ironclad] THE GHOST IN THE SHELL - S01E05 [WEB.1080p.AV1] | THE GH...` | **747.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626649) • [🐱 Nyaa](https://nyaa.si/view/2141923) |
 
 ---
 <div align="center">
