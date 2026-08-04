@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.57.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.47.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Though I Am an Inept Villainess S01E03 1080p NF WEB-DL D...` | **896.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626666) • [🐱 Nyaa](https://nekobt.to/torrents/12846884083204) |
+| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E05 [WEB.1080p.AV1] | R...` | **216.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626665) • [🐱 Nyaa](https://nyaa.si/view/2141954) |
+| `Though I Am an Inept Villainess S01E03 Shoulders Back Look Forward ...` | **896.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626664) • [🐱 Nyaa](https://nyaa.si/view/2141953) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 05 [1080p CR WE...` | **738.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/626661) • [🐱 Nyaa](https://nyaa.si/view/2141947) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 05 [1080p CR WEBRip HEVC A...` | **386.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/626662) • [🐱 Nyaa](https://nyaa.si/view/2141946) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 05 [1080p AMZN WEBRip HEVC EA...` | **724.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626663) • [🐱 Nyaa](https://nyaa.si/view/2141945) |
+| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E05 [1080p WEBRip AV1]` | **190.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626660) • [🐱 Nyaa](https://nekobt.to/torrents/12845433595138) |
+| `[ASW] Sora wa Akai Kawa no Hotori - 05 [1080p HEVC x265 10Bit][AAC]` | **214.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626658) • [🐱 Nyaa](https://nyaa.si/view/2141933) |
 | `[Ironclad] THE GHOST IN THE SHELL - S01E05 [WEB.1080p.AV1] | THE GH...` | **747.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626649) • [🐱 Nyaa](https://nyaa.si/view/2141923) |
 | `[DKB] Tefuda ga Oome no Victoria - S01E05 [1080p][HEVC x265 10bit][...` | **246.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/626650) • [🐱 Nyaa](https://nyaa.si/view/2141922) |
 | `[ToonsHub] Red River S01E05 1080p CR WEB-DL AAC2.0 H.264 (Sora wa A...` | **1339.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/626651) • [🐱 Nyaa](https://nyaa.si/view/2141921) |
@@ -40,14 +48,6 @@
 | `[Erai-raws] Sora wa Akai Kawa no Hotori - 05 [1080p CR WEB-DL AVC A...` | **1338.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/626657) • [🐱 Nyaa](https://nyaa.si/view/2141912) |
 | `[Ommex] Doraemon (2005) Episode 926 [ENG SUB][1080p x265 AAC]` | **480.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/626645) • [🐱 Nyaa](https://nyaa.si/view/2141910) |
 | `[Judas] One Piece - 1172 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **431.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626646) • [🐱 Nyaa](https://nyaa.si/view/2141908) |
-| `[SubsNoJutsu] Witch Hat Atelier - S01E10 (1080p WEB AAC x265) [2A35...` | **194.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/626648) • [🐱 Nyaa](https://nekobt.to/torrents/12844649520398) |
-| `[Breeze] Mushoku Tensei S03E04 [1080p AV1 Dual Audio] | Jobless Rei...` | **906.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/626647) • [🐱 Nyaa](https://nyaa.si/view/2141906) |
-| `[SubsNoJutsu] Witch Hat Atelier - S01E09 (1080p WEB AAC x265) [5F42...` | **437.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/626643) • [🐱 Nyaa](https://nekobt.to/torrents/12844472223240) |
-| `[DKB] The Ghost in the Shell - S01E05 [1080p][HEVC x265 10bit][Dual...` | **1119.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626642) • [🐱 Nyaa](https://nyaa.si/view/2141904) |
-| `[SubsNoJutsu] Witch Hat Atelier - S01E07 (1080p WEB AAC x265) [C387...` | **383.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/626640) • [🐱 Nyaa](https://nekobt.to/torrents/12844189686023) |
-| `[Onalrie] Yoroi-Shinden Samurai Troopers - S02E05 [1080p WEBRip AV1]` | **364.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/626641) • [🐱 Nyaa](https://nekobt.to/torrents/12844092679430) |
-| `[AnimeAlpha] S01E05 - THE GHOST IN THE SHELL (1080p) [4C5A2DF4].mkv` | **92.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626639) • [🐱 Nyaa](https://nyaa.si/view/2141899) |
-| `[Onalrie] Koukaku Kidoutai (2026) - S01E05 [1080p WEBRip AV1]` | **435.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626636) • [🐱 Nyaa](https://nekobt.to/torrents/12843628883980) |
 
 ---
 <div align="center">
