@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.09.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.33.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] LV999 no Murabito - S01E07 [1080p][HEVC x265 10bit][Multi-Sub...` | **236.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/626925) • [🐱 Nyaa](https://nyaa.si/view/2142466) |
+| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E05 (1080p WEBRip EAC3 x2...` | **724.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626923) • [🐱 Nyaa](https://nekobt.to/torrents/12869842132230) |
+| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep05 (1080...` | **868.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626924) • [🐱 Nyaa](https://nekobt.to/torrents/12869676578816) |
+| `[FoundYears] Though I Am an Inept Villainess - S01E02 (CR WEB-DL 10...` | **1511.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626922) • [🐱 Nyaa](https://nekobt.to/torrents/12869545848590) |
+| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E05 [1080...` | **272.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/626919) • [🐱 Nyaa](https://nyaa.si/view/2142462) |
+| `[DKB] Clevatess: Majuu no Ou to Itsuwari no Yuusha Denshou - S02E05...` | **452.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626920) • [🐱 Nyaa](https://nyaa.si/view/2142461) |
+| `[sam] The Ghost in the Shell (2026) - S01E05 (WEB 1080p HEVC x265 1...` | **4599.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/626921) • [🐱 Nyaa](https://nyaa.si/view/2142460) |
 | `[Onalrie] Katainaka no Ossan, Kensei ni Naru - S02E05 [1080p WEBRip...` | **246.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626918) • [🐱 Nyaa](https://nekobt.to/torrents/12868885423624) |
 | `[jaaj] Violet Evergarden S01+OVA (2018) (BD 1080p AV1 OPUS)` | **2994.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/626916) • [🐱 Nyaa](https://nekobt.to/torrents/12868653254157) |
 | `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 05 [1080p AMZN ...` | **417.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626915) • [🐱 Nyaa](https://nyaa.si/view/2142453) |
@@ -38,13 +45,6 @@
 | `[Ironclad] Katainaka no Ossan II - S02E05 [WEB.1080p.AV1] | From Ol...` | **426.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626911) • [🐱 Nyaa](https://nyaa.si/view/2142446) |
 | `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E07 [...` | **322.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/626901) • [🐱 Nyaa](https://nyaa.si/view/2142444) |
 | `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E05 [1080p][HEVC x265...` | **402.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626902) • [🐱 Nyaa](https://nyaa.si/view/2142443) |
-| `[DKB] Youjo Senki - S02E05 [1080p][HEVC x265 10bit][Multi-Subs][wee...` | **340.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626903) • [🐱 Nyaa](https://nyaa.si/view/2142442) |
-| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **263.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626904) • [🐱 Nyaa](https://nyaa.si/view/2142441) |
-| `[Erai-raws] Youjo Senki II - 05 [1080p CR WEBRip HEVC AAC][MultiSub...` | **550.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/626905) • [🐱 Nyaa](https://nyaa.si/view/2142440) |
-| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 07 [10...` | **534.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/626906) • [🐱 Nyaa](https://nyaa.si/view/2142439) |
-| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 07 [1080p CR WEB...` | **414.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626907) • [🐱 Nyaa](https://nyaa.si/view/2142438) |
-| `[ToonsHub] Petals of Reincarnation S01E13 1080p HIDIVE WEB-DL DUAL ...` | **949.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626908) • [🐱 Nyaa](https://nyaa.si/view/2142437) |
-| `[Erai-raws] Thunder 3 - 05 [1080p NF WEB-DL AVC AAC][MultiSub][9DF1...` | **847.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626909) • [🐱 Nyaa](https://nyaa.si/view/2142435) |
 
 ---
 <div align="center">
