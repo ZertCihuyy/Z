@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.19.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.08.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Star Wars Visions Presents The Ninth Jedi S01 1080p DSNP WEB-DL MUL...` | **12390.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626726) • [🐱 Nyaa](https://nyaa.si/view/2142069) |
+| `Star Wars Visions Presents The Ninth Jedi S01 1080p DSNP WEB-DL DUA...` | **7348.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/626727) • [🐱 Nyaa](https://nyaa.si/view/2142068) |
+| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 5 [170] (1080p)` | **516.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626717) • [🐱 Nyaa](https://nyaa.si/view/2142065) |
+| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 4 [169] (1080p)` | **512.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/626719) • [🐱 Nyaa](https://nyaa.si/view/2142063) |
+| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 3 [168] (1080p)` | **516.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626721) • [🐱 Nyaa](https://nyaa.si/view/2142061) |
+| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 2 [167] (1080p)` | **531.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/626723) • [🐱 Nyaa](https://nyaa.si/view/2142059) |
+| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 1 [166] (1080p)` | **593.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/626725) • [🐱 Nyaa](https://nyaa.si/view/2142057) |
+| `Star Wars Visions Presents The Ninth Jedi S01 MULTi AD 1080p DSNP W...` | **7536.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/626715) • [🐱 Nyaa](https://nekobt.to/torrents/12858965354764) |
+| `[ToonsHub] Star Wars Visions Presents The Ninth Jedi S01 1080p DSNP...` | **7348.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626711) • [🐱 Nyaa](https://nyaa.si/view/2142050) |
+| `[Yameii] The Daily Life of a Middle-Aged Online Shopper in Another ...` | **18029.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/626712) • [🐱 Nyaa](https://nyaa.si/view/2142049) |
+| `[SubsPlus+] Hell Mode - S02E05v2 (ADN WEB-DL 1080p AVC AAC) | HELL ...` | **662.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/626710) • [🐱 Nyaa](https://nyaa.si/view/2142045) |
 | `PERSONA3 THE MOVIE (1-4) [WebRip 1080p]` | **1509.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626709) • [🐱 Nyaa](https://nyaa.si/view/2142039) |
 | `The Daily Life of a Middle Aged Online Shopper in Another World S01...` | **18722.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626708) • [🐱 Nyaa](https://nyaa.si/view/2142034) |
 | `The Daily Life of a Middle-Aged Online Shopper in Another World S01...` | **17992.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/626707) • [🐱 Nyaa](https://nyaa.si/view/2142031) |
 | `[ASW] Quanzhi Fashi S7 - 12 [1080p HEVC x265 10Bit][AAC]` | **454.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/626706) • [🐱 Nyaa](https://nyaa.si/view/2142026) |
-| `[Reza] THE GHOST IN THE SHELL (2026) - S01E05 [WEBRip HEVC 1080p EA...` | **5870.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626698) • [🐱 Nyaa](https://nyaa.si/view/2142022) |
-| `[Onalrie] Koori no Jouheki - S01E12 [1080p WEBRip AV1]` | **209.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626705) • [🐱 Nyaa](https://nekobt.to/torrents/12853318418698) |
-| `Versatile Mage S07E12 Critical Situation 1080p CR WEB-DL AAC2.0 H.2...` | **1118.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626699) • [🐱 Nyaa](https://nyaa.si/view/2142021) |
-| `[ToonsHub] Full-Time Magister S07E12 1080p CR WEB-DL AAC2.0 H.264 (...` | **1137.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626700) • [🐱 Nyaa](https://nyaa.si/view/2142020) |
-| `[SubsPlease] Quanzhi Fashi S7 - 12 (1080p) [647B021A].mkv` | **1091.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/626701) • [🐱 Nyaa](https://nyaa.si/view/2142019) |
-| `[Doomdos] - UNDER THE GATE - 5 [1080p IQ WEB-DL]` | **152.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/626704) • [🐱 Nyaa](https://nyaa.si/view/2142016) |
-| `[Onalrie] Koori no Jouheki - S01E14 [1080p WEBRip AV1]` | **157.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626697) • [🐱 Nyaa](https://nekobt.to/torrents/12852918444805) |
-| `[ToonsHub] Raised by Demons Panda Li S01E04 1080p iQ WEB-DL AAC2.0 ...` | **335.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626694) • [🐱 Nyaa](https://nekobt.to/torrents/12852652596747) |
-| `[ToonsHub] Fabulous Beasts S06E01 1080p BILI WEB-DL AAC2.0 H.265` | **152.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626695) • [🐱 Nyaa](https://nekobt.to/torrents/12852643437837) |
-| `[Doomdos] - UNDER THE GATE - 5 [1080p IQ WEB-DL]` | **144.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/626691) • [🐱 Nyaa](https://nyaa.si/view/2142008) |
-| `[Onalrie] Koori no Jouheki - S01E13 [1080p WEBRip AV1]` | **239.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626696) • [🐱 Nyaa](https://nekobt.to/torrents/12852558962436) |
 
 ---
 <div align="center">
