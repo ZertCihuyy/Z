@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.55.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.45.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsMix] The Ogre's Bride - 05 (S01E05) - (WEB 1080p AVC x264 AAC ...` | **1426.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626772) • [🐱 Nyaa](https://nyaa.si/view/2142199) |
-| `[SubsMix] The Oblivious Saint Can't Contain Her Power - 05 (S01E05)...` | **1429.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626773) • [🐱 Nyaa](https://nyaa.si/view/2142198) |
-| `[SubsMix] The Oblivious Saint Can't Contain Her Power - 04 (S01E04)...` | **1517.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/626774) • [🐱 Nyaa](https://nyaa.si/view/2142197) |
-| `[SubsMix] The Oblivious Saint Can't Contain Her Power - 03 (S01E03)...` | **1482.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/626775) • [🐱 Nyaa](https://nyaa.si/view/2142196) |
-| `[SubsMix] The Oblivious Saint Can't Contain Her Power - 02 (S01E02)...` | **1517.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/626776) • [🐱 Nyaa](https://nyaa.si/view/2142195) |
-| `[SubsMix] The Oblivious Saint Can't Contain Her Power - 01 (S01E01)...` | **1459.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626777) • [🐱 Nyaa](https://nyaa.si/view/2142194) |
-| `My Stepmother and Stepsisters Arent Wicked S01E05 Miyas First Frien...` | **810.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/626779) • [🐱 Nyaa](https://nyaa.si/view/2142192) |
-| `[ToonsHub] Heroine Saint No Im an All-Works Maid And Proud of It S0...` | **1419.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626778) • [🐱 Nyaa](https://nyaa.si/view/2142193) |
-| `Heroine Saint No Im an All Works Maid And Proud of It S01E07 1080p ...` | **1398.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626780) • [🐱 Nyaa](https://nyaa.si/view/2142191) |
-| `[SubsPlease] All Works Maid - 07 (1080p) [EF906B81].mkv` | **1369.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/626781) • [🐱 Nyaa](https://nyaa.si/view/2142190) |
-| `[ToonsHub] My Stepmother and Stepsisters Arent Wicked S01E05 1080p ...` | **806.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626782) • [🐱 Nyaa](https://nyaa.si/view/2142189) |
-| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 07 [10...` | **1378.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/626787) • [🐱 Nyaa](https://nyaa.si/view/2142182) |
-| `[geckyzz] Perfect Addiction - S01E05 (パーフェクトアディクション) [OVEIL.WEB-DL ...` | **75.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/626788) • [🐱 Nyaa](https://nyaa.si/view/2142177) |
-| `[Judas] Youjo Senki (Saga of Tanya the Evil) - S02E05 [1080p][HEVC ...` | **265.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/626767) • [🐱 Nyaa](https://nyaa.si/view/2142176) |
-| `[Doomdos] - Raised by Demons Panda Li - 4 [1080p IQ WEB-DL]` | **336.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626768) • [🐱 Nyaa](https://nyaa.si/view/2142175) |
+| `[Ironclad] Clevatess - S02E05 (WEB 1080p AV1) | Clevatess II (Multi...` | **450.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/626840) • [🐱 Nyaa](https://nekobt.to/torrents/12865942524685) |
+| `[VARYG] Yowayowa Sensei S01E06 Weak and Wimpy Blackmail 1080p AMZN ...` | **625.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626841) • [🐱 Nyaa](https://nekobt.to/torrents/12865930401037) |
+| `[Anime-FLAC] Princess Principal Crown Handler Movie 4 Special Fabul...` | **243.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626820) • [🐱 Nyaa](https://nyaa.si/view/2142314) |
+| `The Villager of Level 999 S01E07 VOSTFR 1080p WEB x264 AAC -Tsunder...` | **1385.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626842) • [🐱 Nyaa](https://nekobt.to/torrents/12865815644684) |
+| `Hana Kimi S02E07 Because I Want to Stay By Your Side Forever 1080p ...` | **1428.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/626821) • [🐱 Nyaa](https://nyaa.si/view/2142304) |
+| `Full Time Magister S07E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws ...` | **1093.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626845) • [🐱 Nyaa](https://nekobt.to/torrents/12865762317835) |
+| `Hana Kimi S02E05 I Cant Not Think About It 1080p CR WEB-DL DUAL AAC...` | **1463.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/626822) • [🐱 Nyaa](https://nyaa.si/view/2142299) |
+| `The Daily Life of a Middle Aged Online Shopper in Another World S01...` | **1438.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/626823) • [🐱 Nyaa](https://nyaa.si/view/2142297) |
+| `The Villager of Level 999 S01E07 Youre Changed by the People You Me...` | **1409.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626824) • [🐱 Nyaa](https://nyaa.si/view/2142295) |
+| `The Daily Life of a Middle Aged Online Shopper in Another World S01...` | **1443.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626825) • [🐱 Nyaa](https://nyaa.si/view/2142291) |
+| `The Daily Life of a Middle Aged Online Shopper in Another World S01...` | **1439.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/626826) • [🐱 Nyaa](https://nyaa.si/view/2142289) |
+| `The Daily Life of a Middle Aged Online Shopper in Another World S01...` | **1439.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/626827) • [🐱 Nyaa](https://nyaa.si/view/2142288) |
+| `The Daily Life of a Middle Aged Online Shopper in Another World S01...` | **1439.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/626828) • [🐱 Nyaa](https://nyaa.si/view/2142281) |
+| `The Daily Life of a Middle Aged Online Shopper in Another World S01...` | **1443.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/626829) • [🐱 Nyaa](https://nyaa.si/view/2142280) |
+| `The Daily Life of a Middle Aged Online Shopper in Another World S01...` | **1440.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626830) • [🐱 Nyaa](https://nyaa.si/view/2142279) |
 
 ---
 <div align="center">
