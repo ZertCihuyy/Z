@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.29.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.19.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `PERSONA3 THE MOVIE (1-4) [WebRip 1080p]` | **1509.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626709) • [🐱 Nyaa](https://nyaa.si/view/2142039) |
+| `The Daily Life of a Middle Aged Online Shopper in Another World S01...` | **18722.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626708) • [🐱 Nyaa](https://nyaa.si/view/2142034) |
+| `The Daily Life of a Middle-Aged Online Shopper in Another World S01...` | **17992.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/626707) • [🐱 Nyaa](https://nyaa.si/view/2142031) |
 | `[ASW] Quanzhi Fashi S7 - 12 [1080p HEVC x265 10Bit][AAC]` | **454.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/626706) • [🐱 Nyaa](https://nyaa.si/view/2142026) |
 | `[Reza] THE GHOST IN THE SHELL (2026) - S01E05 [WEBRip HEVC 1080p EA...` | **5870.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626698) • [🐱 Nyaa](https://nyaa.si/view/2142022) |
 | `[Onalrie] Koori no Jouheki - S01E12 [1080p WEBRip AV1]` | **209.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626705) • [🐱 Nyaa](https://nekobt.to/torrents/12853318418698) |
@@ -45,9 +48,6 @@
 | `[ToonsHub] Fabulous Beasts S06E01 1080p BILI WEB-DL AAC2.0 H.265` | **152.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626695) • [🐱 Nyaa](https://nekobt.to/torrents/12852643437837) |
 | `[Doomdos] - UNDER THE GATE - 5 [1080p IQ WEB-DL]` | **144.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/626691) • [🐱 Nyaa](https://nyaa.si/view/2142008) |
 | `[Onalrie] Koori no Jouheki - S01E13 [1080p WEBRip AV1]` | **239.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626696) • [🐱 Nyaa](https://nekobt.to/torrents/12852558962436) |
-| `[Doomdos] - Daqian Town - 4 [1080p IQ WEB-DL]` | **97.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626692) • [🐱 Nyaa](https://nyaa.si/view/2142007) |
-| `[Doomdos] - Urban Miracle Doctor - 201 [1080p IQ WEB-DL]` | **182.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/626693) • [🐱 Nyaa](https://nyaa.si/view/2142004) |
-| `[Onalrie] Koori no Jouheki - S01E11 [1080p WEBRip AV1]` | **218.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626690) • [🐱 Nyaa](https://nekobt.to/torrents/12852145826569) |
 
 ---
 <div align="center">
