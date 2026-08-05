@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.17.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.55.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Clevatess S02E05 1080p BILI WEB-DL AAC2.0 H.265 (Clevate...` | **217.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/626734) • [🐱 Nyaa](https://nyaa.si/view/2142094) |
-| `[BlackRabbit] Dragon Ball Kai (2009) - S02 [Bluray-1080p][Opus 2.0]...` | **17212.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/626735) • [🐱 Nyaa](https://nekobt.to/torrents/12861719313672) |
-| `[ToonsHub] Cat Tales S01E43 1080p LNTV WEB-DL AAC2.0 H.264 (Multi-S...` | **69.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/626733) • [🐱 Nyaa](https://nekobt.to/torrents/12861343937287) |
-| `[Gecko] Cat Tales - S01E43 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **51.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/626731) • [🐱 Nyaa](https://nyaa.si/view/2142077) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E10 (1080p AAC x265 B...` | **632.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626732) • [🐱 Nyaa](https://nekobt.to/torrents/12860952271119) |
-| `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **1103.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626729) • [🐱 Nyaa](https://nyaa.si/view/2142072) |
-| `[sgt] I Want to Love You Till Your Dying Day - S01E02 (WEB 1080p HE...` | **1880.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626730) • [🐱 Nyaa](https://nyaa.si/view/2142070) |
-| `Star Wars Visions Presents The Ninth Jedi S01 1080p DSNP WEB-DL MUL...` | **12390.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626726) • [🐱 Nyaa](https://nyaa.si/view/2142069) |
-| `Star Wars Visions Presents The Ninth Jedi S01 1080p DSNP WEB-DL DUA...` | **7348.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/626727) • [🐱 Nyaa](https://nyaa.si/view/2142068) |
-| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 5 [170] (1080p)` | **516.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626717) • [🐱 Nyaa](https://nyaa.si/view/2142065) |
-| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 4 [169] (1080p)` | **512.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/626719) • [🐱 Nyaa](https://nyaa.si/view/2142063) |
-| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 3 [168] (1080p)` | **516.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626721) • [🐱 Nyaa](https://nyaa.si/view/2142061) |
-| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 2 [167] (1080p)` | **531.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/626723) • [🐱 Nyaa](https://nyaa.si/view/2142059) |
-| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 1 [166] (1080p)` | **593.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/626725) • [🐱 Nyaa](https://nyaa.si/view/2142057) |
-| `Star Wars Visions Presents The Ninth Jedi S01 MULTi AD 1080p DSNP W...` | **7536.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/626715) • [🐱 Nyaa](https://nekobt.to/torrents/12858965354764) |
+| `[SubsMix] The Ogre's Bride - 05 (S01E05) - (WEB 1080p AVC x264 AAC ...` | **1426.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626772) • [🐱 Nyaa](https://nyaa.si/view/2142199) |
+| `[SubsMix] The Oblivious Saint Can't Contain Her Power - 05 (S01E05)...` | **1429.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626773) • [🐱 Nyaa](https://nyaa.si/view/2142198) |
+| `[SubsMix] The Oblivious Saint Can't Contain Her Power - 04 (S01E04)...` | **1517.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/626774) • [🐱 Nyaa](https://nyaa.si/view/2142197) |
+| `[SubsMix] The Oblivious Saint Can't Contain Her Power - 03 (S01E03)...` | **1482.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/626775) • [🐱 Nyaa](https://nyaa.si/view/2142196) |
+| `[SubsMix] The Oblivious Saint Can't Contain Her Power - 02 (S01E02)...` | **1517.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/626776) • [🐱 Nyaa](https://nyaa.si/view/2142195) |
+| `[SubsMix] The Oblivious Saint Can't Contain Her Power - 01 (S01E01)...` | **1459.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626777) • [🐱 Nyaa](https://nyaa.si/view/2142194) |
+| `My Stepmother and Stepsisters Arent Wicked S01E05 Miyas First Frien...` | **810.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/626779) • [🐱 Nyaa](https://nyaa.si/view/2142192) |
+| `[ToonsHub] Heroine Saint No Im an All-Works Maid And Proud of It S0...` | **1419.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626778) • [🐱 Nyaa](https://nyaa.si/view/2142193) |
+| `Heroine Saint No Im an All Works Maid And Proud of It S01E07 1080p ...` | **1398.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626780) • [🐱 Nyaa](https://nyaa.si/view/2142191) |
+| `[SubsPlease] All Works Maid - 07 (1080p) [EF906B81].mkv` | **1369.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/626781) • [🐱 Nyaa](https://nyaa.si/view/2142190) |
+| `[ToonsHub] My Stepmother and Stepsisters Arent Wicked S01E05 1080p ...` | **806.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626782) • [🐱 Nyaa](https://nyaa.si/view/2142189) |
+| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 07 [10...` | **1378.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/626787) • [🐱 Nyaa](https://nyaa.si/view/2142182) |
+| `[geckyzz] Perfect Addiction - S01E05 (パーフェクトアディクション) [OVEIL.WEB-DL ...` | **75.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/626788) • [🐱 Nyaa](https://nyaa.si/view/2142177) |
+| `[Judas] Youjo Senki (Saga of Tanya the Evil) - S02E05 [1080p][HEVC ...` | **265.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/626767) • [🐱 Nyaa](https://nyaa.si/view/2142176) |
+| `[Doomdos] - Raised by Demons Panda Li - 4 [1080p IQ WEB-DL]` | **336.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/626768) • [🐱 Nyaa](https://nyaa.si/view/2142175) |
 
 ---
 <div align="center">
