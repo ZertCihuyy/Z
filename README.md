@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.33.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.43.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sam] Grand Blue Dreaming - S03E04 (WEB 1080p HEVC x265 10-bit EAC-3)` | **2044.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/626926) • [🐱 Nyaa](https://nyaa.si/view/2142470) |
 | `[DKB] LV999 no Murabito - S01E07 [1080p][HEVC x265 10bit][Multi-Sub...` | **236.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/626925) • [🐱 Nyaa](https://nyaa.si/view/2142466) |
 | `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E05 (1080p WEBRip EAC3 x2...` | **724.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626923) • [🐱 Nyaa](https://nekobt.to/torrents/12869842132230) |
 | `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep05 (1080...` | **868.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626924) • [🐱 Nyaa](https://nekobt.to/torrents/12869676578816) |
@@ -44,7 +45,6 @@
 | `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **197.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/626912) • [🐱 Nyaa](https://nyaa.si/view/2142451) |
 | `[Ironclad] Katainaka no Ossan II - S02E05 [WEB.1080p.AV1] | From Ol...` | **426.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626911) • [🐱 Nyaa](https://nyaa.si/view/2142446) |
 | `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E07 [...` | **322.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/626901) • [🐱 Nyaa](https://nyaa.si/view/2142444) |
-| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E05 [1080p][HEVC x265...` | **402.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626902) • [🐱 Nyaa](https://nyaa.si/view/2142443) |
 
 ---
 <div align="center">
