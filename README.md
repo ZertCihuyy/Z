@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.43.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.08.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Koori no Jouheki - S01E06 [1080p WEBRip AV1]` | **200.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626687) • [🐱 Nyaa](https://nekobt.to/torrents/12851308344074) |
+| `[Ironclad] Tensei Shitara Slime Datta Ken - Sokai no Namida-hen [WE...` | **2105.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626684) • [🐱 Nyaa](https://nyaa.si/view/2141992) |
+| `[Onalrie] Koori no Jouheki - S01E10 [1080p WEBRip AV1]` | **228.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/626686) • [🐱 Nyaa](https://nekobt.to/torrents/12850914537728) |
+| `[Onalrie] Koori no Jouheki - S01E05 [1080p WEBRip AV1]` | **202.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/626683) • [🐱 Nyaa](https://nekobt.to/torrents/12850501045511) |
 | `[Onalrie] Koori no Jouheki - S01E07 [1080p WEBRip AV1]` | **194.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626682) • [🐱 Nyaa](https://nekobt.to/torrents/12850103523336) |
 | `[Onalrie] Koori no Jouheki - S01E08 [1080p WEBRip AV1]` | **207.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/626681) • [🐱 Nyaa](https://nekobt.to/torrents/12849700978695) |
 | `[Onalrie] Koori no Jouheki - S01E02 [1080p WEBRip AV1]` | **215.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/626679) • [🐱 Nyaa](https://nekobt.to/torrents/12849248804097) |
@@ -44,10 +48,6 @@
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E09 (1080p AAC x265 B...` | **624.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626672) • [🐱 Nyaa](https://nekobt.to/torrents/12847696033541) |
 | `Yoroi Shinden Samurai Troopers S01E17 Flash 1080p CR WEB-DL AAC2.0 ...` | **1404.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/626667) • [🐱 Nyaa](https://nyaa.si/view/2141964) |
 | `Red River 2026 S01E05 A Sword to Fight 1080p CR WEB-DL AAC2.0 H.264...` | **1340.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626668) • [🐱 Nyaa](https://nyaa.si/view/2141963) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 05 [1080p CR WEBRip HEVC ...` | **370.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626669) • [🐱 Nyaa](https://nyaa.si/view/2141962) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E03 1080p NF WEB-DL D...` | **896.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626666) • [🐱 Nyaa](https://nekobt.to/torrents/12846884083204) |
-| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E05 [WEB.1080p.AV1] | R...` | **216.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626665) • [🐱 Nyaa](https://nyaa.si/view/2141954) |
-| `Though I Am an Inept Villainess S01E03 Shoulders Back Look Forward ...` | **896.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626664) • [🐱 Nyaa](https://nyaa.si/view/2141953) |
 
 ---
 <div align="center">
