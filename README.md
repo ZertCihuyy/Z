@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.08.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.29.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Koori no Jouheki - S01E06 [1080p WEBRip AV1]` | **200.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626687) • [🐱 Nyaa](https://nekobt.to/torrents/12851308344074) |
-| `[Ironclad] Tensei Shitara Slime Datta Ken - Sokai no Namida-hen [WE...` | **2105.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/626684) • [🐱 Nyaa](https://nyaa.si/view/2141992) |
-| `[Onalrie] Koori no Jouheki - S01E10 [1080p WEBRip AV1]` | **228.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/626686) • [🐱 Nyaa](https://nekobt.to/torrents/12850914537728) |
-| `[Onalrie] Koori no Jouheki - S01E05 [1080p WEBRip AV1]` | **202.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/626683) • [🐱 Nyaa](https://nekobt.to/torrents/12850501045511) |
-| `[Onalrie] Koori no Jouheki - S01E07 [1080p WEBRip AV1]` | **194.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626682) • [🐱 Nyaa](https://nekobt.to/torrents/12850103523336) |
-| `[Onalrie] Koori no Jouheki - S01E08 [1080p WEBRip AV1]` | **207.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/626681) • [🐱 Nyaa](https://nekobt.to/torrents/12849700978695) |
-| `[Onalrie] Koori no Jouheki - S01E02 [1080p WEBRip AV1]` | **215.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/626679) • [🐱 Nyaa](https://nekobt.to/torrents/12849248804097) |
-| `[Onalrie] Koori no Jouheki - S01E03 [1080p WEBRip AV1]` | **210.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626678) • [🐱 Nyaa](https://nekobt.to/torrents/12848834925061) |
-| `[SubsPlease] Ace of Diamond Act II S2 (01-13) (1080p) [Batch]` | **17902.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626675) • [🐱 Nyaa](https://nyaa.si/view/2141970) |
-| `[Onalrie] Koori no Jouheki - S01E04 [1080p WEBRip AV1]` | **199.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/626674) • [🐱 Nyaa](https://nekobt.to/torrents/12848428015621) |
-| `[Onalrie] Koori no Jouheki - S01E01 [1080p WEBRip AV1]` | **230.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/626673) • [🐱 Nyaa](https://nekobt.to/torrents/12848031112462) |
-| `[kikuri] Gunsmith Cats S01 (BD 1080p HEVC Opus)` | **20362.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626671) • [🐱 Nyaa](https://nyaa.si/view/2141966) |
-| `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E09 (1080p AAC x265 B...` | **624.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626672) • [🐱 Nyaa](https://nekobt.to/torrents/12847696033541) |
-| `Yoroi Shinden Samurai Troopers S01E17 Flash 1080p CR WEB-DL AAC2.0 ...` | **1404.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/626667) • [🐱 Nyaa](https://nyaa.si/view/2141964) |
-| `Red River 2026 S01E05 A Sword to Fight 1080p CR WEB-DL AAC2.0 H.264...` | **1340.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626668) • [🐱 Nyaa](https://nyaa.si/view/2141963) |
+| `[ASW] Quanzhi Fashi S7 - 12 [1080p HEVC x265 10Bit][AAC]` | **454.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/626706) • [🐱 Nyaa](https://nyaa.si/view/2142026) |
+| `[Reza] THE GHOST IN THE SHELL (2026) - S01E05 [WEBRip HEVC 1080p EA...` | **5870.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626698) • [🐱 Nyaa](https://nyaa.si/view/2142022) |
+| `[Onalrie] Koori no Jouheki - S01E12 [1080p WEBRip AV1]` | **209.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626705) • [🐱 Nyaa](https://nekobt.to/torrents/12853318418698) |
+| `Versatile Mage S07E12 Critical Situation 1080p CR WEB-DL AAC2.0 H.2...` | **1118.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626699) • [🐱 Nyaa](https://nyaa.si/view/2142021) |
+| `[ToonsHub] Full-Time Magister S07E12 1080p CR WEB-DL AAC2.0 H.264 (...` | **1137.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/626700) • [🐱 Nyaa](https://nyaa.si/view/2142020) |
+| `[SubsPlease] Quanzhi Fashi S7 - 12 (1080p) [647B021A].mkv` | **1091.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/626701) • [🐱 Nyaa](https://nyaa.si/view/2142019) |
+| `[Doomdos] - UNDER THE GATE - 5 [1080p IQ WEB-DL]` | **152.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/626704) • [🐱 Nyaa](https://nyaa.si/view/2142016) |
+| `[Onalrie] Koori no Jouheki - S01E14 [1080p WEBRip AV1]` | **157.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626697) • [🐱 Nyaa](https://nekobt.to/torrents/12852918444805) |
+| `[ToonsHub] Raised by Demons Panda Li S01E04 1080p iQ WEB-DL AAC2.0 ...` | **335.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626694) • [🐱 Nyaa](https://nekobt.to/torrents/12852652596747) |
+| `[ToonsHub] Fabulous Beasts S06E01 1080p BILI WEB-DL AAC2.0 H.265` | **152.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626695) • [🐱 Nyaa](https://nekobt.to/torrents/12852643437837) |
+| `[Doomdos] - UNDER THE GATE - 5 [1080p IQ WEB-DL]` | **144.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/626691) • [🐱 Nyaa](https://nyaa.si/view/2142008) |
+| `[Onalrie] Koori no Jouheki - S01E13 [1080p WEBRip AV1]` | **239.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626696) • [🐱 Nyaa](https://nekobt.to/torrents/12852558962436) |
+| `[Doomdos] - Daqian Town - 4 [1080p IQ WEB-DL]` | **97.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626692) • [🐱 Nyaa](https://nyaa.si/view/2142007) |
+| `[Doomdos] - Urban Miracle Doctor - 201 [1080p IQ WEB-DL]` | **182.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/626693) • [🐱 Nyaa](https://nyaa.si/view/2142004) |
+| `[Onalrie] Koori no Jouheki - S01E11 [1080p WEBRip AV1]` | **218.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/626690) • [🐱 Nyaa](https://nekobt.to/torrents/12852145826569) |
 
 ---
 <div align="center">
