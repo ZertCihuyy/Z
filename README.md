@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.24.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.09.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 05 [1080p AMZN ...` | **819.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/626900) • [🐱 Nyaa](https://nekobt.to/torrents/12867642006284) |
-| `[ASW] Toukutsu Ou - 05 [1080p HEVC x265 10Bit][AAC]` | **322.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626895) • [🐱 Nyaa](https://nyaa.si/view/2142428) |
-| `[Doomdos] - The Exiled Heavy Knight Knows How to Game the System - ...` | **550.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/626896) • [🐱 Nyaa](https://nyaa.si/view/2142427) |
-| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1524.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/626897) • [🐱 Nyaa](https://nyaa.si/view/2142426) |
-| `[Doomdos] - Tomb Raider King - 5 [1080p IQ WEB-DL]` | **323.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/626889) • [🐱 Nyaa](https://nyaa.si/view/2142425) |
-| `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E07 [108...` | **241.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/626890) • [🐱 Nyaa](https://nyaa.si/view/2142424) |
-| `Tomb Raider King S01E05 The Owner of the Tree of Life 1080p CR WEB-...` | **1341.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626891) • [🐱 Nyaa](https://nyaa.si/view/2142421) |
-| `HELL MODE The Hardcore Gamer Dominates in Another World with Garbag...` | **1010.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626892) • [🐱 Nyaa](https://nyaa.si/view/2142420) |
-| `Tomb Raider King S01E02 Those Who Seek to Own Relics 1080p CR WEB-D...` | **1514.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/626893) • [🐱 Nyaa](https://nyaa.si/view/2142419) |
-| `[Doomdos] - Hana-Kimi Season 2 - 19 [1080p IQ WEB-DL]` | **317.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/626894) • [🐱 Nyaa](https://nyaa.si/view/2142415) |
-| `[ToonsHub] Tomb Raider King S01E02 1080p CR WEB-DL MULTi AAC2.0 H.2...` | **1638.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/626888) • [🐱 Nyaa](https://nyaa.si/view/2142413) |
-| `[ToonsHub] Tomb Raider King S01E02 1080p CR WEB-DL MULTi AAC2.0 H.2...` | **1605.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/626875) • [🐱 Nyaa](https://nyaa.si/view/2142412) |
-| `[ToonsHub] Tomb Raider King S01E05 1080p CR WEB-DL AAC2.0 H.264 (Do...` | **1341.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/626876) • [🐱 Nyaa](https://nyaa.si/view/2142411) |
-| `[ToonsHub] Tomb Raider King S01E03 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1382.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626877) • [🐱 Nyaa](https://nyaa.si/view/2142410) |
-| `[ToonsHub] Tomb Raider King S01E05 1080p CR WEB-DL AAC2.0 H.264 (Do...` | **1362.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/626878) • [🐱 Nyaa](https://nyaa.si/view/2142409) |
+| `[Onalrie] Katainaka no Ossan, Kensei ni Naru - S02E05 [1080p WEBRip...` | **246.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626918) • [🐱 Nyaa](https://nekobt.to/torrents/12868885423624) |
+| `[jaaj] Violet Evergarden S01+OVA (2018) (BD 1080p AV1 OPUS)` | **2994.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/626916) • [🐱 Nyaa](https://nekobt.to/torrents/12868653254157) |
+| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 05 [1080p AMZN ...` | **417.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626915) • [🐱 Nyaa](https://nyaa.si/view/2142453) |
+| `[Onalrie] Thunder 3 - S01E05 [1080p WEBRip AV1]` | **243.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/626913) • [🐱 Nyaa](https://nekobt.to/torrents/12868499238661) |
+| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **197.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/626912) • [🐱 Nyaa](https://nyaa.si/view/2142451) |
+| `[Ironclad] Katainaka no Ossan II - S02E05 [WEB.1080p.AV1] | From Ol...` | **426.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626911) • [🐱 Nyaa](https://nyaa.si/view/2142446) |
+| `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E07 [...` | **322.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/626901) • [🐱 Nyaa](https://nyaa.si/view/2142444) |
+| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E05 [1080p][HEVC x265...` | **402.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626902) • [🐱 Nyaa](https://nyaa.si/view/2142443) |
+| `[DKB] Youjo Senki - S02E05 [1080p][HEVC x265 10bit][Multi-Subs][wee...` | **340.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626903) • [🐱 Nyaa](https://nyaa.si/view/2142442) |
+| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **263.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626904) • [🐱 Nyaa](https://nyaa.si/view/2142441) |
+| `[Erai-raws] Youjo Senki II - 05 [1080p CR WEBRip HEVC AAC][MultiSub...` | **550.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/626905) • [🐱 Nyaa](https://nyaa.si/view/2142440) |
+| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 07 [10...` | **534.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/626906) • [🐱 Nyaa](https://nyaa.si/view/2142439) |
+| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 07 [1080p CR WEB...` | **414.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/626907) • [🐱 Nyaa](https://nyaa.si/view/2142438) |
+| `[ToonsHub] Petals of Reincarnation S01E13 1080p HIDIVE WEB-DL DUAL ...` | **949.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626908) • [🐱 Nyaa](https://nyaa.si/view/2142437) |
+| `[Erai-raws] Thunder 3 - 05 [1080p NF WEB-DL AVC AAC][MultiSub][9DF1...` | **847.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/626909) • [🐱 Nyaa](https://nyaa.si/view/2142435) |
 
 ---
 <div align="center">
