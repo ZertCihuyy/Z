@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.26.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.12.07_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Tomb Raider King - S01E05 (1080p WEBRip AAC x265) [A0...` | **445.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/626983) • [🐱 Nyaa](https://nekobt.to/torrents/12881842321670) |
+| `[Onalrie] Otomege Sekai wa Mob ni Kibishii Sekai Desu - S02E05 [108...` | **211.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/626984) • [🐱 Nyaa](https://nekobt.to/torrents/12881751661067) |
+| `[Onalrie] Dogulwang - S01E05 (JA) [1080p WEBRip AV1]` | **234.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/626982) • [🐱 Nyaa](https://nekobt.to/torrents/12881396051206) |
+| `[Onalrie] Dogulwang - S01E05 (KA) [1080p WEBRip AV1]` | **232.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/626981) • [🐱 Nyaa](https://nekobt.to/torrents/12881015771662) |
+| `[Onalrie] Clevatess - S02E05 [1080p WEBRip AV1]` | **164.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/626980) • [🐱 Nyaa](https://nekobt.to/torrents/12880644050696) |
+| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep05 [v2] ...` | **868.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626978) • [🐱 Nyaa](https://nekobt.to/torrents/12880339966471) |
+| `[Onalrie] Lv999 no Murabito - S01E07 [1080p WEBRip AV1]` | **193.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626979) • [🐱 Nyaa](https://nekobt.to/torrents/12880267933705) |
+| `Star Wars Visions Presents The Ninth Jedi S01 Season 1 2026 1080p D...` | **1640.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/626977) • [🐱 Nyaa](https://nyaa.si/view/2142571) |
+| `Clevatess S02E05 REPACK MULTi AD 1080p CR WEB-DL AAC2.0 H.264-Tsund...` | **1778.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/626976) • [🐱 Nyaa](https://nekobt.to/torrents/12880131228173) |
 | `[Erai-raws] Dogulwang - 05 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **435.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626975) • [🐱 Nyaa](https://nyaa.si/view/2142566) |
 | `[Erai-raws] Dogulwang - 05 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **445.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/626973) • [🐱 Nyaa](https://nyaa.si/view/2142562) |
 | `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E05 (いびってこ...` | **678.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626974) • [🐱 Nyaa](https://nyaa.si/view/2142561) |
 | `[Erai-raws] Clevatess II - 05 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **425.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626972) • [🐱 Nyaa](https://nyaa.si/view/2142553) |
 | `[geckyzz] Perfect Addiction - S01E05 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **197.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626971) • [🐱 Nyaa](https://nyaa.si/view/2142548) |
 | `[Gecko] Cat Tales - S01E43 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/626969) • [🐱 Nyaa](https://nekobt.to/torrents/12876014442252) |
-| `[Gecko] Candy Caries - S01E17 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **89.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626968) • [🐱 Nyaa](https://nyaa.si/view/2142544) |
-| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 05 [108...` | **407.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/626967) • [🐱 Nyaa](https://nyaa.si/view/2142539) |
-| `[Doomdos] - Primeval Overlord - 6 [1080p IQ WEB-DL]` | **203.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/626966) • [🐱 Nyaa](https://nyaa.si/view/2142534) |
-| `[Erai-raws] Lv999 no Murabito - 07 [1080p CR WEBRip HEVC AAC][Multi...` | **421.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/626965) • [🐱 Nyaa](https://nyaa.si/view/2142532) |
-| `[Doomdos] - Supreme Alchemy - 187 [1080p IQ WEB-DL]` | **176.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/626963) • [🐱 Nyaa](https://nyaa.si/view/2142529) |
-| `[Doomdos] - Against the Gods 2nd Season - 49 [1080p IQ WEB-DL]` | **403.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/626964) • [🐱 Nyaa](https://nyaa.si/view/2142528) |
-| `[Erai-raws] Thunder 3 - 05 [1080p NF WEBRip HEVC AAC][MultiSub][142...` | **493.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626962) • [🐱 Nyaa](https://nyaa.si/view/2142526) |
-| `[Erai-raws] Digimon Beatbreak - 41 [1080p CR WEBRip HEVC AAC][Multi...` | **631.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/626958) • [🐱 Nyaa](https://nyaa.si/view/2142524) |
-| `[Erai-raws] Digimon Beatbreak - 41 (REPACK) [1080p CR WEB-DL AVC AA...` | **1378.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626961) • [🐱 Nyaa](https://nyaa.si/view/2142521) |
 
 ---
 <div align="center">
