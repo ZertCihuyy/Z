@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.30.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.26.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Dogulwang - 05 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **435.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626975) • [🐱 Nyaa](https://nyaa.si/view/2142566) |
+| `[Erai-raws] Dogulwang - 05 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **445.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/626973) • [🐱 Nyaa](https://nyaa.si/view/2142562) |
+| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E05 (いびってこ...` | **678.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626974) • [🐱 Nyaa](https://nyaa.si/view/2142561) |
 | `[Erai-raws] Clevatess II - 05 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **425.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626972) • [🐱 Nyaa](https://nyaa.si/view/2142553) |
 | `[geckyzz] Perfect Addiction - S01E05 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **197.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626971) • [🐱 Nyaa](https://nyaa.si/view/2142548) |
 | `[Gecko] Cat Tales - S01E43 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/626969) • [🐱 Nyaa](https://nekobt.to/torrents/12876014442252) |
@@ -42,9 +45,6 @@
 | `[Erai-raws] Thunder 3 - 05 [1080p NF WEBRip HEVC AAC][MultiSub][142...` | **493.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626962) • [🐱 Nyaa](https://nyaa.si/view/2142526) |
 | `[Erai-raws] Digimon Beatbreak - 41 [1080p CR WEBRip HEVC AAC][Multi...` | **631.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/626958) • [🐱 Nyaa](https://nyaa.si/view/2142524) |
 | `[Erai-raws] Digimon Beatbreak - 41 (REPACK) [1080p CR WEB-DL AVC AA...` | **1378.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626961) • [🐱 Nyaa](https://nyaa.si/view/2142521) |
-| `[Erai-raws] One Piece - 1172 [1080p CR WEBRip HEVC AAC][MultiSub][4...` | **727.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/626954) • [🐱 Nyaa](https://nekobt.to/torrents/12873515248897) |
-| `[Erai-raws] One Piece - 1172 [1080p CR WEB-DL AVC AAC][MultiSub][58...` | **1383.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/626957) • [🐱 Nyaa](https://nekobt.to/torrents/12873507467780) |
-| `[Erai-raws] Dogulwang - 05 (KA) [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1353.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626953) • [🐱 Nyaa](https://nyaa.si/view/2142510) |
 
 ---
 <div align="center">
