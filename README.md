@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.20.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.54.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Koalas Diary S01E43 1080p LNTV WEB-DL AAC2.0 H.264 (Koal...` | **57.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/626988) • [🐱 Nyaa](https://nyaa.si/view/2142588) |
-| `[LbE3L] I Want to End This Love Game S01 CR [1080p WEBRip AV1 (Muxe...` | **3240.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/626989) • [🐱 Nyaa](https://nekobt.to/torrents/12883259320832) |
-| `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **935.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/626986) • [🐱 Nyaa](https://nyaa.si/view/2142587) |
-| `[Gecko] Koala's Diary - S01E43 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **22.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/626987) • [🐱 Nyaa](https://nyaa.si/view/2142586) |
-| `Cleopatra D.C. OVA 1989 BDrip 1080p HEVC Opus MULTi VOSTFR` | **973.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626985) • [🐱 Nyaa](https://nyaa.si/view/2142581) |
-| `[SubsNoJutsu] Tomb Raider King - S01E05 (1080p WEBRip AAC x265) [A0...` | **445.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/626983) • [🐱 Nyaa](https://nekobt.to/torrents/12881842321670) |
-| `[Onalrie] Otomege Sekai wa Mob ni Kibishii Sekai Desu - S02E05 [108...` | **211.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/626984) • [🐱 Nyaa](https://nekobt.to/torrents/12881751661067) |
-| `[Onalrie] Dogulwang - S01E05 (JA) [1080p WEBRip AV1]` | **234.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/626982) • [🐱 Nyaa](https://nekobt.to/torrents/12881396051206) |
-| `[Onalrie] Dogulwang - S01E05 (KA) [1080p WEBRip AV1]` | **232.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/626981) • [🐱 Nyaa](https://nekobt.to/torrents/12881015771662) |
-| `[Onalrie] Clevatess - S02E05 [1080p WEBRip AV1]` | **164.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/626980) • [🐱 Nyaa](https://nekobt.to/torrents/12880644050696) |
-| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep05 [v2] ...` | **868.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626978) • [🐱 Nyaa](https://nekobt.to/torrents/12880339966471) |
-| `[Onalrie] Lv999 no Murabito - S01E07 [1080p WEBRip AV1]` | **193.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626979) • [🐱 Nyaa](https://nekobt.to/torrents/12880267933705) |
-| `Star Wars Visions Presents The Ninth Jedi S01 Season 1 2026 1080p D...` | **1640.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/626977) • [🐱 Nyaa](https://nyaa.si/view/2142571) |
-| `Clevatess S02E05 REPACK MULTi AD 1080p CR WEB-DL AAC2.0 H.264-Tsund...` | **1778.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/626976) • [🐱 Nyaa](https://nekobt.to/torrents/12880131228173) |
-| `[Erai-raws] Dogulwang - 05 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **435.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626975) • [🐱 Nyaa](https://nyaa.si/view/2142566) |
+| `[Onalrie] Bang Dream Yumemita - S01E08 [1080p WEBRip AV1]` | **347.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/627041) • [🐱 Nyaa](https://nekobt.to/torrents/12886434996231) |
+| `The Angel Next Door Spoils Me Rotten S02E01 Going to School Togethe...` | **1439.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/627031) • [🐱 Nyaa](https://nyaa.si/view/2142668) |
+| `The Angel Next Door Spoils Me Rotten S02E02 The Start of Summer Vac...` | **1443.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627032) • [🐱 Nyaa](https://nyaa.si/view/2142667) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E01 1080p CR WEB...` | **1438.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/627033) • [🐱 Nyaa](https://nyaa.si/view/2142666) |
+| `[ToonsHub] The Angel Next Door Spoils Me Rotten S02E02 1080p CR WEB...` | **1439.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/627034) • [🐱 Nyaa](https://nyaa.si/view/2142665) |
+| `[Erai-raws] Bungou Stray Dogs Wan 2 - 06 [1080p CR WEB-DL AVC AAC][...` | **690.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/627037) • [🐱 Nyaa](https://nyaa.si/view/2142660) |
+| `[Erai-raws] Reiwa no Dara-san - 06 [1080p CR WEBRip HEVC AAC][Multi...` | **614.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/627038) • [🐱 Nyaa](https://nyaa.si/view/2142659) |
+| `BanG Dream YUME MITA S01E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-T...` | **1381.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/627042) • [🐱 Nyaa](https://nekobt.to/torrents/12886208373262) |
+| `[FSP] Battle Through The Heavens S4 EP 01-04 [1080p]` | **911.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/627039) • [🐱 Nyaa](https://nyaa.si/view/2142656) |
+| `[ToonsHub] BanG Dream YUMEMITA S01E08 1080p CR WEB-DL AAC2.0 H.264 ...` | **1383.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/627026) • [🐱 Nyaa](https://nyaa.si/view/2142654) |
+| `BanG Dream YUMEMITA S01E08 Gold star 1080p CR WEB-DL AAC2.0 H.264-V...` | **1384.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627027) • [🐱 Nyaa](https://nyaa.si/view/2142653) |
+| `[SubsPlease] BanG Dream! Yumemita - 08 (1080p) [6F36049B].mkv` | **1376.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/627028) • [🐱 Nyaa](https://nyaa.si/view/2142652) |
+| `[Erai-raws] Bang Dream Yumemita - 08 [1080p CR WEB-DL AVC AAC][Mult...` | **1383.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/627024) • [🐱 Nyaa](https://nyaa.si/view/2142646) |
+| `[ASW] Reiwa no Dara-san - 06 [1080p HEVC x265 10Bit][AAC]` | **255.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/627025) • [🐱 Nyaa](https://nyaa.si/view/2142643) |
+| `[Kosaka] Dara-san of the Reiwa Era - S01E06 (WEBRip 1080p AV1 OPUS)...` | **221.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627021) • [🐱 Nyaa](https://nekobt.to/torrents/12885604566797) |
 
 ---
 <div align="center">
