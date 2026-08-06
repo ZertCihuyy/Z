@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.41.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.07.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Digimon Beatbreak - 41 [1080p CR WEBRip HEVC AAC][Multi...` | **631.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/626958) • [🐱 Nyaa](https://nyaa.si/view/2142524) |
+| `[Erai-raws] Digimon Beatbreak - 41 (REPACK) [1080p CR WEB-DL AVC AA...` | **1378.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626961) • [🐱 Nyaa](https://nyaa.si/view/2142521) |
+| `[Erai-raws] One Piece - 1172 [1080p CR WEBRip HEVC AAC][MultiSub][4...` | **727.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/626954) • [🐱 Nyaa](https://nekobt.to/torrents/12873515248897) |
+| `[Erai-raws] One Piece - 1172 [1080p CR WEB-DL AVC AAC][MultiSub][58...` | **1383.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/626957) • [🐱 Nyaa](https://nekobt.to/torrents/12873507467780) |
+| `[Erai-raws] Dogulwang - 05 (KA) [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1353.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/626953) • [🐱 Nyaa](https://nyaa.si/view/2142510) |
+| `[Erai-raws] Dogulwang - 05 (JA) [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1356.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/626949) • [🐱 Nyaa](https://nekobt.to/torrents/12873205495310) |
+| `[Erai-raws] Lv999 no Murabito - 07 [1080p CR WEB-DL AVC AAC][MultiS...` | **1399.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/626950) • [🐱 Nyaa](https://nekobt.to/torrents/12873157019393) |
+| `[Yameii] Tomb Raider King - S01E03 [English Dub] [CR WEB-DL 1080p H...` | **1345.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/626933) • [🐱 Nyaa](https://nyaa.si/view/2142503) |
+| `[Yameii] Trapped in a Dating Sim: The World of Otome Games is Tough...` | **1387.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/626934) • [🐱 Nyaa](https://nyaa.si/view/2142502) |
+| `[Yameii] Hana-Kimi - S02E05 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1407.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/626935) • [🐱 Nyaa](https://nyaa.si/view/2142501) |
+| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 05 [108...` | **1388.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/626938) • [🐱 Nyaa](https://nyaa.si/view/2142498) |
+| `[Erai-raws] Clevatess II - 05 [1080p CR WEB-DL AVC AAC][MultiSub][3...` | **1384.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/626944) • [🐱 Nyaa](https://nyaa.si/view/2142492) |
+| `[Yameii] Clevatess - S02E05 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1381.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/626945) • [🐱 Nyaa](https://nyaa.si/view/2142491) |
 | `Tomb Raider King S01E02 MULTI 1080p WEB x264 AAC -Tsundere-Raws (CR...` | **1379.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/626928) • [🐱 Nyaa](https://nekobt.to/torrents/12871808156428) |
 | `[SubsNoJutsu] MASHLE - MAGIC AND MUSCLES - S02E11 (1080p AAC x265 B...` | **620.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/626930) • [🐱 Nyaa](https://nekobt.to/torrents/12871708143360) |
-| `[sam] Grand Blue Dreaming - S03E04 (WEB 1080p HEVC x265 10-bit EAC-3)` | **2044.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/626926) • [🐱 Nyaa](https://nyaa.si/view/2142470) |
-| `[DKB] LV999 no Murabito - S01E07 [1080p][HEVC x265 10bit][Multi-Sub...` | **236.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/626925) • [🐱 Nyaa](https://nyaa.si/view/2142466) |
-| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E05 (1080p WEBRip EAC3 x2...` | **724.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626923) • [🐱 Nyaa](https://nekobt.to/torrents/12869842132230) |
-| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep05 (1080...` | **868.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/626924) • [🐱 Nyaa](https://nekobt.to/torrents/12869676578816) |
-| `[FoundYears] Though I Am an Inept Villainess - S01E02 (CR WEB-DL 10...` | **1511.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/626922) • [🐱 Nyaa](https://nekobt.to/torrents/12869545848590) |
-| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E05 [1080...` | **272.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/626919) • [🐱 Nyaa](https://nyaa.si/view/2142462) |
-| `[DKB] Clevatess: Majuu no Ou to Itsuwari no Yuusha Denshou - S02E05...` | **452.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/626920) • [🐱 Nyaa](https://nyaa.si/view/2142461) |
-| `[sam] The Ghost in the Shell (2026) - S01E05 (WEB 1080p HEVC x265 1...` | **4599.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/626921) • [🐱 Nyaa](https://nyaa.si/view/2142460) |
-| `[Onalrie] Katainaka no Ossan, Kensei ni Naru - S02E05 [1080p WEBRip...` | **246.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/626918) • [🐱 Nyaa](https://nekobt.to/torrents/12868885423624) |
-| `[jaaj] Violet Evergarden S01+OVA (2018) (BD 1080p AV1 OPUS)` | **2994.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/626916) • [🐱 Nyaa](https://nekobt.to/torrents/12868653254157) |
-| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 05 [1080p AMZN ...` | **417.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626915) • [🐱 Nyaa](https://nyaa.si/view/2142453) |
-| `[Onalrie] Thunder 3 - S01E05 [1080p WEBRip AV1]` | **243.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/626913) • [🐱 Nyaa](https://nekobt.to/torrents/12868499238661) |
-| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **197.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/626912) • [🐱 Nyaa](https://nyaa.si/view/2142451) |
 
 ---
 <div align="center">
