@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.12.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.20.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Koalas Diary S01E43 1080p LNTV WEB-DL AAC2.0 H.264 (Koal...` | **57.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/626988) • [🐱 Nyaa](https://nyaa.si/view/2142588) |
+| `[LbE3L] I Want to End This Love Game S01 CR [1080p WEBRip AV1 (Muxe...` | **3240.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/626989) • [🐱 Nyaa](https://nekobt.to/torrents/12883259320832) |
+| `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **935.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/626986) • [🐱 Nyaa](https://nyaa.si/view/2142587) |
+| `[Gecko] Koala's Diary - S01E43 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **22.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/626987) • [🐱 Nyaa](https://nyaa.si/view/2142586) |
+| `Cleopatra D.C. OVA 1989 BDrip 1080p HEVC Opus MULTi VOSTFR` | **973.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/626985) • [🐱 Nyaa](https://nyaa.si/view/2142581) |
 | `[SubsNoJutsu] Tomb Raider King - S01E05 (1080p WEBRip AAC x265) [A0...` | **445.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/626983) • [🐱 Nyaa](https://nekobt.to/torrents/12881842321670) |
 | `[Onalrie] Otomege Sekai wa Mob ni Kibishii Sekai Desu - S02E05 [108...` | **211.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/626984) • [🐱 Nyaa](https://nekobt.to/torrents/12881751661067) |
 | `[Onalrie] Dogulwang - S01E05 (JA) [1080p WEBRip AV1]` | **234.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/626982) • [🐱 Nyaa](https://nekobt.to/torrents/12881396051206) |
@@ -40,11 +45,6 @@
 | `Star Wars Visions Presents The Ninth Jedi S01 Season 1 2026 1080p D...` | **1640.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/626977) • [🐱 Nyaa](https://nyaa.si/view/2142571) |
 | `Clevatess S02E05 REPACK MULTi AD 1080p CR WEB-DL AAC2.0 H.264-Tsund...` | **1778.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/626976) • [🐱 Nyaa](https://nekobt.to/torrents/12880131228173) |
 | `[Erai-raws] Dogulwang - 05 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **435.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/626975) • [🐱 Nyaa](https://nyaa.si/view/2142566) |
-| `[Erai-raws] Dogulwang - 05 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **445.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/626973) • [🐱 Nyaa](https://nyaa.si/view/2142562) |
-| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E05 (いびってこ...` | **678.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/626974) • [🐱 Nyaa](https://nyaa.si/view/2142561) |
-| `[Erai-raws] Clevatess II - 05 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **425.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/626972) • [🐱 Nyaa](https://nyaa.si/view/2142553) |
-| `[geckyzz] Perfect Addiction - S01E05 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **197.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/626971) • [🐱 Nyaa](https://nyaa.si/view/2142548) |
-| `[Gecko] Cat Tales - S01E43 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **86.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/626969) • [🐱 Nyaa](https://nekobt.to/torrents/12876014442252) |
 
 ---
 <div align="center">
