@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.06.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.59.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **409.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627411) • [🐱 Nyaa](https://nyaa.si/view/2143179) |
+| `[DKB] Nige Jouzu no Wakagimi - S02E04 [1080p][HEVC x265 10bit][Mult...` | **752.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627412) • [🐱 Nyaa](https://nyaa.si/view/2143178) |
+| `[Erai-raws] Nige Jouzu no Wakagimi 2nd Season - 04 [1080p CR WEBRip...` | **896.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/627410) • [🐱 Nyaa](https://nyaa.si/view/2143177) |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E02 (1080p BD AAC x265...` | **555.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/627409) • [🐱 Nyaa](https://nekobt.to/torrents/12913799876869) |
+| `[ASW] Uchi no Otouto-domo ga Sumimasen - 06v2 [1080p HEVC x265 10Bi...` | **209.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/627408) • [🐱 Nyaa](https://nyaa.si/view/2143170) |
 | `[SubsNoJutsu] Wistoria - Wand and Sword - S01E02 (1080p BD AAC x265...` | **587.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/627404) • [🐱 Nyaa](https://nekobt.to/torrents/12913253486342) |
 | `[Ironclad] Ushiro no Shoumen Kamui-san - S01E06 [WEB.1080p.AV1] | K...` | **376.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627403) • [🐱 Nyaa](https://nyaa.si/view/2143167) |
 | `[SubsPlease] Uchi no Otouto-domo ga Sumimasen - 06v2 (1080p) [D68CE...` | **1390.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627399) • [🐱 Nyaa](https://nyaa.si/view/2143165) |
@@ -43,11 +48,6 @@
 | `[Shaved Egghead + Kuma Cut] One Piece - 1137-1138 (Egghead) [1080p ...` | **1157.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627396) • [🐱 Nyaa](https://nekobt.to/torrents/12912031346945) |
 | `[ToonsHub] Fate-Grand Order Final Singularity Grand Temple of Time ...` | **6239.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627391) • [🐱 Nyaa](https://nyaa.si/view/2143155) |
 | `[Judas] Kore Kaite Shine (Draw This, Then Die!) - S01E06 [1080p][HE...` | **314.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/627392) • [🐱 Nyaa](https://nyaa.si/view/2143154) |
-| `[ASW] Hell Mode S2 - 06 [1080p HEVC x265 10Bit][AAC]` | **397.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/627393) • [🐱 Nyaa](https://nyaa.si/view/2143152) |
-| `[Erai-raws] Kore Kaite Shine - 06 [1080p CR WEBRip HEVC AAC][MultiS...` | **491.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/627388) • [🐱 Nyaa](https://nyaa.si/view/2143150) |
-| `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **272.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/627390) • [🐱 Nyaa](https://nekobt.to/torrents/12911702495247) |
-| `[ASW] Uchi no Otouto-domo ga Sumimasen - 06 [1080p HEVC x265 10Bit]...` | **209.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/627389) • [🐱 Nyaa](https://nyaa.si/view/2143149) |
-| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E17 [WEB.1080p.AV1...` | **268.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627386) • [🐱 Nyaa](https://nyaa.si/view/2143141) |
 
 ---
 <div align="center">
