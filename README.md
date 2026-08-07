@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.23.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.48.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Crowned in a Hundred Days S01E14 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **715.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627218) • [🐱 Nyaa](https://nyaa.si/view/2142918) |
+| `Shingeki.Kyojin.Chuugakkou.2015.S01.MULTI.audio.sub.1080p.BDRip.CUS...` | **18926.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/627217) • [🐱 Nyaa](https://nyaa.si/view/2142917) |
 | `[Erai-raws] Crowned in a Hundred Days - 14 (CA) [1080p CR WEBRip HE...` | **202.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/627216) • [🐱 Nyaa](https://nekobt.to/torrents/12899869040130) |
 | `[ASW] Bai Ri Cheng Wang - 14 [1080p HEVC x265 10Bit][AAC]` | **162.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/627214) • [🐱 Nyaa](https://nyaa.si/view/2142913) |
 | `[Gecko] Koala's Diary - S01E43 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **72.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627213) • [🐱 Nyaa](https://nekobt.to/torrents/12898909690628) |
@@ -44,8 +46,6 @@
 | `[Doomdos] - Lingwu Continent - 204 [1080p IQ WEB-DL]` | **197.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/627201) • [🐱 Nyaa](https://nyaa.si/view/2142887) |
 | `[Doomdos] - The Great Ruler - 85 [1080p IQ WEB-DL]` | **444.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/627200) • [🐱 Nyaa](https://nyaa.si/view/2142883) |
 | `[Itsuki Gang] The Quintessential Quintuplets - S02E05 (BD 1080p HEV...` | **1547.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/627198) • [🐱 Nyaa](https://nyaa.si/view/2142882) |
-| `[Doomdos] - Daqian Town - 5 [1080p IQ WEB-DL]` | **100.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/627199) • [🐱 Nyaa](https://nyaa.si/view/2142881) |
-| `[ToonsHub] Ringing Fate S01 1080p ADN WEB-DL AAC2.0 H.264 (Multi-Su...` | **7042.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/627197) • [🐱 Nyaa](https://nekobt.to/torrents/12895275644677) |
 
 ---
 <div align="center">
