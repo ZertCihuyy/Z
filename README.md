@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.16.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.33.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `BanG Dream YUME MITA S01E08 REPACK SUBFRENCH 1080p CR WEB-DL AAC2.0...` | **1374.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/627232) • [🐱 Nyaa](https://nekobt.to/torrents/12903292467467) |
+| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 05 [1080p] [AV1] (Weekly)` | **120.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/627229) • [🐱 Nyaa](https://nyaa.si/view/2142932) |
 | `[Onalrie] Crowned in a Hundred Days - S01E14 (CA) [1080p WEBRip AV1]` | **135.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627226) • [🐱 Nyaa](https://nekobt.to/torrents/12902215443210) |
 | `Crowned in a Hundred Days S01E14 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **711.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/627227) • [🐱 Nyaa](https://nekobt.to/torrents/12902103406596) |
 | `[denisplay]  Youjo Senki S2 - 05 [1080p] [AV1] (Weekly) (Youjo Senk...` | **240.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627223) • [🐱 Nyaa](https://nyaa.si/view/2142927) |
@@ -44,8 +46,6 @@
 | `[Gecko] Koala's Diary - S01E43 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **72.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627213) • [🐱 Nyaa](https://nekobt.to/torrents/12898909690628) |
 | `[ToonsHub] Crowned in a Hundred Days S01E14 1080p BILI WEB-DL AAC2....` | **170.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/627204) • [🐱 Nyaa](https://nyaa.si/view/2142907) |
 | `[ToonsHub] Crowned in a Hundred Days S01E14 1080p CR WEB-DL AAC2.0 ...` | **714.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/627205) • [🐱 Nyaa](https://nyaa.si/view/2142906) |
-| `[Gecko] Crowned in a Hundred Days - S01E14 (百日成王; Bai Ri Cheng Wang...` | **173.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/627206) • [🐱 Nyaa](https://nyaa.si/view/2142904) |
-| `[SubsPlease] Bai Ri Cheng Wang - 14 (1080p) [4E86212D].mkv` | **711.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/627207) • [🐱 Nyaa](https://nyaa.si/view/2142903) |
 
 ---
 <div align="center">
