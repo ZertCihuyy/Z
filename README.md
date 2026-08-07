@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.53.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.57.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Kokoore - 06 [1080p HEVC x265 10Bit][AAC]` | **235.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/627270) • [🐱 Nyaa](https://nyaa.si/view/2142996) |
+| `[Onalrie] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - S01E06 [108...` | **179.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/627268) • [🐱 Nyaa](https://nekobt.to/torrents/12908401254658) |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E01 (1080p BD AAC x265...` | **547.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/627269) • [🐱 Nyaa](https://nekobt.to/torrents/12908396224769) |
+| `[Shridhuu] Perfect World - 完美世界 (Wanmei Shijie) - EP281 [1080p]` | **570.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/627264) • [🐱 Nyaa](https://nyaa.si/view/2142995) |
+| `[Judas] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **202.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/627266) • [🐱 Nyaa](https://nyaa.si/view/2142992) |
+| `[Doomdos] - The Frontier Lord Begins with Zero Subjects - 6 [1080p ...` | **257.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/627267) • [🐱 Nyaa](https://nyaa.si/view/2142991) |
+| `[ASW] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 06 [1080p HEVC ...` | **203.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/627252) • [🐱 Nyaa](https://nyaa.si/view/2142990) |
+| `[ToonsHub] I Became a Legend after My 10 Year-Long Last Stand S01E0...` | **1424.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/627253) • [🐱 Nyaa](https://nyaa.si/view/2142989) |
+| `I Became a Legend after My 10 Year Long Last Stand S01E06 After Ten...` | **1405.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627254) • [🐱 Nyaa](https://nyaa.si/view/2142988) |
+| `[SubsPlease] Kokoore - 06 (1080p) [401B976C].mkv` | **1375.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/627255) • [🐱 Nyaa](https://nyaa.si/view/2142987) |
+| `I Became a Legend After My 10 Year Long Last Stand S01E06 SUBFRENCH...` | **1379.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/627262) • [🐱 Nyaa](https://nekobt.to/torrents/12907956329481) |
+| `[Erai-raws] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen...` | **1384.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/627259) • [🐱 Nyaa](https://nyaa.si/view/2142981) |
+| `[Unfucked] The Frontier Lord Begins with Zero Subjects - S01E06 (10...` | **1387.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/627261) • [🐱 Nyaa](https://nyaa.si/view/2142977) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E06 1080p...` | **1428.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/627251) • [🐱 Nyaa](https://nyaa.si/view/2142972) |
 | `[VARYG] The Frontier Lord Begins with Zero Subjects S01E06 The Fron...` | **1407.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627248) • [🐱 Nyaa](https://nekobt.to/torrents/12907592943113) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E06 1080p...` | **822.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/627241) • [🐱 Nyaa](https://nyaa.si/view/2142970) |
-| `[SubsPlease] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 06 (1080...` | **1381.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/627242) • [🐱 Nyaa](https://nyaa.si/view/2142969) |
-| `The Frontier Lord Begins with Zero Subjects S01E06 SUBFRENCH 1080p ...` | **1385.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/627249) • [🐱 Nyaa](https://nekobt.to/torrents/12907494957071) |
-| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 06 [1080p...` | **1390.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/627247) • [🐱 Nyaa](https://nyaa.si/view/2142960) |
-| `[ToonsHub] Fabulous Beasts S06E01 1080p BILI WEB-DL AAC2.0 H.265 (Y...` | **152.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627237) • [🐱 Nyaa](https://nyaa.si/view/2142958) |
-| `[Gecko] Fabulous Beasts - S06E02 (有兽焉; You Shou Yan 6th Season) [BI...` | **138.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/627238) • [🐱 Nyaa](https://nyaa.si/view/2142957) |
-| `[BlackRabbit] Dr. STONE (2019) - S02 [Bluray-1080p][Opus 2.0][Dual ...` | **4088.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/627240) • [🐱 Nyaa](https://nekobt.to/torrents/12907160922886) |
-| `[Gecko] Fabulous Beasts - S06E01 (有兽焉; You Shou Yan 6th Season) [BI...` | **154.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/627239) • [🐱 Nyaa](https://nyaa.si/view/2142956) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E05 1080p...` | **742.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/627236) • [🐱 Nyaa](https://nyaa.si/view/2142955) |
-| `[SubsNoJutsu] Lord of Mysteries - S01E07 (1080p WEBRip AAC x265) [C...` | **692.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/627235) • [🐱 Nyaa](https://nekobt.to/torrents/12906731479048) |
-| `[ToonsHub] Detective Conan EP1209 1080p NF WEB-DL AAC2.0 H.264 (Mei...` | **824.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/627234) • [🐱 Nyaa](https://nyaa.si/view/2142947) |
-| `[Chihiro] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - ...` | **682.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/627233) • [🐱 Nyaa](https://nyaa.si/view/2142941) |
-| `BanG Dream YUME MITA S01E08 REPACK SUBFRENCH 1080p CR WEB-DL AAC2.0...` | **1374.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/627232) • [🐱 Nyaa](https://nekobt.to/torrents/12903292467467) |
-| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 05 [1080p] [AV1] (Weekly)` | **120.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/627229) • [🐱 Nyaa](https://nyaa.si/view/2142932) |
 
 ---
 <div align="center">
