@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.25.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.30.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - Lingwu Continent - 204 [1080p IQ WEB-DL]` | **197.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/627201) • [🐱 Nyaa](https://nyaa.si/view/2142887) |
+| `[Doomdos] - The Great Ruler - 85 [1080p IQ WEB-DL]` | **444.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/627200) • [🐱 Nyaa](https://nyaa.si/view/2142883) |
+| `[Itsuki Gang] The Quintessential Quintuplets - S02E05 (BD 1080p HEV...` | **1547.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/627198) • [🐱 Nyaa](https://nyaa.si/view/2142882) |
+| `[Doomdos] - Daqian Town - 5 [1080p IQ WEB-DL]` | **100.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/627199) • [🐱 Nyaa](https://nyaa.si/view/2142881) |
 | `[ToonsHub] Ringing Fate S01 1080p ADN WEB-DL AAC2.0 H.264 (Multi-Su...` | **7042.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/627197) • [🐱 Nyaa](https://nekobt.to/torrents/12895275644677) |
 | `[Kotobuki] Koukaku Kidoutai (2026) 05 [1080p HEVC Multisub] | The G...` | **285.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/627196) • [🐱 Nyaa](https://nyaa.si/view/2142864) |
 | `[Erai-raws] Otome Kaijuu Carameliser - 06 [1080p CR WEBRip HEVC AAC...` | **619.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/627191) • [🐱 Nyaa](https://nyaa.si/view/2142857) |
@@ -42,10 +46,6 @@
 | `[ToonsHub] KAIJU GIRL CARAMELISE S01E06 REPACK 1080p CR WEB-DL AAC2...` | **1761.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/627188) • [🐱 Nyaa](https://nyaa.si/view/2142845) |
 | `[ToonsHub] Sound Euphonium S00E20 Sound Euphonium Ensemble Contest ...` | **3348.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/627189) • [🐱 Nyaa](https://nyaa.si/view/2142844) |
 | `Demon Slayer Kimetsu no Yaiba Infinity Castle 1 2025 REPACK 1080p C...` | **3714.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/627187) • [🐱 Nyaa](https://nyaa.si/view/2142840) |
-| `[Ironclad] Super no Ura de Yani Suu Futari - S01E05 [WEB.1080p.AV1]...` | **222.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/627186) • [🐱 Nyaa](https://nyaa.si/view/2142839) |
-| `[CenturyZeta] Youjo Shenki 2 - 05 (1080p) (Youjo Senki)` | **4.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/627184) • [🐱 Nyaa](https://nyaa.si/view/2142836) |
-| `[DKB] Yani Neko - S01E06 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **480.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/627180) • [🐱 Nyaa](https://nyaa.si/view/2142835) |
-| `[Queen Medusa] A Will Eternal S04 E05 (170) [1080p DDP2.0 & AAC 2.0...` | **434.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/627181) • [🐱 Nyaa](https://nyaa.si/view/2142834) |
 
 ---
 <div align="center">
