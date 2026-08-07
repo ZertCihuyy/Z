@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.29.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.53.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] The Frontier Lord Begins with Zero Subjects S01E06 The Fron...` | **1407.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627248) • [🐱 Nyaa](https://nekobt.to/torrents/12907592943113) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E06 1080p...` | **822.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/627241) • [🐱 Nyaa](https://nyaa.si/view/2142970) |
+| `[SubsPlease] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 06 (1080...` | **1381.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/627242) • [🐱 Nyaa](https://nyaa.si/view/2142969) |
+| `The Frontier Lord Begins with Zero Subjects S01E06 SUBFRENCH 1080p ...` | **1385.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/627249) • [🐱 Nyaa](https://nekobt.to/torrents/12907494957071) |
+| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 06 [1080p...` | **1390.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/627247) • [🐱 Nyaa](https://nyaa.si/view/2142960) |
+| `[ToonsHub] Fabulous Beasts S06E01 1080p BILI WEB-DL AAC2.0 H.265 (Y...` | **152.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627237) • [🐱 Nyaa](https://nyaa.si/view/2142958) |
+| `[Gecko] Fabulous Beasts - S06E02 (有兽焉; You Shou Yan 6th Season) [BI...` | **138.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/627238) • [🐱 Nyaa](https://nyaa.si/view/2142957) |
+| `[BlackRabbit] Dr. STONE (2019) - S02 [Bluray-1080p][Opus 2.0][Dual ...` | **4088.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/627240) • [🐱 Nyaa](https://nekobt.to/torrents/12907160922886) |
+| `[Gecko] Fabulous Beasts - S06E01 (有兽焉; You Shou Yan 6th Season) [BI...` | **154.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/627239) • [🐱 Nyaa](https://nyaa.si/view/2142956) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E05 1080p...` | **742.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/627236) • [🐱 Nyaa](https://nyaa.si/view/2142955) |
+| `[SubsNoJutsu] Lord of Mysteries - S01E07 (1080p WEBRip AAC x265) [C...` | **692.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/627235) • [🐱 Nyaa](https://nekobt.to/torrents/12906731479048) |
+| `[ToonsHub] Detective Conan EP1209 1080p NF WEB-DL AAC2.0 H.264 (Mei...` | **824.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/627234) • [🐱 Nyaa](https://nyaa.si/view/2142947) |
 | `[Chihiro] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - ...` | **682.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/627233) • [🐱 Nyaa](https://nyaa.si/view/2142941) |
 | `BanG Dream YUME MITA S01E08 REPACK SUBFRENCH 1080p CR WEB-DL AAC2.0...` | **1374.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/627232) • [🐱 Nyaa](https://nekobt.to/torrents/12903292467467) |
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 05 [1080p] [AV1] (Weekly)` | **120.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/627229) • [🐱 Nyaa](https://nyaa.si/view/2142932) |
-| `[Onalrie] Crowned in a Hundred Days - S01E14 (CA) [1080p WEBRip AV1]` | **135.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627226) • [🐱 Nyaa](https://nekobt.to/torrents/12902215443210) |
-| `Crowned in a Hundred Days S01E14 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **711.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/627227) • [🐱 Nyaa](https://nekobt.to/torrents/12902103406596) |
-| `[denisplay]  Youjo Senki S2 - 05 [1080p] [AV1] (Weekly) (Youjo Senk...` | **240.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627223) • [🐱 Nyaa](https://nyaa.si/view/2142927) |
-| `[ToonsHub] Welcome to Irabu's Office S01 1080p OV WEB-DL AAC2.0 H.2...` | **3949.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627222) • [🐱 Nyaa](https://nyaa.si/view/2142923) |
-| `[BlackRabbit] Dr. STONE (2019) - S01 [Bluray-1080p][Opus 2.0][Dual ...` | **7917.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627221) • [🐱 Nyaa](https://nekobt.to/torrents/12901088998665) |
-| `[LonelyChaser & Kineko Video] Future War 198X (35mm) [1080p]` | **20536.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/627219) • [🐱 Nyaa](https://nyaa.si/view/2142920) |
-| `Crowned in a Hundred Days S01E14 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **715.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627218) • [🐱 Nyaa](https://nyaa.si/view/2142918) |
-| `Shingeki.Kyojin.Chuugakkou.2015.S01.MULTI.audio.sub.1080p.BDRip.CUS...` | **18926.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/627217) • [🐱 Nyaa](https://nyaa.si/view/2142917) |
-| `[Erai-raws] Crowned in a Hundred Days - 14 (CA) [1080p CR WEBRip HE...` | **202.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/627216) • [🐱 Nyaa](https://nekobt.to/torrents/12899869040130) |
-| `[ASW] Bai Ri Cheng Wang - 14 [1080p HEVC x265 10Bit][AAC]` | **162.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/627214) • [🐱 Nyaa](https://nyaa.si/view/2142913) |
-| `[Gecko] Koala's Diary - S01E43 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **72.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627213) • [🐱 Nyaa](https://nekobt.to/torrents/12898909690628) |
-| `[ToonsHub] Crowned in a Hundred Days S01E14 1080p BILI WEB-DL AAC2....` | **170.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/627204) • [🐱 Nyaa](https://nyaa.si/view/2142907) |
 
 ---
 <div align="center">
