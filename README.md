@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.48.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.16.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Crowned in a Hundred Days - S01E14 (CA) [1080p WEBRip AV1]` | **135.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627226) • [🐱 Nyaa](https://nekobt.to/torrents/12902215443210) |
+| `Crowned in a Hundred Days S01E14 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **711.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/627227) • [🐱 Nyaa](https://nekobt.to/torrents/12902103406596) |
+| `[denisplay]  Youjo Senki S2 - 05 [1080p] [AV1] (Weekly) (Youjo Senk...` | **240.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627223) • [🐱 Nyaa](https://nyaa.si/view/2142927) |
+| `[ToonsHub] Welcome to Irabu's Office S01 1080p OV WEB-DL AAC2.0 H.2...` | **3949.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627222) • [🐱 Nyaa](https://nyaa.si/view/2142923) |
+| `[BlackRabbit] Dr. STONE (2019) - S01 [Bluray-1080p][Opus 2.0][Dual ...` | **7917.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627221) • [🐱 Nyaa](https://nekobt.to/torrents/12901088998665) |
+| `[LonelyChaser & Kineko Video] Future War 198X (35mm) [1080p]` | **20536.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/627219) • [🐱 Nyaa](https://nyaa.si/view/2142920) |
 | `Crowned in a Hundred Days S01E14 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **715.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627218) • [🐱 Nyaa](https://nyaa.si/view/2142918) |
 | `Shingeki.Kyojin.Chuugakkou.2015.S01.MULTI.audio.sub.1080p.BDRip.CUS...` | **18926.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/627217) • [🐱 Nyaa](https://nyaa.si/view/2142917) |
 | `[Erai-raws] Crowned in a Hundred Days - 14 (CA) [1080p CR WEBRip HE...` | **202.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/627216) • [🐱 Nyaa](https://nekobt.to/torrents/12899869040130) |
@@ -40,12 +46,6 @@
 | `[ToonsHub] Crowned in a Hundred Days S01E14 1080p CR WEB-DL AAC2.0 ...` | **714.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/627205) • [🐱 Nyaa](https://nyaa.si/view/2142906) |
 | `[Gecko] Crowned in a Hundred Days - S01E14 (百日成王; Bai Ri Cheng Wang...` | **173.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/627206) • [🐱 Nyaa](https://nyaa.si/view/2142904) |
 | `[SubsPlease] Bai Ri Cheng Wang - 14 (1080p) [4E86212D].mkv` | **711.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/627207) • [🐱 Nyaa](https://nyaa.si/view/2142903) |
-| `[Erai-raws] Crowned in a Hundred Days - 14 (CA) [1080p CR WEB-DL AV...` | **484.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627212) • [🐱 Nyaa](https://nyaa.si/view/2142898) |
-| `[Gecko] BanG Dream! YUME∞MITA - S01E08 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **690.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/627203) • [🐱 Nyaa](https://nekobt.to/torrents/12898625785094) |
-| `[Isekai] That Time I Got Reincarnated as a Slime the Movie 2 - Tear...` | **6271.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/627202) • [🐱 Nyaa](https://nyaa.si/view/2142892) |
-| `[Doomdos] - Lingwu Continent - 204 [1080p IQ WEB-DL]` | **197.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/627201) • [🐱 Nyaa](https://nyaa.si/view/2142887) |
-| `[Doomdos] - The Great Ruler - 85 [1080p IQ WEB-DL]` | **444.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/627200) • [🐱 Nyaa](https://nyaa.si/view/2142883) |
-| `[Itsuki Gang] The Quintessential Quintuplets - S02E05 (BD 1080p HEV...` | **1547.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/627198) • [🐱 Nyaa](https://nyaa.si/view/2142882) |
 
 ---
 <div align="center">
