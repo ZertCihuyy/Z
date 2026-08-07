@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.51.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.41.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **1235.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/627415) • [🐱 Nyaa](https://nyaa.si/view/2143186) |
+| `[Gecko] Chibi Godzilla Raids Again - S01E112 (ちびゴジラの逆襲; Chibi Godzi...` | **28.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627414) • [🐱 Nyaa](https://nyaa.si/view/2143184) |
 | `[ToonsHub] Please Excuse My Younger Brothers S01E06 REPACK 1080p CR...` | **1407.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/627413) • [🐱 Nyaa](https://nekobt.to/torrents/12914859018251) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **409.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627411) • [🐱 Nyaa](https://nyaa.si/view/2143179) |
 | `[DKB] Nige Jouzu no Wakagimi - S02E04 [1080p][HEVC x265 10bit][Mult...` | **752.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627412) • [🐱 Nyaa](https://nyaa.si/view/2143178) |
@@ -46,8 +48,6 @@
 | `[Piyoko] Onegai AiPri - 18 [WEB AMZN 1080p h264 AC3 2.0]` | **969.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/627397) • [🐱 Nyaa](https://nyaa.si/view/2143160) |
 | `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **299.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627394) • [🐱 Nyaa](https://nyaa.si/view/2143157) |
 | `[DKB] Tensei shitara Slime Datta Ken - S04E17 [1080p][HEVC x265 10b...` | **482.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/627395) • [🐱 Nyaa](https://nyaa.si/view/2143156) |
-| `[Shaved Egghead + Kuma Cut] One Piece - 1137-1138 (Egghead) [1080p ...` | **1157.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627396) • [🐱 Nyaa](https://nekobt.to/torrents/12912031346945) |
-| `[ToonsHub] Fate-Grand Order Final Singularity Grand Temple of Time ...` | **6239.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627391) • [🐱 Nyaa](https://nyaa.si/view/2143155) |
 
 ---
 <div align="center">
