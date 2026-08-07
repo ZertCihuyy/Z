@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.16.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.06.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E02 (1080p BD AAC x265...` | **587.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/627404) • [🐱 Nyaa](https://nekobt.to/torrents/12913253486342) |
+| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E06 [WEB.1080p.AV1] | K...` | **376.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627403) • [🐱 Nyaa](https://nyaa.si/view/2143167) |
+| `[SubsPlease] Uchi no Otouto-domo ga Sumimasen - 06v2 (1080p) [D68CE...` | **1390.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627399) • [🐱 Nyaa](https://nyaa.si/view/2143165) |
 | `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 06 [1080p CR WEBRip ...` | **389.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627398) • [🐱 Nyaa](https://nyaa.si/view/2143161) |
 | `[Piyoko] Onegai AiPri - 18 [WEB AMZN 1080p h264 AC3 2.0]` | **969.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/627397) • [🐱 Nyaa](https://nyaa.si/view/2143160) |
 | `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **299.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627394) • [🐱 Nyaa](https://nyaa.si/view/2143157) |
@@ -45,9 +48,6 @@
 | `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **272.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/627390) • [🐱 Nyaa](https://nekobt.to/torrents/12911702495247) |
 | `[ASW] Uchi no Otouto-domo ga Sumimasen - 06 [1080p HEVC x265 10Bit]...` | **209.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/627389) • [🐱 Nyaa](https://nyaa.si/view/2143149) |
 | `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E17 [WEB.1080p.AV1...` | **268.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627386) • [🐱 Nyaa](https://nyaa.si/view/2143141) |
-| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E06 [1080p WEBRip AV1]` | **176.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/627385) • [🐱 Nyaa](https://nekobt.to/torrents/12911244281614) |
-| `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **369.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/627387) • [🐱 Nyaa](https://nyaa.si/view/2143137) |
-| `[ASW] Nige Jouzu no Wakagimi S2 - 04 [1080p HEVC x265 10Bit][AAC]` | **713.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/627383) • [🐱 Nyaa](https://nyaa.si/view/2143136) |
 
 ---
 <div align="center">
