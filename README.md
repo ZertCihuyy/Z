@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.34.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.32.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Chihiro] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - ...` | **682.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/627233) • [🐱 Nyaa](https://nyaa.si/view/2142941) |
 | `BanG Dream YUME MITA S01E08 REPACK SUBFRENCH 1080p CR WEB-DL AAC2.0...` | **1374.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/627232) • [🐱 Nyaa](https://nekobt.to/torrents/12903292467467) |
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 05 [1080p] [AV1] (Weekly)` | **120.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/627229) • [🐱 Nyaa](https://nyaa.si/view/2142932) |
 | `[Onalrie] Crowned in a Hundred Days - S01E14 (CA) [1080p WEBRip AV1]` | **135.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627226) • [🐱 Nyaa](https://nekobt.to/torrents/12902215443210) |
@@ -45,7 +46,6 @@
 | `[ASW] Bai Ri Cheng Wang - 14 [1080p HEVC x265 10Bit][AAC]` | **162.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/627214) • [🐱 Nyaa](https://nyaa.si/view/2142913) |
 | `[Gecko] Koala's Diary - S01E43 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **72.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627213) • [🐱 Nyaa](https://nekobt.to/torrents/12898909690628) |
 | `[ToonsHub] Crowned in a Hundred Days S01E14 1080p BILI WEB-DL AAC2....` | **170.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/627204) • [🐱 Nyaa](https://nyaa.si/view/2142907) |
-| `[ToonsHub] Crowned in a Hundred Days S01E14 1080p CR WEB-DL AAC2.0 ...` | **714.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/627205) • [🐱 Nyaa](https://nyaa.si/view/2142906) |
 
 ---
 <div align="center">
