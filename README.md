@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.59.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.51.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Please Excuse My Younger Brothers S01E06 REPACK 1080p CR...` | **1407.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/627413) • [🐱 Nyaa](https://nekobt.to/torrents/12914859018251) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **409.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627411) • [🐱 Nyaa](https://nyaa.si/view/2143179) |
 | `[DKB] Nige Jouzu no Wakagimi - S02E04 [1080p][HEVC x265 10bit][Mult...` | **752.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627412) • [🐱 Nyaa](https://nyaa.si/view/2143178) |
 | `[Erai-raws] Nige Jouzu no Wakagimi 2nd Season - 04 [1080p CR WEBRip...` | **896.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/627410) • [🐱 Nyaa](https://nyaa.si/view/2143177) |
@@ -47,7 +48,6 @@
 | `[DKB] Tensei shitara Slime Datta Ken - S04E17 [1080p][HEVC x265 10b...` | **482.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/627395) • [🐱 Nyaa](https://nyaa.si/view/2143156) |
 | `[Shaved Egghead + Kuma Cut] One Piece - 1137-1138 (Egghead) [1080p ...` | **1157.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627396) • [🐱 Nyaa](https://nekobt.to/torrents/12912031346945) |
 | `[ToonsHub] Fate-Grand Order Final Singularity Grand Temple of Time ...` | **6239.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627391) • [🐱 Nyaa](https://nyaa.si/view/2143155) |
-| `[Judas] Kore Kaite Shine (Draw This, Then Die!) - S01E06 [1080p][HE...` | **314.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/627392) • [🐱 Nyaa](https://nyaa.si/view/2143154) |
 
 ---
 <div align="center">
