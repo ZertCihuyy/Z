@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.01.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.57.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **299.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/627439) • [🐱 Nyaa](https://nyaa.si/view/2143321) |
 | `[Onalrie] Rilakkuma - S01E19 [1080p WEBRip AV1]` | **17.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/627438) • [🐱 Nyaa](https://nekobt.to/torrents/12921188143107) |
 | `[VARYG] RILAKKUMA S01E19 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **102.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/627437) • [🐱 Nyaa](https://nekobt.to/torrents/12920874555904) |
 | `[ToonsHub] Jiang Ye S01E17 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **423.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/627436) • [🐱 Nyaa](https://nyaa.si/view/2143241) |
@@ -47,7 +48,6 @@
 | `[Erai-raws] Rilakkuma - 19 [1080p CR WEB-DL AVC AAC][MultiSub][6383...` | **89.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627421) • [🐱 Nyaa](https://nyaa.si/view/2143200) |
 | `[SubsPlease] Rilakkuma - 19 (1080p) [1793BD1E].mkv` | **93.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627424) • [🐱 Nyaa](https://nyaa.si/view/2143197) |
 | `[AnoZu] Journal with Witch S01 1080p CR WEB-DL DDP 2.0 H.264 | Ikok...` | **18379.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627418) • [🐱 Nyaa](https://nyaa.si/view/2143196) |
-| `[SubsPlus+] Hell Mode - S02E06 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **689.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/627417) • [🐱 Nyaa](https://nyaa.si/view/2143194) |
 
 ---
 <div align="center">
