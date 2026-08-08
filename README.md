@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.47.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.39.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[AnoZu] Bleach S17E43 REPACK 1080p DSNP WEB-DL AAC 2.0 H.264 | Blea...` | **1006.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/627547) • [🐱 Nyaa](https://nyaa.si/view/2143539) |
-| `[Doomdos] - BLEACH Thousand-Year Blood War - The Calamity - 43 [108...` | **358.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/627548) • [🐱 Nyaa](https://nyaa.si/view/2143538) |
-| `[AnoZu] Bleach S17E43 1080p REPACK DSNP WEB-DL AAC 2.0 H.264` | **1006.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/627545) • [🐱 Nyaa](https://nekobt.to/torrents/12931436456450) |
-| `[Onalrie] Honzuki no Gekokujou - S04E17 [1080p WEBRip AV1]` | **179.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627546) • [🐱 Nyaa](https://nekobt.to/torrents/12931380077570) |
-| `[ToonsHub] BLEACH Thousand-Year Blood War S01E43 1080p NF WEB-DL AA...` | **866.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/627543) • [🐱 Nyaa](https://nyaa.si/view/2143523) |
-| `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Er...` | **254.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627544) • [🐱 Nyaa](https://nyaa.si/view/2143522) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E18 1080p NF WEB-DL AAC2....` | **865.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/627542) • [🐱 Nyaa](https://nyaa.si/view/2143521) |
-| `[VARYG] BLEACH Thousand Year Blood War S01E43 1080p NF WEB-DL AAC2....` | **866.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/627539) • [🐱 Nyaa](https://nekobt.to/torrents/12931093421313) |
-| `[VARYG] Daemons of the Shadow Realm S01E18 Fujin and Raijin 1080p N...` | **865.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/627540) • [🐱 Nyaa](https://nekobt.to/torrents/12931066195713) |
-| `BLEACH Thousand Year Blood War S01E43 BLOOD FOR MY BONE 1080p AMZN ...` | **1366.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/627536) • [🐱 Nyaa](https://nyaa.si/view/2143518) |
-| `[Onalrie] Neko to Ryuu - S01E07 [1080p WEBRip AV1]` | **189.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/627541) • [🐱 Nyaa](https://nekobt.to/torrents/12931028519936) |
-| `[ToonsHub] BLEACH Thousand-Year Blood War S01E43 1080p AMZN WEB-DL ...` | **1366.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/627537) • [🐱 Nyaa](https://nyaa.si/view/2143516) |
-| `[ToonsHub] BLEACH Thousand-Year Blood War The Calamity S01E43 1080p...` | **383.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/627538) • [🐱 Nyaa](https://nyaa.si/view/2143514) |
-| `Bleach S17E43 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H.264-Tsundere-Raw...` | **1005.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/627535) • [🐱 Nyaa](https://nekobt.to/torrents/12930827125007) |
-| `[ASW] Iwamoto-senpai no Suisen - 06 [1080p HEVC x265 10Bit][AAC]` | **287.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/627533) • [🐱 Nyaa](https://nyaa.si/view/2143509) |
+| `Jaadugar A Witch in Mongolia S01E07 Brothers 1080p CR WEB-DL AAC2.0...` | **1722.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627589) • [🐱 Nyaa](https://nyaa.si/view/2143590) |
+| `Daemons of the Shadow Realm S01E16 Kagemori and Shingo 1080p CR WEB...` | **864.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627590) • [🐱 Nyaa](https://nyaa.si/view/2143589) |
+| `Daemons of the Shadow Realm S01E18 Fujin and Raijin 1080p CR WEB-DL...` | **1395.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/627591) • [🐱 Nyaa](https://nyaa.si/view/2143588) |
+| `Daemons of the Shadow Realm S01E14 Family and Friends 1080p CR WEB-...` | **1152.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/627588) • [🐱 Nyaa](https://nyaa.si/view/2143587) |
+| `[ToonsHub] Grow Up Show Sunflower Circus S01E06 1080p CR WEB-DL DUA...` | **1737.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/627583) • [🐱 Nyaa](https://nekobt.to/torrents/12932149798413) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E15 1080p CR WEB-DL MULTi...` | **1733.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/627585) • [🐱 Nyaa](https://nekobt.to/torrents/12932135730185) |
+| `[Yameii] Daemons of the Shadow Realm - S01E16 [English Dub] [CR WEB...` | **1383.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/627582) • [🐱 Nyaa](https://nyaa.si/view/2143581) |
+| `GROW UP SHOW Sunflower Circus S01E06 SUBFRENCH 1080p CR WEB-DL AAC2...` | **1711.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/627586) • [🐱 Nyaa](https://nekobt.to/torrents/12932044927755) |
+| `[Yameii] Jaadugar: A Witch in Mongolia - S01E05 [English Dub] [CR W...` | **1389.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/627575) • [🐱 Nyaa](https://nyaa.si/view/2143574) |
+| `[Yameii] Grow Up Show: Sunflower Circus - S01E06 [English Dub] [CR ...` | **1382.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/627576) • [🐱 Nyaa](https://nyaa.si/view/2143573) |
+| `[ToonsHub] Grow Up Show Sunflower Circus S01E06 1080p CR WEB-DL AAC...` | **1716.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/627577) • [🐱 Nyaa](https://nyaa.si/view/2143572) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E16 1080p CR WEB-DL DUAL ...` | **1437.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/627578) • [🐱 Nyaa](https://nyaa.si/view/2143571) |
+| `[ToonsHub] Jaadugar A Witch in Mongolia S01E05 1080p CR WEB-DL DUAL...` | **1757.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/627579) • [🐱 Nyaa](https://nyaa.si/view/2143570) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E18 1080p CR WEB-DL AAC2....` | **1393.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/627580) • [🐱 Nyaa](https://nyaa.si/view/2143569) |
+| `[ToonsHub] Jaadugar A Witch in Mongolia S01E07 1080p CR WEB-DL AAC2...` | **1719.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627559) • [🐱 Nyaa](https://nekobt.to/torrents/12931985793032) |
 
 ---
 <div align="center">
