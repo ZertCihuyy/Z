@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.50.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.36.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] BLEACH Thousand Year Blood War S01E43 BLOOD FOR MY BONE 108...` | **1005.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/627530) • [🐱 Nyaa](https://nekobt.to/torrents/12930555015429) |
+| `[ToonsHub] BLEACH Thousand-Year Blood War S01E43 1080p DSNP WEB-DL ...` | **1005.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/627531) • [🐱 Nyaa](https://nekobt.to/torrents/12930532786957) |
+| `[Doomdos] - Recommendations from Iwamoto-Senpai - 6 [1080p IQ WEB-DL]` | **308.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/627526) • [🐱 Nyaa](https://nyaa.si/view/2143492) |
+| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 06v2 [1080p CR WEB-D...` | **1401.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/627528) • [🐱 Nyaa](https://nyaa.si/view/2143490) |
+| `[ASW] Neko to Ryuu - 07 [1080p HEVC x265 10Bit][AAC]` | **240.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/627525) • [🐱 Nyaa](https://nyaa.si/view/2143486) |
+| `Recommendations from Iwamoto Senpai S01E06 Invasion of Witches 1080...` | **1392.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/627524) • [🐱 Nyaa](https://nyaa.si/view/2143484) |
+| `[ToonsHub] Recommendations from Iwamoto-Senpai S01E06 1080p CR WEB-...` | **1390.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/627519) • [🐱 Nyaa](https://nyaa.si/view/2143483) |
+| `[SubsPlease] Iwamoto-senpai no Suisen - 06 (1080p) [4EB57399].mkv` | **1382.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/627520) • [🐱 Nyaa](https://nyaa.si/view/2143482) |
+| `[Erai-raws] Iwamoto-senpai no Suisen - 06 [1080p CR WEB-DL AVC AAC]...` | **1390.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/627518) • [🐱 Nyaa](https://nekobt.to/torrents/12930061799688) |
+| `[Judas] Black Torch - S01E06 [1080p][HEVC x265 10bit][Dual-Audio][M...` | **417.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/627523) • [🐱 Nyaa](https://nyaa.si/view/2143473) |
+| `[ASW] Black Torch - 06 [1080p HEVC x265 10Bit][AAC]` | **393.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627515) • [🐱 Nyaa](https://nyaa.si/view/2143471) |
 | `[Doomdos] - The Cat and the Dragon - 7 [1080p IQ WEB-DL]` | **280.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627513) • [🐱 Nyaa](https://nyaa.si/view/2143470) |
+| `[Onalrie] Black Torch - S01E06 [1080p WEBRip AV1]` | **292.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/627514) • [🐱 Nyaa](https://nekobt.to/torrents/12929749524226) |
 | `[VARYG] BLACK TORCH S01E06 Turn Up 1080p CR WEB-DL MULTi AAC2.0 H.2...` | **1647.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/627508) • [🐱 Nyaa](https://nekobt.to/torrents/12929679398664) |
 | `[VARYG] The Cat and the Dragon S01E07 The Return of the Mother Cat ...` | **1410.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/627509) • [🐱 Nyaa](https://nekobt.to/torrents/12929677906695) |
-| `[ToonsHub] The Cat and the Dragon S01E07 1080p CR WEB-DL AAC2.0 H.2...` | **1409.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/627510) • [🐱 Nyaa](https://nekobt.to/torrents/12929663309059) |
-| `[SubsPlease] Neko to Ryuu - 07 (1080p) [96403CD2].mkv` | **1383.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/627502) • [🐱 Nyaa](https://nyaa.si/view/2143466) |
-| `The Cat and the Dragon S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1386.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/627511) • [🐱 Nyaa](https://nekobt.to/torrents/12929613161987) |
-| `[Erai-raws] Neko to Ryuu - 07 [1080p CR WEB-DL AVC AAC][MultiSub][5...` | **1391.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/627507) • [🐱 Nyaa](https://nyaa.si/view/2143459) |
-| `[VARYG] Please Excuse My Younger Brothers S01E06 Siblings Feelings ...` | **1409.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/627501) • [🐱 Nyaa](https://nekobt.to/torrents/12929525629697) |
-| `[Doomdos] - BLACK TORCH - 6 [1080p IQ WEB-DL]` | **324.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/627500) • [🐱 Nyaa](https://nyaa.si/view/2143457) |
-| `[Yameii] BLACK TORCH - S01E06 [English Dub] [CR WEB-DL 1080p H264 A...` | **1390.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627499) • [🐱 Nyaa](https://nyaa.si/view/2143455) |
-| `BLACK TORCH S01E06 Turn Up 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG ...` | **1419.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/627496) • [🐱 Nyaa](https://nyaa.si/view/2143454) |
-| `[Ironclad] Honzuki no Gekokujou - S04E17 [WEB.1080p.AV1] | Ascendan...` | **178.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627498) • [🐱 Nyaa](https://nyaa.si/view/2143452) |
-| `[ToonsHub] BLACK TORCH S01E06 1080p CR WEB-DL DUAL AAC2.0 H.264 (Du...` | **1417.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/627484) • [🐱 Nyaa](https://nekobt.to/torrents/12929191146754) |
-| `BLACK TORCH S01E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1456.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/627485) • [🐱 Nyaa](https://nekobt.to/torrents/12929162432783) |
-| `[ToonsHub] BLACK TORCH S01E06 1080p AMZN WEB-DL DDP2.0 H.264 (Multi...` | **1013.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/627486) • [🐱 Nyaa](https://nyaa.si/view/2143449) |
 
 ---
 <div align="center">
