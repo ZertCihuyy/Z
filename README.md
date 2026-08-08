@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.00.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.01.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] THE RIBBON HERO (2026) 1080p NF WEB-DL MULTi DDP5.1 H.26...` | **12010.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/627452) • [🐱 Nyaa](https://nyaa.si/view/2143354) |
 | `[Xonline] Boku no Kanojo ga Majimesugiru Sho-bitch na Ken (BD 1080p)` | **10845.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627451) • [🐱 Nyaa](https://nyaa.si/view/2143350) |
 | `[ToonsHub] THE RIBBON HERO (2026) 1080p NF WEB-DL DUAL DDP5.1 H.264...` | **4883.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627449) • [🐱 Nyaa](https://nyaa.si/view/2143339) |
 | `[Gecko] Chibi Godzilla Raids Again - S01E110 (ちびゴジラの逆襲; Chibi Godzi...` | **28.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627450) • [🐱 Nyaa](https://nyaa.si/view/2143338) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] Jiang Ye S01E17 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **423.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/627436) • [🐱 Nyaa](https://nyaa.si/view/2143241) |
 | `[ToonsHub] A Good Day to Ascend S01E06 1080p iQ WEB-DL AAC2.0 H.264...` | **397.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/627434) • [🐱 Nyaa](https://nyaa.si/view/2143223) |
 | `[Doomdos] - A Good Day to Ascend - 6 [1080p IQ WEB-DL]` | **397.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/627433) • [🐱 Nyaa](https://nyaa.si/view/2143221) |
-| `[Erai-raws] Rilakkuma - 19 [1080p CR WEBRip HEVC AAC][MultiSub][C06...` | **35.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627432) • [🐱 Nyaa](https://nyaa.si/view/2143219) |
 
 ---
 <div align="center">
