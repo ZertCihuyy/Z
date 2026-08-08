@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.54.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.38.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `One Piece S01E1172 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **859.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/627479) • [🐱 Nyaa](https://nyaa.si/view/2143405) |
+| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 17 [1080p][YT]` | **362.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627478) • [🐱 Nyaa](https://nyaa.si/view/2143403) |
+| `Banana Fish S01 1080p NF WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audio...` | **20957.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/627477) • [🐱 Nyaa](https://nyaa.si/view/2143402) |
+| `[ToonsHub] One Piece EP1172 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **859.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/627475) • [🐱 Nyaa](https://nyaa.si/view/2143397) |
+| `[ASW] Honzuki no Gekokujou S4 - 17 [1080p HEVC x265 10Bit][AAC]` | **224.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/627476) • [🐱 Nyaa](https://nyaa.si/view/2143396) |
+| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **756.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/627474) • [🐱 Nyaa](https://nyaa.si/view/2143395) |
+| `THE RIBBON HERO 2026 1080p NF WEB-DL MULTi DDP5.1 H.264-VARYG (Mult...` | **12010.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/627473) • [🐱 Nyaa](https://nyaa.si/view/2143392) |
 | `THE RIBBON HERO 2026 1080p NF WEB-DL DUAL DDP5.1 H.264-VARYG (Dual-...` | **4883.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/627472) • [🐱 Nyaa](https://nyaa.si/view/2143390) |
 | `Ascendance of a Bookworm S04E15 Night of Fruhtrane 1080p CR WEB-DL ...` | **1447.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/627468) • [🐱 Nyaa](https://nyaa.si/view/2143387) |
 | `Ascendance of a Bookworm S04E17 Holding the Fort During the Archduk...` | **1417.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627469) • [🐱 Nyaa](https://nyaa.si/view/2143386) |
@@ -41,13 +48,6 @@
 | `[Yameii] Ascendance of a Bookworm - S04E15 [English Dub] [CR WEB-DL...` | **1392.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/627458) • [🐱 Nyaa](https://nekobt.to/torrents/12925980592141) |
 | `[SubsPlease] Honzuki no Gekokujou S4 - 17 (1080p) [E56B1187].mkv` | **1390.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/627459) • [🐱 Nyaa](https://nyaa.si/view/2143381) |
 | `Ascendance of a Bookworm S04E17 SUBFRENCH 1080p CR WEB-DL AAC2.0 x2...` | **1395.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627466) • [🐱 Nyaa](https://nekobt.to/torrents/12925925462028) |
-| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1400.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/627463) • [🐱 Nyaa](https://nyaa.si/view/2143375) |
-| `THE.RIBBON.HERO.2026.1080p.NF.WEBRip.Dual.Audio.AAC5.1.10bits.x265-...` | **1477.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627455) • [🐱 Nyaa](https://nyaa.si/view/2143371) |
-| `[ToonsHub] Banana Fish S01 1080p NF WEB-DL DUAL AAC2.0 H.264 (Dual-...` | **20957.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627456) • [🐱 Nyaa](https://nyaa.si/view/2143370) |
-| `[ToonsHub] THE RIBBON HERO (2026) 1080p NF WEB-DL MULTi DDP5.1 H.26...` | **12010.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/627452) • [🐱 Nyaa](https://nyaa.si/view/2143354) |
-| `[Xonline] Boku no Kanojo ga Majimesugiru Sho-bitch na Ken (BD 1080p)` | **10845.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627451) • [🐱 Nyaa](https://nyaa.si/view/2143350) |
-| `[ToonsHub] THE RIBBON HERO (2026) 1080p NF WEB-DL DUAL DDP5.1 H.264...` | **4883.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627449) • [🐱 Nyaa](https://nyaa.si/view/2143339) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E110 (ちびゴジラの逆襲; Chibi Godzi...` | **28.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627450) • [🐱 Nyaa](https://nyaa.si/view/2143338) |
 
 ---
 <div align="center">
