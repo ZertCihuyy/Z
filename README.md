@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.00.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.15.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] A Good Day to Ascend S01E06 1080p iQ WEB-DL AAC2.0 H.264...` | **397.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/627434) • [🐱 Nyaa](https://nyaa.si/view/2143223) |
+| `[Doomdos] - A Good Day to Ascend - 6 [1080p IQ WEB-DL]` | **397.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/627433) • [🐱 Nyaa](https://nyaa.si/view/2143221) |
+| `[Erai-raws] Rilakkuma - 19 [1080p CR WEBRip HEVC AAC][MultiSub][C06...` | **35.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627432) • [🐱 Nyaa](https://nyaa.si/view/2143219) |
+| `[ASW] Rilakkuma - 19 [1080p HEVC x265 10Bit][AAC]` | **25.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627431) • [🐱 Nyaa](https://nyaa.si/view/2143217) |
+| `RILAKKUMA S01E19 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **98.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627429) • [🐱 Nyaa](https://nyaa.si/view/2143213) |
+| `[ToonsHub] RILAKKUMA S01E19 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **96.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/627425) • [🐱 Nyaa](https://nekobt.to/torrents/12918099499528) |
+| `RILAKKUMA S01E19 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **91.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/627426) • [🐱 Nyaa](https://nekobt.to/torrents/12918088053006) |
+| `RILAKKUMA S01E19 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **61.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627430) • [🐱 Nyaa](https://nekobt.to/torrents/12918075795201) |
+| `[Erai-raws] Rilakkuma - 19 [1080p CR WEB-DL AVC AAC][MultiSub][6383...` | **89.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627421) • [🐱 Nyaa](https://nyaa.si/view/2143200) |
+| `[SubsPlease] Rilakkuma - 19 (1080p) [1793BD1E].mkv` | **93.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627424) • [🐱 Nyaa](https://nyaa.si/view/2143197) |
+| `[AnoZu] Journal with Witch S01 1080p CR WEB-DL DDP 2.0 H.264 | Ikok...` | **18379.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627418) • [🐱 Nyaa](https://nyaa.si/view/2143196) |
+| `[SubsPlus+] Hell Mode - S02E06 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **689.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/627417) • [🐱 Nyaa](https://nyaa.si/view/2143194) |
 | `[Lazyleido-Mini] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Veng...` | **404.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/627416) • [🐱 Nyaa](https://nyaa.si/view/2143187) |
 | `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **1235.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/627415) • [🐱 Nyaa](https://nyaa.si/view/2143186) |
 | `[Gecko] Chibi Godzilla Raids Again - S01E112 (ちびゴジラの逆襲; Chibi Godzi...` | **28.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627414) • [🐱 Nyaa](https://nyaa.si/view/2143184) |
-| `[ToonsHub] Please Excuse My Younger Brothers S01E06 REPACK 1080p CR...` | **1407.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/627413) • [🐱 Nyaa](https://nekobt.to/torrents/12914859018251) |
-| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **409.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627411) • [🐱 Nyaa](https://nyaa.si/view/2143179) |
-| `[DKB] Nige Jouzu no Wakagimi - S02E04 [1080p][HEVC x265 10bit][Mult...` | **752.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627412) • [🐱 Nyaa](https://nyaa.si/view/2143178) |
-| `[Erai-raws] Nige Jouzu no Wakagimi 2nd Season - 04 [1080p CR WEBRip...` | **896.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/627410) • [🐱 Nyaa](https://nyaa.si/view/2143177) |
-| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E02 (1080p BD AAC x265...` | **555.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/627409) • [🐱 Nyaa](https://nekobt.to/torrents/12913799876869) |
-| `[ASW] Uchi no Otouto-domo ga Sumimasen - 06v2 [1080p HEVC x265 10Bi...` | **209.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/627408) • [🐱 Nyaa](https://nyaa.si/view/2143170) |
-| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E02 (1080p BD AAC x265...` | **587.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/627404) • [🐱 Nyaa](https://nekobt.to/torrents/12913253486342) |
-| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E06 [WEB.1080p.AV1] | K...` | **376.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627403) • [🐱 Nyaa](https://nyaa.si/view/2143167) |
-| `[SubsPlease] Uchi no Otouto-domo ga Sumimasen - 06v2 (1080p) [D68CE...` | **1390.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627399) • [🐱 Nyaa](https://nyaa.si/view/2143165) |
-| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 06 [1080p CR WEBRip ...` | **389.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627398) • [🐱 Nyaa](https://nyaa.si/view/2143161) |
-| `[Piyoko] Onegai AiPri - 18 [WEB AMZN 1080p h264 AC3 2.0]` | **969.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/627397) • [🐱 Nyaa](https://nyaa.si/view/2143160) |
-| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **299.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627394) • [🐱 Nyaa](https://nyaa.si/view/2143157) |
 
 ---
 <div align="center">
