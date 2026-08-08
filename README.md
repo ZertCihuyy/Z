@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.35.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.11.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Grow Up Show - Himawari no Circus-dan - 06 [1080p HEVC x265 1...` | **360.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/627720) • [🐱 Nyaa](https://nyaa.si/view/2143743) |
+| `[Onalrie] Grow Up Show Himawari no Circus-dan - S01E06 [1080p WEBRi...` | **249.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/627719) • [🐱 Nyaa](https://nekobt.to/torrents/12936171306511) |
+| `[Judas] Hanaori-san wa Tensei Shite mo Kenka ga Shitai (Hanaori-san...` | **264.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/627718) • [🐱 Nyaa](https://nyaa.si/view/2143742) |
+| `[ASW] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 05 [1080p HEV...` | **258.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627717) • [🐱 Nyaa](https://nyaa.si/view/2143741) |
+| `[DKB] Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance - S0...` | **293.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/627716) • [🐱 Nyaa](https://nyaa.si/view/2143740) |
 | `[Onalrie] Yomi no Tsugai - S01E18 [1080p WEBRip AV1]` | **256.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/627714) • [🐱 Nyaa](https://nekobt.to/torrents/12935791866624) |
 | `[ASW] Kimiai - 06 [1080p HEVC x265 10Bit][AAC]` | **244.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/627713) • [🐱 Nyaa](https://nyaa.si/view/2143736) |
 | `[Ironclad] Yomi no Tsugai - S01E18 [WEB.1080p.AV1] | Daemons of the...` | **273.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/627712) • [🐱 Nyaa](https://nyaa.si/view/2143735) |
@@ -43,11 +48,6 @@
 | `[Onalrie] Tenmaku no Jaadugar - S01E07 [1080p WEBRip AV1]` | **376.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/627704) • [🐱 Nyaa](https://nekobt.to/torrents/12935029050112) |
 | `[Judas] Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance (M...` | **265.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/627702) • [🐱 Nyaa](https://nyaa.si/view/2143724) |
 | `[ASW] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance - 0...` | **264.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/627703) • [🐱 Nyaa](https://nyaa.si/view/2143723) |
-| `[Erai-raws] Iwamoto-senpai no Suisen - 06 [1080p CR WEBRip HEVC AAC...` | **494.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627698) • [🐱 Nyaa](https://nekobt.to/torrents/12934820289797) |
-| `[ToonsHub] Rich Girl Caretaker S01E06 1080p BILI WEB-DL AAC2.0 H.26...` | **263.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627699) • [🐱 Nyaa](https://nekobt.to/torrents/12934790896393) |
-| `[Erai-raws] Black Torch - 06 [1080p CR WEBRip HEVC AAC][MultiSub][6...` | **509.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627700) • [🐱 Nyaa](https://nekobt.to/torrents/12934773147140) |
-| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **490.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627691) • [🐱 Nyaa](https://nyaa.si/view/2143716) |
-| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 05 [10...` | **1408.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/627693) • [🐱 Nyaa](https://nyaa.si/view/2143714) |
 
 ---
 <div align="center">
