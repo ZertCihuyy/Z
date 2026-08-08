@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.01.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.54.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `THE RIBBON HERO 2026 1080p NF WEB-DL DUAL DDP5.1 H.264-VARYG (Dual-...` | **4883.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/627472) • [🐱 Nyaa](https://nyaa.si/view/2143390) |
+| `Ascendance of a Bookworm S04E15 Night of Fruhtrane 1080p CR WEB-DL ...` | **1447.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/627468) • [🐱 Nyaa](https://nyaa.si/view/2143387) |
+| `Ascendance of a Bookworm S04E17 Holding the Fort During the Archduk...` | **1417.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627469) • [🐱 Nyaa](https://nyaa.si/view/2143386) |
+| `[ToonsHub] Ascendance of a Bookworm S04E15 1080p CR WEB-DL DUAL AAC...` | **1467.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627470) • [🐱 Nyaa](https://nyaa.si/view/2143385) |
+| `[ToonsHub] Ascendance of a Bookworm S04E17 1080p CR WEB-DL AAC2.0 H...` | **1437.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/627471) • [🐱 Nyaa](https://nyaa.si/view/2143384) |
+| `[Yameii] Ascendance of a Bookworm - S04E15 [English Dub] [CR WEB-DL...` | **1392.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/627458) • [🐱 Nyaa](https://nekobt.to/torrents/12925980592141) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 17 (1080p) [E56B1187].mkv` | **1390.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/627459) • [🐱 Nyaa](https://nyaa.si/view/2143381) |
+| `Ascendance of a Bookworm S04E17 SUBFRENCH 1080p CR WEB-DL AAC2.0 x2...` | **1395.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627466) • [🐱 Nyaa](https://nekobt.to/torrents/12925925462028) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1400.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/627463) • [🐱 Nyaa](https://nyaa.si/view/2143375) |
+| `THE.RIBBON.HERO.2026.1080p.NF.WEBRip.Dual.Audio.AAC5.1.10bits.x265-...` | **1477.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627455) • [🐱 Nyaa](https://nyaa.si/view/2143371) |
+| `[ToonsHub] Banana Fish S01 1080p NF WEB-DL DUAL AAC2.0 H.264 (Dual-...` | **20957.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627456) • [🐱 Nyaa](https://nyaa.si/view/2143370) |
 | `[ToonsHub] THE RIBBON HERO (2026) 1080p NF WEB-DL MULTi DDP5.1 H.26...` | **12010.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/627452) • [🐱 Nyaa](https://nyaa.si/view/2143354) |
 | `[Xonline] Boku no Kanojo ga Majimesugiru Sho-bitch na Ken (BD 1080p)` | **10845.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627451) • [🐱 Nyaa](https://nyaa.si/view/2143350) |
 | `[ToonsHub] THE RIBBON HERO (2026) 1080p NF WEB-DL DUAL DDP5.1 H.264...` | **4883.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627449) • [🐱 Nyaa](https://nyaa.si/view/2143339) |
 | `[Gecko] Chibi Godzilla Raids Again - S01E110 (ちびゴジラの逆襲; Chibi Godzi...` | **28.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627450) • [🐱 Nyaa](https://nyaa.si/view/2143338) |
-| `Daemons of the Shadow Realm S01E06 The Kagemori Clan and the Unknow...` | **1136.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627447) • [🐱 Nyaa](https://nyaa.si/view/2143337) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E06 1080p NF WEB-DL MULTi...` | **1113.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/627448) • [🐱 Nyaa](https://nyaa.si/view/2143336) |
-| `[Shridhuu] GuAn - 一斩苍穹 (Yi Zhan Cangqiong) - EP03 [1080p]` | **373.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/627444) • [🐱 Nyaa](https://nyaa.si/view/2143333) |
-| `Hokkaido.Gals.Are.Super.Adorable.S01.1080p.BluRay.Dual-Audio.Opus.2...` | **16805.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/627441) • [🐱 Nyaa](https://nekobt.to/torrents/12923063098889) |
-| `[ToonsHub] Dara-san of the Reiwa Era S01E06 REPACK 1080p CR WEB-DL ...` | **1430.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/627440) • [🐱 Nyaa](https://nyaa.si/view/2143322) |
-| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **299.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/627439) • [🐱 Nyaa](https://nyaa.si/view/2143321) |
-| `[Onalrie] Rilakkuma - S01E19 [1080p WEBRip AV1]` | **17.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/627438) • [🐱 Nyaa](https://nekobt.to/torrents/12921188143107) |
-| `[VARYG] RILAKKUMA S01E19 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **102.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/627437) • [🐱 Nyaa](https://nekobt.to/torrents/12920874555904) |
-| `[ToonsHub] Jiang Ye S01E17 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **423.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/627436) • [🐱 Nyaa](https://nyaa.si/view/2143241) |
-| `[ToonsHub] A Good Day to Ascend S01E06 1080p iQ WEB-DL AAC2.0 H.264...` | **397.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/627434) • [🐱 Nyaa](https://nyaa.si/view/2143223) |
-| `[Doomdos] - A Good Day to Ascend - 6 [1080p IQ WEB-DL]` | **397.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/627433) • [🐱 Nyaa](https://nyaa.si/view/2143221) |
 
 ---
 <div align="center">
