@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.13.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.49.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] The Ogres Bride S01E06 1080p CR WEB-DL AAC2.0 H.264 (Oni...` | **1425.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/627611) • [🐱 Nyaa](https://nyaa.si/view/2143624) |
-| `Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance S01E06 Kura...` | **1392.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627612) • [🐱 Nyaa](https://nyaa.si/view/2143623) |
-| `[ToonsHub] Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance ...` | **1389.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/627613) • [🐱 Nyaa](https://nyaa.si/view/2143622) |
-| `The Ogres Bride S01E06 Touko and Nyankichi 1080p CR WEB-DL AAC2.0 H...` | **1416.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/627606) • [🐱 Nyaa](https://nyaa.si/view/2143619) |
-| `[SubsPlease] Oni no Hanayome - 06 (1080p) [685CC390].mkv` | **1398.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/627607) • [🐱 Nyaa](https://nyaa.si/view/2143617) |
-| `Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance S01E06 SUBF...` | **1384.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/627604) • [🐱 Nyaa](https://nekobt.to/torrents/12932838566924) |
-| `[Judas] Bleach - Thousand Year Blood War - S01E43 [1080p][HEVC x265...` | **496.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627608) • [🐱 Nyaa](https://nyaa.si/view/2143615) |
-| `[SubsPlease] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengea...` | **1380.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/627600) • [🐱 Nyaa](https://nyaa.si/view/2143608) |
-| `[FSP DN] A Record of a Mortal’s Journey to Immortality - 186 (1080p...` | **501.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/627597) • [🐱 Nyaa](https://nyaa.si/view/2143603) |
-| `[FSP] Douluo Dalu II - Soul Land 2 - 165 [1080p]` | **445.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/627598) • [🐱 Nyaa](https://nyaa.si/view/2143601) |
-| `[Trix] Grow Up Show S01E06 [WEBRip 1080p AV1 Opus] (Dual Audio, Mul...` | **319.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627596) • [🐱 Nyaa](https://nyaa.si/view/2143600) |
-| `Toki.No.Tabibito.時空の旅人.Time.Stranger.1986.WEB-DL.1080p.x264.AAC.MUL...` | **4059.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/627592) • [🐱 Nyaa](https://nyaa.si/view/2143599) |
-| `Grow Up Show S01E06 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Grow U...` | **1739.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/627593) • [🐱 Nyaa](https://nyaa.si/view/2143598) |
-| `Jaadugar A Witch in Mongolia S01E05 A Snake Shows Its Colors Man Hi...` | **1429.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/627594) • [🐱 Nyaa](https://nyaa.si/view/2143597) |
-| `[Unfucked] Grow Up Show: Sunflower Circus - S01E06 (1080p CR WEB-DL...` | **1745.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/627595) • [🐱 Nyaa](https://nyaa.si/view/2143596) |
+| `[Erai-raws] Neko to Ryuu - 07v2 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **646.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/627638) • [🐱 Nyaa](https://nyaa.si/view/2143654) |
+| `[Yameii] Hanaori-san Still Wants to Fight in the Next Life - S01E05...` | **1406.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/627639) • [🐱 Nyaa](https://nyaa.si/view/2143653) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **995.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/627641) • [🐱 Nyaa](https://nyaa.si/view/2143651) |
+| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E05...` | **1509.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627627) • [🐱 Nyaa](https://nekobt.to/torrents/12933408503052) |
+| `The Dukes Son Claims He Wont Love Me Yet Showers Me with Adoration ...` | **1347.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/627632) • [🐱 Nyaa](https://nyaa.si/view/2143647) |
+| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E05...` | **1443.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627630) • [🐱 Nyaa](https://nekobt.to/torrents/12933396332045) |
+| `[ToonsHub] The Dukes Son Claims He Wont Love Me Yet Showers Me with...` | **1367.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/627629) • [🐱 Nyaa](https://nekobt.to/torrents/12933396371974) |
+| `Hanaori san Still Wants to Fight in the Next Life S01E05 SUBFRENCH ...` | **1403.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/627631) • [🐱 Nyaa](https://nekobt.to/torrents/12933354313737) |
+| `[SubsPlease] Kimiai - 06 (1080p) [33ADEEF0].mkv` | **1330.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/627618) • [🐱 Nyaa](https://nyaa.si/view/2143642) |
+| `[ASW] Yomi no Tsugai - 18 [1080p HEVC x265 10Bit][AAC]` | **330.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627619) • [🐱 Nyaa](https://nyaa.si/view/2143641) |
+| `[ToonsHub] Magilumiere Magical Girls Inc S02E06 1080p AMZN WEB-DL D...` | **309.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627622) • [🐱 Nyaa](https://nyaa.si/view/2143638) |
+| `[SubsPlease] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 05 (10...` | **1401.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/627623) • [🐱 Nyaa](https://nyaa.si/view/2143637) |
+| `The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoratio...` | **1335.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/627634) • [🐱 Nyaa](https://nekobt.to/torrents/12933300649735) |
+| `[ToonsHub] Magilumiere Magical Girls Inc S02E06 1080p AMZN WEB-DL D...` | **837.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/627624) • [🐱 Nyaa](https://nyaa.si/view/2143635) |
+| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E05...` | **282.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/627616) • [🐱 Nyaa](https://nyaa.si/view/2143631) |
 
 ---
 <div align="center">
