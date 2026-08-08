@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.05.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.00.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Xonline] Boku no Kanojo ga Majimesugiru Sho-bitch na Ken (BD 1080p)` | **10845.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627451) • [🐱 Nyaa](https://nyaa.si/view/2143350) |
+| `[ToonsHub] THE RIBBON HERO (2026) 1080p NF WEB-DL DUAL DDP5.1 H.264...` | **4883.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627449) • [🐱 Nyaa](https://nyaa.si/view/2143339) |
+| `[Gecko] Chibi Godzilla Raids Again - S01E110 (ちびゴジラの逆襲; Chibi Godzi...` | **28.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627450) • [🐱 Nyaa](https://nyaa.si/view/2143338) |
 | `Daemons of the Shadow Realm S01E06 The Kagemori Clan and the Unknow...` | **1136.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627447) • [🐱 Nyaa](https://nyaa.si/view/2143337) |
 | `[ToonsHub] Daemons of the Shadow Realm S01E06 1080p NF WEB-DL MULTi...` | **1113.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/627448) • [🐱 Nyaa](https://nyaa.si/view/2143336) |
 | `[Shridhuu] GuAn - 一斩苍穹 (Yi Zhan Cangqiong) - EP03 [1080p]` | **373.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/627444) • [🐱 Nyaa](https://nyaa.si/view/2143333) |
@@ -45,9 +48,6 @@
 | `[ToonsHub] A Good Day to Ascend S01E06 1080p iQ WEB-DL AAC2.0 H.264...` | **397.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/627434) • [🐱 Nyaa](https://nyaa.si/view/2143223) |
 | `[Doomdos] - A Good Day to Ascend - 6 [1080p IQ WEB-DL]` | **397.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/627433) • [🐱 Nyaa](https://nyaa.si/view/2143221) |
 | `[Erai-raws] Rilakkuma - 19 [1080p CR WEBRip HEVC AAC][MultiSub][C06...` | **35.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627432) • [🐱 Nyaa](https://nyaa.si/view/2143219) |
-| `[ASW] Rilakkuma - 19 [1080p HEVC x265 10Bit][AAC]` | **25.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627431) • [🐱 Nyaa](https://nyaa.si/view/2143217) |
-| `RILAKKUMA S01E19 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **98.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627429) • [🐱 Nyaa](https://nyaa.si/view/2143213) |
-| `[ToonsHub] RILAKKUMA S01E19 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **96.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/627425) • [🐱 Nyaa](https://nekobt.to/torrents/12918099499528) |
 
 ---
 <div align="center">
