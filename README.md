@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.46.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.01.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Rilakkuma - S01E19 [1080p WEBRip AV1]` | **17.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/627438) • [🐱 Nyaa](https://nekobt.to/torrents/12921188143107) |
+| `[VARYG] RILAKKUMA S01E19 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **102.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/627437) • [🐱 Nyaa](https://nekobt.to/torrents/12920874555904) |
+| `[ToonsHub] Jiang Ye S01E17 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **423.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/627436) • [🐱 Nyaa](https://nyaa.si/view/2143241) |
 | `[ToonsHub] A Good Day to Ascend S01E06 1080p iQ WEB-DL AAC2.0 H.264...` | **397.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/627434) • [🐱 Nyaa](https://nyaa.si/view/2143223) |
 | `[Doomdos] - A Good Day to Ascend - 6 [1080p IQ WEB-DL]` | **397.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/627433) • [🐱 Nyaa](https://nyaa.si/view/2143221) |
 | `[Erai-raws] Rilakkuma - 19 [1080p CR WEBRip HEVC AAC][MultiSub][C06...` | **35.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627432) • [🐱 Nyaa](https://nyaa.si/view/2143219) |
@@ -45,9 +48,6 @@
 | `[SubsPlease] Rilakkuma - 19 (1080p) [1793BD1E].mkv` | **93.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627424) • [🐱 Nyaa](https://nyaa.si/view/2143197) |
 | `[AnoZu] Journal with Witch S01 1080p CR WEB-DL DDP 2.0 H.264 | Ikok...` | **18379.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627418) • [🐱 Nyaa](https://nyaa.si/view/2143196) |
 | `[SubsPlus+] Hell Mode - S02E06 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **689.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/627417) • [🐱 Nyaa](https://nyaa.si/view/2143194) |
-| `[Lazyleido-Mini] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Veng...` | **404.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/627416) • [🐱 Nyaa](https://nyaa.si/view/2143187) |
-| `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **1235.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/627415) • [🐱 Nyaa](https://nyaa.si/view/2143186) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E112 (ちびゴジラの逆襲; Chibi Godzi...` | **28.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627414) • [🐱 Nyaa](https://nyaa.si/view/2143184) |
 
 ---
 <div align="center">
