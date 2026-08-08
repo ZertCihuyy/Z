@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.57.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.05.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Daemons of the Shadow Realm S01E06 The Kagemori Clan and the Unknow...` | **1136.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627447) • [🐱 Nyaa](https://nyaa.si/view/2143337) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E06 1080p NF WEB-DL MULTi...` | **1113.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/627448) • [🐱 Nyaa](https://nyaa.si/view/2143336) |
+| `[Shridhuu] GuAn - 一斩苍穹 (Yi Zhan Cangqiong) - EP03 [1080p]` | **373.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/627444) • [🐱 Nyaa](https://nyaa.si/view/2143333) |
+| `Hokkaido.Gals.Are.Super.Adorable.S01.1080p.BluRay.Dual-Audio.Opus.2...` | **16805.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/627441) • [🐱 Nyaa](https://nekobt.to/torrents/12923063098889) |
+| `[ToonsHub] Dara-san of the Reiwa Era S01E06 REPACK 1080p CR WEB-DL ...` | **1430.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/627440) • [🐱 Nyaa](https://nyaa.si/view/2143322) |
 | `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **299.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/627439) • [🐱 Nyaa](https://nyaa.si/view/2143321) |
 | `[Onalrie] Rilakkuma - S01E19 [1080p WEBRip AV1]` | **17.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/627438) • [🐱 Nyaa](https://nekobt.to/torrents/12921188143107) |
 | `[VARYG] RILAKKUMA S01E19 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **102.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/627437) • [🐱 Nyaa](https://nekobt.to/torrents/12920874555904) |
@@ -43,11 +48,6 @@
 | `[ASW] Rilakkuma - 19 [1080p HEVC x265 10Bit][AAC]` | **25.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627431) • [🐱 Nyaa](https://nyaa.si/view/2143217) |
 | `RILAKKUMA S01E19 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **98.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627429) • [🐱 Nyaa](https://nyaa.si/view/2143213) |
 | `[ToonsHub] RILAKKUMA S01E19 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **96.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/627425) • [🐱 Nyaa](https://nekobt.to/torrents/12918099499528) |
-| `RILAKKUMA S01E19 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **91.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/627426) • [🐱 Nyaa](https://nekobt.to/torrents/12918088053006) |
-| `RILAKKUMA S01E19 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **61.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627430) • [🐱 Nyaa](https://nekobt.to/torrents/12918075795201) |
-| `[Erai-raws] Rilakkuma - 19 [1080p CR WEB-DL AVC AAC][MultiSub][6383...` | **89.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627421) • [🐱 Nyaa](https://nyaa.si/view/2143200) |
-| `[SubsPlease] Rilakkuma - 19 (1080p) [1793BD1E].mkv` | **93.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627424) • [🐱 Nyaa](https://nyaa.si/view/2143197) |
-| `[AnoZu] Journal with Witch S01 1080p CR WEB-DL DDP 2.0 H.264 | Ikok...` | **18379.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627418) • [🐱 Nyaa](https://nyaa.si/view/2143196) |
 
 ---
 <div align="center">
