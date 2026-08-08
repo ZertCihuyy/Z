@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.38.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.10.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] Welcome to Demon School Iruma kun S04E18 Food for the Young...` | **501.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/627481) • [🐱 Nyaa](https://nekobt.to/torrents/12927234297870) |
+| `[Trix] THE RIBBON HERO (Movie) [WEB-DL 1080p AV1 Opus] (Dual Audio,...` | **1190.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/627480) • [🐱 Nyaa](https://nyaa.si/view/2143406) |
 | `One Piece S01E1172 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **859.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/627479) • [🐱 Nyaa](https://nyaa.si/view/2143405) |
 | `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 17 [1080p][YT]` | **362.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627478) • [🐱 Nyaa](https://nyaa.si/view/2143403) |
 | `Banana Fish S01 1080p NF WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audio...` | **20957.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/627477) • [🐱 Nyaa](https://nyaa.si/view/2143402) |
@@ -46,8 +48,6 @@
 | `[ToonsHub] Ascendance of a Bookworm S04E15 1080p CR WEB-DL DUAL AAC...` | **1467.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627470) • [🐱 Nyaa](https://nyaa.si/view/2143385) |
 | `[ToonsHub] Ascendance of a Bookworm S04E17 1080p CR WEB-DL AAC2.0 H...` | **1437.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/627471) • [🐱 Nyaa](https://nyaa.si/view/2143384) |
 | `[Yameii] Ascendance of a Bookworm - S04E15 [English Dub] [CR WEB-DL...` | **1392.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/627458) • [🐱 Nyaa](https://nekobt.to/torrents/12925980592141) |
-| `[SubsPlease] Honzuki no Gekokujou S4 - 17 (1080p) [E56B1187].mkv` | **1390.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/627459) • [🐱 Nyaa](https://nyaa.si/view/2143381) |
-| `Ascendance of a Bookworm S04E17 SUBFRENCH 1080p CR WEB-DL AAC2.0 x2...` | **1395.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627466) • [🐱 Nyaa](https://nekobt.to/torrents/12925925462028) |
 
 ---
 <div align="center">
