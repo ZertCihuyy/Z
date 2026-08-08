@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.17.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.55.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Saijo no Osewa - 06 [1080p HEVC x265 10Bit][AAC]` | **209.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/627706) • [🐱 Nyaa](https://nyaa.si/view/2143726) |
+| `[DKB] Yomi no Tsugai - S01E18 [1080p][HEVC x265 10bit][Multi-Subs][...` | **424.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627705) • [🐱 Nyaa](https://nyaa.si/view/2143725) |
+| `[Onalrie] Tenmaku no Jaadugar - S01E07 [1080p WEBRip AV1]` | **376.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/627704) • [🐱 Nyaa](https://nekobt.to/torrents/12935029050112) |
+| `[Judas] Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance (M...` | **265.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/627702) • [🐱 Nyaa](https://nyaa.si/view/2143724) |
+| `[ASW] Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance - 0...` | **264.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/627703) • [🐱 Nyaa](https://nyaa.si/view/2143723) |
 | `[Erai-raws] Iwamoto-senpai no Suisen - 06 [1080p CR WEBRip HEVC AAC...` | **494.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627698) • [🐱 Nyaa](https://nekobt.to/torrents/12934820289797) |
 | `[ToonsHub] Rich Girl Caretaker S01E06 1080p BILI WEB-DL AAC2.0 H.26...` | **263.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627699) • [🐱 Nyaa](https://nekobt.to/torrents/12934790896393) |
 | `[Erai-raws] Black Torch - 06 [1080p CR WEBRip HEVC AAC][MultiSub][6...` | **509.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627700) • [🐱 Nyaa](https://nekobt.to/torrents/12934773147140) |
@@ -43,11 +48,6 @@
 | `[Erai-raws] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga ...` | **1337.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627686) • [🐱 Nyaa](https://nyaa.si/view/2143706) |
 | `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **617.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/627689) • [🐱 Nyaa](https://nyaa.si/view/2143703) |
 | `[Erai-raws] Oni no Hanayome - 06 [1080p CR WEB-DL AVC AAC][MultiSub...` | **1408.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/627680) • [🐱 Nyaa](https://nyaa.si/view/2143700) |
-| `[Erai-raws] Saijo no Osewa - 06 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1447.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627675) • [🐱 Nyaa](https://nekobt.to/torrents/12934556064769) |
-| `[Erai-raws] Yomi no Tsugai - 18 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1387.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/627678) • [🐱 Nyaa](https://nekobt.to/torrents/12934527629321) |
-| `[Onalrie] Honzuki no Gekokujou - S04E17 Rev. 2 [1080p WEBRip AV1]` | **200.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627679) • [🐱 Nyaa](https://nekobt.to/torrents/12934519118856) |
-| `[ASW] Oni no Hanayome - 06 [1080p HEVC x265 10Bit][AAC]` | **231.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/627672) • [🐱 Nyaa](https://nyaa.si/view/2143691) |
-| `[TSPlease] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **1435.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627667) • [🐱 Nyaa](https://nekobt.to/torrents/12934334505993) |
 
 ---
 <div align="center">
