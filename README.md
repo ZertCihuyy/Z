@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.43.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.17.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Iwamoto-senpai no Suisen - 06 [1080p CR WEBRip HEVC AAC...` | **494.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627698) • [🐱 Nyaa](https://nekobt.to/torrents/12934820289797) |
+| `[ToonsHub] Rich Girl Caretaker S01E06 1080p BILI WEB-DL AAC2.0 H.26...` | **263.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627699) • [🐱 Nyaa](https://nekobt.to/torrents/12934790896393) |
+| `[Erai-raws] Black Torch - 06 [1080p CR WEBRip HEVC AAC][MultiSub][6...` | **509.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627700) • [🐱 Nyaa](https://nekobt.to/torrents/12934773147140) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **490.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627691) • [🐱 Nyaa](https://nyaa.si/view/2143716) |
+| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 05 [10...` | **1408.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/627693) • [🐱 Nyaa](https://nyaa.si/view/2143714) |
+| `[Erai-raws] Grow Up Show: Himawari no Circus-dan - 06 [1080p CR WEB...` | **1387.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/627696) • [🐱 Nyaa](https://nyaa.si/view/2143710) |
+| `Rich Girl Caretaker Im Secretly the Caregiver of the Most Popular G...` | **256.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/627697) • [🐱 Nyaa](https://nyaa.si/view/2143709) |
+| `[Erai-raws] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga ...` | **1337.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/627686) • [🐱 Nyaa](https://nyaa.si/view/2143706) |
+| `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **617.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/627689) • [🐱 Nyaa](https://nyaa.si/view/2143703) |
+| `[Erai-raws] Oni no Hanayome - 06 [1080p CR WEB-DL AVC AAC][MultiSub...` | **1408.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/627680) • [🐱 Nyaa](https://nyaa.si/view/2143700) |
+| `[Erai-raws] Saijo no Osewa - 06 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1447.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627675) • [🐱 Nyaa](https://nekobt.to/torrents/12934556064769) |
+| `[Erai-raws] Yomi no Tsugai - 18 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1387.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/627678) • [🐱 Nyaa](https://nekobt.to/torrents/12934527629321) |
+| `[Onalrie] Honzuki no Gekokujou - S04E17 Rev. 2 [1080p WEBRip AV1]` | **200.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627679) • [🐱 Nyaa](https://nekobt.to/torrents/12934519118856) |
+| `[ASW] Oni no Hanayome - 06 [1080p HEVC x265 10Bit][AAC]` | **231.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/627672) • [🐱 Nyaa](https://nyaa.si/view/2143691) |
 | `[TSPlease] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **1435.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627667) • [🐱 Nyaa](https://nekobt.to/torrents/12934334505993) |
-| `Magilumiere Magical Girls Inc S02E06 MULTi 1080p AMZN WEB-DL DDP2.0...` | **309.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/627668) • [🐱 Nyaa](https://nekobt.to/torrents/12934280626433) |
-| `Magilumiere Magical Girls Inc S02E06 MULTi 1080p AMZN WEB-DL DDP2.0...` | **837.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/627669) • [🐱 Nyaa](https://nekobt.to/torrents/12934271889664) |
-| `Magilumiere Magical Girls Inc S02E06 MULTi 1080p AMZN WEB-DL DDP2.0...` | **243.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/627670) • [🐱 Nyaa](https://nekobt.to/torrents/12934260765448) |
-| `[Onalrie] Neko to Ryuu - S01E07 Rev. 2 [1080p WEBRip AV1]` | **211.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/627666) • [🐱 Nyaa](https://nekobt.to/torrents/12934165991439) |
-| `[AnoZu] The Ogres Bride S01E06 1080p CR WEB-DL AAC 2.0 H.264` | **1752.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/627665) • [🐱 Nyaa](https://nyaa.si/view/2143684) |
-| `[Trix] Tenmaku no Jaadugar S01E07 [WEBRip 1080p AV1 Opus] (Multi Su...` | **628.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/627662) • [🐱 Nyaa](https://nyaa.si/view/2143683) |
-| `[DKB] Neko to Ryuu - S01E07 [1080p][HEVC x265 10bit][Multi-Subs][we...` | **275.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/627663) • [🐱 Nyaa](https://nyaa.si/view/2143682) |
-| `[DKB] Yomi no Tsugai - S01E15 [1080p][HEVC x265 10bit][Multi-Audio]...` | **534.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/627664) • [🐱 Nyaa](https://nyaa.si/view/2143681) |
-| `Magilumiere Magical Girls Inc S02E06 Youre Not Fit for This Job 108...` | **1098.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/627654) • [🐱 Nyaa](https://nyaa.si/view/2143680) |
-| `Rich Girl Caretaker Im Secretly the Caregiver of the Most Popular G...` | **1436.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/627655) • [🐱 Nyaa](https://nyaa.si/view/2143679) |
-| `[ToonsHub] Rich Girl Caretaker S01E06 1080p CR WEB-DL AAC2.0 H.264 ...` | **1435.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/627656) • [🐱 Nyaa](https://nyaa.si/view/2143678) |
-| `Hanaori san Still Wants to Fight in the Next Life S01E05 Much Ado A...` | **1432.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627657) • [🐱 Nyaa](https://nyaa.si/view/2143677) |
-| `[SubsPlease] Saijo no Osewa - 06 (1080p) [A52C7391].mkv` | **1437.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/627658) • [🐱 Nyaa](https://nyaa.si/view/2143676) |
-| `Rich Girl Caretaker I'm Secretly the Caregiver of the Most Popular ...` | **1442.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/627660) • [🐱 Nyaa](https://nekobt.to/torrents/12933916957956) |
 
 ---
 <div align="center">
