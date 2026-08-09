@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.53.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.37.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 03 [1080p DSNP...` | **1005.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628066) • [🐱 Nyaa](https://nyaa.si/view/2144264) |
+| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 02 [1080p DSNP...` | **1079.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628061) • [🐱 Nyaa](https://nyaa.si/view/2144260) |
+| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 01 [1080p DSNP...` | **1024.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628064) • [🐱 Nyaa](https://nyaa.si/view/2144257) |
+| `[FrixySubs] Though I Am an Inept Villainess - S01E04 [1080p CR WEB-...` | **1392.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628058) • [🐱 Nyaa](https://nekobt.to/torrents/12958907650054) |
+| `[Erai-raws] Mao - 19 [1080p DSNP WEB-DL AVC AAC][MultiSub][FB2018B7]` | **897.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628056) • [🐱 Nyaa](https://nyaa.si/view/2144253) |
+| `[Erai-raws] Mao - 18 [1080p DSNP WEB-DL AVC AAC][MultiSub][D86E2548]` | **857.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/628051) • [🐱 Nyaa](https://nekobt.to/torrents/12958780066821) |
+| `[Erai-raws] Mao - 17 [1080p DSNP WEB-DL AVC AAC][MultiSub][6FB13CDF]` | **931.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628052) • [🐱 Nyaa](https://nekobt.to/torrents/12958764559108) |
+| `[Erai-raws] Sayonara Lara - 06 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **447.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628047) • [🐱 Nyaa](https://nekobt.to/torrents/12958585130242) |
 | `[DKB] Azur Lane: Bisoku Zenshin! - S02E06 [1080p][HEVC x265 10bit][...` | **131.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628046) • [🐱 Nyaa](https://nyaa.si/view/2144234) |
 | `Petals of Reincarnation S01E13 In the End of Reincarnation 1080p AM...` | **1254.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628043) • [🐱 Nyaa](https://nyaa.si/view/2144230) |
 | `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 05 [1080p CR WE...` | **452.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628040) • [🐱 Nyaa](https://nyaa.si/view/2144229) |
@@ -37,14 +45,6 @@
 | `Digimon Beatbreak S01E42 Sakura Friendship REPACK 1080p CR WEB-DL A...` | **1371.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628041) • [🐱 Nyaa](https://nyaa.si/view/2144228) |
 | `Bleach S17E43 Thousand-Year Blood War BLOOD FOR MY BONE 1080p DSNP ...` | **978.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628042) • [🐱 Nyaa](https://nyaa.si/view/2144226) |
 | `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E05 [1080p][...` | **579.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/628038) • [🐱 Nyaa](https://nyaa.si/view/2144222) |
-| `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **317.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/628039) • [🐱 Nyaa](https://nyaa.si/view/2144220) |
-| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 18 [1080p CR WEBRip HE...` | **629.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628035) • [🐱 Nyaa](https://nyaa.si/view/2144216) |
-| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 06 [1080p NF...` | **733.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/628036) • [🐱 Nyaa](https://nyaa.si/view/2144215) |
-| `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E05 [WEB.108...` | **177.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628031) • [🐱 Nyaa](https://nyaa.si/view/2144213) |
-| `[Onalrie] Azur Lane Bisoku Zenshin - S02E06 [1080p WEBRip AV1]` | **105.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/628033) • [🐱 Nyaa](https://nekobt.to/torrents/12956247789825) |
-| `[Sristi] Oni no Hanayome - 01 [WEBRip 1080p][HEVC][AAC]` | **244.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628034) • [🐱 Nyaa](https://nekobt.to/torrents/12956243187980) |
-| `[Onalrie] One Piece - S01E1173 [1080p WEBRip AV1]` | **452.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628030) • [🐱 Nyaa](https://nekobt.to/torrents/12956088947979) |
-| `One Piece S01E1173 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-...` | **1332.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628027) • [🐱 Nyaa](https://nekobt.to/torrents/12955894712072) |
 
 ---
 <div align="center">
