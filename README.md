@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.50.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.41.12_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlease] Futsutsuka na Akujo dewa Gozaimasu ga - 05 (1080p) [94...` | **1388.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/627967) • [🐱 Nyaa](https://nyaa.si/view/2144140) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E05 1080p BILI WEB-DL...` | **244.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/627969) • [🐱 Nyaa](https://nyaa.si/view/2144138) |
-| `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 05 [1080p CR WE...` | **871.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/627971) • [🐱 Nyaa](https://nyaa.si/view/2144136) |
-| `[ToonsHub] One Piece EP1173 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **334.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/627972) • [🐱 Nyaa](https://nyaa.si/view/2144135) |
-| `[ToonsHub] One Piece EP1172 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **342.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/627975) • [🐱 Nyaa](https://nyaa.si/view/2144132) |
-| `[ToonsHub] Goodbye Lara S01E06 1080p CR WEB-DL DUAL AAC2.0 H.264 (D...` | **1480.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/627964) • [🐱 Nyaa](https://nekobt.to/torrents/12953662227722) |
-| `[Yameii] Goodbye, Lara - S01E06 [English Dub] [CR WEB-DL 1080p H264...` | **1404.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/627961) • [🐱 Nyaa](https://nyaa.si/view/2144126) |
-| `[Erai-raws] Sayonara Lara - 06 [1080p CR WEB-DL AVC AAC][MultiSub][...` | **1407.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627962) • [🐱 Nyaa](https://nyaa.si/view/2144125) |
-| `Goodbye, Lara S01E06 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere...` | **1402.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/627965) • [🐱 Nyaa](https://nekobt.to/torrents/12953592380937) |
-| `[SubsPlease] Sayonara Lara - 06 (1080p) [48A6E3AB].mkv` | **1399.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627956) • [🐱 Nyaa](https://nyaa.si/view/2144121) |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 95 [1080p] (GB_CN) | 牧神记` | **409.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/627953) • [🐱 Nyaa](https://nyaa.si/view/2144114) |
-| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E05 (1080p WE...` | **627.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/627955) • [🐱 Nyaa](https://nekobt.to/torrents/12953474161418) |
-| `[Erai-raws] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no K...` | **385.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/627954) • [🐱 Nyaa](https://nyaa.si/view/2144111) |
-| `[Doomdos] - Mushoku Tensei Jobless Reincarnation Season 3 - 7 [1080...` | **324.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/627951) • [🐱 Nyaa](https://nyaa.si/view/2144109) |
-| `Though I Am an Inept Villainess S01E05 Who Is That Girl 1080p NF WE...` | **874.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/627952) • [🐱 Nyaa](https://nyaa.si/view/2144107) |
+| `Digimon Beatbreak S01E32 Cold Rain 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1410.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628003) • [🐱 Nyaa](https://nyaa.si/view/2144171) |
+| `Digimon Beatbreak S01E35 Rampaging Instinct 1080p CR WEB-DL DUAL AA...` | **1410.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628002) • [🐱 Nyaa](https://nyaa.si/view/2144172) |
+| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 07 [1080...` | **510.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/628000) • [🐱 Nyaa](https://nekobt.to/torrents/12954407970318) |
+| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E18 [1080p WEBRip AV1]` | **351.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/628001) • [🐱 Nyaa](https://nekobt.to/torrents/12954380065806) |
+| `Mushoku Tensei Jobless Reincarnation S03E04 A King-Class Water Mage...` | **1570.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/627994) • [🐱 Nyaa](https://nyaa.si/view/2144166) |
+| `[Doomdos] - One Piece - 1173 [1080p IQ WEB-DL]` | **334.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/627995) • [🐱 Nyaa](https://nyaa.si/view/2144165) |
+| `[ToonsHub] One Piece EP1173 1080p CR WEB-DL AAC2.0 H.264 (English-Sub)` | **1369.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/627996) • [🐱 Nyaa](https://nyaa.si/view/2144164) |
+| `[VARYG] Though I Am an Inept Villainess S01E02 Will I Be Living Her...` | **1610.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/627991) • [🐱 Nyaa](https://nekobt.to/torrents/12954077515010) |
+| `One Piece S01E1173 1080p CR WEB-DL AAC2.0 H.264-VARYG` | **1369.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627997) • [🐱 Nyaa](https://nyaa.si/view/2144162) |
+| `[SubsPlease] One Piece - 1173 (1080p) [12A957B2].mkv` | **1375.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/627998) • [🐱 Nyaa](https://nyaa.si/view/2144161) |
+| `[Erai-raws] One Piece - 1173 [1080p CR WEB-DL AVC AAC][90E1B1FA]` | **1333.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/627989) • [🐱 Nyaa](https://nyaa.si/view/2144157) |
+| `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of a Black Ca...` | **399.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/627982) • [🐱 Nyaa](https://nyaa.si/view/2144152) |
+| `[Yameii] Though I Am an Inept Villainess - S01E03 [English Dub] [CR...` | **1391.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/627983) • [🐱 Nyaa](https://nyaa.si/view/2144151) |
+| `Though I Am an Inept Villainess S01E03 Shoulders Back Look Forward ...` | **1433.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/627985) • [🐱 Nyaa](https://nyaa.si/view/2144149) |
+| `Goodbye Lara S01E06 The Light That Shines on Me 1080p CR WEB-DL DUA...` | **1448.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627984) • [🐱 Nyaa](https://nyaa.si/view/2144150) |
 
 ---
 <div align="center">
