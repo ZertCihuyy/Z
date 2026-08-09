@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.49.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.00.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **1112.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627872) • [🐱 Nyaa](https://nyaa.si/view/2143987) |
+| `[Onalrie] Tetsunabe no Jan - S01E06 [1080p WEBRip AV1]` | **243.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/627871) • [🐱 Nyaa](https://nekobt.to/torrents/12950679632648) |
+| `[Onalrie] Let's Go Kaiki-gumi - S01E06 [1080p WEBRip AV1]` | **182.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627870) • [🐱 Nyaa](https://nekobt.to/torrents/12950281314048) |
 | `[Onalrie] Seihantai na Kimi to Boku - S02E06 [1080p WEBRip AV1]` | **185.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/627869) • [🐱 Nyaa](https://nekobt.to/torrents/12949911736588) |
 | `[Onalrie] The Ribbon Hero - Movie [1080p WEBRip AV1]` | **1774.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/627868) • [🐱 Nyaa](https://onalrie.app/torrent/68723b72-7bdd-430d-a612-de5af2115236) |
 | `[LbE3L] Agents of the Four Seasons S01 CR [1080p WEBRip AV1 (Muxed)...` | **5331.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/627867) • [🐱 Nyaa](https://nekobt.to/torrents/12949316888590) |
@@ -45,9 +48,6 @@
 | `Iron Wok Jan S01E06 The Soul of Chinese Cooking 1080p CR WEB-DL AAC...` | **1393.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/627858) • [🐱 Nyaa](https://nyaa.si/view/2143960) |
 | `[Erai-raws] Tetsunabe no Jan - 06 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1384.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627859) • [🐱 Nyaa](https://nyaa.si/view/2143959) |
 | `[ToonsHub] Iron Wok Jan S01E06 1080p CR WEB-DL AAC2.0 H.264 (Tetsun...` | **1412.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/627852) • [🐱 Nyaa](https://nyaa.si/view/2143958) |
-| `Iron Wok Jan S01E06 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1378.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/627849) • [🐱 Nyaa](https://nekobt.to/torrents/12947606087950) |
-| `[SubsPlease] Tetsunabe no Jan! - 06 (1080p) [F4C3F6BC].mkv` | **1373.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/627853) • [🐱 Nyaa](https://nyaa.si/view/2143955) |
-| `[Onalrie] Digimon Beatbreak - S01E42 [1080p WEBRip AV1]` | **291.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/627851) • [🐱 Nyaa](https://nekobt.to/torrents/12947557262345) |
 
 ---
 <div align="center">
