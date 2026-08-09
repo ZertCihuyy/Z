@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.11.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.53.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Azur Lane: Bisoku Zenshin! - S02E06 [1080p][HEVC x265 10bit][...` | **131.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628046) • [🐱 Nyaa](https://nyaa.si/view/2144234) |
 | `Petals of Reincarnation S01E13 In the End of Reincarnation 1080p AM...` | **1254.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628043) • [🐱 Nyaa](https://nyaa.si/view/2144230) |
 | `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 05 [1080p CR WE...` | **452.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628040) • [🐱 Nyaa](https://nyaa.si/view/2144229) |
 | `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 06 [1080p CR WEBRip HE...` | **189.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628044) • [🐱 Nyaa](https://nyaa.si/view/2144227) |
@@ -44,7 +45,6 @@
 | `[Sristi] Oni no Hanayome - 01 [WEBRip 1080p][HEVC][AAC]` | **244.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628034) • [🐱 Nyaa](https://nekobt.to/torrents/12956243187980) |
 | `[Onalrie] One Piece - S01E1173 [1080p WEBRip AV1]` | **452.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628030) • [🐱 Nyaa](https://nekobt.to/torrents/12956088947979) |
 | `One Piece S01E1173 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-...` | **1332.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628027) • [🐱 Nyaa](https://nekobt.to/torrents/12955894712072) |
-| `One Piece S01E1173 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-...` | **767.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628028) • [🐱 Nyaa](https://nekobt.to/torrents/12955862046218) |
 
 ---
 <div align="center">
