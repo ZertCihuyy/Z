@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.05.06_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.51.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E06 [1080p][HEV...` | **632.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628082) • [🐱 Nyaa](https://nyaa.si/view/2144285) |
+| `[Onalrie] Mao - S01E18 [1080p WEBRip AV1]` | **197.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/628081) • [🐱 Nyaa](https://nekobt.to/torrents/12960064930316) |
+| `[Erai-raws] One Piece - 1173 [1080p CR WEBRip HEVC AAC][MultiSub][A...` | **802.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628080) • [🐱 Nyaa](https://nyaa.si/view/2144283) |
+| `[Onalrie] Mao - S01E19 [1080p WEBRip AV1]` | **182.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628079) • [🐱 Nyaa](https://nekobt.to/torrents/12959631246346) |
 | `[Erai-raws] One Piece - 1173 [1080p CR WEB-DL AVC AAC][MultiSub][4A...` | **1338.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628076) • [🐱 Nyaa](https://nyaa.si/view/2144277) |
 | `[TSPlease] Though I Am an Inept Villainess S01E05 1080p CR WEB-DL A...` | **1432.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628069) • [🐱 Nyaa](https://nekobt.to/torrents/12959259099148) |
 | `[Erai-raws] Digimon Beatbreak - 42 [1080p CR WEBRip HEVC AAC][Multi...` | **579.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/628073) • [🐱 Nyaa](https://nyaa.si/view/2144274) |
@@ -41,10 +45,6 @@
 | `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 01 [1080p DSNP...` | **1024.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628064) • [🐱 Nyaa](https://nyaa.si/view/2144257) |
 | `[FoundYears] Though I Am an Inept Villainess - S01E03 (CR WEB-DL 10...` | **1509.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628072) • [🐱 Nyaa](https://nekobt.to/torrents/12959001484295) |
 | `[FrixySubs] Though I Am an Inept Villainess - S01E04 [1080p CR WEB-...` | **1392.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628058) • [🐱 Nyaa](https://nekobt.to/torrents/12958907650054) |
-| `[Erai-raws] Mao - 19 [1080p DSNP WEB-DL AVC AAC][MultiSub][FB2018B7]` | **897.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628056) • [🐱 Nyaa](https://nyaa.si/view/2144253) |
-| `[Erai-raws] Mao - 18 [1080p DSNP WEB-DL AVC AAC][MultiSub][D86E2548]` | **857.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/628051) • [🐱 Nyaa](https://nekobt.to/torrents/12958780066821) |
-| `[Erai-raws] Mao - 17 [1080p DSNP WEB-DL AVC AAC][MultiSub][6FB13CDF]` | **931.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628052) • [🐱 Nyaa](https://nekobt.to/torrents/12958764559108) |
-| `[Erai-raws] Sayonara Lara - 06 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **447.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628047) • [🐱 Nyaa](https://nekobt.to/torrents/12958585130242) |
 
 ---
 <div align="center">
