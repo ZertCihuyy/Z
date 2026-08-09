@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.54.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.39.07_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[CicakRumah] Koupen-chan - S01E67 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **91.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627886) • [🐱 Nyaa](https://nyaa.si/view/2144016) |
-| `[Doomdos] - The World's Strongest Rearguard - 6 [1080p IQ WEB-DL]` | **213.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627885) • [🐱 Nyaa](https://nyaa.si/view/2144012) |
-| `The World's Strongest Rearguard S01E06 SUBFRENCH 1080p CR WEB-DL AA...` | **1382.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627883) • [🐱 Nyaa](https://nekobt.to/torrents/12951357874946) |
-| `[ToonsHub] The Worlds Strongest Rearguard S01E06 1080p CR WEB-DL AA...` | **1377.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627882) • [🐱 Nyaa](https://nyaa.si/view/2144001) |
-| `[Erai-raws] Sekai Saikyou no Kouei - 06 [1080p CR WEB-DL AVC AAC][M...` | **1388.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/627876) • [🐱 Nyaa](https://nekobt.to/torrents/12951331405582) |
-| `The Worlds Strongest Rearguard S01E06 The Mechanical Ariadne 1080p ...` | **1377.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/627878) • [🐱 Nyaa](https://nyaa.si/view/2143995) |
-| `[SubsPlease] Sekai Saikyou no Kouei - 06 (1080p) [F94EA840].mkv` | **1377.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/627879) • [🐱 Nyaa](https://nyaa.si/view/2143994) |
-| `[ToonsHub] The Worlds Strongest Rearguard S01E06 1080p BILI WEB-DL ...` | **246.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/627874) • [🐱 Nyaa](https://nyaa.si/view/2143991) |
-| `[CenturyZeta] Yanineko Mini Anime - 14 (1080p) (Yani Neko)` | **2.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/627875) • [🐱 Nyaa](https://nyaa.si/view/2143989) |
-| `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **1112.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627872) • [🐱 Nyaa](https://nyaa.si/view/2143987) |
-| `[Onalrie] Tetsunabe no Jan - S01E06 [1080p WEBRip AV1]` | **243.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/627871) • [🐱 Nyaa](https://nekobt.to/torrents/12950679632648) |
-| `[Onalrie] Let's Go Kaiki-gumi - S01E06 [1080p WEBRip AV1]` | **182.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627870) • [🐱 Nyaa](https://nekobt.to/torrents/12950281314048) |
-| `[Onalrie] Seihantai na Kimi to Boku - S02E06 [1080p WEBRip AV1]` | **185.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/627869) • [🐱 Nyaa](https://nekobt.to/torrents/12949911736588) |
-| `[Onalrie] The Ribbon Hero - Movie [1080p WEBRip AV1]` | **1774.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/627868) • [🐱 Nyaa](https://onalrie.app/torrent/68723b72-7bdd-430d-a612-de5af2115236) |
-| `[LbE3L] Agents of the Four Seasons S01 CR [1080p WEBRip AV1 (Muxed)...` | **5331.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/627867) • [🐱 Nyaa](https://nekobt.to/torrents/12949316888590) |
+| `[ToonsHub] Sparks of Tomorrow S01E06 1080p NF WEB-DL MULTi AAC2.0 H...` | **1214.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/627904) • [🐱 Nyaa](https://nekobt.to/torrents/12952398963203) |
+| `[Judas] Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Ha...` | **4183.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/627907) • [🐱 Nyaa](https://nyaa.si/view/2144043) |
+| `[Judas] Kill Ao (Kill Blue) (Season 01) [1080p][HEVC x265 10bit][Du...` | **5928.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/627908) • [🐱 Nyaa](https://nyaa.si/view/2144042) |
+| `[Judas] NEEDY GIRL OVERDOSE (Season 01) [1080p][HEVC x265 10bit][Du...` | **7158.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/627909) • [🐱 Nyaa](https://nyaa.si/view/2144041) |
+| `[ToonsHub] Sparks of Tomorrow S01E06 1080p NF WEB-DL DUAL AAC2.0 H....` | **909.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/627901) • [🐱 Nyaa](https://nyaa.si/view/2144040) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1446.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/627902) • [🐱 Nyaa](https://nyaa.si/view/2144039) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1383.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/627903) • [🐱 Nyaa](https://nyaa.si/view/2144038) |
+| `[Erai-raws] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no K...` | **1395.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/627896) • [🐱 Nyaa](https://nyaa.si/view/2144035) |
+| `[Yameii] The 100 Girlfriends Who Really, Really, Really, Really, RE...` | **1392.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/627897) • [🐱 Nyaa](https://nyaa.si/view/2144034) |
+| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1447.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627898) • [🐱 Nyaa](https://nyaa.si/view/2144033) |
+| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1383.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/627900) • [🐱 Nyaa](https://nyaa.si/view/2144032) |
+| `The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love...` | **1388.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/627905) • [🐱 Nyaa](https://nekobt.to/torrents/12952229306113) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **343.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/627887) • [🐱 Nyaa](https://nekobt.to/torrents/12952181972224) |
+| `[Judas] Sekai Saikyou no Kouei Meikyuukoku no Shinjin Tansakusha (T...` | **206.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627889) • [🐱 Nyaa](https://nyaa.si/view/2144025) |
+| `[SubsPlease] Hyakkano - 30 (1080p) [AD6BFC33].mkv` | **1383.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/627891) • [🐱 Nyaa](https://nyaa.si/view/2144022) |
 
 ---
 <div align="center">
