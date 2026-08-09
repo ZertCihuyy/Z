@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.57.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.44.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] You and I Are Polar Opposites S02E06 1080p NF WEB-DL AAC2.0...` | **880.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/627866) • [🐱 Nyaa](https://nekobt.to/torrents/12949050361103) |
 | `You and I Are Polar Opposites S02E03 The Year Thats Passed and the ...` | **1534.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/627863) • [🐱 Nyaa](https://nyaa.si/view/2143971) |
 | `[ASW] Tetsunabe no Jan! - 06 [1080p HEVC x265 10Bit][AAC]` | **293.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/627864) • [🐱 Nyaa](https://nyaa.si/view/2143970) |
 | `[ASW] Let's Go Kaiki-gumi - 06 [1080p HEVC x265 10Bit][AAC]` | **225.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/627860) • [🐱 Nyaa](https://nyaa.si/view/2143966) |
@@ -47,7 +48,6 @@
 | `[Trix] You and I Are Polar Opposites S02E06 [WEBRip 1080p AV1 Opus]...` | **197.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627848) • [🐱 Nyaa](https://nyaa.si/view/2143952) |
 | `Let's go KAIKIGUMI S01E06 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsu...` | **1387.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627846) • [🐱 Nyaa](https://nekobt.to/torrents/12947222156301) |
 | `[ToonsHub] You and I Are Polar Opposites S02E04 1080p CR WEB-DL DUA...` | **1448.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/627843) • [🐱 Nyaa](https://nyaa.si/view/2143950) |
-| `[ToonsHub] Lets go KAIKIGUMI S01E06 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1421.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/627844) • [🐱 Nyaa](https://nyaa.si/view/2143948) |
 
 ---
 <div align="center">
