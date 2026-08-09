@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.36.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.11.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Petals of Reincarnation S01E13 In the End of Reincarnation 1080p AM...` | **1254.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628043) • [🐱 Nyaa](https://nyaa.si/view/2144230) |
+| `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 05 [1080p CR WE...` | **452.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628040) • [🐱 Nyaa](https://nyaa.si/view/2144229) |
+| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 06 [1080p CR WEBRip HE...` | **189.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628044) • [🐱 Nyaa](https://nyaa.si/view/2144227) |
+| `Digimon Beatbreak S01E42 Sakura Friendship REPACK 1080p CR WEB-DL A...` | **1371.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628041) • [🐱 Nyaa](https://nyaa.si/view/2144228) |
+| `Bleach S17E43 Thousand-Year Blood War BLOOD FOR MY BONE 1080p DSNP ...` | **978.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628042) • [🐱 Nyaa](https://nyaa.si/view/2144226) |
 | `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E05 [1080p][...` | **579.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/628038) • [🐱 Nyaa](https://nyaa.si/view/2144222) |
 | `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **317.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/628039) • [🐱 Nyaa](https://nyaa.si/view/2144220) |
 | `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 18 [1080p CR WEBRip HE...` | **629.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628035) • [🐱 Nyaa](https://nyaa.si/view/2144216) |
@@ -40,11 +45,6 @@
 | `[Onalrie] One Piece - S01E1173 [1080p WEBRip AV1]` | **452.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628030) • [🐱 Nyaa](https://nekobt.to/torrents/12956088947979) |
 | `One Piece S01E1173 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-...` | **1332.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628027) • [🐱 Nyaa](https://nekobt.to/torrents/12955894712072) |
 | `One Piece S01E1173 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-...` | **767.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628028) • [🐱 Nyaa](https://nekobt.to/torrents/12955862046218) |
-| `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E07 [1080p][HEV...` | **454.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/628026) • [🐱 Nyaa](https://nyaa.si/view/2144207) |
-| `[Fuchs] Mushoku Tensei - S03E05 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1437.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628025) • [🐱 Nyaa](https://nekobt.to/torrents/12955787168521) |
-| `[Onalrie] Futsutsuka na Akujo dewa Gozaimasu ga - S01E05 [1080p WEB...` | **200.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/628024) • [🐱 Nyaa](https://nekobt.to/torrents/12955563141133) |
-| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E18 [1080p][HEVC x265 10b...` | **466.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628020) • [🐱 Nyaa](https://nyaa.si/view/2144200) |
-| `[DKB] Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo - S0...` | **324.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/628021) • [🐱 Nyaa](https://nyaa.si/view/2144199) |
 
 ---
 <div align="center">
