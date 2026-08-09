@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.16.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.00.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E07 [1080p][HEV...` | **454.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/628026) • [🐱 Nyaa](https://nyaa.si/view/2144207) |
+| `[Fuchs] Mushoku Tensei - S03E05 (CR WEB-DL 1080p x264 AAC 2.0) [Dua...` | **1437.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628025) • [🐱 Nyaa](https://nekobt.to/torrents/12955787168521) |
+| `[Onalrie] Futsutsuka na Akujo dewa Gozaimasu ga - S01E05 [1080p WEB...` | **200.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/628024) • [🐱 Nyaa](https://nekobt.to/torrents/12955563141133) |
+| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E18 [1080p][HEVC x265 10b...` | **466.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628020) • [🐱 Nyaa](https://nyaa.si/view/2144200) |
+| `[DKB] Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo - S0...` | **324.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/628021) • [🐱 Nyaa](https://nyaa.si/view/2144199) |
+| `[DKB] Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - S...` | **231.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/628023) • [🐱 Nyaa](https://nyaa.si/view/2144198) |
+| `[DKB] Seihantai na Kimi to Boku - S02E06 [1080p][HEVC x265 10bit][M...` | **229.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/628022) • [🐱 Nyaa](https://nyaa.si/view/2144197) |
+| `[Onalrie] Sayonara Lara - S01E06 [1080p WEBRip AV1]` | **190.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/628019) • [🐱 Nyaa](https://nekobt.to/torrents/12955199309314) |
 | `Anime AzurLane Slow Ahead S02E06 Leave It to Laffey 1080p CR WEB-DL...` | **500.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628018) • [🐱 Nyaa](https://nyaa.si/view/2144189) |
 | `[ToonsHub] Azur Lane Slow Ahead S02E06 1080p CR WEB-DL AAC2.0 H.264...` | **499.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628014) • [🐱 Nyaa](https://nekobt.to/torrents/12954812475400) |
 | `[Onalrie] Mushoku Tensei - S03E07 [1080p WEBRip AV1]` | **201.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/628015) • [🐱 Nyaa](https://nekobt.to/torrents/12954756724487) |
@@ -37,14 +45,6 @@
 | `[SubsPlease] Azur Lane - Bisoku Zenshin! S2 - 06 (1080p) [EF1B58A6]...` | **497.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/628008) • [🐱 Nyaa](https://nyaa.si/view/2144183) |
 | `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 06 [1080p CR WEB-DL AV...` | **500.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/628010) • [🐱 Nyaa](https://nyaa.si/view/2144181) |
 | `[Judas] Mushoku Tensei (Jobless Reincarnation) - S03E07 [1080p][HEV...` | **341.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/628012) • [🐱 Nyaa](https://nyaa.si/view/2144178) |
-| `Digimon Beatbreak S01E34 Behind the Mask 1080p CR WEB-DL DUAL AAC2....` | **1413.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/628013) • [🐱 Nyaa](https://nyaa.si/view/2144177) |
-| `Digimon Beatbreak S01E33 Midsummer Ghost 1080p CR WEB-DL DUAL AAC2....` | **1411.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/628004) • [🐱 Nyaa](https://nyaa.si/view/2144176) |
-| `Digimon Beatbreak S01E31 One Step Forward 1080p CR WEB-DL DUAL AAC2...` | **1409.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628005) • [🐱 Nyaa](https://nyaa.si/view/2144175) |
-| `Digimon Beatbreak S01E32 Cold Rain 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1410.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628003) • [🐱 Nyaa](https://nyaa.si/view/2144171) |
-| `Digimon Beatbreak S01E35 Rampaging Instinct 1080p CR WEB-DL DUAL AA...` | **1410.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628002) • [🐱 Nyaa](https://nyaa.si/view/2144172) |
-| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 07 [1080...` | **510.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/628000) • [🐱 Nyaa](https://nekobt.to/torrents/12954407970318) |
-| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E18 [1080p WEBRip AV1]` | **351.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/628001) • [🐱 Nyaa](https://nekobt.to/torrents/12954380065806) |
-| `Mushoku Tensei Jobless Reincarnation S03E04 A King-Class Water Mage...` | **1570.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/627994) • [🐱 Nyaa](https://nyaa.si/view/2144166) |
 
 ---
 <div align="center">
