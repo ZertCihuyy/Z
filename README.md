@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.08.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.02.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Digimon.Beatbreak.S01E42.1080p.CR.WEBRip.10bits.x265-Rapta` | **235.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/627818) • [🐱 Nyaa](https://nyaa.si/view/2143913) |
+| `[Kotobuki] Tenmaku no Jaadugar 06 [1080p HEVC Multisub] | Jaadugar:...` | **293.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/627816) • [🐱 Nyaa](https://nyaa.si/view/2143912) |
+| `[Erai-raws] The Ribbon Hero - ONA [1080p NF WEBRip HEVC EAC3][Multi...` | **2716.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627817) • [🐱 Nyaa](https://nyaa.si/view/2143911) |
+| `Digimon Beatbreak S01E42 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1369.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627814) • [🐱 Nyaa](https://nekobt.to/torrents/12945778909707) |
 | `[ToonsHub] Though I Am an Inept Villainess S01E05 1080p DSNP WEB-DL...` | **785.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627813) • [🐱 Nyaa](https://nekobt.to/torrents/12945736553738) |
 | `[Prejudice-Studio] 记忆管理局 False Memory - 04 [Bilibili WEB-DL 1080P A...` | **404.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/627811) • [🐱 Nyaa](https://nyaa.si/view/2143907) |
 | `[Prejudice-Studio] 记忆管理局 False Memory - 04 [Bilibili WEB-DL 1080P A...` | **382.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/627812) • [🐱 Nyaa](https://nyaa.si/view/2143906) |
@@ -44,10 +48,6 @@
 | `[ToonsHub] Digimon Beatbreak S01E33 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1409.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/627803) • [🐱 Nyaa](https://nyaa.si/view/2143877) |
 | `[ToonsHub] Digimon Beatbreak S01E32 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1408.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/627799) • [🐱 Nyaa](https://nekobt.to/torrents/12943206319623) |
 | `[ToonsHub] Digimon Beatbreak S01E31 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1407.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/627800) • [🐱 Nyaa](https://nekobt.to/torrents/12943196181765) |
-| `[ToonsHub] False Memory S01E04 1080p BSITE WEB-DL AAC2.0 H.264 (Jiy...` | **382.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/627797) • [🐱 Nyaa](https://nyaa.si/view/2143872) |
-| `[Doomdos] - 记忆管理局 - 第4话 - [1080p BILIBILI COM WEB-DL]` | **382.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/627795) • [🐱 Nyaa](https://nyaa.si/view/2143871) |
-| `[Kakumei Subs] Honzuki no Gekokujou S04E16 [1080p WEB HEVC AAC] [Su...` | **2289.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/627796) • [🐱 Nyaa](https://nekobt.to/torrents/12942970381318) |
-| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 06 [1080p AMZN...` | **327.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/627794) • [🐱 Nyaa](https://nyaa.si/view/2143870) |
 
 ---
 <div align="center">
