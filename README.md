@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.00.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.54.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CicakRumah] Koupen-chan - S01E67 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **91.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627886) • [🐱 Nyaa](https://nyaa.si/view/2144016) |
+| `[Doomdos] - The World's Strongest Rearguard - 6 [1080p IQ WEB-DL]` | **213.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627885) • [🐱 Nyaa](https://nyaa.si/view/2144012) |
+| `The World's Strongest Rearguard S01E06 SUBFRENCH 1080p CR WEB-DL AA...` | **1382.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627883) • [🐱 Nyaa](https://nekobt.to/torrents/12951357874946) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E06 1080p CR WEB-DL AA...` | **1377.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627882) • [🐱 Nyaa](https://nyaa.si/view/2144001) |
+| `[Erai-raws] Sekai Saikyou no Kouei - 06 [1080p CR WEB-DL AVC AAC][M...` | **1388.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/627876) • [🐱 Nyaa](https://nekobt.to/torrents/12951331405582) |
+| `The Worlds Strongest Rearguard S01E06 The Mechanical Ariadne 1080p ...` | **1377.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/627878) • [🐱 Nyaa](https://nyaa.si/view/2143995) |
+| `[SubsPlease] Sekai Saikyou no Kouei - 06 (1080p) [F94EA840].mkv` | **1377.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/627879) • [🐱 Nyaa](https://nyaa.si/view/2143994) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E06 1080p BILI WEB-DL ...` | **246.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/627874) • [🐱 Nyaa](https://nyaa.si/view/2143991) |
+| `[CenturyZeta] Yanineko Mini Anime - 14 (1080p) (Yani Neko)` | **2.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/627875) • [🐱 Nyaa](https://nyaa.si/view/2143989) |
 | `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **1112.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627872) • [🐱 Nyaa](https://nyaa.si/view/2143987) |
 | `[Onalrie] Tetsunabe no Jan - S01E06 [1080p WEBRip AV1]` | **243.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/627871) • [🐱 Nyaa](https://nekobt.to/torrents/12950679632648) |
 | `[Onalrie] Let's Go Kaiki-gumi - S01E06 [1080p WEBRip AV1]` | **182.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627870) • [🐱 Nyaa](https://nekobt.to/torrents/12950281314048) |
 | `[Onalrie] Seihantai na Kimi to Boku - S02E06 [1080p WEBRip AV1]` | **185.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/627869) • [🐱 Nyaa](https://nekobt.to/torrents/12949911736588) |
 | `[Onalrie] The Ribbon Hero - Movie [1080p WEBRip AV1]` | **1774.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/627868) • [🐱 Nyaa](https://onalrie.app/torrent/68723b72-7bdd-430d-a612-de5af2115236) |
 | `[LbE3L] Agents of the Four Seasons S01 CR [1080p WEBRip AV1 (Muxed)...` | **5331.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/627867) • [🐱 Nyaa](https://nekobt.to/torrents/12949316888590) |
-| `[VARYG] You and I Are Polar Opposites S02E06 1080p NF WEB-DL AAC2.0...` | **880.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/627866) • [🐱 Nyaa](https://nekobt.to/torrents/12949050361103) |
-| `You and I Are Polar Opposites S02E03 The Year Thats Passed and the ...` | **1534.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/627863) • [🐱 Nyaa](https://nyaa.si/view/2143971) |
-| `[ASW] Tetsunabe no Jan! - 06 [1080p HEVC x265 10Bit][AAC]` | **293.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/627864) • [🐱 Nyaa](https://nyaa.si/view/2143970) |
-| `[ASW] Let's Go Kaiki-gumi - 06 [1080p HEVC x265 10Bit][AAC]` | **225.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/627860) • [🐱 Nyaa](https://nyaa.si/view/2143966) |
-| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **205.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/627861) • [🐱 Nyaa](https://nyaa.si/view/2143965) |
-| `[ASW] Seihantai na Kimi to Boku - 18 [1080p HEVC x265 10Bit][AAC]` | **204.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/627862) • [🐱 Nyaa](https://nyaa.si/view/2143964) |
-| `Iron Wok Jan S01E06 The Soul of Chinese Cooking 1080p CR WEB-DL AAC...` | **1393.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/627858) • [🐱 Nyaa](https://nyaa.si/view/2143960) |
-| `[Erai-raws] Tetsunabe no Jan - 06 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1384.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/627859) • [🐱 Nyaa](https://nyaa.si/view/2143959) |
-| `[ToonsHub] Iron Wok Jan S01E06 1080p CR WEB-DL AAC2.0 H.264 (Tetsun...` | **1412.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/627852) • [🐱 Nyaa](https://nyaa.si/view/2143958) |
 
 ---
 <div align="center">
