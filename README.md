@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.37.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.05.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] One Piece - 1173 [1080p CR WEB-DL AVC AAC][MultiSub][4A...` | **1338.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628076) • [🐱 Nyaa](https://nyaa.si/view/2144277) |
+| `[TSPlease] Though I Am an Inept Villainess S01E05 1080p CR WEB-DL A...` | **1432.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628069) • [🐱 Nyaa](https://nekobt.to/torrents/12959259099148) |
+| `[Erai-raws] Digimon Beatbreak - 42 [1080p CR WEBRip HEVC AAC][Multi...` | **579.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/628073) • [🐱 Nyaa](https://nyaa.si/view/2144274) |
+| `[Erai-raws] Digimon Beatbreak - 42 (REPACK) [1080p CR WEB-DL AVC AA...` | **1201.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/628075) • [🐱 Nyaa](https://nyaa.si/view/2144271) |
+| `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E05 1080p CR WEB-D...` | **1786.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/628071) • [🐱 Nyaa](https://nekobt.to/torrents/12959237597188) |
+| `[TSPlease] Iron Wok Jan S01E06 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1412.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628068) • [🐱 Nyaa](https://nyaa.si/view/2144267) |
 | `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 03 [1080p DSNP...` | **1005.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628066) • [🐱 Nyaa](https://nyaa.si/view/2144264) |
 | `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 02 [1080p DSNP...` | **1079.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628061) • [🐱 Nyaa](https://nyaa.si/view/2144260) |
 | `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 01 [1080p DSNP...` | **1024.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628064) • [🐱 Nyaa](https://nyaa.si/view/2144257) |
+| `[FoundYears] Though I Am an Inept Villainess - S01E03 (CR WEB-DL 10...` | **1509.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628072) • [🐱 Nyaa](https://nekobt.to/torrents/12959001484295) |
 | `[FrixySubs] Though I Am an Inept Villainess - S01E04 [1080p CR WEB-...` | **1392.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628058) • [🐱 Nyaa](https://nekobt.to/torrents/12958907650054) |
 | `[Erai-raws] Mao - 19 [1080p DSNP WEB-DL AVC AAC][MultiSub][FB2018B7]` | **897.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628056) • [🐱 Nyaa](https://nyaa.si/view/2144253) |
 | `[Erai-raws] Mao - 18 [1080p DSNP WEB-DL AVC AAC][MultiSub][D86E2548]` | **857.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/628051) • [🐱 Nyaa](https://nekobt.to/torrents/12958780066821) |
 | `[Erai-raws] Mao - 17 [1080p DSNP WEB-DL AVC AAC][MultiSub][6FB13CDF]` | **931.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628052) • [🐱 Nyaa](https://nekobt.to/torrents/12958764559108) |
 | `[Erai-raws] Sayonara Lara - 06 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **447.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628047) • [🐱 Nyaa](https://nekobt.to/torrents/12958585130242) |
-| `[DKB] Azur Lane: Bisoku Zenshin! - S02E06 [1080p][HEVC x265 10bit][...` | **131.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628046) • [🐱 Nyaa](https://nyaa.si/view/2144234) |
-| `Petals of Reincarnation S01E13 In the End of Reincarnation 1080p AM...` | **1254.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628043) • [🐱 Nyaa](https://nyaa.si/view/2144230) |
-| `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 05 [1080p CR WE...` | **452.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628040) • [🐱 Nyaa](https://nyaa.si/view/2144229) |
-| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 06 [1080p CR WEBRip HE...` | **189.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628044) • [🐱 Nyaa](https://nyaa.si/view/2144227) |
-| `Digimon Beatbreak S01E42 Sakura Friendship REPACK 1080p CR WEB-DL A...` | **1371.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628041) • [🐱 Nyaa](https://nyaa.si/view/2144228) |
-| `Bleach S17E43 Thousand-Year Blood War BLOOD FOR MY BONE 1080p DSNP ...` | **978.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628042) • [🐱 Nyaa](https://nyaa.si/view/2144226) |
-| `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E05 [1080p][...` | **579.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/628038) • [🐱 Nyaa](https://nyaa.si/view/2144222) |
 
 ---
 <div align="center">
