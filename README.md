@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.58.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.08.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Though I Am an Inept Villainess S01E05 1080p DSNP WEB-DL...` | **785.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627813) • [🐱 Nyaa](https://nekobt.to/torrents/12945736553738) |
+| `[Prejudice-Studio] 记忆管理局 False Memory - 04 [Bilibili WEB-DL 1080P A...` | **404.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/627811) • [🐱 Nyaa](https://nyaa.si/view/2143907) |
+| `[Prejudice-Studio] 记忆管理局 False Memory - 04 [Bilibili WEB-DL 1080P A...` | **382.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/627812) • [🐱 Nyaa](https://nyaa.si/view/2143906) |
+| `[Shridhuu][1080p] A Good Day to Ascend - 择日飞升 (Zeri Feisheng) - EP06` | **461.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/627809) • [🐱 Nyaa](https://nyaa.si/view/2143896) |
 | `[GM-Team][国漫][记忆管理局][The Memory Bureau][2026][04][AVC][GB][1080P]` | **382.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/627806) • [🐱 Nyaa](https://nyaa.si/view/2143884) |
 | `[Judas] Digimon Beatbreak - S01E42 [1080p][HEVC x265 10bit][Eng-Sub...` | **410.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/627805) • [🐱 Nyaa](https://nyaa.si/view/2143883) |
 | `[ToonsHub] Digimon Beatbreak S01E35 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1409.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/627801) • [🐱 Nyaa](https://nyaa.si/view/2143879) |
@@ -44,10 +48,6 @@
 | `[Doomdos] - 记忆管理局 - 第4话 - [1080p BILIBILI COM WEB-DL]` | **382.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/627795) • [🐱 Nyaa](https://nyaa.si/view/2143871) |
 | `[Kakumei Subs] Honzuki no Gekokujou S04E16 [1080p WEB HEVC AAC] [Su...` | **2289.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/627796) • [🐱 Nyaa](https://nekobt.to/torrents/12942970381318) |
 | `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 06 [1080p AMZN...` | **327.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/627794) • [🐱 Nyaa](https://nyaa.si/view/2143870) |
-| `[ASW] Digimon Beatbreak - 42 [1080p HEVC x265 10Bit][AAC]` | **406.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/627793) • [🐱 Nyaa](https://nyaa.si/view/2143866) |
-| `[Serenae] Meitantei Precure! - 28 Fanart Corner (1080p).mkv` | **8.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627792) • [🐱 Nyaa](https://nyaa.si/view/2143864) |
-| `[Serenae] Meitantei Precure! - 28 (1080p).mkv` | **1400.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627790) • [🐱 Nyaa](https://nyaa.si/view/2143861) |
-| `[Yameii] Digimon Beatbreak - S01E35 [English Dub] [CR WEB-DL 1080p ...` | **1375.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/627785) • [🐱 Nyaa](https://nyaa.si/view/2143859) |
 
 ---
 <div align="center">
