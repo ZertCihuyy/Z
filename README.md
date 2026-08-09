@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.51.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.35.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Kuroneko to Majo no Kyoushitsu - 18 [1080p HEVC x265 10Bit][AAC]` | **440.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628086) • [🐱 Nyaa](https://nyaa.si/view/2144289) |
+| `[ASW] Hyakkano - 30 [1080p HEVC x265 10Bit][AAC]` | **331.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628085) • [🐱 Nyaa](https://nyaa.si/view/2144288) |
+| `[Erai-raws] Mao - 17 [1080p DSNP WEBRip HEVC AAC][MultiSub][44B21DFB]` | **400.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628083) • [🐱 Nyaa](https://nekobt.to/torrents/12960666114053) |
+| `[Onalrie] Mao - S01E17 [1080p WEBRip AV1]` | **245.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628084) • [🐱 Nyaa](https://nekobt.to/torrents/12960512696072) |
 | `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E06 [1080p][HEV...` | **632.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628082) • [🐱 Nyaa](https://nyaa.si/view/2144285) |
 | `[Onalrie] Mao - S01E18 [1080p WEBRip AV1]` | **197.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/628081) • [🐱 Nyaa](https://nekobt.to/torrents/12960064930316) |
 | `[Erai-raws] One Piece - 1173 [1080p CR WEBRip HEVC AAC][MultiSub][A...` | **802.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628080) • [🐱 Nyaa](https://nyaa.si/view/2144283) |
@@ -41,10 +45,6 @@
 | `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E05 1080p CR WEB-D...` | **1786.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/628071) • [🐱 Nyaa](https://nekobt.to/torrents/12959237597188) |
 | `[TSPlease] Iron Wok Jan S01E06 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1412.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628068) • [🐱 Nyaa](https://nyaa.si/view/2144267) |
 | `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 03 [1080p DSNP...` | **1005.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628066) • [🐱 Nyaa](https://nyaa.si/view/2144264) |
-| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 02 [1080p DSNP...` | **1079.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628061) • [🐱 Nyaa](https://nyaa.si/view/2144260) |
-| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 01 [1080p DSNP...` | **1024.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628064) • [🐱 Nyaa](https://nyaa.si/view/2144257) |
-| `[FoundYears] Though I Am an Inept Villainess - S01E03 (CR WEB-DL 10...` | **1509.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628072) • [🐱 Nyaa](https://nekobt.to/torrents/12959001484295) |
-| `[FrixySubs] Though I Am an Inept Villainess - S01E04 [1080p CR WEB-...` | **1392.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628058) • [🐱 Nyaa](https://nekobt.to/torrents/12958907650054) |
 
 ---
 <div align="center">
