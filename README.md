@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.02.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.03.50_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Digimon.Beatbreak.S01E42.1080p.CR.WEBRip.10bits.x265-Rapta` | **235.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/627818) • [🐱 Nyaa](https://nyaa.si/view/2143913) |
-| `[Kotobuki] Tenmaku no Jaadugar 06 [1080p HEVC Multisub] | Jaadugar:...` | **293.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/627816) • [🐱 Nyaa](https://nyaa.si/view/2143912) |
-| `[Erai-raws] The Ribbon Hero - ONA [1080p NF WEBRip HEVC EAC3][Multi...` | **2716.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627817) • [🐱 Nyaa](https://nyaa.si/view/2143911) |
-| `Digimon Beatbreak S01E42 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1369.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627814) • [🐱 Nyaa](https://nekobt.to/torrents/12945778909707) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E05 1080p DSNP WEB-DL...` | **785.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627813) • [🐱 Nyaa](https://nekobt.to/torrents/12945736553738) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 04 [Bilibili WEB-DL 1080P A...` | **404.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/627811) • [🐱 Nyaa](https://nyaa.si/view/2143907) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 04 [Bilibili WEB-DL 1080P A...` | **382.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/627812) • [🐱 Nyaa](https://nyaa.si/view/2143906) |
-| `[Shridhuu][1080p] A Good Day to Ascend - 择日飞升 (Zeri Feisheng) - EP06` | **461.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/627809) • [🐱 Nyaa](https://nyaa.si/view/2143896) |
-| `[GM-Team][国漫][记忆管理局][The Memory Bureau][2026][04][AVC][GB][1080P]` | **382.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/627806) • [🐱 Nyaa](https://nyaa.si/view/2143884) |
-| `[Judas] Digimon Beatbreak - S01E42 [1080p][HEVC x265 10bit][Eng-Sub...` | **410.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/627805) • [🐱 Nyaa](https://nyaa.si/view/2143883) |
-| `[ToonsHub] Digimon Beatbreak S01E35 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1409.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/627801) • [🐱 Nyaa](https://nyaa.si/view/2143879) |
-| `[ToonsHub] Digimon Beatbreak S01E34 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1411.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/627802) • [🐱 Nyaa](https://nyaa.si/view/2143878) |
-| `[ToonsHub] Digimon Beatbreak S01E33 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1409.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/627803) • [🐱 Nyaa](https://nyaa.si/view/2143877) |
-| `[ToonsHub] Digimon Beatbreak S01E32 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1408.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/627799) • [🐱 Nyaa](https://nekobt.to/torrents/12943206319623) |
-| `[ToonsHub] Digimon Beatbreak S01E31 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1407.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/627800) • [🐱 Nyaa](https://nekobt.to/torrents/12943196181765) |
+| `Iron Wok Jan S01E06 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1378.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/627849) • [🐱 Nyaa](https://nekobt.to/torrents/12947606087950) |
+| `[Onalrie] Digimon Beatbreak - S01E42 [1080p WEBRip AV1]` | **291.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/627851) • [🐱 Nyaa](https://nekobt.to/torrents/12947557262345) |
+| `[Trix] You and I Are Polar Opposites S02E06 [WEBRip 1080p AV1 Opus]...` | **197.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/627848) • [🐱 Nyaa](https://nyaa.si/view/2143952) |
+| `Let's go KAIKIGUMI S01E06 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsu...` | **1387.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627846) • [🐱 Nyaa](https://nekobt.to/torrents/12947222156301) |
+| `[ToonsHub] You and I Are Polar Opposites S02E04 1080p CR WEB-DL DUA...` | **1448.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/627843) • [🐱 Nyaa](https://nyaa.si/view/2143950) |
+| `[ToonsHub] Lets go KAIKIGUMI S01E06 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1421.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/627844) • [🐱 Nyaa](https://nyaa.si/view/2143948) |
+| `[ToonsHub] You and I Are Polar Opposites S02E06 1080p CR WEB-DL AAC...` | **1403.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/627845) • [🐱 Nyaa](https://nyaa.si/view/2143947) |
+| `[Erai-raws] Seihantai na Kimi to Boku S02E06 [1080p CR WEB-DL AVC A...` | **1416.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/627824) • [🐱 Nyaa](https://nekobt.to/torrents/12947185074950) |
+| `[Yameii] You and I Are Polar Opposites - S02E04 [English Dub] [CR W...` | **1412.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/627839) • [🐱 Nyaa](https://nekobt.to/torrents/12947182191109) |
+| `You and I Are Polar Opposites S02E06 SUBFRENCH 1080p CR WEB-DL AAC2...` | **1409.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/627840) • [🐱 Nyaa](https://nekobt.to/torrents/12947167629319) |
+| `You and I Are Polar Opposites S02E04 New School Term 1080p CR WEB-D...` | **1469.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/627825) • [🐱 Nyaa](https://nyaa.si/view/2143941) |
+| `[Onalrie] Kabushikigaisha Magilumiere - S02E06 [1080p WEBRip AV1]` | **227.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/627842) • [🐱 Nyaa](https://nekobt.to/torrents/12947161723395) |
+| `You and I Are Polar Opposites S02E06 Threshold of Spring 1080p CR W...` | **1406.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/627827) • [🐱 Nyaa](https://nyaa.si/view/2143938) |
+| `Lets go KAIKIGUMI S01E06 Mystery 6 1080p CR WEB-DL AAC2.0 H.264-VAR...` | **1400.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627828) • [🐱 Nyaa](https://nyaa.si/view/2143937) |
+| `[Erai-raws] Let's Go Kaiki-gumi - 06 [1080p CR WEB-DL AVC AAC][Mult...` | **1214.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/627831) • [🐱 Nyaa](https://nyaa.si/view/2143934) |
 
 ---
 <div align="center">
