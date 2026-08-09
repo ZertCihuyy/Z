@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.54.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.36.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E05 [1080p][...` | **579.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/628038) • [🐱 Nyaa](https://nyaa.si/view/2144222) |
+| `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **317.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/628039) • [🐱 Nyaa](https://nyaa.si/view/2144220) |
 | `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 18 [1080p CR WEBRip HE...` | **629.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628035) • [🐱 Nyaa](https://nyaa.si/view/2144216) |
 | `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 06 [1080p NF...` | **733.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/628036) • [🐱 Nyaa](https://nyaa.si/view/2144215) |
 | `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E05 [WEB.108...` | **177.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628031) • [🐱 Nyaa](https://nyaa.si/view/2144213) |
@@ -43,8 +45,6 @@
 | `[Onalrie] Futsutsuka na Akujo dewa Gozaimasu ga - S01E05 [1080p WEB...` | **200.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/628024) • [🐱 Nyaa](https://nekobt.to/torrents/12955563141133) |
 | `[DKB] Kuroneko to Majo no Kyoushitsu - S01E18 [1080p][HEVC x265 10b...` | **466.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628020) • [🐱 Nyaa](https://nyaa.si/view/2144200) |
 | `[DKB] Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo - S0...` | **324.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/628021) • [🐱 Nyaa](https://nyaa.si/view/2144199) |
-| `[DKB] Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - S...` | **231.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/628023) • [🐱 Nyaa](https://nyaa.si/view/2144198) |
-| `[DKB] Seihantai na Kimi to Boku - S02E06 [1080p][HEVC x265 10bit][M...` | **229.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/628022) • [🐱 Nyaa](https://nyaa.si/view/2144197) |
 
 ---
 <div align="center">
