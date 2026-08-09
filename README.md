@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.45.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.04.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - Primeval Overlord - 7 [1080p IQ WEB-DL]` | **211.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/627767) • [🐱 Nyaa](https://nyaa.si/view/2143831) |
+| `[Doomdos] - Urban Miracle Doctor - 202 [1080p IQ WEB-DL]` | **183.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627768) • [🐱 Nyaa](https://nyaa.si/view/2143830) |
+| `[Knight-Subs] Bleach Thousand-Year Blood War - E43 - BLOOD FOR MY B...` | **1370.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/627769) • [🐱 Nyaa](https://nekobt.to/torrents/12940990967816) |
+| `[Erai-raws] Yomi no Tsugai - 18 [1080p CR WEBRip HEVC AAC][MultiSub...` | **414.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/627766) • [🐱 Nyaa](https://nyaa.si/view/2143829) |
+| `[SubsPlease] Meitantei Precure! - 28 (1080p) [16619190].mkv` | **1403.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/627761) • [🐱 Nyaa](https://nyaa.si/view/2143827) |
+| `[Erai-raws] Meitantei Precure - 28 [1080p CR WEB-DL AVC AAC][5CC242C8]` | **1309.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/627764) • [🐱 Nyaa](https://nyaa.si/view/2143824) |
+| `[Doomdos] - In Search of Gods - 23 [1080p IQ WEB-DL]` | **389.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/627759) • [🐱 Nyaa](https://nyaa.si/view/2143820) |
+| `[Erai-raws] Oni no Hanayome - 06 [1080p CR WEBRip HEVC AAC][MultiSu...` | **335.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/627758) • [🐱 Nyaa](https://nyaa.si/view/2143819) |
+| `[CicakRumah] Koupen-chan - S01E66 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **98.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/627757) • [🐱 Nyaa](https://nyaa.si/view/2143800) |
+| `[DKB] MAO - S01E19 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **296.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627756) • [🐱 Nyaa](https://nyaa.si/view/2143795) |
+| `[Erai-raws] The Ribbon Hero - ONA [1080p NF WEB-DL AVC EAC3][MultiS...` | **4560.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/627755) • [🐱 Nyaa](https://nyaa.si/view/2143791) |
+| `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **323.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/627754) • [🐱 Nyaa](https://nyaa.si/view/2143788) |
+| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 06 [1080p AMZN...` | **800.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/627752) • [🐱 Nyaa](https://nyaa.si/view/2143786) |
 | `[Erai-raws] Grow Up Show: Himawari no Circus-dan - 06 [1080p CR WEB...` | **478.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627749) • [🐱 Nyaa](https://nyaa.si/view/2143783) |
 | `[Erai-raws] Saijo no Osewa - 06 [1080p CR WEBRip HEVC AAC][MultiSub...` | **354.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/627750) • [🐱 Nyaa](https://nyaa.si/view/2143782) |
-| `Hokuto no Ken Movie (1986) 1080p Untouched Audio: ITA-JAP-ENG Sub: ...` | **21064.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/627748) • [🐱 Nyaa](https://nyaa.si/view/2143781) |
-| `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **213.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/627747) • [🐱 Nyaa](https://nyaa.si/view/2143779) |
-| `[Onalrie] Oni no Hanayome - S01E06 [1080p WEBRip AV1]` | **167.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/627746) • [🐱 Nyaa](https://nekobt.to/torrents/12937740999436) |
-| `Daemons of the Shadow Realm S01E18 Fujin and Raijin 1080p BILI WEB-...` | **358.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/627742) • [🐱 Nyaa](https://nyaa.si/view/2143771) |
-| `[Anime Time] Black Torch - S01E06 [1080p][HEVC 10bit x265][AAC][Dua...` | **572.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/627743) • [🐱 Nyaa](https://nyaa.si/view/2143770) |
-| `Daemons of the Shadow Realm S01E15 Yuru and Danji 1080p CR WEB-DL M...` | **1604.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/627744) • [🐱 Nyaa](https://nyaa.si/view/2143769) |
-| `Daemons of the Shadow Realm S01E13 Daikyo and Shokyo 1080p BILI WEB...` | **464.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/627745) • [🐱 Nyaa](https://nyaa.si/view/2143768) |
-| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E16 ...` | **562.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/627740) • [🐱 Nyaa](https://nyaa.si/view/2143763) |
-| `The Angel Next Door Spoils Me Rotten S02E02 The Start of Summer Vac...` | **1540.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/627741) • [🐱 Nyaa](https://nyaa.si/view/2143762) |
-| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 05 [10...` | **429.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/627731) • [🐱 Nyaa](https://nekobt.to/torrents/12937445925385) |
-| `[Erai-raws] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga ...` | **417.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/627732) • [🐱 Nyaa](https://nekobt.to/torrents/12937441453066) |
-| `[Erai-raws] Neko to Ryuu - 07 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **425.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/627738) • [🐱 Nyaa](https://nekobt.to/torrents/12937436227081) |
-| `The Angel Next Door Spoils Me Rotten S02E01 Going to School Togethe...` | **1538.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/627734) • [🐱 Nyaa](https://nyaa.si/view/2143757) |
 
 ---
 <div align="center">
