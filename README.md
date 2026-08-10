@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.09.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.02.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] Saga of Tanya the Evil S02E02 A Strange Friendship 1080p CR...` | **1485.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/628326) • [🐱 Nyaa](https://nekobt.to/torrents/12979920470534) |
+| `[ToonsHub] Flaming Dodgeball Girl Danko S01E06 1080p AMZN WEB-DL DD...` | **883.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/628327) • [🐱 Nyaa](https://nekobt.to/torrents/12979903599876) |
 | `[Judas] Aishiteru Game o Owarasetai (I Want to End This Love Game) ...` | **2515.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628323) • [🐱 Nyaa](https://nyaa.si/view/2144660) |
 | `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly ...` | **4627.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/628324) • [🐱 Nyaa](https://nyaa.si/view/2144659) |
 | `[Judas] Dia no Ace (Ace of the Diamond) (Season 04) [1080p][HEVC x2...` | **3698.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628325) • [🐱 Nyaa](https://nyaa.si/view/2144658) |
@@ -44,8 +46,6 @@
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 06 [1080p] [AV1] (Weekly)` | **103.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628311) • [🐱 Nyaa](https://nyaa.si/view/2144639) |
 | `[Ironclad] A Livid Lady's Guide to Getting Even: How I Crushed My H...` | **225.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/628308) • [🐱 Nyaa](https://nekobt.to/torrents/12977657855747) |
 | `[ToonsHub] The World is Dancing S01E07 1080p ADN WEB-DL AAC2.0 H.26...` | **644.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628307) • [🐱 Nyaa](https://nyaa.si/view/2144634) |
-| `[Breeze] Mushoku Tensei S03E07 [1080p AV1] | Jobless Reincarnation ...` | **778.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628304) • [🐱 Nyaa](https://nyaa.si/view/2144621) |
-| `[DKB] Grand Blue - S03E06 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **261.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628306) • [🐱 Nyaa](https://nyaa.si/view/2144632) |
 
 ---
 <div align="center">
