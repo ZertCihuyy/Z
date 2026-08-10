@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.59.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.50.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **233.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628344) • [🐱 Nyaa](https://nyaa.si/view/2144680) |
+| `Gakuen.Tokusou.Hikaruon.学園特捜ヒカルオン.1987.BDrip.1080p.HEVC.x265.10bit....` | **3716.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628342) • [🐱 Nyaa](https://nyaa.si/view/2144679) |
+| `[ToonsHub] To Be Winner S01E04 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **431.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/628338) • [🐱 Nyaa](https://nyaa.si/view/2144678) |
+| `[ToonsHub] To Be Winner S01E03 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **456.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/628339) • [🐱 Nyaa](https://nyaa.si/view/2144677) |
+| `[ToonsHub] To Be Winner S01E02 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **400.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628340) • [🐱 Nyaa](https://nyaa.si/view/2144675) |
+| `[ToonsHub] To Be Winner S01E01 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **463.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/628341) • [🐱 Nyaa](https://nyaa.si/view/2144674) |
 | `[ToonsHub] You and I Are Polar Opposites S02E06 1080p NF WEB-DL AAC...` | **880.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628334) • [🐱 Nyaa](https://nekobt.to/torrents/12981028884231) |
 | `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E07 1080p NF WEB...` | **867.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/628335) • [🐱 Nyaa](https://nekobt.to/torrents/12981020737031) |
 | `[ToonsHub] Though I Am an Inept Villainess S01E05 1080p NF WEB-DL A...` | **874.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/628336) • [🐱 Nyaa](https://nekobt.to/torrents/12981004044806) |
@@ -40,12 +46,6 @@
 | `[Judas] Aishiteru Game o Owarasetai (I Want to End This Love Game) ...` | **2515.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628323) • [🐱 Nyaa](https://nyaa.si/view/2144660) |
 | `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly ...` | **4627.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/628324) • [🐱 Nyaa](https://nyaa.si/view/2144659) |
 | `[Judas] Dia no Ace (Ace of the Diamond) (Season 04) [1080p][HEVC x2...` | **3698.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628325) • [🐱 Nyaa](https://nyaa.si/view/2144658) |
-| `[Lazier] Bleach Thousand-Year Blood War - 43 (WEB 1080p EAC3) | Ble...` | **1383.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628322) • [🐱 Nyaa](https://nyaa.si/view/2144655) |
-| `[SubsNoJutsu] Goodbye, Lara - S01E06 (1080p WEBRip AAC x265) [ECF5A...` | **447.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/628321) • [🐱 Nyaa](https://nekobt.to/torrents/12978847503106) |
-| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **310.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628318) • [🐱 Nyaa](https://nyaa.si/view/2144654) |
-| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **717.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/628319) • [🐱 Nyaa](https://nyaa.si/view/2144653) |
-| `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **215.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628320) • [🐱 Nyaa](https://nyaa.si/view/2144652) |
-| `[One Pace][140-145] Drum Island 05 [1080p][3CEF5DD3].mkv` | **1200.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628332) • [🐱 Nyaa](https://nyaa.si/view/2144644) |
 
 ---
 <div align="center">
