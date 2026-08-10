@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.11.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.01.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Chainsmoker Cat S01E06 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsund...` | **411.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/628135) • [🐱 Nyaa](https://nekobt.to/torrents/12972204537098) |
+| `Chainsmoker Cat S01E06 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsunder...` | **203.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628136) • [🐱 Nyaa](https://nekobt.to/torrents/12972201442313) |
+| `Sparks of Tomorrow S01E06 MULTi AD 1080p NF WEB-DL AAC2.0 H.265-Tsu...` | **676.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/628137) • [🐱 Nyaa](https://nekobt.to/torrents/12972111737860) |
+| `Sparks of Tomorrow S01E06 MULTi AD 1080p NF WEB-DL AAC2.0 AV1-Tsund...` | **374.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/628138) • [🐱 Nyaa](https://nekobt.to/torrents/12972103459855) |
+| `Daemons of the Shadow Realm S01E06 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **365.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/628139) • [🐱 Nyaa](https://nekobt.to/torrents/12972096379660) |
+| `Daemons of the Shadow Realm S01E06 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **317.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628140) • [🐱 Nyaa](https://nekobt.to/torrents/12972090165774) |
+| `Daemons of the Shadow Realm S01E05 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **330.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/628141) • [🐱 Nyaa](https://nekobt.to/torrents/12972085948936) |
+| `Daemons of the Shadow Realm S01E05 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **302.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628142) • [🐱 Nyaa](https://nekobt.to/torrents/12972082150661) |
 | `[ZeroBuild] HANEBADO! (S01) (Season 1) (BD 1080p HEVC 10-bit Opus) ...` | **33787.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628133) • [🐱 Nyaa](https://nyaa.si/view/2144408) |
 | `Sparks of Tomorrow S01E06 MULTi AD 1080p NF WEB-DL AAC2.0 x264-Tsun...` | **1051.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628131) • [🐱 Nyaa](https://nekobt.to/torrents/12971260149764) |
 | `Daemons of the Shadow Realm S01E06 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **967.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/628132) • [🐱 Nyaa](https://nekobt.to/torrents/12971251092739) |
@@ -37,14 +45,6 @@
 | `[RUBaDUB] Please Twins! (Complete) (1080p) (Dual Audio)` | **10770.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628129) • [🐱 Nyaa](https://nyaa.si/view/2144404) |
 | `Hokkaido.Gals.Are.Super.Adorable.S01.v2.1080p.BluRay.Dual-Audio.Opu...` | **16818.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628127) • [🐱 Nyaa](https://nyaa.si/view/2144401) |
 | `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **1003.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/628128) • [🐱 Nyaa](https://nyaa.si/view/2144399) |
-| `[Onalrie] Meitantei Precure - S01E28 [1080p WEBRip AV1]` | **579.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/628126) • [🐱 Nyaa](https://nekobt.to/torrents/12968154603272) |
-| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 03 [1080p DSNP...` | **517.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628125) • [🐱 Nyaa](https://nyaa.si/view/2144389) |
-| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 02 [1080p DSNP...` | **596.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/628124) • [🐱 Nyaa](https://nyaa.si/view/2144373) |
-| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 01 [1080p DSNP...` | **615.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/628122) • [🐱 Nyaa](https://nyaa.si/view/2144371) |
-| `[Kotobuki] Tenmaku no Jaadugar 07 [1080p HEVC Multisub] | Jaadugar:...` | **294.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/628120) • [🐱 Nyaa](https://nyaa.si/view/2144361) |
-| `[Gecko] APPLES - S01 (谷雨街后巷; Guyu Jie Hou Xiang; Back Alley of Guyu...` | **839.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628118) • [🐱 Nyaa](https://nekobt.to/torrents/12964468013059) |
-| `[Gecko] Please Excuse My Younger Brothers - S01E06 (うちの弟どもがすみません; U...` | **699.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628119) • [🐱 Nyaa](https://nekobt.to/torrents/12964365712898) |
-| `One Piece S01E1173 A Nightmarish Game-The Dark Plot of the Knights ...` | **1384.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/628116) • [🐱 Nyaa](https://nyaa.si/view/2144347) |
 
 ---
 <div align="center">
