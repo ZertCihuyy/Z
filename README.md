@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.48.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.11.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ZeroBuild] HANEBADO! (S01) (Season 1) (BD 1080p HEVC 10-bit Opus) ...` | **33787.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628133) • [🐱 Nyaa](https://nyaa.si/view/2144408) |
+| `Sparks of Tomorrow S01E06 MULTi AD 1080p NF WEB-DL AAC2.0 x264-Tsun...` | **1051.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628131) • [🐱 Nyaa](https://nekobt.to/torrents/12971260149764) |
+| `Daemons of the Shadow Realm S01E06 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **967.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/628132) • [🐱 Nyaa](https://nekobt.to/torrents/12971251092739) |
+| `Daemons of the Shadow Realm S01E05 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **970.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628130) • [🐱 Nyaa](https://nekobt.to/torrents/12971245246989) |
+| `[RUBaDUB] Please Twins! (Complete) (1080p) (Dual Audio)` | **10770.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628129) • [🐱 Nyaa](https://nyaa.si/view/2144404) |
 | `Hokkaido.Gals.Are.Super.Adorable.S01.v2.1080p.BluRay.Dual-Audio.Opu...` | **16818.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628127) • [🐱 Nyaa](https://nyaa.si/view/2144401) |
 | `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **1003.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/628128) • [🐱 Nyaa](https://nyaa.si/view/2144399) |
 | `[Onalrie] Meitantei Precure - S01E28 [1080p WEBRip AV1]` | **579.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/628126) • [🐱 Nyaa](https://nekobt.to/torrents/12968154603272) |
@@ -40,11 +45,6 @@
 | `[Gecko] APPLES - S01 (谷雨街后巷; Guyu Jie Hou Xiang; Back Alley of Guyu...` | **839.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628118) • [🐱 Nyaa](https://nekobt.to/torrents/12964468013059) |
 | `[Gecko] Please Excuse My Younger Brothers - S01E06 (うちの弟どもがすみません; U...` | **699.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628119) • [🐱 Nyaa](https://nekobt.to/torrents/12964365712898) |
 | `One Piece S01E1173 A Nightmarish Game-The Dark Plot of the Knights ...` | **1384.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/628116) • [🐱 Nyaa](https://nyaa.si/view/2144347) |
-| `One Piece S01E1172 Monsters Appear in Elbaph-What I Fear Most 1080p...` | **473.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628117) • [🐱 Nyaa](https://nyaa.si/view/2144346) |
-| `[BlackRose] Rich Girl Caretaker - S01E06 (WEB 1080p HEVC 10-bit EAC...` | **1286.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628115) • [🐱 Nyaa](https://nekobt.to/torrents/12963392599816) |
-| `[Doomdos] - UNDER THE GATE - 6 [1080p IQ WEB-DL]` | **153.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/628111) • [🐱 Nyaa](https://nyaa.si/view/2144337) |
-| `[ToonsHub] One Piece EP1173 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **421.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628113) • [🐱 Nyaa](https://nyaa.si/view/2144335) |
-| `[Doomdos] - To Be Winner - 4 [1080p IQ WEB-DL]` | **324.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/628114) • [🐱 Nyaa](https://nyaa.si/view/2144334) |
 
 ---
 <div align="center">
