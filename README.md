@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.50.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.39.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **812.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628355) • [🐱 Nyaa](https://nyaa.si/view/2144693) |
+| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **358.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628352) • [🐱 Nyaa](https://nekobt.to/torrents/12982860341259) |
+| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 06 [1080...` | **349.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/628353) • [🐱 Nyaa](https://nekobt.to/torrents/12982850534924) |
+| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **560.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/628354) • [🐱 Nyaa](https://nekobt.to/torrents/12982839509519) |
+| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **390.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628350) • [🐱 Nyaa](https://nyaa.si/view/2144689) |
+| `[Erai-raws] Liar Game - 19 [1080p CR WEBRip HEVC AAC][MultiSub][939...` | **591.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628351) • [🐱 Nyaa](https://nyaa.si/view/2144688) |
+| `[ToonsHub] The Forsaken Saintess and Her Foodie Road Trip in Anothe...` | **557.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628347) • [🐱 Nyaa](https://nyaa.si/view/2144687) |
+| `[ToonsHub] The Forsaken Saintess and Her Foodie Road Trip in Anothe...` | **568.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628349) • [🐱 Nyaa](https://nekobt.to/torrents/12982650274062) |
+| `[ToonsHub] The Forsaken Saintess and Her Foodie Road Trip in Anothe...` | **625.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/628348) • [🐱 Nyaa](https://nyaa.si/view/2144685) |
+| `[Erai-raws] Grand Blue Season 3 - 06 [1080p CR WEBRip HEVC AAC][Mul...` | **450.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628346) • [🐱 Nyaa](https://nyaa.si/view/2144684) |
+| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **553.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/628345) • [🐱 Nyaa](https://nekobt.to/torrents/12982513018888) |
 | `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **233.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628344) • [🐱 Nyaa](https://nyaa.si/view/2144680) |
 | `Gakuen.Tokusou.Hikaruon.学園特捜ヒカルオン.1987.BDrip.1080p.HEVC.x265.10bit....` | **3716.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628342) • [🐱 Nyaa](https://nyaa.si/view/2144679) |
 | `[ToonsHub] To Be Winner S01E04 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **431.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/628338) • [🐱 Nyaa](https://nyaa.si/view/2144678) |
 | `[ToonsHub] To Be Winner S01E03 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **456.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/628339) • [🐱 Nyaa](https://nyaa.si/view/2144677) |
-| `[ToonsHub] To Be Winner S01E02 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **400.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628340) • [🐱 Nyaa](https://nyaa.si/view/2144675) |
-| `[ToonsHub] To Be Winner S01E01 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **463.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/628341) • [🐱 Nyaa](https://nyaa.si/view/2144674) |
-| `[ToonsHub] You and I Are Polar Opposites S02E06 1080p NF WEB-DL AAC...` | **880.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628334) • [🐱 Nyaa](https://nekobt.to/torrents/12981028884231) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E07 1080p NF WEB...` | **867.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/628335) • [🐱 Nyaa](https://nekobt.to/torrents/12981020737031) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E05 1080p NF WEB-DL A...` | **874.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/628336) • [🐱 Nyaa](https://nekobt.to/torrents/12981004044806) |
-| `[SubsMix] Bocchi the Rock! - Season 01 (S01) V4 (BD 1080p HEVC Opus...` | **24367.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628331) • [🐱 Nyaa](https://nyaa.si/view/2144666) |
-| `[VARYG] Saga of Tanya the Evil S02E02 A Strange Friendship 1080p CR...` | **1485.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/628326) • [🐱 Nyaa](https://nekobt.to/torrents/12979920470534) |
-| `[ToonsHub] Flaming Dodgeball Girl Danko S01E06 1080p AMZN WEB-DL DD...` | **883.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/628327) • [🐱 Nyaa](https://nekobt.to/torrents/12979903599876) |
-| `[Judas] Aishiteru Game o Owarasetai (I Want to End This Love Game) ...` | **2515.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628323) • [🐱 Nyaa](https://nyaa.si/view/2144660) |
-| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly ...` | **4627.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/628324) • [🐱 Nyaa](https://nyaa.si/view/2144659) |
-| `[Judas] Dia no Ace (Ace of the Diamond) (Season 04) [1080p][HEVC x2...` | **3698.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628325) • [🐱 Nyaa](https://nyaa.si/view/2144658) |
 
 ---
 <div align="center">
