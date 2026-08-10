@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.02.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.59.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] You and I Are Polar Opposites S02E06 1080p NF WEB-DL AAC...` | **880.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628334) • [🐱 Nyaa](https://nekobt.to/torrents/12981028884231) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E07 1080p NF WEB...` | **867.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/628335) • [🐱 Nyaa](https://nekobt.to/torrents/12981020737031) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E05 1080p NF WEB-DL A...` | **874.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/628336) • [🐱 Nyaa](https://nekobt.to/torrents/12981004044806) |
+| `[SubsMix] Bocchi the Rock! - Season 01 (S01) V4 (BD 1080p HEVC Opus...` | **24367.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628331) • [🐱 Nyaa](https://nyaa.si/view/2144666) |
 | `[VARYG] Saga of Tanya the Evil S02E02 A Strange Friendship 1080p CR...` | **1485.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/628326) • [🐱 Nyaa](https://nekobt.to/torrents/12979920470534) |
 | `[ToonsHub] Flaming Dodgeball Girl Danko S01E06 1080p AMZN WEB-DL DD...` | **883.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/628327) • [🐱 Nyaa](https://nekobt.to/torrents/12979903599876) |
 | `[Judas] Aishiteru Game o Owarasetai (I Want to End This Love Game) ...` | **2515.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628323) • [🐱 Nyaa](https://nyaa.si/view/2144660) |
@@ -41,11 +45,7 @@
 | `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **310.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628318) • [🐱 Nyaa](https://nyaa.si/view/2144654) |
 | `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **717.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/628319) • [🐱 Nyaa](https://nyaa.si/view/2144653) |
 | `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **215.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628320) • [🐱 Nyaa](https://nyaa.si/view/2144652) |
-| `[FrixySubs] Mushoku Tensei - S03E07 [1080p CR WEB-DL H.264 AAC] [Na...` | **1497.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/628315) • [🐱 Nyaa](https://nekobt.to/torrents/12978306856715) |
-| `[denisplay] Otome Kaijuu Carameliser - 06 [1080p] [AV1] (Weekly) (K...` | **400.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628309) • [🐱 Nyaa](https://nyaa.si/view/2144642) |
-| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 06 [1080p] [AV1] (Weekly)` | **103.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628311) • [🐱 Nyaa](https://nyaa.si/view/2144639) |
-| `[Ironclad] A Livid Lady's Guide to Getting Even: How I Crushed My H...` | **225.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/628308) • [🐱 Nyaa](https://nekobt.to/torrents/12977657855747) |
-| `[ToonsHub] The World is Dancing S01E07 1080p ADN WEB-DL AAC2.0 H.26...` | **644.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628307) • [🐱 Nyaa](https://nyaa.si/view/2144634) |
+| `[One Pace][140-145] Drum Island 05 [1080p][3CEF5DD3].mkv` | **1200.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628332) • [🐱 Nyaa](https://nyaa.si/view/2144644) |
 
 ---
 <div align="center">
