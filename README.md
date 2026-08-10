@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.01.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.45.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Chainsmoker Cat S01E06 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsund...` | **411.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/628135) • [🐱 Nyaa](https://nekobt.to/torrents/12972204537098) |
-| `Chainsmoker Cat S01E06 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsunder...` | **203.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628136) • [🐱 Nyaa](https://nekobt.to/torrents/12972201442313) |
-| `Sparks of Tomorrow S01E06 MULTi AD 1080p NF WEB-DL AAC2.0 H.265-Tsu...` | **676.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/628137) • [🐱 Nyaa](https://nekobt.to/torrents/12972111737860) |
-| `Sparks of Tomorrow S01E06 MULTi AD 1080p NF WEB-DL AAC2.0 AV1-Tsund...` | **374.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/628138) • [🐱 Nyaa](https://nekobt.to/torrents/12972103459855) |
-| `Daemons of the Shadow Realm S01E06 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **365.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/628139) • [🐱 Nyaa](https://nekobt.to/torrents/12972096379660) |
-| `Daemons of the Shadow Realm S01E06 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **317.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628140) • [🐱 Nyaa](https://nekobt.to/torrents/12972090165774) |
-| `Daemons of the Shadow Realm S01E05 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **330.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/628141) • [🐱 Nyaa](https://nekobt.to/torrents/12972085948936) |
-| `Daemons of the Shadow Realm S01E05 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **302.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628142) • [🐱 Nyaa](https://nekobt.to/torrents/12972082150661) |
-| `[ZeroBuild] HANEBADO! (S01) (Season 1) (BD 1080p HEVC 10-bit Opus) ...` | **33787.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628133) • [🐱 Nyaa](https://nyaa.si/view/2144408) |
-| `Sparks of Tomorrow S01E06 MULTi AD 1080p NF WEB-DL AAC2.0 x264-Tsun...` | **1051.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628131) • [🐱 Nyaa](https://nekobt.to/torrents/12971260149764) |
-| `Daemons of the Shadow Realm S01E06 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **967.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/628132) • [🐱 Nyaa](https://nekobt.to/torrents/12971251092739) |
-| `Daemons of the Shadow Realm S01E05 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **970.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628130) • [🐱 Nyaa](https://nekobt.to/torrents/12971245246989) |
-| `[RUBaDUB] Please Twins! (Complete) (1080p) (Dual Audio)` | **10770.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628129) • [🐱 Nyaa](https://nyaa.si/view/2144404) |
-| `Hokkaido.Gals.Are.Super.Adorable.S01.v2.1080p.BluRay.Dual-Audio.Opu...` | **16818.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628127) • [🐱 Nyaa](https://nyaa.si/view/2144401) |
-| `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **1003.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/628128) • [🐱 Nyaa](https://nyaa.si/view/2144399) |
+| `[VARYG] The World Is Dancing S01E07 In Between 1080p HIDI WEB-DL AA...` | **926.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628193) • [🐱 Nyaa](https://nekobt.to/torrents/12973959048971) |
+| `[SubsPlease] World Is Dancing - 07 (1080p) [A18F4EE4].mkv` | **926.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628186) • [🐱 Nyaa](https://nyaa.si/view/2144490) |
+| `[Erai-raws] World Is Dancing - 07 [1080p HIDIVE WEB-DL AVC AAC][67C...` | **926.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628190) • [🐱 Nyaa](https://nyaa.si/view/2144486) |
+| `[ToonsHub] The World Is Dancing S01E07 1080p HIDIVE WEB-DL AAC2.0 H...` | **926.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/628192) • [🐱 Nyaa](https://nyaa.si/view/2144484) |
+| `The World Is Dancing S01E07 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-...` | **644.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/628194) • [🐱 Nyaa](https://nekobt.to/torrents/12973834402819) |
+| `[FLE] Wistoria - Wand and Sword - S01 (BD 1080p HEVC Opus) [Dual Au...` | **43345.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/628185) • [🐱 Nyaa](https://nyaa.si/view/2144478) |
+| `[Onalrie] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shi...` | **187.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/628183) • [🐱 Nyaa](https://nekobt.to/torrents/12973621917442) |
+| `The Insipid Princes Furtive Grab for the Throne S01E06 The Knights ...` | **1406.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/628182) • [🐱 Nyaa](https://nyaa.si/view/2144476) |
+| `[ToonsHub] Skeleton Knight in Another World S02E06 1080p CR WEB-DL ...` | **1467.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/628179) • [🐱 Nyaa](https://nyaa.si/view/2144475) |
+| `[ToonsHub] The Insipid Princes Furtive Grab for the Throne S01E06 1...` | **1417.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/628180) • [🐱 Nyaa](https://nyaa.si/view/2144474) |
+| `[ASW] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **182.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/628181) • [🐱 Nyaa](https://nyaa.si/view/2144473) |
+| `The Insipid Prince's Furtive Grab for the Throne S01E06 SUBFRENCH 1...` | **1384.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628175) • [🐱 Nyaa](https://nekobt.to/torrents/12973443348235) |
+| `[SubsPlease] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 -...` | **1384.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628163) • [🐱 Nyaa](https://nyaa.si/view/2144466) |
+| `Skeleton Knight in Another World S02E06 SUBFRENCH 1080p CR WEB-DL A...` | **1389.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628177) • [🐱 Nyaa](https://nekobt.to/torrents/12973390643982) |
+| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 06 [1080...` | **1388.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/628165) • [🐱 Nyaa](https://nyaa.si/view/2144462) |
 
 ---
 <div align="center">
