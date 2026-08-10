@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.17.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.09.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Aishiteru Game o Owarasetai (I Want to End This Love Game) ...` | **2515.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628323) • [🐱 Nyaa](https://nyaa.si/view/2144660) |
+| `[Judas] Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly ...` | **4627.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/628324) • [🐱 Nyaa](https://nyaa.si/view/2144659) |
+| `[Judas] Dia no Ace (Ace of the Diamond) (Season 04) [1080p][HEVC x2...` | **3698.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628325) • [🐱 Nyaa](https://nyaa.si/view/2144658) |
 | `[Lazier] Bleach Thousand-Year Blood War - 43 (WEB 1080p EAC3) | Ble...` | **1383.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628322) • [🐱 Nyaa](https://nyaa.si/view/2144655) |
 | `[SubsNoJutsu] Goodbye, Lara - S01E06 (1080p WEBRip AAC x265) [ECF5A...` | **447.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/628321) • [🐱 Nyaa](https://nekobt.to/torrents/12978847503106) |
 | `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **310.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628318) • [🐱 Nyaa](https://nyaa.si/view/2144654) |
@@ -43,9 +46,6 @@
 | `[ToonsHub] The World is Dancing S01E07 1080p ADN WEB-DL AAC2.0 H.26...` | **644.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628307) • [🐱 Nyaa](https://nyaa.si/view/2144634) |
 | `[Breeze] Mushoku Tensei S03E07 [1080p AV1] | Jobless Reincarnation ...` | **778.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628304) • [🐱 Nyaa](https://nyaa.si/view/2144621) |
 | `[DKB] Grand Blue - S03E06 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **261.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628306) • [🐱 Nyaa](https://nyaa.si/view/2144632) |
-| `[ToonsHub] LIAR GAME S01E16 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1636.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628303) • [🐱 Nyaa](https://nyaa.si/view/2144631) |
-| `[Onalrie] Liar Game - S01E19 [1080p WEBRip AV1]` | **169.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628305) • [🐱 Nyaa](https://nekobt.to/torrents/12977368174085) |
-| `[DKB] World Is Dancing - S01E07[1080p][HEVC x265 10bit][weekly]` | **288.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/628299) • [🐱 Nyaa](https://nyaa.si/view/2144630) |
 
 ---
 <div align="center">
