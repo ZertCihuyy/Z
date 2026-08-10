@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.35.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.35.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] One Piece - 1173 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **531.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628092) • [🐱 Nyaa](https://nyaa.si/view/2144307) |
+| `[ASW] Sekai Saikyou no Kouei - 06 [1080p HEVC x265 10Bit][AAC]` | **202.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628091) • [🐱 Nyaa](https://nyaa.si/view/2144306) |
+| `[Onalrie] Bleach Sennen Kessen Hen - Kashin Tan - E01 [1080p WEBRip...` | **397.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/628093) • [🐱 Nyaa](https://onalrie.app/torrent/492a6807-4749-4eee-a6db-f097691ccf48) |
+| `[Erai-raws] Mao - 18 [1080p DSNP WEBRip HEVC AAC][MultiSub][A3D42C02]` | **349.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628090) • [🐱 Nyaa](https://nekobt.to/torrents/12961471861248) |
+| `[ASW] Sayonara Lara - 06 [1080p HEVC x265 10Bit][AAC]` | **223.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628089) • [🐱 Nyaa](https://nyaa.si/view/2144296) |
+| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 48 (S04E12)...` | **1157.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628088) • [🐱 Nyaa](https://nyaa.si/view/2144294) |
+| `[Onalrie] Bleach Sennen Kessen Hen - Kashin Tan - E02 [1080p WEBRip...` | **393.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628087) • [🐱 Nyaa](https://onalrie.app/torrent/1ca7e1bf-ba7e-4e1e-9071-e50574ac043d) |
 | `[ASW] Kuroneko to Majo no Kyoushitsu - 18 [1080p HEVC x265 10Bit][AAC]` | **440.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628086) • [🐱 Nyaa](https://nyaa.si/view/2144289) |
 | `[ASW] Hyakkano - 30 [1080p HEVC x265 10Bit][AAC]` | **331.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628085) • [🐱 Nyaa](https://nyaa.si/view/2144288) |
 | `[Erai-raws] Mao - 17 [1080p DSNP WEBRip HEVC AAC][MultiSub][44B21DFB]` | **400.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628083) • [🐱 Nyaa](https://nekobt.to/torrents/12960666114053) |
@@ -38,13 +45,6 @@
 | `[Onalrie] Mao - S01E18 [1080p WEBRip AV1]` | **197.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/628081) • [🐱 Nyaa](https://nekobt.to/torrents/12960064930316) |
 | `[Erai-raws] One Piece - 1173 [1080p CR WEBRip HEVC AAC][MultiSub][A...` | **802.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628080) • [🐱 Nyaa](https://nyaa.si/view/2144283) |
 | `[Onalrie] Mao - S01E19 [1080p WEBRip AV1]` | **182.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628079) • [🐱 Nyaa](https://nekobt.to/torrents/12959631246346) |
-| `[Erai-raws] One Piece - 1173 [1080p CR WEB-DL AVC AAC][MultiSub][4A...` | **1338.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628076) • [🐱 Nyaa](https://nyaa.si/view/2144277) |
-| `[TSPlease] Though I Am an Inept Villainess S01E05 1080p CR WEB-DL A...` | **1432.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628069) • [🐱 Nyaa](https://nekobt.to/torrents/12959259099148) |
-| `[Erai-raws] Digimon Beatbreak - 42 [1080p CR WEBRip HEVC AAC][Multi...` | **579.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/628073) • [🐱 Nyaa](https://nyaa.si/view/2144274) |
-| `[Erai-raws] Digimon Beatbreak - 42 (REPACK) [1080p CR WEB-DL AVC AA...` | **1201.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/628075) • [🐱 Nyaa](https://nyaa.si/view/2144271) |
-| `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E05 1080p CR WEB-D...` | **1786.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/628071) • [🐱 Nyaa](https://nekobt.to/torrents/12959237597188) |
-| `[TSPlease] Iron Wok Jan S01E06 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1412.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628068) • [🐱 Nyaa](https://nyaa.si/view/2144267) |
-| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 03 [1080p DSNP...` | **1005.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628066) • [🐱 Nyaa](https://nyaa.si/view/2144264) |
 
 ---
 <div align="center">
