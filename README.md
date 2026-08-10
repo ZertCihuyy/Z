@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.13.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.07.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Meitantei Precure - S01E28 [1080p WEBRip AV1]` | **579.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/628126) • [🐱 Nyaa](https://nekobt.to/torrents/12968154603272) |
+| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 03 [1080p DSNP...` | **517.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628125) • [🐱 Nyaa](https://nyaa.si/view/2144389) |
 | `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 02 [1080p DSNP...` | **596.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/628124) • [🐱 Nyaa](https://nyaa.si/view/2144373) |
 | `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 01 [1080p DSNP...` | **615.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/628122) • [🐱 Nyaa](https://nyaa.si/view/2144371) |
 | `[Kotobuki] Tenmaku no Jaadugar 07 [1080p HEVC Multisub] | Jaadugar:...` | **294.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/628120) • [🐱 Nyaa](https://nyaa.si/view/2144361) |
@@ -43,8 +45,6 @@
 | `[Doomdos] - To Be Winner - 4 [1080p IQ WEB-DL]` | **324.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/628114) • [🐱 Nyaa](https://nyaa.si/view/2144334) |
 | `[Doomdos] - Lingwu Continent - 205 [1080p IQ WEB-DL]` | **204.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/628110) • [🐱 Nyaa](https://nyaa.si/view/2144333) |
 | `Star Detective Precure S01E28 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.26...` | **1309.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/628108) • [🐱 Nyaa](https://nekobt.to/torrents/12962875032067) |
-| `[ASW] One Piece - 1173 [1080p HEVC x265 10Bit][AAC]` | **543.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628107) • [🐱 Nyaa](https://nyaa.si/view/2144328) |
-| `[ToonsHub] Star Detective Precure S01E28 1080p CR WEB-DL AAC2.0 H.2...` | **1403.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/628101) • [🐱 Nyaa](https://nekobt.to/torrents/12962804934666) |
 
 ---
 <div align="center">
