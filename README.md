@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.04.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.17.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Lazier] Bleach Thousand-Year Blood War - 43 (WEB 1080p EAC3) | Ble...` | **1383.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628322) • [🐱 Nyaa](https://nyaa.si/view/2144655) |
+| `[SubsNoJutsu] Goodbye, Lara - S01E06 (1080p WEBRip AAC x265) [ECF5A...` | **447.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/628321) • [🐱 Nyaa](https://nekobt.to/torrents/12978847503106) |
+| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **310.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628318) • [🐱 Nyaa](https://nyaa.si/view/2144654) |
+| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **717.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/628319) • [🐱 Nyaa](https://nyaa.si/view/2144653) |
+| `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **215.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628320) • [🐱 Nyaa](https://nyaa.si/view/2144652) |
+| `[FrixySubs] Mushoku Tensei - S03E07 [1080p CR WEB-DL H.264 AAC] [Na...` | **1497.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/628315) • [🐱 Nyaa](https://nekobt.to/torrents/12978306856715) |
+| `[denisplay] Otome Kaijuu Carameliser - 06 [1080p] [AV1] (Weekly) (K...` | **400.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628309) • [🐱 Nyaa](https://nyaa.si/view/2144642) |
+| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 06 [1080p] [AV1] (Weekly)` | **103.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628311) • [🐱 Nyaa](https://nyaa.si/view/2144639) |
 | `[Ironclad] A Livid Lady's Guide to Getting Even: How I Crushed My H...` | **225.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/628308) • [🐱 Nyaa](https://nekobt.to/torrents/12977657855747) |
 | `[ToonsHub] The World is Dancing S01E07 1080p ADN WEB-DL AAC2.0 H.26...` | **644.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628307) • [🐱 Nyaa](https://nyaa.si/view/2144634) |
 | `[Breeze] Mushoku Tensei S03E07 [1080p AV1] | Jobless Reincarnation ...` | **778.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628304) • [🐱 Nyaa](https://nyaa.si/view/2144621) |
@@ -38,14 +46,6 @@
 | `[ToonsHub] LIAR GAME S01E16 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1636.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628303) • [🐱 Nyaa](https://nyaa.si/view/2144631) |
 | `[Onalrie] Liar Game - S01E19 [1080p WEBRip AV1]` | **169.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628305) • [🐱 Nyaa](https://nekobt.to/torrents/12977368174085) |
 | `[DKB] World Is Dancing - S01E07[1080p][HEVC x265 10bit][weekly]` | **288.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/628299) • [🐱 Nyaa](https://nyaa.si/view/2144630) |
-| `[Judas] Liar Game - S01E19 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **263.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628300) • [🐱 Nyaa](https://nyaa.si/view/2144629) |
-| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E06 [1080p]...` | **263.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/628301) • [🐱 Nyaa](https://nyaa.si/view/2144628) |
-| `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E06 [1...` | **384.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/628302) • [🐱 Nyaa](https://nyaa.si/view/2144627) |
-| `[DKB] Digimon Beatbreak - S01E42 [1080p][HEVC x265 10bit][Multi-Sub...` | **611.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/628297) • [🐱 Nyaa](https://nyaa.si/view/2144626) |
-| `[DKB] Digimon Beatbreak - S01E41 [1080p][HEVC x265 10bit][Multi-Sub...` | **592.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628298) • [🐱 Nyaa](https://nyaa.si/view/2144625) |
-| `One Piece EP1173 REPACK2 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsu...` | **767.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/628295) • [🐱 Nyaa](https://nekobt.to/torrents/12977136204032) |
-| `[Onalrie] Grand Blue - S03E06 [1080p WEBRip AV1]` | **233.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628296) • [🐱 Nyaa](https://nekobt.to/torrents/12977008062977) |
-| `[Trix] Sparks of Tomorrow S01E06 1080p NF WEB-DL AAC2.0 AV1 (Dual-A...` | **232.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/628294) • [🐱 Nyaa](https://nekobt.to/torrents/12976938769679) |
 
 ---
 <div align="center">
