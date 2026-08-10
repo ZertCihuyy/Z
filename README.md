@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.45.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.02.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] The World Is Dancing S01E07 In Between 1080p HIDI WEB-DL AA...` | **926.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628193) • [🐱 Nyaa](https://nekobt.to/torrents/12973959048971) |
-| `[SubsPlease] World Is Dancing - 07 (1080p) [A18F4EE4].mkv` | **926.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628186) • [🐱 Nyaa](https://nyaa.si/view/2144490) |
-| `[Erai-raws] World Is Dancing - 07 [1080p HIDIVE WEB-DL AVC AAC][67C...` | **926.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628190) • [🐱 Nyaa](https://nyaa.si/view/2144486) |
-| `[ToonsHub] The World Is Dancing S01E07 1080p HIDIVE WEB-DL AAC2.0 H...` | **926.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/628192) • [🐱 Nyaa](https://nyaa.si/view/2144484) |
-| `The World Is Dancing S01E07 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-...` | **644.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/628194) • [🐱 Nyaa](https://nekobt.to/torrents/12973834402819) |
-| `[FLE] Wistoria - Wand and Sword - S01 (BD 1080p HEVC Opus) [Dual Au...` | **43345.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/628185) • [🐱 Nyaa](https://nyaa.si/view/2144478) |
-| `[Onalrie] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shi...` | **187.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/628183) • [🐱 Nyaa](https://nekobt.to/torrents/12973621917442) |
-| `The Insipid Princes Furtive Grab for the Throne S01E06 The Knights ...` | **1406.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/628182) • [🐱 Nyaa](https://nyaa.si/view/2144476) |
-| `[ToonsHub] Skeleton Knight in Another World S02E06 1080p CR WEB-DL ...` | **1467.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/628179) • [🐱 Nyaa](https://nyaa.si/view/2144475) |
-| `[ToonsHub] The Insipid Princes Furtive Grab for the Throne S01E06 1...` | **1417.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/628180) • [🐱 Nyaa](https://nyaa.si/view/2144474) |
-| `[ASW] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **182.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/628181) • [🐱 Nyaa](https://nyaa.si/view/2144473) |
-| `The Insipid Prince's Furtive Grab for the Throne S01E06 SUBFRENCH 1...` | **1384.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628175) • [🐱 Nyaa](https://nekobt.to/torrents/12973443348235) |
-| `[SubsPlease] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 -...` | **1384.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628163) • [🐱 Nyaa](https://nyaa.si/view/2144466) |
-| `Skeleton Knight in Another World S02E06 SUBFRENCH 1080p CR WEB-DL A...` | **1389.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628177) • [🐱 Nyaa](https://nekobt.to/torrents/12973390643982) |
-| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 06 [1080...` | **1388.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/628165) • [🐱 Nyaa](https://nyaa.si/view/2144462) |
+| `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **557.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628239) • [🐱 Nyaa](https://nyaa.si/view/2144538) |
+| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **556.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/628234) • [🐱 Nyaa](https://nekobt.to/torrents/12974990689799) |
+| `Flaming Dodgeball Girl Danko S01E06 SUBFRENCH 1080p ADN WEB-DL AAC2...` | **735.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628236) • [🐱 Nyaa](https://nekobt.to/torrents/12974964558858) |
+| `[Shridhuu][1080p] Swallowed Star - 吞噬星空 (Tunshi Xingkong) - EP236` | **592.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628231) • [🐱 Nyaa](https://nyaa.si/view/2144532) |
+| `[Judas] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton...` | **398.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628232) • [🐱 Nyaa](https://nyaa.si/view/2144531) |
+| `[ToonsHub] A Livid Ladys Guide to Getting Even How I Crushed My Hom...` | **1422.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628229) • [🐱 Nyaa](https://nyaa.si/view/2144529) |
+| `[Onalrie] World Is Dancing - S01E07 [1080p WEBRip AV1]` | **209.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/628238) • [🐱 Nyaa](https://nekobt.to/torrents/12974857513476) |
+| `A Livid Ladys Guide to Getting Even How I Crushed My Homeland with ...` | **1409.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/628230) • [🐱 Nyaa](https://nyaa.si/view/2144528) |
+| `[VARYG] The Forsaken Saintess and Her Foodie Roadtrip in Another Wo...` | **886.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/628226) • [🐱 Nyaa](https://nekobt.to/torrents/12974808080899) |
+| `[SubsPlease] Suterare Seijo no Isekai Gohan Tabi - 06 (1080p) [8DE8...` | **886.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/628211) • [🐱 Nyaa](https://nyaa.si/view/2144526) |
+| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **556.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628215) • [🐱 Nyaa](https://nyaa.si/view/2144522) |
+| `[ToonsHub] The Forsaken Saintess and Her Foodie Roadtrip in Another...` | **887.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628216) • [🐱 Nyaa](https://nyaa.si/view/2144521) |
+| `[Erai-raws] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Ca...` | **889.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/628218) • [🐱 Nyaa](https://nyaa.si/view/2144519) |
+| `A Livid Lady's Guide to Getting Even How I Crushed My Homeland with...` | **1389.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/628227) • [🐱 Nyaa](https://nekobt.to/torrents/12974774126338) |
+| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **1392.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/628221) • [🐱 Nyaa](https://nyaa.si/view/2144513) |
 
 ---
 <div align="center">
