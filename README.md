@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.35.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.00.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] One Piece - 1173 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **531.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628092) • [🐱 Nyaa](https://nyaa.si/view/2144307) |
-| `[ASW] Sekai Saikyou no Kouei - 06 [1080p HEVC x265 10Bit][AAC]` | **202.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628091) • [🐱 Nyaa](https://nyaa.si/view/2144306) |
-| `[Onalrie] Bleach Sennen Kessen Hen - Kashin Tan - E01 [1080p WEBRip...` | **397.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/628093) • [🐱 Nyaa](https://onalrie.app/torrent/492a6807-4749-4eee-a6db-f097691ccf48) |
-| `[Erai-raws] Mao - 18 [1080p DSNP WEBRip HEVC AAC][MultiSub][A3D42C02]` | **349.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628090) • [🐱 Nyaa](https://nekobt.to/torrents/12961471861248) |
-| `[ASW] Sayonara Lara - 06 [1080p HEVC x265 10Bit][AAC]` | **223.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628089) • [🐱 Nyaa](https://nyaa.si/view/2144296) |
-| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 48 (S04E12)...` | **1157.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628088) • [🐱 Nyaa](https://nyaa.si/view/2144294) |
-| `[Onalrie] Bleach Sennen Kessen Hen - Kashin Tan - E02 [1080p WEBRip...` | **393.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628087) • [🐱 Nyaa](https://onalrie.app/torrent/1ca7e1bf-ba7e-4e1e-9071-e50574ac043d) |
-| `[ASW] Kuroneko to Majo no Kyoushitsu - 18 [1080p HEVC x265 10Bit][AAC]` | **440.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628086) • [🐱 Nyaa](https://nyaa.si/view/2144289) |
-| `[ASW] Hyakkano - 30 [1080p HEVC x265 10Bit][AAC]` | **331.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628085) • [🐱 Nyaa](https://nyaa.si/view/2144288) |
-| `[Erai-raws] Mao - 17 [1080p DSNP WEBRip HEVC AAC][MultiSub][44B21DFB]` | **400.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628083) • [🐱 Nyaa](https://nekobt.to/torrents/12960666114053) |
-| `[Onalrie] Mao - S01E17 [1080p WEBRip AV1]` | **245.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628084) • [🐱 Nyaa](https://nekobt.to/torrents/12960512696072) |
-| `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E06 [1080p][HEV...` | **632.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628082) • [🐱 Nyaa](https://nyaa.si/view/2144285) |
-| `[Onalrie] Mao - S01E18 [1080p WEBRip AV1]` | **197.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/628081) • [🐱 Nyaa](https://nekobt.to/torrents/12960064930316) |
-| `[Erai-raws] One Piece - 1173 [1080p CR WEBRip HEVC AAC][MultiSub][A...` | **802.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628080) • [🐱 Nyaa](https://nyaa.si/view/2144283) |
-| `[Onalrie] Mao - S01E19 [1080p WEBRip AV1]` | **182.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628079) • [🐱 Nyaa](https://nekobt.to/torrents/12959631246346) |
+| `[BlackRose] Rich Girl Caretaker - S01E06 (WEB 1080p HEVC 10-bit EAC...` | **1286.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628115) • [🐱 Nyaa](https://nekobt.to/torrents/12963392599816) |
+| `[Doomdos] - UNDER THE GATE - 6 [1080p IQ WEB-DL]` | **153.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/628111) • [🐱 Nyaa](https://nyaa.si/view/2144337) |
+| `[ToonsHub] One Piece EP1173 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **421.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628113) • [🐱 Nyaa](https://nyaa.si/view/2144335) |
+| `[Doomdos] - To Be Winner - 4 [1080p IQ WEB-DL]` | **324.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/628114) • [🐱 Nyaa](https://nyaa.si/view/2144334) |
+| `[Doomdos] - Lingwu Continent - 205 [1080p IQ WEB-DL]` | **204.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/628110) • [🐱 Nyaa](https://nyaa.si/view/2144333) |
+| `Star Detective Precure S01E28 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.26...` | **1309.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/628108) • [🐱 Nyaa](https://nekobt.to/torrents/12962875032067) |
+| `[ASW] One Piece - 1173 [1080p HEVC x265 10Bit][AAC]` | **543.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628107) • [🐱 Nyaa](https://nyaa.si/view/2144328) |
+| `[ToonsHub] Star Detective Precure S01E28 1080p CR WEB-DL AAC2.0 H.2...` | **1403.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/628101) • [🐱 Nyaa](https://nekobt.to/torrents/12962804934666) |
+| `[Erai-raws] Meitantei Precure - 28 [1080p CR WEBRip HEVC AAC][Multi...` | **778.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/628102) • [🐱 Nyaa](https://nekobt.to/torrents/12962801123328) |
+| `[Erai-raws] Meitantei Precure - 28 [1080p CR WEB-DL AVC AAC][MultiS...` | **1316.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/628105) • [🐱 Nyaa](https://nekobt.to/torrents/12962780305677) |
+| `[Anarchy] High School Fleet S1 (BD 1080p HEVC AAC)` | **29839.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/628106) • [🐱 Nyaa](https://nekobt.to/torrents/12962700854286) |
+| `[Onalrie] One Piece - E1173 Rev. 2 [1080p WEBRip AV1]` | **457.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/628100) • [🐱 Nyaa](https://nekobt.to/torrents/12962516787719) |
+| `[ASW] Azur Lane - Bisoku Zenshin! S2 - 06 [1080p HEVC x265 10Bit][AAC]` | **133.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/628099) • [🐱 Nyaa](https://nyaa.si/view/2144320) |
+| `[Erai-raws] Mao - 19 [1080p DSNP WEBRip HEVC AAC][MultiSub][AA06D435]` | **309.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628098) • [🐱 Nyaa](https://nekobt.to/torrents/12962400171265) |
+| `[ASW] Futsutsuka na Akujo dewa Gozaimasu ga - 05 [1080p HEVC x265 1...` | **249.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/628097) • [🐱 Nyaa](https://nyaa.si/view/2144310) |
 
 ---
 <div align="center">
