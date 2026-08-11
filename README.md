@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.06.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.57.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] FALSE MEMORY S01E04 REPACK 1080p BILI WEB-DL AAC2.0 H.26...` | **766.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/628404) • [🐱 Nyaa](https://nyaa.si/view/2144802) |
+| `[Chihiro] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - ...` | **1328.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628403) • [🐱 Nyaa](https://nyaa.si/view/2144797) |
+| `Young Ladies Dont Play Fighting Games S01E06 A Noble Duel 1080p CR ...` | **1410.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/628402) • [🐱 Nyaa](https://nyaa.si/view/2144796) |
+| `[ToonsHub] Young Ladies Dont Play Fighting Games S01E06 1080p CR WE...` | **1421.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/628399) • [🐱 Nyaa](https://nekobt.to/torrents/12994210439426) |
+| `[SubsPlease] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai...` | **1384.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628393) • [🐱 Nyaa](https://nyaa.si/view/2144794) |
+| `Young Ladies Don't Play Fighting Games S01E06 SUBFRENCH 1080p CR WE...` | **1387.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/628400) • [🐱 Nyaa](https://nekobt.to/torrents/12994129508105) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **1393.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628398) • [🐱 Nyaa](https://nyaa.si/view/2144787) |
+| `[Gecko] Rilakkuma - S01E19 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **46.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628392) • [🐱 Nyaa](https://nekobt.to/torrents/12993844848140) |
 | `[LbE3L] BLACK TORCH S01E06 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audi...` | **500.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628391) • [🐱 Nyaa](https://nekobt.to/torrents/12993544023041) |
 | `[Kuzen] Kimetsu no Yaiba - Mugen Jou-hen - Daiisshou - Akaza Sairai...` | **5406.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628390) • [🐱 Nyaa](https://nyaa.si/view/2144780) |
 | `[Gecko] False Memory - S01E04 (记忆管理局; Jiyi Guanli Ju (2026); The Me...` | **770.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628388) • [🐱 Nyaa](https://nyaa.si/view/2144777) |
@@ -38,14 +46,6 @@
 | `[RUBaDUB] Lupin III vs. Cat's Eye (Movie) (1080p) (Dual Audio)` | **4502.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628386) • [🐱 Nyaa](https://nyaa.si/view/2144773) |
 | `[Onalrie] Crowned in a Hundred Days - S01E15 (CA) [1080p WEBRip AV1]` | **101.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/628385) • [🐱 Nyaa](https://nekobt.to/torrents/12990431347714) |
 | `[RUBaDUB] I Was Reincarnated as the 7th Prince (S1 Complete) (1080p...` | **11852.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/628384) • [🐱 Nyaa](https://nyaa.si/view/2144762) |
-| `[GalaxyCauldron] Bleach Thousand-Year Blood War - 43 (1080p WEB-DL ...` | **1366.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628383) • [🐱 Nyaa](https://nekobt.to/torrents/12989915243268) |
-| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 06 (1080p) [0KH4RUH1]` | **882.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/628382) • [🐱 Nyaa](https://nyaa.si/view/2144761) |
-| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **358.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/628381) • [🐱 Nyaa](https://nekobt.to/torrents/12989703059971) |
-| `[Anime Time] Bleach: Thousand-Year Blood War - 43 V2 [1080p][HEVC 1...` | **653.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/628380) • [🐱 Nyaa](https://nyaa.si/view/2144759) |
-| `[CicakRumah] Koupen-chan - S01E68 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **99.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628379) • [🐱 Nyaa](https://nyaa.si/view/2144758) |
-| `[Beltraz] Girlfriend, Girlfriend Season 2 (2023) (BD 1080p x264 FLA...` | **29484.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/628378) • [🐱 Nyaa](https://nekobt.to/torrents/12988454238983) |
-| `[Sokudo] Bleach Thousand-Year Blood War S17E43 [1080p WEBRip EAC3 A...` | **424.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628376) • [🐱 Nyaa](https://nyaa.si/view/2144755) |
-| `[Breeze] Bleach Thousand-Year Blood War S17E43 [1080p WEBRip EAC3 A...` | **795.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628377) • [🐱 Nyaa](https://nyaa.si/view/2144754) |
 
 ---
 <div align="center">
