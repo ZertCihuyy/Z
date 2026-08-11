@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.34.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.53.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Love Magic Grocery - S01 (万能恋爱杂货店; Wanneng Lian Ai Zahuo Di...` | **3265.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628359) • [🐱 Nyaa](https://nyaa.si/view/2144717) |
 | `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **812.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628355) • [🐱 Nyaa](https://nyaa.si/view/2144693) |
 | `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **358.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628352) • [🐱 Nyaa](https://nekobt.to/torrents/12982860341259) |
 | `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 06 [1080...` | **349.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/628353) • [🐱 Nyaa](https://nekobt.to/torrents/12982850534924) |
@@ -45,7 +46,6 @@
 | `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **233.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628344) • [🐱 Nyaa](https://nyaa.si/view/2144680) |
 | `Gakuen.Tokusou.Hikaruon.学園特捜ヒカルオン.1987.BDrip.1080p.HEVC.x265.10bit....` | **3716.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628342) • [🐱 Nyaa](https://nyaa.si/view/2144679) |
 | `[ToonsHub] To Be Winner S01E04 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **431.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/628338) • [🐱 Nyaa](https://nyaa.si/view/2144678) |
-| `[ToonsHub] To Be Winner S01E03 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **456.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/628339) • [🐱 Nyaa](https://nyaa.si/view/2144677) |
 
 ---
 <div align="center">
