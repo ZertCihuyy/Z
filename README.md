@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.38.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.47.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] The Ghost in the Shell - S01E06 [1080p][HEVC x265 10bit][Dual...` | **980.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/628501) • [🐱 Nyaa](https://nyaa.si/view/2144972) |
+| `[DKB] Tefuda ga Oome no Victoria - S01E06 [1080p][HEVC x265 10bit][...` | **257.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/628500) • [🐱 Nyaa](https://nyaa.si/view/2144966) |
 | `[Ironclad] THE GHOST in the SHELL - S01E06 (WEB 1080p AV1) | THE GH...` | **465.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628499) • [🐱 Nyaa](https://nekobt.to/torrents/13000419304712) |
 | `[ASW] Sora wa Akai Kawa no Hotori - 06 [1080p HEVC x265 10Bit][AAC]` | **260.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628498) • [🐱 Nyaa](https://nyaa.si/view/2144960) |
 | `[Onalrie] Sora wa Akai Kawa no Hotori - S01E06 [1080p WEBRip AV1]` | **216.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628497) • [🐱 Nyaa](https://onalrie.app/torrent/590dd0be-087f-4aaf-a4b7-163cf838c867) |
@@ -46,8 +48,6 @@
 | `[Onalrie] Yoroi-Shinden Samurai Troopers - S02E06 [1080p WEBRip AV1]` | **394.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628484) • [🐱 Nyaa](https://onalrie.app/torrent/ddd73490-1c15-4820-b071-e17dc344ec0b) |
 | `Yoroi Shinden Samurai Troopers S01E18 Comeback 1080p CR WEB-DL AAC2...` | **1407.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/628483) • [🐱 Nyaa](https://nyaa.si/view/2144918) |
 | `[ASW] Tefuda ga Oome no Victoria - 06 [1080p HEVC x265 10Bit][AAC]` | **237.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628482) • [🐱 Nyaa](https://nyaa.si/view/2144913) |
-| `Genmu.Genki.Leda.幻夢戦記.1985.BDrip.1080p.x264.AC3.MULTi-Tinosoft.mkv` | **1222.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/628481) • [🐱 Nyaa](https://nyaa.si/view/2144911) |
-| `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **232.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/628480) • [🐱 Nyaa](https://nyaa.si/view/2144910) |
 
 ---
 <div align="center">
