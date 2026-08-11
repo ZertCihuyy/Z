@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.23.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.36.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Kimi ga Shinu made Koi o Shitai (I Want to Love You Till Yo...` | **182.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628426) • [🐱 Nyaa](https://nyaa.si/view/2144828) |
-| `[Onalrie] Kimi ga Shinu made Koi wo Shitai - S01E06 [1080p WEBRip AV1]` | **163.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/628425) • [🐱 Nyaa](https://nekobt.to/torrents/12995752351744) |
-| `[ASW] Kimi ga Shinu made Koi wo Shitai - 06 [1080p HEVC x265 10Bit]...` | **175.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/628423) • [🐱 Nyaa](https://nyaa.si/view/2144826) |
-| `[Gecko] Saved by the Ice Cold Prince's Embrace - S01E06 (身代わり令嬢を救った...` | **91.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628424) • [🐱 Nyaa](https://nyaa.si/view/2144825) |
-| `[ToonsHub] Saved by the Ice Cold Princes Embrace S01E06 1080p AMZN ...` | **334.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628421) • [🐱 Nyaa](https://nekobt.to/torrents/12995603515652) |
-| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E03 (1080p BD AAC x265...` | **533.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628422) • [🐱 Nyaa](https://nekobt.to/torrents/12995491387149) |
-| `[Gecko] GROW UP SHOW -Sunflower Circus- - S01E06 (グロウアップショウ ～ひまわりのサ...` | **705.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628420) • [🐱 Nyaa](https://nekobt.to/torrents/12995273682691) |
-| `I Want to Love You Till Your Dying Day S01E06 Welcome Home 1080p CR...` | **1407.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/628419) • [🐱 Nyaa](https://nyaa.si/view/2144819) |
-| `[Gecko] The World Is Dancing - S01E07 (ワールド イズ ダンシング; World Is Danc...` | **676.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628418) • [🐱 Nyaa](https://nyaa.si/view/2144818) |
-| `[ToonsHub] I Want to Love You Till Your Dying Day S01E06 1080p CR W...` | **1417.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/628414) • [🐱 Nyaa](https://nyaa.si/view/2144817) |
-| `I Want to Love You Till Your Dying Day S01E06 SUBFRENCH 1080p CR WE...` | **1385.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628409) • [🐱 Nyaa](https://nekobt.to/torrents/12995082061572) |
-| `[SubsPlease] Kimi ga Shinu made Koi wo Shitai - 06 (1080p) [724A34B...` | **1380.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/628415) • [🐱 Nyaa](https://nyaa.si/view/2144814) |
-| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 06 [1080p CR WEB-DL ...` | **1387.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628413) • [🐱 Nyaa](https://nekobt.to/torrents/12995035246849) |
-| `[Judas] Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai (Yo...` | **359.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/628408) • [🐱 Nyaa](https://nyaa.si/view/2144806) |
-| `[Onalrie] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai - ...` | **311.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628407) • [🐱 Nyaa](https://nekobt.to/torrents/12994788110343) |
+| `THE GHOST IN THE SHELL S01E06 MULTi 1080p AMZN WEB-DL DDP2.0 H.265-...` | **666.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628445) • [🐱 Nyaa](https://nekobt.to/torrents/12996952227328) |
+| `THE GHOST IN THE SHELL S01E06 MULTi 1080p AMZN WEB-DL DDP2.0 H.264-...` | **1742.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628446) • [🐱 Nyaa](https://nekobt.to/torrents/12996941225743) |
+| `[ToonsHub] False Memory S01E03 REPACK 1080p BSITE WEB-DL AAC2.0 H.2...` | **416.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628447) • [🐱 Nyaa](https://nekobt.to/torrents/12996930674951) |
+| `[ToonsHub] FALSE MEMORY S01E04 1080p BILI WEB-DL AAC2.0 H.264 (Jiyi...` | **452.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628444) • [🐱 Nyaa](https://nyaa.si/view/2144858) |
+| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 06 [1080p CR WEBRip ...` | **370.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628440) • [🐱 Nyaa](https://nyaa.si/view/2144853) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **510.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628441) • [🐱 Nyaa](https://nyaa.si/view/2144852) |
+| `[Judas] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagas...` | **179.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628442) • [🐱 Nyaa](https://nyaa.si/view/2144850) |
+| `[Onalrie] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nag...` | **159.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/628439) • [🐱 Nyaa](https://nekobt.to/torrents/12996603852551) |
+| `[ASW] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu ...` | **170.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/628438) • [🐱 Nyaa](https://nyaa.si/view/2144849) |
+| `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E06 [1080p][HEVC x265 1...` | **260.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/628437) • [🐱 Nyaa](https://nyaa.si/view/2144845) |
+| `[ToonsHub] The Oblivious Saint Cant Contain Her Power S01E07 1080p ...` | **1501.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628427) • [🐱 Nyaa](https://nyaa.si/view/2144844) |
+| `The Oblivious Saint Cant Contain Her Power S01E07 Episode 7 The Wav...` | **1491.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628428) • [🐱 Nyaa](https://nyaa.si/view/2144843) |
+| `The Oblivious Saint Can't Contain Her Power S01E07 SUBFRENCH 1080p ...` | **1470.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628435) • [🐱 Nyaa](https://nekobt.to/torrents/12995991079686) |
+| `[SubsPlease] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare ...` | **1464.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628429) • [🐱 Nyaa](https://nyaa.si/view/2144840) |
+| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **1473.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628434) • [🐱 Nyaa](https://nyaa.si/view/2144835) |
 
 ---
 <div align="center">
