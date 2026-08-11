@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.36.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.40.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Yoroi-Shinden Samurai Troopers S01E18 1080p CR WEB-DL AA...` | **1717.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/628472) • [🐱 Nyaa](https://nekobt.to/torrents/12997440863491) |
+| `[ToonsHub] Victoria of Many Faces S01E06 1080p CR WEB-DL AAC2.0 H.2...` | **1375.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628473) • [🐱 Nyaa](https://nekobt.to/torrents/12997437631744) |
+| `Yoroi Shinden Samurai Troopers S01E18 SUBFRENCH 1080p CR WEB-DL AAC...` | **1723.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628474) • [🐱 Nyaa](https://nekobt.to/torrents/12997435189007) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 06 [1080p CR WE...` | **1728.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628467) • [🐱 Nyaa](https://nyaa.si/view/2144900) |
+| `Victoria of Many Faces S01E06 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1381.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/628476) • [🐱 Nyaa](https://nekobt.to/torrents/12997366641932) |
+| `Victoria of Many Faces S01E06 Think About This Childs Happiness 108...` | **1386.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628468) • [🐱 Nyaa](https://nyaa.si/view/2144894) |
+| `[SubsPlease] Tefuda ga Oome no Victoria - 06 (1080p) [3633FF03].mkv` | **1376.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628469) • [🐱 Nyaa](https://nyaa.si/view/2144892) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 06 [1080p CR WEB-DL AVC AA...` | **1385.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/628461) • [🐱 Nyaa](https://nyaa.si/view/2144886) |
+| `[SubsPlease] Yoroi Shin Den Samurai Troopers - 18 (1080p) [7D6F05E1...` | **1394.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/628462) • [🐱 Nyaa](https://nyaa.si/view/2144884) |
+| `[ToonsHub] Victoria of Many Faces S01E06 1080p BILI WEB-DL AAC2.0 H...` | **252.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628463) • [🐱 Nyaa](https://nyaa.si/view/2144881) |
+| `[VARYG] THE GHOST IN THE SHELL S01E06 EPISODE 06 DUMB BARTER 1080p ...` | **2017.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628458) • [🐱 Nyaa](https://nekobt.to/torrents/12997030742787) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 06 [1080p AMZN WEB-DL AVC EAC...` | **1703.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/628455) • [🐱 Nyaa](https://nyaa.si/view/2144874) |
+| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **365.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/628449) • [🐱 Nyaa](https://nyaa.si/view/2144871) |
 | `THE GHOST IN THE SHELL S01E06 MULTi 1080p AMZN WEB-DL DDP2.0 H.265-...` | **666.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628445) • [🐱 Nyaa](https://nekobt.to/torrents/12996952227328) |
 | `THE GHOST IN THE SHELL S01E06 MULTi 1080p AMZN WEB-DL DDP2.0 H.264-...` | **1742.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628446) • [🐱 Nyaa](https://nekobt.to/torrents/12996941225743) |
-| `[ToonsHub] False Memory S01E03 REPACK 1080p BSITE WEB-DL AAC2.0 H.2...` | **416.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628447) • [🐱 Nyaa](https://nekobt.to/torrents/12996930674951) |
-| `[ToonsHub] FALSE MEMORY S01E04 1080p BILI WEB-DL AAC2.0 H.264 (Jiyi...` | **452.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628444) • [🐱 Nyaa](https://nyaa.si/view/2144858) |
-| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 06 [1080p CR WEBRip ...` | **370.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628440) • [🐱 Nyaa](https://nyaa.si/view/2144853) |
-| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **510.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628441) • [🐱 Nyaa](https://nyaa.si/view/2144852) |
-| `[Judas] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagas...` | **179.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628442) • [🐱 Nyaa](https://nyaa.si/view/2144850) |
-| `[Onalrie] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nag...` | **159.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/628439) • [🐱 Nyaa](https://nekobt.to/torrents/12996603852551) |
-| `[ASW] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu ...` | **170.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/628438) • [🐱 Nyaa](https://nyaa.si/view/2144849) |
-| `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E06 [1080p][HEVC x265 1...` | **260.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/628437) • [🐱 Nyaa](https://nyaa.si/view/2144845) |
-| `[ToonsHub] The Oblivious Saint Cant Contain Her Power S01E07 1080p ...` | **1501.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628427) • [🐱 Nyaa](https://nyaa.si/view/2144844) |
-| `The Oblivious Saint Cant Contain Her Power S01E07 Episode 7 The Wav...` | **1491.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628428) • [🐱 Nyaa](https://nyaa.si/view/2144843) |
-| `The Oblivious Saint Can't Contain Her Power S01E07 SUBFRENCH 1080p ...` | **1470.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628435) • [🐱 Nyaa](https://nekobt.to/torrents/12995991079686) |
-| `[SubsPlease] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare ...` | **1464.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628429) • [🐱 Nyaa](https://nyaa.si/view/2144840) |
-| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **1473.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628434) • [🐱 Nyaa](https://nyaa.si/view/2144835) |
 
 ---
 <div align="center">
