@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.49.12_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.47.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Crusher.Joe.クラッシャージョウ.1983.BDrip.1080p.x264.AC3.MULTi.VOSTFR-Tinoso...` | **2461.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/628521) • [🐱 Nyaa](https://nyaa.si/view/2145018) |
 | `[ToonsHub] The Eternal Supreme Li Yunxiao S01E08 1080p BILI WEB-DL ...` | **307.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/628516) • [🐱 Nyaa](https://nyaa.si/view/2144991) |
 | `[ToonsHub] The Eternal Supreme Li Yunxiao S01E07 1080p BILI WEB-DL ...` | **342.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628517) • [🐱 Nyaa](https://nyaa.si/view/2144990) |
 | `[ToonsHub] The Eternal Supreme Li Yunxiao S01E06 1080p BILI WEB-DL ...` | **351.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/628518) • [🐱 Nyaa](https://nyaa.si/view/2144989) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] Beyond Times Gaze S02E03 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **641.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628506) • [🐱 Nyaa](https://nekobt.to/torrents/13002240246799) |
 | `[ToonsHub] Beyond Times Gaze S02E02 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **556.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/628507) • [🐱 Nyaa](https://nekobt.to/torrents/13002225881614) |
 | `[ToonsHub] Beyond Times Gaze S02E01 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **640.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628508) • [🐱 Nyaa](https://nekobt.to/torrents/13002216109572) |
-| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E06 [WEB.1080p.AV1] | R...` | **192.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628503) • [🐱 Nyaa](https://nyaa.si/view/2144976) |
 
 ---
 <div align="center">
