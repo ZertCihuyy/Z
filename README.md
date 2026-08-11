@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.23.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.36.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Beltraz] Girlfriend, Girlfriend Season 2 (2023) (BD 1080p x264 FLA...` | **29484.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/628378) • [🐱 Nyaa](https://nekobt.to/torrents/12988454238983) |
+| `[Sokudo] Bleach Thousand-Year Blood War S17E43 [1080p WEBRip EAC3 A...` | **424.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628376) • [🐱 Nyaa](https://nyaa.si/view/2144755) |
+| `[Breeze] Bleach Thousand-Year Blood War S17E43 [1080p WEBRip EAC3 A...` | **795.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628377) • [🐱 Nyaa](https://nyaa.si/view/2144754) |
+| `[Erai-raws] Crowned in a Hundred Days - 15 (CA) [1080p CR WEBRip HE...` | **153.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628374) • [🐱 Nyaa](https://nyaa.si/view/2144750) |
+| `[ToonsHub] Crowned in a Hundred Days S01E15 1080p BILI WEB-DL AAC2....` | **126.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/628375) • [🐱 Nyaa](https://nyaa.si/view/2144749) |
+| `[ASW] Bai Ri Cheng Wang - 15 [1080p HEVC x265 10Bit][AAC]` | **118.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/628373) • [🐱 Nyaa](https://nyaa.si/view/2144748) |
 | `[Gecko] Crowned in a Hundred Days - S01E15 (百日成王; Bai Ri Cheng Wang...` | **129.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/628371) • [🐱 Nyaa](https://nyaa.si/view/2144733) |
 | `Crowned in a Hundred Days S01E15 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **676.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628372) • [🐱 Nyaa](https://nyaa.si/view/2144732) |
 | `[ToonsHub] Crowned in a Hundred Days S01E15 1080p CR WEB-DL AAC2.0 ...` | **669.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628370) • [🐱 Nyaa](https://nyaa.si/view/2144731) |
@@ -40,12 +46,6 @@
 | `[Gecko] Rising in The Fire - S01 (向火而生; Xiang Huo Er Sheng; Blazing...` | **1390.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/628360) • [🐱 Nyaa](https://nekobt.to/torrents/12987040696832) |
 | `[RetardSubs] Honoo no Toukyuujo Dodge Danko - 06 (1080p)` | **897.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628361) • [🐱 Nyaa](https://nyaa.si/view/2144719) |
 | `[Gecko] Love Magic Grocery - S01 (万能恋爱杂货店; Wanneng Lian Ai Zahuo Di...` | **3265.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628359) • [🐱 Nyaa](https://nyaa.si/view/2144717) |
-| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **812.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628355) • [🐱 Nyaa](https://nyaa.si/view/2144693) |
-| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **358.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628352) • [🐱 Nyaa](https://nekobt.to/torrents/12982860341259) |
-| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 06 [1080...` | **349.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/628353) • [🐱 Nyaa](https://nekobt.to/torrents/12982850534924) |
-| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **560.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/628354) • [🐱 Nyaa](https://nekobt.to/torrents/12982839509519) |
-| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **390.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628350) • [🐱 Nyaa](https://nyaa.si/view/2144689) |
-| `[Erai-raws] Liar Game - 19 [1080p CR WEBRip HEVC AAC][MultiSub][939...` | **591.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628351) • [🐱 Nyaa](https://nyaa.si/view/2144688) |
 
 ---
 <div align="center">
