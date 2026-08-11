@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.47.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.51.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[DKB] The Ghost in the Shell - S01E06 [1080p][HEVC x265 10bit][Dual...` | **980.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/628501) • [🐱 Nyaa](https://nyaa.si/view/2144972) |
-| `[DKB] Tefuda ga Oome no Victoria - S01E06 [1080p][HEVC x265 10bit][...` | **257.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/628500) • [🐱 Nyaa](https://nyaa.si/view/2144966) |
-| `[Ironclad] THE GHOST in the SHELL - S01E06 (WEB 1080p AV1) | THE GH...` | **465.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628499) • [🐱 Nyaa](https://nekobt.to/torrents/13000419304712) |
-| `[ASW] Sora wa Akai Kawa no Hotori - 06 [1080p HEVC x265 10Bit][AAC]` | **260.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628498) • [🐱 Nyaa](https://nyaa.si/view/2144960) |
-| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E06 [1080p WEBRip AV1]` | **216.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628497) • [🐱 Nyaa](https://onalrie.app/torrent/590dd0be-087f-4aaf-a4b7-163cf838c867) |
-| `[ToonsHub] Red River 2026 S01E06 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1329.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628493) • [🐱 Nyaa](https://nekobt.to/torrents/12999741149188) |
-| `[VARYG] Red River 2026 S01E06 The One I Cant Love 1080p CR WEB-DL A...` | **1340.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628494) • [🐱 Nyaa](https://nekobt.to/torrents/12999723896839) |
-| `Red River S01E06 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1335.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628495) • [🐱 Nyaa](https://nekobt.to/torrents/12999668260867) |
-| `[SubsPlease] Sora wa Akai Kawa no Hotori - 06 (1080p) [BC7D8911].mkv` | **1331.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/628492) • [🐱 Nyaa](https://nyaa.si/view/2144953) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 06 [1080p CR WEB-DL AVC A...` | **1338.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628490) • [🐱 Nyaa](https://nyaa.si/view/2144948) |
-| `[Onalrie] Tefuda ga Oome no Victoria - S01E06 [1080p WEBRip AV1]` | **192.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/628486) • [🐱 Nyaa](https://nekobt.to/torrents/12998720944136) |
-| `[ASW] Yoroi Shin Den Samurai Troopers - 18 [1080p HEVC x265 10Bit][...` | **595.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/628485) • [🐱 Nyaa](https://nyaa.si/view/2144925) |
-| `[Onalrie] Yoroi-Shinden Samurai Troopers - S02E06 [1080p WEBRip AV1]` | **394.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628484) • [🐱 Nyaa](https://onalrie.app/torrent/ddd73490-1c15-4820-b071-e17dc344ec0b) |
-| `Yoroi Shinden Samurai Troopers S01E18 Comeback 1080p CR WEB-DL AAC2...` | **1407.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/628483) • [🐱 Nyaa](https://nyaa.si/view/2144918) |
-| `[ASW] Tefuda ga Oome no Victoria - 06 [1080p HEVC x265 10Bit][AAC]` | **237.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628482) • [🐱 Nyaa](https://nyaa.si/view/2144913) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E08 1080p BILI WEB-DL ...` | **307.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/628516) • [🐱 Nyaa](https://nyaa.si/view/2144991) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E07 1080p BILI WEB-DL ...` | **342.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628517) • [🐱 Nyaa](https://nyaa.si/view/2144990) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E06 1080p BILI WEB-DL ...` | **351.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/628518) • [🐱 Nyaa](https://nyaa.si/view/2144989) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E05 1080p BILI WEB-DL ...` | **384.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628514) • [🐱 Nyaa](https://nekobt.to/torrents/13002447247361) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E04 1080p BILI WEB-DL ...` | **302.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/628515) • [🐱 Nyaa](https://nekobt.to/torrents/13002437934090) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E03 1080p BILI WEB-DL ...` | **328.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/628511) • [🐱 Nyaa](https://nyaa.si/view/2144986) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E02 1080p BILI WEB-DL ...` | **328.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/628512) • [🐱 Nyaa](https://nyaa.si/view/2144985) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E01 1080p BILI WEB-DL ...` | **429.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628513) • [🐱 Nyaa](https://nyaa.si/view/2144984) |
+| `[ToonsHub] Beyond Times Gaze S02E06 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **614.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628509) • [🐱 Nyaa](https://nyaa.si/view/2144983) |
+| `[ToonsHub] Beyond Times Gaze S02E05 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **628.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628510) • [🐱 Nyaa](https://nyaa.si/view/2144982) |
+| `[ToonsHub] Beyond Times Gaze S02E04 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **623.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/628505) • [🐱 Nyaa](https://nekobt.to/torrents/13002252715532) |
+| `[ToonsHub] Beyond Times Gaze S02E03 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **641.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628506) • [🐱 Nyaa](https://nekobt.to/torrents/13002240246799) |
+| `[ToonsHub] Beyond Times Gaze S02E02 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **556.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/628507) • [🐱 Nyaa](https://nekobt.to/torrents/13002225881614) |
+| `[ToonsHub] Beyond Times Gaze S02E01 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **640.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628508) • [🐱 Nyaa](https://nekobt.to/torrents/13002216109572) |
+| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E06 [WEB.1080p.AV1] | R...` | **192.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628503) • [🐱 Nyaa](https://nyaa.si/view/2144976) |
 
 ---
 <div align="center">
