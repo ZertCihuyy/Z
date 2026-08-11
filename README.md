@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.42.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.38.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] THE GHOST in the SHELL - S01E06 (WEB 1080p AV1) | THE GH...` | **465.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628499) • [🐱 Nyaa](https://nekobt.to/torrents/13000419304712) |
+| `[ASW] Sora wa Akai Kawa no Hotori - 06 [1080p HEVC x265 10Bit][AAC]` | **260.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628498) • [🐱 Nyaa](https://nyaa.si/view/2144960) |
+| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E06 [1080p WEBRip AV1]` | **216.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628497) • [🐱 Nyaa](https://onalrie.app/torrent/590dd0be-087f-4aaf-a4b7-163cf838c867) |
 | `[ToonsHub] Red River 2026 S01E06 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1329.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628493) • [🐱 Nyaa](https://nekobt.to/torrents/12999741149188) |
 | `[VARYG] Red River 2026 S01E06 The One I Cant Love 1080p CR WEB-DL A...` | **1340.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628494) • [🐱 Nyaa](https://nekobt.to/torrents/12999723896839) |
 | `Red River S01E06 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1335.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628495) • [🐱 Nyaa](https://nekobt.to/torrents/12999668260867) |
@@ -45,9 +48,6 @@
 | `[ASW] Tefuda ga Oome no Victoria - 06 [1080p HEVC x265 10Bit][AAC]` | **237.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628482) • [🐱 Nyaa](https://nyaa.si/view/2144913) |
 | `Genmu.Genki.Leda.幻夢戦記.1985.BDrip.1080p.x264.AC3.MULTi-Tinosoft.mkv` | **1222.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/628481) • [🐱 Nyaa](https://nyaa.si/view/2144911) |
 | `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **232.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/628480) • [🐱 Nyaa](https://nyaa.si/view/2144910) |
-| `[Onalrie] Koukaku Kidoutai (2026) - S01E06 [1080p WEBRip AV1]` | **313.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/628479) • [🐱 Nyaa](https://nekobt.to/torrents/12997898047242) |
-| `[ToonsHub] Yoroi-Shinden Samurai Troopers S01E18 1080p CR WEB-DL AA...` | **1717.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/628472) • [🐱 Nyaa](https://nekobt.to/torrents/12997440863491) |
-| `[ToonsHub] Victoria of Many Faces S01E06 1080p CR WEB-DL AAC2.0 H.2...` | **1375.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628473) • [🐱 Nyaa](https://nekobt.to/torrents/12997437631744) |
 
 ---
 <div align="center">
