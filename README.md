@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.11.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.06.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] BLACK TORCH S01E06 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audi...` | **500.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628391) • [🐱 Nyaa](https://nekobt.to/torrents/12993544023041) |
+| `[Kuzen] Kimetsu no Yaiba - Mugen Jou-hen - Daiisshou - Akaza Sairai...` | **5406.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628390) • [🐱 Nyaa](https://nyaa.si/view/2144780) |
 | `[Gecko] False Memory - S01E04 (记忆管理局; Jiyi Guanli Ju (2026); The Me...` | **770.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628388) • [🐱 Nyaa](https://nyaa.si/view/2144777) |
 | `[Gecko] False Memory - S01E03v2 (记忆管理局; Jiyi Guanli Ju (2026); The ...` | **608.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/628389) • [🐱 Nyaa](https://nekobt.to/torrents/12992235842831) |
 | `[RUBaDUB] Lupin III vs. Cat's Eye (Movie) (1080p) (Dual Audio)` | **4502.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628386) • [🐱 Nyaa](https://nyaa.si/view/2144773) |
@@ -44,8 +46,6 @@
 | `[Beltraz] Girlfriend, Girlfriend Season 2 (2023) (BD 1080p x264 FLA...` | **29484.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/628378) • [🐱 Nyaa](https://nekobt.to/torrents/12988454238983) |
 | `[Sokudo] Bleach Thousand-Year Blood War S17E43 [1080p WEBRip EAC3 A...` | **424.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628376) • [🐱 Nyaa](https://nyaa.si/view/2144755) |
 | `[Breeze] Bleach Thousand-Year Blood War S17E43 [1080p WEBRip EAC3 A...` | **795.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628377) • [🐱 Nyaa](https://nyaa.si/view/2144754) |
-| `[Erai-raws] Crowned in a Hundred Days - 15 (CA) [1080p CR WEBRip HE...` | **153.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628374) • [🐱 Nyaa](https://nyaa.si/view/2144750) |
-| `[ToonsHub] Crowned in a Hundred Days S01E15 1080p BILI WEB-DL AAC2....` | **126.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/628375) • [🐱 Nyaa](https://nyaa.si/view/2144749) |
 
 ---
 <div align="center">
