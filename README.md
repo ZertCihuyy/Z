@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.57.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.08.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[RUBaDUB] Lupin III vs. Cat's Eye (Movie) (1080p) (Dual Audio)` | **4502.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628386) • [🐱 Nyaa](https://nyaa.si/view/2144773) |
 | `[Onalrie] Crowned in a Hundred Days - S01E15 (CA) [1080p WEBRip AV1]` | **101.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/628385) • [🐱 Nyaa](https://nekobt.to/torrents/12990431347714) |
 | `[RUBaDUB] I Was Reincarnated as the 7th Prince (S1 Complete) (1080p...` | **11852.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/628384) • [🐱 Nyaa](https://nyaa.si/view/2144762) |
 | `[GalaxyCauldron] Bleach Thousand-Year Blood War - 43 (1080p WEB-DL ...` | **1366.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628383) • [🐱 Nyaa](https://nekobt.to/torrents/12989915243268) |
@@ -45,7 +46,6 @@
 | `[ToonsHub] Crowned in a Hundred Days S01E15 1080p BILI WEB-DL AAC2....` | **126.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/628375) • [🐱 Nyaa](https://nyaa.si/view/2144749) |
 | `[ASW] Bai Ri Cheng Wang - 15 [1080p HEVC x265 10Bit][AAC]` | **118.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/628373) • [🐱 Nyaa](https://nyaa.si/view/2144748) |
 | `[Gecko] Crowned in a Hundred Days - S01E15 (百日成王; Bai Ri Cheng Wang...` | **129.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/628371) • [🐱 Nyaa](https://nyaa.si/view/2144733) |
-| `Crowned in a Hundred Days S01E15 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **676.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628372) • [🐱 Nyaa](https://nyaa.si/view/2144732) |
 
 ---
 <div align="center">
