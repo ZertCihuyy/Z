@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.53.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.23.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Crowned in a Hundred Days - S01E15 (百日成王; Bai Ri Cheng Wang...` | **129.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/628371) • [🐱 Nyaa](https://nyaa.si/view/2144733) |
+| `Crowned in a Hundred Days S01E15 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **676.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628372) • [🐱 Nyaa](https://nyaa.si/view/2144732) |
+| `[ToonsHub] Crowned in a Hundred Days S01E15 1080p CR WEB-DL AAC2.0 ...` | **669.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628370) • [🐱 Nyaa](https://nyaa.si/view/2144731) |
+| `[Erai-raws] Crowned in a Hundred Days - 15 (CA) [1080p CR WEB-DL AV...` | **290.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/628369) • [🐱 Nyaa](https://nyaa.si/view/2144726) |
+| `Crowned in a Hundred Days S01E15 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **672.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/628362) • [🐱 Nyaa](https://nekobt.to/torrents/12987223692047) |
+| `[SubsPlease] Bai Ri Cheng Wang - 15 (1080p) [FDB785F9].mkv` | **672.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628364) • [🐱 Nyaa](https://nyaa.si/view/2144723) |
+| `[Gecko] Rising in The Fire - S01 (向火而生; Xiang Huo Er Sheng; Blazing...` | **1390.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/628360) • [🐱 Nyaa](https://nekobt.to/torrents/12987040696832) |
+| `[RetardSubs] Honoo no Toukyuujo Dodge Danko - 06 (1080p)` | **897.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628361) • [🐱 Nyaa](https://nyaa.si/view/2144719) |
 | `[Gecko] Love Magic Grocery - S01 (万能恋爱杂货店; Wanneng Lian Ai Zahuo Di...` | **3265.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628359) • [🐱 Nyaa](https://nyaa.si/view/2144717) |
 | `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **812.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628355) • [🐱 Nyaa](https://nyaa.si/view/2144693) |
 | `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **358.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628352) • [🐱 Nyaa](https://nekobt.to/torrents/12982860341259) |
@@ -38,14 +46,6 @@
 | `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **560.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/628354) • [🐱 Nyaa](https://nekobt.to/torrents/12982839509519) |
 | `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **390.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628350) • [🐱 Nyaa](https://nyaa.si/view/2144689) |
 | `[Erai-raws] Liar Game - 19 [1080p CR WEBRip HEVC AAC][MultiSub][939...` | **591.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628351) • [🐱 Nyaa](https://nyaa.si/view/2144688) |
-| `[ToonsHub] The Forsaken Saintess and Her Foodie Road Trip in Anothe...` | **557.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628347) • [🐱 Nyaa](https://nyaa.si/view/2144687) |
-| `[ToonsHub] The Forsaken Saintess and Her Foodie Road Trip in Anothe...` | **568.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628349) • [🐱 Nyaa](https://nekobt.to/torrents/12982650274062) |
-| `[ToonsHub] The Forsaken Saintess and Her Foodie Road Trip in Anothe...` | **625.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/628348) • [🐱 Nyaa](https://nyaa.si/view/2144685) |
-| `[Erai-raws] Grand Blue Season 3 - 06 [1080p CR WEBRip HEVC AAC][Mul...` | **450.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628346) • [🐱 Nyaa](https://nyaa.si/view/2144684) |
-| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **553.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/628345) • [🐱 Nyaa](https://nekobt.to/torrents/12982513018888) |
-| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **233.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628344) • [🐱 Nyaa](https://nyaa.si/view/2144680) |
-| `Gakuen.Tokusou.Hikaruon.学園特捜ヒカルオン.1987.BDrip.1080p.HEVC.x265.10bit....` | **3716.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/628342) • [🐱 Nyaa](https://nyaa.si/view/2144679) |
-| `[ToonsHub] To Be Winner S01E04 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **431.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/628338) • [🐱 Nyaa](https://nyaa.si/view/2144678) |
 
 ---
 <div align="center">
