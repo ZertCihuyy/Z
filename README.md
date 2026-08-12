@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.10.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.04.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Lv999 no Murabito - 08 [1080p CR WEBRip HEVC AAC][Multi...` | **378.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628765) • [🐱 Nyaa](https://nyaa.si/view/2145436) |
+| `[Ironclad] Clevatess - S02E06 (WEB 1080p AV1) | Clevatess II (Multi...` | **376.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628762) • [🐱 Nyaa](https://nekobt.to/torrents/13024488012801) |
+| `[DKB] LV999 no Murabito - S01E08 [1080p][HEVC x265 10bit][Multi-Sub...` | **230.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/628763) • [🐱 Nyaa](https://nyaa.si/view/2145434) |
+| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E06 [1080p][HEVC x265...` | **348.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/628764) • [🐱 Nyaa](https://nyaa.si/view/2145433) |
 | `[Erai-raws] Thunder 3 - 06 [1080p NF WEBRip HEVC AAC][MultiSub][DFF...` | **540.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628761) • [🐱 Nyaa](https://nekobt.to/torrents/13024140166402) |
 | `[ToonsHub] Fabulous Beasts S06E02 1080p BILI WEB-DL AAC2.0 H.265 (M...` | **137.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/628759) • [🐱 Nyaa](https://nekobt.to/torrents/13023518388996) |
 | `[ToonsHub] Fabulous Beasts S06E03 1080p BILI WEB-DL AAC2.0 H.265 (M...` | **138.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/628760) • [🐱 Nyaa](https://nekobt.to/torrents/13023517947904) |
@@ -41,10 +45,6 @@
 | `[Onalrie] Thunder 3 - S01E06 [1080p WEBRip AV1]` | **267.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/628753) • [🐱 Nyaa](https://nekobt.to/torrents/13022444930048) |
 | `[ASW] Toukutsu Ou - 06 [1080p HEVC x265 10Bit][AAC]` | **406.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628752) • [🐱 Nyaa](https://nyaa.si/view/2145414) |
 | `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1523.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628751) • [🐱 Nyaa](https://nyaa.si/view/2145412) |
-| `[Erai-raws] Clevatess II - 06 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **501.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628750) • [🐱 Nyaa](https://nyaa.si/view/2145410) |
-| `[Gecko] Chiikawa - S01E01-E368 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, S...` | **6677.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/628749) • [🐱 Nyaa](https://nekobt.to/torrents/13022136463361) |
-| `[Doomdos] - Tomb Raider King - 6 [1080p IQ WEB-DL]` | **337.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/628748) • [🐱 Nyaa](https://nyaa.si/view/2145408) |
-| `[Onalrie] Lv999 no Murabito - S01E08 [1080p WEBRip AV1]` | **190.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628747) • [🐱 Nyaa](https://nekobt.to/torrents/13021968553730) |
 
 ---
 <div align="center">
