@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.13.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.09.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Yowayowa Sensei S01E08 A Weak and Wimpy Photography Training Camp 2...` | **944.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628716) • [🐱 Nyaa](https://nyaa.si/view/2145370) |
-| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **949.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/628708) • [🐱 Nyaa](https://nekobt.to/torrents/13021331382279) |
-| `[ToonsHub] Yowayowa Sensei S01E08 1080p HIDIVE WEB-DL DUAL AAC2.0 H...` | **943.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/628709) • [🐱 Nyaa](https://nekobt.to/torrents/13021317230598) |
-| `[VARYG] HELL MODE The Hardcore Gamer Dominates in Another World wit...` | **949.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628710) • [🐱 Nyaa](https://nekobt.to/torrents/13021313228292) |
-| `[Onalrie] Katainaka no Ossan, Kensei ni Naru - S02E06 [1080p WEBRip...` | **203.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628712) • [🐱 Nyaa](https://nekobt.to/torrents/13021232229635) |
-| `[ASW] Lv999 no Murabito - 08 [1080p HEVC x265 10Bit][AAC]` | **216.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628705) • [🐱 Nyaa](https://nyaa.si/view/2145360) |
-| `[Mo7tas] Hyakuemu. [BD 1080p] [Multi language subs]` | **2515.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628706) • [🐱 Nyaa](https://nyaa.si/view/2145359) |
-| `Kirio Fan Club S01E10 I Hear Kirios Quitting the Team 1080p HIDI WE...` | **900.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/628707) • [🐱 Nyaa](https://nyaa.si/view/2145358) |
-| `[ASW] Hanazakari no Kimitachi e S2 - 08 [1080p HEVC x265 10Bit][AAC]` | **186.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628702) • [🐱 Nyaa](https://nyaa.si/view/2145357) |
-| `Thunder 3 S01E06 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (R...` | **931.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628713) • [🐱 Nyaa](https://nekobt.to/torrents/13021184473349) |
-| `Thunder 3 S01E06 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raws (...` | **357.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/628714) • [🐱 Nyaa](https://nekobt.to/torrents/13021178302730) |
-| `Thunder 3 S01E06 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws (RE...` | **339.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/628715) • [🐱 Nyaa](https://nekobt.to/torrents/13021172910596) |
-| `[DKB] Re:Zero kara Hajimeru Isekai Seikatsu - S04E12 [1080p][HEVC x...` | **253.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628703) • [🐱 Nyaa](https://nyaa.si/view/2145351) |
-| `[DKB] Heroine? Seijo? Iie, All Works Maid desu (Hokori)! - S01E08 [...` | **303.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/628704) • [🐱 Nyaa](https://nyaa.si/view/2145350) |
-| `[Erai-raws] Re:Zero kara Hajimeru Isekai Seikatsu 4th Season - 12 [...` | **425.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628701) • [🐱 Nyaa](https://nyaa.si/view/2145346) |
+| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1523.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628751) • [🐱 Nyaa](https://nyaa.si/view/2145412) |
+| `[Erai-raws] Clevatess II - 06 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **501.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628750) • [🐱 Nyaa](https://nyaa.si/view/2145410) |
+| `[Gecko] Chiikawa - S01E01-E368 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, S...` | **6677.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/628749) • [🐱 Nyaa](https://nekobt.to/torrents/13022136463361) |
+| `[Doomdos] - Tomb Raider King - 6 [1080p IQ WEB-DL]` | **337.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/628748) • [🐱 Nyaa](https://nyaa.si/view/2145408) |
+| `[Onalrie] Lv999 no Murabito - S01E08 [1080p WEBRip AV1]` | **190.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628747) • [🐱 Nyaa](https://nekobt.to/torrents/13021968553730) |
+| `Tomb Raider King S01E03 One Suited for Domination 1080p CR WEB-DL M...` | **1510.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628746) • [🐱 Nyaa](https://nyaa.si/view/2145403) |
+| `[Doomdos] - Hana-Kimi Season 2 - 20 [1080p IQ WEB-DL]` | **282.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/628745) • [🐱 Nyaa](https://nyaa.si/view/2145401) |
+| `[Ommex] Doraemon (2005) Episode 927 [ENG SUB][1080p x265 AAC]` | **415.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628739) • [🐱 Nyaa](https://nyaa.si/view/2145400) |
+| `Tomb Raider King S01E03 MULTi AD 1080p CR WEB-DL AAC2.0 H.264-Tsund...` | **1542.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/628741) • [🐱 Nyaa](https://nekobt.to/torrents/13021720638469) |
+| `[ToonsHub] Tomb Raider King S01E03 1080p CR WEB-DL MULTi AAC2.0 H.2...` | **1739.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628740) • [🐱 Nyaa](https://nyaa.si/view/2145396) |
+| `Tomb Raider King S01E06 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsun...` | **1661.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628743) • [🐱 Nyaa](https://nekobt.to/torrents/13021648278280) |
+| `[ToonsHub] Tomb Raider King S01E06 1080p CR WEB-DL AAC2.0 H.264 (Do...` | **1679.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628736) • [🐱 Nyaa](https://nyaa.si/view/2145393) |
+| `[ToonsHub] Tomb Raider King S01E04 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1689.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628737) • [🐱 Nyaa](https://nyaa.si/view/2145392) |
+| `[ToonsHub] Tomb Raider King S01E06 1080p CR WEB-DL AAC2.0 H.264 (Do...` | **1655.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628738) • [🐱 Nyaa](https://nyaa.si/view/2145391) |
+| `[Onalrie] Hanazakari no Kimitachi e - S02E08 [1080p WEBRip AV1]` | **179.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/628735) • [🐱 Nyaa](https://onalrie.app/torrent/d8ee39eb-bace-4f30-943a-d1c201422610) |
 
 ---
 <div align="center">
