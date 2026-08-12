@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.11.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.11.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Cat Tales - S01E44 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **41.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/628545) • [🐱 Nyaa](https://nekobt.to/torrents/13015861110785) |
+| `[ToonsHub] Cat Tales S01E44 1080p LNTV WEB-DL AAC2.0 H.264 (Multi-S...` | **55.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628546) • [🐱 Nyaa](https://nekobt.to/torrents/13015845968647) |
 | `[Kotobuki] Koukaku Kidoutai (2026) 06 [1080p HEVC Multisub] | The G...` | **267.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/628544) • [🐱 Nyaa](https://nyaa.si/view/2145098) |
 | `[Reza] THE GHOST IN THE SHELL (2026) - S01E06 [WEBRip HEVC 1080p EA...` | **5649.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628543) • [🐱 Nyaa](https://nyaa.si/view/2145076) |
 | `[Queen Medusa] A Will Eternal S04 E06 (171) [1080p DDP2.0 & AAC 2.0...` | **444.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628542) • [🐱 Nyaa](https://nyaa.si/view/2145072) |
@@ -46,8 +48,6 @@
 | `[ToonsHub] False Memory S01E04 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **1718.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628531) • [🐱 Nyaa](https://nekobt.to/torrents/13006230979341) |
 | `[ToonsHub] False Memory S01E03 REPACK2 1080p AMZN WEB-DL DDP2.0 H.2...` | **1731.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628529) • [🐱 Nyaa](https://nyaa.si/view/2145046) |
 | `[ToonsHub] False Memory S01E02 REPACK2 1080p AMZN WEB-DL DDP2.0 H.2...` | **1568.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628530) • [🐱 Nyaa](https://nyaa.si/view/2145044) |
-| `[ToonsHub] False Memory S01E01 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **2090.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628528) • [🐱 Nyaa](https://nekobt.to/torrents/13006085744651) |
-| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 06 [1080p CR WE...` | **750.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628523) • [🐱 Nyaa](https://nyaa.si/view/2145040) |
 
 ---
 <div align="center">
