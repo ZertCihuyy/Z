@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.47.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.20.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Crusher.Joe.クラッシャージョウ.1983.BDrip.1080p.x264.AC3.MULTi.VOSTFR-Tinoso...` | **2461.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/628521) • [🐱 Nyaa](https://nyaa.si/view/2145018) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E08 1080p BILI WEB-DL ...` | **307.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/628516) • [🐱 Nyaa](https://nyaa.si/view/2144991) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E07 1080p BILI WEB-DL ...` | **342.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628517) • [🐱 Nyaa](https://nyaa.si/view/2144990) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E06 1080p BILI WEB-DL ...` | **351.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/628518) • [🐱 Nyaa](https://nyaa.si/view/2144989) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E05 1080p BILI WEB-DL ...` | **384.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628514) • [🐱 Nyaa](https://nekobt.to/torrents/13002447247361) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E04 1080p BILI WEB-DL ...` | **302.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/628515) • [🐱 Nyaa](https://nekobt.to/torrents/13002437934090) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E03 1080p BILI WEB-DL ...` | **328.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/628511) • [🐱 Nyaa](https://nyaa.si/view/2144986) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E02 1080p BILI WEB-DL ...` | **328.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/628512) • [🐱 Nyaa](https://nyaa.si/view/2144985) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E01 1080p BILI WEB-DL ...` | **429.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628513) • [🐱 Nyaa](https://nyaa.si/view/2144984) |
-| `[ToonsHub] Beyond Times Gaze S02E06 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **614.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628509) • [🐱 Nyaa](https://nyaa.si/view/2144983) |
-| `[ToonsHub] Beyond Times Gaze S02E05 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **628.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628510) • [🐱 Nyaa](https://nyaa.si/view/2144982) |
-| `[ToonsHub] Beyond Times Gaze S02E04 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **623.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/628505) • [🐱 Nyaa](https://nekobt.to/torrents/13002252715532) |
-| `[ToonsHub] Beyond Times Gaze S02E03 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **641.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628506) • [🐱 Nyaa](https://nekobt.to/torrents/13002240246799) |
-| `[ToonsHub] Beyond Times Gaze S02E02 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **556.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/628507) • [🐱 Nyaa](https://nekobt.to/torrents/13002225881614) |
-| `[ToonsHub] Beyond Times Gaze S02E01 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **640.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628508) • [🐱 Nyaa](https://nekobt.to/torrents/13002216109572) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E09 1080p BILI WEB-DL ...` | **314.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/628541) • [🐱 Nyaa](https://nyaa.si/view/2145062) |
+| `[Doomdos] - UNDER THE GATE - 7 [1080p IQ WEB-DL]` | **132.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/628540) • [🐱 Nyaa](https://nyaa.si/view/2145061) |
+| `[Doomdos] - Urban Miracle Doctor - 203 [1080p IQ WEB-DL]` | **197.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/628539) • [🐱 Nyaa](https://nyaa.si/view/2145060) |
+| `[ToonsHub] Raised by Demons Panda Li S01E05 1080p iQ WEB-DL AAC2.0 ...` | **352.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628538) • [🐱 Nyaa](https://nyaa.si/view/2145059) |
+| `Banana Fish (2018) - S01 (Bluray-1080p AV1 Opus)-Pi13` | **6943.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628537) • [🐱 Nyaa](https://nyaa.si/view/2145057) |
+| `[SubsPlease] Hitori no Shita - The Outcast S6 (01-26) (1080p) [Batch]` | **39888.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/628534) • [🐱 Nyaa](https://nyaa.si/view/2145056) |
+| `[Doomdos] - Raised by Demons Panda Li - 5 [1080p IQ WEB-DL]` | **353.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628532) • [🐱 Nyaa](https://nyaa.si/view/2145053) |
+| `[ToonsHub] False Memory S01E04 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **1718.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628531) • [🐱 Nyaa](https://nekobt.to/torrents/13006230979341) |
+| `[ToonsHub] False Memory S01E03 REPACK2 1080p AMZN WEB-DL DDP2.0 H.2...` | **1731.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628529) • [🐱 Nyaa](https://nyaa.si/view/2145046) |
+| `[ToonsHub] False Memory S01E02 REPACK2 1080p AMZN WEB-DL DDP2.0 H.2...` | **1568.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628530) • [🐱 Nyaa](https://nyaa.si/view/2145044) |
+| `[ToonsHub] False Memory S01E01 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **2090.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628528) • [🐱 Nyaa](https://nekobt.to/torrents/13006085744651) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 06 [1080p CR WE...` | **750.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628523) • [🐱 Nyaa](https://nyaa.si/view/2145040) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 06 [1080p CR WEBRip HEVC A...` | **411.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628524) • [🐱 Nyaa](https://nyaa.si/view/2145039) |
+| `[Erai-raws] Sora wa Akai Kawa no Hotori - 06 [1080p CR WEBRip HEVC ...` | **443.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628525) • [🐱 Nyaa](https://nyaa.si/view/2145038) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 06 [1080p AMZN WEBRip HEVC EA...` | **558.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628526) • [🐱 Nyaa](https://nyaa.si/view/2145035) |
 
 ---
 <div align="center">
