@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.09.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.27.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Dogulwang - S01E06 (JA) [1080p WEBRip AV1]` | **278.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628758) • [🐱 Nyaa](https://nekobt.to/torrents/13023290088207) |
+| `[CenturyZeta] Youjo Shenki 2 - 06 (1080p) (Youjo Senki)` | **5.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628757) • [🐱 Nyaa](https://nyaa.si/view/2145420) |
+| `[Gecko] Fabulous Beasts - S06E03 (有兽焉; You Shou Yan 6th Season) [BI...` | **142.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628756) • [🐱 Nyaa](https://nyaa.si/view/2145419) |
+| `[Onalrie] Dogulwang - S01E06 (KA) [1080p WEBRip AV1]` | **274.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628755) • [🐱 Nyaa](https://onalrie.app/torrent/9bb9c902-c637-46de-adc5-90668651e4f5) |
+| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 06 [1080p AMZN ...` | **336.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628754) • [🐱 Nyaa](https://nyaa.si/view/2145416) |
+| `[Onalrie] Thunder 3 - S01E06 [1080p WEBRip AV1]` | **267.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/628753) • [🐱 Nyaa](https://nekobt.to/torrents/13022444930048) |
+| `[ASW] Toukutsu Ou - 06 [1080p HEVC x265 10Bit][AAC]` | **406.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628752) • [🐱 Nyaa](https://nyaa.si/view/2145414) |
 | `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1523.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628751) • [🐱 Nyaa](https://nyaa.si/view/2145412) |
 | `[Erai-raws] Clevatess II - 06 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **501.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628750) • [🐱 Nyaa](https://nyaa.si/view/2145410) |
 | `[Gecko] Chiikawa - S01E01-E368 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, S...` | **6677.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/628749) • [🐱 Nyaa](https://nekobt.to/torrents/13022136463361) |
@@ -38,13 +45,6 @@
 | `Tomb Raider King S01E03 One Suited for Domination 1080p CR WEB-DL M...` | **1510.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628746) • [🐱 Nyaa](https://nyaa.si/view/2145403) |
 | `[Doomdos] - Hana-Kimi Season 2 - 20 [1080p IQ WEB-DL]` | **282.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/628745) • [🐱 Nyaa](https://nyaa.si/view/2145401) |
 | `[Ommex] Doraemon (2005) Episode 927 [ENG SUB][1080p x265 AAC]` | **415.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/628739) • [🐱 Nyaa](https://nyaa.si/view/2145400) |
-| `Tomb Raider King S01E03 MULTi AD 1080p CR WEB-DL AAC2.0 H.264-Tsund...` | **1542.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/628741) • [🐱 Nyaa](https://nekobt.to/torrents/13021720638469) |
-| `[ToonsHub] Tomb Raider King S01E03 1080p CR WEB-DL MULTi AAC2.0 H.2...` | **1739.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628740) • [🐱 Nyaa](https://nyaa.si/view/2145396) |
-| `Tomb Raider King S01E06 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsun...` | **1661.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628743) • [🐱 Nyaa](https://nekobt.to/torrents/13021648278280) |
-| `[ToonsHub] Tomb Raider King S01E06 1080p CR WEB-DL AAC2.0 H.264 (Do...` | **1679.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628736) • [🐱 Nyaa](https://nyaa.si/view/2145393) |
-| `[ToonsHub] Tomb Raider King S01E04 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1689.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628737) • [🐱 Nyaa](https://nyaa.si/view/2145392) |
-| `[ToonsHub] Tomb Raider King S01E06 1080p CR WEB-DL AAC2.0 H.264 (Do...` | **1655.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628738) • [🐱 Nyaa](https://nyaa.si/view/2145391) |
-| `[Onalrie] Hanazakari no Kimitachi e - S02E08 [1080p WEBRip AV1]` | **179.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/628735) • [🐱 Nyaa](https://onalrie.app/torrent/d8ee39eb-bace-4f30-943a-d1c201422610) |
 
 ---
 <div align="center">
