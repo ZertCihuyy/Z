@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.11.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.00.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] Witch Hat Atelier S01E01 (Mandarin Dub, Taiwan) [1080p CTS ...` | **281.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628547) • [🐱 Nyaa](https://nekobt.to/torrents/13016534049541) |
+| `[vLbE3L] Witch Hat Atelier S01 CUSTOM [1080p WEBRip VVC HE-AACv2] [...` | **4142.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628548) • [🐱 Nyaa](https://nekobt.to/torrents/13016476199944) |
+| `[LbE3L] Witch Hat Atelier S01 CUSTOM [1080p WEBRip AV1 (Muxed) Opus...` | **7400.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628549) • [🐱 Nyaa](https://nekobt.to/torrents/13016413379843) |
 | `[Gecko] Cat Tales - S01E44 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **41.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/628545) • [🐱 Nyaa](https://nekobt.to/torrents/13015861110785) |
 | `[ToonsHub] Cat Tales S01E44 1080p LNTV WEB-DL AAC2.0 H.264 (Multi-S...` | **55.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628546) • [🐱 Nyaa](https://nekobt.to/torrents/13015845968647) |
 | `[Kotobuki] Koukaku Kidoutai (2026) 06 [1080p HEVC Multisub] | The G...` | **267.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/628544) • [🐱 Nyaa](https://nyaa.si/view/2145098) |
@@ -45,9 +48,6 @@
 | `Banana Fish (2018) - S01 (Bluray-1080p AV1 Opus)-Pi13` | **6943.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628537) • [🐱 Nyaa](https://nyaa.si/view/2145057) |
 | `[SubsPlease] Hitori no Shita - The Outcast S6 (01-26) (1080p) [Batch]` | **39888.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/628534) • [🐱 Nyaa](https://nyaa.si/view/2145056) |
 | `[Doomdos] - Raised by Demons Panda Li - 5 [1080p IQ WEB-DL]` | **353.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628532) • [🐱 Nyaa](https://nyaa.si/view/2145053) |
-| `[ToonsHub] False Memory S01E04 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **1718.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628531) • [🐱 Nyaa](https://nekobt.to/torrents/13006230979341) |
-| `[ToonsHub] False Memory S01E03 REPACK2 1080p AMZN WEB-DL DDP2.0 H.2...` | **1731.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628529) • [🐱 Nyaa](https://nyaa.si/view/2145046) |
-| `[ToonsHub] False Memory S01E02 REPACK2 1080p AMZN WEB-DL DDP2.0 H.2...` | **1568.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628530) • [🐱 Nyaa](https://nyaa.si/view/2145044) |
 
 ---
 <div align="center">
