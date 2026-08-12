@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.00.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.48.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[LbE3L] Witch Hat Atelier S01E01 (Mandarin Dub, Taiwan) [1080p CTS ...` | **281.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628547) • [🐱 Nyaa](https://nekobt.to/torrents/13016534049541) |
-| `[vLbE3L] Witch Hat Atelier S01 CUSTOM [1080p WEBRip VVC HE-AACv2] [...` | **4142.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628548) • [🐱 Nyaa](https://nekobt.to/torrents/13016476199944) |
-| `[LbE3L] Witch Hat Atelier S01 CUSTOM [1080p WEBRip AV1 (Muxed) Opus...` | **7400.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628549) • [🐱 Nyaa](https://nekobt.to/torrents/13016413379843) |
-| `[Gecko] Cat Tales - S01E44 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **41.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/628545) • [🐱 Nyaa](https://nekobt.to/torrents/13015861110785) |
-| `[ToonsHub] Cat Tales S01E44 1080p LNTV WEB-DL AAC2.0 H.264 (Multi-S...` | **55.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628546) • [🐱 Nyaa](https://nekobt.to/torrents/13015845968647) |
-| `[Kotobuki] Koukaku Kidoutai (2026) 06 [1080p HEVC Multisub] | The G...` | **267.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/628544) • [🐱 Nyaa](https://nyaa.si/view/2145098) |
-| `[Reza] THE GHOST IN THE SHELL (2026) - S01E06 [WEBRip HEVC 1080p EA...` | **5649.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628543) • [🐱 Nyaa](https://nyaa.si/view/2145076) |
-| `[Queen Medusa] A Will Eternal S04 E06 (171) [1080p DDP2.0 & AAC 2.0...` | **444.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628542) • [🐱 Nyaa](https://nyaa.si/view/2145072) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E09 1080p BILI WEB-DL ...` | **314.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/628541) • [🐱 Nyaa](https://nyaa.si/view/2145062) |
-| `[Doomdos] - UNDER THE GATE - 7 [1080p IQ WEB-DL]` | **132.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/628540) • [🐱 Nyaa](https://nyaa.si/view/2145061) |
-| `[Doomdos] - Urban Miracle Doctor - 203 [1080p IQ WEB-DL]` | **197.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/628539) • [🐱 Nyaa](https://nyaa.si/view/2145060) |
-| `[ToonsHub] Raised by Demons Panda Li S01E05 1080p iQ WEB-DL AAC2.0 ...` | **352.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628538) • [🐱 Nyaa](https://nyaa.si/view/2145059) |
-| `Banana Fish (2018) - S01 (Bluray-1080p AV1 Opus)-Pi13` | **6943.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628537) • [🐱 Nyaa](https://nyaa.si/view/2145057) |
-| `[SubsPlease] Hitori no Shita - The Outcast S6 (01-26) (1080p) [Batch]` | **39888.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/628534) • [🐱 Nyaa](https://nyaa.si/view/2145056) |
-| `[Doomdos] - Raised by Demons Panda Li - 5 [1080p IQ WEB-DL]` | **353.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628532) • [🐱 Nyaa](https://nyaa.si/view/2145053) |
+| `[ToonsHub] Saga of Tanya the Evil S02E06 1080p CR WEB-DL AAC2.0 H.2...` | **1379.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/628573) • [🐱 Nyaa](https://nyaa.si/view/2145182) |
+| `Saga of Tanya the Evil S02E06 Decoy 1080p CR WEB-DL AAC2.0 H.264-VA...` | **1391.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/628575) • [🐱 Nyaa](https://nyaa.si/view/2145180) |
+| `[Erai-raws] Youjo Senki II - 06 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1049.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628576) • [🐱 Nyaa](https://nyaa.si/view/2145179) |
+| `[SubsPlease] Youjo Senki S2 - 06 (1080p) [45710242].mkv` | **1380.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628577) • [🐱 Nyaa](https://nyaa.si/view/2145178) |
+| `[Purple] Jujutsu Kaisen (2020) - S03 - The Culling Game Part 1 (BD ...` | **53393.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628570) • [🐱 Nyaa](https://nyaa.si/view/2145173) |
+| `Clevatess S02E06 Whispering Voice 1080p CR WEB-DL AAC2.0 H.264 JPN ...` | **1441.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/628571) • [🐱 Nyaa](https://nyaa.si/view/2145169) |
+| `[ToonsHub] Clevatess S02E06 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1700.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628564) • [🐱 Nyaa](https://nekobt.to/torrents/13017855331077) |
+| `[Judas] Majuu no Ou to Akago to Shikabane no Yuusha (Clevatess) - S...` | **363.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628565) • [🐱 Nyaa](https://nyaa.si/view/2145167) |
+| `[ToonsHub] Clevatess S02E06 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1439.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628567) • [🐱 Nyaa](https://nekobt.to/torrents/13017801539851) |
+| `[geckyzz] Perfect Addiction - S01E06 (パーフェクトアディクション) [YTB.WEB-DL 10...` | **30.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/628563) • [🐱 Nyaa](https://nyaa.si/view/2145164) |
+| `[ToonsHub] Perfect Addiction S01E06 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **161.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/628562) • [🐱 Nyaa](https://nyaa.si/view/2145162) |
+| `[geckyzz] Perfect Addiction - S01E06 (パーフェクトアディクション) [OVEIL.WEB-DL ...` | **59.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/628559) • [🐱 Nyaa](https://nyaa.si/view/2145159) |
+| `[ASW] Clevatess S2 - 06 [1080p HEVC x265 10Bit][AAC]` | **316.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628558) • [🐱 Nyaa](https://nyaa.si/view/2145139) |
+| `[Doomdos] - Clevatess II - 6 [1080p IQ WEB-DL]` | **331.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/628557) • [🐱 Nyaa](https://nyaa.si/view/2145137) |
+| `Clevatess S02E06 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **1450.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/628555) • [🐱 Nyaa](https://nekobt.to/torrents/13016840514823) |
 
 ---
 <div align="center">
