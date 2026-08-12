@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.20.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.23.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Reza] THE GHOST IN THE SHELL (2026) - S01E06 [WEBRip HEVC 1080p EA...` | **5649.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628543) • [🐱 Nyaa](https://nyaa.si/view/2145076) |
+| `[Queen Medusa] A Will Eternal S04 E06 (171) [1080p DDP2.0 & AAC 2.0...` | **444.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628542) • [🐱 Nyaa](https://nyaa.si/view/2145072) |
 | `[ToonsHub] The Eternal Supreme Li Yunxiao S01E09 1080p BILI WEB-DL ...` | **314.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/628541) • [🐱 Nyaa](https://nyaa.si/view/2145062) |
 | `[Doomdos] - UNDER THE GATE - 7 [1080p IQ WEB-DL]` | **132.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/628540) • [🐱 Nyaa](https://nyaa.si/view/2145061) |
 | `[Doomdos] - Urban Miracle Doctor - 203 [1080p IQ WEB-DL]` | **197.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/628539) • [🐱 Nyaa](https://nyaa.si/view/2145060) |
@@ -46,8 +48,6 @@
 | `[ToonsHub] False Memory S01E01 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **2090.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628528) • [🐱 Nyaa](https://nekobt.to/torrents/13006085744651) |
 | `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 06 [1080p CR WE...` | **750.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628523) • [🐱 Nyaa](https://nyaa.si/view/2145040) |
 | `[Erai-raws] Tefuda ga Oome no Victoria - 06 [1080p CR WEBRip HEVC A...` | **411.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/628524) • [🐱 Nyaa](https://nyaa.si/view/2145039) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 06 [1080p CR WEBRip HEVC ...` | **443.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628525) • [🐱 Nyaa](https://nyaa.si/view/2145038) |
-| `[Erai-raws] Koukaku Kidoutai (2026) - 06 [1080p AMZN WEBRip HEVC EA...` | **558.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628526) • [🐱 Nyaa](https://nyaa.si/view/2145035) |
 
 ---
 <div align="center">
