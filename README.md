@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.04.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.03.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 06 [108...` | **454.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628769) • [🐱 Nyaa](https://nekobt.to/torrents/13025744856585) |
+| `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E08 [108...` | **234.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628768) • [🐱 Nyaa](https://nyaa.si/view/2145442) |
+| `[kikuri] Sousou no Frieren 2nd Season (BD 1080p HEVC Opus) | Friere...` | **23464.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/628767) • [🐱 Nyaa](https://nyaa.si/view/2145441) |
+| `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E06 [...` | **489.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628766) • [🐱 Nyaa](https://nyaa.si/view/2145440) |
 | `[Erai-raws] Lv999 no Murabito - 08 [1080p CR WEBRip HEVC AAC][Multi...` | **378.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628765) • [🐱 Nyaa](https://nyaa.si/view/2145436) |
 | `[Ironclad] Clevatess - S02E06 (WEB 1080p AV1) | Clevatess II (Multi...` | **376.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628762) • [🐱 Nyaa](https://nekobt.to/torrents/13024488012801) |
 | `[DKB] LV999 no Murabito - S01E08 [1080p][HEVC x265 10bit][Multi-Sub...` | **230.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/628763) • [🐱 Nyaa](https://nyaa.si/view/2145434) |
@@ -41,10 +45,6 @@
 | `[CenturyZeta] Youjo Shenki 2 - 06 (1080p) (Youjo Senki)` | **5.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628757) • [🐱 Nyaa](https://nyaa.si/view/2145420) |
 | `[Gecko] Fabulous Beasts - S06E03 (有兽焉; You Shou Yan 6th Season) [BI...` | **142.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628756) • [🐱 Nyaa](https://nyaa.si/view/2145419) |
 | `[Onalrie] Dogulwang - S01E06 (KA) [1080p WEBRip AV1]` | **274.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628755) • [🐱 Nyaa](https://onalrie.app/torrent/9bb9c902-c637-46de-adc5-90668651e4f5) |
-| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 06 [1080p AMZN ...` | **336.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628754) • [🐱 Nyaa](https://nyaa.si/view/2145416) |
-| `[Onalrie] Thunder 3 - S01E06 [1080p WEBRip AV1]` | **267.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/628753) • [🐱 Nyaa](https://nekobt.to/torrents/13022444930048) |
-| `[ASW] Toukutsu Ou - 06 [1080p HEVC x265 10Bit][AAC]` | **406.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628752) • [🐱 Nyaa](https://nyaa.si/view/2145414) |
-| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1523.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/628751) • [🐱 Nyaa](https://nyaa.si/view/2145412) |
 
 ---
 <div align="center">
