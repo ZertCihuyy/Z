@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.03.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.02.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] From Old Country Bumpkin to Master Swordsman - S02E06 (W...` | **286.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/628782) • [🐱 Nyaa](https://nekobt.to/torrents/13026479132419) |
+| `[Yameii] Tomb Raider King - S01E04 [English Dub] [CR WEB-DL 1080p H...` | **1346.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628777) • [🐱 Nyaa](https://nyaa.si/view/2145452) |
+| `[Yameii] Trapped in a Dating Sim: The World of Otome Games is Tough...` | **1382.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628773) • [🐱 Nyaa](https://nekobt.to/torrents/13026339548418) |
+| `[Yameii] Hana-Kimi - S02E06 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1407.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628774) • [🐱 Nyaa](https://nekobt.to/torrents/13026336592393) |
+| `[Yameii] Clevatess - S02E06 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1386.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628775) • [🐱 Nyaa](https://nekobt.to/torrents/13026334687496) |
+| `[sam] The Ghost in the Shell (2026) - S01E06 (WEB 1080p HEVC x265 1...` | **4624.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628776) • [🐱 Nyaa](https://nekobt.to/torrents/13026318562061) |
+| `[VARYG] Saga of Tanya the Evil S02E03 Well-Intentioned Mediator 108...` | **1481.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/628772) • [🐱 Nyaa](https://nekobt.to/torrents/13026115432715) |
+| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 08 [1080p CR WEB...` | **328.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628771) • [🐱 Nyaa](https://nyaa.si/view/2145445) |
+| `[FBI] Re:Zero Starting Life in Another World - S04E12 (CR WEB-DL 10...` | **1387.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628770) • [🐱 Nyaa](https://nyaa.si/view/2145444) |
 | `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 06 [108...` | **454.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628769) • [🐱 Nyaa](https://nekobt.to/torrents/13025744856585) |
 | `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E08 [108...` | **234.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628768) • [🐱 Nyaa](https://nyaa.si/view/2145442) |
 | `[kikuri] Sousou no Frieren 2nd Season (BD 1080p HEVC Opus) | Friere...` | **23464.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/628767) • [🐱 Nyaa](https://nyaa.si/view/2145441) |
 | `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E06 [...` | **489.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628766) • [🐱 Nyaa](https://nyaa.si/view/2145440) |
 | `[Erai-raws] Lv999 no Murabito - 08 [1080p CR WEBRip HEVC AAC][Multi...` | **378.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628765) • [🐱 Nyaa](https://nyaa.si/view/2145436) |
 | `[Ironclad] Clevatess - S02E06 (WEB 1080p AV1) | Clevatess II (Multi...` | **376.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628762) • [🐱 Nyaa](https://nekobt.to/torrents/13024488012801) |
-| `[DKB] LV999 no Murabito - S01E08 [1080p][HEVC x265 10bit][Multi-Sub...` | **230.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/628763) • [🐱 Nyaa](https://nyaa.si/view/2145434) |
-| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E06 [1080p][HEVC x265...` | **348.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/628764) • [🐱 Nyaa](https://nyaa.si/view/2145433) |
-| `[Erai-raws] Thunder 3 - 06 [1080p NF WEBRip HEVC AAC][MultiSub][DFF...` | **540.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628761) • [🐱 Nyaa](https://nekobt.to/torrents/13024140166402) |
-| `[ToonsHub] Fabulous Beasts S06E02 1080p BILI WEB-DL AAC2.0 H.265 (M...` | **137.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/628759) • [🐱 Nyaa](https://nekobt.to/torrents/13023518388996) |
-| `[ToonsHub] Fabulous Beasts S06E03 1080p BILI WEB-DL AAC2.0 H.265 (M...` | **138.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/628760) • [🐱 Nyaa](https://nekobt.to/torrents/13023517947904) |
-| `[Onalrie] Dogulwang - S01E06 (JA) [1080p WEBRip AV1]` | **278.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628758) • [🐱 Nyaa](https://nekobt.to/torrents/13023290088207) |
-| `[CenturyZeta] Youjo Shenki 2 - 06 (1080p) (Youjo Senki)` | **5.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628757) • [🐱 Nyaa](https://nyaa.si/view/2145420) |
-| `[Gecko] Fabulous Beasts - S06E03 (有兽焉; You Shou Yan 6th Season) [BI...` | **142.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/628756) • [🐱 Nyaa](https://nyaa.si/view/2145419) |
-| `[Onalrie] Dogulwang - S01E06 (KA) [1080p WEBRip AV1]` | **274.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628755) • [🐱 Nyaa](https://onalrie.app/torrent/9bb9c902-c637-46de-adc5-90668651e4f5) |
 
 ---
 <div align="center">
