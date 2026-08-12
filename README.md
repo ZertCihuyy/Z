@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.01.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.10.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ASW] Re Zero kara Hajimeru Isekai Seikatsu - 78 [1080p HEVC x265 1...` | **202.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628609) • [🐱 Nyaa](https://nyaa.si/view/2145229) |
-| `[Erai-raws] Re:Zero kara Hajimeru Isekai Seikatsu 4th Season - 12 [...` | **1382.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/628611) • [🐱 Nyaa](https://nyaa.si/view/2145227) |
-| `[Judas] Youjo Senki (Saga of Tanya the Evil) - S02E06 [1080p][HEVC ...` | **403.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/628607) • [🐱 Nyaa](https://nyaa.si/view/2145225) |
-| `Heroine Saint No Im an All Works Maid And Proud of It S01E08 1080p ...` | **1393.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628605) • [🐱 Nyaa](https://nyaa.si/view/2145223) |
-| `[ToonsHub] My Stepmother and Stepsisters Arent Wicked S01E06 1080p ...` | **714.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/628599) • [🐱 Nyaa](https://nekobt.to/torrents/13019058183439) |
-| `My Stepmother and Stepsisters Aren't Wicked S01E06 SUBFRENCH 1080p ...` | **607.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628600) • [🐱 Nyaa](https://nekobt.to/torrents/13019030341135) |
-| `[ASW] Youjo Senki S2 - 06 [1080p HEVC x265 10Bit][AAC]` | **395.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/628592) • [🐱 Nyaa](https://nyaa.si/view/2145218) |
-| `[VARYG] My Stepmother and Stepsisters Arent Wicked S01E06 The Inari...` | **717.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628602) • [🐱 Nyaa](https://nekobt.to/torrents/13019023044366) |
-| `[ToonsHub] Heroine Saint No Im an All-Works Maid And Proud of It S0...` | **1404.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628593) • [🐱 Nyaa](https://nyaa.si/view/2145217) |
-| `[SubsPlease] All Works Maid - 08 (1080p) [8839D87A].mkv` | **1366.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628606) • [🐱 Nyaa](https://nyaa.si/view/2145215) |
-| `Heroine Saint No, I'm an All Works Maid (And Proud of It) S01E08 SU...` | **1370.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628603) • [🐱 Nyaa](https://nekobt.to/torrents/13019002936588) |
-| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 08 [10...` | **1375.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628597) • [🐱 Nyaa](https://nyaa.si/view/2145210) |
-| `[Onalrie] Youjo Senki - S02E06 [1080p WEBRip AV1]` | **267.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/628591) • [🐱 Nyaa](https://nekobt.to/torrents/13018855790605) |
-| `[ToonsHub] ReZERO -Starting Life in Another World- S04E12 1080p CR ...` | **1422.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/628590) • [🐱 Nyaa](https://nyaa.si/view/2145200) |
-| `Re ZERO Starting Life in Another World S04E12 From Now On 1080p CR ...` | **1402.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/628589) • [🐱 Nyaa](https://nyaa.si/view/2145199) |
+| `[Onalrie] Clevatess - S02E06 [1080p WEBRip AV1]` | **176.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628664) • [🐱 Nyaa](https://nekobt.to/torrents/13020453502213) |
+| `Hana Kimi S02E05 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **1472.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628665) • [🐱 Nyaa](https://nekobt.to/torrents/13020437379854) |
+| `[ToonsHub] Hana-Kimi S02E06 1080p CR WEB-DL DUAL AAC2.0 H.264 (Hana...` | **1482.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/628648) • [🐱 Nyaa](https://nyaa.si/view/2145299) |
+| `[ToonsHub] The Villager of Level 999 2026 S01E08 1080p CR WEB-DL AA...` | **1386.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628649) • [🐱 Nyaa](https://nyaa.si/view/2145298) |
+| `Yowayowa Sensei S01E07 A Weak and Wimpy Photography Training Camp 1...` | **656.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/628650) • [🐱 Nyaa](https://nyaa.si/view/2145297) |
+| `[SubsPlease] Lv999 no Murabito - 08 (1080p) [F6D6A7FB].mkv` | **1389.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/628651) • [🐱 Nyaa](https://nyaa.si/view/2145296) |
+| `[ToonsHub] Candy Caries S01E18 1080p AMZN WEB-DL DDP2.0 H.264 (Mult...` | **176.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628655) • [🐱 Nyaa](https://nyaa.si/view/2145292) |
+| `[Erai-raws] Lv999 no Murabito - 08 [1080p CR WEB-DL AVC AAC][MultiS...` | **1397.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/628656) • [🐱 Nyaa](https://nyaa.si/view/2145290) |
+| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 08 [1080p CR WEB...` | **1411.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/628659) • [🐱 Nyaa](https://nyaa.si/view/2145286) |
+| `[SubsPlease] Hanazakari no Kimitachi e S2 - 08 (1080p) [23BC528A].mkv` | **1401.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628660) • [🐱 Nyaa](https://nyaa.si/view/2145284) |
+| `From Old Country Bumpkin to Master Swordsman S02E06 The Old Country...` | **968.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/628646) • [🐱 Nyaa](https://nyaa.si/view/2145280) |
+| `[VARYG] From Old Country Bumpkin to Master Swordsman S02E06 The Old...` | **703.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/628644) • [🐱 Nyaa](https://nekobt.to/torrents/13020301227526) |
+| `[DKB] Youjo Senki - S02E06 [1080p][HEVC x265 10bit][Multi-Subs][wee...` | **484.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/628647) • [🐱 Nyaa](https://nyaa.si/view/2145277) |
+| `[ToonsHub] From Old Country Bumpkin to Master Swordsman S02E06 1080...` | **284.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628640) • [🐱 Nyaa](https://nyaa.si/view/2145276) |
+| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 08 [10...` | **515.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628645) • [🐱 Nyaa](https://nekobt.to/torrents/13020251020291) |
 
 ---
 <div align="center">
