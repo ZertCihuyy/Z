@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.30.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.33.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CicakRumah] Koupen-chan - S01E69v2 (コウペンちゃん; Koupen Chan) [AMZN.WE...` | **132.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628812) • [🐱 Nyaa](https://nyaa.si/view/2145598) |
+| `[SubsNoJutsu] Tomb Raider King - S01E06 (1080p WEBRip AAC x265) [96...` | **622.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/628811) • [🐱 Nyaa](https://nekobt.to/torrents/13038376133127) |
 | `[CicakRumah] Koupen-chan - S01E69 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **132.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/628810) • [🐱 Nyaa](https://nyaa.si/view/2145585) |
 | `[Gecko] Koala's Diary - S01E44 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **47.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628808) • [🐱 Nyaa](https://nekobt.to/torrents/13037979478534) |
 | `[ToonsHub] Koalas Diary S01E44 1080p LNTV WEB-DL AAC2.0 H.264 (Mult...` | **74.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628809) • [🐱 Nyaa](https://nekobt.to/torrents/13037964737547) |
@@ -43,8 +45,6 @@
 | `[Doomdos] - Against the Gods 2nd Season - 50 [1080p IQ WEB-DL]` | **399.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/628794) • [🐱 Nyaa](https://nyaa.si/view/2145497) |
 | `[Erai-raws] Dogulwang - 06 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **611.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628788) • [🐱 Nyaa](https://nyaa.si/view/2145479) |
 | `[Erai-raws] Dogulwang - 06 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **622.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628789) • [🐱 Nyaa](https://nyaa.si/view/2145478) |
-| `[A&C] One Piece - S00E04 - Movie 02 (BD 1080p HEVC) [Multi-Subs] [v2]` | **20902.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/628783) • [🐱 Nyaa](https://nyaa.si/view/2145471) |
-| `[A&C] One Piece - S00E02 - Movie 01 (BD 1080p HEVC) [Multi-Subs] [v2]` | **18285.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628784) • [🐱 Nyaa](https://nyaa.si/view/2145469) |
 
 ---
 <div align="center">
