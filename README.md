@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.30.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.05.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FuyuPOP] Yani Neko - Ep06 (1080p x265 AAC WEB)` | **599.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/628801) • [🐱 Nyaa](https://nekobt.to/torrents/13032693610249) |
+| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E06 (いびってこ...` | **675.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628800) • [🐱 Nyaa](https://nekobt.to/torrents/13032521163020) |
 | `[Gecko] Cat Tales - S01E44 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628798) • [🐱 Nyaa](https://nyaa.si/view/2145539) |
 | `[Gecko] Candy Caries - S01E18 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **87.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628797) • [🐱 Nyaa](https://nekobt.to/torrents/13030702580235) |
 | `[Some-Stuffs] POKÉTOON 21 - The Summer That Goes On, With Kameil (1...` | **171.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628795) • [🐱 Nyaa](https://nyaa.si/view/2145509) |
@@ -43,8 +45,6 @@
 | `[Yameii] Tomb Raider King - S01E04 [English Dub] [CR WEB-DL 1080p H...` | **1346.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628777) • [🐱 Nyaa](https://nyaa.si/view/2145452) |
 | `[Yameii] Trapped in a Dating Sim: The World of Otome Games is Tough...` | **1382.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628773) • [🐱 Nyaa](https://nekobt.to/torrents/13026339548418) |
 | `[Yameii] Hana-Kimi - S02E06 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1407.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628774) • [🐱 Nyaa](https://nekobt.to/torrents/13026336592393) |
-| `[Yameii] Clevatess - S02E06 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1386.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628775) • [🐱 Nyaa](https://nekobt.to/torrents/13026334687496) |
-| `[sam] The Ghost in the Shell (2026) - S01E06 (WEB 1080p HEVC x265 1...` | **4624.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628776) • [🐱 Nyaa](https://nekobt.to/torrents/13026318562061) |
 
 ---
 <div align="center">
