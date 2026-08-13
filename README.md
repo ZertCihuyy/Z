@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.45.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.48.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Asakura] Tensei Shitara Slime Datta Ken S04E17 [1080p WEB AAC x264...` | **1405.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629006) • [🐱 Nyaa](https://nekobt.to/torrents/13046856337672) |
+| `[Asakura] Tensei Shitara Slime Datta Ken S04E16 [1080p WEB AAC x264...` | **1402.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/629007) • [🐱 Nyaa](https://nekobt.to/torrents/13046845233163) |
+| `[Erai-raws] Yani Neko - 07 [1080p NF WEBRip HEVC AAC][MultiSub][BBC...` | **564.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629005) • [🐱 Nyaa](https://nekobt.to/torrents/13046483975682) |
+| `[Ironclad] Chainsmoker Cat - S01E07 (WEB 1080p AV1) | Yani Neko (Mu...` | **336.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/629003) • [🐱 Nyaa](https://nekobt.to/torrents/13046328373770) |
+| `[DKB] Super no Ura de Yani Suu Futari - S01E06 [1080p][HEVC x265 10...` | **176.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629004) • [🐱 Nyaa](https://nyaa.si/view/2145873) |
+| `[DKB] Yani Neko - S01E07 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **476.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629002) • [🐱 Nyaa](https://nyaa.si/view/2145872) |
+| `[Judas] Katainaka no Ossan, Kensei ni Naru (From Old Country Bumpki...` | **260.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629000) • [🐱 Nyaa](https://nyaa.si/view/2145871) |
+| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E12 [1080p CR...` | **1382.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/629001) • [🐱 Nyaa](https://nekobt.to/torrents/13045892786183) |
 | `[VARYG] KAIJU GIRL CARAMELISE S01E06 1080p BILI WEB-DL AAC2.0 H.264...` | **439.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628998) • [🐱 Nyaa](https://nekobt.to/torrents/13045756322313) |
 | `[VARYG] The Frontier Lord Begins with Zero Subjects S01E03 1080p BI...` | **266.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628999) • [🐱 Nyaa](https://nekobt.to/torrents/13045739941126) |
 | `[ZeroBuild] In Another World With My Smartphone (S01) (Season 1) (B...` | **27120.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628997) • [🐱 Nyaa](https://nyaa.si/view/2145866) |
@@ -38,14 +46,6 @@
 | `[Erai-raws] Super no Ura de Yani Suu Futari - 06 [1080p CR WEBRip H...` | **310.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628995) • [🐱 Nyaa](https://nekobt.to/torrents/13045378915846) |
 | `[Judas] Super no Ura de Yani Suu Futari (Smoking Behind the Superma...` | **159.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/628994) • [🐱 Nyaa](https://nyaa.si/view/2145863) |
 | `[Onalrie] Yani Neko - S01E07 [1080p WEBRip AV1]` | **322.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/628993) • [🐱 Nyaa](https://nekobt.to/torrents/13045066957056) |
-| `[ASW] Otome Kaijuu Carameliser - 07 [1080p HEVC x265 10Bit][AAC]` | **391.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/628992) • [🐱 Nyaa](https://nyaa.si/view/2145858) |
-| `[Judas] Otome Kaiju Caramelise (Kaiju Girl Caramelise) - S01E07 [10...` | **430.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628988) • [🐱 Nyaa](https://nyaa.si/view/2145854) |
-| `[DKB] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat...` | **299.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628989) • [🐱 Nyaa](https://nyaa.si/view/2145853) |
-| `[DKB] Mebius Dust - S01E06 [1080p][HEVC x265 10bit][Multi-Subs][wee...` | **454.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628990) • [🐱 Nyaa](https://nyaa.si/view/2145852) |
-| `[DKB] BanG Dream! Yume∞Mita - S01E09 [1080p][HEVC x265 10bit][Multi...` | **358.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/628991) • [🐱 Nyaa](https://nyaa.si/view/2145851) |
-| `[Onalrie] Otome Kaijuu Carameliser - S01E07 [1080p WEBRip AV1]` | **304.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/628987) • [🐱 Nyaa](https://nekobt.to/torrents/13044633240069) |
-| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **781.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/628986) • [🐱 Nyaa](https://nyaa.si/view/2145849) |
-| `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **855.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628985) • [🐱 Nyaa](https://nyaa.si/view/2145848) |
 
 ---
 <div align="center">
