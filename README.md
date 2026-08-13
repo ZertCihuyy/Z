@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.08.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.15.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `BanG Dream YUME MITA S01E09 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-T...` | **1381.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628853) • [🐱 Nyaa](https://nekobt.to/torrents/13040703713804) |
-| `[ToonsHub] BanG Dream YUMEMITA S01E09 1080p CR WEB-DL AAC2.0 H.264 ...` | **1372.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/628846) • [🐱 Nyaa](https://nyaa.si/view/2145650) |
-| `[SubsPlease] BanG Dream! Yumemita - 09 (1080p) [7F64A126].mkv` | **1376.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628847) • [🐱 Nyaa](https://nyaa.si/view/2145649) |
-| `[Erai-raws] Bang Dream Yumemita - 09 [1080p CR WEB-DL AVC AAC][Mult...` | **1383.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628851) • [🐱 Nyaa](https://nyaa.si/view/2145644) |
-| `[Shridhuu][1080p HBR] Perfect World Movie - Nine Tribulations Burni...` | **5375.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628843) • [🐱 Nyaa](https://nyaa.si/view/2145641) |
-| `[Kosaka] Dara-san of the Reiwa Era - S01E07 (WEBRip 1080p AV1 OPUS)...` | **169.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628845) • [🐱 Nyaa](https://nekobt.to/torrents/13040449987337) |
-| `[Onalrie] Reiwa no Dara-san - S01E07 [1080p WEBRip AV1]` | **163.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628842) • [🐱 Nyaa](https://nekobt.to/torrents/13040281238793) |
-| `[ASW] Bungou Stray Dogs Wan! S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **157.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628840) • [🐱 Nyaa](https://nyaa.si/view/2145638) |
-| `[ASW] Reiwa no Dara-san - 07 [1080p HEVC x265 10Bit][AAC]` | **193.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628841) • [🐱 Nyaa](https://nyaa.si/view/2145637) |
-| `[Onalrie] Bungou Stray Dogs Wan - S02E07 [1080p WEBRip AV1]` | **125.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628839) • [🐱 Nyaa](https://nekobt.to/torrents/13039777382152) |
-| `[ToonsHub] GANSO BanG Dream Chan S01E45 1080p AMZN WEB-DL DDP2.0 H....` | **59.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628838) • [🐱 Nyaa](https://nyaa.si/view/2145636) |
-| `[ToonsHub] Bungo Stray Dogs WAN S02E07 1080p AMZN WEB-DL DDP2.0 H.2...` | **440.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628837) • [🐱 Nyaa](https://nyaa.si/view/2145634) |
-| `[VARYG] Bungo Stray Dogs WAN S02E05 Bungo Stray Dogs Preschool 1080...` | **706.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628829) • [🐱 Nyaa](https://nekobt.to/torrents/13039540019721) |
-| `[VARYG] Bungo Stray Dogs WAN S02E07 Strength is Everything Survive ...` | **690.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628830) • [🐱 Nyaa](https://nekobt.to/torrents/13039538462215) |
-| `[ToonsHub] Bungo Stray Dogs WAN S02E05 1080p CR WEB-DL DUAL AAC2.0 ...` | **703.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628831) • [🐱 Nyaa](https://nekobt.to/torrents/13039523700239) |
+| `[ToonsHub] From Overshadowed to Overpowered Second Reincarnation of...` | **1417.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/628882) • [🐱 Nyaa](https://nyaa.si/view/2145733) |
+| `[ToonsHub] Mebius Dust S01E06 1080p CR WEB-DL AAC2.0 H.264 (Multi-S...` | **1415.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/628883) • [🐱 Nyaa](https://nyaa.si/view/2145732) |
+| `Mebius Dust S01E06 1080p CR WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **1404.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/628884) • [🐱 Nyaa](https://nyaa.si/view/2145731) |
+| `From Overshadowed to Overpowered Second Reincarnation of a Talentle...` | **1407.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628885) • [🐱 Nyaa](https://nyaa.si/view/2145730) |
+| `[SubsPlease] Rakudai Kenja no Gakuin Musou - 08 (1080p) [FF9EED0D].mkv` | **1381.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/628875) • [🐱 Nyaa](https://nyaa.si/view/2145726) |
+| `From Overshadowed to Overpowered Second Reincarnation of a Talentle...` | **1385.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628870) • [🐱 Nyaa](https://nekobt.to/torrents/13041582558214) |
+| `[Erai-raws] Rakudai Kenja no Gakuin Musou - 08 [1080p CR WEB-DL AVC...` | **1389.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628871) • [🐱 Nyaa](https://nekobt.to/torrents/13041581463820) |
+| `[Erai-raws] Mebius Dust - 06 [1080p CR WEB-DL AVC AAC][MultiSub][41...` | **1388.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628874) • [🐱 Nyaa](https://nekobt.to/torrents/13041577507589) |
+| `[SubsPlease] Mebius Dust - 06 (1080p) [71BEB3F8].mkv` | **1377.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/628878) • [🐱 Nyaa](https://nyaa.si/view/2145715) |
+| `[Onalrie] Bang Dream Yumemita - S01E09 [1080p WEBRip AV1]` | **308.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628881) • [🐱 Nyaa](https://nekobt.to/torrents/13041547431951) |
+| `[ASW] BanG Dream! Yumemita - 09 [1080p HEVC x265 10Bit][AAC]` | **341.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628866) • [🐱 Nyaa](https://nyaa.si/view/2145711) |
+| `[Judas] Reiwa no Dara-san (Dara-san of Reiwa) - S01E07 [1080p][HEVC...` | **202.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628864) • [🐱 Nyaa](https://nyaa.si/view/2145708) |
+| `[SubsMix] The Ogre's Bride - 06 (S01E06) - (WEB 1080p AVC x264 AAC ...` | **1749.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628865) • [🐱 Nyaa](https://nyaa.si/view/2145707) |
+| `[Bird] Ganzo! Bandori-chan - 45 (1080p) [5923D4A7]` | **12.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/628863) • [🐱 Nyaa](https://nyaa.si/view/2145686) |
+| `[VARYG] The Angel Next Door Spoils Me Rotten S02E03 Homecoming and ...` | **1438.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628859) • [🐱 Nyaa](https://nekobt.to/torrents/13041238500110) |
 
 ---
 <div align="center">
