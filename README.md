@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.33.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.08.07_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[CicakRumah] Koupen-chan - S01E69v2 (コウペンちゃん; Koupen Chan) [AMZN.WE...` | **132.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628812) • [🐱 Nyaa](https://nyaa.si/view/2145598) |
-| `[SubsNoJutsu] Tomb Raider King - S01E06 (1080p WEBRip AAC x265) [96...` | **622.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/628811) • [🐱 Nyaa](https://nekobt.to/torrents/13038376133127) |
-| `[CicakRumah] Koupen-chan - S01E69 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **132.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/628810) • [🐱 Nyaa](https://nyaa.si/view/2145585) |
-| `[Gecko] Koala's Diary - S01E44 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **47.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628808) • [🐱 Nyaa](https://nekobt.to/torrents/13037979478534) |
-| `[ToonsHub] Koalas Diary S01E44 1080p LNTV WEB-DL AAC2.0 H.264 (Mult...` | **74.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628809) • [🐱 Nyaa](https://nekobt.to/torrents/13037964737547) |
-| `[ZeroReverse] False Memory - 01 (WEBRip 1080p) [FB34BD2B].mkv` | **5059.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/628803) • [🐱 Nyaa](https://nekobt.to/torrents/13033974147082) |
-| `[FuyuPOP] Yani Neko - Ep06 (1080p x265 AAC WEB)` | **599.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/628801) • [🐱 Nyaa](https://nekobt.to/torrents/13032693610249) |
-| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E06 (いびってこ...` | **675.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628800) • [🐱 Nyaa](https://nekobt.to/torrents/13032521163020) |
-| `[Gecko] Cat Tales - S01E44 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628798) • [🐱 Nyaa](https://nyaa.si/view/2145539) |
-| `[Gecko] Candy Caries - S01E18 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **87.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628797) • [🐱 Nyaa](https://nekobt.to/torrents/13030702580235) |
-| `[Some-Stuffs] POKÉTOON 21 - The Summer That Goes On, With Kameil (1...` | **171.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628795) • [🐱 Nyaa](https://nyaa.si/view/2145509) |
-| `[Doomdos] - Supreme Alchemy - 188 [1080p IQ WEB-DL]` | **180.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628793) • [🐱 Nyaa](https://nyaa.si/view/2145503) |
-| `[Doomdos] - Against the Gods 2nd Season - 50 [1080p IQ WEB-DL]` | **399.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/628794) • [🐱 Nyaa](https://nyaa.si/view/2145497) |
-| `[Erai-raws] Dogulwang - 06 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **611.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628788) • [🐱 Nyaa](https://nyaa.si/view/2145479) |
-| `[Erai-raws] Dogulwang - 06 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **622.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628789) • [🐱 Nyaa](https://nyaa.si/view/2145478) |
+| `BanG Dream YUME MITA S01E09 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-T...` | **1381.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/628853) • [🐱 Nyaa](https://nekobt.to/torrents/13040703713804) |
+| `[ToonsHub] BanG Dream YUMEMITA S01E09 1080p CR WEB-DL AAC2.0 H.264 ...` | **1372.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/628846) • [🐱 Nyaa](https://nyaa.si/view/2145650) |
+| `[SubsPlease] BanG Dream! Yumemita - 09 (1080p) [7F64A126].mkv` | **1376.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628847) • [🐱 Nyaa](https://nyaa.si/view/2145649) |
+| `[Erai-raws] Bang Dream Yumemita - 09 [1080p CR WEB-DL AVC AAC][Mult...` | **1383.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/628851) • [🐱 Nyaa](https://nyaa.si/view/2145644) |
+| `[Shridhuu][1080p HBR] Perfect World Movie - Nine Tribulations Burni...` | **5375.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/628843) • [🐱 Nyaa](https://nyaa.si/view/2145641) |
+| `[Kosaka] Dara-san of the Reiwa Era - S01E07 (WEBRip 1080p AV1 OPUS)...` | **169.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628845) • [🐱 Nyaa](https://nekobt.to/torrents/13040449987337) |
+| `[Onalrie] Reiwa no Dara-san - S01E07 [1080p WEBRip AV1]` | **163.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628842) • [🐱 Nyaa](https://nekobt.to/torrents/13040281238793) |
+| `[ASW] Bungou Stray Dogs Wan! S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **157.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628840) • [🐱 Nyaa](https://nyaa.si/view/2145638) |
+| `[ASW] Reiwa no Dara-san - 07 [1080p HEVC x265 10Bit][AAC]` | **193.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628841) • [🐱 Nyaa](https://nyaa.si/view/2145637) |
+| `[Onalrie] Bungou Stray Dogs Wan - S02E07 [1080p WEBRip AV1]` | **125.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/628839) • [🐱 Nyaa](https://nekobt.to/torrents/13039777382152) |
+| `[ToonsHub] GANSO BanG Dream Chan S01E45 1080p AMZN WEB-DL DDP2.0 H....` | **59.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628838) • [🐱 Nyaa](https://nyaa.si/view/2145636) |
+| `[ToonsHub] Bungo Stray Dogs WAN S02E07 1080p AMZN WEB-DL DDP2.0 H.2...` | **440.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628837) • [🐱 Nyaa](https://nyaa.si/view/2145634) |
+| `[VARYG] Bungo Stray Dogs WAN S02E05 Bungo Stray Dogs Preschool 1080...` | **706.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628829) • [🐱 Nyaa](https://nekobt.to/torrents/13039540019721) |
+| `[VARYG] Bungo Stray Dogs WAN S02E07 Strength is Everything Survive ...` | **690.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/628830) • [🐱 Nyaa](https://nekobt.to/torrents/13039538462215) |
+| `[ToonsHub] Bungo Stray Dogs WAN S02E05 1080p CR WEB-DL DUAL AAC2.0 ...` | **703.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628831) • [🐱 Nyaa](https://nekobt.to/torrents/13039523700239) |
 
 ---
 <div align="center">
