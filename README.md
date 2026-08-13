@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.59.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.38.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Some-Stuffs] POKÉTOON 21 - The Summer That Goes On, With Kameil (1...` | **171.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628795) • [🐱 Nyaa](https://nyaa.si/view/2145509) |
+| `[Doomdos] - Supreme Alchemy - 188 [1080p IQ WEB-DL]` | **180.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628793) • [🐱 Nyaa](https://nyaa.si/view/2145503) |
+| `[Doomdos] - Against the Gods 2nd Season - 50 [1080p IQ WEB-DL]` | **399.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/628794) • [🐱 Nyaa](https://nyaa.si/view/2145497) |
+| `[Erai-raws] Dogulwang - 06 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **611.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628788) • [🐱 Nyaa](https://nyaa.si/view/2145479) |
+| `[Erai-raws] Dogulwang - 06 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **622.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628789) • [🐱 Nyaa](https://nyaa.si/view/2145478) |
+| `[A&C] One Piece - S00E04 - Movie 02 (BD 1080p HEVC) [Multi-Subs] [v2]` | **20902.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/628783) • [🐱 Nyaa](https://nyaa.si/view/2145471) |
+| `[A&C] One Piece - S00E02 - Movie 01 (BD 1080p HEVC) [Multi-Subs] [v2]` | **18285.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628784) • [🐱 Nyaa](https://nyaa.si/view/2145469) |
 | `[Ironclad] From Old Country Bumpkin to Master Swordsman - S02E06 (W...` | **286.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/628782) • [🐱 Nyaa](https://nekobt.to/torrents/13026479132419) |
 | `[Yameii] Tomb Raider King - S01E04 [English Dub] [CR WEB-DL 1080p H...` | **1346.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628777) • [🐱 Nyaa](https://nyaa.si/view/2145452) |
 | `[Yameii] Trapped in a Dating Sim: The World of Otome Games is Tough...` | **1382.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628773) • [🐱 Nyaa](https://nekobt.to/torrents/13026339548418) |
@@ -38,13 +45,6 @@
 | `[sam] The Ghost in the Shell (2026) - S01E06 (WEB 1080p HEVC x265 1...` | **4624.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628776) • [🐱 Nyaa](https://nekobt.to/torrents/13026318562061) |
 | `[VARYG] Saga of Tanya the Evil S02E03 Well-Intentioned Mediator 108...` | **1481.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/628772) • [🐱 Nyaa](https://nekobt.to/torrents/13026115432715) |
 | `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 08 [1080p CR WEB...` | **328.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628771) • [🐱 Nyaa](https://nyaa.si/view/2145445) |
-| `[FBI] Re:Zero Starting Life in Another World - S04E12 (CR WEB-DL 10...` | **1387.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/628770) • [🐱 Nyaa](https://nyaa.si/view/2145444) |
-| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 06 [108...` | **454.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628769) • [🐱 Nyaa](https://nekobt.to/torrents/13025744856585) |
-| `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E08 [108...` | **234.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/628768) • [🐱 Nyaa](https://nyaa.si/view/2145442) |
-| `[kikuri] Sousou no Frieren 2nd Season (BD 1080p HEVC Opus) | Friere...` | **23464.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/628767) • [🐱 Nyaa](https://nyaa.si/view/2145441) |
-| `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E06 [...` | **489.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628766) • [🐱 Nyaa](https://nyaa.si/view/2145440) |
-| `[Erai-raws] Lv999 no Murabito - 08 [1080p CR WEBRip HEVC AAC][Multi...` | **378.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/628765) • [🐱 Nyaa](https://nyaa.si/view/2145436) |
-| `[Ironclad] Clevatess - S02E06 (WEB 1080p AV1) | Clevatess II (Multi...` | **376.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/628762) • [🐱 Nyaa](https://nekobt.to/torrents/13024488012801) |
 
 ---
 <div align="center">
