@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.38.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.30.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Cat Tales - S01E44 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628798) • [🐱 Nyaa](https://nyaa.si/view/2145539) |
+| `[Gecko] Candy Caries - S01E18 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **87.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628797) • [🐱 Nyaa](https://nekobt.to/torrents/13030702580235) |
 | `[Some-Stuffs] POKÉTOON 21 - The Summer That Goes On, With Kameil (1...` | **171.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/628795) • [🐱 Nyaa](https://nyaa.si/view/2145509) |
 | `[Doomdos] - Supreme Alchemy - 188 [1080p IQ WEB-DL]` | **180.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628793) • [🐱 Nyaa](https://nyaa.si/view/2145503) |
 | `[Doomdos] - Against the Gods 2nd Season - 50 [1080p IQ WEB-DL]` | **399.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/628794) • [🐱 Nyaa](https://nyaa.si/view/2145497) |
@@ -43,8 +45,6 @@
 | `[Yameii] Hana-Kimi - S02E06 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1407.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628774) • [🐱 Nyaa](https://nekobt.to/torrents/13026336592393) |
 | `[Yameii] Clevatess - S02E06 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1386.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628775) • [🐱 Nyaa](https://nekobt.to/torrents/13026334687496) |
 | `[sam] The Ghost in the Shell (2026) - S01E06 (WEB 1080p HEVC x265 1...` | **4624.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628776) • [🐱 Nyaa](https://nekobt.to/torrents/13026318562061) |
-| `[VARYG] Saga of Tanya the Evil S02E03 Well-Intentioned Mediator 108...` | **1481.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/628772) • [🐱 Nyaa](https://nekobt.to/torrents/13026115432715) |
-| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 08 [1080p CR WEB...` | **328.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628771) • [🐱 Nyaa](https://nyaa.si/view/2145445) |
 
 ---
 <div align="center">
