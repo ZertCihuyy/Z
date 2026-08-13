@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.37.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.30.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CicakRumah] Koupen-chan - S01E69 (コウペンちゃん; Koupen Chan) [AMZN.WEB-...` | **132.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/628810) • [🐱 Nyaa](https://nyaa.si/view/2145585) |
+| `[Gecko] Koala's Diary - S01E44 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **47.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/628808) • [🐱 Nyaa](https://nekobt.to/torrents/13037979478534) |
+| `[ToonsHub] Koalas Diary S01E44 1080p LNTV WEB-DL AAC2.0 H.264 (Mult...` | **74.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628809) • [🐱 Nyaa](https://nekobt.to/torrents/13037964737547) |
 | `[ZeroReverse] False Memory - 01 (WEBRip 1080p) [FB34BD2B].mkv` | **5059.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/628803) • [🐱 Nyaa](https://nekobt.to/torrents/13033974147082) |
 | `[FuyuPOP] Yani Neko - Ep06 (1080p x265 AAC WEB)` | **599.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/628801) • [🐱 Nyaa](https://nekobt.to/torrents/13032693610249) |
 | `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E06 (いびってこ...` | **675.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628800) • [🐱 Nyaa](https://nekobt.to/torrents/13032521163020) |
@@ -42,9 +45,6 @@
 | `[Erai-raws] Dogulwang - 06 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **622.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628789) • [🐱 Nyaa](https://nyaa.si/view/2145478) |
 | `[A&C] One Piece - S00E04 - Movie 02 (BD 1080p HEVC) [Multi-Subs] [v2]` | **20902.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/628783) • [🐱 Nyaa](https://nyaa.si/view/2145471) |
 | `[A&C] One Piece - S00E02 - Movie 01 (BD 1080p HEVC) [Multi-Subs] [v2]` | **18285.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/628784) • [🐱 Nyaa](https://nyaa.si/view/2145469) |
-| `[Ironclad] From Old Country Bumpkin to Master Swordsman - S02E06 (W...` | **286.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/628782) • [🐱 Nyaa](https://nekobt.to/torrents/13026479132419) |
-| `[Yameii] Tomb Raider King - S01E04 [English Dub] [CR WEB-DL 1080p H...` | **1346.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628777) • [🐱 Nyaa](https://nyaa.si/view/2145452) |
-| `[Yameii] Trapped in a Dating Sim: The World of Otome Games is Tough...` | **1382.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628773) • [🐱 Nyaa](https://nekobt.to/torrents/13026339548418) |
 
 ---
 <div align="center">
