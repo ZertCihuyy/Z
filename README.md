@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.48.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.51.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sam] Grand Blue Dreaming - S03E05 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1707.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629010) • [🐱 Nyaa](https://nyaa.si/view/2145890) |
+| `[DKB] Otome Kaijuu Caraméliser - S01E07 [1080p][HEVC x265 10bit][Mu...` | **492.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/629008) • [🐱 Nyaa](https://nyaa.si/view/2145883) |
 | `[Asakura] Tensei Shitara Slime Datta Ken S04E17 [1080p WEB AAC x264...` | **1405.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629006) • [🐱 Nyaa](https://nekobt.to/torrents/13046856337672) |
 | `[Asakura] Tensei Shitara Slime Datta Ken S04E16 [1080p WEB AAC x264...` | **1402.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/629007) • [🐱 Nyaa](https://nekobt.to/torrents/13046845233163) |
 | `[Erai-raws] Yani Neko - 07 [1080p NF WEBRip HEVC AAC][MultiSub][BBC...` | **564.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629005) • [🐱 Nyaa](https://nekobt.to/torrents/13046483975682) |
@@ -44,8 +46,6 @@
 | `[ZeroBuild] In Another World With My Smartphone (S01) (Season 1) (B...` | **27120.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628997) • [🐱 Nyaa](https://nyaa.si/view/2145866) |
 | `[ToonsHub] Smoking Behind the Supermarket with You S01E03 1080p CR ...` | **1539.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628996) • [🐱 Nyaa](https://nekobt.to/torrents/13045532806662) |
 | `[Erai-raws] Super no Ura de Yani Suu Futari - 06 [1080p CR WEBRip H...` | **310.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628995) • [🐱 Nyaa](https://nekobt.to/torrents/13045378915846) |
-| `[Judas] Super no Ura de Yani Suu Futari (Smoking Behind the Superma...` | **159.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/628994) • [🐱 Nyaa](https://nyaa.si/view/2145863) |
-| `[Onalrie] Yani Neko - S01E07 [1080p WEBRip AV1]` | **322.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/628993) • [🐱 Nyaa](https://nekobt.to/torrents/13045066957056) |
 
 ---
 <div align="center">
