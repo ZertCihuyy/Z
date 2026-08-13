@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.49.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.47.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E12 (WEB 1080p AAC)` | **1452.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629025) • [🐱 Nyaa](https://nekobt.to/torrents/13049615470092) |
+| `[Erai-raws] Otome Kaijuu Carameliser - 07 [1080p CR WEBRip HEVC AAC...` | **629.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629024) • [🐱 Nyaa](https://nyaa.si/view/2145909) |
+| `[NekoCafe] Boku no Risou no Isekai Seikatsu - 02 [1080p H264][ENG+R...` | **605.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629022) • [🐱 Nyaa](https://animetosho.xyz/view/629022) |
+| `[NekoCafe] Boku no Risou no Isekai Seikatsu - 02 [1080p AV1 10bit][...` | **126.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629021) • [🐱 Nyaa](https://animetosho.xyz/view/629021) |
+| `[NekoCafe] Boku no Risou no Isekai Seikatsu - 01 [1080p H264][ENG+R...` | **639.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/629017) • [🐱 Nyaa](https://animetosho.xyz/view/629017) |
+| `[NekoCafe] Boku no Risou no Isekai Seikatsu - 01 [1080p AV1 10bit][...` | **137.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629016) • [🐱 Nyaa](https://animetosho.xyz/view/629016) |
+| `[Reza] Smoking Behind the Supermarket with You - S01E06 [WEBRip 108...` | **982.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629018) • [🐱 Nyaa](https://nyaa.si/view/2145906) |
+| `[Reza] Smoking Behind the Supermarket with You - S01E05 [WEBRip 108...` | **1101.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629019) • [🐱 Nyaa](https://nyaa.si/view/2145905) |
+| `[Reza] Smoking Behind the Supermarket with You - S01E04 [WEBRip 108...` | **1128.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/629020) • [🐱 Nyaa](https://nyaa.si/view/2145902) |
 | `[SubsPlease] Meitantei Precure! (01-26) (1080p) [Batch]` | **36525.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629014) • [🐱 Nyaa](https://nyaa.si/view/2145900) |
 | `[Ironclad] Smoking Behind the Supermarket with You - S01E06 (WEB 10...` | **201.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/629012) • [🐱 Nyaa](https://nekobt.to/torrents/13048071500291) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime - S04E16 (WEB ...` | **1489.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/629011) • [🐱 Nyaa](https://nekobt.to/torrents/13047830441738) |
 | `[sam] Grand Blue Dreaming - S03E05 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1707.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629010) • [🐱 Nyaa](https://nyaa.si/view/2145890) |
 | `[DKB] Otome Kaijuu Caraméliser - S01E07 [1080p][HEVC x265 10bit][Mu...` | **492.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/629008) • [🐱 Nyaa](https://nyaa.si/view/2145883) |
 | `[Asakura] Tensei Shitara Slime Datta Ken S04E17 [1080p WEB AAC x264...` | **1405.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629006) • [🐱 Nyaa](https://nekobt.to/torrents/13046856337672) |
-| `[Asakura] Tensei Shitara Slime Datta Ken S04E16 [1080p WEB AAC x264...` | **1402.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/629007) • [🐱 Nyaa](https://nekobt.to/torrents/13046845233163) |
-| `[Erai-raws] Yani Neko - 07 [1080p NF WEBRip HEVC AAC][MultiSub][BBC...` | **564.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629005) • [🐱 Nyaa](https://nekobt.to/torrents/13046483975682) |
-| `[Ironclad] Chainsmoker Cat - S01E07 (WEB 1080p AV1) | Yani Neko (Mu...` | **336.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/629003) • [🐱 Nyaa](https://nekobt.to/torrents/13046328373770) |
-| `[DKB] Super no Ura de Yani Suu Futari - S01E06 [1080p][HEVC x265 10...` | **176.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629004) • [🐱 Nyaa](https://nyaa.si/view/2145873) |
-| `[DKB] Yani Neko - S01E07 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **476.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629002) • [🐱 Nyaa](https://nyaa.si/view/2145872) |
-| `[Judas] Katainaka no Ossan, Kensei ni Naru (From Old Country Bumpki...` | **260.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629000) • [🐱 Nyaa](https://nyaa.si/view/2145871) |
-| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E12 [1080p CR...` | **1382.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/629001) • [🐱 Nyaa](https://nekobt.to/torrents/13045892786183) |
-| `[VARYG] KAIJU GIRL CARAMELISE S01E06 1080p BILI WEB-DL AAC2.0 H.264...` | **439.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628998) • [🐱 Nyaa](https://nekobt.to/torrents/13045756322313) |
-| `[VARYG] The Frontier Lord Begins with Zero Subjects S01E03 1080p BI...` | **266.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628999) • [🐱 Nyaa](https://nekobt.to/torrents/13045739941126) |
 
 ---
 <div align="center">
