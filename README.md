@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.05.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.54.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ZeroReverse] False Memory - 01 (WEBRip 1080p) [FB34BD2B].mkv` | **5059.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/628803) • [🐱 Nyaa](https://nekobt.to/torrents/13033974147082) |
 | `[FuyuPOP] Yani Neko - Ep06 (1080p x265 AAC WEB)` | **599.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/628801) • [🐱 Nyaa](https://nekobt.to/torrents/13032693610249) |
 | `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E06 (いびってこ...` | **675.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/628800) • [🐱 Nyaa](https://nekobt.to/torrents/13032521163020) |
 | `[Gecko] Cat Tales - S01E44 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/628798) • [🐱 Nyaa](https://nyaa.si/view/2145539) |
@@ -44,7 +45,6 @@
 | `[Ironclad] From Old Country Bumpkin to Master Swordsman - S02E06 (W...` | **286.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/628782) • [🐱 Nyaa](https://nekobt.to/torrents/13026479132419) |
 | `[Yameii] Tomb Raider King - S01E04 [English Dub] [CR WEB-DL 1080p H...` | **1346.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628777) • [🐱 Nyaa](https://nyaa.si/view/2145452) |
 | `[Yameii] Trapped in a Dating Sim: The World of Otome Games is Tough...` | **1382.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628773) • [🐱 Nyaa](https://nekobt.to/torrents/13026339548418) |
-| `[Yameii] Hana-Kimi - S02E06 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1407.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/628774) • [🐱 Nyaa](https://nekobt.to/torrents/13026336592393) |
 
 ---
 <div align="center">
