@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.51.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.49.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Meitantei Precure! (01-26) (1080p) [Batch]` | **36525.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629014) • [🐱 Nyaa](https://nyaa.si/view/2145900) |
+| `[Ironclad] Smoking Behind the Supermarket with You - S01E06 (WEB 10...` | **201.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/629012) • [🐱 Nyaa](https://nekobt.to/torrents/13048071500291) |
+| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E16 (WEB ...` | **1489.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/629011) • [🐱 Nyaa](https://nekobt.to/torrents/13047830441738) |
 | `[sam] Grand Blue Dreaming - S03E05 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1707.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629010) • [🐱 Nyaa](https://nyaa.si/view/2145890) |
 | `[DKB] Otome Kaijuu Caraméliser - S01E07 [1080p][HEVC x265 10bit][Mu...` | **492.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/629008) • [🐱 Nyaa](https://nyaa.si/view/2145883) |
 | `[Asakura] Tensei Shitara Slime Datta Ken S04E17 [1080p WEB AAC x264...` | **1405.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629006) • [🐱 Nyaa](https://nekobt.to/torrents/13046856337672) |
@@ -43,9 +46,6 @@
 | `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E12 [1080p CR...` | **1382.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/629001) • [🐱 Nyaa](https://nekobt.to/torrents/13045892786183) |
 | `[VARYG] KAIJU GIRL CARAMELISE S01E06 1080p BILI WEB-DL AAC2.0 H.264...` | **439.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628998) • [🐱 Nyaa](https://nekobt.to/torrents/13045756322313) |
 | `[VARYG] The Frontier Lord Begins with Zero Subjects S01E03 1080p BI...` | **266.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628999) • [🐱 Nyaa](https://nekobt.to/torrents/13045739941126) |
-| `[ZeroBuild] In Another World With My Smartphone (S01) (Season 1) (B...` | **27120.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/628997) • [🐱 Nyaa](https://nyaa.si/view/2145866) |
-| `[ToonsHub] Smoking Behind the Supermarket with You S01E03 1080p CR ...` | **1539.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/628996) • [🐱 Nyaa](https://nekobt.to/torrents/13045532806662) |
-| `[Erai-raws] Super no Ura de Yani Suu Futari - 06 [1080p CR WEBRip H...` | **310.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628995) • [🐱 Nyaa](https://nekobt.to/torrents/13045378915846) |
 
 ---
 <div align="center">
