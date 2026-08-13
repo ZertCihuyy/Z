@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.30.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.38.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou ...` | **642.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/628954) • [🐱 Nyaa](https://nekobt.to/torrents/13043729735947) |
-| `[ASW] Super no Ura de Yani Suu Futari - 06 [1080p HEVC x265 10Bit][...` | **152.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628953) • [🐱 Nyaa](https://nyaa.si/view/2145812) |
-| `[9volt] Super no Ura de Yani Suu Futari - 01 (S01E01) (WEB 1080p HE...` | **1492.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/628951) • [🐱 Nyaa](https://nyaa.si/view/2145810) |
-| `[Doomdos] - The Exiled Heavy Knight Knows How to Game the System - ...` | **441.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/628950) • [🐱 Nyaa](https://nyaa.si/view/2145809) |
-| `Chainsmoker Cat S01E07 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsunder...` | **184.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/628952) • [🐱 Nyaa](https://nekobt.to/torrents/13043092068366) |
-| `[Ironclad] Dara-San of the Reiwa Era - S01E07 (WEB 1080p AV1) | Rei...` | **154.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/628945) • [🐱 Nyaa](https://nekobt.to/torrents/13043076305162) |
-| `[Judas] Mebius Dust - S01E06 [1080p][HEVC x265 10bit][Multi-Subs] (...` | **375.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/628949) • [🐱 Nyaa](https://nyaa.si/view/2145806) |
-| `[FrixySubs] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E06 [...` | **1386.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/628946) • [🐱 Nyaa](https://nekobt.to/torrents/13042923323145) |
-| `[Doomdos] - Chainsmoker Cat - 7 [1080p IQ WEB-DL]` | **356.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628944) • [🐱 Nyaa](https://nyaa.si/view/2145803) |
-| `[FrixySubs] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E05 [...` | **1385.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/628947) • [🐱 Nyaa](https://nekobt.to/torrents/13042908993292) |
-| `[FrixySubs] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E04 [...` | **1384.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/628948) • [🐱 Nyaa](https://nekobt.to/torrents/13042893509390) |
-| `[ASW] Mebius Dust - 06 [1080p HEVC x265 10Bit][AAC]` | **376.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/628942) • [🐱 Nyaa](https://nyaa.si/view/2145801) |
-| `[ASW] Rakudai Kenja no Gakuin Musou - 08 [1080p HEVC x265 10Bit][AAC]` | **238.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/628943) • [🐱 Nyaa](https://nyaa.si/view/2145800) |
-| `Chainsmoker Cat S01E07 SUBFRENCH 1080p NF WEB-DL AAC2.0 x264-Tsunde...` | **901.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/628936) • [🐱 Nyaa](https://nekobt.to/torrents/13042763675659) |
-| `Chainsmoker Cat S01E07 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsund...` | **408.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/628937) • [🐱 Nyaa](https://nekobt.to/torrents/13042759930122) |
+| `[Judas] Otome Kaiju Caramelise (Kaiju Girl Caramelise) - S01E07 [10...` | **430.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/628988) • [🐱 Nyaa](https://nyaa.si/view/2145854) |
+| `[DKB] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat...` | **299.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/628989) • [🐱 Nyaa](https://nyaa.si/view/2145853) |
+| `[DKB] Mebius Dust - S01E06 [1080p][HEVC x265 10bit][Multi-Subs][wee...` | **454.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/628990) • [🐱 Nyaa](https://nyaa.si/view/2145852) |
+| `[DKB] BanG Dream! Yume∞Mita - S01E09 [1080p][HEVC x265 10bit][Multi...` | **358.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/628991) • [🐱 Nyaa](https://nyaa.si/view/2145851) |
+| `[Onalrie] Otome Kaijuu Carameliser - S01E07 [1080p WEBRip AV1]` | **304.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/628987) • [🐱 Nyaa](https://nekobt.to/torrents/13044633240069) |
+| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **781.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/628986) • [🐱 Nyaa](https://nyaa.si/view/2145849) |
+| `[ASW] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru...` | **855.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/628985) • [🐱 Nyaa](https://nyaa.si/view/2145848) |
+| `[Erai-raws] Yani Neko - 07 [1080p NF WEB-DL AVC AAC][MultiSub][A5D3...` | **880.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/628982) • [🐱 Nyaa](https://nekobt.to/torrents/13044175571727) |
+| `[denisplay]  Youjo Senki S2 - 06 [1080p] [AV1] (Weekly) (Youjo Senk...` | **321.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/628980) • [🐱 Nyaa](https://nyaa.si/view/2145845) |
+| `[Onalrie] Super no Ura de Yani Suu Futari - S01E06 [1080p WEBRip AV1]` | **169.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/628983) • [🐱 Nyaa](https://nekobt.to/torrents/13044062268165) |
+| `[ToonsHub] KAIJU GIRL CARAMELISE S01E04 1080p CR WEB-DL MULTi AAC2....` | **1542.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/628972) • [🐱 Nyaa](https://nyaa.si/view/2145842) |
+| `KAIJU GIRL CARAMELISE S01E05 A Gyaru and Lipstick 1080p CR WEB-DL D...` | **1477.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/628973) • [🐱 Nyaa](https://nyaa.si/view/2145841) |
+| `[Yameii] KAIJU GIRL CARAMELISE - S01E05 [English Dub] [CR WEB-DL 10...` | **1423.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/628974) • [🐱 Nyaa](https://nyaa.si/view/2145840) |
+| `KAIJU GIRL CARAMELISE S01E07 All Eyes on Arata 1080p CR WEB-DL AAC2...` | **1629.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/628975) • [🐱 Nyaa](https://nyaa.si/view/2145839) |
+| `[Erai-raws] Reiwa no Dara-san - 07 [1080p CR WEBRip HEVC AAC][Multi...` | **496.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/628976) • [🐱 Nyaa](https://nyaa.si/view/2145838) |
 
 ---
 <div align="center">
