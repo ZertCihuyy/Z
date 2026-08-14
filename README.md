@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.24.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.31.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Banana Fish S01 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (RE...` | **21593.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/629108) • [🐱 Nyaa](https://nyaa.si/view/2146057) |
-| `[vLbE3L] THE GHOST IN THE SHELL S01E06 [1080p AMZN WEBRip VVC xHE-A...` | **275.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/629105) • [🐱 Nyaa](https://nekobt.to/torrents/13061775462917) |
-| `[LbE3L] THE GHOST IN THE SHELL S01E06 [1080p AMZN WEB-DL AV1 (Muxed...` | **592.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/629106) • [🐱 Nyaa](https://nekobt.to/torrents/13061715605260) |
-| `[ZeroReverse] False Memory - S01E01 (WEBRip 1080p x265 10-bit EAC-3)` | **4169.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629107) • [🐱 Nyaa](https://nekobt.to/torrents/13061661185796) |
-| `Banana Fish S01 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raws (R...` | **6398.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629103) • [🐱 Nyaa](https://nyaa.si/view/2146052) |
-| `Banana Fish S01 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws (REA...` | **4185.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629104) • [🐱 Nyaa](https://nyaa.si/view/2146051) |
-| `[Shridhuu][1080p] Perfect World - 完美世界 (Wanmei Shijie) - EP282` | **383.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/629101) • [🐱 Nyaa](https://nyaa.si/view/2146050) |
-| `[denisplay] Otome Kaijuu Carameliser - 07 [1080p] [AV1] (Weekly) (K...` | **408.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629098) • [🐱 Nyaa](https://nyaa.si/view/2146048) |
-| `[CicakRumah] Koupen-chan Extra: Hanamaru Morning Radio - Episode 3 ...` | **4.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/629097) • [🐱 Nyaa](https://nyaa.si/view/2146039) |
-| `Link Click S04E01 REPACK SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1272.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629094) • [🐱 Nyaa](https://nekobt.to/torrents/13059435870220) |
-| `Link Click S04E02 REPACK SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1276.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629095) • [🐱 Nyaa](https://nekobt.to/torrents/13059397411336) |
-| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **303.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/629093) • [🐱 Nyaa](https://nyaa.si/view/2146029) |
-| `[ToonsHub] LINK CLICK S04E02 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1270.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629092) • [🐱 Nyaa](https://nekobt.to/torrents/13058559921410) |
-| `[ToonsHub] LINK CLICK S04E01 1080p CR WEB-DL AAC2.0 H.264 (Shiguang...` | **1267.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/629091) • [🐱 Nyaa](https://nyaa.si/view/2146027) |
-| `[ASW] Link Click S3 - 02 [1080p HEVC x265 10Bit][AAC]` | **212.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629090) • [🐱 Nyaa](https://nyaa.si/view/2146025) |
+| `[Judas] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **293.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/629141) • [🐱 Nyaa](https://nyaa.si/view/2146103) |
+| `[ASW] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 07 [1080p HEVC ...` | **311.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/629140) • [🐱 Nyaa](https://nyaa.si/view/2146102) |
+| `[ToonsHub] I Became a Legend after My 10 Year-Long Last Stand S01E0...` | **1428.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629138) • [🐱 Nyaa](https://nyaa.si/view/2146101) |
+| `I Became a Legend after My 10 Year Long Last Stand S01E07 The Tresp...` | **1406.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/629139) • [🐱 Nyaa](https://nyaa.si/view/2146100) |
+| `I Became a Legend After My 10 Year Long Last Stand S01E07 SUBFRENCH...` | **1383.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/629135) • [🐱 Nyaa](https://nekobt.to/torrents/13062787394820) |
+| `[SubsPlease] Kokoore - 07 (1080p) [701D380A].mkv` | **1378.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/629130) • [🐱 Nyaa](https://nyaa.si/view/2146097) |
+| `[Erai-raws] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen...` | **1387.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/629137) • [🐱 Nyaa](https://nekobt.to/torrents/13062774197262) |
+| `[Doomdos] - The Frontier Lord Begins with Zero Subjects - 7 [1080p ...` | **279.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/629129) • [🐱 Nyaa](https://nyaa.si/view/2146081) |
+| `[Unfucked] The Frontier Lord Begins with Zero Subjects - S01E07 (10...` | **1385.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/629128) • [🐱 Nyaa](https://nyaa.si/view/2146080) |
+| `[Shridhuu][1080p Clean] Beyond Time's Gaze - 光阴之外 (Beyond Time's Ga...` | **415.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629124) • [🐱 Nyaa](https://nyaa.si/view/2146079) |
+| `The Frontier Lord Begins with Zero Subjects S01E07 The Frontier Lor...` | **1405.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/629119) • [🐱 Nyaa](https://nyaa.si/view/2146076) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E07 1080p...` | **322.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/629120) • [🐱 Nyaa](https://nyaa.si/view/2146075) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E07 1080p...` | **870.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/629121) • [🐱 Nyaa](https://nyaa.si/view/2146074) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E07 1080p...` | **1426.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/629122) • [🐱 Nyaa](https://nyaa.si/view/2146073) |
+| `[Gecko] I Am the Only Human in The School - S01 (我是学校唯一的人类; Wo Shi ...` | **3624.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/629123) • [🐱 Nyaa](https://nyaa.si/view/2146072) |
 
 ---
 <div align="center">
