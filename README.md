@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.50.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.07.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **303.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/629093) • [🐱 Nyaa](https://nyaa.si/view/2146029) |
+| `[ToonsHub] LINK CLICK S04E02 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1270.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629092) • [🐱 Nyaa](https://nekobt.to/torrents/13058559921410) |
+| `[ToonsHub] LINK CLICK S04E01 1080p CR WEB-DL AAC2.0 H.264 (Shiguang...` | **1267.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/629091) • [🐱 Nyaa](https://nyaa.si/view/2146027) |
 | `[ASW] Link Click S3 - 02 [1080p HEVC x265 10Bit][AAC]` | **212.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629090) • [🐱 Nyaa](https://nyaa.si/view/2146025) |
 | `[Onalrie] Shiguang Dailiren - S03E02 (CA) [1080p WEBRip AV1]` | **165.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629089) • [🐱 Nyaa](https://nekobt.to/torrents/13057259600137) |
 | `Link Click S03E02 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1276.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629081) • [🐱 Nyaa](https://nekobt.to/torrents/13057013955851) |
@@ -44,9 +47,6 @@
 | `[Erai-raws] Crowned in a Hundred Days - 16 (CA) [1080p CR WEBRip HE...` | **353.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/629074) • [🐱 Nyaa](https://nyaa.si/view/2146007) |
 | `[Onalrie] Crowned in a Hundred Days - S01E16 (CA) [1080p WEBRip AV1]` | **156.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/629075) • [🐱 Nyaa](https://nekobt.to/torrents/13056430351631) |
 | `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **924.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/629071) • [🐱 Nyaa](https://nekobt.to/torrents/13054624183566) |
-| `[ASW] Link Click S3 - 01 [1080p HEVC x265 10Bit][AAC]` | **228.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629070) • [🐱 Nyaa](https://nyaa.si/view/2145999) |
-| `[ASW] Bai Ri Cheng Wang - 16 [1080p HEVC x265 10Bit][AAC]` | **219.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/629069) • [🐱 Nyaa](https://nyaa.si/view/2145998) |
-| `[ToonsHub] Crowned in a Hundred Days S01E16 1080p CR WEB-DL AAC2.0 ...` | **844.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/629064) • [🐱 Nyaa](https://nekobt.to/torrents/13053651828746) |
 
 ---
 <div align="center">
