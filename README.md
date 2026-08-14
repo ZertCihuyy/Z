@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.59.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.33.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Chibi Godzilla Raids Again - S01E111 (ちびゴジラの逆襲; Chibi Godzi...` | **55.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629272) • [🐱 Nyaa](https://nekobt.to/torrents/13070603527692) |
+| `King's Raid - Ishi o Tsugu Mono-tachi (King's Raid - Successors of ...` | **21179.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/629270) • [🐱 Nyaa](https://nyaa.si/view/2146311) |
 | `[Piyoko] Onegai AiPri - 19 [WEB AMZN 1080p h264 AC3 2.0]` | **953.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629267) • [🐱 Nyaa](https://nyaa.si/view/2146308) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **371.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629266) • [🐱 Nyaa](https://nyaa.si/view/2146307) |
 | `[Ironclad] KAMUI: He's Behind You - S01E07 (WEB 1080p AV1) | Ushiro...` | **308.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629265) • [🐱 Nyaa](https://nekobt.to/torrents/13068996701193) |
@@ -46,8 +48,6 @@
 | `[Erai-raws] Kami no Shizuku - 19 [1080p CR WEBRip HEVC AAC][MultiSu...` | **481.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/629254) • [🐱 Nyaa](https://nyaa.si/view/2146268) |
 | `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 18 [1080p C...` | **520.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629255) • [🐱 Nyaa](https://nyaa.si/view/2146267) |
 | `[Ironclad] That Time I Got Reincarnated as a Slime - S04E18 (WEB 10...` | **238.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629252) • [🐱 Nyaa](https://nekobt.to/torrents/13066892590086) |
-| `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **254.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629251) • [🐱 Nyaa](https://nekobt.to/torrents/13066607473664) |
-| `[ASW] Hell Mode S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **358.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629248) • [🐱 Nyaa](https://nyaa.si/view/2146257) |
 
 ---
 <div align="center">
