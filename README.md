@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.34.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.33.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Doomdos] - That Time I Got Reincarnated as a Slime Season 4 - 90 [...` | **315.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/629169) • [🐱 Nyaa](https://nyaa.si/view/2146147) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E16 1080p CR ...` | **1656.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629168) • [🐱 Nyaa](https://nyaa.si/view/2146145) |
-| `That Time I Got Reincarnated as a Slime S04E13 MULTi 1080p CR WEB-D...` | **1436.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/629160) • [🐱 Nyaa](https://nekobt.to/torrents/13063802189839) |
-| `The Angel Next Door Spoils Me Rotten S02E03 Homecoming and Revealin...` | **1537.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/629155) • [🐱 Nyaa](https://nyaa.si/view/2146140) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 18 [1080p C...` | **1012.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629157) • [🐱 Nyaa](https://nyaa.si/view/2146135) |
-| `That Time I Got Reincarnated as a Slime S04E14 MULTi 1080p CR WEB-D...` | **1430.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/629164) • [🐱 Nyaa](https://nekobt.to/torrents/13063760553223) |
-| `That Time I Got Reincarnated as a Slime S04E18 Turbulence in the We...` | **1429.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629158) • [🐱 Nyaa](https://nyaa.si/view/2146132) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E18 1080p CR ...` | **1427.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629159) • [🐱 Nyaa](https://nyaa.si/view/2146131) |
-| `That Time I Got Reincarnated as a Slime S04E15 A Sense of Forebodin...` | **280.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/629151) • [🐱 Nyaa](https://nyaa.si/view/2146128) |
-| `[SubsPlease] Tensei Shitara Slime Datta Ken S4 - 18 (1080p) [1E539D...` | **1400.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/629152) • [🐱 Nyaa](https://nyaa.si/view/2146126) |
-| `That Time I Got Reincarnated as a Slime S04E18 SUBFRENCH 1080p CR W...` | **1406.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629166) • [🐱 Nyaa](https://nekobt.to/torrents/13063705991684) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E18 1080p BIL...` | **277.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/629149) • [🐱 Nyaa](https://nekobt.to/torrents/13063691560707) |
-| `[Onalrie] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen g...` | **160.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/629150) • [🐱 Nyaa](https://nekobt.to/torrents/13063652589579) |
-| `[ASW] Kokoore - 07 [1080p HEVC x265 10Bit][AAC]` | **164.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629144) • [🐱 Nyaa](https://nyaa.si/view/2146112) |
-| `[Onalrie] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - S01E07 [108...` | **206.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/629142) • [🐱 Nyaa](https://nekobt.to/torrents/13063314030339) |
+| `[Trix] Nige Jouzu no Wakagimi S02E05 [WEBRip 1080p AV1 Opus] (Multi...` | **483.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629211) • [🐱 Nyaa](https://nyaa.si/view/2146198) |
+| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E18 [1080p WEBRip AV1]` | **233.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/629210) • [🐱 Nyaa](https://nekobt.to/torrents/13064869903108) |
+| `[Judas] Tensei Shitara Slime Datta Ken (That Time I Got Reincarnate...` | **281.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/629207) • [🐱 Nyaa](https://nyaa.si/view/2146197) |
+| `[Ironclad] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - S01E07 [WE...` | **203.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/629208) • [🐱 Nyaa](https://nyaa.si/view/2146196) |
+| `[ASW] Kami no Shizuku - 19 [1080p HEVC x265 10Bit][AAC]` | **318.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/629209) • [🐱 Nyaa](https://nyaa.si/view/2146195) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E18 1080p NF ...` | **878.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/629204) • [🐱 Nyaa](https://nekobt.to/torrents/13064742696965) |
+| `[VARYG] The Elusive Samurai S02E17 The Unyielding 1080p CR WEB-DL A...` | **1732.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/629205) • [🐱 Nyaa](https://nekobt.to/torrents/13064727161601) |
+| `[AnoZu] The Elusive Samurai S02E05 1080p CR WEB-DL AAC 2.0 H.264 | ...` | **1737.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/629200) • [🐱 Nyaa](https://nyaa.si/view/2146192) |
+| `[ToonsHub] The Elusive Samurai S02E05 1080p CR WEB-DL AAC2.0 H.264 ...` | **1734.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629201) • [🐱 Nyaa](https://nyaa.si/view/2146191) |
+| `[Trix] The Drops of God S01E19 [WEBRip 1080p AV1 Opus] (Multi Subs,...` | **261.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/629202) • [🐱 Nyaa](https://nyaa.si/view/2146190) |
+| `[ToonsHub] The Elusive Samurai S02E05 1080p iQ WEB-DL AAC2.0 H.264 ...` | **420.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629203) • [🐱 Nyaa](https://nyaa.si/view/2146189) |
+| `[SubsPlease] Nige Jouzu no Wakagimi S2 - 05 (1080p) [98BF171F].mkv` | **1378.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629194) • [🐱 Nyaa](https://nyaa.si/view/2146188) |
+| `The Elusive Samurai S02E05 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-T...` | **1707.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629206) • [🐱 Nyaa](https://nekobt.to/torrents/13064632028172) |
+| `[Erai-raws] Nige Jouzu no Wakagimi 2nd Season - 05 [1080p CR WEB-DL...` | **1714.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/629199) • [🐱 Nyaa](https://nyaa.si/view/2146180) |
+| `[ToonsHub] Draw This Then Die S01E07 1080p NF WEB-DL DUAL AAC2.0 H....` | **863.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/629192) • [🐱 Nyaa](https://nekobt.to/torrents/13064601365506) |
 
 ---
 <div align="center">
