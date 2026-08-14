@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.43.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.50.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Link Click S3 - 02 [1080p HEVC x265 10Bit][AAC]` | **212.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629090) • [🐱 Nyaa](https://nyaa.si/view/2146025) |
+| `[Onalrie] Shiguang Dailiren - S03E02 (CA) [1080p WEBRip AV1]` | **165.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629089) • [🐱 Nyaa](https://nekobt.to/torrents/13057259600137) |
+| `Link Click S03E02 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1276.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629081) • [🐱 Nyaa](https://nekobt.to/torrents/13057013955851) |
+| `Link Click S03E01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1272.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629083) • [🐱 Nyaa](https://nekobt.to/torrents/13056964135431) |
 | `[SubsPlease] Link Click S3 - 02 (1080p) [33FFB581].mkv` | **1272.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/629078) • [🐱 Nyaa](https://nyaa.si/view/2146015) |
 | `[Onalrie] Shiguang Dailiren - S03E01 (CA) [1080p WEBRip AV1]` | **176.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/629077) • [🐱 Nyaa](https://nekobt.to/torrents/13056888232965) |
 | `[Gecko] Fabulous Beasts - S06E03v2 (有兽焉; You Shou Yan 6th Season) [...` | **142.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/629076) • [🐱 Nyaa](https://nekobt.to/torrents/13056709041678) |
@@ -43,10 +47,6 @@
 | `[ASW] Link Click S3 - 01 [1080p HEVC x265 10Bit][AAC]` | **228.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629070) • [🐱 Nyaa](https://nyaa.si/view/2145999) |
 | `[ASW] Bai Ri Cheng Wang - 16 [1080p HEVC x265 10Bit][AAC]` | **219.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/629069) • [🐱 Nyaa](https://nyaa.si/view/2145998) |
 | `[ToonsHub] Crowned in a Hundred Days S01E16 1080p CR WEB-DL AAC2.0 ...` | **844.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/629064) • [🐱 Nyaa](https://nekobt.to/torrents/13053651828746) |
-| `[SubsPlease] Link Click S3 - 01 (1080p) [4B8BBF23].mkv` | **1268.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629051) • [🐱 Nyaa](https://nyaa.si/view/2145992) |
-| `[Gecko] Crowned in a Hundred Days - S01E16 (百日成王; Bai Ri Cheng Wang...` | **177.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629053) • [🐱 Nyaa](https://nyaa.si/view/2145990) |
-| `Crowned in a Hundred Days S01E16 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **852.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/629054) • [🐱 Nyaa](https://nyaa.si/view/2145989) |
-| `Crowned in a Hundred Days S01E16 SUBFRENCH 1080p CR WEB-DL AAC2.0 H...` | **847.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629065) • [🐱 Nyaa](https://nekobt.to/torrents/13053565576717) |
 
 ---
 <div align="center">
