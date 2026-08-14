@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.57.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.43.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Link Click S3 - 02 (1080p) [33FFB581].mkv` | **1272.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/629078) • [🐱 Nyaa](https://nyaa.si/view/2146015) |
+| `[Onalrie] Shiguang Dailiren - S03E01 (CA) [1080p WEBRip AV1]` | **176.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/629077) • [🐱 Nyaa](https://nekobt.to/torrents/13056888232965) |
+| `[Gecko] Fabulous Beasts - S06E03v2 (有兽焉; You Shou Yan 6th Season) [...` | **142.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/629076) • [🐱 Nyaa](https://nekobt.to/torrents/13056709041678) |
+| `[Erai-raws] Shiguang Dailiren Season 3 - 02 (CA) [1080p CR WEBRip H...` | **256.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/629072) • [🐱 Nyaa](https://nyaa.si/view/2146009) |
+| `[Erai-raws] Shiguang Dailiren Season 3 - 01 (CA) [1080p CR WEBRip H...` | **272.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629073) • [🐱 Nyaa](https://nyaa.si/view/2146008) |
+| `[Erai-raws] Crowned in a Hundred Days - 16 (CA) [1080p CR WEBRip HE...` | **353.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/629074) • [🐱 Nyaa](https://nyaa.si/view/2146007) |
+| `[Onalrie] Crowned in a Hundred Days - S01E16 (CA) [1080p WEBRip AV1]` | **156.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/629075) • [🐱 Nyaa](https://nekobt.to/torrents/13056430351631) |
 | `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **924.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/629071) • [🐱 Nyaa](https://nekobt.to/torrents/13054624183566) |
 | `[ASW] Link Click S3 - 01 [1080p HEVC x265 10Bit][AAC]` | **228.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629070) • [🐱 Nyaa](https://nyaa.si/view/2145999) |
 | `[ASW] Bai Ri Cheng Wang - 16 [1080p HEVC x265 10Bit][AAC]` | **219.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/629069) • [🐱 Nyaa](https://nyaa.si/view/2145998) |
@@ -40,13 +47,6 @@
 | `[Gecko] Crowned in a Hundred Days - S01E16 (百日成王; Bai Ri Cheng Wang...` | **177.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629053) • [🐱 Nyaa](https://nyaa.si/view/2145990) |
 | `Crowned in a Hundred Days S01E16 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **852.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/629054) • [🐱 Nyaa](https://nyaa.si/view/2145989) |
 | `Crowned in a Hundred Days S01E16 SUBFRENCH 1080p CR WEB-DL AAC2.0 H...` | **847.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629065) • [🐱 Nyaa](https://nekobt.to/torrents/13053565576717) |
-| `[SubsPlease] Bai Ri Cheng Wang - 16 (1080p) [C75A5E88].mkv` | **685.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629055) • [🐱 Nyaa](https://nyaa.si/view/2145987) |
-| `[Erai-raws] Crowned in a Hundred Days - 16 (CA) [1080p CR WEB-DL AV...` | **851.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/629059) • [🐱 Nyaa](https://nyaa.si/view/2145983) |
-| `[ToonsHub] Crowned in a Hundred Days S01E16 1080p BILI WEB-DL AAC2....` | **175.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/629060) • [🐱 Nyaa](https://nyaa.si/view/2145981) |
-| `[Erai-raws] Shiguang Dailiren Season 3 - 02 (CA) [1080p CR WEB-DL A...` | **1281.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/629047) • [🐱 Nyaa](https://nyaa.si/view/2145975) |
-| `[Erai-raws] Shiguang Dailiren Season 3 - 01 (CA) [1080p CR WEB-DL A...` | **1276.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/629050) • [🐱 Nyaa](https://nyaa.si/view/2145972) |
-| `[Gecko] BanG Dream! YUME∞MITA - S01E09 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **691.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/629043) • [🐱 Nyaa](https://nekobt.to/torrents/13053149433345) |
-| `[VARYG] LINK CLICK S03E02 The Caged Beast 1080p CR WEB-DL AAC2.0 H....` | **1280.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629041) • [🐱 Nyaa](https://nekobt.to/torrents/13052775309061) |
 
 ---
 <div align="center">
