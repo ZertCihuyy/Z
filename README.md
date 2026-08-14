@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.56.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.32.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Piyoko] Onegai AiPri - 19 [WEB AMZN 1080p h264 AC3 2.0]` | **953.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629267) • [🐱 Nyaa](https://nyaa.si/view/2146308) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **371.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629266) • [🐱 Nyaa](https://nyaa.si/view/2146307) |
 | `[Ironclad] KAMUI: He's Behind You - S01E07 (WEB 1080p AV1) | Ushiro...` | **308.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629265) • [🐱 Nyaa](https://nekobt.to/torrents/13068996701193) |
 | `[yolerejiju] The Fragrant Flower Blooms with Dignity Season 1 (S01)...` | **32164.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/629264) • [🐱 Nyaa](https://nyaa.si/view/2146297) |
@@ -47,7 +48,6 @@
 | `[Ironclad] That Time I Got Reincarnated as a Slime - S04E18 (WEB 10...` | **238.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629252) • [🐱 Nyaa](https://nekobt.to/torrents/13066892590086) |
 | `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **254.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629251) • [🐱 Nyaa](https://nekobt.to/torrents/13066607473664) |
 | `[ASW] Hell Mode S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **358.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629248) • [🐱 Nyaa](https://nyaa.si/view/2146257) |
-| `[Mocha] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **508.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/629249) • [🐱 Nyaa](https://nyaa.si/view/2146256) |
 
 ---
 <div align="center">
