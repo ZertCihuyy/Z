@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.38.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.15.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Chibi Godzilla Raids Again - S01E113 (ちびゴジラの逆襲; Chibi Godzi...` | **55.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629263) • [🐱 Nyaa](https://nyaa.si/view/2146296) |
 | `[Erai-raws] Nige Jouzu no Wakagimi S02E05 [1080p CR WEBRip HEVC AAC...` | **762.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/629259) • [🐱 Nyaa](https://nekobt.to/torrents/13067607661579) |
 | `[DKB] Nige Jouzu no Wakagimi - S02E05 [1080p][HEVC x265 10bit][Mult...` | **654.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629258) • [🐱 Nyaa](https://nyaa.si/view/2146290) |
 | `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 07 [1080p CR WEBRip ...` | **365.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/629256) • [🐱 Nyaa](https://nyaa.si/view/2146271) |
@@ -47,7 +48,6 @@
 | `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E07 [1080p WEBRip AV1]` | **191.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/629250) • [🐱 Nyaa](https://nekobt.to/torrents/13066124400391) |
 | `[ASW] Uchi no Otouto-domo ga Sumimasen - 07 [1080p HEVC x265 10Bit]...` | **215.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629247) • [🐱 Nyaa](https://nyaa.si/view/2146250) |
 | `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **328.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629246) • [🐱 Nyaa](https://nyaa.si/view/2146249) |
-| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **226.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/629245) • [🐱 Nyaa](https://nyaa.si/view/2146245) |
 
 ---
 <div align="center">
