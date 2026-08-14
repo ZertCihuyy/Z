@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.00.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.38.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] KAMUI Hes Behind You S00E04 1080p AMZN WEB-DL DDP2.0 H.2...` | **395.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629275) • [🐱 Nyaa](https://nyaa.si/view/2146323) |
+| `[ToonsHub] KAMUI Hes Behind You S00E03 1080p AMZN WEB-DL DDP2.0 H.2...` | **388.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629276) • [🐱 Nyaa](https://nyaa.si/view/2146322) |
+| `[ToonsHub] KAMUI Hes Behind You S01E04 REPACK 1080p UNCENSORED AMZN...` | **647.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/629273) • [🐱 Nyaa](https://nyaa.si/view/2146319) |
+| `[ToonsHub] KAMUI Hes Behind You S01E03 REPACK 1080p UNCENSORED AMZN...` | **581.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629274) • [🐱 Nyaa](https://nyaa.si/view/2146318) |
 | `[Gecko] Chibi Godzilla Raids Again - S01E111 (ちびゴジラの逆襲; Chibi Godzi...` | **55.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629272) • [🐱 Nyaa](https://nekobt.to/torrents/13070603527692) |
 | `King's Raid - Ishi o Tsugu Mono-tachi (King's Raid - Successors of ...` | **21179.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/629270) • [🐱 Nyaa](https://nyaa.si/view/2146311) |
 | `[Piyoko] Onegai AiPri - 19 [WEB AMZN 1080p h264 AC3 2.0]` | **953.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629267) • [🐱 Nyaa](https://nyaa.si/view/2146308) |
@@ -44,10 +48,6 @@
 | `[DKB] Nige Jouzu no Wakagimi - S02E05 [1080p][HEVC x265 10bit][Mult...` | **654.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629258) • [🐱 Nyaa](https://nyaa.si/view/2146290) |
 | `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 07 [1080p CR WEBRip ...` | **365.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/629256) • [🐱 Nyaa](https://nyaa.si/view/2146271) |
 | `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 07 [1080p...` | **591.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/629257) • [🐱 Nyaa](https://nyaa.si/view/2146270) |
-| `[Erai-raws] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen...` | **278.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/629253) • [🐱 Nyaa](https://nyaa.si/view/2146269) |
-| `[Erai-raws] Kami no Shizuku - 19 [1080p CR WEBRip HEVC AAC][MultiSu...` | **481.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/629254) • [🐱 Nyaa](https://nyaa.si/view/2146268) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 18 [1080p C...` | **520.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629255) • [🐱 Nyaa](https://nyaa.si/view/2146267) |
-| `[Ironclad] That Time I Got Reincarnated as a Slime - S04E18 (WEB 10...` | **238.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629252) • [🐱 Nyaa](https://nekobt.to/torrents/13066892590086) |
 
 ---
 <div align="center">
