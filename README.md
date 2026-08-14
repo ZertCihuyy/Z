@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.39.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.33.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] That Time I Got Reincarnated as a Slime - S04E18 (WEB 10...` | **238.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629252) • [🐱 Nyaa](https://nekobt.to/torrents/13066892590086) |
+| `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **254.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629251) • [🐱 Nyaa](https://nekobt.to/torrents/13066607473664) |
+| `[ASW] Hell Mode S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **358.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629248) • [🐱 Nyaa](https://nyaa.si/view/2146257) |
+| `[Mocha] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **508.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/629249) • [🐱 Nyaa](https://nyaa.si/view/2146256) |
+| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E07 [1080p WEBRip AV1]` | **191.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/629250) • [🐱 Nyaa](https://nekobt.to/torrents/13066124400391) |
 | `[ASW] Uchi no Otouto-domo ga Sumimasen - 07 [1080p HEVC x265 10Bit]...` | **215.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629247) • [🐱 Nyaa](https://nyaa.si/view/2146250) |
 | `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **328.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629246) • [🐱 Nyaa](https://nyaa.si/view/2146249) |
 | `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **226.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/629245) • [🐱 Nyaa](https://nyaa.si/view/2146245) |
@@ -43,11 +48,6 @@
 | `[SubsPlus+] Hell Mode - S02E07 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **690.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/629238) • [🐱 Nyaa](https://nekobt.to/torrents/13065323699977) |
 | `[Onalrie] Kami no Shizuku - S01E19 [1080p WEBRip AV1]` | **248.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/629239) • [🐱 Nyaa](https://nekobt.to/torrents/13065269863174) |
 | `HELL MODE S02E07 ONWARD TO ROHZENHEIM 1080p HIDI WEB-DL AAC2.0 H.26...` | **927.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629236) • [🐱 Nyaa](https://nyaa.si/view/2146229) |
-| `[DKB] Tensei shitara Slime Datta Ken - S04E18 [1080p][HEVC x265 10b...` | **416.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/629237) • [🐱 Nyaa](https://nyaa.si/view/2146227) |
-| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **690.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/629227) • [🐱 Nyaa](https://nyaa.si/view/2146226) |
-| `[VARYG] Please Excuse My Younger Brothers S01E07 My Younger Brother...` | **1418.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629220) • [🐱 Nyaa](https://nekobt.to/torrents/13065140620297) |
-| `[ToonsHub] Please Excuse My Younger Brothers S01E07 1080p CR WEB-DL...` | **1418.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/629221) • [🐱 Nyaa](https://nekobt.to/torrents/13065137313293) |
-| `[AnoZu] Please Excuse My Younger Brothers S01E07 1080p CR WEB-DL AA...` | **1422.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/629222) • [🐱 Nyaa](https://nekobt.to/torrents/13065123762695) |
 
 ---
 <div align="center">
