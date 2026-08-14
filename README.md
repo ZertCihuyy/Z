@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.33.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.38.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Nige Jouzu no Wakagimi S02E05 [1080p CR WEBRip HEVC AAC...` | **762.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/629259) • [🐱 Nyaa](https://nekobt.to/torrents/13067607661579) |
+| `[DKB] Nige Jouzu no Wakagimi - S02E05 [1080p][HEVC x265 10bit][Mult...` | **654.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629258) • [🐱 Nyaa](https://nyaa.si/view/2146290) |
+| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 07 [1080p CR WEBRip ...` | **365.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/629256) • [🐱 Nyaa](https://nyaa.si/view/2146271) |
+| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 07 [1080p...` | **591.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/629257) • [🐱 Nyaa](https://nyaa.si/view/2146270) |
+| `[Erai-raws] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen...` | **278.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/629253) • [🐱 Nyaa](https://nyaa.si/view/2146269) |
+| `[Erai-raws] Kami no Shizuku - 19 [1080p CR WEBRip HEVC AAC][MultiSu...` | **481.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/629254) • [🐱 Nyaa](https://nyaa.si/view/2146268) |
+| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 18 [1080p C...` | **520.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629255) • [🐱 Nyaa](https://nyaa.si/view/2146267) |
 | `[Ironclad] That Time I Got Reincarnated as a Slime - S04E18 (WEB 10...` | **238.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629252) • [🐱 Nyaa](https://nekobt.to/torrents/13066892590086) |
 | `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **254.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629251) • [🐱 Nyaa](https://nekobt.to/torrents/13066607473664) |
 | `[ASW] Hell Mode S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **358.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629248) • [🐱 Nyaa](https://nyaa.si/view/2146257) |
@@ -41,13 +48,6 @@
 | `[ASW] Uchi no Otouto-domo ga Sumimasen - 07 [1080p HEVC x265 10Bit]...` | **215.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629247) • [🐱 Nyaa](https://nyaa.si/view/2146250) |
 | `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **328.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629246) • [🐱 Nyaa](https://nyaa.si/view/2146249) |
 | `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **226.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/629245) • [🐱 Nyaa](https://nyaa.si/view/2146245) |
-| `[Onalrie] Nige Jouzu no Wakagimi - S02E05 [1080p WEBRip AV1]` | **341.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/629244) • [🐱 Nyaa](https://nekobt.to/torrents/13065734911235) |
-| `[LoliHouse] 『你们先走我断后』，于是10年后我成为了传说 / Koko wa Ore ni Makasete Saki n...` | **407.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629241) • [🐱 Nyaa](https://nyaa.si/view/2146243) |
-| `[Wofire] Doraemon Movie 17 - Nobita and the Galaxy Super Express (1...` | **3482.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/629242) • [🐱 Nyaa](https://nyaa.si/view/2146238) |
-| `[ASW] Nige Jouzu no Wakagimi S2 - 05 [1080p HEVC x265 10Bit][AAC]` | **589.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/629240) • [🐱 Nyaa](https://nyaa.si/view/2146237) |
-| `[SubsPlus+] Hell Mode - S02E07 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **690.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/629238) • [🐱 Nyaa](https://nekobt.to/torrents/13065323699977) |
-| `[Onalrie] Kami no Shizuku - S01E19 [1080p WEBRip AV1]` | **248.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/629239) • [🐱 Nyaa](https://nekobt.to/torrents/13065269863174) |
-| `HELL MODE S02E07 ONWARD TO ROHZENHEIM 1080p HIDI WEB-DL AAC2.0 H.26...` | **927.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629236) • [🐱 Nyaa](https://nyaa.si/view/2146229) |
 
 ---
 <div align="center">
