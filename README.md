@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.07.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.08.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CicakRumah] Koupen-chan Extra: Hanamaru Morning Radio - Episode 3 ...` | **4.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/629097) • [🐱 Nyaa](https://nyaa.si/view/2146039) |
+| `Link Click S04E01 REPACK SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1272.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629094) • [🐱 Nyaa](https://nekobt.to/torrents/13059435870220) |
+| `Link Click S04E02 REPACK SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1276.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629095) • [🐱 Nyaa](https://nekobt.to/torrents/13059397411336) |
 | `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **303.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/629093) • [🐱 Nyaa](https://nyaa.si/view/2146029) |
 | `[ToonsHub] LINK CLICK S04E02 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1270.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629092) • [🐱 Nyaa](https://nekobt.to/torrents/13058559921410) |
 | `[ToonsHub] LINK CLICK S04E01 1080p CR WEB-DL AAC2.0 H.264 (Shiguang...` | **1267.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/629091) • [🐱 Nyaa](https://nyaa.si/view/2146027) |
@@ -44,9 +47,6 @@
 | `[Gecko] Fabulous Beasts - S06E03v2 (有兽焉; You Shou Yan 6th Season) [...` | **142.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/629076) • [🐱 Nyaa](https://nekobt.to/torrents/13056709041678) |
 | `[Erai-raws] Shiguang Dailiren Season 3 - 02 (CA) [1080p CR WEBRip H...` | **256.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/629072) • [🐱 Nyaa](https://nyaa.si/view/2146009) |
 | `[Erai-raws] Shiguang Dailiren Season 3 - 01 (CA) [1080p CR WEBRip H...` | **272.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629073) • [🐱 Nyaa](https://nyaa.si/view/2146008) |
-| `[Erai-raws] Crowned in a Hundred Days - 16 (CA) [1080p CR WEBRip HE...` | **353.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/629074) • [🐱 Nyaa](https://nyaa.si/view/2146007) |
-| `[Onalrie] Crowned in a Hundred Days - S01E16 (CA) [1080p WEBRip AV1]` | **156.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/629075) • [🐱 Nyaa](https://nekobt.to/torrents/13056430351631) |
-| `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **924.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/629071) • [🐱 Nyaa](https://nekobt.to/torrents/13054624183566) |
 
 ---
 <div align="center">
