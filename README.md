@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.21.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.23.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -14,6 +14,7 @@
 | :---: | :---: | --- | --- |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg" width="45" style="border-radius: 4px;"> | `05.40` | **[Chiikawa](https://anilist.co/anime/140842)** | *Comedy, Slice of Life* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png" width="45" style="border-radius: 4px;"> | `10.00` | **[Shiguang Dailiren III](https://anilist.co/anime/191832)** | *Drama, Mystery, Supernatural, Thriller* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png" width="45" style="border-radius: 4px;"> | `10.30` | **[Shiguang Dailiren III](https://anilist.co/anime/191832)** | *Drama, Mystery, Supernatural, Thriller* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png" width="45" style="border-radius: 4px;"> | `11.00` | **[Bai Ri Cheng Wang](https://anilist.co/anime/213484)** | *Action, Adventure, Fantasy* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg" width="45" style="border-radius: 4px;"> | `16.55` | **[Pocket Monsters (2023)](https://anilist.co/anime/158871)** | *Action, Adventure, Fantasy* |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png" width="45" style="border-radius: 4px;"> | `20.30` | **[Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.](https://anilist.co/anime/199748)** | *Action, Adventure, Fantasy* |
@@ -31,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Doomdos] - Lingwu Continent - 206 [1080p IQ WEB-DL]` | **205.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/629033) • [🐱 Nyaa](https://nyaa.si/view/2145939) |
-| `[Gecko] Chiikawa - S01E369 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **18.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/629031) • [🐱 Nyaa](https://nekobt.to/torrents/13051342695432) |
-| `[Doomdos] - The Great Ruler - 86 [1080p IQ WEB-DL]` | **413.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629030) • [🐱 Nyaa](https://nyaa.si/view/2145935) |
-| `[Doomdos] - Daqian Town - 7 [1080p IQ WEB-DL]` | **106.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629028) • [🐱 Nyaa](https://nyaa.si/view/2145933) |
-| `GHOST IN THE SHELL SAC 2045 THE LAST HUMAN MOVIE [BDrip] 1080p` | **3098.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629027) • [🐱 Nyaa](https://nyaa.si/view/2145929) |
-| `[ZeroReverse] False Memory - S01E01 (WEBRip 1080p x265 10-bit EAC-3)` | **4520.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629026) • [🐱 Nyaa](https://nekobt.to/torrents/13049995313677) |
-| `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E12 (WEB 1080p AAC)` | **1452.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629025) • [🐱 Nyaa](https://nekobt.to/torrents/13049615470092) |
-| `[Erai-raws] Otome Kaijuu Carameliser - 07 [1080p CR WEBRip HEVC AAC...` | **629.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629024) • [🐱 Nyaa](https://nyaa.si/view/2145909) |
-| `[NekoCafe] Boku no Risou no Isekai Seikatsu - 02 [1080p H264][ENG+R...` | **605.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629022) • [🐱 Nyaa](https://animetosho.xyz/view/629022) |
-| `[NekoCafe] Boku no Risou no Isekai Seikatsu - 02 [1080p AV1 10bit][...` | **126.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629021) • [🐱 Nyaa](https://animetosho.xyz/view/629021) |
-| `[NekoCafe] Boku no Risou no Isekai Seikatsu - 01 [1080p H264][ENG+R...` | **639.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/629017) • [🐱 Nyaa](https://animetosho.xyz/view/629017) |
-| `[NekoCafe] Boku no Risou no Isekai Seikatsu - 01 [1080p AV1 10bit][...` | **137.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629016) • [🐱 Nyaa](https://animetosho.xyz/view/629016) |
-| `[Reza] Smoking Behind the Supermarket with You - S01E06 [WEBRip 108...` | **982.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629018) • [🐱 Nyaa](https://nyaa.si/view/2145906) |
-| `[Reza] Smoking Behind the Supermarket with You - S01E05 [WEBRip 108...` | **1101.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629019) • [🐱 Nyaa](https://nyaa.si/view/2145905) |
-| `[Reza] Smoking Behind the Supermarket with You - S01E04 [WEBRip 108...` | **1128.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/629020) • [🐱 Nyaa](https://nyaa.si/view/2145902) |
+| `[ToonsHub] Crowned in a Hundred Days S01E16 1080p CR WEB-DL AAC2.0 ...` | **844.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/629064) • [🐱 Nyaa](https://nekobt.to/torrents/13053651828746) |
+| `[SubsPlease] Link Click S3 - 01 (1080p) [4B8BBF23].mkv` | **1268.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629051) • [🐱 Nyaa](https://nyaa.si/view/2145992) |
+| `[Gecko] Crowned in a Hundred Days - S01E16 (百日成王; Bai Ri Cheng Wang...` | **177.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629053) • [🐱 Nyaa](https://nyaa.si/view/2145990) |
+| `Crowned in a Hundred Days S01E16 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **852.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/629054) • [🐱 Nyaa](https://nyaa.si/view/2145989) |
+| `Crowned in a Hundred Days S01E16 SUBFRENCH 1080p CR WEB-DL AAC2.0 H...` | **847.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629065) • [🐱 Nyaa](https://nekobt.to/torrents/13053565576717) |
+| `[SubsPlease] Bai Ri Cheng Wang - 16 (1080p) [C75A5E88].mkv` | **685.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629055) • [🐱 Nyaa](https://nyaa.si/view/2145987) |
+| `[Erai-raws] Crowned in a Hundred Days - 16 (CA) [1080p CR WEB-DL AV...` | **851.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/629059) • [🐱 Nyaa](https://nyaa.si/view/2145983) |
+| `[ToonsHub] Crowned in a Hundred Days S01E16 1080p BILI WEB-DL AAC2....` | **175.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/629060) • [🐱 Nyaa](https://nyaa.si/view/2145981) |
+| `[Erai-raws] Shiguang Dailiren Season 3 - 02 (CA) [1080p CR WEB-DL A...` | **1281.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/629047) • [🐱 Nyaa](https://nyaa.si/view/2145975) |
+| `[Erai-raws] Shiguang Dailiren Season 3 - 01 (CA) [1080p CR WEB-DL A...` | **1276.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/629050) • [🐱 Nyaa](https://nyaa.si/view/2145972) |
+| `[Gecko] BanG Dream! YUME∞MITA - S01E09 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **691.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/629043) • [🐱 Nyaa](https://nekobt.to/torrents/13053149433345) |
+| `[VARYG] LINK CLICK S03E02 The Caged Beast 1080p CR WEB-DL AAC2.0 H....` | **1280.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629041) • [🐱 Nyaa](https://nekobt.to/torrents/13052775309061) |
+| `[VARYG] LINK CLICK S03E01 The Forgotten Past 1080p CR WEB-DL AAC2.0...` | **1277.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629042) • [🐱 Nyaa](https://nekobt.to/torrents/13052768126730) |
+| `[Gecko] LINK CLICK - S04E01 (时光代理人; Shiguang Dailiren III) [BILI.WE...` | **300.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629040) • [🐱 Nyaa](https://nyaa.si/view/2145962) |
+| `[Gecko] LINK CLICK - S04E02 (时光代理人; Shiguang Dailiren III) [BILI.WE...` | **285.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629038) • [🐱 Nyaa](https://nyaa.si/view/2145958) |
 
 ---
 <div align="center">

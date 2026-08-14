@@ -1,5 +1,5 @@
 {
-  "last_update": "14/8/2026, 09.21.03",
+  "last_update": "14/8/2026, 11.23.25",
   "hari": "Jumat",
   "data": [
     {
@@ -20,6 +20,24 @@
     },
     {
       "airingAt": 1786676400,
+      "media": {
+        "id": 191832,
+        "title": {
+          "romaji": "Shiguang Dailiren III"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png"
+        },
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Supernatural",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "airingAt": 1786678200,
       "media": {
         "id": 191832,
         "title": {
