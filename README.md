@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.23.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.57.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **924.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/629071) • [🐱 Nyaa](https://nekobt.to/torrents/13054624183566) |
+| `[ASW] Link Click S3 - 01 [1080p HEVC x265 10Bit][AAC]` | **228.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629070) • [🐱 Nyaa](https://nyaa.si/view/2145999) |
+| `[ASW] Bai Ri Cheng Wang - 16 [1080p HEVC x265 10Bit][AAC]` | **219.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/629069) • [🐱 Nyaa](https://nyaa.si/view/2145998) |
 | `[ToonsHub] Crowned in a Hundred Days S01E16 1080p CR WEB-DL AAC2.0 ...` | **844.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/629064) • [🐱 Nyaa](https://nekobt.to/torrents/13053651828746) |
 | `[SubsPlease] Link Click S3 - 01 (1080p) [4B8BBF23].mkv` | **1268.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629051) • [🐱 Nyaa](https://nyaa.si/view/2145992) |
 | `[Gecko] Crowned in a Hundred Days - S01E16 (百日成王; Bai Ri Cheng Wang...` | **177.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629053) • [🐱 Nyaa](https://nyaa.si/view/2145990) |
@@ -44,9 +47,6 @@
 | `[Erai-raws] Shiguang Dailiren Season 3 - 01 (CA) [1080p CR WEB-DL A...` | **1276.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/629050) • [🐱 Nyaa](https://nyaa.si/view/2145972) |
 | `[Gecko] BanG Dream! YUME∞MITA - S01E09 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **691.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/629043) • [🐱 Nyaa](https://nekobt.to/torrents/13053149433345) |
 | `[VARYG] LINK CLICK S03E02 The Caged Beast 1080p CR WEB-DL AAC2.0 H....` | **1280.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629041) • [🐱 Nyaa](https://nekobt.to/torrents/13052775309061) |
-| `[VARYG] LINK CLICK S03E01 The Forgotten Past 1080p CR WEB-DL AAC2.0...` | **1277.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629042) • [🐱 Nyaa](https://nekobt.to/torrents/13052768126730) |
-| `[Gecko] LINK CLICK - S04E01 (时光代理人; Shiguang Dailiren III) [BILI.WE...` | **300.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629040) • [🐱 Nyaa](https://nyaa.si/view/2145962) |
-| `[Gecko] LINK CLICK - S04E02 (时光代理人; Shiguang Dailiren III) [BILI.WE...` | **285.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629038) • [🐱 Nyaa](https://nyaa.si/view/2145958) |
 
 ---
 <div align="center">
