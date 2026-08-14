@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.58.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.24.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,6 +32,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Banana Fish S01 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (RE...` | **21593.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/629108) • [🐱 Nyaa](https://nyaa.si/view/2146057) |
+| `[vLbE3L] THE GHOST IN THE SHELL S01E06 [1080p AMZN WEBRip VVC xHE-A...` | **275.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/629105) • [🐱 Nyaa](https://nekobt.to/torrents/13061775462917) |
+| `[LbE3L] THE GHOST IN THE SHELL S01E06 [1080p AMZN WEB-DL AV1 (Muxed...` | **592.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/629106) • [🐱 Nyaa](https://nekobt.to/torrents/13061715605260) |
+| `[ZeroReverse] False Memory - S01E01 (WEBRip 1080p x265 10-bit EAC-3)` | **4169.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629107) • [🐱 Nyaa](https://nekobt.to/torrents/13061661185796) |
+| `Banana Fish S01 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-Raws (R...` | **6398.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629103) • [🐱 Nyaa](https://nyaa.si/view/2146052) |
+| `Banana Fish S01 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Raws (REA...` | **4185.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629104) • [🐱 Nyaa](https://nyaa.si/view/2146051) |
+| `[Shridhuu][1080p] Perfect World - 完美世界 (Wanmei Shijie) - EP282` | **383.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/629101) • [🐱 Nyaa](https://nyaa.si/view/2146050) |
+| `[denisplay] Otome Kaijuu Carameliser - 07 [1080p] [AV1] (Weekly) (K...` | **408.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629098) • [🐱 Nyaa](https://nyaa.si/view/2146048) |
 | `[CicakRumah] Koupen-chan Extra: Hanamaru Morning Radio - Episode 3 ...` | **4.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/629097) • [🐱 Nyaa](https://nyaa.si/view/2146039) |
 | `Link Click S04E01 REPACK SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1272.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629094) • [🐱 Nyaa](https://nekobt.to/torrents/13059435870220) |
 | `Link Click S04E02 REPACK SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1276.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629095) • [🐱 Nyaa](https://nekobt.to/torrents/13059397411336) |
@@ -39,14 +47,6 @@
 | `[ToonsHub] LINK CLICK S04E02 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1270.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629092) • [🐱 Nyaa](https://nekobt.to/torrents/13058559921410) |
 | `[ToonsHub] LINK CLICK S04E01 1080p CR WEB-DL AAC2.0 H.264 (Shiguang...` | **1267.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/629091) • [🐱 Nyaa](https://nyaa.si/view/2146027) |
 | `[ASW] Link Click S3 - 02 [1080p HEVC x265 10Bit][AAC]` | **212.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629090) • [🐱 Nyaa](https://nyaa.si/view/2146025) |
-| `[Onalrie] Shiguang Dailiren - S03E02 (CA) [1080p WEBRip AV1]` | **165.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629089) • [🐱 Nyaa](https://nekobt.to/torrents/13057259600137) |
-| `Link Click S03E02 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1276.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629081) • [🐱 Nyaa](https://nekobt.to/torrents/13057013955851) |
-| `Link Click S03E01 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1272.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629083) • [🐱 Nyaa](https://nekobt.to/torrents/13056964135431) |
-| `[SubsPlease] Link Click S3 - 02 (1080p) [33FFB581].mkv` | **1272.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/629078) • [🐱 Nyaa](https://nyaa.si/view/2146015) |
-| `[Onalrie] Shiguang Dailiren - S03E01 (CA) [1080p WEBRip AV1]` | **176.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/629077) • [🐱 Nyaa](https://nekobt.to/torrents/13056888232965) |
-| `[Gecko] Fabulous Beasts - S06E03v2 (有兽焉; You Shou Yan 6th Season) [...` | **142.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/629076) • [🐱 Nyaa](https://nekobt.to/torrents/13056709041678) |
-| `[Erai-raws] Shiguang Dailiren Season 3 - 02 (CA) [1080p CR WEBRip H...` | **256.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/629072) • [🐱 Nyaa](https://nyaa.si/view/2146009) |
-| `[Erai-raws] Shiguang Dailiren Season 3 - 01 (CA) [1080p CR WEBRip H...` | **272.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629073) • [🐱 Nyaa](https://nyaa.si/view/2146008) |
 
 ---
 <div align="center">
