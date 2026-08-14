@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.15.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.56.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **371.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629266) • [🐱 Nyaa](https://nyaa.si/view/2146307) |
+| `[Ironclad] KAMUI: He's Behind You - S01E07 (WEB 1080p AV1) | Ushiro...` | **308.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629265) • [🐱 Nyaa](https://nekobt.to/torrents/13068996701193) |
+| `[yolerejiju] The Fragrant Flower Blooms with Dignity Season 1 (S01)...` | **32164.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/629264) • [🐱 Nyaa](https://nyaa.si/view/2146297) |
 | `[Gecko] Chibi Godzilla Raids Again - S01E113 (ちびゴジラの逆襲; Chibi Godzi...` | **55.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629263) • [🐱 Nyaa](https://nyaa.si/view/2146296) |
 | `[Erai-raws] Nige Jouzu no Wakagimi S02E05 [1080p CR WEBRip HEVC AAC...` | **762.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/629259) • [🐱 Nyaa](https://nekobt.to/torrents/13067607661579) |
 | `[DKB] Nige Jouzu no Wakagimi - S02E05 [1080p][HEVC x265 10bit][Mult...` | **654.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629258) • [🐱 Nyaa](https://nyaa.si/view/2146290) |
@@ -45,9 +48,6 @@
 | `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **254.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629251) • [🐱 Nyaa](https://nekobt.to/torrents/13066607473664) |
 | `[ASW] Hell Mode S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **358.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629248) • [🐱 Nyaa](https://nyaa.si/view/2146257) |
 | `[Mocha] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **508.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/629249) • [🐱 Nyaa](https://nyaa.si/view/2146256) |
-| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E07 [1080p WEBRip AV1]` | **191.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/629250) • [🐱 Nyaa](https://nekobt.to/torrents/13066124400391) |
-| `[ASW] Uchi no Otouto-domo ga Sumimasen - 07 [1080p HEVC x265 10Bit]...` | **215.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629247) • [🐱 Nyaa](https://nyaa.si/view/2146250) |
-| `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **328.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629246) • [🐱 Nyaa](https://nyaa.si/view/2146249) |
 
 ---
 <div align="center">
