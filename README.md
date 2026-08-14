@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.47.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.21.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - Lingwu Continent - 206 [1080p IQ WEB-DL]` | **205.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/629033) • [🐱 Nyaa](https://nyaa.si/view/2145939) |
+| `[Gecko] Chiikawa - S01E369 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **18.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/629031) • [🐱 Nyaa](https://nekobt.to/torrents/13051342695432) |
+| `[Doomdos] - The Great Ruler - 86 [1080p IQ WEB-DL]` | **413.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629030) • [🐱 Nyaa](https://nyaa.si/view/2145935) |
+| `[Doomdos] - Daqian Town - 7 [1080p IQ WEB-DL]` | **106.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629028) • [🐱 Nyaa](https://nyaa.si/view/2145933) |
+| `GHOST IN THE SHELL SAC 2045 THE LAST HUMAN MOVIE [BDrip] 1080p` | **3098.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629027) • [🐱 Nyaa](https://nyaa.si/view/2145929) |
+| `[ZeroReverse] False Memory - S01E01 (WEBRip 1080p x265 10-bit EAC-3)` | **4520.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629026) • [🐱 Nyaa](https://nekobt.to/torrents/13049995313677) |
 | `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E12 (WEB 1080p AAC)` | **1452.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629025) • [🐱 Nyaa](https://nekobt.to/torrents/13049615470092) |
 | `[Erai-raws] Otome Kaijuu Carameliser - 07 [1080p CR WEBRip HEVC AAC...` | **629.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629024) • [🐱 Nyaa](https://nyaa.si/view/2145909) |
 | `[NekoCafe] Boku no Risou no Isekai Seikatsu - 02 [1080p H264][ENG+R...` | **605.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629022) • [🐱 Nyaa](https://animetosho.xyz/view/629022) |
@@ -40,12 +46,6 @@
 | `[Reza] Smoking Behind the Supermarket with You - S01E06 [WEBRip 108...` | **982.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629018) • [🐱 Nyaa](https://nyaa.si/view/2145906) |
 | `[Reza] Smoking Behind the Supermarket with You - S01E05 [WEBRip 108...` | **1101.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629019) • [🐱 Nyaa](https://nyaa.si/view/2145905) |
 | `[Reza] Smoking Behind the Supermarket with You - S01E04 [WEBRip 108...` | **1128.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/629020) • [🐱 Nyaa](https://nyaa.si/view/2145902) |
-| `[SubsPlease] Meitantei Precure! (01-26) (1080p) [Batch]` | **36525.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629014) • [🐱 Nyaa](https://nyaa.si/view/2145900) |
-| `[Ironclad] Smoking Behind the Supermarket with You - S01E06 (WEB 10...` | **201.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/629012) • [🐱 Nyaa](https://nekobt.to/torrents/13048071500291) |
-| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E16 (WEB ...` | **1489.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/629011) • [🐱 Nyaa](https://nekobt.to/torrents/13047830441738) |
-| `[sam] Grand Blue Dreaming - S03E05 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1707.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629010) • [🐱 Nyaa](https://nyaa.si/view/2145890) |
-| `[DKB] Otome Kaijuu Caraméliser - S01E07 [1080p][HEVC x265 10bit][Mu...` | **492.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/629008) • [🐱 Nyaa](https://nyaa.si/view/2145883) |
-| `[Asakura] Tensei Shitara Slime Datta Ken S04E17 [1080p WEB AAC x264...` | **1405.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629006) • [🐱 Nyaa](https://nekobt.to/torrents/13046856337672) |
 
 ---
 <div align="center">
