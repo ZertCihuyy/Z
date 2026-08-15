@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.55.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.43.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] The World Is Dancing S01E07 REPACK 1080p HIDIVE WEB-DL A...` | **926.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629301) • [🐱 Nyaa](https://nekobt.to/torrents/13075280898828) |
+| `[Gecko] Please Excuse My Younger Brothers - S01E07 (うちの弟どもがすみません; U...` | **707.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/629300) • [🐱 Nyaa](https://nekobt.to/torrents/13075025603589) |
 | `[SubsPlus+] The World Is Dancing - S01E07v2 (ADN WEB-DL 1080p AVC A...` | **644.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629299) • [🐱 Nyaa](https://nyaa.si/view/2146377) |
 | `[ToonsHub] A Good Day to Ascend S01E07 1080p iQ WEB-DL AAC2.0 H.264...` | **415.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629298) • [🐱 Nyaa](https://nekobt.to/torrents/13073833841152) |
 | `[Doomdos] - A Good Day to Ascend - 7 [1080p IQ WEB-DL]` | **416.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629297) • [🐱 Nyaa](https://nyaa.si/view/2146361) |
@@ -46,8 +48,6 @@
 | `[SubsPlease] Rilakkuma - 20 (1080p) [A8302A8E].mkv` | **92.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/629287) • [🐱 Nyaa](https://nyaa.si/view/2146340) |
 | `[Sonomama] The 100 Girlfriends Who Really Really Really Really REAL...` | **3544.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/629294) • [🐱 Nyaa](https://nekobt.to/torrents/13072876044035) |
 | `[yolerejiju] The Fragrant Flower Blooms with Dignity Season 1 (S01)...` | **35142.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629281) • [🐱 Nyaa](https://nyaa.si/view/2146335) |
-| `[ToonsHub] KAMUI Hes Behind You S00E06 1080p AMZN WEB-DL DDP2.0 H.2...` | **418.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629279) • [🐱 Nyaa](https://nekobt.to/torrents/13072134936320) |
-| `[ToonsHub] KAMUI Hes Behind You S01E06 REPACK 1080p UNCENSORED AMZN...` | **586.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/629280) • [🐱 Nyaa](https://nekobt.to/torrents/13072130276111) |
 
 ---
 <div align="center">
