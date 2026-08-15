@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.46.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.46.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Mairimashita! Iruma-kun S4 - 19 [1080p HEVC x265 10Bit][AAC]` | **560.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/629362) • [🐱 Nyaa](https://nyaa.si/view/2146481) |
+| `[Onalrie] Mairimashita Iruma-kun - S04E19 [1080p WEBRip AV1]` | **446.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629361) • [🐱 Nyaa](https://nekobt.to/torrents/13083417697292) |
+| `[SubsPlease] Mairimashita! Iruma-kun S4 - 19 (1080p) [2ADA8299].mkv` | **1459.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/629357) • [🐱 Nyaa](https://nyaa.si/view/2146472) |
+| `Welcome to Demon School Iruma kun S04E19 The Dem-dol Games 1080p CR...` | **1721.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/629358) • [🐱 Nyaa](https://nyaa.si/view/2146471) |
 | `[AnoZu] Welcome to Demon School! Iruma-kun S04E19 1080p CR WEB-DL D...` | **1634.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/629347) • [🐱 Nyaa](https://nekobt.to/torrents/13082690195464) |
 | `[ToonsHub] Welcome to Demon School Iruma-kun S04E19 1080p CR WEB-DL...` | **1722.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629348) • [🐱 Nyaa](https://nekobt.to/torrents/13082657047304) |
 | `[ToonsHub] Welcome to Demon School Iruma-kun S04E19 1080p CR WEB-DL...` | **1618.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629349) • [🐱 Nyaa](https://nekobt.to/torrents/13082650886155) |
@@ -44,10 +48,6 @@
 | `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **473.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629344) • [🐱 Nyaa](https://nyaa.si/view/2146452) |
 | `One Piece S01E1173 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **861.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/629341) • [🐱 Nyaa](https://nyaa.si/view/2146448) |
 | `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Er...` | **228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629339) • [🐱 Nyaa](https://nyaa.si/view/2146445) |
-| `[Onalrie] Honzuki no Gekokujou Shisho ni Naru Tame ni wa Shudan wo ...` | **172.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629337) • [🐱 Nyaa](https://nekobt.to/torrents/13081506387458) |
-| `Though I Am an Inept Villainess S01E04 My Miracle Comet 1080p NF WE...` | **903.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629336) • [🐱 Nyaa](https://nyaa.si/view/2146443) |
-| `[ASW] Honzuki no Gekokujou S4 - 18 [1080p HEVC x265 10Bit][AAC]` | **199.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/629335) • [🐱 Nyaa](https://nyaa.si/view/2146442) |
-| `[ToonsHub] One Piece EP1173 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **861.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629334) • [🐱 Nyaa](https://nekobt.to/torrents/13081300945153) |
 
 ---
 <div align="center">
