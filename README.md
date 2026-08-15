@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.24.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.47.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Knight-Subs] Bleach Thousand-Year Blood War - E44 - THE PERFECT CR...` | **1435.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629654) • [🐱 Nyaa](https://nekobt.to/torrents/13093641243915) |
+| `[Onalrie] Mao - S01E20 [1080p WEBRip AV1]` | **202.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629655) • [🐱 Nyaa](https://nekobt.to/torrents/13093622287370) |
 | `[Erai-raws] Mao - 20 [1080p DSNP WEB-DL AVC AAC][MultiSub][F68D7A34]` | **911.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/629652) • [🐱 Nyaa](https://nyaa.si/view/2146851) |
 | `[SubsNoJutsu] Daemons of the Shadow Realm - S01E19 (1080p WEBRip AA...` | **422.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/629653) • [🐱 Nyaa](https://nekobt.to/torrents/13092870845449) |
 | `Bubblegum.Crisis.バブルガムクライシス.OVA.1987-1991.BDrip.1080p.x264.AC3.Opus...` | **6719.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/629649) • [🐱 Nyaa](https://nyaa.si/view/2146846) |
@@ -46,8 +48,6 @@
 | `[AnoZu] Bleach S17E43 1080p CR WEB-DL AAC 2.0 H.264` | **1453.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629639) • [🐱 Nyaa](https://nekobt.to/torrents/13091665299968) |
 | `[ToonsHub] MAO S01E20 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **911.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/629638) • [🐱 Nyaa](https://nyaa.si/view/2146830) |
 | `[Onalrie] Bleach Sennen Kessen Hen - Kashin Tan - E04 [1080p WEBRip...` | **385.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629640) • [🐱 Nyaa](https://onalrie.app/torrent/bb664b6d-db30-43b8-b00d-111be172f044) |
-| `[AnoZu] Bleach S17E42 1080p CR WEB-DL AAC 2.0 H.264 | Bleach: Thous...` | **1798.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/629637) • [🐱 Nyaa](https://nyaa.si/view/2146829) |
-| `[AnoZu] Bleach S17E41 1080p CR WEB-DL AAC 2.0 H.264` | **1745.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/629636) • [🐱 Nyaa](https://nyaa.si/view/2146828) |
 
 ---
 <div align="center">
