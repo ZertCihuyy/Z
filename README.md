@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.50.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.28.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Some-Stuffs] Pocket Monsters (2023) 145 (1080p) [C282D06B]` | **526.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629306) • [🐱 Nyaa](https://nyaa.si/view/2146399) |
 | `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 18 [1080p][YT]` | **329.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/629305) • [🐱 Nyaa](https://nyaa.si/view/2146398) |
 | `Tis.Time.for.Torture.Princess.S02.1080p.BluRay.Opus.2.0.x265-YURASU...` | **16543.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/629304) • [🐱 Nyaa](https://nyaa.si/view/2146397) |
 | `RILAKKUMA S01E20 1080p CR WEB-DL MULTi AAC2.0 H.264-VARYG (Multi-Au...` | **118.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629303) • [🐱 Nyaa](https://nyaa.si/view/2146393) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] RILAKKUMA S01E20 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **111.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629288) • [🐱 Nyaa](https://nekobt.to/torrents/13073000255748) |
 | `[VARYG] RILAKKUMA S01E20 1080p CR WEB-DL DUAL AAC2.0 H.264 (Multi-S...` | **114.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629289) • [🐱 Nyaa](https://nekobt.to/torrents/13072972896009) |
 | `RILAKKUMA S01E20 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **66.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/629290) • [🐱 Nyaa](https://nekobt.to/torrents/13072915471886) |
-| `RILAKKUMA S01E20 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **106.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/629292) • [🐱 Nyaa](https://nekobt.to/torrents/13072909054469) |
 
 ---
 <div align="center">
