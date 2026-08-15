@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.26.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.50.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `One Piece S01E1173 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **861.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/629341) • [🐱 Nyaa](https://nyaa.si/view/2146448) |
+| `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Er...` | **228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629339) • [🐱 Nyaa](https://nyaa.si/view/2146445) |
 | `[Onalrie] Honzuki no Gekokujou Shisho ni Naru Tame ni wa Shudan wo ...` | **172.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629337) • [🐱 Nyaa](https://nekobt.to/torrents/13081506387458) |
 | `Though I Am an Inept Villainess S01E04 My Miracle Comet 1080p NF WE...` | **903.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629336) • [🐱 Nyaa](https://nyaa.si/view/2146443) |
 | `[ASW] Honzuki no Gekokujou S4 - 18 [1080p HEVC x265 10Bit][AAC]` | **199.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/629335) • [🐱 Nyaa](https://nyaa.si/view/2146442) |
@@ -46,8 +48,6 @@
 | `[Yameii] Ascendance of a Bookworm - S04E16 [English Dub] [CR WEB-DL...` | **1394.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/629329) • [🐱 Nyaa](https://nyaa.si/view/2146431) |
 | `[AnoZu] Ascendance of a Bookworm S01E54 1080p CR WEB-DL AAC 2.0 H.2...` | **1423.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/629317) • [🐱 Nyaa](https://nyaa.si/view/2146428) |
 | `Ascendance of a Bookworm S04E18 SUBFRENCH 1080p CR WEB-DL AAC2.0 x2...` | **1396.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629326) • [🐱 Nyaa](https://nekobt.to/torrents/13080774010893) |
-| `[SubsPlease] Honzuki no Gekokujou S4 - 18 (1080p) [522C38E3].mkv` | **1390.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629318) • [🐱 Nyaa](https://nyaa.si/view/2146426) |
-| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1400.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629322) • [🐱 Nyaa](https://nyaa.si/view/2146422) |
 
 ---
 <div align="center">
