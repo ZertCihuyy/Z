@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.53.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.26.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Honzuki no Gekokujou Shisho ni Naru Tame ni wa Shudan wo ...` | **172.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629337) • [🐱 Nyaa](https://nekobt.to/torrents/13081506387458) |
+| `Though I Am an Inept Villainess S01E04 My Miracle Comet 1080p NF WE...` | **903.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629336) • [🐱 Nyaa](https://nyaa.si/view/2146443) |
+| `[ASW] Honzuki no Gekokujou S4 - 18 [1080p HEVC x265 10Bit][AAC]` | **199.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/629335) • [🐱 Nyaa](https://nyaa.si/view/2146442) |
+| `[ToonsHub] One Piece EP1173 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **861.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629334) • [🐱 Nyaa](https://nekobt.to/torrents/13081300945153) |
 | `[AnoZu] Ascendance of a Bookworm S01E52 1080p CR WEB-DL Dual-Audio ...` | **1464.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629330) • [🐱 Nyaa](https://nyaa.si/view/2146437) |
 | `Ascendance of a Bookworm S04E16 New Dress and Printing Press 1080p ...` | **1449.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629331) • [🐱 Nyaa](https://nyaa.si/view/2146436) |
 | `Ascendance of a Bookworm S04E18 Damuels Proposal 1080p CR WEB-DL AA...` | **1419.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629332) • [🐱 Nyaa](https://nyaa.si/view/2146435) |
@@ -44,10 +48,6 @@
 | `Ascendance of a Bookworm S04E18 SUBFRENCH 1080p CR WEB-DL AAC2.0 x2...` | **1396.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629326) • [🐱 Nyaa](https://nekobt.to/torrents/13080774010893) |
 | `[SubsPlease] Honzuki no Gekokujou S4 - 18 (1080p) [522C38E3].mkv` | **1390.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629318) • [🐱 Nyaa](https://nyaa.si/view/2146426) |
 | `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1400.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629322) • [🐱 Nyaa](https://nyaa.si/view/2146422) |
-| `[Q] Zenless Zone Zero - Ye Shunguang Animated Short Film 「If I Coul...` | **500.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/629316) • [🐱 Nyaa](https://nyaa.si/view/2146418) |
-| `Though I Am an Inept Villainess S01E04 [English Dub][1080p] | Futsu...` | **875.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/629315) • [🐱 Nyaa](https://nyaa.si/view/2146417) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E07 1080p NF WEB-DL MULTi...` | **1137.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629312) • [🐱 Nyaa](https://nyaa.si/view/2146409) |
-| `[VARYG] Daemons of the Shadow Realm S01E07 Asa and Break 1080p NF W...` | **1137.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629313) • [🐱 Nyaa](https://nekobt.to/torrents/13078457372164) |
 
 ---
 <div align="center">
