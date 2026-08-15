@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.00.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.50.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] KAMUI Hes Behind You S00E04 1080p AMZN WEB-DL DDP2.0 H.2...` | **395.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629275) • [🐱 Nyaa](https://nyaa.si/view/2146323) |
-| `[ToonsHub] KAMUI Hes Behind You S00E03 1080p AMZN WEB-DL DDP2.0 H.2...` | **388.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629276) • [🐱 Nyaa](https://nyaa.si/view/2146322) |
-| `[ToonsHub] KAMUI Hes Behind You S01E04 REPACK 1080p UNCENSORED AMZN...` | **647.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/629273) • [🐱 Nyaa](https://nyaa.si/view/2146319) |
-| `[ToonsHub] KAMUI Hes Behind You S01E03 REPACK 1080p UNCENSORED AMZN...` | **581.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629274) • [🐱 Nyaa](https://nyaa.si/view/2146318) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E111 (ちびゴジラの逆襲; Chibi Godzi...` | **55.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629272) • [🐱 Nyaa](https://nekobt.to/torrents/13070603527692) |
-| `King's Raid - Ishi o Tsugu Mono-tachi (King's Raid - Successors of ...` | **21179.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/629270) • [🐱 Nyaa](https://nyaa.si/view/2146311) |
-| `[Piyoko] Onegai AiPri - 19 [WEB AMZN 1080p h264 AC3 2.0]` | **953.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629267) • [🐱 Nyaa](https://nyaa.si/view/2146308) |
-| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **371.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629266) • [🐱 Nyaa](https://nyaa.si/view/2146307) |
-| `[Ironclad] KAMUI: He's Behind You - S01E07 (WEB 1080p AV1) | Ushiro...` | **308.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629265) • [🐱 Nyaa](https://nekobt.to/torrents/13068996701193) |
-| `[yolerejiju] The Fragrant Flower Blooms with Dignity Season 1 (S01)...` | **32164.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/629264) • [🐱 Nyaa](https://nyaa.si/view/2146297) |
-| `[Gecko] Chibi Godzilla Raids Again - S01E113 (ちびゴジラの逆襲; Chibi Godzi...` | **55.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629263) • [🐱 Nyaa](https://nyaa.si/view/2146296) |
-| `[Erai-raws] Nige Jouzu no Wakagimi S02E05 [1080p CR WEBRip HEVC AAC...` | **762.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/629259) • [🐱 Nyaa](https://nekobt.to/torrents/13067607661579) |
-| `[DKB] Nige Jouzu no Wakagimi - S02E05 [1080p][HEVC x265 10bit][Mult...` | **654.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629258) • [🐱 Nyaa](https://nyaa.si/view/2146290) |
-| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 07 [1080p CR WEBRip ...` | **365.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/629256) • [🐱 Nyaa](https://nyaa.si/view/2146271) |
-| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 07 [1080p...` | **591.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/629257) • [🐱 Nyaa](https://nyaa.si/view/2146270) |
+| `[Doomdos] - A Good Day to Ascend - 7 [1080p IQ WEB-DL]` | **416.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629297) • [🐱 Nyaa](https://nyaa.si/view/2146361) |
+| `[ASW] Rilakkuma - 20 [1080p HEVC x265 10Bit][AAC]` | **47.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629296) • [🐱 Nyaa](https://nyaa.si/view/2146354) |
+| `[Erai-raws] Rilakkuma - 20 [1080p CR WEBRip HEVC AAC][MultiSub][D81...` | **51.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/629295) • [🐱 Nyaa](https://nyaa.si/view/2146353) |
+| `[ToonsHub] RILAKKUMA S01E20 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **111.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629288) • [🐱 Nyaa](https://nekobt.to/torrents/13073000255748) |
+| `[VARYG] RILAKKUMA S01E20 1080p CR WEB-DL DUAL AAC2.0 H.264 (Multi-S...` | **114.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629289) • [🐱 Nyaa](https://nekobt.to/torrents/13072972896009) |
+| `RILAKKUMA S01E20 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **66.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/629290) • [🐱 Nyaa](https://nekobt.to/torrents/13072915471886) |
+| `RILAKKUMA S01E20 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **106.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/629292) • [🐱 Nyaa](https://nekobt.to/torrents/13072909054469) |
+| `[Erai-raws] Rilakkuma - 20 [1080p CR WEB-DL AVC AAC][MultiSub][ABCD...` | **107.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/629286) • [🐱 Nyaa](https://nyaa.si/view/2146341) |
+| `[SubsPlease] Rilakkuma - 20 (1080p) [A8302A8E].mkv` | **92.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/629287) • [🐱 Nyaa](https://nyaa.si/view/2146340) |
+| `[Sonomama] The 100 Girlfriends Who Really Really Really Really REAL...` | **3544.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/629294) • [🐱 Nyaa](https://nekobt.to/torrents/13072876044035) |
+| `[yolerejiju] The Fragrant Flower Blooms with Dignity Season 1 (S01)...` | **35142.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629281) • [🐱 Nyaa](https://nyaa.si/view/2146335) |
+| `[ToonsHub] KAMUI Hes Behind You S00E06 1080p AMZN WEB-DL DDP2.0 H.2...` | **418.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629279) • [🐱 Nyaa](https://nekobt.to/torrents/13072134936320) |
+| `[ToonsHub] KAMUI Hes Behind You S01E06 REPACK 1080p UNCENSORED AMZN...` | **586.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/629280) • [🐱 Nyaa](https://nekobt.to/torrents/13072130276111) |
+| `[ToonsHub] KAMUI Hes Behind You S00E05 1080p AMZN WEB-DL DDP2.0 H.2...` | **400.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629277) • [🐱 Nyaa](https://nyaa.si/view/2146332) |
+| `[ToonsHub] KAMUI Hes Behind You S01E05 REPACK 1080p UNCENSORED AMZN...` | **447.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/629278) • [🐱 Nyaa](https://nyaa.si/view/2146331) |
 
 ---
 <div align="center">
