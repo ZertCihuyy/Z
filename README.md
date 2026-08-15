@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.24.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.46.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AnoZu] Welcome to Demon School! Iruma-kun S04E19 1080p CR WEB-DL D...` | **1634.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/629347) • [🐱 Nyaa](https://nekobt.to/torrents/13082690195464) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E19 1080p CR WEB-DL...` | **1722.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629348) • [🐱 Nyaa](https://nekobt.to/torrents/13082657047304) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E19 1080p CR WEB-DL...` | **1618.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629349) • [🐱 Nyaa](https://nekobt.to/torrents/13082650886155) |
+| `[Yameii] Welcome to Demon School! Iruma-kun - S04E19 [English Dub] ...` | **1464.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/629350) • [🐱 Nyaa](https://nekobt.to/torrents/13082648307727) |
+| `Welcome to Demon School Iruma kun S04E19 SUBFRENCH 1080p CR WEB-DL ...` | **1560.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/629355) • [🐱 Nyaa](https://nekobt.to/torrents/13082635457542) |
+| `[Erai-raws] Mairimashita Iruma-kun 4th Season - 19 [1080p CR WEB-DL...` | **1567.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629354) • [🐱 Nyaa](https://nyaa.si/view/2146459) |
+| `Welcome to Demon School Iruma kun S04E19 The Dem-dol Games 1080p CR...` | **1619.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/629345) • [🐱 Nyaa](https://nyaa.si/view/2146458) |
+| `Ascendance of a Bookworm S04E15 Night of Fruhtrane 1080p CR WEB-DL ...` | **1479.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/629346) • [🐱 Nyaa](https://nyaa.si/view/2146456) |
 | `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **473.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629344) • [🐱 Nyaa](https://nyaa.si/view/2146452) |
 | `One Piece S01E1173 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **861.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/629341) • [🐱 Nyaa](https://nyaa.si/view/2146448) |
 | `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Er...` | **228.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629339) • [🐱 Nyaa](https://nyaa.si/view/2146445) |
@@ -40,14 +48,6 @@
 | `Though I Am an Inept Villainess S01E04 My Miracle Comet 1080p NF WE...` | **903.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629336) • [🐱 Nyaa](https://nyaa.si/view/2146443) |
 | `[ASW] Honzuki no Gekokujou S4 - 18 [1080p HEVC x265 10Bit][AAC]` | **199.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/629335) • [🐱 Nyaa](https://nyaa.si/view/2146442) |
 | `[ToonsHub] One Piece EP1173 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)` | **861.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629334) • [🐱 Nyaa](https://nekobt.to/torrents/13081300945153) |
-| `[AnoZu] Ascendance of a Bookworm S01E52 1080p CR WEB-DL Dual-Audio ...` | **1464.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629330) • [🐱 Nyaa](https://nyaa.si/view/2146437) |
-| `Ascendance of a Bookworm S04E16 New Dress and Printing Press 1080p ...` | **1449.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629331) • [🐱 Nyaa](https://nyaa.si/view/2146436) |
-| `Ascendance of a Bookworm S04E18 Damuels Proposal 1080p CR WEB-DL AA...` | **1419.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629332) • [🐱 Nyaa](https://nyaa.si/view/2146435) |
-| `[ToonsHub] Ascendance of a Bookworm S04E16 1080p CR WEB-DL DUAL AAC...` | **1470.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629327) • [🐱 Nyaa](https://nyaa.si/view/2146434) |
-| `[ToonsHub] Ascendance of a Bookworm S04E18 1080p CR WEB-DL AAC2.0 H...` | **1440.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629328) • [🐱 Nyaa](https://nyaa.si/view/2146433) |
-| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E04 (1080p BD AAC x265...` | **529.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629333) • [🐱 Nyaa](https://nekobt.to/torrents/13080825899013) |
-| `[Yameii] Ascendance of a Bookworm - S04E16 [English Dub] [CR WEB-DL...` | **1394.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/629329) • [🐱 Nyaa](https://nyaa.si/view/2146431) |
-| `[AnoZu] Ascendance of a Bookworm S01E54 1080p CR WEB-DL AAC 2.0 H.2...` | **1423.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/629317) • [🐱 Nyaa](https://nyaa.si/view/2146428) |
 
 ---
 <div align="center">
