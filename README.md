@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.30.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.57.31_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `MAO S01E20 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raws (VO...` | **762.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/629433) • [🐱 Nyaa](https://nekobt.to/torrents/13086507311873) |
+| `[DKB] Black Torch - S01E07 [1080p][HEVC x265 10bit][Dual Audio][Mul...` | **511.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629431) • [🐱 Nyaa](https://nyaa.si/view/2146595) |
+| `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Era...` | **302.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629432) • [🐱 Nyaa](https://nyaa.si/view/2146594) |
 | `[Omar] Bleach.Thousand-Year.Blood.War.S01E44.1080p.Shahid.WEB-DL.DU...` | **526.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629430) • [🐱 Nyaa](https://nekobt.to/torrents/13086248689161) |
 | `Daemons of the Shadow Realm S01E19 Sword and Bow 1080p NF WEB-DL AA...` | **865.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629429) • [🐱 Nyaa](https://nyaa.si/view/2146581) |
 | `[VARYG] BLEACH Thousand Year Blood War S01E44 THE PERFECT CRIMSON 1...` | **1431.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629422) • [🐱 Nyaa](https://nekobt.to/torrents/13085886884096) |
@@ -45,9 +48,6 @@
 | `[ASW] Iwamoto-senpai no Suisen - 07 [1080p HEVC x265 10Bit][AAC]` | **287.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629421) • [🐱 Nyaa](https://nyaa.si/view/2146570) |
 | `[Onalrie] Iwamoto-senpai no Suisen - S01E07 [1080p WEBRip AV1]` | **215.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629420) • [🐱 Nyaa](https://nekobt.to/torrents/13085586433034) |
 | `[FSP DN] A Record of a Mortal’s Journey to Immortality - 187 (1080p...` | **582.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629417) • [🐱 Nyaa](https://nyaa.si/view/2146556) |
-| `[Judas] Neko to Ryuu (The Cat and the Dragon) - S01E08 [1080p][HEVC...` | **210.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/629418) • [🐱 Nyaa](https://nyaa.si/view/2146554) |
-| `[ToonsHub] BLEACH Thousand-Year Blood War S01E44 1080p DSNP WEB-DL ...` | **1021.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/629415) • [🐱 Nyaa](https://nekobt.to/torrents/13085509012227) |
-| `[Shridhuu][1080p] GuAn - 一斩苍穹 (Yi Zhan Cangqiong) - EP04` | **394.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/629419) • [🐱 Nyaa](https://nyaa.si/view/2146552) |
 
 ---
 <div align="center">
