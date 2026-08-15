@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.29.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.53.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AnoZu] Ascendance of a Bookworm S01E52 1080p CR WEB-DL Dual-Audio ...` | **1464.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629330) • [🐱 Nyaa](https://nyaa.si/view/2146437) |
+| `Ascendance of a Bookworm S04E16 New Dress and Printing Press 1080p ...` | **1449.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629331) • [🐱 Nyaa](https://nyaa.si/view/2146436) |
+| `Ascendance of a Bookworm S04E18 Damuels Proposal 1080p CR WEB-DL AA...` | **1419.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629332) • [🐱 Nyaa](https://nyaa.si/view/2146435) |
+| `[ToonsHub] Ascendance of a Bookworm S04E16 1080p CR WEB-DL DUAL AAC...` | **1470.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629327) • [🐱 Nyaa](https://nyaa.si/view/2146434) |
+| `[ToonsHub] Ascendance of a Bookworm S04E18 1080p CR WEB-DL AAC2.0 H...` | **1440.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629328) • [🐱 Nyaa](https://nyaa.si/view/2146433) |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E04 (1080p BD AAC x265...` | **529.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629333) • [🐱 Nyaa](https://nekobt.to/torrents/13080825899013) |
+| `[Yameii] Ascendance of a Bookworm - S04E16 [English Dub] [CR WEB-DL...` | **1394.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/629329) • [🐱 Nyaa](https://nyaa.si/view/2146431) |
+| `[AnoZu] Ascendance of a Bookworm S01E54 1080p CR WEB-DL AAC 2.0 H.2...` | **1423.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/629317) • [🐱 Nyaa](https://nyaa.si/view/2146428) |
+| `Ascendance of a Bookworm S04E18 SUBFRENCH 1080p CR WEB-DL AAC2.0 x2...` | **1396.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629326) • [🐱 Nyaa](https://nekobt.to/torrents/13080774010893) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 18 (1080p) [522C38E3].mkv` | **1390.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629318) • [🐱 Nyaa](https://nyaa.si/view/2146426) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1400.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629322) • [🐱 Nyaa](https://nyaa.si/view/2146422) |
 | `[Q] Zenless Zone Zero - Ye Shunguang Animated Short Film 「If I Coul...` | **500.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/629316) • [🐱 Nyaa](https://nyaa.si/view/2146418) |
 | `Though I Am an Inept Villainess S01E04 [English Dub][1080p] | Futsu...` | **875.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/629315) • [🐱 Nyaa](https://nyaa.si/view/2146417) |
 | `[ToonsHub] Daemons of the Shadow Realm S01E07 1080p NF WEB-DL MULTi...` | **1137.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629312) • [🐱 Nyaa](https://nyaa.si/view/2146409) |
 | `[VARYG] Daemons of the Shadow Realm S01E07 Asa and Break 1080p NF W...` | **1137.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629313) • [🐱 Nyaa](https://nekobt.to/torrents/13078457372164) |
-| `[Onalrie] Rilakkuma - S01E20 [1080p WEBRip AV1]` | **28.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629314) • [🐱 Nyaa](https://nekobt.to/torrents/13078454376201) |
-| `The World Is Dancing S01E07 In Between REPACK 1080p AMZN WEB-DL DDP...` | **772.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/629308) • [🐱 Nyaa](https://nyaa.si/view/2146404) |
-| `Cardfight!! Vanguard 15th Anniversary Remastered S01E18 (WEBDL 1080...` | **775.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629307) • [🐱 Nyaa](https://nyaa.si/view/2146403) |
-| `[Some-Stuffs] Pocket Monsters (2023) 145 (1080p) [C282D06B]` | **526.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629306) • [🐱 Nyaa](https://nyaa.si/view/2146399) |
-| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 18 [1080p][YT]` | **329.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/629305) • [🐱 Nyaa](https://nyaa.si/view/2146398) |
-| `Tis.Time.for.Torture.Princess.S02.1080p.BluRay.Opus.2.0.x265-YURASU...` | **16543.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/629304) • [🐱 Nyaa](https://nyaa.si/view/2146397) |
-| `RILAKKUMA S01E20 1080p CR WEB-DL MULTi AAC2.0 H.264-VARYG (Multi-Au...` | **118.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629303) • [🐱 Nyaa](https://nyaa.si/view/2146393) |
-| `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **927.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/629302) • [🐱 Nyaa](https://nekobt.to/torrents/13075517872397) |
-| `[ToonsHub] The World Is Dancing S01E07 REPACK 1080p HIDIVE WEB-DL A...` | **926.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629301) • [🐱 Nyaa](https://nekobt.to/torrents/13075280898828) |
-| `[Gecko] Please Excuse My Younger Brothers - S01E07 (うちの弟どもがすみません; U...` | **707.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/629300) • [🐱 Nyaa](https://nekobt.to/torrents/13075025603589) |
-| `[SubsPlus+] The World Is Dancing - S01E07v2 (ADN WEB-DL 1080p AVC A...` | **644.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629299) • [🐱 Nyaa](https://nyaa.si/view/2146377) |
 
 ---
 <div align="center">
