@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.45.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.29.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Q] Zenless Zone Zero - Ye Shunguang Animated Short Film 「If I Coul...` | **500.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/629316) • [🐱 Nyaa](https://nyaa.si/view/2146418) |
+| `Though I Am an Inept Villainess S01E04 [English Dub][1080p] | Futsu...` | **875.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/629315) • [🐱 Nyaa](https://nyaa.si/view/2146417) |
 | `[ToonsHub] Daemons of the Shadow Realm S01E07 1080p NF WEB-DL MULTi...` | **1137.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629312) • [🐱 Nyaa](https://nyaa.si/view/2146409) |
 | `[VARYG] Daemons of the Shadow Realm S01E07 Asa and Break 1080p NF W...` | **1137.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629313) • [🐱 Nyaa](https://nekobt.to/torrents/13078457372164) |
 | `[Onalrie] Rilakkuma - S01E20 [1080p WEBRip AV1]` | **28.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629314) • [🐱 Nyaa](https://nekobt.to/torrents/13078454376201) |
@@ -46,8 +48,6 @@
 | `[ToonsHub] The World Is Dancing S01E07 REPACK 1080p HIDIVE WEB-DL A...` | **926.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629301) • [🐱 Nyaa](https://nekobt.to/torrents/13075280898828) |
 | `[Gecko] Please Excuse My Younger Brothers - S01E07 (うちの弟どもがすみません; U...` | **707.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/629300) • [🐱 Nyaa](https://nekobt.to/torrents/13075025603589) |
 | `[SubsPlus+] The World Is Dancing - S01E07v2 (ADN WEB-DL 1080p AVC A...` | **644.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629299) • [🐱 Nyaa](https://nyaa.si/view/2146377) |
-| `[ToonsHub] A Good Day to Ascend S01E07 1080p iQ WEB-DL AAC2.0 H.264...` | **415.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629298) • [🐱 Nyaa](https://nekobt.to/torrents/13073833841152) |
-| `[Doomdos] - A Good Day to Ascend - 7 [1080p IQ WEB-DL]` | **416.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629297) • [🐱 Nyaa](https://nyaa.si/view/2146361) |
 
 ---
 <div align="center">
