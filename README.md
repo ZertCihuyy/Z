@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.30.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.24.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mao - 20 [1080p DSNP WEB-DL AVC AAC][MultiSub][F68D7A34]` | **911.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/629652) • [🐱 Nyaa](https://nyaa.si/view/2146851) |
+| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E19 (1080p WEBRip AA...` | **422.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/629653) • [🐱 Nyaa](https://nekobt.to/torrents/13092870845449) |
+| `Bubblegum.Crisis.バブルガムクライシス.OVA.1987-1991.BDrip.1080p.x264.AC3.Opus...` | **6719.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/629649) • [🐱 Nyaa](https://nyaa.si/view/2146846) |
+| `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **613.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/629645) • [🐱 Nyaa](https://nekobt.to/torrents/13092624287234) |
+| `[Erai-raws] Mairimashita Iruma-kun S04E19 [1080p CR WEBRip HEVC AAC...` | **677.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629646) • [🐱 Nyaa](https://nekobt.to/torrents/13092608122883) |
+| `[DKB] Hanaori-san wa Tensei shitemo Kenka ga Shitai - S01E06 [1080p...` | **265.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629648) • [🐱 Nyaa](https://nyaa.si/view/2146841) |
+| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 07 [1080p AMZN...` | **340.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629644) • [🐱 Nyaa](https://nyaa.si/view/2146837) |
+| `[Onalrie] Kabushikigaisha Magilumiere - S02E07 [1080p WEBRip AV1]` | **236.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629643) • [🐱 Nyaa](https://nekobt.to/torrents/13091997923072) |
+| `MAO S01E20 Sanas Heart 1080p DSNP WEB-DL AAC2.0 H.264-VARYG (Multi-...` | **911.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/629642) • [🐱 Nyaa](https://nyaa.si/view/2146833) |
+| `[AnoZu] Bleach S17E44 1080p CR WEB-DL AAC 2.0 H.264 | Bleach: Thous...` | **1735.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/629641) • [🐱 Nyaa](https://nyaa.si/view/2146832) |
 | `[AnoZu] Bleach S17E43 1080p CR WEB-DL AAC 2.0 H.264` | **1453.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629639) • [🐱 Nyaa](https://nekobt.to/torrents/13091665299968) |
 | `[ToonsHub] MAO S01E20 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **911.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/629638) • [🐱 Nyaa](https://nyaa.si/view/2146830) |
 | `[Onalrie] Bleach Sennen Kessen Hen - Kashin Tan - E04 [1080p WEBRip...` | **385.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629640) • [🐱 Nyaa](https://onalrie.app/torrent/bb664b6d-db30-43b8-b00d-111be172f044) |
 | `[AnoZu] Bleach S17E42 1080p CR WEB-DL AAC 2.0 H.264 | Bleach: Thous...` | **1798.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/629637) • [🐱 Nyaa](https://nyaa.si/view/2146829) |
 | `[AnoZu] Bleach S17E41 1080p CR WEB-DL AAC 2.0 H.264` | **1745.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/629636) • [🐱 Nyaa](https://nyaa.si/view/2146828) |
-| `[VARYG] BLEACH Thousand Year Blood War S01E43 BLOOD FOR MY BONE REP...` | **1454.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629633) • [🐱 Nyaa](https://nekobt.to/torrents/13091307829261) |
-| `[VARYG] BLEACH Thousand Year Blood War S01E42 SON OF DARKNESS REPAC...` | **1799.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629634) • [🐱 Nyaa](https://nekobt.to/torrents/13091294937607) |
-| `[CrappySubs] Daemons of the Shadow Realm (Yomi no Tsugai) - S01E17 ...` | **1409.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/629635) • [🐱 Nyaa](https://nekobt.to/torrents/13091205798156) |
-| `Katainaka no Ossan, Kensei ni Naru [TV-2] [2026] [WEBRip] [1080p] [...` | **5485.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629630) • [🐱 Nyaa](https://animetosho.xyz/view/629630) |
-| `[Onalrie] Saijo no Osewa - S01E07 [1080p WEBRip AV1]` | **190.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629631) • [🐱 Nyaa](https://nekobt.to/torrents/13091079962382) |
-| `[Judas] Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance (M...` | **473.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629632) • [🐱 Nyaa](https://nyaa.si/view/2146825) |
-| `BLEACH Thousand Year Blood War S04E42 SON OF DARKNESS 1080p CR WEB-...` | **1462.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/629629) • [🐱 Nyaa](https://nyaa.si/view/2146824) |
-| `[Erai-raws] Yomi no Tsugai - 19 [1080p CR WEBRip HEVC AAC][MultiSub...` | **422.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/629625) • [🐱 Nyaa](https://nekobt.to/torrents/13090909364743) |
-| `[Erai-raws] Saijo no Osewa - 07 [1080p CR WEBRip HEVC AAC][MultiSub...` | **331.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/629626) • [🐱 Nyaa](https://nekobt.to/torrents/13090905029387) |
-| `[Erai-raws] Neko to Ryuu - 08 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **409.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/629627) • [🐱 Nyaa](https://nekobt.to/torrents/13090888706569) |
 
 ---
 <div align="center">
