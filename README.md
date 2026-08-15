@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.54.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.45.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `The World Is Dancing S01E07 In Between REPACK 1080p AMZN WEB-DL DDP...` | **772.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/629308) • [🐱 Nyaa](https://nyaa.si/view/2146404) |
 | `Cardfight!! Vanguard 15th Anniversary Remastered S01E18 (WEBDL 1080...` | **775.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629307) • [🐱 Nyaa](https://nyaa.si/view/2146403) |
 | `[Some-Stuffs] Pocket Monsters (2023) 145 (1080p) [C282D06B]` | **526.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629306) • [🐱 Nyaa](https://nyaa.si/view/2146399) |
 | `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 18 [1080p][YT]` | **329.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/629305) • [🐱 Nyaa](https://nyaa.si/view/2146398) |
@@ -47,7 +48,6 @@
 | `[ASW] Rilakkuma - 20 [1080p HEVC x265 10Bit][AAC]` | **47.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629296) • [🐱 Nyaa](https://nyaa.si/view/2146354) |
 | `[Erai-raws] Rilakkuma - 20 [1080p CR WEBRip HEVC AAC][MultiSub][D81...` | **51.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/629295) • [🐱 Nyaa](https://nyaa.si/view/2146353) |
 | `[ToonsHub] RILAKKUMA S01E20 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **111.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629288) • [🐱 Nyaa](https://nekobt.to/torrents/13073000255748) |
-| `[VARYG] RILAKKUMA S01E20 1080p CR WEB-DL DUAL AAC2.0 H.264 (Multi-S...` | **114.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629289) • [🐱 Nyaa](https://nekobt.to/torrents/13072972896009) |
 
 ---
 <div align="center">
