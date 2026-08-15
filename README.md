@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.45.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.34.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Daemons of the Shadow Realm S01E07 1080p NF WEB-DL MULTi...` | **1137.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629312) • [🐱 Nyaa](https://nyaa.si/view/2146409) |
+| `[VARYG] Daemons of the Shadow Realm S01E07 Asa and Break 1080p NF W...` | **1137.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629313) • [🐱 Nyaa](https://nekobt.to/torrents/13078457372164) |
+| `[Onalrie] Rilakkuma - S01E20 [1080p WEBRip AV1]` | **28.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629314) • [🐱 Nyaa](https://nekobt.to/torrents/13078454376201) |
 | `The World Is Dancing S01E07 In Between REPACK 1080p AMZN WEB-DL DDP...` | **772.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/629308) • [🐱 Nyaa](https://nyaa.si/view/2146404) |
 | `Cardfight!! Vanguard 15th Anniversary Remastered S01E18 (WEBDL 1080...` | **775.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629307) • [🐱 Nyaa](https://nyaa.si/view/2146403) |
 | `[Some-Stuffs] Pocket Monsters (2023) 145 (1080p) [C282D06B]` | **526.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629306) • [🐱 Nyaa](https://nyaa.si/view/2146399) |
@@ -45,9 +48,6 @@
 | `[SubsPlus+] The World Is Dancing - S01E07v2 (ADN WEB-DL 1080p AVC A...` | **644.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629299) • [🐱 Nyaa](https://nyaa.si/view/2146377) |
 | `[ToonsHub] A Good Day to Ascend S01E07 1080p iQ WEB-DL AAC2.0 H.264...` | **415.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629298) • [🐱 Nyaa](https://nekobt.to/torrents/13073833841152) |
 | `[Doomdos] - A Good Day to Ascend - 7 [1080p IQ WEB-DL]` | **416.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629297) • [🐱 Nyaa](https://nyaa.si/view/2146361) |
-| `[ASW] Rilakkuma - 20 [1080p HEVC x265 10Bit][AAC]` | **47.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629296) • [🐱 Nyaa](https://nyaa.si/view/2146354) |
-| `[Erai-raws] Rilakkuma - 20 [1080p CR WEBRip HEVC AAC][MultiSub][D81...` | **51.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/629295) • [🐱 Nyaa](https://nyaa.si/view/2146353) |
-| `[ToonsHub] RILAKKUMA S01E20 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **111.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629288) • [🐱 Nyaa](https://nekobt.to/torrents/13073000255748) |
 
 ---
 <div align="center">
