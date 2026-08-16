@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.00.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.33.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Seihantai na Kimi to Boku - S02E07 [1080p WEBRip AV1]` | **207.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629780) • [🐱 Nyaa](https://nekobt.to/torrents/13103311699467) |
+| `[ASW] Tetsunabe no Jan! - 07 [1080p HEVC x265 10Bit][AAC]` | **258.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/629776) • [🐱 Nyaa](https://nyaa.si/view/2147093) |
+| `[SubsPlease] Bleach - Sennen Kessen Hen (41-44) (1080p) [Batch]` | **5603.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/629777) • [🐱 Nyaa](https://nyaa.si/view/2147092) |
 | `[ToonsHub] You and I Are Polar Opposites S02E04 1080p CR WEB-DL MUL...` | **1533.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/629774) • [🐱 Nyaa](https://nyaa.si/view/2147088) |
 | `[ToonsHub] You and I Are Polar Opposites S02E03 1080p CR WEB-DL MUL...` | **1536.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/629775) • [🐱 Nyaa](https://nyaa.si/view/2147087) |
 | `[VARYG] You and I Are Polar Opposites S02E04 New School Term 1080p ...` | **1533.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/629773) • [🐱 Nyaa](https://nekobt.to/torrents/13103146407694) |
@@ -45,9 +48,6 @@
 | `[ToonsHub] Iron Wok Jan S01E07 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1425.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629763) • [🐱 Nyaa](https://nekobt.to/torrents/13102458939652) |
 | `[AnoZu] Iron Wok Jan! S01E07 1080p CR WEB-DL AAC 2.0 H.264 | Tetsun...` | **1405.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/629755) • [🐱 Nyaa](https://nyaa.si/view/2147072) |
 | `[VARYG] You and I Are Polar Opposites S02E07 1080p NF WEB-DL AAC2.0...` | **871.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629764) • [🐱 Nyaa](https://nekobt.to/torrents/13102425817093) |
-| `[SubsPlease] Tetsunabe no Jan! - 07 (1080p) [2A5DCA62].mkv` | **1375.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629756) • [🐱 Nyaa](https://nyaa.si/view/2147070) |
-| `Iron Wok Jan S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1380.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/629765) • [🐱 Nyaa](https://nekobt.to/torrents/13102407876866) |
-| `[Erai-raws] Tetsunabe no Jan - 07 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1386.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/629761) • [🐱 Nyaa](https://nyaa.si/view/2147063) |
 
 ---
 <div align="center">
