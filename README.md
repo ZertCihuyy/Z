@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.40.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.00.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Nijuuseiki Denki Mokuroku Eureka Evrika - S01E07 [1080p W...` | **486.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629847) • [🐱 Nyaa](https://onalrie.app/torrent/82f0a662-65f3-42fb-852b-19cba6d8f80c) |
+| `Sparks of Tomorrow S01E07 MULTi AD 1080p NF WEB-DL AAC2.0 x264-Tsun...` | **1047.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629843) • [🐱 Nyaa](https://nekobt.to/torrents/13107766820101) |
+| `Sparks of Tomorrow S01E07 MULTi AD 1080p NF WEB-DL AAC2.0 H.265-Tsu...` | **636.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629844) • [🐱 Nyaa](https://nekobt.to/torrents/13107759607812) |
+| `Sparks of Tomorrow S01E07 MULTi AD 1080p NF WEB-DL AAC2.0 AV1-Tsund...` | **416.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629845) • [🐱 Nyaa](https://nekobt.to/torrents/13107753700100) |
+| `[ASW] Hyakkano - 31 [1080p HEVC x265 10Bit][AAC]` | **339.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/629842) • [🐱 Nyaa](https://nyaa.si/view/2147198) |
+| `[ToonsHub] One Piece EP1174 1080p TVER WEB-DL AAC2.0 H.264` | **550.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629846) • [🐱 Nyaa](https://nekobt.to/torrents/13107719399683) |
 | `[Shridhuu][1080p] Renegade Immortal - 仙逆 (Xian Ni) - EP154` | **315.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629840) • [🐱 Nyaa](https://nyaa.si/view/2147193) |
 | `[Trix] Hyakkano S03E07 [WEBRip 1080p AV1 Opus] (Multi Subs, VOSTFR)...` | **351.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/629838) • [🐱 Nyaa](https://nyaa.si/view/2147184) |
 | `Bleach S17E44 Thousand-Year Blood War THE PERFECT CRIMSON 1080p DSN...` | **1009.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629839) • [🐱 Nyaa](https://nyaa.si/view/2147183) |
@@ -42,12 +48,6 @@
 | `[whomst] Link Click - S04E01 [WEB 1080p x264 AAC] | Shiguang Dailir...` | **1272.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/629836) • [🐱 Nyaa](https://nyaa.si/view/2147177) |
 | `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1545.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/629825) • [🐱 Nyaa](https://nyaa.si/view/2147176) |
 | `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 07 [1080p NF...` | **902.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629826) • [🐱 Nyaa](https://nyaa.si/view/2147175) |
-| `[AnoZu] The 100 Girlfriends Who Really, Really, Really, Really, REA...` | **1456.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629827) • [🐱 Nyaa](https://nyaa.si/view/2147174) |
-| `[ToonsHub] Sparks of Tomorrow S01E07 1080p NF WEB-DL MULTi AAC2.0 H...` | **1213.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629828) • [🐱 Nyaa](https://nyaa.si/view/2147172) |
-| `[Yameii] The 100 Girlfriends Who Really, Really, Really, Really, RE...` | **1384.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629829) • [🐱 Nyaa](https://nyaa.si/view/2147170) |
-| `[AnoZu] The 100 Girlfriends Who Really, Really, Really, Really, REA...` | **1406.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/629830) • [🐱 Nyaa](https://nyaa.si/view/2147169) |
-| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1403.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/629831) • [🐱 Nyaa](https://nyaa.si/view/2147168) |
-| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1441.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629832) • [🐱 Nyaa](https://nyaa.si/view/2147167) |
 
 ---
 <div align="center">
