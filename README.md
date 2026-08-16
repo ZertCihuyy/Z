@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.38.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.03.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E06 [WEB.108...` | **176.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/629978) • [🐱 Nyaa](https://nyaa.si/view/2147367) |
+| `[Onalrie] Azur Lane Bisoku Zenshin - S02E07 [1080p WEBRip AV1].mkv` | **124.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629977) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2102623) |
+| `[Onalrie] One Piece - E1174 [1080p WEBRip AV1]` | **362.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/629976) • [🐱 Nyaa](https://nekobt.to/torrents/13111172030729) |
 | `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **860.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/629973) • [🐱 Nyaa](https://nyaa.si/view/2147360) |
 | `One Piece EP1174 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **787.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/629974) • [🐱 Nyaa](https://nekobt.to/torrents/13110741236231) |
 | `One Piece EP1174 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1378.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/629970) • [🐱 Nyaa](https://nekobt.to/torrents/13110698764549) |
@@ -42,9 +45,6 @@
 | `[Onalrie] Mushoku Tensei - Isekai Ittara Honki Dasu - S03E08 [1080p...` | **206.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/629959) • [🐱 Nyaa](https://nekobt.to/torrents/13109787353858) |
 | `[ASW] Sayonara Lara - 07 [1080p HEVC x265 10Bit][AAC]` | **242.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629960) • [🐱 Nyaa](https://nyaa.si/view/2147341) |
 | `Anime AzurLane Slow Ahead S02E07 The Godlike Way to Spend a Holiday...` | **501.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629956) • [🐱 Nyaa](https://nyaa.si/view/2147339) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E03 1080p CR WEB-DL M...` | **1631.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/629957) • [🐱 Nyaa](https://nyaa.si/view/2147338) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E02 1080p CR WEB-DL M...` | **1632.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/629958) • [🐱 Nyaa](https://nyaa.si/view/2147337) |
-| `[AnoZu] Azur Lane: Slow Ahead! S02E07 1080p CR WEB-DL AAC 2.0 H.264...` | **505.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/629954) • [🐱 Nyaa](https://nyaa.si/view/2147336) |
 
 ---
 <div align="center">
