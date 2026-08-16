@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.36.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.58.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] Goodbye Lara S01E07 Meet Me at Biwako Terrace Saturday at 1...` | **1459.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629883) • [🐱 Nyaa](https://nekobt.to/torrents/13108432326657) |
-| `Goodbye Lara S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1405.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629887) • [🐱 Nyaa](https://nekobt.to/torrents/13108398555404) |
-| `[Erai-raws] Sayonara Lara - 07 [1080p CR WEB-DL AVC AAC][MultiSub][...` | **1410.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/629888) • [🐱 Nyaa](https://nekobt.to/torrents/13108396611595) |
-| `[Onalrie] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kan...` | **299.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629889) • [🐱 Nyaa](https://nekobt.to/torrents/13108352775183) |
-| `[VARYG] Though I Am an Inept Villainess S01E06 I Wont Let You Die 1...` | **873.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629882) • [🐱 Nyaa](https://nekobt.to/torrents/13108236177166) |
-| `[Doomdos] - Mushoku Tensei Jobless Reincarnation Season 3 - 8 [1080...` | **336.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/629880) • [🐱 Nyaa](https://nyaa.si/view/2147242) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E06 1080p NF WEB-DL A...` | **873.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/629881) • [🐱 Nyaa](https://nyaa.si/view/2147241) |
-| `There Was a Cute Girl in the Heros Party so I Tried Confessing to H...` | **11667.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/629877) • [🐱 Nyaa](https://nyaa.si/view/2147240) |
-| `[Yameii] Mushoku Tensei: Jobless Reincarnation - S03E06 [English Du...` | **1387.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629878) • [🐱 Nyaa](https://nyaa.si/view/2147239) |
-| `[AnoZu] Mushoku Tensei: Jobless Reincarnation S03E06 1080p CR WEB-D...` | **1635.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629879) • [🐱 Nyaa](https://nyaa.si/view/2147237) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E05 1080p CR WEB...` | **1923.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/629875) • [🐱 Nyaa](https://nyaa.si/view/2147236) |
-| `Mushoku Tensei Jobless Reincarnation S03E08 1080p NF WEB-DL AAC2.0 ...` | **866.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/629876) • [🐱 Nyaa](https://nyaa.si/view/2147235) |
-| `[AnoZu] Mushoku Tensei: Jobless Reincarnation S03E08 1080p CR WEB-D...` | **1665.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629858) • [🐱 Nyaa](https://nekobt.to/torrents/13108025731334) |
-| `The Classroom of the Black Cat and a Witch S01E19 SUBFRENCH 1080p C...` | **1713.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629866) • [🐱 Nyaa](https://nekobt.to/torrents/13108021526537) |
-| `[AnoZu] The Classroom of a Black Cat and a Witch S01E19 1080p CR WE...` | **1738.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/629871) • [🐱 Nyaa](https://nekobt.to/torrents/13108015813128) |
+| `[AnoZu] Though I Am an Inept Villainess S01E04 1080p CR WEB-DL Dual...` | **1457.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/629917) • [🐱 Nyaa](https://nyaa.si/view/2147292) |
+| `[Shridhuu][1080p] A Good Day to Ascend - 择日飞升 (Zeri Feisheng) - EP07` | **480.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/629918) • [🐱 Nyaa](https://nyaa.si/view/2147291) |
+| `Though I Am an Inept Villainess S01E04 My Miracle Comet 1080p CR WE...` | **1445.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629908) • [🐱 Nyaa](https://nyaa.si/view/2147286) |
+| `Though I Am an Inept Villainess S01E06 I Wont Let You Die 1080p CR ...` | **1399.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/629910) • [🐱 Nyaa](https://nyaa.si/view/2147284) |
+| `[Yameii] Though I Am an Inept Villainess - S01E04 [English Dub] [CR...` | **1391.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629911) • [🐱 Nyaa](https://nyaa.si/view/2147283) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E04 1080p CR WEB-DL D...` | **1467.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/629912) • [🐱 Nyaa](https://nyaa.si/view/2147282) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E06 1080p CR WEB-DL A...` | **1398.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/629913) • [🐱 Nyaa](https://nyaa.si/view/2147281) |
+| `[AnoZu] Though I Am an Inept Villainess S01E06 1080p CR WEB-DL AAC ...` | **1400.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/629914) • [🐱 Nyaa](https://nyaa.si/view/2147280) |
+| `Though I Am an Inept Villainess S01E06 SUBFRENCH 1080p CR WEB-DL AA...` | **1396.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629903) • [🐱 Nyaa](https://nekobt.to/torrents/13108647782156) |
+| `[SubsPlease] Futsutsuka na Akujo dewa Gozaimasu ga - 06 (1080p) [F6...` | **1390.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629915) • [🐱 Nyaa](https://nyaa.si/view/2147277) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E06 1080p BILI WEB-DL...` | **216.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/629905) • [🐱 Nyaa](https://nekobt.to/torrents/13108635516173) |
+| `[ToonsHub] One Piece EP1174 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **326.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/629906) • [🐱 Nyaa](https://nekobt.to/torrents/13108629979404) |
+| `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 06 [1080p CR WE...` | **1398.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629901) • [🐱 Nyaa](https://nyaa.si/view/2147270) |
+| `[Yameii] Goodbye, Lara - S01E07 [English Dub] [CR WEB-DL 1080p H264...` | **1407.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/629902) • [🐱 Nyaa](https://nyaa.si/view/2147268) |
+| `[ToonsHub] Goodbye Lara S01E07 1080p CR WEB-DL DUAL AAC2.0 H.264 (S...` | **1482.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/629897) • [🐱 Nyaa](https://nyaa.si/view/2147266) |
 
 ---
 <div align="center">
