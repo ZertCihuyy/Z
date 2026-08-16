@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.49.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.25.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] Mushoku Tensei - S03E08 [1080p CR WEB-DL H.264 AAC] [Na...` | **1369.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629989) • [🐱 Nyaa](https://nekobt.to/torrents/13114298797838) |
 | `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E06 1080p CR WEB-D...` | **1635.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629985) • [🐱 Nyaa](https://nekobt.to/torrents/13113146498309) |
 | `[Kakumei Subs] Honzuki no Gekokujou S04E17 [1080p WEB HEVC AAC] [Su...` | **2141.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629984) • [🐱 Nyaa](https://nekobt.to/torrents/13112769014028) |
 | `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E06 [1080p][...` | **589.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/629983) • [🐱 Nyaa](https://nyaa.si/view/2147386) |
@@ -44,7 +45,6 @@
 | `One Piece EP1174 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **787.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/629974) • [🐱 Nyaa](https://nekobt.to/torrents/13110741236231) |
 | `One Piece EP1174 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1378.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/629970) • [🐱 Nyaa](https://nekobt.to/torrents/13110698764549) |
 | `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E19 [1080p WEBRip AV1]` | **421.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629972) • [🐱 Nyaa](https://nekobt.to/torrents/13110654380800) |
-| `[ASW] One Piece - 1174 [1080p HEVC x265 10Bit][AAC]` | **448.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629969) • [🐱 Nyaa](https://nyaa.si/view/2147354) |
 
 ---
 <div align="center">
