@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.31.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.00.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] You and I Are Polar Opposites S02E04 1080p CR WEB-DL MUL...` | **1533.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/629774) • [🐱 Nyaa](https://nyaa.si/view/2147088) |
+| `[ToonsHub] You and I Are Polar Opposites S02E03 1080p CR WEB-DL MUL...` | **1536.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/629775) • [🐱 Nyaa](https://nyaa.si/view/2147087) |
+| `[VARYG] You and I Are Polar Opposites S02E04 New School Term 1080p ...` | **1533.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/629773) • [🐱 Nyaa](https://nekobt.to/torrents/13103146407694) |
+| `[TSPlease] Iron Wok Jan S01E07 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1425.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/629772) • [🐱 Nyaa](https://nyaa.si/view/2147085) |
+| `[Ignore] You and I Are Polar Opposites - S01 (BD 1080p HEVC Opus) [...` | **31053.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/629771) • [🐱 Nyaa](https://nyaa.si/view/2147084) |
+| `[ASW] Let's Go Kaiki-gumi - 07 [1080p HEVC x265 10Bit][AAC]` | **246.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629770) • [🐱 Nyaa](https://nyaa.si/view/2147079) |
+| `[ASW] Seihantai na Kimi to Boku - 19 [1080p HEVC x265 10Bit][AAC]` | **224.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629769) • [🐱 Nyaa](https://nyaa.si/view/2147077) |
 | `[Onalrie] Let's Go Kaiki-gumi - S01E07 [1080p WEBRip AV1]` | **179.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/629768) • [🐱 Nyaa](https://nekobt.to/torrents/13102783252992) |
 | `Iron Wok Jan S01E07 Toss That Wok 1080p CR WEB-DL AAC2.0 H.264-VARY...` | **1405.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/629767) • [🐱 Nyaa](https://nyaa.si/view/2147074) |
 | `[ToonsHub] Iron Wok Jan S01E07 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1425.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629763) • [🐱 Nyaa](https://nekobt.to/torrents/13102458939652) |
@@ -41,13 +48,6 @@
 | `[SubsPlease] Tetsunabe no Jan! - 07 (1080p) [2A5DCA62].mkv` | **1375.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629756) • [🐱 Nyaa](https://nyaa.si/view/2147070) |
 | `Iron Wok Jan S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1380.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/629765) • [🐱 Nyaa](https://nekobt.to/torrents/13102407876866) |
 | `[Erai-raws] Tetsunabe no Jan - 07 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1386.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/629761) • [🐱 Nyaa](https://nyaa.si/view/2147063) |
-| `[Trix] You and I Are Polar Opposites S02E07 [WEBRip 1080p AV1 Opus]...` | **211.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/629762) • [🐱 Nyaa](https://nyaa.si/view/2147062) |
-| `[RUBaDUB] Flower And Asura (Complete) (1080p) (Dual Audio)` | **7607.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/629754) • [🐱 Nyaa](https://nyaa.si/view/2147061) |
-| `[Onalrie] Digimon Beatbreak - S01E43 [1080p WEBRip AV1]` | **311.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629753) • [🐱 Nyaa](https://nekobt.to/torrents/13102233753356) |
-| `[AnoZu] You and I Are Polar Opposites S02E05 1080p CR WEB-DL Dual-A...` | **1480.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/629752) • [🐱 Nyaa](https://nyaa.si/view/2147059) |
-| `[ToonsHub] You and I Are Polar Opposites S02E05 1080p CR WEB-DL DUA...` | **1447.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/629740) • [🐱 Nyaa](https://nekobt.to/torrents/13102065091594) |
-| `[ToonsHub] You and I Are Polar Opposites S02E07 1080p CR WEB-DL AAC...` | **1401.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/629741) • [🐱 Nyaa](https://nekobt.to/torrents/13102053039874) |
-| `[ToonsHub] Lets go KAIKIGUMI S01E07 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1480.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/629742) • [🐱 Nyaa](https://nekobt.to/torrents/13102046009088) |
 
 ---
 <div align="center">
