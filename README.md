@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.34.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.56.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FoundYears] Though I Am an Inept Villainess - S01E04 (CR WEB-DL 10...` | **1510.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/629968) • [🐱 Nyaa](https://nekobt.to/torrents/13110311520004) |
 | `[ASW] Azur Lane - Bisoku Zenshin! S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **117.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/629967) • [🐱 Nyaa](https://nyaa.si/view/2147352) |
 | `[Onalrie] Futsutsuka na Akujo dewa Gozaimasu ga - S01E06 [1080p WEB...` | **168.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629966) • [🐱 Nyaa](https://nekobt.to/torrents/13110184891652) |
 | `[ASW] Futsutsuka na Akujo dewa Gozaimasu ga - 06 [1080p HEVC x265 1...` | **208.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629965) • [🐱 Nyaa](https://nyaa.si/view/2147351) |
@@ -44,7 +45,6 @@
 | `Azur Lane Slow Ahead S02E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-T...` | **496.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629952) • [🐱 Nyaa](https://nekobt.to/torrents/13109554930944) |
 | `[SubsPlease] Azur Lane - Bisoku Zenshin! S2 - 07 (1080p) [7FAAAB20]...` | **498.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/629938) • [🐱 Nyaa](https://nyaa.si/view/2147326) |
 | `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 07 [1080p CR WEB-DL AV...` | **501.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/629942) • [🐱 Nyaa](https://nyaa.si/view/2147321) |
-| `[DKB] Mushoku Tensei: Isekai Ittara Honki Dasu - S03E08 [1080p][HEV...` | **502.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/629944) • [🐱 Nyaa](https://nyaa.si/view/2147319) |
 
 ---
 <div align="center">
