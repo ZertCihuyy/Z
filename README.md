@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.56.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.38.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **860.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/629973) • [🐱 Nyaa](https://nyaa.si/view/2147360) |
+| `One Piece EP1174 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **787.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/629974) • [🐱 Nyaa](https://nekobt.to/torrents/13110741236231) |
+| `One Piece EP1174 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1378.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/629970) • [🐱 Nyaa](https://nekobt.to/torrents/13110698764549) |
+| `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E19 [1080p WEBRip AV1]` | **421.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629972) • [🐱 Nyaa](https://nekobt.to/torrents/13110654380800) |
+| `[ASW] One Piece - 1174 [1080p HEVC x265 10Bit][AAC]` | **448.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629969) • [🐱 Nyaa](https://nyaa.si/view/2147354) |
 | `[FoundYears] Though I Am an Inept Villainess - S01E04 (CR WEB-DL 10...` | **1510.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/629968) • [🐱 Nyaa](https://nekobt.to/torrents/13110311520004) |
 | `[ASW] Azur Lane - Bisoku Zenshin! S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **117.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/629967) • [🐱 Nyaa](https://nyaa.si/view/2147352) |
 | `[Onalrie] Futsutsuka na Akujo dewa Gozaimasu ga - S01E06 [1080p WEB...` | **168.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629966) • [🐱 Nyaa](https://nekobt.to/torrents/13110184891652) |
@@ -40,11 +45,6 @@
 | `[ToonsHub] Though I Am an Inept Villainess S01E03 1080p CR WEB-DL M...` | **1631.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/629957) • [🐱 Nyaa](https://nyaa.si/view/2147338) |
 | `[ToonsHub] Though I Am an Inept Villainess S01E02 1080p CR WEB-DL M...` | **1632.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/629958) • [🐱 Nyaa](https://nyaa.si/view/2147337) |
 | `[AnoZu] Azur Lane: Slow Ahead! S02E07 1080p CR WEB-DL AAC 2.0 H.264...` | **505.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/629954) • [🐱 Nyaa](https://nyaa.si/view/2147336) |
-| `[TSPlease] Though I Am an Inept Villainess S01E06 1080p CR WEB-DL A...` | **1406.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/629955) • [🐱 Nyaa](https://nyaa.si/view/2147335) |
-| `[ToonsHub] Azur Lane Slow Ahead S02E07 1080p CR WEB-DL AAC2.0 H.264...` | **500.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/629946) • [🐱 Nyaa](https://nekobt.to/torrents/13109599968015) |
-| `Azur Lane Slow Ahead S02E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-T...` | **496.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629952) • [🐱 Nyaa](https://nekobt.to/torrents/13109554930944) |
-| `[SubsPlease] Azur Lane - Bisoku Zenshin! S2 - 07 (1080p) [7FAAAB20]...` | **498.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/629938) • [🐱 Nyaa](https://nyaa.si/view/2147326) |
-| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 07 [1080p CR WEB-DL AV...` | **501.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/629942) • [🐱 Nyaa](https://nyaa.si/view/2147321) |
 
 ---
 <div align="center">
