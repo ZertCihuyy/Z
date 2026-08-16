@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.00.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.29.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Asakura] Tensei Shitara Slime Datta Ken S04E18 [1080p WEB AAC x264...` | **1416.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/629783) • [🐱 Nyaa](https://nekobt.to/torrents/13104551416074) |
 | `Digimon.Beatbreak.S01E43.1080p.CR.WEBRip.10bits.x265-Rapta` | **244.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629782) • [🐱 Nyaa](https://nyaa.si/view/2147096) |
 | `[Onalrie] Tetsunabe no Jan - S01E07 [1080p WEBRip AV1]` | **225.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/629781) • [🐱 Nyaa](https://nekobt.to/torrents/13103775985932) |
 | `[Onalrie] Seihantai na Kimi to Boku - S02E07 [1080p WEBRip AV1]` | **207.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629780) • [🐱 Nyaa](https://nekobt.to/torrents/13103311699467) |
@@ -47,7 +48,6 @@
 | `[ASW] Seihantai na Kimi to Boku - 19 [1080p HEVC x265 10Bit][AAC]` | **224.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629769) • [🐱 Nyaa](https://nyaa.si/view/2147077) |
 | `[Onalrie] Let's Go Kaiki-gumi - S01E07 [1080p WEBRip AV1]` | **179.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/629768) • [🐱 Nyaa](https://nekobt.to/torrents/13102783252992) |
 | `Iron Wok Jan S01E07 Toss That Wok 1080p CR WEB-DL AAC2.0 H.264-VARY...` | **1405.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/629767) • [🐱 Nyaa](https://nyaa.si/view/2147074) |
-| `[ToonsHub] Iron Wok Jan S01E07 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1425.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629763) • [🐱 Nyaa](https://nekobt.to/torrents/13102458939652) |
 
 ---
 <div align="center">
