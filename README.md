@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.56.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.31.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kakumei Subs] Honzuki no Gekokujou S04E17 [1080p WEB HEVC AAC] [Su...` | **2141.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629984) • [🐱 Nyaa](https://nekobt.to/torrents/13112769014028) |
+| `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E06 [1080p][...` | **589.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/629983) • [🐱 Nyaa](https://nyaa.si/view/2147386) |
+| `[VARYG] Digimon Beatbreak S01E43 The White Digimon REPACK 1080p CR ...` | **1377.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629982) • [🐱 Nyaa](https://nekobt.to/torrents/13112562417673) |
 | `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **242.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/629981) • [🐱 Nyaa](https://nyaa.si/view/2147376) |
 | `[DKB] Kuroneko to Majo no Kyoushitsu - S01E19 [1080p][HEVC x265 10b...` | **594.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629980) • [🐱 Nyaa](https://nyaa.si/view/2147375) |
 | `[Fuchs] Mushoku Tensei - S03E06 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1609.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/629979) • [🐱 Nyaa](https://nyaa.si/view/2147370) |
@@ -42,9 +45,6 @@
 | `[Onalrie] Kuroneko to Majo no Kyoushitsu - S01E19 [1080p WEBRip AV1]` | **421.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629972) • [🐱 Nyaa](https://nekobt.to/torrents/13110654380800) |
 | `[ASW] One Piece - 1174 [1080p HEVC x265 10Bit][AAC]` | **448.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629969) • [🐱 Nyaa](https://nyaa.si/view/2147354) |
 | `[FoundYears] Though I Am an Inept Villainess - S01E04 (CR WEB-DL 10...` | **1510.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/629968) • [🐱 Nyaa](https://nekobt.to/torrents/13110311520004) |
-| `[ASW] Azur Lane - Bisoku Zenshin! S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **117.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/629967) • [🐱 Nyaa](https://nyaa.si/view/2147352) |
-| `[Onalrie] Futsutsuka na Akujo dewa Gozaimasu ga - S01E06 [1080p WEB...` | **168.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629966) • [🐱 Nyaa](https://nekobt.to/torrents/13110184891652) |
-| `[ASW] Futsutsuka na Akujo dewa Gozaimasu ga - 06 [1080p HEVC x265 1...` | **208.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629965) • [🐱 Nyaa](https://nyaa.si/view/2147351) |
 
 ---
 <div align="center">
