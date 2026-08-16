@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.34.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.01.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Golden Curse S01E03 1080p iQ WEB-DL AAC2.0 H.264 (Caishe...` | **460.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629721) • [🐱 Nyaa](https://nyaa.si/view/2147022) |
+| `[ToonsHub] Golden Curse S01E02 1080p iQ WEB-DL AAC2.0 H.264 (Multi-...` | **454.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/629719) • [🐱 Nyaa](https://nyaa.si/view/2147021) |
+| `[ToonsHub] Golden Curse S01E01 1080p iQ WEB-DL AAC2.0 H.264 (Caishe...` | **489.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629720) • [🐱 Nyaa](https://nyaa.si/view/2147020) |
 | `[Prejudice-Studio] 记忆管理局 False Memory - 05 [Bilibili WEB-DL 1080P A...` | **677.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629718) • [🐱 Nyaa](https://nyaa.si/view/2147018) |
 | `[Prejudice-Studio] 记忆管理局 False Memory - 05 [Bilibili WEB-DL 1080P A...` | **551.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629717) • [🐱 Nyaa](https://nyaa.si/view/2147017) |
 | `[ToonsHub] Though I Am an Inept Villainess S01E06 1080p DSNP WEB-DL...` | **758.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/629716) • [🐱 Nyaa](https://nyaa.si/view/2147016) |
@@ -45,9 +48,6 @@
 | `[Knight-Subs] Bleach Thousand-Year Blood War - E44v2 - THE PERFECT ...` | **1743.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629706) • [🐱 Nyaa](https://nekobt.to/torrents/13098663986186) |
 | `[CenturyZeta] Yanineko Mini Anime - 15 (1080p) (Yani Neko)` | **8.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629705) • [🐱 Nyaa](https://nyaa.si/view/2147002) |
 | `[Judas] Digimon Beatbreak - S01E43 [1080p][HEVC x265 10bit][Eng-Sub...` | **400.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/629703) • [🐱 Nyaa](https://nyaa.si/view/2146998) |
-| `[Doomdos] - 记忆管理局 - 第5话 - [1080p BILIBILI COM WEB-DL]` | **551.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629700) • [🐱 Nyaa](https://nyaa.si/view/2146990) |
-| `[ToonsHub] False Memory S01E05 1080p BSITE WEB-DL AAC2.0 H.264 (Jiy...` | **551.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629701) • [🐱 Nyaa](https://nyaa.si/view/2146989) |
-| `[ASW] Digimon Beatbreak - 43 [1080p HEVC x265 10Bit][AAC]` | **403.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/629699) • [🐱 Nyaa](https://nyaa.si/view/2146988) |
 
 ---
 <div align="center">
