@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.01.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.47.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Golden Curse S01E03 1080p iQ WEB-DL AAC2.0 H.264 (Caishe...` | **460.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/629721) • [🐱 Nyaa](https://nyaa.si/view/2147022) |
-| `[ToonsHub] Golden Curse S01E02 1080p iQ WEB-DL AAC2.0 H.264 (Multi-...` | **454.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/629719) • [🐱 Nyaa](https://nyaa.si/view/2147021) |
-| `[ToonsHub] Golden Curse S01E01 1080p iQ WEB-DL AAC2.0 H.264 (Caishe...` | **489.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629720) • [🐱 Nyaa](https://nyaa.si/view/2147020) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 05 [Bilibili WEB-DL 1080P A...` | **677.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629718) • [🐱 Nyaa](https://nyaa.si/view/2147018) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 05 [Bilibili WEB-DL 1080P A...` | **551.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629717) • [🐱 Nyaa](https://nyaa.si/view/2147017) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E06 1080p DSNP WEB-DL...` | **758.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/629716) • [🐱 Nyaa](https://nyaa.si/view/2147016) |
-| `Digimon Beatbreak S01E43 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1373.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629714) • [🐱 Nyaa](https://nekobt.to/torrents/13100567093002) |
-| `[Kotobuki] Tenmaku no Jaadugar 08 [1080p HEVC Multisub] | Jaadugar:...` | **288.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629712) • [🐱 Nyaa](https://nyaa.si/view/2147012) |
-| `[Sokudo] Bleach Thousand-Year Blood War S17E44 [1080p WEBRip AV1] (...` | **379.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/629710) • [🐱 Nyaa](https://nyaa.si/view/2147001) |
-| `[Breeze] Bleach Thousand-Year Blood War S17E44 [1080p WEBRip AV1] (...` | **992.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/629709) • [🐱 Nyaa](https://nyaa.si/view/2147010) |
-| `[Erai-raws] Tenmaku no Jaadugar - 08 [1080p CR WEBRip HEVC AAC][Mul...` | **900.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629708) • [🐱 Nyaa](https://nyaa.si/view/2147009) |
-| `[喵萌奶茶屋&VCB-Studio] VIRGIN PUNK Clockwork Girl / ヴァージン・パンク Clockwork...` | **9723.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/629707) • [🐱 Nyaa](https://nyaa.si/view/2147008) |
-| `[Knight-Subs] Bleach Thousand-Year Blood War - E44v2 - THE PERFECT ...` | **1743.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629706) • [🐱 Nyaa](https://nekobt.to/torrents/13098663986186) |
-| `[CenturyZeta] Yanineko Mini Anime - 15 (1080p) (Yani Neko)` | **8.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629705) • [🐱 Nyaa](https://nyaa.si/view/2147002) |
-| `[Judas] Digimon Beatbreak - S01E43 [1080p][HEVC x265 10bit][Eng-Sub...` | **400.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/629703) • [🐱 Nyaa](https://nyaa.si/view/2146998) |
+| `[ToonsHub] You and I Are Polar Opposites S02E05 1080p CR WEB-DL DUA...` | **1447.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/629740) • [🐱 Nyaa](https://nekobt.to/torrents/13102065091594) |
+| `[ToonsHub] You and I Are Polar Opposites S02E07 1080p CR WEB-DL AAC...` | **1401.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/629741) • [🐱 Nyaa](https://nekobt.to/torrents/13102053039874) |
+| `[ToonsHub] Lets go KAIKIGUMI S01E07 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1480.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/629742) • [🐱 Nyaa](https://nekobt.to/torrents/13102046009088) |
+| `[Yameii] You and I Are Polar Opposites - S02E05 [English Dub] [CR W...` | **1408.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/629743) • [🐱 Nyaa](https://nekobt.to/torrents/13102020919055) |
+| `[AnoZu] You and I Are Polar Opposites S02E07 1080p CR WEB-DL AAC 2....` | **1423.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/629744) • [🐱 Nyaa](https://nyaa.si/view/2147053) |
+| `[AnoZu] Let's go KAIKIGUMI S01E07 1080p CR WEB-DL AAC 2.0 H.264` | **1463.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/629745) • [🐱 Nyaa](https://nyaa.si/view/2147051) |
+| `You and I Are Polar Opposites S02E05 Valentines Day 1080p CR WEB-DL...` | **1464.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/629746) • [🐱 Nyaa](https://nyaa.si/view/2147050) |
+| `You and I Are Polar Opposites S02E07 SUBFRENCH 1080p CR WEB-DL AAC2...` | **1396.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/629748) • [🐱 Nyaa](https://nekobt.to/torrents/13102004621313) |
+| `You and I Are Polar Opposites S02E07 Gradation 1080p CR WEB-DL AAC2...` | **1419.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/629747) • [🐱 Nyaa](https://nyaa.si/view/2147047) |
+| `Lets go KAIKIGUMI S01E07 Mystery 7 1080p CR WEB-DL AAC2.0 H.264-VAR...` | **1459.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/629725) • [🐱 Nyaa](https://nyaa.si/view/2147046) |
+| `Lets go KAIKIGUMI S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsu...` | **1436.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/629750) • [🐱 Nyaa](https://nekobt.to/torrents/13101960514574) |
+| `[Erai-raws] Let's Go Kaiki-gumi - 07 [1080p CR WEB-DL AVC AAC][Mult...` | **1442.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/629728) • [🐱 Nyaa](https://nyaa.si/view/2147042) |
+| `[SubsPlease] Seihantai na Kimi to Boku - 19 (1080p) [C9121DE6].mkv` | **1391.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/629729) • [🐱 Nyaa](https://nyaa.si/view/2147041) |
+| `[ToonsHub] You and I Are Polar Opposites S02E07 1080p NF WEB-DL AAC...` | **871.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/629734) • [🐱 Nyaa](https://nyaa.si/view/2147036) |
+| `[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 07 [1080p CR WEB...` | **1403.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/629735) • [🐱 Nyaa](https://nyaa.si/view/2147035) |
 
 ---
 <div align="center">
