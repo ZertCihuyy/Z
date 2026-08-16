@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.48.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.34.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - The World's Strongest Rearguard - 7 [1080p IQ WEB-DL]` | **128.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629804) • [🐱 Nyaa](https://nyaa.si/view/2147137) |
+| `The Worlds Strongest Rearguard S01E07 The Hope of Demi-humans 1080p...` | **1389.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/629802) • [🐱 Nyaa](https://nyaa.si/view/2147135) |
+| `[AnoZu] The World's Strongest Rearguard S01E07 1080p CR WEB-DL AAC ...` | **1395.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/629803) • [🐱 Nyaa](https://nyaa.si/view/2147134) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E07 1080p BILI WEB-DL ...` | **216.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629792) • [🐱 Nyaa](https://nekobt.to/torrents/13106146898191) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E07 1080p CR WEB-DL AA...` | **1391.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/629793) • [🐱 Nyaa](https://nekobt.to/torrents/13106144233486) |
+| `[SubsPlease] Sekai Saikyou no Kouei - 07 (1080p) [64FB735C].mkv` | **1380.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/629797) • [🐱 Nyaa](https://nyaa.si/view/2147131) |
+| `The Worlds Strongest Rearguard S01E07 SUBFRENCH 1080p CR WEB-DL AAC...` | **1384.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/629794) • [🐱 Nyaa](https://nekobt.to/torrents/13106092306703) |
+| `[Erai-raws] Sekai Saikyou no Kouei - 07 [1080p CR WEB-DL AVC AAC][M...` | **1390.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629801) • [🐱 Nyaa](https://nyaa.si/view/2147124) |
+| `[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 07 [1080p CR WEB...` | **426.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629789) • [🐱 Nyaa](https://nyaa.si/view/2147122) |
+| `[Erai-raws] Tetsunabe no Jan - 07 [1080p CR WEBRip HEVC AAC][MultiS...` | **409.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629790) • [🐱 Nyaa](https://nyaa.si/view/2147121) |
+| `[Erai-raws] Let's Go Kaiki-gumi - 07 [1080p CR WEBRip HEVC AAC][Mul...` | **711.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/629791) • [🐱 Nyaa](https://nyaa.si/view/2147120) |
+| `[LbE3L] BLACK TORCH S01E07 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audi...` | **526.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/629788) • [🐱 Nyaa](https://nekobt.to/torrents/13105838701581) |
 | `Jaadugar A Witch in Mongolia S01E01 All That Is in the Heavens and ...` | **1566.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/629787) • [🐱 Nyaa](https://nyaa.si/view/2147119) |
 | `[Doomdos] - Low Tide in Twilight Animation S01 [1080p SOYOMO WEB-DL...` | **2120.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629786) • [🐱 Nyaa](https://nyaa.si/view/2147112) |
 | `[Asakura] Tensei Shitara Slime Datta Ken S04E18 [1080p WEB AAC x264...` | **1416.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/629783) • [🐱 Nyaa](https://nekobt.to/torrents/13104551416074) |
-| `Digimon.Beatbreak.S01E43.1080p.CR.WEBRip.10bits.x265-Rapta` | **244.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629782) • [🐱 Nyaa](https://nyaa.si/view/2147096) |
-| `[Onalrie] Tetsunabe no Jan - S01E07 [1080p WEBRip AV1]` | **225.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/629781) • [🐱 Nyaa](https://nekobt.to/torrents/13103775985932) |
-| `[Onalrie] Seihantai na Kimi to Boku - S02E07 [1080p WEBRip AV1]` | **207.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629780) • [🐱 Nyaa](https://nekobt.to/torrents/13103311699467) |
-| `[ASW] Tetsunabe no Jan! - 07 [1080p HEVC x265 10Bit][AAC]` | **258.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/629776) • [🐱 Nyaa](https://nyaa.si/view/2147093) |
-| `[SubsPlease] Bleach - Sennen Kessen Hen (41-44) (1080p) [Batch]` | **5603.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/629777) • [🐱 Nyaa](https://nyaa.si/view/2147092) |
-| `[ToonsHub] You and I Are Polar Opposites S02E04 1080p CR WEB-DL MUL...` | **1533.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/629774) • [🐱 Nyaa](https://nyaa.si/view/2147088) |
-| `[ToonsHub] You and I Are Polar Opposites S02E03 1080p CR WEB-DL MUL...` | **1536.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/629775) • [🐱 Nyaa](https://nyaa.si/view/2147087) |
-| `[VARYG] You and I Are Polar Opposites S02E04 New School Term 1080p ...` | **1533.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/629773) • [🐱 Nyaa](https://nekobt.to/torrents/13103146407694) |
-| `[TSPlease] Iron Wok Jan S01E07 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1425.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/629772) • [🐱 Nyaa](https://nyaa.si/view/2147085) |
-| `[Ignore] You and I Are Polar Opposites - S01 (BD 1080p HEVC Opus) [...` | **31053.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/629771) • [🐱 Nyaa](https://nyaa.si/view/2147084) |
-| `[ASW] Let's Go Kaiki-gumi - 07 [1080p HEVC x265 10Bit][AAC]` | **246.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629770) • [🐱 Nyaa](https://nyaa.si/view/2147079) |
-| `[ASW] Seihantai na Kimi to Boku - 19 [1080p HEVC x265 10Bit][AAC]` | **224.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629769) • [🐱 Nyaa](https://nyaa.si/view/2147077) |
 
 ---
 <div align="center">
