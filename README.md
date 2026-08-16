@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.00.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.36.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Nijuuseiki Denki Mokuroku Eureka Evrika - S01E07 [1080p W...` | **486.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629847) • [🐱 Nyaa](https://onalrie.app/torrent/82f0a662-65f3-42fb-852b-19cba6d8f80c) |
-| `Sparks of Tomorrow S01E07 MULTi AD 1080p NF WEB-DL AAC2.0 x264-Tsun...` | **1047.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/629843) • [🐱 Nyaa](https://nekobt.to/torrents/13107766820101) |
-| `Sparks of Tomorrow S01E07 MULTi AD 1080p NF WEB-DL AAC2.0 H.265-Tsu...` | **636.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629844) • [🐱 Nyaa](https://nekobt.to/torrents/13107759607812) |
-| `Sparks of Tomorrow S01E07 MULTi AD 1080p NF WEB-DL AAC2.0 AV1-Tsund...` | **416.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629845) • [🐱 Nyaa](https://nekobt.to/torrents/13107753700100) |
-| `[ASW] Hyakkano - 31 [1080p HEVC x265 10Bit][AAC]` | **339.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/629842) • [🐱 Nyaa](https://nyaa.si/view/2147198) |
-| `[ToonsHub] One Piece EP1174 1080p TVER WEB-DL AAC2.0 H.264` | **550.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629846) • [🐱 Nyaa](https://nekobt.to/torrents/13107719399683) |
-| `[Shridhuu][1080p] Renegade Immortal - 仙逆 (Xian Ni) - EP154` | **315.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629840) • [🐱 Nyaa](https://nyaa.si/view/2147193) |
-| `[Trix] Hyakkano S03E07 [WEBRip 1080p AV1 Opus] (Multi Subs, VOSTFR)...` | **351.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/629838) • [🐱 Nyaa](https://nyaa.si/view/2147184) |
-| `Bleach S17E44 Thousand-Year Blood War THE PERFECT CRIMSON 1080p DSN...` | **1009.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629839) • [🐱 Nyaa](https://nyaa.si/view/2147183) |
-| `[whomst-mini] Link Click - S04E02 [WEB 1080p x265 AAC] | Shiguang D...` | **206.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/629833) • [🐱 Nyaa](https://nyaa.si/view/2147180) |
-| `[whomst] Link Click - S04E02 [WEB 1080p x264 AAC] | Shiguang Dailir...` | **1277.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629834) • [🐱 Nyaa](https://nyaa.si/view/2147179) |
-| `[whomst-mini] Link Click - S04E01 [WEB 1080p x265 AAC] | Shiguang D...` | **223.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/629835) • [🐱 Nyaa](https://nyaa.si/view/2147178) |
-| `[whomst] Link Click - S04E01 [WEB 1080p x264 AAC] | Shiguang Dailir...` | **1272.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/629836) • [🐱 Nyaa](https://nyaa.si/view/2147177) |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1545.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/629825) • [🐱 Nyaa](https://nyaa.si/view/2147176) |
-| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 07 [1080p NF...` | **902.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629826) • [🐱 Nyaa](https://nyaa.si/view/2147175) |
+| `[VARYG] Goodbye Lara S01E07 Meet Me at Biwako Terrace Saturday at 1...` | **1459.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629883) • [🐱 Nyaa](https://nekobt.to/torrents/13108432326657) |
+| `Goodbye Lara S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1405.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629887) • [🐱 Nyaa](https://nekobt.to/torrents/13108398555404) |
+| `[Erai-raws] Sayonara Lara - 07 [1080p CR WEB-DL AVC AAC][MultiSub][...` | **1410.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/629888) • [🐱 Nyaa](https://nekobt.to/torrents/13108396611595) |
+| `[Onalrie] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kan...` | **299.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629889) • [🐱 Nyaa](https://nekobt.to/torrents/13108352775183) |
+| `[VARYG] Though I Am an Inept Villainess S01E06 I Wont Let You Die 1...` | **873.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629882) • [🐱 Nyaa](https://nekobt.to/torrents/13108236177166) |
+| `[Doomdos] - Mushoku Tensei Jobless Reincarnation Season 3 - 8 [1080...` | **336.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/629880) • [🐱 Nyaa](https://nyaa.si/view/2147242) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E06 1080p NF WEB-DL A...` | **873.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/629881) • [🐱 Nyaa](https://nyaa.si/view/2147241) |
+| `There Was a Cute Girl in the Heros Party so I Tried Confessing to H...` | **11667.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/629877) • [🐱 Nyaa](https://nyaa.si/view/2147240) |
+| `[Yameii] Mushoku Tensei: Jobless Reincarnation - S03E06 [English Du...` | **1387.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629878) • [🐱 Nyaa](https://nyaa.si/view/2147239) |
+| `[AnoZu] Mushoku Tensei: Jobless Reincarnation S03E06 1080p CR WEB-D...` | **1635.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629879) • [🐱 Nyaa](https://nyaa.si/view/2147237) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E05 1080p CR WEB...` | **1923.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/629875) • [🐱 Nyaa](https://nyaa.si/view/2147236) |
+| `Mushoku Tensei Jobless Reincarnation S03E08 1080p NF WEB-DL AAC2.0 ...` | **866.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/629876) • [🐱 Nyaa](https://nyaa.si/view/2147235) |
+| `[AnoZu] Mushoku Tensei: Jobless Reincarnation S03E08 1080p CR WEB-D...` | **1665.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629858) • [🐱 Nyaa](https://nekobt.to/torrents/13108025731334) |
+| `The Classroom of the Black Cat and a Witch S01E19 SUBFRENCH 1080p C...` | **1713.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/629866) • [🐱 Nyaa](https://nekobt.to/torrents/13108021526537) |
+| `[AnoZu] The Classroom of a Black Cat and a Witch S01E19 1080p CR WE...` | **1738.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/629871) • [🐱 Nyaa](https://nekobt.to/torrents/13108015813128) |
 
 ---
 <div align="center">
