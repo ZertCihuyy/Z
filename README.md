@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.24.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.46.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **911.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/630002) • [🐱 Nyaa](https://nekobt.to/torrents/13115872916228) |
+| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 07 [1080p CR WEBRip HE...` | **168.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629995) • [🐱 Nyaa](https://nyaa.si/view/2147417) |
+| `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 19 [1080p CR WEBRip HE...` | **784.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629996) • [🐱 Nyaa](https://nyaa.si/view/2147416) |
+| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 07 [1080p NF...` | **827.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/629997) • [🐱 Nyaa](https://nyaa.si/view/2147415) |
+| `[Judas] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanoj...` | **328.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629998) • [🐱 Nyaa](https://nyaa.si/view/2147414) |
+| `[Erai-raws] Sayonara Lara - 07 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **459.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/629999) • [🐱 Nyaa](https://nyaa.si/view/2147413) |
+| `[Judas] Mushoku Tensei (Jobless Reincarnation) - S03E08 [1080p][HEV...` | **362.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630000) • [🐱 Nyaa](https://nyaa.si/view/2147412) |
+| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 08 [1080...` | **519.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630001) • [🐱 Nyaa](https://nyaa.si/view/2147411) |
+| `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 06 [1080p CR WE...` | **418.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/629993) • [🐱 Nyaa](https://nekobt.to/torrents/13115718482955) |
+| `[Erai-raws] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no K...` | **399.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629994) • [🐱 Nyaa](https://nekobt.to/torrents/13115706271247) |
 | `[FrixySubs] KAIJU GIRL CARAMELISE - S01E03 [1080p CR WEB-DL H.264 A...` | **1432.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629992) • [🐱 Nyaa](https://nekobt.to/torrents/13114950393356) |
 | `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E07 [1080p][HEV...` | **717.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/629990) • [🐱 Nyaa](https://nyaa.si/view/2147400) |
 | `[DKB] Azur Lane: Bisoku Zenshin! - S02E07 [1080p][HEVC x265 10bit][...` | **116.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629991) • [🐱 Nyaa](https://nyaa.si/view/2147399) |
 | `[FrixySubs] Mushoku Tensei - S03E08 [1080p CR WEB-DL H.264 AAC] [Na...` | **1369.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629989) • [🐱 Nyaa](https://nekobt.to/torrents/13114298797838) |
 | `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E06 1080p CR WEB-D...` | **1635.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629985) • [🐱 Nyaa](https://nekobt.to/torrents/13113146498309) |
-| `[Kakumei Subs] Honzuki no Gekokujou S04E17 [1080p WEB HEVC AAC] [Su...` | **2141.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629984) • [🐱 Nyaa](https://nekobt.to/torrents/13112769014028) |
-| `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E06 [1080p][...` | **589.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/629983) • [🐱 Nyaa](https://nyaa.si/view/2147386) |
-| `[VARYG] Digimon Beatbreak S01E43 The White Digimon REPACK 1080p CR ...` | **1377.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629982) • [🐱 Nyaa](https://nekobt.to/torrents/13112562417673) |
-| `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **242.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/629981) • [🐱 Nyaa](https://nyaa.si/view/2147376) |
-| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E19 [1080p][HEVC x265 10b...` | **594.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629980) • [🐱 Nyaa](https://nyaa.si/view/2147375) |
-| `[Fuchs] Mushoku Tensei - S03E06 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1609.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/629979) • [🐱 Nyaa](https://nyaa.si/view/2147370) |
-| `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E06 [WEB.108...` | **176.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/629978) • [🐱 Nyaa](https://nyaa.si/view/2147367) |
-| `[Onalrie] Azur Lane Bisoku Zenshin - S02E07 [1080p WEBRip AV1].mkv` | **124.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629977) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2102623) |
-| `[Onalrie] One Piece - E1174 [1080p WEBRip AV1]` | **362.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/629976) • [🐱 Nyaa](https://nekobt.to/torrents/13111172030729) |
-| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **860.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/629973) • [🐱 Nyaa](https://nyaa.si/view/2147360) |
 
 ---
 <div align="center">
