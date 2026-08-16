@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.34.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.56.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **242.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/629981) • [🐱 Nyaa](https://nyaa.si/view/2147376) |
+| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E19 [1080p][HEVC x265 10b...` | **594.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629980) • [🐱 Nyaa](https://nyaa.si/view/2147375) |
 | `[Fuchs] Mushoku Tensei - S03E06 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1609.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/629979) • [🐱 Nyaa](https://nyaa.si/view/2147370) |
 | `[Ironclad] Futsutsuka na Akujo de wa Gozaimasu ga - S01E06 [WEB.108...` | **176.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/629978) • [🐱 Nyaa](https://nyaa.si/view/2147367) |
 | `[Onalrie] Azur Lane Bisoku Zenshin - S02E07 [1080p WEBRip AV1].mkv` | **124.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629977) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2102623) |
@@ -43,8 +45,6 @@
 | `[ASW] Azur Lane - Bisoku Zenshin! S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **117.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/629967) • [🐱 Nyaa](https://nyaa.si/view/2147352) |
 | `[Onalrie] Futsutsuka na Akujo dewa Gozaimasu ga - S01E06 [1080p WEB...` | **168.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629966) • [🐱 Nyaa](https://nekobt.to/torrents/13110184891652) |
 | `[ASW] Futsutsuka na Akujo dewa Gozaimasu ga - 06 [1080p HEVC x265 1...` | **208.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629965) • [🐱 Nyaa](https://nyaa.si/view/2147351) |
-| `[Onalrie] Mushoku Tensei - Isekai Ittara Honki Dasu - S03E08 [1080p...` | **206.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/629959) • [🐱 Nyaa](https://nekobt.to/torrents/13109787353858) |
-| `[ASW] Sayonara Lara - 07 [1080p HEVC x265 10Bit][AAC]` | **242.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629960) • [🐱 Nyaa](https://nyaa.si/view/2147341) |
 
 ---
 <div align="center">
