@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.50.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.48.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Jaadugar A Witch in Mongolia S01E01 All That Is in the Heavens and ...` | **1566.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/629787) • [🐱 Nyaa](https://nyaa.si/view/2147119) |
 | `[Doomdos] - Low Tide in Twilight Animation S01 [1080p SOYOMO WEB-DL...` | **2120.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629786) • [🐱 Nyaa](https://nyaa.si/view/2147112) |
 | `[Asakura] Tensei Shitara Slime Datta Ken S04E18 [1080p WEB AAC x264...` | **1416.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/629783) • [🐱 Nyaa](https://nekobt.to/torrents/13104551416074) |
 | `Digimon.Beatbreak.S01E43.1080p.CR.WEBRip.10bits.x265-Rapta` | **244.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629782) • [🐱 Nyaa](https://nyaa.si/view/2147096) |
@@ -47,7 +48,6 @@
 | `[Ignore] You and I Are Polar Opposites - S01 (BD 1080p HEVC Opus) [...` | **31053.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/629771) • [🐱 Nyaa](https://nyaa.si/view/2147084) |
 | `[ASW] Let's Go Kaiki-gumi - 07 [1080p HEVC x265 10Bit][AAC]` | **246.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/629770) • [🐱 Nyaa](https://nyaa.si/view/2147079) |
 | `[ASW] Seihantai na Kimi to Boku - 19 [1080p HEVC x265 10Bit][AAC]` | **224.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/629769) • [🐱 Nyaa](https://nyaa.si/view/2147077) |
-| `[Onalrie] Let's Go Kaiki-gumi - S01E07 [1080p WEBRip AV1]` | **179.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/629768) • [🐱 Nyaa](https://nekobt.to/torrents/13102783252992) |
 
 ---
 <div align="center">
