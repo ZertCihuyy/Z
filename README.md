@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.46.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.51.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Serenae] Meitantei Precure! - 29 (1080p).mkv` | **1400.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/629696) • [🐱 Nyaa](https://nyaa.si/view/2146986) |
+| `[ToonsHub] Digimon Beatbreak S01E43 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1375.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629694) • [🐱 Nyaa](https://nekobt.to/torrents/13096970626311) |
+| `[AnoZu] Digimon Beatbreak S01E43 1080p CR WEB-DL AAC 2.0 H.264` | **1374.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629695) • [🐱 Nyaa](https://nekobt.to/torrents/13096924787969) |
+| `Digimon Beatbreak S01E43 1080p CR WEB-DL AAC2.0 H.264-VARYG` | **1374.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629687) • [🐱 Nyaa](https://nyaa.si/view/2146977) |
+| `[SubsPlease] Digimon Beatbreak - 43 (1080p) [6D1CEC13].mkv` | **1368.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/629688) • [🐱 Nyaa](https://nyaa.si/view/2146976) |
+| `[Erai-raws] Digimon Beatbreak - 43 [1080p CR WEB-DL AVC AAC][2C412B63]` | **1374.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/629693) • [🐱 Nyaa](https://nyaa.si/view/2146971) |
 | `[ASW] Meitantei Precure! - 29 [1080p HEVC x265 10Bit][AAC]` | **665.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629685) • [🐱 Nyaa](https://nyaa.si/view/2146958) |
 | `[Doomdos] - Golden Curse - 3 [1080p IQ WEB-DL]` | **461.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/629686) • [🐱 Nyaa](https://nyaa.si/view/2146957) |
 | `[Doomdos] - Golden Curse - 2 [1080p IQ WEB-DL]` | **454.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629683) • [🐱 Nyaa](https://nyaa.si/view/2146956) |
@@ -42,12 +48,6 @@
 | `[Doomdos] - Recommendations from Iwamoto-Senpai - 7 [1080p IQ WEB-DL]` | **298.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629679) • [🐱 Nyaa](https://nyaa.si/view/2146950) |
 | `[Doomdos] - Magical Girl Lyrical Nanoha Exceeds Gun Blaze Vengeance...` | **352.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629680) • [🐱 Nyaa](https://nyaa.si/view/2146949) |
 | `[Doomdos] - Urban Miracle Doctor - 204 [1080p IQ WEB-DL]` | **183.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/629678) • [🐱 Nyaa](https://nyaa.si/view/2146943) |
-| `[Doomdos] - In Search of Gods - 24 [1080p IQ WEB-DL]` | **484.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/629677) • [🐱 Nyaa](https://nyaa.si/view/2146941) |
-| `[Doomdos] - BLACK TORCH - 7 [1080p IQ WEB-DL]` | **339.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629676) • [🐱 Nyaa](https://nyaa.si/view/2146937) |
-| `[Doomdos] - The Cat and the Dragon - 8 [1080p IQ WEB-DL]` | **270.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/629675) • [🐱 Nyaa](https://nyaa.si/view/2146936) |
-| `[Doomdos] - Super Heroic Spirit Season 2 - 15 [1080p IQ WEB-DL]` | **159.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629674) • [🐱 Nyaa](https://nyaa.si/view/2146935) |
-| `[AnoZu] Star Detective Precure! S01E29 1080p CR WEB-DL AAC 2.0 H.264` | **1409.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/629673) • [🐱 Nyaa](https://nekobt.to/torrents/13095526805007) |
-| `[SubsPlease] Meitantei Precure! - 29 (1080p) [F7A6ECDE].mkv` | **1403.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/629668) • [🐱 Nyaa](https://nyaa.si/view/2146932) |
 
 ---
 <div align="center">
