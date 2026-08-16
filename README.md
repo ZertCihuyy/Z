@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.45.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.47.36_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kotobuki] Tenmaku no Jaadugar 08 [1080p HEVC Multisub] | Jaadugar:...` | **288.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629712) • [🐱 Nyaa](https://nyaa.si/view/2147012) |
+| `[Sokudo] Bleach Thousand-Year Blood War S17E44 [1080p WEBRip AV1] (...` | **379.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/629710) • [🐱 Nyaa](https://nyaa.si/view/2147001) |
+| `[Breeze] Bleach Thousand-Year Blood War S17E44 [1080p WEBRip AV1] (...` | **992.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/629709) • [🐱 Nyaa](https://nyaa.si/view/2147010) |
+| `[Erai-raws] Tenmaku no Jaadugar - 08 [1080p CR WEBRip HEVC AAC][Mul...` | **900.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629708) • [🐱 Nyaa](https://nyaa.si/view/2147009) |
+| `[喵萌奶茶屋&VCB-Studio] VIRGIN PUNK Clockwork Girl / ヴァージン・パンク Clockwork...` | **9723.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/629707) • [🐱 Nyaa](https://nyaa.si/view/2147008) |
 | `[Knight-Subs] Bleach Thousand-Year Blood War - E44v2 - THE PERFECT ...` | **1743.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629706) • [🐱 Nyaa](https://nekobt.to/torrents/13098663986186) |
 | `[CenturyZeta] Yanineko Mini Anime - 15 (1080p) (Yani Neko)` | **8.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629705) • [🐱 Nyaa](https://nyaa.si/view/2147002) |
 | `[Judas] Digimon Beatbreak - S01E43 [1080p][HEVC x265 10bit][Eng-Sub...` | **400.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/629703) • [🐱 Nyaa](https://nyaa.si/view/2146998) |
@@ -43,11 +48,6 @@
 | `[Serenae] Meitantei Precure! - 29 (1080p).mkv` | **1400.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/629696) • [🐱 Nyaa](https://nyaa.si/view/2146986) |
 | `[ToonsHub] Digimon Beatbreak S01E43 1080p CR WEB-DL AAC2.0 H.264 (M...` | **1375.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/629694) • [🐱 Nyaa](https://nekobt.to/torrents/13096970626311) |
 | `[AnoZu] Digimon Beatbreak S01E43 1080p CR WEB-DL AAC 2.0 H.264` | **1374.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629695) • [🐱 Nyaa](https://nekobt.to/torrents/13096924787969) |
-| `Digimon Beatbreak S01E43 1080p CR WEB-DL AAC2.0 H.264-VARYG` | **1374.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/629687) • [🐱 Nyaa](https://nyaa.si/view/2146977) |
-| `[SubsPlease] Digimon Beatbreak - 43 (1080p) [6D1CEC13].mkv` | **1368.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/629688) • [🐱 Nyaa](https://nyaa.si/view/2146976) |
-| `[Erai-raws] Digimon Beatbreak - 43 [1080p CR WEB-DL AVC AAC][2C412B63]` | **1374.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/629693) • [🐱 Nyaa](https://nyaa.si/view/2146971) |
-| `[ASW] Meitantei Precure! - 29 [1080p HEVC x265 10Bit][AAC]` | **665.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629685) • [🐱 Nyaa](https://nyaa.si/view/2146958) |
-| `[Doomdos] - Golden Curse - 3 [1080p IQ WEB-DL]` | **461.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/629686) • [🐱 Nyaa](https://nyaa.si/view/2146957) |
 
 ---
 <div align="center">
