@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.00.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.40.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Sekai Saikyou no Kouei - 07 [1080p CR WEBRip HEVC AAC][...` | **321.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/629809) • [🐱 Nyaa](https://nyaa.si/view/2147143) |
-| `[Onalrie] Sekai Saikyou no Kouei - S01E07 [1080p WEBRip AV1]` | **152.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/629808) • [🐱 Nyaa](https://nekobt.to/torrents/13106849360398) |
-| `[FSP] Douluo Dalu II - Soul Land 2 - 166 [1080p]` | **454.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/629807) • [🐱 Nyaa](https://nyaa.si/view/2147142) |
-| `[ASW] Sekai Saikyou no Kouei - 07 [1080p HEVC x265 10Bit][AAC]` | **151.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/629806) • [🐱 Nyaa](https://nyaa.si/view/2147140) |
-| `[ToonsHub] There was a Cute Girl in the Heros Party so I Tried Conf...` | **11667.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629805) • [🐱 Nyaa](https://nyaa.si/view/2147139) |
-| `[Doomdos] - The World's Strongest Rearguard - 7 [1080p IQ WEB-DL]` | **128.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/629804) • [🐱 Nyaa](https://nyaa.si/view/2147137) |
-| `The Worlds Strongest Rearguard S01E07 The Hope of Demi-humans 1080p...` | **1389.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/629802) • [🐱 Nyaa](https://nyaa.si/view/2147135) |
-| `[AnoZu] The World's Strongest Rearguard S01E07 1080p CR WEB-DL AAC ...` | **1395.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/629803) • [🐱 Nyaa](https://nyaa.si/view/2147134) |
-| `[ToonsHub] The Worlds Strongest Rearguard S01E07 1080p BILI WEB-DL ...` | **216.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/629792) • [🐱 Nyaa](https://nekobt.to/torrents/13106146898191) |
-| `[ToonsHub] The Worlds Strongest Rearguard S01E07 1080p CR WEB-DL AA...` | **1391.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/629793) • [🐱 Nyaa](https://nekobt.to/torrents/13106144233486) |
-| `[SubsPlease] Sekai Saikyou no Kouei - 07 (1080p) [64FB735C].mkv` | **1380.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/629797) • [🐱 Nyaa](https://nyaa.si/view/2147131) |
-| `The Worlds Strongest Rearguard S01E07 SUBFRENCH 1080p CR WEB-DL AAC...` | **1384.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/629794) • [🐱 Nyaa](https://nekobt.to/torrents/13106092306703) |
-| `[Erai-raws] Sekai Saikyou no Kouei - 07 [1080p CR WEB-DL AVC AAC][M...` | **1390.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629801) • [🐱 Nyaa](https://nyaa.si/view/2147124) |
-| `[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 07 [1080p CR WEB...` | **426.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629789) • [🐱 Nyaa](https://nyaa.si/view/2147122) |
-| `[Erai-raws] Tetsunabe no Jan - 07 [1080p CR WEBRip HEVC AAC][MultiS...` | **409.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629790) • [🐱 Nyaa](https://nyaa.si/view/2147121) |
+| `[Shridhuu][1080p] Renegade Immortal - 仙逆 (Xian Ni) - EP154` | **315.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629840) • [🐱 Nyaa](https://nyaa.si/view/2147193) |
+| `[Trix] Hyakkano S03E07 [WEBRip 1080p AV1 Opus] (Multi Subs, VOSTFR)...` | **351.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/629838) • [🐱 Nyaa](https://nyaa.si/view/2147184) |
+| `Bleach S17E44 Thousand-Year Blood War THE PERFECT CRIMSON 1080p DSN...` | **1009.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/629839) • [🐱 Nyaa](https://nyaa.si/view/2147183) |
+| `[whomst-mini] Link Click - S04E02 [WEB 1080p x265 AAC] | Shiguang D...` | **206.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/629833) • [🐱 Nyaa](https://nyaa.si/view/2147180) |
+| `[whomst] Link Click - S04E02 [WEB 1080p x264 AAC] | Shiguang Dailir...` | **1277.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629834) • [🐱 Nyaa](https://nyaa.si/view/2147179) |
+| `[whomst-mini] Link Click - S04E01 [WEB 1080p x265 AAC] | Shiguang D...` | **223.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/629835) • [🐱 Nyaa](https://nyaa.si/view/2147178) |
+| `[whomst] Link Click - S04E01 [WEB 1080p x264 AAC] | Shiguang Dailir...` | **1272.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/629836) • [🐱 Nyaa](https://nyaa.si/view/2147177) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1545.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/629825) • [🐱 Nyaa](https://nyaa.si/view/2147176) |
+| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 07 [1080p NF...` | **902.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629826) • [🐱 Nyaa](https://nyaa.si/view/2147175) |
+| `[AnoZu] The 100 Girlfriends Who Really, Really, Really, Really, REA...` | **1456.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/629827) • [🐱 Nyaa](https://nyaa.si/view/2147174) |
+| `[ToonsHub] Sparks of Tomorrow S01E07 1080p NF WEB-DL MULTi AAC2.0 H...` | **1213.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629828) • [🐱 Nyaa](https://nyaa.si/view/2147172) |
+| `[Yameii] The 100 Girlfriends Who Really, Really, Really, Really, RE...` | **1384.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/629829) • [🐱 Nyaa](https://nyaa.si/view/2147170) |
+| `[AnoZu] The 100 Girlfriends Who Really, Really, Really, Really, REA...` | **1406.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/629830) • [🐱 Nyaa](https://nyaa.si/view/2147169) |
+| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1403.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/629831) • [🐱 Nyaa](https://nyaa.si/view/2147168) |
+| `The 100 Girlfriends Who Really Really Really Really REALLY Love You...` | **1441.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/629832) • [🐱 Nyaa](https://nyaa.si/view/2147167) |
 
 ---
 <div align="center">
