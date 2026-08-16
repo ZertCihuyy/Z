@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.39.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.46.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Meitantei Precure! - 29 [1080p HEVC x265 10Bit][AAC]` | **665.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629685) • [🐱 Nyaa](https://nyaa.si/view/2146958) |
+| `[Doomdos] - Golden Curse - 3 [1080p IQ WEB-DL]` | **461.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/629686) • [🐱 Nyaa](https://nyaa.si/view/2146957) |
+| `[Doomdos] - Golden Curse - 2 [1080p IQ WEB-DL]` | **454.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629683) • [🐱 Nyaa](https://nyaa.si/view/2146956) |
+| `[Doomdos] - Golden Curse - 1 [1080p IQ WEB-DL]` | **489.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629684) • [🐱 Nyaa](https://nyaa.si/view/2146955) |
+| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 04 [1080p DSNP...` | **564.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/629682) • [🐱 Nyaa](https://nyaa.si/view/2146954) |
+| `[Doomdos] - BLEACH Thousand-Year Blood War - The Calamity - 44 [108...` | **385.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629681) • [🐱 Nyaa](https://nyaa.si/view/2146951) |
+| `[Doomdos] - Recommendations from Iwamoto-Senpai - 7 [1080p IQ WEB-DL]` | **298.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629679) • [🐱 Nyaa](https://nyaa.si/view/2146950) |
+| `[Doomdos] - Magical Girl Lyrical Nanoha Exceeds Gun Blaze Vengeance...` | **352.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/629680) • [🐱 Nyaa](https://nyaa.si/view/2146949) |
+| `[Doomdos] - Urban Miracle Doctor - 204 [1080p IQ WEB-DL]` | **183.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/629678) • [🐱 Nyaa](https://nyaa.si/view/2146943) |
+| `[Doomdos] - In Search of Gods - 24 [1080p IQ WEB-DL]` | **484.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/629677) • [🐱 Nyaa](https://nyaa.si/view/2146941) |
+| `[Doomdos] - BLACK TORCH - 7 [1080p IQ WEB-DL]` | **339.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629676) • [🐱 Nyaa](https://nyaa.si/view/2146937) |
+| `[Doomdos] - The Cat and the Dragon - 8 [1080p IQ WEB-DL]` | **270.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/629675) • [🐱 Nyaa](https://nyaa.si/view/2146936) |
+| `[Doomdos] - Super Heroic Spirit Season 2 - 15 [1080p IQ WEB-DL]` | **159.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629674) • [🐱 Nyaa](https://nyaa.si/view/2146935) |
 | `[AnoZu] Star Detective Precure! S01E29 1080p CR WEB-DL AAC 2.0 H.264` | **1409.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/629673) • [🐱 Nyaa](https://nekobt.to/torrents/13095526805007) |
 | `[SubsPlease] Meitantei Precure! - 29 (1080p) [F7A6ECDE].mkv` | **1403.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/629668) • [🐱 Nyaa](https://nyaa.si/view/2146932) |
-| `[Erai-raws] Meitantei Precure - 29 [1080p CR WEB-DL AVC AAC][7F2598F4]` | **1139.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629672) • [🐱 Nyaa](https://nyaa.si/view/2146928) |
-| `[DKB] MAO - S01E20 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **330.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/629666) • [🐱 Nyaa](https://nyaa.si/view/2146900) |
-| `[Anime Time] Black Torch - S01E07 [1080p][HEVC 10bit x265][AAC][Dua...` | **596.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/629663) • [🐱 Nyaa](https://nyaa.si/view/2146896) |
-| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E17 ...` | **592.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629661) • [🐱 Nyaa](https://nyaa.si/view/2146895) |
-| `[Anime Time] Bleach: Thousand-Year Blood War - 44 [1080p][HEVC 10bi...` | **685.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/629662) • [🐱 Nyaa](https://nyaa.si/view/2146894) |
-| `[Erai-raws] Mao - 20 [1080p DSNP WEBRip HEVC AAC][MultiSub][B0F2CCFF]` | **349.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/629659) • [🐱 Nyaa](https://nyaa.si/view/2146893) |
-| `[Erai-raws] Oni no Hanayome - 07 [1080p CR WEBRip HEVC AAC][MultiSu...` | **434.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/629660) • [🐱 Nyaa](https://nyaa.si/view/2146892) |
-| `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **198.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629658) • [🐱 Nyaa](https://nyaa.si/view/2146867) |
-| `[ToonsHub] Jaadugar A Witch in Mongolia S01E01 1080p CR WEB-DL MULT...` | **1925.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/629656) • [🐱 Nyaa](https://nyaa.si/view/2146860) |
-| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E06...` | **1508.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629657) • [🐱 Nyaa](https://nyaa.si/view/2146859) |
-| `[Knight-Subs] Bleach Thousand-Year Blood War - E44 - THE PERFECT CR...` | **1435.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629654) • [🐱 Nyaa](https://nekobt.to/torrents/13093641243915) |
-| `[Onalrie] Mao - S01E20 [1080p WEBRip AV1]` | **202.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/629655) • [🐱 Nyaa](https://nekobt.to/torrents/13093622287370) |
-| `[Erai-raws] Mao - 20 [1080p DSNP WEB-DL AVC AAC][MultiSub][F68D7A34]` | **911.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/629652) • [🐱 Nyaa](https://nyaa.si/view/2146851) |
 
 ---
 <div align="center">
