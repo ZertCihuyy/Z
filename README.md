@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.39.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.11.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Knight-Subs] Bleach Thousand-Year Blood War - E44v2 - THE PERFECT ...` | **1743.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/629706) • [🐱 Nyaa](https://nekobt.to/torrents/13098663986186) |
+| `[CenturyZeta] Yanineko Mini Anime - 15 (1080p) (Yani Neko)` | **8.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/629705) • [🐱 Nyaa](https://nyaa.si/view/2147002) |
 | `[Judas] Digimon Beatbreak - S01E43 [1080p][HEVC x265 10bit][Eng-Sub...` | **400.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/629703) • [🐱 Nyaa](https://nyaa.si/view/2146998) |
 | `[Doomdos] - 记忆管理局 - 第5话 - [1080p BILIBILI COM WEB-DL]` | **551.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/629700) • [🐱 Nyaa](https://nyaa.si/view/2146990) |
 | `[ToonsHub] False Memory S01E05 1080p BSITE WEB-DL AAC2.0 H.264 (Jiy...` | **551.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/629701) • [🐱 Nyaa](https://nyaa.si/view/2146989) |
@@ -46,8 +48,6 @@
 | `[Erai-raws] Digimon Beatbreak - 43 [1080p CR WEB-DL AVC AAC][2C412B63]` | **1374.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/629693) • [🐱 Nyaa](https://nyaa.si/view/2146971) |
 | `[ASW] Meitantei Precure! - 29 [1080p HEVC x265 10Bit][AAC]` | **665.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/629685) • [🐱 Nyaa](https://nyaa.si/view/2146958) |
 | `[Doomdos] - Golden Curse - 3 [1080p IQ WEB-DL]` | **461.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/629686) • [🐱 Nyaa](https://nyaa.si/view/2146957) |
-| `[Doomdos] - Golden Curse - 2 [1080p IQ WEB-DL]` | **454.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/629683) • [🐱 Nyaa](https://nyaa.si/view/2146956) |
-| `[Doomdos] - Golden Curse - 1 [1080p IQ WEB-DL]` | **489.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/629684) • [🐱 Nyaa](https://nyaa.si/view/2146955) |
 
 ---
 <div align="center">
