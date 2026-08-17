@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.58.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.41.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VoidWalkers] Kakegurui Season 2 (2019) [BD][1080p JP+EN Opus AV1][...` | **3311.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630030) • [🐱 Nyaa](https://nekobt.to/torrents/13125861392647) |
+| `[VoidWalkers] Kakegurui Season 1 (2017) [BD][1080p JP+EN Opus AV1][...` | **3364.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630029) • [🐱 Nyaa](https://nekobt.to/torrents/13125495245322) |
 | `[CicakRumah] Koupen-chan - S01E71 (コウペンちゃん) [AMZN.WEB-DL 1080P AVC,...` | **87.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630028) • [🐱 Nyaa](https://nyaa.si/view/2147501) |
 | `[Onalrie] Meitantei Precure - S01E29 [1080p WEBRip AV1]` | **547.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630027) • [🐱 Nyaa](https://nekobt.to/torrents/13123032365835) |
 | `[SubsNoJutsu] Goodbye, Lara - S01E07 (1080p WEBRip AAC x265) [9FE4A...` | **459.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/630026) • [🐱 Nyaa](https://nekobt.to/torrents/13122461579530) |
@@ -43,8 +45,6 @@
 | `[ToonsHub] One Piece EP1174 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **378.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630017) • [🐱 Nyaa](https://nekobt.to/torrents/13118068103945) |
 | `[ToonsHub] The Eternal Supreme Li Yunxiao S01E10 1080p BILI WEB-DL ...` | **288.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/630018) • [🐱 Nyaa](https://nekobt.to/torrents/13118067894274) |
 | `[Erai-raws] Meitantei Precure - 29 [1080p CR WEBRip HEVC AAC][Multi...` | **739.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630012) • [🐱 Nyaa](https://nyaa.si/view/2147444) |
-| `[Erai-raws] Meitantei Precure - 29 [1080p CR WEB-DL AVC AAC][MultiS...` | **1145.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630013) • [🐱 Nyaa](https://nyaa.si/view/2147443) |
-| `[Doomdos] - UNDER THE GATE - 8 [1080p IQ WEB-DL]` | **152.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630011) • [🐱 Nyaa](https://nyaa.si/view/2147440) |
 
 ---
 <div align="center">
