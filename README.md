@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.48.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.38.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] False Memory - S01E05 (记忆管理局; Jiyi Guanli Ju (2026); The Me...` | **1141.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630025) • [🐱 Nyaa](https://nyaa.si/view/2147478) |
 | `[ToonsHub] False Memory S01E05 REPACK 1080p AMZN WEB-DL DDP2.0 H.26...` | **1963.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630023) • [🐱 Nyaa](https://nyaa.si/view/2147476) |
 | `[ToonsHub] FALSE MEMORY S01E05 1080p BILI WEB-DL AAC2.0 H.265 (Jiyi...` | **1137.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630024) • [🐱 Nyaa](https://nyaa.si/view/2147475) |
 | `Macross.7.S01.1080p.DSNP.WEB-DL.AAC2.0.H.264-NTb` | **56493.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/630022) • [🐱 Nyaa](https://nyaa.si/view/2147466) |
@@ -44,7 +45,6 @@
 | `[Doomdos] - To Be Winner - 5 [1080p IQ WEB-DL]` | **305.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630010) • [🐱 Nyaa](https://nyaa.si/view/2147439) |
 | `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of a Black Ca...` | **531.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630009) • [🐱 Nyaa](https://nyaa.si/view/2147437) |
 | `Star Detective Precure S01E29 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1409.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630007) • [🐱 Nyaa](https://nekobt.to/torrents/13117667921935) |
-| `[ToonsHub] Star Detective Precure S01E29 1080p CR WEB-DL AAC2.0 H.2...` | **1413.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630006) • [🐱 Nyaa](https://nyaa.si/view/2147433) |
 
 ---
 <div align="center">
