@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.46.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.53.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Macross.7.S01.1080p.DSNP.WEB-DL.AAC2.0.H.264-NTb` | **56493.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/630022) • [🐱 Nyaa](https://nyaa.si/view/2147466) |
+| `One Piece S01E1174 Save the Children The Elbaph Warriors Rise Up RE...` | **1382.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630020) • [🐱 Nyaa](https://nyaa.si/view/2147465) |
+| `One Piece S01E1173 A Nightmarish Game-The Dark Plot of the Knights ...` | **475.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630021) • [🐱 Nyaa](https://nyaa.si/view/2147464) |
 | `[Doomdos] - Lingwu Continent - 207 [1080p IQ WEB-DL]` | **189.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630019) • [🐱 Nyaa](https://nyaa.si/view/2147449) |
 | `[ToonsHub] One Piece EP1174 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **378.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630017) • [🐱 Nyaa](https://nekobt.to/torrents/13118068103945) |
 | `[ToonsHub] The Eternal Supreme Li Yunxiao S01E10 1080p BILI WEB-DL ...` | **288.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/630018) • [🐱 Nyaa](https://nekobt.to/torrents/13118067894274) |
@@ -42,9 +45,6 @@
 | `[ToonsHub] Star Detective Precure S01E29 1080p CR WEB-DL AAC2.0 H.2...` | **1413.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630006) • [🐱 Nyaa](https://nyaa.si/view/2147433) |
 | `[Judas] Sekai Saikyou no Kouei Meikyuukoku no Shinjin Tansakusha (T...` | **151.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630005) • [🐱 Nyaa](https://nyaa.si/view/2147427) |
 | `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E10 (WEB 1080p H...` | **1781.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630004) • [🐱 Nyaa](https://nyaa.si/view/2147424) |
-| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **225.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630003) • [🐱 Nyaa](https://nyaa.si/view/2147423) |
-| `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **911.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/630002) • [🐱 Nyaa](https://nekobt.to/torrents/13115872916228) |
-| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 07 [1080p CR WEBRip HE...` | **168.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629995) • [🐱 Nyaa](https://nyaa.si/view/2147417) |
 
 ---
 <div align="center">
