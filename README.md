@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.06.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.53.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlease] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 -...` | **1388.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630047) • [🐱 Nyaa](https://nyaa.si/view/2147576) |
-| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 07 [1080...` | **1390.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630051) • [🐱 Nyaa](https://nyaa.si/view/2147570) |
-| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **1398.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/630052) • [🐱 Nyaa](https://nyaa.si/view/2147569) |
-| `[SubsPlease] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 07 (108...` | **1380.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/630055) • [🐱 Nyaa](https://nyaa.si/view/2147565) |
-| `[ToonsHub] Skeleton Knight in Another World S02E07 1080p BILI WEB-D...` | **414.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630056) • [🐱 Nyaa](https://nyaa.si/view/2147558) |
-| `Love Unseen Beneath the Clear Night Sky 2026 S01E07 Transparent 108...` | **1425.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/630045) • [🐱 Nyaa](https://nyaa.si/view/2147554) |
-| `[AnoZu] Love Unseen Beneath the Clear Night Sky S01E07 1080p CR WEB...` | **1430.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630040) • [🐱 Nyaa](https://nekobt.to/torrents/13127800245249) |
-| `[ToonsHub] Love Unseen Beneath the Clear Night Sky 2026 S01E07 1080...` | **1426.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/630041) • [🐱 Nyaa](https://nekobt.to/torrents/13127780323593) |
-| `[SubsPlease] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo ...` | **1399.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/630044) • [🐱 Nyaa](https://nyaa.si/view/2147550) |
-| `Love Unseen Beneath the Clear Night Sky 2026 S01E07 SUBFRENCH 1080p...` | **1404.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630042) • [🐱 Nyaa](https://nekobt.to/torrents/13127753244423) |
-| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **1409.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/630037) • [🐱 Nyaa](https://nyaa.si/view/2147543) |
-| `[ToonsHub] Love Unseen Beneath the Clear Night Sky 2026 S01E07 1080...` | **195.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/630039) • [🐱 Nyaa](https://nyaa.si/view/2147540) |
-| `[Mo7tas] Fate/strange Fake + TV Special [BD 1080p] [Multi language ...` | **6350.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630033) • [🐱 Nyaa](https://nyaa.si/view/2147528) |
-| `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E19 108...` | **226.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/630032) • [🐱 Nyaa](https://nyaa.si/view/2147527) |
-| `Mermaid Melody Pichi Pichi Pitch 40-52 - [1080p WEB-DL AAC 2.0 x264]` | **15122.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630031) • [🐱 Nyaa](https://nekobt.to/torrents/13126780090637) |
+| `[ASW] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 07 [1080p HEVC...` | **152.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630086) • [🐱 Nyaa](https://nyaa.si/view/2147606) |
+| `[SubsPlus+] The World Is Dancing - S01E08 (ADN WEB-DL 1080p AVC AAC...` | **764.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630087) • [🐱 Nyaa](https://nyaa.si/view/2147605) |
+| `The World Is Dancing S01E08 To the Other Side of the Bridge 1080p H...` | **926.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630084) • [🐱 Nyaa](https://nyaa.si/view/2147604) |
+| `[VARYG] The World Is Dancing S01E08 To the Other Side of the Bridge...` | **960.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630083) • [🐱 Nyaa](https://nekobt.to/torrents/13128869072389) |
+| `[Judas] Saikyou Degarashi Ouji no An yaku Teii Arasoi: Munou o Enji...` | **153.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630085) • [🐱 Nyaa](https://nyaa.si/view/2147602) |
+| `[ToonsHub] The World is Dancing S01E08 1080p ADN WEB-DL AAC2.0 H.26...` | **763.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/630082) • [🐱 Nyaa](https://nyaa.si/view/2147601) |
+| `[Erai-raws] World Is Dancing - 08 [1080p HIDIVE WEB-DL AVC AAC][DBD...` | **926.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630079) • [🐱 Nyaa](https://nyaa.si/view/2147597) |
+| `[SubsPlease] World Is Dancing - 08 (1080p) [20AA5187].mkv` | **926.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630081) • [🐱 Nyaa](https://nyaa.si/view/2147595) |
+| `The World Is Dancing S01E08 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-...` | **763.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/630073) • [🐱 Nyaa](https://nekobt.to/torrents/13128674774279) |
+| `[Onalrie] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shi...` | **171.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630075) • [🐱 Nyaa](https://nekobt.to/torrents/13128611906827) |
+| `[Doomdos] - Skeleton Knight in Another World Season 2 - 7 [1080p IQ...` | **353.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630070) • [🐱 Nyaa](https://nyaa.si/view/2147589) |
+| `Skeleton Knight in Another World S02E07 1080p CR WEB-DL DUAL AAC2.0...` | **1448.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/630071) • [🐱 Nyaa](https://nyaa.si/view/2147588) |
+| `The Insipid Princes Furtive Grab for the Throne S01E07 Furtive Acti...` | **1407.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630072) • [🐱 Nyaa](https://nyaa.si/view/2147587) |
+| `[AnoZu] Skeleton Knight in Another World S02E07 1080p CR WEB-DL Dua...` | **1462.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630065) • [🐱 Nyaa](https://nekobt.to/torrents/13128320012815) |
+| `[ToonsHub] Skeleton Knight in Another World S02E07 1080p CR WEB-DL ...` | **1470.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630059) • [🐱 Nyaa](https://nyaa.si/view/2147585) |
 
 ---
 <div align="center">
