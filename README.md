@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.02.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.42.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Z-A] Dr. Stone Science Future - S04E32 (WEB 1080p AAC)` | **1509.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630221) • [🐱 Nyaa](https://nekobt.to/torrents/13136814696200) |
 | `[SubsPlease] Tsue to Tsurugi no Wistoria S2 (00-12) (1080p) [Batch]` | **18009.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630218) • [🐱 Nyaa](https://nyaa.si/view/2147811) |
 | `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **865.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630217) • [🐱 Nyaa](https://nyaa.si/view/2147807) |
 | `Skeleton Knight in Another World S02E07 The Spirit of Chivalry Bloo...` | **1448.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630216) • [🐱 Nyaa](https://nyaa.si/view/2147804) |
@@ -44,7 +45,6 @@
 | `[Onalrie] Liar Game - S01E20 [1080p WEBRip AV1]` | **159.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630205) • [🐱 Nyaa](https://nekobt.to/torrents/13132776094223) |
 | `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E07 [W...` | **318.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/630204) • [🐱 Nyaa](https://nyaa.si/view/2147776) |
 | `[Onalrie] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi...` | **207.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630203) • [🐱 Nyaa](https://nekobt.to/torrents/13132421018120) |
-| `[Doomdos] - Grand Blue Dreaming 3 - 7 [1080p IQ WEB-DL]` | **261.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630202) • [🐱 Nyaa](https://nyaa.si/view/2147771) |
 
 ---
 <div align="center">
