@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.24.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.10.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CicakRumah] Koupen-chan - S01E71 (コウペンちゃん) [AMZN.WEB-DL 1080P AVC,...` | **87.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630028) • [🐱 Nyaa](https://nyaa.si/view/2147501) |
 | `[Onalrie] Meitantei Precure - S01E29 [1080p WEBRip AV1]` | **547.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630027) • [🐱 Nyaa](https://nekobt.to/torrents/13123032365835) |
 | `[SubsNoJutsu] Goodbye, Lara - S01E07 (1080p WEBRip AAC x265) [9FE4A...` | **459.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/630026) • [🐱 Nyaa](https://nekobt.to/torrents/13122461579530) |
 | `[Gecko] False Memory - S01E05 (记忆管理局; Jiyi Guanli Ju (2026); The Me...` | **1141.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630025) • [🐱 Nyaa](https://nyaa.si/view/2147478) |
@@ -44,7 +45,6 @@
 | `[Erai-raws] Meitantei Precure - 29 [1080p CR WEBRip HEVC AAC][Multi...` | **739.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630012) • [🐱 Nyaa](https://nyaa.si/view/2147444) |
 | `[Erai-raws] Meitantei Precure - 29 [1080p CR WEB-DL AVC AAC][MultiS...` | **1145.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630013) • [🐱 Nyaa](https://nyaa.si/view/2147443) |
 | `[Doomdos] - UNDER THE GATE - 8 [1080p IQ WEB-DL]` | **152.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630011) • [🐱 Nyaa](https://nyaa.si/view/2147440) |
-| `[Doomdos] - To Be Winner - 5 [1080p IQ WEB-DL]` | **305.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630010) • [🐱 Nyaa](https://nyaa.si/view/2147439) |
 
 ---
 <div align="center">
