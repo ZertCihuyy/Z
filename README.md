@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.53.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.48.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] False Memory S01E05 REPACK 1080p AMZN WEB-DL DDP2.0 H.26...` | **1963.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630023) • [🐱 Nyaa](https://nyaa.si/view/2147476) |
+| `[ToonsHub] FALSE MEMORY S01E05 1080p BILI WEB-DL AAC2.0 H.265 (Jiyi...` | **1137.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630024) • [🐱 Nyaa](https://nyaa.si/view/2147475) |
 | `Macross.7.S01.1080p.DSNP.WEB-DL.AAC2.0.H.264-NTb` | **56493.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/630022) • [🐱 Nyaa](https://nyaa.si/view/2147466) |
 | `One Piece S01E1174 Save the Children The Elbaph Warriors Rise Up RE...` | **1382.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630020) • [🐱 Nyaa](https://nyaa.si/view/2147465) |
 | `One Piece S01E1173 A Nightmarish Game-The Dark Plot of the Knights ...` | **475.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630021) • [🐱 Nyaa](https://nyaa.si/view/2147464) |
@@ -43,8 +45,6 @@
 | `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of a Black Ca...` | **531.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630009) • [🐱 Nyaa](https://nyaa.si/view/2147437) |
 | `Star Detective Precure S01E29 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1409.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630007) • [🐱 Nyaa](https://nekobt.to/torrents/13117667921935) |
 | `[ToonsHub] Star Detective Precure S01E29 1080p CR WEB-DL AAC2.0 H.2...` | **1413.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630006) • [🐱 Nyaa](https://nyaa.si/view/2147433) |
-| `[Judas] Sekai Saikyou no Kouei Meikyuukoku no Shinjin Tansakusha (T...` | **151.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630005) • [🐱 Nyaa](https://nyaa.si/view/2147427) |
-| `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E10 (WEB 1080p H...` | **1781.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630004) • [🐱 Nyaa](https://nyaa.si/view/2147424) |
 
 ---
 <div align="center">
