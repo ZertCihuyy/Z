@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.04.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.42.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Mermaid Melody Pichi Pichi Pitch 40-52 - [1080p WEB-DL AAC 2.0 x264]` | **15122.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630031) • [🐱 Nyaa](https://nekobt.to/torrents/13126780090637) |
 | `[VoidWalkers] Kakegurui Season 2 (2019) [BD][1080p JP+EN Opus AV1][...` | **3311.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630030) • [🐱 Nyaa](https://nekobt.to/torrents/13125861392647) |
 | `[VoidWalkers] Kakegurui Season 1 (2017) [BD][1080p JP+EN Opus AV1][...` | **3364.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630029) • [🐱 Nyaa](https://nekobt.to/torrents/13125495245322) |
 | `[CicakRumah] Koupen-chan - S01E71 (コウペンちゃん) [AMZN.WEB-DL 1080P AVC,...` | **87.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630028) • [🐱 Nyaa](https://nyaa.si/view/2147501) |
@@ -44,7 +45,6 @@
 | `[Doomdos] - Lingwu Continent - 207 [1080p IQ WEB-DL]` | **189.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630019) • [🐱 Nyaa](https://nyaa.si/view/2147449) |
 | `[ToonsHub] One Piece EP1174 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **378.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630017) • [🐱 Nyaa](https://nekobt.to/torrents/13118068103945) |
 | `[ToonsHub] The Eternal Supreme Li Yunxiao S01E10 1080p BILI WEB-DL ...` | **288.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/630018) • [🐱 Nyaa](https://nekobt.to/torrents/13118067894274) |
-| `[Erai-raws] Meitantei Precure - 29 [1080p CR WEBRip HEVC AAC][Multi...` | **739.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630012) • [🐱 Nyaa](https://nyaa.si/view/2147444) |
 
 ---
 <div align="center">
