@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.01.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.44.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Tsue to Tsurugi no Wistoria (01-12) (1080p) [Batch]` | **16632.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630215) • [🐱 Nyaa](https://nyaa.si/view/2147803) |
 | `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **192.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630212) • [🐱 Nyaa](https://nyaa.si/view/2147797) |
 | `[DKB] Grand Blue - S03E07 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **289.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/630209) • [🐱 Nyaa](https://nyaa.si/view/2147796) |
 | `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **348.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630210) • [🐱 Nyaa](https://nyaa.si/view/2147795) |
@@ -44,7 +45,6 @@
 | `[Judas] Liar Game - S01E20 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **201.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630201) • [🐱 Nyaa](https://nyaa.si/view/2147768) |
 | `[Onalrie] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no...` | **556.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/630198) • [🐱 Nyaa](https://nekobt.to/torrents/13132008143879) |
 | `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **783.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630197) • [🐱 Nyaa](https://nyaa.si/view/2147763) |
-| `One Piece EP1174 REPACK SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsun...` | **787.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630199) • [🐱 Nyaa](https://nekobt.to/torrents/13131899640329) |
 
 ---
 <div align="center">
