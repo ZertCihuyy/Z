@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.20.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.33.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Meitantei Precure - S01E29 [1080p WEBRip AV1]` | **547.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630027) • [🐱 Nyaa](https://nekobt.to/torrents/13123032365835) |
+| `[SubsNoJutsu] Goodbye, Lara - S01E07 (1080p WEBRip AAC x265) [9FE4A...` | **459.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/630026) • [🐱 Nyaa](https://nekobt.to/torrents/13122461579530) |
 | `[Gecko] False Memory - S01E05 (记忆管理局; Jiyi Guanli Ju (2026); The Me...` | **1141.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630025) • [🐱 Nyaa](https://nyaa.si/view/2147478) |
 | `[ToonsHub] False Memory S01E05 REPACK 1080p AMZN WEB-DL DDP2.0 H.26...` | **1963.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630023) • [🐱 Nyaa](https://nyaa.si/view/2147476) |
 | `[ToonsHub] FALSE MEMORY S01E05 1080p BILI WEB-DL AAC2.0 H.265 (Jiyi...` | **1137.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630024) • [🐱 Nyaa](https://nyaa.si/view/2147475) |
@@ -43,8 +45,6 @@
 | `[Erai-raws] Meitantei Precure - 29 [1080p CR WEB-DL AVC AAC][MultiS...` | **1145.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630013) • [🐱 Nyaa](https://nyaa.si/view/2147443) |
 | `[Doomdos] - UNDER THE GATE - 8 [1080p IQ WEB-DL]` | **152.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630011) • [🐱 Nyaa](https://nyaa.si/view/2147440) |
 | `[Doomdos] - To Be Winner - 5 [1080p IQ WEB-DL]` | **305.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630010) • [🐱 Nyaa](https://nyaa.si/view/2147439) |
-| `[Judas] Kuroneko to Majo no Kyoushitsu (The Classroom of a Black Ca...` | **531.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630009) • [🐱 Nyaa](https://nyaa.si/view/2147437) |
-| `Star Detective Precure S01E29 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1409.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630007) • [🐱 Nyaa](https://nekobt.to/torrents/13117667921935) |
 
 ---
 <div align="center">
