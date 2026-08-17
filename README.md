@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.02.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.41.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E07 [1...` | **432.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630120) • [🐱 Nyaa](https://nyaa.si/view/2147646) |
-| `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **502.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630118) • [🐱 Nyaa](https://nyaa.si/view/2147644) |
-| `[ToonsHub] A Livid Ladys Guide to Getting Even How I Crushed My Hom...` | **1431.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630101) • [🐱 Nyaa](https://nekobt.to/torrents/13129685568515) |
-| `[VARYG] A Livid Ladys Guide to Getting Even How I Crushed My Homela...` | **1409.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/630102) • [🐱 Nyaa](https://nekobt.to/torrents/13129684405505) |
-| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **501.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/630112) • [🐱 Nyaa](https://nekobt.to/torrents/13129653828879) |
-| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **867.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630104) • [🐱 Nyaa](https://nyaa.si/view/2147639) |
-| `Flaming Dodgeball Girl Danko S01E07 SUBFRENCH 1080p ADN WEB-DL AAC2...` | **858.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630114) • [🐱 Nyaa](https://nekobt.to/torrents/13129628966927) |
-| `[SubsPlease] Suterare Seijo no Isekai Gohan Tabi - 07 (1080p) [946F...` | **866.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/630105) • [🐱 Nyaa](https://nyaa.si/view/2147636) |
-| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **502.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630107) • [🐱 Nyaa](https://nyaa.si/view/2147634) |
-| `[AnoZu] A Livid Lady's Guide to Getting Even: How I Crushed My Home...` | **1412.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/630109) • [🐱 Nyaa](https://nyaa.si/view/2147632) |
-| `[Erai-raws] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Ca...` | **870.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630093) • [🐱 Nyaa](https://nyaa.si/view/2147629) |
-| `A Livid Ladys Guide to Getting Even How I Crushed My Homeland with ...` | **1386.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630116) • [🐱 Nyaa](https://nekobt.to/torrents/13129598003467) |
-| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **1390.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/630095) • [🐱 Nyaa](https://nyaa.si/view/2147624) |
-| `[ToonsHub] The Forsaken Saintess and her Foodie Roadtrip in Another...` | **276.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630097) • [🐱 Nyaa](https://nyaa.si/view/2147619) |
-| `[SubsPlease] Buchigire Reijou wa Houfuku wo Chikaimashita - 07 (108...` | **1382.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630096) • [🐱 Nyaa](https://nyaa.si/view/2147620) |
+| `[AnoZu] Grand Blue Dreaming S03E07 1080p CR WEB-DL AAC 2.0 H.264` | **1415.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630143) • [🐱 Nyaa](https://nekobt.to/torrents/13130546806543) |
+| `[SubsPlease] Grand Blue S3 - 07 (1080p) [E7326984].mkv` | **1402.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630137) • [🐱 Nyaa](https://nyaa.si/view/2147686) |
+| `[Erai-raws] Grand Blue Season 3 - 07 [1080p CR WEB-DL AVC AAC][Mult...` | **1412.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630142) • [🐱 Nyaa](https://nyaa.si/view/2147679) |
+| `Grand Blue Dreaming S03E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1406.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/630144) • [🐱 Nyaa](https://nekobt.to/torrents/13130512891394) |
+| `[ASW] Suterare Seijo no Isekai Gohan Tabi - 07 [1080p HEVC x265 10B...` | **198.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630136) • [🐱 Nyaa](https://nyaa.si/view/2147673) |
+| `[ToonsHub] Oh Boy Was I Wrong About Her S01E07 1080p CR WEB-DL AAC2...` | **1432.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630133) • [🐱 Nyaa](https://nyaa.si/view/2147672) |
+| `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **361.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630134) • [🐱 Nyaa](https://nyaa.si/view/2147670) |
+| `[Unfucked] Oh Boy, Was I Wrong About Her - S01E07 (1080p CR WEB-DL ...` | **1412.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630135) • [🐱 Nyaa](https://nyaa.si/view/2147668) |
+| `Oh Boy Was I Wrong About Her S01E07 Youre Special 1080p CR WEB-DL A...` | **1409.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/630132) • [🐱 Nyaa](https://nyaa.si/view/2147662) |
+| `[AnoZu] Oh Boy, Was I Wrong About Her S01E07 1080p CR WEB-DL AAC 2....` | **1414.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630121) • [🐱 Nyaa](https://nekobt.to/torrents/13130075554063) |
+| `[SubsPlease] Tenkosaki - 07 (1080p) [A3BA5F91].mkv` | **1383.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630125) • [🐱 Nyaa](https://nyaa.si/view/2147660) |
+| `[Onalrie] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E07 [10...` | **154.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630122) • [🐱 Nyaa](https://nekobt.to/torrents/13130064555522) |
+| `Oh Boy Was I Wrong About Her S01E07 SUBFRENCH 1080p CR WEB-DL AAC2....` | **1388.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/630124) • [🐱 Nyaa](https://nekobt.to/torrents/13130057343757) |
+| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **1392.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/630128) • [🐱 Nyaa](https://nyaa.si/view/2147655) |
+| `[Judas] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton...` | **454.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630130) • [🐱 Nyaa](https://nyaa.si/view/2147649) |
 
 ---
 <div align="center">
