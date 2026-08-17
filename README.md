@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.01.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.38.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E01-E07 (1080...` | **4120.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630229) • [🐱 Nyaa](https://nekobt.to/torrents/13137705643279) |
+| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E05v2 (1080p ...` | **627.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630224) • [🐱 Nyaa](https://nekobt.to/torrents/13137556886284) |
+| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E04v2 (1080p ...` | **645.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630225) • [🐱 Nyaa](https://nekobt.to/torrents/13137551326988) |
+| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E03v3 (1080p ...` | **557.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/630226) • [🐱 Nyaa](https://nekobt.to/torrents/13137545575434) |
+| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E02v2 (1080p ...` | **552.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630227) • [🐱 Nyaa](https://nekobt.to/torrents/13137540005641) |
+| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E01v2 (1080p ...` | **589.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630228) • [🐱 Nyaa](https://nekobt.to/torrents/13137534408971) |
+| `[CrappySubs] Daemons of the Shadow Realm (Yomi no Tsugai) - S01E18 ...` | **1399.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630223) • [🐱 Nyaa](https://nekobt.to/torrents/13137276085771) |
 | `[GalaxyCauldron] Bleach Thousand-Year Blood War - 44 (1080p WEB-DL ...` | **1431.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630222) • [🐱 Nyaa](https://nekobt.to/torrents/13137144328970) |
 | `[Z-A] Dr. Stone Science Future - S04E32 (WEB 1080p AAC)` | **1509.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630221) • [🐱 Nyaa](https://nekobt.to/torrents/13136814696200) |
 | `[SubsPlease] Tsue to Tsurugi no Wistoria S2 (00-12) (1080p) [Batch]` | **18009.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630218) • [🐱 Nyaa](https://nyaa.si/view/2147811) |
@@ -38,13 +45,6 @@
 | `[SubsPlease] Tsue to Tsurugi no Wistoria (01-12) (1080p) [Batch]` | **16632.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630215) • [🐱 Nyaa](https://nyaa.si/view/2147803) |
 | `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **192.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630212) • [🐱 Nyaa](https://nyaa.si/view/2147797) |
 | `[DKB] Grand Blue - S03E07 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **289.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/630209) • [🐱 Nyaa](https://nyaa.si/view/2147796) |
-| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **348.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630210) • [🐱 Nyaa](https://nyaa.si/view/2147795) |
-| `[DKB] World Is Dancing - S01E08 [1080p][HEVC x265 10bit][weekly]` | **368.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630211) • [🐱 Nyaa](https://nyaa.si/view/2147794) |
-| `[SubVision] World Is Dancing - 06 (WEB 1080p x264 8Bit AAC)` | **722.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630208) • [🐱 Nyaa](https://nekobt.to/torrents/13134053647628) |
-| `[FLE] Re ZERO Starting Life in Another World - S04E12 (WEB 1080p HE...` | **1061.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630207) • [🐱 Nyaa](https://nyaa.si/view/2147786) |
-| `[Onalrie] Grand Blue - S03E07 [1080p WEBRip AV1]` | **222.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630206) • [🐱 Nyaa](https://nekobt.to/torrents/13133194623242) |
-| `[Onalrie] Liar Game - S01E20 [1080p WEBRip AV1]` | **159.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630205) • [🐱 Nyaa](https://nekobt.to/torrents/13132776094223) |
-| `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E07 [W...` | **318.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/630204) • [🐱 Nyaa](https://nyaa.si/view/2147776) |
 
 ---
 <div align="center">
