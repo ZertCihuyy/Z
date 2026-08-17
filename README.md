@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.58.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.34.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubVision] World Is Dancing - 06 (WEB 1080p x264 8Bit AAC)` | **722.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630208) • [🐱 Nyaa](https://nekobt.to/torrents/13134053647628) |
 | `[FLE] Re ZERO Starting Life in Another World - S04E12 (WEB 1080p HE...` | **1061.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630207) • [🐱 Nyaa](https://nyaa.si/view/2147786) |
 | `[Onalrie] Grand Blue - S03E07 [1080p WEBRip AV1]` | **222.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630206) • [🐱 Nyaa](https://nekobt.to/torrents/13133194623242) |
 | `[Onalrie] Liar Game - S01E20 [1080p WEBRip AV1]` | **159.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630205) • [🐱 Nyaa](https://nekobt.to/torrents/13132776094223) |
@@ -44,7 +45,6 @@
 | `[ASW] LIAR GAME - 20 [1080p HEVC x265 10Bit][AAC]` | **195.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/630191) • [🐱 Nyaa](https://nyaa.si/view/2147749) |
 | `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **168.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630192) • [🐱 Nyaa](https://nyaa.si/view/2147748) |
 | `[Onalrie] Suterare Seijo no Isekai Gohan Tabi Kakure Skill de Campi...` | **170.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/630189) • [🐱 Nyaa](https://nekobt.to/torrents/13131611773454) |
-| `[ToonsHub] The World is Dancing S01E05 REPACK 1080p ADN WEB-DL AAC2...` | **566.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630187) • [🐱 Nyaa](https://nyaa.si/view/2147745) |
 
 ---
 <div align="center">
