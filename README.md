@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.00.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.46.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Doomdos] - Ascendants of the Nine Suns - 41 [1080p IQ WEB-DL]` | **152.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630152) • [🐱 Nyaa](https://nyaa.si/view/2147695) |
-| `[Judas] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi t...` | **229.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630151) • [🐱 Nyaa](https://nyaa.si/view/2147694) |
-| `[Onalrie] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu - S02E0...` | **299.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630150) • [🐱 Nyaa](https://nekobt.to/torrents/13130653163522) |
-| `[ToonsHub] Grand Blue Dreaming S03E07 1080p CR WEB-DL AAC2.0 H.264 ...` | **1411.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/630147) • [🐱 Nyaa](https://nyaa.si/view/2147693) |
-| `[ASW] Buchigire Reijou wa Houfuku wo Chikaimashita - 07 [1080p HEVC...` | **565.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630148) • [🐱 Nyaa](https://nyaa.si/view/2147692) |
-| `[Ironclad] Gaikotsu Kishi-sama - S02E07 [WEB.1080p.AV1] | Skeleton ...` | **361.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630149) • [🐱 Nyaa](https://nyaa.si/view/2147691) |
-| `Grand Blue Dreaming S03E07 Mother 1080p CR WEB-DL AAC2.0 H.264-VARY...` | **1410.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/630146) • [🐱 Nyaa](https://nyaa.si/view/2147690) |
-| `[AnoZu] Grand Blue Dreaming S03E07 1080p CR WEB-DL AAC 2.0 H.264` | **1415.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630143) • [🐱 Nyaa](https://nekobt.to/torrents/13130546806543) |
-| `[SubsPlease] Grand Blue S3 - 07 (1080p) [E7326984].mkv` | **1402.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630137) • [🐱 Nyaa](https://nyaa.si/view/2147686) |
-| `[Erai-raws] Grand Blue Season 3 - 07 [1080p CR WEB-DL AVC AAC][Mult...` | **1412.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630142) • [🐱 Nyaa](https://nyaa.si/view/2147679) |
-| `Grand Blue Dreaming S03E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1406.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/630144) • [🐱 Nyaa](https://nekobt.to/torrents/13130512891394) |
-| `[ASW] Suterare Seijo no Isekai Gohan Tabi - 07 [1080p HEVC x265 10B...` | **198.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630136) • [🐱 Nyaa](https://nyaa.si/view/2147673) |
-| `[ToonsHub] Oh Boy Was I Wrong About Her S01E07 1080p CR WEB-DL AAC2...` | **1432.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630133) • [🐱 Nyaa](https://nyaa.si/view/2147672) |
-| `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **361.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630134) • [🐱 Nyaa](https://nyaa.si/view/2147670) |
-| `[Unfucked] Oh Boy, Was I Wrong About Her - S01E07 (1080p CR WEB-DL ...` | **1412.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630135) • [🐱 Nyaa](https://nyaa.si/view/2147668) |
+| `[ToonsHub] The World is Dancing S01E05 REPACK 1080p ADN WEB-DL AAC2...` | **566.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630187) • [🐱 Nyaa](https://nyaa.si/view/2147745) |
+| `[Judas] Grand Blue Dreaming - S03E07 [1080p][HEVC x265 10bit][Multi...` | **235.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630184) • [🐱 Nyaa](https://nyaa.si/view/2147743) |
+| `[SubVision] World Is Dancing - 05 (WEB 1080p x264 8Bit AAC)` | **1056.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630185) • [🐱 Nyaa](https://nekobt.to/torrents/13131459918599) |
+| `[ASW] Grand Blue S3 - 07 [1080p HEVC x265 10Bit][AAC]` | **245.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/630183) • [🐱 Nyaa](https://nyaa.si/view/2147740) |
+| `[Shridhuu][1080p] Swallowed Star - 吞噬星空 (Tunshi Xingkong) - EP237` | **358.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630179) • [🐱 Nyaa](https://nyaa.si/view/2147738) |
+| `[ToonsHub] The Forsaken Saintess and Her Foodie Roadtrip in Another...` | **868.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630175) • [🐱 Nyaa](https://nyaa.si/view/2147735) |
+| `[Onalrie] World Is Dancing - S01E08 [1080p WEBRip AV1]` | **234.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/630178) • [🐱 Nyaa](https://nekobt.to/torrents/13131206002438) |
+| `[ToonsHub] The World Is Dancing S01E08 1080p HIDIVE WEB-DL AAC2.0 H...` | **926.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630176) • [🐱 Nyaa](https://nyaa.si/view/2147733) |
+| `[ToonsHub] LIAR GAME S01E17 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1634.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/630170) • [🐱 Nyaa](https://nekobt.to/torrents/13131126253573) |
+| `[VARYG] LIAR GAME S01E18 Caution 1080p CR WEB-DL DUAL AAC2.0 H.264 ...` | **1449.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630171) • [🐱 Nyaa](https://nekobt.to/torrents/13131115534086) |
+| `[VARYG] LIAR GAME S01E20 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1412.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630172) • [🐱 Nyaa](https://nekobt.to/torrents/13131107792900) |
+| `[ASW] Tenkosaki - 07 [1080p HEVC x265 10Bit][AAC]` | **239.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630174) • [🐱 Nyaa](https://nyaa.si/view/2147722) |
+| `[AnoZu] LIAR GAME (2026) S01E18 1080p CR WEB-DL Dual-Audio DDP 2.0 ...` | **1466.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/630161) • [🐱 Nyaa](https://nyaa.si/view/2147720) |
+| `[ToonsHub] LIAR GAME S01E18 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1472.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630163) • [🐱 Nyaa](https://nyaa.si/view/2147714) |
+| `[ToonsHub] Grand Blue Dreaming S03E07 1080p BILI WEB-DL AAC2.0 H.26...` | **266.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630164) • [🐱 Nyaa](https://nyaa.si/view/2147713) |
 
 ---
 <div align="center">
