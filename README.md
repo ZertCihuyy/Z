@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.11.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.42.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Tsue to Tsurugi no Wistoria S2 (00-12) (1080p) [Batch]` | **18009.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630218) • [🐱 Nyaa](https://nyaa.si/view/2147811) |
 | `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **865.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630217) • [🐱 Nyaa](https://nyaa.si/view/2147807) |
 | `Skeleton Knight in Another World S02E07 The Spirit of Chivalry Bloo...` | **1448.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630216) • [🐱 Nyaa](https://nyaa.si/view/2147804) |
 | `[SubsPlease] Tsue to Tsurugi no Wistoria (01-12) (1080p) [Batch]` | **16632.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630215) • [🐱 Nyaa](https://nyaa.si/view/2147803) |
@@ -44,7 +45,6 @@
 | `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E07 [W...` | **318.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/630204) • [🐱 Nyaa](https://nyaa.si/view/2147776) |
 | `[Onalrie] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi...` | **207.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630203) • [🐱 Nyaa](https://nekobt.to/torrents/13132421018120) |
 | `[Doomdos] - Grand Blue Dreaming 3 - 7 [1080p IQ WEB-DL]` | **261.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630202) • [🐱 Nyaa](https://nyaa.si/view/2147771) |
-| `[Judas] Liar Game - S01E20 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **201.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630201) • [🐱 Nyaa](https://nyaa.si/view/2147768) |
 
 ---
 <div align="center">
