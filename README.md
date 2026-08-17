@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.46.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.37.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Star Detective Precure S01E29 1080p CR WEB-DL AAC2.0 H.2...` | **1413.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630006) • [🐱 Nyaa](https://nyaa.si/view/2147433) |
+| `[Judas] Sekai Saikyou no Kouei Meikyuukoku no Shinjin Tansakusha (T...` | **151.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630005) • [🐱 Nyaa](https://nyaa.si/view/2147427) |
+| `[sgt] Botan Kamiina Fully Blossoms When Drunk - S01E10 (WEB 1080p H...` | **1781.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630004) • [🐱 Nyaa](https://nyaa.si/view/2147424) |
+| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **225.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630003) • [🐱 Nyaa](https://nyaa.si/view/2147423) |
 | `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **911.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/630002) • [🐱 Nyaa](https://nekobt.to/torrents/13115872916228) |
 | `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 07 [1080p CR WEBRip HE...` | **168.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/629995) • [🐱 Nyaa](https://nyaa.si/view/2147417) |
 | `[Erai-raws] Kuroneko to Majo no Kyoushitsu - 19 [1080p CR WEBRip HE...` | **784.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/629996) • [🐱 Nyaa](https://nyaa.si/view/2147416) |
@@ -41,10 +45,6 @@
 | `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 06 [1080p CR WE...` | **418.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/629993) • [🐱 Nyaa](https://nekobt.to/torrents/13115718482955) |
 | `[Erai-raws] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no K...` | **399.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/629994) • [🐱 Nyaa](https://nekobt.to/torrents/13115706271247) |
 | `[FrixySubs] KAIJU GIRL CARAMELISE - S01E03 [1080p CR WEB-DL H.264 A...` | **1432.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/629992) • [🐱 Nyaa](https://nekobt.to/torrents/13114950393356) |
-| `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E07 [1080p][HEV...` | **717.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/629990) • [🐱 Nyaa](https://nyaa.si/view/2147400) |
-| `[DKB] Azur Lane: Bisoku Zenshin! - S02E07 [1080p][HEVC x265 10bit][...` | **116.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629991) • [🐱 Nyaa](https://nyaa.si/view/2147399) |
-| `[FrixySubs] Mushoku Tensei - S03E08 [1080p CR WEB-DL H.264 AAC] [Na...` | **1369.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/629989) • [🐱 Nyaa](https://nekobt.to/torrents/13114298797838) |
-| `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E06 1080p CR WEB-D...` | **1635.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/629985) • [🐱 Nyaa](https://nekobt.to/torrents/13113146498309) |
 
 ---
 <div align="center">
