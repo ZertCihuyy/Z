@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.30.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.03.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E07 [W...` | **318.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/630204) • [🐱 Nyaa](https://nyaa.si/view/2147776) |
+| `[Onalrie] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi...` | **207.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630203) • [🐱 Nyaa](https://nekobt.to/torrents/13132421018120) |
 | `[Doomdos] - Grand Blue Dreaming 3 - 7 [1080p IQ WEB-DL]` | **261.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630202) • [🐱 Nyaa](https://nyaa.si/view/2147771) |
 | `[Judas] Liar Game - S01E20 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **201.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630201) • [🐱 Nyaa](https://nyaa.si/view/2147768) |
 | `[Onalrie] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no...` | **556.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/630198) • [🐱 Nyaa](https://nekobt.to/torrents/13132008143879) |
@@ -43,8 +45,6 @@
 | `[Judas] Grand Blue Dreaming - S03E07 [1080p][HEVC x265 10bit][Multi...` | **235.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630184) • [🐱 Nyaa](https://nyaa.si/view/2147743) |
 | `[SubVision] World Is Dancing - 05 (WEB 1080p x264 8Bit AAC)` | **1056.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630185) • [🐱 Nyaa](https://nekobt.to/torrents/13131459918599) |
 | `[ASW] Grand Blue S3 - 07 [1080p HEVC x265 10Bit][AAC]` | **245.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/630183) • [🐱 Nyaa](https://nyaa.si/view/2147740) |
-| `[Shridhuu][1080p] Swallowed Star - 吞噬星空 (Tunshi Xingkong) - EP237` | **358.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630179) • [🐱 Nyaa](https://nyaa.si/view/2147738) |
-| `[ToonsHub] The Forsaken Saintess and Her Foodie Roadtrip in Another...` | **868.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630175) • [🐱 Nyaa](https://nyaa.si/view/2147735) |
 
 ---
 <div align="center">
