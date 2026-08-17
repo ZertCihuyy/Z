@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.41.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.00.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - Ascendants of the Nine Suns - 41 [1080p IQ WEB-DL]` | **152.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630152) • [🐱 Nyaa](https://nyaa.si/view/2147695) |
+| `[Judas] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi t...` | **229.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630151) • [🐱 Nyaa](https://nyaa.si/view/2147694) |
+| `[Onalrie] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu - S02E0...` | **299.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630150) • [🐱 Nyaa](https://nekobt.to/torrents/13130653163522) |
+| `[ToonsHub] Grand Blue Dreaming S03E07 1080p CR WEB-DL AAC2.0 H.264 ...` | **1411.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/630147) • [🐱 Nyaa](https://nyaa.si/view/2147693) |
+| `[ASW] Buchigire Reijou wa Houfuku wo Chikaimashita - 07 [1080p HEVC...` | **565.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630148) • [🐱 Nyaa](https://nyaa.si/view/2147692) |
+| `[Ironclad] Gaikotsu Kishi-sama - S02E07 [WEB.1080p.AV1] | Skeleton ...` | **361.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630149) • [🐱 Nyaa](https://nyaa.si/view/2147691) |
+| `Grand Blue Dreaming S03E07 Mother 1080p CR WEB-DL AAC2.0 H.264-VARY...` | **1410.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/630146) • [🐱 Nyaa](https://nyaa.si/view/2147690) |
 | `[AnoZu] Grand Blue Dreaming S03E07 1080p CR WEB-DL AAC 2.0 H.264` | **1415.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630143) • [🐱 Nyaa](https://nekobt.to/torrents/13130546806543) |
 | `[SubsPlease] Grand Blue S3 - 07 (1080p) [E7326984].mkv` | **1402.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630137) • [🐱 Nyaa](https://nyaa.si/view/2147686) |
 | `[Erai-raws] Grand Blue Season 3 - 07 [1080p CR WEB-DL AVC AAC][Mult...` | **1412.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630142) • [🐱 Nyaa](https://nyaa.si/view/2147679) |
@@ -38,13 +45,6 @@
 | `[ToonsHub] Oh Boy Was I Wrong About Her S01E07 1080p CR WEB-DL AAC2...` | **1432.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630133) • [🐱 Nyaa](https://nyaa.si/view/2147672) |
 | `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **361.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630134) • [🐱 Nyaa](https://nyaa.si/view/2147670) |
 | `[Unfucked] Oh Boy, Was I Wrong About Her - S01E07 (1080p CR WEB-DL ...` | **1412.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630135) • [🐱 Nyaa](https://nyaa.si/view/2147668) |
-| `Oh Boy Was I Wrong About Her S01E07 Youre Special 1080p CR WEB-DL A...` | **1409.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/630132) • [🐱 Nyaa](https://nyaa.si/view/2147662) |
-| `[AnoZu] Oh Boy, Was I Wrong About Her S01E07 1080p CR WEB-DL AAC 2....` | **1414.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630121) • [🐱 Nyaa](https://nekobt.to/torrents/13130075554063) |
-| `[SubsPlease] Tenkosaki - 07 (1080p) [A3BA5F91].mkv` | **1383.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630125) • [🐱 Nyaa](https://nyaa.si/view/2147660) |
-| `[Onalrie] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E07 [10...` | **154.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630122) • [🐱 Nyaa](https://nekobt.to/torrents/13130064555522) |
-| `Oh Boy Was I Wrong About Her S01E07 SUBFRENCH 1080p CR WEB-DL AAC2....` | **1388.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/630124) • [🐱 Nyaa](https://nekobt.to/torrents/13130057343757) |
-| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **1392.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/630128) • [🐱 Nyaa](https://nyaa.si/view/2147655) |
-| `[Judas] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton...` | **454.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630130) • [🐱 Nyaa](https://nyaa.si/view/2147649) |
 
 ---
 <div align="center">
