@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.53.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.32.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Shridhuu][1080p] Golden Curse - God of Wealth Dou Zhanlong - 财神窦占龙...` | **556.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630090) • [🐱 Nyaa](https://nyaa.si/view/2147614) |
+| `[VoidWalkers] Cyberpunk Edgerunners Season 1 (2022) [BD][1080p Mult...` | **6387.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/630089) • [🐱 Nyaa](https://nekobt.to/torrents/13129411738378) |
+| `[ASW] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 - 07 [10...` | **421.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/630088) • [🐱 Nyaa](https://nyaa.si/view/2147610) |
 | `[ASW] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 07 [1080p HEVC...` | **152.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630086) • [🐱 Nyaa](https://nyaa.si/view/2147606) |
 | `[SubsPlus+] The World Is Dancing - S01E08 (ADN WEB-DL 1080p AVC AAC...` | **764.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630087) • [🐱 Nyaa](https://nyaa.si/view/2147605) |
 | `The World Is Dancing S01E08 To the Other Side of the Bridge 1080p H...` | **926.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630084) • [🐱 Nyaa](https://nyaa.si/view/2147604) |
@@ -42,9 +45,6 @@
 | `[Onalrie] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shi...` | **171.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630075) • [🐱 Nyaa](https://nekobt.to/torrents/13128611906827) |
 | `[Doomdos] - Skeleton Knight in Another World Season 2 - 7 [1080p IQ...` | **353.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630070) • [🐱 Nyaa](https://nyaa.si/view/2147589) |
 | `Skeleton Knight in Another World S02E07 1080p CR WEB-DL DUAL AAC2.0...` | **1448.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/630071) • [🐱 Nyaa](https://nyaa.si/view/2147588) |
-| `The Insipid Princes Furtive Grab for the Throne S01E07 Furtive Acti...` | **1407.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630072) • [🐱 Nyaa](https://nyaa.si/view/2147587) |
-| `[AnoZu] Skeleton Knight in Another World S02E07 1080p CR WEB-DL Dua...` | **1462.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630065) • [🐱 Nyaa](https://nekobt.to/torrents/13128320012815) |
-| `[ToonsHub] Skeleton Knight in Another World S02E07 1080p CR WEB-DL ...` | **1470.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630059) • [🐱 Nyaa](https://nyaa.si/view/2147585) |
 
 ---
 <div align="center">
