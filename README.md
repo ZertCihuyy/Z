@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.01.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.37.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] KAMUI Hes Behind You S01E07 REPACK 1080p UNCENSORED AMZN...` | **458.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630437) • [🐱 Nyaa](https://nyaa.si/view/2148235) |
 | `[BlackRose] Rich Girl Caretaker - S01E07 (WEB 1080p HEVC 10-bit EAC...` | **1313.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630436) • [🐱 Nyaa](https://nekobt.to/torrents/13159390581769) |
 | `[ToonsHub] Flaming Dodgeball Girl Danko S01E07 1080p AMZN WEB-DL DD...` | **1112.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630435) • [🐱 Nyaa](https://nyaa.si/view/2148228) |
 | `[Judas] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga ...` | **164.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630434) • [🐱 Nyaa](https://nyaa.si/view/2148227) |
@@ -47,7 +48,6 @@
 | `[Erai-raws] One Piece - 1174 [1080p CR WEB-DL AVC AAC][MultiSub][64...` | **1179.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/630420) • [🐱 Nyaa](https://nyaa.si/view/2148198) |
 | `[Erai-raws] Digimon Beatbreak - 43 [1080p CR WEBRip HEVC AAC][Multi...` | **485.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630421) • [🐱 Nyaa](https://nyaa.si/view/2148197) |
 | `[Erai-raws] Digimon Beatbreak - 43 (REPACK) [1080p CR WEB-DL AVC AA...` | **1379.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630424) • [🐱 Nyaa](https://nyaa.si/view/2148194) |
-| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E07 [WEB.1080p.AV1] | R...` | **193.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630416) • [🐱 Nyaa](https://nyaa.si/view/2148192) |
 
 ---
 <div align="center">
