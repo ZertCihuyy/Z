@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.59.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.34.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga ...` | **164.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630434) • [🐱 Nyaa](https://nyaa.si/view/2148227) |
+| `[Judas] One Piece - 1174 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **406.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/630433) • [🐱 Nyaa](https://nyaa.si/view/2148226) |
+| `[ToonsHub] Grand Blue Dreaming S03E07 1080p AMZN WEB-DL DDP2.0 H.26...` | **702.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630431) • [🐱 Nyaa](https://nekobt.to/torrents/13158576241931) |
 | `[sam] Grand Blue Dreaming - S03E06 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1737.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/630430) • [🐱 Nyaa](https://nyaa.si/view/2148223) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 79 [1080p] [1578...` | **23.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630428) • [🐱 Nyaa](https://nyaa.si/view/2148205) |
 | `[VoidWalkers] Chainsaw Man Season 1 (2022) [BD][1080p Multi Opus AV...` | **4732.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630429) • [🐱 Nyaa](https://nekobt.to/torrents/13157240460037) |
@@ -45,9 +48,6 @@
 | `[Ironclad] Sora wa Akai Kawa no Hotori - S01E07 [WEB.1080p.AV1] | R...` | **193.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630416) • [🐱 Nyaa](https://nyaa.si/view/2148192) |
 | `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 07 [1080p CR WE...` | **726.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630408) • [🐱 Nyaa](https://nyaa.si/view/2148191) |
 | `[Erai-raws] Tefuda ga Oome no Victoria - 07 [1080p CR WEBRip HEVC A...` | **403.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/630409) • [🐱 Nyaa](https://nyaa.si/view/2148190) |
-| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **713.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630410) • [🐱 Nyaa](https://nyaa.si/view/2148189) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 07 [1080p CR WEBRip HEVC ...` | **413.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630411) • [🐱 Nyaa](https://nyaa.si/view/2148188) |
-| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **358.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630412) • [🐱 Nyaa](https://nyaa.si/view/2148187) |
 
 ---
 <div align="center">
