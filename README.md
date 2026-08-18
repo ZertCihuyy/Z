@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.39.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.59.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sam] Grand Blue Dreaming - S03E06 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1737.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/630430) • [🐱 Nyaa](https://nyaa.si/view/2148223) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 79 [1080p] [1578...` | **23.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630428) • [🐱 Nyaa](https://nyaa.si/view/2148205) |
 | `[VoidWalkers] Chainsaw Man Season 1 (2022) [BD][1080p Multi Opus AV...` | **4732.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630429) • [🐱 Nyaa](https://nekobt.to/torrents/13157240460037) |
 | `[anime4life.] Charlotte BD_1080p LPCM Dual Audio` | **16754.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630427) • [🐱 Nyaa](https://nyaa.si/view/2148204) |
@@ -47,7 +48,6 @@
 | `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **713.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630410) • [🐱 Nyaa](https://nyaa.si/view/2148189) |
 | `[Erai-raws] Sora wa Akai Kawa no Hotori - 07 [1080p CR WEBRip HEVC ...` | **413.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630411) • [🐱 Nyaa](https://nyaa.si/view/2148188) |
 | `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **358.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630412) • [🐱 Nyaa](https://nyaa.si/view/2148187) |
-| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 07 [1080p CR WEBRip ...` | **389.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630413) • [🐱 Nyaa](https://nyaa.si/view/2148186) |
 
 ---
 <div align="center">
