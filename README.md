@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.44.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.14.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 07 [1080p] [AV1] (Weekly)` | **115.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630386) • [🐱 Nyaa](https://nyaa.si/view/2148167) |
+| `[denisplay] Kuroneko to Majo no Kyoushitsu - 19 [1080p] [AV1] (Week...` | **511.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630389) • [🐱 Nyaa](https://nyaa.si/view/2148164) |
+| `[HatSubs] One Piece 1174 (WEB 1080p) [5EED7E71].mkv` | **1376.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630392) • [🐱 Nyaa](https://nyaa.si/view/2148161) |
+| `[Judas] Kimi ga Shinu made Koi o Shitai (I Want to Love You Till Yo...` | **196.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630385) • [🐱 Nyaa](https://nyaa.si/view/2148160) |
+| `[ToonsHub] Red River 2026 S01E07 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1342.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630384) • [🐱 Nyaa](https://nyaa.si/view/2148159) |
 | `Red River 2026 S01E07 Cold Lips 1080p CR WEB-DL AAC2.0 H.264-VARYG ...` | **1342.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630370) • [🐱 Nyaa](https://nyaa.si/view/2148158) |
 | `[AnoZu] Red River S01E07 1080p CR WEB-DL AAC 2.0 H.264 | Sora wa Ak...` | **1344.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630371) • [🐱 Nyaa](https://nyaa.si/view/2148157) |
 | `[SubsPlease] Sora wa Akai Kawa no Hotori - 07 (1080p) [D8BE1FFD].mkv` | **1333.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630372) • [🐱 Nyaa](https://nyaa.si/view/2148156) |
@@ -43,11 +48,6 @@
 | `[VoidWalkers] Chainsaw Man Season 1 (2022) [BD][1080p Multi Opus AV...` | **4732.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630382) • [🐱 Nyaa](https://nekobt.to/torrents/13154551065600) |
 | `[CrappySubs] Daemons of the Shadow Realm (Yomi no Tsugai) - S01E19 ...` | **1410.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630369) • [🐱 Nyaa](https://nekobt.to/torrents/13154234862594) |
 | `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **229.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/630368) • [🐱 Nyaa](https://nyaa.si/view/2148142) |
-| `[DKB] Tefuda ga Oome no Victoria - S01E07 [1080p][HEVC x265 10bit][...` | **253.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630365) • [🐱 Nyaa](https://nyaa.si/view/2148141) |
-| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 7 [172] (1080p)` | **505.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/630366) • [🐱 Nyaa](https://nyaa.si/view/2148140) |
-| `THE GHOST IN THE SHELL S01E07 EPISODE 07 BYE BYE CLAY 1080p AMZN WE...` | **1706.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/630367) • [🐱 Nyaa](https://nyaa.si/view/2148139) |
-| `[Erai-raws] Koukaku Kidoutai (2026) - 07 [1080p AMZN WEB-DL AVC EAC...` | **1668.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630363) • [🐱 Nyaa](https://nekobt.to/torrents/13153852012032) |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 96 [1080p] (GB_CN) | 牧神记` | **435.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630358) • [🐱 Nyaa](https://nyaa.si/view/2148133) |
 
 ---
 <div align="center">
