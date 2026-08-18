@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.36.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-00.06.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,27 +9,36 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Selasa**
+### 📅 Jadwal Rilis Hari Ini: **Rabu**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg" width="45" style="border-radius: 4px;"> | `05.40` | **[Chiikawa](https://anilist.co/anime/140842)** | *Comedy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)** | *Action, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Jueshi Zhan Hun 2](https://anilist.co/anime/213188)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png" width="45" style="border-radius: 4px;"> | `11.00` | **[Bai Ri Cheng Wang](https://anilist.co/anime/213484)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png" width="45" style="border-radius: 4px;"> | `18.30` | **[Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai](https://anilist.co/anime/128757)** | *Drama* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg" width="45" style="border-radius: 4px;"> | `19.30` | **[Kimi ga Shinu made Koi wo Shitai](https://anilist.co/anime/187260)** | *Drama, Fantasy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png" width="45" style="border-radius: 4px;"> | `19.55` | **[Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita](https://anilist.co/anime/213665)** | *Fantasy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu](https://anilist.co/anime/196219)** | *Drama, Fantasy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png" width="45" style="border-radius: 4px;"> | `21.00` | **[Koukaku Kidoutai: THE GHOST IN THE SHELL](https://anilist.co/anime/177699)** | *Action, Psychological, Sci-Fi* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Yoroi Shinden Samurai Troopers Part 2](https://anilist.co/anime/209800)** | *Action, Adventure, Sci-Fi* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg" width="45" style="border-radius: 4px;"> | `22.00` | **[Tefuda ga Oome no Victoria](https://anilist.co/anime/198709)** | *Action, Drama, Fantasy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg" width="45" style="border-radius: 4px;"> | `23.35` | **[Sora wa Akai Kawa no Hotori](https://anilist.co/anime/207809)** | *Action, Adventure, Drama, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg" width="45" style="border-radius: 4px;"> | `05.06` | **[Chibi Godzilla no Gyakushuu 3](https://anilist.co/anime/193883)** | *Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg" width="45" style="border-radius: 4px;"> | `06.00` | **[mofusand](https://anilist.co/anime/204656)** | *Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211220-fkWS8gCM2rA5.png" width="45" style="border-radius: 4px;"> | `08.00` | **[Li Xiongmao](https://anilist.co/anime/211220)** | *Adventure* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Yi Nian Yongheng 4](https://anilist.co/anime/199409)** | *Action, Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png" width="45" style="border-radius: 4px;"> | `09.00` | **[You Shou Yan 6th Season](https://anilist.co/anime/213486)** | *Comedy, Fantasy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213703-ghO1AqW0bdaN.jpg" width="45" style="border-radius: 4px;"> | `10.00` | **[Jiaonang Jihua: Qiji](https://anilist.co/anime/213703)** | *Fantasy, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg" width="45" style="border-radius: 4px;"> | `18.00` | **[Ugoku! Neko Mukashi Banashi](https://anilist.co/anime/188529)** | *Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg" width="45" style="border-radius: 4px;"> | `19.00` | **[Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou](https://anilist.co/anime/198946)** | *Action, Drama, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png" width="45" style="border-radius: 4px;"> | `19.30` | **[Youjo Senki II](https://anilist.co/anime/135865)** | *Action, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://anilist.co/anime/189046)** | *Action, Adventure, Drama, Fantasy, Psychological, Romance, Thriller* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213666-nnKcumRblZi1.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Perfect Addiction](https://anilist.co/anime/213666)** | *Drama, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg" width="45" style="border-radius: 4px;"> | `20.30` | **[Heroine? Seijo? Iie, All Works Maid desu (Ko)!](https://anilist.co/anime/192800)** | *Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg" width="45" style="border-radius: 4px;"> | `20.30` | **[Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season](https://anilist.co/anime/210687)** | *Adventure, Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Otomege Sekai wa Mob ni Kibishii Sekai desu 2](https://anilist.co/anime/159309)** | *Action, Fantasy, Mecha, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Ibitte Konai Gibo to Gishi](https://anilist.co/anime/196356)** | *Comedy, Slice of Life* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Tefuda ga Oome no Victoria - S01E07 [1080p][HEVC x265 10bit][...` | **253.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630365) • [🐱 Nyaa](https://nyaa.si/view/2148141) |
+| `A Will Eternal / Yi Nian Yong Heng - Season 4 Episode 7 [172] (1080p)` | **505.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/630366) • [🐱 Nyaa](https://nyaa.si/view/2148140) |
+| `THE GHOST IN THE SHELL S01E07 EPISODE 07 BYE BYE CLAY 1080p AMZN WE...` | **1706.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/630367) • [🐱 Nyaa](https://nyaa.si/view/2148139) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 07 [1080p AMZN WEB-DL AVC EAC...` | **1668.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630363) • [🐱 Nyaa](https://nekobt.to/torrents/13153852012032) |
+| `[FSP] Mushen Ji (Tales of Herding Gods) - 96 [1080p] (GB_CN) | 牧神记` | **435.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630358) • [🐱 Nyaa](https://nyaa.si/view/2148133) |
+| `[FSP] Battle Through The Heavens S4 EP 05-08 [1080p]` | **924.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630359) • [🐱 Nyaa](https://nyaa.si/view/2148132) |
 | `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E07 [...` | **739.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630357) • [🐱 Nyaa](https://nyaa.si/view/2148131) |
 | `[Onalrie] Tefuda ga Oome no Victoria - S01E07 [1080p WEBRip AV1]` | **193.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/630354) • [🐱 Nyaa](https://nekobt.to/torrents/13153342915085) |
 | `[ASW] Yoroi Shin Den Samurai Troopers - 19 [1080p HEVC x265 10Bit][...` | **691.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/630355) • [🐱 Nyaa](https://nyaa.si/view/2148122) |
@@ -39,12 +48,6 @@
 | `[Onalrie] Yoroi-Shinden Samurai Troopers - S02E07 [1080p WEBRip AV1]` | **467.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630351) • [🐱 Nyaa](https://nekobt.to/torrents/13152970573833) |
 | `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E07 [1080p][HEVC x265 1...` | **233.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/630350) • [🐱 Nyaa](https://nyaa.si/view/2148117) |
 | `[Judas] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagas...` | **183.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630348) • [🐱 Nyaa](https://nyaa.si/view/2148115) |
-| `[RUBaDUB] City Hunter (Movies & TV Specials) (1080p) (Dual Audio)` | **24685.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630349) • [🐱 Nyaa](https://nyaa.si/view/2148114) |
-| `[AnoZu] Yoroi-Shinden Samurai Troopers S01E19 1080p CR WEB-DL AAC 2...` | **1736.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/630334) • [🐱 Nyaa](https://nekobt.to/torrents/13152255171595) |
-| `[AnoZu] Victoria of Many Faces S01E07 1080p CR WEB-DL AAC 2.0 H.264` | **1390.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630335) • [🐱 Nyaa](https://nekobt.to/torrents/13152251329548) |
-| `[ToonsHub] Victoria of Many Faces S01E07 1080p CR WEB-DL AAC2.0 H.2...` | **1386.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/630336) • [🐱 Nyaa](https://nekobt.to/torrents/13152247715086) |
-| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 07 [1080p CR WE...` | **1733.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630346) • [🐱 Nyaa](https://nyaa.si/view/2148108) |
-| `Yoroi Shinden Samurai Troopers S01E19 SUBFRENCH 1080p CR WEB-DL AAC...` | **1728.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630337) • [🐱 Nyaa](https://nekobt.to/torrents/13152245692426) |
 
 ---
 <div align="center">
