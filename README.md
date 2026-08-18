@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.34.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.01.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRose] Rich Girl Caretaker - S01E07 (WEB 1080p HEVC 10-bit EAC...` | **1313.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630436) • [🐱 Nyaa](https://nekobt.to/torrents/13159390581769) |
+| `[ToonsHub] Flaming Dodgeball Girl Danko S01E07 1080p AMZN WEB-DL DD...` | **1112.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630435) • [🐱 Nyaa](https://nyaa.si/view/2148228) |
 | `[Judas] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga ...` | **164.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630434) • [🐱 Nyaa](https://nyaa.si/view/2148227) |
 | `[Judas] One Piece - 1174 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **406.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/630433) • [🐱 Nyaa](https://nyaa.si/view/2148226) |
 | `[ToonsHub] Grand Blue Dreaming S03E07 1080p AMZN WEB-DL DDP2.0 H.26...` | **702.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630431) • [🐱 Nyaa](https://nekobt.to/torrents/13158576241931) |
@@ -46,8 +48,6 @@
 | `[Erai-raws] Digimon Beatbreak - 43 [1080p CR WEBRip HEVC AAC][Multi...` | **485.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630421) • [🐱 Nyaa](https://nyaa.si/view/2148197) |
 | `[Erai-raws] Digimon Beatbreak - 43 (REPACK) [1080p CR WEB-DL AVC AA...` | **1379.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630424) • [🐱 Nyaa](https://nyaa.si/view/2148194) |
 | `[Ironclad] Sora wa Akai Kawa no Hotori - S01E07 [WEB.1080p.AV1] | R...` | **193.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630416) • [🐱 Nyaa](https://nyaa.si/view/2148192) |
-| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 07 [1080p CR WE...` | **726.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630408) • [🐱 Nyaa](https://nyaa.si/view/2148191) |
-| `[Erai-raws] Tefuda ga Oome no Victoria - 07 [1080p CR WEBRip HEVC A...` | **403.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/630409) • [🐱 Nyaa](https://nyaa.si/view/2148190) |
 
 ---
 <div align="center">
