@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.38.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.45.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Chiikawa - S01E370 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **21.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630233) • [🐱 Nyaa](https://nekobt.to/torrents/13139761618693) |
+| `[Doomdos] - Ascendants of the Nine Suns - 42 [1080p IQ WEB-DL]` | **161.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630232) • [🐱 Nyaa](https://nyaa.si/view/2147828) |
 | `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E01-E07 (1080...` | **4120.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630229) • [🐱 Nyaa](https://nekobt.to/torrents/13137705643279) |
 | `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E05v2 (1080p ...` | **627.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630224) • [🐱 Nyaa](https://nekobt.to/torrents/13137556886284) |
 | `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E04v2 (1080p ...` | **645.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630225) • [🐱 Nyaa](https://nekobt.to/torrents/13137551326988) |
@@ -43,8 +45,6 @@
 | `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **865.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630217) • [🐱 Nyaa](https://nyaa.si/view/2147807) |
 | `Skeleton Knight in Another World S02E07 The Spirit of Chivalry Bloo...` | **1448.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630216) • [🐱 Nyaa](https://nyaa.si/view/2147804) |
 | `[SubsPlease] Tsue to Tsurugi no Wistoria (01-12) (1080p) [Batch]` | **16632.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630215) • [🐱 Nyaa](https://nyaa.si/view/2147803) |
-| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **192.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630212) • [🐱 Nyaa](https://nyaa.si/view/2147797) |
-| `[DKB] Grand Blue - S03E07 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **289.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/630209) • [🐱 Nyaa](https://nyaa.si/view/2147796) |
 
 ---
 <div align="center">
