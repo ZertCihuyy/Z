@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.14.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.50.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E07 [1080p][HEVC x265 1...` | **233.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/630350) • [🐱 Nyaa](https://nyaa.si/view/2148117) |
+| `[Judas] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagas...` | **183.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630348) • [🐱 Nyaa](https://nyaa.si/view/2148115) |
+| `[RUBaDUB] City Hunter (Movies & TV Specials) (1080p) (Dual Audio)` | **24685.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630349) • [🐱 Nyaa](https://nyaa.si/view/2148114) |
 | `[AnoZu] Yoroi-Shinden Samurai Troopers S01E19 1080p CR WEB-DL AAC 2...` | **1736.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/630334) • [🐱 Nyaa](https://nekobt.to/torrents/13152255171595) |
 | `[AnoZu] Victoria of Many Faces S01E07 1080p CR WEB-DL AAC 2.0 H.264` | **1390.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630335) • [🐱 Nyaa](https://nekobt.to/torrents/13152251329548) |
 | `[ToonsHub] Victoria of Many Faces S01E07 1080p CR WEB-DL AAC2.0 H.2...` | **1386.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/630336) • [🐱 Nyaa](https://nekobt.to/torrents/13152247715086) |
@@ -42,9 +45,6 @@
 | `Victoria of Many Faces S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1381.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630340) • [🐱 Nyaa](https://nekobt.to/torrents/13152182815757) |
 | `[SubsPlease] Yoroi Shin Den Samurai Troopers - 19 (1080p) [E46E104C...` | **1395.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630330) • [🐱 Nyaa](https://nyaa.si/view/2148093) |
 | `[Erai-raws] Tefuda ga Oome no Victoria - 07 [1080p CR WEB-DL AVC AA...` | **1385.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/630329) • [🐱 Nyaa](https://nyaa.si/view/2148095) |
-| `[ToonsHub] Victoria of Many Faces S01E07 1080p BILI WEB-DL AAC2.0 H...` | **256.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630331) • [🐱 Nyaa](https://nyaa.si/view/2148092) |
-| `THE GHOST IN THE SHELL S01E07 MULTi 1080p AMZN WEB-DL DDP2.0 H.265-...` | **887.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630342) • [🐱 Nyaa](https://nekobt.to/torrents/13152132041997) |
-| `THE GHOST IN THE SHELL S01E07 MULTi 1080p AMZN WEB-DL DDP2.0 H.264-...` | **1706.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630343) • [🐱 Nyaa](https://nekobt.to/torrents/13152122241799) |
 
 ---
 <div align="center">
