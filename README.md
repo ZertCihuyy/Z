@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.51.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.39.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Bai Ri Cheng Wang - 17 [1080p HEVC x265 10Bit][AAC]` | **169.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/630253) • [🐱 Nyaa](https://nyaa.si/view/2147887) |
+| `[Gecko] Crowned in a Hundred Days - S01E17 (百日成王; Bai Ri Cheng Wang...` | **154.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630249) • [🐱 Nyaa](https://nekobt.to/torrents/13142134746369) |
+| `[ToonsHub] Crowned in a Hundred Days S01E17 1080p CR WEB-DL AAC2.0 ...` | **618.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630250) • [🐱 Nyaa](https://nekobt.to/torrents/13142123137793) |
+| `Crowned in a Hundred Days S01E17 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **621.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/630247) • [🐱 Nyaa](https://nyaa.si/view/2147874) |
+| `[AnoZu] Crowned in a Hundred Days S01E17 1080p CR WEB-DL AAC 2.0 H....` | **620.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/630248) • [🐱 Nyaa](https://nyaa.si/view/2147872) |
+| `[SubsPlease] Bai Ri Cheng Wang - 17 (1080p) [3BBA298F].mkv` | **617.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630240) • [🐱 Nyaa](https://nyaa.si/view/2147871) |
+| `Crowned in a Hundred Days S01E17 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **616.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630251) • [🐱 Nyaa](https://nekobt.to/torrents/13142031126031) |
+| `[ToonsHub] Crowned in a Hundred Days S01E17 1080p BILI WEB-DL AAC2....` | **150.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630244) • [🐱 Nyaa](https://nyaa.si/view/2147865) |
+| `[Erai-raws] Crowned in a Hundred Days - 17 (CA) [1080p CR WEB-DL AV...` | **507.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630246) • [🐱 Nyaa](https://nyaa.si/view/2147863) |
 | `[MTBB] Mushoku Tensei S3 - 08 (WEB 1080p) [0AFFF640].mkv` | **1637.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630239) • [🐱 Nyaa](https://animetosho.xyz/view/630239) |
 | `[MiniMTBB] Mushoku Tensei S3 - 08 (WEB 1080p) [9CF73707].mkv` | **351.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630238) • [🐱 Nyaa](https://animetosho.xyz/view/630238) |
 | `[ToonsHub] To Be Winner S01E05 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **384.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/630235) • [🐱 Nyaa](https://nyaa.si/view/2147838) |
 | `[RUBaDUB] Angel Heart (Complete) (1080p) (SUB)` | **43966.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630234) • [🐱 Nyaa](https://nyaa.si/view/2147836) |
 | `[Gecko] Chiikawa - S01E370 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **21.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630233) • [🐱 Nyaa](https://nekobt.to/torrents/13139761618693) |
 | `[Doomdos] - Ascendants of the Nine Suns - 42 [1080p IQ WEB-DL]` | **161.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630232) • [🐱 Nyaa](https://nyaa.si/view/2147828) |
-| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E01-E07 (1080...` | **4120.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630229) • [🐱 Nyaa](https://nekobt.to/torrents/13137705643279) |
-| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E05v2 (1080p ...` | **627.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630224) • [🐱 Nyaa](https://nekobt.to/torrents/13137556886284) |
-| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E04v2 (1080p ...` | **645.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630225) • [🐱 Nyaa](https://nekobt.to/torrents/13137551326988) |
-| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E03v3 (1080p ...` | **557.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/630226) • [🐱 Nyaa](https://nekobt.to/torrents/13137545575434) |
-| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E02v2 (1080p ...` | **552.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630227) • [🐱 Nyaa](https://nekobt.to/torrents/13137540005641) |
-| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E01v2 (1080p ...` | **589.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630228) • [🐱 Nyaa](https://nekobt.to/torrents/13137534408971) |
-| `[CrappySubs] Daemons of the Shadow Realm (Yomi no Tsugai) - S01E18 ...` | **1399.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630223) • [🐱 Nyaa](https://nekobt.to/torrents/13137276085771) |
-| `[GalaxyCauldron] Bleach Thousand-Year Blood War - 44 (1080p WEB-DL ...` | **1431.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630222) • [🐱 Nyaa](https://nekobt.to/torrents/13137144328970) |
-| `[Z-A] Dr. Stone Science Future - S04E32 (WEB 1080p AAC)` | **1509.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630221) • [🐱 Nyaa](https://nekobt.to/torrents/13136814696200) |
 
 ---
 <div align="center">
