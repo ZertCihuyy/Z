@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.43.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.14.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `THE GHOST IN THE SHELL S01E07 EPISODE 07 BYE BYE CLAY 1080p AMZN WE...` | **1981.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630320) • [🐱 Nyaa](https://nyaa.si/view/2148078) |
-| `[ToonsHub] THE GHOST IN THE SHELL S01E07 1080p AMZN WEB-DL DUAL DDP...` | **887.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/630318) • [🐱 Nyaa](https://nyaa.si/view/2148077) |
-| `[ToonsHub] THE GHOST IN THE SHELL S01E07 1080p AMZN WEB-DL MULTi DD...` | **1981.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630319) • [🐱 Nyaa](https://nyaa.si/view/2148076) |
-| `[ToonsHub] THE GHOST IN THE SHELL S01E07 1080p AMZN WEB-DL DUAL DDP...` | **1706.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/630317) • [🐱 Nyaa](https://nekobt.to/torrents/13151732001539) |
-| `[ToonsHub] Nano List S01 1080p TVING WEB-DL AAC2.0 H.264 (Multi-Sub...` | **6615.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630316) • [🐱 Nyaa](https://nyaa.si/view/2148074) |
-| `[Onalrie] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nag...` | **161.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630315) • [🐱 Nyaa](https://nekobt.to/torrents/13151535448328) |
-| `[ToonsHub] Saved by the Ice Cold Princes Embrace S01E07 1080p AMZN ...` | **259.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630313) • [🐱 Nyaa](https://nekobt.to/torrents/13151372185607) |
-| `[ASW] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu ...` | **174.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630314) • [🐱 Nyaa](https://nyaa.si/view/2148071) |
-| `[Gecko] Saved by the Ice Cold Prince's Embrace - S01E07 (身代わり令嬢を救った...` | **64.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630312) • [🐱 Nyaa](https://nyaa.si/view/2148070) |
-| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 49 (S04E13)...` | **1472.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630311) • [🐱 Nyaa](https://nyaa.si/view/2148067) |
-| `The Oblivious Saint Cant Contain Her Power S01E08 Episode 8 Jonatha...` | **1409.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630310) • [🐱 Nyaa](https://nyaa.si/view/2148066) |
-| `[ToonsHub] The Oblivious Saint Cant Contain Her Power S01E08 1080p ...` | **1430.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630307) • [🐱 Nyaa](https://nekobt.to/torrents/13150845429766) |
-| `[AnoZu] The Oblivious Saint Can't Contain Her Power S01E08 1080p CR...` | **1411.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630300) • [🐱 Nyaa](https://nyaa.si/view/2148064) |
-| `[SubsPlease] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare ...` | **1382.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/630301) • [🐱 Nyaa](https://nyaa.si/view/2148063) |
-| `The Oblivious Saint Cant Contain Her Power S01E08 SUBFRENCH 1080p C...` | **1387.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630308) • [🐱 Nyaa](https://nekobt.to/torrents/13150794336768) |
+| `[AnoZu] Yoroi-Shinden Samurai Troopers S01E19 1080p CR WEB-DL AAC 2...` | **1736.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/630334) • [🐱 Nyaa](https://nekobt.to/torrents/13152255171595) |
+| `[AnoZu] Victoria of Many Faces S01E07 1080p CR WEB-DL AAC 2.0 H.264` | **1390.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630335) • [🐱 Nyaa](https://nekobt.to/torrents/13152251329548) |
+| `[ToonsHub] Victoria of Many Faces S01E07 1080p CR WEB-DL AAC2.0 H.2...` | **1386.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/630336) • [🐱 Nyaa](https://nekobt.to/torrents/13152247715086) |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 07 [1080p CR WE...` | **1733.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630346) • [🐱 Nyaa](https://nyaa.si/view/2148108) |
+| `Yoroi Shinden Samurai Troopers S01E19 SUBFRENCH 1080p CR WEB-DL AAC...` | **1728.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630337) • [🐱 Nyaa](https://nekobt.to/torrents/13152245692426) |
+| `[ToonsHub] Yoroi-Shinden Samurai Troopers S01E19 1080p CR WEB-DL AA...` | **1734.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/630338) • [🐱 Nyaa](https://nekobt.to/torrents/13152243073034) |
+| `Yoroi Shinden Samurai Troopers S01E19 Collapse 1080p CR WEB-DL AAC2...` | **1733.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630322) • [🐱 Nyaa](https://nyaa.si/view/2148105) |
+| `Victoria of Many Faces S01E07 I Made Great Memories 1080p CR WEB-DL...` | **1387.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630323) • [🐱 Nyaa](https://nyaa.si/view/2148103) |
+| `[SubsPlease] Tefuda ga Oome no Victoria - 07 (1080p) [FBF4C730].mkv` | **1375.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630324) • [🐱 Nyaa](https://nyaa.si/view/2148102) |
+| `Victoria of Many Faces S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1381.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630340) • [🐱 Nyaa](https://nekobt.to/torrents/13152182815757) |
+| `[SubsPlease] Yoroi Shin Den Samurai Troopers - 19 (1080p) [E46E104C...` | **1395.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630330) • [🐱 Nyaa](https://nyaa.si/view/2148093) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 07 [1080p CR WEB-DL AVC AA...` | **1385.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/630329) • [🐱 Nyaa](https://nyaa.si/view/2148095) |
+| `[ToonsHub] Victoria of Many Faces S01E07 1080p BILI WEB-DL AAC2.0 H...` | **256.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630331) • [🐱 Nyaa](https://nyaa.si/view/2148092) |
+| `THE GHOST IN THE SHELL S01E07 MULTi 1080p AMZN WEB-DL DDP2.0 H.265-...` | **887.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630342) • [🐱 Nyaa](https://nekobt.to/torrents/13152132041997) |
+| `THE GHOST IN THE SHELL S01E07 MULTi 1080p AMZN WEB-DL DDP2.0 H.264-...` | **1706.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630343) • [🐱 Nyaa](https://nekobt.to/torrents/13152122241799) |
 
 ---
 <div align="center">
