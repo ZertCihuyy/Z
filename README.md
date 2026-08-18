@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.58.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.43.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `THE GHOST IN THE SHELL S01E07 EPISODE 07 BYE BYE CLAY 1080p AMZN WE...` | **1981.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630320) • [🐱 Nyaa](https://nyaa.si/view/2148078) |
+| `[ToonsHub] THE GHOST IN THE SHELL S01E07 1080p AMZN WEB-DL DUAL DDP...` | **887.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/630318) • [🐱 Nyaa](https://nyaa.si/view/2148077) |
+| `[ToonsHub] THE GHOST IN THE SHELL S01E07 1080p AMZN WEB-DL MULTi DD...` | **1981.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630319) • [🐱 Nyaa](https://nyaa.si/view/2148076) |
+| `[ToonsHub] THE GHOST IN THE SHELL S01E07 1080p AMZN WEB-DL DUAL DDP...` | **1706.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/630317) • [🐱 Nyaa](https://nekobt.to/torrents/13151732001539) |
+| `[ToonsHub] Nano List S01 1080p TVING WEB-DL AAC2.0 H.264 (Multi-Sub...` | **6615.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630316) • [🐱 Nyaa](https://nyaa.si/view/2148074) |
+| `[Onalrie] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nag...` | **161.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630315) • [🐱 Nyaa](https://nekobt.to/torrents/13151535448328) |
+| `[ToonsHub] Saved by the Ice Cold Princes Embrace S01E07 1080p AMZN ...` | **259.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630313) • [🐱 Nyaa](https://nekobt.to/torrents/13151372185607) |
+| `[ASW] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu ...` | **174.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630314) • [🐱 Nyaa](https://nyaa.si/view/2148071) |
+| `[Gecko] Saved by the Ice Cold Prince's Embrace - S01E07 (身代わり令嬢を救った...` | **64.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630312) • [🐱 Nyaa](https://nyaa.si/view/2148070) |
 | `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 49 (S04E13)...` | **1472.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630311) • [🐱 Nyaa](https://nyaa.si/view/2148067) |
 | `The Oblivious Saint Cant Contain Her Power S01E08 Episode 8 Jonatha...` | **1409.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630310) • [🐱 Nyaa](https://nyaa.si/view/2148066) |
 | `[ToonsHub] The Oblivious Saint Cant Contain Her Power S01E08 1080p ...` | **1430.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630307) • [🐱 Nyaa](https://nekobt.to/torrents/13150845429766) |
 | `[AnoZu] The Oblivious Saint Can't Contain Her Power S01E08 1080p CR...` | **1411.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630300) • [🐱 Nyaa](https://nyaa.si/view/2148064) |
 | `[SubsPlease] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare ...` | **1382.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/630301) • [🐱 Nyaa](https://nyaa.si/view/2148063) |
 | `The Oblivious Saint Cant Contain Her Power S01E08 SUBFRENCH 1080p C...` | **1387.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630308) • [🐱 Nyaa](https://nekobt.to/torrents/13150794336768) |
-| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **1390.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630305) • [🐱 Nyaa](https://nyaa.si/view/2148057) |
-| `[Shridhuu][1080p] Beyond Time's Gaze - 光阴之外 (Guangyin Zhi Wai) - EP35` | **506.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/630297) • [🐱 Nyaa](https://nyaa.si/view/2148053) |
-| `[Onalrie] Kimi ga Shinu made Koi wo Shitai - S01E07 [1080p WEBRip AV1]` | **163.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630296) • [🐱 Nyaa](https://nekobt.to/torrents/13150611471875) |
-| `[Gecko] The World Is Dancing - S01E08 (ワールド イズ ダンシング; World Is Danc...` | **705.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630294) • [🐱 Nyaa](https://nekobt.to/torrents/13150490561282) |
-| `[ASW] Kimi ga Shinu made Koi wo Shitai - 07 [1080p HEVC x265 10Bit]...` | **192.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630295) • [🐱 Nyaa](https://nyaa.si/view/2148048) |
-| `[Gecko] GROW UP SHOW -Sunflower Circus- - S01E07 (グロウアップショウ ～ひまわりのサ...` | **703.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630290) • [🐱 Nyaa](https://nekobt.to/torrents/13149994639116) |
-| `I Want to Love You Till Your Dying Day S01E07 Not Afraid Anymore 10...` | **1385.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630287) • [🐱 Nyaa](https://nyaa.si/view/2148039) |
-| `[AnoZu] I Want to Love You Till Your Dying Day S01E07 1080p CR WEB-...` | **1389.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/630288) • [🐱 Nyaa](https://nyaa.si/view/2148038) |
-| `[ToonsHub] I Want to Love You Till Your Dying Day S01E07 1080p CR W...` | **1386.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630289) • [🐱 Nyaa](https://nyaa.si/view/2148037) |
 
 ---
 <div align="center">
