@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.34.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.01.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kozame] Odekake Kozame (Little Shark's Outings) - 79 [1080p] [1578...` | **23.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630428) • [🐱 Nyaa](https://nyaa.si/view/2148205) |
+| `[VoidWalkers] Chainsaw Man Season 1 (2022) [BD][1080p Multi Opus AV...` | **4732.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630429) • [🐱 Nyaa](https://nekobt.to/torrents/13157240460037) |
 | `[anime4life.] Charlotte BD_1080p LPCM Dual Audio` | **16754.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630427) • [🐱 Nyaa](https://nyaa.si/view/2148204) |
 | `[LinRip] Mobile Suit Gundam GQuuuuuuX -Beginning- [BDRip 1080p HEVC...` | **5923.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630425) • [🐱 Nyaa](https://nyaa.si/view/2148203) |
 | `[Erai-raws] One Piece - 1174 [1080p CR WEBRip HEVC AAC][MultiSub][5...` | **658.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630417) • [🐱 Nyaa](https://nyaa.si/view/2148201) |
@@ -46,8 +48,6 @@
 | `[Erai-raws] Sora wa Akai Kawa no Hotori - 07 [1080p CR WEBRip HEVC ...` | **413.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630411) • [🐱 Nyaa](https://nyaa.si/view/2148188) |
 | `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **358.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630412) • [🐱 Nyaa](https://nyaa.si/view/2148187) |
 | `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 07 [1080p CR WEBRip ...` | **389.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630413) • [🐱 Nyaa](https://nyaa.si/view/2148186) |
-| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **283.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630414) • [🐱 Nyaa](https://nyaa.si/view/2148185) |
-| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **457.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630415) • [🐱 Nyaa](https://nyaa.si/view/2148184) |
 
 ---
 <div align="center">
