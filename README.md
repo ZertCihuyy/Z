@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.14.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.00.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **168.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630399) • [🐱 Nyaa](https://nekobt.to/torrents/13155610271746) |
+| `[ASW] Sora wa Akai Kawa no Hotori - 07 [1080p HEVC x265 10Bit][AAC]` | **253.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630397) • [🐱 Nyaa](https://nyaa.si/view/2148170) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 07 [1080p AMZN WEBRip HEVC EA...` | **813.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630398) • [🐱 Nyaa](https://nyaa.si/view/2148169) |
+| `[DKB] The Ghost in the Shell - S01E07 [1080p][HEVC x265 10bit][Dual...` | **902.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630396) • [🐱 Nyaa](https://nyaa.si/view/2148168) |
+| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E07 [1080p WEBRip AV1]` | **225.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630395) • [🐱 Nyaa](https://onalrie.app/torrent/878fe84b-6c94-4ccd-9fff-b58384085406) |
+| `[Ny] Link Click - S04E01 (WEBRip 1920x800 HEVC AAC) | Shiguang Dail...` | **1962.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630393) • [🐱 Nyaa](https://nekobt.to/torrents/13155141393922) |
+| `[MariMax] Yamishibai: Japanese Ghost Stories - S17 E06 (1080p WEB-D...` | **49.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630394) • [🐱 Nyaa](https://nekobt.to/torrents/13155070516228) |
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 07 [1080p] [AV1] (Weekly)` | **115.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630386) • [🐱 Nyaa](https://nyaa.si/view/2148167) |
 | `[denisplay] Kuroneko to Majo no Kyoushitsu - 19 [1080p] [AV1] (Week...` | **511.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630389) • [🐱 Nyaa](https://nyaa.si/view/2148164) |
 | `[HatSubs] One Piece 1174 (WEB 1080p) [5EED7E71].mkv` | **1376.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630392) • [🐱 Nyaa](https://nyaa.si/view/2148161) |
@@ -41,13 +48,6 @@
 | `Red River 2026 S01E07 Cold Lips 1080p CR WEB-DL AAC2.0 H.264-VARYG ...` | **1342.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630370) • [🐱 Nyaa](https://nyaa.si/view/2148158) |
 | `[AnoZu] Red River S01E07 1080p CR WEB-DL AAC 2.0 H.264 | Sora wa Ak...` | **1344.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630371) • [🐱 Nyaa](https://nyaa.si/view/2148157) |
 | `[SubsPlease] Sora wa Akai Kawa no Hotori - 07 (1080p) [D8BE1FFD].mkv` | **1333.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630372) • [🐱 Nyaa](https://nyaa.si/view/2148156) |
-| `[Onalrie] Koukaku Kidoutai (2026) - S01E07 [1080p WEBRip AV1]` | **465.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630378) • [🐱 Nyaa](https://nekobt.to/torrents/13154589716485) |
-| `[Ironclad] THE GHOST IN THE SHELL - S01E07 [WEB.1080p.AV1] | THE GH...` | **739.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630375) • [🐱 Nyaa](https://nyaa.si/view/2148153) |
-| `Red River 2026 S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsunder...` | **1338.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630380) • [🐱 Nyaa](https://nekobt.to/torrents/13154563028495) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 07 [1080p CR WEB-DL AVC A...` | **1341.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/630379) • [🐱 Nyaa](https://nyaa.si/view/2148149) |
-| `[VoidWalkers] Chainsaw Man Season 1 (2022) [BD][1080p Multi Opus AV...` | **4732.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630382) • [🐱 Nyaa](https://nekobt.to/torrents/13154551065600) |
-| `[CrappySubs] Daemons of the Shadow Realm (Yomi no Tsugai) - S01E19 ...` | **1410.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630369) • [🐱 Nyaa](https://nekobt.to/torrents/13154234862594) |
-| `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **229.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/630368) • [🐱 Nyaa](https://nyaa.si/view/2148142) |
 
 ---
 <div align="center">
