@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.41.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.15.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Crowned in a Hundred Days - S01E17 (CA) [1080p WEBRip AV1]` | **117.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630259) • [🐱 Nyaa](https://nekobt.to/torrents/13145577456902) |
 | `[Shridhuu][1080p] Golden Curse - God of Wealth Dou Zhanlong - 财神窦占龙...` | **518.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630256) • [🐱 Nyaa](https://nyaa.si/view/2147906) |
 | `[Breeze] Mushoku Tensei S03E05 [1080p AV1 Dual Audio] | Jobless Rei...` | **885.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630255) • [🐱 Nyaa](https://nyaa.si/view/2147900) |
 | `[Breeze] Mushoku Tensei S03E08 [1080p AV1] | Jobless Reincarnation ...` | **718.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/630254) • [🐱 Nyaa](https://nyaa.si/view/2147899) |
@@ -44,7 +45,6 @@
 | `[Erai-raws] Crowned in a Hundred Days - 17 (CA) [1080p CR WEB-DL AV...` | **507.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630246) • [🐱 Nyaa](https://nyaa.si/view/2147863) |
 | `[MTBB] Mushoku Tensei S3 - 08 (WEB 1080p) [0AFFF640].mkv` | **1637.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630239) • [🐱 Nyaa](https://animetosho.xyz/view/630239) |
 | `[MiniMTBB] Mushoku Tensei S3 - 08 (WEB 1080p) [9CF73707].mkv` | **351.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630238) • [🐱 Nyaa](https://animetosho.xyz/view/630238) |
-| `[ToonsHub] To Be Winner S01E05 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **384.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/630235) • [🐱 Nyaa](https://nyaa.si/view/2147838) |
 
 ---
 <div align="center">
