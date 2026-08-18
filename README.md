@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.59.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.51.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[MTBB] Mushoku Tensei S3 - 08 (WEB 1080p) [0AFFF640].mkv` | **1637.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630239) • [🐱 Nyaa](https://animetosho.xyz/view/630239) |
+| `[MiniMTBB] Mushoku Tensei S3 - 08 (WEB 1080p) [9CF73707].mkv` | **351.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630238) • [🐱 Nyaa](https://animetosho.xyz/view/630238) |
 | `[ToonsHub] To Be Winner S01E05 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **384.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/630235) • [🐱 Nyaa](https://nyaa.si/view/2147838) |
 | `[RUBaDUB] Angel Heart (Complete) (1080p) (SUB)` | **43966.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630234) • [🐱 Nyaa](https://nyaa.si/view/2147836) |
 | `[Gecko] Chiikawa - S01E370 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **21.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630233) • [🐱 Nyaa](https://nekobt.to/torrents/13139761618693) |
@@ -43,8 +45,6 @@
 | `[CrappySubs] Daemons of the Shadow Realm (Yomi no Tsugai) - S01E18 ...` | **1399.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630223) • [🐱 Nyaa](https://nekobt.to/torrents/13137276085771) |
 | `[GalaxyCauldron] Bleach Thousand-Year Blood War - 44 (1080p WEB-DL ...` | **1431.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630222) • [🐱 Nyaa](https://nekobt.to/torrents/13137144328970) |
 | `[Z-A] Dr. Stone Science Future - S04E32 (WEB 1080p AAC)` | **1509.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630221) • [🐱 Nyaa](https://nekobt.to/torrents/13136814696200) |
-| `[SubsPlease] Tsue to Tsurugi no Wistoria S2 (00-12) (1080p) [Batch]` | **18009.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630218) • [🐱 Nyaa](https://nyaa.si/view/2147811) |
-| `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **865.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630217) • [🐱 Nyaa](https://nyaa.si/view/2147807) |
 
 ---
 <div align="center">
