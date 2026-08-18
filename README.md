@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.45.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.59.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] To Be Winner S01E05 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **384.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/630235) • [🐱 Nyaa](https://nyaa.si/view/2147838) |
+| `[RUBaDUB] Angel Heart (Complete) (1080p) (SUB)` | **43966.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630234) • [🐱 Nyaa](https://nyaa.si/view/2147836) |
 | `[Gecko] Chiikawa - S01E370 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **21.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630233) • [🐱 Nyaa](https://nekobt.to/torrents/13139761618693) |
 | `[Doomdos] - Ascendants of the Nine Suns - 42 [1080p IQ WEB-DL]` | **161.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630232) • [🐱 Nyaa](https://nyaa.si/view/2147828) |
 | `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E01-E07 (1080...` | **4120.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630229) • [🐱 Nyaa](https://nekobt.to/torrents/13137705643279) |
@@ -43,8 +45,6 @@
 | `[Z-A] Dr. Stone Science Future - S04E32 (WEB 1080p AAC)` | **1509.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630221) • [🐱 Nyaa](https://nekobt.to/torrents/13136814696200) |
 | `[SubsPlease] Tsue to Tsurugi no Wistoria S2 (00-12) (1080p) [Batch]` | **18009.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630218) • [🐱 Nyaa](https://nyaa.si/view/2147811) |
 | `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **865.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630217) • [🐱 Nyaa](https://nyaa.si/view/2147807) |
-| `Skeleton Knight in Another World S02E07 The Spirit of Chivalry Bloo...` | **1448.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630216) • [🐱 Nyaa](https://nyaa.si/view/2147804) |
-| `[SubsPlease] Tsue to Tsurugi no Wistoria (01-12) (1080p) [Batch]` | **16632.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630215) • [🐱 Nyaa](https://nyaa.si/view/2147803) |
 
 ---
 <div align="center">
