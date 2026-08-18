@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.48.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.50.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Shridhuu][1080p] Golden Curse - God of Wealth Dou Zhanlong - 财神窦占龙...` | **518.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630256) • [🐱 Nyaa](https://nyaa.si/view/2147906) |
+| `[Breeze] Mushoku Tensei S03E05 [1080p AV1 Dual Audio] | Jobless Rei...` | **885.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630255) • [🐱 Nyaa](https://nyaa.si/view/2147900) |
+| `[Breeze] Mushoku Tensei S03E08 [1080p AV1] | Jobless Reincarnation ...` | **718.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/630254) • [🐱 Nyaa](https://nyaa.si/view/2147899) |
 | `[ASW] Bai Ri Cheng Wang - 17 [1080p HEVC x265 10Bit][AAC]` | **169.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/630253) • [🐱 Nyaa](https://nyaa.si/view/2147887) |
 | `[Gecko] Crowned in a Hundred Days - S01E17 (百日成王; Bai Ri Cheng Wang...` | **154.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630249) • [🐱 Nyaa](https://nekobt.to/torrents/13142134746369) |
 | `[ToonsHub] Crowned in a Hundred Days S01E17 1080p CR WEB-DL AAC2.0 ...` | **618.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630250) • [🐱 Nyaa](https://nekobt.to/torrents/13142123137793) |
@@ -42,9 +45,6 @@
 | `[MTBB] Mushoku Tensei S3 - 08 (WEB 1080p) [0AFFF640].mkv` | **1637.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630239) • [🐱 Nyaa](https://animetosho.xyz/view/630239) |
 | `[MiniMTBB] Mushoku Tensei S3 - 08 (WEB 1080p) [9CF73707].mkv` | **351.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630238) • [🐱 Nyaa](https://animetosho.xyz/view/630238) |
 | `[ToonsHub] To Be Winner S01E05 1080p BSITE WEB-DL AAC2.0 H.264 (Che...` | **384.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/630235) • [🐱 Nyaa](https://nyaa.si/view/2147838) |
-| `[RUBaDUB] Angel Heart (Complete) (1080p) (SUB)` | **43966.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630234) • [🐱 Nyaa](https://nyaa.si/view/2147836) |
-| `[Gecko] Chiikawa - S01E370 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **21.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630233) • [🐱 Nyaa](https://nekobt.to/torrents/13139761618693) |
-| `[Doomdos] - Ascendants of the Nine Suns - 42 [1080p IQ WEB-DL]` | **161.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630232) • [🐱 Nyaa](https://nyaa.si/view/2147828) |
 
 ---
 <div align="center">
