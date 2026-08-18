@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.00.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.41.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ommex] Doraemon (2005) Episode 928 [ENG SUB][1080p x265 AAC]` | **296.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630401) • [🐱 Nyaa](https://nyaa.si/view/2148175) |
 | `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **168.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630399) • [🐱 Nyaa](https://nekobt.to/torrents/13155610271746) |
 | `[ASW] Sora wa Akai Kawa no Hotori - 07 [1080p HEVC x265 10Bit][AAC]` | **253.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630397) • [🐱 Nyaa](https://nyaa.si/view/2148170) |
 | `[Erai-raws] Koukaku Kidoutai (2026) - 07 [1080p AMZN WEBRip HEVC EA...` | **813.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630398) • [🐱 Nyaa](https://nyaa.si/view/2148169) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] Red River 2026 S01E07 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1342.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630384) • [🐱 Nyaa](https://nyaa.si/view/2148159) |
 | `Red River 2026 S01E07 Cold Lips 1080p CR WEB-DL AAC2.0 H.264-VARYG ...` | **1342.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630370) • [🐱 Nyaa](https://nyaa.si/view/2148158) |
 | `[AnoZu] Red River S01E07 1080p CR WEB-DL AAC 2.0 H.264 | Sora wa Ak...` | **1344.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630371) • [🐱 Nyaa](https://nyaa.si/view/2148157) |
-| `[SubsPlease] Sora wa Akai Kawa no Hotori - 07 (1080p) [D8BE1FFD].mkv` | **1333.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630372) • [🐱 Nyaa](https://nyaa.si/view/2148156) |
 
 ---
 <div align="center">
