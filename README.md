@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.49.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.32.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Shridhuu][1080p] Golden Curse - God of Wealth Dou Zhanlong - 财神窦占龙...` | **525.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630263) • [🐱 Nyaa](https://nyaa.si/view/2147983) |
+| `Magilumiere Magical Girls Inc S02E07 MULTi 1080p AMZN WEB-DL DDP2.0...` | **316.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630260) • [🐱 Nyaa](https://nekobt.to/torrents/13147472795907) |
+| `Magilumiere Magical Girls Inc S02E07 MULTi 1080p AMZN WEB-DL DDP2.0...` | **841.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630261) • [🐱 Nyaa](https://nekobt.to/torrents/13147466054919) |
+| `Magilumiere Magical Girls Inc S02E07 MULTi 1080p AMZN WEB-DL DDP2.0...` | **255.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630262) • [🐱 Nyaa](https://nekobt.to/torrents/13147459824899) |
 | `[Onalrie] Crowned in a Hundred Days - S01E17 (CA) [1080p WEBRip AV1]` | **117.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630259) • [🐱 Nyaa](https://nekobt.to/torrents/13145577456902) |
 | `[Shridhuu][1080p] Golden Curse - God of Wealth Dou Zhanlong - 财神窦占龙...` | **518.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630256) • [🐱 Nyaa](https://nyaa.si/view/2147906) |
 | `[Breeze] Mushoku Tensei S03E05 [1080p AV1 Dual Audio] | Jobless Rei...` | **885.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630255) • [🐱 Nyaa](https://nyaa.si/view/2147900) |
@@ -41,10 +45,6 @@
 | `[AnoZu] Crowned in a Hundred Days S01E17 1080p CR WEB-DL AAC 2.0 H....` | **620.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/630248) • [🐱 Nyaa](https://nyaa.si/view/2147872) |
 | `[SubsPlease] Bai Ri Cheng Wang - 17 (1080p) [3BBA298F].mkv` | **617.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630240) • [🐱 Nyaa](https://nyaa.si/view/2147871) |
 | `Crowned in a Hundred Days S01E17 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **616.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630251) • [🐱 Nyaa](https://nekobt.to/torrents/13142031126031) |
-| `[ToonsHub] Crowned in a Hundred Days S01E17 1080p BILI WEB-DL AAC2....` | **150.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630244) • [🐱 Nyaa](https://nyaa.si/view/2147865) |
-| `[Erai-raws] Crowned in a Hundred Days - 17 (CA) [1080p CR WEB-DL AV...` | **507.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630246) • [🐱 Nyaa](https://nyaa.si/view/2147863) |
-| `[MTBB] Mushoku Tensei S3 - 08 (WEB 1080p) [0AFFF640].mkv` | **1637.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630239) • [🐱 Nyaa](https://animetosho.xyz/view/630239) |
-| `[MiniMTBB] Mushoku Tensei S3 - 08 (WEB 1080p) [9CF73707].mkv` | **351.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630238) • [🐱 Nyaa](https://animetosho.xyz/view/630238) |
 
 ---
 <div align="center">
