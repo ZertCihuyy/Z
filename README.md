@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.50.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.36.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E07 [...` | **739.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630357) • [🐱 Nyaa](https://nyaa.si/view/2148131) |
+| `[Onalrie] Tefuda ga Oome no Victoria - S01E07 [1080p WEBRip AV1]` | **193.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/630354) • [🐱 Nyaa](https://nekobt.to/torrents/13153342915085) |
+| `[ASW] Yoroi Shin Den Samurai Troopers - 19 [1080p HEVC x265 10Bit][...` | **691.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/630355) • [🐱 Nyaa](https://nyaa.si/view/2148122) |
+| `[yolerejiju] Little Witch Academia 2013 (BD 1080p HEVC x265 Opus - ...` | **3923.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630356) • [🐱 Nyaa](https://nyaa.si/view/2148121) |
+| `[ASW] Tefuda ga Oome no Victoria - 07 [1080p HEVC x265 10Bit][AAC]` | **234.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630352) • [🐱 Nyaa](https://nyaa.si/view/2148119) |
+| `[Breeze] Mushoku Tensei S03E06 [1080p AV1 Dual Audio] | Jobless Rei...` | **818.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/630353) • [🐱 Nyaa](https://nyaa.si/view/2148118) |
+| `[Onalrie] Yoroi-Shinden Samurai Troopers - S02E07 [1080p WEBRip AV1]` | **467.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630351) • [🐱 Nyaa](https://nekobt.to/torrents/13152970573833) |
 | `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E07 [1080p][HEVC x265 1...` | **233.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/630350) • [🐱 Nyaa](https://nyaa.si/view/2148117) |
 | `[Judas] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagas...` | **183.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630348) • [🐱 Nyaa](https://nyaa.si/view/2148115) |
 | `[RUBaDUB] City Hunter (Movies & TV Specials) (1080p) (Dual Audio)` | **24685.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630349) • [🐱 Nyaa](https://nyaa.si/view/2148114) |
@@ -38,13 +45,6 @@
 | `[ToonsHub] Victoria of Many Faces S01E07 1080p CR WEB-DL AAC2.0 H.2...` | **1386.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/630336) • [🐱 Nyaa](https://nekobt.to/torrents/13152247715086) |
 | `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 07 [1080p CR WE...` | **1733.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630346) • [🐱 Nyaa](https://nyaa.si/view/2148108) |
 | `Yoroi Shinden Samurai Troopers S01E19 SUBFRENCH 1080p CR WEB-DL AAC...` | **1728.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630337) • [🐱 Nyaa](https://nekobt.to/torrents/13152245692426) |
-| `[ToonsHub] Yoroi-Shinden Samurai Troopers S01E19 1080p CR WEB-DL AA...` | **1734.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/630338) • [🐱 Nyaa](https://nekobt.to/torrents/13152243073034) |
-| `Yoroi Shinden Samurai Troopers S01E19 Collapse 1080p CR WEB-DL AAC2...` | **1733.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630322) • [🐱 Nyaa](https://nyaa.si/view/2148105) |
-| `Victoria of Many Faces S01E07 I Made Great Memories 1080p CR WEB-DL...` | **1387.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630323) • [🐱 Nyaa](https://nyaa.si/view/2148103) |
-| `[SubsPlease] Tefuda ga Oome no Victoria - 07 (1080p) [FBF4C730].mkv` | **1375.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630324) • [🐱 Nyaa](https://nyaa.si/view/2148102) |
-| `Victoria of Many Faces S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1381.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630340) • [🐱 Nyaa](https://nekobt.to/torrents/13152182815757) |
-| `[SubsPlease] Yoroi Shin Den Samurai Troopers - 19 (1080p) [E46E104C...` | **1395.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630330) • [🐱 Nyaa](https://nyaa.si/view/2148093) |
-| `[Erai-raws] Tefuda ga Oome no Victoria - 07 [1080p CR WEB-DL AVC AA...` | **1385.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/630329) • [🐱 Nyaa](https://nyaa.si/view/2148095) |
 
 ---
 <div align="center">
