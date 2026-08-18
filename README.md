@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.03.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.42.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AnoZu] Young Ladies Don't Play Fighting Games S01E07 1080p CR WEB-...` | **1417.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/630274) • [🐱 Nyaa](https://nekobt.to/torrents/13148998860296) |
+| `[ToonsHub] Young Ladies Dont Play Fighting Games S01E07 1080p CR WE...` | **1433.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630267) • [🐱 Nyaa](https://nyaa.si/view/2148003) |
+| `[SubsPlease] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai...` | **1386.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630268) • [🐱 Nyaa](https://nyaa.si/view/2148001) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **1394.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630273) • [🐱 Nyaa](https://nyaa.si/view/2147994) |
+| `[Gecko] Rilakkuma - S01E20 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **45.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/630266) • [🐱 Nyaa](https://nekobt.to/torrents/13148671659532) |
 | `[Shridhuu][1080p] Golden Curse - God of Wealth Dou Zhanlong - 财神窦占龙...` | **525.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630263) • [🐱 Nyaa](https://nyaa.si/view/2147983) |
 | `Magilumiere Magical Girls Inc S02E07 MULTi 1080p AMZN WEB-DL DDP2.0...` | **316.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630260) • [🐱 Nyaa](https://nekobt.to/torrents/13147472795907) |
 | `Magilumiere Magical Girls Inc S02E07 MULTi 1080p AMZN WEB-DL DDP2.0...` | **841.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630261) • [🐱 Nyaa](https://nekobt.to/torrents/13147466054919) |
@@ -40,11 +45,6 @@
 | `[Breeze] Mushoku Tensei S03E08 [1080p AV1] | Jobless Reincarnation ...` | **718.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/630254) • [🐱 Nyaa](https://nyaa.si/view/2147899) |
 | `[ASW] Bai Ri Cheng Wang - 17 [1080p HEVC x265 10Bit][AAC]` | **169.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/630253) • [🐱 Nyaa](https://nyaa.si/view/2147887) |
 | `[Gecko] Crowned in a Hundred Days - S01E17 (百日成王; Bai Ri Cheng Wang...` | **154.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630249) • [🐱 Nyaa](https://nekobt.to/torrents/13142134746369) |
-| `[ToonsHub] Crowned in a Hundred Days S01E17 1080p CR WEB-DL AAC2.0 ...` | **618.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630250) • [🐱 Nyaa](https://nekobt.to/torrents/13142123137793) |
-| `Crowned in a Hundred Days S01E17 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **621.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/630247) • [🐱 Nyaa](https://nyaa.si/view/2147874) |
-| `[AnoZu] Crowned in a Hundred Days S01E17 1080p CR WEB-DL AAC 2.0 H....` | **620.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/630248) • [🐱 Nyaa](https://nyaa.si/view/2147872) |
-| `[SubsPlease] Bai Ri Cheng Wang - 17 (1080p) [3BBA298F].mkv` | **617.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630240) • [🐱 Nyaa](https://nyaa.si/view/2147871) |
-| `Crowned in a Hundred Days S01E17 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **616.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630251) • [🐱 Nyaa](https://nekobt.to/torrents/13142031126031) |
 
 ---
 <div align="center">
