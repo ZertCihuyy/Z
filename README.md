@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.41.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.59.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 07 [1080p CR WE...` | **726.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630408) • [🐱 Nyaa](https://nyaa.si/view/2148191) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 07 [1080p CR WEBRip HEVC A...` | **403.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/630409) • [🐱 Nyaa](https://nyaa.si/view/2148190) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **713.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630410) • [🐱 Nyaa](https://nyaa.si/view/2148189) |
+| `[Erai-raws] Sora wa Akai Kawa no Hotori - 07 [1080p CR WEBRip HEVC ...` | **413.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630411) • [🐱 Nyaa](https://nyaa.si/view/2148188) |
+| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **358.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630412) • [🐱 Nyaa](https://nyaa.si/view/2148187) |
+| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 07 [1080p CR WEBRip ...` | **389.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630413) • [🐱 Nyaa](https://nyaa.si/view/2148186) |
+| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **283.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630414) • [🐱 Nyaa](https://nyaa.si/view/2148185) |
+| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **457.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630415) • [🐱 Nyaa](https://nyaa.si/view/2148184) |
+| `[Erai-raws] Liar Game - 20 [1080p CR WEBRip HEVC AAC][MultiSub][283...` | **429.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630405) • [🐱 Nyaa](https://nyaa.si/view/2148183) |
+| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **594.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/630406) • [🐱 Nyaa](https://nyaa.si/view/2148182) |
+| `[Erai-raws] Grand Blue Season 3 - 07 [1080p CR WEBRip HEVC AAC][Mul...` | **423.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/630407) • [🐱 Nyaa](https://nyaa.si/view/2148181) |
+| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **794.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/630402) • [🐱 Nyaa](https://nekobt.to/torrents/13156598897415) |
+| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 07 [1080...` | **263.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630403) • [🐱 Nyaa](https://nekobt.to/torrents/13156597875974) |
+| `[Erai-raws] Crowned in a Hundred Days - 17 (CA) [1080p CR WEBRip HE...` | **218.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630404) • [🐱 Nyaa](https://nekobt.to/torrents/13156597640709) |
 | `[Ommex] Doraemon (2005) Episode 928 [ENG SUB][1080p x265 AAC]` | **296.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630401) • [🐱 Nyaa](https://nyaa.si/view/2148175) |
-| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **168.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630399) • [🐱 Nyaa](https://nekobt.to/torrents/13155610271746) |
-| `[ASW] Sora wa Akai Kawa no Hotori - 07 [1080p HEVC x265 10Bit][AAC]` | **253.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630397) • [🐱 Nyaa](https://nyaa.si/view/2148170) |
-| `[Erai-raws] Koukaku Kidoutai (2026) - 07 [1080p AMZN WEBRip HEVC EA...` | **813.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630398) • [🐱 Nyaa](https://nyaa.si/view/2148169) |
-| `[DKB] The Ghost in the Shell - S01E07 [1080p][HEVC x265 10bit][Dual...` | **902.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630396) • [🐱 Nyaa](https://nyaa.si/view/2148168) |
-| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E07 [1080p WEBRip AV1]` | **225.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630395) • [🐱 Nyaa](https://onalrie.app/torrent/878fe84b-6c94-4ccd-9fff-b58384085406) |
-| `[Ny] Link Click - S04E01 (WEBRip 1920x800 HEVC AAC) | Shiguang Dail...` | **1962.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630393) • [🐱 Nyaa](https://nekobt.to/torrents/13155141393922) |
-| `[MariMax] Yamishibai: Japanese Ghost Stories - S17 E06 (1080p WEB-D...` | **49.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630394) • [🐱 Nyaa](https://nekobt.to/torrents/13155070516228) |
-| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 07 [1080p] [AV1] (Weekly)` | **115.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630386) • [🐱 Nyaa](https://nyaa.si/view/2148167) |
-| `[denisplay] Kuroneko to Majo no Kyoushitsu - 19 [1080p] [AV1] (Week...` | **511.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630389) • [🐱 Nyaa](https://nyaa.si/view/2148164) |
-| `[HatSubs] One Piece 1174 (WEB 1080p) [5EED7E71].mkv` | **1376.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630392) • [🐱 Nyaa](https://nyaa.si/view/2148161) |
-| `[Judas] Kimi ga Shinu made Koi o Shitai (I Want to Love You Till Yo...` | **196.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630385) • [🐱 Nyaa](https://nyaa.si/view/2148160) |
-| `[ToonsHub] Red River 2026 S01E07 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1342.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630384) • [🐱 Nyaa](https://nyaa.si/view/2148159) |
-| `Red River 2026 S01E07 Cold Lips 1080p CR WEB-DL AAC2.0 H.264-VARYG ...` | **1342.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630370) • [🐱 Nyaa](https://nyaa.si/view/2148158) |
-| `[AnoZu] Red River S01E07 1080p CR WEB-DL AAC 2.0 H.264 | Sora wa Ak...` | **1344.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630371) • [🐱 Nyaa](https://nyaa.si/view/2148157) |
 
 ---
 <div align="center">
