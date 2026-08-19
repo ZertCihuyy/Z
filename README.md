@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.33.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.04.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Dogulwang - 07 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **512.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630678) • [🐱 Nyaa](https://nyaa.si/view/2148680) |
+| `[FBI] Re:Zero Starting Life in Another World - S04E13 (CR WEB-DL 10...` | **1696.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630679) • [🐱 Nyaa](https://nyaa.si/view/2148679) |
+| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 07 [1080p AMZN ...` | **372.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/630680) • [🐱 Nyaa](https://nyaa.si/view/2148678) |
+| `[sam] The Ghost in the Shell (2026) - S01E07 (WEB 1080p HEVC x265 1...` | **4806.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/630677) • [🐱 Nyaa](https://nyaa.si/view/2148677) |
 | `[denisplay]  Youjo Senki S2 - 07 [1080p] [AV1] (Weekly) (Youjo Senk...` | **215.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630674) • [🐱 Nyaa](https://nyaa.si/view/2148671) |
 | `[Gecko] Candy Caries - S01E19 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **52.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630673) • [🐱 Nyaa](https://nyaa.si/view/2148668) |
 | `[DKB] LV999 no Murabito - S01E09 [1080p][HEVC x265 10bit][Multi-Sub...` | **193.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630672) • [🐱 Nyaa](https://nyaa.si/view/2148667) |
@@ -44,10 +48,6 @@
 | `[Onalrie] Thunder 3 - S01E07 [1080p WEBRip AV1]` | **286.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630666) • [🐱 Nyaa](https://nekobt.to/torrents/13177216769802) |
 | `[Erai-raws] Lv999 no Murabito - 09 [1080p CR WEBRip HEVC AAC][Multi...` | **334.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/630665) • [🐱 Nyaa](https://nyaa.si/view/2148655) |
 | `[VARYG] Trapped in a Dating Sim The World of Otome Games is Tough f...` | **1518.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630664) • [🐱 Nyaa](https://nekobt.to/torrents/13177074697990) |
-| `[Ironclad] From Old Country Bumpkin to Master Swordsman - S02E07 (W...` | **348.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630663) • [🐱 Nyaa](https://nekobt.to/torrents/13176926327557) |
-| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E07 [1080p][HEVC x265...` | **366.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630662) • [🐱 Nyaa](https://nyaa.si/view/2148647) |
-| `[Doomdos] - Tomb Raider King - 7 [1080p IQ WEB-DL]` | **321.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/630652) • [🐱 Nyaa](https://nyaa.si/view/2148646) |
-| `[ToonsHub] Tomb Raider King S01E04 1080p CR WEB-DL MULTi AAC2.0 H.2...` | **1908.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/630650) • [🐱 Nyaa](https://nekobt.to/torrents/13176675109129) |
 
 ---
 <div align="center">
