@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.41.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.02.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Clevatess II - 07 [1080p CR WEB-DL AVC AAC][MultiSub][C...` | **1387.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630463) • [🐱 Nyaa](https://nyaa.si/view/2148364) |
+| `[ToonsHub] Clevatess S02E07 1080p BILI WEB-DL AAC2.0 H.265 (Clevate...` | **328.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630465) • [🐱 Nyaa](https://nyaa.si/view/2148361) |
+| `[ToonsHub] Fabulous Beasts S06E04 1080p BILI WEB-DL AAC2.0 H.265 (Y...` | **130.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630461) • [🐱 Nyaa](https://nyaa.si/view/2148352) |
+| `[vLbE3L] THE GHOST IN THE SHELL S01E07 [1080p AMZN WEBRip VVC xHE-A...` | **351.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630462) • [🐱 Nyaa](https://nekobt.to/torrents/13171260979727) |
+| `[LbE3L] THE GHOST IN THE SHELL S01E07 [1080p AMZN WEB-DL AV1 (Muxed...` | **786.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630460) • [🐱 Nyaa](https://nekobt.to/torrents/13171215796740) |
 | `[RUBaDUB] Dragon Ball Daima (Complete) (1080p) (Dual Audio)` | **23844.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630459) • [🐱 Nyaa](https://nyaa.si/view/2148348) |
 | `[Gecko] Cat Tales - S01E45 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **41.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630458) • [🐱 Nyaa](https://nekobt.to/torrents/13170688235781) |
 | `[ToonsHub] Cat Tales S01E45 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **54.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/630457) • [🐱 Nyaa](https://nyaa.si/view/2148342) |
@@ -43,11 +48,6 @@
 | `[Blazing] Honoo no Toukyuujo - Dodge Danko - 07 (1080p) [H8B14CK5]` | **1111.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630452) • [🐱 Nyaa](https://nyaa.si/view/2148295) |
 | `[Kotobuki] Koukaku Kidoutai (2026) 07 [1080p HEVC Multisub] | The G...` | **283.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630451) • [🐱 Nyaa](https://nyaa.si/view/2148294) |
 | `[FrixySubs] Oh Boy, Was I Wrong About Her - S01E07 [1080p CR WEB-DL...` | **1395.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630449) • [🐱 Nyaa](https://nekobt.to/torrents/13165216496645) |
-| `[Freehold] By the Grace of the Gods Season 2 [Bluray-1080p x265 Opu...` | **7580.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630447) • [🐱 Nyaa](https://nekobt.to/torrents/13164435029517) |
-| `[Freehold] By the Grace of the Gods Season 1 [Bluray-1080p x264 Opu...` | **10764.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630448) • [🐱 Nyaa](https://nekobt.to/torrents/13164377426437) |
-| `[Gecko] Fabulous Beasts - S06E04 (有兽焉; You Shou Yan 6th Season) [BI...` | **134.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/630446) • [🐱 Nyaa](https://nekobt.to/torrents/13162749017614) |
-| `[Reza] THE GHOST IN THE SHELL (2026) - S01E07 [WEBRip HEVC 1080p EA...` | **6053.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630445) • [🐱 Nyaa](https://nyaa.si/view/2148264) |
-| `[Doomdos] - UNDER THE GATE - 9 [1080p IQ WEB-DL]` | **161.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630444) • [🐱 Nyaa](https://nyaa.si/view/2148263) |
 
 ---
 <div align="center">
