@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.47.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.01.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Fabulous Beasts - S06E04 (有兽焉; You Shou Yan 6th Season) [BI...` | **134.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/630446) • [🐱 Nyaa](https://nekobt.to/torrents/13162749017614) |
+| `[Reza] THE GHOST IN THE SHELL (2026) - S01E07 [WEBRip HEVC 1080p EA...` | **6053.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630445) • [🐱 Nyaa](https://nyaa.si/view/2148264) |
+| `[Doomdos] - UNDER THE GATE - 9 [1080p IQ WEB-DL]` | **161.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630444) • [🐱 Nyaa](https://nyaa.si/view/2148263) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E11 1080p BILI WEB-DL ...` | **298.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630443) • [🐱 Nyaa](https://nyaa.si/view/2148260) |
 | `[ToonsHub] Raised by Demons Panda Li S01E06 1080p iQ WEB-DL AAC2.0 ...` | **328.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630442) • [🐱 Nyaa](https://nyaa.si/view/2148256) |
 | `[Doomdos] - Raised by Demons Panda Li - 6 [1080p IQ WEB-DL]` | **328.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630441) • [🐱 Nyaa](https://nyaa.si/view/2148254) |
 | `[Ironclad] Frieren: Beyond Journey's End - S02 (BD 1080p AV1) | Sou...` | **5824.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630440) • [🐱 Nyaa](https://nekobt.to/torrents/13161015825677) |
@@ -44,10 +48,6 @@
 | `[Judas] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga ...` | **164.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630434) • [🐱 Nyaa](https://nyaa.si/view/2148227) |
 | `[Judas] One Piece - 1174 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **406.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/630433) • [🐱 Nyaa](https://nyaa.si/view/2148226) |
 | `[ToonsHub] Grand Blue Dreaming S03E07 1080p AMZN WEB-DL DDP2.0 H.26...` | **702.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630431) • [🐱 Nyaa](https://nekobt.to/torrents/13158576241931) |
-| `[sam] Grand Blue Dreaming - S03E06 (WEB 1080p HEVC x265 10-bit EAC-3)` | **1737.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/630430) • [🐱 Nyaa](https://nyaa.si/view/2148223) |
-| `[Kozame] Odekake Kozame (Little Shark's Outings) - 79 [1080p] [1578...` | **23.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630428) • [🐱 Nyaa](https://nyaa.si/view/2148205) |
-| `[VoidWalkers] Chainsaw Man Season 1 (2022) [BD][1080p Multi Opus AV...` | **4732.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630429) • [🐱 Nyaa](https://nekobt.to/torrents/13157240460037) |
-| `[anime4life.] Charlotte BD_1080p LPCM Dual Audio` | **16754.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630427) • [🐱 Nyaa](https://nyaa.si/view/2148204) |
 
 ---
 <div align="center">
