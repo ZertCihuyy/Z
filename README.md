@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.01.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.54.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Dogulwang - S01E07 (JA) [1080p WEBRip AV1]` | **251.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/630668) • [🐱 Nyaa](https://nekobt.to/torrents/13177634139140) |
+| `[ASW] Toukutsu Ou - 07 [1080p HEVC x265 10Bit][AAC]` | **320.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630667) • [🐱 Nyaa](https://nyaa.si/view/2148656) |
+| `[Onalrie] Thunder 3 - S01E07 [1080p WEBRip AV1]` | **286.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630666) • [🐱 Nyaa](https://nekobt.to/torrents/13177216769802) |
+| `[Erai-raws] Lv999 no Murabito - 09 [1080p CR WEBRip HEVC AAC][Multi...` | **334.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/630665) • [🐱 Nyaa](https://nyaa.si/view/2148655) |
+| `[VARYG] Trapped in a Dating Sim The World of Otome Games is Tough f...` | **1518.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630664) • [🐱 Nyaa](https://nekobt.to/torrents/13177074697990) |
 | `[Ironclad] From Old Country Bumpkin to Master Swordsman - S02E07 (W...` | **348.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630663) • [🐱 Nyaa](https://nekobt.to/torrents/13176926327557) |
 | `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E07 [1080p][HEVC x265...` | **366.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630662) • [🐱 Nyaa](https://nyaa.si/view/2148647) |
 | `[Doomdos] - Tomb Raider King - 7 [1080p IQ WEB-DL]` | **321.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/630652) • [🐱 Nyaa](https://nyaa.si/view/2148646) |
@@ -43,11 +48,6 @@
 | `[Erai-raws] Hanazakari no Kimitachi e S02E09 [1080p CR WEBRip HEVC ...` | **462.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630653) • [🐱 Nyaa](https://nekobt.to/torrents/13176641310466) |
 | `Tomb Raider King S01E07 Restoration of Relics 1080p CR WEB-DL AAC2....` | **1352.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630649) • [🐱 Nyaa](https://nyaa.si/view/2148635) |
 | `[Onalrie] Lv999 no Murabito - S01E09 [1080p WEBRip AV1]` | **154.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630656) • [🐱 Nyaa](https://nekobt.to/torrents/13176596793863) |
-| `[ToonsHub] Tomb Raider King S01E07 1080p CR WEB-DL AAC2.0 H.264 (Do...` | **1680.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630643) • [🐱 Nyaa](https://nyaa.si/view/2148633) |
-| `[ToonsHub] Tomb Raider King S01E07 1080p CR WEB-DL AAC2.0 H.264 (Do...` | **1652.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/630644) • [🐱 Nyaa](https://nyaa.si/view/2148632) |
-| `[AnoZu] Tomb Raider King S01E07 1080p CR WEB-DL AAC 2.0 H.264 | Dog...` | **1685.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/630645) • [🐱 Nyaa](https://nyaa.si/view/2148631) |
-| `[SubsPlease] Toukutsu Ou - 07 (1080p) [93C2C269].mkv` | **1345.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630646) • [🐱 Nyaa](https://nyaa.si/view/2148630) |
-| `Tomb Raider King S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsun...` | **1649.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/630660) • [🐱 Nyaa](https://nekobt.to/torrents/13176549870852) |
 
 ---
 <div align="center">
