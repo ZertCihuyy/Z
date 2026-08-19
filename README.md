@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.02.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.10.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[geckyzz] Perfect Addiction - S01E07 (パーフェクトアディクション) [OVEIL.WEB-DL ...` | **403.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630485) • [🐱 Nyaa](https://nyaa.si/view/2148417) |
+| `[ASW] Clevatess S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **457.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630483) • [🐱 Nyaa](https://nyaa.si/view/2148414) |
+| `[Onalrie] Clevatess - S02E07 [1080p WEBRip AV1]` | **191.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630482) • [🐱 Nyaa](https://nekobt.to/torrents/13172100011278) |
+| `[ToonsHub] Clevatess S02E07 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1667.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630481) • [🐱 Nyaa](https://nekobt.to/torrents/13171964736522) |
+| `[GHOST] Fate/Grand Order Zettai Majuu Sensen Babylonia Recaps (BD 1...` | **2996.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630480) • [🐱 Nyaa](https://nyaa.si/view/2148408) |
+| `[Hentai] Ushiro no Shoumen Kamui-san - 01 [WEB 1080p DDP 2.0. H 264...` | **655.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630479) • [🐱 Nyaa](https://nyaa.si/view/2148407) |
+| `[VARYG] Clevatess S02E07 The World We See And the Hidden World 1080...` | **1440.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630478) • [🐱 Nyaa](https://nekobt.to/torrents/13171778406918) |
+| `[Doomdos] - Clevatess II - 7 [1080p IQ WEB-DL]` | **357.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630476) • [🐱 Nyaa](https://nyaa.si/view/2148380) |
+| `[AnoZu] Clevatess S02E07 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264 |...` | **1452.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630477) • [🐱 Nyaa](https://nyaa.si/view/2148375) |
+| `[ToonsHub] Clevatess S02E07 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1421.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630466) • [🐱 Nyaa](https://nekobt.to/torrents/13171589375745) |
+| `[Yameii] Clevatess - S02E07 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1384.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630467) • [🐱 Nyaa](https://nekobt.to/torrents/13171579656456) |
+| `[SubsPlease] Clevatess S2 - 07 (1080p) [4528EC65].mkv` | **1380.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630472) • [🐱 Nyaa](https://nyaa.si/view/2148370) |
+| `Clevatess S02E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1384.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630469) • [🐱 Nyaa](https://nekobt.to/torrents/13171537619461) |
 | `[Erai-raws] Clevatess II - 07 [1080p CR WEB-DL AVC AAC][MultiSub][C...` | **1387.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630463) • [🐱 Nyaa](https://nyaa.si/view/2148364) |
 | `[ToonsHub] Clevatess S02E07 1080p BILI WEB-DL AAC2.0 H.265 (Clevate...` | **328.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630465) • [🐱 Nyaa](https://nyaa.si/view/2148361) |
-| `[ToonsHub] Fabulous Beasts S06E04 1080p BILI WEB-DL AAC2.0 H.265 (Y...` | **130.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630461) • [🐱 Nyaa](https://nyaa.si/view/2148352) |
-| `[vLbE3L] THE GHOST IN THE SHELL S01E07 [1080p AMZN WEBRip VVC xHE-A...` | **351.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630462) • [🐱 Nyaa](https://nekobt.to/torrents/13171260979727) |
-| `[LbE3L] THE GHOST IN THE SHELL S01E07 [1080p AMZN WEB-DL AV1 (Muxed...` | **786.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630460) • [🐱 Nyaa](https://nekobt.to/torrents/13171215796740) |
-| `[RUBaDUB] Dragon Ball Daima (Complete) (1080p) (Dual Audio)` | **23844.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630459) • [🐱 Nyaa](https://nyaa.si/view/2148348) |
-| `[Gecko] Cat Tales - S01E45 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **41.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630458) • [🐱 Nyaa](https://nekobt.to/torrents/13170688235781) |
-| `[ToonsHub] Cat Tales S01E45 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **54.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/630457) • [🐱 Nyaa](https://nyaa.si/view/2148342) |
-| `Daemons of the Shadow Realm S01E07 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **967.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630454) • [🐱 Nyaa](https://nekobt.to/torrents/13169602503438) |
-| `Daemons of the Shadow Realm S01E07 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **313.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630455) • [🐱 Nyaa](https://nekobt.to/torrents/13169598031887) |
-| `Daemons of the Shadow Realm S01E07 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **295.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630456) • [🐱 Nyaa](https://nekobt.to/torrents/13169595612678) |
-| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep06 (1080...` | **817.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630453) • [🐱 Nyaa](https://nekobt.to/torrents/13169472750856) |
-| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 07 (1080p) [H8B14CK5]` | **1111.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630452) • [🐱 Nyaa](https://nyaa.si/view/2148295) |
-| `[Kotobuki] Koukaku Kidoutai (2026) 07 [1080p HEVC Multisub] | The G...` | **283.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630451) • [🐱 Nyaa](https://nyaa.si/view/2148294) |
-| `[FrixySubs] Oh Boy, Was I Wrong About Her - S01E07 [1080p CR WEB-DL...` | **1395.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630449) • [🐱 Nyaa](https://nekobt.to/torrents/13165216496645) |
 
 ---
 <div align="center">
