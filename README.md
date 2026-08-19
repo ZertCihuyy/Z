@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.29.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.53.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] LV999 no Murabito - S01E09 [1080p][HEVC x265 10bit][Multi-Sub...` | **193.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630672) • [🐱 Nyaa](https://nyaa.si/view/2148667) |
 | `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E07 [1080...` | **251.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630671) • [🐱 Nyaa](https://nyaa.si/view/2148664) |
 | `[Onalrie] Dogulwang - S01E07 (KA) [1080p WEBRip AV1]` | **248.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630670) • [🐱 Nyaa](https://nekobt.to/torrents/13178061293580) |
 | `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 07 [108...` | **372.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/630669) • [🐱 Nyaa](https://nyaa.si/view/2148662) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] Tomb Raider King S01E04 1080p CR WEB-DL MULTi AAC2.0 H.2...` | **1908.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/630650) • [🐱 Nyaa](https://nekobt.to/torrents/13176675109129) |
 | `[VARYG] Tomb Raider King S01E04 The One Who Stole the Future 1080p ...` | **1824.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630651) • [🐱 Nyaa](https://nekobt.to/torrents/13176663258378) |
 | `[Erai-raws] Dogulwang - 07 (KA) [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1654.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630654) • [🐱 Nyaa](https://nyaa.si/view/2148642) |
-| `[Erai-raws] Dogulwang - 07 (JA) [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1664.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630655) • [🐱 Nyaa](https://nyaa.si/view/2148641) |
 
 ---
 <div align="center">
