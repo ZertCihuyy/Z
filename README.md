@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.59.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.46.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Freehold] By the Grace of the Gods Season 2 [Bluray-1080p x265 Opu...` | **7580.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630447) • [🐱 Nyaa](https://nekobt.to/torrents/13164435029517) |
+| `[Freehold] By the Grace of the Gods Season 1 [Bluray-1080p x264 Opu...` | **10764.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630448) • [🐱 Nyaa](https://nekobt.to/torrents/13164377426437) |
 | `[Gecko] Fabulous Beasts - S06E04 (有兽焉; You Shou Yan 6th Season) [BI...` | **134.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/630446) • [🐱 Nyaa](https://nekobt.to/torrents/13162749017614) |
 | `[Reza] THE GHOST IN THE SHELL (2026) - S01E07 [WEBRip HEVC 1080p EA...` | **6053.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630445) • [🐱 Nyaa](https://nyaa.si/view/2148264) |
 | `[Doomdos] - UNDER THE GATE - 9 [1080p IQ WEB-DL]` | **161.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630444) • [🐱 Nyaa](https://nyaa.si/view/2148263) |
@@ -46,8 +48,6 @@
 | `[BlackRose] Rich Girl Caretaker - S01E07 (WEB 1080p HEVC 10-bit EAC...` | **1313.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630436) • [🐱 Nyaa](https://nekobt.to/torrents/13159390581769) |
 | `[ToonsHub] Flaming Dodgeball Girl Danko S01E07 1080p AMZN WEB-DL DD...` | **1112.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630435) • [🐱 Nyaa](https://nyaa.si/view/2148228) |
 | `[Judas] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga ...` | **164.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630434) • [🐱 Nyaa](https://nyaa.si/view/2148227) |
-| `[Judas] One Piece - 1174 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **406.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/630433) • [🐱 Nyaa](https://nyaa.si/view/2148226) |
-| `[ToonsHub] Grand Blue Dreaming S03E07 1080p AMZN WEB-DL DDP2.0 H.26...` | **702.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630431) • [🐱 Nyaa](https://nekobt.to/torrents/13158576241931) |
 
 ---
 <div align="center">
