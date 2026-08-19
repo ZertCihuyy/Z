@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.02.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.43.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Saga of Tanya the Evil S02E04 Operation Iron Hammer 1080p CR WEB-DL...` | **1457.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630683) • [🐱 Nyaa](https://nyaa.si/view/2148684) |
 | `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E08 (1080p WE...` | **596.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630682) • [🐱 Nyaa](https://nekobt.to/torrents/13180540381960) |
 | `[Erai-raws] Dogulwang - 07 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **505.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630681) • [🐱 Nyaa](https://nekobt.to/torrents/13180468819983) |
 | `[Erai-raws] Dogulwang - 07 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **512.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630678) • [🐱 Nyaa](https://nyaa.si/view/2148680) |
@@ -47,7 +48,6 @@
 | `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 07 [108...` | **372.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/630669) • [🐱 Nyaa](https://nyaa.si/view/2148662) |
 | `[Onalrie] Dogulwang - S01E07 (JA) [1080p WEBRip AV1]` | **251.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/630668) • [🐱 Nyaa](https://nekobt.to/torrents/13177634139140) |
 | `[ASW] Toukutsu Ou - 07 [1080p HEVC x265 10Bit][AAC]` | **320.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630667) • [🐱 Nyaa](https://nyaa.si/view/2148656) |
-| `[Onalrie] Thunder 3 - S01E07 [1080p WEBRip AV1]` | **286.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630666) • [🐱 Nyaa](https://nekobt.to/torrents/13177216769802) |
 
 ---
 <div align="center">
