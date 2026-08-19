@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.03.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.41.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[RUBaDUB] Dragon Ball Daima (Complete) (1080p) (Dual Audio)` | **23844.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630459) • [🐱 Nyaa](https://nyaa.si/view/2148348) |
+| `[Gecko] Cat Tales - S01E45 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **41.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630458) • [🐱 Nyaa](https://nekobt.to/torrents/13170688235781) |
+| `[ToonsHub] Cat Tales S01E45 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **54.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/630457) • [🐱 Nyaa](https://nyaa.si/view/2148342) |
 | `Daemons of the Shadow Realm S01E07 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **967.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630454) • [🐱 Nyaa](https://nekobt.to/torrents/13169602503438) |
 | `Daemons of the Shadow Realm S01E07 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **313.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630455) • [🐱 Nyaa](https://nekobt.to/torrents/13169598031887) |
 | `Daemons of the Shadow Realm S01E07 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **295.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630456) • [🐱 Nyaa](https://nekobt.to/torrents/13169595612678) |
@@ -45,9 +48,6 @@
 | `[Gecko] Fabulous Beasts - S06E04 (有兽焉; You Shou Yan 6th Season) [BI...` | **134.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/630446) • [🐱 Nyaa](https://nekobt.to/torrents/13162749017614) |
 | `[Reza] THE GHOST IN THE SHELL (2026) - S01E07 [WEBRip HEVC 1080p EA...` | **6053.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630445) • [🐱 Nyaa](https://nyaa.si/view/2148264) |
 | `[Doomdos] - UNDER THE GATE - 9 [1080p IQ WEB-DL]` | **161.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630444) • [🐱 Nyaa](https://nyaa.si/view/2148263) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E11 1080p BILI WEB-DL ...` | **298.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630443) • [🐱 Nyaa](https://nyaa.si/view/2148260) |
-| `[ToonsHub] Raised by Demons Panda Li S01E06 1080p iQ WEB-DL AAC2.0 ...` | **328.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630442) • [🐱 Nyaa](https://nyaa.si/view/2148256) |
-| `[Doomdos] - Raised by Demons Panda Li - 6 [1080p IQ WEB-DL]` | **328.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630441) • [🐱 Nyaa](https://nyaa.si/view/2148254) |
 
 ---
 <div align="center">
