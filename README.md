@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.53.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.33.02_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[denisplay]  Youjo Senki S2 - 07 [1080p] [AV1] (Weekly) (Youjo Senk...` | **215.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630674) • [🐱 Nyaa](https://nyaa.si/view/2148671) |
+| `[Gecko] Candy Caries - S01E19 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **52.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630673) • [🐱 Nyaa](https://nyaa.si/view/2148668) |
 | `[DKB] LV999 no Murabito - S01E09 [1080p][HEVC x265 10bit][Multi-Sub...` | **193.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630672) • [🐱 Nyaa](https://nyaa.si/view/2148667) |
 | `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E07 [1080...` | **251.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630671) • [🐱 Nyaa](https://nyaa.si/view/2148664) |
 | `[Onalrie] Dogulwang - S01E07 (KA) [1080p WEBRip AV1]` | **248.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630670) • [🐱 Nyaa](https://nekobt.to/torrents/13178061293580) |
@@ -46,8 +48,6 @@
 | `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E07 [1080p][HEVC x265...` | **366.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630662) • [🐱 Nyaa](https://nyaa.si/view/2148647) |
 | `[Doomdos] - Tomb Raider King - 7 [1080p IQ WEB-DL]` | **321.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/630652) • [🐱 Nyaa](https://nyaa.si/view/2148646) |
 | `[ToonsHub] Tomb Raider King S01E04 1080p CR WEB-DL MULTi AAC2.0 H.2...` | **1908.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/630650) • [🐱 Nyaa](https://nekobt.to/torrents/13176675109129) |
-| `[VARYG] Tomb Raider King S01E04 The One Who Stole the Future 1080p ...` | **1824.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630651) • [🐱 Nyaa](https://nekobt.to/torrents/13176663258378) |
-| `[Erai-raws] Dogulwang - 07 (KA) [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1654.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630654) • [🐱 Nyaa](https://nyaa.si/view/2148642) |
 
 ---
 <div align="center">
