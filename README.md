@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.58.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.47.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Raised by Demons Panda Li S01E06 1080p iQ WEB-DL AAC2.0 ...` | **328.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630442) • [🐱 Nyaa](https://nyaa.si/view/2148256) |
+| `[Doomdos] - Raised by Demons Panda Li - 6 [1080p IQ WEB-DL]` | **328.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630441) • [🐱 Nyaa](https://nyaa.si/view/2148254) |
+| `[Ironclad] Frieren: Beyond Journey's End - S02 (BD 1080p AV1) | Sou...` | **5824.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630440) • [🐱 Nyaa](https://nekobt.to/torrents/13161015825677) |
 | `[ToonsHub] KAMUI Hes Behind You S00E07 1080p AMZN WEB-DL DDP2.0 H.2...` | **366.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630438) • [🐱 Nyaa](https://nyaa.si/view/2148236) |
 | `[FuyuPOP] Yani Neko - Ep07 (1080p x265 AAC WEB)` | **578.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630439) • [🐱 Nyaa](https://nekobt.to/torrents/13160025721612) |
 | `[ToonsHub] KAMUI Hes Behind You S01E07 REPACK 1080p UNCENSORED AMZN...` | **458.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630437) • [🐱 Nyaa](https://nyaa.si/view/2148235) |
@@ -45,9 +48,6 @@
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 79 [1080p] [1578...` | **23.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630428) • [🐱 Nyaa](https://nyaa.si/view/2148205) |
 | `[VoidWalkers] Chainsaw Man Season 1 (2022) [BD][1080p Multi Opus AV...` | **4732.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630429) • [🐱 Nyaa](https://nekobt.to/torrents/13157240460037) |
 | `[anime4life.] Charlotte BD_1080p LPCM Dual Audio` | **16754.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630427) • [🐱 Nyaa](https://nyaa.si/view/2148204) |
-| `[LinRip] Mobile Suit Gundam GQuuuuuuX -Beginning- [BDRip 1080p HEVC...` | **5923.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630425) • [🐱 Nyaa](https://nyaa.si/view/2148203) |
-| `[Erai-raws] One Piece - 1174 [1080p CR WEBRip HEVC AAC][MultiSub][5...` | **658.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630417) • [🐱 Nyaa](https://nyaa.si/view/2148201) |
-| `[Erai-raws] One Piece - 1174 [1080p CR WEB-DL AVC AAC][MultiSub][64...` | **1179.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/630420) • [🐱 Nyaa](https://nyaa.si/view/2148198) |
 
 ---
 <div align="center">
