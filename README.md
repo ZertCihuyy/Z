@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.59.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.38.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Daemons of the Shadow Realm S01E07 MULTi 1080p NF WEB-DL AAC2.0 x26...` | **967.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630454) • [🐱 Nyaa](https://nekobt.to/torrents/13169602503438) |
+| `Daemons of the Shadow Realm S01E07 MULTi 1080p NF WEB-DL AAC2.0 H.2...` | **313.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630455) • [🐱 Nyaa](https://nekobt.to/torrents/13169598031887) |
+| `Daemons of the Shadow Realm S01E07 MULTi 1080p NF WEB-DL AAC2.0 AV1...` | **295.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630456) • [🐱 Nyaa](https://nekobt.to/torrents/13169595612678) |
 | `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep06 (1080...` | **817.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630453) • [🐱 Nyaa](https://nekobt.to/torrents/13169472750856) |
 | `[Blazing] Honoo no Toukyuujo - Dodge Danko - 07 (1080p) [H8B14CK5]` | **1111.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630452) • [🐱 Nyaa](https://nyaa.si/view/2148295) |
 | `[Kotobuki] Koukaku Kidoutai (2026) 07 [1080p HEVC Multisub] | The G...` | **283.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630451) • [🐱 Nyaa](https://nyaa.si/view/2148294) |
@@ -45,9 +48,6 @@
 | `[ToonsHub] The Eternal Supreme Li Yunxiao S01E11 1080p BILI WEB-DL ...` | **298.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630443) • [🐱 Nyaa](https://nyaa.si/view/2148260) |
 | `[ToonsHub] Raised by Demons Panda Li S01E06 1080p iQ WEB-DL AAC2.0 ...` | **328.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630442) • [🐱 Nyaa](https://nyaa.si/view/2148256) |
 | `[Doomdos] - Raised by Demons Panda Li - 6 [1080p IQ WEB-DL]` | **328.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630441) • [🐱 Nyaa](https://nyaa.si/view/2148254) |
-| `[Ironclad] Frieren: Beyond Journey's End - S02 (BD 1080p AV1) | Sou...` | **5824.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630440) • [🐱 Nyaa](https://nekobt.to/torrents/13161015825677) |
-| `[ToonsHub] KAMUI Hes Behind You S00E07 1080p AMZN WEB-DL DDP2.0 H.2...` | **366.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630438) • [🐱 Nyaa](https://nyaa.si/view/2148236) |
-| `[FuyuPOP] Yani Neko - Ep07 (1080p x265 AAC WEB)` | **578.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630439) • [🐱 Nyaa](https://nekobt.to/torrents/13160025721612) |
 
 ---
 <div align="center">
