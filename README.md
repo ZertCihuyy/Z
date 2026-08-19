@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.42.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.02.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E08 (1080p WE...` | **596.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630682) • [🐱 Nyaa](https://nekobt.to/torrents/13180540381960) |
+| `[Erai-raws] Dogulwang - 07 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **505.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630681) • [🐱 Nyaa](https://nekobt.to/torrents/13180468819983) |
 | `[Erai-raws] Dogulwang - 07 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **512.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630678) • [🐱 Nyaa](https://nyaa.si/view/2148680) |
 | `[FBI] Re:Zero Starting Life in Another World - S04E13 (CR WEB-DL 10...` | **1696.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630679) • [🐱 Nyaa](https://nyaa.si/view/2148679) |
 | `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 07 [1080p AMZN ...` | **372.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/630680) • [🐱 Nyaa](https://nyaa.si/view/2148678) |
@@ -46,8 +48,6 @@
 | `[Onalrie] Dogulwang - S01E07 (JA) [1080p WEBRip AV1]` | **251.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/630668) • [🐱 Nyaa](https://nekobt.to/torrents/13177634139140) |
 | `[ASW] Toukutsu Ou - 07 [1080p HEVC x265 10Bit][AAC]` | **320.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630667) • [🐱 Nyaa](https://nyaa.si/view/2148656) |
 | `[Onalrie] Thunder 3 - S01E07 [1080p WEBRip AV1]` | **286.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630666) • [🐱 Nyaa](https://nekobt.to/torrents/13177216769802) |
-| `[Erai-raws] Lv999 no Murabito - 09 [1080p CR WEBRip HEVC AAC][Multi...` | **334.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/630665) • [🐱 Nyaa](https://nyaa.si/view/2148655) |
-| `[VARYG] Trapped in a Dating Sim The World of Otome Games is Tough f...` | **1518.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630664) • [🐱 Nyaa](https://nekobt.to/torrents/13177074697990) |
 
 ---
 <div align="center">
