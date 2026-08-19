@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.58.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.44.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Saga of Tanya the Evil S02E07 1080p CR WEB-DL AAC2.0 H.2...` | **1389.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630493) • [🐱 Nyaa](https://nekobt.to/torrents/13173017726213) |
-| `[AnoZu] Saga of Tanya the Evil S02E07 1080p CR WEB-DL AAC 2.0 H.264...` | **1394.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630491) • [🐱 Nyaa](https://nyaa.si/view/2148433) |
-| `Saga of Tanya the Evil S02E07 Purgatory 1080p CR WEB-DL AAC2.0 H.26...` | **1391.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630492) • [🐱 Nyaa](https://nyaa.si/view/2148432) |
-| `[SubsPlease] Youjo Senki S2 - 07 (1080p) [FD3A00C4].mkv` | **1380.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630494) • [🐱 Nyaa](https://nyaa.si/view/2148431) |
-| `Saga of Tanya the Evil S02E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1386.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630495) • [🐱 Nyaa](https://nekobt.to/torrents/13172909768195) |
-| `[Erai-raws] Youjo Senki II - 07 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1389.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630490) • [🐱 Nyaa](https://nyaa.si/view/2148422) |
-| `[geckyzz] Perfect Addiction - S01E07 (パーフェクトアディクション) [YTB.WEB-DL 10...` | **45.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/630486) • [🐱 Nyaa](https://nyaa.si/view/2148420) |
-| `[ToonsHub] Perfect Addiction S01E07 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **167.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630487) • [🐱 Nyaa](https://nyaa.si/view/2148419) |
-| `[geckyzz] Perfect Addiction - S01E07 (パーフェクトアディクション) [OVEIL.WEB-DL ...` | **403.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630485) • [🐱 Nyaa](https://nyaa.si/view/2148417) |
-| `[ASW] Clevatess S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **457.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630483) • [🐱 Nyaa](https://nyaa.si/view/2148414) |
-| `[Onalrie] Clevatess - S02E07 [1080p WEBRip AV1]` | **191.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630482) • [🐱 Nyaa](https://nekobt.to/torrents/13172100011278) |
-| `[ToonsHub] Clevatess S02E07 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1667.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630481) • [🐱 Nyaa](https://nekobt.to/torrents/13171964736522) |
-| `[GHOST] Fate/Grand Order Zettai Majuu Sensen Babylonia Recaps (BD 1...` | **2996.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630480) • [🐱 Nyaa](https://nyaa.si/view/2148408) |
-| `[Hentai] Ushiro no Shoumen Kamui-san - 01 [WEB 1080p DDP 2.0. H 264...` | **655.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630479) • [🐱 Nyaa](https://nyaa.si/view/2148407) |
-| `[VARYG] Clevatess S02E07 The World We See And the Hidden World 1080...` | **1440.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630478) • [🐱 Nyaa](https://nekobt.to/torrents/13171778406918) |
+| `[ToonsHub] Heroine Saint No Im an All-Works Maid And Proud of It S0...` | **1423.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630527) • [🐱 Nyaa](https://nyaa.si/view/2148479) |
+| `[VARYG] My Stepmother and Stepsisters Arent Wicked S01E07 The Kouno...` | **676.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630520) • [🐱 Nyaa](https://nekobt.to/torrents/13173855016970) |
+| `[SubsPlease] All Works Maid - 09 (1080p) [9AF19FBE].mkv` | **1375.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630526) • [🐱 Nyaa](https://nyaa.si/view/2148473) |
+| `[VARYG] Heroine Saint No Im an All Works Maid And Proud of It S01E0...` | **1402.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630521) • [🐱 Nyaa](https://nekobt.to/torrents/13173846251269) |
+| `My Stepmother and Stepsisters Arent Wicked S01E07 SUBFRENCH 1080p A...` | **577.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630522) • [🐱 Nyaa](https://nekobt.to/torrents/13173838575108) |
+| `Heroine Saint No Im an All Works Maid And Proud of It S01E09 SUBFRE...` | **1379.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/630524) • [🐱 Nyaa](https://nekobt.to/torrents/13173831283969) |
+| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 09 [10...` | **1384.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630519) • [🐱 Nyaa](https://nyaa.si/view/2148463) |
+| `[Onalrie] Youjo Senki - S02E07 [1080p WEBRip AV1]` | **192.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/630514) • [🐱 Nyaa](https://nekobt.to/torrents/13173644996103) |
+| `[ToonsHub] ReZERO -Starting Life in Another World- S04E13 1080p CR ...` | **1717.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/630511) • [🐱 Nyaa](https://nekobt.to/torrents/13173545466126) |
+| `[ASW] Youjo Senki S2 - 07 [1080p HEVC x265 10Bit][AAC]` | **246.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630513) • [🐱 Nyaa](https://nyaa.si/view/2148458) |
+| `Re ZERO Starting Life in Another World S04E13 Stand Up 1080p CR WEB...` | **1721.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/630510) • [🐱 Nyaa](https://nyaa.si/view/2148457) |
+| `[AnoZu] Re: ZERO, Starting Life in Another World S04E13 1080p CR WE...` | **1720.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630504) • [🐱 Nyaa](https://nyaa.si/view/2148455) |
+| `[ToonsHub] ReZERO Starting Life in Another World S04E13 1080p BILI ...` | **302.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630505) • [🐱 Nyaa](https://nyaa.si/view/2148454) |
+| `[SubsPlease] Re Zero kara Hajimeru Isekai Seikatsu - 79 (1080p) [0C...` | **1693.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630506) • [🐱 Nyaa](https://nyaa.si/view/2148453) |
+| `Re ZERO Starting Life in Another World S04E13 SUBFRENCH 1080p CR WE...` | **1696.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630512) • [🐱 Nyaa](https://nekobt.to/torrents/13173376537606) |
 
 ---
 <div align="center">
