@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.16.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.59.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FuyuPOP] Buchigire Reijou wa Houfuku wo Chikaimashita - Ep06 (1080...` | **817.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630453) • [🐱 Nyaa](https://nekobt.to/torrents/13169472750856) |
 | `[Blazing] Honoo no Toukyuujo - Dodge Danko - 07 (1080p) [H8B14CK5]` | **1111.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630452) • [🐱 Nyaa](https://nyaa.si/view/2148295) |
 | `[Kotobuki] Koukaku Kidoutai (2026) 07 [1080p HEVC Multisub] | The G...` | **283.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630451) • [🐱 Nyaa](https://nyaa.si/view/2148294) |
 | `[FrixySubs] Oh Boy, Was I Wrong About Her - S01E07 [1080p CR WEB-DL...` | **1395.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630449) • [🐱 Nyaa](https://nekobt.to/torrents/13165216496645) |
@@ -47,7 +48,6 @@
 | `[Ironclad] Frieren: Beyond Journey's End - S02 (BD 1080p AV1) | Sou...` | **5824.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630440) • [🐱 Nyaa](https://nekobt.to/torrents/13161015825677) |
 | `[ToonsHub] KAMUI Hes Behind You S00E07 1080p AMZN WEB-DL DDP2.0 H.2...` | **366.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630438) • [🐱 Nyaa](https://nyaa.si/view/2148236) |
 | `[FuyuPOP] Yani Neko - Ep07 (1080p x265 AAC WEB)` | **578.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630439) • [🐱 Nyaa](https://nekobt.to/torrents/13160025721612) |
-| `[ToonsHub] KAMUI Hes Behind You S01E07 REPACK 1080p UNCENSORED AMZN...` | **458.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630437) • [🐱 Nyaa](https://nyaa.si/view/2148235) |
 
 ---
 <div align="center">
