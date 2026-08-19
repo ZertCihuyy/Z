@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.46.26_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.34.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] Oh Boy, Was I Wrong About Her - S01E07 [1080p CR WEB-DL...` | **1395.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630449) • [🐱 Nyaa](https://nekobt.to/torrents/13165216496645) |
 | `[Freehold] By the Grace of the Gods Season 2 [Bluray-1080p x265 Opu...` | **7580.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630447) • [🐱 Nyaa](https://nekobt.to/torrents/13164435029517) |
 | `[Freehold] By the Grace of the Gods Season 1 [Bluray-1080p x264 Opu...` | **10764.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630448) • [🐱 Nyaa](https://nekobt.to/torrents/13164377426437) |
 | `[Gecko] Fabulous Beasts - S06E04 (有兽焉; You Shou Yan 6th Season) [BI...` | **134.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/630446) • [🐱 Nyaa](https://nekobt.to/torrents/13162749017614) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] KAMUI Hes Behind You S01E07 REPACK 1080p UNCENSORED AMZN...` | **458.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630437) • [🐱 Nyaa](https://nyaa.si/view/2148235) |
 | `[BlackRose] Rich Girl Caretaker - S01E07 (WEB 1080p HEVC 10-bit EAC...` | **1313.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630436) • [🐱 Nyaa](https://nekobt.to/torrents/13159390581769) |
 | `[ToonsHub] Flaming Dodgeball Girl Danko S01E07 1080p AMZN WEB-DL DD...` | **1112.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630435) • [🐱 Nyaa](https://nyaa.si/view/2148228) |
-| `[Judas] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga ...` | **164.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/630434) • [🐱 Nyaa](https://nyaa.si/view/2148227) |
 
 ---
 <div align="center">
