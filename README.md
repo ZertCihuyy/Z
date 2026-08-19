@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.14.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.49.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Ironclad] Clevatess - S02E07 (WEB 1080p AV1) | Clevatess II (Multi...` | **559.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630533) • [🐱 Nyaa](https://nekobt.to/torrents/13174453083400) |
-| `[ASW] All Works Maid - 09 [1080p HEVC x265 10Bit][AAC]` | **231.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630536) • [🐱 Nyaa](https://nyaa.si/view/2148496) |
-| `[Onalrie] ReZero kara Hajimeru Isekai Seikatsu - S04E13 [1080p WEBR...` | **207.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630534) • [🐱 Nyaa](https://nekobt.to/torrents/13174306053888) |
-| `[ToonsHub] LV999 no Murabito S01E09 1080p ABEMA WEB-DL AAC2.0 H.264` | **716.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630535) • [🐱 Nyaa](https://nekobt.to/torrents/13174287852290) |
-| `[Kosaka] Saga of Tanya the Evil - S02E07 (WEBRip 1080p AV1 OPUS) [M...` | **271.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630532) • [🐱 Nyaa](https://nekobt.to/torrents/13174240366861) |
-| `[Doomdos] - My Stepmother and Stepsisters Aren't Wicked - 7 [1080p ...` | **225.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630530) • [🐱 Nyaa](https://nyaa.si/view/2148485) |
-| `[ASW] Re Zero kara Hajimeru Isekai Seikatsu - 79 [1080p HEVC x265 1...` | **262.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630531) • [🐱 Nyaa](https://nyaa.si/view/2148483) |
-| `[ToonsHub] My Stepmother and Stepsisters Arent Wicked S01E07 1080p ...` | **673.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630529) • [🐱 Nyaa](https://nyaa.si/view/2148482) |
-| `[AnoZu] Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)...` | **1406.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/630528) • [🐱 Nyaa](https://nyaa.si/view/2148481) |
-| `[ToonsHub] Heroine Saint No Im an All-Works Maid And Proud of It S0...` | **1423.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630527) • [🐱 Nyaa](https://nyaa.si/view/2148479) |
-| `[VARYG] My Stepmother and Stepsisters Arent Wicked S01E07 The Kouno...` | **676.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630520) • [🐱 Nyaa](https://nekobt.to/torrents/13173855016970) |
-| `[SubsPlease] All Works Maid - 09 (1080p) [9AF19FBE].mkv` | **1375.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630526) • [🐱 Nyaa](https://nyaa.si/view/2148473) |
-| `[VARYG] Heroine Saint No Im an All Works Maid And Proud of It S01E0...` | **1402.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630521) • [🐱 Nyaa](https://nekobt.to/torrents/13173846251269) |
-| `My Stepmother and Stepsisters Arent Wicked S01E07 SUBFRENCH 1080p A...` | **577.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630522) • [🐱 Nyaa](https://nekobt.to/torrents/13173838575108) |
-| `Heroine Saint No Im an All Works Maid And Proud of It S01E09 SUBFRE...` | **1379.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/630524) • [🐱 Nyaa](https://nekobt.to/torrents/13173831283969) |
+| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1422.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/630567) • [🐱 Nyaa](https://nyaa.si/view/2148535) |
+| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1387.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/630568) • [🐱 Nyaa](https://nyaa.si/view/2148534) |
+| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 07 [1080p AMZN ...` | **704.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630553) • [🐱 Nyaa](https://nekobt.to/torrents/13174871669253) |
+| `[DKB] Youjo Senki - S02E07 [1080p][HEVC x265 10bit][Multi-Subs][wee...` | **310.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/630565) • [🐱 Nyaa](https://nyaa.si/view/2148529) |
+| `[AnoZu] Trapped in a Dating Sim: The World of Otome Games Is Tough ...` | **1435.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630561) • [🐱 Nyaa](https://nekobt.to/torrents/13174854900234) |
+| `[DKB] Clevatess: Majuu no Ou to Itsuwari no Yuusha Denshou - S02E07...` | **723.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630566) • [🐱 Nyaa](https://nyaa.si/view/2148527) |
+| `[ToonsHub] Trapped in a Dating Sim The World of Otome Games is Toug...` | **1421.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630550) • [🐱 Nyaa](https://nyaa.si/view/2148526) |
+| `[ToonsHub] Trapped in a Dating Sim The World of Otome Games is Toug...` | **1385.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/630551) • [🐱 Nyaa](https://nyaa.si/view/2148525) |
+| `[Yameii] Trapped in a Dating Sim: The World of Otome Games is Tough...` | **1385.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630552) • [🐱 Nyaa](https://nyaa.si/view/2148524) |
+| `[AnoZu] Trapped in a Dating Sim: The World of Otome Games Is Tough ...` | **1388.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630554) • [🐱 Nyaa](https://nyaa.si/view/2148523) |
+| `[Onalrie] Heroine Seijo Iie All Works Maid desu (Hokori) - S01E09 [...` | **178.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/630562) • [🐱 Nyaa](https://nekobt.to/torrents/13174781344777) |
+| `[SubsPlease] Otome Game Sekai wa Mob ni Kibishii Sekai desu S2 - 07...` | **1377.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/630557) • [🐱 Nyaa](https://nyaa.si/view/2148521) |
+| `[Erai-raws] Re:Zero kara Hajimeru Isekai Seikatsu 4th Season - 13 [...` | **531.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/630542) • [🐱 Nyaa](https://nyaa.si/view/2148517) |
+| `Trapped in a Dating Sim The World of Otome Games Is Tough for Mobs ...` | **1381.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/630563) • [🐱 Nyaa](https://nekobt.to/torrents/13174754410503) |
+| `[ToonsHub] From Old Country Bumpkin to Master Swordsman S02E07 1080...` | **1006.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630543) • [🐱 Nyaa](https://nyaa.si/view/2148514) |
 
 ---
 <div align="center">
