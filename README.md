@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.41.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.01.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] From Old Country Bumpkin to Master Swordsman - S02E07 (W...` | **348.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630663) • [🐱 Nyaa](https://nekobt.to/torrents/13176926327557) |
+| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E07 [1080p][HEVC x265...` | **366.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630662) • [🐱 Nyaa](https://nyaa.si/view/2148647) |
 | `[Doomdos] - Tomb Raider King - 7 [1080p IQ WEB-DL]` | **321.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/630652) • [🐱 Nyaa](https://nyaa.si/view/2148646) |
 | `[ToonsHub] Tomb Raider King S01E04 1080p CR WEB-DL MULTi AAC2.0 H.2...` | **1908.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/630650) • [🐱 Nyaa](https://nekobt.to/torrents/13176675109129) |
 | `[VARYG] Tomb Raider King S01E04 The One Who Stole the Future 1080p ...` | **1824.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630651) • [🐱 Nyaa](https://nekobt.to/torrents/13176663258378) |
@@ -46,8 +48,6 @@
 | `[AnoZu] Tomb Raider King S01E07 1080p CR WEB-DL AAC 2.0 H.264 | Dog...` | **1685.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/630645) • [🐱 Nyaa](https://nyaa.si/view/2148631) |
 | `[SubsPlease] Toukutsu Ou - 07 (1080p) [93C2C269].mkv` | **1345.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630646) • [🐱 Nyaa](https://nyaa.si/view/2148630) |
 | `Tomb Raider King S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsun...` | **1649.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/630660) • [🐱 Nyaa](https://nekobt.to/torrents/13176549870852) |
-| `[ToonsHub] Tomb Raider King S01E07 1080p BILI WEB-DL AAC2.0 H.265 (...` | **277.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630642) • [🐱 Nyaa](https://nyaa.si/view/2148624) |
-| `[AnoZu] Tomb Raider King S01E05 1080p CR WEB-DL Dual-Audio DDP 2.0 ...` | **1479.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630632) • [🐱 Nyaa](https://nyaa.si/view/2148622) |
 
 ---
 <div align="center">
