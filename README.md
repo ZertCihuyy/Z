@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.12.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.53.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Yameii] Smoking Behind the Supermarket with You - S01E05 [English ...` | **1399.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/630824) • [🐱 Nyaa](https://nekobt.to/torrents/13197456974087) |
-| `Chainsmoker Cat S01E06 1080p NF WEB-DL DUAL AAC2.0 H.264-VARYG (Yan...` | **893.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630826) • [🐱 Nyaa](https://nyaa.si/view/2148985) |
-| `[ToonsHub] Smoking Behind the Supermarket with You S01E05 1080p CR ...` | **1436.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630827) • [🐱 Nyaa](https://nekobt.to/torrents/13197439334920) |
-| `[Doomdos] - The Exiled Heavy Knight Knows How to Game the System - ...` | **425.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630828) • [🐱 Nyaa](https://nyaa.si/view/2148982) |
-| `[ToonsHub] Smoking Behind the Supermarket with You S01E07 1080p CR ...` | **1406.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630829) • [🐱 Nyaa](https://nekobt.to/torrents/13197427654916) |
-| `Chainsmoker Cat S01E08 1080p NF WEB-DL AAC2.0 H.264-VARYG (Yani Nek...` | **866.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630830) • [🐱 Nyaa](https://nyaa.si/view/2148980) |
-| `[ToonsHub] Chainsmoker Cat S01E06 1080p NF WEB-DL MULTi AAC2.0 H.26...` | **1113.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/630831) • [🐱 Nyaa](https://nyaa.si/view/2148979) |
-| `[ToonsHub] The Exiled Heavy Knight Knows How to Game the System S01...` | **1688.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630832) • [🐱 Nyaa](https://nekobt.to/torrents/13197411304198) |
-| `[AnoZu] The Exiled Heavy Knight Knows How to Game the System S01E08...` | **1411.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/630833) • [🐱 Nyaa](https://nyaa.si/view/2148977) |
-| `[AnoZu] Smoking Behind the Supermarket with You S01E07 1080p CR WEB...` | **1412.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630834) • [🐱 Nyaa](https://nekobt.to/torrents/13197396338436) |
-| `The Exiled Heavy Knight Knows How to Game the System S01E08 SUBFREN...` | **1264.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630836) • [🐱 Nyaa](https://nekobt.to/torrents/13197388154627) |
-| `Smoking Behind the Supermarket with You S01E04 Learning Behind the ...` | **1503.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630835) • [🐱 Nyaa](https://nyaa.si/view/2148974) |
-| `[Yameii] The Exiled Heavy Knight Knows How to Game the System - S01...` | **1385.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630837) • [🐱 Nyaa](https://nyaa.si/view/2148973) |
-| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **1270.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630812) • [🐱 Nyaa](https://nyaa.si/view/2148968) |
-| `[SubsPlease] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Mus...` | **1380.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/630813) • [🐱 Nyaa](https://nyaa.si/view/2148967) |
+| `[Erai-raws] Yani Neko - 08 [1080p NF WEB-DL AVC AAC][MultiSub][5180...` | **882.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/630861) • [🐱 Nyaa](https://nekobt.to/torrents/13198064897036) |
+| `[Erai-raws] Rakudai Kenja no Gakuin Musou - 09 [1080p CR WEBRip HEV...` | **438.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630859) • [🐱 Nyaa](https://nyaa.si/view/2149019) |
+| `[Onalrie] Super no Ura de Yani Suu Futari - S01E07 [1080p WEBRip AV1]` | **164.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630862) • [🐱 Nyaa](https://nekobt.to/torrents/13197993582863) |
+| `Chainsmoker Cat S01E08 SUBFRENCH 1080p NF WEB-DL AAC2.0 x264-Tsunde...` | **903.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/630863) • [🐱 Nyaa](https://nekobt.to/torrents/13197992113931) |
+| `Chainsmoker Cat S01E08 SUBFRENCH 1080p NF WEB-DL AAC2.0 H.265-Tsund...` | **910.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/630864) • [🐱 Nyaa](https://nekobt.to/torrents/13197987082251) |
+| `Chainsmoker Cat S01E08 SUBFRENCH 1080p NF WEB-DL AAC2.0 AV1-Tsunder...` | **778.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630865) • [🐱 Nyaa](https://nekobt.to/torrents/13197982244366) |
+| `Chainsmoker Cat S01E06 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-R...` | **972.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/630866) • [🐱 Nyaa](https://nekobt.to/torrents/13197976284682) |
+| `Chainsmoker Cat S01E06 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-...` | **469.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630867) • [🐱 Nyaa](https://nekobt.to/torrents/13197969447433) |
+| `Chainsmoker Cat S01E06 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Ra...` | **267.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630868) • [🐱 Nyaa](https://nekobt.to/torrents/13197963738888) |
+| `[WOR] Sword Art Online: Unanswered//butterfly [WebEncode 1080p HEVC...` | **9355.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630860) • [🐱 Nyaa](https://nyaa.si/view/2149010) |
+| `[DKB] Mebius Dust - S01E07 [1080p][HEVC x265 10bit][Multi-Subs][wee...` | **381.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630857) • [🐱 Nyaa](https://nyaa.si/view/2149008) |
+| `[ToonsHub] Link Click S04E03 1080p BSITE WEB-DL AAC2.0 H.264 (Shigu...` | **147.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630855) • [🐱 Nyaa](https://nyaa.si/view/2149003) |
+| `[DKB] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat...` | **337.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630856) • [🐱 Nyaa](https://nyaa.si/view/2149002) |
+| `[ToonsHub] Chainsmoker Cat S01E06 1080p NF WEB-DL DUAL AAC2.0 H.264...` | **892.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/630853) • [🐱 Nyaa](https://nekobt.to/torrents/13197608937999) |
+| `[AnoZu] Smoking Behind the Supermarket with You S01E05 1080p CR WEB...` | **1453.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630854) • [🐱 Nyaa](https://nekobt.to/torrents/13197560668170) |
 
 ---
 <div align="center">
