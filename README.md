@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.57.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.49.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsPlease] Shunkashuutou Daikousha - Haru no Mai (01-14) (1080p) ...` | **19293.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630707) • [🐱 Nyaa](https://nyaa.si/view/2148765) |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E07 (1080p BD AAC x265...` | **545.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/630706) • [🐱 Nyaa](https://nekobt.to/torrents/13190098306053) |
+| `[Doomdos] - Urban Miracle Doctor - 205 [1080p IQ WEB-DL]` | **194.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630705) • [🐱 Nyaa](https://nyaa.si/view/2148762) |
 | `[SubsNoJutsu] Wistoria - Wand and Sword - S01E06 (1080p BD AAC x265...` | **553.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630702) • [🐱 Nyaa](https://nekobt.to/torrents/13189482388484) |
 | `[SubsPlease] Quanzhi Fashi S7 (01-12) (1080p) [Batch]` | **13530.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630699) • [🐱 Nyaa](https://nyaa.si/view/2148759) |
 | `[CenturyZeta] Youjo Shenki 2 - 07 (1080p) (Youjo Senki)` | **13.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630698) • [🐱 Nyaa](https://nyaa.si/view/2148748) |
@@ -45,9 +48,6 @@
 | `[Erai-raws] Thunder 3 - 07 [1080p NF WEBRip HEVC AAC][MultiSub][7B2...` | **580.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630690) • [🐱 Nyaa](https://nyaa.si/view/2148702) |
 | `[Doomdos] - Supreme Alchemy - 189 [1080p IQ WEB-DL]` | **177.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630688) • [🐱 Nyaa](https://nyaa.si/view/2148700) |
 | `[Doomdos] - Against the Gods 2nd Season - 51 [1080p IQ WEB-DL]` | **406.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630689) • [🐱 Nyaa](https://nyaa.si/view/2148699) |
-| `[Piyoko] Onegai AiPri - 20 [WEB AMZN 1080p h264 AC3 2.0]` | **954.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630687) • [🐱 Nyaa](https://nyaa.si/view/2148694) |
-| `[ToonsHub] Beyond Times Gaze S02E09 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **609.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630684) • [🐱 Nyaa](https://nyaa.si/view/2148686) |
-| `Saga of Tanya the Evil S02E04 Operation Iron Hammer 1080p CR WEB-DL...` | **1457.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630683) • [🐱 Nyaa](https://nyaa.si/view/2148684) |
 
 ---
 <div align="center">
