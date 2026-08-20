@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.45.57_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.29.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E13 (WEB 1080p AAC)` | **1717.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/630917) • [🐱 Nyaa](https://nekobt.to/torrents/13204068827407) |
+| `[Ironclad] Smoking Behind the Supermarket with You - S01E07 (WEB 10...` | **207.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630918) • [🐱 Nyaa](https://nekobt.to/torrents/13204024839439) |
+| `Super Cube S01 1080p CR WEB-DL AAC2.0 H.264-VARYG (Chao Neng Lifang...` | **14658.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/630916) • [🐱 Nyaa](https://nyaa.si/view/2149101) |
 | `[TrashEnthusiast] Farming Life in Another World - S02E10 (AMZN WEB-...` | **807.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630915) • [🐱 Nyaa](https://nyaa.si/view/2149098) |
 | `[SubsNoJutsu] Tomb Raider King - S01E07 (1080p WEBRip AAC x265) [19...` | **512.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/630914) • [🐱 Nyaa](https://nekobt.to/torrents/13203307645198) |
 | `[TrashEnthusiast] Farming Life in Another World - S02E09 (AMZN WEB-...` | **835.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630913) • [🐱 Nyaa](https://nyaa.si/view/2149097) |
@@ -45,9 +48,6 @@
 | `[Ironclad] Chainsmoker Cat - S01E08 (WEB 1080p AV1) | Yani Neko (Mu...` | **349.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630906) • [🐱 Nyaa](https://nekobt.to/torrents/13201853547268) |
 | `[ToonsHub] Smoking Behind the Supermarket with You S01E04 1080p CR ...` | **1545.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630905) • [🐱 Nyaa](https://nyaa.si/view/2149085) |
 | `[DKB] Otome Kaijuu Caraméliser - S01E08 [1080p][HEVC x265 10bit][Mu...` | **616.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/630903) • [🐱 Nyaa](https://nyaa.si/view/2149082) |
-| `[DKB] Super no Ura de Yani Suu Futari - S01E07 [1080p][HEVC x265 10...` | **225.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/630904) • [🐱 Nyaa](https://nyaa.si/view/2149081) |
-| `[Erai-raws] Mebius Dust - 07 [1080p CR WEBRip HEVC AAC][MultiSub][7...` | **347.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630901) • [🐱 Nyaa](https://nekobt.to/torrents/13200806501899) |
-| `[Erai-raws] Otome Kaijuu Carameliser - 08 [1080p CR WEBRip HEVC AAC...` | **669.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/630902) • [🐱 Nyaa](https://nekobt.to/torrents/13200802411017) |
 
 ---
 <div align="center">
