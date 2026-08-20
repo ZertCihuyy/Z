@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.00.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.59.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[geckyzz] Perfect Addiction - S01E07 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **189.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630696) • [🐱 Nyaa](https://nyaa.si/view/2148737) |
+| `[Gecko] Candy Caries - S01E19 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **88.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630693) • [🐱 Nyaa](https://nekobt.to/torrents/13185578430976) |
+| `[Gecko] Cat Tales - S01E45 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630694) • [🐱 Nyaa](https://nekobt.to/torrents/13185576403714) |
+| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E13 [1080p CR...` | **1697.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630692) • [🐱 Nyaa](https://nekobt.to/torrents/13185372791046) |
 | `[Doomdos] - Primeval Overlord - 10 [1080p IQ WEB-DL]` | **208.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630691) • [🐱 Nyaa](https://nyaa.si/view/2148709) |
 | `[Erai-raws] Thunder 3 - 07 [1080p NF WEBRip HEVC AAC][MultiSub][7B2...` | **580.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630690) • [🐱 Nyaa](https://nyaa.si/view/2148702) |
 | `[Doomdos] - Supreme Alchemy - 189 [1080p IQ WEB-DL]` | **177.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630688) • [🐱 Nyaa](https://nyaa.si/view/2148700) |
@@ -44,10 +48,6 @@
 | `[Erai-raws] Dogulwang - 07 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **505.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630681) • [🐱 Nyaa](https://nekobt.to/torrents/13180468819983) |
 | `[Erai-raws] Dogulwang - 07 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **512.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630678) • [🐱 Nyaa](https://nyaa.si/view/2148680) |
 | `[FBI] Re:Zero Starting Life in Another World - S04E13 (CR WEB-DL 10...` | **1696.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630679) • [🐱 Nyaa](https://nyaa.si/view/2148679) |
-| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 07 [1080p AMZN ...` | **372.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/630680) • [🐱 Nyaa](https://nyaa.si/view/2148678) |
-| `[sam] The Ghost in the Shell (2026) - S01E07 (WEB 1080p HEVC x265 1...` | **4806.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/630677) • [🐱 Nyaa](https://nyaa.si/view/2148677) |
-| `[denisplay]  Youjo Senki S2 - 07 [1080p] [AV1] (Weekly) (Youjo Senk...` | **215.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630674) • [🐱 Nyaa](https://nyaa.si/view/2148671) |
-| `[Gecko] Candy Caries - S01E19 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **52.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630673) • [🐱 Nyaa](https://nyaa.si/view/2148668) |
 
 ---
 <div align="center">
