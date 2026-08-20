@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.06.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.57.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E06 (1080p BD AAC x265...` | **553.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630702) • [🐱 Nyaa](https://nekobt.to/torrents/13189482388484) |
+| `[SubsPlease] Quanzhi Fashi S7 (01-12) (1080p) [Batch]` | **13530.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630699) • [🐱 Nyaa](https://nyaa.si/view/2148759) |
 | `[CenturyZeta] Youjo Shenki 2 - 07 (1080p) (Youjo Senki)` | **13.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630698) • [🐱 Nyaa](https://nyaa.si/view/2148748) |
 | `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E07 (いびってこ...` | **691.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630697) • [🐱 Nyaa](https://nyaa.si/view/2148745) |
 | `[geckyzz] Perfect Addiction - S01E07 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **189.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630696) • [🐱 Nyaa](https://nyaa.si/view/2148737) |
@@ -46,8 +48,6 @@
 | `[Piyoko] Onegai AiPri - 20 [WEB AMZN 1080p h264 AC3 2.0]` | **954.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630687) • [🐱 Nyaa](https://nyaa.si/view/2148694) |
 | `[ToonsHub] Beyond Times Gaze S02E09 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **609.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630684) • [🐱 Nyaa](https://nyaa.si/view/2148686) |
 | `Saga of Tanya the Evil S02E04 Operation Iron Hammer 1080p CR WEB-DL...` | **1457.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630683) • [🐱 Nyaa](https://nyaa.si/view/2148684) |
-| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E08 (1080p WE...` | **596.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630682) • [🐱 Nyaa](https://nekobt.to/torrents/13180540381960) |
-| `[Erai-raws] Dogulwang - 07 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **505.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630681) • [🐱 Nyaa](https://nekobt.to/torrents/13180468819983) |
 
 ---
 <div align="center">
