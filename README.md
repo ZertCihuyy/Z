@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.29.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.53.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Fuchs] Mushoku Tensei - S03E03 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1575.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630920) • [🐱 Nyaa](https://nekobt.to/torrents/13204431436800) |
+| `[Fuchs] Mushoku Tensei - S03E02 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1610.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630921) • [🐱 Nyaa](https://nekobt.to/torrents/13204429485067) |
+| `[Fuchs] Mushoku Tensei - S03E01 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1797.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630922) • [🐱 Nyaa](https://nekobt.to/torrents/13204428580106) |
+| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **648.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630919) • [🐱 Nyaa](https://nyaa.si/view/2149105) |
 | `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E13 (WEB 1080p AAC)` | **1717.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/630917) • [🐱 Nyaa](https://nekobt.to/torrents/13204068827407) |
 | `[Ironclad] Smoking Behind the Supermarket with You - S01E07 (WEB 10...` | **207.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630918) • [🐱 Nyaa](https://nekobt.to/torrents/13204024839439) |
 | `Super Cube S01 1080p CR WEB-DL AAC2.0 H.264-VARYG (Chao Neng Lifang...` | **14658.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/630916) • [🐱 Nyaa](https://nyaa.si/view/2149101) |
@@ -44,10 +48,6 @@
 | `[ToonsHub] Super Cube S01 1080p CR WEB-DL AAC2.0 H.264 (The Super C...` | **14647.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/630910) • [🐱 Nyaa](https://nekobt.to/torrents/13202977061127) |
 | `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **663.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/630909) • [🐱 Nyaa](https://nekobt.to/torrents/13202730274822) |
 | `[FrixySubs] Though I Am an Inept Villainess - S01E05 [1080p CR WEB-...` | **1383.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630908) • [🐱 Nyaa](https://nekobt.to/torrents/13202043938317) |
-| `[ToonsHub] KAIJU GIRL CARAMELISE S01E05 1080p CR WEB-DL MULTi AAC2....` | **1544.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/630907) • [🐱 Nyaa](https://nyaa.si/view/2149089) |
-| `[Ironclad] Chainsmoker Cat - S01E08 (WEB 1080p AV1) | Yani Neko (Mu...` | **349.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630906) • [🐱 Nyaa](https://nekobt.to/torrents/13201853547268) |
-| `[ToonsHub] Smoking Behind the Supermarket with You S01E04 1080p CR ...` | **1545.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630905) • [🐱 Nyaa](https://nyaa.si/view/2149085) |
-| `[DKB] Otome Kaijuu Caraméliser - S01E08 [1080p][HEVC x265 10bit][Mu...` | **616.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/630903) • [🐱 Nyaa](https://nyaa.si/view/2149082) |
 
 ---
 <div align="center">
