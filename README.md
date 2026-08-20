@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.39.06_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.12.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] Smoking Behind the Supermarket With You S01E07 Smoke 7 1080...` | **945.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630793) • [🐱 Nyaa](https://nekobt.to/torrents/13196892268808) |
-| `From Overshadowed to Overpowered Second Reincarnation of a Talentle...` | **1380.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/630794) • [🐱 Nyaa](https://nekobt.to/torrents/13196892025866) |
-| `[ToonsHub] Smoking Behind the Supermarket With You S01E07 1080p NF ...` | **900.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630796) • [🐱 Nyaa](https://nyaa.si/view/2148937) |
-| `[DKB] BanG Dream! Yume∞Mita - S01E10 [1080p][HEVC x265 10bit][Multi...` | **386.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630798) • [🐱 Nyaa](https://nyaa.si/view/2148934) |
-| `Mebius Dust S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-R...` | **1382.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630797) • [🐱 Nyaa](https://nekobt.to/torrents/13196853516808) |
-| `[CicakRumah] Koupen-chan - S01E72 (コウペンちゃん) [AMZN.WEB-DL 1080P AVC,...` | **83.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630792) • [🐱 Nyaa](https://nyaa.si/view/2148928) |
-| `From Overshadowed to Overpowered Second Reincarnation of a Talentle...` | **1404.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630790) • [🐱 Nyaa](https://nyaa.si/view/2148923) |
-| `Mebius Dust S01E07 Restored Memory 1080p CR WEB-DL AAC2.0 H.264-VAR...` | **1404.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/630791) • [🐱 Nyaa](https://nyaa.si/view/2148922) |
-| `[VoidWalkers] Berserk of Gluttony Season 1 (2023) [BD][1080p JP+EN ...` | **3434.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630789) • [🐱 Nyaa](https://nekobt.to/torrents/13196542741255) |
-| `[ToonsHub] Mebius Dust S01E07 1080p CR WEB-DL AAC2.0 H.264 (Multi-S...` | **1427.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/630785) • [🐱 Nyaa](https://nyaa.si/view/2148921) |
-| `[AnoZu] Mebius Dust S01E07 1080p CR WEB-DL AAC 2.0 H.264` | **1409.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/630786) • [🐱 Nyaa](https://nyaa.si/view/2148920) |
-| `[AnoZu] From Overshadowed to Overpowered: Second Reincarnation of a...` | **1405.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/630787) • [🐱 Nyaa](https://nyaa.si/view/2148919) |
-| `[ToonsHub] From Overshadowed to Overpowered Second Reincarnation of...` | **1424.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/630788) • [🐱 Nyaa](https://nyaa.si/view/2148918) |
-| `[SubsPlease] Rakudai Kenja no Gakuin Musou - 09 (1080p) [E9328B37].mkv` | **1376.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630774) • [🐱 Nyaa](https://nyaa.si/view/2148916) |
-| `[Erai-raws] Mebius Dust - 07 [1080p CR WEB-DL AVC AAC][MultiSub][D4...` | **1214.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/630778) • [🐱 Nyaa](https://nyaa.si/view/2148912) |
+| `[Yameii] Smoking Behind the Supermarket with You - S01E05 [English ...` | **1399.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/630824) • [🐱 Nyaa](https://nekobt.to/torrents/13197456974087) |
+| `Chainsmoker Cat S01E06 1080p NF WEB-DL DUAL AAC2.0 H.264-VARYG (Yan...` | **893.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630826) • [🐱 Nyaa](https://nyaa.si/view/2148985) |
+| `[ToonsHub] Smoking Behind the Supermarket with You S01E05 1080p CR ...` | **1436.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/630827) • [🐱 Nyaa](https://nekobt.to/torrents/13197439334920) |
+| `[Doomdos] - The Exiled Heavy Knight Knows How to Game the System - ...` | **425.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/630828) • [🐱 Nyaa](https://nyaa.si/view/2148982) |
+| `[ToonsHub] Smoking Behind the Supermarket with You S01E07 1080p CR ...` | **1406.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630829) • [🐱 Nyaa](https://nekobt.to/torrents/13197427654916) |
+| `Chainsmoker Cat S01E08 1080p NF WEB-DL AAC2.0 H.264-VARYG (Yani Nek...` | **866.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630830) • [🐱 Nyaa](https://nyaa.si/view/2148980) |
+| `[ToonsHub] Chainsmoker Cat S01E06 1080p NF WEB-DL MULTi AAC2.0 H.26...` | **1113.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/630831) • [🐱 Nyaa](https://nyaa.si/view/2148979) |
+| `[ToonsHub] The Exiled Heavy Knight Knows How to Game the System S01...` | **1688.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630832) • [🐱 Nyaa](https://nekobt.to/torrents/13197411304198) |
+| `[AnoZu] The Exiled Heavy Knight Knows How to Game the System S01E08...` | **1411.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/630833) • [🐱 Nyaa](https://nyaa.si/view/2148977) |
+| `[AnoZu] Smoking Behind the Supermarket with You S01E07 1080p CR WEB...` | **1412.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630834) • [🐱 Nyaa](https://nekobt.to/torrents/13197396338436) |
+| `The Exiled Heavy Knight Knows How to Game the System S01E08 SUBFREN...` | **1264.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630836) • [🐱 Nyaa](https://nekobt.to/torrents/13197388154627) |
+| `Smoking Behind the Supermarket with You S01E04 Learning Behind the ...` | **1503.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/630835) • [🐱 Nyaa](https://nyaa.si/view/2148974) |
+| `[Yameii] The Exiled Heavy Knight Knows How to Game the System - S01...` | **1385.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/630837) • [🐱 Nyaa](https://nyaa.si/view/2148973) |
+| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **1270.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/630812) • [🐱 Nyaa](https://nyaa.si/view/2148968) |
+| `[SubsPlease] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Mus...` | **1380.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/630813) • [🐱 Nyaa](https://nyaa.si/view/2148967) |
 
 ---
 <div align="center">
