@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.46.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.00.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - Primeval Overlord - 10 [1080p IQ WEB-DL]` | **208.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630691) • [🐱 Nyaa](https://nyaa.si/view/2148709) |
 | `[Erai-raws] Thunder 3 - 07 [1080p NF WEBRip HEVC AAC][MultiSub][7B2...` | **580.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630690) • [🐱 Nyaa](https://nyaa.si/view/2148702) |
 | `[Doomdos] - Supreme Alchemy - 189 [1080p IQ WEB-DL]` | **177.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630688) • [🐱 Nyaa](https://nyaa.si/view/2148700) |
 | `[Doomdos] - Against the Gods 2nd Season - 51 [1080p IQ WEB-DL]` | **406.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630689) • [🐱 Nyaa](https://nyaa.si/view/2148699) |
@@ -47,7 +48,6 @@
 | `[sam] The Ghost in the Shell (2026) - S01E07 (WEB 1080p HEVC x265 1...` | **4806.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/630677) • [🐱 Nyaa](https://nyaa.si/view/2148677) |
 | `[denisplay]  Youjo Senki S2 - 07 [1080p] [AV1] (Weekly) (Youjo Senk...` | **215.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630674) • [🐱 Nyaa](https://nyaa.si/view/2148671) |
 | `[Gecko] Candy Caries - S01E19 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **52.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630673) • [🐱 Nyaa](https://nyaa.si/view/2148668) |
-| `[DKB] LV999 no Murabito - S01E09 [1080p][HEVC x265 10bit][Multi-Sub...` | **193.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630672) • [🐱 Nyaa](https://nyaa.si/view/2148667) |
 
 ---
 <div align="center">
