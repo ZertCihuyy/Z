@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.33.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.08.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] KAIJU GIRL CARAMELISE S01E05 1080p CR WEB-DL MULTi AAC2....` | **1544.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/630907) • [🐱 Nyaa](https://nyaa.si/view/2149089) |
+| `[Ironclad] Chainsmoker Cat - S01E08 (WEB 1080p AV1) | Yani Neko (Mu...` | **349.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630906) • [🐱 Nyaa](https://nekobt.to/torrents/13201853547268) |
+| `[ToonsHub] Smoking Behind the Supermarket with You S01E04 1080p CR ...` | **1545.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630905) • [🐱 Nyaa](https://nyaa.si/view/2149085) |
 | `[DKB] Otome Kaijuu Caraméliser - S01E08 [1080p][HEVC x265 10bit][Mu...` | **616.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/630903) • [🐱 Nyaa](https://nyaa.si/view/2149082) |
 | `[DKB] Super no Ura de Yani Suu Futari - S01E07 [1080p][HEVC x265 10...` | **225.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/630904) • [🐱 Nyaa](https://nyaa.si/view/2149081) |
 | `[Erai-raws] Mebius Dust - 07 [1080p CR WEBRip HEVC AAC][MultiSub][7...` | **347.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630901) • [🐱 Nyaa](https://nekobt.to/torrents/13200806501899) |
@@ -45,9 +48,6 @@
 | `[DKB] Yani Neko - S01E08 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **458.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630895) • [🐱 Nyaa](https://nyaa.si/view/2149060) |
 | `[Mocha] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **445.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630894) • [🐱 Nyaa](https://nyaa.si/view/2149059) |
 | `[Onalrie] Yani Neko - S01E08 [1080p WEBRip AV1]` | **330.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630893) • [🐱 Nyaa](https://nekobt.to/torrents/13198990290946) |
-| `[AnoZu] KAIJU GIRL CARAMELISE S01E06 1080p CR WEB-DL Dual-Audio DDP...` | **1795.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630892) • [🐱 Nyaa](https://nyaa.si/view/2149055) |
-| `[Ironclad] Dara-San of the Reiwa Era - S01E08 (WEB 1080p AV1) | Rei...` | **193.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630884) • [🐱 Nyaa](https://nekobt.to/torrents/13198799303430) |
-| `[Yameii] KAIJU GIRL CARAMELISE - S01E06 [English Dub] [CR WEB-DL 10...` | **1423.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630885) • [🐱 Nyaa](https://nekobt.to/torrents/13198787439873) |
 
 ---
 <div align="center">
