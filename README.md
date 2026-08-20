@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.09.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.45.57_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[TrashEnthusiast] Farming Life in Another World - S02E10 (AMZN WEB-...` | **807.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630915) • [🐱 Nyaa](https://nyaa.si/view/2149098) |
+| `[SubsNoJutsu] Tomb Raider King - S01E07 (1080p WEBRip AAC x265) [19...` | **512.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/630914) • [🐱 Nyaa](https://nekobt.to/torrents/13203307645198) |
+| `[TrashEnthusiast] Farming Life in Another World - S02E09 (AMZN WEB-...` | **835.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630913) • [🐱 Nyaa](https://nyaa.si/view/2149097) |
+| `[TrashEnthusiast] Farming Life in Another World - S02E08 (AMZN WEB-...` | **747.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630912) • [🐱 Nyaa](https://nyaa.si/view/2149096) |
+| `[TrashEnthusiast] Farming Life in Another World - S02E07 (AMZN WEB-...` | **879.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630911) • [🐱 Nyaa](https://nyaa.si/view/2149095) |
+| `[ToonsHub] Super Cube S01 1080p CR WEB-DL AAC2.0 H.264 (The Super C...` | **14647.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/630910) • [🐱 Nyaa](https://nekobt.to/torrents/13202977061127) |
 | `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **663.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/630909) • [🐱 Nyaa](https://nekobt.to/torrents/13202730274822) |
 | `[FrixySubs] Though I Am an Inept Villainess - S01E05 [1080p CR WEB-...` | **1383.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630908) • [🐱 Nyaa](https://nekobt.to/torrents/13202043938317) |
 | `[ToonsHub] KAIJU GIRL CARAMELISE S01E05 1080p CR WEB-DL MULTi AAC2....` | **1544.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/630907) • [🐱 Nyaa](https://nyaa.si/view/2149089) |
@@ -42,12 +48,6 @@
 | `[DKB] Super no Ura de Yani Suu Futari - S01E07 [1080p][HEVC x265 10...` | **225.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/630904) • [🐱 Nyaa](https://nyaa.si/view/2149081) |
 | `[Erai-raws] Mebius Dust - 07 [1080p CR WEBRip HEVC AAC][MultiSub][7...` | **347.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630901) • [🐱 Nyaa](https://nekobt.to/torrents/13200806501899) |
 | `[Erai-raws] Otome Kaijuu Carameliser - 08 [1080p CR WEBRip HEVC AAC...` | **669.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/630902) • [🐱 Nyaa](https://nekobt.to/torrents/13200802411017) |
-| `KAIJU GIRL CARAMELISE S01E07 1080p BILI WEB-DL AAC2.0 H.264-VARYG (...` | **385.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630899) • [🐱 Nyaa](https://nyaa.si/view/2149077) |
-| `The Frontier Lord Begins with Zero Subjects S01E04 1080p BILI WEB-D...` | **273.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630900) • [🐱 Nyaa](https://nyaa.si/view/2149076) |
-| `[Onalrie] Otome Kaijuu Carameliser - S01E08 [1080p WEBRip AV1]` | **301.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630898) • [🐱 Nyaa](https://nekobt.to/torrents/13199713028356) |
-| `[ASW] Otome Kaijuu Carameliser - 08 [1080p HEVC x265 10Bit][AAC]` | **419.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630897) • [🐱 Nyaa](https://nyaa.si/view/2149066) |
-| `[Erai-raws] Yani Neko - 08 [1080p NF WEBRip HEVC AAC][MultiSub][6E7...` | **545.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630896) • [🐱 Nyaa](https://nyaa.si/view/2149062) |
-| `[DKB] Yani Neko - S01E08 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **458.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630895) • [🐱 Nyaa](https://nyaa.si/view/2149060) |
 
 ---
 <div align="center">
