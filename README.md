@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.59.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.46.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Thunder 3 - 07 [1080p NF WEBRip HEVC AAC][MultiSub][7B2...` | **580.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630690) • [🐱 Nyaa](https://nyaa.si/view/2148702) |
+| `[Doomdos] - Supreme Alchemy - 189 [1080p IQ WEB-DL]` | **177.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630688) • [🐱 Nyaa](https://nyaa.si/view/2148700) |
+| `[Doomdos] - Against the Gods 2nd Season - 51 [1080p IQ WEB-DL]` | **406.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630689) • [🐱 Nyaa](https://nyaa.si/view/2148699) |
+| `[Piyoko] Onegai AiPri - 20 [WEB AMZN 1080p h264 AC3 2.0]` | **954.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630687) • [🐱 Nyaa](https://nyaa.si/view/2148694) |
 | `[ToonsHub] Beyond Times Gaze S02E09 1080p VIKI WEB-DL AAC2.0 H.264 ...` | **609.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630684) • [🐱 Nyaa](https://nyaa.si/view/2148686) |
 | `Saga of Tanya the Evil S02E04 Operation Iron Hammer 1080p CR WEB-DL...` | **1457.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630683) • [🐱 Nyaa](https://nyaa.si/view/2148684) |
 | `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E08 (1080p WE...` | **596.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630682) • [🐱 Nyaa](https://nekobt.to/torrents/13180540381960) |
@@ -44,10 +48,6 @@
 | `[denisplay]  Youjo Senki S2 - 07 [1080p] [AV1] (Weekly) (Youjo Senk...` | **215.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630674) • [🐱 Nyaa](https://nyaa.si/view/2148671) |
 | `[Gecko] Candy Caries - S01E19 (キャンディーカリエス) [YTB.WEB-DL 1080P AVC, O...` | **52.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630673) • [🐱 Nyaa](https://nyaa.si/view/2148668) |
 | `[DKB] LV999 no Murabito - S01E09 [1080p][HEVC x265 10bit][Multi-Sub...` | **193.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/630672) • [🐱 Nyaa](https://nyaa.si/view/2148667) |
-| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E07 [1080...` | **251.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630671) • [🐱 Nyaa](https://nyaa.si/view/2148664) |
-| `[Onalrie] Dogulwang - S01E07 (KA) [1080p WEBRip AV1]` | **248.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630670) • [🐱 Nyaa](https://nekobt.to/torrents/13178061293580) |
-| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 07 [108...` | **372.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/630669) • [🐱 Nyaa](https://nyaa.si/view/2148662) |
-| `[Onalrie] Dogulwang - S01E07 (JA) [1080p WEBRip AV1]` | **251.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/630668) • [🐱 Nyaa](https://nekobt.to/torrents/13177634139140) |
 
 ---
 <div align="center">
