@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.08.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.44.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] Though I Am an Inept Villainess - S01E05 [1080p CR WEB-...` | **1383.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630908) • [🐱 Nyaa](https://nekobt.to/torrents/13202043938317) |
 | `[ToonsHub] KAIJU GIRL CARAMELISE S01E05 1080p CR WEB-DL MULTi AAC2....` | **1544.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/630907) • [🐱 Nyaa](https://nyaa.si/view/2149089) |
 | `[Ironclad] Chainsmoker Cat - S01E08 (WEB 1080p AV1) | Yani Neko (Mu...` | **349.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/630906) • [🐱 Nyaa](https://nekobt.to/torrents/13201853547268) |
 | `[ToonsHub] Smoking Behind the Supermarket with You S01E04 1080p CR ...` | **1545.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630905) • [🐱 Nyaa](https://nyaa.si/view/2149085) |
@@ -47,7 +48,6 @@
 | `[Erai-raws] Yani Neko - 08 [1080p NF WEBRip HEVC AAC][MultiSub][6E7...` | **545.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630896) • [🐱 Nyaa](https://nyaa.si/view/2149062) |
 | `[DKB] Yani Neko - S01E08 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **458.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630895) • [🐱 Nyaa](https://nyaa.si/view/2149060) |
 | `[Mocha] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **445.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630894) • [🐱 Nyaa](https://nyaa.si/view/2149059) |
-| `[Onalrie] Yani Neko - S01E08 [1080p WEBRip AV1]` | **330.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630893) • [🐱 Nyaa](https://nekobt.to/torrents/13198990290946) |
 
 ---
 <div align="center">
