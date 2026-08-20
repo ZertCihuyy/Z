@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.46.49_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.34.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E07 (いびってこ...` | **691.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630697) • [🐱 Nyaa](https://nyaa.si/view/2148745) |
 | `[geckyzz] Perfect Addiction - S01E07 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **189.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630696) • [🐱 Nyaa](https://nyaa.si/view/2148737) |
 | `[Gecko] Candy Caries - S01E19 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **88.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630693) • [🐱 Nyaa](https://nekobt.to/torrents/13185578430976) |
 | `[Gecko] Cat Tales - S01E45 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630694) • [🐱 Nyaa](https://nekobt.to/torrents/13185576403714) |
@@ -47,7 +48,6 @@
 | `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E08 (1080p WE...` | **596.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630682) • [🐱 Nyaa](https://nekobt.to/torrents/13180540381960) |
 | `[Erai-raws] Dogulwang - 07 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **505.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630681) • [🐱 Nyaa](https://nekobt.to/torrents/13180468819983) |
 | `[Erai-raws] Dogulwang - 07 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **512.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/630678) • [🐱 Nyaa](https://nyaa.si/view/2148680) |
-| `[FBI] Re:Zero Starting Life in Another World - S04E13 (CR WEB-DL 10...` | **1696.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630679) • [🐱 Nyaa](https://nyaa.si/view/2148679) |
 
 ---
 <div align="center">
