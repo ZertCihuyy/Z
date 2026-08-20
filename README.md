@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.38.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.11.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - 时光代理人 第三季 - 第3话（超大抢先）话 - [1080p BILIBILI COM WEB-DL]` | **148.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630711) • [🐱 Nyaa](https://nyaa.si/view/2148783) |
+| `[VARYG] Though I Am an Inept Villainess S01E05 Who Is That Girl 108...` | **901.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/630710) • [🐱 Nyaa](https://nekobt.to/torrents/13191698529542) |
 | `[SubsPlease] Shunkashuutou Daikousha - Haru no Mai (01-14) (1080p) ...` | **19293.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630707) • [🐱 Nyaa](https://nyaa.si/view/2148765) |
 | `[SubsNoJutsu] Wistoria - Wand and Sword - S01E07 (1080p BD AAC x265...` | **545.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/630706) • [🐱 Nyaa](https://nekobt.to/torrents/13190098306053) |
 | `[Doomdos] - Urban Miracle Doctor - 205 [1080p IQ WEB-DL]` | **194.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630705) • [🐱 Nyaa](https://nyaa.si/view/2148762) |
@@ -46,8 +48,6 @@
 | `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E13 [1080p CR...` | **1697.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630692) • [🐱 Nyaa](https://nekobt.to/torrents/13185372791046) |
 | `[Doomdos] - Primeval Overlord - 10 [1080p IQ WEB-DL]` | **208.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630691) • [🐱 Nyaa](https://nyaa.si/view/2148709) |
 | `[Erai-raws] Thunder 3 - 07 [1080p NF WEBRip HEVC AAC][MultiSub][7B2...` | **580.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630690) • [🐱 Nyaa](https://nyaa.si/view/2148702) |
-| `[Doomdos] - Supreme Alchemy - 189 [1080p IQ WEB-DL]` | **177.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630688) • [🐱 Nyaa](https://nyaa.si/view/2148700) |
-| `[Doomdos] - Against the Gods 2nd Season - 51 [1080p IQ WEB-DL]` | **406.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630689) • [🐱 Nyaa](https://nyaa.si/view/2148699) |
 
 ---
 <div align="center">
