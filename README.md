@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.49.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.30.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] Though I Am an Inept Villainess S01E01 [1080p CR WEBRip AV1...` | **419.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630715) • [🐱 Nyaa](https://nekobt.to/torrents/13193012613133) |
+| `[Gecko] Koala's Diary - S01E45 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **51.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630714) • [🐱 Nyaa](https://nyaa.si/view/2148799) |
 | `[VARYG] The Forsaken Saintess and Her Foodie Roadtrip in Another Wo...` | **904.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/630713) • [🐱 Nyaa](https://nekobt.to/torrents/13192028846855) |
 | `[Doomdos] - 时光代理人 第三季 - 第3话 - [1080p BILIBILI COM WEB-DL]` | **148.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630712) • [🐱 Nyaa](https://nyaa.si/view/2148784) |
 | `[Doomdos] - 时光代理人 第三季 - 第3话（超大抢先）话 - [1080p BILIBILI COM WEB-DL]` | **148.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/630711) • [🐱 Nyaa](https://nyaa.si/view/2148783) |
@@ -46,8 +48,6 @@
 | `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E07 (いびってこ...` | **691.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/630697) • [🐱 Nyaa](https://nyaa.si/view/2148745) |
 | `[geckyzz] Perfect Addiction - S01E07 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **189.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630696) • [🐱 Nyaa](https://nyaa.si/view/2148737) |
 | `[Gecko] Candy Caries - S01E19 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **88.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630693) • [🐱 Nyaa](https://nekobt.to/torrents/13185578430976) |
-| `[Gecko] Cat Tales - S01E45 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630694) • [🐱 Nyaa](https://nekobt.to/torrents/13185576403714) |
-| `[FrixySubs] ReZero kara Hajimeru Isekai Seikatsu - S04E13 [1080p CR...` | **1697.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630692) • [🐱 Nyaa](https://nekobt.to/torrents/13185372791046) |
 
 ---
 <div align="center">
