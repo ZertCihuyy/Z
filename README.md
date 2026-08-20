@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.11.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.01.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Bungou Stray Dogs Wan 2 - 08 [1080p CR WEB-DL AVC AAC][...` | **690.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630748) • [🐱 Nyaa](https://nyaa.si/view/2148858) |
+| `[Erai-raws] Reiwa no Dara-san - 08 [1080p CR WEBRip HEVC AAC][Multi...` | **586.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630751) • [🐱 Nyaa](https://nyaa.si/view/2148854) |
+| `[ASW] Bungou Stray Dogs Wan! S2 - 08 [1080p HEVC x265 10Bit][AAC]` | **220.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630747) • [🐱 Nyaa](https://nyaa.si/view/2148848) |
+| `[ASW] Reiwa no Dara-san - 08 [1080p HEVC x265 10Bit][AAC]` | **229.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630745) • [🐱 Nyaa](https://nyaa.si/view/2148845) |
+| `[Onalrie] Reiwa no Dara-san - S01E08 [1080p WEBRip AV1]` | **165.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630746) • [🐱 Nyaa](https://nekobt.to/torrents/13194769208077) |
 | `[ToonsHub] Koalas Diary S01E45 1080p LNTV WEB-DL AAC2.0 H.264 (Mult...` | **79.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/630744) • [🐱 Nyaa](https://nekobt.to/torrents/13194689789453) |
 | `[ToonsHub] Bungo Stray Dogs WAN S02E08 1080p AMZN WEB-DL DDP2.0 H.2...` | **549.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630741) • [🐱 Nyaa](https://nyaa.si/view/2148843) |
 | `[ToonsHub] GANSO BanG Dream Chan S01E46 1080p AMZN WEB-DL DDP2.0 H....` | **70.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630742) • [🐱 Nyaa](https://nyaa.si/view/2148842) |
@@ -43,11 +48,6 @@
 | `Bungo Stray Dogs WAN S02E06 Reclaim Your Bygone Youth-Oddly Incompa...` | **706.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630728) • [🐱 Nyaa](https://nyaa.si/view/2148828) |
 | `Bungo Stray Dogs WAN S02E08 Clash At a Dangerous Field Day 1080p CR...` | **689.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/630729) • [🐱 Nyaa](https://nyaa.si/view/2148827) |
 | `[ToonsHub] Bungo Stray Dogs WAN S02E06 1080p CR WEB-DL DUAL AAC2.0 ...` | **704.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630731) • [🐱 Nyaa](https://nyaa.si/view/2148826) |
-| `[AnoZu] Bungo Stray Dogs Wan! S02E08 1080p CR WEB-DL AAC 2.0 H.264` | **691.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/630734) • [🐱 Nyaa](https://nekobt.to/torrents/13194273449224) |
-| `[ToonsHub] Bungo Stray Dogs WAN S02E08 1080p CR WEB-DL AAC2.0 H.264...` | **687.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630736) • [🐱 Nyaa](https://nekobt.to/torrents/13194273128458) |
-| `[SubsPlease] Bungou Stray Dogs Wan! S2 - 08 (1080p) [768AD346].mkv` | **683.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/630739) • [🐱 Nyaa](https://nyaa.si/view/2148824) |
-| `Dara san of the Reiwa Era S01E08 A Serpents Struggles 1080p CR WEB-...` | **1406.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/630724) • [🐱 Nyaa](https://nyaa.si/view/2148819) |
-| `[ToonsHub] Dara-san of the Reiwa Era S01E08 1080p CR WEB-DL AAC2.0 ...` | **1429.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630725) • [🐱 Nyaa](https://nyaa.si/view/2148818) |
 
 ---
 <div align="center">
