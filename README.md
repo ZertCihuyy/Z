@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.03.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.00.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Otome Kaijuu Carameliser - S01E08 [1080p WEBRip AV1]` | **301.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630898) • [🐱 Nyaa](https://nekobt.to/torrents/13199713028356) |
+| `[ASW] Otome Kaijuu Carameliser - 08 [1080p HEVC x265 10Bit][AAC]` | **419.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/630897) • [🐱 Nyaa](https://nyaa.si/view/2149066) |
+| `[Erai-raws] Yani Neko - 08 [1080p NF WEBRip HEVC AAC][MultiSub][6E7...` | **545.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630896) • [🐱 Nyaa](https://nyaa.si/view/2149062) |
+| `[DKB] Yani Neko - S01E08 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **458.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630895) • [🐱 Nyaa](https://nyaa.si/view/2149060) |
 | `[Mocha] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **445.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630894) • [🐱 Nyaa](https://nyaa.si/view/2149059) |
 | `[Onalrie] Yani Neko - S01E08 [1080p WEBRip AV1]` | **330.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630893) • [🐱 Nyaa](https://nekobt.to/torrents/13198990290946) |
 | `[AnoZu] KAIJU GIRL CARAMELISE S01E06 1080p CR WEB-DL Dual-Audio DDP...` | **1795.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630892) • [🐱 Nyaa](https://nyaa.si/view/2149055) |
@@ -44,10 +48,6 @@
 | `[ToonsHub] KAIJU GIRL CARAMELISE S01E06 1080p CR WEB-DL DUAL AAC2.0...` | **1795.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630889) • [🐱 Nyaa](https://nekobt.to/torrents/13198774710024) |
 | `[ToonsHub] KAIJU GIRL CARAMELISE S01E08 1080p CR WEB-DL AAC2.0 H.26...` | **1695.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/630876) • [🐱 Nyaa](https://nyaa.si/view/2149047) |
 | `[SubsPlease] Otome Kaijuu Carameliser - 08 (1080p) [F0120EEB].mkv` | **1416.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/630877) • [🐱 Nyaa](https://nyaa.si/view/2149046) |
-| `KAIJU GIRL CARAMELISE S01E05 A Gyaru and Lipstick 1080p CR WEB-DL M...` | **1545.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630879) • [🐱 Nyaa](https://nyaa.si/view/2149044) |
-| `KAIJU GIRL CARAMELISE S01E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264...` | **1690.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/630890) • [🐱 Nyaa](https://nekobt.to/torrents/13198730662914) |
-| `[Erai-raws] Otome Kaijuu Carameliser - 08 [1080p CR WEB-DL AVC AAC]...` | **1697.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630883) • [🐱 Nyaa](https://nyaa.si/view/2149039) |
-| `[ToonsHub] KAIJU GIRL CARAMELISE S01E08 1080p BILI WEB-DL AAC2.0 H....` | **377.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/630874) • [🐱 Nyaa](https://nyaa.si/view/2149036) |
 
 ---
 <div align="center">
