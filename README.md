@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.46.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.33.30_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Otome Kaijuu Caraméliser - S01E08 [1080p][HEVC x265 10bit][Mu...` | **616.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/630903) • [🐱 Nyaa](https://nyaa.si/view/2149082) |
+| `[DKB] Super no Ura de Yani Suu Futari - S01E07 [1080p][HEVC x265 10...` | **225.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/630904) • [🐱 Nyaa](https://nyaa.si/view/2149081) |
+| `[Erai-raws] Mebius Dust - 07 [1080p CR WEBRip HEVC AAC][MultiSub][7...` | **347.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630901) • [🐱 Nyaa](https://nekobt.to/torrents/13200806501899) |
+| `[Erai-raws] Otome Kaijuu Carameliser - 08 [1080p CR WEBRip HEVC AAC...` | **669.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/630902) • [🐱 Nyaa](https://nekobt.to/torrents/13200802411017) |
 | `KAIJU GIRL CARAMELISE S01E07 1080p BILI WEB-DL AAC2.0 H.264-VARYG (...` | **385.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630899) • [🐱 Nyaa](https://nyaa.si/view/2149077) |
 | `The Frontier Lord Begins with Zero Subjects S01E04 1080p BILI WEB-D...` | **273.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630900) • [🐱 Nyaa](https://nyaa.si/view/2149076) |
 | `[Onalrie] Otome Kaijuu Carameliser - S01E08 [1080p WEBRip AV1]` | **301.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630898) • [🐱 Nyaa](https://nekobt.to/torrents/13199713028356) |
@@ -44,10 +48,6 @@
 | `[AnoZu] KAIJU GIRL CARAMELISE S01E06 1080p CR WEB-DL Dual-Audio DDP...` | **1795.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630892) • [🐱 Nyaa](https://nyaa.si/view/2149055) |
 | `[Ironclad] Dara-San of the Reiwa Era - S01E08 (WEB 1080p AV1) | Rei...` | **193.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/630884) • [🐱 Nyaa](https://nekobt.to/torrents/13198799303430) |
 | `[Yameii] KAIJU GIRL CARAMELISE - S01E06 [English Dub] [CR WEB-DL 10...` | **1423.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630885) • [🐱 Nyaa](https://nekobt.to/torrents/13198787439873) |
-| `[AnoZu] KAIJU GIRL CARAMELISE S01E08 1080p CR WEB-DL AAC 2.0 H.264` | **1717.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/630886) • [🐱 Nyaa](https://nekobt.to/torrents/13198783965696) |
-| `[VARYG] KAIJU GIRL CARAMELISE S01E06 Rairis Forest 1080p CR WEB-DL ...` | **1796.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630887) • [🐱 Nyaa](https://nekobt.to/torrents/13198782519311) |
-| `[VARYG] KAIJU GIRL CARAMELISE S01E08 Fly to Manatsus Kaiju Island 1...` | **1714.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/630888) • [🐱 Nyaa](https://nekobt.to/torrents/13198782375945) |
-| `[ToonsHub] KAIJU GIRL CARAMELISE S01E06 1080p CR WEB-DL DUAL AAC2.0...` | **1795.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630889) • [🐱 Nyaa](https://nekobt.to/torrents/13198774710024) |
 
 ---
 <div align="center">
