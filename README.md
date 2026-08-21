@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.47.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.37.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Stellea] Love Live! Hasunosora Jogakuin School Idol Club- Bloom Ga...` | **3161.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631020) • [🐱 Nyaa](https://nyaa.si/view/2149300) |
-| `[ASW] Kokoore - 08 [1080p HEVC x265 10Bit][AAC]` | **161.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631019) • [🐱 Nyaa](https://nyaa.si/view/2149296) |
-| `[Onalrie] ryoumin0 - S01E08 [1080p WEBRip AV1]` | **211.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/631018) • [🐱 Nyaa](https://onalrie.app/torrent/01744761-575b-4f21-bf6b-f15ca18f6cbb) |
-| `[ASW] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 08 [1080p HEVC ...` | **240.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/631017) • [🐱 Nyaa](https://nyaa.si/view/2149294) |
-| `[ToonsHub] I Became a Legend after My 10 Year-Long Last Stand S01E0...` | **1390.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631004) • [🐱 Nyaa](https://nyaa.si/view/2149292) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E08 1080p...` | **844.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631005) • [🐱 Nyaa](https://nyaa.si/view/2149291) |
-| `I Became a Legend After My 10 Year Long Last Stand S01E08 SUBFRENCH...` | **1384.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631013) • [🐱 Nyaa](https://nekobt.to/torrents/13217630256648) |
-| `I Became a Legend after My 10 Year Long Last Stand S01E08 1080p CR ...` | **1408.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631006) • [🐱 Nyaa](https://nyaa.si/view/2149289) |
-| `[AnoZu] I Became a Legend After My 10 Year-Long Last Stand S01E08 1...` | **1410.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631007) • [🐱 Nyaa](https://nyaa.si/view/2149288) |
-| `[SubsPlease] Kokoore - 08 (1080p) [424D2122].mkv` | **1380.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/631008) • [🐱 Nyaa](https://nyaa.si/view/2149286) |
-| `[Erai-raws] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen...` | **1389.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/631003) • [🐱 Nyaa](https://nyaa.si/view/2149282) |
-| `The Frontier Lord Begins with Zero Subjects S01E08 SUBFRENCH 1080p ...` | **1385.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/631015) • [🐱 Nyaa](https://nekobt.to/torrents/13217586038789) |
-| `[Doomdos] - The Frontier Lord Begins with Zero Subjects - 8 [1080p ...` | **269.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631001) • [🐱 Nyaa](https://nyaa.si/view/2149278) |
-| `[Unfucked] The Frontier Lord Begins with Zero Subjects - S01E08 (10...` | **1387.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/631002) • [🐱 Nyaa](https://nyaa.si/view/2149277) |
-| `[FrixySubs] Smoking Behind the Supermarket with You - S01E04 [1080p...` | **1411.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631000) • [🐱 Nyaa](https://nekobt.to/torrents/13217353770243) |
+| `Draw This Then Die S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsu...` | **1342.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631047) • [🐱 Nyaa](https://nekobt.to/torrents/13218989053957) |
+| `[Erai-raws] Kami no Shizuku - 20 [1080p CR WEB-DL AVC AAC][MultiSub...` | **1382.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/631054) • [🐱 Nyaa](https://nyaa.si/view/2149357) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E19 1080p NF ...` | **875.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631049) • [🐱 Nyaa](https://nekobt.to/torrents/13218913919753) |
+| `[Judas] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga ...` | **163.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631046) • [🐱 Nyaa](https://nyaa.si/view/2149350) |
+| `[Shridhuu][1080p HBR] Jade Dynasty - 诛仙 (Zhu Xian) - S04E01` | **873.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/631044) • [🐱 Nyaa](https://nyaa.si/view/2149347) |
+| `[AnoZu] That Time I Got Reincarnated as a Slime S04E17 1080p CR WEB...` | **1474.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/631043) • [🐱 Nyaa](https://nekobt.to/torrents/13218767968012) |
+| `That Time I Got Reincarnated as a Slime S04E19 Death and Loss 1080p...` | **1423.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631039) • [🐱 Nyaa](https://nyaa.si/view/2149338) |
+| `That Time I Got Reincarnated as a Slime S04E17 Lubelius the Point o...` | **1460.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631040) • [🐱 Nyaa](https://nyaa.si/view/2149337) |
+| `[Doomdos] - That Time I Got Reincarnated as a Slime Season 4 - 91 [...` | **343.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/631041) • [🐱 Nyaa](https://nyaa.si/view/2149336) |
+| `The Angel Next Door Spoils Me Rotten S02E04 A Stay-at-Home Date wit...` | **1538.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631042) • [🐱 Nyaa](https://nyaa.si/view/2149335) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E17 1080p CR ...` | **1459.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/631029) • [🐱 Nyaa](https://nekobt.to/torrents/13218588524042) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E19 1080p CR ...` | **1422.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631030) • [🐱 Nyaa](https://nekobt.to/torrents/13218586038026) |
+| `[AnoZu] That Time I Got Reincarnated as a Slime S04E19 1080p CR WEB...` | **1427.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631031) • [🐱 Nyaa](https://nekobt.to/torrents/13218577335049) |
+| `[Yameii] That Time I Got Reincarnated as a Slime - S04E17 [English ...` | **1405.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/631032) • [🐱 Nyaa](https://nekobt.to/torrents/13218573048330) |
+| `[VARYG] That Time I Got Reincarnated as a Slime S04E16 Gran the Daw...` | **328.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631034) • [🐱 Nyaa](https://nekobt.to/torrents/13218558479368) |
 
 ---
 <div align="center">
