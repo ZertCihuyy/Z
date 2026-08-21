@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.53.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.43.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Bai Ri Cheng Wang - 18 [1080p HEVC x265 10Bit][AAC]` | **138.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630972) • [🐱 Nyaa](https://nyaa.si/view/2149189) |
+| `[Gecko] Koala's Diary - S01E45 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **86.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630971) • [🐱 Nyaa](https://nyaa.si/view/2149187) |
+| `[ToonsHub] Crowned in a Hundred Days S01E18 1080p CR WEB-DL AAC2.0 ...` | **679.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630963) • [🐱 Nyaa](https://nekobt.to/torrents/13208444071694) |
+| `[AnoZu] Crowned in a Hundred Days S01E18 1080p CR WEB-DL AAC 2.0 H.264` | **682.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/630964) • [🐱 Nyaa](https://nekobt.to/torrents/13208424834061) |
+| `[VARYG] Crowned in a Hundred Days S01E18 1080p CR WEB-DL AAC2.0 H.2...` | **682.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630966) • [🐱 Nyaa](https://nekobt.to/torrents/13208424188419) |
+| `[Gecko] Crowned in a Hundred Days - S01E18 (百日成王; Bai Ri Cheng Wang...` | **156.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630967) • [🐱 Nyaa](https://nekobt.to/torrents/13208398413570) |
+| `[SubsPlease] Bai Ri Cheng Wang - 18 (1080p) [CE3E3F9B].mkv` | **677.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630958) • [🐱 Nyaa](https://nyaa.si/view/2149180) |
+| `Crowned in a Hundred Days S01E18 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **677.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/630968) • [🐱 Nyaa](https://nekobt.to/torrents/13208383810315) |
+| `[ToonsHub] Crowned in a Hundred Days S01E18 1080p BILI WEB-DL AAC2....` | **152.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630960) • [🐱 Nyaa](https://nyaa.si/view/2149178) |
+| `[Erai-raws] Crowned in a Hundred Days - 18 (CA) [1080p CR WEB-DL AV...` | **411.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630962) • [🐱 Nyaa](https://nyaa.si/view/2149173) |
 | `[ASW] Link Click S3 - 03 [1080p HEVC x265 10Bit][AAC]` | **198.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630957) • [🐱 Nyaa](https://nyaa.si/view/2149169) |
 | `[Gecko] BanG Dream! YUME∞MITA - S01E10 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **694.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630951) • [🐱 Nyaa](https://nekobt.to/torrents/13207730457347) |
 | `[Judas] Shunkashuutou Daikousha: Haru no Mai (Agents of the Four Se...` | **5500.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630955) • [🐱 Nyaa](https://nyaa.si/view/2149167) |
 | `[Judas] MARRIAGETOXIN (Season 01) [1080p][HEVC x265 10bit][Dual-Aud...` | **4727.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630953) • [🐱 Nyaa](https://nyaa.si/view/2149166) |
 | `[ToonsHub] LINK CLICK S04E03 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1217.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/630952) • [🐱 Nyaa](https://nekobt.to/torrents/13207674685696) |
-| `[ToonsHub] LINK CLICK S04E03 1080p BILI WEB-DL AAC2.0 H.265 (Multi-...` | **274.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630954) • [🐱 Nyaa](https://nekobt.to/torrents/13207673892873) |
-| `[Judas] Katainaka no Ossan, Kensei ni Naru (From Old Country Bumpki...` | **298.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630950) • [🐱 Nyaa](https://nyaa.si/view/2149162) |
-| `[VARYG] LINK CLICK S04E03 Bloodbath in Laos 1080p CR WEB-DL AAC2.0 ...` | **1217.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630942) • [🐱 Nyaa](https://nekobt.to/torrents/13207522325762) |
-| `[AnoZu] Link Click S04E03 1080p CR WEB-DL AAC 2.0 H.264` | **1219.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630943) • [🐱 Nyaa](https://nekobt.to/torrents/13207499753996) |
-| `[Gecko] LINK CLICK - S04E03 (时光代理人; Shiguang Dailiren III) [BILI.WE...` | **277.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630945) • [🐱 Nyaa](https://nekobt.to/torrents/13207498732806) |
-| `[SubsPlease] Link Click S3 - 03 (1080p) [103F97D0].mkv` | **1210.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/630936) • [🐱 Nyaa](https://nyaa.si/view/2149151) |
-| `Link Click S04E03 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1213.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630946) • [🐱 Nyaa](https://nekobt.to/torrents/13207469662725) |
-| `[Erai-raws] Shiguang Dailiren Season 3 - 03 (CA) [1080p CR WEB-DL A...` | **1218.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/630940) • [🐱 Nyaa](https://nyaa.si/view/2149145) |
-| `[Gecko] Chiikawa - S01E371 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **18.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630935) • [🐱 Nyaa](https://nekobt.to/torrents/13206117926410) |
-| `[Doomdos] - The Great Ruler - 87 [1080p IQ WEB-DL]` | **394.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630934) • [🐱 Nyaa](https://nyaa.si/view/2149132) |
 
 ---
 <div align="center">
