@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.58.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.01.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Shridhuu][1080p] Perfect World - 完美世界 (Wanmei Shijie) - EP283` | **484.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630976) • [🐱 Nyaa](https://nyaa.si/view/2149209) |
+| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **323.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630975) • [🐱 Nyaa](https://nyaa.si/view/2149206) |
 | `[Onalrie] Shiguang Dailiren - S03E03 (CA) [1080p WEBRip AV1]` | **157.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630974) • [🐱 Nyaa](https://nekobt.to/torrents/13210002929423) |
 | `[Onalrie] Crowned in a Hundred Days - S01E18 (CA) [1080p WEBRip AV1]` | **117.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630973) • [🐱 Nyaa](https://nekobt.to/torrents/13209683465988) |
 | `[ASW] Bai Ri Cheng Wang - 18 [1080p HEVC x265 10Bit][AAC]` | **138.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630972) • [🐱 Nyaa](https://nyaa.si/view/2149189) |
@@ -46,8 +48,6 @@
 | `[ToonsHub] Crowned in a Hundred Days S01E18 1080p BILI WEB-DL AAC2....` | **152.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630960) • [🐱 Nyaa](https://nyaa.si/view/2149178) |
 | `[Erai-raws] Crowned in a Hundred Days - 18 (CA) [1080p CR WEB-DL AV...` | **411.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/630962) • [🐱 Nyaa](https://nyaa.si/view/2149173) |
 | `[ASW] Link Click S3 - 03 [1080p HEVC x265 10Bit][AAC]` | **198.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630957) • [🐱 Nyaa](https://nyaa.si/view/2149169) |
-| `[Gecko] BanG Dream! YUME∞MITA - S01E10 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **694.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630951) • [🐱 Nyaa](https://nekobt.to/torrents/13207730457347) |
-| `[Judas] Shunkashuutou Daikousha: Haru no Mai (Agents of the Four Se...` | **5500.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630955) • [🐱 Nyaa](https://nyaa.si/view/2149167) |
 
 ---
 <div align="center">
