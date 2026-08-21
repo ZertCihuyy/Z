@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.34.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.01.59_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E08 [WEB.1080p.AV1] | K...` | **372.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/631152) • [🐱 Nyaa](https://nyaa.si/view/2149484) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime - S04E17 (WEB ...` | **1492.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631150) • [🐱 Nyaa](https://nekobt.to/torrents/13222997111297) |
 | `[Ny] Link Click - S04E03 (WEBRip 1920x800 HEVC AAC) | Shiguang Dail...` | **2234.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/631149) • [🐱 Nyaa](https://nekobt.to/torrents/13222756522510) |
 | `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **218.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631148) • [🐱 Nyaa](https://nyaa.si/view/2149478) |
@@ -47,7 +48,6 @@
 | `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 19 [1080p C...` | **762.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631140) • [🐱 Nyaa](https://nyaa.si/view/2149469) |
 | `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E19 [WEB.1080p.AV1...` | **343.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/631138) • [🐱 Nyaa](https://nyaa.si/view/2149467) |
 | `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **256.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631137) • [🐱 Nyaa](https://nekobt.to/torrents/13221450571524) |
-| `[SubsWhen] False Memory (2026) - S01E01 (AMZN WEB-DL 1080p H.264 DD...` | **2109.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631136) • [🐱 Nyaa](https://nyaa.si/view/2149466) |
 
 ---
 <div align="center">
