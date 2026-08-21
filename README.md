@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.37.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.04.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Draw This Then Die S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsu...` | **1342.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631047) • [🐱 Nyaa](https://nekobt.to/torrents/13218989053957) |
-| `[Erai-raws] Kami no Shizuku - 20 [1080p CR WEB-DL AVC AAC][MultiSub...` | **1382.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/631054) • [🐱 Nyaa](https://nyaa.si/view/2149357) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E19 1080p NF ...` | **875.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631049) • [🐱 Nyaa](https://nekobt.to/torrents/13218913919753) |
-| `[Judas] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga ...` | **163.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631046) • [🐱 Nyaa](https://nyaa.si/view/2149350) |
-| `[Shridhuu][1080p HBR] Jade Dynasty - 诛仙 (Zhu Xian) - S04E01` | **873.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/631044) • [🐱 Nyaa](https://nyaa.si/view/2149347) |
-| `[AnoZu] That Time I Got Reincarnated as a Slime S04E17 1080p CR WEB...` | **1474.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/631043) • [🐱 Nyaa](https://nekobt.to/torrents/13218767968012) |
-| `That Time I Got Reincarnated as a Slime S04E19 Death and Loss 1080p...` | **1423.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631039) • [🐱 Nyaa](https://nyaa.si/view/2149338) |
-| `That Time I Got Reincarnated as a Slime S04E17 Lubelius the Point o...` | **1460.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631040) • [🐱 Nyaa](https://nyaa.si/view/2149337) |
-| `[Doomdos] - That Time I Got Reincarnated as a Slime Season 4 - 91 [...` | **343.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/631041) • [🐱 Nyaa](https://nyaa.si/view/2149336) |
-| `The Angel Next Door Spoils Me Rotten S02E04 A Stay-at-Home Date wit...` | **1538.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631042) • [🐱 Nyaa](https://nyaa.si/view/2149335) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E17 1080p CR ...` | **1459.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/631029) • [🐱 Nyaa](https://nekobt.to/torrents/13218588524042) |
-| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E19 1080p CR ...` | **1422.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631030) • [🐱 Nyaa](https://nekobt.to/torrents/13218586038026) |
-| `[AnoZu] That Time I Got Reincarnated as a Slime S04E19 1080p CR WEB...` | **1427.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631031) • [🐱 Nyaa](https://nekobt.to/torrents/13218577335049) |
-| `[Yameii] That Time I Got Reincarnated as a Slime - S04E17 [English ...` | **1405.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/631032) • [🐱 Nyaa](https://nekobt.to/torrents/13218573048330) |
-| `[VARYG] That Time I Got Reincarnated as a Slime S04E16 Gran the Daw...` | **328.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631034) • [🐱 Nyaa](https://nekobt.to/torrents/13218558479368) |
+| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E19 [1080p WEBRip AV1]` | **279.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/631076) • [🐱 Nyaa](https://nekobt.to/torrents/13219359959309) |
+| `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E07 (108...` | **225.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/631077) • [🐱 Nyaa](https://nekobt.to/torrents/13219294929163) |
+| `[DKB] Ryoumin 0-Nin Start no Henkyou Ryoushu-sama - S01E08 [1080p][...` | **263.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631075) • [🐱 Nyaa](https://nyaa.si/view/2149386) |
+| `[AnoZu] The Drops of God S01E18 1080p CR WEB-DL Dual-Audio DDP 2.0 ...` | **1473.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631065) • [🐱 Nyaa](https://nyaa.si/view/2149383) |
+| `[Erai-raws] Kore Kaite Shine - 07 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1347.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/631066) • [🐱 Nyaa](https://nyaa.si/view/2149382) |
+| `The Drops of God S01E18 Embraced By the Eternal Universe 1080p CR W...` | **1436.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/631067) • [🐱 Nyaa](https://nyaa.si/view/2149381) |
+| `The Drops of God S01E20 A New Hand Shrouded in a Veil 1080p CR WEB-...` | **1400.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/631068) • [🐱 Nyaa](https://nyaa.si/view/2149380) |
+| `[VARYG] Draw This Then Die S01E07 The Lost World Draw with the Inte...` | **1349.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/631069) • [🐱 Nyaa](https://nekobt.to/torrents/13219100686351) |
+| `[AnoZu] The Drops of God S01E20 1080p CR WEB-DL AAC 2.0 H.264` | **1404.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/631070) • [🐱 Nyaa](https://nekobt.to/torrents/13219085794055) |
+| `[SubsPlease] Kore Kaite Shine - 07 (1080p) [36675E2F].mkv` | **1339.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631071) • [🐱 Nyaa](https://nyaa.si/view/2149376) |
+| `[ToonsHub] Draw This Then Die S01E07 1080p CR WEB-DL DUAL AAC2.0 H....` | **1368.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631057) • [🐱 Nyaa](https://nyaa.si/view/2149373) |
+| `[AnoZu] Draw This, Then Die! S01E07 1080p CR WEB-DL AAC 2.0 H.264 |...` | **1349.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/631058) • [🐱 Nyaa](https://nyaa.si/view/2149372) |
+| `[Yameii] The Drops of God - S01E18 [English Dub] [CR WEB-DL 1080p H...` | **1382.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631059) • [🐱 Nyaa](https://nyaa.si/view/2149371) |
+| `The Drops of God S01E20 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1376.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631072) • [🐱 Nyaa](https://nekobt.to/torrents/13219026085902) |
+| `[ToonsHub] The Drops of God S01E18 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1457.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/631061) • [🐱 Nyaa](https://nyaa.si/view/2149367) |
 
 ---
 <div align="center">
