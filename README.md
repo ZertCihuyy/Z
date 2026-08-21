@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.57.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.30.52_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **218.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631148) • [🐱 Nyaa](https://nyaa.si/view/2149478) |
+| `[ToonsHub] Draw This Then Die S01E07 1080p CR WEB-DL MULTi AAC2.0 H...` | **1432.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/631147) • [🐱 Nyaa](https://nekobt.to/torrents/13222223987976) |
 | `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E08 [1080p WEBRip AV1]` | **171.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631146) • [🐱 Nyaa](https://nekobt.to/torrents/13221924024832) |
 | `[Erai-raws] Shiguang Dailiren Season 3 - 03 (CA) [1080p CR WEBRip H...` | **242.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/631145) • [🐱 Nyaa](https://nyaa.si/view/2149475) |
 | `[Erai-raws] Kore Kaite Shine - 07 [1080p CR WEBRip HEVC AAC][MultiS...` | **486.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631141) • [🐱 Nyaa](https://nekobt.to/torrents/13221799772431) |
@@ -46,8 +48,6 @@
 | `[SubsWhen] False Memory (2026) - S01E01 (AMZN WEB-DL 1080p H.264 DD...` | **2109.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631136) • [🐱 Nyaa](https://nyaa.si/view/2149466) |
 | `[ASW] Uchi no Otouto-domo ga Sumimasen - 08 [1080p HEVC x265 10Bit]...` | **185.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631135) • [🐱 Nyaa](https://nyaa.si/view/2149462) |
 | `[ASW] Hell Mode S2 - 08 [1080p HEVC x265 10Bit][AAC]` | **342.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631134) • [🐱 Nyaa](https://nyaa.si/view/2149459) |
-| `[Onalrie] Nige Jouzu no Wakagimi - S02E06 [1080p WEBRip AV1]` | **377.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/631133) • [🐱 Nyaa](https://nekobt.to/torrents/13220912630530) |
-| `[ASW] Nige Jouzu no Wakagimi S2 - 06 [1080p HEVC x265 10Bit][AAC]` | **601.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631132) • [🐱 Nyaa](https://nyaa.si/view/2149458) |
 
 ---
 <div align="center">
