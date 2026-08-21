@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-23.04.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.52.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Tensei Shitara Slime Datta Ken - S04E19 [1080p WEBRip AV1]` | **279.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/631076) • [🐱 Nyaa](https://nekobt.to/torrents/13219359959309) |
-| `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E07 (108...` | **225.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/631077) • [🐱 Nyaa](https://nekobt.to/torrents/13219294929163) |
-| `[DKB] Ryoumin 0-Nin Start no Henkyou Ryoushu-sama - S01E08 [1080p][...` | **263.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631075) • [🐱 Nyaa](https://nyaa.si/view/2149386) |
-| `[AnoZu] The Drops of God S01E18 1080p CR WEB-DL Dual-Audio DDP 2.0 ...` | **1473.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631065) • [🐱 Nyaa](https://nyaa.si/view/2149383) |
-| `[Erai-raws] Kore Kaite Shine - 07 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1347.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/631066) • [🐱 Nyaa](https://nyaa.si/view/2149382) |
-| `The Drops of God S01E18 Embraced By the Eternal Universe 1080p CR W...` | **1436.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/631067) • [🐱 Nyaa](https://nyaa.si/view/2149381) |
-| `The Drops of God S01E20 A New Hand Shrouded in a Veil 1080p CR WEB-...` | **1400.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/631068) • [🐱 Nyaa](https://nyaa.si/view/2149380) |
-| `[VARYG] Draw This Then Die S01E07 The Lost World Draw with the Inte...` | **1349.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/631069) • [🐱 Nyaa](https://nekobt.to/torrents/13219100686351) |
-| `[AnoZu] The Drops of God S01E20 1080p CR WEB-DL AAC 2.0 H.264` | **1404.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/631070) • [🐱 Nyaa](https://nekobt.to/torrents/13219085794055) |
-| `[SubsPlease] Kore Kaite Shine - 07 (1080p) [36675E2F].mkv` | **1339.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631071) • [🐱 Nyaa](https://nyaa.si/view/2149376) |
-| `[ToonsHub] Draw This Then Die S01E07 1080p CR WEB-DL DUAL AAC2.0 H....` | **1368.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631057) • [🐱 Nyaa](https://nyaa.si/view/2149373) |
-| `[AnoZu] Draw This, Then Die! S01E07 1080p CR WEB-DL AAC 2.0 H.264 |...` | **1349.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/631058) • [🐱 Nyaa](https://nyaa.si/view/2149372) |
-| `[Yameii] The Drops of God - S01E18 [English Dub] [CR WEB-DL 1080p H...` | **1382.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631059) • [🐱 Nyaa](https://nyaa.si/view/2149371) |
-| `The Drops of God S01E20 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1376.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631072) • [🐱 Nyaa](https://nekobt.to/torrents/13219026085902) |
-| `[ToonsHub] The Drops of God S01E18 1080p CR WEB-DL DUAL AAC2.0 H.26...` | **1457.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/631061) • [🐱 Nyaa](https://nyaa.si/view/2149367) |
+| `[VARYG] Please Excuse My Younger Brothers S01E08 Whatll Happen to t...` | **1416.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/631118) • [🐱 Nyaa](https://nekobt.to/torrents/13220111695875) |
+| `[VARYG] HELL MODE S02E08 THE BATTLE OF TIAMO 1080p HIDI WEB-DL AAC2...` | **925.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631119) • [🐱 Nyaa](https://nekobt.to/torrents/13220081141512) |
+| `HELL MODE The Hardcore Gamer Dominates in Another World with Garbag...` | **623.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/631120) • [🐱 Nyaa](https://nekobt.to/torrents/13220071316480) |
+| `[Trix] The Drops of God S01E20 [WEBRip 1080p AV1 Opus] (Multi Subs,...` | **335.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631122) • [🐱 Nyaa](https://nekobt.to/torrents/13220068627203) |
+| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **624.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631116) • [🐱 Nyaa](https://nyaa.si/view/2149438) |
+| `The Elusive Samurai S02E18 The Boy Who Became a God 1080p CR WEB-DL...` | **1735.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/631117) • [🐱 Nyaa](https://nyaa.si/view/2149437) |
+| `[ToonsHub] Please Excuse My Younger Brothers S01E08 1080p CR WEB-DL...` | **1417.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/631105) • [🐱 Nyaa](https://nyaa.si/view/2149436) |
+| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **925.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/631106) • [🐱 Nyaa](https://nyaa.si/view/2149435) |
+| `[ASW] Kami no Shizuku - 20 [1080p HEVC x265 10Bit][AAC]` | **381.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631107) • [🐱 Nyaa](https://nyaa.si/view/2149434) |
+| `[SubsPlease] Hell Mode S2 - 08 (1080p) [F2A317D5].mkv` | **925.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631108) • [🐱 Nyaa](https://nyaa.si/view/2149433) |
+| `[Erai-raws] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Iseka...` | **925.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/631113) • [🐱 Nyaa](https://nyaa.si/view/2149428) |
+| `[AnoZu] Please Excuse My Younger Brothers S01E08 1080p CR WEB-DL AA...` | **1422.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/631114) • [🐱 Nyaa](https://nyaa.si/view/2149427) |
+| `[Unfucked] The Elusive Samurai - S02E06 (1080p CR WEB-DL AVC AAC 2....` | **1736.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/631115) • [🐱 Nyaa](https://nyaa.si/view/2149426) |
+| `[ToonsHub] KAMUI Hes Behind You S01E08 1080p UNCENSORED OV WEB-DL A...` | **1361.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/631095) • [🐱 Nyaa](https://nekobt.to/torrents/13219909360391) |
+| `Please Excuse My Younger Brothers S01E08 SUBFRENCH 1080p CR WEB-DL ...` | **1393.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/631096) • [🐱 Nyaa](https://nekobt.to/torrents/13219908352002) |
 
 ---
 <div align="center">
