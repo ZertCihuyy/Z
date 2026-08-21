@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.02.53_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.40.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Z-A] Dr. Stone Science Future - S04E33 (WEB 1080p AAC)` | **1505.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/631158) • [🐱 Nyaa](https://nekobt.to/torrents/13226335447554) |
+| `[PHTMini] Attack on Titan - S01 (BD 1080p AV1 Opus) (Dual-Audio) (G...` | **9827.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631159) • [🐱 Nyaa](https://nekobt.to/torrents/13226288087823) |
+| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **334.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/631156) • [🐱 Nyaa](https://nyaa.si/view/2149495) |
+| `[DKB] Nige Jouzu no Wakagimi - S02E06 [1080p][HEVC x265 10bit][Mult...` | **695.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/631157) • [🐱 Nyaa](https://nyaa.si/view/2149494) |
 | `[sam] Hunter x Hunter (2011) (059-075) (BD 1080p HEVC x265 10-bit F...` | **51911.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631154) • [🐱 Nyaa](https://nekobt.to/torrents/13224256831235) |
 | `[Erai-raws] Nige Jouzu no Wakagimi S02E06 [1080p CR WEBRip HEVC AAC...` | **762.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631155) • [🐱 Nyaa](https://nekobt.to/torrents/13224249491968) |
 | `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 08 [1080p CR WEBRip ...` | **328.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/631153) • [🐱 Nyaa](https://nyaa.si/view/2149486) |
@@ -44,10 +48,6 @@
 | `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E08 [1080p WEBRip AV1]` | **171.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631146) • [🐱 Nyaa](https://nekobt.to/torrents/13221924024832) |
 | `[Erai-raws] Shiguang Dailiren Season 3 - 03 (CA) [1080p CR WEBRip H...` | **242.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/631145) • [🐱 Nyaa](https://nyaa.si/view/2149475) |
 | `[Erai-raws] Kore Kaite Shine - 07 [1080p CR WEBRip HEVC AAC][MultiS...` | **486.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631141) • [🐱 Nyaa](https://nekobt.to/torrents/13221799772431) |
-| `[Erai-raws] Kami no Shizuku - 20 [1080p CR WEBRip HEVC AAC][MultiSu...` | **582.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631142) • [🐱 Nyaa](https://nekobt.to/torrents/13221796960012) |
-| `[Erai-raws] Crowned in a Hundred Days - 18 (CA) [1080p CR WEBRip HE...` | **169.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/631143) • [🐱 Nyaa](https://nekobt.to/torrents/13221780669451) |
-| `[Erai-raws] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen...` | **265.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/631144) • [🐱 Nyaa](https://nekobt.to/torrents/13221774904587) |
-| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 08 [1080p...` | **406.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631139) • [🐱 Nyaa](https://nyaa.si/view/2149470) |
 
 ---
 <div align="center">
