@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.59.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.47.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Stellea] Love Live! Hasunosora Jogakuin School Idol Club- Bloom Ga...` | **3161.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631020) • [🐱 Nyaa](https://nyaa.si/view/2149300) |
+| `[ASW] Kokoore - 08 [1080p HEVC x265 10Bit][AAC]` | **161.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631019) • [🐱 Nyaa](https://nyaa.si/view/2149296) |
+| `[Onalrie] ryoumin0 - S01E08 [1080p WEBRip AV1]` | **211.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/631018) • [🐱 Nyaa](https://onalrie.app/torrent/01744761-575b-4f21-bf6b-f15ca18f6cbb) |
+| `[ASW] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 08 [1080p HEVC ...` | **240.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/631017) • [🐱 Nyaa](https://nyaa.si/view/2149294) |
+| `[ToonsHub] I Became a Legend after My 10 Year-Long Last Stand S01E0...` | **1390.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631004) • [🐱 Nyaa](https://nyaa.si/view/2149292) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E08 1080p...` | **844.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631005) • [🐱 Nyaa](https://nyaa.si/view/2149291) |
+| `I Became a Legend After My 10 Year Long Last Stand S01E08 SUBFRENCH...` | **1384.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631013) • [🐱 Nyaa](https://nekobt.to/torrents/13217630256648) |
+| `I Became a Legend after My 10 Year Long Last Stand S01E08 1080p CR ...` | **1408.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631006) • [🐱 Nyaa](https://nyaa.si/view/2149289) |
+| `[AnoZu] I Became a Legend After My 10 Year-Long Last Stand S01E08 1...` | **1410.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631007) • [🐱 Nyaa](https://nyaa.si/view/2149288) |
+| `[SubsPlease] Kokoore - 08 (1080p) [424D2122].mkv` | **1380.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/631008) • [🐱 Nyaa](https://nyaa.si/view/2149286) |
+| `[Erai-raws] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen...` | **1389.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/631003) • [🐱 Nyaa](https://nyaa.si/view/2149282) |
+| `The Frontier Lord Begins with Zero Subjects S01E08 SUBFRENCH 1080p ...` | **1385.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/631015) • [🐱 Nyaa](https://nekobt.to/torrents/13217586038789) |
 | `[Doomdos] - The Frontier Lord Begins with Zero Subjects - 8 [1080p ...` | **269.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631001) • [🐱 Nyaa](https://nyaa.si/view/2149278) |
 | `[Unfucked] The Frontier Lord Begins with Zero Subjects - S01E08 (10...` | **1387.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/631002) • [🐱 Nyaa](https://nyaa.si/view/2149277) |
 | `[FrixySubs] Smoking Behind the Supermarket with You - S01E04 [1080p...` | **1411.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631000) • [🐱 Nyaa](https://nekobt.to/torrents/13217353770243) |
-| `The Frontier Lord Begins with Zero Subjects S01E08 The Frontier Lor...` | **1407.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/630999) • [🐱 Nyaa](https://nyaa.si/view/2149273) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E08 1080p...` | **1428.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630990) • [🐱 Nyaa](https://nekobt.to/torrents/13217171874310) |
-| `[AnoZu] The Frontier Lord Begins with Zero Subjects S01E08 1080p CR...` | **1410.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/630991) • [🐱 Nyaa](https://nekobt.to/torrents/13217161935361) |
-| `[SubsPlease] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 08 (1080...` | **1381.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630993) • [🐱 Nyaa](https://nyaa.si/view/2149268) |
-| `[VARYG] The Frontier Lord Begins with Zero Subjects S01E04 The Fron...` | **273.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630992) • [🐱 Nyaa](https://nekobt.to/torrents/13217152204815) |
-| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 08 [1080p...` | **1389.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630987) • [🐱 Nyaa](https://nyaa.si/view/2149263) |
-| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E08 1080p...` | **277.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/630989) • [🐱 Nyaa](https://nyaa.si/view/2149261) |
-| `[Kagura-Copyman] Maison Ikkoku Season 1-4 (BD 1080p x264 Hi10P FLAC)` | **165142.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630986) • [🐱 Nyaa](https://nyaa.si/view/2149260) |
-| `[whomst-mini] Link Click - S04E03 [WEB 1080p x265 AAC] | Shiguang D...` | **192.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630984) • [🐱 Nyaa](https://nyaa.si/view/2149259) |
-| `[whomst] Link Click - S04E03 [WEB 1080p x264 AAC] | Shiguang Dailir...` | **1214.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630985) • [🐱 Nyaa](https://nyaa.si/view/2149258) |
-| `[Bird] Yu-Gi-Oh! CARD GAME - THE CHRONICLES (2025) - 17 (1080p) [0E...` | **71.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630983) • [🐱 Nyaa](https://nyaa.si/view/2149246) |
-| `[FuyuPOP] Yani Neko - Ep08 (1080p x265 AAC WEB)` | **563.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630981) • [🐱 Nyaa](https://nekobt.to/torrents/13214884945678) |
 
 ---
 <div align="center">
