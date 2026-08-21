@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.01.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.40.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[sam] Hunter x Hunter (2011) (059-075) (BD 1080p HEVC x265 10-bit F...` | **51911.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631154) • [🐱 Nyaa](https://nekobt.to/torrents/13224256831235) |
+| `[Erai-raws] Nige Jouzu no Wakagimi S02E06 [1080p CR WEBRip HEVC AAC...` | **762.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631155) • [🐱 Nyaa](https://nekobt.to/torrents/13224249491968) |
+| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 08 [1080p CR WEBRip ...` | **328.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/631153) • [🐱 Nyaa](https://nyaa.si/view/2149486) |
 | `[Ironclad] Ushiro no Shoumen Kamui-san - S01E08 [WEB.1080p.AV1] | K...` | **372.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/631152) • [🐱 Nyaa](https://nyaa.si/view/2149484) |
 | `[FoundYears] That Time I Got Reincarnated as a Slime - S04E17 (WEB ...` | **1492.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631150) • [🐱 Nyaa](https://nekobt.to/torrents/13222997111297) |
 | `[Ny] Link Click - S04E03 (WEBRip 1920x800 HEVC AAC) | Shiguang Dail...` | **2234.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/631149) • [🐱 Nyaa](https://nekobt.to/torrents/13222756522510) |
@@ -45,9 +48,6 @@
 | `[Erai-raws] Crowned in a Hundred Days - 18 (CA) [1080p CR WEBRip HE...` | **169.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/631143) • [🐱 Nyaa](https://nekobt.to/torrents/13221780669451) |
 | `[Erai-raws] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen...` | **265.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/631144) • [🐱 Nyaa](https://nekobt.to/torrents/13221774904587) |
 | `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 08 [1080p...` | **406.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631139) • [🐱 Nyaa](https://nyaa.si/view/2149470) |
-| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 19 [1080p C...` | **762.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631140) • [🐱 Nyaa](https://nyaa.si/view/2149469) |
-| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E19 [WEB.1080p.AV1...` | **343.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/631138) • [🐱 Nyaa](https://nyaa.si/view/2149467) |
-| `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **256.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631137) • [🐱 Nyaa](https://nekobt.to/torrents/13221450571524) |
 
 ---
 <div align="center">
