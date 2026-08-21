@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.30.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.02.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Bird] Yu-Gi-Oh! CARD GAME - THE CHRONICLES (2025) - 17 (1080p) [0E...` | **71.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630983) • [🐱 Nyaa](https://nyaa.si/view/2149246) |
 | `[FuyuPOP] Yani Neko - Ep08 (1080p x265 AAC WEB)` | **563.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630981) • [🐱 Nyaa](https://nekobt.to/torrents/13214884945678) |
 | `[Ny] Link Click - S04E02 (WEBRip 1920x800 HEVC AAC) | Shiguang Dail...` | **2093.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630982) • [🐱 Nyaa](https://nekobt.to/torrents/13214837342221) |
 | `[Shridhuu][1080p] Perfect World - 完美世界 (Wanmei Shijie) - EP283` | **484.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630976) • [🐱 Nyaa](https://nyaa.si/view/2149209) |
@@ -47,7 +48,6 @@
 | `[Gecko] Crowned in a Hundred Days - S01E18 (百日成王; Bai Ri Cheng Wang...` | **156.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630967) • [🐱 Nyaa](https://nekobt.to/torrents/13208398413570) |
 | `[SubsPlease] Bai Ri Cheng Wang - 18 (1080p) [CE3E3F9B].mkv` | **677.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630958) • [🐱 Nyaa](https://nyaa.si/view/2149180) |
 | `Crowned in a Hundred Days S01E18 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **677.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/630968) • [🐱 Nyaa](https://nekobt.to/torrents/13208383810315) |
-| `[ToonsHub] Crowned in a Hundred Days S01E18 1080p BILI WEB-DL AAC2....` | **152.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630960) • [🐱 Nyaa](https://nyaa.si/view/2149178) |
 
 ---
 <div align="center">
