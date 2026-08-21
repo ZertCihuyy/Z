@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.53.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.38.54_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Chiikawa - S01E371 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **18.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630935) • [🐱 Nyaa](https://nekobt.to/torrents/13206117926410) |
+| `[Doomdos] - The Great Ruler - 87 [1080p IQ WEB-DL]` | **394.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630934) • [🐱 Nyaa](https://nyaa.si/view/2149132) |
+| `[CrappySubs] Cosmic Princess Kaguya! (2026) (v0) - (WEB 1080p HEVC ...` | **6029.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/630933) • [🐱 Nyaa](https://nyaa.si/view/2149131) |
+| `[Doomdos] - Daqian Town - 9 [1080p IQ WEB-DL]` | **98.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630932) • [🐱 Nyaa](https://nyaa.si/view/2149130) |
+| `[ToonsHub] Kaguya-sama Love is War S00E16 1080p CR WEB-DL MULTi AAC...` | **1695.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630931) • [🐱 Nyaa](https://nyaa.si/view/2149124) |
+| `[ToonsHub] Kaguya-sama Love is War S00E15 1080p CR WEB-DL MULTi AAC...` | **1604.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630928) • [🐱 Nyaa](https://nyaa.si/view/2149123) |
+| `[AnoZu] Kaguya-sama: Love Is War S00E16 The ABCs of Men and Women K...` | **1637.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630929) • [🐱 Nyaa](https://nyaa.si/view/2149122) |
+| `[AnoZu] Kaguya-sama: Love Is War S00E15 Chika Fujiwara Wants to Sur...` | **1549.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/630930) • [🐱 Nyaa](https://nyaa.si/view/2149121) |
+| `[ToonsHub] Kaguya-sama Love is War S00E16 1080p CR WEB-DL DUAL AAC2...` | **1620.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630925) • [🐱 Nyaa](https://nekobt.to/torrents/13205142592782) |
+| `[ToonsHub] Kaguya-sama Love is War S00E15 1080p CR WEB-DL DUAL AAC2...` | **1534.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/630926) • [🐱 Nyaa](https://nekobt.to/torrents/13205126018568) |
+| `[Nitsy] BanG Dream! Yume∞Mita - S01E10 (1080p WEB AAC x264)` | **1412.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630927) • [🐱 Nyaa](https://nekobt.to/torrents/13205098250759) |
+| `[VARYG] Kaguya sama Love is War S06E02 1080p CR WEB-DL DUAL AAC2.0 ...` | **1622.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/630923) • [🐱 Nyaa](https://nekobt.to/torrents/13204799049222) |
+| `[VARYG] Kaguya sama Love is War S06E01 1080p CR WEB-DL DUAL AAC2.0 ...` | **1535.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630924) • [🐱 Nyaa](https://nekobt.to/torrents/13204795888903) |
 | `[Fuchs] Mushoku Tensei - S03E03 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1575.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630920) • [🐱 Nyaa](https://nekobt.to/torrents/13204431436800) |
 | `[Fuchs] Mushoku Tensei - S03E02 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1610.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630921) • [🐱 Nyaa](https://nekobt.to/torrents/13204429485067) |
-| `[Fuchs] Mushoku Tensei - S03E01 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1797.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/630922) • [🐱 Nyaa](https://nekobt.to/torrents/13204428580106) |
-| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **648.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/630919) • [🐱 Nyaa](https://nyaa.si/view/2149105) |
-| `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E13 (WEB 1080p AAC)` | **1717.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/630917) • [🐱 Nyaa](https://nekobt.to/torrents/13204068827407) |
-| `[Ironclad] Smoking Behind the Supermarket with You - S01E07 (WEB 10...` | **207.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630918) • [🐱 Nyaa](https://nekobt.to/torrents/13204024839439) |
-| `Super Cube S01 1080p CR WEB-DL AAC2.0 H.264-VARYG (Chao Neng Lifang...` | **14658.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/630916) • [🐱 Nyaa](https://nyaa.si/view/2149101) |
-| `[TrashEnthusiast] Farming Life in Another World - S02E10 (AMZN WEB-...` | **807.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630915) • [🐱 Nyaa](https://nyaa.si/view/2149098) |
-| `[SubsNoJutsu] Tomb Raider King - S01E07 (1080p WEBRip AAC x265) [19...` | **512.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/630914) • [🐱 Nyaa](https://nekobt.to/torrents/13203307645198) |
-| `[TrashEnthusiast] Farming Life in Another World - S02E09 (AMZN WEB-...` | **835.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/630913) • [🐱 Nyaa](https://nyaa.si/view/2149097) |
-| `[TrashEnthusiast] Farming Life in Another World - S02E08 (AMZN WEB-...` | **747.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/630912) • [🐱 Nyaa](https://nyaa.si/view/2149096) |
-| `[TrashEnthusiast] Farming Life in Another World - S02E07 (AMZN WEB-...` | **879.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/630911) • [🐱 Nyaa](https://nyaa.si/view/2149095) |
-| `[ToonsHub] Super Cube S01 1080p CR WEB-DL AAC2.0 H.264 (The Super C...` | **14647.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/630910) • [🐱 Nyaa](https://nekobt.to/torrents/13202977061127) |
-| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **663.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/630909) • [🐱 Nyaa](https://nekobt.to/torrents/13202730274822) |
-| `[FrixySubs] Though I Am an Inept Villainess - S01E05 [1080p CR WEB-...` | **1383.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/630908) • [🐱 Nyaa](https://nekobt.to/torrents/13202043938317) |
 
 ---
 <div align="center">
