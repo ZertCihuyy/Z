@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.02.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.11.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[whomst-mini] Link Click - S04E03 [WEB 1080p x265 AAC] | Shiguang D...` | **192.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630984) • [🐱 Nyaa](https://nyaa.si/view/2149259) |
+| `[whomst] Link Click - S04E03 [WEB 1080p x264 AAC] | Shiguang Dailir...` | **1214.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630985) • [🐱 Nyaa](https://nyaa.si/view/2149258) |
 | `[Bird] Yu-Gi-Oh! CARD GAME - THE CHRONICLES (2025) - 17 (1080p) [0E...` | **71.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630983) • [🐱 Nyaa](https://nyaa.si/view/2149246) |
 | `[FuyuPOP] Yani Neko - Ep08 (1080p x265 AAC WEB)` | **563.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630981) • [🐱 Nyaa](https://nekobt.to/torrents/13214884945678) |
 | `[Ny] Link Click - S04E02 (WEBRip 1920x800 HEVC AAC) | Shiguang Dail...` | **2093.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630982) • [🐱 Nyaa](https://nekobt.to/torrents/13214837342221) |
@@ -46,8 +48,6 @@
 | `[AnoZu] Crowned in a Hundred Days S01E18 1080p CR WEB-DL AAC 2.0 H.264` | **682.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/630964) • [🐱 Nyaa](https://nekobt.to/torrents/13208424834061) |
 | `[VARYG] Crowned in a Hundred Days S01E18 1080p CR WEB-DL AAC2.0 H.2...` | **682.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630966) • [🐱 Nyaa](https://nekobt.to/torrents/13208424188419) |
 | `[Gecko] Crowned in a Hundred Days - S01E18 (百日成王; Bai Ri Cheng Wang...` | **156.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630967) • [🐱 Nyaa](https://nekobt.to/torrents/13208398413570) |
-| `[SubsPlease] Bai Ri Cheng Wang - 18 (1080p) [CE3E3F9B].mkv` | **677.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630958) • [🐱 Nyaa](https://nyaa.si/view/2149180) |
-| `Crowned in a Hundred Days S01E18 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **677.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/630968) • [🐱 Nyaa](https://nekobt.to/torrents/13208383810315) |
 
 ---
 <div align="center">
