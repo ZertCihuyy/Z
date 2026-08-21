@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.48.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.53.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Link Click S3 - 03 [1080p HEVC x265 10Bit][AAC]` | **198.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630957) • [🐱 Nyaa](https://nyaa.si/view/2149169) |
+| `[Gecko] BanG Dream! YUME∞MITA - S01E10 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **694.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/630951) • [🐱 Nyaa](https://nekobt.to/torrents/13207730457347) |
+| `[Judas] Shunkashuutou Daikousha: Haru no Mai (Agents of the Four Se...` | **5500.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/630955) • [🐱 Nyaa](https://nyaa.si/view/2149167) |
+| `[Judas] MARRIAGETOXIN (Season 01) [1080p][HEVC x265 10bit][Dual-Aud...` | **4727.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/630953) • [🐱 Nyaa](https://nyaa.si/view/2149166) |
+| `[ToonsHub] LINK CLICK S04E03 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1217.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/630952) • [🐱 Nyaa](https://nekobt.to/torrents/13207674685696) |
+| `[ToonsHub] LINK CLICK S04E03 1080p BILI WEB-DL AAC2.0 H.265 (Multi-...` | **274.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630954) • [🐱 Nyaa](https://nekobt.to/torrents/13207673892873) |
+| `[Judas] Katainaka no Ossan, Kensei ni Naru (From Old Country Bumpki...` | **298.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/630950) • [🐱 Nyaa](https://nyaa.si/view/2149162) |
+| `[VARYG] LINK CLICK S04E03 Bloodbath in Laos 1080p CR WEB-DL AAC2.0 ...` | **1217.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630942) • [🐱 Nyaa](https://nekobt.to/torrents/13207522325762) |
+| `[AnoZu] Link Click S04E03 1080p CR WEB-DL AAC 2.0 H.264` | **1219.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/630943) • [🐱 Nyaa](https://nekobt.to/torrents/13207499753996) |
+| `[Gecko] LINK CLICK - S04E03 (时光代理人; Shiguang Dailiren III) [BILI.WE...` | **277.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/630945) • [🐱 Nyaa](https://nekobt.to/torrents/13207498732806) |
+| `[SubsPlease] Link Click S3 - 03 (1080p) [103F97D0].mkv` | **1210.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/630936) • [🐱 Nyaa](https://nyaa.si/view/2149151) |
+| `Link Click S04E03 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **1213.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/630946) • [🐱 Nyaa](https://nekobt.to/torrents/13207469662725) |
+| `[Erai-raws] Shiguang Dailiren Season 3 - 03 (CA) [1080p CR WEB-DL A...` | **1218.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/630940) • [🐱 Nyaa](https://nyaa.si/view/2149145) |
 | `[Gecko] Chiikawa - S01E371 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **18.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/630935) • [🐱 Nyaa](https://nekobt.to/torrents/13206117926410) |
 | `[Doomdos] - The Great Ruler - 87 [1080p IQ WEB-DL]` | **394.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630934) • [🐱 Nyaa](https://nyaa.si/view/2149132) |
-| `[CrappySubs] Cosmic Princess Kaguya! (2026) (v0) - (WEB 1080p HEVC ...` | **6029.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/630933) • [🐱 Nyaa](https://nyaa.si/view/2149131) |
-| `[Doomdos] - Daqian Town - 9 [1080p IQ WEB-DL]` | **98.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/630932) • [🐱 Nyaa](https://nyaa.si/view/2149130) |
-| `[ToonsHub] Kaguya-sama Love is War S00E16 1080p CR WEB-DL MULTi AAC...` | **1695.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/630931) • [🐱 Nyaa](https://nyaa.si/view/2149124) |
-| `[ToonsHub] Kaguya-sama Love is War S00E15 1080p CR WEB-DL MULTi AAC...` | **1604.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/630928) • [🐱 Nyaa](https://nyaa.si/view/2149123) |
-| `[AnoZu] Kaguya-sama: Love Is War S00E16 The ABCs of Men and Women K...` | **1637.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/630929) • [🐱 Nyaa](https://nyaa.si/view/2149122) |
-| `[AnoZu] Kaguya-sama: Love Is War S00E15 Chika Fujiwara Wants to Sur...` | **1549.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/630930) • [🐱 Nyaa](https://nyaa.si/view/2149121) |
-| `[ToonsHub] Kaguya-sama Love is War S00E16 1080p CR WEB-DL DUAL AAC2...` | **1620.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/630925) • [🐱 Nyaa](https://nekobt.to/torrents/13205142592782) |
-| `[ToonsHub] Kaguya-sama Love is War S00E15 1080p CR WEB-DL DUAL AAC2...` | **1534.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/630926) • [🐱 Nyaa](https://nekobt.to/torrents/13205126018568) |
-| `[Nitsy] BanG Dream! Yume∞Mita - S01E10 (1080p WEB AAC x264)` | **1412.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/630927) • [🐱 Nyaa](https://nekobt.to/torrents/13205098250759) |
-| `[VARYG] Kaguya sama Love is War S06E02 1080p CR WEB-DL DUAL AAC2.0 ...` | **1622.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/630923) • [🐱 Nyaa](https://nekobt.to/torrents/13204799049222) |
-| `[VARYG] Kaguya sama Love is War S06E01 1080p CR WEB-DL DUAL AAC2.0 ...` | **1535.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/630924) • [🐱 Nyaa](https://nekobt.to/torrents/13204795888903) |
-| `[Fuchs] Mushoku Tensei - S03E03 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1575.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/630920) • [🐱 Nyaa](https://nekobt.to/torrents/13204431436800) |
-| `[Fuchs] Mushoku Tensei - S03E02 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1610.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/630921) • [🐱 Nyaa](https://nekobt.to/torrents/13204429485067) |
 
 ---
 <div align="center">
