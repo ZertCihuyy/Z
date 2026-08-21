@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.30.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.58.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E17 (WEB ...` | **1492.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631150) • [🐱 Nyaa](https://nekobt.to/torrents/13222997111297) |
+| `[Ny] Link Click - S04E03 (WEBRip 1920x800 HEVC AAC) | Shiguang Dail...` | **2234.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/631149) • [🐱 Nyaa](https://nekobt.to/torrents/13222756522510) |
 | `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **218.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631148) • [🐱 Nyaa](https://nyaa.si/view/2149478) |
 | `[ToonsHub] Draw This Then Die S01E07 1080p CR WEB-DL MULTi AAC2.0 H...` | **1432.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/631147) • [🐱 Nyaa](https://nekobt.to/torrents/13222223987976) |
 | `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E08 [1080p WEBRip AV1]` | **171.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631146) • [🐱 Nyaa](https://nekobt.to/torrents/13221924024832) |
@@ -46,8 +48,6 @@
 | `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E19 [WEB.1080p.AV1...` | **343.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/631138) • [🐱 Nyaa](https://nyaa.si/view/2149467) |
 | `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **256.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631137) • [🐱 Nyaa](https://nekobt.to/torrents/13221450571524) |
 | `[SubsWhen] False Memory (2026) - S01E01 (AMZN WEB-DL 1080p H.264 DD...` | **2109.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631136) • [🐱 Nyaa](https://nyaa.si/view/2149466) |
-| `[ASW] Uchi no Otouto-domo ga Sumimasen - 08 [1080p HEVC x265 10Bit]...` | **185.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631135) • [🐱 Nyaa](https://nyaa.si/view/2149462) |
-| `[ASW] Hell Mode S2 - 08 [1080p HEVC x265 10Bit][AAC]` | **342.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631134) • [🐱 Nyaa](https://nyaa.si/view/2149459) |
 
 ---
 <div align="center">
