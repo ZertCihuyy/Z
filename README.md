@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.32.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.03.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Hell Mode S2 - 08 [1080p HEVC x265 10Bit][AAC]` | **342.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631134) • [🐱 Nyaa](https://nyaa.si/view/2149459) |
+| `[Onalrie] Nige Jouzu no Wakagimi - S02E06 [1080p WEBRip AV1]` | **377.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/631133) • [🐱 Nyaa](https://nekobt.to/torrents/13220912630530) |
+| `[ASW] Nige Jouzu no Wakagimi S2 - 06 [1080p HEVC x265 10Bit][AAC]` | **601.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631132) • [🐱 Nyaa](https://nyaa.si/view/2149458) |
 | `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **305.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631131) • [🐱 Nyaa](https://nyaa.si/view/2149453) |
 | `[Kosaka] That Time I Got Reincarnated as a Slime - 91 (WEBRip 1080p...` | **363.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/631130) • [🐱 Nyaa](https://nekobt.to/torrents/13220590461185) |
 | `[LoliHouse] 『你们先走我断后』，于是10年后我成为了传说 / Koko wa Ore ni Makasete Saki n...` | **388.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/631129) • [🐱 Nyaa](https://nyaa.si/view/2149452) |
@@ -45,9 +48,6 @@
 | `[VARYG] Please Excuse My Younger Brothers S01E08 Whatll Happen to t...` | **1416.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/631118) • [🐱 Nyaa](https://nekobt.to/torrents/13220111695875) |
 | `[VARYG] HELL MODE S02E08 THE BATTLE OF TIAMO 1080p HIDI WEB-DL AAC2...` | **925.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631119) • [🐱 Nyaa](https://nekobt.to/torrents/13220081141512) |
 | `HELL MODE The Hardcore Gamer Dominates in Another World with Garbag...` | **623.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/631120) • [🐱 Nyaa](https://nekobt.to/torrents/13220071316480) |
-| `[Trix] The Drops of God S01E20 [WEBRip 1080p AV1 Opus] (Multi Subs,...` | **335.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631122) • [🐱 Nyaa](https://nekobt.to/torrents/13220068627203) |
-| `[ToonsHub] HELL MODE The Hardcore Gamer Dominates in Another World ...` | **624.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631116) • [🐱 Nyaa](https://nyaa.si/view/2149438) |
-| `The Elusive Samurai S02E18 The Boy Who Became a God 1080p CR WEB-DL...` | **1735.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/631117) • [🐱 Nyaa](https://nyaa.si/view/2149437) |
 
 ---
 <div align="center">
