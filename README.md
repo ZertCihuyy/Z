@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.11.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.59.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - The Frontier Lord Begins with Zero Subjects - 8 [1080p ...` | **269.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631001) • [🐱 Nyaa](https://nyaa.si/view/2149278) |
+| `[Unfucked] The Frontier Lord Begins with Zero Subjects - S01E08 (10...` | **1387.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/631002) • [🐱 Nyaa](https://nyaa.si/view/2149277) |
+| `[FrixySubs] Smoking Behind the Supermarket with You - S01E04 [1080p...` | **1411.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631000) • [🐱 Nyaa](https://nekobt.to/torrents/13217353770243) |
+| `The Frontier Lord Begins with Zero Subjects S01E08 The Frontier Lor...` | **1407.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/630999) • [🐱 Nyaa](https://nyaa.si/view/2149273) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E08 1080p...` | **1428.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/630990) • [🐱 Nyaa](https://nekobt.to/torrents/13217171874310) |
+| `[AnoZu] The Frontier Lord Begins with Zero Subjects S01E08 1080p CR...` | **1410.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/630991) • [🐱 Nyaa](https://nekobt.to/torrents/13217161935361) |
+| `[SubsPlease] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 08 (1080...` | **1381.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/630993) • [🐱 Nyaa](https://nyaa.si/view/2149268) |
+| `[VARYG] The Frontier Lord Begins with Zero Subjects S01E04 The Fron...` | **273.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/630992) • [🐱 Nyaa](https://nekobt.to/torrents/13217152204815) |
+| `[Erai-raws] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 08 [1080p...` | **1389.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630987) • [🐱 Nyaa](https://nyaa.si/view/2149263) |
+| `[ToonsHub] The Frontier Lord Begins with Zero Subjects S01E08 1080p...` | **277.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/630989) • [🐱 Nyaa](https://nyaa.si/view/2149261) |
+| `[Kagura-Copyman] Maison Ikkoku Season 1-4 (BD 1080p x264 Hi10P FLAC)` | **165142.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630986) • [🐱 Nyaa](https://nyaa.si/view/2149260) |
 | `[whomst-mini] Link Click - S04E03 [WEB 1080p x265 AAC] | Shiguang D...` | **192.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630984) • [🐱 Nyaa](https://nyaa.si/view/2149259) |
 | `[whomst] Link Click - S04E03 [WEB 1080p x264 AAC] | Shiguang Dailir...` | **1214.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/630985) • [🐱 Nyaa](https://nyaa.si/view/2149258) |
 | `[Bird] Yu-Gi-Oh! CARD GAME - THE CHRONICLES (2025) - 17 (1080p) [0E...` | **71.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/630983) • [🐱 Nyaa](https://nyaa.si/view/2149246) |
 | `[FuyuPOP] Yani Neko - Ep08 (1080p x265 AAC WEB)` | **563.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/630981) • [🐱 Nyaa](https://nekobt.to/torrents/13214884945678) |
-| `[Ny] Link Click - S04E02 (WEBRip 1920x800 HEVC AAC) | Shiguang Dail...` | **2093.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/630982) • [🐱 Nyaa](https://nekobt.to/torrents/13214837342221) |
-| `[Shridhuu][1080p] Perfect World - 完美世界 (Wanmei Shijie) - EP283` | **484.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/630976) • [🐱 Nyaa](https://nyaa.si/view/2149209) |
-| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **323.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/630975) • [🐱 Nyaa](https://nyaa.si/view/2149206) |
-| `[Onalrie] Shiguang Dailiren - S03E03 (CA) [1080p WEBRip AV1]` | **157.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/630974) • [🐱 Nyaa](https://nekobt.to/torrents/13210002929423) |
-| `[Onalrie] Crowned in a Hundred Days - S01E18 (CA) [1080p WEBRip AV1]` | **117.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/630973) • [🐱 Nyaa](https://nekobt.to/torrents/13209683465988) |
-| `[ASW] Bai Ri Cheng Wang - 18 [1080p HEVC x265 10Bit][AAC]` | **138.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/630972) • [🐱 Nyaa](https://nyaa.si/view/2149189) |
-| `[Gecko] Koala's Diary - S01E45 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **86.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/630971) • [🐱 Nyaa](https://nyaa.si/view/2149187) |
-| `[ToonsHub] Crowned in a Hundred Days S01E18 1080p CR WEB-DL AAC2.0 ...` | **679.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/630963) • [🐱 Nyaa](https://nekobt.to/torrents/13208444071694) |
-| `[AnoZu] Crowned in a Hundred Days S01E18 1080p CR WEB-DL AAC 2.0 H.264` | **682.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/630964) • [🐱 Nyaa](https://nekobt.to/torrents/13208424834061) |
-| `[VARYG] Crowned in a Hundred Days S01E18 1080p CR WEB-DL AAC2.0 H.2...` | **682.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/630966) • [🐱 Nyaa](https://nekobt.to/torrents/13208424188419) |
-| `[Gecko] Crowned in a Hundred Days - S01E18 (百日成王; Bai Ri Cheng Wang...` | **156.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/630967) • [🐱 Nyaa](https://nekobt.to/torrents/13208398413570) |
 
 ---
 <div align="center">
