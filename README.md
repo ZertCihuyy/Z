@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.41.47_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.00.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Detective Conan EP1210 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsund...` | **573.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/631216) • [🐱 Nyaa](https://nekobt.to/torrents/13236651093006) |
 | `One Piece S01E1174 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **861.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631215) • [🐱 Nyaa](https://nyaa.si/view/2149683) |
 | `[TrashEnthusiast] Farming Life in Another World - S02E12 (AMZN WEB-...` | **804.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/631214) • [🐱 Nyaa](https://nyaa.si/view/2149682) |
 | `[ASW] Honzuki no Gekokujou S4 - 19 [1080p HEVC x265 10Bit][AAC]` | **311.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631213) • [🐱 Nyaa](https://nyaa.si/view/2149681) |
@@ -47,7 +48,6 @@
 | `Ascendance of a Bookworm S04E19 SUBFRENCH 1080p CR WEB-DL AAC2.0 H....` | **1267.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/631208) • [🐱 Nyaa](https://nekobt.to/torrents/13235587001100) |
 | `[SubsPlease] Honzuki no Gekokujou S4 - 19 (1080p) [74138FC6].mkv` | **1390.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631207) • [🐱 Nyaa](https://nyaa.si/view/2149646) |
 | `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1271.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631196) • [🐱 Nyaa](https://nyaa.si/view/2149644) |
-| `Saikin, Imouto no Yousu ga Chotto Okashiinda ga - Recently, my sist...` | **9948.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631195) • [🐱 Nyaa](https://nyaa.si/view/2149621) |
 
 ---
 <div align="center">
