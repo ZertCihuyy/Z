@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.04.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.43.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Yameii] Ascendance of a Bookworm - S04E17 [English Dub] [CR WEB-DL...` | **1396.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631202) • [🐱 Nyaa](https://nyaa.si/view/2149657) |
+| `[ToonsHub] Ascendance of a Bookworm S04E17 1080p CR WEB-DL DUAL AAC...` | **1471.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/631203) • [🐱 Nyaa](https://nyaa.si/view/2149655) |
+| `[AnoZu] Ascendance of a Bookworm S01E55 1080p CR WEB-DL AAC 2.0 H.264` | **1422.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/631199) • [🐱 Nyaa](https://nekobt.to/torrents/13235610216454) |
+| `[VARYG] Ascendance of a Bookworm S04E17 Holding the Fort During the...` | **1451.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/631201) • [🐱 Nyaa](https://nekobt.to/torrents/13235593819660) |
+| `Ascendance of a Bookworm S04E19 Inspection of Illgner and Gathering...` | **1418.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631206) • [🐱 Nyaa](https://nyaa.si/view/2149647) |
+| `Ascendance of a Bookworm S04E19 SUBFRENCH 1080p CR WEB-DL AAC2.0 H....` | **1267.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/631208) • [🐱 Nyaa](https://nekobt.to/torrents/13235587001100) |
+| `[SubsPlease] Honzuki no Gekokujou S4 - 19 (1080p) [74138FC6].mkv` | **1390.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631207) • [🐱 Nyaa](https://nyaa.si/view/2149646) |
+| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1271.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631196) • [🐱 Nyaa](https://nyaa.si/view/2149644) |
+| `Saikin, Imouto no Yousu ga Chotto Okashiinda ga - Recently, my sist...` | **9948.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631195) • [🐱 Nyaa](https://nyaa.si/view/2149621) |
 | `2.5-jigen no Ririsa - 2.5 Dimensional Seduction [BD] [1080p] [AV1]` | **13742.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/631194) • [🐱 Nyaa](https://nyaa.si/view/2149617) |
 | `RILAKKUMA S01E21 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **69.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/631193) • [🐱 Nyaa](https://nekobt.to/torrents/13234801897483) |
 | `[GM-Team][国漫][记忆管理局][The Memory Bureau][2026][05][AVC][GB][1080P]` | **551.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631192) • [🐱 Nyaa](https://nyaa.si/view/2149610) |
 | `[VARYG] Daemons of the Shadow Realm S01E08 Suspicion and Conviction...` | **1136.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631190) • [🐱 Nyaa](https://nekobt.to/torrents/13233318186254) |
 | `[ToonsHub] Daemons of the Shadow Realm S01E08 1080p NF WEB-DL MULTi...` | **1136.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/631191) • [🐱 Nyaa](https://nekobt.to/torrents/13233287624205) |
 | `[Sonomama] The 100 Girlfriends Who Really Really Really Really REAL...` | **6464.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631188) • [🐱 Nyaa](https://nekobt.to/torrents/13232394339594) |
-| `[Sokudo] Re ZERO - Starting Life in Another World S04E12 [1080p AV1...` | **258.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631187) • [🐱 Nyaa](https://nyaa.si/view/2149566) |
-| `[Breeze] Re ZERO - Starting Life in Another World S04E12 [1080p AV1...` | **449.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631189) • [🐱 Nyaa](https://nyaa.si/view/2149565) |
-| `[Onalrie] Rilakkuma - S01E21 [1080p WEBRip AV1]` | **24.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/631186) • [🐱 Nyaa](https://onalrie.app/torrent/67879087-fade-4f89-b972-b8e6f410e84e) |
-| `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E09 [108...` | **197.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631185) • [🐱 Nyaa](https://nyaa.si/view/2149556) |
-| `Tis.Time.for.Torture.Princess.S01.1080p.BluRay.Opus.2.0.x265-YURASU...` | **15582.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631183) • [🐱 Nyaa](https://nekobt.to/torrents/13231029567235) |
-| `[Gecko] Please Excuse My Younger Brothers - S01E08 (うちの弟どもがすみません; U...` | **708.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/631184) • [🐱 Nyaa](https://nekobt.to/torrents/13230914939656) |
-| `[Some-Stuffs] Pocket Monsters (2023) 146 (1080p) [3E86F81B]` | **479.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631182) • [🐱 Nyaa](https://nyaa.si/view/2149550) |
-| `[VARYG] RILAKKUMA S01E21 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **116.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631180) • [🐱 Nyaa](https://nekobt.to/torrents/13230533917444) |
-| `[ToonsHub] Jiang Ye S01E19 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **562.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/631181) • [🐱 Nyaa](https://nyaa.si/view/2149538) |
 
 ---
 <div align="center">
