@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.49.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.37.25_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Some-Stuffs] Pocket Monsters (2023) 146 (1080p) [3E86F81B]` | **479.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631182) • [🐱 Nyaa](https://nyaa.si/view/2149550) |
+| `[VARYG] RILAKKUMA S01E21 1080p CR WEB-DL MULTi AAC2.0 H.264 (Multi-...` | **116.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631180) • [🐱 Nyaa](https://nekobt.to/torrents/13230533917444) |
+| `[ToonsHub] Jiang Ye S01E19 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **562.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/631181) • [🐱 Nyaa](https://nyaa.si/view/2149538) |
 | `[Erai-raws] Rilakkuma - 21 [1080p CR WEBRip HEVC AAC][MultiSub][AFF...` | **48.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/631179) • [🐱 Nyaa](https://nyaa.si/view/2149526) |
 | `[ToonsHub] A Good Day to Ascend S01E08 1080p iQ WEB-DL AAC2.0 H.264...` | **408.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631178) • [🐱 Nyaa](https://nyaa.si/view/2149523) |
 | `[Doomdos] - A Good Day to Ascend - 8 [1080p IQ WEB-DL]` | **409.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631177) • [🐱 Nyaa](https://nyaa.si/view/2149516) |
@@ -45,9 +48,6 @@
 | `[SubsPlease] Rilakkuma - 21 (1080p) [1EE9E0EE].mkv` | **93.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631168) • [🐱 Nyaa](https://nyaa.si/view/2149501) |
 | `[PHTMini] Attack on Titan - S04 (BD 1080p AV1 Opus 2.0) (Dual-Audio...` | **11725.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631163) • [🐱 Nyaa](https://nekobt.to/torrents/13227512833537) |
 | `[PHTMini] Attack on Titan - S03 (BD 1080p AV1 Opus 2.0) (Dual-Audio...` | **9295.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631162) • [🐱 Nyaa](https://nekobt.to/torrents/13227092220686) |
-| `[PHTMini] Attack on Titan - S02 (BD 1080p AV1 Opus 2.0) (Dual-Audio...` | **7176.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/631160) • [🐱 Nyaa](https://nekobt.to/torrents/13226693582351) |
-| `[Z-A] Dr. Stone Science Future - S04E33 (WEB 1080p AAC)` | **1505.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/631158) • [🐱 Nyaa](https://nekobt.to/torrents/13226335447554) |
-| `[PHTMini] Attack on Titan - S01 (BD 1080p AV1 Opus) (Dual-Audio) (G...` | **9827.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631159) • [🐱 Nyaa](https://nekobt.to/torrents/13226288087823) |
 
 ---
 <div align="center">
