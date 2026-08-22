@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.36.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.58.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] Detective Conan S01E1210 The Cursed Neighbors House 1080p C...` | **1444.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/631227) • [🐱 Nyaa](https://nekobt.to/torrents/13237713293834) |
+| `[ToonsHub] Detective Conan EP1210 1080p CR WEB-DL AAC2.0 H.264 (Eng...` | **1441.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/631225) • [🐱 Nyaa](https://nekobt.to/torrents/13237514407691) |
 | `Ascendance of a Bookworm S04E16 New Dress and Printing Press 1080p ...` | **1482.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631219) • [🐱 Nyaa](https://nyaa.si/view/2149715) |
 | `[Erai-raws] Detective Conan - 1210 [1080p CR WEB-DL AVC AAC][E1A36070]` | **1444.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/631221) • [🐱 Nyaa](https://nyaa.si/view/2149712) |
 | `[SubsPlease] Detective Conan - 1210 (1080p) [7B025382].mkv` | **1435.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631222) • [🐱 Nyaa](https://nyaa.si/view/2149711) |
@@ -46,8 +48,6 @@
 | `[AnoZu] Ascendance of a Bookworm S01E53 1080p CR WEB-DL Dual-Audio ...` | **1464.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631210) • [🐱 Nyaa](https://nyaa.si/view/2149662) |
 | `[Yameii] Ascendance of a Bookworm - S04E17 [English Dub] [CR WEB-DL...` | **1396.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631202) • [🐱 Nyaa](https://nyaa.si/view/2149657) |
 | `[ToonsHub] Ascendance of a Bookworm S04E17 1080p CR WEB-DL DUAL AAC...` | **1471.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/631203) • [🐱 Nyaa](https://nyaa.si/view/2149655) |
-| `[AnoZu] Ascendance of a Bookworm S01E55 1080p CR WEB-DL AAC 2.0 H.264` | **1422.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/631199) • [🐱 Nyaa](https://nekobt.to/torrents/13235610216454) |
-| `[VARYG] Ascendance of a Bookworm S04E17 Holding the Fort During the...` | **1451.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/631201) • [🐱 Nyaa](https://nekobt.to/torrents/13235593819660) |
 
 ---
 <div align="center">
