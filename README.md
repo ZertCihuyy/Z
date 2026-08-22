@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.34.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.59.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Black Torch - 08 [1080p HEVC x265 10Bit][AAC]` | **356.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631268) • [🐱 Nyaa](https://nyaa.si/view/2149783) |
+| `[Onalrie] Black Torch - S01E08 [1080p WEBRip AV1]` | **285.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631267) • [🐱 Nyaa](https://nekobt.to/torrents/13239491597314) |
+| `The Cat and the Dragon S01E09 The White Cat and the Lazy Girl 1080p...` | **1409.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631266) • [🐱 Nyaa](https://nyaa.si/view/2149782) |
+| `[ToonsHub] Detective Conan EP1210 1080p NF WEB-DL AAC2.0 H.264 (Mei...` | **829.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631265) • [🐱 Nyaa](https://nyaa.si/view/2149781) |
+| `[ToonsHub] The Cat and the Dragon S01E09 1080p CR WEB-DL AAC2.0 H.2...` | **1409.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631258) • [🐱 Nyaa](https://nekobt.to/torrents/13239321732865) |
+| `[AnoZu] The Cat and the Dragon S01E09 1080p CR WEB-DL AAC 2.0 H.264` | **1411.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631260) • [🐱 Nyaa](https://nekobt.to/torrents/13239300882944) |
 | `[ToonsHub] Welcome to Demon School Iruma-kun S04E19 1080p CR WEB-DL...` | **1722.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/631252) • [🐱 Nyaa](https://nyaa.si/view/2149778) |
 | `BLACK TORCH S01E08 Underdog 1080p CR WEB-DL MULTi AAC2.0 H.264-VARY...` | **1674.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631253) • [🐱 Nyaa](https://nyaa.si/view/2149777) |
 | `[SubsPlease] Neko to Ryuu - 09 (1080p) [0B8044C6].mkv` | **1382.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/631254) • [🐱 Nyaa](https://nyaa.si/view/2149776) |
+| `The Cat and the Dragon S01E09 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1386.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/631263) • [🐱 Nyaa](https://nekobt.to/torrents/13239265307141) |
+| `[ToonsHub] Ascendance of a Bookworm S04E19 1080p CR WEB-DL AAC2.0 H...` | **1439.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/631261) • [🐱 Nyaa](https://nyaa.si/view/2149770) |
+| `[Erai-raws] Neko to Ryuu - 09 [1080p CR WEB-DL AVC AAC][MultiSub][D...` | **1390.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/631262) • [🐱 Nyaa](https://nyaa.si/view/2149769) |
 | `[Doomdos] - BLACK TORCH - 8 [1080p IQ WEB-DL]` | **309.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631251) • [🐱 Nyaa](https://nyaa.si/view/2149765) |
 | `[AnoZu] BLACK TORCH S01E08 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264` | **1458.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631250) • [🐱 Nyaa](https://nyaa.si/view/2149764) |
 | `[Yameii] BLACK TORCH - S01E08 [English Dub] [CR WEB-DL 1080p H264 A...` | **1387.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631247) • [🐱 Nyaa](https://nekobt.to/torrents/13238930141454) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E19 1080p CR WEB-DL...` | **1618.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/631242) • [🐱 Nyaa](https://nyaa.si/view/2149762) |
-| `Welcome to Demon School Iruma kun S04E19 The Dem-dol Games 1080p CR...` | **1619.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631243) • [🐱 Nyaa](https://nyaa.si/view/2149761) |
-| `[ToonsHub] BLACK TORCH S01E08 1080p CR WEB-DL DUAL AAC2.0 H.264 (Du...` | **1443.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/631244) • [🐱 Nyaa](https://nyaa.si/view/2149760) |
-| `BLACK TORCH S01E08 Underdog 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG...` | **1445.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/631245) • [🐱 Nyaa](https://nyaa.si/view/2149759) |
-| `[ToonsHub] BLACK TORCH S01E08 1080p AMZN WEB-DL DDP2.0 H.264 (Multi...` | **903.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631232) • [🐱 Nyaa](https://nyaa.si/view/2149757) |
-| `BLACK TORCH S01E08 MULTi AD 1080p CR WEB-DL AAC2.0 H.264-Tsundere-R...` | **1303.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/631248) • [🐱 Nyaa](https://nekobt.to/torrents/13238823558415) |
-| `The Worlds Strongest Rearguard S01E06 The Mechanical Ariadne 1080p ...` | **281.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/631235) • [🐱 Nyaa](https://nyaa.si/view/2149753) |
-| `[SubsPlease] Black Torch - 08 (1080p) [A1408569].mkv` | **1382.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/631236) • [🐱 Nyaa](https://nyaa.si/view/2149752) |
-| `[Erai-raws] Black Torch - 08 [1080p CR WEB-DL AVC AAC][MultiSub][53...` | **1243.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631237) • [🐱 Nyaa](https://nyaa.si/view/2149750) |
 
 ---
 <div align="center">
