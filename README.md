@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.54.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.34.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Detective Conan - E1210 [1080p WEBRip AV1]` | **187.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/631229) • [🐱 Nyaa](https://nekobt.to/torrents/13238219862287) |
-| `[ASW] Detective Conan - 1210 [1080p HEVC x265 10Bit][AAC]` | **192.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631228) • [🐱 Nyaa](https://nyaa.si/view/2149730) |
-| `[VARYG] Detective Conan S01E1210 The Cursed Neighbors House 1080p C...` | **1444.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/631227) • [🐱 Nyaa](https://nekobt.to/torrents/13237713293834) |
-| `[ToonsHub] Detective Conan EP1210 1080p CR WEB-DL AAC2.0 H.264 (Eng...` | **1441.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/631225) • [🐱 Nyaa](https://nekobt.to/torrents/13237514407691) |
-| `Ascendance of a Bookworm S04E16 New Dress and Printing Press 1080p ...` | **1482.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631219) • [🐱 Nyaa](https://nyaa.si/view/2149715) |
-| `[Erai-raws] Detective Conan - 1210 [1080p CR WEB-DL AVC AAC][E1A36070]` | **1444.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/631221) • [🐱 Nyaa](https://nyaa.si/view/2149712) |
-| `[SubsPlease] Detective Conan - 1210 (1080p) [7B025382].mkv` | **1435.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631222) • [🐱 Nyaa](https://nyaa.si/view/2149711) |
-| `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **599.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/631218) • [🐱 Nyaa](https://nekobt.to/torrents/13236966291972) |
-| `Detective Conan EP1210 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsund...` | **573.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/631216) • [🐱 Nyaa](https://nekobt.to/torrents/13236651093006) |
-| `One Piece S01E1174 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **861.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631215) • [🐱 Nyaa](https://nyaa.si/view/2149683) |
-| `[TrashEnthusiast] Farming Life in Another World - S02E12 (AMZN WEB-...` | **804.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/631214) • [🐱 Nyaa](https://nyaa.si/view/2149682) |
-| `[ASW] Honzuki no Gekokujou S4 - 19 [1080p HEVC x265 10Bit][AAC]` | **311.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631213) • [🐱 Nyaa](https://nyaa.si/view/2149681) |
-| `[Onalrie] Honzuki no Gekokujou Shisho ni Naru Tame ni wa Shudan wo ...` | **229.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631211) • [🐱 Nyaa](https://nekobt.to/torrents/13236254284809) |
-| `[FrixySubs] Smoking Behind the Supermarket with You - S01E05 [1080p...` | **1416.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/631212) • [🐱 Nyaa](https://nekobt.to/torrents/13236196160782) |
-| `[AnoZu] Ascendance of a Bookworm S01E53 1080p CR WEB-DL Dual-Audio ...` | **1464.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631210) • [🐱 Nyaa](https://nyaa.si/view/2149662) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E19 1080p CR WEB-DL...` | **1722.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/631252) • [🐱 Nyaa](https://nyaa.si/view/2149778) |
+| `BLACK TORCH S01E08 Underdog 1080p CR WEB-DL MULTi AAC2.0 H.264-VARY...` | **1674.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631253) • [🐱 Nyaa](https://nyaa.si/view/2149777) |
+| `[SubsPlease] Neko to Ryuu - 09 (1080p) [0B8044C6].mkv` | **1382.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/631254) • [🐱 Nyaa](https://nyaa.si/view/2149776) |
+| `[Doomdos] - BLACK TORCH - 8 [1080p IQ WEB-DL]` | **309.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631251) • [🐱 Nyaa](https://nyaa.si/view/2149765) |
+| `[AnoZu] BLACK TORCH S01E08 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264` | **1458.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631250) • [🐱 Nyaa](https://nyaa.si/view/2149764) |
+| `[Yameii] BLACK TORCH - S01E08 [English Dub] [CR WEB-DL 1080p H264 A...` | **1387.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631247) • [🐱 Nyaa](https://nekobt.to/torrents/13238930141454) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E19 1080p CR WEB-DL...` | **1618.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/631242) • [🐱 Nyaa](https://nyaa.si/view/2149762) |
+| `Welcome to Demon School Iruma kun S04E19 The Dem-dol Games 1080p CR...` | **1619.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631243) • [🐱 Nyaa](https://nyaa.si/view/2149761) |
+| `[ToonsHub] BLACK TORCH S01E08 1080p CR WEB-DL DUAL AAC2.0 H.264 (Du...` | **1443.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/631244) • [🐱 Nyaa](https://nyaa.si/view/2149760) |
+| `BLACK TORCH S01E08 Underdog 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG...` | **1445.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/631245) • [🐱 Nyaa](https://nyaa.si/view/2149759) |
+| `[ToonsHub] BLACK TORCH S01E08 1080p AMZN WEB-DL DDP2.0 H.264 (Multi...` | **903.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631232) • [🐱 Nyaa](https://nyaa.si/view/2149757) |
+| `BLACK TORCH S01E08 MULTi AD 1080p CR WEB-DL AAC2.0 H.264-Tsundere-R...` | **1303.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/631248) • [🐱 Nyaa](https://nekobt.to/torrents/13238823558415) |
+| `The Worlds Strongest Rearguard S01E06 The Mechanical Ariadne 1080p ...` | **281.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/631235) • [🐱 Nyaa](https://nyaa.si/view/2149753) |
+| `[SubsPlease] Black Torch - 08 (1080p) [A1408569].mkv` | **1382.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/631236) • [🐱 Nyaa](https://nyaa.si/view/2149752) |
+| `[Erai-raws] Black Torch - 08 [1080p CR WEB-DL AVC AAC][MultiSub][53...` | **1243.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631237) • [🐱 Nyaa](https://nyaa.si/view/2149750) |
 
 ---
 <div align="center">
