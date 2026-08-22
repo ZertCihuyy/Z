@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.00.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.46.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] Daemons of the Shadow Realm S01E08 Suspicion and Conviction...` | **1136.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631190) • [🐱 Nyaa](https://nekobt.to/torrents/13233318186254) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E08 1080p NF WEB-DL MULTi...` | **1136.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/631191) • [🐱 Nyaa](https://nekobt.to/torrents/13233287624205) |
 | `[Sonomama] The 100 Girlfriends Who Really Really Really Really REAL...` | **6464.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631188) • [🐱 Nyaa](https://nekobt.to/torrents/13232394339594) |
 | `[Sokudo] Re ZERO - Starting Life in Another World S04E12 [1080p AV1...` | **258.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631187) • [🐱 Nyaa](https://nyaa.si/view/2149566) |
 | `[Breeze] Re ZERO - Starting Life in Another World S04E12 [1080p AV1...` | **449.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631189) • [🐱 Nyaa](https://nyaa.si/view/2149565) |
@@ -46,8 +48,6 @@
 | `[Erai-raws] Rilakkuma - 21 [1080p CR WEBRip HEVC AAC][MultiSub][AFF...` | **48.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/631179) • [🐱 Nyaa](https://nyaa.si/view/2149526) |
 | `[ToonsHub] A Good Day to Ascend S01E08 1080p iQ WEB-DL AAC2.0 H.264...` | **408.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631178) • [🐱 Nyaa](https://nyaa.si/view/2149523) |
 | `[Doomdos] - A Good Day to Ascend - 8 [1080p IQ WEB-DL]` | **409.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631177) • [🐱 Nyaa](https://nyaa.si/view/2149516) |
-| `[ASW] Rilakkuma - 21 [1080p HEVC x265 10Bit][AAC]` | **33.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631176) • [🐱 Nyaa](https://nyaa.si/view/2149515) |
-| `[ToonsHub] RILAKKUMA S01E21 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **109.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631171) • [🐱 Nyaa](https://nyaa.si/view/2149514) |
 
 ---
 <div align="center">
