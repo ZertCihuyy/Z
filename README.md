@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.01.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.41.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `One Piece S01E1174 1080p NF WEB-DL AAC2.0 H.264-VARYG (Multi-Subs)` | **861.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631215) • [🐱 Nyaa](https://nyaa.si/view/2149683) |
+| `[TrashEnthusiast] Farming Life in Another World - S02E12 (AMZN WEB-...` | **804.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/631214) • [🐱 Nyaa](https://nyaa.si/view/2149682) |
+| `[ASW] Honzuki no Gekokujou S4 - 19 [1080p HEVC x265 10Bit][AAC]` | **311.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631213) • [🐱 Nyaa](https://nyaa.si/view/2149681) |
+| `[Onalrie] Honzuki no Gekokujou Shisho ni Naru Tame ni wa Shudan wo ...` | **229.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631211) • [🐱 Nyaa](https://nekobt.to/torrents/13236254284809) |
+| `[FrixySubs] Smoking Behind the Supermarket with You - S01E05 [1080p...` | **1416.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/631212) • [🐱 Nyaa](https://nekobt.to/torrents/13236196160782) |
 | `[AnoZu] Ascendance of a Bookworm S01E53 1080p CR WEB-DL Dual-Audio ...` | **1464.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631210) • [🐱 Nyaa](https://nyaa.si/view/2149662) |
 | `[Yameii] Ascendance of a Bookworm - S04E17 [English Dub] [CR WEB-DL...` | **1396.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631202) • [🐱 Nyaa](https://nyaa.si/view/2149657) |
 | `[ToonsHub] Ascendance of a Bookworm S04E17 1080p CR WEB-DL DUAL AAC...` | **1471.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/631203) • [🐱 Nyaa](https://nyaa.si/view/2149655) |
@@ -43,11 +48,6 @@
 | `[SubsPlease] Honzuki no Gekokujou S4 - 19 (1080p) [74138FC6].mkv` | **1390.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631207) • [🐱 Nyaa](https://nyaa.si/view/2149646) |
 | `[Erai-raws] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan ...` | **1271.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631196) • [🐱 Nyaa](https://nyaa.si/view/2149644) |
 | `Saikin, Imouto no Yousu ga Chotto Okashiinda ga - Recently, my sist...` | **9948.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631195) • [🐱 Nyaa](https://nyaa.si/view/2149621) |
-| `2.5-jigen no Ririsa - 2.5 Dimensional Seduction [BD] [1080p] [AV1]` | **13742.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/631194) • [🐱 Nyaa](https://nyaa.si/view/2149617) |
-| `RILAKKUMA S01E21 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **69.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/631193) • [🐱 Nyaa](https://nekobt.to/torrents/13234801897483) |
-| `[GM-Team][国漫][记忆管理局][The Memory Bureau][2026][05][AVC][GB][1080P]` | **551.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631192) • [🐱 Nyaa](https://nyaa.si/view/2149610) |
-| `[VARYG] Daemons of the Shadow Realm S01E08 Suspicion and Conviction...` | **1136.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631190) • [🐱 Nyaa](https://nekobt.to/torrents/13233318186254) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E08 1080p NF WEB-DL MULTi...` | **1136.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/631191) • [🐱 Nyaa](https://nekobt.to/torrents/13233287624205) |
 
 ---
 <div align="center">
