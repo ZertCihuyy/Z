@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.00.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.51.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - A Good Day to Ascend - 8 [1080p IQ WEB-DL]` | **409.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631177) • [🐱 Nyaa](https://nyaa.si/view/2149516) |
+| `[ASW] Rilakkuma - 21 [1080p HEVC x265 10Bit][AAC]` | **33.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631176) • [🐱 Nyaa](https://nyaa.si/view/2149515) |
+| `[ToonsHub] RILAKKUMA S01E21 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **109.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631171) • [🐱 Nyaa](https://nyaa.si/view/2149514) |
+| `RILAKKUMA S01E21 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **112.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631172) • [🐱 Nyaa](https://nyaa.si/view/2149513) |
+| `[AnoZu] RILAKKUMA S01E21 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264` | **111.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/631164) • [🐱 Nyaa](https://nyaa.si/view/2149512) |
+| `RILAKKUMA S01E21 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **104.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631174) • [🐱 Nyaa](https://nekobt.to/torrents/13227739804674) |
+| `[Erai-raws] Rilakkuma - 21 [1080p CR WEB-DL AVC AAC][MultiSub][C30C...` | **107.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/631167) • [🐱 Nyaa](https://nyaa.si/view/2149502) |
+| `[SubsPlease] Rilakkuma - 21 (1080p) [1EE9E0EE].mkv` | **93.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631168) • [🐱 Nyaa](https://nyaa.si/view/2149501) |
+| `[PHTMini] Attack on Titan - S04 (BD 1080p AV1 Opus 2.0) (Dual-Audio...` | **11725.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631163) • [🐱 Nyaa](https://nekobt.to/torrents/13227512833537) |
+| `[PHTMini] Attack on Titan - S03 (BD 1080p AV1 Opus 2.0) (Dual-Audio...` | **9295.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631162) • [🐱 Nyaa](https://nekobt.to/torrents/13227092220686) |
 | `[PHTMini] Attack on Titan - S02 (BD 1080p AV1 Opus 2.0) (Dual-Audio...` | **7176.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/631160) • [🐱 Nyaa](https://nekobt.to/torrents/13226693582351) |
 | `[Z-A] Dr. Stone Science Future - S04E33 (WEB 1080p AAC)` | **1505.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/631158) • [🐱 Nyaa](https://nekobt.to/torrents/13226335447554) |
 | `[PHTMini] Attack on Titan - S01 (BD 1080p AV1 Opus) (Dual-Audio) (G...` | **9827.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631159) • [🐱 Nyaa](https://nekobt.to/torrents/13226288087823) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **334.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/631156) • [🐱 Nyaa](https://nyaa.si/view/2149495) |
 | `[DKB] Nige Jouzu no Wakagimi - S02E06 [1080p][HEVC x265 10bit][Mult...` | **695.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/631157) • [🐱 Nyaa](https://nyaa.si/view/2149494) |
-| `[sam] Hunter x Hunter (2011) (059-075) (BD 1080p HEVC x265 10-bit F...` | **51911.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631154) • [🐱 Nyaa](https://nekobt.to/torrents/13224256831235) |
-| `[Erai-raws] Nige Jouzu no Wakagimi S02E06 [1080p CR WEBRip HEVC AAC...` | **762.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631155) • [🐱 Nyaa](https://nekobt.to/torrents/13224249491968) |
-| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 08 [1080p CR WEBRip ...` | **328.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/631153) • [🐱 Nyaa](https://nyaa.si/view/2149486) |
-| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E08 [WEB.1080p.AV1] | K...` | **372.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/631152) • [🐱 Nyaa](https://nyaa.si/view/2149484) |
-| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E17 (WEB ...` | **1492.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631150) • [🐱 Nyaa](https://nekobt.to/torrents/13222997111297) |
-| `[Ny] Link Click - S04E03 (WEBRip 1920x800 HEVC AAC) | Shiguang Dail...` | **2234.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/631149) • [🐱 Nyaa](https://nekobt.to/torrents/13222756522510) |
-| `[DKB] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Ta...` | **218.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631148) • [🐱 Nyaa](https://nyaa.si/view/2149478) |
-| `[ToonsHub] Draw This Then Die S01E07 1080p CR WEB-DL MULTi AAC2.0 H...` | **1432.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/631147) • [🐱 Nyaa](https://nekobt.to/torrents/13222223987976) |
-| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E08 [1080p WEBRip AV1]` | **171.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631146) • [🐱 Nyaa](https://nekobt.to/torrents/13221924024832) |
-| `[Erai-raws] Shiguang Dailiren Season 3 - 03 (CA) [1080p CR WEBRip H...` | **242.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/631145) • [🐱 Nyaa](https://nyaa.si/view/2149475) |
 
 ---
 <div align="center">
