@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.31.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.59.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Iwamoto-senpai no Suisen - S01E08 [1080p WEBRip AV1]` | **176.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/631296) • [🐱 Nyaa](https://nekobt.to/torrents/13240462753543) |
+| `[ASW] Iwamoto-senpai no Suisen - 08 [1080p HEVC x265 10Bit][AAC]` | **224.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631295) • [🐱 Nyaa](https://nyaa.si/view/2149817) |
+| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 05 [1080p DSNP...` | **1088.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631291) • [🐱 Nyaa](https://nyaa.si/view/2149816) |
+| `[ToonsHub] BLEACH Thousand-Year Blood War S01E45 1080p DSNP WEB-DL ...` | **1088.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/631294) • [🐱 Nyaa](https://nyaa.si/view/2149813) |
+| `[VARYG] BLEACH Thousand Year Blood War S01E45 DEFEND YOU 1080p DSNP...` | **1088.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/631289) • [🐱 Nyaa](https://nekobt.to/torrents/13240198829058) |
+| `[ToonsHub] BLEACH Thousand-Year Blood War S01E45 1080p HULU WEB-DL ...` | **1069.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/631290) • [🐱 Nyaa](https://nekobt.to/torrents/13240187804166) |
 | `[Doomdos] - Recommendations from Iwamoto-Senpai - 8 [1080p IQ WEB-DL]` | **281.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631288) • [🐱 Nyaa](https://nyaa.si/view/2149806) |
 | `[Doomdos] - The Cat and the Dragon - 9 [1080p IQ WEB-DL]` | **268.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/631287) • [🐱 Nyaa](https://nyaa.si/view/2149805) |
 | `[Onalrie] Neko to Ryuu - S01E09 [1080p WEBRip AV1]` | **183.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631286) • [🐱 Nyaa](https://nekobt.to/torrents/13239993384204) |
@@ -42,12 +48,6 @@
 | `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Era...` | **415.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631283) • [🐱 Nyaa](https://nyaa.si/view/2149801) |
 | `[Ironclad] Honzuki no Gekokujou - S04E19 [WEB.1080p.AV1] | Ascendan...` | **257.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631282) • [🐱 Nyaa](https://nyaa.si/view/2149800) |
 | `[ToonsHub] Recommendations from Iwamoto-Senpai S01E08 1080p CR WEB-...` | **1391.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/631277) • [🐱 Nyaa](https://nekobt.to/torrents/13239786015488) |
-| `[AnoZu] Recommendations from Iwamoto-Senpai S01E08 1080p CR WEB-DL ...` | **1395.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631278) • [🐱 Nyaa](https://nekobt.to/torrents/13239769963779) |
-| `Recommendations from Iwamoto Senpai S01E08 AKA The Box Man 1080p CR...` | **1390.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/631276) • [🐱 Nyaa](https://nyaa.si/view/2149797) |
-| `[SubsPlease] Iwamoto-senpai no Suisen - 08 (1080p) [54646933].mkv` | **1382.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/631269) • [🐱 Nyaa](https://nyaa.si/view/2149796) |
-| `Recommendations from Iwamoto Senpai S01E08 SUBFRENCH 1080p CR WEB-D...` | **1386.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/631279) • [🐱 Nyaa](https://nekobt.to/torrents/13239726052356) |
-| `[Erai-raws] Iwamoto-senpai no Suisen - 08 [1080p CR WEB-DL AVC AAC]...` | **1390.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631274) • [🐱 Nyaa](https://nyaa.si/view/2149790) |
-| `Welcome to Demon School Iruma kun S04E19 The Dem-Dol Games 1080p BI...` | **532.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631275) • [🐱 Nyaa](https://nyaa.si/view/2149784) |
 
 ---
 <div align="center">
