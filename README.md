@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.59.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.31.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ASW] Black Torch - 08 [1080p HEVC x265 10Bit][AAC]` | **356.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631268) • [🐱 Nyaa](https://nyaa.si/view/2149783) |
-| `[Onalrie] Black Torch - S01E08 [1080p WEBRip AV1]` | **285.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631267) • [🐱 Nyaa](https://nekobt.to/torrents/13239491597314) |
-| `The Cat and the Dragon S01E09 The White Cat and the Lazy Girl 1080p...` | **1409.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631266) • [🐱 Nyaa](https://nyaa.si/view/2149782) |
-| `[ToonsHub] Detective Conan EP1210 1080p NF WEB-DL AAC2.0 H.264 (Mei...` | **829.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631265) • [🐱 Nyaa](https://nyaa.si/view/2149781) |
-| `[ToonsHub] The Cat and the Dragon S01E09 1080p CR WEB-DL AAC2.0 H.2...` | **1409.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631258) • [🐱 Nyaa](https://nekobt.to/torrents/13239321732865) |
-| `[AnoZu] The Cat and the Dragon S01E09 1080p CR WEB-DL AAC 2.0 H.264` | **1411.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631260) • [🐱 Nyaa](https://nekobt.to/torrents/13239300882944) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E19 1080p CR WEB-DL...` | **1722.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/631252) • [🐱 Nyaa](https://nyaa.si/view/2149778) |
-| `BLACK TORCH S01E08 Underdog 1080p CR WEB-DL MULTi AAC2.0 H.264-VARY...` | **1674.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631253) • [🐱 Nyaa](https://nyaa.si/view/2149777) |
-| `[SubsPlease] Neko to Ryuu - 09 (1080p) [0B8044C6].mkv` | **1382.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/631254) • [🐱 Nyaa](https://nyaa.si/view/2149776) |
-| `The Cat and the Dragon S01E09 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1386.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/631263) • [🐱 Nyaa](https://nekobt.to/torrents/13239265307141) |
-| `[ToonsHub] Ascendance of a Bookworm S04E19 1080p CR WEB-DL AAC2.0 H...` | **1439.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/631261) • [🐱 Nyaa](https://nyaa.si/view/2149770) |
-| `[Erai-raws] Neko to Ryuu - 09 [1080p CR WEB-DL AVC AAC][MultiSub][D...` | **1390.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/631262) • [🐱 Nyaa](https://nyaa.si/view/2149769) |
-| `[Doomdos] - BLACK TORCH - 8 [1080p IQ WEB-DL]` | **309.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631251) • [🐱 Nyaa](https://nyaa.si/view/2149765) |
-| `[AnoZu] BLACK TORCH S01E08 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264` | **1458.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631250) • [🐱 Nyaa](https://nyaa.si/view/2149764) |
-| `[Yameii] BLACK TORCH - S01E08 [English Dub] [CR WEB-DL 1080p H264 A...` | **1387.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631247) • [🐱 Nyaa](https://nekobt.to/torrents/13238930141454) |
+| `[Doomdos] - Recommendations from Iwamoto-Senpai - 8 [1080p IQ WEB-DL]` | **281.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631288) • [🐱 Nyaa](https://nyaa.si/view/2149806) |
+| `[Doomdos] - The Cat and the Dragon - 9 [1080p IQ WEB-DL]` | **268.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/631287) • [🐱 Nyaa](https://nyaa.si/view/2149805) |
+| `[Onalrie] Neko to Ryuu - S01E09 [1080p WEBRip AV1]` | **183.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631286) • [🐱 Nyaa](https://nekobt.to/torrents/13239993384204) |
+| `[Erai-raws] Black Torch - 08 [1080p CR WEBRip HEVC AAC][MultiSub][5...` | **434.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/631284) • [🐱 Nyaa](https://nyaa.si/view/2149804) |
+| `[Erai-raws] Detective Conan - 1210 [1080p CR WEBRip HEVC AAC][Multi...` | **376.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/631285) • [🐱 Nyaa](https://nyaa.si/view/2149803) |
+| `[ASW] Neko to Ryuu - 09 [1080p HEVC x265 10Bit][AAC]` | **216.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631281) • [🐱 Nyaa](https://nyaa.si/view/2149802) |
+| `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Era...` | **415.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631283) • [🐱 Nyaa](https://nyaa.si/view/2149801) |
+| `[Ironclad] Honzuki no Gekokujou - S04E19 [WEB.1080p.AV1] | Ascendan...` | **257.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631282) • [🐱 Nyaa](https://nyaa.si/view/2149800) |
+| `[ToonsHub] Recommendations from Iwamoto-Senpai S01E08 1080p CR WEB-...` | **1391.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/631277) • [🐱 Nyaa](https://nekobt.to/torrents/13239786015488) |
+| `[AnoZu] Recommendations from Iwamoto-Senpai S01E08 1080p CR WEB-DL ...` | **1395.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631278) • [🐱 Nyaa](https://nekobt.to/torrents/13239769963779) |
+| `Recommendations from Iwamoto Senpai S01E08 AKA The Box Man 1080p CR...` | **1390.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/631276) • [🐱 Nyaa](https://nyaa.si/view/2149797) |
+| `[SubsPlease] Iwamoto-senpai no Suisen - 08 (1080p) [54646933].mkv` | **1382.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/631269) • [🐱 Nyaa](https://nyaa.si/view/2149796) |
+| `Recommendations from Iwamoto Senpai S01E08 SUBFRENCH 1080p CR WEB-D...` | **1386.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/631279) • [🐱 Nyaa](https://nekobt.to/torrents/13239726052356) |
+| `[Erai-raws] Iwamoto-senpai no Suisen - 08 [1080p CR WEB-DL AVC AAC]...` | **1390.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631274) • [🐱 Nyaa](https://nyaa.si/view/2149790) |
+| `Welcome to Demon School Iruma kun S04E19 The Dem-Dol Games 1080p BI...` | **532.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631275) • [🐱 Nyaa](https://nyaa.si/view/2149784) |
 
 ---
 <div align="center">
