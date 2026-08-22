@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.00.25_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.59.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[DKB] Bleach - Sennen Kessen-hen - 45 [1080p][HEVC x265 10bit][Mult...` | **652.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/631373) • [🐱 Nyaa](https://nyaa.si/view/2149929) |
-| `[Onalrie] Tenmaku no Jaadugar - S01E09 [1080p WEBRip AV1]` | **312.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631372) • [🐱 Nyaa](https://nekobt.to/torrents/13242172644099) |
-| `[Judas] Black Torch - S01E08 [1080p][HEVC x265 10bit][Dual-Audio][M...` | **406.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631371) • [🐱 Nyaa](https://nyaa.si/view/2149921) |
-| `[Unfucked] Grow Up Show: Sunflower Circus - S01E08 (1080p CR WEB-DL...` | **1705.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/631369) • [🐱 Nyaa](https://nyaa.si/view/2149920) |
-| `[Trix] Grow Up Show S01E08 [WEBRip 1080p AV1 Opus] (Dual Audio, Mul...` | **342.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/631370) • [🐱 Nyaa](https://nyaa.si/view/2149918) |
-| `[AnoZu] Daemons of the Shadow Realm S01E18 1080p CR WEB-DL Dual-Aud...` | **1453.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631363) • [🐱 Nyaa](https://nekobt.to/torrents/13241855938566) |
-| `[VARYG] Daemons of the Shadow Realm S01E20 The Hunted and the Hunte...` | **355.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/631364) • [🐱 Nyaa](https://nekobt.to/torrents/13241854024971) |
-| `[AnoZu] Daemons of the Shadow Realm S01E20 1080p CR WEB-DL AAC 2.0 ...` | **1405.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631361) • [🐱 Nyaa](https://nyaa.si/view/2149912) |
-| `[Judas] Shibou Yuugi de Meshi o Kuu. 44 - Cloudy Beach (Shiboyugi P...` | **759.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/631362) • [🐱 Nyaa](https://nyaa.si/view/2149911) |
-| `Daemons of the Shadow Realm S01E20 SUBFRENCH 1080p CR WEB-DL AAC2.0...` | **1379.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/631365) • [🐱 Nyaa](https://nekobt.to/torrents/13241759915523) |
-| `[Yameii] Jaadugar: A Witch in Mongolia - S01E07 [English Dub] [CR W...` | **1389.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/631348) • [🐱 Nyaa](https://nyaa.si/view/2149907) |
-| `[Yameii] Grow Up Show: Sunflower Circus - S01E08 [English Dub] [CR ...` | **1383.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631349) • [🐱 Nyaa](https://nyaa.si/view/2149906) |
-| `[Yameii] Daemons of the Shadow Realm - S01E18 [English Dub] [CR WEB...` | **1381.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/631350) • [🐱 Nyaa](https://nyaa.si/view/2149905) |
-| `[AnoZu] Jaadugar: A Witch in Mongolia S01E07 1080p CR WEB-DL Dual-A...` | **1766.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/631351) • [🐱 Nyaa](https://nyaa.si/view/2149904) |
-| `[AnoZu] GROW UP SHOW -Sunflower Circus- S01E08 1080p CR WEB-DL Dual...` | **1719.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/631352) • [🐱 Nyaa](https://nyaa.si/view/2149903) |
+| `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **207.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631503) • [🐱 Nyaa](https://nyaa.si/view/2150072) |
+| `[Salieri] Frieren - Beyond Journey's End S2 - BD (1080p) (HDR) [Dua...` | **30084.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/631504) • [🐱 Nyaa](https://nyaa.si/view/2150071) |
+| `[jaaj] Noragami S01+S02+OVA (2014) (BD 1080p AV1 OPUS)` | **7691.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/631502) • [🐱 Nyaa](https://nekobt.to/torrents/13247286215428) |
+| `[Gecko] Odekake Kozame - S01E80 (おでかけ子ザメ; Odekake Kozame 2nd Season...` | **16.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/631500) • [🐱 Nyaa](https://nekobt.to/torrents/13247230922763) |
+| `[DKB] Hanaori-san wa Tensei shitemo Kenka ga Shitai - S01E07 [1080p...` | **277.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/631499) • [🐱 Nyaa](https://nyaa.si/view/2150069) |
+| `[Judas] Otomege Sekai wa Mob ni Kibishii Sekai Desu (Trapped in a D...` | **228.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631501) • [🐱 Nyaa](https://nyaa.si/view/2150068) |
+| `[Fuchs] Sound! Euphonium - S00E08 (BD 1080p x265 Opus/AAC 2.0) [Dua...` | **1660.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631497) • [🐱 Nyaa](https://nekobt.to/torrents/13247065294852) |
+| `[Fuchs] Sound! Euphonium - S01 (BD 1080p x265 Opus/AAC 2.0) [Dual-A...` | **20970.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631498) • [🐱 Nyaa](https://nekobt.to/torrents/13247064938249) |
+| `[Salieri] Gachiakuta S1 - BD (1080p) (HDR) [Dual Audio]` | **40012.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/631496) • [🐱 Nyaa](https://nyaa.si/view/2150065) |
+| `[VARYG] MAO S01E21 Soma 1080p DSNP WEB-DL AAC2.0 H.264 (Maoyuu Maou...` | **869.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631493) • [🐱 Nyaa](https://nekobt.to/torrents/13246652847368) |
+| `[ToonsHub] Hanaori-san Still Wants to Fight in the Next Life S01E07...` | **1504.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/631494) • [🐱 Nyaa](https://nekobt.to/torrents/13246635019268) |
+| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E17 (89) [1080p CR ...` | **1407.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631495) • [🐱 Nyaa](https://nekobt.to/torrents/13246586572803) |
+| `[Judas] Hanaori-san wa Tensei Shite mo Kenka ga Shitai (Hanaori-san...` | **291.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631492) • [🐱 Nyaa](https://nyaa.si/view/2150061) |
+| `[ToonsHub] MAO S01E21 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **869.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631491) • [🐱 Nyaa](https://nyaa.si/view/2150059) |
+| `[Judas] Otome Kaiju Caramelise (Kaiju Girl Caramelise) - S01E07 [10...` | **446.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/631489) • [🐱 Nyaa](https://nyaa.si/view/2150057) |
 
 ---
 <div align="center">
