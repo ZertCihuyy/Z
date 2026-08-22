@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.59.21_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.30.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Neko to Ryuu - 09 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **435.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631303) • [🐱 Nyaa](https://nyaa.si/view/2149828) |
+| `[VARYG] Daemons of the Shadow Realm S01E20 The Hunted and the Hunte...` | **863.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/631299) • [🐱 Nyaa](https://nekobt.to/torrents/13240733374729) |
+| `[VARYG] BLEACH Thousand Year Blood War S01E45 1080p NF WEB-DL AAC2....` | **960.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/631300) • [🐱 Nyaa](https://nekobt.to/torrents/13240697631490) |
+| `Bleach S17E45 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H.264-Tsundere-Raw...` | **1088.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/631302) • [🐱 Nyaa](https://nekobt.to/torrents/13240671331841) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E20 1080p NF WEB-DL AAC2....` | **863.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631298) • [🐱 Nyaa](https://nyaa.si/view/2149821) |
+| `[Judas] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Er...` | **342.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631297) • [🐱 Nyaa](https://nyaa.si/view/2149818) |
 | `[Onalrie] Iwamoto-senpai no Suisen - S01E08 [1080p WEBRip AV1]` | **176.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/631296) • [🐱 Nyaa](https://nekobt.to/torrents/13240462753543) |
 | `[ASW] Iwamoto-senpai no Suisen - 08 [1080p HEVC x265 10Bit][AAC]` | **224.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631295) • [🐱 Nyaa](https://nyaa.si/view/2149817) |
 | `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 05 [1080p DSNP...` | **1088.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631291) • [🐱 Nyaa](https://nyaa.si/view/2149816) |
@@ -42,12 +48,6 @@
 | `[Doomdos] - Recommendations from Iwamoto-Senpai - 8 [1080p IQ WEB-DL]` | **281.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631288) • [🐱 Nyaa](https://nyaa.si/view/2149806) |
 | `[Doomdos] - The Cat and the Dragon - 9 [1080p IQ WEB-DL]` | **268.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/631287) • [🐱 Nyaa](https://nyaa.si/view/2149805) |
 | `[Onalrie] Neko to Ryuu - S01E09 [1080p WEBRip AV1]` | **183.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631286) • [🐱 Nyaa](https://nekobt.to/torrents/13239993384204) |
-| `[Erai-raws] Black Torch - 08 [1080p CR WEBRip HEVC AAC][MultiSub][5...` | **434.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/631284) • [🐱 Nyaa](https://nyaa.si/view/2149804) |
-| `[Erai-raws] Detective Conan - 1210 [1080p CR WEBRip HEVC AAC][Multi...` | **376.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/631285) • [🐱 Nyaa](https://nyaa.si/view/2149803) |
-| `[ASW] Neko to Ryuu - 09 [1080p HEVC x265 10Bit][AAC]` | **216.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631281) • [🐱 Nyaa](https://nyaa.si/view/2149802) |
-| `[DKB] Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Era...` | **415.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631283) • [🐱 Nyaa](https://nyaa.si/view/2149801) |
-| `[Ironclad] Honzuki no Gekokujou - S04E19 [WEB.1080p.AV1] | Ascendan...` | **257.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631282) • [🐱 Nyaa](https://nyaa.si/view/2149800) |
-| `[ToonsHub] Recommendations from Iwamoto-Senpai S01E08 1080p CR WEB-...` | **1391.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/631277) • [🐱 Nyaa](https://nekobt.to/torrents/13239786015488) |
 
 ---
 <div align="center">
