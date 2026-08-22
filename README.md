@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.46.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.34.55_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[GM-Team][国漫][记忆管理局][The Memory Bureau][2026][05][AVC][GB][1080P]` | **551.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631192) • [🐱 Nyaa](https://nyaa.si/view/2149610) |
 | `[VARYG] Daemons of the Shadow Realm S01E08 Suspicion and Conviction...` | **1136.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631190) • [🐱 Nyaa](https://nekobt.to/torrents/13233318186254) |
 | `[ToonsHub] Daemons of the Shadow Realm S01E08 1080p NF WEB-DL MULTi...` | **1136.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/631191) • [🐱 Nyaa](https://nekobt.to/torrents/13233287624205) |
 | `[Sonomama] The 100 Girlfriends Who Really Really Really Really REAL...` | **6464.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631188) • [🐱 Nyaa](https://nekobt.to/torrents/13232394339594) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] Jiang Ye S01E19 1080p BILI WEB-DL AAC2.0 H.265 (Ever Nig...` | **562.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/631181) • [🐱 Nyaa](https://nyaa.si/view/2149538) |
 | `[Erai-raws] Rilakkuma - 21 [1080p CR WEBRip HEVC AAC][MultiSub][AFF...` | **48.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/631179) • [🐱 Nyaa](https://nyaa.si/view/2149526) |
 | `[ToonsHub] A Good Day to Ascend S01E08 1080p iQ WEB-DL AAC2.0 H.264...` | **408.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631178) • [🐱 Nyaa](https://nyaa.si/view/2149523) |
-| `[Doomdos] - A Good Day to Ascend - 8 [1080p IQ WEB-DL]` | **409.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631177) • [🐱 Nyaa](https://nyaa.si/view/2149516) |
 
 ---
 <div align="center">
