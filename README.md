@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.43.27_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.02.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sokudo] Re ZERO - Starting Life in Another World S04E12 [1080p AV1...` | **258.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631187) • [🐱 Nyaa](https://nyaa.si/view/2149566) |
+| `[Onalrie] Rilakkuma - S01E21 [1080p WEBRip AV1]` | **24.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/631186) • [🐱 Nyaa](https://onalrie.app/torrent/67879087-fade-4f89-b972-b8e6f410e84e) |
 | `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E09 [108...` | **197.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631185) • [🐱 Nyaa](https://nyaa.si/view/2149556) |
 | `Tis.Time.for.Torture.Princess.S01.1080p.BluRay.Opus.2.0.x265-YURASU...` | **15582.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631183) • [🐱 Nyaa](https://nekobt.to/torrents/13231029567235) |
 | `[Gecko] Please Excuse My Younger Brothers - S01E08 (うちの弟どもがすみません; U...` | **708.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/631184) • [🐱 Nyaa](https://nekobt.to/torrents/13230914939656) |
@@ -46,8 +48,6 @@
 | `[ToonsHub] RILAKKUMA S01E21 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **109.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631171) • [🐱 Nyaa](https://nyaa.si/view/2149514) |
 | `RILAKKUMA S01E21 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **112.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631172) • [🐱 Nyaa](https://nyaa.si/view/2149513) |
 | `[AnoZu] RILAKKUMA S01E21 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264` | **111.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/631164) • [🐱 Nyaa](https://nyaa.si/view/2149512) |
-| `RILAKKUMA S01E21 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **104.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631174) • [🐱 Nyaa](https://nekobt.to/torrents/13227739804674) |
-| `[Erai-raws] Rilakkuma - 21 [1080p CR WEB-DL AVC AAC][MultiSub][C30C...` | **107.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/631167) • [🐱 Nyaa](https://nyaa.si/view/2149502) |
 
 ---
 <div align="center">
