@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.51.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.57.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Rilakkuma - 21 [1080p CR WEBRip HEVC AAC][MultiSub][AFF...` | **48.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/631179) • [🐱 Nyaa](https://nyaa.si/view/2149526) |
+| `[ToonsHub] A Good Day to Ascend S01E08 1080p iQ WEB-DL AAC2.0 H.264...` | **408.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631178) • [🐱 Nyaa](https://nyaa.si/view/2149523) |
 | `[Doomdos] - A Good Day to Ascend - 8 [1080p IQ WEB-DL]` | **409.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631177) • [🐱 Nyaa](https://nyaa.si/view/2149516) |
 | `[ASW] Rilakkuma - 21 [1080p HEVC x265 10Bit][AAC]` | **33.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631176) • [🐱 Nyaa](https://nyaa.si/view/2149515) |
 | `[ToonsHub] RILAKKUMA S01E21 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **109.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631171) • [🐱 Nyaa](https://nyaa.si/view/2149514) |
@@ -46,8 +48,6 @@
 | `[PHTMini] Attack on Titan - S02 (BD 1080p AV1 Opus 2.0) (Dual-Audio...` | **7176.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/631160) • [🐱 Nyaa](https://nekobt.to/torrents/13226693582351) |
 | `[Z-A] Dr. Stone Science Future - S04E33 (WEB 1080p AAC)` | **1505.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/631158) • [🐱 Nyaa](https://nekobt.to/torrents/13226335447554) |
 | `[PHTMini] Attack on Titan - S01 (BD 1080p AV1 Opus) (Dual-Audio) (G...` | **9827.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631159) • [🐱 Nyaa](https://nekobt.to/torrents/13226288087823) |
-| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **334.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/631156) • [🐱 Nyaa](https://nyaa.si/view/2149495) |
-| `[DKB] Nige Jouzu no Wakagimi - S02E06 [1080p][HEVC x265 10bit][Mult...` | **695.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/631157) • [🐱 Nyaa](https://nyaa.si/view/2149494) |
 
 ---
 <div align="center">
