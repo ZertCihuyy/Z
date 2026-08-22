@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.43.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.01.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AnoZu] Ascendance of a Bookworm S01E53 1080p CR WEB-DL Dual-Audio ...` | **1464.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631210) • [🐱 Nyaa](https://nyaa.si/view/2149662) |
 | `[Yameii] Ascendance of a Bookworm - S04E17 [English Dub] [CR WEB-DL...` | **1396.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631202) • [🐱 Nyaa](https://nyaa.si/view/2149657) |
 | `[ToonsHub] Ascendance of a Bookworm S04E17 1080p CR WEB-DL DUAL AAC...` | **1471.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/631203) • [🐱 Nyaa](https://nyaa.si/view/2149655) |
 | `[AnoZu] Ascendance of a Bookworm S01E55 1080p CR WEB-DL AAC 2.0 H.264` | **1422.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/631199) • [🐱 Nyaa](https://nekobt.to/torrents/13235610216454) |
@@ -47,7 +48,6 @@
 | `[GM-Team][国漫][记忆管理局][The Memory Bureau][2026][05][AVC][GB][1080P]` | **551.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631192) • [🐱 Nyaa](https://nyaa.si/view/2149610) |
 | `[VARYG] Daemons of the Shadow Realm S01E08 Suspicion and Conviction...` | **1136.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631190) • [🐱 Nyaa](https://nekobt.to/torrents/13233318186254) |
 | `[ToonsHub] Daemons of the Shadow Realm S01E08 1080p NF WEB-DL MULTi...` | **1136.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/631191) • [🐱 Nyaa](https://nekobt.to/torrents/13233287624205) |
-| `[Sonomama] The 100 Girlfriends Who Really Really Really Really REAL...` | **6464.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631188) • [🐱 Nyaa](https://nekobt.to/torrents/13232394339594) |
 
 ---
 <div align="center">
