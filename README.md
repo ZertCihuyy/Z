@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.40.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.00.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[PHTMini] Attack on Titan - S02 (BD 1080p AV1 Opus 2.0) (Dual-Audio...` | **7176.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/631160) • [🐱 Nyaa](https://nekobt.to/torrents/13226693582351) |
 | `[Z-A] Dr. Stone Science Future - S04E33 (WEB 1080p AAC)` | **1505.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/631158) • [🐱 Nyaa](https://nekobt.to/torrents/13226335447554) |
 | `[PHTMini] Attack on Titan - S01 (BD 1080p AV1 Opus) (Dual-Audio) (G...` | **9827.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631159) • [🐱 Nyaa](https://nekobt.to/torrents/13226288087823) |
 | `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **334.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/631156) • [🐱 Nyaa](https://nyaa.si/view/2149495) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] Draw This Then Die S01E07 1080p CR WEB-DL MULTi AAC2.0 H...` | **1432.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/631147) • [🐱 Nyaa](https://nekobt.to/torrents/13222223987976) |
 | `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E08 [1080p WEBRip AV1]` | **171.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631146) • [🐱 Nyaa](https://nekobt.to/torrents/13221924024832) |
 | `[Erai-raws] Shiguang Dailiren Season 3 - 03 (CA) [1080p CR WEBRip H...` | **242.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/631145) • [🐱 Nyaa](https://nyaa.si/view/2149475) |
-| `[Erai-raws] Kore Kaite Shine - 07 [1080p CR WEBRip HEVC AAC][MultiS...` | **486.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631141) • [🐱 Nyaa](https://nekobt.to/torrents/13221799772431) |
 
 ---
 <div align="center">
