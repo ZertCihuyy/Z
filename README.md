@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.09.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.43.27_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E09 [108...` | **197.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631185) • [🐱 Nyaa](https://nyaa.si/view/2149556) |
 | `Tis.Time.for.Torture.Princess.S01.1080p.BluRay.Opus.2.0.x265-YURASU...` | **15582.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631183) • [🐱 Nyaa](https://nekobt.to/torrents/13231029567235) |
 | `[Gecko] Please Excuse My Younger Brothers - S01E08 (うちの弟どもがすみません; U...` | **708.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/631184) • [🐱 Nyaa](https://nekobt.to/torrents/13230914939656) |
 | `[Some-Stuffs] Pocket Monsters (2023) 146 (1080p) [3E86F81B]` | **479.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631182) • [🐱 Nyaa](https://nyaa.si/view/2149550) |
@@ -47,7 +48,6 @@
 | `[AnoZu] RILAKKUMA S01E21 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264` | **111.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/631164) • [🐱 Nyaa](https://nyaa.si/view/2149512) |
 | `RILAKKUMA S01E21 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **104.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631174) • [🐱 Nyaa](https://nekobt.to/torrents/13227739804674) |
 | `[Erai-raws] Rilakkuma - 21 [1080p CR WEB-DL AVC AAC][MultiSub][C30C...` | **107.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/631167) • [🐱 Nyaa](https://nyaa.si/view/2149502) |
-| `[SubsPlease] Rilakkuma - 21 (1080p) [1EE9E0EE].mkv` | **93.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631168) • [🐱 Nyaa](https://nyaa.si/view/2149501) |
 
 ---
 <div align="center">
