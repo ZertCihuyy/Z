@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.58.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.54.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Detective Conan - E1210 [1080p WEBRip AV1]` | **187.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/631229) • [🐱 Nyaa](https://nekobt.to/torrents/13238219862287) |
+| `[ASW] Detective Conan - 1210 [1080p HEVC x265 10Bit][AAC]` | **192.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631228) • [🐱 Nyaa](https://nyaa.si/view/2149730) |
 | `[VARYG] Detective Conan S01E1210 The Cursed Neighbors House 1080p C...` | **1444.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/631227) • [🐱 Nyaa](https://nekobt.to/torrents/13237713293834) |
 | `[ToonsHub] Detective Conan EP1210 1080p CR WEB-DL AAC2.0 H.264 (Eng...` | **1441.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/631225) • [🐱 Nyaa](https://nekobt.to/torrents/13237514407691) |
 | `Ascendance of a Bookworm S04E16 New Dress and Printing Press 1080p ...` | **1482.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631219) • [🐱 Nyaa](https://nyaa.si/view/2149715) |
@@ -46,8 +48,6 @@
 | `[Onalrie] Honzuki no Gekokujou Shisho ni Naru Tame ni wa Shudan wo ...` | **229.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631211) • [🐱 Nyaa](https://nekobt.to/torrents/13236254284809) |
 | `[FrixySubs] Smoking Behind the Supermarket with You - S01E05 [1080p...` | **1416.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/631212) • [🐱 Nyaa](https://nekobt.to/torrents/13236196160782) |
 | `[AnoZu] Ascendance of a Bookworm S01E53 1080p CR WEB-DL Dual-Audio ...` | **1464.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631210) • [🐱 Nyaa](https://nyaa.si/view/2149662) |
-| `[Yameii] Ascendance of a Bookworm - S04E17 [English Dub] [CR WEB-DL...` | **1396.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631202) • [🐱 Nyaa](https://nyaa.si/view/2149657) |
-| `[ToonsHub] Ascendance of a Bookworm S04E17 1080p CR WEB-DL DUAL AAC...` | **1471.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/631203) • [🐱 Nyaa](https://nyaa.si/view/2149655) |
 
 ---
 <div align="center">
