@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.01.03_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.01.33_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Sekai Saikyou no Kouei Meikyuukoku no Shinjin Tansakusha (T...` | **218.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631676) • [🐱 Nyaa](https://nyaa.si/view/2150385) |
-| `[Onalrie] Sekai Saikyou no Kouei - S01E08 [1080p WEBRip AV1]` | **196.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631677) • [🐱 Nyaa](https://nekobt.to/torrents/13261634771205) |
-| `[ASW] Sekai Saikyou no Kouei - 08 [1080p HEVC x265 10Bit][AAC]` | **219.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631675) • [🐱 Nyaa](https://nyaa.si/view/2150383) |
-| `[ToonsHub] Golden Curse S01E04 1080p iQ WEB-DL AAC2.0 H.264 (Multi-...` | **471.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631674) • [🐱 Nyaa](https://nekobt.to/torrents/13261382531842) |
-| `[Doomdos] - The World's Strongest Rearguard - 8 [1080p IQ WEB-DL]` | **194.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/631673) • [🐱 Nyaa](https://nyaa.si/view/2150377) |
-| `The Worlds Strongest Rearguard S01E08 A City in Turmoil 1080p CR WE...` | **1387.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631672) • [🐱 Nyaa](https://nyaa.si/view/2150376) |
-| `[ToonsHub] The Worlds Strongest Rearguard S01E08 1080p CR WEB-DL AA...` | **1388.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631659) • [🐱 Nyaa](https://nyaa.si/view/2150375) |
-| `[AnoZu] The World's Strongest Rearguard S01E08 1080p CR WEB-DL AAC ...` | **1393.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631660) • [🐱 Nyaa](https://nyaa.si/view/2150374) |
-| `[SubsPlease] Sekai Saikyou no Kouei - 08 (1080p) [CE24062F].mkv` | **1377.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631662) • [🐱 Nyaa](https://nyaa.si/view/2150373) |
-| `The Worlds Strongest Rearguard S01E08 SUBFRENCH 1080p CR WEB-DL AAC...` | **1382.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/631666) • [🐱 Nyaa](https://nekobt.to/torrents/13260921309710) |
-| `[Erai-raws] Sekai Saikyou no Kouei - 08 [1080p CR WEB-DL AVC AAC][M...` | **1388.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631667) • [🐱 Nyaa](https://nyaa.si/view/2150365) |
-| `[PHTM] Cyberpunk: Edgerunners - S01 (BD 1080p AV1 Opus 5.1) (Multi-...` | **8188.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631669) • [🐱 Nyaa](https://nekobt.to/torrents/13260902155523) |
-| `[nospaceleft] Natsume's Book of Friends - 01-94 (S01-S07 + 2 Movies...` | **5520.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631657) • [🐱 Nyaa](https://nekobt.to/torrents/13260803202061) |
-| `[PHTM] Cyberpunk: Edgerunners - S01 (BD 1080p AV1 Opus 5.1) (Multi-...` | **8188.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631658) • [🐱 Nyaa](https://nekobt.to/torrents/13260736634624) |
-| `[CenturyZeta] Yanineko Mini Anime - 16 (1080p) (Yani Neko)` | **17.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631656) • [🐱 Nyaa](https://nyaa.si/view/2150353) |
+| `[Judas] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanoj...` | **328.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/631712) • [🐱 Nyaa](https://nyaa.si/view/2150439) |
+| `[Onalrie] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kan...` | **295.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/631711) • [🐱 Nyaa](https://nekobt.to/torrents/13262556064005) |
+| `[ASW] Hyakkano - 32 [1080p HEVC x265 10Bit][AAC]` | **333.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/631710) • [🐱 Nyaa](https://nyaa.si/view/2150436) |
+| `Sparks of Tomorrow S01E08 His Brothers Footsteps 1080p NF WEB-DL MU...` | **1214.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631709) • [🐱 Nyaa](https://nyaa.si/view/2150435) |
+| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 08 [1080p NF...` | **903.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631704) • [🐱 Nyaa](https://nyaa.si/view/2150427) |
+| `[VARYG] Super Cube S01E04 Kidnapping A Demon Appears 1080p CR WEB-D...` | **1191.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/631696) • [🐱 Nyaa](https://nekobt.to/torrents/13262214226691) |
+| `Super Cube S01E01 Super-A Reincarnation The Goddess Confesses to Me...` | **1475.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631697) • [🐱 Nyaa](https://nyaa.si/view/2150424) |
+| `[ToonsHub] Sparks of Tomorrow S01E08 1080p NF WEB-DL DUAL AAC2.0 H....` | **909.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631698) • [🐱 Nyaa](https://nyaa.si/view/2150423) |
+| `Super Cube S01E06 The Hero Climbs the Tower The Monster Girl 1080p ...` | **1136.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631699) • [🐱 Nyaa](https://nyaa.si/view/2150421) |
+| `Super Cube S01E12 The Banquet of Rudra The Iron-Fisted Li Laika 108...` | **1361.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631700) • [🐱 Nyaa](https://nyaa.si/view/2150420) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **328.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/631691) • [🐱 Nyaa](https://nyaa.si/view/2150417) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E08 1080p BILI WEB-DL ...` | **273.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631692) • [🐱 Nyaa](https://nyaa.si/view/2150416) |
+| `[ToonsHub] Bleach Thousand-Year Blood War S01E45 1080p BILI WEB-DL ...` | **382.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631705) • [🐱 Nyaa](https://nyaa.si/view/2150415) |
+| `[AnoZu] The 100 Girlfriends Who Really Really Really Really REALLY ...` | **1460.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631694) • [🐱 Nyaa](https://nyaa.si/view/2150412) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1538.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631695) • [🐱 Nyaa](https://nyaa.si/view/2150411) |
 
 ---
 <div align="center">
