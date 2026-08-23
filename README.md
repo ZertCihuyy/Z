@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.53.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.41.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Prejudice-Studio] 记忆管理局 False Memory - 06 [Bilibili WEB-DL 1080P A...` | **592.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631561) • [🐱 Nyaa](https://nyaa.si/view/2150187) |
+| `[ToonsHub] False Memory S01E06 1080p BSITE WEB-DL AAC2.0 H.264 (Jiy...` | **431.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/631563) • [🐱 Nyaa](https://nyaa.si/view/2150185) |
+| `[Doomdos] - 记忆管理局 - 第6话 - [1080p BILIBILI COM WEB-DL]` | **432.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631564) • [🐱 Nyaa](https://nyaa.si/view/2150184) |
+| `[Prejudice-Studio] 记忆管理局 False Memory - 06 [Bilibili WEB-DL 1080P A...` | **432.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631559) • [🐱 Nyaa](https://nyaa.si/view/2150183) |
+| `[ASW] Digimon Beatbreak - 44 [1080p HEVC x265 10Bit][AAC]` | **650.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/631560) • [🐱 Nyaa](https://nyaa.si/view/2150182) |
 | `[Serenae] Meitantei Precure! - 30 Fanart Corner (1080p).mkv` | **9.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631558) • [🐱 Nyaa](https://nyaa.si/view/2150178) |
 | `[Serenae] Meitantei Precure! - 30 (1080p).mkv` | **1400.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/631556) • [🐱 Nyaa](https://nyaa.si/view/2150177) |
 | `[VARYG] Digimon Beatbreak S01E44 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1575.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/631555) • [🐱 Nyaa](https://nekobt.to/torrents/13251888272655) |
@@ -43,11 +48,6 @@
 | `[SubsPlease] Digimon Beatbreak - 44 (1080p) [3F54E862].mkv` | **1370.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/631546) • [🐱 Nyaa](https://nyaa.si/view/2150164) |
 | `[ASW] Meitantei Precure! - 30 [1080p HEVC x265 10Bit][AAC]` | **658.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631544) • [🐱 Nyaa](https://nyaa.si/view/2150159) |
 | `[ZeroReverse] False Memory - S01E01v2 (WEBRip 1080p x265 10-bit EAC-3)` | **5739.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/631543) • [🐱 Nyaa](https://nyaa.si/view/2150158) |
-| `[Doomdos] - Primeval Overlord - 11 [1080p IQ WEB-DL]` | **220.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/631542) • [🐱 Nyaa](https://nyaa.si/view/2150157) |
-| `[Erai-raws] Mao - 21 [1080p DSNP WEBRip HEVC AAC][MultiSub][BC1B2F98]` | **335.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631541) • [🐱 Nyaa](https://nekobt.to/torrents/13251030439176) |
-| `[Nanju] Rent-a-Girlfriend S01 1080p Bstation WEB-DL AAC2.0 H.264 (K...` | **4230.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631540) • [🐱 Nyaa](https://nekobt.to/torrents/13250873053952) |
-| `[Doomdos] - Urban Miracle Doctor - 206 [1080p IQ WEB-DL]` | **190.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/631539) • [🐱 Nyaa](https://nyaa.si/view/2150149) |
-| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 08 [1080p AMZN...` | **300.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/631538) • [🐱 Nyaa](https://nyaa.si/view/2150147) |
 
 ---
 <div align="center">
