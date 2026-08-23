@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.01.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.37.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanoj...` | **328.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/631712) • [🐱 Nyaa](https://nyaa.si/view/2150439) |
-| `[Onalrie] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kan...` | **295.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/631711) • [🐱 Nyaa](https://nekobt.to/torrents/13262556064005) |
-| `[ASW] Hyakkano - 32 [1080p HEVC x265 10Bit][AAC]` | **333.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/631710) • [🐱 Nyaa](https://nyaa.si/view/2150436) |
-| `Sparks of Tomorrow S01E08 His Brothers Footsteps 1080p NF WEB-DL MU...` | **1214.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631709) • [🐱 Nyaa](https://nyaa.si/view/2150435) |
-| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 08 [1080p NF...` | **903.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631704) • [🐱 Nyaa](https://nyaa.si/view/2150427) |
-| `[VARYG] Super Cube S01E04 Kidnapping A Demon Appears 1080p CR WEB-D...` | **1191.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/631696) • [🐱 Nyaa](https://nekobt.to/torrents/13262214226691) |
-| `Super Cube S01E01 Super-A Reincarnation The Goddess Confesses to Me...` | **1475.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631697) • [🐱 Nyaa](https://nyaa.si/view/2150424) |
-| `[ToonsHub] Sparks of Tomorrow S01E08 1080p NF WEB-DL DUAL AAC2.0 H....` | **909.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631698) • [🐱 Nyaa](https://nyaa.si/view/2150423) |
-| `Super Cube S01E06 The Hero Climbs the Tower The Monster Girl 1080p ...` | **1136.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631699) • [🐱 Nyaa](https://nyaa.si/view/2150421) |
-| `Super Cube S01E12 The Banquet of Rudra The Iron-Fisted Li Laika 108...` | **1361.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631700) • [🐱 Nyaa](https://nyaa.si/view/2150420) |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **328.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/631691) • [🐱 Nyaa](https://nyaa.si/view/2150417) |
-| `[ToonsHub] The Worlds Strongest Rearguard S01E08 1080p BILI WEB-DL ...` | **273.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631692) • [🐱 Nyaa](https://nyaa.si/view/2150416) |
-| `[ToonsHub] Bleach Thousand-Year Blood War S01E45 1080p BILI WEB-DL ...` | **382.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631705) • [🐱 Nyaa](https://nyaa.si/view/2150415) |
-| `[AnoZu] The 100 Girlfriends Who Really Really Really Really REALLY ...` | **1460.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631694) • [🐱 Nyaa](https://nyaa.si/view/2150412) |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **1538.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631695) • [🐱 Nyaa](https://nyaa.si/view/2150411) |
+| `[ToonsHub] Goodbye Lara S01E08 1080p CR WEB-DL DUAL AAC2.0 H.264 (S...` | **1437.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/631754) • [🐱 Nyaa](https://nyaa.si/view/2150500) |
+| `[AnoZu] Goodbye, Lara S01E08 1080p CR WEB-DL Dual-Audio DDP 2.0 H.2...` | **1470.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631755) • [🐱 Nyaa](https://nyaa.si/view/2150499) |
+| `Goodbye Lara S01E08 The Night of the Final Match 1080p CR WEB-DL DU...` | **1456.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631756) • [🐱 Nyaa](https://nyaa.si/view/2150498) |
+| `Goodbye Lara S01E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1399.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/631750) • [🐱 Nyaa](https://nekobt.to/torrents/13263233617157) |
+| `[Erai-raws] Sayonara Lara - 08 [1080p CR WEB-DL AVC AAC][MultiSub][...` | **1404.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631749) • [🐱 Nyaa](https://nyaa.si/view/2150487) |
+| `Though I Am an Inept Villainess S01E07 Meaning of Entrusting a Weap...` | **872.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/631747) • [🐱 Nyaa](https://nyaa.si/view/2150484) |
+| `[Doomdos] - Mushoku Tensei Jobless Reincarnation Season 3 - 9 [1080...` | **321.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631748) • [🐱 Nyaa](https://nyaa.si/view/2150483) |
+| `[AnoZu] Mushoku Tensei: Jobless Reincarnation S03E07 1080p CR WEB-D...` | **1561.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631743) • [🐱 Nyaa](https://nekobt.to/torrents/13263042111245) |
+| `[Onalrie] Nijuuseiki Denki Mokuroku - Eureka Evrika - S01E08 [1080p...` | **369.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631744) • [🐱 Nyaa](https://nekobt.to/torrents/13263033594381) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E07 1080p NF WEB-DL A...` | **872.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/631745) • [🐱 Nyaa](https://nyaa.si/view/2150479) |
+| `[Yameii] Mushoku Tensei: Jobless Reincarnation - S03E07 [English Du...` | **1386.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/631735) • [🐱 Nyaa](https://nyaa.si/view/2150476) |
+| `Mushoku Tensei Jobless Reincarnation S03E09 Lament 1080p NF WEB-DL ...` | **867.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631737) • [🐱 Nyaa](https://nyaa.si/view/2150473) |
+| `[AnoZu] Mushoku Tensei: Jobless Reincarnation S03E09 1080p CR WEB-D...` | **1629.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/631738) • [🐱 Nyaa](https://nyaa.si/view/2150472) |
+| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E07 1080p CR WEB...` | **1568.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631739) • [🐱 Nyaa](https://nyaa.si/view/2150471) |
+| `[AnoZu] The Classroom of a Black Cat and a Witch S01E20 1080p CR WE...` | **1448.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631740) • [🐱 Nyaa](https://nyaa.si/view/2150470) |
 
 ---
 <div align="center">
