@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.56.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.37.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Golden Curse S01E04 1080p iQ WEB-DL AAC2.0 H.264 (Multi-...` | **471.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631674) • [🐱 Nyaa](https://nekobt.to/torrents/13261382531842) |
+| `[Doomdos] - The World's Strongest Rearguard - 8 [1080p IQ WEB-DL]` | **194.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/631673) • [🐱 Nyaa](https://nyaa.si/view/2150377) |
+| `The Worlds Strongest Rearguard S01E08 A City in Turmoil 1080p CR WE...` | **1387.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631672) • [🐱 Nyaa](https://nyaa.si/view/2150376) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E08 1080p CR WEB-DL AA...` | **1388.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631659) • [🐱 Nyaa](https://nyaa.si/view/2150375) |
+| `[AnoZu] The World's Strongest Rearguard S01E08 1080p CR WEB-DL AAC ...` | **1393.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631660) • [🐱 Nyaa](https://nyaa.si/view/2150374) |
+| `[SubsPlease] Sekai Saikyou no Kouei - 08 (1080p) [CE24062F].mkv` | **1377.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631662) • [🐱 Nyaa](https://nyaa.si/view/2150373) |
+| `The Worlds Strongest Rearguard S01E08 SUBFRENCH 1080p CR WEB-DL AAC...` | **1382.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/631666) • [🐱 Nyaa](https://nekobt.to/torrents/13260921309710) |
+| `[Erai-raws] Sekai Saikyou no Kouei - 08 [1080p CR WEB-DL AVC AAC][M...` | **1388.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631667) • [🐱 Nyaa](https://nyaa.si/view/2150365) |
+| `[PHTM] Cyberpunk: Edgerunners - S01 (BD 1080p AV1 Opus 5.1) (Multi-...` | **8188.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631669) • [🐱 Nyaa](https://nekobt.to/torrents/13260902155523) |
 | `[nospaceleft] Natsume's Book of Friends - 01-94 (S01-S07 + 2 Movies...` | **5520.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631657) • [🐱 Nyaa](https://nekobt.to/torrents/13260803202061) |
 | `[PHTM] Cyberpunk: Edgerunners - S01 (BD 1080p AV1 Opus 5.1) (Multi-...` | **8188.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631658) • [🐱 Nyaa](https://nekobt.to/torrents/13260736634624) |
 | `[CenturyZeta] Yanineko Mini Anime - 16 (1080p) (Yani Neko)` | **17.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631656) • [🐱 Nyaa](https://nyaa.si/view/2150353) |
 | `[Erai-raws] Tetsunabe no Jan - 08 [1080p CR WEBRip HEVC AAC][MultiS...` | **356.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631654) • [🐱 Nyaa](https://nyaa.si/view/2150332) |
 | `[Erai-raws] Let's Go Kaiki-gumi - 08 [1080p CR WEBRip HEVC AAC][Mul...` | **666.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631655) • [🐱 Nyaa](https://nyaa.si/view/2150331) |
 | `Major S04 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raws (VOS...` | **15230.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631650) • [🐱 Nyaa](https://nekobt.to/torrents/13259183978503) |
-| `Hero Without a Class Who Even Needs Skills S01 MULTi 1080p ADN WEB-...` | **7601.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631652) • [🐱 Nyaa](https://nekobt.to/torrents/13259111153419) |
-| `Mushoku Tensei Jobless Reincarnation S03E01 MULTi AD 1080p CR WEB-D...` | **1780.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631653) • [🐱 Nyaa](https://nekobt.to/torrents/13259094380047) |
-| `[Shridhuu][1080p HBR] Jade Dynasty - 诛仙 (Zhu Xian) - S04E03` | **958.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/631646) • [🐱 Nyaa](https://nyaa.si/view/2150318) |
-| `[SubsNoJutsu] Daemons of the Shadow Realm - S01E20 (1080p WEBRip x2...` | **408.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631645) • [🐱 Nyaa](https://nekobt.to/torrents/13258570244100) |
-| `[ToonsHub] You and I Are Polar Opposites S02E05 1080p CR WEB-DL MUL...` | **1564.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631643) • [🐱 Nyaa](https://nyaa.si/view/2150312) |
-| `[Onalrie] Tetsunabe no Jan - S01E08 [1080p WEBRip AV1]` | **222.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631642) • [🐱 Nyaa](https://nekobt.to/torrents/13258261452548) |
-| `[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 08 [1080p CR WEB...` | **396.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631641) • [🐱 Nyaa](https://nyaa.si/view/2150310) |
-| `[VARYG] You and I Are Polar Opposites S02E05 Valentines Day 1080p C...` | **1564.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631639) • [🐱 Nyaa](https://nekobt.to/torrents/13257981256970) |
-| `[ASW] Tetsunabe no Jan! - 08 [1080p HEVC x265 10Bit][AAC]` | **223.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/631638) • [🐱 Nyaa](https://nyaa.si/view/2150308) |
 
 ---
 <div align="center">
