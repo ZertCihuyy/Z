@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.42.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.02.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Shridhuu][1080p HBR] Jade Dynasty - 诛仙 (Zhu Xian) - S04E03` | **958.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/631646) • [🐱 Nyaa](https://nyaa.si/view/2150318) |
 | `[SubsNoJutsu] Daemons of the Shadow Realm - S01E20 (1080p WEBRip x2...` | **408.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631645) • [🐱 Nyaa](https://nekobt.to/torrents/13258570244100) |
 | `[ToonsHub] You and I Are Polar Opposites S02E05 1080p CR WEB-DL MUL...` | **1564.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631643) • [🐱 Nyaa](https://nyaa.si/view/2150312) |
 | `[Onalrie] Tetsunabe no Jan - S01E08 [1080p WEBRip AV1]` | **222.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631642) • [🐱 Nyaa](https://nekobt.to/torrents/13258261452548) |
@@ -47,7 +48,6 @@
 | `[ASW] Seihantai na Kimi to Boku - 20 [1080p HEVC x265 10Bit][AAC]` | **199.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/631634) • [🐱 Nyaa](https://nyaa.si/view/2150300) |
 | `Iron Wok Jan S01E08 Malice 1080p CR WEB-DL AAC2.0 H.264-VARYG (Tets...` | **1403.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/631632) • [🐱 Nyaa](https://nyaa.si/view/2150299) |
 | `[Trix] You and I Are Polar Opposites S02E08 [WEBRip 1080p AV1 Opus]...` | **208.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631620) • [🐱 Nyaa](https://nekobt.to/torrents/13257296414472) |
-| `[AnoZu] Iron Wok Jan! S01E08 1080p CR WEB-DL AAC 2.0 H.264` | **1403.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631621) • [🐱 Nyaa](https://nekobt.to/torrents/13257269770252) |
 
 ---
 <div align="center">
