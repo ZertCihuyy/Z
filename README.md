@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.41.52_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.50.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Meitantei Precure! - 30 [1080p HEVC x265 10Bit][AAC]` | **658.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631544) • [🐱 Nyaa](https://nyaa.si/view/2150159) |
+| `[ZeroReverse] False Memory - S01E01v2 (WEBRip 1080p x265 10-bit EAC-3)` | **5739.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/631543) • [🐱 Nyaa](https://nyaa.si/view/2150158) |
+| `[Doomdos] - Primeval Overlord - 11 [1080p IQ WEB-DL]` | **220.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/631542) • [🐱 Nyaa](https://nyaa.si/view/2150157) |
+| `[Erai-raws] Mao - 21 [1080p DSNP WEBRip HEVC AAC][MultiSub][BC1B2F98]` | **335.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631541) • [🐱 Nyaa](https://nekobt.to/torrents/13251030439176) |
+| `[Nanju] Rent-a-Girlfriend S01 1080p Bstation WEB-DL AAC2.0 H.264 (K...` | **4230.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631540) • [🐱 Nyaa](https://nekobt.to/torrents/13250873053952) |
+| `[Doomdos] - Urban Miracle Doctor - 206 [1080p IQ WEB-DL]` | **190.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/631539) • [🐱 Nyaa](https://nyaa.si/view/2150149) |
+| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 08 [1080p AMZN...` | **300.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/631538) • [🐱 Nyaa](https://nyaa.si/view/2150147) |
 | `[AnoZu] Star Detective Precure! S01E30 1080p CR WEB-DL AAC 2.0 H.264` | **1409.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631534) • [🐱 Nyaa](https://nekobt.to/torrents/13250361175809) |
 | `[SubsPlease] Meitantei Precure! - 30 (1080p) [EEAA5BEC].mkv` | **1403.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/631536) • [🐱 Nyaa](https://nyaa.si/view/2150144) |
 | `[ASW] Saijo no Osewa - 08 [1080p HEVC x265 10Bit][AAC]` | **201.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631537) • [🐱 Nyaa](https://nyaa.si/view/2150142) |
@@ -41,13 +48,6 @@
 | `[Knight-Subs] Bleach Thousand-Year Blood War - E45 - DEFEND YOU (10...` | **966.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631529) • [🐱 Nyaa](https://nekobt.to/torrents/13250169070351) |
 | `[Nanju] Rent-a-Girlfriend S01E02 1080p Bstation WEB-DL AAC2.0 H.264...` | **362.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631527) • [🐱 Nyaa](https://nekobt.to/torrents/13249810724357) |
 | `[Erai-raws] Saijo no Osewa - 08 [1080p CR WEBRip HEVC AAC][MultiSub...` | **350.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631526) • [🐱 Nyaa](https://nyaa.si/view/2150126) |
-| `[DKB] MAO - S01E21 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **314.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631525) • [🐱 Nyaa](https://nyaa.si/view/2150120) |
-| `[Erai-raws] Kabushikigaisha Magilumiere 2nd Season - 08 [1080p AMZN...` | **730.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631522) • [🐱 Nyaa](https://nyaa.si/view/2150117) |
-| `[Nanju] Rent-a-Girlfriend S01E01 1080p Bstation WEB-DL AAC2.0 H.264...` | **324.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631518) • [🐱 Nyaa](https://nekobt.to/torrents/13249132215310) |
-| `[Erai-raws] Mao - 21 [1080p DSNP WEB-DL AVC AAC][MultiSub][32A615C9]` | **869.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/631521) • [🐱 Nyaa](https://nyaa.si/view/2150111) |
-| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 07 [10...` | **468.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/631514) • [🐱 Nyaa](https://nyaa.si/view/2150110) |
-| `[Erai-raws] Grow Up Show: Himawari no Circus-dan - 08 [1080p CR WEB...` | **487.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/631515) • [🐱 Nyaa](https://nyaa.si/view/2150109) |
-| `[Erai-raws] Iwamoto-senpai no Suisen - 08 [1080p CR WEBRip HEVC AAC...` | **428.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/631516) • [🐱 Nyaa](https://nyaa.si/view/2150108) |
 
 ---
 <div align="center">
