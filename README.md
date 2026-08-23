@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.41.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.13.49_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 19 [1080p][YT]` | **366.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631565) • [🐱 Nyaa](https://nyaa.si/view/2150201) |
 | `[Prejudice-Studio] 记忆管理局 False Memory - 06 [Bilibili WEB-DL 1080P A...` | **592.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631561) • [🐱 Nyaa](https://nyaa.si/view/2150187) |
 | `[ToonsHub] False Memory S01E06 1080p BSITE WEB-DL AAC2.0 H.264 (Jiy...` | **431.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/631563) • [🐱 Nyaa](https://nyaa.si/view/2150185) |
 | `[Doomdos] - 记忆管理局 - 第6话 - [1080p BILIBILI COM WEB-DL]` | **432.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631564) • [🐱 Nyaa](https://nyaa.si/view/2150184) |
@@ -47,7 +48,6 @@
 | `Bleach S17E45 Thousand-Year Blood War DEFEND YOU 1080p DSNP WEB-DL ...` | **1054.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/631545) • [🐱 Nyaa](https://nyaa.si/view/2150165) |
 | `[SubsPlease] Digimon Beatbreak - 44 (1080p) [3F54E862].mkv` | **1370.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/631546) • [🐱 Nyaa](https://nyaa.si/view/2150164) |
 | `[ASW] Meitantei Precure! - 30 [1080p HEVC x265 10Bit][AAC]` | **658.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631544) • [🐱 Nyaa](https://nyaa.si/view/2150159) |
-| `[ZeroReverse] False Memory - S01E01v2 (WEBRip 1080p x265 10-bit EAC-3)` | **5739.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/631543) • [🐱 Nyaa](https://nyaa.si/view/2150158) |
 
 ---
 <div align="center">
