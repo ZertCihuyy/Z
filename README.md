@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.35.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.58.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Tetsunabe no Jan - 08 [1080p CR WEBRip HEVC AAC][MultiS...` | **356.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631654) • [🐱 Nyaa](https://nyaa.si/view/2150332) |
+| `[Erai-raws] Let's Go Kaiki-gumi - 08 [1080p CR WEBRip HEVC AAC][Mul...` | **666.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631655) • [🐱 Nyaa](https://nyaa.si/view/2150331) |
 | `Major S04 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raws (VOS...` | **15230.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631650) • [🐱 Nyaa](https://nekobt.to/torrents/13259183978503) |
 | `Hero Without a Class Who Even Needs Skills S01 MULTi 1080p ADN WEB-...` | **7601.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631652) • [🐱 Nyaa](https://nekobt.to/torrents/13259111153419) |
 | `Mushoku Tensei Jobless Reincarnation S03E01 MULTi AD 1080p CR WEB-D...` | **1780.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631653) • [🐱 Nyaa](https://nekobt.to/torrents/13259094380047) |
@@ -46,8 +48,6 @@
 | `[Onalrie] Seihantai na Kimi to Boku - S02E08 [1080p WEBRip AV1]` | **188.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631640) • [🐱 Nyaa](https://nekobt.to/torrents/13257888375052) |
 | `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **200.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631637) • [🐱 Nyaa](https://nyaa.si/view/2150307) |
 | `[TSPlease] Iron Wok Jan S01E08 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1422.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631636) • [🐱 Nyaa](https://nekobt.to/torrents/13257681657609) |
-| `[ASW] Let's Go Kaiki-gumi - 08 [1080p HEVC x265 10Bit][AAC]` | **259.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631635) • [🐱 Nyaa](https://nyaa.si/view/2150301) |
-| `[Onalrie] Let's Go Kaiki-gumi - S01E08 [1080p WEBRip AV1]` | **180.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/631633) • [🐱 Nyaa](https://nekobt.to/torrents/13257503420422) |
 
 ---
 <div align="center">
