@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.32.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.01.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[VARYG] You and I Are Polar Opposites S02E05 Valentines Day 1080p C...` | **1564.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631639) • [🐱 Nyaa](https://nekobt.to/torrents/13257981256970) |
+| `[ASW] Tetsunabe no Jan! - 08 [1080p HEVC x265 10Bit][AAC]` | **223.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/631638) • [🐱 Nyaa](https://nyaa.si/view/2150308) |
+| `[Onalrie] Seihantai na Kimi to Boku - S02E08 [1080p WEBRip AV1]` | **188.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631640) • [🐱 Nyaa](https://nekobt.to/torrents/13257888375052) |
+| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **200.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631637) • [🐱 Nyaa](https://nyaa.si/view/2150307) |
 | `[TSPlease] Iron Wok Jan S01E08 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1422.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631636) • [🐱 Nyaa](https://nekobt.to/torrents/13257681657609) |
 | `[ASW] Let's Go Kaiki-gumi - 08 [1080p HEVC x265 10Bit][AAC]` | **259.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631635) • [🐱 Nyaa](https://nyaa.si/view/2150301) |
 | `[Onalrie] Let's Go Kaiki-gumi - S01E08 [1080p WEBRip AV1]` | **180.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/631633) • [🐱 Nyaa](https://nekobt.to/torrents/13257503420422) |
@@ -44,10 +48,6 @@
 | `[ToonsHub] Iron Wok Jan S01E08 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1422.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631623) • [🐱 Nyaa](https://nekobt.to/torrents/13257254615303) |
 | `[SubsPlease] Tetsunabe no Jan! - 08 (1080p) [FFF4FD20].mkv` | **1372.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631624) • [🐱 Nyaa](https://nyaa.si/view/2150294) |
 | `Iron Wok Jan S01E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1377.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/631628) • [🐱 Nyaa](https://nekobt.to/torrents/13257235777283) |
-| `[Erai-raws] Tetsunabe no Jan - 08 [1080p CR WEB-DL AVC AAC][MultiSu...` | **1383.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/631629) • [🐱 Nyaa](https://nyaa.si/view/2150289) |
-| `[Onalrie] Kabushikigaisha Magilumiere - S02E08 [1080p WEBRip AV1]` | **211.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/631619) • [🐱 Nyaa](https://nekobt.to/torrents/13257133999106) |
-| `[Yameii] You and I Are Polar Opposites - S02E06 [English Dub] [CR W...` | **1409.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/631616) • [🐱 Nyaa](https://nyaa.si/view/2150267) |
-| `[AnoZu] You and I Are Polar Opposites S02E06 1080p CR WEB-DL Dual-A...` | **1481.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/631617) • [🐱 Nyaa](https://nyaa.si/view/2150265) |
 
 ---
 <div align="center">
