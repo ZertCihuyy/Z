@@ -1,5 +1,5 @@
 {
-  "last_update": "23/8/2026, 22.37.38",
+  "last_update": "23/8/2026, 23.36.01",
   "data": [
     {
       "id": 21,
@@ -77,7 +77,7 @@
       "coverImage": {
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg"
       },
-      "episodes": null,
+      "episodes": 24,
       "studios": {
         "nodes": [
           {

@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.37.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.36.01_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Goodbye Lara S01E08 1080p CR WEB-DL DUAL AAC2.0 H.264 (S...` | **1437.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/631754) • [🐱 Nyaa](https://nyaa.si/view/2150500) |
-| `[AnoZu] Goodbye, Lara S01E08 1080p CR WEB-DL Dual-Audio DDP 2.0 H.2...` | **1470.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631755) • [🐱 Nyaa](https://nyaa.si/view/2150499) |
-| `Goodbye Lara S01E08 The Night of the Final Match 1080p CR WEB-DL DU...` | **1456.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631756) • [🐱 Nyaa](https://nyaa.si/view/2150498) |
-| `Goodbye Lara S01E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-...` | **1399.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/631750) • [🐱 Nyaa](https://nekobt.to/torrents/13263233617157) |
-| `[Erai-raws] Sayonara Lara - 08 [1080p CR WEB-DL AVC AAC][MultiSub][...` | **1404.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/631749) • [🐱 Nyaa](https://nyaa.si/view/2150487) |
-| `Though I Am an Inept Villainess S01E07 Meaning of Entrusting a Weap...` | **872.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/631747) • [🐱 Nyaa](https://nyaa.si/view/2150484) |
-| `[Doomdos] - Mushoku Tensei Jobless Reincarnation Season 3 - 9 [1080...` | **321.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631748) • [🐱 Nyaa](https://nyaa.si/view/2150483) |
-| `[AnoZu] Mushoku Tensei: Jobless Reincarnation S03E07 1080p CR WEB-D...` | **1561.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631743) • [🐱 Nyaa](https://nekobt.to/torrents/13263042111245) |
-| `[Onalrie] Nijuuseiki Denki Mokuroku - Eureka Evrika - S01E08 [1080p...` | **369.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/631744) • [🐱 Nyaa](https://nekobt.to/torrents/13263033594381) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E07 1080p NF WEB-DL A...` | **872.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/631745) • [🐱 Nyaa](https://nyaa.si/view/2150479) |
-| `[Yameii] Mushoku Tensei: Jobless Reincarnation - S03E07 [English Du...` | **1386.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/631735) • [🐱 Nyaa](https://nyaa.si/view/2150476) |
-| `Mushoku Tensei Jobless Reincarnation S03E09 Lament 1080p NF WEB-DL ...` | **867.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631737) • [🐱 Nyaa](https://nyaa.si/view/2150473) |
-| `[AnoZu] Mushoku Tensei: Jobless Reincarnation S03E09 1080p CR WEB-D...` | **1629.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/631738) • [🐱 Nyaa](https://nyaa.si/view/2150472) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E07 1080p CR WEB...` | **1568.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/631739) • [🐱 Nyaa](https://nyaa.si/view/2150471) |
-| `[AnoZu] The Classroom of a Black Cat and a Witch S01E20 1080p CR WE...` | **1448.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631740) • [🐱 Nyaa](https://nyaa.si/view/2150470) |
+| `[TSPlease] Though I Am an Inept Villainess S01E07 1080p CR WEB-DL A...` | **1446.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631798) • [🐱 Nyaa](https://nekobt.to/torrents/13264194274825) |
+| `[Shridhuu][1080p] Renegade Immortal - 仙逆 (Xian Ni) - EP155` | **305.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/631797) • [🐱 Nyaa](https://nyaa.si/view/2150543) |
+| `GNOSIA.S01.1080p.CR.WEB-DL.DUAL.DDP2.0.H.264-Kitsune` | **32219.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/631796) • [🐱 Nyaa](https://nyaa.si/view/2150541) |
+| `[Onalrie] Mushoku Tensei - Isekai Ittara Honki Dasu - S03E09 [1080p...` | **187.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/631795) • [🐱 Nyaa](https://nekobt.to/torrents/13263906371843) |
+| `100.Meters.2025.1080p.BluRay.DUAL.DDP7.1.x264-ZoroSenpai` | **9474.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/631794) • [🐱 Nyaa](https://nyaa.si/view/2150539) |
+| `Mushoku Tensei Jobless Reincarnation S03E06 Another Domestic Disast...` | **1541.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/631793) • [🐱 Nyaa](https://nyaa.si/view/2150536) |
+| `Though I Am an Inept Villainess S01E04 My Miracle Comet 1080p CR WE...` | **1643.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631787) • [🐱 Nyaa](https://nyaa.si/view/2150535) |
+| `[ASW] Kuroneko to Majo no Kyoushitsu - 20 [1080p HEVC x265 10Bit][AAC]` | **457.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631788) • [🐱 Nyaa](https://nyaa.si/view/2150534) |
+| `[Shridhuu][1080p] Renegade Immortal - 仙逆 (Xian Ni) - EP155` | **305.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631789) • [🐱 Nyaa](https://nyaa.si/view/2150533) |
+| `Mobile.Suit.Gundam.SEED.Destiny.Special.Edition.1080p.BluRay.FLAC.2...` | **23555.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631791) • [🐱 Nyaa](https://nyaa.si/view/2150531) |
+| `Mobile.Suit.Gundam.SEED.Special.Edition.1080p.BluRay.FLAC.2.0.x264-...` | **15508.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/631792) • [🐱 Nyaa](https://nyaa.si/view/2150530) |
+| `Murder.Princess.S01.1080p.BluRay.DUAL.FLAC.2.0.x264-Kitsune` | **13387.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631785) • [🐱 Nyaa](https://nyaa.si/view/2150529) |
+| `[ASW] Mushoku Tensei S3 - 09 [1080p HEVC x265 10Bit][AAC]` | **326.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/631786) • [🐱 Nyaa](https://nyaa.si/view/2150528) |
+| `[Yameii] Though I Am an Inept Villainess - S01E05 [English Dub] [CR...` | **1393.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631780) • [🐱 Nyaa](https://nekobt.to/torrents/13263592280071) |
+| `Though I Am an Inept Villainess S01E05 Who Is That Girl 1080p CR WE...` | **1447.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631778) • [🐱 Nyaa](https://nyaa.si/view/2150524) |
 
 ---
 <div align="center">
