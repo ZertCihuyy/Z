@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.48.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.36.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Onalrie] Mao - S01E21 [1080p WEBRip AV1]` | **197.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631585) • [🐱 Nyaa](https://nekobt.to/torrents/13255703272194) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E07 1080p DSNP WEB-DL...` | **765.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/631583) • [🐱 Nyaa](https://nyaa.si/view/2150228) |
+| `Digimon Beatbreak S01E44 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsu...` | **1573.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/631584) • [🐱 Nyaa](https://nekobt.to/torrents/13255413612039) |
+| `Digimon.Beatbreak.S01E44.1080p.CR.WEBRip.10bits.x265-Rapta` | **407.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/631582) • [🐱 Nyaa](https://nyaa.si/view/2150226) |
 | `Dame x Prince Anime Caravan - Damepri Anime Caravan [BD] [1080p] [A...` | **16889.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631580) • [🐱 Nyaa](https://nyaa.si/view/2150222) |
 | `[ToonsHub] BLEACH Thousand-Year Blood War S01E45 1080p AMZN WEB-DL ...` | **1385.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/631579) • [🐱 Nyaa](https://nyaa.si/view/2150221) |
 | `[Unfucked] NEEDY GIRL OVERDOSE S01 (1080p CR WEB-DL AVC AAC 2.0) [M...` | **19241.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631576) • [🐱 Nyaa](https://nyaa.si/view/2150217) |
@@ -44,10 +48,6 @@
 | `[ToonsHub] FALSE MEMORY S01E06 1080p BILI WEB-DL AAC2.0 H.265 (Jiyi...` | **962.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/631569) • [🐱 Nyaa](https://nyaa.si/view/2150204) |
 | `[Judas] Digimon Beatbreak - S01E44 [1080p][HEVC x265 10bit][Eng-Sub...` | **646.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631567) • [🐱 Nyaa](https://nyaa.si/view/2150203) |
 | `CARDFIGHT!! VANGUARD (15th Anniv. Remastered) - 19 [1080p][YT]` | **366.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631565) • [🐱 Nyaa](https://nyaa.si/view/2150201) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 06 [Bilibili WEB-DL 1080P A...` | **592.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631561) • [🐱 Nyaa](https://nyaa.si/view/2150187) |
-| `[ToonsHub] False Memory S01E06 1080p BSITE WEB-DL AAC2.0 H.264 (Jiy...` | **431.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/631563) • [🐱 Nyaa](https://nyaa.si/view/2150185) |
-| `[Doomdos] - 记忆管理局 - 第6话 - [1080p BILIBILI COM WEB-DL]` | **432.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631564) • [🐱 Nyaa](https://nyaa.si/view/2150184) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 06 [Bilibili WEB-DL 1080P A...` | **432.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631559) • [🐱 Nyaa](https://nyaa.si/view/2150183) |
 
 ---
 <div align="center">
