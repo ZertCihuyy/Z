@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.58.41_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.56.35_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,9 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[nospaceleft] Natsume's Book of Friends - 01-94 (S01-S07 + 2 Movies...` | **5520.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631657) • [🐱 Nyaa](https://nekobt.to/torrents/13260803202061) |
+| `[PHTM] Cyberpunk: Edgerunners - S01 (BD 1080p AV1 Opus 5.1) (Multi-...` | **8188.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631658) • [🐱 Nyaa](https://nekobt.to/torrents/13260736634624) |
+| `[CenturyZeta] Yanineko Mini Anime - 16 (1080p) (Yani Neko)` | **17.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631656) • [🐱 Nyaa](https://nyaa.si/view/2150353) |
 | `[Erai-raws] Tetsunabe no Jan - 08 [1080p CR WEBRip HEVC AAC][MultiS...` | **356.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631654) • [🐱 Nyaa](https://nyaa.si/view/2150332) |
 | `[Erai-raws] Let's Go Kaiki-gumi - 08 [1080p CR WEBRip HEVC AAC][Mul...` | **666.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/631655) • [🐱 Nyaa](https://nyaa.si/view/2150331) |
 | `Major S04 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raws (VOS...` | **15230.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/631650) • [🐱 Nyaa](https://nekobt.to/torrents/13259183978503) |
@@ -45,9 +48,6 @@
 | `[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 08 [1080p CR WEB...` | **396.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631641) • [🐱 Nyaa](https://nyaa.si/view/2150310) |
 | `[VARYG] You and I Are Polar Opposites S02E05 Valentines Day 1080p C...` | **1564.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/631639) • [🐱 Nyaa](https://nekobt.to/torrents/13257981256970) |
 | `[ASW] Tetsunabe no Jan! - 08 [1080p HEVC x265 10Bit][AAC]` | **223.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/631638) • [🐱 Nyaa](https://nyaa.si/view/2150308) |
-| `[Onalrie] Seihantai na Kimi to Boku - S02E08 [1080p WEBRip AV1]` | **188.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/631640) • [🐱 Nyaa](https://nekobt.to/torrents/13257888375052) |
-| `[Judas] Seihantai na Kimi to Boku (You and I Are Polar Opposites) -...` | **200.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/631637) • [🐱 Nyaa](https://nyaa.si/view/2150307) |
-| `[TSPlease] Iron Wok Jan S01E08 1080p CR WEB-DL AAC2.0 H.264 (Multi-...` | **1422.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/631636) • [🐱 Nyaa](https://nekobt.to/torrents/13257681657609) |
 
 ---
 <div align="center">
