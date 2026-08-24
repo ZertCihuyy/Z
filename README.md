@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.01.59_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.39.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Futsutsuka na Akujo dewa Gozaimasu ga - 07 [1080p CR WE...` | **408.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631822) • [🐱 Nyaa](https://nekobt.to/torrents/13264542485260) |
-| `[DKB] Nijusseiki Denki Mokuroku: Eureka Evrika - S01E08 [1080p][HEV...` | **563.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/631823) • [🐱 Nyaa](https://nyaa.si/view/2150571) |
-| `[DKB] Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo - S0...` | **327.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631814) • [🐱 Nyaa](https://nyaa.si/view/2150570) |
-| `[DKB] Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - S...` | **239.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/631815) • [🐱 Nyaa](https://nyaa.si/view/2150569) |
-| `[DKB] Seihantai na Kimi to Boku - S02E08 [1080p][HEVC x265 10bit][M...` | **227.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/631816) • [🐱 Nyaa](https://nyaa.si/view/2150568) |
-| `[ToonsHub] One Piece EP1175 1080p iQ WEB-DL AAC2.0 H.264 (Multi-Subs)` | **313.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/631817) • [🐱 Nyaa](https://nyaa.si/view/2150567) |
-| `[Erai-raws] Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no K...` | **395.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631818) • [🐱 Nyaa](https://nyaa.si/view/2150566) |
-| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 08 [1080p NF...` | **635.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/631819) • [🐱 Nyaa](https://nyaa.si/view/2150565) |
-| `[ToonsHub] Azur Lane Slow Ahead S02E08 1080p CR WEB-DL AAC2.0 H.264...` | **498.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/631820) • [🐱 Nyaa](https://nyaa.si/view/2150564) |
-| `[AnoZu] Though I Am an Inept Villainess S01E05 REPACK 1080p CR WEB-...` | **1460.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/631821) • [🐱 Nyaa](https://nyaa.si/view/2150563) |
-| `Anime AzurLane Slow Ahead S02E08 Please Forgive My Sins 1080p CR WE...` | **500.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/631813) • [🐱 Nyaa](https://nyaa.si/view/2150562) |
-| `[AnoZu] Azur Lane: Slow Ahead! S02E08 1080p CR WEB-DL AAC 2.0 H.264` | **503.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631802) • [🐱 Nyaa](https://nekobt.to/torrents/13264402656011) |
-| `Azur Lane Slow Ahead S02E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-T...` | **494.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/631804) • [🐱 Nyaa](https://nekobt.to/torrents/13264395909642) |
-| `[ASW] Futsutsuka na Akujo dewa Gozaimasu ga - 07 [1080p HEVC x265 1...` | **217.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/631801) • [🐱 Nyaa](https://nyaa.si/view/2150557) |
-| `[SubsPlease] Azur Lane - Bisoku Zenshin! S2 - 08 (1080p) [7714B2E3]...` | **496.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/631806) • [🐱 Nyaa](https://nyaa.si/view/2150553) |
+| `[ToonsHub] Star Detective Precure S01E30 1080p CR WEB-DL AAC2.0 H.2...` | **1414.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631876) • [🐱 Nyaa](https://nyaa.si/view/2150649) |
+| `[TROLLORANGE] Fairy Tail Season 8 (CR WEB-DL 1080p x264 AAC) | Fair...` | **70656.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631873) • [🐱 Nyaa](https://nyaa.si/view/2150647) |
+| `[TROLLORANGE] Concrete Revolutio: Superhuman Phantasmagoria Season ...` | **15481.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631874) • [🐱 Nyaa](https://nyaa.si/view/2150646) |
+| `[TROLLORANGE] Anonymous Noise Season 1 (CR WEB-DL 1080p x264 AAC) |...` | **8409.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631875) • [🐱 Nyaa](https://nyaa.si/view/2150645) |
+| `[Anicoder] Witch Hat Atelier - S01E01 - The Magic That Started Ever...` | **3210.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631871) • [🐱 Nyaa](https://nyaa.si/view/2150641) |
+| `[Chihiro] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - ...` | **744.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631870) • [🐱 Nyaa](https://nyaa.si/view/2150636) |
+| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E07v3 (1080p ...` | **564.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/631869) • [🐱 Nyaa](https://nekobt.to/torrents/13270469024270) |
+| `[Lazyleido-Mini] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Veng...` | **797.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/631867) • [🐱 Nyaa](https://nyaa.si/view/2150633) |
+| `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **2645.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/631868) • [🐱 Nyaa](https://nyaa.si/view/2150632) |
+| `[Cytox] Mushoku Tensei: Jobless Reincarnation S03E07 1080p CR WEB-D...` | **1561.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/631866) • [🐱 Nyaa](https://nyaa.si/view/2150631) |
+| `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **283.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/631865) • [🐱 Nyaa](https://nyaa.si/view/2150624) |
+| `[DKB] Azur Lane: Bisoku Zenshin! - S02E08 [1080p][HEVC x265 10bit][...` | **135.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/631863) • [🐱 Nyaa](https://nyaa.si/view/2150623) |
+| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E20 [1080p][HEVC x265 10b...` | **495.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/631864) • [🐱 Nyaa](https://nyaa.si/view/2150622) |
+| `[sgt] I Want to Love You Till Your Dying Day - S01E03 (WEB 1080p HE...` | **1733.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/631862) • [🐱 Nyaa](https://nyaa.si/view/2150621) |
+| `[Anime Time] Mushoku Tensei Jobless Reincarnation - S03E07 [1080p][...` | **594.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631861) • [🐱 Nyaa](https://nyaa.si/view/2150614) |
 
 ---
 <div align="center">
