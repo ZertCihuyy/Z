@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.54.35_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.41.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[GalaxyCauldron] Bleach Thousand-Year Blood War - 45 (1080p WEB-DL ...` | **1088.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631899) • [🐱 Nyaa](https://nekobt.to/torrents/13275814014980) |
 | `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **912.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/631897) • [🐱 Nyaa](https://nekobt.to/torrents/13274768033548) |
 | `[BlackRose] Rich Girl Caretaker - S01E08 (WEB 1080p HEVC 10-bit EAC...` | **1323.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/631896) • [🐱 Nyaa](https://nekobt.to/torrents/13274289177092) |
 | `[Kakumei Subs] Honzuki no Gekokujou S04E18 [1080p WEB HEVC AAC] [Su...` | **2133.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/631895) • [🐱 Nyaa](https://nekobt.to/torrents/13274003826445) |
@@ -44,7 +45,6 @@
 | `[Erai-raws] Meitantei Precure - 30 [1080p CR WEB-DL AVC AAC][MultiS...` | **1192.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631886) • [🐱 Nyaa](https://nyaa.si/view/2150662) |
 | `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E18 (90) [1080p CR ...` | **1409.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/631888) • [🐱 Nyaa](https://nekobt.to/torrents/13273185953026) |
 | `[CicakRumah] Koupen-chan - S01E73 (コウペンちゃん) [AMZN.WEB-DL 1080P AVC,...` | **104.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/631881) • [🐱 Nyaa](https://nyaa.si/view/2150660) |
-| `[Doomdos] - Lingwu Continent - 209 [1080p IQ WEB-DL]` | **200.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631880) • [🐱 Nyaa](https://nyaa.si/view/2150655) |
 
 ---
 <div align="center">
