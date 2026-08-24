@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.28.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.26.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 08 [1080p] [AV1] (Weekly)` | **106.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/631906) • [🐱 Nyaa](https://nyaa.si/view/2150722) |
 | `[Onalrie] Meitantei Precure - S01E30 [1080p WEBRip AV1]` | **550.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/631905) • [🐱 Nyaa](https://nekobt.to/torrents/13278293108998) |
 | `[denisplay] Otome Kaijuu Carameliser - 08 [1080p] [AV1] (Weekly) (K...` | **405.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/631902) • [🐱 Nyaa](https://nyaa.si/view/2150719) |
 | `[Sokudo] Bleach Thousand-Year Blood War S17E45 v0 [1080p WEBRip AV1...` | **304.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631900) • [🐱 Nyaa](https://nyaa.si/view/2150712) |
@@ -44,7 +45,6 @@
 | `[VARYG] One Piece S01E1175 Elbaph in Flames Jinbes Shoulder Throw E...` | **1386.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/631891) • [🐱 Nyaa](https://nekobt.to/torrents/13273861777153) |
 | `One Piece S01E1174 Save the Children The Elbaph Warriors Rise Up 10...` | **449.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631892) • [🐱 Nyaa](https://nyaa.si/view/2150669) |
 | `[Erai-raws] Sayonara Lara - 08 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **487.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/631882) • [🐱 Nyaa](https://nyaa.si/view/2150667) |
-| `[Erai-raws] Meitantei Precure - 30 [1080p CR WEBRip HEVC AAC][Multi...` | **731.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631883) • [🐱 Nyaa](https://nyaa.si/view/2150666) |
 
 ---
 <div align="center">
