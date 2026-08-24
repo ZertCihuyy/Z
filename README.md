@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.57.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.48.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Unfucked] Grand Blue Dreaming - S03E08 (1080p CR WEB-DL AVC AAC 2....` | **1406.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632053) • [🐱 Nyaa](https://nyaa.si/view/2150951) |
-| `[Onalrie] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no...` | **574.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632052) • [🐱 Nyaa](https://nekobt.to/torrents/13285650547983) |
-| `[Judas] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi t...` | **200.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632051) • [🐱 Nyaa](https://nyaa.si/view/2150950) |
-| `[ToonsHub] Grand Blue Dreaming S03E08 1080p CR WEB-DL AAC2.0 H.264 ...` | **1409.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/632050) • [🐱 Nyaa](https://nyaa.si/view/2150949) |
-| `[GHOST] City Hunter Season 2 (BD 1080p HEVC 10-bit AC3) | City Hunt...` | **109198.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/632049) • [🐱 Nyaa](https://nyaa.si/view/2150947) |
-| `[Ironclad] Skeleton Knight in Another World - S02E08 (WEB 1080p AV1...` | **354.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/632043) • [🐱 Nyaa](https://nekobt.to/torrents/13285416450562) |
-| `[AnoZu] Grand Blue Dreaming S03E08 1080p CR WEB-DL AAC 2.0 H.264` | **1431.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/632044) • [🐱 Nyaa](https://nekobt.to/torrents/13285410617345) |
-| `[VARYG] BLEACH Thousand Year Blood War S01E45 DEFEND YOU 1080p CR W...` | **1582.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/632045) • [🐱 Nyaa](https://nekobt.to/torrents/13285391216129) |
-| `[VARYG] Grand Blue Dreaming S03E08 Mixer Round 2 1080p CR WEB-DL AA...` | **1426.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/632046) • [🐱 Nyaa](https://nekobt.to/torrents/13285390187008) |
-| `[ASW] Buchigire Reijou wa Houfuku wo Chikaimashita - 08 [1080p HEVC...` | **611.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/632036) • [🐱 Nyaa](https://nyaa.si/view/2150942) |
-| `[SubsPlease] Grand Blue S3 - 08 (1080p) [29CA05DC].mkv` | **1398.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/632037) • [🐱 Nyaa](https://nyaa.si/view/2150941) |
-| `[Erai-raws] Grand Blue Season 3 - 08 [1080p CR WEB-DL AVC AAC][Mult...` | **1409.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632042) • [🐱 Nyaa](https://nyaa.si/view/2150934) |
-| `Grand Blue Dreaming S03E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1403.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/632047) • [🐱 Nyaa](https://nekobt.to/torrents/13285339794944) |
-| `[ASW] Suterare Seijo no Isekai Gohan Tabi - 08 [1080p HEVC x265 10B...` | **259.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/632034) • [🐱 Nyaa](https://nyaa.si/view/2150930) |
-| `[AnoZu] Bleach S17E45 1080p CR WEB-DL DDP 2.0 H.264 | Bleach: Thous...` | **1587.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632035) • [🐱 Nyaa](https://nyaa.si/view/2150928) |
+| `[ASW] LIAR GAME - 21 [1080p HEVC x265 10Bit][AAC]` | **237.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632080) • [🐱 Nyaa](https://nyaa.si/view/2150995) |
+| `MAO.S01E01-E13.Dub.1080p.DSNP.WEB-DL.AAC2.0.H.264 - STRiKES [Englis...` | **11919.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/632081) • [🐱 Nyaa](https://nyaa.si/view/2150993) |
+| `[Judas] Grand Blue Dreaming - S03E08 [1080p][HEVC x265 10bit][Multi...` | **272.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632079) • [🐱 Nyaa](https://nyaa.si/view/2150992) |
+| `[ASW] Grand Blue S3 - 08 [1080p HEVC x265 10Bit][AAC]` | **283.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/632076) • [🐱 Nyaa](https://nyaa.si/view/2150987) |
+| `[FSP] Douluo Dalu II - Soul Land 2 - 167 [1080p]` | **392.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/632077) • [🐱 Nyaa](https://nyaa.si/view/2150986) |
+| `[FSP DN] A Record of a Mortal’s Journey to Immortality - 188 (1080p...` | **587.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/632078) • [🐱 Nyaa](https://nyaa.si/view/2150985) |
+| `[Doomdos] - Grand Blue Dreaming 3 - 8 [1080p IQ WEB-DL]` | **289.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632075) • [🐱 Nyaa](https://nyaa.si/view/2150984) |
+| `[Onalrie] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi...` | **211.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632072) • [🐱 Nyaa](https://nekobt.to/torrents/13286042808071) |
+| `[ToonsHub] LIAR GAME S01E21 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1439.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/632073) • [🐱 Nyaa](https://nekobt.to/torrents/13286028325124) |
+| `[ToonsHub] LIAR GAME S01E19 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **1470.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632074) • [🐱 Nyaa](https://nekobt.to/torrents/13286028029195) |
+| `[ASW] Tenkosaki - 08 [1080p HEVC x265 10Bit][AAC]` | **204.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/632067) • [🐱 Nyaa](https://nyaa.si/view/2150976) |
+| `[AnoZu] LIAR GAME 2026 S01E19 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264` | **1463.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/632068) • [🐱 Nyaa](https://nyaa.si/view/2150974) |
+| `LIAR GAME S01E19 Solidarity 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG...` | **1448.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632069) • [🐱 Nyaa](https://nyaa.si/view/2150971) |
+| `LIAR GAME S01E21 Spearhead Match 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **1417.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/632070) • [🐱 Nyaa](https://nyaa.si/view/2150970) |
+| `[Yameii] LIAR GAME (2026) - S01E19 [English Dub] [CR WEB-DL 1080p H...` | **1395.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632071) • [🐱 Nyaa](https://nyaa.si/view/2150969) |
 
 ---
 <div align="center">
