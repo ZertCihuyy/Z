@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.31.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.57.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] BLEACH Thousand Year Blood War S01E45 DEFEND YOU 1080p AMZN...` | **1335.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/631967) • [🐱 Nyaa](https://nekobt.to/torrents/13283428364553) |
-| `[Doomdos] - Skeleton Knight in Another World Season 2 - 8 [1080p IQ...` | **335.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631966) • [🐱 Nyaa](https://nyaa.si/view/2150843) |
-| `Skeleton Knight in Another World S02E08 The Sea Hears the Tale of t...` | **1448.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/631961) • [🐱 Nyaa](https://nyaa.si/view/2150837) |
-| `[AnoZu] Skeleton Knight in Another World S02E08 1080p CR WEB-DL Dua...` | **1463.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631962) • [🐱 Nyaa](https://nyaa.si/view/2150836) |
-| `The Insipid Princes Furtive Grab for the Throne S01E08 Shelter from...` | **1407.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631963) • [🐱 Nyaa](https://nyaa.si/view/2150835) |
-| `The Insipid Princes Furtive Grab for the Throne S01E08 SUBFRENCH 10...` | **1384.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/631964) • [🐱 Nyaa](https://nekobt.to/torrents/13283133799170) |
-| `[ToonsHub] Skeleton Knight in Another World S02E08 1080p CR WEB-DL ...` | **1471.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/631957) • [🐱 Nyaa](https://nyaa.si/view/2150832) |
-| `[ToonsHub] The Insipid Princes Furtive Grab for the Throne S01E08 1...` | **1390.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631958) • [🐱 Nyaa](https://nyaa.si/view/2150831) |
-| `[ToonsHub] Skeleton Knight in Another World S02E08 1080p BILI WEB-D...` | **403.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631959) • [🐱 Nyaa](https://nyaa.si/view/2150830) |
-| `[ToonsHub] Love Unseen Beneath the Clear Night Sky 2026 S01E08 1080...` | **186.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/631960) • [🐱 Nyaa](https://nyaa.si/view/2150829) |
-| `[Yameii] Skeleton Knight in Another World - S02E08 [English Dub] [C...` | **1394.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631939) • [🐱 Nyaa](https://nekobt.to/torrents/13283089353480) |
-| `[AnoZu] The Insipid Prince's Furtive Grab for the Throne S01E08 108...` | **1412.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631940) • [🐱 Nyaa](https://nekobt.to/torrents/13283079901707) |
-| `Skeleton Knight in Another World S02E08 SUBFRENCH 1080p CR WEB-DL A...` | **1394.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631944) • [🐱 Nyaa](https://nekobt.to/torrents/13283077690632) |
-| `[SubsPlease] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 -...` | **1389.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631942) • [🐱 Nyaa](https://nyaa.si/view/2150821) |
-| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 08 [1080...` | **1389.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/631951) • [🐱 Nyaa](https://nyaa.si/view/2150815) |
+| `[Unfucked] Grand Blue Dreaming - S03E08 (1080p CR WEB-DL AVC AAC 2....` | **1406.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632053) • [🐱 Nyaa](https://nyaa.si/view/2150951) |
+| `[Onalrie] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no...` | **574.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632052) • [🐱 Nyaa](https://nekobt.to/torrents/13285650547983) |
+| `[Judas] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi t...` | **200.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632051) • [🐱 Nyaa](https://nyaa.si/view/2150950) |
+| `[ToonsHub] Grand Blue Dreaming S03E08 1080p CR WEB-DL AAC2.0 H.264 ...` | **1409.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/632050) • [🐱 Nyaa](https://nyaa.si/view/2150949) |
+| `[GHOST] City Hunter Season 2 (BD 1080p HEVC 10-bit AC3) | City Hunt...` | **109198.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/632049) • [🐱 Nyaa](https://nyaa.si/view/2150947) |
+| `[Ironclad] Skeleton Knight in Another World - S02E08 (WEB 1080p AV1...` | **354.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/632043) • [🐱 Nyaa](https://nekobt.to/torrents/13285416450562) |
+| `[AnoZu] Grand Blue Dreaming S03E08 1080p CR WEB-DL AAC 2.0 H.264` | **1431.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/632044) • [🐱 Nyaa](https://nekobt.to/torrents/13285410617345) |
+| `[VARYG] BLEACH Thousand Year Blood War S01E45 DEFEND YOU 1080p CR W...` | **1582.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/632045) • [🐱 Nyaa](https://nekobt.to/torrents/13285391216129) |
+| `[VARYG] Grand Blue Dreaming S03E08 Mixer Round 2 1080p CR WEB-DL AA...` | **1426.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/632046) • [🐱 Nyaa](https://nekobt.to/torrents/13285390187008) |
+| `[ASW] Buchigire Reijou wa Houfuku wo Chikaimashita - 08 [1080p HEVC...` | **611.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/632036) • [🐱 Nyaa](https://nyaa.si/view/2150942) |
+| `[SubsPlease] Grand Blue S3 - 08 (1080p) [29CA05DC].mkv` | **1398.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/632037) • [🐱 Nyaa](https://nyaa.si/view/2150941) |
+| `[Erai-raws] Grand Blue Season 3 - 08 [1080p CR WEB-DL AVC AAC][Mult...` | **1409.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632042) • [🐱 Nyaa](https://nyaa.si/view/2150934) |
+| `Grand Blue Dreaming S03E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Ts...` | **1403.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/632047) • [🐱 Nyaa](https://nekobt.to/torrents/13285339794944) |
+| `[ASW] Suterare Seijo no Isekai Gohan Tabi - 08 [1080p HEVC x265 10B...` | **259.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/632034) • [🐱 Nyaa](https://nyaa.si/view/2150930) |
+| `[AnoZu] Bleach S17E45 1080p CR WEB-DL DDP 2.0 H.264 | Bleach: Thous...` | **1587.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632035) • [🐱 Nyaa](https://nyaa.si/view/2150928) |
 
 ---
 <div align="center">
