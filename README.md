@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.12.58_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.45.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E08 [W...` | **363.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/632109) • [🐱 Nyaa](https://nyaa.si/view/2151038) |
+| `[Breeze] Mushoku Tensei S03E09 [1080p AV1] | Jobless Reincarnation ...` | **648.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632107) • [🐱 Nyaa](https://nyaa.si/view/2151037) |
+| `Mao S01E01-E13 1080p DSNP WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audio)` | **12219.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/632108) • [🐱 Nyaa](https://nyaa.si/view/2151036) |
+| `[SubsNoJutsu] Goodbye, Lara - S01E08 (1080p WEBRip x265 AAC) [2312E...` | **487.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/632106) • [🐱 Nyaa](https://nekobt.to/torrents/13288195460865) |
+| `[ToonsHub] Monsters 103 Mercies Dragon Damnation (2024) REPACK 1080...` | **985.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/632103) • [🐱 Nyaa](https://nyaa.si/view/2151035) |
+| `[ASW] Bleach - Sennen Kessen Hen - 45 [1080p HEVC x265 10Bit][AAC]` | **481.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632104) • [🐱 Nyaa](https://nyaa.si/view/2151034) |
+| `[ZeroReverse] False Memory - S01E02 (WEBRip 1080p x265 10-bit EAC-3)` | **4671.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632105) • [🐱 Nyaa](https://nyaa.si/view/2151032) |
 | `[ToonsHub] BLEACH Thousand-Year Blood War S01E45 1080p CR WEB-DL AA...` | **1580.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632102) • [🐱 Nyaa](https://nyaa.si/view/2151027) |
 | `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **254.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/632100) • [🐱 Nyaa](https://nyaa.si/view/2151025) |
 | `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E08 [1080p]...` | **309.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632101) • [🐱 Nyaa](https://nyaa.si/view/2151024) |
@@ -38,13 +45,6 @@
 | `[Shridhuu][1080p] Swallowed Star - 吞噬星空 (Tunshi Xingkong) - EP238` | **419.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/632097) • [🐱 Nyaa](https://nyaa.si/view/2151016) |
 | `[SubsPlease] Bleach - Sennen Kessen Hen - 45 (1080p) [70D690AF].mkv` | **1557.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/632093) • [🐱 Nyaa](https://nyaa.si/view/2151012) |
 | `The World Is Dancing S01E09 Concealed Feelings 1080p AMZN WEB-DL DD...` | **994.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/632091) • [🐱 Nyaa](https://nyaa.si/view/2151008) |
-| `One Piece EP1175 REPACK SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsun...` | **830.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632092) • [🐱 Nyaa](https://nekobt.to/torrents/13287003759109) |
-| `[Judas] Liar Game - S01E21 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **243.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/632090) • [🐱 Nyaa](https://nyaa.si/view/2151004) |
-| `[Onalrie] Liar Game - S01E21 [1080p WEBRip AV1]` | **190.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/632089) • [🐱 Nyaa](https://nekobt.to/torrents/13286880508936) |
-| `[VARYG] The Forsaken Saintess and Her Foodie Roadtrip in Another Wo...` | **624.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/632087) • [🐱 Nyaa](https://nekobt.to/torrents/13286740608270) |
-| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **835.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/632085) • [🐱 Nyaa](https://nyaa.si/view/2150999) |
-| `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **158.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632086) • [🐱 Nyaa](https://nyaa.si/view/2150998) |
-| `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E08 [1...` | **402.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/632084) • [🐱 Nyaa](https://nyaa.si/view/2150997) |
 
 ---
 <div align="center">
