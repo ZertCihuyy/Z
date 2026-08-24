@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.34.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.12.58_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] BLEACH Thousand-Year Blood War S01E45 1080p CR WEB-DL AA...` | **1580.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632102) • [🐱 Nyaa](https://nyaa.si/view/2151027) |
+| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **254.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/632100) • [🐱 Nyaa](https://nyaa.si/view/2151025) |
+| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E08 [1080p]...` | **309.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632101) • [🐱 Nyaa](https://nyaa.si/view/2151024) |
+| `[ToonsHub] Grand Blue Dreaming S03E08 1080p AMZN WEB-DL DDP2.0 H.26...` | **791.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/632099) • [🐱 Nyaa](https://nyaa.si/view/2151021) |
+| `[ToonsHub] LIAR GAME S01E18 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1636.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632096) • [🐱 Nyaa](https://nekobt.to/torrents/13287426723337) |
+| `[Shridhuu][1080p] Swallowed Star - 吞噬星空 (Tunshi Xingkong) - EP238` | **419.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/632097) • [🐱 Nyaa](https://nyaa.si/view/2151016) |
 | `[SubsPlease] Bleach - Sennen Kessen Hen - 45 (1080p) [70D690AF].mkv` | **1557.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/632093) • [🐱 Nyaa](https://nyaa.si/view/2151012) |
 | `The World Is Dancing S01E09 Concealed Feelings 1080p AMZN WEB-DL DD...` | **994.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/632091) • [🐱 Nyaa](https://nyaa.si/view/2151008) |
 | `One Piece EP1175 REPACK SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsun...` | **830.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632092) • [🐱 Nyaa](https://nekobt.to/torrents/13287003759109) |
@@ -39,12 +45,6 @@
 | `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **835.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/632085) • [🐱 Nyaa](https://nyaa.si/view/2150999) |
 | `[DKB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. ...` | **158.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632086) • [🐱 Nyaa](https://nyaa.si/view/2150998) |
 | `[DKB] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu - S02E08 [1...` | **402.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/632084) • [🐱 Nyaa](https://nyaa.si/view/2150997) |
-| `[TardMusic] Hakos Baelz - I Found Me (WEB 1080p) [013E47FC].mkv` | **43.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/632083) • [🐱 Nyaa](https://nyaa.si/view/2150996) |
-| `[Onalrie] Grand Blue - S03E08 [1080p WEBRip AV1]` | **250.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/632082) • [🐱 Nyaa](https://nekobt.to/torrents/13286513072652) |
-| `[ASW] LIAR GAME - 21 [1080p HEVC x265 10Bit][AAC]` | **237.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632080) • [🐱 Nyaa](https://nyaa.si/view/2150995) |
-| `MAO.S01E01-E13.Dub.1080p.DSNP.WEB-DL.AAC2.0.H.264 - STRiKES [Englis...` | **11919.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/632081) • [🐱 Nyaa](https://nyaa.si/view/2150993) |
-| `[Judas] Grand Blue Dreaming - S03E08 [1080p][HEVC x265 10bit][Multi...` | **272.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632079) • [🐱 Nyaa](https://nyaa.si/view/2150992) |
-| `[ASW] Grand Blue S3 - 08 [1080p HEVC x265 10Bit][AAC]` | **283.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/632076) • [🐱 Nyaa](https://nyaa.si/view/2150987) |
 
 ---
 <div align="center">
