@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.02.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.37.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Go For It Nakamura-kun S01 1080p CR WEB-DL DUAL DDP2.0 H...` | **18917.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632125) • [🐱 Nyaa](https://nekobt.to/torrents/13292326447887) |
 | `[Judas] One Piece - 1175 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **365.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632124) • [🐱 Nyaa](https://nyaa.si/view/2151064) |
 | `[Knight-Subs] Bleach Thousand-Year Blood War - E45v2 - DEFEND YOU (...` | **1592.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/632123) • [🐱 Nyaa](https://nekobt.to/torrents/13291558177290) |
 | `[HatSubs] One Piece 1175 (WEB 1080p) [A2C44FAA].mkv` | **1374.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/632122) • [🐱 Nyaa](https://nyaa.si/view/2151056) |
@@ -44,7 +45,6 @@
 | `[VARYG] MAO S01E01-E13 1080p DSNP WEB-DL DUAL AAC2.0 H (Maoyuu Maou...` | **12248.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/632111) • [🐱 Nyaa](https://nekobt.to/torrents/13289464768012) |
 | `[Breeze] Mushoku Tensei S03E07 [1080p AV1 Dual Audio] | Jobless Rei...` | **851.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632110) • [🐱 Nyaa](https://nyaa.si/view/2151042) |
 | `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E08 [W...` | **363.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/632109) • [🐱 Nyaa](https://nyaa.si/view/2151038) |
-| `[Breeze] Mushoku Tensei S03E09 [1080p AV1] | Jobless Reincarnation ...` | **648.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632107) • [🐱 Nyaa](https://nyaa.si/view/2151037) |
 
 ---
 <div align="center">
