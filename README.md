@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.18.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.02.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Nanju] Rent-a-Girlfriend S05 1080p Crunchyroll WEB-DL DUAL AAC H.2...` | **17821.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631921) • [🐱 Nyaa](https://nekobt.to/torrents/13280909740300) |
+| `[Erai-raws] One Piece - 1175 [1080p CR WEBRip HEVC AAC][MultiSub][0...` | **644.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631916) • [🐱 Nyaa](https://nyaa.si/view/2150746) |
+| `[Erai-raws] One Piece - 1175 [1080p CR WEB-DL AVC AAC][MultiSub][C0...` | **1386.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631919) • [🐱 Nyaa](https://nyaa.si/view/2150743) |
+| `[Nanju] Rent-a-Girlfriend S04 1080p Crunchyroll WEB-DL DUAL AAC H.2...` | **16479.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631920) • [🐱 Nyaa](https://nekobt.to/torrents/13280740323840) |
+| `[Erai-raws] Digimon Beatbreak - 44 [1080p CR WEBRip HEVC AAC][Multi...` | **796.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631911) • [🐱 Nyaa](https://nyaa.si/view/2150741) |
+| `[Erai-raws] Digimon Beatbreak - 44 (REPACK) [1080p CR WEB-DL AVC AA...` | **1578.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/631914) • [🐱 Nyaa](https://nekobt.to/torrents/13280657941769) |
+| `[Nanju] Rent-a-Girlfriend S03 1080p Crunchyroll WEB-DL AAC H.265 (K...` | **3726.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631915) • [🐱 Nyaa](https://nekobt.to/torrents/13280574738945) |
 | `[Nanju] Rent-a-Girlfriend S02 1080p Bstation WEB-DL AAC H.264 (Kano...` | **3025.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/631910) • [🐱 Nyaa](https://nekobt.to/torrents/13280347268615) |
 | `[Nanju] Rent-a-Girlfriend S01 1080p Bstation WEB-DL AAC H.264 (Kano...` | **4230.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631909) • [🐱 Nyaa](https://nekobt.to/torrents/13280275249166) |
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 08 [1080p] [AV1] (Weekly)` | **106.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/631906) • [🐱 Nyaa](https://nyaa.si/view/2150722) |
@@ -38,13 +45,6 @@
 | `[Sokudo] Bleach Thousand-Year Blood War S17E45 v0 [1080p WEBRip AV1...` | **304.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631900) • [🐱 Nyaa](https://nyaa.si/view/2150712) |
 | `[Breeze] Bleach Thousand-Year Blood War S17E45 [1080p WEBRip AV1] (...` | **977.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/631901) • [🐱 Nyaa](https://nyaa.si/view/2150711) |
 | `[GalaxyCauldron] Bleach Thousand-Year Blood War - 45 (1080p WEB-DL ...` | **1088.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631899) • [🐱 Nyaa](https://nekobt.to/torrents/13275814014980) |
-| `[CrappySubs] Sparks of Tomorrow (Nijuuseiki Denki Mokuroku) - S01E0...` | **912.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/631897) • [🐱 Nyaa](https://nekobt.to/torrents/13274768033548) |
-| `[BlackRose] Rich Girl Caretaker - S01E08 (WEB 1080p HEVC 10-bit EAC...` | **1323.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/631896) • [🐱 Nyaa](https://nekobt.to/torrents/13274289177092) |
-| `[Kakumei Subs] Honzuki no Gekokujou S04E18 [1080p WEB HEVC AAC] [Su...` | **2133.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/631895) • [🐱 Nyaa](https://nekobt.to/torrents/13274003826445) |
-| `[Judas] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Che...` | **239.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631894) • [🐱 Nyaa](https://nyaa.si/view/2150674) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E12 1080p BILI WEB-DL ...` | **316.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631889) • [🐱 Nyaa](https://nekobt.to/torrents/13273886430986) |
-| `[ToonsHub] One Piece EP1175 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **339.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631890) • [🐱 Nyaa](https://nekobt.to/torrents/13273876211458) |
-| `[VARYG] One Piece S01E1175 Elbaph in Flames Jinbes Shoulder Throw E...` | **1386.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/631891) • [🐱 Nyaa](https://nekobt.to/torrents/13273861777153) |
 
 ---
 <div align="center">
