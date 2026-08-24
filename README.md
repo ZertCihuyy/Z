@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.45.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.35.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FSP] Mushen Ji (Tales of Herding Gods) - 97 [1080p] (GB_CN) | 牧神记` | **455.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632119) • [🐱 Nyaa](https://nyaa.si/view/2151051) |
+| `[SubsPlease] The Beginning After the End (01-12) (1080p) [Batch]` | **15967.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/632116) • [🐱 Nyaa](https://nyaa.si/view/2151050) |
+| `[DKB] Grand Blue - S03E08 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **327.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/632112) • [🐱 Nyaa](https://nyaa.si/view/2151047) |
+| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **258.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/632113) • [🐱 Nyaa](https://nyaa.si/view/2151046) |
+| `[DKB] World Is Dancing - S01E09 [1080p][HEVC x265 10bit][weekly]` | **394.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/632115) • [🐱 Nyaa](https://nyaa.si/view/2151044) |
+| `MAO S01E01-E13 1080p DSNP WEB-DL MULTi AAC2.0 H.264-VARYG (Multi-Au...` | **12846.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632114) • [🐱 Nyaa](https://nyaa.si/view/2151045) |
+| `[VARYG] MAO S01E01-E13 1080p DSNP WEB-DL DUAL AAC2.0 H (Maoyuu Maou...` | **12248.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/632111) • [🐱 Nyaa](https://nekobt.to/torrents/13289464768012) |
+| `[Breeze] Mushoku Tensei S03E07 [1080p AV1 Dual Audio] | Jobless Rei...` | **851.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632110) • [🐱 Nyaa](https://nyaa.si/view/2151042) |
 | `[Ironclad] Buchigire Reijou wa Houfuku wo Chikaimashita - S01E08 [W...` | **363.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/632109) • [🐱 Nyaa](https://nyaa.si/view/2151038) |
 | `[Breeze] Mushoku Tensei S03E09 [1080p AV1] | Jobless Reincarnation ...` | **648.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632107) • [🐱 Nyaa](https://nyaa.si/view/2151037) |
 | `Mao S01E01-E13 1080p DSNP WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audio)` | **12219.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/632108) • [🐱 Nyaa](https://nyaa.si/view/2151036) |
@@ -37,14 +45,6 @@
 | `[ToonsHub] Monsters 103 Mercies Dragon Damnation (2024) REPACK 1080...` | **985.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/632103) • [🐱 Nyaa](https://nyaa.si/view/2151035) |
 | `[ASW] Bleach - Sennen Kessen Hen - 45 [1080p HEVC x265 10Bit][AAC]` | **481.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632104) • [🐱 Nyaa](https://nyaa.si/view/2151034) |
 | `[ZeroReverse] False Memory - S01E02 (WEBRip 1080p x265 10-bit EAC-3)` | **4671.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632105) • [🐱 Nyaa](https://nyaa.si/view/2151032) |
-| `[ToonsHub] BLEACH Thousand-Year Blood War S01E45 1080p CR WEB-DL AA...` | **1580.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632102) • [🐱 Nyaa](https://nyaa.si/view/2151027) |
-| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **254.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/632100) • [🐱 Nyaa](https://nyaa.si/view/2151025) |
-| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E08 [1080p]...` | **309.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632101) • [🐱 Nyaa](https://nyaa.si/view/2151024) |
-| `[ToonsHub] Grand Blue Dreaming S03E08 1080p AMZN WEB-DL DDP2.0 H.26...` | **791.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/632099) • [🐱 Nyaa](https://nyaa.si/view/2151021) |
-| `[ToonsHub] LIAR GAME S01E18 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1636.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632096) • [🐱 Nyaa](https://nekobt.to/torrents/13287426723337) |
-| `[Shridhuu][1080p] Swallowed Star - 吞噬星空 (Tunshi Xingkong) - EP238` | **419.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/632097) • [🐱 Nyaa](https://nyaa.si/view/2151016) |
-| `[SubsPlease] Bleach - Sennen Kessen Hen - 45 (1080p) [70D690AF].mkv` | **1557.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/632093) • [🐱 Nyaa](https://nyaa.si/view/2151012) |
-| `The World Is Dancing S01E09 Concealed Feelings 1080p AMZN WEB-DL DD...` | **994.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/632091) • [🐱 Nyaa](https://nyaa.si/view/2151008) |
 
 ---
 <div align="center">
