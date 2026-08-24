@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.11.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.45.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[yolerejiju] Little Witch Academia Season 1 (S01) (BD 1080p x265 Op...` | **41403.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/632121) • [🐱 Nyaa](https://nyaa.si/view/2151055) |
 | `[ToonsHub] MAO S01E01-E13 1080p DSNP WEB-DL DUAL AAC2.0 H.264 (Cour...` | **12248.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/632120) • [🐱 Nyaa](https://nyaa.si/view/2151052) |
 | `[FSP] Mushen Ji (Tales of Herding Gods) - 97 [1080p] (GB_CN) | 牧神记` | **455.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632119) • [🐱 Nyaa](https://nyaa.si/view/2151051) |
 | `[SubsPlease] The Beginning After the End (01-12) (1080p) [Batch]` | **15967.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/632116) • [🐱 Nyaa](https://nyaa.si/view/2151050) |
@@ -44,7 +45,6 @@
 | `Mao S01E01-E13 1080p DSNP WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audio)` | **12219.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/632108) • [🐱 Nyaa](https://nyaa.si/view/2151036) |
 | `[SubsNoJutsu] Goodbye, Lara - S01E08 (1080p WEBRip x265 AAC) [2312E...` | **487.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/632106) • [🐱 Nyaa](https://nekobt.to/torrents/13288195460865) |
 | `[ToonsHub] Monsters 103 Mercies Dragon Damnation (2024) REPACK 1080...` | **985.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/632103) • [🐱 Nyaa](https://nyaa.si/view/2151035) |
-| `[ASW] Bleach - Sennen Kessen Hen - 45 [1080p HEVC x265 10Bit][AAC]` | **481.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632104) • [🐱 Nyaa](https://nyaa.si/view/2151034) |
 
 ---
 <div align="center">
