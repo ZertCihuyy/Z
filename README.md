@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.26.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-17.18.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Nanju] Rent-a-Girlfriend S02 1080p Bstation WEB-DL AAC H.264 (Kano...` | **3025.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/631910) • [🐱 Nyaa](https://nekobt.to/torrents/13280347268615) |
+| `[Nanju] Rent-a-Girlfriend S01 1080p Bstation WEB-DL AAC H.264 (Kano...` | **4230.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631909) • [🐱 Nyaa](https://nekobt.to/torrents/13280275249166) |
 | `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 08 [1080p] [AV1] (Weekly)` | **106.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/631906) • [🐱 Nyaa](https://nyaa.si/view/2150722) |
 | `[Onalrie] Meitantei Precure - S01E30 [1080p WEBRip AV1]` | **550.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/631905) • [🐱 Nyaa](https://nekobt.to/torrents/13278293108998) |
 | `[denisplay] Otome Kaijuu Carameliser - 08 [1080p] [AV1] (Weekly) (K...` | **405.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/631902) • [🐱 Nyaa](https://nyaa.si/view/2150719) |
@@ -43,8 +45,6 @@
 | `[ToonsHub] The Eternal Supreme Li Yunxiao S01E12 1080p BILI WEB-DL ...` | **316.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631889) • [🐱 Nyaa](https://nekobt.to/torrents/13273886430986) |
 | `[ToonsHub] One Piece EP1175 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **339.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631890) • [🐱 Nyaa](https://nekobt.to/torrents/13273876211458) |
 | `[VARYG] One Piece S01E1175 Elbaph in Flames Jinbes Shoulder Throw E...` | **1386.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/631891) • [🐱 Nyaa](https://nekobt.to/torrents/13273861777153) |
-| `One Piece S01E1174 Save the Children The Elbaph Warriors Rise Up 10...` | **449.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631892) • [🐱 Nyaa](https://nyaa.si/view/2150669) |
-| `[Erai-raws] Sayonara Lara - 08 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **487.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/631882) • [🐱 Nyaa](https://nyaa.si/view/2150667) |
 
 ---
 <div align="center">
