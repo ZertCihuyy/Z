@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.16.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.31.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[RUBaDUB] Rascal Does Not Dream of Santa Claus (Complete) (1080p) (...` | **9139.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/631927) • [🐱 Nyaa](https://nyaa.si/view/2150783) |
-| `[Nanju] Rent-a-Girlfriend S05 1080p Crunchyroll WEB-DL DUAL AAC H.2...` | **17821.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631921) • [🐱 Nyaa](https://nekobt.to/torrents/13280909740300) |
-| `[Erai-raws] One Piece - 1175 [1080p CR WEBRip HEVC AAC][MultiSub][0...` | **644.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631916) • [🐱 Nyaa](https://nyaa.si/view/2150746) |
-| `[Erai-raws] One Piece - 1175 [1080p CR WEB-DL AVC AAC][MultiSub][C0...` | **1386.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631919) • [🐱 Nyaa](https://nyaa.si/view/2150743) |
-| `[Nanju] Rent-a-Girlfriend S04 1080p Crunchyroll WEB-DL DUAL AAC H.2...` | **16479.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631920) • [🐱 Nyaa](https://nekobt.to/torrents/13280740323840) |
-| `[Erai-raws] Digimon Beatbreak - 44 [1080p CR WEBRip HEVC AAC][Multi...` | **796.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631911) • [🐱 Nyaa](https://nyaa.si/view/2150741) |
-| `[Erai-raws] Digimon Beatbreak - 44 (REPACK) [1080p CR WEB-DL AVC AA...` | **1578.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/631914) • [🐱 Nyaa](https://nekobt.to/torrents/13280657941769) |
-| `[Nanju] Rent-a-Girlfriend S03 1080p Crunchyroll WEB-DL AAC H.265 (K...` | **3726.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631915) • [🐱 Nyaa](https://nekobt.to/torrents/13280574738945) |
-| `[Nanju] Rent-a-Girlfriend S02 1080p Bstation WEB-DL AAC H.264 (Kano...` | **3025.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/631910) • [🐱 Nyaa](https://nekobt.to/torrents/13280347268615) |
-| `[Nanju] Rent-a-Girlfriend S01 1080p Bstation WEB-DL AAC H.264 (Kano...` | **4230.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/631909) • [🐱 Nyaa](https://nekobt.to/torrents/13280275249166) |
-| `[denisplay] Azur Lane - Bisoku Zenshin! S2 - 08 [1080p] [AV1] (Weekly)` | **106.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/631906) • [🐱 Nyaa](https://nyaa.si/view/2150722) |
-| `[Onalrie] Meitantei Precure - S01E30 [1080p WEBRip AV1]` | **550.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/631905) • [🐱 Nyaa](https://nekobt.to/torrents/13278293108998) |
-| `[denisplay] Otome Kaijuu Carameliser - 08 [1080p] [AV1] (Weekly) (K...` | **405.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/631902) • [🐱 Nyaa](https://nyaa.si/view/2150719) |
-| `[Sokudo] Bleach Thousand-Year Blood War S17E45 v0 [1080p WEBRip AV1...` | **304.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631900) • [🐱 Nyaa](https://nyaa.si/view/2150712) |
-| `[Breeze] Bleach Thousand-Year Blood War S17E45 [1080p WEBRip AV1] (...` | **977.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/631901) • [🐱 Nyaa](https://nyaa.si/view/2150711) |
+| `[VARYG] BLEACH Thousand Year Blood War S01E45 DEFEND YOU 1080p AMZN...` | **1335.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/631967) • [🐱 Nyaa](https://nekobt.to/torrents/13283428364553) |
+| `[Doomdos] - Skeleton Knight in Another World Season 2 - 8 [1080p IQ...` | **335.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631966) • [🐱 Nyaa](https://nyaa.si/view/2150843) |
+| `Skeleton Knight in Another World S02E08 The Sea Hears the Tale of t...` | **1448.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/631961) • [🐱 Nyaa](https://nyaa.si/view/2150837) |
+| `[AnoZu] Skeleton Knight in Another World S02E08 1080p CR WEB-DL Dua...` | **1463.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631962) • [🐱 Nyaa](https://nyaa.si/view/2150836) |
+| `The Insipid Princes Furtive Grab for the Throne S01E08 Shelter from...` | **1407.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631963) • [🐱 Nyaa](https://nyaa.si/view/2150835) |
+| `The Insipid Princes Furtive Grab for the Throne S01E08 SUBFRENCH 10...` | **1384.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/631964) • [🐱 Nyaa](https://nekobt.to/torrents/13283133799170) |
+| `[ToonsHub] Skeleton Knight in Another World S02E08 1080p CR WEB-DL ...` | **1471.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/631957) • [🐱 Nyaa](https://nyaa.si/view/2150832) |
+| `[ToonsHub] The Insipid Princes Furtive Grab for the Throne S01E08 1...` | **1390.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631958) • [🐱 Nyaa](https://nyaa.si/view/2150831) |
+| `[ToonsHub] Skeleton Knight in Another World S02E08 1080p BILI WEB-D...` | **403.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/631959) • [🐱 Nyaa](https://nyaa.si/view/2150830) |
+| `[ToonsHub] Love Unseen Beneath the Clear Night Sky 2026 S01E08 1080...` | **186.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/631960) • [🐱 Nyaa](https://nyaa.si/view/2150829) |
+| `[Yameii] Skeleton Knight in Another World - S02E08 [English Dub] [C...` | **1394.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/631939) • [🐱 Nyaa](https://nekobt.to/torrents/13283089353480) |
+| `[AnoZu] The Insipid Prince's Furtive Grab for the Throne S01E08 108...` | **1412.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/631940) • [🐱 Nyaa](https://nekobt.to/torrents/13283079901707) |
+| `Skeleton Knight in Another World S02E08 SUBFRENCH 1080p CR WEB-DL A...` | **1394.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/631944) • [🐱 Nyaa](https://nekobt.to/torrents/13283077690632) |
+| `[SubsPlease] Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 -...` | **1389.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/631942) • [🐱 Nyaa](https://nyaa.si/view/2150821) |
+| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 08 [1080...` | **1389.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/631951) • [🐱 Nyaa](https://nyaa.si/view/2150815) |
 
 ---
 <div align="center">
