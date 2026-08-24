@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.50.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.57.28_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[BlackRose] Rich Girl Caretaker - S01E08 (WEB 1080p HEVC 10-bit EAC...` | **1323.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/631896) • [🐱 Nyaa](https://nekobt.to/torrents/13274289177092) |
+| `[Kakumei Subs] Honzuki no Gekokujou S04E18 [1080p WEB HEVC AAC] [Su...` | **2133.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/631895) • [🐱 Nyaa](https://nekobt.to/torrents/13274003826445) |
+| `[Judas] Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Che...` | **239.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631894) • [🐱 Nyaa](https://nyaa.si/view/2150674) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E12 1080p BILI WEB-DL ...` | **316.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631889) • [🐱 Nyaa](https://nekobt.to/torrents/13273886430986) |
+| `[ToonsHub] One Piece EP1175 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **339.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/631890) • [🐱 Nyaa](https://nekobt.to/torrents/13273876211458) |
+| `[VARYG] One Piece S01E1175 Elbaph in Flames Jinbes Shoulder Throw E...` | **1386.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/631891) • [🐱 Nyaa](https://nekobt.to/torrents/13273861777153) |
+| `One Piece S01E1174 Save the Children The Elbaph Warriors Rise Up 10...` | **449.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/631892) • [🐱 Nyaa](https://nyaa.si/view/2150669) |
 | `[Erai-raws] Sayonara Lara - 08 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **487.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/631882) • [🐱 Nyaa](https://nyaa.si/view/2150667) |
 | `[Erai-raws] Meitantei Precure - 30 [1080p CR WEBRip HEVC AAC][Multi...` | **731.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/631883) • [🐱 Nyaa](https://nyaa.si/view/2150666) |
 | `[Doomdos] - UNDER THE GATE - 10 [1080p IQ WEB-DL]` | **183.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/631884) • [🐱 Nyaa](https://nyaa.si/view/2150665) |
@@ -38,13 +45,6 @@
 | `[CicakRumah] Koupen-chan - S01E73 (コウペンちゃん) [AMZN.WEB-DL 1080P AVC,...` | **104.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/631881) • [🐱 Nyaa](https://nyaa.si/view/2150660) |
 | `[Doomdos] - Lingwu Continent - 209 [1080p IQ WEB-DL]` | **200.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631880) • [🐱 Nyaa](https://nyaa.si/view/2150655) |
 | `[Doomdos] - To Be Winner - 6 [1080p IQ WEB-DL]` | **269.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/631877) • [🐱 Nyaa](https://nyaa.si/view/2150654) |
-| `Star Detective Precure S01E30 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1408.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/631878) • [🐱 Nyaa](https://nekobt.to/torrents/13272511383311) |
-| `[ToonsHub] Star Detective Precure S01E30 1080p CR WEB-DL AAC2.0 H.2...` | **1414.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/631876) • [🐱 Nyaa](https://nyaa.si/view/2150649) |
-| `[TROLLORANGE] Fairy Tail Season 8 (CR WEB-DL 1080p x264 AAC) | Fair...` | **70656.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/631873) • [🐱 Nyaa](https://nyaa.si/view/2150647) |
-| `[TROLLORANGE] Concrete Revolutio: Superhuman Phantasmagoria Season ...` | **15481.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631874) • [🐱 Nyaa](https://nyaa.si/view/2150646) |
-| `[TROLLORANGE] Anonymous Noise Season 1 (CR WEB-DL 1080p x264 AAC) |...` | **8409.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/631875) • [🐱 Nyaa](https://nyaa.si/view/2150645) |
-| `[Anicoder] Witch Hat Atelier - S01E01 - The Magic That Started Ever...` | **3210.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/631871) • [🐱 Nyaa](https://nyaa.si/view/2150641) |
-| `[Chihiro] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - ...` | **744.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/631870) • [🐱 Nyaa](https://nyaa.si/view/2150636) |
 
 ---
 <div align="center">
