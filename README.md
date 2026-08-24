@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.02.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.16.45_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[RUBaDUB] Rascal Does Not Dream of Santa Claus (Complete) (1080p) (...` | **9139.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/631927) • [🐱 Nyaa](https://nyaa.si/view/2150783) |
 | `[Nanju] Rent-a-Girlfriend S05 1080p Crunchyroll WEB-DL DUAL AAC H.2...` | **17821.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/631921) • [🐱 Nyaa](https://nekobt.to/torrents/13280909740300) |
 | `[Erai-raws] One Piece - 1175 [1080p CR WEBRip HEVC AAC][MultiSub][0...` | **644.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/631916) • [🐱 Nyaa](https://nyaa.si/view/2150746) |
 | `[Erai-raws] One Piece - 1175 [1080p CR WEB-DL AVC AAC][MultiSub][C0...` | **1386.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/631919) • [🐱 Nyaa](https://nyaa.si/view/2150743) |
@@ -44,7 +45,6 @@
 | `[denisplay] Otome Kaijuu Carameliser - 08 [1080p] [AV1] (Weekly) (K...` | **405.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/631902) • [🐱 Nyaa](https://nyaa.si/view/2150719) |
 | `[Sokudo] Bleach Thousand-Year Blood War S17E45 v0 [1080p WEBRip AV1...` | **304.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/631900) • [🐱 Nyaa](https://nyaa.si/view/2150712) |
 | `[Breeze] Bleach Thousand-Year Blood War S17E45 [1080p WEBRip AV1] (...` | **977.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/631901) • [🐱 Nyaa](https://nyaa.si/view/2150711) |
-| `[GalaxyCauldron] Bleach Thousand-Year Blood War - 45 (1080p WEB-DL ...` | **1088.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/631899) • [🐱 Nyaa](https://nekobt.to/torrents/13275814014980) |
 
 ---
 <div align="center">
