@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.35.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.11.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] MAO S01E01-E13 1080p DSNP WEB-DL DUAL AAC2.0 H.264 (Cour...` | **12248.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/632120) • [🐱 Nyaa](https://nyaa.si/view/2151052) |
 | `[FSP] Mushen Ji (Tales of Herding Gods) - 97 [1080p] (GB_CN) | 牧神记` | **455.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632119) • [🐱 Nyaa](https://nyaa.si/view/2151051) |
 | `[SubsPlease] The Beginning After the End (01-12) (1080p) [Batch]` | **15967.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/632116) • [🐱 Nyaa](https://nyaa.si/view/2151050) |
 | `[DKB] Grand Blue - S03E08 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **327.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/632112) • [🐱 Nyaa](https://nyaa.si/view/2151047) |
@@ -44,7 +45,6 @@
 | `[SubsNoJutsu] Goodbye, Lara - S01E08 (1080p WEBRip x265 AAC) [2312E...` | **487.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/632106) • [🐱 Nyaa](https://nekobt.to/torrents/13288195460865) |
 | `[ToonsHub] Monsters 103 Mercies Dragon Damnation (2024) REPACK 1080...` | **985.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/632103) • [🐱 Nyaa](https://nyaa.si/view/2151035) |
 | `[ASW] Bleach - Sennen Kessen Hen - 45 [1080p HEVC x265 10Bit][AAC]` | **481.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632104) • [🐱 Nyaa](https://nyaa.si/view/2151034) |
-| `[ZeroReverse] False Memory - S01E02 (WEBRip 1080p x265 10-bit EAC-3)` | **4671.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632105) • [🐱 Nyaa](https://nyaa.si/view/2151032) |
 
 ---
 <div align="center">
