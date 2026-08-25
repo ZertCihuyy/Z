@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-00.37.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.13.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,13 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[DKB] Tefuda ga Oome no Victoria - S01E08 [1080p][HEVC x265 10bit][...` | **245.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632292) • [🐱 Nyaa](https://nyaa.si/view/2151451) |
+| `Red River 2026 S01E08 Under the Apple Tree 1080p CR WEB-DL AAC2.0 H...` | **1343.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632291) • [🐱 Nyaa](https://nyaa.si/view/2151449) |
+| `[ToonsHub] Red River 2026 S01E08 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1341.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/632283) • [🐱 Nyaa](https://nyaa.si/view/2151446) |
+| `Red River (2026) S01E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1336.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632289) • [🐱 Nyaa](https://nekobt.to/torrents/13309504718087) |
+| `[SubsPlease] Sora wa Akai Kawa no Hotori - 08 (1080p) [226F83B8].mkv` | **1332.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632284) • [🐱 Nyaa](https://nyaa.si/view/2151444) |
+| `[AnoZu] Red River 2026 S01E08 1080p CR WEB-DL AAC 2.0 H.264 | Sora ...` | **1344.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632287) • [🐱 Nyaa](https://nyaa.si/view/2151440) |
+| `[Erai-raws] Sora wa Akai Kawa no Hotori - 08 [1080p CR WEB-DL AVC A...` | **1339.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/632282) • [🐱 Nyaa](https://nyaa.si/view/2151437) |
 | `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 08 [1080p CR WE...` | **721.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/632279) • [🐱 Nyaa](https://nyaa.si/view/2151434) |
 | `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E08 [...` | **833.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632280) • [🐱 Nyaa](https://nyaa.si/view/2151433) |
 | `[GHOST] Bodacious Space Pirates (BD 1080p HEVC 10bit Dual Audio AC3)` | **29026.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/632278) • [🐱 Nyaa](https://nyaa.si/view/2151428) |
@@ -41,13 +48,6 @@
 | `[Holomux] Genesis Climber Mospeada Season 1 (BD 1080p x264 Hi10P FL...` | **50426.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632275) • [🐱 Nyaa](https://nyaa.si/view/2151418) |
 | `[CTR] Canaan Season 1 v2 (BD 1080p x264 Hi10P FLAC) [Dual Audio]` | **25593.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/632276) • [🐱 Nyaa](https://nyaa.si/view/2151417) |
 | `[Bunny-Apocalypse] Higurashi: When They Cry Season 2 (BD 1080p x264...` | **19598.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/632277) • [🐱 Nyaa](https://nyaa.si/view/2151416) |
-| `[Onalrie] Koukaku Kidoutai (2026) - S01E08 [1080p WEBRip AV1]` | **543.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/632271) • [🐱 Nyaa](https://nekobt.to/torrents/13308594415369) |
-| `THE GHOST IN THE SHELL S01E08 MULTi 1080p AMZN WEB-DL DDP2.0 H.265-...` | **901.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/632269) • [🐱 Nyaa](https://nekobt.to/torrents/13308407557125) |
-| `THE GHOST IN THE SHELL S01E08 MULTi 1080p AMZN WEB-DL DDP2.0 H.264-...` | **1700.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/632270) • [🐱 Nyaa](https://nekobt.to/torrents/13308398444047) |
-| `THE GHOST IN THE SHELL S01E08 MULTi 1080p AMZN WEB-DL DDP2.0 AV1-Ts...` | **707.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/632268) • [🐱 Nyaa](https://nekobt.to/torrents/13308389849352) |
-| `[Onalrie] Tefuda ga Oome no Victoria - S01E08 [1080p WEBRip AV1]` | **194.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/632267) • [🐱 Nyaa](https://nekobt.to/torrents/13308110622222) |
-| `[ASW] Yoroi Shin Den Samurai Troopers - 20 [1080p HEVC x265 10Bit][...` | **665.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/632265) • [🐱 Nyaa](https://nyaa.si/view/2151405) |
-| `[ASW] Tefuda ga Oome no Victoria - 08 [1080p HEVC x265 10Bit][AAC]` | **231.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/632266) • [🐱 Nyaa](https://nyaa.si/view/2151404) |
 
 ---
 <div align="center">
