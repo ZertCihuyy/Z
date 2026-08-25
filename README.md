@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.04.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.44.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Bleach - Sennen Kessen Hen - 43 [1080p HEVC x265 10Bit][AAC]` | **486.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/632314) • [🐱 Nyaa](https://nyaa.si/view/2151500) |
+| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E08 [WEB.1080p.AV1] | R...` | **205.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/632315) • [🐱 Nyaa](https://nyaa.si/view/2151499) |
 | `[ASW] Bleach - Sennen Kessen Hen - 41 [1080p HEVC x265 10Bit][AAC]` | **559.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632313) • [🐱 Nyaa](https://nyaa.si/view/2151494) |
 | `[ASW] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 07 [1080p HEV...` | **273.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/632312) • [🐱 Nyaa](https://nyaa.si/view/2151492) |
 | `[Erai-raws] Sora wa Akai Kawa no Hotori - 08 [1080p CR WEBRip HEVC ...` | **413.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632310) • [🐱 Nyaa](https://nyaa.si/view/2151491) |
@@ -46,8 +48,6 @@
 | `[Yameii] The Elusive Samurai - S02E01 [English Dub] [CR WEB-DL 1080...` | **1384.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632297) • [🐱 Nyaa](https://nekobt.to/torrents/13310118917388) |
 | `[ASW] Sora wa Akai Kawa no Hotori - 08 [1080p HEVC x265 10Bit][AAC]` | **254.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/632296) • [🐱 Nyaa](https://nyaa.si/view/2151456) |
 | `[Ommex] Doraemon (2005) Episode 929 [ENG SUB][1080p x265 AAC]` | **467.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/632293) • [🐱 Nyaa](https://nyaa.si/view/2151454) |
-| `[Erai-raws] Koukaku Kidoutai (2026) - 08 [1080p AMZN WEBRip HEVC EA...` | **918.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/632294) • [🐱 Nyaa](https://nyaa.si/view/2151453) |
-| `[DKB] The Ghost in the Shell - S01E08 [1080p][HEVC x265 10bit][Dual...` | **967.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632295) • [🐱 Nyaa](https://nyaa.si/view/2151452) |
 
 ---
 <div align="center">
