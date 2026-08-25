@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.46.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.02.41_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Anicoder] Witch Hat Atelier - S01E02 - The School of the Grassland...` | **3175.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632139) • [🐱 Nyaa](https://nyaa.si/view/2151105) |
 | `[Gecko] Chiikawa - S01E372 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **17.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632138) • [🐱 Nyaa](https://nekobt.to/torrents/13294587776014) |
 | `[Doomdos] - Ascendants of the Nine Suns - 43 [1080p IQ WEB-DL]` | **167.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632136) • [🐱 Nyaa](https://nyaa.si/view/2151102) |
 | `[AnoZu] Black Summoner S01 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264...` | **17445.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/632137) • [🐱 Nyaa](https://nyaa.si/view/2151087) |
@@ -44,7 +45,6 @@
 | `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **843.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/632130) • [🐱 Nyaa](https://nyaa.si/view/2151070) |
 | `[ToonsHub] Go For It Nakamura-kun S01 1080p CR WEB-DL DUAL DDP2.0 H...` | **18917.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632125) • [🐱 Nyaa](https://nekobt.to/torrents/13292326447887) |
 | `[Judas] One Piece - 1175 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **365.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632124) • [🐱 Nyaa](https://nyaa.si/view/2151064) |
-| `[Knight-Subs] Bleach Thousand-Year Blood War - E45v2 - DEFEND YOU (...` | **1592.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/632123) • [🐱 Nyaa](https://nekobt.to/torrents/13291558177290) |
 
 ---
 <div align="center">
