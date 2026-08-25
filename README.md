@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.46.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.28.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Piyoko] Onegai AiPri - 21 [WEB AMZN 1080p h264 AC3 2.0]` | **1267.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/632323) • [🐱 Nyaa](https://nyaa.si/view/2151512) |
+| `[Anicoder] Witch Hat Atelier - S01E03 - The Dadah Range Test (BDRip...` | **3435.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/632322) • [🐱 Nyaa](https://nyaa.si/view/2151511) |
 | `[ASW] Bleach - Sennen Kessen Hen - 44 [1080p HEVC x265 10Bit][AAC]` | **533.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/632317) • [🐱 Nyaa](https://nyaa.si/view/2151510) |
 | `[Headpatter] Gurazeni: Money Pitch Season 2 (CR WEB-DL 1080p x264 AAC)` | **16373.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632318) • [🐱 Nyaa](https://nyaa.si/view/2151509) |
 | `[Headpatter] Gurazeni: Money Pitch Season 1 (CR WEB-DL 1080p x264 AAC)` | **16387.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/632319) • [🐱 Nyaa](https://nyaa.si/view/2151508) |
@@ -46,8 +48,6 @@
 | `[Erai-raws] Tefuda ga Oome no Victoria - 08 [1080p CR WEBRip HEVC A...` | **410.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632311) • [🐱 Nyaa](https://nyaa.si/view/2151490) |
 | `[SubsNoJutsu] Wistoria - Wand and Sword - S01E07 (1080p BD AAC x265...` | **545.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/632309) • [🐱 Nyaa](https://nekobt.to/torrents/13311159743497) |
 | `[Ironclad] THE GHOST IN THE SHELL - S01E08 [WEB.1080p.AV1] | THE GH...` | **806.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/632307) • [🐱 Nyaa](https://nyaa.si/view/2151479) |
-| `[SubsPlease] The Beginning After the End S2 (01-12) (1080p) [Batch]` | **15960.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/632306) • [🐱 Nyaa](https://nyaa.si/view/2151478) |
-| `[Kozame] Odekake Kozame (Little Shark's Outings) - 80 [1080p] [CE17...` | **23.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/632303) • [🐱 Nyaa](https://nyaa.si/view/2151472) |
 
 ---
 <div align="center">
