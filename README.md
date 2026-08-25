@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.59.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.46.38_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Chiikawa - S01E372 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **17.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632138) • [🐱 Nyaa](https://nekobt.to/torrents/13294587776014) |
+| `[Doomdos] - Ascendants of the Nine Suns - 43 [1080p IQ WEB-DL]` | **167.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632136) • [🐱 Nyaa](https://nyaa.si/view/2151102) |
+| `[AnoZu] Black Summoner S01 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264...` | **17445.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/632137) • [🐱 Nyaa](https://nyaa.si/view/2151087) |
+| `[Arg0] Elf 17 (1987) (BD 1080p x265 Opus 2.0) | Elf Seventeen | エルフ...` | **4331.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/632135) • [🐱 Nyaa](https://nyaa.si/view/2151084) |
+| `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **854.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/632134) • [🐱 Nyaa](https://nyaa.si/view/2151082) |
 | `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **275.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/632132) • [🐱 Nyaa](https://nyaa.si/view/2151076) |
 | `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **361.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/632131) • [🐱 Nyaa](https://nekobt.to/torrents/13292877864455) |
 | `[Erai-raws] Liar Game - 21 [1080p CR WEBRip HEVC AAC][MultiSub][EF4...` | **512.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/632133) • [🐱 Nyaa](https://nyaa.si/view/2151074) |
@@ -40,11 +45,6 @@
 | `[ToonsHub] Go For It Nakamura-kun S01 1080p CR WEB-DL DUAL DDP2.0 H...` | **18917.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632125) • [🐱 Nyaa](https://nekobt.to/torrents/13292326447887) |
 | `[Judas] One Piece - 1175 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **365.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632124) • [🐱 Nyaa](https://nyaa.si/view/2151064) |
 | `[Knight-Subs] Bleach Thousand-Year Blood War - E45v2 - DEFEND YOU (...` | **1592.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/632123) • [🐱 Nyaa](https://nekobt.to/torrents/13291558177290) |
-| `[HatSubs] One Piece 1175 (WEB 1080p) [A2C44FAA].mkv` | **1374.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/632122) • [🐱 Nyaa](https://nyaa.si/view/2151056) |
-| `[yolerejiju] Little Witch Academia Season 1 (S01) (BD 1080p x265 Op...` | **41403.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/632121) • [🐱 Nyaa](https://nyaa.si/view/2151055) |
-| `[ToonsHub] MAO S01E01-E13 1080p DSNP WEB-DL DUAL AAC2.0 H.264 (Cour...` | **12248.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/632120) • [🐱 Nyaa](https://nyaa.si/view/2151052) |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 97 [1080p] (GB_CN) | 牧神记` | **455.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632119) • [🐱 Nyaa](https://nyaa.si/view/2151051) |
-| `[SubsPlease] The Beginning After the End (01-12) (1080p) [Batch]` | **15967.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/632116) • [🐱 Nyaa](https://nyaa.si/view/2151050) |
 
 ---
 <div align="center">
