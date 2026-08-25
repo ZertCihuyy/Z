@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.59.28_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.39.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AI-Raws] Blue Submarine No.6 青の6号 BDRip 1080p MKV` | **6904.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/632161) • [🐱 Nyaa](https://nyaa.si/view/2151174) |
 | `[kmplx] Your Forma (BD 1080p x265 10-Bit Opus/E-AC-3) [Dual-Audio]` | **17088.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632160) • [🐱 Nyaa](https://nyaa.si/view/2151167) |
 | `[Erai-raws] Crowned in a Hundred Days - 19 (CA) [1080p CR WEBRip HE...` | **180.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632159) • [🐱 Nyaa](https://nyaa.si/view/2151166) |
 | `[Bird] PERSONA 3 THE MOVIE (1080p) [Batch]` | **6309.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/632156) • [🐱 Nyaa](https://nyaa.si/view/2151152) |
@@ -44,7 +45,6 @@
 | `[SubsPlease] Bai Ri Cheng Wang - 19 (1080p) [0947C57E].mkv` | **709.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632141) • [🐱 Nyaa](https://nyaa.si/view/2151129) |
 | `Crowned in a Hundred Days S01E19 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **708.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/632150) • [🐱 Nyaa](https://nekobt.to/torrents/13296862621453) |
 | `[ToonsHub] Crowned in a Hundred Days S01E19 1080p BILI WEB-DL AAC2....` | **145.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/632146) • [🐱 Nyaa](https://nyaa.si/view/2151122) |
-| `[Erai-raws] Crowned in a Hundred Days - 19 (CA) [1080p CR WEB-DL AV...` | **439.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/632147) • [🐱 Nyaa](https://nyaa.si/view/2151121) |
 
 ---
 <div align="center">
