@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.32.22_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.04.15_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LbE3L] Though I Am an Inept Villainess S01E02 [1080p CR WEBRip AV1...` | **403.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/632179) • [🐱 Nyaa](https://nekobt.to/torrents/13304189885451) |
+| `[LbE3L] BLACK TORCH S01E08 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audi...` | **496.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632180) • [🐱 Nyaa](https://nekobt.to/torrents/13304102991114) |
+| `[Gecko] GROW UP SHOW -Sunflower Circus- - S01E08 (グロウアップショウ ～ひまわりのサ...` | **705.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/632178) • [🐱 Nyaa](https://nekobt.to/torrents/13304030862606) |
+| `[Doomdos] - Cup of Snow - Movie [1080p IQ WEB-DL]` | **1680.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632177) • [🐱 Nyaa](https://nyaa.si/view/2151244) |
+| `[ToonsHub] Young Ladies Dont Play Fighting Games S01E08 1080p CR WE...` | **1392.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632173) • [🐱 Nyaa](https://nekobt.to/torrents/13303869285121) |
+| `[VARYG] Young Ladies Dont Play Fighting Games S01E08 Guaranteed to ...` | **1410.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/632174) • [🐱 Nyaa](https://nekobt.to/torrents/13303844318729) |
+| `[AnoZu] Young Ladies Don't Play Fighting Games S01E08 1080p CR WEB-...` | **1413.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/632165) • [🐱 Nyaa](https://nyaa.si/view/2151239) |
+| `Young Ladies Dont Play Fighting Games S01E08 SUBFRENCH 1080p CR WEB...` | **1256.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/632175) • [🐱 Nyaa](https://nekobt.to/torrents/13303813659655) |
+| `[SubsPlease] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai...` | **1383.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632168) • [🐱 Nyaa](https://nyaa.si/view/2151234) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **1263.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/632169) • [🐱 Nyaa](https://nyaa.si/view/2151233) |
+| `[Gecko] The World Is Dancing - S01E09 (ワールド イズ ダンシング; World Is Danc...` | **681.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632171) • [🐱 Nyaa](https://nyaa.si/view/2151231) |
 | `[Gecko] Rilakkuma - S01E21 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **45.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632163) • [🐱 Nyaa](https://nyaa.si/view/2151225) |
 | `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E07 (1080p WEB EAC3 x264)...` | **1695.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/632164) • [🐱 Nyaa](https://nekobt.to/torrents/13303436394767) |
 | `[Onalrie] Crowned in a Hundred Days - S01E19 (CA) [1080p WEBRip AV1]` | **105.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/632162) • [🐱 Nyaa](https://nekobt.to/torrents/13302371610376) |
 | `[AI-Raws] Blue Submarine No.6 青の6号 BDRip 1080p MKV` | **6904.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/632161) • [🐱 Nyaa](https://nyaa.si/view/2151174) |
-| `[kmplx] Your Forma (BD 1080p x265 10-Bit Opus/E-AC-3) [Dual-Audio]` | **17088.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632160) • [🐱 Nyaa](https://nyaa.si/view/2151167) |
-| `[Erai-raws] Crowned in a Hundred Days - 19 (CA) [1080p CR WEBRip HE...` | **180.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632159) • [🐱 Nyaa](https://nyaa.si/view/2151166) |
-| `[Bird] PERSONA 3 THE MOVIE (1080p) [Batch]` | **6309.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/632156) • [🐱 Nyaa](https://nyaa.si/view/2151152) |
-| `[Sokudo] Re ZERO - Starting Life in Another World S04E13 v2 [1080p ...` | **254.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632157) • [🐱 Nyaa](https://nyaa.si/view/2151151) |
-| `[Breeze] Re ZERO - Starting Life in Another World S04E13 v2 [1080p ...` | **555.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632158) • [🐱 Nyaa](https://nyaa.si/view/2151150) |
-| `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **528.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/632155) • [🐱 Nyaa](https://nyaa.si/view/2151139) |
-| `[ASW] Bai Ri Cheng Wang - 19 [1080p HEVC x265 10Bit][AAC]` | **137.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/632154) • [🐱 Nyaa](https://nyaa.si/view/2151136) |
-| `Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **714.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/632152) • [🐱 Nyaa](https://nyaa.si/view/2151135) |
-| `[ToonsHub] Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC2.0 ...` | **711.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/632148) • [🐱 Nyaa](https://nekobt.to/torrents/13296912858629) |
-| `[AnoZu] Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC 2.0 H.264` | **713.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632149) • [🐱 Nyaa](https://nekobt.to/torrents/13296887698445) |
-| `[Gecko] Crowned in a Hundred Days - S01E19 (百日成王; Bai Ri Cheng Wang...` | **148.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632140) • [🐱 Nyaa](https://nyaa.si/view/2151130) |
 
 ---
 <div align="center">
