@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.13.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-02.02.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kozame] Odekake Kozame (Little Shark's Outings) - 80 [1080p] [CE17...` | **23.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/632303) • [🐱 Nyaa](https://nyaa.si/view/2151472) |
+| `[Mocha] Akujiki Reijou to Kyouketsu Koushaku (Pass the Monster Meat...` | **562.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/632301) • [🐱 Nyaa](https://nekobt.to/torrents/13310238302983) |
+| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E08 [1080p WEBRip AV1]` | **212.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632302) • [🐱 Nyaa](https://nekobt.to/torrents/13310204448006) |
+| `[Yameii] The Elusive Samurai - S02E01 [English Dub] [CR WEB-DL 1080...` | **1384.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632297) • [🐱 Nyaa](https://nekobt.to/torrents/13310118917388) |
+| `[ASW] Sora wa Akai Kawa no Hotori - 08 [1080p HEVC x265 10Bit][AAC]` | **254.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/632296) • [🐱 Nyaa](https://nyaa.si/view/2151456) |
+| `[Ommex] Doraemon (2005) Episode 929 [ENG SUB][1080p x265 AAC]` | **467.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/632293) • [🐱 Nyaa](https://nyaa.si/view/2151454) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 08 [1080p AMZN WEBRip HEVC EA...` | **918.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/632294) • [🐱 Nyaa](https://nyaa.si/view/2151453) |
+| `[DKB] The Ghost in the Shell - S01E08 [1080p][HEVC x265 10bit][Dual...` | **967.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632295) • [🐱 Nyaa](https://nyaa.si/view/2151452) |
 | `[DKB] Tefuda ga Oome no Victoria - S01E08 [1080p][HEVC x265 10bit][...` | **245.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632292) • [🐱 Nyaa](https://nyaa.si/view/2151451) |
 | `Red River 2026 S01E08 Under the Apple Tree 1080p CR WEB-DL AAC2.0 H...` | **1343.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632291) • [🐱 Nyaa](https://nyaa.si/view/2151449) |
 | `[ToonsHub] Red River 2026 S01E08 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1341.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/632283) • [🐱 Nyaa](https://nyaa.si/view/2151446) |
@@ -40,14 +48,6 @@
 | `[SubsPlease] Sora wa Akai Kawa no Hotori - 08 (1080p) [226F83B8].mkv` | **1332.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632284) • [🐱 Nyaa](https://nyaa.si/view/2151444) |
 | `[AnoZu] Red River 2026 S01E08 1080p CR WEB-DL AAC 2.0 H.264 | Sora ...` | **1344.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632287) • [🐱 Nyaa](https://nyaa.si/view/2151440) |
 | `[Erai-raws] Sora wa Akai Kawa no Hotori - 08 [1080p CR WEB-DL AVC A...` | **1339.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/632282) • [🐱 Nyaa](https://nyaa.si/view/2151437) |
-| `[Erai-raws] Yoroi-Shinden Samurai Troopers Part 2 - 08 [1080p CR WE...` | **721.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/632279) • [🐱 Nyaa](https://nyaa.si/view/2151434) |
-| `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E08 [...` | **833.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632280) • [🐱 Nyaa](https://nyaa.si/view/2151433) |
-| `[GHOST] Bodacious Space Pirates (BD 1080p HEVC 10bit Dual Audio AC3)` | **29026.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/632278) • [🐱 Nyaa](https://nyaa.si/view/2151428) |
-| `[Sylvar] Rock is a Lady’s Modesty Season 1 (BD 1080p HEVC 10-bit Op...` | **38379.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/632272) • [🐱 Nyaa](https://nyaa.si/view/2151421) |
-| `[mottoj-edited] Kyou kara Ore wa!! Season 1 (BD 1080p HEVC 10-bit F...` | **44799.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632273) • [🐱 Nyaa](https://nyaa.si/view/2151420) |
-| `[Holomux] Genesis Climber Mospeada Season 1 (BD 1080p x264 Hi10P FL...` | **50426.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632275) • [🐱 Nyaa](https://nyaa.si/view/2151418) |
-| `[CTR] Canaan Season 1 v2 (BD 1080p x264 Hi10P FLAC) [Dual Audio]` | **25593.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/632276) • [🐱 Nyaa](https://nyaa.si/view/2151417) |
-| `[Bunny-Apocalypse] Higurashi: When They Cry Season 2 (BD 1080p x264...` | **19598.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/632277) • [🐱 Nyaa](https://nyaa.si/view/2151416) |
 
 ---
 <div align="center">
