@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.04.14_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.09.18_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Crowned in a Hundred Days - 19 (CA) [1080p CR WEBRip HE...` | **180.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632159) • [🐱 Nyaa](https://nyaa.si/view/2151166) |
+| `[Bird] PERSONA 3 THE MOVIE (1080p) [Batch]` | **6309.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/632156) • [🐱 Nyaa](https://nyaa.si/view/2151152) |
+| `[Sokudo] Re ZERO - Starting Life in Another World S04E13 v2 [1080p ...` | **254.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632157) • [🐱 Nyaa](https://nyaa.si/view/2151151) |
+| `[Breeze] Re ZERO - Starting Life in Another World S04E13 v2 [1080p ...` | **555.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632158) • [🐱 Nyaa](https://nyaa.si/view/2151150) |
 | `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **528.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/632155) • [🐱 Nyaa](https://nyaa.si/view/2151139) |
 | `[ASW] Bai Ri Cheng Wang - 19 [1080p HEVC x265 10Bit][AAC]` | **137.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/632154) • [🐱 Nyaa](https://nyaa.si/view/2151136) |
 | `Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **714.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/632152) • [🐱 Nyaa](https://nyaa.si/view/2151135) |
@@ -41,10 +45,6 @@
 | `[ToonsHub] Crowned in a Hundred Days S01E19 1080p BILI WEB-DL AAC2....` | **145.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/632146) • [🐱 Nyaa](https://nyaa.si/view/2151122) |
 | `[Erai-raws] Crowned in a Hundred Days - 19 (CA) [1080p CR WEB-DL AV...` | **439.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/632147) • [🐱 Nyaa](https://nyaa.si/view/2151121) |
 | `[Anicoder] Witch Hat Atelier - S01E02 - The School of the Grassland...` | **3175.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632139) • [🐱 Nyaa](https://nyaa.si/view/2151105) |
-| `[Gecko] Chiikawa - S01E372 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **17.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632138) • [🐱 Nyaa](https://nekobt.to/torrents/13294587776014) |
-| `[Doomdos] - Ascendants of the Nine Suns - 43 [1080p IQ WEB-DL]` | **167.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632136) • [🐱 Nyaa](https://nyaa.si/view/2151102) |
-| `[AnoZu] Black Summoner S01 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264...` | **17445.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/632137) • [🐱 Nyaa](https://nyaa.si/view/2151087) |
-| `[Arg0] Elf 17 (1987) (BD 1080p x265 Opus 2.0) | Elf Seventeen | エルフ...` | **4331.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/632135) • [🐱 Nyaa](https://nyaa.si/view/2151084) |
 
 ---
 <div align="center">
