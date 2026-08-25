@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.02.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.33.42_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 07 [1080p HEV...` | **273.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/632312) • [🐱 Nyaa](https://nyaa.si/view/2151492) |
+| `[Erai-raws] Sora wa Akai Kawa no Hotori - 08 [1080p CR WEBRip HEVC ...` | **413.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632310) • [🐱 Nyaa](https://nyaa.si/view/2151491) |
+| `[Erai-raws] Tefuda ga Oome no Victoria - 08 [1080p CR WEBRip HEVC A...` | **410.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632311) • [🐱 Nyaa](https://nyaa.si/view/2151490) |
+| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E07 (1080p BD AAC x265...` | **545.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/632309) • [🐱 Nyaa](https://nekobt.to/torrents/13311159743497) |
+| `[Ironclad] THE GHOST IN THE SHELL - S01E08 [WEB.1080p.AV1] | THE GH...` | **806.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/632307) • [🐱 Nyaa](https://nyaa.si/view/2151479) |
+| `[SubsPlease] The Beginning After the End S2 (01-12) (1080p) [Batch]` | **15960.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/632306) • [🐱 Nyaa](https://nyaa.si/view/2151478) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 80 [1080p] [CE17...` | **23.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/632303) • [🐱 Nyaa](https://nyaa.si/view/2151472) |
 | `[Mocha] Akujiki Reijou to Kyouketsu Koushaku (Pass the Monster Meat...` | **562.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/632301) • [🐱 Nyaa](https://nekobt.to/torrents/13310238302983) |
 | `[Onalrie] Sora wa Akai Kawa no Hotori - S01E08 [1080p WEBRip AV1]` | **212.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632302) • [🐱 Nyaa](https://nekobt.to/torrents/13310204448006) |
@@ -42,12 +48,6 @@
 | `[Erai-raws] Koukaku Kidoutai (2026) - 08 [1080p AMZN WEBRip HEVC EA...` | **918.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/632294) • [🐱 Nyaa](https://nyaa.si/view/2151453) |
 | `[DKB] The Ghost in the Shell - S01E08 [1080p][HEVC x265 10bit][Dual...` | **967.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632295) • [🐱 Nyaa](https://nyaa.si/view/2151452) |
 | `[DKB] Tefuda ga Oome no Victoria - S01E08 [1080p][HEVC x265 10bit][...` | **245.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632292) • [🐱 Nyaa](https://nyaa.si/view/2151451) |
-| `Red River 2026 S01E08 Under the Apple Tree 1080p CR WEB-DL AAC2.0 H...` | **1343.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632291) • [🐱 Nyaa](https://nyaa.si/view/2151449) |
-| `[ToonsHub] Red River 2026 S01E08 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1341.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/632283) • [🐱 Nyaa](https://nyaa.si/view/2151446) |
-| `Red River (2026) S01E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1336.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632289) • [🐱 Nyaa](https://nekobt.to/torrents/13309504718087) |
-| `[SubsPlease] Sora wa Akai Kawa no Hotori - 08 (1080p) [226F83B8].mkv` | **1332.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632284) • [🐱 Nyaa](https://nyaa.si/view/2151444) |
-| `[AnoZu] Red River 2026 S01E08 1080p CR WEB-DL AAC 2.0 H.264 | Sora ...` | **1344.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632287) • [🐱 Nyaa](https://nyaa.si/view/2151440) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 08 [1080p CR WEB-DL AVC A...` | **1339.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/632282) • [🐱 Nyaa](https://nyaa.si/view/2151437) |
 
 ---
 <div align="center">
