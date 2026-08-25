@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.54.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.35.14_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi ...` | **528.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/632155) • [🐱 Nyaa](https://nyaa.si/view/2151139) |
 | `[ASW] Bai Ri Cheng Wang - 19 [1080p HEVC x265 10Bit][AAC]` | **137.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/632154) • [🐱 Nyaa](https://nyaa.si/view/2151136) |
 | `Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **714.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/632152) • [🐱 Nyaa](https://nyaa.si/view/2151135) |
 | `[ToonsHub] Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC2.0 ...` | **711.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/632148) • [🐱 Nyaa](https://nekobt.to/torrents/13296912858629) |
@@ -44,7 +45,6 @@
 | `[Doomdos] - Ascendants of the Nine Suns - 43 [1080p IQ WEB-DL]` | **167.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632136) • [🐱 Nyaa](https://nyaa.si/view/2151102) |
 | `[AnoZu] Black Summoner S01 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264...` | **17445.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/632137) • [🐱 Nyaa](https://nyaa.si/view/2151087) |
 | `[Arg0] Elf 17 (1987) (BD 1080p x265 Opus 2.0) | Elf Seventeen | エルフ...` | **4331.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/632135) • [🐱 Nyaa](https://nyaa.si/view/2151084) |
-| `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **854.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/632134) • [🐱 Nyaa](https://nyaa.si/view/2151082) |
 
 ---
 <div align="center">
