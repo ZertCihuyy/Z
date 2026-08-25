@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.00.45_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.54.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Bai Ri Cheng Wang - 19 [1080p HEVC x265 10Bit][AAC]` | **137.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/632154) • [🐱 Nyaa](https://nyaa.si/view/2151136) |
+| `Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **714.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/632152) • [🐱 Nyaa](https://nyaa.si/view/2151135) |
+| `[ToonsHub] Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC2.0 ...` | **711.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/632148) • [🐱 Nyaa](https://nekobt.to/torrents/13296912858629) |
+| `[AnoZu] Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC 2.0 H.264` | **713.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632149) • [🐱 Nyaa](https://nekobt.to/torrents/13296887698445) |
+| `[Gecko] Crowned in a Hundred Days - S01E19 (百日成王; Bai Ri Cheng Wang...` | **148.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632140) • [🐱 Nyaa](https://nyaa.si/view/2151130) |
+| `[SubsPlease] Bai Ri Cheng Wang - 19 (1080p) [0947C57E].mkv` | **709.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632141) • [🐱 Nyaa](https://nyaa.si/view/2151129) |
+| `Crowned in a Hundred Days S01E19 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **708.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/632150) • [🐱 Nyaa](https://nekobt.to/torrents/13296862621453) |
+| `[ToonsHub] Crowned in a Hundred Days S01E19 1080p BILI WEB-DL AAC2....` | **145.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/632146) • [🐱 Nyaa](https://nyaa.si/view/2151122) |
+| `[Erai-raws] Crowned in a Hundred Days - 19 (CA) [1080p CR WEB-DL AV...` | **439.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/632147) • [🐱 Nyaa](https://nyaa.si/view/2151121) |
 | `[Anicoder] Witch Hat Atelier - S01E02 - The School of the Grassland...` | **3175.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632139) • [🐱 Nyaa](https://nyaa.si/view/2151105) |
 | `[Gecko] Chiikawa - S01E372 (ちいかわ) [VIU.WEB-DL 1080P AVC, AAC, SUB][...` | **17.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632138) • [🐱 Nyaa](https://nekobt.to/torrents/13294587776014) |
 | `[Doomdos] - Ascendants of the Nine Suns - 43 [1080p IQ WEB-DL]` | **167.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632136) • [🐱 Nyaa](https://nyaa.si/view/2151102) |
 | `[AnoZu] Black Summoner S01 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264...` | **17445.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/632137) • [🐱 Nyaa](https://nyaa.si/view/2151087) |
 | `[Arg0] Elf 17 (1987) (BD 1080p x265 Opus 2.0) | Elf Seventeen | エルフ...` | **4331.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/632135) • [🐱 Nyaa](https://nyaa.si/view/2151084) |
 | `[Chihiro] Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Tori...` | **854.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/632134) • [🐱 Nyaa](https://nyaa.si/view/2151082) |
-| `[Erai-raws] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo S...` | **275.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/632132) • [🐱 Nyaa](https://nyaa.si/view/2151076) |
-| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **361.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/632131) • [🐱 Nyaa](https://nekobt.to/torrents/13292877864455) |
-| `[Erai-raws] Liar Game - 21 [1080p CR WEBRip HEVC AAC][MultiSub][EF4...` | **512.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/632133) • [🐱 Nyaa](https://nyaa.si/view/2151074) |
-| `[Erai-raws] Grand Blue Season 3 - 08 [1080p CR WEBRip HEVC AAC][Mul...` | **504.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/632127) • [🐱 Nyaa](https://nyaa.si/view/2151073) |
-| `[Erai-raws] Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II - ...` | **597.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/632128) • [🐱 Nyaa](https://nyaa.si/view/2151072) |
-| `[Erai-raws] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 08 [1080...` | **370.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/632129) • [🐱 Nyaa](https://nyaa.si/view/2151071) |
-| `[Erai-raws] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho ...` | **843.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/632130) • [🐱 Nyaa](https://nyaa.si/view/2151070) |
-| `[ToonsHub] Go For It Nakamura-kun S01 1080p CR WEB-DL DUAL DDP2.0 H...` | **18917.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632125) • [🐱 Nyaa](https://nekobt.to/torrents/13292326447887) |
-| `[Judas] One Piece - 1175 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)` | **365.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632124) • [🐱 Nyaa](https://nyaa.si/view/2151064) |
 
 ---
 <div align="center">
