@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.53.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.32.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,6 +30,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Gecko] Rilakkuma - S01E21 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **45.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632163) • [🐱 Nyaa](https://nyaa.si/view/2151225) |
+| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E07 (1080p WEB EAC3 x264)...` | **1695.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/632164) • [🐱 Nyaa](https://nekobt.to/torrents/13303436394767) |
 | `[Onalrie] Crowned in a Hundred Days - S01E19 (CA) [1080p WEBRip AV1]` | **105.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/632162) • [🐱 Nyaa](https://nekobt.to/torrents/13302371610376) |
 | `[AI-Raws] Blue Submarine No.6 青の6号 BDRip 1080p MKV` | **6904.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/632161) • [🐱 Nyaa](https://nyaa.si/view/2151174) |
 | `[kmplx] Your Forma (BD 1080p x265 10-Bit Opus/E-AC-3) [Dual-Audio]` | **17088.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632160) • [🐱 Nyaa](https://nyaa.si/view/2151167) |
@@ -43,8 +45,6 @@
 | `[ToonsHub] Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC2.0 ...` | **711.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/632148) • [🐱 Nyaa](https://nekobt.to/torrents/13296912858629) |
 | `[AnoZu] Crowned in a Hundred Days S01E19 1080p CR WEB-DL AAC 2.0 H.264` | **713.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632149) • [🐱 Nyaa](https://nekobt.to/torrents/13296887698445) |
 | `[Gecko] Crowned in a Hundred Days - S01E19 (百日成王; Bai Ri Cheng Wang...` | **148.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632140) • [🐱 Nyaa](https://nyaa.si/view/2151130) |
-| `[SubsPlease] Bai Ri Cheng Wang - 19 (1080p) [0947C57E].mkv` | **709.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632141) • [🐱 Nyaa](https://nyaa.si/view/2151129) |
-| `Crowned in a Hundred Days S01E19 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **708.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/632150) • [🐱 Nyaa](https://nekobt.to/torrents/13296862621453) |
 
 ---
 <div align="center">
