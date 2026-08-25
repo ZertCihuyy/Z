@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.04.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.06.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[LbE3L] Though I Am an Inept Villainess S01E02 [1080p CR WEBRip AV1...` | **403.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/632179) • [🐱 Nyaa](https://nekobt.to/torrents/13304189885451) |
-| `[LbE3L] BLACK TORCH S01E08 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audi...` | **496.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632180) • [🐱 Nyaa](https://nekobt.to/torrents/13304102991114) |
-| `[Gecko] GROW UP SHOW -Sunflower Circus- - S01E08 (グロウアップショウ ～ひまわりのサ...` | **705.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/632178) • [🐱 Nyaa](https://nekobt.to/torrents/13304030862606) |
-| `[Doomdos] - Cup of Snow - Movie [1080p IQ WEB-DL]` | **1680.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632177) • [🐱 Nyaa](https://nyaa.si/view/2151244) |
-| `[ToonsHub] Young Ladies Dont Play Fighting Games S01E08 1080p CR WE...` | **1392.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632173) • [🐱 Nyaa](https://nekobt.to/torrents/13303869285121) |
-| `[VARYG] Young Ladies Dont Play Fighting Games S01E08 Guaranteed to ...` | **1410.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/632174) • [🐱 Nyaa](https://nekobt.to/torrents/13303844318729) |
-| `[AnoZu] Young Ladies Don't Play Fighting Games S01E08 1080p CR WEB-...` | **1413.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/632165) • [🐱 Nyaa](https://nyaa.si/view/2151239) |
-| `Young Ladies Dont Play Fighting Games S01E08 SUBFRENCH 1080p CR WEB...` | **1256.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/632175) • [🐱 Nyaa](https://nekobt.to/torrents/13303813659655) |
-| `[SubsPlease] Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai...` | **1383.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632168) • [🐱 Nyaa](https://nyaa.si/view/2151234) |
-| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **1263.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/632169) • [🐱 Nyaa](https://nyaa.si/view/2151233) |
-| `[Gecko] The World Is Dancing - S01E09 (ワールド イズ ダンシング; World Is Danc...` | **681.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632171) • [🐱 Nyaa](https://nyaa.si/view/2151231) |
-| `[Gecko] Rilakkuma - S01E21 (リラックマ) [CTHP.WEB-DL 1080P AVC, AAC, D-S...` | **45.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632163) • [🐱 Nyaa](https://nyaa.si/view/2151225) |
-| `[SubsNoJutsu] THE GHOST IN THE SHELL - S01E07 (1080p WEB EAC3 x264)...` | **1695.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/632164) • [🐱 Nyaa](https://nekobt.to/torrents/13303436394767) |
-| `[Onalrie] Crowned in a Hundred Days - S01E19 (CA) [1080p WEBRip AV1]` | **105.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/632162) • [🐱 Nyaa](https://nekobt.to/torrents/13302371610376) |
-| `[AI-Raws] Blue Submarine No.6 青の6号 BDRip 1080p MKV` | **6904.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/632161) • [🐱 Nyaa](https://nyaa.si/view/2151174) |
+| `[AnoZu] Victoria of Many Faces S01E08 1080p CR WEB-DL AAC 2.0 H.264...` | **1394.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632226) • [🐱 Nyaa](https://nyaa.si/view/2151361) |
+| `Victoria of Many Faces S01E08 I Am Truly Thankful 1080p CR WEB-DL A...` | **1391.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632227) • [🐱 Nyaa](https://nyaa.si/view/2151360) |
+| `[Judas] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagas...` | **207.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632223) • [🐱 Nyaa](https://nyaa.si/view/2151341) |
+| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **395.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632222) • [🐱 Nyaa](https://nekobt.to/torrents/13306631086597) |
+| `Though I Am an Inept Villainess S01E06 I Wont Let You Die 1080p NF ...` | **895.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632220) • [🐱 Nyaa](https://nyaa.si/view/2151337) |
+| `[Onalrie] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nag...` | **173.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/632221) • [🐱 Nyaa](https://nekobt.to/torrents/13306396901637) |
+| `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E08 [1080p][HEVC x265 1...` | **453.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632219) • [🐱 Nyaa](https://nyaa.si/view/2151335) |
+| `[ASW] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu ...` | **197.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/632218) • [🐱 Nyaa](https://nyaa.si/view/2151334) |
+| `[Judas] Kimi ga Shinu made Koi o Shitai (I Want to Love You Till Yo...` | **191.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/632217) • [🐱 Nyaa](https://nyaa.si/view/2151330) |
+| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **822.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/632212) • [🐱 Nyaa](https://nekobt.to/torrents/13305760861700) |
+| `[ToonsHub] The Oblivious Saint Cant Contain Her Power S01E09 1080p ...` | **1450.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/632213) • [🐱 Nyaa](https://nekobt.to/torrents/13305710663946) |
+| `The Oblivious Saint Cant Contain Her Power S01E09 Episode 9 The Exp...` | **1469.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/632214) • [🐱 Nyaa](https://nyaa.si/view/2151323) |
+| `The Oblivious Saint Cant Contain Her Power S01E09 SUBFRENCH 1080p C...` | **1445.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/632215) • [🐱 Nyaa](https://nekobt.to/torrents/13305652723972) |
+| `[SubsPlease] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare ...` | **1440.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632206) • [🐱 Nyaa](https://nyaa.si/view/2151316) |
+| `[AnoZu] The Oblivious Saint Can't Contain Her Power S01E09 1080p CR...` | **1470.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/632207) • [🐱 Nyaa](https://nyaa.si/view/2151315) |
 
 ---
 <div align="center">
