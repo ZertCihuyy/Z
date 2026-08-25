@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.08.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.46.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Bleach - Sennen Kessen Hen - 44 [1080p HEVC x265 10Bit][AAC]` | **533.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/632317) • [🐱 Nyaa](https://nyaa.si/view/2151510) |
+| `[Headpatter] Gurazeni: Money Pitch Season 2 (CR WEB-DL 1080p x264 AAC)` | **16373.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632318) • [🐱 Nyaa](https://nyaa.si/view/2151509) |
+| `[Headpatter] Gurazeni: Money Pitch Season 1 (CR WEB-DL 1080p x264 AAC)` | **16387.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/632319) • [🐱 Nyaa](https://nyaa.si/view/2151508) |
+| `[Headpatter] Ace of the Diamond Season 3 (CR WEB-DL 1080p x264 AAC)...` | **74672.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/632320) • [🐱 Nyaa](https://nyaa.si/view/2151507) |
+| `[ASW] Bleach - Sennen Kessen Hen - 42 [1080p HEVC x265 10Bit][AAC]` | **553.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/632316) • [🐱 Nyaa](https://nyaa.si/view/2151503) |
 | `[ASW] Bleach - Sennen Kessen Hen - 43 [1080p HEVC x265 10Bit][AAC]` | **486.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/632314) • [🐱 Nyaa](https://nyaa.si/view/2151500) |
 | `[Ironclad] Sora wa Akai Kawa no Hotori - S01E08 [WEB.1080p.AV1] | R...` | **205.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/632315) • [🐱 Nyaa](https://nyaa.si/view/2151499) |
 | `[ASW] Bleach - Sennen Kessen Hen - 41 [1080p HEVC x265 10Bit][AAC]` | **559.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632313) • [🐱 Nyaa](https://nyaa.si/view/2151494) |
@@ -43,11 +48,6 @@
 | `[Ironclad] THE GHOST IN THE SHELL - S01E08 [WEB.1080p.AV1] | THE GH...` | **806.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/632307) • [🐱 Nyaa](https://nyaa.si/view/2151479) |
 | `[SubsPlease] The Beginning After the End S2 (01-12) (1080p) [Batch]` | **15960.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/632306) • [🐱 Nyaa](https://nyaa.si/view/2151478) |
 | `[Kozame] Odekake Kozame (Little Shark's Outings) - 80 [1080p] [CE17...` | **23.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/632303) • [🐱 Nyaa](https://nyaa.si/view/2151472) |
-| `[Mocha] Akujiki Reijou to Kyouketsu Koushaku (Pass the Monster Meat...` | **562.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/632301) • [🐱 Nyaa](https://nekobt.to/torrents/13310238302983) |
-| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E08 [1080p WEBRip AV1]` | **212.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632302) • [🐱 Nyaa](https://nekobt.to/torrents/13310204448006) |
-| `[Yameii] The Elusive Samurai - S02E01 [English Dub] [CR WEB-DL 1080...` | **1384.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632297) • [🐱 Nyaa](https://nekobt.to/torrents/13310118917388) |
-| `[ASW] Sora wa Akai Kawa no Hotori - 08 [1080p HEVC x265 10Bit][AAC]` | **254.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/632296) • [🐱 Nyaa](https://nyaa.si/view/2151456) |
-| `[Ommex] Doraemon (2005) Episode 929 [ENG SUB][1080p x265 AAC]` | **467.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/632293) • [🐱 Nyaa](https://nyaa.si/view/2151454) |
 
 ---
 <div align="center">
