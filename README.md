@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.06.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.01.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[AnoZu] Victoria of Many Faces S01E08 1080p CR WEB-DL AAC 2.0 H.264...` | **1394.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632226) • [🐱 Nyaa](https://nyaa.si/view/2151361) |
-| `Victoria of Many Faces S01E08 I Am Truly Thankful 1080p CR WEB-DL A...` | **1391.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632227) • [🐱 Nyaa](https://nyaa.si/view/2151360) |
-| `[Judas] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagas...` | **207.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632223) • [🐱 Nyaa](https://nyaa.si/view/2151341) |
-| `[Erai-raws] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare N...` | **395.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632222) • [🐱 Nyaa](https://nekobt.to/torrents/13306631086597) |
-| `Though I Am an Inept Villainess S01E06 I Wont Let You Die 1080p NF ...` | **895.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632220) • [🐱 Nyaa](https://nyaa.si/view/2151337) |
-| `[Onalrie] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nag...` | **173.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/632221) • [🐱 Nyaa](https://nekobt.to/torrents/13306396901637) |
-| `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E08 [1080p][HEVC x265 1...` | **453.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632219) • [🐱 Nyaa](https://nyaa.si/view/2151335) |
-| `[ASW] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu ...` | **197.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/632218) • [🐱 Nyaa](https://nyaa.si/view/2151334) |
-| `[Judas] Kimi ga Shinu made Koi o Shitai (I Want to Love You Till Yo...` | **191.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/632217) • [🐱 Nyaa](https://nyaa.si/view/2151330) |
-| `[Erai-raws] Tai Ari Deshita Ojou-sama wa Kakutou Game Nante Shinai ...` | **822.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/632212) • [🐱 Nyaa](https://nekobt.to/torrents/13305760861700) |
-| `[ToonsHub] The Oblivious Saint Cant Contain Her Power S01E09 1080p ...` | **1450.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/632213) • [🐱 Nyaa](https://nekobt.to/torrents/13305710663946) |
-| `The Oblivious Saint Cant Contain Her Power S01E09 Episode 9 The Exp...` | **1469.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/632214) • [🐱 Nyaa](https://nyaa.si/view/2151323) |
-| `The Oblivious Saint Cant Contain Her Power S01E09 SUBFRENCH 1080p C...` | **1445.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/632215) • [🐱 Nyaa](https://nekobt.to/torrents/13305652723972) |
-| `[SubsPlease] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare ...` | **1440.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632206) • [🐱 Nyaa](https://nyaa.si/view/2151316) |
-| `[AnoZu] The Oblivious Saint Can't Contain Her Power S01E09 1080p CR...` | **1470.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/632207) • [🐱 Nyaa](https://nyaa.si/view/2151315) |
+| `[Onalrie] Yoroi-Shinden Samurai Troopers - S02E08 [1080p WEBRip AV1]` | **447.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632263) • [🐱 Nyaa](https://nekobt.to/torrents/13307755328769) |
+| `[VARYG] THE GHOST IN THE SHELL S01E08 EPISODE 08 INTERMISSION BRAIN...` | **1700.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/632257) • [🐱 Nyaa](https://nekobt.to/torrents/13307679292935) |
+| `[Judas] Tefuda ga Oome no Victoria (Victoria of Many Faces) - S01E0...` | **220.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/632262) • [🐱 Nyaa](https://nyaa.si/view/2151388) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 08 [1080p AMZN WEB-DL AVC EAC...` | **1661.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/632260) • [🐱 Nyaa](https://nyaa.si/view/2151385) |
+| `THE GHOST IN THE SHELL S01E08 EPISODE 08 INTERMISSION BRAIN DRAIN i...` | **1975.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632261) • [🐱 Nyaa](https://nyaa.si/view/2151384) |
+| `[ToonsHub] THE GHOST IN THE SHELL S01E08 1080p AMZN WEB-DL MULTi DD...` | **1975.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632254) • [🐱 Nyaa](https://nyaa.si/view/2151381) |
+| `[ToonsHub] THE GHOST IN THE SHELL S01E08 1080p AMZN WEB-DL DUAL DDP...` | **1700.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/632255) • [🐱 Nyaa](https://nyaa.si/view/2151380) |
+| `[ToonsHub] THE GHOST IN THE SHELL S01E08 1080p AMZN WEB-DL DUAL DDP...` | **901.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/632256) • [🐱 Nyaa](https://nyaa.si/view/2151379) |
+| `[Erai-raws] Kimi ga Shinu made Koi wo Shitai - 08 [1080p CR WEBRip ...` | **409.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/632253) • [🐱 Nyaa](https://nyaa.si/view/2151375) |
+| `[Shridhuu][1080p] Beyond Time's Gaze / 光阴之外 (Guangyin Zhi Wai) - EP36` | **474.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/632249) • [🐱 Nyaa](https://nyaa.si/view/2151374) |
+| `[SubsNoJutsu] Love Unseen Beneath the Clear Night Sky (2026) - S01E...` | **275.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/632252) • [🐱 Nyaa](https://nekobt.to/torrents/13307259634177) |
+| `[Hentai] Ushiro no Shoumen Kamui-san - 02 [WEB 1080p DDP 2.0. H 264...` | **602.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/632247) • [🐱 Nyaa](https://nyaa.si/view/2151370) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E06 1080p NF WEB-DL D...` | **895.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/632248) • [🐱 Nyaa](https://nyaa.si/view/2151369) |
+| `Yoroi Shinden Samurai Troopers S01E20 SUBFRENCH 1080p CR WEB-DL AAC...` | **1725.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/632237) • [🐱 Nyaa](https://nekobt.to/torrents/13307093886725) |
+| `[VARYG] Yoroi Shinden Samurai Troopers S01E20 Duty 1080p CR WEB-DL ...` | **1730.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632238) • [🐱 Nyaa](https://nekobt.to/torrents/13307079049737) |
 
 ---
 <div align="center">
