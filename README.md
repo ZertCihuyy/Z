@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-02.06.18_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.11.43_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[KawaSubs] The World Is Dancing - S01 [AMZN DUAL 1080p AVC EAC3] [E...` | **1150.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/632584) • [🐱 Nyaa](https://nyaa.si/view/2151927) |
-| `[FBI] Re:Zero Starting Life in Another World - S04E14 (CR WEB-DL 10...` | **1401.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632583) • [🐱 Nyaa](https://nyaa.si/view/2151923) |
-| `[CenturyZeta] Youjo Shenki 2 - 08 (1080p) (Youjo Senki)` | **12.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/632582) • [🐱 Nyaa](https://nyaa.si/view/2151922) |
-| `[Yameii] Re:ZERO, Starting Life in Another World - S04E12 [English ...` | **1379.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632578) • [🐱 Nyaa](https://nyaa.si/view/2151920) |
-| `[Yameii] Tomb Raider King - S01E06 [English Dub] [CR WEB-DL 1080p H...` | **1343.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/632580) • [🐱 Nyaa](https://nyaa.si/view/2151918) |
-| `[Onalrie] Dogulwang - S01E08 (JA) [1080p WEBRip AV1]` | **231.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632577) • [🐱 Nyaa](https://onalrie.app/torrent/9d2ddd33-6c22-4b8d-9e1b-f6ff424caa76) |
-| `[denisplay]  Youjo Senki S2 - 08 [1080p] [AV1] (Weekly) (Youjo Senk...` | **244.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/632574) • [🐱 Nyaa](https://nyaa.si/view/2151912) |
-| `From Old Country Bumpkin to Master Swordsman S02E08 MULTi 1080p AMZ...` | **655.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/632573) • [🐱 Nyaa](https://nekobt.to/torrents/13332014087180) |
-| `[Onalrie] Dogulwang - S01E08 (KA) [1080p WEBRip AV1]` | **228.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/632572) • [🐱 Nyaa](https://onalrie.app/torrent/ae82adc6-9fc4-4184-a3b3-8c73877625c0) |
-| `[ASW] Toukutsu Ou - 08 [1080p HEVC x265 10Bit][AAC]` | **305.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/632570) • [🐱 Nyaa](https://nyaa.si/view/2151901) |
-| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1520.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632571) • [🐱 Nyaa](https://nyaa.si/view/2151900) |
-| `[Judas] Otomege Sekai wa Mob ni Kibishii Sekai Desu (Trapped in a D...` | **299.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632569) • [🐱 Nyaa](https://nyaa.si/view/2151898) |
-| `[Ironclad] From Old Country Bumpkin to Master Swordsman - S02E08 (W...` | **335.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632567) • [🐱 Nyaa](https://nekobt.to/torrents/13331539927310) |
-| `[Onalrie] Otomege Sekai wa Mob ni Kibishii Sekai Desu - S01E08 [108...` | **228.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/632568) • [🐱 Nyaa](https://nekobt.to/torrents/13331527336207) |
-| `Tomb Raider King S01E05 The Owner of the Tree of Life 1080p CR WEB-...` | **1591.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/632566) • [🐱 Nyaa](https://nyaa.si/view/2151893) |
+| `[Reza] THE GHOST IN THE SHELL (2026) - S01E08 [WEBRip HEVC 1080p EA...` | **6210.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/632607) • [🐱 Nyaa](https://nyaa.si/view/2151976) |
+| `[Poopoo] Haikyu S00E05 (WEB 1080p HEVC AC3) | HAIKYU!!: Special Fea...` | **1987.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/632604) • [🐱 Nyaa](https://nyaa.si/view/2151975) |
+| `[Poopoo] Haikyu S00E03 (WEB 1080p HEVC AC3) | HAIKYU!!: VS Failing ...` | **1581.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632605) • [🐱 Nyaa](https://nyaa.si/view/2151974) |
+| `[Poopoo] Haikyu S00E01 (WEB 1080p HEVC AC3) | HAIKYU!!: Lev Appears...` | **1870.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/632606) • [🐱 Nyaa](https://nyaa.si/view/2151973) |
+| `[ToonsHub] Tomb Raider King S01E08 1080p ABEMA WEB-DL AAC2.0 H.264 ...` | **711.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/632602) • [🐱 Nyaa](https://nekobt.to/torrents/13334888744965) |
+| `[Kylian] I Want to Love You Till Your Dying Day S01E04 VOSTFR WEB 1...` | **1373.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/632600) • [🐱 Nyaa](https://nekobt.to/torrents/13334208677382) |
+| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E08 [1080...` | **336.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/632598) • [🐱 Nyaa](https://nyaa.si/view/2151961) |
+| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E08 [1080p][HEVC x265...` | **330.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/632599) • [🐱 Nyaa](https://nyaa.si/view/2151960) |
+| `[sam] The Ghost in the Shell (2026) - S01E08 (WEB 1080p HEVC x265 1...` | **5014.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632597) • [🐱 Nyaa](https://nekobt.to/torrents/13333809567492) |
+| `[KawaSubs] The Demon King's Daughter is Too Kind - S01E09 [WEB 1080...` | **1421.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632596) • [🐱 Nyaa](https://nekobt.to/torrents/13333642553347) |
+| `[KawaSubs] The Demon King's Daughter is Too Kind - S01E08 [WEB 1080...` | **1421.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/632595) • [🐱 Nyaa](https://nyaa.si/view/2151941) |
+| `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E10 [108...` | **329.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632594) • [🐱 Nyaa](https://nyaa.si/view/2151940) |
+| `Thunder 3 S01E08 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (R...` | **931.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/632593) • [🐱 Nyaa](https://nekobt.to/torrents/13333377057794) |
+| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 50 (S04E14)...` | **1099.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632592) • [🐱 Nyaa](https://nekobt.to/torrents/13333289212173) |
+| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku...` | **16548.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/632586) • [🐱 Nyaa](https://nyaa.si/view/2151936) |
 
 ---
 <div align="center">
