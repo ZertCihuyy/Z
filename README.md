@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-21.04.24_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.54.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Re:Zero kara Hajimeru Isekai Seikatsu S04E14 [1080p CR ...` | **1386.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632408) • [🐱 Nyaa](https://nekobt.to/torrents/13328195516930) |
-| `[ToonsHub] ReZERO Starting Life in Another World S04E14 1080p BILI ...` | **314.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/632409) • [🐱 Nyaa](https://nekobt.to/torrents/13328190440961) |
-| `[ToonsHub] Saga of Tanya the Evil S02E08 1080p AMZN WEB-DL DDP2.0 H...` | **722.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632410) • [🐱 Nyaa](https://nekobt.to/torrents/13328138183680) |
-| `[Nanju] Wind Breaker S02 1080p Bstation WEB-DL DUAL AAC H.264 (Wind...` | **4763.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/632411) • [🐱 Nyaa](https://nekobt.to/torrents/13328042700555) |
-| `[Judas] Majuu no Ou to Akago to Shikabane no Yuusha (Clevatess) - S...` | **578.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/632406) • [🐱 Nyaa](https://nyaa.si/view/2151691) |
-| `[FrixySubs] Mushoku Tensei - S03E08v2 [1080p CR WEB-DL H.264 AAC] [...` | **1638.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632405) • [🐱 Nyaa](https://nekobt.to/torrents/13327844376329) |
-| `Saga of Tanya the Evil S02E08 Torpedo Strike 1080p CR WEB-DL AAC2.0...` | **1392.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632403) • [🐱 Nyaa](https://nyaa.si/view/2151689) |
-| `[ToonsHub] Saga of Tanya the Evil S02E08 1080p CR WEB-DL AAC2.0 H.2...` | **1390.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/632398) • [🐱 Nyaa](https://nekobt.to/torrents/13327794888207) |
-| `Saga of Tanya the Evil S02E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1386.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/632399) • [🐱 Nyaa](https://nekobt.to/torrents/13327789489162) |
-| `[AnoZu] Saga of Tanya the Evil S02E08 1080p CR WEB-DL AAC 2.0 H.264` | **1395.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632401) • [🐱 Nyaa](https://nekobt.to/torrents/13327780397837) |
-| `[SubsPlease] Youjo Senki S2 - 08 (1080p) [A4229BCA].mkv` | **1381.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632393) • [🐱 Nyaa](https://nyaa.si/view/2151684) |
-| `[Erai-raws] Youjo Senki II - 08 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1389.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/632397) • [🐱 Nyaa](https://nyaa.si/view/2151677) |
-| `[FrixySubs] Mushoku Tensei - S03E09 [1080p CR WEB-DL H.264 AAC] [Na...` | **1618.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632392) • [🐱 Nyaa](https://nekobt.to/torrents/13327660139273) |
-| `[ToonsHub] Perfect Addiction S01E08 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **187.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632391) • [🐱 Nyaa](https://nyaa.si/view/2151674) |
-| `[geckyzz] Perfect Addiction - S01E08 (パーフェクトアディクション) [YTB.WEB-DL 10...` | **51.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/632390) • [🐱 Nyaa](https://nyaa.si/view/2151670) |
+| `[ToonsHub] Gintama Yoshiwara in Flames (2026) 1080p NF WEB-DL DUAL ...` | **5570.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632482) • [🐱 Nyaa](https://nyaa.si/view/2151778) |
+| `[AnoZu] Trapped in a Dating Sim: The World of Otome Games Is Tough ...` | **1436.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632472) • [🐱 Nyaa](https://nyaa.si/view/2151777) |
+| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1423.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632473) • [🐱 Nyaa](https://nyaa.si/view/2151776) |
+| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1391.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/632474) • [🐱 Nyaa](https://nyaa.si/view/2151775) |
+| `[Yameii] Trapped in a Dating Sim: The World of Otome Games is Tough...` | **1385.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/632475) • [🐱 Nyaa](https://nyaa.si/view/2151774) |
+| `[ToonsHub] Trapped in a Dating Sim The World of Otome Games is Toug...` | **1388.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632477) • [🐱 Nyaa](https://nekobt.to/torrents/13329627117835) |
+| `Trapped in a Dating Sim The World of Otome Games Is Tough for Mobs ...` | **1384.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632480) • [🐱 Nyaa](https://nekobt.to/torrents/13329624617474) |
+| `[ToonsHub] Trapped in a Dating Sim The World of Otome Games is Toug...` | **1422.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632478) • [🐱 Nyaa](https://nyaa.si/view/2151771) |
+| `[AnoZu] Trapped in a Dating Sim: The World of Otome Games Is Tough ...` | **1391.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632479) • [🐱 Nyaa](https://nyaa.si/view/2151768) |
+| `[SubsPlease] Otome Game Sekai wa Mob ni Kibishii Sekai desu S2 - 08...` | **1380.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/632465) • [🐱 Nyaa](https://nyaa.si/view/2151767) |
+| `[ToonsHub] Trapped in a Dating Sim The World of Otome Games Is Toug...` | **313.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/632470) • [🐱 Nyaa](https://nyaa.si/view/2151761) |
+| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 08 [108...` | **1388.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/632471) • [🐱 Nyaa](https://nyaa.si/view/2151759) |
+| `[Ironclad] Clevatess - S02E08 (WEB 1080p AV1) | Clevatess II (Multi...` | **612.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/632460) • [🐱 Nyaa](https://nekobt.to/torrents/13329499128333) |
+| `[Hentai] Ushiro no Shoumen Kamui-san - 03 [WEB 1080p DDP 2.0. H 264...` | **586.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/632464) • [🐱 Nyaa](https://nyaa.si/view/2151754) |
+| `[VARYG] From Old Country Bumpkin to Master Swordsman S02E08 The Old...` | **920.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632461) • [🐱 Nyaa](https://nekobt.to/torrents/13329483735557) |
 
 ---
 <div align="center">
