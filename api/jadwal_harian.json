@@ -1,16 +1,32 @@
 {
-  "last_update": "26/8/2026, 23.50.21",
-  "hari": "Rabu",
+  "last_update": "27/8/2026, 02.06.18",
+  "hari": "Kamis",
   "data": [
     {
-      "airingAt": 1787698800,
+      "airingAt": 1787823000,
       "media": {
-        "id": 204656,
+        "id": 209541,
         "title": {
-          "romaji": "mofusand"
+          "romaji": "PetitCure: Precure Fairies Season 3"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1787828400,
+      "media": {
+        "id": 194389,
+        "title": {
+          "romaji": "Koala Enikki"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png"
         },
         "genres": [
           "Slice of Life"
@@ -18,237 +34,212 @@
       }
     },
     {
-      "airingAt": 1787709600,
+      "airingAt": 1787833800,
       "media": {
-        "id": 199409,
+        "id": 203880,
         "title": {
-          "romaji": "Yi Nian Yongheng 4"
+          "romaji": "Reiwa no Dara-san"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203880-lnruKftb27Nr.png"
         },
         "genres": [
-          "Action",
           "Comedy",
-          "Fantasy"
+          "Horror",
+          "Supernatural"
         ]
       }
     },
     {
-      "airingAt": 1787709600,
+      "airingAt": 1787834400,
       "media": {
-        "id": 213486,
+        "id": 201667,
         "title": {
-          "romaji": "You Shou Yan 6th Season"
+          "romaji": "Bungou Stray Dogs Wan! 2"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg"
         },
         "genres": [
           "Comedy",
-          "Fantasy",
+          "Slice of Life",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1787835600,
+      "media": {
+        "id": 187166,
+        "title": {
+          "romaji": "Ganso! Bandori-chan"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png"
+        },
+        "genres": [
+          "Comedy",
+          "Music"
+        ]
+      }
+    },
+    {
+      "airingAt": 1787839200,
+      "media": {
+        "id": 198376,
+        "title": {
+          "romaji": "BanG Dream! Yume∞Mita"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198376-sc5qcFv0RSH9.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Music",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1787713200,
+      "airingAt": 1787841000,
       "media": {
-        "id": 213703,
+        "id": 108992,
         "title": {
-          "romaji": "Jiaonang Jihua: Qiji"
+          "romaji": "Mebius Dust"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213703-ghO1AqW0bdaN.jpg"
-        },
-        "genres": [
-          "Fantasy",
-          "Sci-Fi"
-        ]
-      }
-    },
-    {
-      "airingAt": 1787742000,
-      "media": {
-        "id": 188529,
-        "title": {
-          "romaji": "Ugoku! Neko Mukashi Banashi"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg"
-        },
-        "genres": [
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1787745600,
-      "media": {
-        "id": 198946,
-        "title": {
-          "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg"
         },
         "genres": [
           "Action",
-          "Drama",
-          "Fantasy"
+          "Supernatural"
         ]
       }
     },
     {
-      "airingAt": 1787747400,
+      "airingAt": 1787842560,
       "media": {
-        "id": 135865,
+        "id": 196187,
         "title": {
-          "romaji": "Youjo Senki II"
+          "romaji": "Super no Ura de Yani Suu Futari"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg"
         },
         "genres": [
-          "Action",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1787749200,
-      "media": {
-        "id": 189046,
-        "title": {
-          "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Fantasy",
-          "Psychological",
+          "Comedy",
           "Romance",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1787749200,
-      "media": {
-        "id": 213666,
-        "title": {
-          "romaji": "Perfect Addiction"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213666-nnKcumRblZi1.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1787751000,
-      "media": {
-        "id": 192800,
-        "title": {
-          "romaji": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1787751000,
-      "media": {
-        "id": 210687,
-        "title": {
-          "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg"
-        },
-        "genres": [
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1787754600,
-      "media": {
-        "id": 159309,
-        "title": {
-          "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg"
-        },
-        "genres": [
-          "Action",
-          "Fantasy",
-          "Mecha",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1787754600,
-      "media": {
-        "id": 196356,
-        "title": {
-          "romaji": "Ibitte Konai Gibo to Gishi"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg"
-        },
-        "genres": [
-          "Comedy",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1787755560,
+      "airingAt": 1787842800,
       "media": {
-        "id": 194829,
+        "id": 133007,
         "title": {
-          "romaji": "Katainaka no Ossan, Kensei ni Naru II"
+          "romaji": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133007-5gOUXDvzxy9S.jpg"
+        },
+        "genres": [
+          "Mahou Shoujo"
+        ]
+      }
+    },
+    {
+      "airingAt": 1787842800,
+      "media": {
+        "id": 208264,
+        "title": {
+          "romaji": "Muchuu no Tou"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208264-suCmiuMBZfBy.png"
+        },
+        "genres": [
+          "Hentai"
+        ]
+      }
+    },
+    {
+      "airingAt": 1787842800,
+      "media": {
+        "id": 160701,
+        "title": {
+          "romaji": "Kokuhaku......"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160701-UuWLpshlhjVG.jpg"
+        },
+        "genres": [
+          "Hentai"
+        ]
+      }
+    },
+    {
+      "airingAt": 1787842800,
+      "media": {
+        "id": 212574,
+        "title": {
+          "romaji": "Pure x Holic: Junketsu Otome to Kon’in Kankei!? The Animation"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212574-bZsmA6hliehM.png"
+        },
+        "genres": [
+          "Fantasy",
+          "Hentai"
+        ]
+      }
+    },
+    {
+      "airingAt": 1787842800,
+      "media": {
+        "id": 212574,
+        "title": {
+          "romaji": "Pure x Holic: Junketsu Otome to Kon’in Kankei!? The Animation"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212574-bZsmA6hliehM.png"
+        },
+        "genres": [
+          "Fantasy",
+          "Hentai"
+        ]
+      }
+    },
+    {
+      "airingAt": 1787842800,
+      "media": {
+        "id": 208044,
+        "title": {
+          "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208044-Pm2UhvApQFUh.jpg"
         },
         "genres": [
           "Action",
           "Adventure",
-          "Comedy",
           "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1787756160,
+      "airingAt": 1787842800,
       "media": {
-        "id": 205772,
+        "id": 213733,
         "title": {
-          "romaji": "Candy Caries"
+          "romaji": "Kanojo Saimin"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213733-cZ0bFNkypDtV.png"
         },
         "genres": [
-          "Comedy"
+          "Hentai"
         ]
       }
     }
