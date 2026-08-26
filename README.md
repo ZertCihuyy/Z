@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.28.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.39.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Raised by Demons Panda Li S01E07 1080p iQ WEB-DL AAC2.0 ...` | **350.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/632335) • [🐱 Nyaa](https://nekobt.to/torrents/13316727422479) |
+| `[ToonsHub] To Be Winner S01E06 1080p BSITE WEB-DL AAC2.0 H.264 (Mul...` | **322.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632336) • [🐱 Nyaa](https://nekobt.to/torrents/13316714429447) |
+| `[derpie] MARRIAGETOXIN - S01 (Season 1) (WEB 1080p HEVC E-AC-3) [Du...` | **20185.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/632332) • [🐱 Nyaa](https://nyaa.si/view/2151548) |
+| `[Itsuki Gang] The Quintessential Quintuplets - S02E07 (BD 1080p HEV...` | **1520.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/632333) • [🐱 Nyaa](https://nyaa.si/view/2151547) |
+| `[Itsuki Gang] The Quintessential Quintuplets - S02E06 (BD 1080p HEV...` | **1345.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/632334) • [🐱 Nyaa](https://nyaa.si/view/2151546) |
+| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [06] [遊☆戯☆王]` | **1640.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632329) • [🐱 Nyaa](https://nyaa.si/view/2151540) |
+| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [05] [遊☆戯☆王]` | **1557.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632330) • [🐱 Nyaa](https://nyaa.si/view/2151539) |
+| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [04] [遊☆戯☆王]` | **1643.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632326) • [🐱 Nyaa](https://nyaa.si/view/2151538) |
+| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [03] [遊☆戯☆王]` | **1839.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632331) • [🐱 Nyaa](https://nyaa.si/view/2151537) |
+| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [02] [遊☆戯☆王]` | **1632.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/632327) • [🐱 Nyaa](https://nyaa.si/view/2151536) |
+| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [01] [遊☆戯☆王]` | **1637.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/632328) • [🐱 Nyaa](https://nyaa.si/view/2151535) |
+| `[Fuchs] Mushoku Tensei - S03E04 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1797.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/632325) • [🐱 Nyaa](https://nyaa.si/view/2151525) |
+| `[Fuchs] Mushoku Tensei - S03E05 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1805.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/632324) • [🐱 Nyaa](https://nyaa.si/view/2151526) |
 | `[Piyoko] Onegai AiPri - 21 [WEB AMZN 1080p h264 AC3 2.0]` | **1267.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/632323) • [🐱 Nyaa](https://nyaa.si/view/2151512) |
 | `[Anicoder] Witch Hat Atelier - S01E03 - The Dadah Range Test (BDRip...` | **3435.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/632322) • [🐱 Nyaa](https://nyaa.si/view/2151511) |
-| `[ASW] Bleach - Sennen Kessen Hen - 44 [1080p HEVC x265 10Bit][AAC]` | **533.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/632317) • [🐱 Nyaa](https://nyaa.si/view/2151510) |
-| `[Headpatter] Gurazeni: Money Pitch Season 2 (CR WEB-DL 1080p x264 AAC)` | **16373.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/632318) • [🐱 Nyaa](https://nyaa.si/view/2151509) |
-| `[Headpatter] Gurazeni: Money Pitch Season 1 (CR WEB-DL 1080p x264 AAC)` | **16387.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/632319) • [🐱 Nyaa](https://nyaa.si/view/2151508) |
-| `[Headpatter] Ace of the Diamond Season 3 (CR WEB-DL 1080p x264 AAC)...` | **74672.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/632320) • [🐱 Nyaa](https://nyaa.si/view/2151507) |
-| `[ASW] Bleach - Sennen Kessen Hen - 42 [1080p HEVC x265 10Bit][AAC]` | **553.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/632316) • [🐱 Nyaa](https://nyaa.si/view/2151503) |
-| `[ASW] Bleach - Sennen Kessen Hen - 43 [1080p HEVC x265 10Bit][AAC]` | **486.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/632314) • [🐱 Nyaa](https://nyaa.si/view/2151500) |
-| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E08 [WEB.1080p.AV1] | R...` | **205.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/632315) • [🐱 Nyaa](https://nyaa.si/view/2151499) |
-| `[ASW] Bleach - Sennen Kessen Hen - 41 [1080p HEVC x265 10Bit][AAC]` | **559.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632313) • [🐱 Nyaa](https://nyaa.si/view/2151494) |
-| `[ASW] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 07 [1080p HEV...` | **273.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/632312) • [🐱 Nyaa](https://nyaa.si/view/2151492) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 08 [1080p CR WEBRip HEVC ...` | **413.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632310) • [🐱 Nyaa](https://nyaa.si/view/2151491) |
-| `[Erai-raws] Tefuda ga Oome no Victoria - 08 [1080p CR WEBRip HEVC A...` | **410.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632311) • [🐱 Nyaa](https://nyaa.si/view/2151490) |
-| `[SubsNoJutsu] Wistoria - Wand and Sword - S01E07 (1080p BD AAC x265...` | **545.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/632309) • [🐱 Nyaa](https://nekobt.to/torrents/13311159743497) |
-| `[Ironclad] THE GHOST IN THE SHELL - S01E08 [WEB.1080p.AV1] | THE GH...` | **806.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/632307) • [🐱 Nyaa](https://nyaa.si/view/2151479) |
 
 ---
 <div align="center">
