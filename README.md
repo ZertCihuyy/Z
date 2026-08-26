@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.54.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.50.21_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Gintama Yoshiwara in Flames (2026) 1080p NF WEB-DL DUAL ...` | **5570.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632482) • [🐱 Nyaa](https://nyaa.si/view/2151778) |
-| `[AnoZu] Trapped in a Dating Sim: The World of Otome Games Is Tough ...` | **1436.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632472) • [🐱 Nyaa](https://nyaa.si/view/2151777) |
-| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1423.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632473) • [🐱 Nyaa](https://nyaa.si/view/2151776) |
-| `Trapped in a Dating Sim The World of Otome Games is Tough for Mobs ...` | **1391.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/632474) • [🐱 Nyaa](https://nyaa.si/view/2151775) |
-| `[Yameii] Trapped in a Dating Sim: The World of Otome Games is Tough...` | **1385.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/632475) • [🐱 Nyaa](https://nyaa.si/view/2151774) |
-| `[ToonsHub] Trapped in a Dating Sim The World of Otome Games is Toug...` | **1388.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632477) • [🐱 Nyaa](https://nekobt.to/torrents/13329627117835) |
-| `Trapped in a Dating Sim The World of Otome Games Is Tough for Mobs ...` | **1384.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632480) • [🐱 Nyaa](https://nekobt.to/torrents/13329624617474) |
-| `[ToonsHub] Trapped in a Dating Sim The World of Otome Games is Toug...` | **1422.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632478) • [🐱 Nyaa](https://nyaa.si/view/2151771) |
-| `[AnoZu] Trapped in a Dating Sim: The World of Otome Games Is Tough ...` | **1391.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632479) • [🐱 Nyaa](https://nyaa.si/view/2151768) |
-| `[SubsPlease] Otome Game Sekai wa Mob ni Kibishii Sekai desu S2 - 08...` | **1380.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/632465) • [🐱 Nyaa](https://nyaa.si/view/2151767) |
-| `[ToonsHub] Trapped in a Dating Sim The World of Otome Games Is Toug...` | **313.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/632470) • [🐱 Nyaa](https://nyaa.si/view/2151761) |
-| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 08 [108...` | **1388.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/632471) • [🐱 Nyaa](https://nyaa.si/view/2151759) |
-| `[Ironclad] Clevatess - S02E08 (WEB 1080p AV1) | Clevatess II (Multi...` | **612.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/632460) • [🐱 Nyaa](https://nekobt.to/torrents/13329499128333) |
-| `[Hentai] Ushiro no Shoumen Kamui-san - 03 [WEB 1080p DDP 2.0. H 264...` | **586.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/632464) • [🐱 Nyaa](https://nyaa.si/view/2151754) |
-| `[VARYG] From Old Country Bumpkin to Master Swordsman S02E08 The Old...` | **920.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632461) • [🐱 Nyaa](https://nekobt.to/torrents/13329483735557) |
+| `[ToonsHub] Kirio Fan Club S01E12 1080p HIDIVE WEB-DL DUAL AAC2.0 H....` | **898.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632518) • [🐱 Nyaa](https://nyaa.si/view/2151845) |
+| `Kirio Fan Club S01E11 It Was All a Lie 1080p AMZN WEB-DL DUAL DDP2....` | **589.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/632519) • [🐱 Nyaa](https://nyaa.si/view/2151844) |
+| `[ToonsHub] Thunder 3 S01E08 1080p NF WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1142.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/632520) • [🐱 Nyaa](https://nyaa.si/view/2151843) |
+| `[VARYG] Thunder 3 S01E08 THE STRANGERS 1080p NF WEB-DL DUAL AAC2.0 ...` | **855.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/632512) • [🐱 Nyaa](https://nekobt.to/torrents/13330602387210) |
+| `[VARYG] Thunder 3 S01E08 THE STRANGERS 1080p NF WEB-DL MULTi AAC2.0...` | **1142.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/632513) • [🐱 Nyaa](https://nekobt.to/torrents/13330580646153) |
+| `Hana Kimi S02E07 Because I Want to Stay By Your Side Forever 1080p ...` | **1558.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/632514) • [🐱 Nyaa](https://nyaa.si/view/2151840) |
+| `[ToonsHub] Thunder 3 S01E08 1080p NF WEB-DL DUAL AAC2.0 H.264 (Dual...` | **855.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/632515) • [🐱 Nyaa](https://nekobt.to/torrents/13330523670793) |
+| `Yowayowa Sensei S01E09 A Weak and Wimpy Fireworks Display 1080p AMZ...` | **662.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632511) • [🐱 Nyaa](https://nyaa.si/view/2151835) |
+| `[AnoZu] Hana-Kimi 2026 S02E08 1080p CR WEB-DL Dual-Audio DDP 2.0 H....` | **1472.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632510) • [🐱 Nyaa](https://nyaa.si/view/2151834) |
+| `[ASW] Otome Game Sekai wa Mob ni Kibishii Sekai desu S2 - 08 [1080p...` | **297.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632505) • [🐱 Nyaa](https://nyaa.si/view/2151826) |
+| `[ToonsHub] Hana-Kimi S02E07 1080p CR WEB-DL MULTi AAC2.0 H.264 (Han...` | **1581.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632506) • [🐱 Nyaa](https://nyaa.si/view/2151825) |
+| `Hana Kimi S02E08 Teachers Boyfriend 1080p CR WEB-DL DUAL AAC2.0 H.2...` | **1461.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/632507) • [🐱 Nyaa](https://nyaa.si/view/2151824) |
+| `Hana Kimi S02E10 Did You Do It 1080p CR WEB-DL AAC2.0 H.264-VARYG (...` | **1425.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/632508) • [🐱 Nyaa](https://nyaa.si/view/2151823) |
+| `[AnoZu] The Villager of Level 999 2026 S01E10 1080p CR WEB-DL AAC 2...` | **1421.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/632509) • [🐱 Nyaa](https://nyaa.si/view/2151822) |
+| `The Villager of Level 999 S01E10 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **1418.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/632498) • [🐱 Nyaa](https://nyaa.si/view/2151821) |
 
 ---
 <div align="center">
