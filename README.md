@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-20.01.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.04.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Clevatess - S02E08 [1080p WEBRip AV1]` | **225.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/632385) • [🐱 Nyaa](https://nekobt.to/torrents/13327109657859) |
-| `[OldT] No. 7 West Mars Street S01 (ViKi WEB-DL 1080p H.264 AAC) | H...` | **2731.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/632384) • [🐱 Nyaa](https://nyaa.si/view/2151647) |
-| `[VARYG] Clevatess S02E08 Memories of a Friend 1080p CR WEB-DL DUAL ...` | **1440.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/632376) • [🐱 Nyaa](https://nekobt.to/torrents/13326555190790) |
-| `[ToonsHub] Clevatess S02E08 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1667.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632377) • [🐱 Nyaa](https://nekobt.to/torrents/13326545692933) |
-| `Clevatess S02E07 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **1449.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/632379) • [🐱 Nyaa](https://nekobt.to/torrents/13326465599498) |
-| `[ToonsHub] Clevatess S02E08 1080p CR WEB-DL DUAL AAC2.0 H.264 (Clev...` | **1421.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632375) • [🐱 Nyaa](https://nyaa.si/view/2151641) |
-| `[AnoZu] Clevatess S02E08 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264 |...` | **1451.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/632371) • [🐱 Nyaa](https://nyaa.si/view/2151640) |
-| `Clevatess S02E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1384.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/632382) • [🐱 Nyaa](https://nekobt.to/torrents/13326404683015) |
-| `[Yameii] Clevatess - S02E08 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1385.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/632372) • [🐱 Nyaa](https://nyaa.si/view/2151637) |
-| `[SubsPlease] Clevatess S2 - 08 (1080p) [45750BA9].mkv` | **1380.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/632373) • [🐱 Nyaa](https://nyaa.si/view/2151634) |
-| `[ToonsHub] Clevatess S02E08 1080p BILI WEB-DL AAC2.0 H.265 (Clevate...` | **404.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/632366) • [🐱 Nyaa](https://nyaa.si/view/2151628) |
-| `[Erai-raws] Clevatess II - 08 [1080p CR WEB-DL AVC AAC][MultiSub][8...` | **1388.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/632367) • [🐱 Nyaa](https://nyaa.si/view/2151627) |
-| `[LbE3L] Hanaori-san Still Wants to Fight in the Next Life S01E01–E0...` | **1376.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/632369) • [🐱 Nyaa](https://nekobt.to/torrents/13326324143617) |
-| `[LbE3L] Witch Hat Atelier S01E03 (Mandarin Dub, Taiwan) [1080p CTS ...` | **305.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632370) • [🐱 Nyaa](https://nekobt.to/torrents/13326233934601) |
-| `[FrixySubs] Oh Boy Was I Wrong About Her - S01E08 [1080p CR WEB-DL ...` | **1392.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/632362) • [🐱 Nyaa](https://nekobt.to/torrents/13326153744902) |
+| `[Erai-raws] Re:Zero kara Hajimeru Isekai Seikatsu S04E14 [1080p CR ...` | **1386.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632408) • [🐱 Nyaa](https://nekobt.to/torrents/13328195516930) |
+| `[ToonsHub] ReZERO Starting Life in Another World S04E14 1080p BILI ...` | **314.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/632409) • [🐱 Nyaa](https://nekobt.to/torrents/13328190440961) |
+| `[ToonsHub] Saga of Tanya the Evil S02E08 1080p AMZN WEB-DL DDP2.0 H...` | **722.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632410) • [🐱 Nyaa](https://nekobt.to/torrents/13328138183680) |
+| `[Nanju] Wind Breaker S02 1080p Bstation WEB-DL DUAL AAC H.264 (Wind...` | **4763.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/632411) • [🐱 Nyaa](https://nekobt.to/torrents/13328042700555) |
+| `[Judas] Majuu no Ou to Akago to Shikabane no Yuusha (Clevatess) - S...` | **578.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/632406) • [🐱 Nyaa](https://nyaa.si/view/2151691) |
+| `[FrixySubs] Mushoku Tensei - S03E08v2 [1080p CR WEB-DL H.264 AAC] [...` | **1638.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632405) • [🐱 Nyaa](https://nekobt.to/torrents/13327844376329) |
+| `Saga of Tanya the Evil S02E08 Torpedo Strike 1080p CR WEB-DL AAC2.0...` | **1392.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/632403) • [🐱 Nyaa](https://nyaa.si/view/2151689) |
+| `[ToonsHub] Saga of Tanya the Evil S02E08 1080p CR WEB-DL AAC2.0 H.2...` | **1390.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/632398) • [🐱 Nyaa](https://nekobt.to/torrents/13327794888207) |
+| `Saga of Tanya the Evil S02E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1386.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/632399) • [🐱 Nyaa](https://nekobt.to/torrents/13327789489162) |
+| `[AnoZu] Saga of Tanya the Evil S02E08 1080p CR WEB-DL AAC 2.0 H.264` | **1395.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632401) • [🐱 Nyaa](https://nekobt.to/torrents/13327780397837) |
+| `[SubsPlease] Youjo Senki S2 - 08 (1080p) [A4229BCA].mkv` | **1381.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632393) • [🐱 Nyaa](https://nyaa.si/view/2151684) |
+| `[Erai-raws] Youjo Senki II - 08 [1080p CR WEB-DL AVC AAC][MultiSub]...` | **1389.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/632397) • [🐱 Nyaa](https://nyaa.si/view/2151677) |
+| `[FrixySubs] Mushoku Tensei - S03E09 [1080p CR WEB-DL H.264 AAC] [Na...` | **1618.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632392) • [🐱 Nyaa](https://nekobt.to/torrents/13327660139273) |
+| `[ToonsHub] Perfect Addiction S01E08 1080p AMZN WEB-DL DDP2.0 H.264 ...` | **187.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632391) • [🐱 Nyaa](https://nyaa.si/view/2151674) |
+| `[geckyzz] Perfect Addiction - S01E08 (パーフェクトアディクション) [YTB.WEB-DL 10...` | **51.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/632390) • [🐱 Nyaa](https://nyaa.si/view/2151670) |
 
 ---
 <div align="center">
