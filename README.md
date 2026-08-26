@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.56.05_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.48.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E20 108...` | **246.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/632349) • [🐱 Nyaa](https://nyaa.si/view/2151580) |
 | `Farming Life in Another World S01 1080p HEVC 10bit BluRay Hindi Mul...` | **3570.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632348) • [🐱 Nyaa](https://animetosho.xyz/view/632348) |
 | `Farming Life in Another World S02 1080p HEVC 10bit WEB DL Hindi Mul...` | **3851.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632347) • [🐱 Nyaa](https://animetosho.xyz/view/632347) |
 | `[Queen Medusa] A Will Eternal S04 E08 (173) [1080p AAC 2.0] (Yi Nia...` | **373.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/632346) • [🐱 Nyaa](https://nyaa.si/view/2151578) |
@@ -47,7 +48,6 @@
 | `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E09 (1080p WE...` | **530.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/632337) • [🐱 Nyaa](https://nekobt.to/torrents/13316845785352) |
 | `[ToonsHub] Raised by Demons Panda Li S01E07 1080p iQ WEB-DL AAC2.0 ...` | **350.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/632335) • [🐱 Nyaa](https://nekobt.to/torrents/13316727422479) |
 | `[ToonsHub] To Be Winner S01E06 1080p BSITE WEB-DL AAC2.0 H.264 (Mul...` | **322.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632336) • [🐱 Nyaa](https://nekobt.to/torrents/13316714429447) |
-| `[derpie] MARRIAGETOXIN - S01 (Season 1) (WEB 1080p HEVC E-AC-3) [Du...` | **20185.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/632332) • [🐱 Nyaa](https://nyaa.si/view/2151548) |
 
 ---
 <div align="center">
