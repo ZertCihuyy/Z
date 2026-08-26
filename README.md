@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.48.04_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.38.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Umayuru S01 1080p AMZN WEB-DL DDP2.0 H.264 (Multi-Subs) ...` | **2187.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/632352) • [🐱 Nyaa](https://nyaa.si/view/2151586) |
+| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 08 (1080p) [4MURR1K4]` | **1119.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/632350) • [🐱 Nyaa](https://nyaa.si/view/2151584) |
 | `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E20 108...` | **246.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/632349) • [🐱 Nyaa](https://nyaa.si/view/2151580) |
 | `Farming Life in Another World S01 1080p HEVC 10bit BluRay Hindi Mul...` | **3570.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632348) • [🐱 Nyaa](https://animetosho.xyz/view/632348) |
 | `Farming Life in Another World S02 1080p HEVC 10bit WEB DL Hindi Mul...` | **3851.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632347) • [🐱 Nyaa](https://animetosho.xyz/view/632347) |
@@ -46,8 +48,6 @@
 | `[Gecko] Fabulous Beasts - S06E05 (有兽焉; You Shou Yan 6th Season) [BI...` | **137.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/632338) • [🐱 Nyaa](https://nyaa.si/view/2151553) |
 | `[ToonsHub] The Eternal Supreme Li Yunxiao S01E13 1080p BILI WEB-DL ...` | **291.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/632339) • [🐱 Nyaa](https://nyaa.si/view/2151552) |
 | `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E09 (1080p WE...` | **530.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/632337) • [🐱 Nyaa](https://nekobt.to/torrents/13316845785352) |
-| `[ToonsHub] Raised by Demons Panda Li S01E07 1080p iQ WEB-DL AAC2.0 ...` | **350.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/632335) • [🐱 Nyaa](https://nekobt.to/torrents/13316727422479) |
-| `[ToonsHub] To Be Winner S01E06 1080p BSITE WEB-DL AAC2.0 H.264 (Mul...` | **322.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632336) • [🐱 Nyaa](https://nekobt.to/torrents/13316714429447) |
 
 ---
 <div align="center">
