@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.52.19_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.56.05_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Farming Life in Another World S01 1080p HEVC 10bit BluRay Hindi Mul...` | **3570.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632348) • [🐱 Nyaa](https://animetosho.xyz/view/632348) |
+| `Farming Life in Another World S02 1080p HEVC 10bit WEB DL Hindi Mul...` | **3851.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632347) • [🐱 Nyaa](https://animetosho.xyz/view/632347) |
+| `[Queen Medusa] A Will Eternal S04 E08 (173) [1080p AAC 2.0] (Yi Nia...` | **373.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/632346) • [🐱 Nyaa](https://nyaa.si/view/2151578) |
+| `[Queen Medusa] A Will Eternal S04 E07 (172) [1080p AAC 2.0] (Yi Nia...` | **378.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/632345) • [🐱 Nyaa](https://nyaa.si/view/2151574) |
 | `[ToonsHub] Summer Pockets S00E04 The Girl Who Forgot Summer Vacatio...` | **4939.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632343) • [🐱 Nyaa](https://nekobt.to/torrents/13317742358029) |
 | `[ToonsHub] Summer Pockets S00E03 Dawn Memories 1080p CR WEB-DL DDP2...` | **5190.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/632344) • [🐱 Nyaa](https://nekobt.to/torrents/13317738563845) |
 | `[ToonsHub] Summer Pockets S00E02 A Lifetime's Worth of Summer Break...` | **5092.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/632341) • [🐱 Nyaa](https://nekobt.to/torrents/13317587552260) |
@@ -44,10 +48,6 @@
 | `[ToonsHub] Raised by Demons Panda Li S01E07 1080p iQ WEB-DL AAC2.0 ...` | **350.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/632335) • [🐱 Nyaa](https://nekobt.to/torrents/13316727422479) |
 | `[ToonsHub] To Be Winner S01E06 1080p BSITE WEB-DL AAC2.0 H.264 (Mul...` | **322.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632336) • [🐱 Nyaa](https://nekobt.to/torrents/13316714429447) |
 | `[derpie] MARRIAGETOXIN - S01 (Season 1) (WEB 1080p HEVC E-AC-3) [Du...` | **20185.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/632332) • [🐱 Nyaa](https://nyaa.si/view/2151548) |
-| `[Itsuki Gang] The Quintessential Quintuplets - S02E07 (BD 1080p HEV...` | **1520.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/632333) • [🐱 Nyaa](https://nyaa.si/view/2151547) |
-| `[Itsuki Gang] The Quintessential Quintuplets - S02E06 (BD 1080p HEV...` | **1345.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/632334) • [🐱 Nyaa](https://nyaa.si/view/2151546) |
-| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [06] [遊☆戯☆王]` | **1640.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632329) • [🐱 Nyaa](https://nyaa.si/view/2151540) |
-| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [05] [遊☆戯☆王]` | **1557.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632330) • [🐱 Nyaa](https://nyaa.si/view/2151539) |
 
 ---
 <div align="center">
