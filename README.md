@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.49.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.01.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[FrixySubs] Futsutsuka na Akujo de wa Gozaimasu ga - S01E06 [1080p ...` | **1396.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632361) • [🐱 Nyaa](https://nekobt.to/torrents/13325825941774) |
-| `[Gecko] Cat Tales - S01E46 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **43.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/632359) • [🐱 Nyaa](https://nekobt.to/torrents/13325520417549) |
-| `[FuyuPOP-Tennousu] Otome Hime - S01E01 [BD-Uncensored] (1080p x265 ...` | **717.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/632358) • [🐱 Nyaa](https://animetosho.xyz/view/632358) |
-| `[denisplay] Kuroneko to Majo no Kyoushitsu - 20 [1080p] [AV1] (Week...` | **458.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/632355) • [🐱 Nyaa](https://nyaa.si/view/2151607) |
-| `[Kotobuki] Koukaku Kidoutai (2026) 08 [1080p HEVC Multisub] | The G...` | **289.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632353) • [🐱 Nyaa](https://nyaa.si/view/2151591) |
-| `[ToonsHub] Umayuru S01 1080p AMZN WEB-DL DDP2.0 H.264 (Multi-Subs) ...` | **2187.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/632352) • [🐱 Nyaa](https://nyaa.si/view/2151586) |
-| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 08 (1080p) [4MURR1K4]` | **1119.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/632350) • [🐱 Nyaa](https://nyaa.si/view/2151584) |
-| `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E20 108...` | **246.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/632349) • [🐱 Nyaa](https://nyaa.si/view/2151580) |
-| `Farming Life in Another World S01 1080p HEVC 10bit BluRay Hindi Mul...` | **3570.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/632348) • [🐱 Nyaa](https://animetosho.xyz/view/632348) |
-| `Farming Life in Another World S02 1080p HEVC 10bit WEB DL Hindi Mul...` | **3851.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632347) • [🐱 Nyaa](https://animetosho.xyz/view/632347) |
-| `[Queen Medusa] A Will Eternal S04 E08 (173) [1080p AAC 2.0] (Yi Nia...` | **373.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/632346) • [🐱 Nyaa](https://nyaa.si/view/2151578) |
-| `[Queen Medusa] A Will Eternal S04 E07 (172) [1080p AAC 2.0] (Yi Nia...` | **378.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/632345) • [🐱 Nyaa](https://nyaa.si/view/2151574) |
-| `[ToonsHub] Summer Pockets S00E04 The Girl Who Forgot Summer Vacatio...` | **4939.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632343) • [🐱 Nyaa](https://nekobt.to/torrents/13317742358029) |
-| `[ToonsHub] Summer Pockets S00E03 Dawn Memories 1080p CR WEB-DL DDP2...` | **5190.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/632344) • [🐱 Nyaa](https://nekobt.to/torrents/13317738563845) |
-| `[ToonsHub] Summer Pockets S00E02 A Lifetime's Worth of Summer Break...` | **5092.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/632341) • [🐱 Nyaa](https://nekobt.to/torrents/13317587552260) |
+| `[Onalrie] Clevatess - S02E08 [1080p WEBRip AV1]` | **225.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/632385) • [🐱 Nyaa](https://nekobt.to/torrents/13327109657859) |
+| `[OldT] No. 7 West Mars Street S01 (ViKi WEB-DL 1080p H.264 AAC) | H...` | **2731.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/632384) • [🐱 Nyaa](https://nyaa.si/view/2151647) |
+| `[VARYG] Clevatess S02E08 Memories of a Friend 1080p CR WEB-DL DUAL ...` | **1440.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/632376) • [🐱 Nyaa](https://nekobt.to/torrents/13326555190790) |
+| `[ToonsHub] Clevatess S02E08 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mul...` | **1667.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632377) • [🐱 Nyaa](https://nekobt.to/torrents/13326545692933) |
+| `Clevatess S02E07 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws...` | **1449.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/632379) • [🐱 Nyaa](https://nekobt.to/torrents/13326465599498) |
+| `[ToonsHub] Clevatess S02E08 1080p CR WEB-DL DUAL AAC2.0 H.264 (Clev...` | **1421.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632375) • [🐱 Nyaa](https://nyaa.si/view/2151641) |
+| `[AnoZu] Clevatess S02E08 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264 |...` | **1451.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/632371) • [🐱 Nyaa](https://nyaa.si/view/2151640) |
+| `Clevatess S02E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **1384.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/632382) • [🐱 Nyaa](https://nekobt.to/torrents/13326404683015) |
+| `[Yameii] Clevatess - S02E08 [English Dub] [CR WEB-DL 1080p H264 AAC...` | **1385.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/632372) • [🐱 Nyaa](https://nyaa.si/view/2151637) |
+| `[SubsPlease] Clevatess S2 - 08 (1080p) [45750BA9].mkv` | **1380.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/632373) • [🐱 Nyaa](https://nyaa.si/view/2151634) |
+| `[ToonsHub] Clevatess S02E08 1080p BILI WEB-DL AAC2.0 H.265 (Clevate...` | **404.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/632366) • [🐱 Nyaa](https://nyaa.si/view/2151628) |
+| `[Erai-raws] Clevatess II - 08 [1080p CR WEB-DL AVC AAC][MultiSub][8...` | **1388.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/632367) • [🐱 Nyaa](https://nyaa.si/view/2151627) |
+| `[LbE3L] Hanaori-san Still Wants to Fight in the Next Life S01E01–E0...` | **1376.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/632369) • [🐱 Nyaa](https://nekobt.to/torrents/13326324143617) |
+| `[LbE3L] Witch Hat Atelier S01E03 (Mandarin Dub, Taiwan) [1080p CTS ...` | **305.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/632370) • [🐱 Nyaa](https://nekobt.to/torrents/13326233934601) |
+| `[FrixySubs] Oh Boy Was I Wrong About Her - S01E08 [1080p CR WEB-DL ...` | **1392.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/632362) • [🐱 Nyaa](https://nekobt.to/torrents/13326153744902) |
 
 ---
 <div align="center">
