@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.09.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.03.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[denisplay] Kuroneko to Majo no Kyoushitsu - 20 [1080p] [AV1] (Week...` | **458.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/632355) • [🐱 Nyaa](https://nyaa.si/view/2151607) |
 | `[Kotobuki] Koukaku Kidoutai (2026) 08 [1080p HEVC Multisub] | The G...` | **289.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632353) • [🐱 Nyaa](https://nyaa.si/view/2151591) |
 | `[ToonsHub] Umayuru S01 1080p AMZN WEB-DL DDP2.0 H.264 (Multi-Subs) ...` | **2187.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/632352) • [🐱 Nyaa](https://nyaa.si/view/2151586) |
 | `[Blazing] Honoo no Toukyuujo - Dodge Danko - 08 (1080p) [4MURR1K4]` | **1119.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/632350) • [🐱 Nyaa](https://nyaa.si/view/2151584) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] Summer Pockets S00E01 Across the Seven Seas 1080p CR WEB...` | **5103.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/632342) • [🐱 Nyaa](https://nekobt.to/torrents/13317576101641) |
 | `[ToonsHub] Fabulous Beasts S06E05 1080p BILI WEB-DL AAC2.0 H.265 (Y...` | **133.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/632340) • [🐱 Nyaa](https://nyaa.si/view/2151558) |
 | `[Gecko] Fabulous Beasts - S06E05 (有兽焉; You Shou Yan 6th Season) [BI...` | **137.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/632338) • [🐱 Nyaa](https://nyaa.si/view/2151553) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E13 1080p BILI WEB-DL ...` | **291.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/632339) • [🐱 Nyaa](https://nyaa.si/view/2151552) |
 
 ---
 <div align="center">
