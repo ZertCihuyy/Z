@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.39.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.52.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Summer Pockets S00E04 The Girl Who Forgot Summer Vacatio...` | **4939.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632343) • [🐱 Nyaa](https://nekobt.to/torrents/13317742358029) |
+| `[ToonsHub] Summer Pockets S00E03 Dawn Memories 1080p CR WEB-DL DDP2...` | **5190.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/632344) • [🐱 Nyaa](https://nekobt.to/torrents/13317738563845) |
+| `[ToonsHub] Summer Pockets S00E02 A Lifetime's Worth of Summer Break...` | **5092.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/632341) • [🐱 Nyaa](https://nekobt.to/torrents/13317587552260) |
+| `[ToonsHub] Summer Pockets S00E01 Across the Seven Seas 1080p CR WEB...` | **5103.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/632342) • [🐱 Nyaa](https://nekobt.to/torrents/13317576101641) |
+| `[ToonsHub] Fabulous Beasts S06E05 1080p BILI WEB-DL AAC2.0 H.265 (Y...` | **133.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/632340) • [🐱 Nyaa](https://nyaa.si/view/2151558) |
+| `[Gecko] Fabulous Beasts - S06E05 (有兽焉; You Shou Yan 6th Season) [BI...` | **137.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/632338) • [🐱 Nyaa](https://nyaa.si/view/2151553) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E13 1080p BILI WEB-DL ...` | **291.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/632339) • [🐱 Nyaa](https://nyaa.si/view/2151552) |
+| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E09 (1080p WE...` | **530.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/632337) • [🐱 Nyaa](https://nekobt.to/torrents/13316845785352) |
 | `[ToonsHub] Raised by Demons Panda Li S01E07 1080p iQ WEB-DL AAC2.0 ...` | **350.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/632335) • [🐱 Nyaa](https://nekobt.to/torrents/13316727422479) |
 | `[ToonsHub] To Be Winner S01E06 1080p BSITE WEB-DL AAC2.0 H.264 (Mul...` | **322.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632336) • [🐱 Nyaa](https://nekobt.to/torrents/13316714429447) |
 | `[derpie] MARRIAGETOXIN - S01 (Season 1) (WEB 1080p HEVC E-AC-3) [Du...` | **20185.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/632332) • [🐱 Nyaa](https://nyaa.si/view/2151548) |
@@ -40,14 +48,6 @@
 | `[Itsuki Gang] The Quintessential Quintuplets - S02E06 (BD 1080p HEV...` | **1345.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/632334) • [🐱 Nyaa](https://nyaa.si/view/2151546) |
 | `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [06] [遊☆戯☆王]` | **1640.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/632329) • [🐱 Nyaa](https://nyaa.si/view/2151540) |
 | `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [05] [遊☆戯☆王]` | **1557.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/632330) • [🐱 Nyaa](https://nyaa.si/view/2151539) |
-| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [04] [遊☆戯☆王]` | **1643.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/632326) • [🐱 Nyaa](https://nyaa.si/view/2151538) |
-| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [03] [遊☆戯☆王]` | **1839.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632331) • [🐱 Nyaa](https://nyaa.si/view/2151537) |
-| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [02] [遊☆戯☆王]` | **1632.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/632327) • [🐱 Nyaa](https://nyaa.si/view/2151536) |
-| `Yu☆Gi☆Oh! [Season 0] [1080p] [Neo-Raws] [01] [遊☆戯☆王]` | **1637.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/632328) • [🐱 Nyaa](https://nyaa.si/view/2151535) |
-| `[Fuchs] Mushoku Tensei - S03E04 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1797.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/632325) • [🐱 Nyaa](https://nyaa.si/view/2151525) |
-| `[Fuchs] Mushoku Tensei - S03E05 (CR WEB-DL Majin 1080p x264 AAC 2.0...` | **1805.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/632324) • [🐱 Nyaa](https://nyaa.si/view/2151526) |
-| `[Piyoko] Onegai AiPri - 21 [WEB AMZN 1080p h264 AC3 2.0]` | **1267.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/632323) • [🐱 Nyaa](https://nyaa.si/view/2151512) |
-| `[Anicoder] Witch Hat Atelier - S01E03 - The Dadah Range Test (BDRip...` | **3435.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/632322) • [🐱 Nyaa](https://nyaa.si/view/2151511) |
 
 ---
 <div align="center">
