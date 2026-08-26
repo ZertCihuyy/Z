@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.14.42_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.49.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,7 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[FrixySubs] Futsutsuka na Akujo de wa Gozaimasu ga - S01E06 [1080p ...` | **1396.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632361) • [🐱 Nyaa](https://nekobt.to/torrents/13325825941774) |
 | `[Gecko] Cat Tales - S01E46 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **43.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/632359) • [🐱 Nyaa](https://nekobt.to/torrents/13325520417549) |
 | `[FuyuPOP-Tennousu] Otome Hime - S01E01 [BD-Uncensored] (1080p x265 ...` | **717.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/632358) • [🐱 Nyaa](https://animetosho.xyz/view/632358) |
 | `[denisplay] Kuroneko to Majo no Kyoushitsu - 20 [1080p] [AV1] (Week...` | **458.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/632355) • [🐱 Nyaa](https://nyaa.si/view/2151607) |
@@ -47,7 +48,6 @@
 | `[ToonsHub] Summer Pockets S00E04 The Girl Who Forgot Summer Vacatio...` | **4939.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632343) • [🐱 Nyaa](https://nekobt.to/torrents/13317742358029) |
 | `[ToonsHub] Summer Pockets S00E03 Dawn Memories 1080p CR WEB-DL DDP2...` | **5190.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/632344) • [🐱 Nyaa](https://nekobt.to/torrents/13317738563845) |
 | `[ToonsHub] Summer Pockets S00E02 A Lifetime's Worth of Summer Break...` | **5092.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/632341) • [🐱 Nyaa](https://nekobt.to/torrents/13317587552260) |
-| `[ToonsHub] Summer Pockets S00E01 Across the Seven Seas 1080p CR WEB...` | **5103.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/632342) • [🐱 Nyaa](https://nekobt.to/torrents/13317576101641) |
 
 ---
 <div align="center">
