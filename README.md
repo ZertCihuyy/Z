@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.11.43_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.21.11_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Reza] THE GHOST IN THE SHELL (2026) - S01E08 [WEBRip HEVC 1080p EA...` | **6210.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/632607) • [🐱 Nyaa](https://nyaa.si/view/2151976) |
-| `[Poopoo] Haikyu S00E05 (WEB 1080p HEVC AC3) | HAIKYU!!: Special Fea...` | **1987.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/632604) • [🐱 Nyaa](https://nyaa.si/view/2151975) |
-| `[Poopoo] Haikyu S00E03 (WEB 1080p HEVC AC3) | HAIKYU!!: VS Failing ...` | **1581.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/632605) • [🐱 Nyaa](https://nyaa.si/view/2151974) |
-| `[Poopoo] Haikyu S00E01 (WEB 1080p HEVC AC3) | HAIKYU!!: Lev Appears...` | **1870.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/632606) • [🐱 Nyaa](https://nyaa.si/view/2151973) |
-| `[ToonsHub] Tomb Raider King S01E08 1080p ABEMA WEB-DL AAC2.0 H.264 ...` | **711.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/632602) • [🐱 Nyaa](https://nekobt.to/torrents/13334888744965) |
-| `[Kylian] I Want to Love You Till Your Dying Day S01E04 VOSTFR WEB 1...` | **1373.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/632600) • [🐱 Nyaa](https://nekobt.to/torrents/13334208677382) |
-| `[DKB] Otome Game Sekai wa Mob ni Kibishii Sekai desu - S02E08 [1080...` | **336.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/632598) • [🐱 Nyaa](https://nyaa.si/view/2151961) |
-| `[DKB] Katainaka no Ossan, Kensei ni Naru - S02E08 [1080p][HEVC x265...` | **330.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/632599) • [🐱 Nyaa](https://nyaa.si/view/2151960) |
-| `[sam] The Ghost in the Shell (2026) - S01E08 (WEB 1080p HEVC x265 1...` | **5014.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632597) • [🐱 Nyaa](https://nekobt.to/torrents/13333809567492) |
-| `[KawaSubs] The Demon King's Daughter is Too Kind - S01E09 [WEB 1080...` | **1421.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/632596) • [🐱 Nyaa](https://nekobt.to/torrents/13333642553347) |
-| `[KawaSubs] The Demon King's Daughter is Too Kind - S01E08 [WEB 1080...` | **1421.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/632595) • [🐱 Nyaa](https://nyaa.si/view/2151941) |
-| `[Judas] LV999 no Murabito (The Villager of Level 999) - S01E10 [108...` | **329.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/632594) • [🐱 Nyaa](https://nyaa.si/view/2151940) |
-| `Thunder 3 S01E08 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-Raws (R...` | **931.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/632593) • [🐱 Nyaa](https://nekobt.to/torrents/13333377057794) |
-| `[GJM] Ascendance of a Bookworm (Honzuki no Gekokujou) - 50 (S04E14)...` | **1099.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/632592) • [🐱 Nyaa](https://nekobt.to/torrents/13333289212173) |
-| `[SubsPlease] Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku...` | **16548.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/632586) • [🐱 Nyaa](https://nyaa.si/view/2151936) |
+| `[FuyuPOP-Tennousu] Fetikano! - S01E01 [BD-Uncensored] (1080p x265 F...` | **756.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/632631) • [🐱 Nyaa](https://animetosho.xyz/view/632631) |
+| `[Erai-raws] Thunder 3 - 08 [1080p NF WEBRip HEVC AAC][MultiSub][F6B...` | **633.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/632630) • [🐱 Nyaa](https://nyaa.si/view/2152009) |
+| `[Anicoder] Witch Hat Atelier - S01 Part A (BD 1080p HEVC Dual-Audio)` | **24510.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/632629) • [🐱 Nyaa](https://nyaa.si/view/2152000) |
+| `[SubVision] Prima Doll 01-12 [PT-BR] (BD 1080p x264 8Bit FLAC)` | **19298.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/632625) • [🐱 Nyaa](https://nekobt.to/torrents/13337916907009) |
+| `[SubVision] Hana wa Saku, Shura no Gotoku 01-12 [PT-BR] (BD 1080p x...` | **7891.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/632626) • [🐱 Nyaa](https://nekobt.to/torrents/13337916382464) |
+| `[SubVision] Enen no Shouboutai Ni no Shou 01-24 [PT-BR] (BD 1080p x...` | **41446.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632627) • [🐱 Nyaa](https://nekobt.to/torrents/13337915911433) |
+| `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E14 (WEB 1080p AAC)` | **1455.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/632628) • [🐱 Nyaa](https://nekobt.to/torrents/13337841301260) |
+| `[Ironclad] Okiraku Ryoushu - S01 [BD.1080p.AV1] | Easygoing Territo...` | **2690.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/632624) • [🐱 Nyaa](https://nyaa.si/view/2151997) |
+| `[Erai-raws] Dogulwang - 08 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **485.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632622) • [🐱 Nyaa](https://nyaa.si/view/2151995) |
+| `[Erai-raws] Dogulwang - 08 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **455.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632623) • [🐱 Nyaa](https://nyaa.si/view/2151994) |
+| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 10 [1080p CR WEB...` | **459.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/632616) • [🐱 Nyaa](https://nyaa.si/view/2151993) |
+| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 10 [10...` | **542.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632617) • [🐱 Nyaa](https://nyaa.si/view/2151992) |
+| `[Erai-raws] Lv999 no Murabito - 10 [1080p CR WEBRip HEVC AAC][Multi...` | **518.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/632618) • [🐱 Nyaa](https://nyaa.si/view/2151991) |
+| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 08 [108...` | **506.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632619) • [🐱 Nyaa](https://nyaa.si/view/2151990) |
+| `[Erai-raws] Clevatess II - 08 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **817.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/632620) • [🐱 Nyaa](https://nyaa.si/view/2151989) |
 
 ---
 <div align="center">
