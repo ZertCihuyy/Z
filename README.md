@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.21.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-21.30.47_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[FuyuPOP-Tennousu] Fetikano! - S01E01 [BD-Uncensored] (1080p x265 F...` | **756.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/632631) • [🐱 Nyaa](https://animetosho.xyz/view/632631) |
-| `[Erai-raws] Thunder 3 - 08 [1080p NF WEBRip HEVC AAC][MultiSub][F6B...` | **633.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/632630) • [🐱 Nyaa](https://nyaa.si/view/2152009) |
-| `[Anicoder] Witch Hat Atelier - S01 Part A (BD 1080p HEVC Dual-Audio)` | **24510.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/632629) • [🐱 Nyaa](https://nyaa.si/view/2152000) |
-| `[SubVision] Prima Doll 01-12 [PT-BR] (BD 1080p x264 8Bit FLAC)` | **19298.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/632625) • [🐱 Nyaa](https://nekobt.to/torrents/13337916907009) |
-| `[SubVision] Hana wa Saku, Shura no Gotoku 01-12 [PT-BR] (BD 1080p x...` | **7891.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/632626) • [🐱 Nyaa](https://nekobt.to/torrents/13337916382464) |
-| `[SubVision] Enen no Shouboutai Ni no Shou 01-24 [PT-BR] (BD 1080p x...` | **41446.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/632627) • [🐱 Nyaa](https://nekobt.to/torrents/13337915911433) |
-| `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E14 (WEB 1080p AAC)` | **1455.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/632628) • [🐱 Nyaa](https://nekobt.to/torrents/13337841301260) |
-| `[Ironclad] Okiraku Ryoushu - S01 [BD.1080p.AV1] | Easygoing Territo...` | **2690.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/632624) • [🐱 Nyaa](https://nyaa.si/view/2151997) |
-| `[Erai-raws] Dogulwang - 08 (JA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **485.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/632622) • [🐱 Nyaa](https://nyaa.si/view/2151995) |
-| `[Erai-raws] Dogulwang - 08 (KA) [1080p CR WEBRip HEVC AAC][MultiSub...` | **455.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632623) • [🐱 Nyaa](https://nyaa.si/view/2151994) |
-| `[Erai-raws] Hanazakari no Kimitachi e 2nd Season - 10 [1080p CR WEB...` | **459.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/632616) • [🐱 Nyaa](https://nyaa.si/view/2151993) |
-| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 10 [10...` | **542.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632617) • [🐱 Nyaa](https://nyaa.si/view/2151992) |
-| `[Erai-raws] Lv999 no Murabito - 10 [1080p CR WEBRip HEVC AAC][Multi...` | **518.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/632618) • [🐱 Nyaa](https://nyaa.si/view/2151991) |
-| `[Erai-raws] Otomege Sekai wa Mob ni Kibishii Sekai Desu 2 - 08 [108...` | **506.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/632619) • [🐱 Nyaa](https://nyaa.si/view/2151990) |
-| `[Erai-raws] Clevatess II - 08 [1080p CR WEBRip HEVC AAC][MultiSub][...` | **817.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/632620) • [🐱 Nyaa](https://nyaa.si/view/2151989) |
+| `[VARYG] BanG Dream YUMEMITA S01E11 That was fun 1080p CR WEB-DL AAC...` | **1386.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/632711) • [🐱 Nyaa](https://nekobt.to/torrents/13350359185935) |
+| `[SubsPlease] BanG Dream! Yumemita - 11 (1080p) [78F97C50].mkv` | **1377.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/632703) • [🐱 Nyaa](https://nyaa.si/view/2152165) |
+| `[AnoZu] BanG Dream! YUME∞MITA S01E11 1080p CR WEB-DL AAC 2.0 H.264` | **1385.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/632704) • [🐱 Nyaa](https://nyaa.si/view/2152164) |
+| `[ToonsHub] BanG Dream YUMEMITA S01E11 1080p CR WEB-DL AAC2.0 H.264 ...` | **1384.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/632705) • [🐱 Nyaa](https://nyaa.si/view/2152163) |
+| `BanG Dream YUME MITA S01E11 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-T...` | **1382.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/632712) • [🐱 Nyaa](https://nekobt.to/torrents/13350320463368) |
+| `[Erai-raws] Bang Dream Yumemita - 11 [1080p CR WEB-DL AVC AAC][Mult...` | **1384.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/632710) • [🐱 Nyaa](https://nyaa.si/view/2152156) |
+| `[Erai-raws] Reiwa no Dara-san - 09 [1080p CR WEBRip HEVC AAC][Multi...` | **537.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/632702) • [🐱 Nyaa](https://nekobt.to/torrents/13350194557447) |
+| `[Onalrie] Reiwa no Dara-san - S01E09 [1080p WEBRip AV1]` | **166.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632700) • [🐱 Nyaa](https://nekobt.to/torrents/13349742432264) |
+| `[ToonsHub] GANSO BanG Dream Chan S01E47 1080p AMZN WEB-DL DDP2.0 H....` | **76.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/632699) • [🐱 Nyaa](https://nyaa.si/view/2152147) |
+| `[ASW] Reiwa no Dara-san - 09 [1080p HEVC x265 10Bit][AAC]` | **222.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/632697) • [🐱 Nyaa](https://nyaa.si/view/2152144) |
+| `[ASW] Bungou Stray Dogs Wan! S2 - 09 [1080p HEVC x265 10Bit][AAC]` | **161.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/632698) • [🐱 Nyaa](https://nyaa.si/view/2152143) |
+| `[Judas] Reiwa no Dara-san (Dara-san of Reiwa) - S01E08 [1080p][HEVC...` | **240.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/632696) • [🐱 Nyaa](https://nyaa.si/view/2152142) |
+| `[Bird] Ganzo! Bandori-chan - 47 (1080p) [8D553DF8]` | **14.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/632695) • [🐱 Nyaa](https://nyaa.si/view/2152141) |
+| `[Onalrie] Bungou Stray Dogs Wan - S02E09 [1080p WEBRip AV1]` | **122.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/632694) • [🐱 Nyaa](https://nekobt.to/torrents/13349371216907) |
+| `[ToonsHub] Bungo Stray Dogs WAN S02E09 1080p AMZN WEB-DL DDP2.0 H.2...` | **442.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/632693) • [🐱 Nyaa](https://nyaa.si/view/2152136) |
 
 ---
 <div align="center">
