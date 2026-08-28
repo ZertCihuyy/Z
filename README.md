@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.01.33_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.26.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Reiwa no Dara-san (Dara-san of Reiwa) - S01E09 [1080p][HEVC...` | **235.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/632846) • [🐱 Nyaa](https://nyaa.si/view/2152377) |
-| `[DKB] Otome Kaijuu Caraméliser - S01E09 [1080p][HEVC x265 10bit][Mu...` | **585.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/632844) • [🐱 Nyaa](https://nyaa.si/view/2152376) |
-| `[DKB] Mebius Dust - S01E08 [1080p][HEVC x265 10bit][Multi-Subs][wee...` | **476.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/632845) • [🐱 Nyaa](https://nyaa.si/view/2152375) |
-| `[Tenma] Major Henshū - Seasons 3 & 4 - 1080p.AV1[Multiple Subtitle]...` | **8081.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/632842) • [🐱 Nyaa](https://nyaa.si/view/2152355) |
-| `[Kylian] I Want to Love You Till Your Dying Day S01E05 VOSTFR WEB 1...` | **1376.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/632841) • [🐱 Nyaa](https://nekobt.to/torrents/13355671600647) |
-| `[VARYG] KAIJU GIRL CARAMELISE S01E08 1080p BILI WEB-DL AAC2.0 H.264...` | **404.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/632838) • [🐱 Nyaa](https://nekobt.to/torrents/13355410891022) |
-| `[VARYG] The Frontier Lord Begins with Zero Subjects S01E05 1080p BI...` | **287.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/632839) • [🐱 Nyaa](https://nekobt.to/torrents/13355396118794) |
-| `[Judas] Super no Ura de Yani Suu Futari (Smoking Behind the Superma...` | **169.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/632837) • [🐱 Nyaa](https://nyaa.si/view/2152347) |
-| `[Judas] Otome Kaiju Caramelise (Kaiju Girl Caramelise) - S01E09 [10...` | **417.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/632836) • [🐱 Nyaa](https://nyaa.si/view/2152341) |
-| `[ToonsHub] Link Click S04E04 1080p BSITE WEB-DL AAC2.0 H.264 (Shigu...` | **164.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/632834) • [🐱 Nyaa](https://nyaa.si/view/2152340) |
-| `[ToonsHub] Link Click S04E04 1080p BSITE WEB-DL AAC2.0 H.265 (Shigu...` | **106.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632835) • [🐱 Nyaa](https://nyaa.si/view/2152339) |
-| `[Onalrie] Otome Kaijuu Carameliser - S01E09 [1080p WEBRip AV1]` | **276.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/632832) • [🐱 Nyaa](https://nekobt.to/torrents/13354261159684) |
-| `[Ironclad] Smoking Behind the Supermarket with You - S01E08 (WEB 10...` | **220.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/632833) • [🐱 Nyaa](https://nekobt.to/torrents/13354233386248) |
-| `[ASW] Otome Kaijuu Carameliser - 09 [1080p HEVC x265 10Bit][AAC]` | **382.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/632831) • [🐱 Nyaa](https://nyaa.si/view/2152337) |
-| `[Erai-raws] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Muso...` | **816.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/632830) • [🐱 Nyaa](https://nyaa.si/view/2152336) |
+| `[ToonsHub] KAMUI Hes Behind You S00E08 1080p AMZN WEB-DL DDP2.0 H.2...` | **457.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/632909) • [🐱 Nyaa](https://nekobt.to/torrents/13369884177160) |
+| `[ToonsHub] KAMUI Hes Behind You S01E08 REPACK 1080p UNCENSORED AMZN...` | **526.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/632910) • [🐱 Nyaa](https://nekobt.to/torrents/13369872386564) |
+| `[WOR] KAMUI - He's behind you S01E04 [WebEncode 1080p HEVC EAC3] mu...` | **1060.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/632906) • [🐱 Nyaa](https://nyaa.si/view/2152489) |
+| `[WOR] KAMUI - He's behind you S01E03 [WebEncode 1080p HEVC EAC3] mu...` | **882.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/632907) • [🐱 Nyaa](https://nyaa.si/view/2152488) |
+| `[VARYG] LINK CLICK S04E01 The Forgotten Past REPACK 1080p CR WEB-DL...` | **1306.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/632905) • [🐱 Nyaa](https://nekobt.to/torrents/13369043646475) |
+| `[ToonsHub] LINK CLICK S04E01 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dua...` | **1307.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/632903) • [🐱 Nyaa](https://nekobt.to/torrents/13368024150285) |
+| `[ToonsHub] LINK CLICK S04E04 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1400.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/632904) • [🐱 Nyaa](https://nekobt.to/torrents/13368001908999) |
+| `[SubsNoJutsu] Smoking Behind the Supermarket with You - S01E08 (108...` | **169.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/632902) • [🐱 Nyaa](https://nekobt.to/torrents/13366759968778) |
+| `[Anime Land] Scarlet (2025) (UHD BDRip 1080p AV1 HDR10 EAC3 Atmos) ...` | **3880.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/632901) • [🐱 Nyaa](https://nyaa.si/view/2152469) |
+| `[PrinceOtaku] Detective Conan: The Million-dollar Pentagram (2024) ...` | **4357.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/632900) • [🐱 Nyaa](https://nyaa.si/view/2152466) |
+| `[Onalrie] Shiguang Dailiren - S03E04 (CA) [1080p WEBRip AV1]` | **198.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/632899) • [🐱 Nyaa](https://nekobt.to/torrents/13366143421959) |
+| `[VARYG] LINK CLICK S04E01 So Time Begins to Flow Again REPACK 1080p...` | **3961.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/632897) • [🐱 Nyaa](https://nekobt.to/torrents/13365806513675) |
+| `LINK CLICK S04E01 So Time Begins to Flow Again 1080p CR WEB-DL MULT...` | **4324.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/632896) • [🐱 Nyaa](https://nyaa.si/view/2152464) |
+| `[FuyuPOP-Tennousu] Kanojo ga Nekomimi ni Kigaetara - S01E01 [BD-Unc...` | **734.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/632895) • [🐱 Nyaa](https://animetosho.xyz/view/632895) |
+| `[Onalrie] Crowned in a Hundred Days - S01E20 (CA) [1080p WEBRip AV1]` | **100.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/632898) • [🐱 Nyaa](https://nekobt.to/torrents/13365728287489) |
 
 ---
 <div align="center">

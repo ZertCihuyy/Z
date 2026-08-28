@@ -1,5 +1,5 @@
 {
-  "last_update": "28/8/2026, 07.01.33",
+  "last_update": "28/8/2026, 18.26.08",
   "data": [
     {
       "id": 154587,
@@ -49,6 +49,21 @@
       ]
     },
     {
+      "id": 185874,
+      "title": {
+        "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg"
+      },
+      "averageScore": 90,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ]
+    },
+    {
       "id": 189046,
       "title": {
         "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
@@ -65,21 +80,6 @@
         "Psychological",
         "Romance",
         "Thriller"
-      ]
-    },
-    {
-      "id": 185874,
-      "title": {
-        "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg"
-      },
-      "averageScore": 90,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Supernatural"
       ]
     },
     {

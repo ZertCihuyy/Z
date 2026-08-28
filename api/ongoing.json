@@ -1,5 +1,5 @@
 {
-  "last_update": "28/8/2026, 07.01.33",
+  "last_update": "28/8/2026, 18.26.08",
   "data": [
     {
       "id": 21,
@@ -121,23 +121,6 @@
       }
     },
     {
-      "id": 235,
-      "title": {
-        "romaji": "Meitantei Conan"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg"
-      },
-      "episodes": null,
-      "studios": {
-        "nodes": [
-          {
-            "name": "TMS Entertainment"
-          }
-        ]
-      }
-    },
-    {
       "id": 185874,
       "title": {
         "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
@@ -150,6 +133,23 @@
         "nodes": [
           {
             "name": "PIERROT FILMS"
+          }
+        ]
+      }
+    },
+    {
+      "id": 235,
+      "title": {
+        "romaji": "Meitantei Conan"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg"
+      },
+      "episodes": null,
+      "studios": {
+        "nodes": [
+          {
+            "name": "TMS Entertainment"
           }
         ]
       }
