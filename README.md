@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.28.31_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-10.19.22_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[DKB] Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de M...` | **424.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/633101) • [🐱 Nyaa](https://nyaa.si/view/2152782) |
-| `[Sonomama] The 100 Girlfriends Who Really Really Really Really REAL...` | **759.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/633102) • [🐱 Nyaa](https://nekobt.to/torrents/13378649596417) |
-| `[FoundYears] That Time I Got Reincarnated as a Slime - S04E18 (WEB ...` | **1492.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/633100) • [🐱 Nyaa](https://nekobt.to/torrents/13378527954176) |
-| `[Yameii] Link Click - S04E01 [English Dub] [CR WEB-DL 1080p H264 AA...` | **1272.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/633099) • [🐱 Nyaa](https://nyaa.si/view/2152768) |
-| `[Ironclad] That Time I Got Reincarnated as a Slime - S04E20 (WEB 10...` | **253.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/633096) • [🐱 Nyaa](https://nekobt.to/torrents/13377441782532) |
-| `[Kosaka] That Time I Got Reincarnated as a Slime - 92 (WEBRip 1080p...` | **292.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/633097) • [🐱 Nyaa](https://nekobt.to/torrents/13377358152962) |
-| `[DKB] Nige Jouzu no Wakagimi - S02E07 [1080p][HEVC x265 10bit][Mult...` | **698.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/633095) • [🐱 Nyaa](https://nyaa.si/view/2152765) |
-| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 09 [1080p CR WEBRip ...` | **285.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/633094) • [🐱 Nyaa](https://nekobt.to/torrents/13376729564677) |
-| `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **282.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/633093) • [🐱 Nyaa](https://nekobt.to/torrents/13376332514574) |
-| `[Doomdos] - Daqian Town - 11 [1080p IQ WEB-DL]` | **102.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/633091) • [🐱 Nyaa](https://nyaa.si/view/2152756) |
-| `[ASW] Hell Mode S2 - 09 [1080p HEVC x265 10Bit][AAC]` | **409.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/633092) • [🐱 Nyaa](https://nyaa.si/view/2152755) |
-| `[Doomdos] - 时光代理人 第三季 - 第4话 - [1080p BILIBILI COM WEB-DL]` | **305.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/633090) • [🐱 Nyaa](https://nyaa.si/view/2152741) |
-| `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **382.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/633086) • [🐱 Nyaa](https://nyaa.si/view/2152739) |
-| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E09 [1080p WEBRip AV1]` | **150.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/633084) • [🐱 Nyaa](https://nekobt.to/torrents/13375810951689) |
-| `[Mocha] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **458.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/633085) • [🐱 Nyaa](https://nekobt.to/torrents/13375801483780) |
+| `[ToonsHub] A Good Day to Ascend S01E09 1080p iQ WEB-DL AAC2.0 H.264...` | **382.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/633128) • [🐱 Nyaa](https://nekobt.to/torrents/13383494470924) |
+| `[Doomdos] - A Good Day to Ascend - 9 [1080p IQ WEB-DL]` | **383.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/633127) • [🐱 Nyaa](https://nyaa.si/view/2152919) |
+| `[ASW] Rilakkuma - 22 [1080p HEVC x265 10Bit][AAC]` | **32.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/633126) • [🐱 Nyaa](https://nyaa.si/view/2152891) |
+| `[VARYG] RILAKKUMA S01E22 1080p CR WEB-DL DUAL AAC2.0 H.264 (Multi-S...` | **114.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/633121) • [🐱 Nyaa](https://nekobt.to/torrents/13382682483208) |
+| `[Erai-raws] Rilakkuma - 22 [1080p CR WEBRip HEVC AAC][MultiSub][D00...` | **48.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/633122) • [🐱 Nyaa](https://nekobt.to/torrents/13382659863823) |
+| `[ToonsHub] RILAKKUMA S01E22 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **112.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/633112) • [🐱 Nyaa](https://nyaa.si/view/2152880) |
+| `[AnoZu] RILAKKUMA S01E22 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264` | **114.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/633113) • [🐱 Nyaa](https://nyaa.si/view/2152876) |
+| `Bleach Box 01 [V3.3] Remaster (BDRip 1080p x265 AAC Multi) Ryūjin 竜神` | **23986.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/633114) • [🐱 Nyaa](https://nyaa.si/view/2152874) |
+| `RILAKKUMA S01E22 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **67.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/633123) • [🐱 Nyaa](https://nekobt.to/torrents/13382568139276) |
+| `RILAKKUMA S01E22 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **108.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/633124) • [🐱 Nyaa](https://nekobt.to/torrents/13382566276619) |
+| `[SubsPlease] Rilakkuma - 22 (1080p) [48DA2737].mkv` | **93.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/633118) • [🐱 Nyaa](https://nyaa.si/view/2152860) |
+| `[Erai-raws] Rilakkuma - 22 [1080p CR WEB-DL AVC AAC][MultiSub][5EB7...` | **109.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/633117) • [🐱 Nyaa](https://nyaa.si/view/2152861) |
+| `[LoliHouse] 『你们先走我断后』，于是10年后我成为了传说 / Koko wa Ore ni Makasete Saki n...` | **449.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/633111) • [🐱 Nyaa](https://nyaa.si/view/2152843) |
+| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **969.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/633110) • [🐱 Nyaa](https://nyaa.si/view/2152838) |
+| `[Erai-raws] Kami no Shizuku - 21 [1080p CR WEBRip HEVC AAC][MultiSu...` | **407.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/633108) • [🐱 Nyaa](https://nyaa.si/view/2152816) |
 
 ---
 <div align="center">
