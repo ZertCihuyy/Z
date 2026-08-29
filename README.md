@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.17.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.31.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Erai-raws] Mao - 22 [1080p DSNP WEB-DL AVC AAC][MultiSub][0AE5EB5A]` | **1063.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/633478) • [🐱 Nyaa](https://nyaa.si/view/2153479) |
+| `[Erai-raws] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga ...` | **370.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/633475) • [🐱 Nyaa](https://nyaa.si/view/2153477) |
+| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 08 [10...` | **413.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/633472) • [🐱 Nyaa](https://nekobt.to/torrents/13402958060815) |
+| `[Erai-raws] Tenmaku no Jaadugar - 10 [1080p CR WEBRip HEVC AAC][Mul...` | **958.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/633473) • [🐱 Nyaa](https://nekobt.to/torrents/13402954491909) |
+| `[DKB] Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin ...` | **240.15 MB** | [🌐 Tosho](https://animetosho.xyz/view/633465) • [🐱 Nyaa](https://nyaa.si/view/2153458) |
+| `[DKB] Hanaori-san wa Tensei shitemo Kenka ga Shitai - S01E08 [1080p...` | **243.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/633466) • [🐱 Nyaa](https://nyaa.si/view/2153457) |
+| `[DKB] Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance - S0...` | **342.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/633467) • [🐱 Nyaa](https://nyaa.si/view/2153456) |
+| `MAO S01E22 Risk My Life 1080p DSNP WEB-DL AAC2.0 H.264-VARYG (Multi...` | **1063.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/633464) • [🐱 Nyaa](https://nyaa.si/view/2153455) |
+| `[ToonsHub] MAO S01E22 1080p DSNP WEB-DL AAC2.0 H.264 (Multi-Subs)` | **1063.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/633463) • [🐱 Nyaa](https://nyaa.si/view/2153454) |
 | `[CrappySubs] Daemons of the Shadow Realm - S01E21 (CR WEB 1080p H.2...` | **1408.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/633461) • [🐱 Nyaa](https://nekobt.to/torrents/13400656761347) |
 | `[Erai-raws] Oni no Hanayome - 09 [1080p CR WEBRip HEVC AAC][MultiSu...` | **444.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/633460) • [🐱 Nyaa](https://nyaa.si/view/2153440) |
 | `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E19 (91) [1080p CR ...` | **1403.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/633459) • [🐱 Nyaa](https://nekobt.to/torrents/13400129333761) |
 | `[Onalrie] Saijo no Osewa - S01E09 [1080p WEBRip AV1]` | **208.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/633457) • [🐱 Nyaa](https://nekobt.to/torrents/13399707502862) |
 | `[Erai-raws] Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeanc...` | **383.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/633455) • [🐱 Nyaa](https://nyaa.si/view/2153430) |
 | `[ASW] Saijo no Osewa - 09 [1080p HEVC x265 10Bit][AAC]` | **226.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/633456) • [🐱 Nyaa](https://nyaa.si/view/2153429) |
-| `[ASW] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 08 [1080p HEV...` | **238.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/633454) • [🐱 Nyaa](https://nyaa.si/view/2153428) |
-| `[Judas] Hanaori-san wa Tensei Shite mo Kenka ga Shitai (Hanaori-san...` | **258.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/633452) • [🐱 Nyaa](https://nyaa.si/view/2153424) |
-| `[Onalrie] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - S01E08 [...` | **220.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/633453) • [🐱 Nyaa](https://nekobt.to/torrents/13399304876035) |
-| `[ToonsHub] Rich Girl Caretaker S01E09 1080p BILI WEB-DL AAC2.0 H.26...` | **272.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/633451) • [🐱 Nyaa](https://nyaa.si/view/2153421) |
-| `[TSPlease] Rich Girl Caretaker Im Secretly the Caregiver of the Mos...` | **1449.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/633449) • [🐱 Nyaa](https://nyaa.si/view/2153420) |
-| `Rich Girl Caretaker Im Secretly the Caregiver of the Most Popular G...` | **225.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/633450) • [🐱 Nyaa](https://nyaa.si/view/2153418) |
-| `[Ironclad] Yomi no Tsugai - S01E21 [WEB.1080p.AV1] | Daemons of the...` | **297.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/633448) • [🐱 Nyaa](https://nyaa.si/view/2153415) |
-| `[Wofire] Doraemon Movie 11 - Nobita and the Animal Planet (1990) [1...` | **4174.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/633446) • [🐱 Nyaa](https://nyaa.si/view/2153414) |
-| `[ASW] Oni no Hanayome - 09 [1080p HEVC x265 10Bit][AAC]` | **217.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/633447) • [🐱 Nyaa](https://nyaa.si/view/2153413) |
 
 ---
 <div align="center">
