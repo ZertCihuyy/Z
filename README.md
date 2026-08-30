@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.42.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-14.29.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Doomdos] - Golden Curse - 5 [1080p IQ WEB-DL]` | **516.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/633494) • [🐱 Nyaa](https://nyaa.si/view/2153528) |
-| `[AnoZu] Star Detective Precure! S01E31 1080p CR WEB-DL AAC 2.0 H.26...` | **1408.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/633495) • [🐱 Nyaa](https://nyaa.si/view/2153527) |
-| `[SubsPlease] Meitantei Precure! - 31 (1080p) [5648B6B1].mkv` | **1403.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/633488) • [🐱 Nyaa](https://nyaa.si/view/2153526) |
-| `[Erai-raws] Meitantei Precure - 31 [1080p CR WEB-DL AVC AAC][98A6BB0C]` | **1409.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/633493) • [🐱 Nyaa](https://nyaa.si/view/2153521) |
-| `[DKB] MAO - S01E22 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **496.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/633487) • [🐱 Nyaa](https://nyaa.si/view/2153506) |
-| `[Erai-raws] Saijo no Osewa - 09 [1080p CR WEBRip HEVC AAC][MultiSub...` | **390.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/633486) • [🐱 Nyaa](https://nyaa.si/view/2153502) |
-| `[ToonsHub] BLEACH Thousand-Year Blood War S01E41 1080p DSNP WEB-DL ...` | **1046.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/633485) • [🐱 Nyaa](https://nyaa.si/view/2153499) |
-| `[Anime Time] Black Torch - S01E09 [1080p][HEVC 10bit x265][AAC][Dua...` | **588.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/633483) • [🐱 Nyaa](https://nyaa.si/view/2153492) |
-| `[Anime Time] Daemons Of The Shadow Realm (Yomi no Tsugai) - S01E19 ...` | **591.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/633484) • [🐱 Nyaa](https://nyaa.si/view/2153490) |
-| `[VARYG] Jaadugar A Witch in Mongolia S01E03 An Undying Flame 1080p ...` | **1886.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/633482) • [🐱 Nyaa](https://nekobt.to/torrents/13403789031180) |
-| `[Anime Time] Bleach: Thousand-Year Blood War - 46 [1080p][HEVC 10bi...` | **671.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/633481) • [🐱 Nyaa](https://nyaa.si/view/2153488) |
-| `[Yameii] Welcome to Demon School! Iruma-kun - S04E20 [English Dub] ...` | **1461.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/633479) • [🐱 Nyaa](https://nyaa.si/view/2153483) |
-| `[Erai-raws] Mao - 22 [1080p DSNP WEB-DL AVC AAC][MultiSub][0AE5EB5A]` | **1063.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/633478) • [🐱 Nyaa](https://nyaa.si/view/2153479) |
-| `[Erai-raws] Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga ...` | **370.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/633475) • [🐱 Nyaa](https://nyaa.si/view/2153477) |
-| `[Erai-raws] Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 08 [10...` | **413.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/633472) • [🐱 Nyaa](https://nekobt.to/torrents/13402958060815) |
+| `[Judas] Ingoku Danchi (Deviant`s Apartment Complex) [Uncensored] - ...` | **39.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/633552) • [🐱 Nyaa](https://nyaa.si/view/2153711) |
+| `Digimon Beatbreak S01E45 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsu...` | **1255.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/633553) • [🐱 Nyaa](https://nekobt.to/torrents/13410300891918) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E08 1080p DSNP WEB-DL...` | **918.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/633551) • [🐱 Nyaa](https://nyaa.si/view/2153708) |
+| `[Judas] Yowayowa Sensei [Uncensored] - S01E02 [1080p][HEVC x265 10b...` | **207.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/633550) • [🐱 Nyaa](https://nyaa.si/view/2153705) |
+| `[Gecko] False Memory - S01E07v2 (记忆管理局; Jiyi Guanli Ju (2026); The ...` | **980.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/633549) • [🐱 Nyaa](https://nekobt.to/torrents/13409823489036) |
+| `[Judas] Ingoku Danchi (Deviant`s Apartment Complex) [Uncensored] - ...` | **43.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/633548) • [🐱 Nyaa](https://nyaa.si/view/2153684) |
+| `[Judas] Yowayowa Sensei [Uncensored] - S01E01 [1080p][HEVC x265 10b...` | **219.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/633545) • [🐱 Nyaa](https://nyaa.si/view/2153682) |
+| `[Doomdos] - Low Tide in Twilight Animation (Revised) S01 [1080p SOY...` | **2120.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/633546) • [🐱 Nyaa](https://nyaa.si/view/2153680) |
+| `[Kotobuki] Tenmaku no Jaadugar 10 [1080p HEVC Multisub] | Jaadugar:...` | **295.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/633544) • [🐱 Nyaa](https://nyaa.si/view/2153676) |
+| `[Prejudice-Studio] 记忆管理局 False Memory [01-07][Bilibili WEB-DL 1080P...` | **4341.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/633543) • [🐱 Nyaa](https://nyaa.si/view/2153673) |
+| `[ToonsHub] False Memory S01 1080p AMZN WEB-DL DDP2.0 H.264 (Jiyi Gu...` | **14730.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/633542) • [🐱 Nyaa](https://nyaa.si/view/2153669) |
+| `[Prejudice-Studio] 记忆管理局 False Memory [01-07][Bilibili WEB-DL 1080P...` | **3396.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/633541) • [🐱 Nyaa](https://nyaa.si/view/2153667) |
+| `Gintama Yoshiwara in Flames 2026 1080p NF WEB-DL MULTi DDP5.1 H.264...` | **8426.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/633539) • [🐱 Nyaa](https://nyaa.si/view/2153664) |
+| `[Prejudice-Studio] 记忆管理局 False Memory - 07 [Bilibili WEB-DL 1080P A...` | **1052.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/633540) • [🐱 Nyaa](https://nyaa.si/view/2153663) |
+| `[Prejudice-Studio] 记忆管理局 False Memory - 07 [Bilibili WEB-DL 1080P A...` | **849.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/633538) • [🐱 Nyaa](https://nyaa.si/view/2153662) |
 
 ---
 <div align="center">
