@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.03.34_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-05.45.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Erai-raws] Azur Lane: Bisoku Zenshin - Ni - 09 [1080p CR WEBRip HE...` | **173.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/684200) • [🐱 Nyaa](https://nyaa.si/view/2154115) |
-| `[ToonsHub] You and I Are Polar Opposites S02E09 1080p NF WEB-DL AAC...` | **874.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/684199) • [🐱 Nyaa](https://nyaa.si/view/2154114) |
-| `[ToonsHub] Mushoku Tensei Jobless Reincarnation S03E10 1080p NF WEB...` | **866.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/684194) • [🐱 Nyaa](https://nekobt.to/torrents/13422015543300) |
-| `[Erai-raws] Digimon Beatbreak - 45 [1080p CR WEBRip HEVC AAC][Multi...` | **725.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/684195) • [🐱 Nyaa](https://nekobt.to/torrents/13421954428165) |
-| `[Erai-raws] Digimon Beatbreak - 45 (REPACK) [1080p CR WEB-DL AVC AA...` | **1260.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/684198) • [🐱 Nyaa](https://nyaa.si/view/2154109) |
-| `[Judas] Android wa Keiken Ninzuu ni Hairimasuka?? ( Does It Count I...` | **36.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/684193) • [🐱 Nyaa](https://nyaa.si/view/2154107) |
-| `[Erai-raws] Nijuuseiki Denki Mokuroku: Eureka Evrika - 09 [1080p NF...` | **587.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/684189) • [🐱 Nyaa](https://nekobt.to/torrents/13421810277122) |
-| `[Serenae] Meitantei Precure! - 31v3 (1080p).mkv` | **1399.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/684191) • [🐱 Nyaa](https://nyaa.si/view/2154104) |
-| `[Judas] Marika-chan no Koukando wa Bukkowarete Iru (Marika`s Love M...` | **37.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/684190) • [🐱 Nyaa](https://nyaa.si/view/2154102) |
-| `MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe 2026 REPACK ...` | **4883.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/684188) • [🐱 Nyaa](https://nyaa.si/view/2154101) |
-| `[Judas] Android wa Keiken Ninzuu ni Hairimasuka?? ( Does It Count I...` | **40.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/684186) • [🐱 Nyaa](https://nyaa.si/view/2154100) |
-| `[VoidWalkers] Mashle Magic and Muscles Season 2 (2024) [BD][1080p J...` | **4591.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/684187) • [🐱 Nyaa](https://nekobt.to/torrents/13421466651906) |
-| `[Judas] Marika-chan no Koukando wa Bukkowarete Iru (Marika`s Love M...` | **39.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/684185) • [🐱 Nyaa](https://nyaa.si/view/2154097) |
-| `[Onalrie] Azur Lane Bisoku Zenshin - S02E09 [1080p WEBRip AV1]` | **116.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/684183) • [🐱 Nyaa](https://nekobt.to/torrents/13421410686208) |
-| `[Erai-raws] Mushoku Tensei III: Isekai Ittara Honki Dasu - 10 [1080...` | **641.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/684182) • [🐱 Nyaa](https://nyaa.si/view/2154095) |
+| `[Cytox] Mushoku Tensei Jobless Reincarnation 2021 S03E08 1080p CR W...` | **1707.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/684219) • [🐱 Nyaa](https://nyaa.si/view/2154180) |
+| `[SubsPlease] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samay...` | **16586.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/684216) • [🐱 Nyaa](https://nyaa.si/view/2154179) |
+| `[Erai-raws] Sayonara Lara - 09 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **474.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684214) • [🐱 Nyaa](https://nekobt.to/torrents/13424030427144) |
+| `[Erai-raws] Detective Conan - 1211 [1080p CR WEBRip HEVC AAC][Multi...` | **427.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/684215) • [🐱 Nyaa](https://nyaa.si/view/2154175) |
+| `[DKB] Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae ...` | **411.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/684213) • [🐱 Nyaa](https://nyaa.si/view/2154172) |
+| `[DKB] Azur Lane: Bisoku Zenshin! - S02E09 [1080p][HEVC x265 10bit][...` | **113.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/684212) • [🐱 Nyaa](https://nyaa.si/view/2154171) |
+| `[SubsPlease] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samay...` | **16597.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684208) • [🐱 Nyaa](https://nyaa.si/view/2154165) |
+| `Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe 2026 1080p N...` | **8232.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/684209) • [🐱 Nyaa](https://nyaa.si/view/2154164) |
+| `Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe 2026 1080p N...` | **4782.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/684207) • [🐱 Nyaa](https://nyaa.si/view/2154157) |
+| `BLEACH Thousand Year Blood War S01E46 THE END 1080p AMZN WEB-DL DDP...` | **1184.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/684204) • [🐱 Nyaa](https://nyaa.si/view/2154141) |
+| `[Onalrie] Digimon Beatbreak - S01E45 [1080p WEBRip AV1]` | **496.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/684205) • [🐱 Nyaa](https://nekobt.to/torrents/13422870856453) |
+| `Naruto Shippuden 215 Remaster (BDRip 1080p x265 FLAC Multi) - Ryūji...` | **1613.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/684206) • [🐱 Nyaa](https://nyaa.si/view/2154140) |
+| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E21 [1080p][HEVC x265 10b...` | **460.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/684202) • [🐱 Nyaa](https://nyaa.si/view/2154134) |
+| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E20 (92) [1080p CR ...` | **1411.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/684203) • [🐱 Nyaa](https://nekobt.to/torrents/13422308246277) |
+| `Digimon Beatbreak S01E45 Big Brother Little Brother REPACK 1080p CR...` | **1378.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/684201) • [🐱 Nyaa](https://nyaa.si/view/2154120) |
 
 ---
 <div align="center">
