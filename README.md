@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.29.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.14.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Judas] Ingoku Danchi (Deviant`s Apartment Complex) [Uncensored] - ...` | **39.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/633552) • [🐱 Nyaa](https://nyaa.si/view/2153711) |
-| `Digimon Beatbreak S01E45 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsu...` | **1255.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/633553) • [🐱 Nyaa](https://nekobt.to/torrents/13410300891918) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E08 1080p DSNP WEB-DL...` | **918.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/633551) • [🐱 Nyaa](https://nyaa.si/view/2153708) |
-| `[Judas] Yowayowa Sensei [Uncensored] - S01E02 [1080p][HEVC x265 10b...` | **207.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/633550) • [🐱 Nyaa](https://nyaa.si/view/2153705) |
-| `[Gecko] False Memory - S01E07v2 (记忆管理局; Jiyi Guanli Ju (2026); The ...` | **980.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/633549) • [🐱 Nyaa](https://nekobt.to/torrents/13409823489036) |
-| `[Judas] Ingoku Danchi (Deviant`s Apartment Complex) [Uncensored] - ...` | **43.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/633548) • [🐱 Nyaa](https://nyaa.si/view/2153684) |
-| `[Judas] Yowayowa Sensei [Uncensored] - S01E01 [1080p][HEVC x265 10b...` | **219.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/633545) • [🐱 Nyaa](https://nyaa.si/view/2153682) |
-| `[Doomdos] - Low Tide in Twilight Animation (Revised) S01 [1080p SOY...` | **2120.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/633546) • [🐱 Nyaa](https://nyaa.si/view/2153680) |
-| `[Kotobuki] Tenmaku no Jaadugar 10 [1080p HEVC Multisub] | Jaadugar:...` | **295.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/633544) • [🐱 Nyaa](https://nyaa.si/view/2153676) |
-| `[Prejudice-Studio] 记忆管理局 False Memory [01-07][Bilibili WEB-DL 1080P...` | **4341.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/633543) • [🐱 Nyaa](https://nyaa.si/view/2153673) |
-| `[ToonsHub] False Memory S01 1080p AMZN WEB-DL DDP2.0 H.264 (Jiyi Gu...` | **14730.91 MB** | [🌐 Tosho](https://animetosho.xyz/view/633542) • [🐱 Nyaa](https://nyaa.si/view/2153669) |
-| `[Prejudice-Studio] 记忆管理局 False Memory [01-07][Bilibili WEB-DL 1080P...` | **3396.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/633541) • [🐱 Nyaa](https://nyaa.si/view/2153667) |
-| `Gintama Yoshiwara in Flames 2026 1080p NF WEB-DL MULTi DDP5.1 H.264...` | **8426.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/633539) • [🐱 Nyaa](https://nyaa.si/view/2153664) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 07 [Bilibili WEB-DL 1080P A...` | **1052.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/633540) • [🐱 Nyaa](https://nyaa.si/view/2153663) |
-| `[Prejudice-Studio] 记忆管理局 False Memory - 07 [Bilibili WEB-DL 1080P A...` | **849.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/633538) • [🐱 Nyaa](https://nyaa.si/view/2153662) |
+| `[VARYG] The Worlds Strongest Rearguard S01E09 Hidden Wounds and a W...` | **1406.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/641993) • [🐱 Nyaa](https://nekobt.to/torrents/13415866511365) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E09 1080p CR WEB-DL AA...` | **1389.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/643016) • [🐱 Nyaa](https://nekobt.to/torrents/13415846567691) |
+| `[AnoZu] The World's Strongest Rearguard S01E09 1080p CR WEB-DL AAC ...` | **1411.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/633633) • [🐱 Nyaa](https://nyaa.si/view/2153849) |
+| `[Cattleya] The World's Strongest Rearguard - S01E09 - Hidden Wounds...` | **1393.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/633634) • [🐱 Nyaa](https://nyaa.si/view/2153848) |
+| `[SubsPlease] Sekai Saikyou no Kouei - 09 (1080p) [8299C8B0].mkv` | **1378.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/633636) • [🐱 Nyaa](https://nyaa.si/view/2153846) |
+| `[Judas] Yowayowa Sensei [Uncensored] - S01E07 [1080p][HEVC x265 10b...` | **202.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/633638) • [🐱 Nyaa](https://nyaa.si/view/2153844) |
+| `The Worlds Strongest Rearguard S01E09 SUBFRENCH 1080p CR WEB-DL AAC...` | **1383.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/646444) • [🐱 Nyaa](https://nekobt.to/torrents/13415750409219) |
+| `[Erai-raws] Sekai Saikyou no Kouei - 09 [1080p CR WEB-DL AVC AAC][M...` | **1389.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/633631) • [🐱 Nyaa](https://nyaa.si/view/2153839) |
+| `[ToonsHub] The Worlds Strongest Rearguard S01E09 1080p BILI WEB-DL ...` | **222.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/633632) • [🐱 Nyaa](https://nyaa.si/view/2153838) |
+| `[Judas] Ingoku Danchi (Deviant`s Apartment Complex) [Uncensored] - ...` | **35.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/633629) • [🐱 Nyaa](https://nyaa.si/view/2153826) |
+| `[Judas] Yowayowa Sensei [Uncensored] - S01E06 [1080p][HEVC x265 10b...` | **201.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/633628) • [🐱 Nyaa](https://nyaa.si/view/2153825) |
+| `Mushoku Tensei Jobless Reincarnation S03E02 MULTi AD 1080p CR WEB-D...` | **1596.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/633630) • [🐱 Nyaa](https://nekobt.to/torrents/13414439287554) |
+| `[CenturyZeta] Yanineko Mini Anime - 17 (1080p) (Yani Neko)` | **3.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/633627) • [🐱 Nyaa](https://nyaa.si/view/2153815) |
+| `Chainsmoker Cat S01E07 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-R...` | **969.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/633626) • [🐱 Nyaa](https://nekobt.to/torrents/13413963509257) |
+| `Detective Conan S01E1211 The Birdman Rally Bombing Part One 1080p C...` | **1445.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/633625) • [🐱 Nyaa](https://nyaa.si/view/2153808) |
 
 ---
 <div align="center">
