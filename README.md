@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-14.04.54_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.07.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,21 +31,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[VARYG] One Piece S01E1176 The Threat of the Arrow-Arrow Fruit-Gunk...` | **1384.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/684256) • [🐱 Nyaa](https://nekobt.to/torrents/13428705536269) |
-| `One Piece S01E1175 Elbaph in Flames Jinbes Shoulder Throw Explodes ...` | **417.48 MB** | [🌐 Tosho](https://animetosho.xyz/view/684255) • [🐱 Nyaa](https://nyaa.si/view/2154249) |
-| `[Anime Time] Bleach: Thousand-Year Blood War - S01E42 [1080p][HEVC ...` | **681.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/684253) • [🐱 Nyaa](https://nyaa.si/view/2154246) |
-| `[ToonsHub] Nobody (2025) 1080p VIKI WEB-DL AAC2.0 H.264 (Lang Lang ...` | **920.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/684252) • [🐱 Nyaa](https://nyaa.si/view/2154244) |
-| `[ToonsHub] To Be Winner S01E07 1080p BSITE WEB-DL AAC2.0 H.264 (Mul...` | **318.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/684248) • [🐱 Nyaa](https://nekobt.to/torrents/13427733374980) |
-| `[ToonsHub] One Piece EP1176 1080p BILI WEB-DL AAC2.0 H.265 (Multi-S...` | **377.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/684249) • [🐱 Nyaa](https://nekobt.to/torrents/13427728723969) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E14 1080p BILI WEB-DL ...` | **313.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/684250) • [🐱 Nyaa](https://nekobt.to/torrents/13427725733387) |
-| `[Doomdos] - UNDER THE GATE - 12 [1080p IQ WEB-DL]` | **154.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/684246) • [🐱 Nyaa](https://nyaa.si/view/2154233) |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 98 [1080p] (GB_CN) | 牧神记` | **426.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/684247) • [🐱 Nyaa](https://nyaa.si/view/2154232) |
-| `[Doomdos] - To Be Winner - 7 [1080p IQ WEB-DL]` | **279.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/684245) • [🐱 Nyaa](https://nyaa.si/view/2154229) |
-| `[Doomdos] - Lingwu Continent - 211 [1080p IQ WEB-DL]` | **225.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/684244) • [🐱 Nyaa](https://nyaa.si/view/2154228) |
-| `[Erai-raws] Meitantei Precure - 31 [1080p CR WEBRip HEVC AAC][Multi...` | **625.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/684242) • [🐱 Nyaa](https://nekobt.to/torrents/13427562626572) |
-| `[Erai-raws] Meitantei Precure - 31 [1080p CR WEB-DL AVC AAC][MultiS...` | **1415.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/684243) • [🐱 Nyaa](https://nyaa.si/view/2154224) |
-| `[AnoZu] Reborn as a Vending Machine, I Now Wander the Dungeon S03 1...` | **17860.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/684235) • [🐱 Nyaa](https://nekobt.to/torrents/13427367960330) |
-| `Star Detective Precure S01E31 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1408.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/684236) • [🐱 Nyaa](https://nekobt.to/torrents/13427356823041) |
+| `[SubsPlease] Tenkosaki - 09 (1080p) [0FF90027].mkv` | **1381.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/684367) • [🐱 Nyaa](https://nyaa.si/view/2154466) |
+| `[Cattleya] Oh Boy, Was I Wrong About Her - S01E09 - Truly Special (...` | **1425.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/684368) • [🐱 Nyaa](https://nyaa.si/view/2154465) |
+| `[AnoZu] Oh Boy, Was I Wrong About Her S01E09 1080p CR WEB-DL AAC 2....` | **1412.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/684369) • [🐱 Nyaa](https://nyaa.si/view/2154463) |
+| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **1390.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/684373) • [🐱 Nyaa](https://nyaa.si/view/2154458) |
+| `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **560.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/684362) • [🐱 Nyaa](https://nekobt.to/torrents/13439493660423) |
+| `[Lazyleido-Mini] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Veng...` | **552.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/684365) • [🐱 Nyaa](https://nyaa.si/view/2154445) |
+| `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **1877.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/684366) • [🐱 Nyaa](https://nyaa.si/view/2154444) |
+| `[ToonsHub] A Livid Ladys Guide to Getting Even How I Crushed My Hom...` | **1432.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/684361) • [🐱 Nyaa](https://nyaa.si/view/2154442) |
+| `[AnoZu] A Livid Lady's Guide to Getting Even: How I Crushed My Home...` | **1414.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/684359) • [🐱 Nyaa](https://nyaa.si/view/2154441) |
+| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **873.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/684360) • [🐱 Nyaa](https://nyaa.si/view/2154440) |
+| `[SubsPlease] Suterare Seijo no Isekai Gohan Tabi - 09 (1080p) [0CBB...` | **871.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/684342) • [🐱 Nyaa](https://nyaa.si/view/2154439) |
+| `[ToonsHub] The Forsaken Saintess and Her Foodie Roadtrip in Another...` | **873.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/684346) • [🐱 Nyaa](https://nyaa.si/view/2154436) |
+| `A Livid Ladys Guide to Getting Even How I Crushed My Homeland with ...` | **1409.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/684348) • [🐱 Nyaa](https://nyaa.si/view/2154435) |
+| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **559.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/684363) • [🐱 Nyaa](https://nekobt.to/torrents/13439276466186) |
+| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **560.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/684352) • [🐱 Nyaa](https://nyaa.si/view/2154430) |
 
 ---
 <div align="center">
