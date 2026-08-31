@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.45.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.15.06_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -31,6 +31,12 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[CrappySubs] Sparks of Tomorrow - S01E09 (NF WEB 1080p H.264 AAC) [...` | **913.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/684227) • [🐱 Nyaa](https://nekobt.to/torrents/13426692321028) |
+| `[Tasokare] The Idaten Deities Know Only Peace S01 (BD 1080p Opus AV...` | **16716.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/684225) • [🐱 Nyaa](https://nyaa.si/view/2154205) |
+| `[Kawatare] The Idaten Deities Know Only Peace S01 (BD 1080p FLAC x2...` | **32408.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/684226) • [🐱 Nyaa](https://nyaa.si/view/2154204) |
+| `Fate Stay Night S01 MULTi 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raw...` | **14236.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/684224) • [🐱 Nyaa](https://nekobt.to/torrents/13426106511619) |
+| `[Erai-raws] One Piece - 1176 [1080p CR WEBRip HEVC AAC][MultiSub][8...` | **736.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/684220) • [🐱 Nyaa](https://nyaa.si/view/2154189) |
+| `[Erai-raws] One Piece - 1176 [1080p CR WEB-DL AVC AAC][MultiSub][F7...` | **1292.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/684223) • [🐱 Nyaa](https://nyaa.si/view/2154186) |
 | `[Cytox] Mushoku Tensei Jobless Reincarnation 2021 S03E08 1080p CR W...` | **1707.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/684219) • [🐱 Nyaa](https://nyaa.si/view/2154180) |
 | `[SubsPlease] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samay...` | **16586.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/684216) • [🐱 Nyaa](https://nyaa.si/view/2154179) |
 | `[Erai-raws] Sayonara Lara - 09 [1080p CR WEBRip HEVC AAC][MultiSub]...` | **474.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684214) • [🐱 Nyaa](https://nekobt.to/torrents/13424030427144) |
@@ -40,12 +46,6 @@
 | `[SubsPlease] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samay...` | **16597.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684208) • [🐱 Nyaa](https://nyaa.si/view/2154165) |
 | `Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe 2026 1080p N...` | **8232.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/684209) • [🐱 Nyaa](https://nyaa.si/view/2154164) |
 | `Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe 2026 1080p N...` | **4782.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/684207) • [🐱 Nyaa](https://nyaa.si/view/2154157) |
-| `BLEACH Thousand Year Blood War S01E46 THE END 1080p AMZN WEB-DL DDP...` | **1184.67 MB** | [🌐 Tosho](https://animetosho.xyz/view/684204) • [🐱 Nyaa](https://nyaa.si/view/2154141) |
-| `[Onalrie] Digimon Beatbreak - S01E45 [1080p WEBRip AV1]` | **496.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/684205) • [🐱 Nyaa](https://nekobt.to/torrents/13422870856453) |
-| `Naruto Shippuden 215 Remaster (BDRip 1080p x265 FLAC Multi) - Ryūji...` | **1613.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/684206) • [🐱 Nyaa](https://nyaa.si/view/2154140) |
-| `[DKB] Kuroneko to Majo no Kyoushitsu - S01E21 [1080p][HEVC x265 10b...` | **460.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/684202) • [🐱 Nyaa](https://nyaa.si/view/2154134) |
-| `[FrixySubs] Tensei Shitara Slime Datta Ken - S04E20 (92) [1080p CR ...` | **1411.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/684203) • [🐱 Nyaa](https://nekobt.to/torrents/13422308246277) |
-| `Digimon Beatbreak S01E45 Big Brother Little Brother REPACK 1080p CR...` | **1378.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/684201) • [🐱 Nyaa](https://nyaa.si/view/2154120) |
 
 ---
 <div align="center">
