@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-22.07.39_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.50.56_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,43 +9,42 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Senin**
+### 📅 Jadwal Rilis Hari Ini: **Selasa**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213359-VDIZoZHMA0LI.jpg" width="45" style="border-radius: 4px;"> | `01.20` | **[Yami Shibai 17](https://anilist.co/anime/213359)** | *Horror, Supernatural* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Xian Ni](https://anilist.co/anime/137653)** | *Action, Adventure, Drama, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188753-Rkuiizca4QFD.png" width="45" style="border-radius: 4px;"> | `10.00` | **[Gekkan! Nanmono Anime](https://anilist.co/anime/188753)** | *Comedy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png" width="45" style="border-radius: 4px;"> | `18.57` | **[Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru](https://anilist.co/anime/169582)** | *Action, Comedy, Drama, Fantasy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg" width="45" style="border-radius: 4px;"> | `19.00` | **[Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.](https://anilist.co/anime/202269)** | *Drama, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II](https://anilist.co/anime/185542)** | *Action, Adventure, Comedy, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206521-ecJuDgjth84C.png" width="45" style="border-radius: 4px;"> | `20.00` | **[World Is Dancing](https://anilist.co/anime/206521)** | *Drama* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199408-ocRWG4pRWl8f.png" width="45" style="border-radius: 4px;"> | `20.30` | **[Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu](https://anilist.co/anime/199408)** | *Drama, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195833-h7x6i3NQWROA.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Honoo no Toukyuujyo Dodge Danko](https://anilist.co/anime/195833)** | *Comedy, Sports* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209504-yRxHWxKuNGtg.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita](https://anilist.co/anime/209504)** | *Action, Adventure, Comedy, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken](https://anilist.co/anime/169583)** | *Comedy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png" width="45" style="border-radius: 4px;"> | `22.00` | **[LIAR GAME](https://anilist.co/anime/197754)** | *Drama, Psychological* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199111-gBSuBG61ElcW.jpg" width="45" style="border-radius: 4px;"> | `22.00` | **[Grand Blue Season 3](https://anilist.co/anime/199111)** | *Comedy, Slice of Life, Sports* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg" width="45" style="border-radius: 4px;"> | `05.40` | **[Chiikawa](https://anilist.co/anime/140842)** | *Comedy, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)** | *Action, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Jueshi Zhan Hun 2](https://anilist.co/anime/213188)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png" width="45" style="border-radius: 4px;"> | `11.00` | **[Bai Ri Cheng Wang](https://anilist.co/anime/213484)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png" width="45" style="border-radius: 4px;"> | `18.30` | **[Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai](https://anilist.co/anime/128757)** | *Drama* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg" width="45" style="border-radius: 4px;"> | `19.30` | **[Kimi ga Shinu made Koi wo Shitai](https://anilist.co/anime/187260)** | *Drama, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png" width="45" style="border-radius: 4px;"> | `19.55` | **[Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita](https://anilist.co/anime/213665)** | *Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu](https://anilist.co/anime/196219)** | *Drama, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png" width="45" style="border-radius: 4px;"> | `21.00` | **[Koukaku Kidoutai: THE GHOST IN THE SHELL](https://anilist.co/anime/177699)** | *Action, Psychological, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Yoroi Shinden Samurai Troopers Part 2](https://anilist.co/anime/209800)** | *Action, Adventure, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg" width="45" style="border-radius: 4px;"> | `22.00` | **[Tefuda ga Oome no Victoria](https://anilist.co/anime/198709)** | *Action, Drama, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg" width="45" style="border-radius: 4px;"> | `23.35` | **[Sora wa Akai Kawa no Hotori](https://anilist.co/anime/207809)** | *Action, Adventure, Drama, Fantasy, Romance* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlease] Tenkosaki - 09 (1080p) [0FF90027].mkv` | **1381.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/684367) • [🐱 Nyaa](https://nyaa.si/view/2154466) |
-| `[Cattleya] Oh Boy, Was I Wrong About Her - S01E09 - Truly Special (...` | **1425.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/684368) • [🐱 Nyaa](https://nyaa.si/view/2154465) |
-| `[AnoZu] Oh Boy, Was I Wrong About Her S01E09 1080p CR WEB-DL AAC 2....` | **1412.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/684369) • [🐱 Nyaa](https://nyaa.si/view/2154463) |
-| `[Erai-raws] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Dans...` | **1390.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/684373) • [🐱 Nyaa](https://nyaa.si/view/2154458) |
-| `[SubsPlus+] The Forsaken Saintess and Her Foodie Roadtrip in Anothe...` | **560.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/684362) • [🐱 Nyaa](https://nekobt.to/torrents/13439493660423) |
-| `[Lazyleido-Mini] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Veng...` | **552.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/684365) • [🐱 Nyaa](https://nyaa.si/view/2154445) |
-| `[Lazyleido] Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance...` | **1877.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/684366) • [🐱 Nyaa](https://nyaa.si/view/2154444) |
-| `[ToonsHub] A Livid Ladys Guide to Getting Even How I Crushed My Hom...` | **1432.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/684361) • [🐱 Nyaa](https://nyaa.si/view/2154442) |
-| `[AnoZu] A Livid Lady's Guide to Getting Even: How I Crushed My Home...` | **1414.14 MB** | [🌐 Tosho](https://animetosho.xyz/view/684359) • [🐱 Nyaa](https://nyaa.si/view/2154441) |
-| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **873.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/684360) • [🐱 Nyaa](https://nyaa.si/view/2154440) |
-| `[SubsPlease] Suterare Seijo no Isekai Gohan Tabi - 09 (1080p) [0CBB...` | **871.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/684342) • [🐱 Nyaa](https://nyaa.si/view/2154439) |
-| `[ToonsHub] The Forsaken Saintess and Her Foodie Roadtrip in Another...` | **873.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/684346) • [🐱 Nyaa](https://nyaa.si/view/2154436) |
-| `A Livid Ladys Guide to Getting Even How I Crushed My Homeland with ...` | **1409.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/684348) • [🐱 Nyaa](https://nyaa.si/view/2154435) |
-| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **559.23 MB** | [🌐 Tosho](https://animetosho.xyz/view/684363) • [🐱 Nyaa](https://nekobt.to/torrents/13439276466186) |
-| `The Forsaken Saintess and Her Foodie Roadtrip in Another World S01E...` | **560.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/684352) • [🐱 Nyaa](https://nyaa.si/view/2154430) |
+| `[Breeze] Mushoku Tensei S03E08 [1080p AV1 Dual Audio] | Jobless Rei...` | **789.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684436) • [🐱 Nyaa](https://nyaa.si/view/2154612) |
+| `[Doomdos] - Robber x Lover - S01 [1080P WEB-DL BATCH]` | **4341.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/684438) • [🐱 Nyaa](https://nyaa.si/view/2154609) |
+| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **717.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/684440) • [🐱 Nyaa](https://nyaa.si/view/2154607) |
+| `[DKB] World Is Dancing - S01E10 [1080p][HEVC x265 10bit][weekly]` | **345.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/684441) • [🐱 Nyaa](https://nyaa.si/view/2154605) |
+| `[HatSubs] One Piece 1176 (WEB 1080p) [89B17C7D].mkv` | **1372.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/684443) • [🐱 Nyaa](https://nyaa.si/view/2154604) |
+| `[ToonsHub] Flaming Dodgeball Girl Danko S01E09 1080p AMZN WEB-DL DD...` | **914.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/684435) • [🐱 Nyaa](https://nekobt.to/torrents/13443184462089) |
+| `[sandoe41] Saving 80,000 Gold in Another World for My Retirement [S...` | **7624.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/684444) • [🐱 Nyaa](https://nyaa.si/view/2154602) |
+| `[BlackRose] Rich Girl Caretaker - S01E09 (WEB 1080p HEVC 10-bit EAC...` | **1330.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/684437) • [🐱 Nyaa](https://nekobt.to/torrents/13442959426312) |
+| `[WOR] KAMUI - He's behind you S01E06 [WebEncode 1080p HEVC EAC3] mu...` | **1011.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/684446) • [🐱 Nyaa](https://nyaa.si/view/2154572) |
+| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **325.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/684439) • [🐱 Nyaa](https://nekobt.to/torrents/13442556444425) |
+| `[Ironclad] A Livid Lady's Guide to Getting Even: How I Crushed My H...` | **311.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/684442) • [🐱 Nyaa](https://nekobt.to/torrents/13442382065160) |
+| `[Mocha] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **654.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/684445) • [🐱 Nyaa](https://nekobt.to/torrents/13442360179718) |
+| `One Piece EP1176 REPACK SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsun...` | **842.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/684448) • [🐱 Nyaa](https://nekobt.to/torrents/13442162855946) |
+| `[Judas] Liar Game - S01E22 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **239.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/684433) • [🐱 Nyaa](https://nyaa.si/view/2154559) |
+| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E09 [1080p]...` | **230.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/684434) • [🐱 Nyaa](https://nyaa.si/view/2154558) |
 
 ---
 <div align="center">
