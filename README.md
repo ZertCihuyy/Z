@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.33.15_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-04.22.16_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E10 (1080p WE...` | **681.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/684633) • [🐱 Nyaa](https://nekobt.to/torrents/13467229377551) |
+| `[FrixySubs] Futsutsuka na Akujo de wa Gozaimasu ga - S01E07 [1080p ...` | **1396.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/684634) • [🐱 Nyaa](https://nekobt.to/torrents/13467169122829) |
+| `[SubsPlease] Kanojo, Okarishimasu (25-36) (1080p) [Batch]` | **16621.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/684630) • [🐱 Nyaa](https://nyaa.si/view/2154998) |
+| `[FrixySubs] Oh Boy Was I Wrong About Her - S01E09 [1080p CR WEB-DL ...` | **1394.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/684629) • [🐱 Nyaa](https://nekobt.to/torrents/13466714233609) |
+| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E09 [WEB.1080p.AV1] | R...` | **195.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/684628) • [🐱 Nyaa](https://nyaa.si/view/2154991) |
 | `[ASW] Sora wa Akai Kawa no Hotori - 09 [1080p HEVC x265 10Bit][AAC]` | **233.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/684626) • [🐱 Nyaa](https://nyaa.si/view/2154950) |
 | `[Onalrie] Sora wa Akai Kawa no Hotori - S01E09 [1080p WEBRip AV1]` | **192.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/684625) • [🐱 Nyaa](https://nekobt.to/torrents/13464633497096) |
 | `[Ironclad] THE GHOST IN THE SHELL - S01E09 [WEB.1080p.AV1] | THE GH...` | **510.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/684624) • [🐱 Nyaa](https://nyaa.si/view/2154948) |
@@ -43,11 +48,6 @@
 | `[Cattleya] Red River - S01E09 - The Sign on the Palm (CR WEB-DL 108...` | **1340.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/684615) • [🐱 Nyaa](https://nyaa.si/view/2154941) |
 | `[SubsPlease] Sora wa Akai Kawa no Hotori - 09 (1080p) [F4EB10EE].mkv` | **1328.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/684616) • [🐱 Nyaa](https://nyaa.si/view/2154940) |
 | `Red River (2026) S01E09 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1333.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/684611) • [🐱 Nyaa](https://nekobt.to/torrents/13464132269062) |
-| `[Erai-raws] Sora wa Akai Kawa no Hotori - 09 [1080p CR WEB-DL AVC A...` | **1336.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684614) • [🐱 Nyaa](https://nyaa.si/view/2154933) |
-| `[DKB] The Ghost in the Shell - S01E09 [1080p][HEVC x265 10bit][Dual...` | **579.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/684610) • [🐱 Nyaa](https://nyaa.si/view/2154921) |
-| `[Gecko] GROW UP SHOW -Sunflower Circus- - S01E09 (グロウアップショウ ～ひまわりのサ...` | **709.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/684609) • [🐱 Nyaa](https://nekobt.to/torrents/13463399155721) |
-| `[Judas] Koukaku Kidoutai (2026) (The Ghost in the Shell) - S01E09 [...` | **460.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/684608) • [🐱 Nyaa](https://nyaa.si/view/2154919) |
-| `[ASW] Yoroi Shin Den Samurai Troopers - 21 [1080p HEVC x265 10Bit][...` | **598.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/684607) • [🐱 Nyaa](https://nyaa.si/view/2154914) |
 
 ---
 <div align="center">
