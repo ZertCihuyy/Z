@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.28.40_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.33.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[PacMan] The.Ghost.In.The.Shell.(2026).S01E01.1080p.WEB-DL.AAC2.0.H...` | **478.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684464) • [🐱 Nyaa](https://nekobt.to/torrents/13447459171842) |
-| `[SubVision] World Is Dancing - 07 (WEB 1080p x264 8Bit AAC)` | **658.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/684462) • [🐱 Nyaa](https://nekobt.to/torrents/13447360491273) |
-| `[SubsPlease] Kanojo, Okarishimasu (13-24) (1080p) [Batch]` | **17072.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/684460) • [🐱 Nyaa](https://nyaa.si/view/2154633) |
-| `[DKB] Grand Blue - S03E09 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **347.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/684456) • [🐱 Nyaa](https://nyaa.si/view/2154629) |
-| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **280.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/684457) • [🐱 Nyaa](https://nyaa.si/view/2154628) |
-| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **254.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/684458) • [🐱 Nyaa](https://nyaa.si/view/2154627) |
-| `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E21 108...` | **207.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/684453) • [🐱 Nyaa](https://nyaa.si/view/2154626) |
-| `[SubsPlease] Kanojo, Okarishimasu (01-12) (1080p) [Batch]` | **17084.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/684454) • [🐱 Nyaa](https://nyaa.si/view/2154625) |
-| `[AnoZu] Sasaki and Miyano: Graduation 2023 1080p CR WEB-DL Dual-Aud...` | **3622.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/684451) • [🐱 Nyaa](https://nyaa.si/view/2154622) |
-| `[GalaxyCauldron] Bleach Thousand-Year Blood War - 46 (1080p WEB-DL ...` | **1641.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/684450) • [🐱 Nyaa](https://nekobt.to/torrents/13445519463175) |
-| `[FLAV1N] Fumetsu no Anata e - S01-S02 (BD 1080p AV1 Opus) [Multi-Su...` | **12657.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/684449) • [🐱 Nyaa](https://nyaa.si/view/2154620) |
-| `[Breeze] Mushoku Tensei S03E08 [1080p AV1 Dual Audio] | Jobless Rei...` | **789.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684436) • [🐱 Nyaa](https://nyaa.si/view/2154612) |
-| `[Doomdos] - Robber x Lover - S01 [1080P WEB-DL BATCH]` | **4341.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/684438) • [🐱 Nyaa](https://nyaa.si/view/2154609) |
-| `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **717.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/684440) • [🐱 Nyaa](https://nyaa.si/view/2154607) |
-| `[DKB] World Is Dancing - S01E10 [1080p][HEVC x265 10bit][weekly]` | **345.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/684441) • [🐱 Nyaa](https://nyaa.si/view/2154605) |
+| `[PacMan] Solo.Leveling.S02E13.1080p.WEB-DL.AAC2.0.H.264[Milti-Subs]...` | **448.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/684496) • [🐱 Nyaa](https://nekobt.to/torrents/13452321424643) |
+| `[PacMan] Solo.Leveling.S02E12.1080p.WEB-DL.AAC2.0.H.264[Milti-Subs]...` | **482.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/684497) • [🐱 Nyaa](https://nekobt.to/torrents/13452295956225) |
+| `[PacMan] Solo.Leveling.S02E11.1080p.WEB-DL.AAC2.0.H.264[Milti-Subs]...` | **516.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/684498) • [🐱 Nyaa](https://nekobt.to/torrents/13452273152000) |
+| `[ASW] Bai Ri Cheng Wang - 21 [1080p HEVC x265 10Bit][AAC]` | **152.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/684495) • [🐱 Nyaa](https://nyaa.si/view/2154722) |
+| `[ToonsHub] Crowned in a Hundred Days S01E21 1080p CR WEB-DL AAC2.0 ...` | **627.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/684494) • [🐱 Nyaa](https://nyaa.si/view/2154716) |
+| `[PacMan] Solo.Leveling.S02E10.1080p.WEB-DL.AAC2.0.H.264[Milti-Subs]...` | **453.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/684487) • [🐱 Nyaa](https://nekobt.to/torrents/13451724613640) |
+| `[AnoZu] Crowned in a Hundred Days S01E21 1080p CR WEB-DL AAC 2.0 H.264` | **629.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/684488) • [🐱 Nyaa](https://nekobt.to/torrents/13451714351616) |
+| `Crowned in a Hundred Days S01E21 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **630.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/684481) • [🐱 Nyaa](https://nyaa.si/view/2154712) |
+| `[Gecko] Crowned in a Hundred Days - S01E21 (百日成王; Bai Ri Cheng Wang...` | **151.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/684482) • [🐱 Nyaa](https://nyaa.si/view/2154711) |
+| `[SubsPlease] Bai Ri Cheng Wang - 21 (1080p) [D9CC5D01].mkv` | **625.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/684483) • [🐱 Nyaa](https://nyaa.si/view/2154709) |
+| `Crowned in a Hundred Days S01E21 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **624.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/684491) • [🐱 Nyaa](https://nekobt.to/torrents/13451688621826) |
+| `[ToonsHub] Crowned in a Hundred Days S01E21 1080p BILI WEB-DL AAC2....` | **148.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/684490) • [🐱 Nyaa](https://nyaa.si/view/2154702) |
+| `[Erai-raws] Crowned in a Hundred Days - 21 (CA) [1080p CR WEB-DL AV...` | **437.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/684492) • [🐱 Nyaa](https://nyaa.si/view/2154701) |
+| `[AI-Raws] Project A-ko プロジェクトA子 BDRip 4K/1080p MKV` | **50307.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/684480) • [🐱 Nyaa](https://nyaa.si/view/2154700) |
+| `[PacMan] Solo.Leveling.S02E09.1080p.WEB-DL.AAC2.0.H.264[Milti-Subs]...` | **414.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/684479) • [🐱 Nyaa](https://nekobt.to/torrents/13451506209536) |
 
 ---
 <div align="center">
