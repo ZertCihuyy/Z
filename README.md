@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-03.50.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.28.40_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[PacMan] The.Ghost.In.The.Shell.(2026).S01E01.1080p.WEB-DL.AAC2.0.H...` | **478.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684464) • [🐱 Nyaa](https://nekobt.to/torrents/13447459171842) |
+| `[SubVision] World Is Dancing - 07 (WEB 1080p x264 8Bit AAC)` | **658.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/684462) • [🐱 Nyaa](https://nekobt.to/torrents/13447360491273) |
+| `[SubsPlease] Kanojo, Okarishimasu (13-24) (1080p) [Batch]` | **17072.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/684460) • [🐱 Nyaa](https://nyaa.si/view/2154633) |
+| `[DKB] Grand Blue - S03E09 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **347.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/684456) • [🐱 Nyaa](https://nyaa.si/view/2154629) |
+| `[DKB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to ...` | **280.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/684457) • [🐱 Nyaa](https://nyaa.si/view/2154628) |
+| `[DKB] Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping ...` | **254.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/684458) • [🐱 Nyaa](https://nyaa.si/view/2154627) |
+| `[ToonsHub] Elegy for the Henchmen Fist of the North Star S01E21 108...` | **207.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/684453) • [🐱 Nyaa](https://nyaa.si/view/2154626) |
+| `[SubsPlease] Kanojo, Okarishimasu (01-12) (1080p) [Batch]` | **17084.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/684454) • [🐱 Nyaa](https://nyaa.si/view/2154625) |
+| `[AnoZu] Sasaki and Miyano: Graduation 2023 1080p CR WEB-DL Dual-Aud...` | **3622.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/684451) • [🐱 Nyaa](https://nyaa.si/view/2154622) |
+| `[GalaxyCauldron] Bleach Thousand-Year Blood War - 46 (1080p WEB-DL ...` | **1641.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/684450) • [🐱 Nyaa](https://nekobt.to/torrents/13445519463175) |
+| `[FLAV1N] Fumetsu no Anata e - S01-S02 (BD 1080p AV1 Opus) [Multi-Su...` | **12657.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/684449) • [🐱 Nyaa](https://nyaa.si/view/2154620) |
 | `[Breeze] Mushoku Tensei S03E08 [1080p AV1 Dual Audio] | Jobless Rei...` | **789.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684436) • [🐱 Nyaa](https://nyaa.si/view/2154612) |
 | `[Doomdos] - Robber x Lover - S01 [1080P WEB-DL BATCH]` | **4341.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/684438) • [🐱 Nyaa](https://nyaa.si/view/2154609) |
 | `[DKB] Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chi...` | **717.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/684440) • [🐱 Nyaa](https://nyaa.si/view/2154607) |
 | `[DKB] World Is Dancing - S01E10 [1080p][HEVC x265 10bit][weekly]` | **345.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/684441) • [🐱 Nyaa](https://nyaa.si/view/2154605) |
-| `[HatSubs] One Piece 1176 (WEB 1080p) [89B17C7D].mkv` | **1372.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/684443) • [🐱 Nyaa](https://nyaa.si/view/2154604) |
-| `[ToonsHub] Flaming Dodgeball Girl Danko S01E09 1080p AMZN WEB-DL DD...` | **914.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/684435) • [🐱 Nyaa](https://nekobt.to/torrents/13443184462089) |
-| `[sandoe41] Saving 80,000 Gold in Another World for My Retirement [S...` | **7624.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/684444) • [🐱 Nyaa](https://nyaa.si/view/2154602) |
-| `[BlackRose] Rich Girl Caretaker - S01E09 (WEB 1080p HEVC 10-bit EAC...` | **1330.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/684437) • [🐱 Nyaa](https://nekobt.to/torrents/13442959426312) |
-| `[WOR] KAMUI - He's behind you S01E06 [WebEncode 1080p HEVC EAC3] mu...` | **1011.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/684446) • [🐱 Nyaa](https://nyaa.si/view/2154572) |
-| `[ToonsHub] The 100 Girlfriends Who Really Really Really Really REAL...` | **325.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/684439) • [🐱 Nyaa](https://nekobt.to/torrents/13442556444425) |
-| `[Ironclad] A Livid Lady's Guide to Getting Even: How I Crushed My H...` | **311.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/684442) • [🐱 Nyaa](https://nekobt.to/torrents/13442382065160) |
-| `[Mocha] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **654.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/684445) • [🐱 Nyaa](https://nekobt.to/torrents/13442360179718) |
-| `One Piece EP1176 REPACK SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsun...` | **842.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/684448) • [🐱 Nyaa](https://nekobt.to/torrents/13442162855946) |
-| `[Judas] Liar Game - S01E22 [1080p][HEVC x265 10bit][Multi-Subs] (We...` | **239.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/684433) • [🐱 Nyaa](https://nyaa.si/view/2154559) |
-| `[DKB] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - S01E09 [1080p]...` | **230.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/684434) • [🐱 Nyaa](https://nyaa.si/view/2154558) |
 
 ---
 <div align="center">
