@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-17.29.01_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.08.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -30,21 +30,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Gintama S04 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raws (V...` | **42421.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/684507) • [🐱 Nyaa](https://nekobt.to/torrents/13457417081095) |
-| `Gintama S03 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raws (V...` | **45195.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/684506) • [🐱 Nyaa](https://nekobt.to/torrents/13457142317570) |
-| `[Onalrie] Crowned in a Hundred Days - S01E21 (CA) [1080p WEBRip AV1]` | **125.21 MB** | [🌐 Tosho](https://animetosho.xyz/view/684504) • [🐱 Nyaa](https://nekobt.to/torrents/13455009687557) |
-| `[Knight-Subs] Bleach Thousand-Year Blood War - E41v2 - GOD OF THUND...` | **1785.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/684505) • [🐱 Nyaa](https://nekobt.to/torrents/13454956731401) |
-| `[Blazing] Honoo no Toukyuujo - Dodge Danko - 09 (1080p) [41H0KUT0]` | **914.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/684503) • [🐱 Nyaa](https://nyaa.si/view/2154733) |
-| `[Knight-Subs] Bleach Thousand-Year Blood War - E41 - GOD OF THUNDER...` | **1487.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/684502) • [🐱 Nyaa](https://nekobt.to/torrents/13453912400903) |
-| `Fukufuku no Chizu (1080p) [79D6E89C]` | **91.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/684501) • [🐱 Nyaa](https://nyaa.si/view/2154731) |
-| `[Sokudo] Bleach Thousand-Year Blood War S17E41 [1080p AV1 Dual Audi...` | **479.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/684499) • [🐱 Nyaa](https://nyaa.si/view/2154730) |
-| `[Breeze] Bleach Thousand-Year Blood War S17E41 [1080p AV1 Dual Audi...` | **987.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/684500) • [🐱 Nyaa](https://nyaa.si/view/2154729) |
-| `[PacMan] Solo.Leveling.S02E13.1080p.WEB-DL.AAC2.0.H.264[Milti-Subs]...` | **448.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/684496) • [🐱 Nyaa](https://nekobt.to/torrents/13452321424643) |
-| `[PacMan] Solo.Leveling.S02E12.1080p.WEB-DL.AAC2.0.H.264[Milti-Subs]...` | **482.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/684497) • [🐱 Nyaa](https://nekobt.to/torrents/13452295956225) |
-| `[PacMan] Solo.Leveling.S02E11.1080p.WEB-DL.AAC2.0.H.264[Milti-Subs]...` | **516.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/684498) • [🐱 Nyaa](https://nekobt.to/torrents/13452273152000) |
-| `[ASW] Bai Ri Cheng Wang - 21 [1080p HEVC x265 10Bit][AAC]` | **152.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/684495) • [🐱 Nyaa](https://nyaa.si/view/2154722) |
-| `[ToonsHub] Crowned in a Hundred Days S01E21 1080p CR WEB-DL AAC2.0 ...` | **627.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/684494) • [🐱 Nyaa](https://nyaa.si/view/2154716) |
-| `[PacMan] Solo.Leveling.S02E10.1080p.WEB-DL.AAC2.0.H.264[Milti-Subs]...` | **453.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/684487) • [🐱 Nyaa](https://nekobt.to/torrents/13451724613640) |
+| `[Cattleya] Victoria of Many Faces - S01E09 - No Matter What Happens...` | **1392.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/684572) • [🐱 Nyaa](https://nyaa.si/view/2154870) |
+| `[Cattleya] Yoroi-Shinden Samurai Troopers - S01E21 - Warning (CR WE...` | **1723.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/684573) • [🐱 Nyaa](https://nyaa.si/view/2154868) |
+| `[SubsPlease] Tefuda ga Oome no Victoria - 09 (1080p) [571DA8F8].mkv` | **1378.89 MB** | [🌐 Tosho](https://animetosho.xyz/view/684574) • [🐱 Nyaa](https://nyaa.si/view/2154867) |
+| `[SubsWhen] False Memory (2026) - S01E04 (AMZN WEB-DL 1080p H.264 DD...` | **1737.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/684571) • [🐱 Nyaa](https://nyaa.si/view/2154849) |
+| `THE GHOST IN THE SHELL S01E09 MULTi 1080p AMZN WEB-DL DDP2.0 H.265-...` | **610.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/684568) • [🐱 Nyaa](https://nekobt.to/torrents/13461788900864) |
+| `THE GHOST IN THE SHELL S01E09 MULTi 1080p AMZN WEB-DL DDP2.0 H.264-...` | **1743.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/684569) • [🐱 Nyaa](https://nekobt.to/torrents/13461782671375) |
+| `THE GHOST IN THE SHELL S01E09 MULTi 1080p AMZN WEB-DL DDP2.0 AV1-Ts...` | **449.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/684570) • [🐱 Nyaa](https://nekobt.to/torrents/13461777157376) |
+| `[SubsWhen] False Memory (2026) - S01E03 (AMZN WEB-DL 1080p H.264 DD...` | **1763.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/684567) • [🐱 Nyaa](https://nyaa.si/view/2154845) |
+| `[Onalrie] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nag...` | **159.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/684566) • [🐱 Nyaa](https://nekobt.to/torrents/13461560420871) |
+| `[ToonsHub] THE GHOST IN THE SHELL S01E09 1080p AMZN WEB-DL MULTi DD...` | **2019.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/684563) • [🐱 Nyaa](https://nyaa.si/view/2154844) |
+| `[ToonsHub] THE GHOST IN THE SHELL S01E09 1080p AMZN WEB-DL DUAL DDP...` | **1744.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/684564) • [🐱 Nyaa](https://nyaa.si/view/2154843) |
+| `[ToonsHub] THE GHOST IN THE SHELL S01E09 1080p AMZN WEB-DL DUAL DDP...` | **611.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/684565) • [🐱 Nyaa](https://nyaa.si/view/2154842) |
+| `[Judas] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagas...` | **186.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/684562) • [🐱 Nyaa](https://nyaa.si/view/2154838) |
+| `[ASW] Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu ...` | **177.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/684561) • [🐱 Nyaa](https://nyaa.si/view/2154835) |
+| `[DKB] Kimi ga Shinu made Koi wo Shitai - S01E09 [1080p][HEVC x265 1...` | **190.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/684557) • [🐱 Nyaa](https://nyaa.si/view/2154832) |
 
 ---
 <div align="center">
