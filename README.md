@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.22.16_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-06.29.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[AnoZu] Tamon's B-Side S01 REPACK 1080p CR WEB-DL Dual-Audio DDP 2....` | **18927.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/684641) • [🐱 Nyaa](https://nekobt.to/torrents/13468891088139) |
+| `[Later] Bleach TYBW 41 (Web 1080p x264 10bit, Dual EAC3 AAC, Dual ASS)` | **3823.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/684640) • [🐱 Nyaa](https://nyaa.si/view/2155005) |
+| `[SubsPlease] Kanojo, Okarishimasu (37-48) (1080p) [Batch]` | **17080.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/684637) • [🐱 Nyaa](https://nyaa.si/view/2155004) |
+| `Hananoi-kun to Koi no Yamai (A Condition Called Love) [S01] (1080p)...` | **10895.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/684636) • [🐱 Nyaa](https://nyaa.si/view/2155001) |
+| `Hananoi-kun to Koi no Yamai (A Condition Called Love) [S01] (1080p)...` | **10895.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/684635) • [🐱 Nyaa](https://nyaa.si/view/2155000) |
 | `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E10 (1080p WE...` | **681.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/684633) • [🐱 Nyaa](https://nekobt.to/torrents/13467229377551) |
 | `[FrixySubs] Futsutsuka na Akujo de wa Gozaimasu ga - S01E07 [1080p ...` | **1396.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/684634) • [🐱 Nyaa](https://nekobt.to/torrents/13467169122829) |
 | `[SubsPlease] Kanojo, Okarishimasu (25-36) (1080p) [Batch]` | **16621.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/684630) • [🐱 Nyaa](https://nyaa.si/view/2154998) |
@@ -43,11 +48,6 @@
 | `[Ironclad] THE GHOST IN THE SHELL - S01E09 [WEB.1080p.AV1] | THE GH...` | **510.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/684624) • [🐱 Nyaa](https://nyaa.si/view/2154948) |
 | `[DKB] Tefuda ga Oome no Victoria - S01E09 [1080p][HEVC x265 10bit][...` | **239.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/684623) • [🐱 Nyaa](https://nyaa.si/view/2154945) |
 | `[VARYG] Red River 2026 S01E09 The Sign on the Palm 1080p CR WEB-DL ...` | **1339.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/684622) • [🐱 Nyaa](https://nekobt.to/torrents/13464267190788) |
-| `[ToonsHub] Red River 2026 S01E09 1080p CR WEB-DL AAC2.0 H.264 (Mult...` | **1337.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/684620) • [🐱 Nyaa](https://nyaa.si/view/2154944) |
-| `[AnoZu] Red River 2026 S01E09 1080p CR WEB-DL AAC 2.0 H.264 | Sora ...` | **1340.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/684621) • [🐱 Nyaa](https://nyaa.si/view/2154942) |
-| `[Cattleya] Red River - S01E09 - The Sign on the Palm (CR WEB-DL 108...` | **1340.40 MB** | [🌐 Tosho](https://animetosho.xyz/view/684615) • [🐱 Nyaa](https://nyaa.si/view/2154941) |
-| `[SubsPlease] Sora wa Akai Kawa no Hotori - 09 (1080p) [F4EB10EE].mkv` | **1328.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/684616) • [🐱 Nyaa](https://nyaa.si/view/2154940) |
-| `Red River (2026) S01E09 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1333.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/684611) • [🐱 Nyaa](https://nekobt.to/torrents/13464132269062) |
 
 ---
 <div align="center">
