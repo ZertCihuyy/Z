@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.19.08_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.17.00_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ZeroReverse] False Memory - S01E04 (WEBRip 1080p x265 10-bit EAC-3)` | **4389.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/684656) • [🐱 Nyaa](https://nekobt.to/torrents/13475528421380) |
+| `[PacMan] Solo.Leveling.S01E5.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **599.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/684655) • [🐱 Nyaa](https://nekobt.to/torrents/13474499719172) |
+| `[PacMan] Solo.Leveling.S01E4.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **778.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/684654) • [🐱 Nyaa](https://nekobt.to/torrents/13474289222661) |
+| `[ZeroReverse] False Memory - S01E03 (WEBRip 1080p x265 10-bit EAC-3)` | **4733.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/684652) • [🐱 Nyaa](https://nekobt.to/torrents/13474149639951) |
+| `[PacMan] Solo.Leveling.S01E3.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **587.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/684653) • [🐱 Nyaa](https://nekobt.to/torrents/13474087836431) |
+| `[PacMan] Solo.Leveling.S01E2.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **710.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/684650) • [🐱 Nyaa](https://nekobt.to/torrents/13473769824526) |
+| `[PacMan] Solo.Leveling.S01E1.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **651.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/684651) • [🐱 Nyaa](https://nekobt.to/torrents/13473696405773) |
+| `[ToonsHub] Hotori Simply Wishing For Hope (2005) 1080p DR WEB-DL AA...` | **377.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/684649) • [🐱 Nyaa](https://nyaa.si/view/2155078) |
+| `[ToonsHub] Junk Head (2022) 1080p DR WEB-DL AAC2.0 H.264 (English-Sub)` | **3507.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/684648) • [🐱 Nyaa](https://nyaa.si/view/2155077) |
+| `[ToonsHub] Fabulous Beasts S06E06 1080p BILI WEB-DL AAC2.0 H.265 (Y...` | **146.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/684647) • [🐱 Nyaa](https://nyaa.si/view/2155053) |
+| `[Gecko] Fabulous Beasts - S06E06 (有兽焉; You Shou Yan 6th Season) [BI...` | **166.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/684645) • [🐱 Nyaa](https://nyaa.si/view/2155047) |
+| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E15 1080p BILI WEB-DL ...` | **343.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/684646) • [🐱 Nyaa](https://nyaa.si/view/2155040) |
+| `[Doomdos] - Raised by Demons Panda Li - 8 [1080p IQ WEB-DL]` | **333.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/684644) • [🐱 Nyaa](https://nyaa.si/view/2155024) |
+| `[ToonsHub] Raised by Demons Panda Li S01E08 1080p iQ WEB-DL AAC2.0 ...` | **333.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/684642) • [🐱 Nyaa](https://nyaa.si/view/2155023) |
 | `[AnoZu] Tamon's B-Side S01 REPACK 1080p CR WEB-DL Dual-Audio DDP 2....` | **18927.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/684641) • [🐱 Nyaa](https://nekobt.to/torrents/13468891088139) |
-| `[Later] Bleach TYBW 41 (Web 1080p x264 10bit, Dual EAC3 AAC, Dual ASS)` | **3823.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/684640) • [🐱 Nyaa](https://nyaa.si/view/2155005) |
-| `[SubsPlease] Kanojo, Okarishimasu (37-48) (1080p) [Batch]` | **17080.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/684637) • [🐱 Nyaa](https://nyaa.si/view/2155004) |
-| `Hananoi-kun to Koi no Yamai (A Condition Called Love) [S01] (1080p)...` | **10895.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/684636) • [🐱 Nyaa](https://nyaa.si/view/2155001) |
-| `Hananoi-kun to Koi no Yamai (A Condition Called Love) [S01] (1080p)...` | **10895.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/684635) • [🐱 Nyaa](https://nyaa.si/view/2155000) |
-| `[Sonomama] Mushoku Tensei: Jobless Reincarnation - S03E10 (1080p WE...` | **681.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/684633) • [🐱 Nyaa](https://nekobt.to/torrents/13467229377551) |
-| `[FrixySubs] Futsutsuka na Akujo de wa Gozaimasu ga - S01E07 [1080p ...` | **1396.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/684634) • [🐱 Nyaa](https://nekobt.to/torrents/13467169122829) |
-| `[SubsPlease] Kanojo, Okarishimasu (25-36) (1080p) [Batch]` | **16621.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/684630) • [🐱 Nyaa](https://nyaa.si/view/2154998) |
-| `[FrixySubs] Oh Boy Was I Wrong About Her - S01E09 [1080p CR WEB-DL ...` | **1394.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/684629) • [🐱 Nyaa](https://nekobt.to/torrents/13466714233609) |
-| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E09 [WEB.1080p.AV1] | R...` | **195.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/684628) • [🐱 Nyaa](https://nyaa.si/view/2154991) |
-| `[ASW] Sora wa Akai Kawa no Hotori - 09 [1080p HEVC x265 10Bit][AAC]` | **233.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/684626) • [🐱 Nyaa](https://nyaa.si/view/2154950) |
-| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E09 [1080p WEBRip AV1]` | **192.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/684625) • [🐱 Nyaa](https://nekobt.to/torrents/13464633497096) |
-| `[Ironclad] THE GHOST IN THE SHELL - S01E09 [WEB.1080p.AV1] | THE GH...` | **510.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/684624) • [🐱 Nyaa](https://nyaa.si/view/2154948) |
-| `[DKB] Tefuda ga Oome no Victoria - S01E09 [1080p][HEVC x265 10bit][...` | **239.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/684623) • [🐱 Nyaa](https://nyaa.si/view/2154945) |
-| `[VARYG] Red River 2026 S01E09 The Sign on the Palm 1080p CR WEB-DL ...` | **1339.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/684622) • [🐱 Nyaa](https://nekobt.to/torrents/13464267190788) |
 
 ---
 <div align="center">
