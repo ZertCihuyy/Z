@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.36.37_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.18.39_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,15 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Cat Tales S01E47 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **53.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/684706) • [🐱 Nyaa](https://nyaa.si/view/2155168) |
-| `[Gecko] Cat Tales - S01E47 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **27.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/684704) • [🐱 Nyaa](https://nekobt.to/torrents/13480343444493) |
-| `Bleach 367 Remaster [Thousand-Year Blood War] (BDRip 1080p x265 AAC...` | **764.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/684703) • [🐱 Nyaa](https://nyaa.si/view/2155163) |
-| `[ToonsHub] BLEACH Thousand-Year Blood War S01E41 1080p DSNP WEB-DL ...` | **1112.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/684687) • [🐱 Nyaa](https://nekobt.to/torrents/13479130342924) |
-| `[Doomdos] - My Grave Nourishes My Cultivation - 9 [1080p IQ WEB-DL]` | **116.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/684671) • [🐱 Nyaa](https://nyaa.si/view/2155120) |
-| `[Doomdos] - Daqian Town - 12 [1080p IQ WEB-DL]` | **106.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/684670) • [🐱 Nyaa](https://nyaa.si/view/2155119) |
-| `[Doomdos] - My Grave Nourishes My Cultivation - 8 [1080p IQ WEB-DL]` | **121.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/684667) • [🐱 Nyaa](https://nyaa.si/view/2155118) |
-| `[Doomdos] - My Grave Nourishes My Cultivation - 7 [1080p IQ WEB-DL]` | **116.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/684668) • [🐱 Nyaa](https://nyaa.si/view/2155117) |
-| `[Kotobuki] Koukaku Kidoutai (2026) 09 [1080p HEVC Multisub] | The G...` | **246.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/684658) • [🐱 Nyaa](https://nyaa.si/view/2155097) |
+| `[VARYG] Saga of Tanya the Evil S03E01 Saga of Tanya the Evil Operat...` | **1028.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/684790) • [🐱 Nyaa](https://nekobt.to/torrents/13483979973903) |
+| `[Onalrie] Heroine Seijo Iie All Works Maid desu (Hokori) - S01E11 [...` | **179.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/684791) • [🐱 Nyaa](https://nekobt.to/torrents/13483960958478) |
+| `[ASW] Re Zero kara Hajimeru Isekai Seikatsu - 81 [1080p HEVC x265 1...` | **281.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/684788) • [🐱 Nyaa](https://nyaa.si/view/2155292) |
+| `[Doomdos] - My Stepmother and Stepsisters Aren't Wicked - 9 [1080p ...` | **259.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/684789) • [🐱 Nyaa](https://nyaa.si/view/2155291) |
+| `Heroine Saint No Im an All Works Maid And Proud of It S01E11 Episod...` | **1350.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/684786) • [🐱 Nyaa](https://nyaa.si/view/2155287) |
+| `[Onalrie] ReZero kara Hajimeru Isekai Seikatsu - S04E15 [1080p WEBR...` | **234.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/684787) • [🐱 Nyaa](https://nekobt.to/torrents/13483590409483) |
+| `[ToonsHub] Heroine Saint No Im an All-Works Maid And Proud of It S0...` | **1332.85 MB** | [🌐 Tosho](https://animetosho.xyz/view/684781) • [🐱 Nyaa](https://nyaa.si/view/2155285) |
+| `[Cattleya] Heroine? Saint? No, I'm an All-Works Maid (and Proud of ...` | **1367.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/684782) • [🐱 Nyaa](https://nyaa.si/view/2155284) |
+| `[AnoZu] Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)...` | **1353.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/684783) • [🐱 Nyaa](https://nyaa.si/view/2155283) |
+| `My Stepmother and Stepsisters Arent Wicked S01E09 A Disciplined and...` | **718.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/684784) • [🐱 Nyaa](https://nyaa.si/view/2155282) |
+| `[ToonsHub] My Stepmother and Stepsisters Arent Wicked S01E09 1080p ...` | **713.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/684785) • [🐱 Nyaa](https://nyaa.si/view/2155281) |
+| `[SubsPlease] All Works Maid - 11 (1080p) [A70832A7].mkv` | **1322.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/684774) • [🐱 Nyaa](https://nyaa.si/view/2155280) |
+| `Heroine Saint No Im an All Works Maid (And Proud of It) S01E11 SUBF...` | **1326.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/684778) • [🐱 Nyaa](https://nekobt.to/torrents/13483484781832) |
+| `[Erai-raws] Heroine Seijo Iie All Works Maid desu (Hokori) - 11 [10...` | **1332.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/684775) • [🐱 Nyaa](https://nekobt.to/torrents/13483484806665) |
+| `My Stepmother and Stepsisters Arent Wicked S01E09 SUBFRENCH 1080p A...` | **606.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/684780) • [🐱 Nyaa](https://nekobt.to/torrents/13483477645063) |
 
 ---
 <div align="center">
