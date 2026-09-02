@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.17.00_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.36.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,15 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ZeroReverse] False Memory - S01E04 (WEBRip 1080p x265 10-bit EAC-3)` | **4389.08 MB** | [🌐 Tosho](https://animetosho.xyz/view/684656) • [🐱 Nyaa](https://nekobt.to/torrents/13475528421380) |
-| `[PacMan] Solo.Leveling.S01E5.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **599.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/684655) • [🐱 Nyaa](https://nekobt.to/torrents/13474499719172) |
-| `[PacMan] Solo.Leveling.S01E4.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **778.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/684654) • [🐱 Nyaa](https://nekobt.to/torrents/13474289222661) |
-| `[ZeroReverse] False Memory - S01E03 (WEBRip 1080p x265 10-bit EAC-3)` | **4733.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/684652) • [🐱 Nyaa](https://nekobt.to/torrents/13474149639951) |
-| `[PacMan] Solo.Leveling.S01E3.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **587.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/684653) • [🐱 Nyaa](https://nekobt.to/torrents/13474087836431) |
-| `[PacMan] Solo.Leveling.S01E2.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **710.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/684650) • [🐱 Nyaa](https://nekobt.to/torrents/13473769824526) |
-| `[PacMan] Solo.Leveling.S01E1.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **651.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/684651) • [🐱 Nyaa](https://nekobt.to/torrents/13473696405773) |
-| `[ToonsHub] Hotori Simply Wishing For Hope (2005) 1080p DR WEB-DL AA...` | **377.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/684649) • [🐱 Nyaa](https://nyaa.si/view/2155078) |
-| `[ToonsHub] Junk Head (2022) 1080p DR WEB-DL AAC2.0 H.264 (English-Sub)` | **3507.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/684648) • [🐱 Nyaa](https://nyaa.si/view/2155077) |
-| `[ToonsHub] Fabulous Beasts S06E06 1080p BILI WEB-DL AAC2.0 H.265 (Y...` | **146.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/684647) • [🐱 Nyaa](https://nyaa.si/view/2155053) |
-| `[Gecko] Fabulous Beasts - S06E06 (有兽焉; You Shou Yan 6th Season) [BI...` | **166.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/684645) • [🐱 Nyaa](https://nyaa.si/view/2155047) |
-| `[ToonsHub] The Eternal Supreme Li Yunxiao S01E15 1080p BILI WEB-DL ...` | **343.71 MB** | [🌐 Tosho](https://animetosho.xyz/view/684646) • [🐱 Nyaa](https://nyaa.si/view/2155040) |
-| `[Doomdos] - Raised by Demons Panda Li - 8 [1080p IQ WEB-DL]` | **333.95 MB** | [🌐 Tosho](https://animetosho.xyz/view/684644) • [🐱 Nyaa](https://nyaa.si/view/2155024) |
-| `[ToonsHub] Raised by Demons Panda Li S01E08 1080p iQ WEB-DL AAC2.0 ...` | **333.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/684642) • [🐱 Nyaa](https://nyaa.si/view/2155023) |
-| `[AnoZu] Tamon's B-Side S01 REPACK 1080p CR WEB-DL Dual-Audio DDP 2....` | **18927.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/684641) • [🐱 Nyaa](https://nekobt.to/torrents/13468891088139) |
+| `[ToonsHub] Cat Tales S01E47 1080p LNTV WEB-DL AAC2.0 H.264 (Ugoku! ...` | **53.69 MB** | [🌐 Tosho](https://animetosho.xyz/view/684706) • [🐱 Nyaa](https://nyaa.si/view/2155168) |
+| `[Gecko] Cat Tales - S01E47 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **27.31 MB** | [🌐 Tosho](https://animetosho.xyz/view/684704) • [🐱 Nyaa](https://nekobt.to/torrents/13480343444493) |
+| `Bleach 367 Remaster [Thousand-Year Blood War] (BDRip 1080p x265 AAC...` | **764.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/684703) • [🐱 Nyaa](https://nyaa.si/view/2155163) |
+| `[ToonsHub] BLEACH Thousand-Year Blood War S01E41 1080p DSNP WEB-DL ...` | **1112.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/684687) • [🐱 Nyaa](https://nekobt.to/torrents/13479130342924) |
+| `[Doomdos] - My Grave Nourishes My Cultivation - 9 [1080p IQ WEB-DL]` | **116.10 MB** | [🌐 Tosho](https://animetosho.xyz/view/684671) • [🐱 Nyaa](https://nyaa.si/view/2155120) |
+| `[Doomdos] - Daqian Town - 12 [1080p IQ WEB-DL]` | **106.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/684670) • [🐱 Nyaa](https://nyaa.si/view/2155119) |
+| `[Doomdos] - My Grave Nourishes My Cultivation - 8 [1080p IQ WEB-DL]` | **121.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/684667) • [🐱 Nyaa](https://nyaa.si/view/2155118) |
+| `[Doomdos] - My Grave Nourishes My Cultivation - 7 [1080p IQ WEB-DL]` | **116.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/684668) • [🐱 Nyaa](https://nyaa.si/view/2155117) |
+| `[Kotobuki] Koukaku Kidoutai (2026) 09 [1080p HEVC Multisub] | The G...` | **246.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/684658) • [🐱 Nyaa](https://nyaa.si/view/2155097) |
 
 ---
 <div align="center">
