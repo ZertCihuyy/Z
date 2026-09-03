@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.35.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.12.37_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ASW] Tefuda ga Oome no Victoria - 09v2 [1080p HEVC x265 10Bit][AAC]` | **221.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/684996) • [🐱 Nyaa](https://nyaa.si/view/2155692) |
-| `[Gecko] Koala's Diary - S01E47 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **44.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/684994) • [🐱 Nyaa](https://nyaa.si/view/2155691) |
-| `[ToonsHub] Koalas Diary S01E47 1080p LNTV WEB-DL AAC2.0 H.264 (Koal...` | **69.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/684995) • [🐱 Nyaa](https://nyaa.si/view/2155690) |
-| `[SubsPlease] Tefuda ga Oome no Victoria - 09v2 (1080p) [78CFA1F8].mkv` | **1379.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/684991) • [🐱 Nyaa](https://nyaa.si/view/2155684) |
-| `Bleach 368 Remaster [Thousand-Year Blood War] (BDRip 1080p x265 AAC...` | **508.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/684989) • [🐱 Nyaa](https://nyaa.si/view/2155681) |
-| `[Doomdos] - 时光代理人 第三季 - 第5话 - [1080p BILIBILI COM WEB-DL]` | **157.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/684990) • [🐱 Nyaa](https://nyaa.si/view/2155680) |
-| `[ToonsHub] Link Click S04E05 1080p BSITE WEB-DL AAC2.0 H.264 (Shigu...` | **156.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/684987) • [🐱 Nyaa](https://nyaa.si/view/2155677) |
-| `[Doomdos] - 时光代理人 第三季 - 第5话（超大抢先）话 - [1080p BILIBILI COM WEB-DL]` | **157.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/684988) • [🐱 Nyaa](https://nyaa.si/view/2155676) |
-| `[PacMan] Solo.Leveling.S01E07.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **774.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/684983) • [🐱 Nyaa](https://nekobt.to/torrents/13498057891596) |
-| `[PacMan] Solo.Leveling.S01E06.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **744.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/684982) • [🐱 Nyaa](https://nekobt.to/torrents/13497876747527) |
-| `[PacMan] Solo.Leveling.S01E01.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **651.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/684981) • [🐱 Nyaa](https://nekobt.to/torrents/13497431207938) |
-| `[RUBaDUB] Green Green (Complete) (1080p) (Dual Audio)` | **11971.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/684980) • [🐱 Nyaa](https://nyaa.si/view/2155646) |
-| `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E09 (いびってこ...` | **670.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/684979) • [🐱 Nyaa](https://nekobt.to/torrents/13496959857934) |
-| `[ToonsHub] Tomb Raider King S01E09 1080p BILI WEB-DL AAC2.0 H.265 (...` | **310.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/684978) • [🐱 Nyaa](https://nyaa.si/view/2155641) |
-| `[geckyzz] Perfect Addiction - S01E09 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **197.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/684977) • [🐱 Nyaa](https://nyaa.si/view/2155635) |
+| `[ToonsHub] From Overshadowed to Overpowered Second Reincarnation of...` | **1386.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/685077) • [🐱 Nyaa](https://nyaa.si/view/2155827) |
+| `[ToonsHub] Mebius Dust S01E09 1080p CR WEB-DL AAC2.0 H.264 (Multi-S...` | **1401.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/685078) • [🐱 Nyaa](https://nyaa.si/view/2155826) |
+| `[Cattleya] MEBIUS DUST - S01E09 - Empty Crown (CR WEB-DL 1080p AAC ...` | **1424.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/685079) • [🐱 Nyaa](https://nyaa.si/view/2155825) |
+| `[AnoZu] Mebius Dust S01E09 1080p CR WEB-DL AAC 2.0 H.264` | **1383.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/685080) • [🐱 Nyaa](https://nyaa.si/view/2155824) |
+| `[ToonsHub] One-Room TA S01E05 1080p VIKI WEB-DL AAC2.0 H.264 (Wollu...` | **84.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/685081) • [🐱 Nyaa](https://nyaa.si/view/2155823) |
+| `[AnoZu] From Overshadowed to Overpowered: Second Reincarnation of a...` | **1405.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/685082) • [🐱 Nyaa](https://nyaa.si/view/2155822) |
+| `[ToonsHub] One-Room TA S01E04 1080p VIKI WEB-DL AAC2.0 H.264 (Wollu...` | **97.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/685083) • [🐱 Nyaa](https://nyaa.si/view/2155821) |
+| `Mebius Dust S01E09 Empty Crown 1080p CR WEB-DL AAC2.0 H.264-VARYG (...` | **1408.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/685062) • [🐱 Nyaa](https://nyaa.si/view/2155818) |
+| `From Overshadowed to Overpowered Second Reincarnation of a Talentle...` | **1405.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/685063) • [🐱 Nyaa](https://nyaa.si/view/2155817) |
+| `[Cattleya] From Overshadowed to Overpowered: Second Reincarnation o...` | **1401.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/685065) • [🐱 Nyaa](https://nyaa.si/view/2155815) |
+| `[SubsPlease] Rakudai Kenja no Gakuin Musou - 11 (1080p) [6FFD739F].mkv` | **1380.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/685067) • [🐱 Nyaa](https://nyaa.si/view/2155813) |
+| `[Erai-raws] Mebius Dust - 09 [1080p CR WEB-DL AVC AAC][MultiSub][C5...` | **1363.58 MB** | [🌐 Tosho](https://animetosho.xyz/view/685070) • [🐱 Nyaa](https://nyaa.si/view/2155810) |
+| `[Erai-raws] Rakudai Kenja no Gakuin Musou - 11 [1080p CR WEB-DL AVC...` | **1387.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/685073) • [🐱 Nyaa](https://nyaa.si/view/2155807) |
+| `[SubsPlease] Mebius Dust - 09 (1080p) [3C0DC84E].mkv` | **1378.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/685074) • [🐱 Nyaa](https://nyaa.si/view/2155805) |
+| `From Overshadowed to Overpowered Second Reincarnation of a Talentle...` | **1384.06 MB** | [🌐 Tosho](https://animetosho.xyz/view/685060) • [🐱 Nyaa](https://nekobt.to/torrents/13506060940301) |
 
 ---
 <div align="center">
