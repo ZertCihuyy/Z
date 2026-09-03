@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.25.13_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.35.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ASW] Tefuda ga Oome no Victoria - 09v2 [1080p HEVC x265 10Bit][AAC]` | **221.03 MB** | [🌐 Tosho](https://animetosho.xyz/view/684996) • [🐱 Nyaa](https://nyaa.si/view/2155692) |
+| `[Gecko] Koala's Diary - S01E47 (コアラ絵日記; Koala Enikki) [YTB.WEB-DL 1...` | **44.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/684994) • [🐱 Nyaa](https://nyaa.si/view/2155691) |
+| `[ToonsHub] Koalas Diary S01E47 1080p LNTV WEB-DL AAC2.0 H.264 (Koal...` | **69.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/684995) • [🐱 Nyaa](https://nyaa.si/view/2155690) |
+| `[SubsPlease] Tefuda ga Oome no Victoria - 09v2 (1080p) [78CFA1F8].mkv` | **1379.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/684991) • [🐱 Nyaa](https://nyaa.si/view/2155684) |
+| `Bleach 368 Remaster [Thousand-Year Blood War] (BDRip 1080p x265 AAC...` | **508.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/684989) • [🐱 Nyaa](https://nyaa.si/view/2155681) |
+| `[Doomdos] - 时光代理人 第三季 - 第5话 - [1080p BILIBILI COM WEB-DL]` | **157.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/684990) • [🐱 Nyaa](https://nyaa.si/view/2155680) |
+| `[ToonsHub] Link Click S04E05 1080p BSITE WEB-DL AAC2.0 H.264 (Shigu...` | **156.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/684987) • [🐱 Nyaa](https://nyaa.si/view/2155677) |
+| `[Doomdos] - 时光代理人 第三季 - 第5话（超大抢先）话 - [1080p BILIBILI COM WEB-DL]` | **157.65 MB** | [🌐 Tosho](https://animetosho.xyz/view/684988) • [🐱 Nyaa](https://nyaa.si/view/2155676) |
+| `[PacMan] Solo.Leveling.S01E07.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **774.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/684983) • [🐱 Nyaa](https://nekobt.to/torrents/13498057891596) |
 | `[PacMan] Solo.Leveling.S01E06.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **744.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/684982) • [🐱 Nyaa](https://nekobt.to/torrents/13497876747527) |
 | `[PacMan] Solo.Leveling.S01E01.1080p.WEB-DL.AAC2.0.H.264[MultiSub].mkv` | **651.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/684981) • [🐱 Nyaa](https://nekobt.to/torrents/13497431207938) |
 | `[RUBaDUB] Green Green (Complete) (1080p) (Dual Audio)` | **11971.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/684980) • [🐱 Nyaa](https://nyaa.si/view/2155646) |
 | `[Gecko] My Stepmother and Stepsisters Aren't Wicked - S01E09 (いびってこ...` | **670.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/684979) • [🐱 Nyaa](https://nekobt.to/torrents/13496959857934) |
 | `[ToonsHub] Tomb Raider King S01E09 1080p BILI WEB-DL AAC2.0 H.265 (...` | **310.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/684978) • [🐱 Nyaa](https://nyaa.si/view/2155641) |
 | `[geckyzz] Perfect Addiction - S01E09 (パーフェクトアディクション) [CTHP.WEB-DL 1...` | **197.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/684977) • [🐱 Nyaa](https://nyaa.si/view/2155635) |
-| `[Gecko] Cat Tales - S01E47 (うごく！ねこむかしばなし; Ugoku! Neko Mukashibanash...` | **87.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/684975) • [🐱 Nyaa](https://nyaa.si/view/2155631) |
-| `[Gecko] Candy Caries - S01E21 (キャンディーカリエス) [CTHP.WEB-DL 1080P AVC, ...` | **88.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/684974) • [🐱 Nyaa](https://nyaa.si/view/2155627) |
-| `[Gecko] CAPSULES - S01 & S03 (胶囊计划; Jiaonang Jihua) [YTB.WEB-DL 108...` | **4095.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/684973) • [🐱 Nyaa](https://nyaa.si/view/2155624) |
-| `[Doomdos] - Primeval Overlord - 14 [1080p IQ WEB-DL]` | **219.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/684972) • [🐱 Nyaa](https://nyaa.si/view/2155623) |
-| `[Z-A] Re Zero kara Hajimeru Isekai Seikatsu - S04E15 (WEB 1080p AAC)` | **1430.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/684971) • [🐱 Nyaa](https://nekobt.to/torrents/13493784129537) |
-| `[Doomdos] - Against the Gods 2nd Season - 53 [1080p IQ WEB-DL]` | **394.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/684970) • [🐱 Nyaa](https://nyaa.si/view/2155606) |
-| `[Doomdos] - Supreme Alchemy - 191 [1080p IQ WEB-DL]` | **172.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/684969) • [🐱 Nyaa](https://nyaa.si/view/2155604) |
-| `[nekotan] Encouragement of Climb S00E01 - S00E04 Specials (BD 1080p...` | **1672.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/684967) • [🐱 Nyaa](https://nyaa.si/view/2155584) |
-| `[nekotan] Encouragement of Climb S02 (BD 1080p x265 10-bit Opus) | ...` | **9076.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/684964) • [🐱 Nyaa](https://nyaa.si/view/2155579) |
 
 ---
 <div align="center">
