@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-18.36.51_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.07.03_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Bleach 369 Remaster [Thousand-Year Blood War] (BDRip 1080p x265 AAC...` | **655.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/685260) • [🐱 Nyaa](https://nyaa.si/view/2156123) |
-| `[Onalrie] Koukaku Kidoutai (2026) - S01E09 [1080p WEBRip AV1]` | **290.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/685259) • [🐱 Nyaa](https://nekobt.to/torrents/13522506537481) |
-| `[Onalrie] Yani Neko - S01E09 [1080p WEBRip AV1]` | **386.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/685258) • [🐱 Nyaa](https://nekobt.to/torrents/13522053433858) |
-| `[Onalrie] Katainaka no Ossan, Kensei ni Naru - S02E09 [1080p WEBRip...` | **208.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/685257) • [🐱 Nyaa](https://nekobt.to/torrents/13521601501956) |
-| `Uma Musume Cinderella Gray S01 1080p BDRip DDP5.1 x264 (Vol 6 & Vol...` | **11880.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/685256) • [🐱 Nyaa](https://nyaa.si/view/2156119) |
-| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **313.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/685255) • [🐱 Nyaa](https://nyaa.si/view/2156118) |
-| `[Onalrie] Crowned in a Hundred Days - S01E22 (CA) [1080p WEBRip AV1]` | **129.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685254) • [🐱 Nyaa](https://nekobt.to/torrents/13521264371727) |
-| `[Onalrie] Shiguang Dailiren - S03E05 (CA) [1080p WEBRip AV1]` | **173.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/685253) • [🐱 Nyaa](https://nekobt.to/torrents/13521034310915) |
-| `[Erai-raws] Koukaku Kidoutai (2026) - 09 [1080p AMZN WEB-DL AVC EAC...` | **1705.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/685247) • [🐱 Nyaa](https://nyaa.si/view/2156114) |
-| `[Erai-raws] Yani Neko - 09 [1080p NF WEB-DL AVC AAC][MultiSub][72BE...` | **882.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/685249) • [🐱 Nyaa](https://nyaa.si/view/2156112) |
-| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 09 [1080p AMZN ...` | **618.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/685251) • [🐱 Nyaa](https://nyaa.si/view/2156110) |
-| `[GetItTwisted] Kampfer S01 [BD 1080p AVC Opus Dual-Audio] | Kämpfer` | **11854.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/685245) • [🐱 Nyaa](https://nyaa.si/view/2156108) |
-| `[Anime Land] One Piece Film Red (UHD BDRip 1080p AV1 HDR10 TrueHD A...` | **9269.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/685244) • [🐱 Nyaa](https://nyaa.si/view/2156104) |
-| `[ASW] Bai Ri Cheng Wang - 22 [1080p HEVC x265 10Bit][AAC]` | **163.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/685243) • [🐱 Nyaa](https://nyaa.si/view/2156093) |
-| `[Gecko] Koala's Diary - S01E47 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **79.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685241) • [🐱 Nyaa](https://nyaa.si/view/2156091) |
+| `That Time I Got Reincarnated as a Slime S04E18 MULTi 1080p CR WEB-D...` | **1438.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/685311) • [🐱 Nyaa](https://nekobt.to/torrents/13528239168515) |
+| `[VARYG] That Time I Got Reincarnated as a Slime S04E20 Chronoa the ...` | **893.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/685313) • [🐱 Nyaa](https://nekobt.to/torrents/13528200847625) |
+| `[Erai-raws] Tensei Shitara Slime Datta Ken 4th Season - 21 [1080p C...` | **1406.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/685309) • [🐱 Nyaa](https://nyaa.si/view/2156197) |
+| `[ToonsHub] That Time I Got Reincarnated as a Slime S04E21 1080p BIL...` | **251.68 MB** | [🌐 Tosho](https://animetosho.xyz/view/685310) • [🐱 Nyaa](https://nyaa.si/view/2156194) |
+| `[Onalrie] Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen g...` | **198.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/685308) • [🐱 Nyaa](https://nekobt.to/torrents/13527809546510) |
+| `[ASW] Kokoore - 10 [1080p HEVC x265 10Bit][AAC]` | **210.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/685307) • [🐱 Nyaa](https://nyaa.si/view/2156193) |
+| `[Judas] Ryoumin 0-nin Start no Henkyou Ryoushu-sama (The Frontier L...` | **232.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/685306) • [🐱 Nyaa](https://nyaa.si/view/2156190) |
+| `[PHTM] Attack on Titan - S04 (BD 1080p x265 Opus 2.0) (Multi-Audio)...` | **98825.43 MB** | [🌐 Tosho](https://animetosho.xyz/view/685305) • [🐱 Nyaa](https://nekobt.to/torrents/13527502456589) |
+| `[ToonsHub] I Became a Legend after My 10 Year-Long Last Stand S01E1...` | **1392.53 MB** | [🌐 Tosho](https://animetosho.xyz/view/685304) • [🐱 Nyaa](https://nyaa.si/view/2156189) |
+| `[Onalrie] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - S01E10 [108...` | **193.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/685291) • [🐱 Nyaa](https://nekobt.to/torrents/13527328096012) |
+| `[VARYG] I Became a Legend after My 10 Year Long Last Stand S01E10 S...` | **1412.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/685292) • [🐱 Nyaa](https://nekobt.to/torrents/13527322943499) |
+| `[ASW] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - 10 [1080p HEVC ...` | **239.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/685293) • [🐱 Nyaa](https://nyaa.si/view/2156187) |
+| `[AnoZu] I Became a Legend After My 10 Year-Long Last Stand S01E10 1...` | **1412.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/685294) • [🐱 Nyaa](https://nekobt.to/torrents/13527309615879) |
+| `[Cattleya] I Became a Legend After My 10 Year-Long Last Stand - S01...` | **1426.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/685295) • [🐱 Nyaa](https://nyaa.si/view/2156185) |
+| `[SubsPlease] Kokoore - 10 (1080p) [334D46CB].mkv` | **1382.18 MB** | [🌐 Tosho](https://animetosho.xyz/view/685297) • [🐱 Nyaa](https://nyaa.si/view/2156184) |
 
 ---
 <div align="center">
