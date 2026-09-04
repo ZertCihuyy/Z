@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-06.27.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.15.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,10 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - The Great Ruler - 89 [1080p IQ WEB-DL]` | **423.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/685202) • [🐱 Nyaa](https://nyaa.si/view/2156031) |
+| `[Nitsy] BanG Dream! Yume∞Mita - S01E12 (1080p WEB AAC x264)` | **1399.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/685201) • [🐱 Nyaa](https://nyaa.si/view/2156030) |
+| `[One Pace][431-432] Post-Enies Lobby 01 [1080p][C408DA06].mkv` | **1193.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/685199) • [🐱 Nyaa](https://nyaa.si/view/2156009) |
+| `[One Pace][603-604] Fishman Island 01 [1080p][F69C4922].mkv` | **938.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/685200) • [🐱 Nyaa](https://nyaa.si/view/2156008) |
 | `[Yameii] KAIJU GIRL CARAMELISE - S01E08 v2 [English Dub] [CR WEB-DL...` | **1693.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685198) • [🐱 Nyaa](https://nyaa.si/view/2156004) |
 | `[DKB] Otome Kaijuu Caraméliser - S01E10 [1080p][HEVC x265 10bit][Mu...` | **562.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/685197) • [🐱 Nyaa](https://nyaa.si/view/2155997) |
 | `[Z-A] Dr. Stone Science Future - S04E35 (WEB 1080p AAC)` | **1490.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/685196) • [🐱 Nyaa](https://nekobt.to/torrents/13512303236871) |
@@ -44,10 +48,6 @@
 | `Chainsmoker Cat S01E08 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-...` | **270.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/685188) • [🐱 Nyaa](https://nekobt.to/torrents/13509995067648) |
 | `Chainsmoker Cat S01E08 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Ra...` | **251.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/685189) • [🐱 Nyaa](https://nekobt.to/torrents/13509993774859) |
 | `[SubsPlease] Kanojo, Okarishimasu (49-60) (1080p) [Batch]` | **17070.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/685182) • [🐱 Nyaa](https://nyaa.si/view/2155972) |
-| `[WOR] Orb: On The Movement of The Earth  [BD 1080p AV1 FLAC] multi ...` | **26421.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/685185) • [🐱 Nyaa](https://nyaa.si/view/2155967) |
-| `[Judas] Super no Ura de Yani Suu Futari (Smoking Behind the Superma...` | **152.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/685186) • [🐱 Nyaa](https://nyaa.si/view/2155966) |
-| `[Ironclad] Chainsmoker Cat - S01E09 (WEB 1080p AV1) | Yani Neko (Mu...` | **586.05 MB** | [🌐 Tosho](https://animetosho.xyz/view/685181) • [🐱 Nyaa](https://nekobt.to/torrents/13509823853583) |
-| `[Onalrie] Otome Kaijuu Carameliser - S01E10 [1080p WEBRip AV1]` | **293.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/685179) • [🐱 Nyaa](https://nekobt.to/torrents/13509512666378) |
 
 ---
 <div align="center">
