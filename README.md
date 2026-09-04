@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.15.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.23.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Doomdos] - The Great Ruler - 89 [1080p IQ WEB-DL]` | **423.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/685202) • [🐱 Nyaa](https://nyaa.si/view/2156031) |
-| `[Nitsy] BanG Dream! Yume∞Mita - S01E12 (1080p WEB AAC x264)` | **1399.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/685201) • [🐱 Nyaa](https://nyaa.si/view/2156030) |
-| `[One Pace][431-432] Post-Enies Lobby 01 [1080p][C408DA06].mkv` | **1193.98 MB** | [🌐 Tosho](https://animetosho.xyz/view/685199) • [🐱 Nyaa](https://nyaa.si/view/2156009) |
-| `[One Pace][603-604] Fishman Island 01 [1080p][F69C4922].mkv` | **938.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/685200) • [🐱 Nyaa](https://nyaa.si/view/2156008) |
-| `[Yameii] KAIJU GIRL CARAMELISE - S01E08 v2 [English Dub] [CR WEB-DL...` | **1693.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685198) • [🐱 Nyaa](https://nyaa.si/view/2156004) |
-| `[DKB] Otome Kaijuu Caraméliser - S01E10 [1080p][HEVC x265 10bit][Mu...` | **562.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/685197) • [🐱 Nyaa](https://nyaa.si/view/2155997) |
-| `[Z-A] Dr. Stone Science Future - S04E35 (WEB 1080p AAC)` | **1490.78 MB** | [🌐 Tosho](https://animetosho.xyz/view/685196) • [🐱 Nyaa](https://nekobt.to/torrents/13512303236871) |
-| `[Ironclad] Super no Ura de Yani Suu Futari - S01E09 [WEB.1080p.AV1]...` | **238.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/685195) • [🐱 Nyaa](https://nyaa.si/view/2155994) |
-| `[DKB] Yani Neko - S01E09 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **519.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/685192) • [🐱 Nyaa](https://nyaa.si/view/2155989) |
-| `KAIJU GIRL CARAMELISE S01E09 1080p BILI WEB-DL AAC2.0 H.264-VARYG (...` | **371.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/685191) • [🐱 Nyaa](https://nyaa.si/view/2155988) |
-| `[VARYG] The Frontier Lord Begins with Zero Subjects S01E06 1080p BI...` | **267.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/685190) • [🐱 Nyaa](https://nekobt.to/torrents/13510224027916) |
-| `Chainsmoker Cat S01E08 MULTi 1080p NF WEB-DL AAC2.0 x264-Tsundere-R...` | **969.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/685187) • [🐱 Nyaa](https://nekobt.to/torrents/13509997405190) |
-| `Chainsmoker Cat S01E08 MULTi 1080p NF WEB-DL AAC2.0 H.265-Tsundere-...` | **270.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/685188) • [🐱 Nyaa](https://nekobt.to/torrents/13509995067648) |
-| `Chainsmoker Cat S01E08 MULTi 1080p NF WEB-DL AAC2.0 AV1-Tsundere-Ra...` | **251.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/685189) • [🐱 Nyaa](https://nekobt.to/torrents/13509993774859) |
-| `[SubsPlease] Kanojo, Okarishimasu (49-60) (1080p) [Batch]` | **17070.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/685182) • [🐱 Nyaa](https://nyaa.si/view/2155972) |
+| `[ASW] Bai Ri Cheng Wang - 22 [1080p HEVC x265 10Bit][AAC]` | **163.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/685243) • [🐱 Nyaa](https://nyaa.si/view/2156093) |
+| `[Gecko] Koala's Diary - S01E47 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **79.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685241) • [🐱 Nyaa](https://nyaa.si/view/2156091) |
+| `Crowned in a Hundred Days S01E22 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **648.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/685242) • [🐱 Nyaa](https://nyaa.si/view/2156089) |
+| `[ToonsHub] Crowned in a Hundred Days S01E22 1080p BILI WEB-DL AAC2....` | **159.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/685238) • [🐱 Nyaa](https://nyaa.si/view/2156088) |
+| `[ToonsHub] Crowned in a Hundred Days S01E22 1080p CR WEB-DL AAC2.0 ...` | **644.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/685239) • [🐱 Nyaa](https://nyaa.si/view/2156086) |
+| `[AnoZu] Crowned in a Hundred Days S01E22 1080p CR WEB-DL AAC 2.0 H....` | **645.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/685240) • [🐱 Nyaa](https://nyaa.si/view/2156085) |
+| `[SubsPlease] Bai Ri Cheng Wang - 22 (1080p) [C65C80DB].mkv` | **642.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/685235) • [🐱 Nyaa](https://nyaa.si/view/2156082) |
+| `Crowned in a Hundred Days S01E22 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **641.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/685232) • [🐱 Nyaa](https://nekobt.to/torrents/13518039727618) |
+| `[Erai-raws] Crowned in a Hundred Days - 22 (CA) [1080p CR WEB-DL AV...` | **509.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/685234) • [🐱 Nyaa](https://nekobt.to/torrents/13518037198089) |
+| `[ASW] Link Click S3 - 05 [1080p HEVC x265 10Bit][AAC]` | **210.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/685229) • [🐱 Nyaa](https://nyaa.si/view/2156071) |
+| `[Gecko] BanG Dream! YUME∞MITA - S01E12 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **694.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/685228) • [🐱 Nyaa](https://nyaa.si/view/2156069) |
+| `[dtr] Solo Leveling - S01 (BD 1080p HEVC x265 Opus) [Multi-Audio] (...` | **53168.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/685227) • [🐱 Nyaa](https://nyaa.si/view/2156068) |
+| `[ToonsHub] LINK CLICK S04E02 1080p CR WEB-DL DUAL AAC2.0 H.264 (Shi...` | **1311.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/685225) • [🐱 Nyaa](https://nyaa.si/view/2156065) |
+| `[ToonsHub] LINK CLICK S04E05 1080p CR WEB-DL AAC2.0 H.264 (Shiguang...` | **1309.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/685226) • [🐱 Nyaa](https://nyaa.si/view/2156064) |
+| `[AnoZu] Link Click S04E02 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264 ...` | **1324.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/685218) • [🐱 Nyaa](https://nyaa.si/view/2156062) |
 
 ---
 <div align="center">
