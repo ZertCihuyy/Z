@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.23.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.36.51_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Bleach 369 Remaster [Thousand-Year Blood War] (BDRip 1080p x265 AAC...` | **655.41 MB** | [🌐 Tosho](https://animetosho.xyz/view/685260) • [🐱 Nyaa](https://nyaa.si/view/2156123) |
+| `[Onalrie] Koukaku Kidoutai (2026) - S01E09 [1080p WEBRip AV1]` | **290.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/685259) • [🐱 Nyaa](https://nekobt.to/torrents/13522506537481) |
+| `[Onalrie] Yani Neko - S01E09 [1080p WEBRip AV1]` | **386.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/685258) • [🐱 Nyaa](https://nekobt.to/torrents/13522053433858) |
+| `[Onalrie] Katainaka no Ossan, Kensei ni Naru - S02E09 [1080p WEBRip...` | **208.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/685257) • [🐱 Nyaa](https://nekobt.to/torrents/13521601501956) |
+| `Uma Musume Cinderella Gray S01 1080p BDRip DDP5.1 x264 (Vol 6 & Vol...` | **11880.28 MB** | [🌐 Tosho](https://animetosho.xyz/view/685256) • [🐱 Nyaa](https://nyaa.si/view/2156119) |
+| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **313.63 MB** | [🌐 Tosho](https://animetosho.xyz/view/685255) • [🐱 Nyaa](https://nyaa.si/view/2156118) |
+| `[Onalrie] Crowned in a Hundred Days - S01E22 (CA) [1080p WEBRip AV1]` | **129.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685254) • [🐱 Nyaa](https://nekobt.to/torrents/13521264371727) |
+| `[Onalrie] Shiguang Dailiren - S03E05 (CA) [1080p WEBRip AV1]` | **173.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/685253) • [🐱 Nyaa](https://nekobt.to/torrents/13521034310915) |
+| `[Erai-raws] Koukaku Kidoutai (2026) - 09 [1080p AMZN WEB-DL AVC EAC...` | **1705.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/685247) • [🐱 Nyaa](https://nyaa.si/view/2156114) |
+| `[Erai-raws] Yani Neko - 09 [1080p NF WEB-DL AVC AAC][MultiSub][72BE...` | **882.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/685249) • [🐱 Nyaa](https://nyaa.si/view/2156112) |
+| `[Erai-raws] Katainaka no Ossan, Kensei ni Naru II - 09 [1080p AMZN ...` | **618.02 MB** | [🌐 Tosho](https://animetosho.xyz/view/685251) • [🐱 Nyaa](https://nyaa.si/view/2156110) |
+| `[GetItTwisted] Kampfer S01 [BD 1080p AVC Opus Dual-Audio] | Kämpfer` | **11854.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/685245) • [🐱 Nyaa](https://nyaa.si/view/2156108) |
+| `[Anime Land] One Piece Film Red (UHD BDRip 1080p AV1 HDR10 TrueHD A...` | **9269.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/685244) • [🐱 Nyaa](https://nyaa.si/view/2156104) |
 | `[ASW] Bai Ri Cheng Wang - 22 [1080p HEVC x265 10Bit][AAC]` | **163.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/685243) • [🐱 Nyaa](https://nyaa.si/view/2156093) |
 | `[Gecko] Koala's Diary - S01E47 (コアラ絵日記; Koala Enikki) [CTHP.WEB-DL ...` | **79.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685241) • [🐱 Nyaa](https://nyaa.si/view/2156091) |
-| `Crowned in a Hundred Days S01E22 1080p CR WEB-DL AAC2.0 H.264-VARYG...` | **648.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/685242) • [🐱 Nyaa](https://nyaa.si/view/2156089) |
-| `[ToonsHub] Crowned in a Hundred Days S01E22 1080p BILI WEB-DL AAC2....` | **159.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/685238) • [🐱 Nyaa](https://nyaa.si/view/2156088) |
-| `[ToonsHub] Crowned in a Hundred Days S01E22 1080p CR WEB-DL AAC2.0 ...` | **644.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/685239) • [🐱 Nyaa](https://nyaa.si/view/2156086) |
-| `[AnoZu] Crowned in a Hundred Days S01E22 1080p CR WEB-DL AAC 2.0 H....` | **645.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/685240) • [🐱 Nyaa](https://nyaa.si/view/2156085) |
-| `[SubsPlease] Bai Ri Cheng Wang - 22 (1080p) [C65C80DB].mkv` | **642.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/685235) • [🐱 Nyaa](https://nyaa.si/view/2156082) |
-| `Crowned in a Hundred Days S01E22 SUBFRENCH 1080p CR WEB-DL AAC2.0 x...` | **641.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/685232) • [🐱 Nyaa](https://nekobt.to/torrents/13518039727618) |
-| `[Erai-raws] Crowned in a Hundred Days - 22 (CA) [1080p CR WEB-DL AV...` | **509.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/685234) • [🐱 Nyaa](https://nekobt.to/torrents/13518037198089) |
-| `[ASW] Link Click S3 - 05 [1080p HEVC x265 10Bit][AAC]` | **210.17 MB** | [🌐 Tosho](https://animetosho.xyz/view/685229) • [🐱 Nyaa](https://nyaa.si/view/2156071) |
-| `[Gecko] BanG Dream! YUME∞MITA - S01E12 (バンドリ！ ゆめ∞みた) [CTHP.WEB-DL 1...` | **694.27 MB** | [🌐 Tosho](https://animetosho.xyz/view/685228) • [🐱 Nyaa](https://nyaa.si/view/2156069) |
-| `[dtr] Solo Leveling - S01 (BD 1080p HEVC x265 Opus) [Multi-Audio] (...` | **53168.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/685227) • [🐱 Nyaa](https://nyaa.si/view/2156068) |
-| `[ToonsHub] LINK CLICK S04E02 1080p CR WEB-DL DUAL AAC2.0 H.264 (Shi...` | **1311.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/685225) • [🐱 Nyaa](https://nyaa.si/view/2156065) |
-| `[ToonsHub] LINK CLICK S04E05 1080p CR WEB-DL AAC2.0 H.264 (Shiguang...` | **1309.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/685226) • [🐱 Nyaa](https://nyaa.si/view/2156064) |
-| `[AnoZu] Link Click S04E02 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264 ...` | **1324.56 MB** | [🌐 Tosho](https://animetosho.xyz/view/685218) • [🐱 Nyaa](https://nyaa.si/view/2156062) |
 
 ---
 <div align="center">
