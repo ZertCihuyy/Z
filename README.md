@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.25.55_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-03.57.34_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,8 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kakumei Subs] Honzuki no Gekokujou S04E19 [1080p WEB HEVC AAC] [Su...` | **2573.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/685443) • [🐱 Nyaa](https://nekobt.to/torrents/13533477071367) |
+| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E21 [WEB.1080p.AV1...` | **847.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/685442) • [🐱 Nyaa](https://nyaa.si/view/2156382) |
 | `[ASW] Hell Mode S2 - 10 [1080p HEVC x265 10Bit][AAC]` | **438.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/685440) • [🐱 Nyaa](https://nyaa.si/view/2156350) |
 | `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E10 [1080p WEBRip AV1]` | **169.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/685439) • [🐱 Nyaa](https://nekobt.to/torrents/13530948841733) |
 | `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **305.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/685437) • [🐱 Nyaa](https://nekobt.to/torrents/13530571287814) |
@@ -46,8 +48,6 @@
 | `[ToonsHub] That Time I Got Reincarnated as a Slime S04E21 1080p NF ...` | **878.93 MB** | [🌐 Tosho](https://animetosho.xyz/view/685430) • [🐱 Nyaa](https://nyaa.si/view/2156342) |
 | `[Onalrie] Nige Jouzu no Wakagimi - S02E08 [1080p WEBRip AV1]` | **359.76 MB** | [🌐 Tosho](https://animetosho.xyz/view/685429) • [🐱 Nyaa](https://nekobt.to/torrents/13530021712389) |
 | `[Ironclad] Ryoumin 0-nin Start no Henkyou Ryoushu-sama - S01E10 [WE...` | **293.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/685428) • [🐱 Nyaa](https://nyaa.si/view/2156341) |
-| `[SubsPlus+] Hell Mode - S02E10 (ADN WEB-DL 1080p AVC AAC) | HELL MO...` | **747.37 MB** | [🌐 Tosho](https://animetosho.xyz/view/685426) • [🐱 Nyaa](https://nekobt.to/torrents/13529809735692) |
-| `[Judas] Kore Kaite Shine (Draw This, Then Die!) - S01E09 [1080p][HE...` | **319.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/685423) • [🐱 Nyaa](https://nyaa.si/view/2156334) |
 
 ---
 <div align="center">
