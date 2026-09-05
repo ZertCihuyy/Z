@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-16.16.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.57.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] Though I Am an Inept Villainess S01E07 1080p NF WEB-DL D...` | **897.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/685479) • [🐱 Nyaa](https://nyaa.si/view/2156506) |
-| `[VARYG] Though I Am an Inept Villainess S01E07 Meaning of Entrustin...` | **897.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/685478) • [🐱 Nyaa](https://nekobt.to/torrents/13544597530633) |
-| `Daemons of the Shadow Realm S01E10 Long-Arm and Long-Leg 1080p NF W...` | **1139.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/685475) • [🐱 Nyaa](https://nyaa.si/view/2156498) |
-| `[ToonsHub] Daemons of the Shadow Realm S01E10 1080p NF WEB-DL MULTi...` | **1139.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/685476) • [🐱 Nyaa](https://nyaa.si/view/2156497) |
-| `[Onalrie] Rilakkuma - S01E23 [1080p WEBRip AV1]` | **22.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/685474) • [🐱 Nyaa](https://nekobt.to/torrents/13542717679616) |
-| `[vLbE3L] Sentenced to Be a Hero S01 CUSTOM [1080p WEBRip VVC HE-AAC...` | **4815.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/685472) • [🐱 Nyaa](https://nekobt.to/torrents/13542523613455) |
-| `[LbE3L] Sentenced to Be a Hero S01 CUSTOM [1080p WEBRip AV1 (Muxed)...` | **7222.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/685473) • [🐱 Nyaa](https://nekobt.to/torrents/13542448818948) |
-| `I.Made.Friends.with.the.Second.Prettiest.Girl.in.My.Class.S01.1080p...` | **16468.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/685471) • [🐱 Nyaa](https://nyaa.si/view/2156487) |
-| `[Some-Stuffs] Pocket Monsters (2023) 148 (1080p) [61476F0D]` | **631.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/685470) • [🐱 Nyaa](https://nyaa.si/view/2156476) |
-| `Beast.Tamer.S01.1080p.BluRay.Dual-Audio.Opus2.0.x265-Headpatter - b...` | **13337.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/685469) • [🐱 Nyaa](https://nekobt.to/torrents/13540273254658) |
-| `RILAKKUMA S01E23 1080p CR WEB-DL MULTi AAC2.0 H.264-VARYG (Multi-Au...` | **120.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/685467) • [🐱 Nyaa](https://nyaa.si/view/2156464) |
-| `[Gecko] Please Excuse My Younger Brothers - S01E10 (うちの弟どもがすみません; U...` | **694.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/685468) • [🐱 Nyaa](https://nekobt.to/torrents/13540097141766) |
-| `An.Adventurers.Daily.Grind.at.Age.29.S01.1080p.BluRay.Dual-Audio.Op...` | **19421.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685466) • [🐱 Nyaa](https://nekobt.to/torrents/13540071247877) |
-| `Ace.of.the.Diamond.S03.1080p.CR.WEB-DL.AAC2.0.H.264-Headpatter - daa17` | **74672.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/685465) • [🐱 Nyaa](https://nekobt.to/torrents/13539522895872) |
-| `[ToonsHub] A Good Day to Ascend S01E10 1080p iQ WEB-DL AAC2.0 H.264...` | **387.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/685464) • [🐱 Nyaa](https://nyaa.si/view/2156459) |
+| `[Onalrie] Mairimashita Iruma-kun - S04E21 [1080p WEBRip AV1]` | **473.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/685546) • [🐱 Nyaa](https://nekobt.to/torrents/13548268258819) |
+| `Kaiju No 8 S00E04 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **218.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/685542) • [🐱 Nyaa](https://nekobt.to/torrents/13547697715457) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E21 1080p CR WEB-DL...` | **1827.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/685540) • [🐱 Nyaa](https://nyaa.si/view/2156620) |
+| `Welcome to Demon School Iruma kun S04E21 SUBFRENCH 1080p CR WEB-DL ...` | **1666.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/685545) • [🐱 Nyaa](https://nekobt.to/torrents/13547655944200) |
+| `Welcome to Demon School Iruma kun S04E21 The Tycoon and the Jewel 1...` | **602.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/685541) • [🐱 Nyaa](https://nyaa.si/view/2156617) |
+| `[Yameii] Welcome to Demon School! Iruma-kun - S04E21 [English Dub] ...` | **1667.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/685535) • [🐱 Nyaa](https://nyaa.si/view/2156616) |
+| `Welcome to Demon School Iruma kun S04E21 The Tycoon and the Jewel 1...` | **1520.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/685536) • [🐱 Nyaa](https://nyaa.si/view/2156611) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E21 1080p CR WEB-DL...` | **1724.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/685538) • [🐱 Nyaa](https://nyaa.si/view/2156609) |
+| `[Erai-raws] Mairimashita Iruma-kun S04E21 [1080p CR WEB-DL AVC AAC]...` | **1674.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/685534) • [🐱 Nyaa](https://nekobt.to/torrents/13547563126787) |
+| `[SubsPlease] Mairimashita! Iruma-kun S4 - 21 (1080p) [3D2552C1].mkv` | **1455.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/685539) • [🐱 Nyaa](https://nyaa.si/view/2156604) |
+| `[ToonsHub] Welcome to Demon School Iruma-kun S04E21 1080p BILI WEB-...` | **540.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/685533) • [🐱 Nyaa](https://nyaa.si/view/2156600) |
+| `Detective Conan S01E1212 The Birdman Rally Bombing Part Two 1080p C...` | **1393.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/685526) • [🐱 Nyaa](https://nyaa.si/view/2156595) |
+| `[FSP] Douluo Dalu II - Soul Land 2 - 169 [1080p]` | **570.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/685528) • [🐱 Nyaa](https://nyaa.si/view/2156593) |
+| `[FSP DN] A Record of a Mortal’s Journey to Immortality - 190 (1080p...` | **413.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/685527) • [🐱 Nyaa](https://nyaa.si/view/2156594) |
+| `[snk] Kaguya-sama: Love is War - S00E05-E08 (CR WEB-DL 1080p H.264 ...` | **6134.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/685521) • [🐱 Nyaa](https://nyaa.si/view/2156592) |
 
 ---
 <div align="center">
