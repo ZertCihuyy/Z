@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-12.27.29_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-16.16.10_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[ToonsHub] Though I Am an Inept Villainess S01E07 1080p NF WEB-DL D...` | **897.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/685479) • [🐱 Nyaa](https://nyaa.si/view/2156506) |
+| `[VARYG] Though I Am an Inept Villainess S01E07 Meaning of Entrustin...` | **897.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/685478) • [🐱 Nyaa](https://nekobt.to/torrents/13544597530633) |
+| `Daemons of the Shadow Realm S01E10 Long-Arm and Long-Leg 1080p NF W...` | **1139.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/685475) • [🐱 Nyaa](https://nyaa.si/view/2156498) |
+| `[ToonsHub] Daemons of the Shadow Realm S01E10 1080p NF WEB-DL MULTi...` | **1139.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/685476) • [🐱 Nyaa](https://nyaa.si/view/2156497) |
+| `[Onalrie] Rilakkuma - S01E23 [1080p WEBRip AV1]` | **22.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/685474) • [🐱 Nyaa](https://nekobt.to/torrents/13542717679616) |
+| `[vLbE3L] Sentenced to Be a Hero S01 CUSTOM [1080p WEBRip VVC HE-AAC...` | **4815.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/685472) • [🐱 Nyaa](https://nekobt.to/torrents/13542523613455) |
+| `[LbE3L] Sentenced to Be a Hero S01 CUSTOM [1080p WEBRip AV1 (Muxed)...` | **7222.19 MB** | [🌐 Tosho](https://animetosho.xyz/view/685473) • [🐱 Nyaa](https://nekobt.to/torrents/13542448818948) |
+| `I.Made.Friends.with.the.Second.Prettiest.Girl.in.My.Class.S01.1080p...` | **16468.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/685471) • [🐱 Nyaa](https://nyaa.si/view/2156487) |
 | `[Some-Stuffs] Pocket Monsters (2023) 148 (1080p) [61476F0D]` | **631.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/685470) • [🐱 Nyaa](https://nyaa.si/view/2156476) |
 | `Beast.Tamer.S01.1080p.BluRay.Dual-Audio.Opus2.0.x265-Headpatter - b...` | **13337.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/685469) • [🐱 Nyaa](https://nekobt.to/torrents/13540273254658) |
 | `RILAKKUMA S01E23 1080p CR WEB-DL MULTi AAC2.0 H.264-VARYG (Multi-Au...` | **120.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/685467) • [🐱 Nyaa](https://nyaa.si/view/2156464) |
@@ -40,14 +48,6 @@
 | `An.Adventurers.Daily.Grind.at.Age.29.S01.1080p.BluRay.Dual-Audio.Op...` | **19421.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685466) • [🐱 Nyaa](https://nekobt.to/torrents/13540071247877) |
 | `Ace.of.the.Diamond.S03.1080p.CR.WEB-DL.AAC2.0.H.264-Headpatter - daa17` | **74672.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/685465) • [🐱 Nyaa](https://nekobt.to/torrents/13539522895872) |
 | `[ToonsHub] A Good Day to Ascend S01E10 1080p iQ WEB-DL AAC2.0 H.264...` | **387.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/685464) • [🐱 Nyaa](https://nyaa.si/view/2156459) |
-| `2.43.Seiin.High.School.Boys.Volleyball.Team.S01.1080p.BluRay.Dual-A...` | **32459.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/685463) • [🐱 Nyaa](https://nekobt.to/torrents/13538067220740) |
-| `[Doomdos] - A Good Day to Ascend - 10 [1080p IQ WEB-DL]` | **388.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/685462) • [🐱 Nyaa](https://nyaa.si/view/2156455) |
-| `[ASW] Rilakkuma - 23 [1080p HEVC x265 10Bit][AAC]` | **30.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/685456) • [🐱 Nyaa](https://nyaa.si/view/2156454) |
-| `[ToonsHub] RILAKKUMA S01E23 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **113.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/685457) • [🐱 Nyaa](https://nekobt.to/torrents/13537453474829) |
-| `RILAKKUMA S01E23 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **116.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/685448) • [🐱 Nyaa](https://nyaa.si/view/2156452) |
-| `[AnoZu] RILAKKUMA S01E23 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264` | **114.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/685449) • [🐱 Nyaa](https://nyaa.si/view/2156446) |
-| `RILAKKUMA S01E23 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **108.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/685458) • [🐱 Nyaa](https://nekobt.to/torrents/13537399420161) |
-| `RILAKKUMA S01E23 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **64.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/685461) • [🐱 Nyaa](https://nekobt.to/torrents/13537390416654) |
 
 ---
 <div align="center">
