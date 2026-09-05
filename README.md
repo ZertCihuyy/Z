@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-07.50.07_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-12.27.29_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Ironclad] Ushiro no Shoumen Kamui-san - S01E10 [WEB.1080p.AV1] | K...` | **544.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/685447) • [🐱 Nyaa](https://nyaa.si/view/2156401) |
-| `[Trix] Nige Jouzu no Wakagimi S02E08 [WEBRip 1080p AV1 Opus] (Multi...` | **523.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/685446) • [🐱 Nyaa](https://nekobt.to/torrents/13534481767680) |
-| `[Trix] The Drops of God S01E22 [WEBRip 1080p AV1 Opus] (Multi Subs,...` | **190.46 MB** | [🌐 Tosho](https://animetosho.xyz/view/685445) • [🐱 Nyaa](https://nyaa.si/view/2156391) |
-| `[Piyoko] Onegai AiPri - 22 [WEB AMZN 1080p h264 AC3 2.0]` | **1288.29 MB** | [🌐 Tosho](https://animetosho.xyz/view/685444) • [🐱 Nyaa](https://nyaa.si/view/2156390) |
-| `[Kakumei Subs] Honzuki no Gekokujou S04E19 [1080p WEB HEVC AAC] [Su...` | **2573.01 MB** | [🌐 Tosho](https://animetosho.xyz/view/685443) • [🐱 Nyaa](https://nekobt.to/torrents/13533477071367) |
-| `[Ironclad] Tensei Shitara Slime Datta Ken 4 - S04E21 [WEB.1080p.AV1...` | **847.33 MB** | [🌐 Tosho](https://animetosho.xyz/view/685442) • [🐱 Nyaa](https://nyaa.si/view/2156382) |
-| `[ASW] Hell Mode S2 - 10 [1080p HEVC x265 10Bit][AAC]` | **438.57 MB** | [🌐 Tosho](https://animetosho.xyz/view/685440) • [🐱 Nyaa](https://nyaa.si/view/2156350) |
-| `[Onalrie] Uchi no Otouto-domo ga Sumimasen - S01E10 [1080p WEBRip AV1]` | **169.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/685439) • [🐱 Nyaa](https://nekobt.to/torrents/13530948841733) |
-| `[Onalrie] Hell Mode Yarikomizuki no Gamer wa Hai Settei no Isekai d...` | **305.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/685437) • [🐱 Nyaa](https://nekobt.to/torrents/13530571287814) |
-| `[Judas] Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru...` | **414.74 MB** | [🌐 Tosho](https://animetosho.xyz/view/685438) • [🐱 Nyaa](https://nyaa.si/view/2156349) |
-| `[ASW] Nige Jouzu no Wakagimi S2 - 08 [1080p HEVC x265 10Bit][AAC]` | **575.49 MB** | [🌐 Tosho](https://animetosho.xyz/view/685435) • [🐱 Nyaa](https://nyaa.si/view/2156348) |
-| `[ToonsHub] Draw This Then Die S01E09 1080p CR WEB-DL MULTi AAC2.0 H...` | **1434.75 MB** | [🌐 Tosho](https://animetosho.xyz/view/685436) • [🐱 Nyaa](https://nyaa.si/view/2156346) |
-| `[ASW] Uchi no Otouto-domo ga Sumimasen - 10 [1080p HEVC x265 10Bit]...` | **179.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/685433) • [🐱 Nyaa](https://nyaa.si/view/2156345) |
-| `[8rtemis-mini] Victoria of Many Faces - S01 (CR WEBRip 1080p AAC x2...` | **2102.38 MB** | [🌐 Tosho](https://animetosho.xyz/view/685434) • [🐱 Nyaa](https://nekobt.to/torrents/13530347849999) |
-| `[ToonsHub] Draw This Then Die S01E09 1080p CR WEB-DL DUAL AAC2.0 H....` | **1371.26 MB** | [🌐 Tosho](https://animetosho.xyz/view/685431) • [🐱 Nyaa](https://nekobt.to/torrents/13530275556876) |
+| `[Some-Stuffs] Pocket Monsters (2023) 148 (1080p) [61476F0D]` | **631.35 MB** | [🌐 Tosho](https://animetosho.xyz/view/685470) • [🐱 Nyaa](https://nyaa.si/view/2156476) |
+| `Beast.Tamer.S01.1080p.BluRay.Dual-Audio.Opus2.0.x265-Headpatter - b...` | **13337.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/685469) • [🐱 Nyaa](https://nekobt.to/torrents/13540273254658) |
+| `RILAKKUMA S01E23 1080p CR WEB-DL MULTi AAC2.0 H.264-VARYG (Multi-Au...` | **120.50 MB** | [🌐 Tosho](https://animetosho.xyz/view/685467) • [🐱 Nyaa](https://nyaa.si/view/2156464) |
+| `[Gecko] Please Excuse My Younger Brothers - S01E10 (うちの弟どもがすみません; U...` | **694.59 MB** | [🌐 Tosho](https://animetosho.xyz/view/685468) • [🐱 Nyaa](https://nekobt.to/torrents/13540097141766) |
+| `An.Adventurers.Daily.Grind.at.Age.29.S01.1080p.BluRay.Dual-Audio.Op...` | **19421.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685466) • [🐱 Nyaa](https://nekobt.to/torrents/13540071247877) |
+| `Ace.of.the.Diamond.S03.1080p.CR.WEB-DL.AAC2.0.H.264-Headpatter - daa17` | **74672.84 MB** | [🌐 Tosho](https://animetosho.xyz/view/685465) • [🐱 Nyaa](https://nekobt.to/torrents/13539522895872) |
+| `[ToonsHub] A Good Day to Ascend S01E10 1080p iQ WEB-DL AAC2.0 H.264...` | **387.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/685464) • [🐱 Nyaa](https://nyaa.si/view/2156459) |
+| `2.43.Seiin.High.School.Boys.Volleyball.Team.S01.1080p.BluRay.Dual-A...` | **32459.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/685463) • [🐱 Nyaa](https://nekobt.to/torrents/13538067220740) |
+| `[Doomdos] - A Good Day to Ascend - 10 [1080p IQ WEB-DL]` | **388.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/685462) • [🐱 Nyaa](https://nyaa.si/view/2156455) |
+| `[ASW] Rilakkuma - 23 [1080p HEVC x265 10Bit][AAC]` | **30.60 MB** | [🌐 Tosho](https://animetosho.xyz/view/685456) • [🐱 Nyaa](https://nyaa.si/view/2156454) |
+| `[ToonsHub] RILAKKUMA S01E23 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **113.34 MB** | [🌐 Tosho](https://animetosho.xyz/view/685457) • [🐱 Nyaa](https://nekobt.to/torrents/13537453474829) |
+| `RILAKKUMA S01E23 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Dual-Audi...` | **116.36 MB** | [🌐 Tosho](https://animetosho.xyz/view/685448) • [🐱 Nyaa](https://nyaa.si/view/2156452) |
+| `[AnoZu] RILAKKUMA S01E23 1080p CR WEB-DL Dual-Audio DDP 2.0 H.264` | **114.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/685449) • [🐱 Nyaa](https://nyaa.si/view/2156446) |
+| `RILAKKUMA S01E23 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Tsundere-Ra...` | **108.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/685458) • [🐱 Nyaa](https://nekobt.to/torrents/13537399420161) |
+| `RILAKKUMA S01E23 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Ra...` | **64.83 MB** | [🌐 Tosho](https://animetosho.xyz/view/685461) • [🐱 Nyaa](https://nekobt.to/torrents/13537390416654) |
 
 ---
 <div align="center">
