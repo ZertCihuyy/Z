@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-19.57.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-22.56.24_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Onalrie] Mairimashita Iruma-kun - S04E21 [1080p WEBRip AV1]` | **473.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/685546) • [🐱 Nyaa](https://nekobt.to/torrents/13548268258819) |
-| `Kaiju No 8 S00E04 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Ra...` | **218.82 MB** | [🌐 Tosho](https://animetosho.xyz/view/685542) • [🐱 Nyaa](https://nekobt.to/torrents/13547697715457) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E21 1080p CR WEB-DL...` | **1827.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/685540) • [🐱 Nyaa](https://nyaa.si/view/2156620) |
-| `Welcome to Demon School Iruma kun S04E21 SUBFRENCH 1080p CR WEB-DL ...` | **1666.70 MB** | [🌐 Tosho](https://animetosho.xyz/view/685545) • [🐱 Nyaa](https://nekobt.to/torrents/13547655944200) |
-| `Welcome to Demon School Iruma kun S04E21 The Tycoon and the Jewel 1...` | **602.86 MB** | [🌐 Tosho](https://animetosho.xyz/view/685541) • [🐱 Nyaa](https://nyaa.si/view/2156617) |
-| `[Yameii] Welcome to Demon School! Iruma-kun - S04E21 [English Dub] ...` | **1667.25 MB** | [🌐 Tosho](https://animetosho.xyz/view/685535) • [🐱 Nyaa](https://nyaa.si/view/2156616) |
-| `Welcome to Demon School Iruma kun S04E21 The Tycoon and the Jewel 1...` | **1520.88 MB** | [🌐 Tosho](https://animetosho.xyz/view/685536) • [🐱 Nyaa](https://nyaa.si/view/2156611) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E21 1080p CR WEB-DL...` | **1724.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/685538) • [🐱 Nyaa](https://nyaa.si/view/2156609) |
-| `[Erai-raws] Mairimashita Iruma-kun S04E21 [1080p CR WEB-DL AVC AAC]...` | **1674.12 MB** | [🌐 Tosho](https://animetosho.xyz/view/685534) • [🐱 Nyaa](https://nekobt.to/torrents/13547563126787) |
-| `[SubsPlease] Mairimashita! Iruma-kun S4 - 21 (1080p) [3D2552C1].mkv` | **1455.30 MB** | [🌐 Tosho](https://animetosho.xyz/view/685539) • [🐱 Nyaa](https://nyaa.si/view/2156604) |
-| `[ToonsHub] Welcome to Demon School Iruma-kun S04E21 1080p BILI WEB-...` | **540.66 MB** | [🌐 Tosho](https://animetosho.xyz/view/685533) • [🐱 Nyaa](https://nyaa.si/view/2156600) |
-| `Detective Conan S01E1212 The Birdman Rally Bombing Part Two 1080p C...` | **1393.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/685526) • [🐱 Nyaa](https://nyaa.si/view/2156595) |
-| `[FSP] Douluo Dalu II - Soul Land 2 - 169 [1080p]` | **570.39 MB** | [🌐 Tosho](https://animetosho.xyz/view/685528) • [🐱 Nyaa](https://nyaa.si/view/2156593) |
-| `[FSP DN] A Record of a Mortal’s Journey to Immortality - 190 (1080p...` | **413.54 MB** | [🌐 Tosho](https://animetosho.xyz/view/685527) • [🐱 Nyaa](https://nyaa.si/view/2156594) |
-| `[snk] Kaguya-sama: Love is War - S00E05-E08 (CR WEB-DL 1080p H.264 ...` | **6134.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/685521) • [🐱 Nyaa](https://nyaa.si/view/2156592) |
+| `[Erai-raws] Thunder 3 - 09 [1080p NF WEB-DL AVC AAC][MultiSub][C1C6...` | **850.72 MB** | [🌐 Tosho](https://animetosho.xyz/view/685630) • [🐱 Nyaa](https://nyaa.si/view/2156754) |
+| `[ToonsHub] MAO S01E23 1080p BILI WEB-DL AAC2.0 H.265 (Multi-Subs)` | **281.80 MB** | [🌐 Tosho](https://animetosho.xyz/view/685629) • [🐱 Nyaa](https://nyaa.si/view/2156752) |
+| `[VARYG] MAO S01E23 The Sleepwalking Patient 1080p BILI WEB-DL AAC2....` | **307.07 MB** | [🌐 Tosho](https://animetosho.xyz/view/685626) • [🐱 Nyaa](https://nekobt.to/torrents/13551002660103) |
+| `MAO S01E23 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raws (VO...` | **709.45 MB** | [🌐 Tosho](https://animetosho.xyz/view/685628) • [🐱 Nyaa](https://nekobt.to/torrents/13550983628033) |
+| `Bleach S17E47 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H.264-Tsundere-Raw...` | **1010.47 MB** | [🌐 Tosho](https://animetosho.xyz/view/685623) • [🐱 Nyaa](https://nekobt.to/torrents/13550760741385) |
+| `[AnoZu] Bleach S17E47 1080p CR WEB-DL AAC 2.0 H.264` | **1409.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685624) • [🐱 Nyaa](https://nekobt.to/torrents/13550706734855) |
+| `[ToonsHub] BLEACH Thousand-Year Blood War S01E42 1080p DSNP WEB-DL ...` | **1171.24 MB** | [🌐 Tosho](https://animetosho.xyz/view/685620) • [🐱 Nyaa](https://nyaa.si/view/2156736) |
+| `BLEACH.Thousand.Year.Blood.War.S04E02.SON.OF.DARKNESS.1080p.DSNP.WE...` | **1092.94 MB** | [🌐 Tosho](https://animetosho.xyz/view/685621) • [🐱 Nyaa](https://nyaa.si/view/2156735) |
+| `[Ny] Link Click - S04E04 (WEBRip 1920x800 HEVC AAC) | Shiguang Dail...` | **2248.97 MB** | [🌐 Tosho](https://animetosho.xyz/view/685625) • [🐱 Nyaa](https://nekobt.to/torrents/13550667197454) |
+| `[ToonsHub] BLEACH Thousand-Year Blood War S01E42 1080p DSNP WEB-DL ...` | **1102.55 MB** | [🌐 Tosho](https://animetosho.xyz/view/685619) • [🐱 Nyaa](https://nyaa.si/view/2156733) |
+| `[ToonsHub] BLEACH Thousand-Year Blood War S01E47 1080p CR WEB-DL AA...` | **1409.13 MB** | [🌐 Tosho](https://animetosho.xyz/view/685617) • [🐱 Nyaa](https://nekobt.to/torrents/13550606977284) |
+| `[ToonsHub] BLEACH Thousand-Year Blood War S01E47 1080p DSNP WEB-DL ...` | **1010.32 MB** | [🌐 Tosho](https://animetosho.xyz/view/685618) • [🐱 Nyaa](https://nekobt.to/torrents/13550576084232) |
+| `[Erai-raws] Bleach: Sennen Kessen Hen - Kashin Tan - 07 [1080p DSNP...` | **1010.61 MB** | [🌐 Tosho](https://animetosho.xyz/view/685615) • [🐱 Nyaa](https://nyaa.si/view/2156727) |
+| `BLEACH Thousand Year Blood War S01E47 1080p CR WEB-DL AAC2.0 H.264-...` | **1409.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/685616) • [🐱 Nyaa](https://nyaa.si/view/2156726) |
+| `[Judas] Neko to Ryuu (The Cat and the Dragon) - S01E11 [1080p][HEVC...` | **227.44 MB** | [🌐 Tosho](https://animetosho.xyz/view/685612) • [🐱 Nyaa](https://nyaa.si/view/2156723) |
 
 ---
 <div align="center">
