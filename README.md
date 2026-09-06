@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.55.11_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.32.44_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,6 +33,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Kotobuki] Tenmaku no Jaadugar 11 [1080p HEVC Multisub] | Jaadugar:...` | **288.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/685886) • [🐱 Nyaa](https://nyaa.si/view/2157149) |
+| `[BlackRose] Rich Girl Caretaker - S01E010 (WEB 1080p HEVC 10-bit EA...` | **1152.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/685881) • [🐱 Nyaa](https://nekobt.to/torrents/13565140343565) |
+| `[ToonsHub] Though I Am an Inept Villainess S01E09 1080p DSNP WEB-DL...` | **753.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/685882) • [🐱 Nyaa](https://nekobt.to/torrents/13565129522948) |
+| `[VARYG] Though I Am an Inept Villainess S01E09 I Will Make Sure to ...` | **753.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/685883) • [🐱 Nyaa](https://nekobt.to/torrents/13565062204174) |
+| `Digimon Beatbreak S01E46 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1371.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/685884) • [🐱 Nyaa](https://nekobt.to/torrents/13565050074124) |
+| `Digimon.Beatbreak.S01E46.1080p.CR.WEBRip.10bits.x265-Rapta` | **269.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/685880) • [🐱 Nyaa](https://nyaa.si/view/2157140) |
+| `[Shridhuu][1080p] A Good Day to Ascend / 择日飞升 / Zeri Feisheng - S01E10` | **447.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/685879) • [🐱 Nyaa](https://nyaa.si/view/2157138) |
+| `[ASW] Digimon Beatbreak - 46 [1080p HEVC x265 10Bit][AAC]` | **432.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/685874) • [🐱 Nyaa](https://nyaa.si/view/2157121) |
 | `[Knight-Subs] Bleach Thousand-Year Blood War - E47 - THE END 2 (108...` | **1423.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/685873) • [🐱 Nyaa](https://nekobt.to/torrents/13562178289423) |
 | `[Serenae] Meitantei Precure! - 32 Fanart Corner (1080p).mkv` | **8.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/685872) • [🐱 Nyaa](https://nyaa.si/view/2157104) |
 | `[Serenae] Meitantei Precure! - 32 (1080p).mkv` | **1399.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/685870) • [🐱 Nyaa](https://nyaa.si/view/2157101) |
@@ -40,14 +48,6 @@
 | `[AnoZu] Digimon Beatbreak S01E46 1080p CR WEB-DL AAC 2.0 H.264` | **1372.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/685867) • [🐱 Nyaa](https://nekobt.to/torrents/13561407832077) |
 | `Digimon Beatbreak S01E46 1080p CR WEB-DL AAC2.0 H.264-VARYG` | **1371.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/685868) • [🐱 Nyaa](https://nyaa.si/view/2157093) |
 | `[SubsPlease] Digimon Beatbreak - 46 (1080p) [62EC1901].mkv` | **1366.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/685869) • [🐱 Nyaa](https://nyaa.si/view/2157091) |
-| `[ASW] Meitantei Precure! - 32 [1080p HEVC x265 10Bit][AAC]` | **626.99 MB** | [🌐 Tosho](https://animetosho.xyz/view/685857) • [🐱 Nyaa](https://nyaa.si/view/2157073) |
-| `[Doomdos] - My Grave Nourishes My Cultivation - 10 [1080p IQ WEB-DL]` | **115.73 MB** | [🌐 Tosho](https://animetosho.xyz/view/685858) • [🐱 Nyaa](https://nyaa.si/view/2157072) |
-| `[Doomdos] - Golden Curse - 6 [1080p IQ WEB-DL]` | **429.62 MB** | [🌐 Tosho](https://animetosho.xyz/view/685853) • [🐱 Nyaa](https://nyaa.si/view/2157071) |
-| `[Doomdos] - Primeval Overlord - 15 [1080p IQ WEB-DL]` | **205.04 MB** | [🌐 Tosho](https://animetosho.xyz/view/685854) • [🐱 Nyaa](https://nyaa.si/view/2157070) |
-| `[Doomdos] - BLEACH Thousand-Year Blood War - The Calamity - 47 [108...` | **384.09 MB** | [🌐 Tosho](https://animetosho.xyz/view/685855) • [🐱 Nyaa](https://nyaa.si/view/2157069) |
-| `[Doomdos] - Recommendations from Iwamoto-Senpai - 10 [1080p IQ WEB-DL]` | **291.79 MB** | [🌐 Tosho](https://animetosho.xyz/view/685850) • [🐱 Nyaa](https://nyaa.si/view/2157068) |
-| `[Doomdos] - Magical Girl Lyrical Nanoha Exceeds Gun Blaze Vengeance...` | **334.51 MB** | [🌐 Tosho](https://animetosho.xyz/view/685851) • [🐱 Nyaa](https://nyaa.si/view/2157067) |
-| `[Doomdos] - BLACK TORCH - 10 [1080p IQ WEB-DL]` | **321.81 MB** | [🌐 Tosho](https://animetosho.xyz/view/685852) • [🐱 Nyaa](https://nyaa.si/view/2157066) |
 
 ---
 <div align="center">
