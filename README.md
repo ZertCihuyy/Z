@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.32.44_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-07.21.13_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,45 +9,42 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Minggu**
+### 📅 Jadwal Rilis Hari Ini: **Jumat**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201514-BHAeWhSbcBrT.png" width="45" style="border-radius: 4px;"> | `00.38` | **[Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita](https://anilist.co/anime/201514)** | *Comedy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png" width="45" style="border-radius: 4px;"> | `05.00` | **[Odekake Kozame Season 2](https://anilist.co/anime/204269)** | *Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png" width="45" style="border-radius: 4px;"> | `05.00` | **[Shou 3 Ashibe QQ Goma-chan](https://anilist.co/anime/202386)** | *Comedy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208824-JeKq65nNiFhA.png" width="45" style="border-radius: 4px;"> | `05.00` | **[Plannosaurus Gachi Koseibutsu-bu](https://anilist.co/anime/208824)** | *-* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png" width="45" style="border-radius: 4px;"> | `05.00` | **[Kumarba Season 3](https://anilist.co/anime/206950)** | *Action, Comedy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg" width="45" style="border-radius: 4px;"> | `06.00` | **[Koupen-chan](https://anilist.co/anime/185646)** | *Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg" width="45" style="border-radius: 4px;"> | `06.30` | **[Meitantei Precure!](https://anilist.co/anime/202957)** | *Mahou Shoujo, Mystery* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg" width="45" style="border-radius: 4px;"> | `07.00` | **[DIGIMON BEATBREAK](https://anilist.co/anime/188388)** | *Action, Adventure, Fantasy, Sci-Fi* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg" width="45" style="border-radius: 4px;"> | `07.30` | **[Onegai AiPri](https://anilist.co/anime/206523)** | *Music* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)** | *Action, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg" width="45" style="border-radius: 4px;"> | `09.00` | **[Dou Po Cangqiong: Nian Fan 4](https://anilist.co/anime/196613)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200230-YuzdgbXSgi38.png" width="45" style="border-radius: 4px;"> | `14.30` | **[Let's Go Kaikigumi](https://anilist.co/anime/200230)** | *Comedy, Horror, Supernatural* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg" width="45" style="border-radius: 4px;"> | `15.00` | **[Seihantai na Kimi to Boku 2nd Season](https://anilist.co/anime/210031)** | *Comedy, Drama, Romance, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204060-bKhovD8jAlW8.jpg" width="45" style="border-radius: 4px;"> | `15.30` | **[Tetsunabe no Jan!](https://anilist.co/anime/204060)** | *Action, Comedy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png" width="45" style="border-radius: 4px;"> | `16.00` | **[Holo no Graffiti](https://anilist.co/anime/118123)** | *Action, Adventure, Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg" width="45" style="border-radius: 4px;"> | `07.50` | **[Mazenchu](https://anilist.co/anime/217577)** | *Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png" width="45" style="border-radius: 4px;"> | `10.00` | **[Shiguang Dailiren III](https://anilist.co/anime/191832)** | *Drama, Mystery, Supernatural, Thriller* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg" width="45" style="border-radius: 4px;"> | `15.00` | **[JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE](https://anilist.co/anime/210482)** | *Action, Adventure, Drama, Mystery, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg" width="45" style="border-radius: 4px;"> | `16.40` | **[Pan Dorobou](https://anilist.co/anime/194207)** | *Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png" width="45" style="border-radius: 4px;"> | `17.00` | **[BEYBLADE X](https://anilist.co/anime/165159)** | *Action, Adventure, Sports* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg" width="45" style="border-radius: 4px;"> | `19.26` | **[Aoki Denshou: Welsh & Shedar](https://anilist.co/anime/216895)** | *Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Kusuriya no Hitorigoto 3rd Season](https://anilist.co/anime/195516)** | *Drama, Mystery* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-DymJCBpkR4qs.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Nige Jouzu no Wakagimi 2nd Season](https://anilist.co/anime/182616)** | *Action, Adventure* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-nvK5CuG60WGY.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Tougen Anki: Nikko・Kegon no Taki-hen](https://anilist.co/anime/204650)** | *Action, Mystery, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg" width="45" style="border-radius: 4px;"> | `22.00` | **[Uchi no Otouto-domo ga Sumimasen](https://anilist.co/anime/203490)** | *Comedy, Romance, Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png" width="45" style="border-radius: 4px;"> | `22.00` | **[Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru](https://anilist.co/anime/169581)** | *Action, Adventure, Ecchi, Fantasy, Romance* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg" width="45" style="border-radius: 4px;"> | `23.53` | **[Tokyo Revengers: Santen Sensou-hen](https://anilist.co/anime/178083)** | *Action, Drama, Romance, Supernatural* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Kotobuki] Tenmaku no Jaadugar 11 [1080p HEVC Multisub] | Jaadugar:...` | **288.77 MB** | [🌐 Tosho](https://animetosho.xyz/view/685886) • [🐱 Nyaa](https://nyaa.si/view/2157149) |
-| `[BlackRose] Rich Girl Caretaker - S01E010 (WEB 1080p HEVC 10-bit EA...` | **1152.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/685881) • [🐱 Nyaa](https://nekobt.to/torrents/13565140343565) |
-| `[ToonsHub] Though I Am an Inept Villainess S01E09 1080p DSNP WEB-DL...` | **753.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/685882) • [🐱 Nyaa](https://nekobt.to/torrents/13565129522948) |
-| `[VARYG] Though I Am an Inept Villainess S01E09 I Will Make Sure to ...` | **753.90 MB** | [🌐 Tosho](https://animetosho.xyz/view/685883) • [🐱 Nyaa](https://nekobt.to/torrents/13565062204174) |
-| `Digimon Beatbreak S01E46 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1371.52 MB** | [🌐 Tosho](https://animetosho.xyz/view/685884) • [🐱 Nyaa](https://nekobt.to/torrents/13565050074124) |
-| `Digimon.Beatbreak.S01E46.1080p.CR.WEBRip.10bits.x265-Rapta` | **269.11 MB** | [🌐 Tosho](https://animetosho.xyz/view/685880) • [🐱 Nyaa](https://nyaa.si/view/2157140) |
-| `[Shridhuu][1080p] A Good Day to Ascend / 择日飞升 / Zeri Feisheng - S01E10` | **447.20 MB** | [🌐 Tosho](https://animetosho.xyz/view/685879) • [🐱 Nyaa](https://nyaa.si/view/2157138) |
-| `[ASW] Digimon Beatbreak - 46 [1080p HEVC x265 10Bit][AAC]` | **432.96 MB** | [🌐 Tosho](https://animetosho.xyz/view/685874) • [🐱 Nyaa](https://nyaa.si/view/2157121) |
-| `[Knight-Subs] Bleach Thousand-Year Blood War - E47 - THE END 2 (108...` | **1423.00 MB** | [🌐 Tosho](https://animetosho.xyz/view/685873) • [🐱 Nyaa](https://nekobt.to/torrents/13562178289423) |
-| `[Serenae] Meitantei Precure! - 32 Fanart Corner (1080p).mkv` | **8.64 MB** | [🌐 Tosho](https://animetosho.xyz/view/685872) • [🐱 Nyaa](https://nyaa.si/view/2157104) |
-| `[Serenae] Meitantei Precure! - 32 (1080p).mkv` | **1399.92 MB** | [🌐 Tosho](https://animetosho.xyz/view/685870) • [🐱 Nyaa](https://nyaa.si/view/2157101) |
-| `[ToonsHub] Digimon Beatbreak S01E46 1080p CR WEB-DL AAC2.0 H.264 (E...` | **1371.22 MB** | [🌐 Tosho](https://animetosho.xyz/view/685866) • [🐱 Nyaa](https://nekobt.to/torrents/13561412901634) |
-| `[AnoZu] Digimon Beatbreak S01E46 1080p CR WEB-DL AAC 2.0 H.264` | **1372.16 MB** | [🌐 Tosho](https://animetosho.xyz/view/685867) • [🐱 Nyaa](https://nekobt.to/torrents/13561407832077) |
-| `Digimon Beatbreak S01E46 1080p CR WEB-DL AAC2.0 H.264-VARYG` | **1371.87 MB** | [🌐 Tosho](https://animetosho.xyz/view/685868) • [🐱 Nyaa](https://nyaa.si/view/2157093) |
-| `[SubsPlease] Digimon Beatbreak - 46 (1080p) [62EC1901].mkv` | **1366.42 MB** | [🌐 Tosho](https://animetosho.xyz/view/685869) • [🐱 Nyaa](https://nyaa.si/view/2157091) |
+| `[Doomdos] - The World’s Strongest Rearguard - 第03话 - [1080p BILIBIL...` | **208.69 MB** | [🌐 Tosho](https://animetosho.net/view/693370) • [🐱 Nyaa](https://nyaa.si/view/2168421) |
+| `[Doomdos] - The World’s Strongest Rearguard - 第02话 - [1080p BILIBIL...` | **205.81 MB** | [🌐 Tosho](https://animetosho.net/view/693371) • [🐱 Nyaa](https://nyaa.si/view/2168420) |
+| `[Doomdos] - The World’s Strongest Rearguard - 第01话 - [1080p BILIBIL...` | **175.20 MB** | [🌐 Tosho](https://animetosho.net/view/693369) • [🐱 Nyaa](https://nyaa.si/view/2168419) |
+| `[Doomdos] - You and I Are Polar Opposites - 第24话 - [1080p BILIBILI ...` | **187.56 MB** | [🌐 Tosho](https://animetosho.net/view/693367) • [🐱 Nyaa](https://nyaa.si/view/2168418) |
+| `[Doomdos] - You and I Are Polar Opposites - 第23话 - [1080p BILIBILI ...` | **188.10 MB** | [🌐 Tosho](https://animetosho.net/view/693368) • [🐱 Nyaa](https://nyaa.si/view/2168417) |
+| `[Doomdos] - You and I Are Polar Opposites - 第22话 - [1080p BILIBILI ...` | **175.92 MB** | [🌐 Tosho](https://animetosho.net/view/693366) • [🐱 Nyaa](https://nyaa.si/view/2168416) |
+| `[Doomdos] - You and I Are Polar Opposites - 第21话 - [1080p BILIBILI ...` | **178.66 MB** | [🌐 Tosho](https://animetosho.net/view/693365) • [🐱 Nyaa](https://nyaa.si/view/2168415) |
+| `[Doomdos] - You and I Are Polar Opposites - 第20话 - [1080p BILIBILI ...` | **185.28 MB** | [🌐 Tosho](https://animetosho.net/view/693364) • [🐱 Nyaa](https://nyaa.si/view/2168414) |
+| `[Doomdos] - You and I Are Polar Opposites - 第19话 - [1080p BILIBILI ...` | **208.10 MB** | [🌐 Tosho](https://animetosho.net/view/693362) • [🐱 Nyaa](https://nyaa.si/view/2168410) |
+| `[Doomdos] - You and I Are Polar Opposites - 第18话 - [1080p BILIBILI ...` | **195.78 MB** | [🌐 Tosho](https://animetosho.net/view/693363) • [🐱 Nyaa](https://nyaa.si/view/2168409) |
+| `[ToonsHub] The Prince of Tennis II S05E01 1080p BSITE WEB-DL AAC2.0...` | **237.55 MB** | [🌐 Tosho](https://animetosho.net/view/693359) • [🐱 Nyaa](https://nekobt.to/torrents/14133364072459) |
+| `[Doomdos] - You and I Are Polar Opposites - 第17话 - [1080p BILIBILI ...` | **190.06 MB** | [🌐 Tosho](https://animetosho.net/view/693360) • [🐱 Nyaa](https://nyaa.si/view/2168408) |
+| `[Chihiro] Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2 -...` | **663.13 MB** | [🌐 Tosho](https://animetosho.net/view/693361) • [🐱 Nyaa](https://nyaa.si/view/2168407) |
+| `[Doomdos] - You and I Are Polar Opposites - 第16话 - [1080p BILIBILI ...` | **183.19 MB** | [🌐 Tosho](https://animetosho.net/view/693358) • [🐱 Nyaa](https://nyaa.si/view/2168406) |
+| `[Doomdos] - You and I Are Polar Opposites - 第15话 - [1080p BILIBILI ...` | **196.29 MB** | [🌐 Tosho](https://animetosho.net/view/693356) • [🐱 Nyaa](https://nyaa.si/view/2168405) |
 
 ---
 <div align="center">

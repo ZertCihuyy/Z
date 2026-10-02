@@ -1,5 +1,5 @@
 {
-  "last_update": "6/9/2026, 15.32.44",
+  "last_update": "2/10/2026, 07.21.13",
   "data": [
     {
       "id": 154587,
@@ -24,7 +24,7 @@
       "coverImage": {
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114129-RLgSuh6YbeYx.jpg"
       },
-      "averageScore": 91,
+      "averageScore": 90,
       "genres": [
         "Action",
         "Comedy",
@@ -46,21 +46,6 @@
         "Comedy",
         "Drama",
         "Sci-Fi"
-      ]
-    },
-    {
-      "id": 185874,
-      "title": {
-        "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg"
-      },
-      "averageScore": 90,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Supernatural"
       ]
     },
     {
@@ -116,21 +101,6 @@
       ]
     },
     {
-      "id": 182469,
-      "title": {
-        "romaji": "ONE PIECE FAN LETTER"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182469-JQ808NBPxmgn.jpg"
-      },
-      "averageScore": 90,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ]
-    },
-    {
       "id": 104578,
       "title": {
         "romaji": "Shingeki no Kyojin Season 3 Part 2"
@@ -138,12 +108,42 @@
       "coverImage": {
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-k61nx3LPjvgd.jpg"
       },
-      "averageScore": 90,
+      "averageScore": 89,
       "genres": [
         "Action",
         "Drama",
         "Fantasy",
         "Mystery"
+      ]
+    },
+    {
+      "id": 182469,
+      "title": {
+        "romaji": "ONE PIECE FAN LETTER"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182469-JQ808NBPxmgn.jpg"
+      },
+      "averageScore": 89,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 185874,
+      "title": {
+        "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg"
+      },
+      "averageScore": 89,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
       ]
     },
     {
