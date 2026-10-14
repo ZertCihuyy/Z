@@ -1,5 +1,5 @@
 {
-  "last_update": "2/10/2026, 07.21.13",
+  "last_update": "14/10/2026, 12.19.29",
   "data": [
     {
       "id": 21,
@@ -19,6 +19,23 @@
       }
     },
     {
+      "id": 195516,
+      "title": {
+        "romaji": "Kusuriya no Hitorigoto 3rd Season"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg"
+      },
+      "episodes": 12,
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
+          }
+        ]
+      }
+    },
+    {
       "id": 185874,
       "title": {
         "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
@@ -31,6 +48,23 @@
         "nodes": [
           {
             "name": "PIERROT FILMS"
+          }
+        ]
+      }
+    },
+    {
+      "id": 195604,
+      "title": {
+        "romaji": "Black Clover 2nd Season"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg"
+      },
+      "episodes": null,
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
           }
         ]
       }
@@ -70,23 +104,6 @@
       }
     },
     {
-      "id": 210031,
-      "title": {
-        "romaji": "Seihantai na Kimi to Boku 2nd Season"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg"
-      },
-      "episodes": 13,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Lapin Track"
-          }
-        ]
-      }
-    },
-    {
       "id": 159042,
       "title": {
         "romaji": "Tensei Shitara Ken Deshita 2nd Season"
@@ -94,7 +111,7 @@
       "coverImage": {
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png"
       },
-      "episodes": null,
+      "episodes": 12,
       "studios": {
         "nodes": [
           {
@@ -104,18 +121,18 @@
       }
     },
     {
-      "id": 171110,
+      "id": 189123,
       "title": {
-        "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo"
+        "romaji": "Ao no Hako Season 2"
       },
       "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg"
       },
-      "episodes": 24,
+      "episodes": 12,
       "studios": {
         "nodes": [
           {
-            "name": "WIT STUDIO"
+            "name": "Electric Circus"
           }
         ]
       }
@@ -138,35 +155,18 @@
       }
     },
     {
-      "id": 182616,
+      "id": 212888,
       "title": {
-        "romaji": "Nige Jouzu no Wakagimi 2nd Season"
+        "romaji": "Tempal: Item no Chikara"
       },
       "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-DymJCBpkR4qs.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg"
       },
       "episodes": 12,
       "studios": {
         "nodes": [
           {
-            "name": "CloverWorks"
-          }
-        ]
-      }
-    },
-    {
-      "id": 158871,
-      "title": {
-        "romaji": "Pocket Monsters (2023)"
-      },
-      "coverImage": {
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg"
-      },
-      "episodes": null,
-      "studios": {
-        "nodes": [
-          {
-            "name": "OLM"
+            "name": "J.C.STAFF"
           }
         ]
       }

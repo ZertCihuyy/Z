@@ -1,16 +1,32 @@
 {
-  "last_update": "2/10/2026, 07.21.13",
-  "hari": "Jumat",
+  "last_update": "14/10/2026, 12.19.29",
+  "hari": "Rabu",
   "data": [
     {
-      "airingAt": 1790902200,
+      "airingAt": 1791929160,
       "media": {
-        "id": 217577,
+        "id": 218008,
         "title": {
-          "romaji": "Mazenchu"
+          "romaji": "Chibi Godzilla no Gyakushuu Season 4"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218008-pDrQDUyfAnm6.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1791932400,
+      "media": {
+        "id": 204656,
+        "title": {
+          "romaji": "mofusand"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg"
         },
         "genres": [
           "Slice of Life"
@@ -18,190 +34,207 @@
       }
     },
     {
-      "airingAt": 1790910000,
+      "airingAt": 1791943200,
       "media": {
-        "id": 191832,
+        "id": 199409,
         "title": {
-          "romaji": "Shiguang Dailiren III"
+          "romaji": "Yi Nian Yongheng 4"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png"
         },
         "genres": [
-          "Drama",
-          "Mystery",
-          "Supernatural",
-          "Thriller"
+          "Action",
+          "Comedy",
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1790928000,
+      "airingAt": 1791943200,
       "media": {
-        "id": 210482,
+        "id": 213486,
         "title": {
-          "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE"
+          "romaji": "You Shou Yan 6th Season"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png"
+        },
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1791943200,
+      "media": {
+        "id": 214974,
+        "title": {
+          "romaji": "Da Xia Shou Mu Ren"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg"
         },
         "genres": [
           "Action",
-          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1791981000,
+      "media": {
+        "id": 152677,
+        "title": {
+          "romaji": "Tantei wa mou, Shindeiru. Season 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png"
+        },
+        "genres": [
+          "Comedy",
           "Drama",
           "Mystery",
+          "Romance",
           "Supernatural"
         ]
       }
     },
     {
-      "airingAt": 1790934000,
+      "airingAt": 1791982800,
       "media": {
-        "id": 194207,
+        "id": 211778,
         "title": {
-          "romaji": "Pan Dorobou"
+          "romaji": "Sekai Saikyou no Majo, Hajimemashita"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg"
         },
         "genres": [
-          "Comedy"
+          "Action",
+          "Comedy",
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1790935200,
+      "airingAt": 1791982800,
       "media": {
-        "id": 165159,
+        "id": 176314,
         "title": {
-          "romaji": "BEYBLADE X"
+          "romaji": "Sasaki to Pii-chan Season 2"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Mahou Shoujo"
+        ]
+      }
+    },
+    {
+      "airingAt": 1791989160,
+      "media": {
+        "id": 178868,
+        "title": {
+          "romaji": "Magic Knight Rayearth (2026)"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg"
+        },
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Mahou Shoujo",
+          "Mecha"
+        ]
+      }
+    },
+    {
+      "airingAt": 1791990000,
+      "media": {
+        "id": 199068,
+        "title": {
+          "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png"
         },
         "genres": [
           "Action",
-          "Adventure",
+          "Comedy",
           "Sports"
         ]
       }
     },
     {
-      "airingAt": 1790943960,
+      "airingAt": 1791990000,
       "media": {
-        "id": 216895,
+        "id": 168085,
         "title": {
-          "romaji": "Aoki Denshou: Welsh & Shedar"
+          "romaji": "Dali Si Rizhi 3"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168085-hPOOODUADp7D.png"
         },
         "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1791991800,
+      "media": {
+        "id": 159042,
+        "title": {
+          "romaji": "Tensei Shitara Ken Deshita 2nd Season"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png"
+        },
+        "genres": [
+          "Action",
           "Adventure",
           "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1790949600,
+      "airingAt": 1791991800,
       "media": {
-        "id": 195516,
+        "id": 213068,
         "title": {
-          "romaji": "Kusuriya no Hitorigoto 3rd Season"
+          "romaji": "Juuоu Mujin Dandivine"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Mystery"
-        ]
-      }
-    },
-    {
-      "airingAt": 1790951400,
-      "media": {
-        "id": 182616,
-        "title": {
-          "romaji": "Nige Jouzu no Wakagimi 2nd Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-DymJCBpkR4qs.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png"
         },
         "genres": [
           "Action",
-          "Adventure"
+          "Mecha"
         ]
       }
     },
     {
-      "airingAt": 1790951400,
+      "airingAt": 1791992700,
       "media": {
-        "id": 204650,
+        "id": 172192,
         "title": {
-          "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen"
+          "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-nvK5CuG60WGY.jpg"
-        },
-        "genres": [
-          "Action",
-          "Mystery",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1790953200,
-      "media": {
-        "id": 203490,
-        "title": {
-          "romaji": "Uchi no Otouto-domo ga Sumimasen"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1790953200,
-      "media": {
-        "id": 169581,
-        "title": {
-          "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg"
         },
         "genres": [
           "Action",
           "Adventure",
-          "Ecchi",
-          "Fantasy",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1790959980,
-      "media": {
-        "id": 178083,
-        "title": {
-          "romaji": "Tokyo Revengers: Santen Sensou-hen"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg"
-        },
-        "genres": [
-          "Action",
-          "Drama",
-          "Romance",
-          "Supernatural"
+          "Fantasy"
         ]
       }
     }
