@@ -1,16 +1,44 @@
 {
-  "last_update": "21/11/2026, 23.19.33",
-  "hari": "Sabtu",
+  "last_update": "22/11/2026, 04.43.56",
+  "hari": "Minggu",
   "data": [
     {
-      "airingAt": 1795217400,
+      "airingAt": 1795298400,
       "media": {
-        "id": 212308,
+        "id": 204269,
         "title": {
-          "romaji": "Pan no Akachan (TV)"
+          "romaji": "Odekake Kozame Season 2"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png"
+        },
+        "genres": [
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795298400,
+      "media": {
+        "id": 213298,
+        "title": {
+          "romaji": "Yuruyuru Zukan"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213298-ymB1Sw0yDZ0Y.jpg"
+        },
+        "genres": []
+      }
+    },
+    {
+      "airingAt": 1795298400,
+      "media": {
+        "id": 218011,
+        "title": {
+          "romaji": "Tanuki to Kitsune (TV)"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218011-dPgr1MlfSuhH.jpg"
         },
         "genres": [
           "Comedy"
@@ -18,233 +46,192 @@
       }
     },
     {
-      "airingAt": 1795220760,
+      "airingAt": 1795302000,
       "media": {
-        "id": 183231,
+        "id": 185646,
         "title": {
-          "romaji": "Rilakkuma"
+          "romaji": "Koupen-chan"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg"
         },
         "genres": [
-          "Fantasy",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1795221000,
+      "airingAt": 1795303800,
       "media": {
-        "id": 214968,
+        "id": 202957,
         "title": {
-          "romaji": "Nezumi-kun no Chokki (TV) 2nd Season"
+          "romaji": "Meitantei Precure!"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214968-rrPSP2nKF40C.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg"
         },
         "genres": [
-          "Fantasy"
+          "Mahou Shoujo",
+          "Mystery"
         ]
       }
     },
     {
-      "airingAt": 1795221000,
+      "airingAt": 1795306560,
       "media": {
-        "id": 216557,
+        "id": 216860,
         "title": {
-          "romaji": "Keroro Gunsou☆"
+          "romaji": "Punirunes Puni 4"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-b72dAqbVEDO7.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216860-ghfSopHbPVNa.png"
         },
         "genres": [
-          "Comedy",
-          "Sci-Fi"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795222800,
-      "media": {
-        "id": 214260,
-        "title": {
-          "romaji": "Zeri Feisheng"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214260-m2fg5OwduwSt.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795226400,
-      "media": {
-        "id": 137683,
-        "title": {
-          "romaji": "Douluo Dalu 2: Jueshi Tangmen"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Romance"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795226400,
-      "media": {
-        "id": 199353,
-        "title": {
-          "romaji": "Dawang Raoming 3"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199353-S2jczHjCWHGL.png"
-        },
-        "genres": [
-          "Action",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795230000,
-      "media": {
-        "id": 202851,
-        "title": {
-          "romaji": "Fanren Xiu Xian Zhuan Di Wu Ji"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202851-iHwg4I1NdfMx.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795246140,
-      "media": {
-        "id": 209709,
-        "title": {
-          "romaji": "Sirotan"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png"
-        },
-        "genres": []
-      }
-    },
-    {
-      "airingAt": 1795246200,
-      "media": {
-        "id": 966,
-        "title": {
-          "romaji": "Crayon Shin-chan"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Ecchi",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1795248000,
+      "airingAt": 1795307400,
       "media": {
-        "id": 8687,
+        "id": 206523,
         "title": {
-          "romaji": "Doraemon (2005)"
+          "romaji": "Onegai AiPri"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg"
         },
         "genres": [
-          "Adventure",
-          "Comedy",
-          "Sci-Fi"
+          "Music"
         ]
       }
     },
     {
-      "airingAt": 1795249800,
+      "airingAt": 1795309200,
       "media": {
-        "id": 195571,
+        "id": 217787,
         "title": {
-          "romaji": "Shuiro no Kamen"
+          "romaji": "Pop Pap Polters"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195571-fvj7u5GI7BRT.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg"
+        },
+        "genres": [
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795312800,
+      "media": {
+        "id": 155723,
+        "title": {
+          "romaji": "Wushen Zhuzai: Da Wei Pian"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
         },
         "genres": [
           "Action",
-          "Drama",
-          "Supernatural"
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1795251600,
+      "airingAt": 1795312800,
       "media": {
-        "id": 235,
+        "id": 213356,
         "title": {
-          "romaji": "Meitantei Conan"
+          "romaji": "Guangyin Zhi Wai 2"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg"
         },
         "genres": [
+          "Action",
           "Adventure",
-          "Comedy",
-          "Mystery",
-          "Psychological"
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1795253100,
+      "airingAt": 1795320000,
       "media": {
-        "id": 212799,
+        "id": 219986,
         "title": {
-          "romaji": "Marronnier Oukoku no Shichinin no Kishi"
+          "romaji": "Doupo Cangqiong Movie: Shuang Di Zhi Zhan"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212799-n7WDdic7IL1z.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx219986-AJSNzqbspfOY.jpg"
         },
         "genres": [
-          "Drama",
-          "Fantasy",
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795332600,
+      "media": {
+        "id": 189123,
+        "title": {
+          "romaji": "Ao no Hako Season 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg"
+        },
+        "genres": [
+          "Romance",
+          "Slice of Life",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795334400,
+      "media": {
+        "id": 191788,
+        "title": {
+          "romaji": "Aoashi 2nd Season"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191788-XC6F24LdX6a4.jpg"
+        },
+        "genres": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795334400,
+      "media": {
+        "id": 213657,
+        "title": {
+          "romaji": "Yozakura-san Chi no Daisakusen 2nd Season Part 2"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213657-ORNXVEBCjXaz.jpg"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
           "Romance"
         ]
       }
     },
     {
-      "airingAt": 1795262400,
+      "airingAt": 1795336200,
       "media": {
-        "id": 180894,
+        "id": 213658,
         "title": {
-          "romaji": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita"
+          "romaji": "Diamond no Ace act II: Second Season Part 2"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213658-D3BPJaqawLxS.png"
         },
         "genres": [
-          "Adventure",
-          "Drama",
-          "Fantasy"
+          "Sports"
         ]
       }
     }
