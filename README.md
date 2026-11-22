@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-08.40.32_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-15.53.48_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[AnoZu] Star Detective Precure! S01E42 1080p CR WEB-DL AAC 2.0 H.264` | **1216.54 MB** | [🌐 Tosho](https://animetosho.net/view/706739) • [🐱 Nyaa](https://nekobt.to/torrents/15263116114445) |
-| `[SubsPlease] Meitantei Precure! - 42 (1080p) [A14CAD8D].mkv` | **1222.26 MB** | [🌐 Tosho](https://animetosho.net/view/706738) • [🐱 Nyaa](https://nyaa.si/view/2189024) |
-| `[Erai-raws] Meitantei Precure - 42 [1080p CR WEB-DL AVC AAC][541F04B7]` | **1217.03 MB** | [🌐 Tosho](https://animetosho.net/view/706734) • [🐱 Nyaa](https://nekobt.to/torrents/15263088701192) |
-| `[Doomdos] - Dushi Gu Xian Yi - S01E231 [1080p IQIYI WEB-DL] [Urban ...` | **135.07 MB** | [🌐 Tosho](https://animetosho.net/view/706733) • [🐱 Nyaa](https://nyaa.si/view/2189009) |
-| `[Anarchy] Kusuriya no Hitorigoto - 55 (WEB 1080p).mkv` | **2304.92 MB** | [🌐 Tosho](https://animetosho.net/view/706732) • [🐱 Nyaa](https://nekobt.to/torrents/15262011588621) |
-| `[Anarchy] Kusuriya no Hitorigoto - 54 (WEB 1080p).mkv` | **2047.21 MB** | [🌐 Tosho](https://animetosho.net/view/706731) • [🐱 Nyaa](https://nekobt.to/torrents/15262008795151) |
-| `[ToonsHub] Detective Conan EP1221 1080p CR WEB-DL AAC2.0 H.264 (Mul...` | **893.37 MB** | [🌐 Tosho](https://animetosho.net/view/706730) • [🐱 Nyaa](https://nekobt.to/torrents/15261960958987) |
-| `[ToonsHub] Detective Conan EP1221 REPACK 1080p CR WEB-DL AAC2.0 H.2...` | **893.37 MB** | [🌐 Tosho](https://animetosho.net/view/706728) • [🐱 Nyaa](https://nekobt.to/torrents/15261937950222) |
-| `[ToonsHub] Detective Conan EP1221 1080p NF WEB-DL AAC2.0 H.264 (Mul...` | **833.58 MB** | [🌐 Tosho](https://animetosho.net/view/706729) • [🐱 Nyaa](https://nekobt.to/torrents/15261936431885) |
-| `[KronnosRzer] Seitokai ni mo Ana wa Aru! - S01E07 [1080p] [WEB-DL] ...` | **717.93 MB** | [🌐 Tosho](https://animetosho.net/view/706727) • [🐱 Nyaa](https://nekobt.to/torrents/15261409864708) |
-| `[9volt] Ookami to Koushinryou: Merchant Meets the Wise Wolf S01 (BD...` | **63509.60 MB** | [🌐 Tosho](https://animetosho.net/view/706726) • [🐱 Nyaa](https://nekobt.to/torrents/15261002772749) |
-| `[KronnosRzer] Seitokai ni mo Ana wa Aru! - S01E06 [1080p] [WEB-DL] ...` | **841.99 MB** | [🌐 Tosho](https://animetosho.net/view/706725) • [🐱 Nyaa](https://nekobt.to/torrents/15260926569220) |
-| `[Erai-raws] Zombie Sagashitemasu - 07 [1080p CR WEBRip HEVC AAC][Mu...` | **583.50 MB** | [🌐 Tosho](https://animetosho.net/view/706724) • [🐱 Nyaa](https://nekobt.to/torrents/15260916916747) |
-| `[SubsNoJutsu] Black Clover - S02E08 (1080p WEB x265 AAC) [48B86586]` | **579.39 MB** | [🌐 Tosho](https://animetosho.net/view/706723) • [🐱 Nyaa](https://nekobt.to/torrents/15260575328521) |
-| `Absolute.Whiteness.Magical.Girl.2012.BluRay.1080p.AVC.Opus.2.0.mkv` | **571.86 MB** | [🌐 Tosho](https://animetosho.net/view/706722) • [🐱 Nyaa](https://nekobt.to/torrents/15260260360706) |
+| `[Buzz-Subs] Black Clover (2017) S02E08 (1080p Web-Encode AV1) [Eng-...` | **584.56 MB** | [🌐 Tosho](https://animetosho.net/view/706763) • [🐱 Nyaa](https://nekobt.to/torrents/15269805077506) |
+| `[Buzz-Subs] Black Clover (2017) S02E08 (1080p CR WEB-DL AAC H.264) ...` | **1739.33 MB** | [🌐 Tosho](https://animetosho.net/view/706762) • [🐱 Nyaa](https://nekobt.to/torrents/15269766039563) |
+| `[VARYG] Mission Yozakura Family S02E19 Dreams 1080p DSNP WEB-DL AAC...` | **875.79 MB** | [🌐 Tosho](https://animetosho.net/view/706760) • [🐱 Nyaa](https://nekobt.to/torrents/15269558880513) |
+| `Mission Yozakura Family S02E19 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H...` | **875.61 MB** | [🌐 Tosho](https://animetosho.net/view/706758) • [🐱 Nyaa](https://nekobt.to/torrents/15269557634817) |
+| `[ToonsHub] Mission Yozakura Family S02E19 1080p DSNP WEB-DL AAC2.0 ...` | **875.79 MB** | [🌐 Tosho](https://animetosho.net/view/706759) • [🐱 Nyaa](https://nekobt.to/torrents/15269556507392) |
+| `Blue Box S02E07 MULTi 1080p NF WEB-DL DDP5.1 x264-Tsundere-Raws (VF...` | **1099.03 MB** | [🌐 Tosho](https://animetosho.net/view/706756) • [🐱 Nyaa](https://nekobt.to/torrents/15269326973960) |
+| `Blue Box S02E07 MULTi 1080p NF WEB-DL DDP5.1 H.265-Tsundere-Raws (V...` | **489.09 MB** | [🌐 Tosho](https://animetosho.net/view/706757) • [🐱 Nyaa](https://nekobt.to/torrents/15269320477454) |
+| `Blue Box S02E07 MULTi 1080p NF WEB-DL DDP5.1 AV1-Tsundere-Raws (VF,...` | **378.25 MB** | [🌐 Tosho](https://animetosho.net/view/706755) • [🐱 Nyaa](https://nekobt.to/torrents/15269307995399) |
+| `[VARYG] Blue Box S02E07 I Need to Tell You Something 1080p NF WEB-D...` | **2754.10 MB** | [🌐 Tosho](https://animetosho.net/view/706754) • [🐱 Nyaa](https://nekobt.to/torrents/15269129825286) |
+| `[VARYG] Blue Box S02E07 I Need to Tell You Something 1080p NF WEB-D...` | **1099.33 MB** | [🌐 Tosho](https://animetosho.net/view/706753) • [🐱 Nyaa](https://nekobt.to/torrents/15269094194189) |
+| `[RUBaDUB] Call of the Night (S2 Complete) (1080p) (Dual Audio)` | **7879.11 MB** | [🌐 Tosho](https://animetosho.net/view/706752) • [🐱 Nyaa](https://nyaa.si/view/2189097) |
+| `[RUBaDUB] Call of the Night (S1 Complete) (1080p) (Dual Audio)` | **7993.87 MB** | [🌐 Tosho](https://animetosho.net/view/706751) • [🐱 Nyaa](https://nyaa.si/view/2189096) |
+| `[LeoSubs] The Demon Hunter - S03E35 (Episode 104) - 1080p HEVC 10Bi...` | **946.52 MB** | [🌐 Tosho](https://animetosho.net/view/706750) • [🐱 Nyaa](https://nyaa.si/view/2189094) |
+| `[Bloat] Ranma ½ (2024) - S03E08 (WEB 1080p HEVC AAC) [Dual-Audio] |...` | **1533.17 MB** | [🌐 Tosho](https://animetosho.net/view/706748) • [🐱 Nyaa](https://nekobt.to/torrents/15267515091719) |
+| `Ranking of Kings : The Treasure Chest of Courage S01 [2023] COMPLET...` | **38287.09 MB** | [🌐 Tosho](https://animetosho.net/view/706747) • [🐱 Nyaa](https://nyaa.si/view/2189089) |
 
 ---
 <div align="center">
