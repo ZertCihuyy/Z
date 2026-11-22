@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-15.53.48_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-23.53.19_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Buzz-Subs] Black Clover (2017) S02E08 (1080p Web-Encode AV1) [Eng-...` | **584.56 MB** | [🌐 Tosho](https://animetosho.net/view/706763) • [🐱 Nyaa](https://nekobt.to/torrents/15269805077506) |
-| `[Buzz-Subs] Black Clover (2017) S02E08 (1080p CR WEB-DL AAC H.264) ...` | **1739.33 MB** | [🌐 Tosho](https://animetosho.net/view/706762) • [🐱 Nyaa](https://nekobt.to/torrents/15269766039563) |
-| `[VARYG] Mission Yozakura Family S02E19 Dreams 1080p DSNP WEB-DL AAC...` | **875.79 MB** | [🌐 Tosho](https://animetosho.net/view/706760) • [🐱 Nyaa](https://nekobt.to/torrents/15269558880513) |
-| `Mission Yozakura Family S02E19 SUBFRENCH 1080p DSNP WEB-DL AAC2.0 H...` | **875.61 MB** | [🌐 Tosho](https://animetosho.net/view/706758) • [🐱 Nyaa](https://nekobt.to/torrents/15269557634817) |
-| `[ToonsHub] Mission Yozakura Family S02E19 1080p DSNP WEB-DL AAC2.0 ...` | **875.79 MB** | [🌐 Tosho](https://animetosho.net/view/706759) • [🐱 Nyaa](https://nekobt.to/torrents/15269556507392) |
-| `Blue Box S02E07 MULTi 1080p NF WEB-DL DDP5.1 x264-Tsundere-Raws (VF...` | **1099.03 MB** | [🌐 Tosho](https://animetosho.net/view/706756) • [🐱 Nyaa](https://nekobt.to/torrents/15269326973960) |
-| `Blue Box S02E07 MULTi 1080p NF WEB-DL DDP5.1 H.265-Tsundere-Raws (V...` | **489.09 MB** | [🌐 Tosho](https://animetosho.net/view/706757) • [🐱 Nyaa](https://nekobt.to/torrents/15269320477454) |
-| `Blue Box S02E07 MULTi 1080p NF WEB-DL DDP5.1 AV1-Tsundere-Raws (VF,...` | **378.25 MB** | [🌐 Tosho](https://animetosho.net/view/706755) • [🐱 Nyaa](https://nekobt.to/torrents/15269307995399) |
-| `[VARYG] Blue Box S02E07 I Need to Tell You Something 1080p NF WEB-D...` | **2754.10 MB** | [🌐 Tosho](https://animetosho.net/view/706754) • [🐱 Nyaa](https://nekobt.to/torrents/15269129825286) |
-| `[VARYG] Blue Box S02E07 I Need to Tell You Something 1080p NF WEB-D...` | **1099.33 MB** | [🌐 Tosho](https://animetosho.net/view/706753) • [🐱 Nyaa](https://nekobt.to/torrents/15269094194189) |
-| `[RUBaDUB] Call of the Night (S2 Complete) (1080p) (Dual Audio)` | **7879.11 MB** | [🌐 Tosho](https://animetosho.net/view/706752) • [🐱 Nyaa](https://nyaa.si/view/2189097) |
-| `[RUBaDUB] Call of the Night (S1 Complete) (1080p) (Dual Audio)` | **7993.87 MB** | [🌐 Tosho](https://animetosho.net/view/706751) • [🐱 Nyaa](https://nyaa.si/view/2189096) |
-| `[LeoSubs] The Demon Hunter - S03E35 (Episode 104) - 1080p HEVC 10Bi...` | **946.52 MB** | [🌐 Tosho](https://animetosho.net/view/706750) • [🐱 Nyaa](https://nyaa.si/view/2189094) |
-| `[Bloat] Ranma ½ (2024) - S03E08 (WEB 1080p HEVC AAC) [Dual-Audio] |...` | **1533.17 MB** | [🌐 Tosho](https://animetosho.net/view/706748) • [🐱 Nyaa](https://nekobt.to/torrents/15267515091719) |
-| `Ranking of Kings : The Treasure Chest of Courage S01 [2023] COMPLET...` | **38287.09 MB** | [🌐 Tosho](https://animetosho.net/view/706747) • [🐱 Nyaa](https://nyaa.si/view/2189089) |
+| `[Onalrie] Hotel Inhumans - S02E08 [1080p WEBRip AV1]` | **255.70 MB** | [🌐 Tosho](https://animetosho.net/view/707029) • [🐱 Nyaa](https://onalrie.app/torrent/0741b846-333b-456a-adfe-2515bcea794f) |
+| `[SubsPlus+] I'm Dating a Dark Summoner - S01E08 (AMZN WEB-DL 1080p ...` | **539.47 MB** | [🌐 Tosho](https://animetosho.net/view/707028) • [🐱 Nyaa](https://nekobt.to/torrents/15277069972495) |
+| `[ASW] Tempal - Item no Chikara - 09 [1080p HEVC x265 10Bit][AAC]` | **422.87 MB** | [🌐 Tosho](https://animetosho.net/view/707025) • [🐱 Nyaa](https://nyaa.si/view/2189434) |
+| `[ASW] Hotel Inhumans S2 - 08 [1080p HEVC x265 10Bit][AAC]` | **270.74 MB** | [🌐 Tosho](https://animetosho.net/view/707026) • [🐱 Nyaa](https://nyaa.si/view/2189432) |
+| `[Judas] Tempal: Item no Chikara (Overgeared) - S01E09 [1080p][HEVC ...` | **435.24 MB** | [🌐 Tosho](https://animetosho.net/view/707027) • [🐱 Nyaa](https://nyaa.si/view/2189431) |
+| `[VARYG] Overgeared S01E09 Comrades in the Guild 1080p CR WEB-DL MUL...` | **1700.97 MB** | [🌐 Tosho](https://animetosho.net/view/707023) • [🐱 Nyaa](https://nekobt.to/torrents/15276920912910) |
+| `[VARYG] Im Dating a Dark Summoner S01E08 The Dark Summoner and the ...` | **539.46 MB** | [🌐 Tosho](https://animetosho.net/view/707022) • [🐱 Nyaa](https://nekobt.to/torrents/15276851005963) |
+| `[Onalrie] Tensei Kizoku, Kantei Skill de Nariagaru - S03E09 [1080p ...` | **188.22 MB** | [🌐 Tosho](https://animetosho.net/view/707021) • [🐱 Nyaa](https://onalrie.app/torrent/57723cd0-bbff-4950-ad7f-1a4ceb86cac6) |
+| `[SubsPlease] Dark Summoner to Dekiteiru - 08 (1080p) [2CE7C8C9].mkv` | **469.29 MB** | [🌐 Tosho](https://animetosho.net/view/707020) • [🐱 Nyaa](https://nyaa.si/view/2189427) |
+| `[ToonsHub] Im Dating a Dark Summoner S01E08 1080p UNCENSORED HIDIVE...` | **469.57 MB** | [🌐 Tosho](https://animetosho.net/view/707017) • [🐱 Nyaa](https://nyaa.si/view/2189423) |
+| `[Erai-raws] Im Dating a Dark Summoner - 08 [1080p HIDIVE WEB-DL AVC...` | **469.64 MB** | [🌐 Tosho](https://animetosho.net/view/707019) • [🐱 Nyaa](https://nekobt.to/torrents/15276787528203) |
+| `[Onalrie] Tempal Item no Chikara - S01E09 [1080p WEBRip AV1].mkv` | **299.18 MB** | [🌐 Tosho](https://animetosho.net/view/707011) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2150972) |
+| `My Girlfriends Friend S01E08 UNCENSORED SUBFRENCH 1080p ADN WEB-DL ...` | **483.61 MB** | [🌐 Tosho](https://animetosho.net/view/707006) • [🐱 Nyaa](https://nekobt.to/torrents/15276531567113) |
+| `[Doomdos] - Kanata kara - S01E08 [1080p IQ WEB-DL] [From Far Away]` | **334.72 MB** | [🌐 Tosho](https://animetosho.net/view/707008) • [🐱 Nyaa](https://nyaa.si/view/2189406) |
+| `Dragon Ball Super Beerus S01E07 Resurrection F 1080p CR WEB-DL AAC2...` | **909.57 MB** | [🌐 Tosho](https://animetosho.net/view/707002) • [🐱 Nyaa](https://nyaa.si/view/2189404) |
 
 ---
 <div align="center">
