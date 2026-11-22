@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.43.56_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-08.40.32_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Anime Time] Black Clover - S02E06 [1080p][HEVC 10bit x265][AAC][Du...` | **662.21 MB** | [🌐 Tosho](https://animetosho.net/view/706717) • [🐱 Nyaa](https://nyaa.si/view/2188980) |
-| `[DKB] Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu - S01E08 ...` | **354.11 MB** | [🌐 Tosho](https://animetosho.net/view/706716) • [🐱 Nyaa](https://nyaa.si/view/2188979) |
-| `[Erai-raws] Kashita Maryoku wa ~Revo Barai~ de Kyousei Choushuu - 0...` | **627.09 MB** | [🌐 Tosho](https://animetosho.net/view/706715) • [🐱 Nyaa](https://nekobt.to/torrents/15259456618757) |
-| `[Judas] Ranma 1_2 (2024) - S03E08 [1080p][HEVC x265 10bit][Dual-Aud...` | **440.74 MB** | [🌐 Tosho](https://animetosho.net/view/706714) • [🐱 Nyaa](https://nyaa.si/view/2188976) |
-| `[SubsNoJutsu] Shangri-La Frontier - S01E15 (1080p BD x265 OPUS) [26...` | **631.01 MB** | [🌐 Tosho](https://animetosho.net/view/706713) • [🐱 Nyaa](https://nekobt.to/torrents/15258975049220) |
-| `[Judas] Magical Explorer - S01E09 [1080p][HEVC x265 10bit][Multi-Su...` | **279.86 MB** | [🌐 Tosho](https://animetosho.net/view/706712) • [🐱 Nyaa](https://nyaa.si/view/2188968) |
-| `[Erai-raws] Ranma 1/2 (2024) 3rd Season - 08 [1080p NF WEBRip HEVC ...` | **524.68 MB** | [🌐 Tosho](https://animetosho.net/view/706711) • [🐱 Nyaa](https://nekobt.to/torrents/15257915511553) |
-| `A.New.Dawn.2026.1080p.VOSTFR.{SUB.EN.JAP}.BluRay.DDP5.1.x264-Kitsune` | **8521.63 MB** | [🌐 Tosho](https://animetosho.net/view/706710) • [🐱 Nyaa](https://nyaa.si/view/2188962) |
-| `[Judas] Black Clover - S02E08 [1080p][HEVC x265 10bit][Multi-Subs] ...` | **579.34 MB** | [🌐 Tosho](https://animetosho.net/view/706708) • [🐱 Nyaa](https://nyaa.si/view/2188959) |
-| `[DKB] Ranma ½ (2024) - S03E08 [1080p][HEVC x265 10bit][Dual-Audio][...` | **473.06 MB** | [🌐 Tosho](https://animetosho.net/view/706709) • [🐱 Nyaa](https://nyaa.si/view/2188958) |
-| `[DKB] Black Clover - S02E08 [1080p][HEVC x265 10bit][Multi-Subs][we...` | **879.70 MB** | [🌐 Tosho](https://animetosho.net/view/706706) • [🐱 Nyaa](https://nyaa.si/view/2188956) |
-| `[NTRX ]Reincarnated as a Sword - S02E08 (ADN WEBDL 1080p H.264 AAC ...` | **622.94 MB** | [🌐 Tosho](https://animetosho.net/view/706705) • [🐱 Nyaa](https://nekobt.to/torrents/15257316843277) |
-| `[DKB] Yasei no Last Boss ga Arawareta! - S02E09 [1080p][HEVC x265 1...` | **380.84 MB** | [🌐 Tosho](https://animetosho.net/view/706703) • [🐱 Nyaa](https://nyaa.si/view/2188955) |
-| `[DKB] Romelia Senki - S01E08 [1080p][HEVC x265 10bit][Multi-Subs][w...` | **376.52 MB** | [🌐 Tosho](https://animetosho.net/view/706704) • [🐱 Nyaa](https://nyaa.si/view/2188954) |
-| `[DKB] Shuiro no Kamen - S01E07 [1080p][HEVC x265 10bit][Multi-Subs]...` | **354.74 MB** | [🌐 Tosho](https://animetosho.net/view/706707) • [🐱 Nyaa](https://nyaa.si/view/2188953) |
+| `[AnoZu] Star Detective Precure! S01E42 1080p CR WEB-DL AAC 2.0 H.264` | **1216.54 MB** | [🌐 Tosho](https://animetosho.net/view/706739) • [🐱 Nyaa](https://nekobt.to/torrents/15263116114445) |
+| `[SubsPlease] Meitantei Precure! - 42 (1080p) [A14CAD8D].mkv` | **1222.26 MB** | [🌐 Tosho](https://animetosho.net/view/706738) • [🐱 Nyaa](https://nyaa.si/view/2189024) |
+| `[Erai-raws] Meitantei Precure - 42 [1080p CR WEB-DL AVC AAC][541F04B7]` | **1217.03 MB** | [🌐 Tosho](https://animetosho.net/view/706734) • [🐱 Nyaa](https://nekobt.to/torrents/15263088701192) |
+| `[Doomdos] - Dushi Gu Xian Yi - S01E231 [1080p IQIYI WEB-DL] [Urban ...` | **135.07 MB** | [🌐 Tosho](https://animetosho.net/view/706733) • [🐱 Nyaa](https://nyaa.si/view/2189009) |
+| `[Anarchy] Kusuriya no Hitorigoto - 55 (WEB 1080p).mkv` | **2304.92 MB** | [🌐 Tosho](https://animetosho.net/view/706732) • [🐱 Nyaa](https://nekobt.to/torrents/15262011588621) |
+| `[Anarchy] Kusuriya no Hitorigoto - 54 (WEB 1080p).mkv` | **2047.21 MB** | [🌐 Tosho](https://animetosho.net/view/706731) • [🐱 Nyaa](https://nekobt.to/torrents/15262008795151) |
+| `[ToonsHub] Detective Conan EP1221 1080p CR WEB-DL AAC2.0 H.264 (Mul...` | **893.37 MB** | [🌐 Tosho](https://animetosho.net/view/706730) • [🐱 Nyaa](https://nekobt.to/torrents/15261960958987) |
+| `[ToonsHub] Detective Conan EP1221 REPACK 1080p CR WEB-DL AAC2.0 H.2...` | **893.37 MB** | [🌐 Tosho](https://animetosho.net/view/706728) • [🐱 Nyaa](https://nekobt.to/torrents/15261937950222) |
+| `[ToonsHub] Detective Conan EP1221 1080p NF WEB-DL AAC2.0 H.264 (Mul...` | **833.58 MB** | [🌐 Tosho](https://animetosho.net/view/706729) • [🐱 Nyaa](https://nekobt.to/torrents/15261936431885) |
+| `[KronnosRzer] Seitokai ni mo Ana wa Aru! - S01E07 [1080p] [WEB-DL] ...` | **717.93 MB** | [🌐 Tosho](https://animetosho.net/view/706727) • [🐱 Nyaa](https://nekobt.to/torrents/15261409864708) |
+| `[9volt] Ookami to Koushinryou: Merchant Meets the Wise Wolf S01 (BD...` | **63509.60 MB** | [🌐 Tosho](https://animetosho.net/view/706726) • [🐱 Nyaa](https://nekobt.to/torrents/15261002772749) |
+| `[KronnosRzer] Seitokai ni mo Ana wa Aru! - S01E06 [1080p] [WEB-DL] ...` | **841.99 MB** | [🌐 Tosho](https://animetosho.net/view/706725) • [🐱 Nyaa](https://nekobt.to/torrents/15260926569220) |
+| `[Erai-raws] Zombie Sagashitemasu - 07 [1080p CR WEBRip HEVC AAC][Mu...` | **583.50 MB** | [🌐 Tosho](https://animetosho.net/view/706724) • [🐱 Nyaa](https://nekobt.to/torrents/15260916916747) |
+| `[SubsNoJutsu] Black Clover - S02E08 (1080p WEB x265 AAC) [48B86586]` | **579.39 MB** | [🌐 Tosho](https://animetosho.net/view/706723) • [🐱 Nyaa](https://nekobt.to/torrents/15260575328521) |
+| `Absolute.Whiteness.Magical.Girl.2012.BluRay.1080p.AVC.Opus.2.0.mkv` | **571.86 MB** | [🌐 Tosho](https://animetosho.net/view/706722) • [🐱 Nyaa](https://nekobt.to/torrents/15260260360706) |
 
 ---
 <div align="center">
