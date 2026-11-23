@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-09.54.17_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-18.45.26_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,21 +25,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Doomdos] - Ling Wu Dalu - S01E235 [1080p IQIYI WEB-DL] [Lingwu Con...` | **195.06 MB** | [🌐 Tosho](https://animetosho.net/view/707096) • [🐱 Nyaa](https://nyaa.si/view/2189528) |
-| `[Erai-raws] Meitantei Precure - 42 [1080p CR WEBRip HEVC AAC][Multi...` | **664.99 MB** | [🌐 Tosho](https://animetosho.net/view/707094) • [🐱 Nyaa](https://nyaa.si/view/2189526) |
-| `[Erai-raws] Meitantei Precure - 42 [1080p CR WEB-DL AVC AAC][MultiS...` | **1220.98 MB** | [🌐 Tosho](https://animetosho.net/view/707093) • [🐱 Nyaa](https://nekobt.to/torrents/15285546518789) |
-| `Star Detective Precure S01E42 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.26...` | **1216.57 MB** | [🌐 Tosho](https://animetosho.net/view/707089) • [🐱 Nyaa](https://nekobt.to/torrents/15285300648196) |
-| `[Erai-raws] Kanata kara - 08 [1080p CR WEBRip HEVC AAC][MultiSub][B...` | **651.28 MB** | [🌐 Tosho](https://animetosho.net/view/707087) • [🐱 Nyaa](https://nekobt.to/torrents/15283312061697) |
-| `[T1GGR] Saint Seiya - S11 [WEBRip-1080p][AV1][AAC-2.0][JA][Batch] (...` | **5094.26 MB** | [🌐 Tosho](https://animetosho.net/view/707086) • [🐱 Nyaa](https://nekobt.to/torrents/15283205779203) |
-| `[FSP] Mushen Ji (Tales of Herding Gods) - 110 [1080p] (GB_CN) | 牧神记` | **531.40 MB** | [🌐 Tosho](https://animetosho.net/view/707085) • [🐱 Nyaa](https://nyaa.si/view/2189504) |
-| `[Erai-raws] HOTEL INHUMANS S02E08 [1080p CR WEBRip HEVC AAC][MultiS...` | **530.10 MB** | [🌐 Tosho](https://animetosho.net/view/707084) • [🐱 Nyaa](https://nekobt.to/torrents/15282372757760) |
-| `[Salieri] DAN DA DAN S2 - BD (1080p) (HDR) [Dual Audio]` | **42061.91 MB** | [🌐 Tosho](https://animetosho.net/view/707083) • [🐱 Nyaa](https://nyaa.si/view/2189501) |
-| `[Half-Baked] The Apothecary Diaries - S03E08 [WEB 1080p HEVC AAC] |...` | **2188.13 MB** | [🌐 Tosho](https://animetosho.net/view/707082) • [🐱 Nyaa](https://nyaa.si/view/2189500) |
-| `[LuckFansubs] Seitokai ni mo Ana wa Aru S01E08 1080p WEB-DL [PT-BR ...` | **637.59 MB** | [🌐 Tosho](https://animetosho.net/view/707081) • [🐱 Nyaa](https://nekobt.to/torrents/15281563669768) |
-| `[Erai-raws] Even Though I'm a Super Timid Noble Girl, I Accepted th...` | **472.18 MB** | [🌐 Tosho](https://animetosho.net/view/707080) • [🐱 Nyaa](https://nekobt.to/torrents/15281334638092) |
-| `[nnotaclue] Even the Student Council Has Its Holes! - S01E08 [WEB 1...` | **173.01 MB** | [🌐 Tosho](https://animetosho.net/view/707079) • [🐱 Nyaa](https://nekobt.to/torrents/15281323140363) |
-| `[DKB] Dark Summoner to Dekiteiru - S01E08 [1080p][HEVC x265 10bit][...` | **146.24 MB** | [🌐 Tosho](https://animetosho.net/view/707077) • [🐱 Nyaa](https://nyaa.si/view/2189496) |
-| `[DKB] Hotel Inhumans - S02E08 [1080p][HEVC x265 10bit][Multi-Subs][...` | **351.81 MB** | [🌐 Tosho](https://animetosho.net/view/707076) • [🐱 Nyaa](https://nyaa.si/view/2189495) |
+| `[GJM] Toaru Anbu no ITEM (A Certain Underground ITEM) - 04 (S01E04)...` | **1872.25 MB** | [🌐 Tosho](https://animetosho.net/view/707135) • [🐱 Nyaa](https://nyaa.si/view/2189601) |
+| `MAO S01E14-E26 1080p DSNP WEB-DL DUAL AAC2.0 H.264 (Cour 2, English...` | **12080.00 MB** | [🌐 Tosho](https://animetosho.net/view/707124) • [🐱 Nyaa](https://nekobt.to/torrents/15293090406657) |
+| `[Doomdos] - The Laid-Off Cheat-Granting Mage Enjoys a Second Lease ...` | **230.77 MB** | [🌐 Tosho](https://animetosho.net/view/707119) • [🐱 Nyaa](https://nyaa.si/view/2189588) |
+| `[FSP] Battle Through The Heavens - Battle of Two Gods [1080p]` | **1912.14 MB** | [🌐 Tosho](https://animetosho.net/view/707118) • [🐱 Nyaa](https://nyaa.si/view/2189587) |
+| `[Doomdos] - The Laid-Off Cheat-Granting Mage Enjoys a Second Lease ...` | **273.92 MB** | [🌐 Tosho](https://animetosho.net/view/707120) • [🐱 Nyaa](https://nyaa.si/view/2189585) |
+| `[Doomdos] - The Laid-Off Cheat-Granting Mage Enjoys a Second Lease ...` | **252.90 MB** | [🌐 Tosho](https://animetosho.net/view/707115) • [🐱 Nyaa](https://nyaa.si/view/2189583) |
+| `[Doomdos] - The Laid-Off Cheat-Granting Mage Enjoys a Second Lease ...` | **199.66 MB** | [🌐 Tosho](https://animetosho.net/view/707112) • [🐱 Nyaa](https://nyaa.si/view/2189581) |
+| `[Doomdos] - The Laid-Off Cheat-Granting Mage Enjoys a Second Lease ...` | **215.42 MB** | [🌐 Tosho](https://animetosho.net/view/707113) • [🐱 Nyaa](https://nyaa.si/view/2189579) |
+| `[Doomdos] - The Laid-Off Cheat-Granting Mage Enjoys a Second Lease ...` | **196.14 MB** | [🌐 Tosho](https://animetosho.net/view/707109) • [🐱 Nyaa](https://nyaa.si/view/2189577) |
+| `[Doomdos] - The Laid-Off Cheat-Granting Mage Enjoys a Second Lease ...` | **233.49 MB** | [🌐 Tosho](https://animetosho.net/view/707108) • [🐱 Nyaa](https://nyaa.si/view/2189575) |
+| `[Onalrie] Meitantei Precure - S01E42 [1080p WEBRip AV1]` | **486.35 MB** | [🌐 Tosho](https://animetosho.net/view/707107) • [🐱 Nyaa](https://onalrie.app/torrent/5b2fe68c-67d6-40b1-bc34-e0148ef52733) |
+| `[Feibanyama] Black Clover S02E08 [CR WebRip 1080p H265 Veryslow AAC...` | **960.12 MB** | [🌐 Tosho](https://animetosho.net/view/707106) • [🐱 Nyaa](https://nyaa.si/view/2189573) |
+| `[RUBaDUB] My Gift Lvl 9999 Unlimited Gacha (Complete) (1080p) (Dual...` | **7830.71 MB** | [🌐 Tosho](https://animetosho.net/view/707105) • [🐱 Nyaa](https://nyaa.si/view/2189546) |
+| `[CicakRumah] PANDOROBO - S01E04 (パンどろぼう; Pan Dorobou) [AMZN.WEB-DL ...` | **420.99 MB** | [🌐 Tosho](https://animetosho.net/view/707104) • [🐱 Nyaa](https://nekobt.to/torrents/15288524075780) |
+| `[DKB] Dragon Ball Super: Beerus - S01E07 [1080p][HEVC x265 10bit][M...` | **639.47 MB** | [🌐 Tosho](https://animetosho.net/view/707103) • [🐱 Nyaa](https://nyaa.si/view/2189541) |
 
 ---
 <div align="center">
