@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.17.10_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.54.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -25,6 +25,14 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `[Doomdos] - Ling Wu Dalu - S01E235 [1080p IQIYI WEB-DL] [Lingwu Con...` | **195.06 MB** | [🌐 Tosho](https://animetosho.net/view/707096) • [🐱 Nyaa](https://nyaa.si/view/2189528) |
+| `[Erai-raws] Meitantei Precure - 42 [1080p CR WEBRip HEVC AAC][Multi...` | **664.99 MB** | [🌐 Tosho](https://animetosho.net/view/707094) • [🐱 Nyaa](https://nyaa.si/view/2189526) |
+| `[Erai-raws] Meitantei Precure - 42 [1080p CR WEB-DL AVC AAC][MultiS...` | **1220.98 MB** | [🌐 Tosho](https://animetosho.net/view/707093) • [🐱 Nyaa](https://nekobt.to/torrents/15285546518789) |
+| `Star Detective Precure S01E42 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.26...` | **1216.57 MB** | [🌐 Tosho](https://animetosho.net/view/707089) • [🐱 Nyaa](https://nekobt.to/torrents/15285300648196) |
+| `[Erai-raws] Kanata kara - 08 [1080p CR WEBRip HEVC AAC][MultiSub][B...` | **651.28 MB** | [🌐 Tosho](https://animetosho.net/view/707087) • [🐱 Nyaa](https://nekobt.to/torrents/15283312061697) |
+| `[T1GGR] Saint Seiya - S11 [WEBRip-1080p][AV1][AAC-2.0][JA][Batch] (...` | **5094.26 MB** | [🌐 Tosho](https://animetosho.net/view/707086) • [🐱 Nyaa](https://nekobt.to/torrents/15283205779203) |
+| `[FSP] Mushen Ji (Tales of Herding Gods) - 110 [1080p] (GB_CN) | 牧神记` | **531.40 MB** | [🌐 Tosho](https://animetosho.net/view/707085) • [🐱 Nyaa](https://nyaa.si/view/2189504) |
+| `[Erai-raws] HOTEL INHUMANS S02E08 [1080p CR WEBRip HEVC AAC][MultiS...` | **530.10 MB** | [🌐 Tosho](https://animetosho.net/view/707084) • [🐱 Nyaa](https://nekobt.to/torrents/15282372757760) |
 | `[Salieri] DAN DA DAN S2 - BD (1080p) (HDR) [Dual Audio]` | **42061.91 MB** | [🌐 Tosho](https://animetosho.net/view/707083) • [🐱 Nyaa](https://nyaa.si/view/2189501) |
 | `[Half-Baked] The Apothecary Diaries - S03E08 [WEB 1080p HEVC AAC] |...` | **2188.13 MB** | [🌐 Tosho](https://animetosho.net/view/707082) • [🐱 Nyaa](https://nyaa.si/view/2189500) |
 | `[LuckFansubs] Seitokai ni mo Ana wa Aru S01E08 1080p WEB-DL [PT-BR ...` | **637.59 MB** | [🌐 Tosho](https://animetosho.net/view/707081) • [🐱 Nyaa](https://nekobt.to/torrents/15281563669768) |
@@ -32,14 +40,6 @@
 | `[nnotaclue] Even the Student Council Has Its Holes! - S01E08 [WEB 1...` | **173.01 MB** | [🌐 Tosho](https://animetosho.net/view/707079) • [🐱 Nyaa](https://nekobt.to/torrents/15281323140363) |
 | `[DKB] Dark Summoner to Dekiteiru - S01E08 [1080p][HEVC x265 10bit][...` | **146.24 MB** | [🌐 Tosho](https://animetosho.net/view/707077) • [🐱 Nyaa](https://nyaa.si/view/2189496) |
 | `[DKB] Hotel Inhumans - S02E08 [1080p][HEVC x265 10bit][Multi-Subs][...` | **351.81 MB** | [🌐 Tosho](https://animetosho.net/view/707076) • [🐱 Nyaa](https://nyaa.si/view/2189495) |
-| `[DKB] Tensei Kizoku, Kantei Skill de Nariagaru - S03E09 [1080p][HEV...` | **195.66 MB** | [🌐 Tosho](https://animetosho.net/view/707078) • [🐱 Nyaa](https://nyaa.si/view/2189494) |
-| `[ToonsHub] Dragon Ball Super Beerus S01E07 REPACK 1080p CR WEB-DL A...` | **908.00 MB** | [🌐 Tosho](https://animetosho.net/view/707075) • [🐱 Nyaa](https://nekobt.to/torrents/15280755952642) |
-| `[Erai-raws] As a Reincarnated Aristocrat, I'll Use My Appraisal Ski...` | **298.69 MB** | [🌐 Tosho](https://animetosho.net/view/707073) • [🐱 Nyaa](https://nekobt.to/torrents/15280555972610) |
-| `[SubsNoJutsu] Shangri-La Frontier - S01E18 (1080p BD x265 OPUS) [C6...` | **635.49 MB** | [🌐 Tosho](https://animetosho.net/view/707070) • [🐱 Nyaa](https://nekobt.to/torrents/15279984126215) |
-| `[SubsNoJutsu] Shangri-La Frontier - S01E17 (1080p BD x265 OPUS) [05...` | **620.72 MB** | [🌐 Tosho](https://animetosho.net/view/707069) • [🐱 Nyaa](https://nekobt.to/torrents/15279974583558) |
-| `[Erai-raws] Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku ...` | **421.79 MB** | [🌐 Tosho](https://animetosho.net/view/707068) • [🐱 Nyaa](https://nekobt.to/torrents/15279834457349) |
-| `[Erai-raws] Dragon Ball Super: Beerus - 07 [1080p CR WEBRip HEVC AA...` | **513.41 MB** | [🌐 Tosho](https://animetosho.net/view/707067) • [🐱 Nyaa](https://nekobt.to/torrents/15279447571456) |
-| `[Anime Time] Overgeared - S01E09 [1080p][HEVC 10bit x265][AAC][Dual...` | **694.50 MB** | [🌐 Tosho](https://animetosho.net/view/707066) • [🐱 Nyaa](https://nyaa.si/view/2189487) |
 
 ---
 <div align="center">
