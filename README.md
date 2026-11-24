@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.56.50_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-13.48.46_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -28,6 +28,11 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
+| `Detective Conan - Movie 29 - Fallen Angel of the Highway (BD 1080p)...` | **2739.52 MB** | [🌐 Tosho](https://animetosho.net/view/707245) • [🐱 Nyaa](https://nyaa.si/view/2189826) |
+| `[maverickh] [Eternal Animes] Toaru Kagaku no Railgun T - S03 [WEB-D...` | **12630.00 MB** | [🌐 Tosho](https://animetosho.net/view/707244) • [🐱 Nyaa](https://nekobt.to/torrents/15309243294735) |
+| `[T1GGR] Saint Seiya - S00 [Bluray-1080p][AV1][AC3-5.1][JA][Batch] (...` | **10186.96 MB** | [🌐 Tosho](https://animetosho.net/view/707243) • [🐱 Nyaa](https://nekobt.to/torrents/15307610369029) |
+| `[ToonsHub] Cardfight Vanguard S16E66 1080p AMZN WEB-DL DDP2.0 H.264...` | **811.90 MB** | [🌐 Tosho](https://animetosho.net/view/707242) • [🐱 Nyaa](https://nyaa.si/view/2189813) |
+| `[ToonsHub] White Cat Legend S03E14 1080p WeTV WEB-DL AAC2.0 H.264 (...` | **109.16 MB** | [🌐 Tosho](https://animetosho.net/view/707241) • [🐱 Nyaa](https://nekobt.to/torrents/15307032589570) |
 | `[Anime Time] Bleach: Thousand-Year Blood War - S01E49 (Dub Audio On...` | **687.89 MB** | [🌐 Tosho](https://animetosho.net/view/707238) • [🐱 Nyaa](https://nyaa.si/view/2189802) |
 | `[Anime Time] Black Clover - S02E06 [1080p][HEVC 10bit x265][AAC][Du...` | **662.21 MB** | [🌐 Tosho](https://animetosho.net/view/707237) • [🐱 Nyaa](https://nyaa.si/view/2189801) |
 | `[ILikeTrains] TETSURYO! Meet With Tetsudou Musume - S01E05 1080p WE...` | **919.85 MB** | [🌐 Tosho](https://animetosho.net/view/707236) • [🐱 Nyaa](https://nekobt.to/torrents/15304696899072) |
@@ -38,11 +43,6 @@
 | `[ToonsHub] Overgeared S01E09 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mu...` | **1457.42 MB** | [🌐 Tosho](https://animetosho.net/view/707229) • [🐱 Nyaa](https://nekobt.to/torrents/15301347074305) |
 | `[ToonsHub] Overgeared S01E07 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mu...` | **1846.90 MB** | [🌐 Tosho](https://animetosho.net/view/707228) • [🐱 Nyaa](https://nekobt.to/torrents/15301328000011) |
 | `[ToonsHub] A Record of Mortals Journey to Immortality S08E25 1080p ...` | **651.43 MB** | [🌐 Tosho](https://animetosho.net/view/707227) • [🐱 Nyaa](https://nekobt.to/torrents/15300849959936) |
-| `[VARYG] BLEACH Thousand Year Blood War S01E49 THE BLADE 1080p DSNP ...` | **1228.82 MB** | [🌐 Tosho](https://animetosho.net/view/707226) • [🐱 Nyaa](https://nekobt.to/torrents/15300538141454) |
-| `[ToonsHub] KAMUI Hes Behind You S01E10 1080p UNCENSORED AMZN WEB-DL...` | **600.25 MB** | [🌐 Tosho](https://animetosho.net/view/707225) • [🐱 Nyaa](https://nekobt.to/torrents/15300518947855) |
-| `[ToonsHub] KAMUI Hes Behind You S01E09 1080p UNCENSORED AMZN WEB-DL...` | **560.20 MB** | [🌐 Tosho](https://animetosho.net/view/707224) • [🐱 Nyaa](https://nekobt.to/torrents/15300502558210) |
-| `[ToonsHub] KAMUI Hes Behind You S01E08 1080p UNCENSORED AMZN WEB-DL...` | **547.59 MB** | [🌐 Tosho](https://animetosho.net/view/707223) • [🐱 Nyaa](https://nekobt.to/torrents/15300485434376) |
-| `[ToonsHub] KAMUI Hes Behind You S01E07 1080p UNCENSORED AMZN WEB-DL...` | **480.21 MB** | [🌐 Tosho](https://animetosho.net/view/707222) • [🐱 Nyaa](https://nekobt.to/torrents/15300469129985) |
 
 ---
 <div align="center">
