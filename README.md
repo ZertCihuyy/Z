@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-13.48.46_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-01.24.20_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -9,40 +9,44 @@
 
 ---
 
-### 📅 Jadwal Rilis Hari Ini: **Selasa**
+### 📅 Jadwal Rilis Hari Ini: **Rabu**
 | Poster | Jam (WIB) | Judul Anime | Genre |
 | :---: | :---: | --- | --- |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Jueshi Zhan Hun 2](https://anilist.co/anime/213188)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png" width="45" style="border-radius: 4px;"> | `19.26` | **[Kyouran Reijou Nia Liston](https://anilist.co/anime/206949)** | *Action, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Shiotaiou no Satou-san ga Ore ni dake Amai](https://anilist.co/anime/209502)** | *Comedy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Choujun! Choujou Senpai](https://anilist.co/anime/200294)** | *Comedy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187990-tNyQPmr9TkYi.png" width="45" style="border-radius: 4px;"> | `21.00` | **[Battle Spirits [Re] Zekkai no Kuu](https://anilist.co/anime/187990)** | *Action, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg" width="45" style="border-radius: 4px;"> | `21.00` | **[Chitose-kun wa Ramune Bin no Naka Part 2](https://anilist.co/anime/198727)** | *Comedy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187316-jucYCojVTjSY.jpg" width="45" style="border-radius: 4px;"> | `21.30` | **[Gensou Suikoden](https://anilist.co/anime/187316)** | *Action, Adventure, Fantasy* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png" width="45" style="border-radius: 4px;"> | `22.00` | **[Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?](https://anilist.co/anime/207329)** | *Adventure, Comedy, Fantasy, Slice of Life* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg" width="45" style="border-radius: 4px;"> | `23.35` | **[Sora wa Akai Kawa no Hotori](https://anilist.co/anime/207809)** | *Action, Adventure, Drama, Fantasy, Romance* |
-| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179876-Wg62CAzp5WQ1.jpg" width="45" style="border-radius: 4px;"> | `23.45` | **[DARK MACHINE: The Animation](https://anilist.co/anime/179876)** | *Mecha, Sci-Fi* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218008-pDrQDUyfAnm6.jpg" width="45" style="border-radius: 4px;"> | `05.06` | **[Chibi Godzilla no Gyakushuu Season 4](https://anilist.co/anime/218008)** | *Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg" width="45" style="border-radius: 4px;"> | `06.00` | **[mofusand](https://anilist.co/anime/204656)** | *Slice of Life* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png" width="45" style="border-radius: 4px;"> | `09.00` | **[Yi Nian Yongheng 4](https://anilist.co/anime/199409)** | *Action, Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg" width="45" style="border-radius: 4px;"> | `09.00` | **[Da Xia Shou Mu Ren](https://anilist.co/anime/214974)** | *Action, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png" width="45" style="border-radius: 4px;"> | `19.30` | **[Tantei wa Mou, Shindeiru. Season 2](https://anilist.co/anime/152677)** | *Comedy, Drama, Mystery, Romance, Supernatural* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217282-fRAAhF2b5eIr.png" width="45" style="border-radius: 4px;"> | `19.54` | **[GelPiyo 2](https://anilist.co/anime/217282)** | *Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Sekai Saikyou no Majo, Hajimemashita](https://anilist.co/anime/211778)** | *Action, Comedy, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg" width="45" style="border-radius: 4px;"> | `20.00` | **[Sasaki to Pii-chan Season 2](https://anilist.co/anime/176314)** | *Comedy, Fantasy, Mahou Shoujo* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg" width="45" style="border-radius: 4px;"> | `21.45` | **[Magic Knight Rayearth (2026)](https://anilist.co/anime/178868)** | *Adventure, Fantasy, Mahou Shoujo, Mecha* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png" width="45" style="border-radius: 4px;"> | `22.00` | **[Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen](https://anilist.co/anime/199068)** | *Action, Comedy, Sports* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168085-hPOOODUADp7D.png" width="45" style="border-radius: 4px;"> | `22.00` | **[Dali Si Rizhi 3](https://anilist.co/anime/168085)** | *Action, Adventure, Comedy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png" width="45" style="border-radius: 4px;"> | `22.30` | **[Tensei Shitara Ken Deshita 2nd Season](https://anilist.co/anime/159042)** | *Action, Adventure, Fantasy* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png" width="45" style="border-radius: 4px;"> | `22.30` | **[Juuou Mujin Dandivine](https://anilist.co/anime/213068)** | *Action, Mecha* |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg" width="45" style="border-radius: 4px;"> | `22.45` | **[Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://anilist.co/anime/172192)** | *Action, Adventure, Fantasy* |
 
 ### 📥 Rilisan Terbaru (1080p)
 > *Otomatis dipindai dari database Animetosho XYZ & Nyaa.*
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `Detective Conan - Movie 29 - Fallen Angel of the Highway (BD 1080p)...` | **2739.52 MB** | [🌐 Tosho](https://animetosho.net/view/707245) • [🐱 Nyaa](https://nyaa.si/view/2189826) |
-| `[maverickh] [Eternal Animes] Toaru Kagaku no Railgun T - S03 [WEB-D...` | **12630.00 MB** | [🌐 Tosho](https://animetosho.net/view/707244) • [🐱 Nyaa](https://nekobt.to/torrents/15309243294735) |
-| `[T1GGR] Saint Seiya - S00 [Bluray-1080p][AV1][AC3-5.1][JA][Batch] (...` | **10186.96 MB** | [🌐 Tosho](https://animetosho.net/view/707243) • [🐱 Nyaa](https://nekobt.to/torrents/15307610369029) |
-| `[ToonsHub] Cardfight Vanguard S16E66 1080p AMZN WEB-DL DDP2.0 H.264...` | **811.90 MB** | [🌐 Tosho](https://animetosho.net/view/707242) • [🐱 Nyaa](https://nyaa.si/view/2189813) |
-| `[ToonsHub] White Cat Legend S03E14 1080p WeTV WEB-DL AAC2.0 H.264 (...` | **109.16 MB** | [🌐 Tosho](https://animetosho.net/view/707241) • [🐱 Nyaa](https://nekobt.to/torrents/15307032589570) |
-| `[Anime Time] Bleach: Thousand-Year Blood War - S01E49 (Dub Audio On...` | **687.89 MB** | [🌐 Tosho](https://animetosho.net/view/707238) • [🐱 Nyaa](https://nyaa.si/view/2189802) |
-| `[Anime Time] Black Clover - S02E06 [1080p][HEVC 10bit x265][AAC][Du...` | **662.21 MB** | [🌐 Tosho](https://animetosho.net/view/707237) • [🐱 Nyaa](https://nyaa.si/view/2189801) |
-| `[ILikeTrains] TETSURYO! Meet With Tetsudou Musume - S01E05 1080p WE...` | **919.85 MB** | [🌐 Tosho](https://animetosho.net/view/707236) • [🐱 Nyaa](https://nekobt.to/torrents/15304696899072) |
-| `[Seigyoku] Mahou no Shimai LuluttoLilly - 20 (WEB 1080p H264 E-AC3)...` | **611.46 MB** | [🌐 Tosho](https://animetosho.net/view/707235) • [🐱 Nyaa](https://nekobt.to/torrents/15302798628873) |
-| `[ASW] Tensei Goblin dakedo Shitsumon Aru - 08 [1080p HEVC x265 10Bi...` | **305.92 MB** | [🌐 Tosho](https://animetosho.net/view/707234) • [🐱 Nyaa](https://nyaa.si/view/2189797) |
-| `[ASW] Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. -...` | **201.88 MB** | [🌐 Tosho](https://animetosho.net/view/707233) • [🐱 Nyaa](https://nyaa.si/view/2189796) |
-| `[FrixySubs] Tokyo Revengers - S04E07 [1080p DSNP WEB-DL H.264 AAC] ...` | **789.95 MB** | [🌐 Tosho](https://animetosho.net/view/707230) • [🐱 Nyaa](https://nekobt.to/torrents/15301751279374) |
-| `[ToonsHub] Overgeared S01E09 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mu...` | **1457.42 MB** | [🌐 Tosho](https://animetosho.net/view/707229) • [🐱 Nyaa](https://nekobt.to/torrents/15301347074305) |
-| `[ToonsHub] Overgeared S01E07 1080p CR WEB-DL MULTi AAC2.0 H.264 (Mu...` | **1846.90 MB** | [🌐 Tosho](https://animetosho.net/view/707228) • [🐱 Nyaa](https://nekobt.to/torrents/15301328000011) |
-| `[ToonsHub] A Record of Mortals Journey to Immortality S08E25 1080p ...` | **651.43 MB** | [🌐 Tosho](https://animetosho.net/view/707227) • [🐱 Nyaa](https://nekobt.to/torrents/15300849959936) |
+| `[SubsPlease] Dark Machine - The Animation - 07 (1080p) [D10D7120].mkv` | **1330.70 MB** | [🌐 Tosho](https://animetosho.net/view/707408) • [🐱 Nyaa](https://nyaa.si/view/2190060) |
+| `[Erai-raws] Dark Machine the Animation - 07 [1080p CR WEB-DL AVC AA...` | **1338.00 MB** | [🌐 Tosho](https://animetosho.net/view/707407) • [🐱 Nyaa](https://nekobt.to/torrents/15322766192642) |
+| `[Judas] Seitokai ni mo Ana wa Aru! {Even the Student Council Has It...` | **225.12 MB** | [🌐 Tosho](https://animetosho.net/view/707404) • [🐱 Nyaa](https://nyaa.si/view/2190052) |
+| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E21 [1080p WEBRip AV1]` | **186.18 MB** | [🌐 Tosho](https://animetosho.net/view/707402) • [🐱 Nyaa](https://onalrie.app/torrent/d44393ab-00e4-411d-b7f8-9d6515e0502b) |
+| `[Judas] Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Li...` | **259.83 MB** | [🌐 Tosho](https://animetosho.net/view/707403) • [🐱 Nyaa](https://nyaa.si/view/2190051) |
+| `[Erai-raws] Chitose Is in the Ramune Bottle S01E20 [1080p CR WEBRip...` | **278.79 MB** | [🌐 Tosho](https://animetosho.net/view/707401) • [🐱 Nyaa](https://nekobt.to/torrents/15322491930638) |
+| `[VARYG] DARK MACHINE THE ANIMATION S01E07 1080p CR WEB-DL AAC2.0 H....` | **1341.19 MB** | [🌐 Tosho](https://animetosho.net/view/707400) • [🐱 Nyaa](https://nekobt.to/torrents/15322384992007) |
+| `DARK MACHINE THE ANIMATION S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 ...` | **1335.06 MB** | [🌐 Tosho](https://animetosho.net/view/707399) • [🐱 Nyaa](https://nekobt.to/torrents/15322350103559) |
+| `[AnoZu] DARK MACHINE THE ANIMATION S01E07 1080p CR WEB-DL AAC 2.0 H...` | **1338.49 MB** | [🌐 Tosho](https://animetosho.net/view/707397) • [🐱 Nyaa](https://nekobt.to/torrents/15322338639883) |
+| `[ToonsHub] DARK MACHINE THE ANIMATION S01E07 1080p CR WEB-DL AAC2.0...` | **1338.90 MB** | [🌐 Tosho](https://animetosho.net/view/707396) • [🐱 Nyaa](https://nekobt.to/torrents/15322310527242) |
+| `[VARYG] Red River 2026 S01E21 The Decision to Leave 1080p CR WEB-DL...` | **1336.22 MB** | [🌐 Tosho](https://animetosho.net/view/707394) • [🐱 Nyaa](https://nekobt.to/torrents/15322243632390) |
+| `[VARYG] One Piece S01E1161 A Dangerous Deal Loki of the Underworld ...` | **1429.64 MB** | [🌐 Tosho](https://animetosho.net/view/707393) • [🐱 Nyaa](https://nekobt.to/torrents/15322217132293) |
+| `Red River (2026) S01E21 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1329.66 MB** | [🌐 Tosho](https://animetosho.net/view/707391) • [🐱 Nyaa](https://nekobt.to/torrents/15322207697161) |
+| `[SubsPlease] Sora wa Akai Kawa no Hotori - 21 (1080p) [8A07B0AD].mkv` | **1325.30 MB** | [🌐 Tosho](https://animetosho.net/view/707389) • [🐱 Nyaa](https://nyaa.si/view/2190036) |
+| `[ToonsHub] Red River 2026 S01E21 1080p CR WEB-DL AAC2.0 H.264 (Sora...` | **1334.38 MB** | [🌐 Tosho](https://animetosho.net/view/707387) • [🐱 Nyaa](https://nyaa.si/view/2190034) |
 
 ---
 <div align="center">
