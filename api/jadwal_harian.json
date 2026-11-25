@@ -1,57 +1,9 @@
 {
-  "last_update": "25/11/2026, 18.46.53",
-  "hari": "Rabu",
+  "last_update": "26/11/2026, 03.42.13",
+  "hari": "Kamis",
   "data": [
     {
-      "airingAt": 1795557960,
-      "media": {
-        "id": 218008,
-        "title": {
-          "romaji": "Chibi Godzilla no Gyakushuu Season 4"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218008-pDrQDUyfAnm6.jpg"
-        },
-        "genres": [
-          "Comedy",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795561200,
-      "media": {
-        "id": 204656,
-        "title": {
-          "romaji": "mofusand"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg"
-        },
-        "genres": [
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795572000,
-      "media": {
-        "id": 199409,
-        "title": {
-          "romaji": "Yi Nian Yongheng 4"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png"
-        },
-        "genres": [
-          "Action",
-          "Comedy",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795572000,
+      "airingAt": 1795658400,
       "media": {
         "id": 214974,
         "title": {
@@ -67,172 +19,251 @@
       }
     },
     {
-      "airingAt": 1795609800,
+      "airingAt": 1795658400,
       "media": {
-        "id": 152677,
+        "id": 220079,
         "title": {
-          "romaji": "Tantei wa Mou, Shindeiru. Season 2"
+          "romaji": "Shixiong A Shixiong Final"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx220079-7TiLWUTeqmW8.jpg"
         },
         "genres": [
-          "Comedy",
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795680000,
+      "media": {
+        "id": 213457,
+        "title": {
+          "romaji": "Fool Night"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
+        },
+        "genres": [
           "Drama",
-          "Mystery",
-          "Romance",
-          "Supernatural"
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
         ]
       }
     },
     {
-      "airingAt": 1795611240,
+      "airingAt": 1795680000,
       "media": {
-        "id": 217282,
+        "id": 213457,
         "title": {
-          "romaji": "GelPiyo 2"
+          "romaji": "Fool Night"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217282-fRAAhF2b5eIr.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
         },
         "genres": [
-          "Comedy"
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
         ]
       }
     },
     {
-      "airingAt": 1795611600,
+      "airingAt": 1795680000,
       "media": {
-        "id": 211778,
+        "id": 213457,
         "title": {
-          "romaji": "Sekai Saikyou no Majo, Hajimemashita"
+          "romaji": "Fool Night"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
         },
         "genres": [
-          "Action",
-          "Comedy",
-          "Fantasy"
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
         ]
       }
     },
     {
-      "airingAt": 1795611600,
+      "airingAt": 1795680000,
       "media": {
-        "id": 176314,
+        "id": 213457,
         "title": {
-          "romaji": "Sasaki to Pii-chan Season 2"
+          "romaji": "Fool Night"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
         },
         "genres": [
-          "Comedy",
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795680000,
+      "media": {
+        "id": 213457,
+        "title": {
+          "romaji": "Fool Night"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795680000,
+      "media": {
+        "id": 213457,
+        "title": {
+          "romaji": "Fool Night"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795680000,
+      "media": {
+        "id": 213457,
+        "title": {
+          "romaji": "Fool Night"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795680000,
+      "media": {
+        "id": 213457,
+        "title": {
+          "romaji": "Fool Night"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795680000,
+      "media": {
+        "id": 213457,
+        "title": {
+          "romaji": "Fool Night"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795680000,
+      "media": {
+        "id": 213457,
+        "title": {
+          "romaji": "Fool Night"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795680000,
+      "media": {
+        "id": 213457,
+        "title": {
+          "romaji": "Fool Night"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795680000,
+      "media": {
+        "id": 213457,
+        "title": {
+          "romaji": "Fool Night"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795685400,
+      "media": {
+        "id": 217624,
+        "title": {
+          "romaji": "PetitCure: Precure Fairies Season 4"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217624-Cwkze5dZ5txL.jpg"
+        },
+        "genres": [
           "Fantasy",
-          "Mahou Shoujo"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795617900,
-      "media": {
-        "id": 178868,
-        "title": {
-          "romaji": "Magic Knight Rayearth (2026)"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg"
-        },
-        "genres": [
-          "Adventure",
-          "Fantasy",
-          "Mahou Shoujo",
-          "Mecha"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795618800,
-      "media": {
-        "id": 199068,
-        "title": {
-          "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png"
-        },
-        "genres": [
-          "Action",
-          "Comedy",
-          "Sports"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795618800,
-      "media": {
-        "id": 168085,
-        "title": {
-          "romaji": "Dali Si Rizhi 3"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168085-hPOOODUADp7D.png"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795620600,
-      "media": {
-        "id": 159042,
-        "title": {
-          "romaji": "Tensei Shitara Ken Deshita 2nd Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795620600,
-      "media": {
-        "id": 213068,
-        "title": {
-          "romaji": "Juuou Mujin Dandivine"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png"
-        },
-        "genres": [
-          "Action",
-          "Mecha"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795621500,
-      "media": {
-        "id": 172192,
-        "title": {
-          "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
+          "Slice of Life"
         ]
       }
     }
