@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-01.24.20_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-09.42.04_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -32,21 +32,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[SubsPlease] Dark Machine - The Animation - 07 (1080p) [D10D7120].mkv` | **1330.70 MB** | [🌐 Tosho](https://animetosho.net/view/707408) • [🐱 Nyaa](https://nyaa.si/view/2190060) |
-| `[Erai-raws] Dark Machine the Animation - 07 [1080p CR WEB-DL AVC AA...` | **1338.00 MB** | [🌐 Tosho](https://animetosho.net/view/707407) • [🐱 Nyaa](https://nekobt.to/torrents/15322766192642) |
-| `[Judas] Seitokai ni mo Ana wa Aru! {Even the Student Council Has It...` | **225.12 MB** | [🌐 Tosho](https://animetosho.net/view/707404) • [🐱 Nyaa](https://nyaa.si/view/2190052) |
-| `[Onalrie] Sora wa Akai Kawa no Hotori - S01E21 [1080p WEBRip AV1]` | **186.18 MB** | [🌐 Tosho](https://animetosho.net/view/707402) • [🐱 Nyaa](https://onalrie.app/torrent/d44393ab-00e4-411d-b7f8-9d6515e0502b) |
-| `[Judas] Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Li...` | **259.83 MB** | [🌐 Tosho](https://animetosho.net/view/707403) • [🐱 Nyaa](https://nyaa.si/view/2190051) |
-| `[Erai-raws] Chitose Is in the Ramune Bottle S01E20 [1080p CR WEBRip...` | **278.79 MB** | [🌐 Tosho](https://animetosho.net/view/707401) • [🐱 Nyaa](https://nekobt.to/torrents/15322491930638) |
-| `[VARYG] DARK MACHINE THE ANIMATION S01E07 1080p CR WEB-DL AAC2.0 H....` | **1341.19 MB** | [🌐 Tosho](https://animetosho.net/view/707400) • [🐱 Nyaa](https://nekobt.to/torrents/15322384992007) |
-| `DARK MACHINE THE ANIMATION S01E07 SUBFRENCH 1080p CR WEB-DL AAC2.0 ...` | **1335.06 MB** | [🌐 Tosho](https://animetosho.net/view/707399) • [🐱 Nyaa](https://nekobt.to/torrents/15322350103559) |
-| `[AnoZu] DARK MACHINE THE ANIMATION S01E07 1080p CR WEB-DL AAC 2.0 H...` | **1338.49 MB** | [🌐 Tosho](https://animetosho.net/view/707397) • [🐱 Nyaa](https://nekobt.to/torrents/15322338639883) |
-| `[ToonsHub] DARK MACHINE THE ANIMATION S01E07 1080p CR WEB-DL AAC2.0...` | **1338.90 MB** | [🌐 Tosho](https://animetosho.net/view/707396) • [🐱 Nyaa](https://nekobt.to/torrents/15322310527242) |
-| `[VARYG] Red River 2026 S01E21 The Decision to Leave 1080p CR WEB-DL...` | **1336.22 MB** | [🌐 Tosho](https://animetosho.net/view/707394) • [🐱 Nyaa](https://nekobt.to/torrents/15322243632390) |
-| `[VARYG] One Piece S01E1161 A Dangerous Deal Loki of the Underworld ...` | **1429.64 MB** | [🌐 Tosho](https://animetosho.net/view/707393) • [🐱 Nyaa](https://nekobt.to/torrents/15322217132293) |
-| `Red River (2026) S01E21 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsund...` | **1329.66 MB** | [🌐 Tosho](https://animetosho.net/view/707391) • [🐱 Nyaa](https://nekobt.to/torrents/15322207697161) |
-| `[SubsPlease] Sora wa Akai Kawa no Hotori - 21 (1080p) [8A07B0AD].mkv` | **1325.30 MB** | [🌐 Tosho](https://animetosho.net/view/707389) • [🐱 Nyaa](https://nyaa.si/view/2190036) |
-| `[ToonsHub] Red River 2026 S01E21 1080p CR WEB-DL AAC2.0 H.264 (Sora...` | **1334.38 MB** | [🌐 Tosho](https://animetosho.net/view/707387) • [🐱 Nyaa](https://nyaa.si/view/2190034) |
+| `[RUBaDUB] Oshi no Ko (S1 Complete) (1080p) (Dual Audio)` | **11161.89 MB** | [🌐 Tosho](https://animetosho.net/view/707450) • [🐱 Nyaa](https://nyaa.si/view/2190119) |
+| `[Shika] Even the Student Council Has Its Holes S01E08v2 1080p UNCEN...` | **613.92 MB** | [🌐 Tosho](https://animetosho.net/view/707448) • [🐱 Nyaa](https://nyaa.si/view/2190111) |
+| `[Spartanoah] Chitose Is in the Ramune Bottle - S01E20 [1080p CR WEB...` | **908.13 MB** | [🌐 Tosho](https://animetosho.net/view/707447) • [🐱 Nyaa](https://nekobt.to/torrents/15329179604998) |
+| `[T1GGR] Hand Shakers - S01 + Special [Bluray-1080p][AV1][AAC-1.0][E...` | **9898.84 MB** | [🌐 Tosho](https://animetosho.net/view/707443) • [🐱 Nyaa](https://nekobt.to/torrents/15328997411841) |
+| `[T1GGR] Fate EXTRA Last Encore - S02 [Bluray-1080p][AV1][Opus-2.0][...` | **1776.04 MB** | [🌐 Tosho](https://animetosho.net/view/707442) • [🐱 Nyaa](https://nekobt.to/torrents/15328137577996) |
+| `[T1GGR] Fate EXTRA Last Encore - S01 [Bluray-1080p][AV1][Opus-2.0][...` | **4753.07 MB** | [🌐 Tosho](https://animetosho.net/view/707441) • [🐱 Nyaa](https://nekobt.to/torrents/15328125633795) |
+| `[Headpatter] Armored Trooper VOTOMS Season 1 (BD 1080p x264 8-bit O...` | **116131.19 MB** | [🌐 Tosho](https://animetosho.net/view/707440) • [🐱 Nyaa](https://nekobt.to/torrents/15328120449802) |
+| `[Ironclad] Sora wa Akai Kawa no Hotori - S01E21 [WEB.1080p.AV1] | R...` | **289.07 MB** | [🌐 Tosho](https://animetosho.net/view/707439) • [🐱 Nyaa](https://nyaa.si/view/2190108) |
+| `[DKB] Chitose-kun wa Ramune Bin no Naka - S01E20 [1080p][HEVC x265 ...` | **197.57 MB** | [🌐 Tosho](https://animetosho.net/view/707437) • [🐱 Nyaa](https://nyaa.si/view/2190105) |
+| `[DKB] Chii Fuyo - S01E08 [1080p][HEVC x265 10bit][Multi-Subs][weekly]` | **261.73 MB** | [🌐 Tosho](https://animetosho.net/view/707435) • [🐱 Nyaa](https://nyaa.si/view/2190103) |
+| `[DKB] Battle Spirits [Re]: Zekkai no Kuu - S01E08 [1080p][HEVC x265...` | **268.85 MB** | [🌐 Tosho](https://animetosho.net/view/707436) • [🐱 Nyaa](https://nyaa.si/view/2190102) |
+| `[PHTM] Ranking of Kings - S01 (BD 1080p x265 AAC 2.0) (Multi-Audio)...` | **61469.51 MB** | [🌐 Tosho](https://animetosho.net/view/707433) • [🐱 Nyaa](https://nekobt.to/torrents/15326437027328) |
+| `[FrixySubs] Hotaru no Yomeiri - S01E07 [1080p CR WEB-DL H.264 AAC] ...` | **1341.79 MB** | [🌐 Tosho](https://animetosho.net/view/707432) • [🐱 Nyaa](https://nekobt.to/torrents/15326372607247) |
+| `[PHTMini] Ranking of Kings - S01 (BD 1080p AV1 AAC 2.0) (Multi-Audi...` | **7337.97 MB** | [🌐 Tosho](https://animetosho.net/view/707431) • [🐱 Nyaa](https://nekobt.to/torrents/15326198766599) |
+| `[SegsFansub] Nia Liston - The Merciless Maiden - 08 [1080p AMZN WEB...` | **1125.05 MB** | [🌐 Tosho](https://animetosho.net/view/707430) • [🐱 Nyaa](https://nekobt.to/torrents/15326151607563) |
 
 ---
 <div align="center">
