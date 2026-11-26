@@ -1,32 +1,83 @@
 {
-  "last_update": "26/11/2026, 19.46.17",
-  "hari": "Kamis",
+  "last_update": "27/11/2026, 04.58.30",
+  "hari": "Jumat",
   "data": [
     {
-      "airingAt": 1795658400,
+      "airingAt": 1795740600,
       "media": {
-        "id": 214974,
+        "id": 217577,
         "title": {
-          "romaji": "Da Xia Shou Mu Ren"
+          "romaji": "Mazenchu"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg"
         },
         "genres": [
-          "Action",
-          "Fantasy"
+          "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1795658400,
+      "airingAt": 1795752000,
       "media": {
-        "id": 220079,
+        "id": 206244,
         "title": {
-          "romaji": "Shixiong A Shixiong Final"
+          "romaji": "Luo Xiaohei Zhan Ji: Xue Qian Pian"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx220079-7TiLWUTeqmW8.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206244-ke6bcfsL40qY.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795766400,
+      "media": {
+        "id": 210482,
+        "title": {
+          "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Mystery",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795772400,
+      "media": {
+        "id": 194207,
+        "title": {
+          "romaji": "Pan Dorobou"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg"
+        },
+        "genres": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795773300,
+      "media": {
+        "id": 158871,
+        "title": {
+          "romaji": "Pocket Monsters (2023)"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg"
         },
         "genres": [
           "Action",
@@ -36,234 +87,168 @@
       }
     },
     {
-      "airingAt": 1795680000,
+      "airingAt": 1795773600,
       "media": {
-        "id": 213457,
+        "id": 146004,
         "title": {
-          "romaji": "Fool Night"
+          "romaji": "Girigiri Warukunai Watame"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146004-hH08KAB1yHlN.png"
         },
         "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795680000,
-      "media": {
-        "id": 213457,
-        "title": {
-          "romaji": "Fool Night"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795685400,
-      "media": {
-        "id": 217624,
-        "title": {
-          "romaji": "PetitCure: Precure Fairies Season 4"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217624-Cwkze5dZ5txL.jpg"
-        },
-        "genres": [
-          "Fantasy",
+          "Comedy",
           "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795773600,
+      "media": {
+        "id": 165159,
+        "title": {
+          "romaji": "BEYBLADE X"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795780800,
+      "media": {
+        "id": 203275,
+        "title": {
+          "romaji": "Demons' Crest"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795782300,
+      "media": {
+        "id": 216895,
+        "title": {
+          "romaji": "Aoki Denshou: Welsh & Shedar"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg"
+        },
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795786200,
+      "media": {
+        "id": 186742,
+        "title": {
+          "romaji": "Toaru Anbu no ITEM"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
+        },
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795788000,
+      "media": {
+        "id": 195516,
+        "title": {
+          "romaji": "Kusuriya no Hitorigoto 3rd Season"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795789800,
+      "media": {
+        "id": 205909,
+        "title": {
+          "romaji": "Hotaru no Yomeiri"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795789800,
+      "media": {
+        "id": 204650,
+        "title": {
+          "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png"
+        },
+        "genres": [
+          "Action",
+          "Mystery",
+          "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795791600,
+      "media": {
+        "id": 203490,
+        "title": {
+          "romaji": "Uchi no Otouto-domo ga Sumimasen"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795796580,
+      "media": {
+        "id": 178083,
+        "title": {
+          "romaji": "Tokyo Revengers: Santen Sensou-hen"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg"
+        },
+        "genres": [
+          "Action",
+          "Drama",
+          "Romance",
+          "Supernatural"
         ]
       }
     }
