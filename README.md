@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-10.12.02_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.46.17_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gecko] The Guardian of Daxia - S01E20 (大夏守墓人; Daxia Shou Mu Ren) [...` | **158.76 MB** | [🌐 Tosho](https://animetosho.net/view/707709) • [🐱 Nyaa](https://nekobt.to/torrents/15352961414407) |
-| `[Yameii] The World's Strongest Witch - S01E06 [English Dub] [CR WEB...` | **1385.31 MB** | [🌐 Tosho](https://animetosho.net/view/707708) • [🐱 Nyaa](https://nyaa.si/view/2190508) |
-| `[Yameii] Sasaki and Peeps - S02E06 [English Dub] [CR WEB-DL 1080p H...` | **1384.65 MB** | [🌐 Tosho](https://animetosho.net/view/707704) • [🐱 Nyaa](https://nekobt.to/torrents/15351562425355) |
-| `[Yameii] Magic Knight Rayearth (2026) - S01E06 [English Dub] [CR WE...` | **1353.95 MB** | [🌐 Tosho](https://animetosho.net/view/707705) • [🐱 Nyaa](https://nekobt.to/torrents/15351561647373) |
-| `[Yameii] The Detective Is Already Dead - S02E06 [English Dub] [CR W...` | **1385.52 MB** | [🌐 Tosho](https://animetosho.net/view/707706) • [🐱 Nyaa](https://nekobt.to/torrents/15351560961546) |
-| `[Yameii] The Prince of Tennis II - S05E07 [English Dub] [CR WEB-DL ...` | **1382.62 MB** | [🌐 Tosho](https://animetosho.net/view/707707) • [🐱 Nyaa](https://nekobt.to/torrents/15351555530497) |
-| `[Yameii] A Returner's Magic Should Be Special - S02E08 [English Dub...` | **1383.87 MB** | [🌐 Tosho](https://animetosho.net/view/707702) • [🐱 Nyaa](https://nekobt.to/torrents/15351554430467) |
-| `[Yameii] Saga of Tanya the Evil - S02E12 [English Dub] [CR WEB-DL 1...` | **1380.69 MB** | [🌐 Tosho](https://animetosho.net/view/707703) • [🐱 Nyaa](https://nekobt.to/torrents/15351553117954) |
-| `[FoundYears] Reincarnated as a Sword - S02E04 v2 (ADN WEB-DL 1080p ...` | **1138.32 MB** | [🌐 Tosho](https://animetosho.net/view/707694) • [🐱 Nyaa](https://nekobt.to/torrents/15351141226247) |
-| `[Spartanoah] The Detective is Already Dead - S02E08 [1080p CR WEB-D...` | **1412.21 MB** | [🌐 Tosho](https://animetosho.net/view/707693) • [🐱 Nyaa](https://nekobt.to/torrents/15350664829711) |
-| `[Headpatter] Banana Fish Season 1 (BD 1080p HEVC 10-bit Opus) [Dual...` | **84461.18 MB** | [🌐 Tosho](https://animetosho.net/view/707692) • [🐱 Nyaa](https://nekobt.to/torrents/15350632339462) |
-| `[Anarchy] Kusuriya no Hitorigoto - 56 (WEB 1080p).mkv` | **2187.06 MB** | [🌐 Tosho](https://animetosho.net/view/707691) • [🐱 Nyaa](https://nekobt.to/torrents/15350550752260) |
-| `[Spartanoah] The Detective is Already Dead - S02E06 [1080p CR WEB-D...` | **1451.20 MB** | [🌐 Tosho](https://animetosho.net/view/707688) • [🐱 Nyaa](https://nekobt.to/torrents/15349377033735) |
-| `[FoundYears] Nia Liston - The Merciless Maiden - S01E02 (1080p HEVC...` | **1031.98 MB** | [🌐 Tosho](https://animetosho.net/view/707685) • [🐱 Nyaa](https://nekobt.to/torrents/15348437997070) |
-| `[FoundYears] Reincarnated as a Sword - S02E06 (ADN WEB-DL 1080p AVC...` | **796.12 MB** | [🌐 Tosho](https://animetosho.net/view/707684) • [🐱 Nyaa](https://nekobt.to/torrents/15348396375820) |
+| `[Yameii] FX Fighter Kurumi-chan - S01E09 [English Dub] [CR WEB-DL 1...` | **1385.99 MB** | [🌐 Tosho](https://animetosho.net/view/707758) • [🐱 Nyaa](https://nekobt.to/torrents/15361836670984) |
+| `Fool Night S01 MULTi AD 1080p NF WEB-DL DDP5.1 x264-Tsundere-Raws (...` | **14779.86 MB** | [🌐 Tosho](https://animetosho.net/view/707756) • [🐱 Nyaa](https://nekobt.to/torrents/15361772342533) |
+| `[AnoZu] FX Fighter Kurumi-chan S01E09 1080p CR WEB-DL Dual-Audio DD...` | **1451.03 MB** | [🌐 Tosho](https://animetosho.net/view/707755) • [🐱 Nyaa](https://nekobt.to/torrents/15361758226177) |
+| `[ToonsHub] FX Fighter Kurumi-chan S01E09 1080p CR WEB-DL DUAL AAC2....` | **1462.19 MB** | [🌐 Tosho](https://animetosho.net/view/707754) • [🐱 Nyaa](https://nekobt.to/torrents/15361742341382) |
+| `[VARYG] FX Fighter Kurumi chan S01E09 Please Cap the Interest Rate ...` | **1442.78 MB** | [🌐 Tosho](https://animetosho.net/view/707752) • [🐱 Nyaa](https://nekobt.to/torrents/15361729994759) |
+| `FX Fighter Kurumi chan S01E09 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264...` | **1385.55 MB** | [🌐 Tosho](https://animetosho.net/view/707753) • [🐱 Nyaa](https://nekobt.to/torrents/15361729227014) |
+| `[SubsPlease] FX Senshi Kurumi-chan - 09 (1080p) [842F46F8].mkv` | **1384.46 MB** | [🌐 Tosho](https://animetosho.net/view/707748) • [🐱 Nyaa](https://nyaa.si/view/2190580) |
+| `[Erai-raws] FX Senshi Kurumi-chan - 09 [1080p CR WEB-DL AVC AAC][Mu...` | **1391.14 MB** | [🌐 Tosho](https://animetosho.net/view/707744) • [🐱 Nyaa](https://nyaa.si/view/2190575) |
+| `Fool Night S01 MULTi AD 1080p NF WEB-DL DDP5.1 HDR10P AV1-Tsundere-...` | **11709.20 MB** | [🌐 Tosho](https://animetosho.net/view/707745) • [🐱 Nyaa](https://nekobt.to/torrents/15361694433028) |
+| `Fool Night S01 MULTi AD 1080p NF WEB-DL DDP5.1 H.265-Tsundere-Raws ...` | **6590.58 MB** | [🌐 Tosho](https://animetosho.net/view/707743) • [🐱 Nyaa](https://nekobt.to/torrents/15361642813700) |
+| `Fool Night S01 MULTi AD 1080p NF WEB-DL DDP5.1 DV HDR10 H.265-Tsund...` | **9194.06 MB** | [🌐 Tosho](https://animetosho.net/view/707742) • [🐱 Nyaa](https://nekobt.to/torrents/15361600342794) |
+| `Fool Night S01 MULTi AD 1080p NF WEB-DL DDP5.1 AV1-Tsundere-Raws (V...` | **6148.48 MB** | [🌐 Tosho](https://animetosho.net/view/707741) • [🐱 Nyaa](https://nekobt.to/torrents/15361560597262) |
+| `[Shridhuu][1080p] Battle Through the Heavens Movie - Battle of the ...` | **2504.93 MB** | [🌐 Tosho](https://animetosho.net/view/707738) • [🐱 Nyaa](https://nyaa.si/view/2190559) |
+| `[Shridhuu][1080p HBR] Battle Through the Heavens Movie - Battle of ...` | **4993.61 MB** | [🌐 Tosho](https://animetosho.net/view/707739) • [🐱 Nyaa](https://nyaa.si/view/2190558) |
+| `[VARYG] Fool Night S01 1080p NF WEB-DL MULTi DDP5.1 H (Multi-Subs)` | **32014.48 MB** | [🌐 Tosho](https://animetosho.net/view/707737) • [🐱 Nyaa](https://nekobt.to/torrents/15360471455496) |
 
 ---
 <div align="center">
