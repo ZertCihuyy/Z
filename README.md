@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-04.58.30_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.00.09_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[ToonsHub] The Ramparts of Ice S02E08 1080p DSNP WEB-DL DUAL DDP2.0...` | **785.10 MB** | [🌐 Tosho](https://animetosho.net/view/707879) • [🐱 Nyaa](https://nyaa.si/view/2190750) |
-| `[ToonsHub] Psychic Wars (1991) 1080p AMZN WEB-DL DUAL DDP2.0 H.264 ...` | **1956.34 MB** | [🌐 Tosho](https://animetosho.net/view/707878) • [🐱 Nyaa](https://nekobt.to/torrents/15370045432325) |
-| `[ToonsHub] Psychic Wars (1991) 1080p AMZN WEB-DL DUAL DDP2.0 H.264 ...` | **1956.11 MB** | [🌐 Tosho](https://animetosho.net/view/707877) • [🐱 Nyaa](https://nekobt.to/torrents/15369941831178) |
-| `[Anime Time] Dragon Ball Super Beerus - S01E03 [1080p][HEVC 10bit x...` | **654.33 MB** | [🌐 Tosho](https://animetosho.net/view/707876) • [🐱 Nyaa](https://nyaa.si/view/2190747) |
-| `[Polarwindz] Cosmic Princess Kaguya! (Chou Kaguya-hime!) (BD 1080p ...` | **23021.60 MB** | [🌐 Tosho](https://animetosho.net/view/707875) • [🐱 Nyaa](https://nyaa.si/view/2190746) |
-| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E05 [1080p WEB-DL x265] ...` | **343.69 MB** | [🌐 Tosho](https://animetosho.net/view/707874) • [🐱 Nyaa](https://animetosho.net/view/707874) |
-| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E04 [1080p WEB-DL x265] ...` | **326.75 MB** | [🌐 Tosho](https://animetosho.net/view/707873) • [🐱 Nyaa](https://animetosho.net/view/707873) |
-| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E03 [1080p WEB-DL x265] ...` | **314.84 MB** | [🌐 Tosho](https://animetosho.net/view/707872) • [🐱 Nyaa](https://animetosho.net/view/707872) |
-| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E02 [1080p WEB-DL x265] ...` | **307.29 MB** | [🌐 Tosho](https://animetosho.net/view/707871) • [🐱 Nyaa](https://animetosho.net/view/707871) |
-| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E01 [1080p WEB-DL x265] ...` | **314.21 MB** | [🌐 Tosho](https://animetosho.net/view/707870) • [🐱 Nyaa](https://animetosho.net/view/707870) |
-| `[Headpatter] Minami Kamakura High School Girls Cycling Club Season ...` | **76706.27 MB** | [🌐 Tosho](https://animetosho.net/view/707868) • [🐱 Nyaa](https://nekobt.to/torrents/15368364887055) |
-| `[DKB] Hyouken no Majutsushi ga Sekai wo Suberu - S02E08 [1080p][HEV...` | **276.88 MB** | [🌐 Tosho](https://animetosho.net/view/707869) • [🐱 Nyaa](https://nyaa.si/view/2190741) |
-| `[Erai-raws] Fool Night - 01 ~ 12 [1080p NF WEB-DL HEVC EAC3][MultiS...` | **4226.25 MB** | [🌐 Tosho](https://animetosho.net/view/707865) • [🐱 Nyaa](https://nekobt.to/torrents/15368201044233) |
-| `[Erai-raws] Fool Night - 01 ~ 12 [1080p NF WEB-DL AVC EAC3][MultiSu...` | **12415.63 MB** | [🌐 Tosho](https://animetosho.net/view/707867) • [🐱 Nyaa](https://nekobt.to/torrents/15368198311432) |
-| `[AnoZu] Dragon Ball Super: Beerus S01E03 1080p CR WEB-DL Dual-Audio...` | **1432.72 MB** | [🌐 Tosho](https://animetosho.net/view/707864) • [🐱 Nyaa](https://nekobt.to/torrents/15368152701444) |
+| `[Headpatter] Kiznaiver Season 1 (BD 1080p x264 10-bit Opus) [Dual A...` | **14935.75 MB** | [🌐 Tosho](https://animetosho.net/view/707903) • [🐱 Nyaa](https://nekobt.to/torrents/15375802296842) |
+| `[Headpatter] Kiznaiver Season 1 (BD 1080p HEVC 10-bit Opus) [Dual A...` | **36386.52 MB** | [🌐 Tosho](https://animetosho.net/view/707902) • [🐱 Nyaa](https://nekobt.to/torrents/15375634611457) |
+| `Medaka.Kuroiwa.is.Impervious.to.My.Charms.S01.1080p.BluRay.REMUX.AV...` | **79583.90 MB** | [🌐 Tosho](https://animetosho.net/view/707901) • [🐱 Nyaa](https://nyaa.si/view/2190777) |
+| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **214.16 MB** | [🌐 Tosho](https://animetosho.net/view/707900) • [🐱 Nyaa](https://nyaa.si/view/2190769) |
+| `[ToonsHub] KAMUI Hes Behind You S01E11 1080p UNCENSORED AMZN WEB-DL...` | **540.15 MB** | [🌐 Tosho](https://animetosho.net/view/707899) • [🐱 Nyaa](https://nekobt.to/torrents/15373557923848) |
+| `[ToonsHub] Magical Girl Raising Project Restart S01E08 1080p AMZN W...` | **1325.56 MB** | [🌐 Tosho](https://animetosho.net/view/707898) • [🐱 Nyaa](https://nekobt.to/torrents/15373524791303) |
+| `[TSPlease] The Ramparts of Ice S02E06 1080p DSNP WEB-DL DUAL DDP2.0...` | **865.27 MB** | [🌐 Tosho](https://animetosho.net/view/707894) • [🐱 Nyaa](https://nekobt.to/torrents/15372019987723) |
+| `[FoundYears] Dragon Ball Super：Beerus - S01E03 (1080p AVC E-AC3) [D...` | **1951.52 MB** | [🌐 Tosho](https://animetosho.net/view/707890) • [🐱 Nyaa](https://nekobt.to/torrents/15371357154573) |
+| `[ToonsHub] Twilight of the Dark Master (1997) 1080p AMZN WEB-DL DDP...` | **1338.57 MB** | [🌐 Tosho](https://animetosho.net/view/707889) • [🐱 Nyaa](https://nyaa.si/view/2190756) |
+| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E08 [1080p WEB-DL x265] ...` | **302.90 MB** | [🌐 Tosho](https://animetosho.net/view/707888) • [🐱 Nyaa](https://animetosho.net/view/707888) |
+| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E07 [1080p WEB-DL x265] ...` | **320.97 MB** | [🌐 Tosho](https://animetosho.net/view/707887) • [🐱 Nyaa](https://animetosho.net/view/707887) |
+| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E06 [1080p WEB-DL x265] ...` | **325.67 MB** | [🌐 Tosho](https://animetosho.net/view/707886) • [🐱 Nyaa](https://animetosho.net/view/707886) |
+| `[ToonsHub] Psycho Diver Soul Siren (1997) 1080p AMZN WEB-DL DDP2.0 ...` | **1156.14 MB** | [🌐 Tosho](https://animetosho.net/view/707885) • [🐱 Nyaa](https://nekobt.to/torrents/15371067891722) |
+| `[GALUMIS] Nia Liston - S01E08 [1080P][ESP]` | **294.78 MB** | [🌐 Tosho](https://animetosho.net/view/707884) • [🐱 Nyaa](https://nyaa.si/view/2190754) |
+| `[ToonsHub] Vampire Wars (1990) REPACK 1080p AMZN WEB-DL DUAL DDP2.0...` | **1628.31 MB** | [🌐 Tosho](https://animetosho.net/view/707883) • [🐱 Nyaa](https://nekobt.to/torrents/15370913698830) |
 
 ---
 <div align="center">
