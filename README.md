@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.00.09_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-20.42.53_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Headpatter] Kiznaiver Season 1 (BD 1080p x264 10-bit Opus) [Dual A...` | **14935.75 MB** | [🌐 Tosho](https://animetosho.net/view/707903) • [🐱 Nyaa](https://nekobt.to/torrents/15375802296842) |
-| `[Headpatter] Kiznaiver Season 1 (BD 1080p HEVC 10-bit Opus) [Dual A...` | **36386.52 MB** | [🌐 Tosho](https://animetosho.net/view/707902) • [🐱 Nyaa](https://nekobt.to/torrents/15375634611457) |
-| `Medaka.Kuroiwa.is.Impervious.to.My.Charms.S01.1080p.BluRay.REMUX.AV...` | **79583.90 MB** | [🌐 Tosho](https://animetosho.net/view/707901) • [🐱 Nyaa](https://nyaa.si/view/2190777) |
-| `[Kotobuki] Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Muso...` | **214.16 MB** | [🌐 Tosho](https://animetosho.net/view/707900) • [🐱 Nyaa](https://nyaa.si/view/2190769) |
-| `[ToonsHub] KAMUI Hes Behind You S01E11 1080p UNCENSORED AMZN WEB-DL...` | **540.15 MB** | [🌐 Tosho](https://animetosho.net/view/707899) • [🐱 Nyaa](https://nekobt.to/torrents/15373557923848) |
-| `[ToonsHub] Magical Girl Raising Project Restart S01E08 1080p AMZN W...` | **1325.56 MB** | [🌐 Tosho](https://animetosho.net/view/707898) • [🐱 Nyaa](https://nekobt.to/torrents/15373524791303) |
-| `[TSPlease] The Ramparts of Ice S02E06 1080p DSNP WEB-DL DUAL DDP2.0...` | **865.27 MB** | [🌐 Tosho](https://animetosho.net/view/707894) • [🐱 Nyaa](https://nekobt.to/torrents/15372019987723) |
-| `[FoundYears] Dragon Ball Super：Beerus - S01E03 (1080p AVC E-AC3) [D...` | **1951.52 MB** | [🌐 Tosho](https://animetosho.net/view/707890) • [🐱 Nyaa](https://nekobt.to/torrents/15371357154573) |
-| `[ToonsHub] Twilight of the Dark Master (1997) 1080p AMZN WEB-DL DDP...` | **1338.57 MB** | [🌐 Tosho](https://animetosho.net/view/707889) • [🐱 Nyaa](https://nyaa.si/view/2190756) |
-| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E08 [1080p WEB-DL x265] ...` | **302.90 MB** | [🌐 Tosho](https://animetosho.net/view/707888) • [🐱 Nyaa](https://animetosho.net/view/707888) |
-| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E07 [1080p WEB-DL x265] ...` | **320.97 MB** | [🌐 Tosho](https://animetosho.net/view/707887) • [🐱 Nyaa](https://animetosho.net/view/707887) |
-| `[ItaRemuxxer] Kyouran Reijou Nia Liston S01E06 [1080p WEB-DL x265] ...` | **325.67 MB** | [🌐 Tosho](https://animetosho.net/view/707886) • [🐱 Nyaa](https://animetosho.net/view/707886) |
-| `[ToonsHub] Psycho Diver Soul Siren (1997) 1080p AMZN WEB-DL DDP2.0 ...` | **1156.14 MB** | [🌐 Tosho](https://animetosho.net/view/707885) • [🐱 Nyaa](https://nekobt.to/torrents/15371067891722) |
-| `[GALUMIS] Nia Liston - S01E08 [1080P][ESP]` | **294.78 MB** | [🌐 Tosho](https://animetosho.net/view/707884) • [🐱 Nyaa](https://nyaa.si/view/2190754) |
-| `[ToonsHub] Vampire Wars (1990) REPACK 1080p AMZN WEB-DL DUAL DDP2.0...` | **1628.31 MB** | [🌐 Tosho](https://animetosho.net/view/707883) • [🐱 Nyaa](https://nekobt.to/torrents/15370913698830) |
+| `Futsutsuka.na.Akujo.de.wa.Gozaimasu.ga.Suuguu.Chouso.Torikae.Den.20...` | **1862.23 MB** | [🌐 Tosho](https://animetosho.net/view/707946) • [🐱 Nyaa](https://nyaa.si/view/2190863) |
+| `[LbE3L] Overgeared S01E09 [1080p CUSTOM WEBRip AV1 Opus 2.0 Multi-A...` | **682.74 MB** | [🌐 Tosho](https://animetosho.net/view/707945) • [🐱 Nyaa](https://nekobt.to/torrents/15384657401858) |
+| `[LbE3L] Overgeared S01E08 [1080p CUSTOM WEBRip AV1 Opus 2.0 Multi-A...` | **674.42 MB** | [🌐 Tosho](https://animetosho.net/view/707944) • [🐱 Nyaa](https://nekobt.to/torrents/15384607075848) |
+| `[LeoSubs] My Senior Brother is Too Steady - Final Episode 169 - 108...` | **998.54 MB** | [🌐 Tosho](https://animetosho.net/view/707942) • [🐱 Nyaa](https://nyaa.si/view/2190852) |
+| `[Onalrie] Demons Crest - S01E05 [1080p WEBRip AV1]` | **253.71 MB** | [🌐 Tosho](https://animetosho.net/view/707941) • [🐱 Nyaa](https://onalrie.app/torrent/d1aa34a5-4583-4bd8-8295-a1b00e809fca) |
+| `[Erai-raws] Devils' Crest - 05 [1080p AMZN WEB-DL AVC EAC3][MultiSu...` | **631.30 MB** | [🌐 Tosho](https://animetosho.net/view/707938) • [🐱 Nyaa](https://nekobt.to/torrents/15383641391369) |
+| `[Erai-raws] JoJo no Kimyou na Bouken: Steel Ball Run - 11 [1080p NF...` | **486.37 MB** | [🌐 Tosho](https://animetosho.net/view/707937) • [🐱 Nyaa](https://nekobt.to/torrents/15383590413056) |
+| `Devils Crest S01E05 Devil 1080p AMZN WEB-DL MULTi DDP2.0 H.264-VARY...` | **1069.11 MB** | [🌐 Tosho](https://animetosho.net/view/707936) • [🐱 Nyaa](https://nyaa.si/view/2190843) |
+| `Devils Crest S01E05 Devil 1080p AMZN WEB-DL DUAL DDP2.0 H.264-VARYG...` | **670.45 MB** | [🌐 Tosho](https://animetosho.net/view/707935) • [🐱 Nyaa](https://nyaa.si/view/2190842) |
+| `[SubsNoJutsu] Shangri-La Frontier - S01E22 (1080p BD x265 OPUS) [B7...` | **628.81 MB** | [🌐 Tosho](https://animetosho.net/view/707934) • [🐱 Nyaa](https://nekobt.to/torrents/15383426767104) |
+| `[ToonsHub] Devils Crest S01E05 1080p AMZN WEB-DL MULTi DDP2.0 H.264...` | **1069.09 MB** | [🌐 Tosho](https://animetosho.net/view/707933) • [🐱 Nyaa](https://nekobt.to/torrents/15383405350150) |
+| `[ToonsHub] Devils Crest S01E05 1080p AMZN WEB-DL DUAL DDP2.0 H.264 ...` | **670.44 MB** | [🌐 Tosho](https://animetosho.net/view/707932) • [🐱 Nyaa](https://nekobt.to/torrents/15383379460879) |
+| `[ToonsHub] Devils Crest S01E05 1080p AMZN WEB-DL DUAL DDP2.0 H.265 ...` | **327.70 MB** | [🌐 Tosho](https://animetosho.net/view/707931) • [🐱 Nyaa](https://nekobt.to/torrents/15383369704707) |
+| `[Onalrie] JoJo no Kimyou na Bouken Steel Ball Run - E11 [1080p WEBR...` | **395.90 MB** | [🌐 Tosho](https://animetosho.net/view/707930) • [🐱 Nyaa](https://www.tokyotosho.info/details.php?id=2154012) |
+| `[Erai-raws] JoJo no Kimyou na Bouken: Steel Ball Run - 11 [1080p NF...` | **893.37 MB** | [🌐 Tosho](https://animetosho.net/view/707929) • [🐱 Nyaa](https://nekobt.to/torrents/15382450343174) |
 
 ---
 <div align="center">
