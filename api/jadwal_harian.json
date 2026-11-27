@@ -1,68 +1,32 @@
 {
-  "last_update": "27/11/2026, 20.42.53",
-  "hari": "Jumat",
+  "last_update": "28/11/2026, 05.22.38",
+  "hari": "Sabtu",
   "data": [
     {
-      "airingAt": 1795740600,
+      "airingAt": 1795820400,
       "media": {
-        "id": 217577,
+        "id": 214703,
         "title": {
-          "romaji": "Mazenchu"
+          "romaji": "Ghost Meets Gal!"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214703-iXoaVH6UkiZd.png"
         },
         "genres": [
-          "Slice of Life"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795752000,
-      "media": {
-        "id": 206244,
-        "title": {
-          "romaji": "Luo Xiaohei Zhan Ji: Xue Qian Pian"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206244-ke6bcfsL40qY.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
           "Comedy",
-          "Supernatural"
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1795766400,
+      "airingAt": 1795822200,
       "media": {
-        "id": 210482,
+        "id": 212308,
         "title": {
-          "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE"
+          "romaji": "Pan no Akachan (TV)"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Mystery",
-          "Supernatural"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795772400,
-      "media": {
-        "id": 194207,
-        "title": {
-          "romaji": "Pan Dorobou"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg"
         },
         "genres": [
           "Comedy"
@@ -70,185 +34,215 @@
       }
     },
     {
-      "airingAt": 1795773300,
+      "airingAt": 1795825560,
       "media": {
-        "id": 158871,
+        "id": 183231,
         "title": {
-          "romaji": "Pocket Monsters (2023)"
+          "romaji": "Rilakkuma"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
         },
         "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795773600,
-      "media": {
-        "id": 146004,
-        "title": {
-          "romaji": "Girigiri Warukunai Watame"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146004-hH08KAB1yHlN.png"
-        },
-        "genres": [
-          "Comedy",
+          "Fantasy",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1795773600,
+      "airingAt": 1795825800,
       "media": {
-        "id": 165159,
+        "id": 214968,
         "title": {
-          "romaji": "BEYBLADE X"
+          "romaji": "Nezumi-kun no Chokki (TV) 2nd Season"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214968-rrPSP2nKF40C.jpg"
         },
         "genres": [
-          "Action",
-          "Adventure",
-          "Sports"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795780800,
-      "media": {
-        "id": 203275,
-        "title": {
-          "romaji": "Demons' Crest"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
           "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1795782300,
+      "airingAt": 1795825800,
       "media": {
-        "id": 216895,
+        "id": 216557,
         "title": {
-          "romaji": "Aoki Denshou: Welsh & Shedar"
+          "romaji": "Keroro Gunsou☆"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-b72dAqbVEDO7.jpg"
         },
         "genres": [
-          "Adventure",
-          "Fantasy"
-        ]
-      }
-    },
-    {
-      "airingAt": 1795786200,
-      "media": {
-        "id": 186742,
-        "title": {
-          "romaji": "Toaru Anbu no ITEM"
-        },
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
-        },
-        "genres": [
-          "Action",
+          "Comedy",
           "Sci-Fi"
         ]
       }
     },
     {
-      "airingAt": 1795788000,
+      "airingAt": 1795827600,
       "media": {
-        "id": 195516,
+        "id": 214260,
         "title": {
-          "romaji": "Kusuriya no Hitorigoto 3rd Season"
+          "romaji": "Zeri Feisheng"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214260-m2fg5OwduwSt.jpg"
         },
         "genres": [
-          "Drama",
-          "Mystery"
+          "Action",
+          "Adventure",
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1795789800,
+      "airingAt": 1795831200,
       "media": {
-        "id": 205909,
+        "id": 137683,
         "title": {
-          "romaji": "Hotaru no Yomeiri"
+          "romaji": "Douluo Dalu 2: Jueshi Tangmen"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png"
         },
         "genres": [
-          "Drama",
+          "Action",
+          "Adventure",
+          "Fantasy",
           "Romance"
         ]
       }
     },
     {
-      "airingAt": 1795789800,
+      "airingAt": 1795831200,
       "media": {
-        "id": 204650,
+        "id": 199353,
         "title": {
-          "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen"
+          "romaji": "Dawang Raoming 3"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199353-S2jczHjCWHGL.png"
         },
         "genres": [
           "Action",
-          "Mystery",
-          "Supernatural"
+          "Fantasy"
         ]
       }
     },
     {
-      "airingAt": 1795791600,
+      "airingAt": 1795834800,
       "media": {
-        "id": 203490,
+        "id": 202851,
         "title": {
-          "romaji": "Uchi no Otouto-domo ga Sumimasen"
+          "romaji": "Fanren Xiu Xian Zhuan Di Wu Ji"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202851-iHwg4I1NdfMx.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795850940,
+      "media": {
+        "id": 209709,
+        "title": {
+          "romaji": "Sirotan"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png"
+        },
+        "genres": []
+      }
+    },
+    {
+      "airingAt": 1795851000,
+      "media": {
+        "id": 966,
+        "title": {
+          "romaji": "Crayon Shin-chan"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg"
         },
         "genres": [
           "Comedy",
-          "Romance",
+          "Ecchi",
           "Slice of Life"
         ]
       }
     },
     {
-      "airingAt": 1795796580,
+      "airingAt": 1795852800,
       "media": {
-        "id": 178083,
+        "id": 8687,
         "title": {
-          "romaji": "Tokyo Revengers: Santen Sensou-hen"
+          "romaji": "Doraemon (2005)"
         },
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg"
+        },
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Sci-Fi"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795854600,
+      "media": {
+        "id": 195571,
+        "title": {
+          "romaji": "Shuiro no Kamen"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195571-fvj7u5GI7BRT.jpg"
         },
         "genres": [
           "Action",
           "Drama",
-          "Romance",
           "Supernatural"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795857900,
+      "media": {
+        "id": 212799,
+        "title": {
+          "romaji": "Marronnier Oukoku no Shichinin no Kishi"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212799-n7WDdic7IL1z.png"
+        },
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "airingAt": 1795867200,
+      "media": {
+        "id": 180894,
+        "title": {
+          "romaji": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png"
+        },
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
         ]
       }
     }
