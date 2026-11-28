@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-11.04.23_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-19.54.08_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[Gremlin] Toaru Anbu no ITEM - 08 [1080p]` | **301.34 MB** | [🌐 Tosho](https://animetosho.net/view/708135) • [🐱 Nyaa](https://nyaa.si/view/2191141) |
-| `[Headpatter] A Certain Magical Index: The Miracle of Endymion (2013...` | **7635.64 MB** | [🌐 Tosho](https://animetosho.net/view/708134) • [🐱 Nyaa](https://nekobt.to/torrents/15397909496588) |
-| `Ninjala S01E243 (WEBDL 1080p x264 AAC) [S1PH3R]` | **699.33 MB** | [🌐 Tosho](https://animetosho.net/view/708131) • [🐱 Nyaa](https://nyaa.si/view/2191140) |
-| `Cardfight!! Vanguard 15th Anniversary Remastered S01E25 (WEBDL 1080...` | **774.92 MB** | [🌐 Tosho](https://animetosho.net/view/708132) • [🐱 Nyaa](https://nyaa.si/view/2191139) |
-| `Ghost Meets Gal! S01E09 (WEBDL 1080p x264 AAC) [S1PH3R]` | **60.14 MB** | [🌐 Tosho](https://animetosho.net/view/708133) • [🐱 Nyaa](https://nyaa.si/view/2191138) |
-| `[Gecko] Please Excuse My Younger Brothers - S01E21 (うちの弟どもがすみません; U...` | **703.04 MB** | [🌐 Tosho](https://animetosho.net/view/708130) • [🐱 Nyaa](https://nekobt.to/torrents/15397762376192) |
-| `[Some-Stuffs] Pocket Monsters (2023) 159 (1080p HEVC 10-bit) [61A20...` | **1290.05 MB** | [🌐 Tosho](https://animetosho.net/view/708128) • [🐱 Nyaa](https://nyaa.si/view/2191134) |
-| `[Some-Stuffs] Pocket Monsters (2023) 159 (1080p) [EADEF18B]` | **539.31 MB** | [🌐 Tosho](https://animetosho.net/view/708129) • [🐱 Nyaa](https://nyaa.si/view/2191133) |
-| `[ToonsHub] Hands off Sawaranaide Kotesashi-kun S01E01 REPACK 1080p ...` | **716.22 MB** | [🌐 Tosho](https://animetosho.net/view/708127) • [🐱 Nyaa](https://nekobt.to/torrents/15396816345600) |
-| `[ToonsHub] Hands off Sawaranaide Kotesashi-kun S01E01 1080p UNCENSO...` | **716.02 MB** | [🌐 Tosho](https://animetosho.net/view/708126) • [🐱 Nyaa](https://nekobt.to/torrents/15396426521871) |
-| `RILAKKUMA S01E34 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **88.19 MB** | [🌐 Tosho](https://animetosho.net/view/708125) • [🐱 Nyaa](https://nekobt.to/torrents/15396309196047) |
-| `[Gecko] Spare Me, Great Lord! - S03E11 (大王饶命; Da Wang Rao Ming 3; M...` | **130.60 MB** | [🌐 Tosho](https://animetosho.net/view/708122) • [🐱 Nyaa](https://nekobt.to/torrents/15396287316239) |
-| `[ToonsHub] Spare Me Great Lord S03E11 1080p IVI WEB-DL AAC2.0 H.264...` | **413.02 MB** | [🌐 Tosho](https://animetosho.net/view/708119) • [🐱 Nyaa](https://nekobt.to/torrents/15396270412814) |
-| `[ToonsHub] A Good Day to Ascend S01E22 1080p iQ WEB-DL AAC2.0 H.264...` | **406.88 MB** | [🌐 Tosho](https://animetosho.net/view/708120) • [🐱 Nyaa](https://nekobt.to/torrents/15396268111118) |
-| `[ToonsHub] RILAKKUMA S01E34 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **92.58 MB** | [🌐 Tosho](https://animetosho.net/view/708118) • [🐱 Nyaa](https://nekobt.to/torrents/15396262329353) |
+| `[SubsNoJutsu] Shangri-La Frontier - S01E23 (1080p BD x265 OPUS) [C2...` | **622.28 MB** | [🌐 Tosho](https://animetosho.net/view/708172) • [🐱 Nyaa](https://nekobt.to/torrents/15406252066056) |
+| `[LeoSubs] The Great Ruler - Episode 101 - 1080p HEVC 10Bit HBR - 60...` | **1044.44 MB** | [🌐 Tosho](https://animetosho.net/view/708171) • [🐱 Nyaa](https://nyaa.si/view/2191216) |
+| `[ToonsHub] Romelia War Chronicle S01E09 1080p NF WEB-DL AAC2.0 H.264` | **865.09 MB** | [🌐 Tosho](https://animetosho.net/view/708170) • [🐱 Nyaa](https://nekobt.to/torrents/15405482026760) |
+| `[Doomdos] - Da Zhuzai - S01E101 [1080p IQ WEB-DL] [The Great Ruler]` | **463.70 MB** | [🌐 Tosho](https://animetosho.net/view/708168) • [🐱 Nyaa](https://nyaa.si/view/2191203) |
+| `[Anime Chap] JoJo's Bizarre Adventure Part 7: Steel Ball Run S06E11...` | **899.35 MB** | [🌐 Tosho](https://animetosho.net/view/708167) • [🐱 Nyaa](https://nyaa.si/view/2191198) |
+| `[ASW] Shuiro no Kamen - 08 [1080p HEVC x265 10Bit][AAC]` | **527.71 MB** | [🌐 Tosho](https://animetosho.net/view/708165) • [🐱 Nyaa](https://nyaa.si/view/2191193) |
+| `[Onalrie] Shuiro no Kamen - S01E08 [1080p WEBRip AV1]` | **334.33 MB** | [🌐 Tosho](https://animetosho.net/view/708164) • [🐱 Nyaa](https://onalrie.app/torrent/80816a6e-216d-4550-8612-8aad69e7bbca) |
+| `[Doomdos] - Shuiro no Kamen - S01E08 [1080p IQ WEB-DL] [The Vermili...` | **323.51 MB** | [🌐 Tosho](https://animetosho.net/view/708162) • [🐱 Nyaa](https://nyaa.si/view/2191178) |
+| `The Vermilion Mask S01E05 MULTi AD 1080p CR WEB-DL AAC2.0 x264-Tsun...` | **1459.95 MB** | [🌐 Tosho](https://animetosho.net/view/708161) • [🐱 Nyaa](https://nekobt.to/torrents/15403258147077) |
+| `The Vermilion Mask S01E08 SUBFRENCH 1080p CR WEB-DL AAC2.0 H.264-Ts...` | **1192.19 MB** | [🌐 Tosho](https://animetosho.net/view/708159) • [🐱 Nyaa](https://nekobt.to/torrents/15403211185925) |
+| `[AnoZu] The Vermilion Mask S01E08 1080p CR WEB-DL AAC 2.0 H.264` | **1212.69 MB** | [🌐 Tosho](https://animetosho.net/view/708157) • [🐱 Nyaa](https://nekobt.to/torrents/15403203917060) |
+| `[SubsPlease] Shuiro no Kamen - 08 (1080p) [D2493D09].mkv` | **1197.87 MB** | [🌐 Tosho](https://animetosho.net/view/708155) • [🐱 Nyaa](https://nyaa.si/view/2191172) |
+| `[ToonsHub] The Vermilion Mask S01E08 1080p CR WEB-DL AAC2.0 H.264 (...` | **1235.33 MB** | [🌐 Tosho](https://animetosho.net/view/708154) • [🐱 Nyaa](https://nekobt.to/torrents/15403180573955) |
+| `[Erai-raws] Shuiro no Kamen - 08 [1080p CR WEB-DL AVC AAC][MultiSub...` | **1219.45 MB** | [🌐 Tosho](https://animetosho.net/view/708150) • [🐱 Nyaa](https://nekobt.to/torrents/15403174097410) |
+| `[RUBaDUB] DEVILMAN crybaby (Complete) (1080p) (Dual Audio)` | **8033.47 MB** | [🌐 Tosho](https://animetosho.net/view/708149) • [🐱 Nyaa](https://nyaa.si/view/2191163) |
 
 ---
 <div align="center">
