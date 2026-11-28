@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 Zert's Anime & Torrent Tracker
-![Update](https://img.shields.io/badge/Last_Sync-05.22.38_WIB-00ffff?style=for-the-badge&logo=github)
+![Update](https://img.shields.io/badge/Last_Sync-11.04.23_WIB-00ffff?style=for-the-badge&logo=github)
 
 **[ 🏠 Beranda ](README.md) • [ 🏆 Top 10 Anime ](TOP_ANIME.md) • [ 🌟 Ongoing Season ](ONGOING.md)**
 
@@ -33,21 +33,21 @@
 
 | Judul File | Ukuran | Link Download |
 | --- | :---: | :---: |
-| `[DKB] Tokyo Revengers: Santen Sensou-hen - S04E09 [1080p][HEVC x265...` | **733.63 MB** | [🌐 Tosho](https://animetosho.net/view/708092) • [🐱 Nyaa](https://nyaa.si/view/2191072) |
-| `[DKB] Hotaru no Yomeiri - S01E08 [1080p][HEVC x265 10bit][Multi-Sub...` | **342.64 MB** | [🌐 Tosho](https://animetosho.net/view/708091) • [🐱 Nyaa](https://nyaa.si/view/2191071) |
-| `[Piyoko] Onegai AiPri - 34 [WEB AMZN 1080p h264 AC3 2.0]` | **1021.96 MB** | [🌐 Tosho](https://animetosho.net/view/708090) • [🐱 Nyaa](https://nyaa.si/view/2191070) |
-| `[TSPlease] The Ramparts of Ice S02E07 1080p DSNP WEB-DL DUAL DDP2.0...` | **760.84 MB** | [🌐 Tosho](https://animetosho.net/view/708087) • [🐱 Nyaa](https://nekobt.to/torrents/15391452467203) |
-| `[Erai-raws] Tougen Anki: Nikko Kegon no Taki-hen - 09 [1080p CR WEB...` | **388.27 MB** | [🌐 Tosho](https://animetosho.net/view/708086) • [🐱 Nyaa](https://nekobt.to/torrents/15391368692736) |
-| `[Erai-raws] Uchi no Otouto-domo ga Sumimasen - 21 [1080p CR WEBRip ...` | **369.77 MB** | [🌐 Tosho](https://animetosho.net/view/708085) • [🐱 Nyaa](https://nekobt.to/torrents/15391176314882) |
-| `[eldon] Gunsmith Cats (1995) - S01 (BD 1080p x265 Opus 2.0) [Dual A...` | **13286.24 MB** | [🌐 Tosho](https://animetosho.net/view/708084) • [🐱 Nyaa](https://nekobt.to/torrents/15391138772481) |
-| `[ASW] Hyouken no Majutsushi ga Sekai wo Suberu S2 - 08v2 [1080p HEV...` | **246.82 MB** | [🌐 Tosho](https://animetosho.net/view/708082) • [🐱 Nyaa](https://nyaa.si/view/2191061) |
-| `[Judas] Hotaru no Yomeiri (Firefly Wedding) - S01E08 [1080p][HEVC x...` | **287.77 MB** | [🌐 Tosho](https://animetosho.net/view/708083) • [🐱 Nyaa](https://nyaa.si/view/2191060) |
-| `[FrixySubs] Highschool of the Dead - S01 [1080p BD H.264 FLAC] [Nap...` | **16103.17 MB** | [🌐 Tosho](https://animetosho.net/view/708081) • [🐱 Nyaa](https://nekobt.to/torrents/15390247566340) |
-| `[Erai-raws] Tokyo Revengers: Santen Sensou Hen - 09 [1080p DSNP WEB...` | **795.13 MB** | [🌐 Tosho](https://animetosho.net/view/708080) • [🐱 Nyaa](https://nyaa.si/view/2191059) |
-| `[SubsPlease] Hyouken no Majutsushi ga Sekai wo Suberu S2 - 08v2 (10...` | **931.00 MB** | [🌐 Tosho](https://animetosho.net/view/708078) • [🐱 Nyaa](https://nyaa.si/view/2191056) |
-| `[Judas] Tougen Anki - S02E09 [1080p][HEVC x265 10bit][Multi-Subs] (...` | **394.62 MB** | [🌐 Tosho](https://animetosho.net/view/708076) • [🐱 Nyaa](https://nyaa.si/view/2191050) |
-| `Tougen Anki S02E06 Out of Focus 1080p NF WEB-DL MULTi AAC2.0 H.264-...` | **885.13 MB** | [🌐 Tosho](https://animetosho.net/view/708075) • [🐱 Nyaa](https://nyaa.si/view/2191037) |
-| `[Bird] Cardfight!! Vanguard Divinez Unmei Seisen-hen (1080p) [Batch]` | **2703.90 MB** | [🌐 Tosho](https://animetosho.net/view/708074) • [🐱 Nyaa](https://nyaa.si/view/2191024) |
+| `[Gremlin] Toaru Anbu no ITEM - 08 [1080p]` | **301.34 MB** | [🌐 Tosho](https://animetosho.net/view/708135) • [🐱 Nyaa](https://nyaa.si/view/2191141) |
+| `[Headpatter] A Certain Magical Index: The Miracle of Endymion (2013...` | **7635.64 MB** | [🌐 Tosho](https://animetosho.net/view/708134) • [🐱 Nyaa](https://nekobt.to/torrents/15397909496588) |
+| `Ninjala S01E243 (WEBDL 1080p x264 AAC) [S1PH3R]` | **699.33 MB** | [🌐 Tosho](https://animetosho.net/view/708131) • [🐱 Nyaa](https://nyaa.si/view/2191140) |
+| `Cardfight!! Vanguard 15th Anniversary Remastered S01E25 (WEBDL 1080...` | **774.92 MB** | [🌐 Tosho](https://animetosho.net/view/708132) • [🐱 Nyaa](https://nyaa.si/view/2191139) |
+| `Ghost Meets Gal! S01E09 (WEBDL 1080p x264 AAC) [S1PH3R]` | **60.14 MB** | [🌐 Tosho](https://animetosho.net/view/708133) • [🐱 Nyaa](https://nyaa.si/view/2191138) |
+| `[Gecko] Please Excuse My Younger Brothers - S01E21 (うちの弟どもがすみません; U...` | **703.04 MB** | [🌐 Tosho](https://animetosho.net/view/708130) • [🐱 Nyaa](https://nekobt.to/torrents/15397762376192) |
+| `[Some-Stuffs] Pocket Monsters (2023) 159 (1080p HEVC 10-bit) [61A20...` | **1290.05 MB** | [🌐 Tosho](https://animetosho.net/view/708128) • [🐱 Nyaa](https://nyaa.si/view/2191134) |
+| `[Some-Stuffs] Pocket Monsters (2023) 159 (1080p) [EADEF18B]` | **539.31 MB** | [🌐 Tosho](https://animetosho.net/view/708129) • [🐱 Nyaa](https://nyaa.si/view/2191133) |
+| `[ToonsHub] Hands off Sawaranaide Kotesashi-kun S01E01 REPACK 1080p ...` | **716.22 MB** | [🌐 Tosho](https://animetosho.net/view/708127) • [🐱 Nyaa](https://nekobt.to/torrents/15396816345600) |
+| `[ToonsHub] Hands off Sawaranaide Kotesashi-kun S01E01 1080p UNCENSO...` | **716.02 MB** | [🌐 Tosho](https://animetosho.net/view/708126) • [🐱 Nyaa](https://nekobt.to/torrents/15396426521871) |
+| `RILAKKUMA S01E34 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raw...` | **88.19 MB** | [🌐 Tosho](https://animetosho.net/view/708125) • [🐱 Nyaa](https://nekobt.to/torrents/15396309196047) |
+| `[Gecko] Spare Me, Great Lord! - S03E11 (大王饶命; Da Wang Rao Ming 3; M...` | **130.60 MB** | [🌐 Tosho](https://animetosho.net/view/708122) • [🐱 Nyaa](https://nekobt.to/torrents/15396287316239) |
+| `[ToonsHub] Spare Me Great Lord S03E11 1080p IVI WEB-DL AAC2.0 H.264...` | **413.02 MB** | [🌐 Tosho](https://animetosho.net/view/708119) • [🐱 Nyaa](https://nekobt.to/torrents/15396270412814) |
+| `[ToonsHub] A Good Day to Ascend S01E22 1080p iQ WEB-DL AAC2.0 H.264...` | **406.88 MB** | [🌐 Tosho](https://animetosho.net/view/708120) • [🐱 Nyaa](https://nekobt.to/torrents/15396268111118) |
+| `[ToonsHub] RILAKKUMA S01E34 1080p CR WEB-DL DUAL AAC2.0 H.264 (Dual...` | **92.58 MB** | [🌐 Tosho](https://animetosho.net/view/708118) • [🐱 Nyaa](https://nekobt.to/torrents/15396262329353) |
 
 ---
 <div align="center">
